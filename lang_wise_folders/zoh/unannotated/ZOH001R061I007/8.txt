@@ -1,0 +1,62 @@
+\ROOT ji7tz I2, T2
+\SEMF condition
+\ASP process, transition
+\CAUS yak.ji7tz arrugar (ropa, cara,
+\date 03/Jan/80
+\lex jok
+\_no 00031
+\SPG ahumarse (se hizo con el humo)
+\ENG to smoke
+\EX
+\XSP
+\XEN
+\ROOT jok 12
+\SEMF Smoke
+\ASP process
+\CAUS yak.jok ahumar
+\date 03/Jan/80
+\lex jonh
+\_no 00032
+\SPG atarantarse; marearse
+\ENG to become dizzy
+\EX 7ichinh jonhnh@
+\XSP esta* medio atarantado
+\XEN he's a little dizzy
+\ROOT jonh 12
+\SEMF cog
+\ASP process
+\CAUS yak. jonh atorar; atarantar
+\date 03/Jan/80
+\lex ju7u
+\_no 00033
+ZOH001R0611007.txt
+\ROOT ju7u Ix
+\SEMF sound
+\SPG hacer ruido; hacer trueno; hacer sonar; retumbar; zumbar
+\ENG to make noise; to thunder; to make a sound; to rumble; to buzz
+\EX ju77upa m@y@
+\XSP hace trueno de rayo
+\XEN the thunder rumbles
+\ASP activity, process
+\CAUS yak.ju7u hacerle sonar
+\CMTS
+\date 03/Jan/80
+\lex jukuk
+\_no 00034
+...)
+\SPG molestar
+\ENG to bother
+\EX jukukk@ yo7k
+\XSP molesto* algo en la garganta
+\XEN something's bothering the throat
+\EX yo7k jukukpa
+\XSP empezo* a arder su garganta como que si tuviera gripa
+\XEN his
+throat starts burning as if he had a cold
+\ROOT jukuk Ix
+\SEMF body
+\ASP state
+\CAUS yak.jukuk hacer que molestar (su garganta)
+\CMTS no hay que decir jukukk@, siempre dice jukukk@ yo7k
+\date 03/Jan/80
+Page 8

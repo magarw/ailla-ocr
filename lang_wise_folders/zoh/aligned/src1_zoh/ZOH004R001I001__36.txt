@@ -1,0 +1,48 @@
+\LG MIG
+\PSH [7anhjup]
+\UND 7anh-jup.0
+\MB BOCA, jalar, NOM6
+\VAR
+\GRAM SVO
+\USE
+\SPG cortina
+\ENG curtain
+\EXU
+\XSP
+\XEN
+\SEMF
+\ETYM
+\ETL
+\ROOT jup
+\RTGR P (T3)
+\DSRC TK94
+\date 08/Jan/96
+\_no 00082
+\LG MIG
+\PSH [7anhju7t-]
+\UND 7anh-ju7t
+\MB BOCA, remover
+\GRAM vt
+\SCI
+\SPG poner una tranca
+\ENG to place a bar (across something)
+\SLGR
+\EXU 7@y+ 7anh=ju7t-w@ tranhka para ke yak.7anh-kam-w@
+\XPSH [7@y 7anhju7tt@ tranhka para ke yanhkamm@.]
+\XSP Le puso la tranca para que lo cerro*.
+\XEN He put a bar across to close it.
+\SYN
+\ETYM
+\ROOT ju7t
+ZOH004R0011001.txt
+\CMTS CK-SP: that's the way he translates it: TK
+\date 24/Jun/96
+\_no 00083
+\PSH [7anhju7tz-]
+\UND 7anh-ju7tz
+\MB BOCA, apun~alar
+\VAR
+\GRAM vt
+\USE
+\SPG medio costurar
+\ENG to sew closed a tear

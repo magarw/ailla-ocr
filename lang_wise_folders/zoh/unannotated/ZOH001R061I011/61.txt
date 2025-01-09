@@ -1,0 +1,60 @@
+\EX wojpa nu7
+\xSP ladra el perro
+\XEN the dog barks
+\EX 7@y wojjayy@
+\XSP le ladro*
+XEN it barked at someone
+\EX 7@y wojjayy@ 7@y win
+\XSP se ladro* e*l mismo
+\XEN it barked at itself
+\ROOT woj Il
+\CMTS no caus?
+\CMTS pass woj.7@m aullado
+\lex woko
+\_no 00314
+\SPG arrastrarse
+\ENG
+\EX
+\XSP
+\XEN
+\ROOT woko Ix
+\CMTS caus yak.woko arrastrar
+\CMTS get deriv's
+\lex wo7k
+\_no 00315
+\SPG raspar
+\ENG to scrape
+\EX
+\XSP
+\XEN
+\ROOT WO7k T3
+\CMTS antip wo7k. 7oy
+\CMTS no pass wo7k.7@m *
+\lex wo7kx
+\_no 00316
+\SPG aran*ar; rasgun~ar
+\ENG
+\EX
+\XSP
+\XEN
+\ROOT wo7kx T3
+\CMTS antip wo7kx. 7oy
+\CMTS no pass wo7kx.7@m *
+\lex won
+\_no 00317
+\SPG sacar majagua
+\ENG
+\EX tzaywonn@
+\XSP saco* majagua
+\XEN
+\ROOT won P, (T3)
+ZOH001R0611011.txt
+\CMTS antip won.7oy sacar majagua
+\CMTS pass won.7@m sacarse la majagua
+\CMTS assum1 wonneyy@ ya se saco* la majagua
+\lex wotz
+\_no 00318
+\SPG cortar con sierra
+\ENG to cut with a saw
+\EX 7@y wotztukk@
+Page 61

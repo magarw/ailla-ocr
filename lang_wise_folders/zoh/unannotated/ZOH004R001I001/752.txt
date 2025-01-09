@@ -1,0 +1,62 @@
+XPSH [K@pit@nhnh@.]
+\XSP Corto* len~a.
+\XEN She cut firewood.
+\SYN
+\SEMF
+\ETYM
+\ETL
+ROOT t@nh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex k@p(i). 7aH
+\_no 01739
+\LG MIG
+\PSH [k@pi7a-]
+\UND k@pi.7aH
+\MB len~a, VERS1
+\VAR k@@p.7aH
+\GRAM vi:act
+\SCI
+\USE
+\SPG len~ar
+\ENG to gather firewood
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex k@p(i). 7aH.pa+a7k
+\_no 01740
+\LG MIG
+\PSH [k@pi7apa*7k]
+\UND k@pi.7aH-pa +P@7k
+\MB len~a, VERS1, INC, REL
+\VAR k@@p7abaa7k
+\GRAM agt1
+\SCI
+\USE
+\SPG len~ador
+\ENG woodcutter
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex k@.tuk
+\_no 01741
+ZOH004R0011001.txt
+Page 752

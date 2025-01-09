@@ -1,0 +1,61 @@
+\ETL
+\ROOT tuy
+\RTGR P (TX)
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\1ex tuy=yuchi'. 7a
+\_no 03135
+\LG MIG
+\PSH [tuyyuchi7a-]
+\UND tuy=yuchi'.7a
+\MB estirar, delgado, VERS1
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer delgado estirandolo
+ENG to stretch thin
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tuy
+\RTGR P (TX)
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex tu'p.i7
+\_no 03136
+\LG MIG
+\PHO [tupi7]
+\UND tu7p. E7
+\MB desboronar, NOM7
+\VAR
+\SPG desboronado, pedazos
+\ENG crumbled, pieces
+\EXU 7an(.e)=jax.e tu'p.i7
+\XPSH [7anjaxe tupi7]
+\XSP pedazos de totopo
+\XEN pieces of totopo
+\SYN
+\ROOT tu7p
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tu'p.u7
+\_no 03137
+\LG MIG
+\PSH [tupu7]
+\UND tu7p.u7
+\MB
+\VAR
+\GRAM SV
+\SCI
+\USE
+ZOH004R0011001.txt
+Page 1349

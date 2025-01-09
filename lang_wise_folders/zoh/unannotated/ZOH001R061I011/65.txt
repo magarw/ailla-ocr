@@ -1,0 +1,63 @@
+\_no 00335
+\SPG reirse
+\ENG to laugh
+\EX
+\XSP
+\XEN
+\ROOT xik Il
+\CMTS caus yak.xik hacer de reir
+\lex xi7kx
+\_no 00336
+\SPG 11oviznar; brisar
+\ENG to drizzle
+\EX tuj xi7kx@
+\XSP 11ovizno*
+\XEN it drizzled
+\ROOT xi7kx I1, Ix
+\CMTS get deriv's no caus
+no puede
+\CMTS not regar, porque el agua debe venir del cielo
+\lex xinh
+\_no 00337
+\SPG hincharse; hinchada
+\ENG to swell;
+a swelling
+\EX m@jm@ xinh@
+\XSP esta
+\XEN it swelled up a lot
+\ROOT xinh I2
+\CMTS no caus yak.xinh *
+\lex xipx
+\_no 00338
+hinchado bastante
+\SPG estacar; encajar alguien con cuchillo, estaca
+\ENG to stake; to stab someone with a knife, a stake
+\EX 7@y xipx@ kuchij@nanh
+\XSP lo estaco* con cuchillo
+\XEN she stabbed it with a knife
+\ROOT xipx T3
+\CMTS antip xipx. 7oy encajar
+\CMTS pass xipx.7@m encajarse
+\EX
+\XSP
+-
+\lex xi7t
+\_no 00339
+\SPG lazar; lazar con mecate; enredarse
+ENG to lasso; to lasso with a rope
+\XEN
+\ROOT xi7t T3, T2
+\CMTS antip xi7t.7oy
+\CMTS pass xi7t.7@m
+ZOH001R0611011.txt
+\XSP
+\XEN
+\lex xix
+\_no 00340
+\SPG encogerse; encogerse carne seca*ndose
+\ENG to shrink up; for meat to shrink up while drying
+\EX
+\ROOT xix 12
+\CMTS caus yak.xix hacer encoger
+\lex xom
+Page 65

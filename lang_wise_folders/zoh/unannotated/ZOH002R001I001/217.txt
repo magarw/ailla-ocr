@@ -1,0 +1,27 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+Chapter 8: Dependent Verb Constructions
+In MIG Zoque, one verb root can be dependent on another in two ways:
+morphologically or syntactically. Morphological dependency obtains when two
+verb stems are compounded in a single verb complex. These constructions are
+the most varied, and so are discussed last, in section 8.3.
+Syntactically dependent verb constructions consist of a sequence of two
+verb complexes in which the second (V2) is dependent on the first (V1). V1 is
+inflected for aspect or mood as it would be if it were the only verb in the clause,
+using one of the eight aspect/mood suffixes shown in Table 5.2. V2 is
+inflected with one of the two dependent suffixes: -E if V1 has completive
+aspect, and -wə if it is in the incompletive or a non-declarative mood. Only V2
+is marked for agreement with the subject (and object), and the agreement
+marker is always selected from the ergative set, regardless of V2's transitivity.
+The whole construction has only one argument structure.
+(8.1) xuxxøn nipin mok
+šuš-wa
+?ən+ nip.E ?ən+ mok
+whistle-COM 1E+ sow-dCOM 1E+ corn
+'I whistled while I sowed my corn.'
+(elicited)
+The auxiliary verbs defined in section 4.1.5. can appear in a dependent
+construction with any other verb (pace pragmatic obstacles, as in, for instance,
+'the mangoes hurried to rot'). A complete description of auxiliary verb
+constructions is given in section 8.1. Other dependent verb constructions are
+generally translated 'to V1 while V2-ing' (as in example 8.1), and are more
+191

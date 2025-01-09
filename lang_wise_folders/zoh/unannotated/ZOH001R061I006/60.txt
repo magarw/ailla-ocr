@@ -1,0 +1,63 @@
+\XSP Agarro* pescado con atarraya.
+\XEN He caught fish with a net.
+\SYN
+\SEMF catch
+\ASP activity
+\ARG
+\NOM mak.i7, mak.kuy7
+\SUB 7ok.mak. '@y, j@x-mak, yuk.mak
+\ETYM
+\ETL
+\ROOT mak
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex matz
+\_no 00087
+\LG MIG
+\PSH
+\UND matz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sobar
+\ENG to rub; to massage
+\SPL matz.7oy
+\SLGR ANTIP
+\SLGL sobar // to rub, to massage
+\SLGR NO PASS
+\EXU 1 7@y+ matz. 'oy-pa 'aristea
+\XPSH 1 [7@y matztzoba 7Aristea.]
+\XSP 1 Soba Aristea.
+\XEN 1 Aristea is massaging.
+\EXU 2 7@y+ matz.ten-w@ 7@y+ manh.kuy7
+\XPSH 2 [7@y matztenn@y manh.kuy7.]
+\XSP 2 Tiene sobado su pie. // Tiene puesto la mano para sobar.
+\XEN 2 He's got his foot massaged. // He's got his hands placed ready to
+give a massage.
+\SYN jat@t
+\SEMF touch, hand
+\ASP activity
+\ARG
+ZOH001R0611006.txt
+\NOM matz.kuy7
+\SUB 7ix-matz, jo.matz, j@x-matz, ko.matz, matz-pak.p@', yuk.matz
+\ETYM
+\ETL
+\ROOT matz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex ma7tz
+\_no 00088
+\LG MIG
+\PSH
+\UND ma7tz
+\MB
+\VAR
+\GRAM vt
+Page 60

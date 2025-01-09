@@ -1,0 +1,61 @@
+\SPG ir y regresar
+\ENG to go and return
+\EX tijpa gaji7
+\XSP va muncho ahi*
+\XEN she goes over there
+\EX 7@y kotijpa*7
+\XSP alguien que visita
+\XEN one who goes visiting
+\EX tijj@ 7i wituw@
+\XSP fue* y regreso*
+\XEN he went and he came back
+\EX tijke7tt@
+\XSP fue* de nuevo
+\XEN she went again
+\ROOT tij IX
+\SEMF motion
+\CAUS yak.tij mandar que vaiga
+\CAUS p@k-tij llegarlo
+\CMTS
+\lex tik
+\_no 00262
+\SPG tocar
+ENG to touch
+\EX
+\XSP
+\XEN
+\ROOT tik P, (T3)
+\SEMF touch
+\PASS NONE tik.7@m *
+\ANTI tik. 7oy
+\CMTS gloss was 'arrimarse a e*1', now see tik-p@k for that one
+\lex ti7kx
+\_no 00263
+\SPG pegar el ri*o al lado de algo, como un barco; olearse/tirarse cosa
+llena
+\ENG for the river to slap on the side of something, like a boat; for a full
+thing to slosh or spill
+ZOH001R0611010.txt
+\EX ti7kxpa bi n@7
+\XSP esta oleando el agua
+\XEN the river is slapping the side of something
+\ROOT ti7kx 12, IX
+\SEMF nature, water
+\CMTS tiene que ser 'ti7kx@ n@7', not just 'ti7kx@'
+\lex toj
+\_no 00264
+\SPG
+\ENG
+\EX
+\XSP
+\XEN
+\ROOT toj Tx
+\SEMF sex
+\CMTS CK-GR, CK-GL prob. sexual
+\lex tok
+\_no 00265
+\SPG manchar; batir
+\ENG to stain
+\EX
+\XSP
+Page 60

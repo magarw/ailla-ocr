@@ -1,0 +1,62 @@
+\lex mex. '@y
+\_no 01958
+\LG MIG
+\PSH [mexx@y-]
+\UND mex.7@y
+\MB poco, VERS2
+\VAR
+\GRAM vers2
+\SCI
+\USE
+\SPG hacerse ma*s poco, mermar(se)
+\ENG to become less, to dwindle
+\SPL yak.mex.7@y
+\SLGR CAUS
+\SLGL mermar // to dwindle
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS analysis; HAJ:96, corrected to include elided v; added entry for mexi;
+NO ELIDED VOWEL HERE, no long V: root is %mex, adj is mex.i
+\date 25/Jun/96
+\lex mikx.mikx.ney
+\_no 01959
+\LG MIG
+\PSH [mikxmikxney-]
+\UND mikx.mikx.ney
+\MB
+\VAR
+\GRAM VİR
+\SCI
+\USE
+\SPG parpadear
+\ENG to blink
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 19/Jun/96
+ZOH004R0011001.txt
+\lex mi7kx
+\_no 01960
+\LG MIG
+\PSH
+\UND mi7kx
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+Page 844

@@ -1,0 +1,63 @@
+\lex j@x-ji7p
+\_no 01041
+\LG MIG
+\PSH [j@xji7p-]
+\UND jax=ji7p
+\MB ATRAS, mover_con_palo
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar con la trompa o un palito
+\ENG to push out with the snout or a stick
+\SPL
+\SLGR
+\EXU 7@y+ j@x.ji7p-w@ bi mok bi yoya_ [vos]
+\XPSH [7@y jaxji7pp@ bi mok bi yoya.]
+\XSP E1 marrano saco* con su trompa el mai*z.
+XEN The pig pushed the corn out with her snout.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ji7p
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex j@x-jitzi
+\_no 01042
+\LG MIG
+\PSH [j@xjitzi-]
+\UND jax-jitzi
+\MB ATRAS, arrastrar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar arrastrandolo
+\ENG to drag out
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jitzi
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 06/Feb/96
+\lex j@x=jix
+\_no 01043
+\LG MIG
+\PSH [j@xjix-]
+\UND jax=jix
+ZOH004R0011001.txt
+\MB ATRAS, remojar
+\VAR
+\GRAM vt
+Page 457

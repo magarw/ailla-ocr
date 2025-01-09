@@ -1,0 +1,63 @@
+\SPL
+\SLGR
+\EXU 1 da.x+jaa7 ne7 d@ tokoy-tam-pa
+\XPSH 1 [D@xja*7 ne7 d@ tokoytampa.]
+\XSP 1 Nosotros tambie*n perdemos.
+XEN 1 We also suffer.
+\EXU 2 d@+ t@p.jay-w@ 7@n+ mama jome' y@k.wij
+\XPSH 2 [D@ t@pjayy@n mama jome y@kwij.]
+\XSP 2 Mi mama* me costuro* una camisa nueva.
+\XEN 2 My mother made me a new shirt.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+\lex {ga.7}
+\_no 04422
+\LG MIG
+\PSH [ga7]
+\UND ka.7
+\MB DCT3
+\VAR
+\GRAM pron
+\SCI
+\USE distal deictic
+\SPG aquel, aquella
+\ENG that, those
+\EXU 1 n@k-pa 7@n+ 7ix-tam-w@ ga.7 tum 7awin' ne7
+\XPSH 1 [N@kpan 7ixtamm@ ga7 tum 7awin ne7.]
+\XSP 1 vamos a ver a un hermano tambie*n.
+ZOH004R0011001.txt
+\XEN 1 we're going to see a fellow, too.
+\EXU 2 ga.7 d@k+7a(y) 7@y+ mux-xuk-pa
+\XPSH 2 [Gad@k 7@y muxxukpa.]
+\XSP 2 Ellos saben.
+\XEN 2 They know.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Feb/96
+\lex {ga.d@}
+\_no 04423
+\LG MIG
+\PSH [gad@]
+\UND ka.d@
+\MB DCT3, XDEM
+\VAR
+\USE distal deictic. the meaning or function of the -d@ suffix is unknown.
+\GRAM av
+\SPG aquel
+\ENG that
+\SPL
+\SLGR
+\EXU p@7t-tam-w@ ga.d@ n@' +jo7 pwente +jo7
+\XPSH [P@7ttamm@ gad@ n@jo7 pwentejo7.]
+Page 1899

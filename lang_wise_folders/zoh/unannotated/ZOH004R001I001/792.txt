@@ -1,0 +1,64 @@
+\LG MIG
+\PSH [makimaki]
+\UND maki.maki
+\MB
+\VAR
+\GRAM SR
+\SCI
+\USE
+\SPG aran~a; telaran~a
+\ENG spider
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT mak
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 19/Jun/95
+\lex mak.kuy7
+\_no 01834
+\LG MIG
+\PSH [makkuy7]
+\UND mak.kuy7
+\MB pescar_con_atarraya, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+LF: bugs
+\SPG pesca
+\ENG a catch (of fish)
+\SPL
+\SEMF
+\ETYM
+\ETL
+\SLGR
+\EXU 7ok.manh-w@ mak.kuy' maki+j@nanh
+\XPSH [7okmanhnh@ makkuy makijananh.]
+\XSP Empezo* la pesca con atarraya.
+\XEN He started the fishing with a net.
+\SYN
+\ROOT mak
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 07/Feb/96
+\1ex mako7
+\_no 01835
+\LG MIG
+\PSH
+\UND mako7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG cucaracha
+\ENG cockroach
+Page 792

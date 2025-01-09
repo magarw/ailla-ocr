@@ -1,0 +1,63 @@
+\CMTS
+\DATE 03/Jan/1980
+\lex pak=xojo7k
+\_no 02523
+\LG MIG
+\PSH [pakxojo7k]
+\UND pak=xojo7k
+\MB X, zacate
+\VAR pak=xojo7k mu7k
+\GRAM
+SCI
+\USE
+\SPG zacate cimarro*n
+\ENG wild grass
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS CK-PH - HAJ:96 ok/OK: TK
+\date 25/Jun/96
+\lex pak. '@y
+\_no 02524
+\SEMF
+\ETYM
+\ETL
+\LG MIG
+\PSH [pakk@y-]
+\UND pak.7@y
+\MB tirar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG lastimar
+\ENG to injure
+\EXU 7@y+ pak. '@y-w@ 7@y+ manh.kuy7 tza' +jo7
+\XPSH [7@y pakk@yy@y manhkuy tzajo7.]
+\XSP Lastimo* su pie en una piedra.
+\XEN He hurt his foot on a rock.
+\SYN
+\ROOT pak
+\RTGR TX
+LF:xojo7k
+\DSRC HAJ94
+\CMTS see j@x.pak.7@y
+\date 19/Jun/96
+\lex paloma
+\_no 02525
+\LG MIG
+\PSH
+\UND paloma
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+ZOH004R0011001.txt
+Page 1087

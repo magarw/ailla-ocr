@@ -1,0 +1,64 @@
+\PSH
+\UND kom
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG remendar, como casa, ropa
+\ENG to mend, like a house or clothes
+\SPL kom. 7oy
+\SLGR ANTIP
+\SLGL remendar // to mend
+\SPL kom.7@m
+\SLGR PASS
+\SLGL estar remendado // to be mended
+\SPL kom=ten
+\SLGR PRSV
+\SLGL tener remendado // to have something mended
+\EXU 1 t@k-kom-w@
+\XPSH 1 [T@kkomm@.]
+\XSP 1 Remendo* la casa.
+\XEN 1 He repaired the house.
+\EXU 2 yo't.e'-kom-w@
+\XPSH 2 [Yotekomm@.]
+ZOH001R0611006.txt
+\XSP 2 Remendo* ropa.
+\XEN 2 She mended the clothes.
+\EXU 3 7@n+ kom-w@ 7@n+ y@k.wij
+\XPSH 3 [7@n komm@n y@kwij.]
+\XSP 3 Remendi* la camisa.
+\XEN 3 I mended my shirt.
+\EXU 4 kom.7@m-w@ bi y@k.wij
+\XPSH 4 [Komm@mm@ bi y@kwij.]
+\XSP 4 Remendaron la camisa (se remendo* la camisa).
+\XEN 4 Someone mended the shirt (the shirt was mended).
+\EXU 5 7@y+ kom.ten-w@ bi yak.wij d@k (+'ay)
+\XPSH_5 [7@y komtenn@ bi y@kwij d@kka.]
+\XSP 5 Tiene remendado las camisas.
+\XEN 5 She's got the shirts mended.
+\SYN
+\SEMF break
+\ASP activity
+\ARG
+\NOM kom.e7, kom.kuy7, ni.kom
+\SUB 7anh.kom, kom.pu, nik.kom. '@y, yuk.kom
+\ETYM
+\ETL
+\ROOT kom
+\RTGR T3
+\DSRC HAJ94
+\CMTS also have a slip classifying this as T1
+\CMTS
+\date 03/Jan/80
+\lex kop
+\_no 00067
+\LG MIG
+\PSH
+\UND kop
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+Page 47

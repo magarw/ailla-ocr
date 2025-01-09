@@ -1,0 +1,64 @@
+\SLGR ASSUM1
+\SLGL estar estivada // to be stacked
+\SPL n@7kx.ten
+\SLGR PRSV
+\SLGL tener estivada // to have stacked
+\EXU 1 tza'=n@7kx-wa
+\XPSH 1 [Tzan@7kx@.]
+\XSP 1 Estivo* piedra.
+\XEN 1 He stacked rocks.
+\EXU 2 7@n+ n@7kx-w@ 7@n+ wiki' d@k (+'ay)
+\XPSH 2 [7@n n@7kx@n wiki d@kka.]
+\XSP 2 Tengo unidos mis dedos.
+\XEN 2 I've got my fingers held together.
+\EXU 3 da n@7kx-pa
+\XPSH 3 [D@ n@7kxpa.]
+\XSP 3 Estoy pegajoso, por tanto sudor.
+\XEN 3 I'm sticky from sweat.
+\SYN
+\SEMF arrange
+\ASP activity
+\ARG
+\NOM n@7kx.naanh, n@7kx. 'oy.kuy7
+\SUB
+\ETYM
+\ETL
+\ROOT n@7kx
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+ZOH001R0611006.txt
+\lex paj
+\_no 00122
+LG MIG
+\PSH
+\UND paj
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 clavar
+\SPG 2 sembrar poste, estaca en el suelo
+\ENG 1 to nail
+\ENG 2 to set a post or stake in the ground
+\SPL paj.7oy
+\SLGR ANTIP
+\SLGL clavar; sembrar poste // to nail; to set a post
+\SPL paj.7@m
+\SLGR PASS
+\SLGL sembrarse // to be set
+\SPL paj.ney
+\SLGR ASSUM1
+\SLGL estar sembrado; estar clavado // to be set; to be nailed
+\SPL paj.ten
+\SLGR PRSV
+\SLGL tener sembrado; tener clavado // to have set; to have nailed
+\EXU 1 tzin=paj-w@
+\XPSH 1 [Tzinpajj@.]
+\XSP 1 Rajo* ocote.
+\XEN 1 She split pine.
+\EXU 2 7@y+ paj-xuk-w@ nea+jo7
+Page 83

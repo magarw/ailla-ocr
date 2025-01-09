@@ -1,0 +1,63 @@
+\_no 00095
+\LG MIG
+\PSH [7anhketz]
+\UND 7anh-ketz.0
+\MB BOCA, X, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG voladero, ladera
+\ENG slope
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ketz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex 7anh-ketz+jo7
+\_no 00096
+\LG MIG
+\PSH [7anhketzjo7]
+\UND 7anh-ketz-jo7
+\MB BOCA, X, LOC2
+\USE locative
+\GRAM av
+\SCI
+\USE
+\SPG en la ladera
+\ENG on the side
+\EXU bi kuy=7okox ten-w@ 7anh=ketz+jo7
+\XPSH [Bi kuy7okox tenn@ 7anhketzjo7.]
+\XSP se para el a*rbol en la ladera (del cerro).
+\XEN The tree is standing on the side (of the hill).
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT ketz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 09/Jan/96
+\DATE 03/Jan/1980
+\lex 7anh-ketz+jonanh
+\_no 00097
+\LG MIG
+\PHO [7anhketzjonanh]
+\UND 7anh-ketz+jonanh
+ZOH004R0011001.txt
+\MB BOCA, X, para
+\USE directional
+\GRAM av
+\SPG para la ladera
+\ENG along the slope; up the slope
+\EX
+\XSP
+Page 42

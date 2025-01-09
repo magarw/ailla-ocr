@@ -1,0 +1,63 @@
+\UND x@k=n@7
+\MB frijol, agua
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG caldo de frijol
+\ENG bean stew
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex x@k-pux.i7
+\_no 04051
+\LG MIG
+\PSH [x@kpuxi7]
+\UND_x@k-pux. E7
+\MB frijol, desboronar, NOM7
+\VAR
+\GRAM nom: incorp
+\SCI
+\USE
+\SPG tamal de frijol
+ENG bean tamale
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pux
+\RTGR TX
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex x@k-ton
+\_no 04052
+\LG MIG
+\PSH [x@kton-]
+\UND x@k-ton
+\MB frijol, limpiar_soplando
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG soplar frijol
+\ENG to clean beans by blowing off the chaff
+\SPL
+\SLGR
+\EXU
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+Page 1742

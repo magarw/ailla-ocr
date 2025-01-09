@@ -1,0 +1,63 @@
+\CMTS
+\date 03/Jan/80
+\lex wo'k.e
+\_no 00397
+\LG MIG
+\PSH [woke]
+\UND WO7k. E
+\MB raspar, NOM7
+\VAR [wo: ke*7]
+\GRAM pcp
+\SCI
+\USE
+\SPG raspado;
+\ENG scraped; planed
+\EXU 1 wo'k. E+V7k kuy
+\XPSH 1 [woke7k kuy]
+\XSP 1 palo raspado
+\XEN 1 planed wood
+\EXU 2 kuy wo'k. E+V7k
+\XPSH 2 [kuy woke*7]
+\XSP 2 palo raspado
+\XEN 2 planed wood
+\SYN
+\SEMF
+\ETYM
+\ETL
+\lex w@.17
+\_no 00398
+\ROOT WO7k
+\RTGR T3
+\DSRC HAJ94
+\CMTS get without noun: DONE/TK; CK-all HAJ:96 ok
+\date 26/Jun/96
+\LG MIG
+\PSH [w@i7]
+\UND way.E7
+\MB tener_tin~a, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG (mal de) pinto; tin~a
+\ENG discolored; a blotch
+\EXU
+\XSP
+\XEN
+\SYN
+acepillado
+\SEMF
+\ETYM
+\ETL
+\ROOT way
+\RTGR IX
+\DSRC TK94
+\CMTS PH-fixed: TK
+\date 26/Jun/96
+\lex w@t.17 [1]
+\_no 00399
+\LG MIG
+\PHO [w@ti7]
+\UND w@t.E7
+ZOH001R0611004.txt
+Page 158

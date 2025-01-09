@@ -1,0 +1,64 @@
+\SYN
+SEMF EB
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\ROOT
+\DSRC HAJ94
+\lex garbatu7
+\_no 00619
+\LG MIG
+\PSH
+\UND garbatu7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG garabato: machete chico que tiene la punta encurvada
+\ENG small machete with a curved tip
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM garabato
+\ETL Sp
+\CMTS
+\date 12/Aug/94
+LF:t@m
+\lex garrafoonh
+\_no 00620
+\LG MIG
+\PSH [garrafo*nh]
+\UND garrafoonh
+\MB
+\VAR
+\GRAM med
+\SCI
+\USE
+\SPG galo*n
+\ENG gallon
+\EXU
+\XSP
+\XEN
+\SYN galoonh
+\lex gas
+\_no 00621
+\LG MIG
+\PSH
+\UND gas
+\MB
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH ok; HAJ writes first V long; OK now: TK
+\date 24/Jun/96
+-
+Page 265

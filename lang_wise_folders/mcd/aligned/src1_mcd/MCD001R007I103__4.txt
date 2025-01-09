@@ -1,0 +1,45 @@
+19 yohuu fana idihuahuun
+yohuu fana idi-huahuun
+sorcier chant parfum-PL.ERG
+les chants parfumés de sorciers
+20 uhuun yohuu fana idipa
+uhuun yohuu fana idi-pa
+1POSS sorcier chant parfum-ERG
+mes chants parfumés de sorciers
+21 bia afo turuhuai
+bia afo turu-hua-i
+2PERS.A 3PERS.PL nettoyer-faire-PROG
+22 bia yora turuhuai
+bia yora turu-hua-i
+2PERS.A corps nettoyer-faire-PROG
+ils nettoient ton corps
+23 bia afo rapuhuai
+bia afo rapu-hua-i
+2PERS.A 3PERS.PL retirer-faire-PROG
+ils te les retirent
+24 afo rapupacuhuai
+afo rapu-pacu-hua-i
+3PERS.PL retirer-tomber-faire-PROG
+25 dudo rapuyorohuai
+dudo rapu-yoro-hua-i
+DEIC.LOC retirer-bien-faire-PROG
+ici ils te les retirent bien
+uhuun fana chica rao-nu
+1POSS chant hanche remède-ERG
+où se termine mon chant remède
+27 chica rao idihuahuun
+chica rao idi-huahuun
+hanche remède parfum-PL.ERG
+où se termine mes remèdes parfumés
+28 un chica raopotonu
+un chica rao-poto-nu
+1PERS hanche remède petit-ERG
+où se termine mon petit remède
+yora rapu-quin
+2PERS.A corps retirer-OST1
+il retire de ton corps
+30 un afo rapuyorohuai
+un afo rapu-yoro-hua-i
+1PERS.N 3PERS.PL retirer-bien-faire-PROG
+je les retire bien
+135

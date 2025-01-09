@@ -1,0 +1,31 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+This process frequently results in the use of speech sounds that are not
+part of the regular MIG Zoque inventory. There may be some assimilation of
+the final consonant of the Spanish stem, although sometimes an apparently
+hard-to-pronounce form is left unchanged (compare examples 7.35 ii and iii).
+If the Spanish stem vowel (a, e, or i) is dropped, the preceding vowel is
+lengthened. If this would result in a consonant cluster, the stem vowel is
+retained (examples 7.35 v and vi).
+This is an extremely common process, since all living speakers of MIG
+Zoque are bilingual and many Spanish words are simply more readily available
+to the tongue. Spanish verbs have apparently replaced whole lexical categories
+(probably quite long ago), such as religion, cognition, and emotion. It is very
+difficult to find Zoque words in these domains, and some of those that appear
+in texts are not readily recognized by other speakers. I include the whole
+Spanish infinitive form in the morpheme breakdown line for clarity.
+(7.35)
+(i)
+(ii)
+'um nømmø mix ke yam gantzøkkø
+?u
+?əm+ nəm-wə miš ke ya ?əm+ ganar=cək-wə
+NEGimpv 2E+ say-COM 2 Prn that NEG 2E+ earn=do-nINC
+'Don't say that you're not earning.'
+ya nømmo mix 'ayu:dtzøktamø
+ya
+nəm.?oy-e miš+ ?ayudar=cək-tam-A
+NEG DO.ANTIP-X_2>1+ help-do-1/2PL-nINC
+'Can't you help us?'
+184
+(ZOH001R018-171)
+(ZOH001R025-073)

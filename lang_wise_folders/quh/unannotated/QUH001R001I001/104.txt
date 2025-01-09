@@ -1,0 +1,46 @@
+104
+3-
+a través de cláusulas combinadas, por medio de los sufijos -spa o −jti- que contrastan
+entre sí: 125
+(10) puñu-spa
+dormir-SUB/SS/SIM
+'te sueño mientras duermo'
+'si duermo, te sueño'
+Ejemplo:
+(12) para-sha-n-man
+musqhu-ku-yki
+soñar-REFL-20/1S
+(11) kay wawa qhari ka-jti-n
+DEM niño varón ser-SUB/IRR-3S
+'si este niño es un varón, estaré feliz'
+(cierto habitualmente)
+(se refiere a "en todos los casos" dependientes de
+un mundo contingente) ¹2
+126
+A continuación analizaré cada una de las formas en particular para, luego, contrastarlas
+entre sí.
+4.2.1. Expresión de Irrealis mediante el sufijo -man
+lluvia-PROGR-3S-IRR
+'(en otro lugar) debe estar lloviendo'
+kusi-ku-saj
+feliz-REFL-1S/FUT
+En oraciones matrices o simples, la inclusión del sufijo -man añadido al verbo (no
+auxiliar) pone en funcionamiento significados de posibilidad, necesidad, deseo, etc. por lo que
+podemos argumentar que esta forma participa de la expresión del dominio de irrealis en
+quechua. Según Cerrón Palomino (1987), Lefebvre y Muysken (1988) y otros, el sufijo -
+expresa "potencialidad". Se trata de un sufijo verbal flexivo.
+127
+=
+(12) contrasta con el siguiente ejemplo (13) en el significado que introduce el uso de -
+man. En tanto -man señala un distanciamiento locativo de la referencia en relación con el
+espacio que ocupan los interlocutores deviene, por inferencia pragmática, en una
+125
+Se trata de formas que aparecen siempre en contextos adverbiales.
+126
+En castellano, cuando se dice "cuando duermo, sueño con vos", el valor condicional también se hace presente.
+Lectura: "cuando duermo = cada vez que
+cada vez que duermo si duermo".
+127
+En el paradigma verbal del quechua, el orden de sufijación es: derivativos + flexivos + independientes (e.g.
+evidenciales). La potencialidad, la subordinación, la imperatividad o las marcas de formas no finitas del verbo
+pertenecen a la flexión.

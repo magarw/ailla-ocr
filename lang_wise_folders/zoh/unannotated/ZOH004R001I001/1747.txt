@@ -1,0 +1,63 @@
+\USE
+\SPG ponerse aguado
+ENG to become moist
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT X@n
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+\lex x@nh
+\_no 04062
+\LG MIG
+\PSH
+\UND x@nh
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG fiesta; baile
+\ENG festival; dance
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+\lex x@nh jama
+\_no 04063
+\LG MIG
+\PSH
+\UND x@nh jama
+\MB fiesta, di*a
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG di*a de fiesta
+\ENG day of a fiesta
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+ZOH004R0011001.txt
+Page 1747

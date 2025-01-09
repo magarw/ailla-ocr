@@ -1,0 +1,91 @@
+\idx
+\ref 061
+\_no 00062
+\tx
+tenn@
+ten
+\mb
+\sg1 pararse-COM DEF gato
+\egl stand -COM DEF cat
+bi mixtu t@k
+-wa bi mixtu7 t@k
+\ref 062
+\_no 00063
+\tx mixtu k@manhnh@yy@
+\mb mixtu7 k@
+\fts el gato esta* parado encima del techo
+\fte the cat is standing on the roof
+\com
+\idx
+\tx tzapj@
+\mb
+tzap
+tzap
+-j@7 ten
+-w@
+\sg1 encima-Loc1 pararse-COM
+\egl on_top-LOC1 stand -COM
+ZOH001R0601001.txt
+tum kuy7okoxg@xi
+7i
+-manh -7@y-w@ tum kuy -7okox-g@xi 7i
+\sgl gato AFUERA-pisar-SUF-COM uno palo-mata -LOC4 y
+\egl cat
+\com
+\idx
+tenn@
+7@y kojap
+7@y kojap
+3E sombrero
+casa
+house 3E hat
+\ref 065
+\_no 00066
+-y
+DCT3-TMP
+AWAY -step -SUF-COM one tree-shrub-LOC4 and DCT3-TMP
+\ref 064
+\_no 00065
+\tx mixtu teji7aw@
+\mb mixtu7 teji
+\sgl gato hay
+\eg1 cat
+\fts el gato subio* arriba de un a*rbol y ahora ya esta* arriba parado
+\fte the cat went up into a tree and now it's standing up there.
+\com
+\idx
+\ref 063
+\_no 00064
+winnixuyj@nanh
+\tx mixtu pamajo monhnh@ 7@y kett@y
+\mb mixtu7 pama-jo7 monh -w@ 7@y ket -w@ -7@y win nixuy7 -j@nanh
+\sgl gato
+cama-LOC2 dormir-COM 3E envolver-COM-3E REFL sa bana-AC
+\eg1 cat bed -LOC2 sleep -COM 3E wrap -COM-3E REFL sheet -ACC
+tzapji7
+tzapji7
+encima
+on
+\fts el gato esta* durmiendo en la cama, se tapo* con la sa*bana
+\fte the cat went to bed, he covered himself with a sheet
+\fts gato esta* debajo de la mesa
+\fte the gat is under the table
+\com
+\idx
+mexak@j@7
+-7a -wa mexa -k@j@7
+-VERS1-COM mesa -abajo
+there_is-VERS1-COM table-below
+kay
+ka
+\tx tak
+7@y 7anhtunh
+winjo
+\mb t@k 7@y 7anh -tunh win -jo7
+tenn@
+ten -w@
+Page 17
+bi
+bi
+mixtu
+mixtu7

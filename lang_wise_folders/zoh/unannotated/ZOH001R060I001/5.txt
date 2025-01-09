@@ -1,0 +1,81 @@
+ZOH001R0601001.txt
+\tx teji7aw@
+teji
+\mb
+\sg1 hay
+\egl there is-VERS1-COM one paper on
+tum toto tzapji
+-7a -wa tum toto7 tzapji7 p@n
+-VERS1-COM uno papel encima
+\fts Esta* un libro ya puesto encima.
+\fte There's a book now put on top.
+\ref 014
+\_no 00015
+\fts este librero hicieron de tabla y de fierro. Sobre el fierro esta*
+fte they made this place to put books of sawn wood and iron. On the iron
+\com
+\idx
+p@nna*m
+\fts los pedazos de tablitas como que si estuvieron pegado.
+\fte there are little sawn boards as if they glued them.
+\tx yoteyukw@7kxkuyjo7
+\mb yote7 -yuk-w@7kx
+\sg1 ropa
+\egl clothes-UP -enpalm -INSTR1-LOC2
+-kuy7 -jo7
+-ARR-empalmar-INSTR1-Loc2
+estar_puesto-COM-YA
+be_put
+\fte
+\idx
+\cmts picture of a book on a bookshelf attached to a wall
+\tx
+y@da
+y@d@ y@kwij w@7kxneyy@
+\mb ya da yakwij wa7kx
+-ney -wa ya -da
+\sg1 DCT1-DEM camisa empalmar-ASSUM-COM DCT1-DEM
+\eg1 DCT1-DEM shirt enpalm -ASSUM-COM DCT1-DEM
+\fts esta camisa esta* colgada sobre de este gancho
+\fte this shirt is hanging on this clothes hook.
+\com
+\idx
+\cmts picture of a jacket hanging on a hook
+\ref 015
+\_no 00016
+\tx nenhm@tztz@bay
+\mb nenh
+witt@
+-m@tz -7@y-pa -7@y wit -wa
+-w@ -7am
+\fts este dedo de mano tiene un anillo de oro
+\fte this finger has a gold ring
+\com
+\idx
+\cmts picture of a finger with a ring on it
+\ref 016
+\_no 00017
+\tx yada
+barko witpa
+y@
+meatzapji7.
+\mb ya -d@
+-d@ barko wit
+-pa y@ -7
+mea-tzapji7
+\sg1 DCT1-DEM barco andar-INC DCT1-NOM1 mar-encima
+\eg1 DCT1-DEM boat walk -INC DCT1-NOM1 sea-on
+-COM-NOW
+\tx y@d@
+tzanhkuywiki
+7@y 7anhnitpa
+-d@
+tum k@kuma de lapa
+\mb ya
+-wiki7 7@y 7anhnit-pa tum k@kuma de lapa
+\sg1 DCT1-DEM
+tener -INC uno anillo de oro
+\eg1 DCT1-DEM hit -INSTR1-finger 3E have -INC one ring of gold
+tzanh-kuy7
+pegar-INSTR1-dedo 3E
+Page 5

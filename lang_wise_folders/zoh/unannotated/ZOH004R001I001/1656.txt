@@ -1,0 +1,63 @@
+\XPSH [D@ w@tt@damma*m.]
+\XSP Ya estamos grande.
+\XEN Now we are grown.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex w@7t
+\_no 03851
+LG MIG
+\PSH
+\UND W@7t
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tumbar_a*rbol; tumbar o derribar palo
+\ENG to fell trees
+\SPL w@7t.7oy
+\SLGR ANTIP
+\SLGL tumbar a*rbol // to fell trees
+\SLGR NO PASS
+\SLGR NO ASSUM1
+\EXU kuy=w@7t-w@
+\XPSH [Kuyw@7tt@.]
+\XSP Tumbo* un arbol.
+\XEN He felled a tree.
+\SYN
+\SEMF cut
+\ASP transition
+\ARG
+\NOM w@7t. 'oy.kuy7
+\SUB
+\ETYM
+\ETL
+\ROOT W@7t
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex w@7t. 'oy.kuy7
+\_no 03852
+\LG MIG
+\PHO [w@7ttokuy7]
+\UND w@7t.7oy.kuy7
+\MB tumbar, ANTIP, INSTR1
+\VAR
+\GRAM instr1
+\SPG hacha para tumbar palos
+\ENG axe for cutting trees
+\EX
+ZOH004R0011001.txt
+\XSP
+\XEN
+\SYN
+\ROOT W@7t
+Page 1656

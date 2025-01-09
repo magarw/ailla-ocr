@@ -1,0 +1,63 @@
+XPSH 1 [7@y po7ttenn@.]
+\XSP 1 Lo tiene molido.
+\XEN 1 He's got it ground.
+\EXU 2 7@y+ po7t-w@ bi kafe* tza'+jo' bi yomaa7
+\XPSH 2 [7@y po7tt@ bi kafe* tzajo bi yoma*7.]
+\XSP 2 La mujer molio* el cafe* en una piedra.
+\XEN 2 The woman ground the coffee on a rock.
+\EXU 3 7@n+ po7t-tuk-w@ 7@n mok, 7i 7@n+ yum-w@, 7i 7@n+ 7uk-w@
+\XPSH_3 [7@n po7ttukk@n mok, 7in yumm@, 7in 7ukk@.]
+\XSP 3 Tosti* todo el mai*z (para atole), y lo hervi*, y lo tome*
+\XEN 3 I toasted all my corn (for atole), and I boiled it, and I drank it.
+\SYN
+\SEMF corn, cook
+\ASP activity
+\ARG
+\NOM po't.e7
+\SUB ko.po7t
+\ETYM
+\ETL
+\ROOT po7t
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\DATE 09/Aug/02
+\1ex po7t=tuk. tuk.w@y
+\_no 02741
+\LG MIG
+\PSH [po7t=tuk. tuk.w@y-]
+\UND po7t-tuk. tuk.w@y
+\MB moler, cortar, cortar, REDUP2
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG moler bien bien
+\ENG to grind really well
+\EXU 7@y+ po7t-tuk.tuk.w@y-w@ 7@y+_kajwe
+\XPSH [7@y po7ttuktukk@yy@y_kajwe.]
+\XSP Molio* bien bien su cafe*.
+\XEN She ground her coffee really well.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT po7t
+\RTGR T3
+ZOH004R0011001.txt
+\DSRC HAJ02
+\CMTS
+\DATE 09/Aug/02
+\lex potz [1]
+\_no 02742
+\LG MIG
+\PSH
+\UND potz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 embarrar
+Page 1179

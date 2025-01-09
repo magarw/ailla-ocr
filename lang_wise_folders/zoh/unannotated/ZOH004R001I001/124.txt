@@ -1,0 +1,65 @@
+\XSP 4 Me forze* para que compre* mi casa.
+\XEN 4 I struggled so I could buy my house.
+\SYN
+\SPL yak.7ix
+\SLGR CAUS
+\SLGL ensen~ar // to show
+\SPL 7ix. 7oy
+\SLGR ANTIP
+\SLGL ver // to see
+\SPL 7ix.7@m
+\SLGR PASS
+\SLGL verse // to appear
+\SPL 7ix. ten
+\SLGR PRSV
+\SLGL tener visto // to have in sight
+\SEMF percep
+\ASP activity
+\ARG
+\NOM 7ix. 'oy.kuy7, win-ko.7ix.kuy7,
+\SUB 7ix=7anh.toy, 7ix-ko.xa', 7ix-matz, 7ix-may, 7ix-p@k, 7ix=ten,
+\SUB 7ix=tuk, 7ix=7ok.poy-nuk,
+7ok. 'ix-n@k. '@y, jo.7ix,
+j@x=!ix,
+\SUB ko.7ix, k@.7ix. '@y, ma-7ix, nik. 'ix. '@y, num='ix, poy='ix=tuk,
+\SUB win='ix, win-n@k=¹ix. '@y, yuk. 'ix, y@k.jo.7ix. '@y
+\ETYM
+\ETL
+\ROOT 7ix
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex 7ix=7anh.toy
+\_no 00288
+\LG MIG
+\PSH [7ixxanhtoy-]
+\UND 7ix=7anh=toy
+\MB ver, BOCA, doler
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tenerle lastima
+\ENG to grieve for someone
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7ix
+\RTGR 1 T3
+\ROOT 2 toy
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 12/Jun/95
+\lex 7ix=7utz
+\_no 00289
+\LG MIG
+\PSH
+\UND
+Page 124

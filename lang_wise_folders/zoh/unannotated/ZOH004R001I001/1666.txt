@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\lex xakanhki' paxte7
+\_no 03874
+\LG MIG
+\PSH
+\UND xajkanhki7 paxte7 ??
+\MB chilgueta, espina
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG espina de chilgueta
+\ENG thorn of a vine
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS CK-PH/all; fixed: TK
+\date 26/Jun/96
+\lex xakanhki '+jo7
+\_no 03875
+\LG MIG
+\PSH
+\UND xakanhki' +jo7
+\MB chilgueta, LOC2
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG en el chilguetal
+\ENG in the thorny vine patch
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS CK-all HAJ:96 ok/OK: TK
+\CMTS it's a type of thorn, so it's like 'in the briar patch' maybe
+\date 26/Jun/96
+\1ex xake7
+\_no 03876
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+Page 1666

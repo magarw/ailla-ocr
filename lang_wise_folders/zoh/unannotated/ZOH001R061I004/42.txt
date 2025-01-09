@@ -1,0 +1,63 @@
+\PSH [jumi7]
+\UND jum. E7
+\MB derrumbar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG derrumbe; derrumbado
+\ENG landslide; a slope that's crumbled away
+\EXU jum. E'+7k tak / tak jum.i7
+\XPSH [jumi 7k t@k] / [t@k jumi*7]
+\XSP casa que lo desbarataron
+\XEN a house that they pulled down
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jum
+\RTGR T2
+\DSRC TK94
+\CMTS cf nax=jum. @7
+\date 03/Jan/80
+\lex jun.i7
+\_no 00101
+\LG MIG
+\PSH [juni7]
+\UND jun.E7
+\MB caer pelo, NOM7
+\VAR
+\GRAM pcp/sv
+\SCI
+\USE
+\SPG pelo*n
+\ENG bald
+\EXU kopak=jun. E7
+\XPSH [kopak juni7]
+\XSP pelo*n
+\XEN bald head
+\SYN kopak-taka7
+\SEMF
+\ETYM
+\ETL
+\ROOT jun
+\RTGR 12
+\DSRC TK94
+\CMTS CK-PH of SYN ok HAJ: 96; Not OK: I fixed it: TK
+\date 03/Jan/80
+\lex jup.i
+\_no 00102
+\LG MIG
+\PSH [jupi]
+\UND jup. E
+ZOH001R0611004.txt
+\MB jalar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG hilo
+\ENG thread
+\EXU
+\XSP
+Page 42

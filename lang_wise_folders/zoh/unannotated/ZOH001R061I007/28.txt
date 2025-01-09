@@ -1,0 +1,62 @@
+\SEMF
+\ASP state, process
+\CAUS yak.tonon alborotar
+\CMTS get deriv's
+\date 03/Jan/80
+\lex tonh
+\_no 00115
+\SPG "empollar"; ampollarse
+\ENG to blister
+\EX
+\XSP
+\XEN
+\ROOT tonh 12
+\SEMF sickness, body
+\ASP transition, process
+\CAUS yak.tonh empollar
+\CMTS indir: caus yak.tonh.jay
+\date 03/Jan/80
+\lex top
+\_no 00116
+\SPG hacer calor; tener calor
+\ENG to be hot; to feel hot
+\EX ban toppa
+\XSP hacer mucho calor
+\XEN to be very hot
+\EX topann@mm@
+\XSP hace calor
+\XEN it was very hot
+\ROOT top 12
+\SEMF temp
+\ASP state
+\lex topx
+\_no 00117
+//top.an@m-w@//
+\CAUS yak.top hacer sentir calor (sol)
+\CMTS
+\date 03/Jan/80
+ZOH001R0611007.txt
+\SPG mujer tirar pedos aguado
+\ENG for a woman to cut a watery fart
+\EX
+\XSP
+\XEN
+\ROOT topx IX
+\ASP momentaneous, activity
+\SEMF body
+\CMTS cf tepx, cf xopx; get deriv's
+\date 03/Jan/80
+\XSP
+\XEN
+\lex toy
+\_no 00118
+\SPG doler; picar chile; "duele"
+\ENG to hurt; for chile to burn; "it hurts"
+\EX
+\ROOT toy 12
+\SEMF body, sickness
+\ASP state
+\CAUS yak.toy hacer doler "hablaron mal de uno y lo sinti*o"
+\CMTS
+\date 03/Jan/80
+Page 28

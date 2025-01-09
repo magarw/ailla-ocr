@@ -1,0 +1,63 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ROOT 1 t@tz
+\RTGR 1 12
+\ROOT 2 7oj
+\RTGR 2 11
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex t@tz-ni.kitz-wak
+\_no 03208
+\LG MIG
+\PSH [t@tznikitzwak-]
+\UND t@tz-ni.kitz-wak
+\MB diente, PURP, remangar, *vaciar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG pelar los dientes
+\ENG to show the teeth
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 kitz
+\RTGR TX
+\ROOT 2 wak
+\RTGR 2 P
+\DSRC HAJ94
+\CMTS
+\date 15/Jun/95
+\lex t@tz=toy
+\_no 03209
+\LG MIG
+\PSH [t@tztoy-]
+\UND _t@tz=toy
+\MB diente, doler
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG doler el diente
+\ENG for the teeth to hurt
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT toy
+\RTGR 12
+Page 1380

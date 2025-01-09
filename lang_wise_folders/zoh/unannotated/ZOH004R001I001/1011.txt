@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [nimontz@k-]
+\UND ni.mon=tz@k
+\MB PURP, envolver, HACER
+\VAR
+\GRAM vt
+\SPG tapar algo con una ropa
+ENG to cover something with a cloth
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT mon
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 22/Jun/96
+\lex ni.monh
+\_no 02347
+\LG MIG
+\PSH [nimonh]
+\UND ni.monh.0
+\MB PURP, dormir, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG colcho*n
+\ENG mattress
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT monh
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 27/Jan/96
+\lex ni.m@k
+\_no 02348
+\LG MIG
+\PSH [nim@k-]
+\UND ni.m@k
+\MB PURP, mezclar
+\VAR
+\GRAM vt
+\SPG hacer tamal de algo
+\ENG to make tamales of something
+ZOH004R0011001.txt
+\EXU 7@y+ ni.m@k-w@ piyu' xix
+\XPSH [7@y nim@kk@ piyu xix.]
+\XSP Hizo tamal de carne de gallina.
+\XEN She made tamales from chicken meat.
+\SYN
+\ROOT m@k
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 22/Jun/96
+Page 1011

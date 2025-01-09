@@ -1,0 +1,63 @@
+\UND komi pak mo7kxi7
+\MB grande, hueso, camaro*n
+\VAR
+\GRAM asms
+\SCI
+\USE
+\SPG chacal
+\ENG a type of shrimp
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex komi' pa-piyu7
+\_no 01379
+\LG MIG
+\PSH [komi papiyu7]
+\UND komi pa-piyu7
+\MB grande, salvaje, pollo
+\VAR
+\GRAM amss
+\SCI
+\USE
+\SPG perdiz grande; gallina del monte
+\ENG a type of bird
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex komi' t@k
+\_no 01380
+LG MIG
+\PSH [komi t@k]
+\UND komi 7 t@k
+\MB grande, casa
+\VAR
+\GRAM a(m)s
+\SCI
+\USE
+\SPG una casa grande
+\ENG a big house
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+Page 601

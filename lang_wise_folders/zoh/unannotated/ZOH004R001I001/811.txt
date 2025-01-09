@@ -1,0 +1,64 @@
+\CMTS
+\date 21/Jun/95
+\lex manh-p@j.w@y
+\_no 01880
+\LG MIG
+\PSH [manhp@jj@y-]
+\UND manh-p@j.w@y
+\MB *pisar, X,
+pisar,
+\VAR
+\GRAM vi: depos
+\SCI
+\USE
+\SPG empinarse
+\ENG to stand on tiptoe
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * manh
+\RTGR P
+X, DEPOS
+\DSRC HAJ94
+\CMTS lex also manh-p@j.w@y
+\CMTS caus yak.manh-p@j.w@y empinar
+\date 26/Jan/96
+\lex manh=ten
+\_no 01881
+\LG MIG
+\PSH [manhten-]
+\UND_manh-ten
+\MB *pisar, parar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pisotear
+\ENG to step on
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 * mạnh
+\RTGR 1 P
+\ROOT 2 ten
+\RTGR 2 11
+\DSRC HAJ94
+\CMTS
+\date 19/Jun/95
+\lex manh-tzik.tzik.w@y
+\_no 01882
+\LG MIG
+\PSH [manhtziktzikw@y-]
+\UND manh-tzik.tzik.w@y
+ZOH004R0011001.txt
+\MB *pisar, pelar, pelar, ITER2
+\VAR
+Page 811

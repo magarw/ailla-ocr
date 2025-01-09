@@ -1,0 +1,64 @@
+\SPG bozal
+\ENG muzzle
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jo7px
+\RTGR TX
+\DSRC HAJ94
+\CMTS CK-PH
+\date 24/Jun/96
+\lex kin@k=p@j.i7
+\_no 01251
+\LG MIG
+\PSH [kin@kp@ji7]
+\UND kin@k-p@j. E7
+\MB nariz, larga
+\VAR
+\GRAM a:sq (BAed)
+\SCI
+\USE
+\SPG de nariz larga
+\ENG long-nosed
+\EXU p@j.i' kin@k
+\XPSH [p@ji_kin@k]
+\XSP nariz larga
+\XEN big nose
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+ok, HAJ:96/OK: TK
+\CMTS
+\date 29/Jan/96
+\lex kinh=ka'
+\_no 01252
+\LG MIG
+\PSH [kinhka-]
+\UND kinh-ka7
+\MB
+\VAR
+\GRAM vi
+\XEN
+\SYN
+\SCI
+\USE
+\SPG enojarse; tener muina
+\ENG to be angry
+\SPL yak. kinh=ka'
+\SLGR CAUS
+\SLGL hacer enojar // to make someone angry
+\EXU
+\XSP
+\SEMF cognitive
+\ASP state
+\ARG
+\NOM
+ZOH004R0011001.txt
+Page 546

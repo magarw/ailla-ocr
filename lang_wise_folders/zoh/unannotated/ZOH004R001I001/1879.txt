@@ -1,0 +1,63 @@
+\ENG pleated shirt
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 wij
+\RTGR 1 IX
+\ROOT 2 ji7tz
+\RTGR 2 P (T3)
+\DSRC HAJ94
+\CMTS CK-all - HAJ:96 ok
+\date 20/Jun/96
+\lex y@k.wij. '@y
+\_no 04378
+\LG MIG
+\PSH y@kwijj@yy@
+\UND yak.wij.0.7@y
+\MB INSTR2, zambutirse, NOM6, VERS2
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG poner una camisa o playera
+\ENG to put on a shirt or t-shirt
+\EXU 7@y+ yak.wij.0.'@y-w@ 7@y+_y@k.wij.0
+\XPSH [7ay y@kwijj@yyay y@kwij.]
+\XSP Se puso su camisa.
+\XEN He put on his shirt.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT wij
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 18/Jun/96
+\lex y@k-witu
+\_no 04379
+\LG MIG
+\PSH [y@kwitu-]
+\UND yak-witu
+\MB negro, regresar
+\VAR
+\GRAM vi
+\SPG volverse negro
+\ENG to turn black
+\SPL
+\SLGR
+ZOH004R0011001.txt
+\EXU_y@k=witu-w@ +'am bi pak
+\XPSH [Y@kwituwa*m bi pak.]
+\XSP Ya se volvio* negro el hueso.
+\XEN Now the egg has turned black.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+Page 1879

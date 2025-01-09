@@ -1,0 +1,66 @@
+\ROOT kekx
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex ket
+\_no 00055
+\LG MIG
+\PSH
+\UND ket
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tapar; envolver
+con cobija o con sa*bana (cuando esta* acostado)
+\ENG to cover; to wrap - with a blanket or a sheet (when you're lying down)
+\SPL ket. 7oy
+\SLGR ANTIP
+\SPL ket.7@m
+\SLGR PASS
+\SLGL taparse
+\SPL estar tapado
+\SLGR ASSUM1
+\SLGL to be covered
+\SPL ket.ten
+\SLGR PRSV
+\SLGL tener tapado // to have covered up
+\EXU 1 7@y+ ket-w@ 7@y+win
+\XPSH 1 [7@y kett@y win.]
+\XSP 1 Se tapo*.
+\XEN 1 She covered herself.
+\EXU_2_ket.ney-pa bi 7une7
+\XPSH 2 [Ketneba bi 7une7.]
+\XSP 2 Esta* tapado el nin~o.
+\XEN 2 The child is covered up.
+\EXU 3_7@y+ mama 7@y+ ket.ten-w@ bi 7une7
+\XPSH 3 [7@y mamay kettenn@ bi
+7une7.]
+\XSP 3 Su mama* tiene tapado el nin~o.
+\XEN 3 His mother has the child covered up.
+\SYN
+\SEMF cover, arrange
+\ROOT ket
+\RTGR P, (T3)
+\DSRC HAJ94
+\ASP achievement
+\ARG
+\NOM ket.e, ket.kuy7, ni.ket.e
+\SUB 7ok.ket. '@y, ko.ket, k@.ket, ni.ket, nik.ket. '@y
+\ETYM
+\ETL
+\CMTS
+\CMTS
+\date 03/Jan/80
+\lex ketz
+\_no 00056
+LG MIG
+ZOH001R0611006.txt
+-
+\PSH
+\UND ketz
+\MB
+\VAR
+Page 40

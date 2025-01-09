@@ -1,0 +1,65 @@
+\UND yuk.wat
+\MB ARR, amarrar
+\VAR
+\GRAM dir+vt
+\SCI
+\USE
+\SPG amarrar
+\ENG to tie up
+\EXU 1 7@n+ yuk.wat-w@ 7@n+ way7
+\XPSH 1 [7@n yukwatt@n way7.]
+\XSP 1 Amarre* mi
+cabello.
+\XEN 1 I tied up my hair.
+\EXU 2 7@n+ yuk.wat-tuk.tuk.w@y-w@ 7@n+ way7
+\XPSH 2 [7@n yukwattuktukk@yy@n way7.]
+\XSP 2 Amarre* mi cabello bien bien.
+\XEN 2 I tied my hair up really tight.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT wat
+\RTGR P (T3)
+\DSRC HAJ02
+\CMTS
+\DATE 09/Aug/02
+\lex yuk.xotz
+\_no 04323
+\LG MIG
+\PSH [yukxotz-]
+\UND yuk.xotz
+\MB ARR, amarrar
+\VAR
+\GRAM dir+vt
+\SCI
+\USE
+\SPG amarrar
+\ENG to tie up
+\EXU 7@n+ yuk.xotz-w@ 7@n+ way7
+\XPSH [7@n yukxotztz@n way7.]
+\XSP Amarre* mi
+cabello.
+\XEN I tied up my hair.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xotz
+\RTGR P (T3)
+\DSRC HAJ02
+\CMTS
+\DATE 09/Aug/02
+\lex yuk.yun
+\_no 04324
+\LG MIG
+\PSH [yukyun-]
+\UND yuk.yun
+\MB ARR, nadar
+\VAR
+\GRAM vi
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG empezar a nadar
+Page 1856

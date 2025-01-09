@@ -1,0 +1,63 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jej
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+\lex jek
+\_no 00722
+\LG MIG
+\PSH
+\UND jek
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG derrumbarse cosa, una cosa que esta* estivada o amontonada
+\ENG for something that was stacked or piled up to tumble down
+\SPL yak.jek
+\SLGR CAUS
+\SLGL hacer que se derrumbada // to cause something to tumble down
+\EXU jek-w@ nax
+\XPSH [Jekk@ nax.]
+ZOH004R0011001.txt
+\XSP Se derrumbo* la tierra.
+\XEN The dirt crumbled down.
+\EXU 7@y+ yak.jek-w@ bi nax
+\XPSH [7@y yakjekk@ bi nax.]
+\XSP Lo rogo* la tierra.
+\XEN He made the dirt pile crumble down.
+\SYN
+\SEMF break
+\ASP achievement, accomplishment
+\ARG patient
+\NOM jek.@7
+\SUB 7anh.jek, 7ok.jek. '@y, k@.n@k-jek. '@y, win=jek
+\ETYM
+\ETL
+\ROOT jek
+\RTGR 12
+\DSRC HAJ94
+\CMTS tierra, arena, piedra, len~a, maiz
+\CMTS the pile crumbles down because the bottom is dug out or comes out
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex jeken
+\_no 00723
+\LG MIG
+\PSH
+\UND jeken
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG enrollar, como mecate, alambre, bejuco, etc.
+\ENG to coil, like rope, wire, vine, etc.
+\EXU 1 7@y+ jeken.ten-wa
+Page 310

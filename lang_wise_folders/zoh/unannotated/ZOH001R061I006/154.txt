@@ -1,0 +1,64 @@
+\UND x@7kx
+\MB
+\VAR
+\GRAM vt, vi:med
+\SCI
+\USE
+\SPG ahogarse con algo que esta* comiendo
+\ENG to choke on something that you're eating
+\SLGR NO ANTIP
+\SLGR NO PASS
+\EXU 1 7@y+ x@7kx-w@ 7@y+ k@x.E k@x. 'oy-pa 7ora
+\XPSH 1 [7@y x@7kx@y k@xi k@xxoba 7ora.]
+\XSP 1 se ahogo* con la comida la hora que estaba comiendo.
+\XEN 1 while he was eating, he choked on his food.
+\EXU 2 7@n+ x@7kx-w@
+\XPSH 2 [7@n x@7kx@.]
+\XSP 2 Me ahogue* (con la comida).
+XEN 2 I choked (on my food).
+\SYN
+\SEMF body, eat
+\ASP process
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT x@7kx
+ZOH001R0611006.txt
+\RTGR T1
+\DSRC TK95
+\CMTS
+\CMTS ANALYZE EX
+\date 03/Jan/80
+\lex x@m
+\_no 00229
+\LG MIG
+\PSH
+\UND x@m
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG (sonido) golpear (en la cabeza)
+\ENG to (make the sound of a) thunk (on the head)
+\SPL x@m. 7oy
+\SLGR ANTIP
+\SLGL golpear // to thunk
+SPL x@m.7@m
+\SLGR PASS
+\SLGL ya esta* golpeado // now you've been thunked
+\EXU 7@y+ x@m-w@ 7@y+ kopak
+\XPSH [7@y x@mm@y kopak.]
+\XSP Golpio* su cabeza.
+\XEN She thunked him on the head.
+\SYN
+\SEMF sound
+\ASP transition
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+Page 154

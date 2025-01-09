@@ -1,0 +1,62 @@
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS G doesn't like mon.ney-, he says_mon.ten makes more sense.
+\CMTS "van a decir, porque esta* envuelta?". There's no way for something
+\CMTS to get wrapped 'mon'-style by accident.
+\date 03/Jan/80
+\DATE 09/Aug/02
+\lex moneda
+\_no 02013
+\LG MIG
+\PSH
+\UND moneda
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG moneda
+\ENG coin
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 02/Oct/94
+\lex mon.kuy7
+\_no 02014
+LG MIG
+\PSH [monkuy7]
+\UND mon.kuy7
+\MB envolver, INSTR1
+\VAR
+\GRAM instr1
+\SPG ropa para envolver tortilla
+\ENG cloth for covering tortillas
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT mon
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 22/Jun/96
+\lex mon=k@nh
+\_no 02015
+ZOH004R0011001.txt
+\LG MIG
+\PSH [monk@nh-]
+\UND mon-k@nh
+\MB envolver, madurarse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG envolver para que se madure
+Page 868

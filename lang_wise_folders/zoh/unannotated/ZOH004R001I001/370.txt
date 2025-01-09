@@ -1,0 +1,64 @@
+\SCI
+\USE
+\SPG meter el dedo
+\ENG to stick your finger in something
+\SPL
+\SLGR
+\EXU 1 7@y+ jo.ki7t.jay-w@ 7@y+_yo7k
+\XPSH 1 [7@y joki7tjayy@y yo7k.]
+\XSP 1 Limpio* la garganta con el dedo.
+\XEN 1 He cleaned someone's throat with his finger.
+\EXU 2 7@y+ jo.ki7t-w@ bi 7une7
+\XPSH 2 [7@y joki7tt@ bi 7une7.]
+\XSP 2 Lo dedearon al nin~o. (con aceite, para aliviar una garganta que
+duele)
+\XEN 2 she put her finger in the child's throat (oiled, to alleviate a sore
+throat)
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT ki7t
+\RTGR T3
+\DSRC HAJ95
+\CMTS CK-GR of EX ok, HAJ:96, was missing erg marker
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex jokoy
+\_no 00850
+\LG MIG
+\PSH
+\UND jokoy
+\MB
+\VAR jokoy kuy
+\GRAM S
+\SCI
+\USE
+\SPG arbol: amate
+\ENG tree: amate
+\EXU popo' jokoy
+\XSP amate blanco
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+ZOH004R0011001.txt
+LF: kuy
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\lex jokoy 7@y+ 7anh.xuku7
+\_no 00851
+\LG MIG
+\PSH [jokoy_7@y 7anhxuku7]
+\UND jokoy 7@y+ 7anh.xuku7
+\MB
+\VAR
+\GRAM spsv0
+\SCI
+\USE
+\SPG sombra de amate
+\ENG the shade of the amate tree
+Page 370

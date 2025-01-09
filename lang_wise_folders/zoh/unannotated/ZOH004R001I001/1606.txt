@@ -1,0 +1,63 @@
+\lex win=xanh
+\_no 03739
+\LG MIG
+\PSH [winxanh-]
+\UND win-xanh
+\MB CARA, machetear
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG machetear; chapulear;
+rastrojear
+\ENG to cut with a machete; to scythe; to clear a field
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT xanh T3
+\KEY
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex win=xanh+jo7
+\_no 03740
+\LG MIG
+\PSH [winxanhjo7]
+\UND win-xanh+jo7
+\MB CARA, X, LOC2
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG al aire libre
+\ENG outside
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xanh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex win='an
+\_no 03741
+\LG MIG
+\PSH [winnan-]
+\UND win=7an
+\MB CARA, calentarse
+\VAR
+\GRAM vi
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG calentarse por delante
+\ENG for the front to get warm
+Page 1606

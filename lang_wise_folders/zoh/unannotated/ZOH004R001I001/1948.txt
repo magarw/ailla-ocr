@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Feb/96
+\lex {ye.y}
+\_no 04536
+\LG MIG
+\PSH
+\UND ya.y
+\MB DCT1, TMP
+\VAR
+\USE proximal temporal deictic, "right away", "in a minute", "ahorita"
+\GRAM av
+\SCI
+\USE
+\SPG ahora
+\ENG now
+\EXU ye.y d@+ witu-pa
+\XPSH [Yey d@ witupa.]
+\XSP Ahorita regreso.
+\XEN I'll be right back.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH/OK: TK
+\date 26/Jun/96
+\lex {yuk+}
+\_no 04537
+\LG MIG
+\PSH
+\UND yuk
+\MB ARR
+\VAR
+ZOH004R0011001.txt
+\GRAM pre
+\SCI
+\USE verbal prefix recruited from noun {yuk}
+\SPG arriba; empezar a VERBO
+\ENG up; to begin to VERB
+\SPL
+\SLGR
+\EXU 1 ye.y mama yuk.p@k. tam-A7
+\XPSH 1 [Yey mama, yukp@ktam@.]
+\XSP 1 Ya mama, levantenlo.
+\XEN 1 Now mama, put it up.
+\EXU 2 yuk. '@nh-w@ t@m
+\XPSH 2 [Yukk@nhnh@ t@m.]
+\XSP 2 Empezo a caer fruta.
+\XEN 2 The fruit began to fall.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+Page 1948

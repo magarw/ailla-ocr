@@ -1,0 +1,62 @@
+\date 11/Aug/94
+\lex naxe
+\_no 02169
+\LG MIG
+\PSH
+\UND naxe
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG verdad
+\ENG truth
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex nax-jepx.kuy7
+\_no 02170
+\LG MIG
+\PSH [naxjepxkuy7]
+\UND nax-jepx.kuy7
+\MB tierra, agarrar_con_ji*cara, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG pala
+\ENG shovel
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jepx
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 26/Jan/96
+\lex nax+jo7
+\_no 02171
+ZOH004R0011001.txt
+\LG MIG
+\PSH [naxjo7]
+\UND nax +jo7
+\MB tierra, LOC2
+\VAR
+\GRAM s+loc
+\SCI
+\USE
+Page 935

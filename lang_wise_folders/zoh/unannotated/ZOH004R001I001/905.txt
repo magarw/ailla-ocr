@@ -1,0 +1,63 @@
+\_no 02097
+\LG MIG
+\PSH [m@n xoya7]
+\UND m@n xoy.A7
+\MB camote, pasar_de_tiempo, NOM2
+\VAR
+\GRAM sv: incorp
+\SCI
+\USE
+\SPG camote que ya no esta* bueno
+\ENG a bad yam
+SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT XOY
+\RTGR 12
+\RTGL pasar de su tiempo // to be overripe
+\DSRC TK96
+\CMTS
+\1ex_m@n-nax
+\_no 02098
+\LG MIG
+\PSH [m@nnax]
+\UND m@n=nax
+\MB camote, tierra
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG camotal
+\ENG yam farm
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex man@+j@7
+\_no 02099
+\LG MIG
+\PSH [m@n@j@7]
+\UND m@n@ +j@7
+\MB
+\VAR
+ZOH004R0011001.txt
+\GRAM top
+\SCI
+\USE
+\SPG en Santa Mari*a Chimalapa; en 'Chima"
+\ENG in Santa Mari*a Chimalapa; in "Chima"
+\EXU
+Page 905

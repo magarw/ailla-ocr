@@ -1,0 +1,60 @@
+\XSP
+\XEN
+\ROOT yo 12
+\SEMF fal1
+\CAUS yak. yo dejar caer
+\CMTS
+\lex yoj
+\_no 00414
+\SPG pagar
+\ENG to pay
+\EX
+\XSP
+\XEN
+\ROOT yoj T3
+\SEMF trade
+\PASS NONE yoj.7@m*
+\ANTI yoj. 7oy
+\CMTS
+\lex yon
+\_no 00415
+\SPG zafarse; salirse
+ENG to grow tall
+\EX yonna 7anhpajjo*nh bi bejcha
+\XSP salio* del cerco el caballo
+\XEN
+\ROOT yon Ix
+\SEMF condition
+\CAUS yak. yon le dio* lugar que saliera
+\CMTS
+\lex yox
+\_no 00416
+\SPG trabajar
+\ENG to work
+\EX yoxx@ pa jamatin7@yy@
+\XSP trabajo* para que tuvo dinero
+\XEN he worked so he could have money
+\ROOT yox T1
+\SEMF work
+\CMTS
+\lex yuj
+\_no 00417
+\SPG rozar
+\ENG to raze; to clear a field
+\EX
+\XSP
+\XEN
+\ROOT yuj T1
+\SEMF farm
+\CMTS
+ZOH001R0611010.txt
+\lex yuka
+\_no 00418
+\SPG tener hambre
+\ENG to be hungry
+\EX yu7=7anh.p@7t
+\XSP pasar el hambre a
+\XEN
+\ROOT yuka 12
+\SEMF body, sickness
+Page 92

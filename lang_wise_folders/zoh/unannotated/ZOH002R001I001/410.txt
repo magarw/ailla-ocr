@@ -1,0 +1,48 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+Field
+lex
+PSH
+UND
+MB
+VAR
+GRAM
+USE
+SPG
+ENG
+SPL
+SLGR
+SLGL
+EXU
+XPSH
+XSP
+XEN
+SYN
+SEMF
+Description
+The lexeme. The key field of the database.
+The phonological shape (surface form) of the lexeme.
+The underlying morpheme breakdown of a
+polymorphemic lexeme.
+Morpheme-by-morpheme glosses (in Spanish) of the
+UND field.
+Phonological variants of the lexeme.
+The grammatical code of the lexeme.
+Note about the usage of the lexeme; only used for
+bound morphemes.
+Spanish translation of the lexeme.
+English translation of the lexeme.
+A supplemental form, used to determine the
+grammatical class of a verb. This will be one of:
+passive, antipassive, causative, assumptive, or
+perseverative.
+The morpheme gloss code of the supplemental form.
+Glosses of the supplemental form: Spanish // English
+An example, in underlying morpheme-breakdown
+form.
+The 'phonological shape' of the example - written as it
+sounds.
+Spanish translation of the example.
+English translation of the example.
+Synonymous entries.
+The semantic code for this root.
+382

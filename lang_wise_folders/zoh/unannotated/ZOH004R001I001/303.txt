@@ -1,0 +1,63 @@
+\lex jay=tzak
+\_no 00705
+\LG MIG
+\PSH [jaytzak-]
+\UND jay-tzak
+\MB escribir, dejar
+\VAR
+GRAM vt+dir
+\SCI
+\USE
+\SPG dejar escrito
+\ENG to leave written down
+\EXU 7@y+ jay=tzak-w@ tum toto7
+\XPSH [7@y jaytzakk@ tum toto7.]
+\XSP Lo dejo* escrito en un papel.
+\XEN He left it written on a piece of paper.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 jay
+\RTGR 1 T3
+\ROOT 2 tzak
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/96
+\lex jay=tz@y
+\_no 00706
+\LG MIG
+\PSH [jaytz@y-]
+\UND jay=tz@y
+\MB escribir, trabarse
+\VAR
+\GRAM vt+dir
+\SCI
+\USE
+\SPG apuntar en el papel
+ENG to write down on paper
+\EXU 7@y+ jay-tz@y-w@ 7@y+ toto'+jo7
+\XPSH [7@y jaytz@yy@y totojo7.]
+\XSP Lo apunto* en su papel
+\XEN She noted it down on her paper.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 jay
+\RTGR 1 T3
+\ROOT 2 tz@y
+\RTGR 2 12
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS
+\date 06/Feb/96
+\lex jay(a) 7une7
+\_no 00707
+\LG MIG
+\PSH [jaya 7une7]
+\UND jaya 7une7
+\MB macho, nin~o/a
+\VAR jaay 7une7
+Page 303

@@ -1,0 +1,62 @@
+\date 27/Jan/96
+\lex ni.kop
+\_no 00211
+\LG MIG
+\PSH [nikop]
+\UND ni.kop.0
+\MB PURP, cachar, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG guante
+\ENG catcher's mitt
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN kop.kuy7
+\SEMF
+\ETYM
+\ETL
+\ROOT kop
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 27/Jan/96
+\lex ni.k@x
+\_no 00212
+\LG MIG
+\PSH [nik@x]
+\UND ni.k@x.0
+\MB PURP, comer, NOM6
+\VAR
+GRAM SVO
+\SCI
+\USE
+\SPG la cosa en donde comemos
+\ENG a place to eat at
+\EXU ni.k@x mexa
+\XSP mesa para comer
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT k@x
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex ni.monh
+\_no 00213
+\LG MIG
+\PSH [nimonh]
+\UND ni.monh.0
+\MB PURP, dormir, NOM6
+\VAR
+\GRAM SVO
+\SCI
+ZOH001R0611004.txt
+Page 86

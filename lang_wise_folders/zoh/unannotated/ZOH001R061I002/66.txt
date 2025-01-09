@@ -1,0 +1,62 @@
+\ARG
+\NOM taj.e7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tak [1]
+\_no 00266
+\SPG 11over
+\ENG to rain
+\SEMF nature
+\ASP activity
+\ARG
+\NOM
+\RTGR 11
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tak [2]
+\_no 00267
+\SPG tejer
+\ENG to weave
+\SEMF build
+\ASP activity
+\ARG
+\NOM
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex ta7k
+\_no 00268
+\SPG remojar algo en la comida
+\ENG to dunk something in your food
+\SEMF eat
+\ASP semelfactive
+\ARG
+\NOM ta'k.e7
+\RTGR T3
+\POS
+\MID
+\UNDO
+ZOH001R0611002.txt
+\CLZ
+\CMTS
+\lex ta7kx
+\_no 00269
+\SPG arder (lumbre); alumbrar (luz)
+\ENG to burn (a fire); to give light
+\SEMF light,
+temp
+\ASP activity
+\ARG
+\NOM
+\RTGR 12
+Page 66

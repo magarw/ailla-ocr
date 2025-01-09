@@ -1,0 +1,64 @@
+\ETYM
+\ETL
+\ROOT w@7kx
+\RTGR P (T3)
+\DSRC TK94
+\CMTS antip
+\CMTS pass
+\CMTS assum1
+\CMTS CK-EX
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex w@nh
+\_no 03837
+LG MIG
+HAJ:96 ok
+\PSH
+\UND w@nh
+\MB
+\VAR
+\GRAM vi:med
+\SCI
+\USE
+\SPG hundirse; sumirse en, como un traste de agua o ri*o
+\ENG to sink; to be submerged in, like a dish in water or in the river
+\SPL yak.w@nh
+\SLGR CAUS
+\SLGL sumir // to submerge
+\SLGR NO PASS
+\SLGR NO ASSUM1
+\EXU 1 w@nh-w@ traste d@k+7a n@'+jo7
+\XPSH 1 [w@nhnh@ traste dakka_n@jo7.]
+\XSP 1 Se sumio* los trastes en el ri*o.
+\XEN 1 The dishes were submerged in the river.
+\EXU 2 da w@nh-w@_n@'+jo7
+\XPSH 2 [D@ wanhnh@ najo7.]
+\XSP 2 Me sumi* en el ri*o.
+\XEN 2 I submerged myself in the river.
+\SYN
+\SEMF water, arrange
+\ASP transition
+\ARG
+\NOM w@nh.naanh
+\SUB_manh=w@nh, kuj=w@nh
+\ETYM
+\ETL
+\ROOT w@nh
+\RTGR IX
+ZOH004R0011001.txt
+\DSRC TK94
+\CMTS get deriv's
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex w@nh.naanh
+\_no 03838
+\LG MIG
+\PHO [w@nhna*nh]
+\UND w@nh.naanh
+\MB hundirse, MED
+\VAR
+\GRAM meas
+\SPG una hundida
+\ENG a dunk
+\EX
+Page 1650

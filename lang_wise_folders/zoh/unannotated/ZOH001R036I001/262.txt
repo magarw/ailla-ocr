@@ -1,0 +1,71 @@
+\eg1 NEG come -nINC
+\zoq Ya min@.
+\fts No viene.
+\fte It doesn't come.
+\com
+\idx
+\ref ZOH001R036 999-237
+\_no 01218
+\tx GSM: 7i kalambre
+\mb GSM 7i
+kalambre
+calambre
+\sg1 GSM: y
+\eg1 GSM: and cramp
+\zoq GSM: 7i kalambre,
+\fts GSM: Y calambre,
+\fte GSM: And cramp,
+\com
+\idx
+\ref ZOH001R036 999-238
+\_no 01219
+\tx ti tzoy 7@m tz@kjaba
+\mb ti
+para p@7tpa
+para p@7t -pa
+\sg1 que
+hacer-APPL-INC para pasar-INC
+\egl what jump 2E do -APPL-INC for pass -INC
+tzoy 7@m tz@k -jay -pa
+saltar 2E
+\zoq ti tzoy 7@m tz@kjaba
+\fts que remedio le haces
+\fte what medicine do you
+\com
+\idx
+\zoq OSM: Puru matztzokuy.
+\fts OSM: Puro sobada.
+\fte OSM: Pure massage.
+\com
+\idx
+\ref ZOH001R036 999-239
+\_no 01220
+\tx OSM: puru matztzokuy
+\mb OSM puru matz -7oy
+\sg1 OSM: puro sobar-ANTIP-INSTR1
+\egl OSM: cigar rub -ANTIP-INSTR1
+\ref ZOH001R036 999-240
+\_no 01221
+\tx GSM: puru matztzokuy
+\mb GSM
+\zoq GSM: Puru matztzokuy.
+\fts GSM: Puro con sobada.
+\fte GSM: Just massage.
+ZOH001R0361001.txt
+para p@7tpa?
+para que pase?
+make so that passes?
+\com
+\idx
+puru matz -7oy -kuy7
+\sg1 GSM: puro sobar-ANTIP-INSTR1
+\eg1 GSM: cigar rub -ANTIP-INSTR1
+\ref ZOH001R036 999-241
+\_no 01222
+\tx OSM: 7@m kujtz@ypa
+-kuy7
+ga
+Page 262
+minpam
+ga
+bola

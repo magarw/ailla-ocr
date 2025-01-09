@@ -1,0 +1,52 @@
+\ENG medicine
+\lex rrepoyo*
+\_no 01989
+\SPG repollo
+\ENG
+\lex rresyu
+\_no 01990
+\SPG recio
+\ENG
+\lex rrey
+\_no 01991
+\SPG rey
+\ENG king
+\lex rreyna
+\_no 01992
+\SPG Reina
+\ENG Reina
+\lex rrika
+\_no 01993
+\SPG rica
+\ENG rich
+\lex rriku
+\_no 01994
+\SPG rico
+\ENG rich
+\lex rrio
+\_no 01995
+\SPG rio
+\ENG river
+\lex rrobalu
+\_no 01996
+\SPG robalo
+\ENG fish
+\lex rroberta
+\_no 01997
+\SPG Roberta
+\ENG Roberta
+\lex rroberto
+\_no 01998
+\SPG Roberto
+\ENG Roberto
+\lex rroble
+\_no 01999
+\SPG roble
+\ENG
+\lex rrodolfo
+\_no 02000
+\SPG rodolfo
+\ENG rodolfo
+\lex rroma*n
+ZOH001R0611013.txt
+Page 159

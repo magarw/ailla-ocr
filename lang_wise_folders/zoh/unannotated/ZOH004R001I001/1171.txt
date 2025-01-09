@@ -1,0 +1,63 @@
+\lex ponh-yay
+\_no 02721
+\LG MIG
+\PSH [ponhyay-]
+\UND ponh-yay
+\MB quemar, marchitarse
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG chamuscar
+\ENG to char; to scorch
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ponh
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 07/Apr/95
+\lex popo7
+\_no 02722
+\LG MIG
+\PSH
+\UND popo7
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG blanco
+\ENG white
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Nov/94
+\lex popo' jay@¹ mayuu7
+\_no 02723
+\LG MIG
+\PSH [popo jay@ mayu*7]
+\UND popo7 jay@7 mayuu7
+\MB blanco, flor, mayo
+\VAR
+\GRAM amsms
+\SCI
+\USE
+\SPG flor blanca de mayo
+\ENG a type of flower
+\EXU
+\XSP
+ZOH004R0011001.txt
+Page 1171

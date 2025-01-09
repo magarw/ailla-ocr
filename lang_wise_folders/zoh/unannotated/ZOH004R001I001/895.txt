@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 muy
+\RTGR 1 T2, 12
+\ROOT 2 p@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\lex mu'k.i7
+\_no 02074
+\LG MIG
+\PSH [muki7]
+\UND mu7k. E7
+\MB chupar, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG chupado
+\ENG sucked-in; sucked dry
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT mu7k
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\lex mu'k.i+i7k
+\_no 02075
+\LG MIG
+\PSH [muki*7k]
+\UND mu7k. E7 +P@7k
+\MB chupar, NOM7, REL
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG una cosa chupada
+\ENG a sucked-in thing
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT mu7k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 26/Jan/96
+\lex m@7
+ZOH004R0011001.txt
+Page 895

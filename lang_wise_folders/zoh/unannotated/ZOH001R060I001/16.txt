@@ -1,0 +1,76 @@
+\mb y@ -d@ nu7 teji -7a
+\sg1 DCT1-DEM perro hay
+\eg1 DCT1-DEM dog
+\fts este perro esta* afuera de su casa
+\fte this dog is outside of his house
+\com
+\idx probably should be 'de 7@y t@k', the 'ga' is an err
+\cmts picture of a dog sitting next to a dog house
+\ref 058
+\_no 00059
+ZOH001R0601001.txt
+-w@ 7anhk@7 -jo7 de-g@ -7@y t@k
+-VERS1-COM afuera_de-LOC2 de-DEM-3E casa
+there_is-VERS1-COM outside -LOC2 of-DEM-3E
+house
+nuy
+puru kuy
+\tx yada
+t@k 7@y tz@kxukk@
+\mb ya -d@ nu7 -7@y t@k 7@y tz@k -xuk-w@ puru kuy
+\sg1 DCT1-DEM perro-3E casa 3E hacer-3PL-COM puro palo
+\eg1 DCT1-DEM dog -3E house 3E do -3PL-COM cigar tree
+\tx wotze
+7@y kojap.
+t@k
+\mb wotz
+7@y pajaxukk@
+y@da
+-E 7@y pa7 -jay -xuk-w@ 7ay kojap ya -da tak
+\sg1 cortar_c_sierra-NOM3 3E poner-APPL-3PL-COM 3E sombrero DCT1-DEM casa
+\eg1 cut_w_saw
+-NOM3 3E put -APPL-3PL-COM 3E hat
+DCT1-DEM house
+\tx 7@y nea d@kka ne7.
+\mb 7@y nea7 d@kkay ne7
+\sg1 3E pared NPL
+\egl 3E wall NPL
+\fts esta casa de perro hicieron el techo puro con tablas. y las paredes
+tambien
+\com
+\idx
+\cmts same as 009
+\ref 059
+\_no 00060
+\fte they made this dog's house entirely of sawn wood. they put on a roof on
+this house and walls, too.
+tambien
+also
+\ref 060
+\_no 00061
+\tx tenn@
+ten
+\mb
+\sg1 pararse-COM DEF gato
+\egl stand -COM DEF cat
+bi mixtu naxjo7
+\tx tenn@
+\mb ten
+-w@ bi mixtu7 nax
+\fts el gato esta* parado en el suelo
+\fte the cat is standing on the ground
+\com
+\idx
+-jo7
+tierra-LOC2
+earth -LOC2
+bi mixtu mexa tzapji7
+-wa bi mixtu7 mexa
+tzapji7
+\sg1 pararse-COM DEF gato mesa encima
+\egl stand -COM DEF cat
+table on
+\fts el gato esta* parado encima de la mesa
+\fte the cat is standing on the table
+\com
+Page 16

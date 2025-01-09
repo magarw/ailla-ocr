@@ -1,0 +1,84 @@
+\_no 00055
+\tx 7@y juyy@
+tum kajtzay7 pa y p@kminpa
+\mb 7@y juy
+tum kajtzay7 para 7@y p@k
+\sgl 3E comprar-COM uno hamaca
+para 3E
+\egl 3E buy
+-wa
+-COM one hammock for 3E get
+\tx katemakjonanh
+\mb katemako-jonanh
+\sg1 Catemaco-DIR3
+\egl Catemaco-DIR3
+\ref ZOH001R055 055
+\_no 00056
+\tx 7entonses jerma*n wituw@
+\mb
+7entonses jerma*n witu7
+\sg1 entonces
+\egl then
+\zoq 7@y juyy@ tum kajtzay7 pay p@kminpa go7 Katemakjonanh.
+\fts Compro* una hamaca para que lo trae para Catemaco.
+\fte she bought a hammock to take to Catemaco.
+\com
+\idx
+\zoq 7entonses Jerma*n wituw@.
+\fts Entonces Germa*n regreso*.
+\fte So Germa*n went back.
+\com
+\idx
+German regresar-COM
+German return -COM
+\ref ZOH001R055 056
+\_no 00057
+\tx n@kke7tt@
+ZOH001R0551001.txt
+sentrojonanh pa y p@kpa
+\mb n@k -ke7t -w@ sentro-jonanh para 7@y pak
+\sg1 irse-REPET-COM
+centro-DIR3
+para 3E
+\egl go -REPET-COM center-DIR3 for 3E
+\tx_n@kpa*7
+t@k7anhj@nanh
+\mb_n@k -pa -v7k t@k7anhj@7-j@nanh
+San_Miguel-DIR1
+\sg1 irse-INC-REL
+\egl go -INC-REL San_Miguel-DIR1
+\ref ZOH001R055 057
+\_no 00058
+\tx minpa
+\mb min
+jerma*n
+jerma*n
+-pa
+\sg1 venir-INC Germa*n
+\egl come -INC Germa*n
+-wa
+\zoq Minpa Jerma*n.
+\fts viene Germa*n.
+n@kpa*7_T@k7anhj@nanh.
+\zoq N@kke7tt@ sentrojonanh pay p@kpa bi karrụ
+\fts Se fue* para el
+va para San Miguel.
+\fte He went to the center to catch the bus that goes to San Miguel.
+\com
+centro para que agarre el carro que
+\idx
+\fte Germa*n came.
+\com
+\idx
+go7
+-min -pa go7
+agarrar-venir-INC PURP
+-come -INC PURP
+\ref ZOH001R055 058
+\_no 00059
+bi karru
+-ра bi karru
+agarrar-INC DEF camio*n
+-INC DEF bus
+get
+Page 13

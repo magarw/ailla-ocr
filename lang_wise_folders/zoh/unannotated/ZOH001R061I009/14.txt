@@ -1,0 +1,60 @@
+\ANTI kop. 7oy
+\CMTS has to be with both hands
+\lex kot
+\_no 00051
+\SPG guardar algo que le dieron
+\ENG to keep something you're given
+\EX
+\XSP
+\XEN
+\ROOT kot T3
+\SEMF possess
+\PASS NONE kot.7@m*
+\ANTI kot.7oy
+\CMTS
+\lex ko7tz
+\_no 00052
+\SPG tentar con la mano (como si fuera carna o masa)
+\ENG to touch with the hand (as if it were meat or masa)
+\EX
+\XSP
+\XEN
+\ROOT ko7tz T3
+\SEMF touch, hand
+\ANTI ko7tz.7oy (aluso sexual)
+\CMTS touch something hanging in a tree?
+\lex kuj
+\_no_00053
+\SPG empujar
+\ENG to push
+\EX kujtenn@
+\XSP 10 tiene empujado
+\XEN he's got it pushed
+\ROOT kuj T3
+\SEMF move
+\PASS NONE kuj.7@m
+\ANTI kuj.7oy
+\PRSV kujtenn@
+ZOH001R0611009.txt
+\lex kunh
+\_no 00054
+\SPG colgar (como una hamaca)
+\ENG to hang (like a hammock)
+\EX 7@y kunhnh@ kajtzay
+\XSP colgo* la hamaca
+\XEN she hung the hammock
+\EX 7anhkjonh 7@y kunhnh@ / 7@y j@xkunhnh@
+\XSP lo colgo* afuera
+\XEN he hung it outside
+\ROOT kunh P (T3)
+\SEMF affect, position
+\PASS kunh.7@m colgarse
+\ANTI kunh.7oy colgar
+ASSU kunh.ney estar colgado
+\lex k@nh
+\_no 00055
+\SPG pintar
+\ENG to paint
+\EX y@7 p@pi7 d@ nea7 k@nhpa
+\XSP con esto pinto la pared (entonces, es la brocha)
+Page 14

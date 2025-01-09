@@ -1,0 +1,62 @@
+\lex piyu' pojo7k
+\_no 02673
+\LG MIG
+\PSH [piyu pojo7k]
+\UND piyu7 pojo7k
+\MB gallina, huevo
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG huevo de gallina
+\ENG chicken egg
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex piyu' p@k
+\_no 02674
+\LG MIG
+\PSH [piyu p@k]
+\UND piyu7 p@k
+\MB gallina, pluma
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG pluma de gallina
+\ENG hen feather
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex piyu' t@k
+\_no 02675
+\LG MIG
+\PSH [piyu t@k]
+\UND piyu7 t@k
+\MB gallina, casa
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG cacaste
+\ENG chicken coop
+\EXU
+\XSP
+ZOH004R0011001.txt
+Page 1151

@@ -1,0 +1,63 @@
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS ANALYSIS? face-dog?
+\date 11/Feb/96
+\lex win=n@k
+\_no 03715
+\LG MIG
+\PSH [winn@k-]
+\UND win=n@k
+\MB CARA, irse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG guiar
+\ENG to guide
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT n@k
+\RTGR IX
+\DSRC HAJ94
+LF: kuy
+\CMTS
+\date 11/Feb/96
+\lex win-n@k-ten. '@y
+\_no 03716
+LG MIG
+\PSH [winn@ktenn@y-]
+\UND win-n@k-ten.7@y
+\MB CARA, irse, pararse, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG enfrentarle
+\ENG to face someone
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 n@k
+RTGR 1 IX,
+\ROOT 2 ten
+\RTGR 2 Il
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+ZOH004R0011001.txt
+Page 1596

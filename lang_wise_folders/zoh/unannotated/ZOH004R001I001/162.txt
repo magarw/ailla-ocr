@@ -1,0 +1,63 @@
+\UND 7ok.nuk.7@y
+\MB ABAJO, agarrar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG soltar
+\ENG to loose
+\EXU 7@n+ 7ok.nuk. '@y-pa bi nu' d@k+'a
+\XPSH [7@n 7oknukk@ba bi nu d@kka.]
+\XSP Suelto los perros.
+\XEN I'm letting go the dogs.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nuk
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 09/Jan/96
+\lex 7ok.n@k. '@y
+\_no 00377
+\LG MIG
+\PSH [7okn@kk@y-]
+\UND 7ok.n@k.7@y
+\MB ABAJO, irse, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 seguir
+\SPG 2 acompan~ar
+\ENG 1 to follow
+\ENG 2 to accompany
+\EXU ney+ 7ok.n@k. '@y.xuk. @-pa
+\XPSH [Ney 7okn@kk@yxuk@ba.]
+\XSP va por fila.
+\XEN They followed each other (went in single file.)
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT n@k
+\RTGR IX
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex 7oko
+\_no 00378
+\LG MIG
+\PSH
+\UND 7oko
+\MB
+\VAR
+ZOH004R0011001.txt
+\GRAM S
+\SCI
+\USE
+\SPG vieja
+\ENG old woman
+\EXU 7oko+' am
+Page 162

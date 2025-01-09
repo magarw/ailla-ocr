@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG por aqui* y por alla*
+\ENG over here and over there; all over
+\SPL
+\SLGR
+\EXU 7ix=ko.xa-pa y@.j.@nh ka.j.anh
+\XPSH [7ixkoxapa y@j@*nh kaja*nh.]
+\XSP Esta* viendo por todos lados.
+\XEN He's looking here and there.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS CK-all
+\date 12/Feb/96
+\lex {y@.j@.@nh}
+\_no 04546
+\LG MIG
+\PSH [y@j@*nh]
+\UND ya.ja. @nh
+\MB DCT1, DIR1
+\VAR
+\GRAM av
+\SPG por aqui*
+\ENG over here; towards here
+\SPL
+\SLGR
+\EXU ya.ja.anh jej-pa tum tal leuteryo ga.7
+\XPSH [Y@ja*nh jejpa tum tal Leuteryo ga7.]
+\XSP Por aca* vive un tal Leuterio.
+\XEN This Leuterio lives over there.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {y@k.jo.VERB.7@y}
+\_no 04547
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+\UND y@k.jo. VERB.7@y
+\MB INSTR2, EN, VERB, SUF
+\VAR
+\USE lexical verb circumfixoidal desinence plus an extra prefix
+\GRAM
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU 70 bescha 7@y+ teke7t 7@m+ y@k.jo.manh.7@y-pa
+\XPSH [70 beschay teke7t 7am y@kjomanhnh@ba.]
+\XSP o orin de caballo lo pisas.
+\XEN Or you're stepping in horse piss.
+\SYN
+\SEMF
+\ROOT
+Page 1952

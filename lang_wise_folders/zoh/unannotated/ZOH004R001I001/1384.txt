@@ -1,0 +1,63 @@
+\USE
+\SPG 1 querer
+\SPG 2 aceptar
+\ENG 1 to love; to want
+\ENG 2 accept as fiancee
+\SPL t@7.7oy
+\SLGR ANTIP
+\SLGL querer // to love, to want
+\SPL t@7.7@m
+\SLGR PASS
+\SLGL servir // to suffice, to function adequately
+\EXU 1 mix 7@n+ t@-pa
+\XPSH 1 [Mix 7@n t@pa.]
+\XSP 1 Te quiero.
+\XEN 1 I love you.
+\EXU 2 ta'-7@m-pa
+\XPSH 2 [T@7@mpa.]
+\XSP 2 Sirve.
+\XEN 2 It will do.
+\EXU 3 ya ta'-7@m-wa
+\XPSH 3 [Ya t@7@mm@.]
+\XSP 3 No sirvio*.
+\XEN 3 It didn't work.
+\SYN
+\SEMF cognitive
+\ASP state
+\ARG
+\NOM ta'.7@m-pa+a7k
+\SUB 7anh.t@', yak.ta'.7@y
+\ETYM
+\ETL
+\ROOT t@7
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\CMTS CK-EX1, EX3 HAJ:96 fixed
+\date 03/Jan/80
+\lex t@'.7@m-pa+a7k
+\_no 03218
+\LG MIG
+\PSH [t@7@mpa*7k]
+\UND t@7.7@m-pa +P@7k
+\MB querer, PASS, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG cosa que sirve
+\ENG a thing that will do
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT t@7
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 09/Feb/96
+Page 1384

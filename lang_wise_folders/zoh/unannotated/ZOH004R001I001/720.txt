@@ -1,0 +1,63 @@
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\DATE 03/Jan/1980
+\lex k@.jim. '@y
+\_no 01666
+\LG MIG
+\PSH k@jimm@y-]
+\UND k@.jim.7@y
+\MB FUERĂ, tocar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tocarlo al pasar con espalda o hombro, pero no con la mano
+\ENG to touch something in passing with the back or shoulder, not with
+the hand
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jim
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 15/Jul/95
+\lex k@ji'+jo7
+\_no 01667
+\LG MIG
+\PSH [k@jijo7]
+\UND kaji +jo7
+\MB abajito, LOC2
+\VAR
+\GRAM av
+\SCI
+\USE
+\SPG bajito; cosa abajo
+\ENG below; something below
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT
+Page 720

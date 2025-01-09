@@ -1,0 +1,32 @@
+(see table 5.2). The second verb is inflected with one of the two dependent
+suffixes: -E if the first verb has completive aspect, and -wǝ if it is in the
+incompletive or a non-declarative mood. Only the second verb is marked for
+agreement with the subject (and object), and the agreement marker is always
+selected from the ergative set, regardless of the transitivity of the verb root.
+This ergative shift is discussed further in Chapter 8. Example (4.9 i) shows a
+dependent construction with incompletive aspect, and (ii) shows a dependent
+construction with completive aspect.
+(4.12)
+(i)
+(ii)
+karreta nøkpa 'øy juppøkkoyyø
+karreta nək-pa ?əy+ hup-pək.?oy-wǝ
+carreta ir-INC_3E+ jalar-agarrar.ANTIP-dINC
+'Una carreta va a cargarlos.'
+tum pong nøkkøy koyoxe tum rrancho
+tum poŋ nǝk-wǝ ?əy+ ko.yoš-E
+(ZOH001R022-020)
+tum rrančo
+uno vez_irse-COM 3E SOC.trabajar-dCOM uno rancho
+'Se fué a buscar trabajo en un rancho.'
+55
+(ZOH001 R018-023)
+Generally, dependent verb constructions can be translated "V1 while V2-
+ing" (e.g., 'whistle while working'). Auxiliary verbs are consistently translated as
+"Aux to V1" (e.g., 'begin to sow', 'know how to speak Zoque'). As a set, they
+meet Steele's cross-linguistic criteria for auxiliary verbs (1981): they are a
+small, closed set; they are constituents (contrasted with verb root compounds,
+section 8.3); and some of them mark tense and mood. The two most frequently
+used auxiliary verbs, n?k-, 'to go', and min-, 'to come', indicate the direction of
+motion of the dependent verb. Direction is considered an operator of equal
+syntactic status as tense in RRG (Van Valin & La Polla, 1997:42-3).

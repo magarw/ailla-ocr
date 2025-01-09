@@ -1,0 +1,79 @@
+ZOH001R0601001.txt
+\fts estes muchachitos andan corriendo dentro de la iglesia
+\fte these little boys are running around inside the church
+\com
+\idx
+\ref 146
+\_no 00147
+\tx yukpoypa
+\mb yuk-poy
+\sg1 ARR-juirse-INC sagrado-casa
+\eg1 UP -flee -INC sacred -house
+\ref 147
+\_no 00148
+\tx yukpoypa
+\mb yuk-poy
+-ра
+\fts van a correr en frente de la iglesia
+\fte they're going to run in front of the church
+\com
+\idx
+maxant@k
+maxan -t@k
+\ref 148
+\_no 00149
+pajak7aka
+-pa pajak-7aka
+\sg1 ARR-juirse-INC ri*o -orilla
+\eg1 UP -flee -INC river-edge
+\fts van a correr en la orilla del ri*o
+\fte they're going to run alongside the river
+\com
+\idx
+winjo7
+win -jo7
+CARA-LOC2
+FACE-LOC2
+\tx yukpoyxukpa
+\mb yuk-poy
+7anhmaykuyt@k
+7anh -may
+-kuy7 -t@k
+\sg1 ARR-juirse-3PL-INC BOCA -contar-INSTR1-casa
+\egl UP -flee -3PL-INC MOUTH-count -INSTR1-house DCT3-DIR1
+gaja*nh
+ka -jaanh
+DCT3-DIR1
+-xuk-pa
+\fts van a correr mas alla* de la escuela
+\fte they're going to run beyond the school
+\com
+\idx
+\ref 149
+\_no 00150
+\tx yukpoypa
+\mb
+7axta gajanh
+yuk-poy -ра 7axta ka -jaanh
+\sg1 ARR-juirse-INC hasta DCT3-DIR1
+\eg1 UP -flee -INC until DCT3-DIR1
+7anhmaykuyt@kkina*nh
+7anh -may -kuy7 -t@k -kinaanh
+BOCA -contar-INSTR1-casa -de
+MOUTH-count -INSTR1-house-limit
+\fts van a correr hasta la escuela
+\fte they're going to run up to the school
+\com
+\idx
+\ref 150
+\_no 00151
+witin
+\tx yukpoyy@n
+\mb
+t@kjonhjo7
+yuk-poy -w@ -7@n wit -E -7@n_t@k -jönh
+\sg] ARR-juirse-COM-1E
+-jo7
+andar-dCOM-1E casa -adentro-LOC2
+\egl Up -flee -COM-1E walk -dcoM-1E house-inside -LOC2
+Page 35

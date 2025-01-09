@@ -1,0 +1,59 @@
+\lex jaje7
+\_no 00007
+\SPG zumo de naranja o limo*n
+\ENG zest of orange or lime
+\EX 7anax jaje7
+\XSP zumo de naranja
+\XEN_orange zest
+\EX 7imunix jaje7
+\XSP zumo de limo*n
+\XEN lime zest
+\ROOT jaj Ix
+\CMTS
+\lex jakx
+\_no 00008
+\SPG sacar algo de la boca
+\ENG to hawk a gob
+\EX
+\XSP
+\XEN
+\ROOT jakx Il
+\CMTS caus yak.jakx hacer sacar
+\lex ja7k
+\_no 00009
+\SPG ahogarse
+\ENG to choke; to drown
+\EX ja7kk@ kwandu k@xxoba
+\XSP se ahogo* cuando estaba comiendo
+\XEN he choked when eating
+\EX 7@y yakja7kk@ n@jo7
+\XSP 1o ahogo* en el ri*o
+\XEN he drowned it in river
+\ROOT ja7k 12
+\CMTS caus yak.ja7k ahogar (choke someone, or drown in the river...)
+\lex ja7p
+\_no 00010
+ZOH001R0611011.txt
+\SPG moler; quebrajar (maiz, arroz)
+\ENG to grind; to crush (corn, rice)
+\EX ja7pp@mm@ bi mok
+\XSP se quebrajo* el maiz
+\XEN the corn was ground
+\ROOT ja7p T3
+\CMTS to crush/grind something in the metate
+\CMTS antip ja7p. 7oy moler
+\CMTS pass ja7p.7@m molerse
+\CMTS prsv ja7p.ten
+\CMTS term tuk
+\lex jatikx
+\_no 00011
+\SPG estornudar
+\ENG to sneeze
+\EX da yakjatikx@ niwi
+\XSP me hizo estornudar el chile
+\XEN the chile made me sneeze
+\ROOT jatikx Ix
+\CMTS caus yak.jatikx hacer estornudar
+\lex ja7tz
+\_no 00012
+Page 2

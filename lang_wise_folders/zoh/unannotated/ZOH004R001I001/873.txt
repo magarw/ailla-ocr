@@ -1,0 +1,62 @@
+\ETL
+\ROOT monh
+\RTGR 12
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex monh.kuy'=tz@k
+\_no 02025
+\LG MIG
+\PSH [monhkuytz@k-]
+\UND monh.kuy7=tz@k
+\MB dormir, INSTR1, HACER
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG acostarse
+\ENG to go to bed
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 monh
+\RTGR 1 12
+\ROOT 2 tz@k
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex monh-yuk.konh
+\_no 02026
+\LG MIG
+\PSH [monhyukkonh-]
+\UND monh-yuk. konh
+\MB dormir, ARR, gatear
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG levantarse de cama
+\ENG to get up out of bed
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 monh
+\RTGR 1 12
+\ROOT 2 konh
+\RTGR 2 P, (12)
+\DSRC HAJ94
+\CMTS
+\date 12/Nov/94
+\lex moradu
+\_no 02027
+ZOH004R0011001.txt
+Page 873

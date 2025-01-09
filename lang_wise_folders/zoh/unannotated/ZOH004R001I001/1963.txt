@@ -1,0 +1,62 @@
+\SYN
+\SEMF body
+\ASP activity
+\ARG
+\NOM
+\SUB nik. tek. '@y, tek. 'oy
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex {-v-tij}
+\_no 04571
+\LG MIG
+\PSH
+\UND V-tij
+\MB INC AUX
+\VAR
+\GRAM inc aux
+\SCI
+\USE linker v is dropped and v of preceding syllable is lengthened
+\SPG regresar de hacer VERBO
+\ENG to return from VERBing
+\SPL
+\SLGR
+\EXU 7@y+ 7anh.kim-V-tij.w@ t@k+jo7
+\XPSH [7@y 7anhki:mtijja t@kjo7.]
+\XSP Regreso* de gobernar a la casa.
+\XEN He came home from governing.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 28/Jun/96
+\lex {.vt@}
+\_no 04572
+ZOH004R0011001.txt
+\LG MIG
+\PSH [-t@-]
+\UND Vt@
+\MB DESID
+\VAR
+\USE verbal suffix: desiderative
+\GRAM suf
+\SPG querer VERBO
+\ENG to want to VERB
+\SPL
+\SLGR
+\EXU mix+7@m p@7t.vt@-pa
+\XPSH [Mixx@m p@:t@pa.]
+\xSP Tu quieres pasar.
+\XEN You want to pass.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS the v never appears on the surface
+\date
+Page 1963

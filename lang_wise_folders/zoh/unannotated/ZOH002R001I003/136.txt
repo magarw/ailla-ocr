@@ -1,0 +1,51 @@
+Undergoers may be patients or themes. There are very few examples of
+clauses whose verbs have non-animate subjects in the texts, although the
+lexicón contains many intransitive verb roots whose subjects must be inanimate
+entities, such as puc-, 'rot'. Recipients are not undergoers in MIG Zoque, rather
+they map to the third argument, discussed below. There are no examples of
+sources as unmarked arguments.
+(6.3) examples of undergoers
+(i)
+patient
+(ii)
+(iii)
+(iv)
+(v)
+'øy pongpa gay nippam bi 'api'
+?ǝy+ poŋ-pa
+ga.y
+?əy+ nip-pa+?am
+bi ?api?
+3E+ quemar-INC DCT3.TMP 3E+ sembrar-INC+YA DEF chayote
+'Lo quema (el rastrojo), luego ya siembre el chayote."
+theme
+'øn pødampa xuyujo' bi xix
+?ǝn+ pø?-tam-pa
+šuyu?+ho? bi šiš
+1E+ poner-1/2PL-INC olla+LOC2 DEF carne
+'Echamos la carne en la olla.'
+location
+'øn tzedampa bi xuyu'
+?ən+ ce?-tam-pa
+bi šuyu?
+1E+ lavar-1/2PL-INC DEF olla
+'Lo lavamos (la carne) en la olla'
+benefactor
+døxxøn manakdøkka 'øn 'ixtukpa
+dəš ən+ manak+dǝkkay ?ən+ ?iš-tuk-pa
+1 Prn 1E+ hijo+NPL
+'Espero á mis hijos'
+patient, subject of intransitive
+kapa de xiki bi sato
+0 ka?-pa
+de šik.E
+bi sato
+3A morirse-INC de reirse. NOM3 DEF satornino
+'Sato está muriendo de risa."
+(ZOH001R053-015)
+111
+(ZOH001R029-080)
+1E+ ver=terminarse-INC
+(ZOH001R029- 078)
+(ZOH001R053- 026)
+(ZOH001R025-130)

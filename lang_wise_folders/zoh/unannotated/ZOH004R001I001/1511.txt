@@ -1,0 +1,63 @@
+XPSH 3 [7iw@ tz@tz@*7]
+\XSP 3 Quien es mayor?
+\XEN 3 who is the oldest (girl)?
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-all HAJ: 96 the stress is syntactic; NO, there's REL on the
+end: TK
+\date 26/Jun/96
+\lex tz@.tz@ 7awin
+\_no 03512
+\LG MIG
+\PSH [tz@tz@ 7awin]
+\UND tz@.tz@ 7awin
+\MB
+\VAR
+\GRAM SR (m) s
+\SCI
+\USE
+\SPG hermana mayor
+\ENG older sister
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Aug/94
+\lex tz@wi
+\_no 03513
+\LG MIG
+\PSH
+\UND tz@wi
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG tabaco
+\ENG tabacco
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+LF:7okox
+ZOH004R0011001.txt
+\lex tz@wi juk.i
+\_no 03514
+Page 1511

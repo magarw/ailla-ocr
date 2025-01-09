@@ -1,0 +1,64 @@
+\SPL ne7k.ney
+SLGR ASSUM1
+\SLGL estar tapado // to be diverted
+\EXU 1 7@y+ ne7k-wa pajak 7@y+ pa-wa_7eya+joonh
+\XPSH 1 [7@y ne7kk@ pajak, 7@y paw@ 7eyajo*nh.]
+\XSP 1 Tapo* el ri*o, lo echo para un lado.
+\XEN 1 He diverted the stream,
+EXU 2 n@'=ne7k-w@
+\XPSH 2 [N@ne7kk@.]
+\XSP 2 Tapo* el agua.
+\XEN 2 She diverted the water.
+\EXU 3 ne7k.7@m-w@ bi n@7
+\XPSH 3 [Ne7kk@mm@ bi n@7.]
+\XSP 3 Esta* tapado el ri*o.
+\XEN 3 The river was diverted.
+\SYN
+\SEMF water, arrange
+\ASP accomplishment
+\ARG patient
+\NOM ne7k. 'oy.kuy7, ne7k.naanh
+\SUB
+\ETYM
+\ETL
+\ROOT ne7k
+\RTGR P, (T3)
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex ne7k.naanh
+\_no 02188
+\LG MIG
+\PHO [ne7kna*nh]
+\UND ne7k.naanh
+\MB tapar_corriente, MED
+\VAR
+\GRAM meas
+\SPG una tapada del corriente
+\ENG a diverted stream of water
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT ne7k
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex ne7kx
+\_no 02189
+\LG MIG
+\PSH
+\UND ne7kx
+ZOH004R0011001.txt
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+causing it to run off to the side.
+\SPG ser pegajoso; pegarse con el sudor de uno
+\ENG to be sticky; to be sticky with sweat
+\EXU 1 ne7kx-pa 7@n+ wiki' d@k (+'ay)
+Page 943

@@ -1,0 +1,66 @@
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex {mi-x} [1]
+\_no 04466
+\LG MIG
+\PSH [mix]
+\UND mi-x
+\MB 2ABS, PRON
+\VAR
+\GRAM second person pronoun
+\SCI
+\USE
+\SPG tu*
+\ENG you
+\EXU mi-x 7@m+ p@7t=t@-pa
+\XPSH [Mixx@m p@7tt@pa.]
+\XSP Tu quieres pasar.
+\XEN YOU want to pass.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Feb/96
+\lex {mix+} [2]
+\_no 04467
+\LG MIG
+\PSH
+\UND mix+
+\MB 2>1; 1>2
+\VAR
+\GRAM pron
+\SCI
+\USE pronominal agreement marker used when a first person subject
+acts on a second person object, or when a second person subject
+acts on a first person subject
+\SPG tu...yo, yo...tu
+\ENG you
+I
+\SPL
+me,
+ZOH004R0011001.txt
+you
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\SLGR
+\EXU 1 ti+goo7_de.7xe mix+ tz@k.jay-pa
+\XPSH 1 [Tigo*7 de7xe mix tz@kjaba?]
+\XSP 1 ? Porque asi* me haces?
+\XEN 1 why do you treat me this way?
+\EXU_2_mix+ n@m.jay-wa ke y@.ji yakki' ya p@7t-A
+\XPSH 2 [Mix n@mjayy@ ke yaji yakki ya pa: ta.]
+\XSP 2 Te dije que aqui nadie no pasa.
+\XEN 2 I told you that nobody can pass here.
+\SYN
+Page 1918

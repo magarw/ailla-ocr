@@ -1,0 +1,26 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+information as we could produce for each item: morphological analysis,
+historical attributes of underlying forms, usage and grammatical codes,
+examples, principal derived forms, and much cross-referencing with root forms
+and derived expressions.
+During my year in the field, I taped some 15 hours of narrative texts with
+ten different speakers, both men and women. These texts were transcribed by
+me, usually with Sr. Sánchez, but occasionally with the narrator, and then
+translated into Spanish by Sr. Sánchez. English translations were produced by
+me from the Zoque texts. They are all entered into Shoebox databases and
+most have been analyzed using Shoebox's interlinearization tools. In addition
+to these natural texts, there are several small databases of elicited sentences,
+which I constructed and then tested with Sr. Sánchez and Sr. Camilo Miguel
+Sánchez. The texts, the elicited examples, and the lexicon, all comprise the
+data on which this grammar is based, and are collectively referred to
+henceforward as the corpus.
+1.3. Methodology
+The foundation of this grammar are the natural texts in the corpus. The
+dictionary work, supplemented by discussions with Kaufman and others on the
+project and intensive training by Sr. Sánchez, gave me an initial grasp of the
+MIG Zoque language. During the months of taping, transcribing, translating,
+and interlinearizing texts, the principal grammatical patterns of the language
+emerged. Since the texts tended to be quite similar in style, usage, and lexical
+range, I began constructing sentences based on those found in the texts that
+would test the full range of syntactic and morphological possibilities. As the
+5

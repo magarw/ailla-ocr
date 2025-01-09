@@ -1,0 +1,75 @@
+\ref ZOH001R048 009
+\_no 00010
+\tx wen
+\mb wenu d@ wit
+-wa
+\sg1 mucho 1A andar-COM
+\eg1 a_lot 1A walk -COM
+\zoq wenu d@ witt@.
+\fts Anduve mucho.
+\fte I travelled a lot.
+\com
+\idx
+d@ witt@.
+\mb d@x
+\ref ZOH001R048 010
+\_no 00011
+\tx dax y@j@*nh
+kaja*nh_d@x
+d@ matz@kk@
+n
+witi.
+dax ya
+-j@@nh
+kajanh d@x d@ ma7 -tz@k -wa 7@n wit
+\sgl 1Prn DCT1-DIR1 tigre 1Prn 1A venta-hacer-COM 1E
+\egl 1Prn DCT1-DIR1 jaguar 1Prn 1A sale -do -COM 1E
+\zoq Dax yaj@*nh kaja*nh, d@x d@ matz@kk@n witi.
+\fts Yo por aqui* y por alla*, yo anduve mucho vendiendo.
+\fte I here and there, I travelled a lot selling.
+\com
+\idx
+\ref ZOH001R048 011
+\_no 00012
+j@.
+\tx
+\mb ja7
+\sgl si*
+\egl yes
+\zoq J@7.
+\fts Si*.
+\fte Yes.
+\com
+\idx
+ZOH001R0481001.txt
+\ref ZOH001R048 012
+\_no 00013
+da jodiduwa*m.
+\tx 7i pitzko*7 pwes dey
+\mb
+pwes te -Y da jodidu -w@ -7am
+\sg] y
+pues DCT2-TMP 1A jodido -COM-YA
+\egl and because of well DCT2-TMP 1A foolish-COM-NOW
+7i pitzko7
+por eso
+\zoq 7i pitzko*7 pwes, dey d@ jodiduwa*m.
+\fts y por eso pues, ahora ya estoy jodido.
+\fte And that's why, well, now I'm screwed.
+\com
+\idx
+\ref ZOH001R048 013
+\_no 00014
+\tx porke wen d@n kastigatz@kk@
+n win.
+\mb porke wenu dan kastiga -tz@k -wa 7@n win
+\sg1 porque mucho XE castigar-hacer-COM 1E REFL
+\egl because a lot XE punish -do -COM 1E REFL
+\zoq Porke wenu d@n kastigatz@kk@n win.
+\fts Porque me castigue* mucho.
+\fte Because I punished myself so much.
+\com
+Page 3
+-E
+andar-dCOM
+walk -dCOM

@@ -1,0 +1,80 @@
+ZOH001R0471001.txt
+\eg1 and of DCT2-LOC1 well 1A come -COM DCT3-TMP 1E
+\zoq 7i de deji7 pwes, d@ minn@ kay 7@n pa7tt@.
+\fts Y de ahi* pues, vine encontre*
+\fte And from there well, I came then I found it.
+\com
+\idx
+\ref ZOH001R047 028
+\_no 00029
+\tx n@mpa
+\mb n@m
+7@n
+d@ minna m
+d@ min
+-w@ -7am
+7@n
+tey
+d@ ye7tztzam
+te -y da ye7tz - tam -wa
+DCT2-TMP 1A 11egar-1/2PL-COM 1E
+\egl say -INC that 1A come -COM-NOW DCT2-TMP 1A arrive-1/2PL-COM 1E
+-ра
+\sg1 decir-INC que 1A venir-COM-YA
+\tx t@kjo
+\mb t@k
+ke
+ke
+bweno.
+-jo7
+bweno
+\sg1 casa -Loc2 bueno
+\egl house-LOC2 good
+\ref ZOH001R047 029
+\_no 00030
+\tx
+pwes kontenu.
+\mb pwes kontenu
+\sgl pues contento
+\egl well happy
+\zoq N@mpa ke d@ minna*m tey, d@ ye7tztza*m_7@n t@kjo7 bweno.
+\fts Dice que ya vine ahora ya 1legue* en mi casa bueno.
+\fte He says that I've come back now, I've arrived in my house OK.
+\com
+\idx
+\zoq Pwes, kontentu.
+\fts Pues, esta* contento.
+\fte well, happy.
+\com
+\idx
+\ref ZOH001R047 030
+\_no 00031
+\tx kontentu teji7aw@
+\mb kontentu teji
+bi dan jaya.
+-7a -wa bi dan jaya
+\sg1 contento hay
+\egl content there_is-VERS1-COM
+-VERS1-COM DEF XE
+DEF XE
+\zoq Kontentu teji7aw@ bi dan jaya.
+\fts Contento esta* mi marido.
+\ref ZOH001R047 031
+\_no 00032
+\fte Happy that my husband is there.
+\com
+\idx
+\tx ja, de 7xe
+de7.
+\mb ja te -7xe te -7
+\sgl si* DCT2-SIM DCT2-NOM1
+\egl yes DCT2-SIM DCT2-NOM1
+\zoq J@7, de7xe de7.
+\fts Si*, asi* es.
+\fte Yes, that's how it is.
+\com
+find
+esposo
+husband
+-COM
+Page 7

@@ -1,0 +1,63 @@
+\lex jupx
+\_no 00046
+\LG MIG
+\PSH
+\UND jupx
+\MB
+\VAR
+\GRAM vt
+\SPG recoger tela
+\ENG to gather cloth
+\SPL jupx.7oy
+\SLGR ANTIP
+\SLGL recoger tela
+\SPL jupx.7@m
+\SLGR PASS
+\SLGL encogerse // they shrank the cloth
+\SLGR NO ASSUM1
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT jupx
+\RTGR T3
+\DSRC HAJ95
+\CMTS NEW ROOT (from Camilo)
+\CMTS
+\date 23/Jun/96
+\lex ju7t
+\_no 00047
+\LG MIG
+\PSH
+\UND ju7t
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG remover
+\ENG to stir
+\SPL ju7t.7oy
+\SLGR ANTIP
+ZOH001R0611006.txt
+\SLGL remover // to stir
+\SLGR NO PASS
+\SPL ju7t.ten
+\SLGR PRSV
+\SLGL tener puesto el palo, listo para moverlo // to have the stick in the
+pot, ready to stir
+EXU 1 7@y+ ju7t-w@ bi 7uk.E
+\XPSH 1 [7@y ju7tt@ bi 7uki.]
+\XSP 1 Movio* el atole.
+\XEN 1 She stirred the atole.
+\EXU 2 ju7t.ten.e 7uk.E
+\XPSH 2 [Ju7ttene 7uki.]
+\XSP 2 Tiene puesto el palo en el atole.
+\XEN 2 She's got the stirrer set ready in the atole.
+\EXU 3_7@y+ ju7t-witu'-w@ bi k@x.i
+\XPSH 3 [7@y ju7twituwa bi k@xi.]
+\XSP 3 Removio* la comida.
+\XEN 3 She stirred the food.
+\SYN
+\SEMF move
+Page 34

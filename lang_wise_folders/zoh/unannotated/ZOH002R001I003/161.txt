@@ -1,0 +1,47 @@
+it, but we have no idea who. Typologically, this is the most common kind of
+passive in the world's languages (Shibatani, 1986). The passive suffix creates
+an intransitive verb from a transitive one, so the person agreement markers
+appear in the absolutive case.
+I found slight variations in the translation of passive expressions with
+different consultants. Some preferred an indefinite, but human, agent reading
+("someone broke it" or "they broke it"), while others insisted on a perfectly
+agentless, middle voice reading ("It got broken, we don't know how.") In either
+case, there is never an actual agent argument lurking around to be referenced
+by a subsequent clause, such as a conjoined clause.
+(6.24)
+(i)
+(ii)
+(iii)
+(iv)
+'øn tzajtzongpan toto 'øy wøttəmməji
+7ǝn+ cah=coŋ-pa
+?ǝn+ toto? ?ǝy+ wǝt.?əm-wǝ+hi?
+1E+ pegar=unir-INC 1E+ papel 3E+
+'Voy a pegar mi papel en donde se rompió.'
+ti minpay tzøkkømmø rroberta
+ti
+min-pa
+?əy+ cək.?əm-wə rroberta
+que venir-INC 3E+ pasar.PAS-dINC roberta
+'que viene a pasar á Roberta.'
+jekennømmø tzajin
+0 heken.?əm-wə
+3A enrollar.PAS-COM
+'Se enroscó la víbora.'
+cahin
+Víbora
+romper.PAS-COM+LOCREL
+(elicitado)
+pa'ttømmø dey de komaxan gaja gø kopainalá
+de.y
+0 pa?t.?am-wə
+de.?
+136
+(ZOH001 R015-064)
+(lexicón)
+ko.mašan ga.ha?
+gə
+kopainalá
+3A encontrar.PAS-COM DCT2.TMP DCT2.NOM1 SOC.sagrado DCT3.LOC1 DEM
+Copainalá
+'Antes se encontró ese santo allá en Copainalá.' (ZOH001R004-001)

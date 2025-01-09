@@ -1,0 +1,63 @@
+\XSP 1 Hizo mecate.
+\XEN 1 He made rope.
+\EXU 2 7@y+ xe7px. ten-w@ bi laxu
+\XPSH 2 [7@y xe7pxtenn@ bi laxu.]
+\XSP 2 Torcio* antes el mecate.
+XEN 2 He made the rope ahead of time.
+\EXU 3 ti 7@m+ tz@k-pa y@.jama? da xe7px-pa
+\XPSH 3 [Tim tz@kpa y@jama? Da xe7pxpa.]
+\XSP 3 Que haces hoy? Estoy hiciendo mecate.
+\XEN 3 What are you doing today? I'm making rope.
+\EXU 4 7@y+ xe7px-w@ xatz.kuy'+j@nanh
+\XPSH 4 [7@y xe7px@ xatzkuyj@nanh.]
+\XSP 4 Torcieron el mecate con tornillo.
+\XEN 4 He twisted the rope with a screw.
+\SYN
+\SEMF build
+\ASP process
+\ARG patient
+\NOM xe7px.e7
+\SUB k@.n@k=xe7px. '@y
+\ETYM
+\ETL
+\ROOT xe7px
+\RTGR T1
+\DSRC HAJ94
+\CMTS get more deriv's
+\date 03/Jan/80
+\lex xe7px.e7
+\_no 03915
+\LG MIG
+\PHO [xe7pxe7]
+\UND xe7px. E7
+\MB hacer_mecate, NOM7
+\VAR
+\GRAM pcp
+\SPG una cosa torcida; es decir, un mecate
+\ENG a twisted thing; that is, a rope
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT xe7px
+\RTGR T1
+\DSRC HAJ95
+ZOH004R0011001.txt
+\CMTS
+\date 03/Jan/80
+\lex xeta
+\_no 03916
+\LG MIG
+\PSH
+\UND xeta
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG labio
+\ENG lips
+\EXU
+\XSP
+\XEN
+Page 1684

@@ -1,0 +1,62 @@
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 08/Feb/96
+\lex potz.e7 [1]
+\_no 00265
+\LG MIG
+\PHO [potze7]
+\UND potz.E7
+\MB enlodar, NOM7
+\VAR
+\GRAM pcp
+\SPG enlodado
+\ENG mudded
+\EXU potz.e7+k t@k
+\XPSH [potze7k t@k]
+\XSP casa embarrada
+\XEN mudded house
+\SYN
+\ROOT potz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex potz.e7 [2]
+\_no 00266
+\LG MIG
+\PHO [potze7]
+\UND potz.E7
+\MB cansarse, NOM7
+\VAR
+\GRAM pcp
+\SPG cansancia
+\ENG tiredness
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT potz
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex po't.e7
+\_no 00267
+ZOH001R0611004.txt
+\LG MIG
+\PSH [pote7]
+\UND po7t.E7
+\MB moler, NOM7
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG mai*z pinole
+\ENG corn that has been toasted and ground
+\SPL
+\SLGR
+\EXU
+Page 107

@@ -1,0 +1,61 @@
+\ASP momentaneous
+\CAUS yak.wi7kx falsear
+\CMTS
+\date 03/Jan/80
+\lex wit
+\_no 00153
+\SPG andar; caminar
+\ENG to walk
+\EX witpa 7itijo7
+\XSP anda en el pueblo/en la calle/ de vago
+\XEN go walking in the town
+\ROOT wit Il
+\SEMF motion
+\ASP activity
+\CAUS yak.wit hacer andar
+\CMTS
+\date 03/Jan/80
+\lex witu
+\_no 00154
+\SPG regresar
+\ENG to return
+\EX 7@y yakwituw@ 7@y 7oktze7kk@
+\XSP le volvio* la cosa que le dio* prestado
+\XEN she sent it back, she borrowed it
+\EX wituwa*m
+\XSP ya regreso*
+\XEN he's come back
+\ROOT witu Il
+\SEMF motion
+\CAUS yak.witu regresar; devolver; dar vuelta (carreta, buey)
+\CMTS
+\lex wo7i
+\_no 00155
+\SPG rodarse
+\ENG to roll
+\EX wo7iw@
+\EX wo7ipa
+\XSP rueda
+\XEN a wheel
+\ROOT wo7i Ix
+\SEMF motion
+\CAUS yak.wo7i hacer rodar
+\CMTS
+\lex woj
+\_no 00156
+\SPG ladrar
+\ENG to bark
+ZOH001R0611007.txt
+\EX wojpa nu7
+\xSP ladra el perro
+\XEN the dog barks
+\EX 7@y wojjayy@
+\XSP le ladro*
+\XEN it barked at someone
+\EX 7@y wojjayy@ 7@y win
+\XSP se ladro* e*l mismo
+\XEN it barked at itself
+\ROOT woj 11
+\SEMF speak-animal
+\CAUS ??
+Page 37

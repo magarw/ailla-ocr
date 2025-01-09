@@ -1,0 +1,62 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 12/Nov/94
+\lex sen(a)=tz@k
+\_no 02899
+\LG MIG
+\PSH [senatz@k-]
+\UND sena=tz@k
+\MB cenar, HACER
+\VAR seen=tz@k
+\GRAM vi
+\SCI
+\USE
+\SPG cenar
+\ENG to dine
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex seriu
+\_no 02900
+\LG MIG
+\PSH
+\UND seriu
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG cerillo
+\ENG wax match
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 18/Oct/94
+\lex sesina
+ZOH004R0011001.txt
+Page 1248

@@ -1,0 +1,62 @@
+(133) n=0=xi’
+q'ama-'n t-e
+Luuch,
+INC=B3s-DIR decir-SD A3s-SR:DAT Pedro
+'y le dijo a Pedro,'
+(134) b'an t-ee=',
+bueno A2s-SR=2s
+'Eres bueno,'
+kyj-el
+tzyuu-1
+tx'otx',
+EXIST=B2s=2s quedarse-POT agarrar-INF A3s-SR:sobre tierra
+'quedarás a agarrar todo el mundo,'
+(136) t-u'n-j
+walaan=0=ta,
+(135) aat=0=a
+A3s-SR-porque excelente=B2s=2sENF
+'porque eres excelente,'
+(137) b'a'n xjaal=0=ta
+bueno persona=B2s=2sENF
+'una buena persona'
+(138) b'ix b'a'n=ta
+y
+'y hablas bien,’
+(139) kyja'-tzan_aat=0=a
+bueno=2sENF
+así pues EXIST=B2s=2s
+t-witz
+tx'otx',
+A3s-SR:sobre tierra
+'Agarrarás todo el mundo así,"
+(140) 0-chi-tzan,
+B3s-decir-pues
+'dijo,'
+(141) 0=0=xi'
+0-yoola-n,
+B2s=hablar-AP
+(143) 0-chi-tzan.
+k-tzyuu-1
+B3s-decir-pues
+'dijo.'
+sí=MIR B3s-agarrar-PAS=1sENF
+'Sí, lo puedo sostener,'
+B2s-agarrar-AP+POT
+t-q'ama-'n t-e
+Luuch.
+CPL.DEP=B3s=DIR A3s-decir-SD A3s-SR:DAT Pedro
+'le dijo a Pedro.'
+(142) Jaka=la_0=tzy-eet-wa
+t-witz
+w-u'n,
+Als-SR:AGT
+kyaqiil=ka
+todo=2pENF
+tx'otx',
+tierra
+'Así se quedó Pedro a sostener el mundo,'
+13
+(144) Kyja'=tzan_0=0=kyaj
+Luuch tzyuu-l
+t-witz
+así pues CPL.DEP=B3s-quedarse Pedro agarrar-INF A3s-SR:sobre

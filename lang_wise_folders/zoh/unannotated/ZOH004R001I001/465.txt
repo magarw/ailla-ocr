@@ -1,0 +1,64 @@
+\MB ATRAS, comprar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pagar para sacarlo
+\ENG to pay so you can take something out
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+ΧΕΝ
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT juy
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex j@x=j@m
+\_no 01061
+\LG MIG
+\PSH [j@xj@m-]
+\UND jax-j@m
+\MB ATRAS, tallar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar refregandolo
+\ENG to get something out by scrubbing
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jam
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex jax-j@t@t
+\_no 01062
+ZOH004R0011001.txt
+\LG MIG
+\PSH [jaxj@t@t-]
+\UND jax-j@t@t
+\MB ATRAS, sobar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG sacar (dolor) sobandolo
+\ENG to massage away a pain
+\SPL
+\SLGR
+Page 465

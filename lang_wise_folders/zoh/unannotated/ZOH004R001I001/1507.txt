@@ -1,0 +1,63 @@
+\PSH [tz@nkuy7]
+\UND tz@n.kuy7
+\MB sentarse, INSTR1
+\VAR
+\GRAM instrl
+\SCI
+\USE
+\SPG silla; banca; asiento
+\ENG chair; bench; seat
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@n
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 15/Jun/95
+\lex tz@n=k@.tak
+\_no 03503
+\LG MIG
+\PSH [tz@nk@tak-]
+\UND tz@n-k@.tak
+\MB sentarse, AFUERA, tejer
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG sentarse
+\ENG to sit down
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tz@n
+\RTGR 1 P (T3)
+\ROOT 2 tak
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS
+\date 16/Jun/95
+\lex tz@n.na' monh
+\_no 03504
+\LG MIG
+\PSH [tz@nna monh-]
+\UND tz@n.na7 monh
+\MB sentarse, STAT, acostarse
+\VAR
+\GRAM stat+vi
+\SCI
+\USE
+\SPG sentar durmiendo
+ENG to sleep sitting up
+ZOH004R0011001.txt
+Page 1507

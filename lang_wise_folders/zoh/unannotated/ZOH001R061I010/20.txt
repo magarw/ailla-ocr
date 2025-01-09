@@ -1,0 +1,63 @@
+\_no 00079
+\SPG tragar
+\ENG to swallow up
+\EX jama y+ ju7k.xuk-pa
+\XSP eclipse del sol
+\XEN eclipse of the sun
+\EX xepe y+ ju7k.xuk-pa
+\XSP eclipse de la luna
+\XEN eclipse of the moon
+\EX 7@y ju7kk@ bi nu7_bi 7ane
+\XSP trago* el perro la tortilla
+\XEN the dog swallowed up the tortilla
+\ROOT ju7k T3
+\SEMF eat
+\PASS NONE ju7k.7@m * can't swallow itself
+\ANTI ju7k. 7oy
+\CMTS now rejects ANTI because a dog can't swallow just anything
+\CMTS = MAR wu7k
+\lex jum
+\_no 00080
+\SPG derrumbar (se) (casa, tierra, lado de algo)
+\ENG to tumble down (house, earth, side of something)
+\EX 7@y tum yakjumm@
+\XSP 1o desbarato* de una vez
+\XEN he tumbled it down at once
+\EX tak 7ay jumxukpa
+\XSP estan desbaratando la casa
+\XEN they're knocking down the house
+\EX jumm@mm@ bi t@k
+\XSP se derrumbo* la casa
+XEN the house fell down
+\ROOT jum T2
+SEMF break
+\CAUS yak.jum desbaratar(se); deshacer; borrar; derrumbar
+\PASS derrumbarse
+\ANTI NONE
+\CMTS is this really T2? get one w/o agent
+\lex jun
+\_no 00081
+\SPG caer pelo
+\ENG for hair to fall out
+\EX way junn@
+\XSP cayo pelo
+*
+\XEN his hair fell out
+ZOH001R0611010.txt
+\ROOT jun Ix
+\SEMF body
+\CAUS yak.jun hacer caer el pelo
+\CMTS
+\lex junun
+\_no 00082
+\SPG hacerle cosquillas
+\ENG to tickle someone
+\EX
+\XSP
+\XEN
+\ROOT junun T3
+\SEMF affect, body
+\PASS NONE junun.7@m *
+\ANTI junun. 7oy
+\CMTS
+Page 20

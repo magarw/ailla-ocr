@@ -1,0 +1,82 @@
+\idx incorp
+\ref 043
+\_no 00043
+\tx t@k tz@kpa
+\mb tak
+tz@k -pa
+x@nh
+\sg1 casa hacer-INC fiesta
+\egl house do -INC festival-IMPERS-INC-REL 2
+\ref 046
+\_no 00046
+\tx yote
+\mb yote7
+x@nhnhan@mpaji
+\fts hace casas donde hacen fiestas
+\fte he builds houses where they have parties
+\com
+\idx incorp
+k@xpa
+k@x
+ZOH001R0611001.txt
+\ref 044
+\_no 00044
+\tx t@m
+\mb t@m
+k@nhnhamp@7k
+-pa
+\sg1 fruta comer-INC
+-w@ -7am-p@7k
+madurarse-COM-YA -***
+\egl fruit eat -INC mature -COM-NOW-***
+fts come fruta que ya esta*n maduras
+\fte it eats fruit that are now ripe
+\com
+\idx incorp
+k@xpa
+k@x
+\com
+\idx incorp
+-an@m
+k@nh
+-pa -ji
+-IMPERS-INC-REL2
+\ref 045
+\_no 00045
+\tx t@k
+\mb tak
+ya
+-pa ya k@nh
+-w@ -v7k
+\sg1 casa comer-INC NEG madurarse-COM-REL1
+\egl house eat -INC NEG mature -COM-REL1
+fts come fruta que no es madura
+\fte it eats fruit that isn't ripe
+\com like a squirrel
+\idx incorp
+fts vende ropa usada
+\fte she sells used clothes
+k@nhnh@*7
+ma7@yy@
+peka*7
+\sg] ropa
+ma7 -7@y -w@ peka*7
+venta-VERS2-COM viejo
+\egl clothes sale -VERS2-COM used
+\ref 047
+\_no 00047
+\tx 7@m yote
+\mb 7@m yote7
+\sg1 2Abs ropa venta-VERS2-INC 2Erg costurar-INC-REL1
+\egl 2Abs clothes sale -VERS2-INC 2Erg sew
+-pa -v7k
+7@m t@ppa*7
+ma7@ba
+ma7 -7@y -pa 7@m t@p
+\fts vendes ropa que costuras
+\fte you sell clothes that you sew
+\com
+\idx incorp
+\ref 048
+Page 9
+-INC-REL1

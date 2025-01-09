@@ -1,0 +1,62 @@
+\DSRC HAJ94
+\CMTS can't get k@ji7 by itself: TK did get it
+\date 27/Jun/96
+\lex k@jom tuku7
+\_no 01668
+\LG MIG
+\PSH
+\UND k@jom tuku7
+\MB
+\VAR k@jam tuku7
+\VAR k@.tuku7
+\GRAM Xms
+\SCI
+\USE
+\SPG barranca; padero*n
+\ENG ravine
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-all; cf k@.tuku7; CK-PH es ma*s /k@jom tuku7/ pero el otro esta*
+bien; OK/TK
+\date 25/Jun/96
+\lex k@j-tz@k
+\_no 01669
+\LG MIG
+\PSH [k@jtz@k]
+\UND k@j-tz@k.0
+\MB X, HACER, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG machigua
+\ENG water with masa in it, from dipping in the hand to dampen the nixtamal
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS she's grinding the corn on the metate and has a little bucket of water
+\CMTS to sprinkle on the masa to keep it from getting too dry. little by
+\CMTS little the water gets very masa-y, and she throws it in the pig
+\CMTS trough and gets some fresh
+\date 18/Jun/96
+\lex k@juki
+\_no 01670
+\LG MIG
+\PSH
+\UND k@juki
+Page 721

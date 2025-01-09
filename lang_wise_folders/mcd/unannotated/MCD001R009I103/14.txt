@@ -1,0 +1,50 @@
+137 oa yota paura
+oa yota pau-ra
+DEM froid puissant-ASS
+ce froid puissant
+138 tsucuaihuurana
+tsucu-ai-huuran-a
+enlever-DUR-CP1a-ACC
+il a jailli
+139 da miqui asinai
+da min-qui asi-na-i
+DEM 2PERS-DIR jaillir-REC-PROG
+il jaillit sur toi
+140 asinatihuurani
+asi-nati-huuran-i
+jaillir-finir-CP1a-PROG
+il finit de jaillir
+141 arasi chonoi
+a-rasi chono-i
+3PERS-nombreux couler-PROG
+nombreux ils coulent
+142 miqui chonopacuira
+min-qui chono-pacu-i-ra
+2PERS-DIR couler-tomber-PROG-ASS
+ils coulent sur toi
+143 min buuaforo
+min buu-a-fo-ro
+2PERS.N goûter-ACC-PL-CONTR.EXP
+malgré toi, tu en a goûté
+144 afi arasifo
+afi a-rasi-fo
+3PERS.PL AUX.TR-nombreux-PL
+eux-mêmes nombreux
+145 bia yora raquima
+bia yora raqui-ma-a
+2PERS.A corps trembler-CAUS-ACC
+ils t'ont fait trembler le
+corps
+146 raquimaidifoana
+raqui-ma-idi-foan-a
+trembler-CAUS-monter-DIR-ACC
+ils ont fait trembler
+147 ahuun diso paunu
+ahuun diso pau-nu
+3POSS convulsion puissance-ERG
+sa puissance convulsive
+148 ahuun diso uhuacai
+ahuun diso uhua-cai
+3POSS convulsion grand-MIR
+sa grande convulsion
+102

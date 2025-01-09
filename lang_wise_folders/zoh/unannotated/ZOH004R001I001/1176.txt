@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex posiu
+\_no 02734
+\LG MIG
+\PSH
+\UND posiYu
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG vaso
+\ENG glass
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM pocillo
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex poso
+\_no 02735
+LG MIG
+\PSH
+\UND poso
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG pozo
+\ENG well
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 16/Oct/94
+\lex pot
+\_no 02736
+LG MIG
+\PSH
+\UND pot
+\MB
+\VAR
+ZOH004R0011001.txt
+Page 1176

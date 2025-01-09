@@ -1,0 +1,81 @@
+\zoq Ney komo 7apud@kkay tzakk@ yaja7kp@7.
+\fts Asi* como lo dejaron los viejos.
+\fte The same as the old ones left it long ago.
+\com
+\idx
+\ref ZOH001R043 101
+\_no 00102
+ney de7xe teji7aw@
+\zoq Ney de7xe teji7aw@ dey.
+\fts Asi* mismo esta* ahora.
+\fte Just like that it is now.
+\com
+\idx
+\tx
+\mb ney
+te -7xe teji
+-7a -w@
+-Y
+-VERS1-COM DCT2-TMP
+\sgl mismo DCT2-SIM hay
+\egl self DCT2-SIM there_is-VERS1-COM DCT2-TMP
+\ref ZOH001R043 102
+\_no 00103
+\tx ya n@mmo
+\mb ya n@m-7oy -A
+\sg1 NEG DO -ANTIP-NINC 3E
+\eg1 NEG DO -ANTIP-nINC 3E
+\zoq Ya n@mmoy w@jtz@kk@mm@.
+\fts No puede arreglarse.
+\fte It can't fix itself.
+\com
+\idx
+\zoq Ya n@mmoy mejortz@kk@mm@.
+\fts No se puede mejorar.
+ZOH001R0431001.txt
+\ref ZOH001R043 103
+\_no 00104
+\tx ya n@mmo
+\mb__ ya n@m-7oy -A
+y mejortz@kk@mm@
+7@y mejor-tz@k -7@m -w@
+\sg1 NEG DO -ANTIP-nINC 3E mejor-hacer-PAS -DINC
+\eg1 NEG DO -ANTIP-nINC 3E
+best -do
+-PASS-DINC
+\fte It can't improve itself.
+\com
+\idx
+\ref ZOH001R043 104
+\_no 00105
+y
+w@jtz@kk@mm@
+7@y waja -tz@k -7@m -w@
+bueno-hacer-PAS -dINC
+good -do -PASS-DINC
+\tx pitzenhjo neywin
+\mb pitzenhjo7 neywin
+\sg1 por_eso IPrn
+\eg1 because IPrn
+dey
+te
+\tx mejortz@kk@
+\mb mejor-tz@k -w@
+\sgl mejor-hacer-COPT
+\egl best - do
+n@mjadam
+bi juxtixa ke
+nam -jay -tam -A7 bi juxtixa ke
+decir-APPL-1/2 PL-IMPV DEF autoridad que
+say -APPL-1/2PL-IMPV DEF authority that VOL
+yakka y
+yakk@ 7@y
+VOL 3E
+3E
+- COPT
+\zoq Pitzenhjo7 neywin n@mjadama bi juxtixa ke yakk@y mejortz@kk@.
+\fts Por eso nosotros vamos a decir el presidente que lo mejore.
+\fte That's why we must tell the mayor that he should improve it.
+\com
+\idx
+Page 24

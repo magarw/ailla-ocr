@@ -1,0 +1,82 @@
+\tx yotenito7k
+\mb yote7 -ni -to7k
+\sg] ropa
+-PSE-tender
+\egl clothes-PSE-extend
+\fts esta mesa le pusieron encima una manta por encima
+\fte they put a tablecloth on this table
+\com
+\idx
+\cmts picture of a table with a long tablecloth
+\ref 033
+\_no 00034
+\tx y@d@
+\mb ya
+mansana 7@y kojtenxukk@
+-d@
+mansana 7@y koj
+-ten -xuk-w@
+\sg1 DCT1-DEM manzana 3E encajar-PRSV-3PL-COM
+\eg1 DCT1-DEM apple 3E punch -PRSV-3PL-COM
+\tx t@nhkuyj@nanh
+\mb
+ZOH001R0601001.txt
+t@nh
+-kuy7 -j@nanh
+\sg1 cortar_con_machete-INSTR1-AC
+\eg1 cut_with_machete -INSTR1-ACC
+\fts esta manzana lo tienen encajado con un fierro
+\fte they've got this apple stuck through with an iron
+\com
+\idx
+\com
+\idx
+\cmts picture of an apple with an arrow through it
+\ref 034
+\_no 00035
+\tx y@
+tum mixtu
+\mb___ ya -7
+-7a -wa tum mixtu7
+-VERS1-COM uno gato
+\sg1 DCT1-NOM1 mesa abajo hay
+\eg1 DCT1-NOM1 table below there_is-VERS1-COM one cat
+mexa k@ja teji7aw@
+mexa kaja7 teji
+\fts debajo de esta mesa esta* un gato
+\fte there's a cat under this table
+\cmts picture of a cat under a table
+\ref 035
+\_no 00036
+\tx y@d@
+t@ktzapji
+\mb ya -d@
+t@k -tzapji7
+\sg1 DCT1-DEM casa -encima hay
+\eg1 DCT1-DEM house-on
+teji7aw@
+tum p@n.
+teji -7a -w@ tum p@n
+-VERS1-COM uno hombre
+there_is-VERS1-COM one man
+\tx tzapji7. n@mm@y yepjotuyy@y
+\mb tzapji7 n@mm@-7@y yep
+\sg1 encima PROG -3E tender
+\egl on
+PROG -3E
+tenn@
+ten
+-jo -tuy
+-EN
+spread_out-INTO-stretch
+-w@
+pararse-COM
+stand -COM
+xaj.
+xaj
+sobaco
+-COM-3E armpit
+-wa -7@y
+-estirar (se)-COM-3E
+\fts encima de esta casa esta* un hombre. esta* parado encima. esta*
+Page 10

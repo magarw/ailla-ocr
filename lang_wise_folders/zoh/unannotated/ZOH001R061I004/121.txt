@@ -1,0 +1,62 @@
+\SPG alguien que le pegaba una palmada
+\ENG someone that was slapped
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT to7kx
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tom.e7
+\_no 00302
+\LG MIG
+\PSH [tome7]
+\UND tom. E7
+\MB cerca, NOM7
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG cerca
+\ENG near
+\EXU jakke tom.e7
+\XPSH [jakke tome7]
+\XSP muy cerca
+\XEN very near
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tom.e'+jo7
+\_no 00303
+\LG MIG
+\PSH [tomejo7]
+\UND tom. E7 +jo7
+\MB cerca, NOM7, LOC2
+\VAR
+\GRAM a+loc
+\SCI
+\USE
+\SPG cerquita
+\ENG very near
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+ZOH001R0611004.txt
+\lex ton.e7
+\_no 00304
+Page 121

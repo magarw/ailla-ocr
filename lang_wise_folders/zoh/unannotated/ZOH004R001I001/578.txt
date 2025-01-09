@@ -1,0 +1,63 @@
+\SPG chilito shigundo; chilito piqui*n
+\ENG a type of hot pepper
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 01/Oct/94
+\lex ko.jup
+\_no 01324
+\LG MIG
+\PSH [kojup-]
+\UND ko.jup
+\MB OTRO, jalar
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG un pedazo ma*s de lo que uno compro* (ganancia)
+\ENG lagniappe; a little extra piece more than what you paid for
+\EXU 7@y+ ko.jup-xuk-w@+@7k 7@n+ juy-w@+@7k
+\XPSH [7@y kojupxukk@*7k 7@n juyy@*7k.]
+\XSP Le echaron un pedazo_ma*s de lo que compre*.
+\XEN They threw in a little more than I paid for.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jup
+\RTGR P, (T3)
+\DSRC TK94
+\CMTS
+\date 29/Jan/96
+\lex ko.jup=nuk
+\_no 01325
+ZOH004R0011001.txt
+\LG MIG
+\PSH [kojupnuk-]
+\UND ko.jup=nuk
+\MB OTRO, jalar, agarrar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG forzar; violar
+\ENG to rape
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 jup
+\RTGR 1 P, (T3)
+\ROOT 2 nuk
+\RTGR 2 T3
+Page 578

@@ -1,0 +1,46 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(14.7)
+(i)
+(ii)
+(iii)
+(iv)
+'entonse ye'tztzø soldaodøkka
+Pentonse 0 ye?c-wǝ
+then
+'Then the soldiers arrived.'
+3A arrive-COM soldier+NPL
+soldado+dǝkkay
+'øn pøwø 'este tujtáng
+?ən+ pə?-wə
+1E+ bear-COM um six
+'I bore, um, six.'
+'entonse yo' soldaodøkka ye'chukkø
+?entonse yǝ? soldado+dəkkay 0 ye?c-šuk-wə
+then
+this soldier+NPL
+3A arrive-3PL-COM
+'Then these soldiers arrived.'
+jø tujtáng jejpa
+hə? tujtaaŋ O heh-pa
+3A live-INC
+yes six
+'Yes, six living.'
+Peste tuhtaan
+(ZOH001R011–002)
+(ZOH001R011–004)
+360
+(ZOH001R053-038)
+(ZOH001R053-039)
+14.2.3. Transitive clauses
+Transitive clauses allow two arguments: an agent and a patient. There
+are also some verb roots, like ci?-, 'to give', that allow a third argument (a
+recipient), and several valency-increasing affixes that add
+add a recipient,
+benefactor, or causer. Since the overt mention of any third argument is
+extremely rare (0.7% of transitive clauses), I counted trivalent clauses in with
+the simple transitives.
+Table 14.4 shows the distribution of overt NPs in transitive clauses. The
+percentage given refers to the total number of transitive clauses. The term
+Dative subsumes all the roles of the third argument - recipient, benefactor, etc.
+In imperative clauses the subject is known to be the second person, so these
+are counted separately.

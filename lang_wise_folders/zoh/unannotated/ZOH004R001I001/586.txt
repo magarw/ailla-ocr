@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT nuk
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex ko.kep
+\_no 01343
+\LG MIG
+\PSH [kokep-]
+\UND ko.kep
+\MB OTRO, patear
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG sacudir pateando
+\ENG to kick something aside to get rid of it
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kep
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 20/Jun/95
+\lex koke=p@7tz
+\_no 01344
+\LG MIG
+\PSH [kokep@7tz-]
+\UND koke=p@7tz
+\MB pescado, destripar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG destripar pescado
+\ENG to gut fish
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT p@7tz
+\RTGR TX
+\DSRC TK94
+\CMTS
+\date 14/Jun/95
+\lex ko.ket
+\_no 01345
+ZOH004R0011001.txt
+\LG MIG
+\PSH [koket-]
+Page 586

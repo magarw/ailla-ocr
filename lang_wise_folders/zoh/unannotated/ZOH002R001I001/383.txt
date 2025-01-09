@@ -1,0 +1,25 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+Table 14.1 gives the number of each of the four types of clauses and the
+percentage of the total for each type. These numbers include all four texts.
+Transitive
+Intransitive
+Existential
+Speaking
+Total
+Number
+440
+173
+54
+48
+715
+Percentage
+61.5
+24.2
+7.6
+6.7
+Table 14.1: Number of clauses
+355
+100
+The vast majority of clauses, not surprisingly, are transitive or intransitive
+(86.7%). The remainder of this section will be concerned only with these
+clauses.

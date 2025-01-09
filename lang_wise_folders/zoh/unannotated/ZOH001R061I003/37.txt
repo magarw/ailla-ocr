@@ -1,0 +1,49 @@
+\SPG una medida taman~o de VERBO
+\ENG
+\SPL
+\SLGR
+\EXU 1 kax. naanh
+\XPSH 1 [kaxna*nh]
+\XSP 1 paso
+\XEN 1 step
+\EXU 2 xu7k.naanh
+\XPSH 2 [xu7kna*nh]
+\XSP 2 beso
+XEN 2 kiss
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {.neenh}
+\_no 00106
+\LG MIG
+\PSH [ne*nh]
+\UND neenh
+ZOH001R0611003.txt
+\MB MED1
+\VAR
+\USE nominalizer that creates nouns from verb roots
+\GRAM suf
+\SPG una medida taman~o de VERBO
+\ENG a measure the size of one unit of VERBing
+\SPL
+\SLGR
+\EXU 1 ya pitz@m-A ni yu7tz.neenh mok
+\XPSH 1 [Ya pitz@ma ni yu7tzne*nh mok.]
+\XSP 1 No sale ni un pun~o de mai*z.
+\XEN 1 Not even a fistful of corn appears.
+\EXU 2 tzun.neenh
+\XPSH 2 [tzunne*nh]
+\XSP 2 gota
+\XEN 2 drop
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+Page 37

@@ -1,0 +1,64 @@
+\SCI
+\USE
+\SPG
+\ENG tear
+la*grima
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH - HAJ:96, ok, main stress on n@7; fixed: TK
+\date 26/Jun/96
+\lex wit@m puj
+\_no 03760
+\LG MIG
+\PSH
+\UND wit@m puj
+\MB ojo, semilla
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG pupila del ojo
+\ENG pupil of the eye
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+\lex wit@m watzi7
+\_no 03761
+\LG MIG
+\PSH
+\UND wit@m watzi7
+\MB ojo, pelo
+\VAR
+ZOH004R0011001.txt
+\GRAM sms
+\SCI
+\USE
+\SPG ceja
+\ENG eyebrow
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+Page 1615

@@ -1,0 +1,98 @@
+junhej wokanem winh t'a intz'ey
+jun-nhej wok-an-em
+winh t'a in-tz'ey
+uno-sólo sentarse-psc-DIR.abajo Cmasc prep 1A-lado
+451. Mi papá entró en la casa.
+winh inmam ixoch yol pat
+winh in-mam ix-Ø-och
+y-ol pat
+Cmasc 1A-papá pas-3B-entrar 3A-dentro casa
+ixoch winh inmam yol pat
+ix-ø-och
+winh_in-mam y-ol
+pat
+pas-3B-entrar Cmasc 1A-papá 3A-dentro casa
+452. ¿A dónde entró tu papá?
+¿b'aj til ixoch winh amam?
+aj_til ix-ø-och
+winh a-mam
+dónde pas-3B-entrar Cmasc 2A-papá
+200
+453. Mi papá salió de la casa.
+winh inmam ixel winh t'a te' pat
+winh in-mam ix-Ø-el
+454. ¿De dónde salió tu papá?
+pat
+Cmasc 1A-papá pas-3B-salir Cmasc prep Cmadera casa
+455. El gato se subió al árbol.
+winh t'a
+¿b'aj til ixelta' winh amam chi'?
+b'aj_til ix-ø-el-ta'
+winh a-mam chi'
+dónde pas-3B-salir-adv Cmasc 2A-papá dem
+456. El gato bajó del árbol.
+ixk'e nok' miston t'a sk'ab' te' te'
+ix-ø-k'e nok'
+pas-3B-subir Canimal gato
+t'a te'
+miston t'a s-k'ab' te'
+te'
+prep 3A-mano Cmadera árbol
+ixemta' nok' miston t'a sk'ab' te' te'
+ix-Ø-em-ta' nok'
+pas-3B-bajar-adv Canimal gato
+miston t'a s-k'ab' te'
+te'
+prep 3A-mano Cmadera árbol
+457. Puso el dinero en el bolsillo.
+ixyak'anem k'en tumin winh t'a sbolxax
+ix-ø-y-ak'-6
+k'en tumin winh t'a s-bolxax
+pas-3B-3A-dar-DIR.abajo Cmetal dinero él
+-em
+prep 3A-bolsa
+458. Sacó el dinero del bolsillo.
+ixyik'eta' k'en tumin winh t'a sbolxax
+k'en tumin winh t'a s-bolxax
+ix-ø-y-ik'-k'e-ta'
+pas-3B-3A-portar-DIR. arriba-adv Cmetal dinero él
+prep 3A-bolsa
+por
+la puerta.
+winhaj Xun ixel winh t'a te' puerta
+winhaj Xun ix-ø-el
+pwerta
+Cmasc Juan pas-3B-salir Cmasc prep Cmadera puerta
+winh t'a
+te'
+459. Juan salió
+ixelta' winh t'a te' puerta
+ix-ø-el-ta' winh t'a te'
+pas-3B-salir-adv Cmasc prep Cmadera puerta
+pwerta
+460. Juan se cayó en el pozo.
+waj Xun ixem t'ab'naj winh t'a yol a' posa
+waj
+t'ab'_naj winh t'a y-ol
+Cmasc Juan pas-3B-bajar resbalar Cmasc prep 3A-dentro Cagua pozo
+Xun ix-Ø-em
+a'
+posa
+Yo me caí en el pozo.
+ixinem t’ab’naj yol a' posa
+ix-in-em
+a'
+t'ab'_naj y-ol
+posa
+pas-1B-bajar resbalar 3A-dentro Cagua pozo
+Me caí en el lodo.
+ixinem t'ab'naj skal lum sok'on
+ix-in-em
+lum sok'om
+t’ab’_naj s-kal
+pas-1B-bajar resbalar 3A-medio Ctierra lodo
+Me fui rodando al barranco.
+ixinem b'alb'onok k'ak'ab
+ix-in-em b'alb'onok k'ak'ab'
+pas-1B-bajar rodando barranco
+201

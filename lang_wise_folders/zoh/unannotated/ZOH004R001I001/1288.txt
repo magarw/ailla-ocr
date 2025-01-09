@@ -1,0 +1,63 @@
+\ENG to touch (with the shoulder)
+\SPL tik. 7oy
+\SLGR ANTIP
+\SLGL tocar // to touch
+\SLGR NO PASS
+\SPL tik.ney
+\SLGR ASSUM1
+\SLGL estar recargado // to be overloaded
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF body, touch
+\ASP semelfactive
+\ARG
+\NOM
+\SUB tik= 'uk, tik-p@k
+\ETYM
+\ETL
+\ROOT tik
+\RTGR P (T3)
+\DSRC TK94
+\CMTS
+\CMTS gloss was 'arrimarse a e*1', now see tik-p@k for that one
+\date 03/Jan/80
+\lex tik-p@k
+\_no 02993
+\LG MIG
+\PSH [tikp@k-]
+\UND tik-p@k
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG arrimarle
+\ENG to get close to someone
+\SPL
+\SLGR
+\EXU 7@y+ tik-p@k-w@
+\XPSH [7@y tikp@kk@.]
+\XSP Se arrimo* a e*1.
+\ENG She moved close to him.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tik P, p@k T3
+\KEY
+\DSRC HAJ95
+ZOH004R0011001.txt
+\CMTS
+\date 28/Jan/96
+\lex tik= 'uk
+\_no 02994
+\LG MIG
+\PSH [tikkuk-]
+\UND tik=7uk
+\MB touch, tomar
+\VAR
+\GRAM vi
+\SCI
+Page 1288

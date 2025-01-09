@@ -1,0 +1,71 @@
+\sgl 1E centro-cargar-cortar-INC camino
+\egl 1E center-carry -cut -INC road
+\fts voy a cruzar el camino
+\fte I'm going across the street
+\com
+\idx
+\ref 045
+\_no 00046
+y@
+\tx 7@n kukkaptukpa*m
+\mb 7@n kuk
+\sgl 1E
+-kap
+-tuk -pa -7am y@ -7
+centro-cargar-cortar-INC-YA
+DCT1-NOM1
+\egl 1E center-carry -cut -INC-NOW DCT1-NOM1
+\fts ya voy a cruzar este puente
+\fte now I'm going to cross this bridge
+\com
+\idx
+\ref 046
+\_no 00047
+\tx da n@kpa*m
+\mb da nak -pa -7am
+\sg] 1A irse-INC-YA
+\egl 1A go -INC-NOW park
+\fts me voy al parque
+\fte I'm going to the park
+\com
+\idx
+\ref 047
+\_no 00048
+\tx yukpoypa
+\mb yuk-poy
+ZOH001R0601001.txt
+parke
+parke
+parque
+ja:y7uned@kka
+-ра jaya -7une7 -d@kkay
+\sg1 ARR-juirse-INC macho-nin~o/a-NPL
+\eg1 UP -flee -INC male -child -NPL
+\ref 048
+\_no 00049
+\fts los muchachos van a correr en la orilla del ri*o
+\fte the boys are going to run along the edge of the river
+\com
+\idx
+\ref 049
+\_no 00050
+nip@7t
+ni -p@7t
+INSTR3-pasar
+INSTR3-pass
+pajak7aka
+pajak-7aka
+ri*o -orilla
+river-edge
+\tx 7@n tzakk@n
+y@kwij mujj@*7
+jukut7aka
+\mb 7@n tzak -w@ -7@n y@kwij muj -w@ -v7k jukut@k-7aka
+\sg] 1E dejar-COM-1E
+dejar-COM-1E camisa mojarse-COM-REL 1umbre -orilla
+\egl 1E leave-COM-1E shirt get_wet-COM-REL fire -edge
+\fts deje* mi camisa mojada en la orilla de la lumbre
+\fte I left my wet shirt at the edge of the fire
+\com
+\idx
+Page 13

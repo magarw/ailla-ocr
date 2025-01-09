@@ -1,0 +1,89 @@
+\mb НАЈ ya n@m-7oy -A
+\sg1 HAJ: NEG DO -ANTIP-nINC
+\eg1 HAJ: NEG DO -ANTIP-nINC live -dINC
+\com
+\idx
+\zoq HAJ: Ya n@mmo jejj@ - respirar.
+\fts HAJ: Ya no puede
+\fte HAJ: It can't live
+\ref ZOH001R036 956
+\_no 00939
+\tx GSM: ya n@mmo
+\mb GSM
+ya n@m-7oy -A
+\sg1 GSM: NEG DO -ANTIP-nINC 3E
+\eg1 GSM: NEG DO -ANTIP-NINC 3E
+\zoq Tim tz@kjaba?
+fts Que le haces?
+\fte what do you do?
+\com
+\idx
+jej -w@
+vivir-dINC
+respirar.
+\ref ZOH001R036 957
+\_no 00940
+\tx ti
+m tz@kjaba
+\mb ti 7@m tz@k -jay -pa
+\sg] que 2E hacer-APPL-INC
+\eg1 what 2E do -APPL-INC
+\ref ZOH001R036 958
+\_no 00941
+ZOH001R0361001.txt
+\zoq GSM: Ya n@mmoy jep@kk@ bi7t.
+\fts GSM: Si no puede respirar.
+\fte GSM: If it can't breathe.
+\com
+\idx
+breathe.
+\ref ZOH001R036 959
+\_no 00942
+y jep@kk@
+7@y je7 -p@k
+aliento-agarrar-dINC SI
+breath -get
+-DINC IF
+respirar
+respirar
+respirar
+\tx OSM: pwes de7xe7k
+7une
+7ay
+bese nena y tzonhpa
+beses nena7 7@y tzonh-pa
+veces malo 3E unir -INC
+\mb OSM pwes te -7xe-v7k 7une7 7ay
+\sg1 OSM: pues DCT2-SIM-REL nin~o/a hay
+\egl OSM: well DCT2-SIM-REL child there are times bad 3E join -INC
+7une
+d@kka 7ay
+\tx chik yaw
+\mb chik
+yawa7 7une7 d@kkay 7ay
+\sgl chico tierno nin~o/a NPL hay
+\egl little tender child
+NPL
+-w@
+\zoq OSM: Pwes, de7xe7k 7une, 7ay bese nenay tzonhpa.
+\fts OSM: Pues,
+esa clase de criatura, hay veces topa mal aire.
+\fte OSM: Well, such a child, there are times a bad air touches it.
+\com
+\idx
+bi7t
+bi7t
+tzonhpa
+tzonh-pa
+ver malo 3E unir -INC
+bes nena y
+bes nena7 7@y
+there_are see bad 3E join -INC
+Page 203
+\zoq Chik yaw 7uned@kka 7ay bes nenay tzonhpa.
+\fts Las criaturas tiernita hay
+\fte Little tender babies there are times a bad aire touches them.
+\com
+veces topa mal aire.
+\idx
+\ref ZOH001R036 960

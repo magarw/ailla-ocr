@@ -1,0 +1,62 @@
+\lex wen.pak.p@'
+\_no 03651
+\LG MIG
+\PSH [wenpakp@-]
+\UND wen.pak.p@7
+\MB partir, FUERTE, CEL
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG partir de una vez
+\ENG to divide all at once
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wen
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex wentax
+\_no 03652
+\LG MIG
+\PSH
+\UND wentax
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG collar
+\ENG necklace
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp cuentas
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jun/96
+\lex wen (u)
+\_no 03653
+LG MIG
+\PSH
+\UND wenu
+\MB
+\VAR we:n
+\GRAM av
+\SCI
+\USE
+\SPG mucho
+ZOH004R0011001.txt
+Page 1570

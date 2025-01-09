@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT pux
+\RTGR T3
+\DSRC HAJ94
+\CMTS no se hace in San Miguel/PH-OK: TK
+\date 26/Jun/96
+\lex yaw.a'.7aH
+\_no 00465
+\LG MIG
+\PSH [yawa7a-]
+\UND yaw.A7.7aH
+\MB X, NOM2, VERS1
+\VAR
+\GRAM vers1
+\SCI
+\USE
+\SPG hacerse tierno
+\ENG to become tender
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex yaw.a'=tuk
+\_no 00466
+\LG MIG
+\PSH [yawatuk-]
+\UND yaw.A7=tuk
+\MB X, NOM2, terminarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG ponerse tierno
+\ENG to turn tender
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT tuk
+\RTGR 12
+\DSRC HAJ95
+ZOH001R0611004.txt
+\CMTS
+\date 29/Jan/96
+\lex yaw.a'=tz@k
+Page 184

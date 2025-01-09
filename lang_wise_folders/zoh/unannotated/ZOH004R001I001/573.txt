@@ -1,0 +1,62 @@
+\date 29/Jan/96
+\lex ko.jey
+\_no 01312
+\LG MIG
+\PSH [kojey-]
+\UND ko.jey
+\MB OTRO, batir
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG batir de mas; rebatir
+ENG to beat a little more; to rebeat
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jey
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 15/Jul/95
+\lex ko.ji7i
+\_no 01313
+\LG MIG
+\PSH [koji7i-]
+\UND ko.ji7i
+\MB OTRO, grun-ir
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG grun~ir (el perro) por algo que tiene
+\ENG for a dog to growl over something that it has
+\SPL
+ZOH004R0011001.txt
+\SLGR
+\EXU ko.ji7i-pa pak
+\XPSH [Koji7ipa pak.]
+\XSP Esta* bravo por el hueso que tiene.
+\XEN The dog is guarding a bone.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ji7i
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 07/Feb/96
+\lex ko.jin
+\_no 01314
+\LG MIG
+\PSH [kojin-]
+\UND ko.jin
+\MB OTRO, refregar
+Page 573

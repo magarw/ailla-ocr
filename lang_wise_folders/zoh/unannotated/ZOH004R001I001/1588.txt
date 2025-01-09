@@ -1,0 +1,63 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ketz
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex win-kex
+\_no 03695
+\LG MIG
+\PSH [winkex-]
+\UND win-kex
+\MB CARA, ponerse_crespo
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG estar medio crespo el pelo, en la orilla
+\ENG for hair to be medium-curly, around the edge
+SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT kex
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex win-kit
+\_no 03696
+\LG MIG
+\PSH [winkit-]
+\UND win-kit
+ZOH004R0011001.txt
+\MB CARA, quebrar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG quebrar las puntas
+\ENG to break off the tips or points
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kit
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+Page 1588

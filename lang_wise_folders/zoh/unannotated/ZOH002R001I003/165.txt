@@ -1,0 +1,40 @@
+(v)
+(6.27)
+(i)
+The idiom cak.?əm-, 'to remain', or 'to be left', accounts for the vast
+majority of passives found in the corpus (examples i and ii, below). It may be a
+calque on the Spanish expression quedarse, 'to stay; to remain'. Another idiom
+that appears to be a calque on a Spanish se expression is pək=nək.?əm-, 'to
+get along', llevarse in Spanish (example iii). pək=nək, 'get=go', is the most
+common way to say 'to take' in MIG Zoque. Literally, the stem would mean 'to
+be taken'. Also note that the construction shown in (iii) is transitive.
+(ii)
+nakxneyyø bi ja:y'une bi møa 'øy wekagøxi
+O nakš.ney-wə
+bi haya-?une? bi məa ?əy+ weka?+gəši
+3A pegar_c_palo.ASSUM1-COM DEF macho=niño DEF venado 3E+ cuerno+LOC4
+'El muchacho estaba trabado en el cacho del venado.'
+(iii)
+yøhi tzakkømmø
+yə.hi?
+0 cak.?ǝm-wə
+DCT1.LOC1 3A dejar. PAS-COM
+'Aquí se quedó.'
+(ZOH001R046– 088)
+(ZOH001R024-276)
+de' para yaktzakkømmø go' kontentu dedø pøn
+para ?əy+yak.cak.?əm-wə
+de.?
+goo? kontentu de.də
+рәп
+DCT2.NOM1 para 3E+ CAUS.dejar.PAS-COM BNF contento DCT2.DEM hombre
+'Ese para que quede contento ese hombre.'
+(ZOH001R018- 237)
+ya pøknøkkømxukkám bi froylangdøkjønang
+ya ?əy+ pək=nək.?əm-šuk-wǝ+?am bi froylaŋ+dǝkkay+hənaŋ
+NEG 3E+ agarrar=ir.PAS.3PL-COM+YA DEF froylan+NPL+ACC
+'No se llevan con la gente de Froylan.'
+(ZOH001 R024-566)
+140
+Finally, there are some T3 verbs allow passives, but the resulting stem
+expresses an idiomatic or more strictly narrowed meaning.

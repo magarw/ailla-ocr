@@ -1,0 +1,63 @@
+\lex jix
+\_no 00799
+\LG MIG
+\PSH
+\UND jix
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG remojar la tortilla en la comida
+\ENG to scoop a tortilla in food
+\SPL jix. 7oy
+\SLGR ANTIP
+\SLGL remojar la tortilla // to scoop food with a tortilla
+\SPL jix.7@m
+\SLGR PASS
+\SLGL probar // to taste
+\SPL jix.ten
+\SLGR PRSV
+\SLGL tener puesto en la comida la tortilla //to have the tortilla placed in
+the food
+\EXU jix.7@m-w@ bi k@x.E
+\XPSH [Jixx@mm@ bi k@xi.]
+\XSP Probo* la comida. (CMS)
+\XEN She tasted the food.
+\SYN
+\SEMF eat, move
+\ASP activity
+\ARG instrument
+\NOM
+\SUB 7anh.jix, 7ok.jix. '@y, jix-p@k, jo.jix, j@x-jix, nik.jix. '@y,
+\SUB yuk. jix
+\ETYM
+\ETL
+\ROOT jix
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+ZOH004R0011001.txt
+\lex jix-p@k
+\_no 00800
+\LG MIG
+\PSH [jixp@k-]
+\UND jix-p@k
+\MB remojar=agarrar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG agarrar con tortilla
+ENG to scoop up with a tortilla
+\SPL
+\SLGR
+\EXU 7@y+ jix=p@k-w@ 7@y+ k@'x. E
+\XPSH [7@y jixp@kk@y k@xi.]
+\XSP Agarro* su comida con la tortilla.
+\XEN He scooped up his food with a tortilla.
+\SYN
+\SEMF
+Page 348

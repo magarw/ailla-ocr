@@ -1,0 +1,65 @@
+\SYN
+\SEMF EZ
+\ETYM pato
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex patu_gansu
+\_no 02555
+LG MIG
+\PSH
+\UND patu gansu
+\MB
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG pato ganso
+\ENG a type of duck
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 16/Oct/94
+LF: jon
+\lex patu jay@7
+\_no 02556
+\XEN
+\SYN
+\LG MIG
+\PSH
+\UND patu j@y@7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG flor de pato
+\ENG a type of duck
+\EXU
+\XSP
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+LF: jon
+\lex pa7t [1]
+\_no 02557
+\LG MIG
+\PSH
+\UND pa7t
+\MB
+\DSRC TK94
+\CMTS
+\date 10/Nov/94
+LF:poj
+ZOH004R0011001.txt
+Page 1100

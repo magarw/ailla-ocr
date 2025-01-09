@@ -1,0 +1,63 @@
+\lex_tzukx=tzik.i
+\_no 00353
+\LG MIG
+\PSH [tzukxtziki]
+\UND tzukx=tzik. E
+\MB pellizcar, pelar, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG pellizca
+\ENG pinch
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tzukx
+\RTGR 1 T3
+\ROOT 2 tzik
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tzu'-ji-7
+\_no 00354
+\LG MIG
+\PSH [tzuji7]
+\UND tzu7-ji-7
+\MB noche, LOC1, NOM1
+\VAR
+\GRAM s+loc
+\SCI
+\USE
+\SPG de noche
+\ENG at night
+\EXU tzu'-ji' + 'am
+\XPSH [Tzujiam.]
+\XSP Ya es noche; ya es tarde.
+\XEN Now it's nighttime; now it's late.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+ZOH001R0611004.txt
+\lex tzu'-ji-' paja7k=w@j-pa+a7k
+\_no 00355
+\LG MIG
+\PSH [tzuji paja7kw@jpa*7k]
+\UND tzu7-ji-7 paja7k-w@j-pa +P@7k
+\MB noche, LOC1, NOM1, dulce, tener_olor, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+Page 141

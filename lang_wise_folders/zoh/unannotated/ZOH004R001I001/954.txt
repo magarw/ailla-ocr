@@ -1,0 +1,63 @@
+\ENG for the river to make waves
+\SLGR NO CAUS
+\SYN
+\SEMF water, nature
+\ASP activity
+\ARG
+\NOM nenh.naanh
+\SUB nenh-m@tz, nenh.nenh.ney, pox=nenh=yo'
+\ETYM
+\ETL
+\ROOT nenh (or nenh7 ??)
+\RTGR 12
+\DSRC TK94
+\CMTS
+\CMTS
+\CMTS get deriv's
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex nenh-m@tz. '@y
+\_no 02214
+\LG MIG
+\PHO [nenhm@tztz@y-]
+\UND nenh-m@tz.7@y
+\MB olear, * jugar, SUF
+\VAR
+\GRAM vi
+\SPG olear
+\ENG to make waves
+\EXU 1 nenh-m@tz. '@y-pa bi n@7
+\XPSH 1 [Nenhm@tztz@ba bi n@7.]
+\XSP 1 Esta* oleando el agua.
+\XEN 1 The water is making waves.
+\EXU 2 7@y+ yak.nenh-m@tz. '@y-pa 7@y+ n@k-w@ bi kanoa
+\XPSH 2 [7@y yaknenhm@tztz@bay n@kk@ bi kanoa.]
+\XSP 2 La canoa fue* oleando por el agua.
+\XEN 2 The canoe was rocked by the water.
+\SYN
+\ROOT 1 nenh
+\RTGR 1 12
+\ROOT 2 m@tz
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex nenh.naanh
+\_no 02215
+\LG MIG
+\PHO [nenhna*nh]
+\UND nenh.naanh
+\MB olear, MED
+\VAR
+\GRAM meas
+ZOH004R0011001.txt
+\SPG ola; oleada
+\ENG wave; a slap of a wave
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT nenh
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+Page 954

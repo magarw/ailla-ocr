@@ -1,0 +1,63 @@
+\MB RECIP, REFL, VERS1
+\VAR
+\GRAM vers1
+\SCI
+\USE
+\SPG apartarse
+\ENG to step aside; to go away
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex ni tum
+\_no 02236
+\LG MIG
+\PSH [nii tu*m]
+\UND ni tum
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG de verdad?
+\ENG really?
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\lex ni.7an
+\_no 02237
+ZOH004R0011001.txt
+\LG MIG
+\PSH [ni7an-]
+\UND ni. 7an
+\MB PURP, calentarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG 1 sentirse calientito
+\SPG 2 chamuscarse hoja de mata cerca de lumbre
+\ENG 1 to feel a little warm
+\ENG 2 to roast plant leaves near the fire
+\EXU d@+ ni.7an-pa
+\XPSH [D@ ni7anpa.]
+\XSP Estoy calientito.
+\XEN I'm a little hot.
+\SYN
+Page 963

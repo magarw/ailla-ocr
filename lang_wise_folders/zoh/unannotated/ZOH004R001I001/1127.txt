@@ -1,0 +1,63 @@
+\CMTS en vez de decir '7@y tokk@' o 'jupneyy@'
+\date 23/Jun/96
+\lex pe't.e7
+\_no 02618
+\LG MIG
+\PHO [pete7]
+\UND pe7t.E7
+\MB tejer, NOM7
+\VAR
+\GRAM pcp
+\SPG tejido
+\ENG woven
+\EXU pe't.e' jojo
+\XPSH [pete jojo]
+\XSP palma tejida
+\XEN woven palm
+\SYN
+\ROOT pe7t
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex pika.pika
+\_no 02619
+\LG MIG
+\PSH [pikapika]
+\UND pika pika
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG picapica
+\ENG a type of vine
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 08/Feb/96
+\lex piku
+\_no 02620
+\LG MIG
+\PSH
+\UND piku
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG punzo*n
+\ENG aw]
+LF:7okox poj
+\EXU
+\XSP
+\XEN
+ZOH004R0011001.txt
+Page 1127

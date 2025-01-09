@@ -1,0 +1,64 @@
+\LG MIG
+\PHO [xi7kxna*nh]
+\UND xi7kx.naanh
+\MB regar_c_mano, MED
+\VAR
+\GRAM meas
+\SPG una regada de agua (de la mano)
+\ENG a toss of water (from the hand)
+\EXU p@7t-w@ tum xi7kx.naanh tuj
+\XPSH [P@7tt@ tum xi7kxnanh tuj.]
+\XSP Paso* una roceadita de agua.
+\XEN There was a little rain shower.
+\SYN
+\ROOT xi7kx
+\RTGR TX
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex xinh
+\_no 03935
+\LG MIG
+\PSH
+\UND xinh
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG hincharse; hinchada
+\ENG to swell up; swollen
+\SLGR NO CAUS
+\SLGR NO ASSUM1
+\EXU 1 m@jm@ xinh-w@
+\XPSH 1 [M@jm@ xinhnh@.]
+\XSP 1 Esta
+\XEN 1 It's very swollen
+\EXU 2 d@ xinh-pa
+\XPSH 2 [D@ xinhpa.]
+\XSP 2 Me estoy hinchando.
+\XEN 2 I'm swelling up.
+\SYN
+\SEMF body
+\ASP process
+\ARG
+\NOM xiw.i7
+\SUB
+\ETYM
+\ETL
+hinchado bastante.
+\ROOT xinh
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex xinh=j@t
+\_no 03936
+ZOH004R0011001.txt
+\LG MIG
+\PSH [xinhj@t-]
+\UND xinh=j@t
+\MB hincharse, rebajar
+\VAR
+\GRAM vi
+Page 1693

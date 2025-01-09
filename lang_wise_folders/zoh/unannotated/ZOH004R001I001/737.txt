@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 n@k
+\RTGR 1 IX
+\ROOT 2 me7kx
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS
+\date 07/Feb/96
+\lex k@.n@k-nek. '@y
+\_no 01706
+\LG MIG
+\PSH [k@n@knekk@y-]
+\UND k@.n@k=nek.7@y
+\MB FUERA, irse, estivar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG atizar
+\ENG to kindle; to stir up a fire
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 n@k
+\RTGR 1 IX
+\ROOT 2 nek
+\RTGR 2 TX
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/96
+\lex k@.n@k=nem. '@y
+\_no 01707
+\LG MIG
+\PSH [k@n@knemm@y-]
+\UND k@.n@k=nem.7@y
+\MB FUERA, irse, talonear, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG talonear
+ENG to close the heels or legs together
+\EXU 7@y+ k@.n@k-nem. '@y-w@ 7@y+ bejcha
+\XPSH [7@y k@n@knemm@yy@y bejcha.]
+\XSP Taloneo* su caballo.
+\XEN She urged her horse forward by kicking it with her heels.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 n@k
+\RTGR 1 IX
+\ROOT 2 nem
+\RTGR 2 T3
+Page 737

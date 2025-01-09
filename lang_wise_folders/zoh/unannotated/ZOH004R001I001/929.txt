@@ -1,0 +1,63 @@
+\SPG tierra; mugre
+\ENG earth; ground; dirt
+\EXU 7@n+ kwerpu y+ nax
+\XPSH [7@n kwerpuy nax]
+\xSP la mugre de mi cuerpo
+XEN my body dirt
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 04/Oct/94
+\lex nax 7ay7
+\_no 02155
+\LG MIG
+\PSH
+\UND nax 7ay7
+\MB tierra, hoja
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG hoja sucia
+\ENG a dirty leaf
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 04/Oct/94
+\lex nax 7@y+ ko.jap
+\_no 02156
+\LG MIG
+\PSH [nax 7@y kojap]
+\UND nax 7@y+ ko.jap.0
+\MB tierra, 3Erg, OTRO, X, NOM6
+\VAR
+\GRAM sps
+\SCI
+\USE
+\SPG cielo
+\ENG sky; heaven
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ko. jap
+\RTGR P (T3)
+\DSRC TK94
+\CMTS
+\date 08/Feb/96
+ZOH004R0011001.txt
+Page 929

@@ -1,0 +1,49 @@
+114
+Las lecturas condicionales son menos preferidas cuando se trata de un enunciado que
+el hablante emite predicando algo sobre sí mismo. Dado que el hablante es conocedor de su
+situación, la interpretación condicional aparece con mucha más frecuencia en relación con
+información que involucra a otras personas. Es decir, las referencias personales deícticas se
+incluyen en la posibilidad de que una cláusula posea lectura condicional.
+kusiku-ni
+cantar-SUB/DS-3S feliz-18
+'cuando canta, soy feliz' (se afirma)
+? 'si canta, soy feliz'
+(38) taki-jti-n
+(39) llamk'a-spa
+sayk'u-ni
+trabajar-SUB/SS/SIM cansar-1S/PRES/HAB
+'trabajando, me canso
+? 'si trabajo, me canso'
+(porque el sujeto que habla no duda sobre sus sentimientos no es
+ésta la interpretación preferida)
+Es llamativo que la lectura condicional se presente obligatoria y/o preferida frente a la
+presencia del topicalizador -qa. Esto favorece la hipótesis de que, morfológicamente, en el
+quechua, las construcciones condicionales señalan tópico.
+142
+(40) yacha-chi-sqa-y-ta
+alli-lla-n
+ka-nki
+saber-CAU-PAS/NARR-1S-AC hacer-SUB/DS/SEQ-2S-TOP bien-LIM-ENF estar-2S
+si haces lo que te he enseñado, estarás bien'
+(41) ujya-jti-yki-qa
+ruwa-jti-yki-qa
+wañu-nki
+beber-SUB/DS/SEQ-2S-TOP morir-2S
+'si bebes, morirás'
+La información de la cláusula marcada no implica que la información sea segura y
+confirmada para el hablante sino que introduce un marco discursivo nuevo en la interacción,
+es decir, una información que a partir de su marcación tópica ingresa como marco de
+referencia, delimitando una nueva "base modal" (Kratzer 1991) para la continuidad discursiva.
+La relación con la topicalidad se sostiene sobre el fuerte valor pragmático de la prótasis que
+contiene una especie de "instrucción" interactiva "supón p", es decir, “se solicita al
+interlocutor que acepte temporalmente la proposición de la prótasis a partir de la cual deberá
+interpretar la apódosis" (Bosque y Demonte 1999: 3649). La aceptación o validación del
+interlocutor se presupone para continuar con el discurso.
+142
+Las construcciones condicionales fueron analizadas por los lógicos. Los tópicos, por los lingüistas (Ramsey
+1931; Stalnaker 1975; Ducrot 1972). Sin embargo, sus definiciones convergen en numerosos puntos como lo
+señala Haiman (1978). Haiman afirma: "los condicionales son tópicos" y señala la similitud formal en la
+superficie que poseen los condicionales con los tópicos en numerosas lenguas y su posibilidad de parafrasearse
+mutuamente. Él propone que las construcciones condicionales tanto como los tópicos constituyen el marco de
+referencia, el "setting" discursivo, a partir del cual lo dicho se sostiene o no. Creemos que esto funciona en el
+quechua.

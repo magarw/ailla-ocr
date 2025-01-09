@@ -1,0 +1,74 @@
+bara aj
+CONN 3.POSS up ?
+'bueno, levantan sus voces'
+'well, they raise their voices'
+pura mit
+pi
+eat
+bara baha nani pata
+CONN that PL
+nani ba kau
+food PL DET more
+'bueno esta alimentación es más fuerte'
+'well this nutrition is stronger'
+wini
+call
+lukluk
+banghwisa
+group
+traditional.drink.2
+'comen y beben el lukluk con más fuerza'
+'they eat and drink lukluk more aggressively'
+akawisa
+?
+bara baku tem ba lilia tara
+CONN as
+when DET happy big
+'después se hace una celebración muy grande'
+'then a big celebration is had'
+economia
+economy
+sihkru ba lika
+sihkru DET be
+dauk-i
+make-IMPF
+'lo que es el sihkru realizan el foro'
+'the sihkru takes place in a forum'
+king pulanka ba sihkru-ra ba bara sa
+king game DET sihkru-LOC
+'el king pulanka y en el sihkru hay'
+9
+'in the king pulanka and the sihkru there is
+dukkia bara ais-i
+thing there
+kau di
+ba
+DET more drink AUX.3.NPST
+'y economía se habla'
+'and about economy they talk about'
+sa
+karna
+strong
+dauk-i
+make-IMPF
+foro
+AUX.3.NPST forum
+educacion dukkia bara sa
+education thing there AUX.3.NPST health thing
+'de educación, de salud,'
+'about education, about health,’
+DET there AUX.3.NPST
+sa
+speak-IMPF AUX.3.NPST
+sa
+salud dukkia bara sa
+sa
+AUX.3.NPST
+akawisa
+there AUX.3.NPST
+dauk-i
+bara tema nani sat sat
+CONN theme PL
+style make-IMPF ?
+'hay otros tipos de temas que también se realizan con estas actividades'
+'other topics also take place in these activities'

@@ -1,0 +1,65 @@
+\PSH
+\UND tuna
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG papaya
+\ENG papaya
+\SPL pa=tuna
+\SLGR SS
+\SLGL papaya cimarro*n o del monte
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tuni7
+\_no 03107
+\LG MIG
+\PSH
+\UND tuni7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG ciruelo
+\ENG plum
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+LF:7okox
+LF: kuy
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex tun.naanh
+\_no 03108
+\XSP
+\XEN
+\SYN
+\ROOT tun
+\RTGR T3
+\DSRC HAJ95
+\LG MIG
+\PHO [tunna*nh]
+\UND tun.naanh
+\MB devisar, MED
+\VAR
+\GRAM meas
+\SPG una devisada
+\ENG a glimpse
+\EX
+ZOH004R0011001.txt
+Page 1337

@@ -1,0 +1,62 @@
+\ROOT jup
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex j@t@t.naanh
+\_no 00018
+\LG MIG
+\PHO [j@t@tna*nh]
+\UND jat@t.naanh
+\MB sobar, MED
+\VAR
+\GRAM meas
+\SPG una sobada
+\ENG a rub
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT jat@t
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex j@7t.naanh
+\_no 00019
+\LG MIG
+\PHO [j@7tna*nh]
+\UND j@7t.naanh
+\MB regar_rio, MED
+\VAR
+\GRAM meas
+\SPG una vez paso* el ri*o
+\ENG one flooding
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT ja7t
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex j@x='utz
+\_no_00020
+\LG MIG
+\PSH [j@xxutz-]
+\UND j@x=7utz
+\MB ATRAS, medir
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar medido
+\ENG to measure something out
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+ZOH001R0611003.txt
+Page 7

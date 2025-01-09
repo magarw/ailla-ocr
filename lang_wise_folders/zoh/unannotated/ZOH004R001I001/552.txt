@@ -1,0 +1,63 @@
+\XEN 2 I've got my shirtsleeves rolled up.
+\SYN
+\SEMF cover, arrange
+\ASP achievement
+\ARG
+\NOM kitz.naanh
+\SUB 7ok.kitz.'@y, t@tz=ni.kitz-wak, yuk.kitz
+\ETYM
+\ETL
+\ROOT kitz
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex kitza
+\_no 01264
+\LG MIG
+\PSH
+\UND kitza
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG flaco; delgado
+\ENG thin
+\EXU jakke kitza
+\XSP muy flaco
+\XEN very thin
+\SYN t@tz.i7
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS se trata de personas; PH-OK: TK
+\date 24/Jun/96
+\lex kitza. 7aH
+\_no 01265
+ZOH004R0011001.txt
+\LG MIG
+\PSH [kitza7a-]
+\UND kitza. 7aH
+\MB flaco, VERS1
+\VAR
+\GRAM versl
+\SCI
+\USE
+\SPG hacerse flaco
+\ENG to grow thin
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+Page 552

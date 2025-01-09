@@ -1,0 +1,80 @@
+73.
+74.
+¿Acaso no tienen cola los perros?
+¿tom ijan may snhe nok' tz'i'?
+tom ijan m-ay-Ø
+s-nhe nok' tz'i'
+int adv neg-exist-3B 3A-cola Canimal perro
+92
+Mi perro no tiene cola.
+jun intz'i' malaj snhe
+jun in-tz'i' malaj s-nhe
+uno 1A-perro neg 3A-cola
+nok' intz'i' malaj snhe nok'
+nok' in-tz'i' malaj s-nhe nok'
+Canimal 1A-perro neg 3A-cola Canimal
+malaj snhe nok' intz'i'
+malaj s-nhe nok'
+in-tz'i'
+neg 3A-cola Canimal 1A-perro
+Esta casa no tiene puerta.
+a jun pat tik malaj sti' spat
+a
+jun pat tik malaj s-ti' s-pat
+top uno casa dem neg 3A-boca 3A-puerta
+a jun te' pat tik malaj smakul te'
+a jun te'
+pat tik malaj s-mak-ul
+te'
+top uno Cmadera casa dem neg 3A-cerrar-gen Cmadera
+75. Juan tiene poco pelo.
+winhaj Xun kenhej xil sjolom winh
+winhaj Xun ken-nhej s-xil s-jolom winh
+Cmasc Juan poco-sólo 3A-pelo 3A-cabeza Cmasc
+Juan tiene mucho pelo.
+waj Xun te niwan xil sjolom winh
+waj
+Xun te niwan s-xil
+s-jolom winh
+Cmasc Juan muy grande 3A-pelo 3A-cabeza Cmasc
+waj Xun te pim xil sjolom winh
+waj
+pim
+s-xil s-jolom winh
+Cmasc Juan muy demasiado 3A-pelo 3A-cabeza Cmasc
+Xun te
+76. ¿Cómo es el pelo de Juan?
+77.
+¿chaj til xil sjolom winhaj Xun?
+chaj_til s-xil
+s-jolom winhaj Xun
+cómo 3A-pelo 3A-cabeza Cmasc Juan
+El pelo de Juan es negro.
+a xil sjolom winhaj Xun chi' k'ik'
+a s-xil s-jolom_winhaj Xun chi' k'ik'
+top 3A-pelo 3A-cabeza Cmasc Juan dem negro
+El pelo de Juan es colocho.
+a xil sjolom winhaj Xun chi' k'olichtak
+a
+s-xil s-jolom winhaj Xun chi' k'olich-tak
+top 3A-pelo 3A-cabeza Cmasc Juan dem colocho-pl
+El pelo de Juan es lacio.
+a xil sjolom winhaj Xun chi' tojol
+a
+s-xil s-jolom winhaj Xun chi' tojol
+top 3A-pelo 3A-cabeza Cmasc Juan dem recto
+78. Tengo el machete que me prestaste.
+ayek' k'en amachit ixak' inmajnhej
+ay-ø-ek'
+k'en a-machit ix-ø-ak' in-maj-nhej
+exist-3B-DIR.pasar Cmetal 2A-machete pas-2A-dar 1A-prestar-sólo
+ay jun inmachit ixamajnhej
+ay-ø
+jun in-machit ix-Ø-a-maj-nhej
+exist-3B uno 1A-machete pas-3B-2A-prestar-sólo
+Tienes el machete que te presté.
+et'nak k'en machit ixwak' amajnhej
+Ø-et'-nak
+k'en machit ix-Ø-w-ak' a-maj-nhej
+2A-SR-p.rem Cmetal machete pas-3B-1A-dar 2A-prestar-sólo
+93

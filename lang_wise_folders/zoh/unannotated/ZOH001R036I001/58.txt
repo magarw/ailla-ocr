@@ -1,0 +1,85 @@
+\mb kon tum kwarto de 7alko*1
+\sg1 con uno quarto de alcohol
+\egl with one quart of alcohol
+\zoq kon tum kwarto de 7alko*1.
+\fts con un quarto de alcohol.
+\fte with a quart of alcohol.
+\com
+\idx
+\ref ZOH001R036 267
+\_no 00266
+\tx
+\mb
+rebwelbetz@kk@mma*m
+y
+revolver-tz@k -7@m -w@ -7am 7@y jo
+revolver-hacer-PAS -COM-YA 3E EN - revolver-PAS -COM-YA
+- do
+-PASS-COM-NOW 3E INTO-stir
+\sg1
+\egl stir
+\ref ZOH001R036 268
+\_no 00267
+m
+\tx
+ga
+\mb ka -7 7@m
+\sg1 DCT3-NOM1 2E
+\eg1 DCT3-NOM1 2E
+ZOH001R0361001.txt
+\zoq Rebwelbetz@kk@mma*m y jomott@mma*m, pwes.
+\fts Ya se revolvio* ya se revolvio*, pues.
+\fte Now it's stirred, well, now it's stirred.
+\com
+\idx
+7ukpa*m
+7uk
+jomott@mma*m
+-mot
+tum kopaja*7 kada 7anhnamtzu7
+-pa -7am tum kopa-jaa7 kada 7anhnamtzu7
+tomar-INC-YA uno copa-NPL2 cada man~ana
+drink-INC-NOW one cup -NPL2 each morning
+\zoq Gam_7ukpa*m tum kopaja*7 kada 7anhnamtzu7.
+fts Ya lo tomas de una copa cada man~ana.
+\fte Now you drink one cup each morning.
+\com
+\idx
+\ref ZOH001R036 271
+\_no 00269
+\ref ZOH001R036 269
+\_no 00268
+\tx GSM: 7a bweno 7anhnamtzu 7@y 7ukpa
+\mb GSM
+7a bweno 7anhnamtzu7 7@y 7uk
+\sg1 GSM: ah bueno man~ana
+\eg1 GSM: ah good morning
+3E
+3E
+-pa
+tomar-INC
+drink-INC
+\zoq GSM: 7a bweno, 7anhnamtzu 7@y 7ukpa.
+\fts GSM: Ah bueno, de man~ana lo toma.
+\fte GSM: Oh, ok, in the morning you drink it.
+\com
+\idx
+\tx OSM: mhm tum kopaja*7 7anhnamtzu 7@y 7ukpa
+\mb OSM mhm tum kopa-jaa7 7anhnamtzu7 7@y 7uk
+\sg1 OSM: mhm uno copa-NPL2 man~ana
+\egl OSM: mhm one cup -NPL2 morning
+pwes
+-7@m -w@ -7am pwes
+pues
+-PASS-COM-NOW well
+tum@
+-ра tum@
+3E tomar-INC uno
+3E drink-INC one
+Page 58
+\zoq OSM: Mhm, tum kopaja*7 7anhnamtzu 7@y 7ukpa tum@.
+\fts OSM: De una copa de man~ana, lo toma uno.
+\fte OSM: Mhm, one cup each morning, he drinks one.
+\com
+\idx
+\ref ZOH001R036 272

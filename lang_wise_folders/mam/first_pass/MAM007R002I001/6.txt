@@ -1,0 +1,78 @@
+t-b'ant
+cuando A3s-hacerse
+'Cuando estén hechas sus máscaras,'
+(64) ok
+(65) esta ween qo
+está bien Blp
+'está bien que durmamos.'
+(68) Mii
+(66) Aa komo baseer t-u'n
+t-b'ant
+n-k'ooj=a.
+ah como va.a.ser A3s-SR:para.que A3s-hacerse Als-máscara=1s
+'Ah, cómo va a ser que se haga mi máscara.'
+(67) Ti tiil t-u'n
+t-b'ant
+n-k'ooj=a.
+qué qué A3s-SR:para.que A3s-hacerse Als-máscara=1s
+'Para qué se hará mi máscara.'
+0=0=ok⇒x=a
+NEG
+'No lo creó la gente."
+(70) ok
+CPL.DEP=B3s-DIR=DIR-?
+(69) Ti tiil maj 0=ok=xex
+qué qué ?
+'Para qué tengo que sentir'
+0=tza
+(71) b'ix mii'=tzan
+taan=x=sen.
+dormir=siempre=pues
+q'ajt jiil
+cuándo B3s-DIR_gritar animal
+'cuándo grita el animal'
+(72) Aj
+jak-la
+DEM sí-MIR
+'Pues voy a sentir'
+ky-k'ooj-a,
+A2p-máscara=2p
+y NEG=pues
+'y no lo voy a sentir.'
+B3s=DIR=INTNS
+(76) 0-chi-tzan
+B3s-decir-pues
+'así dijo.'
+0=n-naa=y'.
+B3s-Als-pensar=
+(73) mo 0=x-el
+0
+B3s=DIR-POT
+'o lo puedo agarrar’
+(74) b'ix-mo noq 0=x-el
+solo
+y-o
+'o sólo voy a escuchar,'
+0=n-naa=y'
+B3s=A1s-pensar=1s
+B3s-DIR-POT
+ky-oksla-'n=q'a
+A3p-creer-SD=CL
+r=1s
+n-tzyu-'=ya
+Als-agarrar-SD=1s
+n-naa=y'
+Als-pensar=1s
+0=q'uun-j.
+B3s-decir-PAS
+n-b'i-'n=a,
+Als-oír-SD=1s
+(75) per ja'ka=la
+w-ee'wa-n
+naaj n-witz-a,
+pero sí-MIR
+0=txi
+B3s-DIR Als-esconder-SD rápido Als-cara=1s
+'pero sí puedo esconder rápidamente mi cara,'
+xjaal.
+gente

@@ -1,0 +1,40 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+6.2.5. Impersonal Anəm
+This morpheme means "people do Verbing" or "someone does Verbing" or
+simply "Verbing happens". These forms also appear with absolutive agreement
+markers, always necessarily the 0 morpheme that marks the absolutive third
+person singular. The initial vowel is frequently elided when it appears in an
+unstressed syllable position, as shown in examples (iii-iv).
+(6.32)
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+xøkkøkxanømpa
+0 šək=?əkš.Anəm-pa
+3A bean=shell.INDEF-INC
+'People are shelling beans."
+joypi't xøngkejanømmø
+hoypi?t
+0 šəŋ=keh.Anəm-wə
+next day 3A fiesta=appear.INDEF-COM
+'The next day dawned.'
+tzumuknømpám
+0 cu?=muk.Anəm-pa+?am
+3A night=fall.INDEF-INC-NOW
+'Now night is falling.'
+naxe wen ye'tznømmám
+naše wenu 0 ye?c.Anəm-wǝ+?am
+in_fact very 3A arrive. INDEF-COM-NOW
+'In fact, a lot of people have come.'
+jejanømpa ban tzuway ney jente
+0 heh. Anəm-pa bayun cuway ney hente
+3A live. INDEF-INC very foolish our people
+'Our people live very foolishly'
+143
+(lexicon)
+(ZOH001 R010- 143)
+(ZOH001 R010- 358)
+(ZOH001 RO10-450)
+(ZOH001R003-040)

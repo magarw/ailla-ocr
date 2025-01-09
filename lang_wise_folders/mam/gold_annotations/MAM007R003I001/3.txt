@@ -1,0 +1,49 @@
+(25) aj maayn=0 ky=b'ii,
+DEM zopilote.de.cabeza.roja=B3s A3p-nombre
+'que se llaman zopilotes de cabeza roja,”
+(26) kyaq=0 t-i'
+ky-wi'.
+rojo=B3s A3s-SR:sobre A3p-cabeza
+'son rojos en sus cabezas."
+(27) Aj aa=0=qi=ya
+amiiwo, b'a'n-wt ky-ook=kye
+DEM DEM=B3s=PL-2 amigo bueno-CF A2p-entrar=2pENF
+t-e w-amiiw=ya,
+A3s-SR Als-amigo=1s
+'Ustedes amigos, podrían ser ustedes mis amigos,'
+
+(28) ¿nlaay 0=tza
+ky-ii-'n=a
+jun n-kaanb'=a
+no.se.puede B3s=DIR_A2p-traer-SD=2p un Als-ganancia=1s
+'¿no pueden traer mi ganancia'
+(29) ma-a' 0=txi' t-uj
+a'?
+PROX=ENF B3s=ir A3s-SR:en agua
+'que se fue en el agua?'
+(30) pere nlaay=x
+tz=iky'=tz w=w-u'n.
+pero no.se.puede=siempre B3s-pasar=DIR AlsENF=A1s-SR:AGT
+'yo no lo puedo sacar.
+(31) Nn=0=ok teen meeb'a ooq'a-l t-i7j.
+INC=B3s-DIR estar huérfano llorar-INF A3s-SR:tema
+'Y se puso el huérfano a llorar por eso.'
+(32) Mii'n 0=b'aj t-k’u’j=a meeb'a,
+no B3s=terminar A2s-estómago=2s huérfano
+'No tengas pena, huérfano,'
+(33) pwes jaka 0=tzaj q-ii-'n=a,
+pues se.puede B3s=DIR Alp-traer-SD=1pEXCL
+'pues lo podemos traer,'
+(34) 0=chi=chi=tzan ky-e
+maayn
+kyja'w, aj-qa
+B3s=B3p-decir-pues A3p-SR zopilote así DEM-PL
+maayn k’oxh.
+zopilote zopilote
+'dijeron los zopilotes de cabeza roja, estes zopilotes.'
+4
+(24) entoons n-chi
+tzaaj kab'-a k'o'xh,
+entonces INC=B3p venir dos-? zopilote
+'entonces vinieron dos zopilotes,"
+

@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tuk
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 21/Jun/95
+\lex k@.tu7tz [1]
+\_no 00081
+\LG MIG
+\PSH [k@tu7tz-]
+\UND k@.tu7tz
+\MB FUERA, X
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 atrancar
+\SPG 2 puntalear
+\ENG 1 to bar
+\ENG 2 to prop up
+\SPL k@.tu7tz.7oy
+\SLGR ANTIP
+\SLGL atrancar; puntalear // to bar; to prop up
+\SPL k@.tu7tz.7@m
+\SLGR PASS
+\SLGL atrancarse; puntalearse // to be barred; to be propped up
+\SPL k@.tu7tz.ten
+\SLGR PRSV
+\SLGL tener puesto el trancador // to have the bar in place
+\EXU 7@y+ k@.tu7tz.ten-w@
+\XPSH [7@y k@tu7tztenn@.]
+\XSP Tiene puesto el trancador.
+\XEN He's got the bar in place.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * tu7tz
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 11/Feb/96
+\lex k@7tz
+\_no 00082
+\LG MIG
+\PSH
+\UND k@7tz
+\MB
+ZOH001R0611006.txt
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG masticar
+\ENG to chew
+\SPL k@7tz.7oy
+\SLGR ANTIP
+\SLGL masticar // to chew
+\SPL k@7tz.7@m
+Page 56

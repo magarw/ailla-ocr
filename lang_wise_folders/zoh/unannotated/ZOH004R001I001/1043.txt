@@ -1,0 +1,63 @@
+\ENG the way you peek at someone secretly
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT 1 num
+\RTGR 1 T1
+\ROOT 2 tun
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex num=tunh7
+\_no 02420
+\LG MIG
+\PSH [numtunh7]
+\UND num=tunh.7
+\MB robar, camino, NOM1
+\VAR
+\GRAM as
+\SCI
+\USE
+\SPG vereda
+\ENG path
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT num
+\RTGR T1
+\DSRC HAJ94
+\CMTS CK-PH/OK: TK
+\date 25/Jun/96
+\lex_num=tzam
+\_no 02421
+\LG MIG
+\PSH [numtzam-]
+\UND_num=tzam
+\MB robar, platicar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG platicar a escondidas
+\ENG to converse secretly
+\EXU num=tzam-tam-pa
+ZOH004R0011001.txt
+\XPSH [Numtzamtampa.]
+\XSP Estamos secretea*ndonos, estamos platicando a escondidas.
+\XEN we're talking secretly.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 num
+\RTGR 1 T1
+\ROOT 2 tzam
+\RTGR 2 T1
+\DSRC HAJ94
+Page 1043

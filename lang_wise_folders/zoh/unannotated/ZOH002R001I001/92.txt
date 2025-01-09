@@ -1,0 +1,75 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+'that', but the temporal form is generally glossed ahora, 'now', rather than
+entonces, 'then'. Distal ga- (DCT3) deictics are distant from both the speaker
+and the hearer and may in fact not be visible at all. These are glossed with the
+Spanish distal, aquel/aquella, 'that'.
+A concrete description may help to clarify the system. Sr. Sánchez and I
+were sitting at a table in the patio, in adjacent chairs. To refer to his chair, or a
+hat sitting right in front of him (which he touched as he spoke), he used DCT1.
+To refer to a hat hanging on the back of a chair on the opposite side of the
+table (no nearer to me than to him), or a shrub near our table, he used DCT2.
+To refer to a shrub near the wall surrounding the patio, or the street outside the
+garden wall (not visible to us) he used DCT3.
+Gloss
+code
+DIR2
+Suffix
+NOM1
+DEM
+TMP
+LOC1
+LOC1
+LOC1
+DIR1 hənaŋ
+DIR1
+həəŋ
+DIR1
+heen
+DIR1
+haaŋ
+DIR1
+hanan
+SIM
+?
+də
+у
+hi?
+hə
+ha
+Proximal
+yə (DCT1)
+this
+this
+right now; soon
+here
+here
+?še
+to here
+to here
+hiin to this point and
+no further
+like this
+Neutral
+de (DCT2)
+this
+this
+now
+here
+to(wards) there
+67
+from there;
+thence
+like this/that
+Table 4.4. The deictic system
+Distal
+ka (DCT3)
+that
+that
+then
+there
+there
+to there; on the side
+to there; on the other
+side; elsewhere
+up to there
+like that

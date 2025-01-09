@@ -1,0 +1,62 @@
+\SPG tirar piedra; tirar y pegar con piedra
+\ENG to throw a rock; to throw and hit with a rock
+\EX
+\XSP
+\XEN
+\ROOT tzij T3
+\CMTS antip tzij.7oy
+\CMTS no pass tzij.7@m
+\lex tzik
+\_no 00265
+\SPG pelar; quitar o pelar cuero a un animal; chollar bajar el cuero
+\ENG to skin; to skin an animal; to shear
+\EX 7@y nakatzikk@
+\XSP lo quito* el cuero de un animal
+\XEN he skinned it
+\ROOT tzik T3
+\CMTS antip tzik. 7oy pelar
+\CMTS pass tzik.7@m pelarse
+\CMTS no pass tzik.7@m *
+\CMTS this time he thought tzik.7@m was fine
+\lex tzi7kx
+\_no 00266
+\SPG dar comezo*n
+\ENG to itch
+\EX tzi7kx@ wenu
+\XSP le dio* mucha comezo*n
+\XEN he itched a lot
+\EX tzi7kxwayy@
+\XSP ya no le dio* comezo*n
+\XEN
+\EX ya tzi7kxa*m
+\XSP ya no le da comezo*n
+\XEN now it doesn't itch
+ZOH001R0611011.txt
+\EX yuktzikx@ 7@y kuptuku
+\XSP le dio* comezo*n su espalda
+\XEN her back itched
+\EX tzi7kxja:ba
+\XSP tiene comezo*n
+\XEN it itches
+\ROOT tzi7kx 12, IX
+\CMTS no caus yak.tzi7kx *
+\CMTS get deriv's
+\lex tzinh
+\_no 00267
+\SPG ban*arse
+\ENG to bathe
+\EX
+\XSP
+seri*a: "se pela so*lo" (don't know about this
+\XEN
+\ROOT tzinh Il
+\CMTS caus yak.tzinh ban~ar
+\CMTS caus2 yak+ tzinh
+\XSP ya esta* marchitado
+\XEN now it has wilted
+\lex tzi7tz
+\_no 00268
+\SPG arrugarse; tener sarna; marchitarse
+\ENG to become wrinkled; to have dandruff; to wilt
+\EX tzi7tztza*m
+Page 52

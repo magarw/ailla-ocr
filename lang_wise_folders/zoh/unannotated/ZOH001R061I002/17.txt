@@ -1,0 +1,62 @@
+\CMTS
+\lex jipx
+\_no 00066
+\SPG quemarse demasiado, como cafe*
+" pan, etc.
+\ENG to overcook, like coffee, bread, etc.
+\SEMF Cook, temp
+\ASP activity, achievement
+\ARG patient
+\NOM jipx.@7
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex jipx-@H
+\_no 00067
+\SPG tener calentura
+\ENG to have a fever
+\SEMF body, temp
+\ASP state
+\ARG
+\NOM
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex ji7p
+\_no 00068
+\SPG 1 mover (con un palito)
+\SPG 2 menear
+\SPG 3 revolver
+\SPG 4 trompear
+\ENG 1 to move (with a little stick)
+\ENG 2 to stir
+\ENG 3 to mix up
+\ENG 4 to root
+\SEMF cook, move
+\ASP activity
+\ARG instrument
+\NOM ji7p.kuy7
+\RTGR P, (T3)
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex ji7t
+\_no 00069
+ZOH001R0611002.txt
+\SPG manchar
+\ENG to smear; to stain
+\SEMF clean
+\ASP activity, achievement
+\ARG
+\NOM
+\RTGR T3
+\POS
+Page 17

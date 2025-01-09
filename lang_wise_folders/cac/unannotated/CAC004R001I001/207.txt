@@ -1,0 +1,58 @@
+R
+P
+"áxtil wánap'átíh #23↑ šin čí t'a wÍN #13 ↓
+MP ?áx-ti?l wan-ha-p'át-in š-hin-čih
+t'ah wẤN
+1
+sp
+PS
+SS
+P
+MP
+NP
+Topic
+PS
+G where-* progressive-you-go-*
+E Where are you going?"
+SS
+tv
+S---
+VP
+iv
+VP
+Main
+Main.
+202
+S----
+G past-he-say-* male to I
+E He said
+to me,
+?iš yálan wíN t'áyín #23 → háhintík #12
+ic-y-ál-an w_N trạy hín
+wíN
+ㅏ
+sp
+P
+STRE
+NP
+NP
+Subj
+Post-Adv.
+ALE
+P
+iv
+VP
+Main
+I here
+"Me,
+-S
+durative-I-say to male
+I say to him.
+há? hin tík
+NP
+P
+NP
+Topic
+Post-Adv.
+.
+(s).

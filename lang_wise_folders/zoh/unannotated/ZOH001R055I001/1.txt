@@ -1,0 +1,84 @@
+\id C:\TEXTS\ZOH001R055.TXT
+\ref ZOH001R055 000
+\_no 00001
+\zoq Mi Byaje 7a Katemako
+\fts Mi viaje a Catemaco
+\fte Mi Trip to Catemaco
+\com narrado por Germa*n Sa*nchez Morales
+\com 26/6/95, en Catemaco, Veracruz, Mexico
+\com grabado por GSM, transcrito por Heidi Anna Johnson,
+\com traducido al espan~ol por GSM,
+\com analisado y traducido al ingles por HAJ.
+\com
+\com
+\com 7
+\com @
+\com nh
+\com tz
+\com_ narrated by Germa*n Sa*nchez Morales
+\com 6/26/95, in Catemaco, Veracruz, Mexico
+\com recorded by GSM, transcribed by Heidi Anna Johnson,
+\com translated into Spanish by GSM,
+\com analyzed and translated into English by HAJ.
+Ortografi*a
+orthography
+\com x
+\com j
+\com *
+pau*sula glotal
+vocal medio central
+nasal velar
+\tx
+\mb
+(ng)
+africativo alveolar (ts)
+fricativo palatal
+(sh)
+glottal fricative (h)
+estre*s
+\ref ZOH001R055 002
+\_no 00003
+28/Oct/04
+\zoq Y@7tztz@ 7ana Jerma*n 7@y t@kjo7.
+\fts Llego* Ana en la casa de Germa*n.
+\fte Anna arrived at German's
+\com
+house.
+\idx
+ZOH001R0551001.txt
+\ref ZOH001R055 001
+\_no 00002
+\tx ye7tztz@ 7ana jerma*n 7@y t@kjo7
+\mb ye7tz -wa 7ana jerma*n 7@y tak -jo7
+\sg1 11egar-COM Ana Germa*n 3E casa -LOC2
+\egl arrive-COM Anna Germa*n 3E house-LOC2
+tum de rropente g@xi ya
+tum de rropente g@xi ya
+\sg1 uno de repente LOC4 ya
+\egl one of sudden
+\tx 7ixp@kxuk@pa*m
+\mb 7ix-p@k
+\ref ZOH001R055 003
+\_no 00004
+k@
+-xuk-@ -pa -7am
+\sg1 ver-agarrar-3PL-PSV-INC-YA
+\egl see-get
+glottal stop
+mid central vowel
+velar nasal
+k@ye7tztz@yy@,
+komo ney
+-ye7tz -7@y-w@ komo ney
+AFUERA-11egar-3E -COM como RCP
+LOC4 now AWAY -arrive-3E -COM how RCP
+alveolar affricate
+palatal fricative
+stress
+-3PL-PSV-INC-NOW
+\zoq Tum de ropenteg@xi ya k@ye7tztz@yy@, komo ney 7ixp@kxuk@pa*m.
+\fts Un de ropente ya llego*, ya se conoce.
+\fte She now suddenly arrived, now they know each other.
+\com
+\idx vseq_cmp
+Page 1

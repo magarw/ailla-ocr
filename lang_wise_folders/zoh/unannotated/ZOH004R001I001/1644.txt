@@ -1,0 +1,64 @@
+\PSH [w@j@teji7a-]
+\UND waja-te.ji.7aH
+\MB bueno, X, X, VERS1
+\VAR w@j-teej.7aH
+\GRAM vi
+\SCI
+\USE
+\SPG estar sano o bien
+\ENG to be well
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * tej
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex waja-tz@k
+\_no 03824
+\LG MIG
+\PSH [w@j@tz@k-]
+\UND waja-tz@k
+\MB bueno, HACER
+\VAR w@: j=tz@k
+\GRAM vt:incorp
+\SCI
+\USE
+\SPG limpiar; arreglar; componer
+ENG to clean; to fix; to arrange
+\SPL w@j-tz@k.7@m
+\SLGR PASS
+\SLGL componer // to fix
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 20/Jun/95
+\lex w@j (@)=pitz@m.jay
+\_no 03825
+\LG MIG
+\PSH [w@j@pitz@mjay-]
+\UND waja-pitz@m. jay
+\MB bueno,
+salir, APPL
+\VAR w@@j-pitz@mjayya
+\GRAM vi:indir
+\SCI
+\USE
+\SPG salirle bien
+\ENG to come out well for someone
+ZOH004R0011001.txt
+\EXU d@+ w@j (@)=pitz@m.jay-wa
+\XPSH [D@ w@@jpitz@mjayy@.]
+Page 1644

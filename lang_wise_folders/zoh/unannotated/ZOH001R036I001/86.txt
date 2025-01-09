@@ -1,0 +1,63 @@
+\zoq 7@y p@jaba 7ay jay@ pedaso.
+\fts Le echa hoja de albaca por pedaso.
+\fte He puts in pieces of basil leaf.
+\com
+\idx
+\ref ZOH001R036 399
+\_no 00393
+\tx 7ay jaya 7ay
+\mb 7ay7 jay@7
+\sg1 hoja flor
+7ay7
+hoja
+\egl leaf flower leaf
+\zoq 7ay jay@ 7ay.
+\fts Hoja de albaca.
+\fte Basil leaf.
+\com
+\idx
+\ref ZOH001R036 400
+\_no 00394
+\tx p@jaba
+kuradina
+\mb p@7 -jay -pa kuradina
+\sg1 poner-APPL-INC curadina
+\egl put -APPL-INC ***
+\zoq P@jaba kuradina.
+\fts Le echa curadina.
+\fte He puts in curadina.
+\com
+\idx
+\ref ZOH001R036 401
+\_no 00395
+\tx p@jaba
+manteka
+\mb p@7 -jay -pa manteka
+\sg1 poner-APPL-INC manteka
+\egl put -APPL-INC lard
+\zoq P@jaba manteka -
+\fts Le echa manteca
+\fte He puts in lard
+\com
+\idx
+\ref ZOH001R036 402
+\_no 00396
+\tx yoya
+manteka
+\mb yoya
+manteka
+\sg1 marrano manteka
+\egl pig lard
+\zoq yoya manteka
+\fts manteca de marrano
+\fte pork lard
+\com
+\idx
+-
+\ref ZOH001R036 403
+\_no 00397
+ZOH001R0361001.txt
+\tx kom
+kwandu y xe7tpa
+\mb komo kwandu 7@y xe7t -pa
+Page 86

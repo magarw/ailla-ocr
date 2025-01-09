@@ -1,0 +1,63 @@
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\lex rrifa=tz@k
+\_no 02876
+\LG MIG
+\PSH [rrifatz@k-]
+\UND rifa=tz@k
+MB rifar, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG rifar
+\ENG to quarrel
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ETYM
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-PH
+\date 25/Jun/96
+\lex rrobalu
+\_no 02877
+\LG MIG
+\PSH
+\UND rrobalu
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG robalo
+\ENG a type of fish
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 10/Nov/94
+\lex rroble
+\_no 02878
+\LG MIG
+LF: koke
+\PSH
+\UND rroble
+\MB
+\VAR
+\GRAM
+\SCI
+ZOH004R0011001.txt
+Page 1239

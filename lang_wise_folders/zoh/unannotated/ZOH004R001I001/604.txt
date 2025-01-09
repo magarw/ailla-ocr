@@ -1,0 +1,62 @@
+XEN The hen is setting.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT monh
+\RTGR P, (T3)
+\DSRC TK94
+\CMTS
+\date 07/Feb/96
+\lex ko.monh
+\_no 01386
+\LG MIG
+\PSH [komonh-]
+\UND ko.monh
+\MB OTRO, dormir
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG acompan~ar durmiendo
+\ENG to sleep with someone
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT monh
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 02/Oct/94
+\lex kom.pu'
+\_no 01387
+LG MIG
+\PSH [kompu-]
+\UND kom. pu7
+\MB remendar, RVS
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG descomponer; desarmarse
+\ENG to get out of order; to go on the fritz
+\EXU kom=pu'.7@m-w@
+\XPSH [Kompu7@mm@.]
+\XSP Se desarmo*.
+\XEN It stopped working.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT kom
+\RTGR T3
+\DSRC HAJ94
+ZOH004R0011001.txt
+\CMTS
+\date 29/Jan/96
+\lex ko.mux
+Page 604

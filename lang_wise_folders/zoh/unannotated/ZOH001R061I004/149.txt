@@ -1,0 +1,64 @@
+\SPG una cosa mordida
+\ENG something bitten
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT wax
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex wax=tzik.i7
+\_no 00374
+\LG MIG
+\PSH [waxtziki7]
+\UND wax=tzik. E7
+\MB morder, pelar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG mordedura
+\ENG bite
+\EXU 1 wax=tzik.i7k t@m
+\XPSH 1 [waxtziki7k t@m]
+\XSP 1 la fruta que le han pegado un bocado
+\XEN 1 fruit that's had a bite taken out of it
+\EXU 2 t@m wax=tzik.i7
+\XPSH 2 [t@m waxtziki*7]
+\XSP 2 la fruta que le han pegado un bocado
+\XEN 2 a fruit that's had a bite taken out of it
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 wax
+\RTGR 1 T3
+\ROOT 2 tzik
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS le quito* un pedazo de algo
+\CMTS CK-EX - HAJ:96 ok; PH-OK: TK
+\date 26/Jun/96
+ZOH001R0611004.txt
+\lex way'=7on.i7
+\_no 00375
+\LG MIG
+\PSH [way 7oni7]
+\UND way7=7on. E7
+\MB pelo, desarreglar, NOM7
+\VAR (way) 7on-w@
+\GRAM a:sq
+ca*scara, o fruta
+\SCI
+\USE
+\SPG 1 (de) pelo aracha
+\SPG 2 despeinada (se trata de mujeres)
+\ENG 1 with big hair
+\ENG 2 uncombed (of women)
+\EXU way'=7oni' yomaa7
+\XPSH [way7oni yoma*7]
+\XSP mujer despeinada
+\XEN a woman with her hair uncombed
+Page 149

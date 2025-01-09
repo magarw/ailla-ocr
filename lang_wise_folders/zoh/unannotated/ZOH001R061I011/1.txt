@@ -1,0 +1,60 @@
+\id C:\SHOUT\VROOT.TXT
+\lex 7in
+\_no 00001
+\SPG nublarse
+\ENG to get cloudy
+\EX
+\XSP
+\XEN
+\ROOT 7in Ix
+\CMTS caus yak.7in hacer nublar
+\lex 7un
+\_no 00002
+\SPG engan~ar
+\ENG to deceive
+\EX
+\XSP
+\XEN
+\lex 7@j
+\_no 00003
+\SPG pujar
+\ENG to grunt
+\EX
+\ROOT 7un Tx
+\CMTS ya no usa, pero puede entenderlo
+\CMTS 7unnawe //7un.7a-w@// se engan~o*
+\XSP
+\XEN
+\ROOT 7@j Ix
+\CMTS get deriv's
+\CMTS caus yak.7@j
+\lex chekek
+\_no 00004
+\SPG culequear
+\ENG to cluck
+\EX chekekk@ piyu
+\XSP culequeo* la gallina
+\XEN the chicken clucked
+\ROOT chekek Il
+\CMTS
+\XSP
+\XEN
+ZOH001R0611011.txt
+28/Oct/04
+\lex cho7k
+\_no 00005
+\SPG sonar "haciendo pendejadas"
+\ENG to make a slurping sound fucking
+\EX cho7k-pa y+chona
+\ROOT cho7k Ix
+\CMTS
+\lex jaj
+\_no 00006
+\SPG arder el cuerpo (en el sol, cuando esta* caminando mucho...)
+\ENG for the body to get warm (in the sun, from walking a lot.
+\EX ni:jajja
+\XSP ardio* el cuerpo
+\XEN his body warmed up
+\ROOT jaj IX
+\CMTS caus 7@y yakjajja 'algo me ardio*'
+Page 1

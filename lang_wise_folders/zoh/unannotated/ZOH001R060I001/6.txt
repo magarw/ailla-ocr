@@ -1,0 +1,82 @@
+ZOH001R0601001.txt
+andar-dINC
+\sgl olear
+-jugar-SUF-INC-3E
+\egl make_waves-play -SUF-INC-3E walk -dINC
+\fts este barco anda encima del mar. esta* oleandose.
+\fte this boat is going along on the sea. it's rocking on the waves.
+\com
+\idx
+\cmts picture of a sailboat on the wavy sea
+\ref 017
+\_no 00018
+\tx yada
+xixw@kkuy
+niji7tt@
+\mb ya
+-d@
+-d@
+xix
+-wak -kuy7 ni -ji7t
+\sg1 DCT1-DEM carne-cortar-INSTR1
+\eg1 DCT1-DEM meat -cut
+de n@pin7
+-w@ de n@pin7
+PSE-manchar-COM de sangre
+-INSTR1 PSE-stain -COM of blood
+\fts este cuchillo esta* manchado de sangre
+\fte this meat knife is spotted with blood
+\com
+\idx
+\cmts picture of a knife with stuff on the blade
+\ref 018
+\_no 00019
+\tx y@d@
+mexa n@mm@y yaknikponhnhoyy@
+bi
+ta7kx@
+\mb ya -d@ mexa n@mm@-7@y yak -nik -ponh -7oy -w@ bi ta7kx@
+\sg1 DCT1-DEM mesa PROG -3E
+CAUS-SUP -quemar-ANTIP-dINC DEF vela
+\eg1 DCT1-DEM table PROG -3E CAUS-SURF-burn -ANTIP-DINC DEF candle
+\fts esta mesa esta* dando la claridad esta luz
+\fte this light is shining on this table
+\com
+\idx
+\cmts picture of a table under a ceiling lamp
+\ref 019
+\_no 00020
+\tx p@7
+y@
+mexa
+\mb p@7 - A7 y@ -7
+\sg1 poner-IMPV DCT1-NOM1 mesa
+arder-NOM2-LOC2
+-IMPV DCT1-NOM1 table DCT3-LOC1 burn -NOM2-LOC2
+ka -ja7
+DCT3-LOC1
+\egl put
+mexa gaja
+\fts pon esta mesa alla* en la luz
+\fte put this table there in the light
+toto teji7aw@
+ta7kx@jo7
+ta7kx-A
+-jo7
+\com
+\idx
+\cmts same as 018
+\ref 020
+\_no 00021
+\tx y@d@
+\mb ya -d@ toto7 teji
+y@
+\sg1 DCT1-DEM papel hay
+-7a -w@ y@ -7
+-VERS1-COM DCT1-NOM1
+\eg1 DCT1-DEM paper there_is-VERS1-COM DCT1-NOM1 INSTR2-space -INSTR1-LOC2
+Page 6
+y@kjokuyjo7
+y@k -joj
+-kuy7 -jo7
+INSTR2-espacio-INSTR1-Loc2

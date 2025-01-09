@@ -1,0 +1,96 @@
+\mb ka -7
+ZOH001R0361001.txt
+min -wa ya
+toy -w@
+venir-dINC NEG doler-nIMPV-YA
+\eg1 DCT3-NOM1 DO -ANTIP-INC-NOW 2E come -dINC NEG hurt -nIMPV-NOW
+n@m-7oy -pa -7am 7@m
+\sg1 DCT3-NOM1 DO -ANTIP-INC-YA 2E
+\zoq Ga n@mmoba*m 7@m minn@, ya toyya*m.
+\fts Ya con eso puedes venir, ya no te duele.
+\fte Now you can come, now it doesn't hurt.
+\com
+\idx
+\ref ZOH001R036 345
+\_no 00340
+beses mi
+70 mi
+beses mi
+-ра 70 mi
+veces 3>2 morder-INC O 3>2
+\egl there are times 3>2 bite -INC or 3>2
+\sg] hay
+\tx 7ay
+\mb hay
+\tx n@pin7apa
+\mb n@pin7-7a
+7onde mi waxx@
+donde mi wax -wa
+\sgl sangre-VERS1-INC donde 3>2 morder-COM
+\egl blood -VERS1-INC where 3>2 bite -COM
+-pa
+\ref ZOH001R036 346
+\_no 00341
+\tx
+\mb
+min@
+\tx 7ay
+\mb 7adyo min
+\sg1 luego venir-IMPV 2E
+Vegl later come -IMPV 2E
+waxpa
+wax
+\zoq 7ay beses mi waxpa 70 mi tuxpa, kay n@pin7apa 7onde mi waxx@.
+\fts Hay veces te muerde o te pica, ahora esta* sangrando donde te mordio*.
+\fte There are times it bites you or it stings you, now there's blood.
+\com where it bit you
+\idx
+m
+jupp@kk@
+-A7 7@m jup -p@k -wa
+j@xw@kp@*
+bi naka
+jax -w@k -p@7 -A7 bi naka
+\sg1 ATRAS-cortar-poner-IMPV DEF cuero
+\eg1 BACK -cut -put -IMPV DEF skin
+\ref ZOH001R036 347
+\_no 00342
+\tx pitz@mpa bi n@pin
+\mb pitz@m-pa bi n@pin7
+\sgl salir -INC DEF sangre
+\egl leave -INC DEF blood
+\zoq Pitz@mpa bi n@pin.
+\fts sale la sangre.
+\fte The blood comes out.
+\com
+\idx
+\ref ZOH001R036 348
+\_no 00343
+kay
+-pa ka -y
+picar-INC DCT3-TMP
+bite -INC DCT3-TMP
+tuxpa
+tux
+\zoq 7ay min@m jupp@kk@m nakay j@xw@kp@*_bi naka.
+\fts De ahi* ven agarra tu cuero y quitale tu cuero.
+\fte Then come grab your skin and cut off the skin.
+\com
+\idx
+jalar-agarrar-dINC 2E
+pull -get
+-DINC 2E
+\tx gag@
+n@pin si m tz@wi
+\mb ka -g@ n@pin7 si 7@m tz@wi
+m naka
+7@m naka 7@y
+cuero 3E
+Yay
+skin 3E
+EN
+p@kn@kk@
+p@k
+-n@k -w@
+- 7am
+Page 74

@@ -1,0 +1,63 @@
+\MB ABAJO, trabarse, SUF
+\VAR
+\GRAM vt
+\SPG destrabar
+\ENG to unstick
+\EXU 7ok.tz@y-@' de.' ta7kx.@7
+\XPSH [7oktz@y@ de_ta7kx@7.]
+\XSP ! Pasame esta luz!
+\XEN Pass me that light!
+\SYN
+\ROOT tz@y
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex 7ok.wak
+\_no 00406
+LG MIG
+\PSH [7okwak-]
+\UND 7ok.wak
+\MB ABAJO, *vaciar
+\VAR
+\GRAM vt, vi
+\SCI
+\USE
+\SPG terminar
+\ENG to end, to finish
+\EXU 7ok.wak-w@+ 'am
+\XPSH [7okwakka*m.]
+\XSP Ya termino*.
+\XEN Now it's finished.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT wak
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex 7ok.wan.'@y
+\_no 00407
+\LG MIG
+\PSH [7okwann@y-]
+\UND 7ok.wan.7@y
+\MB ABAJO, cantar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG repetirle las cosas que le ha regalado
+\ENG to remind someone of something that you gave them
+\SPL
+\SLGR
+\EXU 7@y+ 7ok.wan. '@y-pa 7@y+ tzi-w@-v7k
+\XPSH [7@y 7okwann@bay tziw@*7.]
+\XSP Esta* recordando cosa que ya le regalo*
+\XEN He's reminding someone of what he gave them.
+\SYN
+\SEMF
+\ETYM
+\ETL
+Page 174

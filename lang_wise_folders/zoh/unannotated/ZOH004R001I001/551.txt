@@ -1,0 +1,64 @@
+\DSRC HAJ02
+\CMTS
+\DATE 09/Aug/02
+\lex ki7t=w@tz
+\_no 01262
+\LG MIG
+\PSH [ki7tw@tz-]
+\UND ki7t=w@tz
+\MB meter_dedo, peinar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG peinar con los dedos
+\ENG to comb with the fingers
+\EXU 7@n+ ki7t-w@tz-w@ 7@n+ way7
+\XPSH [7@n ki7tw@tztz@n way7.]
+\XSP Peine* mi cabello con los dedos.
+\XEN I combed my hair with my fingers.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ki7t
+\RTGR T3
+\ROOT w@tz
+\RTGR T3
+\DSRC HAJ02
+\CMTS
+\DATE 09/Aug/02
+\lex kitz
+\_no 01263
+\LG MIG
+\PSH
+\UND kitz
+ZOH004R0011001.txt
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 enrollar
+\SPG 2 remangar
+ENG 1 to roll up
+\SPL kitz.7oy
+\SLGR ANTIP
+\SLGL enrollar; remangar // to roll up
+\SPL kitz.7@m
+pantalo*n, camisa
+\SLGR PASS
+\SLGL enrollarse // to be rolled up
+\SLGR NO ASSUM1
+\SPL kitz.ten
+\SLGR PRSV
+\SLGR tener enrollado (las mangas) // to have the sleeves or pants legs
+rolled up
+\EXU 1 7@n+ kitz-pa 7@n+ y@k.wij 7@y+ tzanh.kuy7
+\XPSH_1 [7@n_kitzpan y@kwij 7@y tzanhkuy7.]
+\XSP 1 Enrollo la manga de mi camisa.
+\XEN 1 I'm rolling up the sleeve of my shirt.
+\EXU 2 7@n+ kitz.ten-w@ 7@n+ y@k.wij 7@y+ tzanh.kuy7
+\XPSH 2 [7@n kitztenn@n_y@kwij 7@y tzanhkuy7.]
+\XSP 2 Tengo enrollado las mangas de mi camisa.
+Page 551

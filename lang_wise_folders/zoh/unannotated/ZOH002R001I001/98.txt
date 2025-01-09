@@ -1,0 +1,49 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+syllable huš, which would receive full primary stress if there were no
+postposition.
+The following examples illustrate the problem of assigning lexemes to
+the right class. +ho? (i) is uncontroversially a postposition, while the
+appearance of kowitiiŋ (ii) after the verb places it decisively in the adverb class.
+Examples (iii) and (iv) show a fuzzier case, that of kəhəəŋ, 'below'. In example
+(iii) it follows immediately after the noun phrase, like a normal postposition.
+There are many examples of kəhəəŋ in this position in the corpus. In example
+(iv), however, it appears independently, as part of the predicate 'to be below'.
+(4.25)
+(i)
+(ii)
+(iii)
+(iv)
+ye'tztzø 'ana jermáng 'øy tøkjo'
+ye?c-wǝ
+?ana jermáŋ ?əy+ tək+ho?
+arrive-COM ana germán 3E+ house+LOC2
+'Ana arrived at Germán's house.'
+yødø tøk 'øy 'angpajxukkø kowiting
+yə.də
+tək ?əy+ ?aŋ.pah-šuk-wǝ
+DCT1.DEM house 3E+ MOUTH.nail-3PL-COM
+'They fenced all around this house."
+dø tungngapa yødø nipø't køhøng
+də+ tuŋ.?a-pa
+yə.də
+ni.pə?t
+1A+ road.VERS1-INC DCT1.DEM INSTR3.pass
+'I'm going to walk under this bridge."
+'øn tøk teji'awø køjóng
+?ən+ tək
+kəj?ǝəəŋ
+1E+ house 3A there is.VERS1-COM below
+'My house is down below."
+O tehi.?a-wə
+(ZOH001 R055-001)
+kowitiin
+around
+(ZOH001 R0601001-021)
+kəhəəŋ
+below
+(ZOH001 R0601001-105)
+(ZOH001 R0601001-086)
+There is also a small set of entries in the table (hoŋ, hooŋ, honaŋ, and
+hənaŋ) that are similar in phonological form, but probably not derived from the
+same root morpheme. These are uncontroversially postpositions: they appear
+73

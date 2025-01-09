@@ -1,0 +1,63 @@
+\SPL wen.7oy
+\SLGR ANTIP
+\SLGL partir // to divide
+\SPL wen.7@m
+\SLGR PASS
+\SLGL partirse // to be divided
+\SPL wen.ney
+\SLGR ASSUM1
+\SLGL estar partido // to be divided
+\SPL wen.ten
+\SLGR PRSV
+\SLGL tener partido // to have divided
+\EXU 1 7@y+ wen-w@ 7ane kuk+kina-'anh
+\XPSH 1 [7@y wenn@ 7ane kukkina*nh.]
+\XSP 1 Partio* la tortilla por la mitad.
+\XEN 1 He tore the tortilla in half.
+\EXU 2 7@y+ wen.x@y-w@ bi 7an.e
+\XPSH 2 [7@y wenn@yy@ bi 7ane.]
+\XSP 2 Tiene partido la tortilla.
+\XEN 2 She has the tortilla torn in half.
+\SYN
+\SEMF cut
+\ASP transition
+\ARG
+\NOM wen.e, wen.neenh
+\SUB kuk.wen.e, wen.pak.p@7
+\ETYM
+\ETL
+\ROOT wen
+\RTGR P (T3)
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex wen.e7
+\_no 03646
+\LG MIG
+\PSH [wene7]
+\UND wen. E7
+\MB partir, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG pedazo
+\ENG piece
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wen
+\RTGR P (T3)
+\DSRC HAJ94
+ZOH004R0011001.txt
+\CMTS get deriv's
+\date 28/Jan/96
+\lex weni7
+\_no 03647
+\LG MIG
+\PSH
+Page 1567

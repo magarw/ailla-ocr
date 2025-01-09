@@ -1,0 +1,61 @@
+\_no 00160
+\SPG mojarse
+\ENG to get wet
+\EX ban mujpa
+\XSP estar muy mojado
+\XEN it's very wet
+\ROOT muj 12
+SEMF condition
+\CAUS yak.muj mojar
+\CMTS
+\lex muk
+\_no 00161
+\SPG caerse; caer
+\ENG to fall down; to drop
+\EX mukneyy@ mexajo
+\XSP se agacho* sobre la mesa
+XEN he was slumped over the table
+\ROOT muk 12
+SEMF fall
+\CAUS yak.muk dejar caer
+\ASSU muk.ney agacharse
+\date 20/Mar/96
+\lex mu7k
+\_no 00162
+\SPG chupar
+\ENG to suck
+\EX
+\XSP
+\XEN
+\ROOT mu7k T3
+\SEMF eat
+\PASS NONE mu7k.7@m
+\ANTI mu7k.7oy
+\CMTS
+\lex mum
+\_no 00163
+\SPG arrugarse; enjutarse flor
+\ENG to become wrinkled
+a flower
+\EX
+\XSP
+\XEN
+\ROOT mum 12
+SEMF condition
+\CAUS yak.mum enjutar; arrugar
+\CMTS
+ZOH001R0611010.txt
+\lex mut
+\_no 00164
+\SPG orinarse porque no alcanzas el ban~o
+\ENG to piss yourself because you can't make it to the bathroom
+\EX n@mutt@
+\XSP nacio* agua
+\XEN
+\ROOT mut Ix
+\SEMF body
+\CMTS get deriv's
+\lex mux
+\_no 00165
+\SPG saber
+Page 38

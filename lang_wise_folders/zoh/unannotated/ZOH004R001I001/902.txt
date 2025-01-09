@@ -1,0 +1,63 @@
+\VAR
+\GRAM meas
+\SPG una hoyita (de tamal), un trastecito para una cena no ma*s
+\ENG a little leaf (of tamale), a little dish for just one dinner
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT mak
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex m@7k [1]
+\_no 02091
+\LG MIG
+\PSH
+\UND m@7k
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 exprimir (como queso)
+\SPG 2 orden ar
+\ENG 1 to wring or express (like cheese)
+\ENG 2 to milk
+\SPL m@7k.7oy
+\SLGR ANTIP
+\SLGL exprimir // to express
+\SLGR NO PASS
+\EXU 7@y+ m@7k-pa 7@y+ yo't.e
+\XPSH [7@y m@7kpay yote.]
+\XSP Esta* exprimiendo su ropa.
+\XEN She's wringing out clothes.
+\SYN
+\SEMF farm, clean
+\ASP activity
+\ARG
+\NOM m@'k.i7
+\SUB ko.m@7k
+\ETYM
+\ETL
+\ROOT m@7k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex m@7k [2]
+\_no 02092
+\LG MIG
+ZOH004R0011001.txt
+\PSH
+\UND m@7k
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG agua en el monte o la vegetacio*n_ por lluvia
+\ENG water in the hills or underbrush from the rain
+\EXU
+Page 902

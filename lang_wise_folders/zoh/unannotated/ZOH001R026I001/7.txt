@@ -1,0 +1,82 @@
+\sg1 3E CAUS-decir-APPL-ANTIP-COM
+\egl 3E CAUS-say
+\tx p@n
+\mb p@n
+\sgl hombre
+\eg1 man
+\zoq Y yakn@mja7oyy@ bi mama, "Nik7ixx@ gada p@n.
+\fts Le dijo su mama*, "Fijate aquel hombre.
+\fte The mother said to him, "watch out for that man.
+\ref ZOH001R026 038
+\_no 00031
+\tx ga7
+\mb ka -7
+\sg1 DCT3-NOM1 andar-INC dos
+\eg1 DCT3-NOM1 walk -INC two
+ZOH001R0261001.txt
+DEF mama* SUP -ver-SUF-IMPV DCT3-DEM
+-APPL-ANTIP-COM DEF mother SURF-see-SUF-IMPV DCT3-DEM
+witpa
+wit
+\ref ZOH001R026 039
+\_no 00032
+\zoq Ga7 witpa metzanh manhkuyp@7k.
+\fts Aquel anda con dos pies.
+\fte The one that walks on two legs.
+\ref ZOH001R026 040
+\_no 00033
+\tx ga
+\mb ka -7
+metzanh manhkuyp@7k
+-pa metza*nh manh -kuy7
+\tx 7i ga7
+ya
+n@mmo
+7@m k@tomm@yy@
+7@m k@
+\mb 7i ka
+\sg] y
+-7
+ya n@m-7oy -A
+-tome7-7@y-wa
+DCT3-NOM1 NEG DO -ANTIP-nINC 2E AFUERA-cerca-SUF-dINC
+\eg1 and DCT3-NOM1 NEG DO -ANTIP-nINC 2E AWAY -near -SUF-DINC
+\zoq 7i ga7 ya n@mmo 7@m k@tomm@yy@.
+\fts Y aquel no te puedes acercar.
+\fte And you can't get near that one.
+yakn@mja7oyy@
+bi mama
+mas waja* ke mix
+waja ke mix yak -n@m -jay -7oy -w@ bi mama
+bueno que
+2Prn CAUS-decir-APPL-ANTIP-COM DEF mama*
+that 2Prn CAUS-say -APPL-ANTIP-COM DEF mother
+mas
+\sg1 DCT3-NOM1 mas
+\eg1 DCT3-NOM1 more good
+\ref ZOH001R026 041
+\_no 00034
+\tx n@kw@
+\mb
+\zoq Ga mas w@j@* ke mix," yakn@mja7oyy@ bi mama.
+\fts "Es mas bueno que tu, le dijo su mama*
+\fte "He is better than you," the mother said to him.
+bi 7un
+nak -w@
+n@k -w@ bi 7une7
+-p@7k
+pisar-INSTR1-REL 2
+step -INSTR1-REL 2
+\sg] irse-COM DEF nin~o/a
+\egl go -COM DEF child
+\ref ZOH001R026 042
+\_no 00035
+"I
+kajanh
+kajanh
+tigre
+jaguar
+\zoq N@kwa bi 7unkajanh.
+\fts Se fue* el tigrillo.
+\fte The baby jaguar went off.
+Page 7

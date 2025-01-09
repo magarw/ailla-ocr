@@ -1,0 +1,62 @@
+\RTGR T3
+\DSRC TK94
+\CMTS
+\CMTS v/ tzix (1)
+\CMTS wouldn't confirm this root/gloss by itself, gave me the caus:antip
+form
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex tzix [2]
+\_no 03383
+\LG MIG
+\PSH
+\UND tzix
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG tirar pedos
+\ENG to fart
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF body
+\ASP semelfactive
+\ARG
+\NOM tzix.i
+\SUB
+\ETYM
+\ETL
+\ROOT tzix
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex tzix.i
+\_no 03384
+\LG MIG
+\PSH [tzixi]
+\UND tzix. E
+\MB tirar_pedo, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG pedo
+\ENG fart
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT tzix
+\RTGR IX
+\DSRC TK94
+\CMTS %tzix [2]; get deriv's; GMS says /tzixi/ now; God knows
+\date 26/Jun/96
+Page 1455

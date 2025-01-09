@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT 1 jap
+\RTGR 1 P
+\ROOT 2 monh
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 30/Jan/96
+\lex jap.ney
+\_no 00666
+\LG MIG
+\PSH [japney-]
+\UND jap.ney
+\MB X, ASSUM1
+\VAR
+\GRAM assum1
+\SCI
+\USE
+\SPG 1 ponerse boca abajo (de una persona)
+\SPG 2 embrocarse
+\ENG 1 to lie face down (of a person)
+\ENG 2 to be turned over
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * jap
+\RTGR P
+\DSRC TK94
+\CMTS
+\date 13/Jun/95
+\lex japo7
+\_no 00667
+\LG MIG
+\PSH
+\UND japo7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG totomoste
+\ENG corn husk
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS comida del burro
+\date 11/Aug/94
+\lex jap='anh=wak
+\_no 00668
+Page 285

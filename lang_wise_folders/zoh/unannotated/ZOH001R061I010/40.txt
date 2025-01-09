@@ -1,0 +1,61 @@
+\SEMF move, affect
+\PASS m@k.7@m moltearse
+\ANTI m@k. 7oy
+\ASSU m@k.ney estar mezclado
+\lex m@7k
+\_no 00169
+\SPG exprimir (como queso); orden~ar
+\ENG to wring (like cheese); to milk
+\EX
+\XSP
+\XEN
+\ROOT m@7k T3
+\SEMF
+\PASS NONE m@7k.7@m *
+\ANTI m@7k. 7oy
+\CMTS
+\lex m@nh
+\_no 00170
+\SPG cojear
+\ENG to limp
+\EX
+\XSP
+\XEN
+\ROOT m@nh Ix
+\SEMF motion
+\CAUS yak.m@nh hacerlo andar mankiyando
+\CMTS get deriv's
+\lex m@7tz
+\_no 00171
+\SPG rechinar
+\ENG to squeak
+\EX
+\XSP
+\XEN
+\ROOT m@7tz 12
+\SEMF sound
+\CAUS yak.m@7tz
+\CMTS cf. w@7tz 12 'rechinar'
+\lex m@x
+\_no 00172
+\SPG tener asco a*; tenerle asco
+\ENG to be disgusted; to have nausea
+\EX 70km@:xin
+\XSP da asco
+\XEN it makes you sick
+\ROOT m@x T3
+\SEMF sickness
+ZOH001R0611010.txt
+\PASS NONE m@x.7@m *
+\ANTI m@x. 7oy tenerle asco
+\CMTS
+\lex naka7tz
+\_no 00173
+\SPG planchar; machucar; aplastar
+\ENG to iron; to press; to smash
+\EX naka7tztz@
+yote7
+\XSP plancho* _la_ropa
+\XEN he ironed clothes
+\ROOT naka7tz T3
+Page 40

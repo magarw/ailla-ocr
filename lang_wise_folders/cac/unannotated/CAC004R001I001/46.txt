@@ -1,0 +1,92 @@
+79.
+80.
+94
+Te presté el machete.
+ixwak' k'en machit amajnhej
+ix-Ø-w-ak'
+k'en machit a-maj-nhej
+pas-3B-1A-dar Cmetal machete 2A-prestar-sólo
+Me prestaste el machete.
+ixak' inmajnhej k'en machit
+ix-ø-Ø-ak'
+in-maj-nhej k'en machit
+pas-3B-2A-dar 1A-prestar-sólo Cmetal machete
+Todavía tengo el machete que me prestaste.
+aytoek' k'en amachit ixak' inmajnhej
+ay-ø-to-ek'
+k'en a-machit ix-ø-Ø-ak'
+exist-3B-todavía-DIR.pasar Cmetal 2A-machete pas-3B-2A-dar
+in-maj-nhej
+1A-prestar-sólo
+Te regalé un machete.
+ixwak' amatanhej jun k'en machit
+ix-Ø-w-ak'
+a-mata-nhej
+jun k'en machit
+pas-3B-1A-dar 2A-regalar-sólo uno Cmetal machete
+ixinsi'ej jun amachit
+ix-ø-in-si'-ej
+jun a-machit
+pas-3B-1A-regalar-vtd uno 2A-machete
+Me regalaste un machete.
+ixasi'ej jun inmachit
+ix-Ø-a-si'-ej
+jun in-machit
+pas-3B-2A-regalar-vtd uno 1A-machete
+ixak' inmatanhej jun k'en machit
+ix-ø-Ø-ak'
+in-mata-nhej jun k'en machit
+pas-3B-2A-dar 1A-regalar-sólo uno Cmetal machete
+Tengo un machete que no es mío.
+ayek' jun machit man wikok laj
+ay-ø-ek'
+jun machit man w-ik-ok laj
+exist-3B-DIR.pasar uno machete neg 1A-SR-IRR neg
+81.
+En mi casa tengo un machete que no es mío.
+t'a inpat ay jun k'en machit man wikok laj
+t'a in-pat ay-Ø
+jun k'en machit man w-ik-ok laj
+prep 1A-casa exist-3B uno Cmetal machete neg 1A-SR-IRR neg
+Esta camisa tiene manchas.
+a jun k'ak kamix tik ixoch mik t'a k'apak
+a jun k'ak kamix tik ix-ø-och
+mi'ik t'a k'apak
+top uno Cropa camisa dem pas-3B-entrar mancha prep Cropa
+a jun k'apak kamix tik ay mik t'a k'apak
+a jun k'apak kamix tik ay-ø
+mik t'a k'apak
+top uno Cropa camisa dem exist-3B mancha prep Cropa
+El perro tiene manchas.
+a jun nok' tz'i' tik ay mik t'a nok'
+a
+tz'i' tik ay-ø
+mik t'a nok'
+jun nok'
+top uno Canimal perro dem exist-3B mancha prep Canimal
+a jun nok' tz'i' b'altzintak nok'
+a jun nok'
+top uno Canimal perro pinto-pl
+tz'i' b'altzin-tak nok'
+Canimal
+82. La comida tiene sal.
+a jun yol k'o'ol tik ay yatz'amil
+jun y-ol
+top uno 3A-dentro estómago dem exist-3B 3A-sal-gen
+k'o'ol
+a
+tik ay-ø
+y-atz'am-il
+a kotek ay
+atz'am t'ay
+ko-tek ay-ø atz'am t'ay
+prep
+a
+top 1A-comida exist-3B sal
+La comida no tiene sal.
+a jun yol k'o'ol malaj yatz'amil
+a
+jun y-ol
+k'o'ol malaj y-atz'am-il
+top uno 3A-dentro estómago neg 3A-sal-gen
+95

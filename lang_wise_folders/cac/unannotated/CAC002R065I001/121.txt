@@ -1,0 +1,32 @@
+LUTEFTARAN
+Pontes
+JANG
+116
+Inflection of Stems
+Inflection of Verb Stems
+Verb stems may be inflected by affixation for personal
+subject, personal object, tense-aspect, directional motion,
+intensity of action, repetition of action, negation, and state
+of knowledge of the speaker. Most of these inflections are
+optional; some are obligatory (see Verb Phrases, page 145).
+Both prefixed and suffixed inflectional affixes occur, and in
+cases inflection for a given feature may be carried out
+by either a prefix or a suffix or both.
+Verbal Prefixes
+Obligatory inflections tend to occur in positions near
+the verb stem. For this reason, the verbal prefixes will be
+presented in the order opposite to that in which they occur in
+speech. Potentially filled positions are numbered from -1
+(nearest to the stem) to -9 (most distant from the stem).
+Verbal prefix position -l is filled by the optional pre-
+fix //té//, the presence of which indicates that the verbal
+action is stronger or more effective than usual. Examples
+of verb stems inflected with ///té // are: //c-hoN-té-k'ún-p'-
+(ih) // we get very tired < //k'ún-p'-(ih)// to tire, //c-hoN-
+té-ém Nóx-an // we lean over more than usual (in doing a cer-
+tain kind of work) < //ém Nóx-an // to lean over, //Ø-té-mák '-
+n-aš-š-(ih) // he was beaten hard again < //mák ¹-n-aš-š-(ih) //
+to be beaten again, //c-ko-té-p'ó?-ex // we work at it so much
+< //p¹ó?-ex// to fix something. Note that if a transitive
+P
+P

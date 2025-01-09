@@ -1,0 +1,63 @@
+\EXU 2 d@ ja7tz-w@
+\XPSH 2 [D@ ja7tztz@.]
+\XSP 2 Agarre* fiado.
+\XEN 2 I got credit.
+\SYN
+SEMF trade
+\ASP achievement
+\ARG
+\NOM ja'tz.@, ja7tz.kuy7
+\SUB j@x-ja7tz, yuk.ja7tz
+\ETYM
+\ETL
+\ROOT ja7tz
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex ja7tz.kuy7
+\_no 00685
+\LG MIG
+\PSH [ja7tzkuy7]
+\UND_ja7tz.kuy7
+\MB fiar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG fiado
+\ENG debt
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ja7tz
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+\lex ja7tz=p@k
+\_no 00686
+\LG MIG
+\PSH [ja7tzp@k]
+\UND_ja7tz=p@k
+\MB fiar, agarrar
+\VAR
+\GRAM vt
+ZOH004R0011001.txt
+\SPG agarrar fiado
+\ENG to buy on credit
+\SPL
+\SLGR
+\EXU_7@n+ ja7tz=p@k-w@ 7@n+ t@k, ponji ponji 7@n+
+yoj='anh.kam-pa
+XPSH [7@n ja7tzp@kk@n t@k, ponji ponjin yojjanhkampa.]
+\XSP Agarre* fiado mi casa, poco a poco lo voy acabando de pagar.
+\XEN I bought my house on credit, little by little I'm paying it off.
+\SYN
+Page 293

@@ -1,0 +1,72 @@
+\zoq OSM: 7@m winnomwakpa.
+\fts OSM: Lo ahumas.
+\fte OSM: You cense it out.
+\com
+\idx
+\ref ZOH001R036 118
+\_no 00119
+\tx yada
+7ay pi7t 7@m winnomwakpa
+\mb ya -d@
+-d@ 7ay7 pi7t 7@m win -7om
+\sg1 DCT1-DEM hoja INSTR 2E CARA-echar_humo-vaciar-INC
+\eg1 DCT1-DEM leaf INSTR 2E FACE-emit_smoke-empty -INC
+\zoq Yad@ 7aypi7t 7@m winnomwakpa,
+\fts Con esta hoja lo ahumas,
+\fte with this leaf you cense it out,
+\com
+\idx
+\ref ZOH001R036 119
+\_no 00120
+\tx kon tum@7k xawa 7ay j@nanh
+\mb kon tum@-v7k xawa 7ay7 jananh
+\sg1 con uno -REL aire hoja AC
+\egl with one -REL wind leaf ACC
+\zoq kon tum@7k xawa 7ayj@nanh.
+\fts con la otra hoja para aire.
+\fte with the other wind leaf.
+\com
+\idx
+\ref ZOH001R036 120
+\_no 00121
+\tx gay
+\mb ka -y
+bi
+pitz@mpa*m
+pitz@m-pa -7am bi
+tentasyo*n
+tentasyo*n
+\sg1 DCT3-TMP salir -INC-YA DEF tentacion
+\eg1 DCT3-TMP leave -INC-NOW DEF sensation
+ZOH001R0361001.txt
+\zoq Gay pitz@mpa*m bi tentasyo*n.
+\fts Ya sale la mala hora.
+\fte Now the bad feeling goes away.
+\com
+\idx
+\ref ZOH001R036 121
+\_no 00122
+pitz@mpa*m
+gag@
+nena*7
+\tx gay
+\mb ka -Y pitz@m-pa -7am ka -g@ nena7
+\sg1 DCT3-TMP salir -INC-YA DCT3-DEM malo
+\eg1 DCT3-TMP leave -INC-NOW DCT3-DEM bad
+\zoq Gay pitz@mpa*m gag@_nena*7.
+\fts Ya sale aquel mal aire.
+\fte Now that evil spirit leaves.
+\com
+\idx
+\ref ZOH001R036 122
+\_no 00123
+\tx
+nena*7
+\mb GSM
+nena7
+\sg1 GSM: DCT3-NOM1 malo
+GSM: ga
+ka -7
+-wak
+Page 26
+-ра

@@ -1,0 +1,54 @@
+154
+Como lo ejemplifica la siguiente frase (1),'
+(1)
+'llan.k'ay.-'ta.]qa.' Ila.ri.-shá-y.ku.
+trabajar-AC-empezar-ASP-1PL/EXCL
+(
+X
+(X ) (X . )(X.)(X
+.) f
+(F D F D F D F D) o
+'estamos comenzando a trabajar'
+(2)
+(3)
+156
+-palabras de dos sílabas
+el acento en quechua tiende a distribuirse iterativamente (o sea, repetidas veces) y
+rítmicamente (es decir, de forma regular) dentro de una frase fonológica. La figura métrica se
+compone sobre un "troqueo silábico". Es decir, su metro está conformado por constituyentes
+prosódicos mínimos o "pies" (f) formados por dos sílabas (o): la primera “fuerte”, la segunda
+“débil”. La palabra posee un solo acento de intensidad o principal ubicado en la anteúltima
+sílaba (graficado en la grilla métrica sobre la columna que posee más niveles marcados por X)
+y varios acentos secundarios, asignados de forma alternante entre sílabas, sobre los que se
+construye el ritmo.
+)4
+5.2.1. Análisis de datos
+Como es predecible dada la conformación binaria del pie troqueo, la asignación de
+acento en palabras fonológicas (w) de número par de sílabas se presenta “naturalmente" como
+sigue:
+157
+qhá.ri 'muchacho'
+(X.)f=w = 4
+wár.mi 'mujer'
+(X.)f=w = 4
+(palabra de 8 sílabas)
+155
+Representación métrica - pies trocaicos
+126
+66999
+154
+En notación de grilla métrica o metrical grid (Hammond 1984; Halle y Vergnaud 1987): f(oot) = (X . ). En
+transcripción, '.' = límite silábico, 'l'
+límite silábico, ']' = límite palabra prosódica; = acento secundario"; = acento primario;
+"]" límite morfológico.
+155 Para lograr el efecto rítmico que se percibe, en niveles inferiores a la frase (palabra prosódica o pie), se
+producen desplazamientos y/o acomodamientos acentuales (se señalan más adelante).
+156
+La fuerza relativa de los acentos secundarios y terciarios es acorde a la profundidad de su incorporación dentro
+del árbol estructural (según la primera representación propuesta desde la perspectiva métrica).
+157
+La sílaba quechua posee un núcleo que por definición es una vocal y puede (o no) poseer márgenes, a estos los
+constituyen consonantes. Su forma puede ser: V, VC, CV, CVC. Fórmula de composición: C1/2 VC2/1 VC1/0
+(Cerrón Palomino 1994: 40). Ejemplo de realización plena: [q2n.q2r], "rodilla". Restricción del patrón silábico:
+*CCV o *VCC o *V.V. Máxima ampliación de márgenes es VC.CV.
+99. 66799

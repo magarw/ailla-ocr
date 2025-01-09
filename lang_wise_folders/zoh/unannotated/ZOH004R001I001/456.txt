@@ -1,0 +1,62 @@
+\ETL
+\ROOT ji7kx
+\RTGR IX
+\DSRC HAJ95
+\CMTS CK-PH of EX/OK:TK
+\date 26/Jun/96
+\lex j@x=jin
+\_no 01039
+\LG MIG
+\PSH [j@xjin-]
+\UND jax=jin
+\MB ATRAS, refregar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar refregando
+ENG to get something out by scrubbing it
+\SPL
+\SLGR
+\EXU tzin-pa+a7k 7@y+ yak.j@x.jin-w@ 7@y+ nax
+\XPSH_[Tzinpa* 7k 7@y yakj@xjinn@y nax.]
+\XSP E1 que esta* ban~ando le sacaron refregando la mugre.
+\XEN They scrubbed the dirt off the one who was bathing.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jin
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex j@x=jipx
+\_no 01040
+\LG MIG
+\PSH [j@xjipx-]
+\UND jax-jipx
+\MB ATRAS, quemarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG salir quemado
+ENG to come out burned
+\SPL
+\SLGR
+\EXU 7@y+ yak.j@x.jipx-w@
+\XPSH [7@y yakj@xjipx@.]
+\XSP Salio* quemado.
+\XEN It came out burned.
+\SYN
+SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT jipx
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+Page 456

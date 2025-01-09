@@ -1,0 +1,66 @@
+\UND xaka7
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG cascabillo de cafe*, para
+estar comido de comeje*n; vano
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 26/Jun/96
+\lex xakaka7
+\_no 03872
+\LG MIG
+\PSH
+\UND xakaka7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG vi*bora de cascabel
+ENG rattle snake
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Nov/94
+LF:tzajin
+\lex xakanhki7
+\_no 03873
+\LG MIG
+\PSH
+\UND xakanhki7
+\MB
+\VAR
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ZOH004R0011001.txt
+\GRAM S
+\SCI
+\USE
+\SPG un bejuco que tiene espina; bejuco de chilgueta
+\ENG a thorny vine
+\SPL
+hacer cafe* oro; hueco adentro por
+flota en el agua
+Page 1665

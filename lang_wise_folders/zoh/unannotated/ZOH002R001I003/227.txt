@@ -1,0 +1,34 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+unsuccessful, although it is a plausible candidate for the auxiliary set, since
+other Zoquean languages have a 'walk' auxiliary (Himes, 1997).
+In this construction, the auxiliary follows the main verb. The main verb is
+directly inflected for aspect, while the auxiliary bears the dependent suffix. The
+main verb is marked for agreement with whichever set of markers is
+appropriate, absolutive or ergative, and an ergative marker appears between
+the two. The syntax follows this template:
+<Agreement marker> <V1-Infl> <Ergative marker>
+(8.10)
+(i)
+(ii)
+jemji 'øy pøkpay nøkkø
+hemhi ?əy+ pək-pa
+?əy+ nək-wə
+todo 3E+ agarrar-INC 3E+ ir-dINC
+'Todo va agarrando.'
+jemji pø'tpa 'øy nøkkó'
+hemhi 0 pǝ?t-pa ?əy+ nək-wǝ+V?k
+todo 3A pass-INC 3E+ ir-dINC+REL
+'Todos los que pasan'
+<AuxV-deplnfl>
+212
+(ZOH001R018-199)
+(ZOH001R018-034)
+Verbs in this construction have a clearly continuative aspectual force,
+whether they are in the incompletive or the completive. This construction
+means 'to go/come/walk around doing V1'. The meaning of nək-, 'ir', is
+somewhat bleached semantically, as can be seen in examples (8.11 i) and (ii).
+In (i), the little jaguar doesn't actually go anywhere until after he grows up. The
+semantic force of wit-, 'andar', is very evident, however; it only appears in this
+construction when the V1 event is something that can be done while walking
+around (iii-iv). The clear literalness of the motion of the action in these
+constructions perhaps explains why tih-, 'ir y regresar', doesn't appear in them:

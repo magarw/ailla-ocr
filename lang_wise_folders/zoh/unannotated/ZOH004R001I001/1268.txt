@@ -1,0 +1,62 @@
+ZOH004R0011001.txt
+\USE
+\SPG "destenderse" [extenderse] la rama de lado
+\ENG for a branch to be extended to one side
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tanh
+\RTGR 12
+\DSRC TK94
+\CMTS get other deriv's
+\date 28/Jan/96
+\lex tapexku
+\_no 02946
+\LG MIG
+\PSH
+\UND tapexku
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG tapesco
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 18/Oct/94
+\lex tapu7
+\_no 02947
+\LG MIG
+\PSH
+\UND tapu7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG mezquino
+\ENG wart
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 18/Oct/94
+Page 1268

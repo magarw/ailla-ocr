@@ -1,0 +1,88 @@
+ewi winhaj Xun ay-ø-ek'
+t'a Chinapjul
+a
+top ayer Cmasc Juan exist-3B-DIR.pasar prep Huehuetenango
+35. ¿Dónde estuvo Juan ayer?
+¿b'aj til ayek' winhaj Xun ewi?
+80
+b'aj_til ay-ø-ek'
+winhaj Xun ewi
+dónde exist-3B-DIR.pasar Cmasc Juan ayer
+36. ¿Dónde está tu papá?
+¿baj ay winh amam?
+b'aj
+a-mam
+ay-ø
+winh
+dónde exist-3B Cmasc 2A-papá
+¿b'aj til ay winh amam?
+b'aj_til ay-ø
+winh
+a-mam
+dónde exist-3B Cmasc 2A-papá
+37. ¿Tu papá está en la casa?
+¿winh amam chỉ tom ayek’ winh t’a spat?
+winh a-mam chi' to_m ay-ø-ek'
+winh t'a
+s-pat
+Cmasc 2A-papá dem int exist-3B-DIR.pasar Cmasc prep 3A-casa
+¿tom ayek' winh amam t'a apat?
+to_m ay-ø-ek'
+int exist-3B-DIR.pasar Cmasc 2A-papá prep 2A-casa
+winh a-mam t'a a-pat
+¿Tu papá no está en la casa?
+¿winh amam tom man ayokek' winh t'a spat?
+winh a-mam to_m man ay-ø-ok-ek'
+winh t'a
+Cmasc 2A-papá int neg exist-3B-IRR-DIR. pasar Cmasc prep
+s-pat
+3A-casa
+¿winh amam malaj winh t'a apat?
+winh a-mam malaj winh t'a
+a-pat
+Cmasc 2A-papá neg Cmasc prep 2A-casa
+38.
+39.
+40.
+Mi papá está en mi casa.
+winh inmam ayek' winh t'a inpat
+winh in-mam ay-ø-ek'
+winh t'a in-pat
+Cmasc 1A-papá exist-3B-DIR.pasar Cmasc prep 1A-casa
+Mi papá no está en la casa.
+winh inmam man ayokek' laj winh t'a pat
+winh in-mam man ay-ok-ek'
+laj winh tapat
+Cmasc 1A-papá neg exist-IRR-DIR.pasar neg Cmasc prep casa
+winh inmam malaj winh t'a pat
+winh in-mam malaj winh t'a pat
+Cmasc 1A-papá neg Cmasc prep casa
+Mi papá siempre está en la casa.
+winh inmam aynhejek' winh t'a pat
+winh in-mam ay-ø-nhej-ek'
+winh t'a pat
+Cmasc 1A-papá exist-3B-adv-DIR.pasar Cmasc prep casa
+Mi papá está en la milpa.
+winh inmam ayek' winh t'a kal awal
+winh in-mam ay-ø-ek'
+winh t'a kal awal
+Cmasc 1A-papá exist-3B-DIR.pasar Cmasc prep dentro milpa
+winh inmam ayek' winh t'a ixim awal
+winh in mam ay-ø-ek'
+winh t'a ixim awal
+Cmasc 1A-papá exist-3B-DIR.pasar Cmasc prep Cmaíz milpa
+Mi papá está en el mercado.
+winh inmam ayek' winh t'a chonb'al
+wihn in-mam ay-ø-ek'
+winh t'a chonh-b'al
+Cmasc 1A-papá exist-3B-DIR.pasar Cmasc prep vender-instr
+Mi papá está en el río.
+winh inmam ayek' winh t'a b'aj ay a' melem
+winh in-mam ay-ø-ek'
+winh ta b’ajay-
+Cmasc 1A-papá exist-3B-DIR. pasar Cmasc prep dónde exist-3B
+a'
+melem
+Cagua
+arroyo
+81

@@ -1,0 +1,63 @@
+\_no 01955
+\LG MIG
+\PHO [me7tzna*nh]
+\UND me7tz.naanh
+\MB buscar, MED
+\VAR
+\GRAM meas
+\SPG una buscada
+\ENG a search
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT me7tz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex mexa
+\_no 01956
+\LG MIG
+\PSH
+\UND mexa
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG mesa
+\ENG table
+\EXU ni.k@x mexa
+\XSP mesa para comer
+\EXU chik ni.k@x mexa
+\XSP mesita
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 31/Mar/95
+\lex mex.i
+\_no 01957
+\LG MIG
+\PSH [mexi]
+\UND mex. i
+\MB
+\VAR
+\GRAM a
+\SPG poquito
+\ENG a little
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS PH-OK: TK
+\date 25/Jun/96
+ZOH004R0011001.txt
+Page 843

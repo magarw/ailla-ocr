@@ -1,0 +1,63 @@
+\XSP casa cerrada con llave
+\XEN a house locked with a key
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wi7t
+\RTGR T2
+\DSRC TK94
+\CMTS
+\date 09/Jan/96
+\lex 7anh-xanh7
+\_no 00025
+\LG MIG
+\PSH [7anhxanh7]
+\UND 7anh=xanh.7
+\MB BOCA, X, NOM1
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG abierto
+\ENG open
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xanh
+\RTGR T3
+\DSRC TK94
+\CMTS get deriv's - can't get .7a or other, see 7anh-wak
+\CMTS HAJ:96 - don't believe that root. believe it: TK
+\CMTS ends in /7/: TK
+\date 24/Jun/96
+\lex 7anh-xuy7
+\_no 00026
+\LG MIG
+\PSH 7anhxuy7]
+\UND 7anh-xuy7
+\MB BOCA, tapar, NOM6
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG 1 rebozo
+\SPG 2 toalla
+\ENG 1 shaw]
+\ENG 2 towel
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH001R0611004.txt
+\ROOT xuy7
+\RTGR T3
+\DSRC HAJ94
+Page 11

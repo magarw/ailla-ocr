@@ -1,0 +1,76 @@
+Mam - 4
+(1) Juun txileen
+(2) chi-chi-tzan
+(4)
+(5)
+(6)
+axi'n ojtxa
+uno A3s-explicación A3s-SR:tema maíz antes
+'Una explicación del maíz antes'
+(3) tza'n 0=0=kan-eet
+cómo
+'cómo fue a encontrar el maíz antes.'
+(7)
+(8)
+(9)
+xjaal,
+B3p=decir-pues gente
+'Cuenta la gente,'
+axi'n ojtxa.
+CPL.DEP-B3s-encontrar-PAS maíz antes.
+t-i’
+Komo nti'=0
+t-'axi'n ojtxa,
+cómo NEG=B3s A3s-maíz antes
+'Porque antes no había maíz,'
+o'k-san axi'n 0-0-kan-eet
+ojtxa
+sólo pues maíz CPL.DEP=B3s-encontrar-PAS antes
+'el único maíz que fue encontrado antes'
+xkuumb'.axi'n t-b'ii.
+at=0
+hay=B3s
+maicillo
+A3s-nombre
+'fue una variedad que se llama maicillo.'
+t-ban-el
+Pere mejaa' juun
+pero no.hay uno
+A3s-bueno-ABST
+'pero no había un mejor tipo de maíz.'
+Nn=0=ok
+ky-ki-'n
+xjaal jun
+INC=B3s-DIR A3p-ver-SD gente un
+'La gente vio un gato de monte,'
+pere puuro t-b'an-el=0=t-e
+pero puro
+'y había un maíz re bueno'
+t-u
+(10) axi'n t-kub'
+A3s-bueno-ABST=B3s=A3s-SR
+(11) Toons jaa=tzan
+axi'n.
+maíz
+(12) chi-chi-tzan
+xjaal.
+B3p=decir-pues gente
+'dijo la gente.'
+t-txaa'.
+maíz A3s-bajar A3s-SR:en A3s-estiércol
+'en el estiércol de este gato de monte.'
+n=0=tzaaj-a
+t-e
+entonces dónde pues INC-B3s-venir-? A3s-SR
+t-b'an-el
+axi'n,
+t-waa
+A3s-comida A3s-bueno-ABST maíz
+'Entonces, dónde trae el gato de monte su comida de buen maíz,'
+weech,
+gato.de.monte
+nimaal weech
+AUM gato.de.monte
+weech
+gato.de.monte
+2

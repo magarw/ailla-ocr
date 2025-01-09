@@ -1,0 +1,64 @@
+\ENG to know
+\EX jak muxxoba
+\XSP sabe mucho
+\XEN she knows a lot
+\ROOT mux T3
+\SEMF cog
+\CAUS yak.mux publicar to reveal
+\PASS mux.7@m
+'se supo"
+\ANTI mux. 7oy aprender
+\CMTS
+\lex muy
+\_no 00166
+\SPG doblar(se)
+\ENG to dent
+\EX muyy@n_machete 7@y win
+\XSP se doblo* el filo de mi machete
+XEN my machete got dented
+\EX 7@y yakmuyy@
+\XSP 1o apachurro*
+\XEN he bent it
+\EX muyy@mm@ 7@n n@jupkuy
+\XSP se apachurro* mi cubeta
+\XEN my bucket was dented
+\EX ti p@pi7t 7@m yakmuyy@ m n@jupkuy7 ?
+\XSP con que apachurrastes tu cubeta ?
+\XEN what did you dent your bucket with ?
+\ROOT muy 12, T2
+\SEMF affect, break
+\CAUS yak.muy apachurrar
+\PASS apachurrarse
+\CMTS
+\lex muy
+\_no 00167
+\SPG doblar(se)
+\ENG to dent
+\EX muyy@n_machete 7@y win
+\XSP se doblo* el
+\XEN my machete got dented
+\EX 7@y yakmuyy@
+\xSP 1o apachurro*
+\XEN he bent it
+\EX muyy@mm@ 7@n n@jupkuy
+\XSP apachurre* mi cubeta
+ZOH001R0611010.txt
+filo de mi machete
+\XEN I dented my bucket
+\EX ti p@pi7t 7am yakmuyy@ m n@jupkuy7 ?
+\XSP con que apachurrastes tu cubeta ?
+\XEN what did you dent your bucket with ?
+\ROOT muy 12, T2
+\SEMF bend, condition
+\CAUS yak.muy apachurrar
+\PASS
+\CMTS
+\lex m@k
+\_no 00168
+\XSP
+\XEN
+\ROOT m@k P, (T3)
+\SPG mezclar; formar en un molde; hacer tamalito
+\ENG to mix; to make a mold; to make tamales
+\EX
+Page 39

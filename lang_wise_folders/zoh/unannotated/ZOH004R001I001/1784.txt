@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT yoj
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-all HAJ:96/OK: TK
+\date 26/Jun/96
+\lex yoj. kuy7
+\_no 04150
+\LG MIG
+\PHO [yojkuy7]
+\UND yoj. kuy7
+\MB pagar, INSTR1
+\VAR
+\GRAM instrl
+\SPG dinero
+\ENG money
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT yoj
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex yoj-tzi'
+\_no 04151
+\LG MIG
+\PSH [yojtzi-]
+\UND yoj-tzi'
+\MB X, DAR
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG saludar
+\ENG to greet
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzi7
+\RTGR T3
+\DSRC HAJ94
+\CMTS Ck for < *yox 'God'
+\date 11/Feb/96
+\lex yo7k
+\_no 04152
+\LG MIG
+\PSH
+\UND YO7k
+\MB
+\VAR
+\GRAM S
+\SCI
+ZOH004R0011001.txt
+Page 1784

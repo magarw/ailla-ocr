@@ -1,0 +1,64 @@
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 14/Jun/95
+\lex kax
+\_no 01204
+\LG MIG
+\PSH
+\UND kax
+\MB
+\VAR
+\GRAM vi:act
+LF: kuy
+\SCI
+\USE
+\SPG pegar un paso; dar pasos; abrir los pies (como para dar un paso)
+\ENG to take a step or steps; to open the legs (as if to step)
+\SPL yak. kax
+\SLGR CAUS
+\SLGL hacer caminar
+\SPL kax.ney
+\SLGR ASSUM1
+\SLGL estar abierto los pies // for the legs to be open
+\EXU kax-pa 7@y+ n@k-w@
+\XPSH [Kaxpay nakk@.]
+\ROOT kax
+\RTGR P, (11)
+\DSRC TK94
+\XSP Esta* pegando pasos.
+\XEN She's taking steps.
+\SYN
+\SEMF move
+\ASP semelfactive
+\ARG
+\NOM kax.naanh, kax.e, kax.kuy7
+\SUB j@x-kax, ko.kax, ni.ko.kax, nik.kax. '@y
+\ETYM
+\ETL
+\CMTS
+\CMTS could not get any kind of object, or ergative pronouns
+\date 03/Jan/80
+\lex kax m@jm@
+\_no 01205
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+\UND kax m@jm@
+\MB dar_pasos, mucho
+\VAR
+\GRAM vi+av
+\SCI
+\USE
+\SPG dar pasos largos
+\ENG to take big steps
+\EXU
+\XSP
+\XEN
+\SYN
+Page 524

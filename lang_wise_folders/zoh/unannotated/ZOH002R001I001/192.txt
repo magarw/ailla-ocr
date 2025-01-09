@@ -1,0 +1,41 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(7.18)
+(i) jummøtztzøyуø
+(iii)
+(iv)
+(v)
+0 hum=məc.wəy-wə
+3A tumble_down.X.DEPOS-COM
+'It swung.'
+winnøktenwøyyø
+0 win.nək-ten.wǝy-wǝ
+3A FACE.go=finish.DEPOS-COM
+'He stood in front of her.'
+'øy pangngøyyø de'xe
+?ǝy+ paŋ.way-wə
+de.?še
+3E+ *lean.DEPOS-COM DCT2.SIM
+'He leaned it like that.'
+(ii)
+ji'ppØyyø
+O hip.way-we
+3A move.DEPOS-COM
+'It was set on one side'
+si kummø 'o ney gaji 'øy
+patztzøytzakkø
+si 0 kum-wə ?o ney ga.hi?
+?əy+ pac.wǝy=cak-wə
+if 3A bury-COM or same DCT3.LOC1 3E+ throw.DEPOS=leave-COM
+'If he was buried or they just left him thrown down there.'
+(ZOH001 R026-145)
+167
+7.1.2.3. Stative na
+The stative suffix indicates a static position, much like the definition
+given for assumptive. There are only 11 expressions using this suffix in the
+corpus, all but one of which follow the pattern Verb.na Verb-Infl. This leads me
+to conclude that this suffix generally produces a stative adjective, or participle,
+from one of a few positional verbs. (Whether it's incorporated is impossible to
+tell with the third person absolutive 0 morpheme.) The first two examples
+occur with positional roots that do not appear as independent roots; that is,
+they can not be directly inflected. *hap- appears frequently in compounds and
+evidently means something like 'mouth' or 'face down'. *tay- appears only in

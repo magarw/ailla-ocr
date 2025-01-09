@@ -1,0 +1,78 @@
+\com
+\idx
+\ref ZOH001R036 079
+\_no 00080
+\tx HAJ: 7@y matzpa 7ay j@nanh
+\mb HAJ 7@y matz -pa 7ay7 j@nanh
+\sg1 HAJ: 3E sobar-INC hoja AC
+\egl HAJ: 3E
+rub -INC leaf ACC
+\zoq HAJ: 7@y matzpa 7@yj@nanh?
+\fts HAJ: Lo soba con hoja?
+\fte HAJ: One rubs it with the leaf?
+\com
+\idx
+\ref ZOH001R036 080
+\_no 00081
+\tx
+OSM: mhm
+mhm
+\mb OSM
+\sg1 OSM: mhm
+\egl OSM: mhm
+\zoq OSM: Mhmm.
+\fts OSM: Mhmm.
+\fte OSM: Mhmm.
+\com
+\idx
+\ref ZOH001R036 081
+\_no 00082
+\tx matztu7ppa
+\mb matz -tu7p
+\sg1 sobar-desmoronar-INC
+\egl rub - crumble
+\ref ZOH001R036 082
+\_no 00083
+\tx 7@m winnaka
+y@da
+7ay7
+ya da 7ay7
+DCT1-DEM hoja
+-INC DCT1-DEM leaf
+-pa
+\zoq Matztu7ppa y@d@ 7ay7
+fts Lo deshace esa hoja
+\fte One crumbles this leaf
+\com
+\idx
+ZOH001R0361001.txt
+jo
+\mb 7@m win -naka jo
+\sg1 2E
+\eg1 2E
+CARA-cuero EN
+70 dondju
+p@ji
+70 donde-ju7 paji
+toyjaba
+toy -jay -pa
+donde-donde largo doler-APPL-INC
+FACE-skin INTO or where-where long hurt -APPL-INC
+O
+\ref ZOH001R036 083
+\_no 00084
+\zoq 7@m winnaka jo 7o dondju p@ji toyjaba.
+\fts En tu cara o en donde te duele.
+\fte In your face or where it really hurts you.
+\com
+\idx
+7@y win
+\tx GSM: 7@y komatzpa
+\mb GSM
+\sg1 GSM: 3E
+7@y win
+SOC-sobar-INC 3E REFL
+\egl GSM: 3E SOC-rub -INC 3E REFL
+\zoq GSM: 7@y komatzpa 7@y win?
+7@y ko -matz -pa
+Page 18

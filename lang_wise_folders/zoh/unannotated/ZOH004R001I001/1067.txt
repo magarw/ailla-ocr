@@ -1,0 +1,62 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ketz
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex n@'-nik.pak. '@y
+\_no 02476
+LG MIG
+\PSH [n@nikpakk@y-]
+\UND n@7-nik.pak.7@y
+\MB agua, SUP, regar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG echarle agua
+\ENG to throw water on someone
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pak
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 23/Dec/95
+\lex n@'-pak
+\_no 02477
+\LG MIG
+\PSH [n@pak]
+\UND n@7-pak
+\MB agua, regar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG regar agua
+\ENG to spread water
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT pak
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 23/Dec/95
+\lex n@'-patu
+ZOH004R0011001.txt
+Page 1067

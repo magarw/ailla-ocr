@@ -1,0 +1,62 @@
+\lex xuy.ten
+\_no 04028
+\LG MIG
+\PSH [xuyten-]
+\UND xuy.ten
+\MB X, PRSV
+\VAR
+\GRAM prsv
+\SCI
+\USE
+\SPG tenerlo tapado con cobija
+\ENG to have something covered with a blanket
+\EXU 7@y+ xuy.ten-w@
+\XPSH [7@y xuytenn@.]
+\XSP Lo tiene tapado.
+\XEN She's got it covered.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT * xuy
+\RTGR T3
+\DSRC HAJ94
+\CMTS cover someone with a blanket; WHAT is ROOT? can' figure it: TK
+\date 26/Jun/96
+\lex xuyu7
+\_no 04029
+\LG MIG
+\PSH
+\UND xuyu7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG olla
+\ENG jar; pot
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex xuwi
+\_no 04030
+\LG MIG
+\PSH [xuwi]
+\UND xui
+\MB
+ZOH004R0011001.txt
+\VAR xuwi
+\GRAM S
+\SCI
+\USE
+\SPG red(e)
+\ENG net
+Page 1733

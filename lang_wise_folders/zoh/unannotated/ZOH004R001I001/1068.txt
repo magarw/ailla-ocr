@@ -1,0 +1,65 @@
+\_no 02478
+\LG MIG
+\PSH [n@patu]
+\UND n@7-patu
+\MB agua, pato
+\VAR
+\GRAM s (m)s
+\SCI
+\USE
+\SPG pato de ri*o
+\ENG river duck
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+LF: jon
+\lex n@'-petze7
+\_no 02479
+\LG MIG
+\PSH [n@petze7]
+\UND n@7-petze7
+\MB agua, Xx
+\VAR
+\GRAM s (m)s
+\SCI
+\USE
+\SPG animal de agua que pica; cucaracha de ri*o
+\ENG a water bug that bites; river cockroach
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 08/Feb/96
+\lex n@'-pixixi7
+\_no 02480
+LF:bugs
+\LG MIG
+\PSH [n@pixixi7]
+\UND_n@7=pixixi7
+\MB agua, pato_del_ri*o
+\VAR
+\GRAM s (m)s
+\SCI
+\USE
+\EXU
+\XSP
+\SPG pato; pichichi
+\ENG duck
+\XEN
+\SYN
+ZOH004R0011001.txt
+Page 1068

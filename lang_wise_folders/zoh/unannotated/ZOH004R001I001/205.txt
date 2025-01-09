@@ -1,0 +1,66 @@
+\EXU 7uba poj
+\XSP bejuco de uvas
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\lex 7uk
+\_no 00477
+\CMTS puede ser la mata o la fruta
+\date 13/Jun/95
+LG MIG
+\PSH
+\UND 7uk
+\MB
+LF: poj
+\VAR
+\GRAM vt, vi:absol
+\SCI
+\USE
+\SPG tomar
+\ENG to drink
+\EXU 1 d@ 7uk-tam-pa
+\XPSH 1 [D@ 7uktampa.]
+\XSP 1 Estamos tomando (es uno convivio).
+\XEN 1 we're drinking (it's a party).
+\EXU 2 d@ 7uk. 'oy-w@
+\XPSH 2 [D@ 7ukkoyy@.]
+\XSP 2 Tome*;
+Desayune*.
+\XEN 2 I drank; I had breakfast.
+\SYN
+\SEMF eat
+\ASP activity
+\ARG
+\ROOT 7uk
+\RTGR T1
+\NOM 7uk.i, 7uk.kuy7, yuk.7uk.kuy?
+\SUB 7anh.uk,
+\SUB 7uk.ki7px, win='uk, yuk. 'uk
+\ETYM
+\ETL
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+ZOH004R0011001.txt
+\lex 7uk.in@n@7
+\_no 00478
+7anh.'uk=wak, 7uk-jey.e, 7uk-(@)-t@', jo.7uk, ko.7uk,
+\LG MIG
+\PSH [7uki n@n@7]
+\UND 7uk. E n@n@7
+\MB tomar, NOM7, X
+\VAR
+\XEN
+\SYN
+\GRAM
+\SCI
+\USE
+\SPG atol de "tisiawal"
+\ENG a type of corn drink
+\EXU
+\XSP
+Page 205

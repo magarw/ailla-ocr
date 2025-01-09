@@ -1,0 +1,63 @@
+XPSH [7@n yaktzu7tztz@n 7une7.]
+\XSP Di* de mamar a mi nin~o.
+\XEN I nursed my baby.
+\SYN
+\SEMF eat
+\ASP activity
+\ARG
+\NOM tzu'tz.i7
+\SUB
+\ETYM
+\ETL
+\ROOT tzu7tz
+\RTGR 11
+\DSRC TK94
+\CMTS caus2 yak+ tzu7tz dar de mamar
+\date 03/Jan/80
+\lex tzu7tz-pa+a7k 7une7
+\_no 03451
+\LG MIG
+\PSH [tzu7tzpa*7k]
+\UND tzu7tz-pa +P@7k 7une7
+\MB mamar, INC, REL, nin~o
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG nin~o que esta* mamando
+\ENG a nursing baby
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT tzu7tz
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex tzuway
+\_no 03452
+\LG MIG
+\PSH
+\UND tzuway
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG tonto; tonto su mano
+\ENG foolish
+\EXU
+\XSP
+\XEN
+ZOH004R0011001.txt
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+Page 1485

@@ -1,0 +1,63 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 09/Feb/96
+\lex tam'. 'aH
+\_no 02937
+\LG MIG
+\PSH [tamma-]
+\UND tam7.7aH
+\MB amargo, VERS1
+\VAR
+\GRAM versl
+\SCI
+\USE
+\SPG amargarse
+\ENG to become bitter
+\SPL yak.tam7.7aH
+\SLGR CONVERS
+\SLGL amargar // to make bitter
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tan [1]
+\_no 02938
+\LG MIG
+\PSH
+\UND tan
+\MB
+\VAR
+\GRAM vi
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG completar (se)
+\ENG to finish
+\SPL yak. tan
+\SLGR CAUS
+\SLGL completar // to finish
+\EXU 1 7@y+ yak.tan-w@ jemji7
+\XPSH 1 [7@y yaktann@ jemji7.]
+\XSP 1 Lo completo* todo.
+\XEN 1 She finished everything.
+\EXU 2 7@n+ yak.tan-pa 7@n+ yox.kuy7
+\XPSH 2 [7@n yaktanpan yoxkuy.]
+\XSP 2 Estoy completando mi trabajo.
+\XEN 2 I'm finishing my work.
+Page 1264

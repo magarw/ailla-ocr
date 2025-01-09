@@ -1,0 +1,62 @@
+\CMTS
+\date 14/Nov/94
+\lex x@nh.7aH
+\_no 04064
+\LG MIG
+\PSH [x@nhnha-]
+\UND x@nh.7aH
+\MB fiesta, VERS1
+\VAR
+\GRAM vers1
+\SCI
+\USE
+\SPG hacer fiesta
+ENG to have a fiesta
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex x@nh=kej-(a)n@m
+\_no 04065
+\LG MIG
+\PSH [x@nhkejan@m-]
+\UND _x@nh-kej-An@m
+\MB fiesta, verse, INDEF
+\VAR X@nh-keej-n@m-w@
+\GRAM vi: indef
+\SCI
+\USE
+\SPG amanecer
+\ENG for day to dawn
+\EXU X@nh-kej-An@m-w@+ 'am
+\XPSH [X@nhkejjan@mma*m.]
+\XSP Ya amanecio*.
+\XEN Now day has dawned.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kej
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex x@nh. '<aH>.an@m
+\_no 04066
+\LG MIG
+\PSH [x@nhnhan@m-]
+\UND x@nh.7aH.An@m
+\MB fiesta, VERS1, INDEF
+\VAR
+\GRAM indef
+ZOH004R0011001.txt
+Page 1748

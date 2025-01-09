@@ -1,0 +1,63 @@
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG estar mojadito
+\ENG to be partly wet, like a towel after you dry your hair
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 707k
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex win='om=wak
+\_no 03747
+\LG MIG
+\PSH [winnomwak-]
+\UND win=7om=wak
+\MB CARA, echar_humo, *vaciar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG ahumar para curar una enfermedad; "se siente mal el nin~o, al
+ahumar, segun nosotros, le quitamos el mal"
+\ENG to cense in order to cure an illness; "when the child is ill, we
+believe that censing will cure it"
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 7om
+\RTGR 1 12
+\ROOT 2 wak
+\RTGR 2 12
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex win-'opx
+\_no 03748
+ZOH004R0011001.txt
+\LG MIG
+\PSH [winnopx-]
+\UND win=70px
+\MB CARA, echar_espuma
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG sacar espuma por encima
+Page 1609

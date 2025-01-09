@@ -1,0 +1,64 @@
+\SCI
+\USE
+\SPG volver a hacer
+\ENG to do again
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tz@k
+\RTGR 1 T3
+ROOT 2 witu
+\RTGR 2 11
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex_tz@k='ok.manh
+\_no 03485
+\LG MIG
+\PSH [tz@kkokmanh-]
+\UND tz@k=7ok.manh
+\MB hacer, ABAJO, *pisar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG comenzar a hacer
+\ENG to start to do
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tz@k
+\RTGR 1 T3
+\ROOT 2 7ok.manh
+\RTGR 2 IX
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tz@7kx
+\_no 03486
+\LG MIG
+\PSH
+\UND tz@7kx (kuy)
+\MB
+\VAR tz@7kx kuy
+\GRAM
+\SCI Bursera simaruba
+\USE
+\SPG palo mulato
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+LF: kuy
+ZOH004R0011001.txt
+Page 1499

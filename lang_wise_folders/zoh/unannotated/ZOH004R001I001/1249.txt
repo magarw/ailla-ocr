@@ -1,0 +1,64 @@
+\_no 02901
+\LG MIG
+\PSH
+\UND sesina
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG cecina
+\ENG salted pork
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 18/Oct/94
+\lex silantru
+\_no 02902
+\LG MIG
+\PSH
+\UND silantru
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG cilantro
+\ENG cilantro
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 12/Nov/94
+\lex sintuli7
+\_no 02903
+\LG MIG
+\PSH
+LF:7okox = tzamm@7
+\UND sintuli7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG sintuli - un zacatito que se encuentra en todas partes
+\ENG a type of small grass that you find everywhere
+\SPL
+\SLGR
+\EXU
+\XSP
+Page 1249

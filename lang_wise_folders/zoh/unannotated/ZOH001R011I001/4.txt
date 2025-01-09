@@ -1,0 +1,85 @@
+\com
+\idx
+\ref ZOH001R011 013
+\_no 00014
+\tx n@mm@
+\mb n@m -w@
+-y d@ min
+-w@ -7am
+\sg1 decir-COM DCT2-TMP 1A venir-COM-YA
+\egl say -COM DCT2-TMP 1A come -COM-NOW
+dey
+te
+\zoq N@mm@, "Dey d@ minna*m.
+\fts Dijo, "Ya vine.
+\fte He said, "Here I am.
+\com
+\idx
+\ref ZOH001R011 014
+\_no 00015
+\tx ti
+\mb
+mix yakn@mtampa
+ti
+mix yak -n@m-tam -ра
+\sg] que 2>1 CAUS-DO -1/2PL-INC
+\egl what 2>1 CAUS-DO -1/2PL-INC
+\zoq Ti mix yakn@mtampa?"
+\fts Para que me quieren?"
+\fte what do you want me to do?"
+\com
+\idx
+\ref ZOH001R011 015
+\_no 00016
+\tx n@mpa
+\mb n@m
+d@ minna*m
+ZOH001R0111001.txt
+ха
+y@
+-pa xa7 y@ -7
+soldao d@kka tzawi t@pa
+soldado d@kkay tzawi7 t@7
+\sg1 decir-INC INTENS DCT1-NOM1 soldado NPL
+\egl say -INC INTENS DCT1-NOM1 soldier NPL
+\zoq Nampa xa, "Y@ soldaod@kka tzawi t@pa,
+\fts Dice, "Estos soldados que quieren chango,
+\fte He says, "These soldiers want some monkeys,
+\com xa is an emphatic particle that we couldn't think how to translate
+\idx
+\ref ZOH001R011 016
+\_no 00017
+\tx 7i tigo ya
+n@mwinwit@
+\mb 7i tigo07 ya n@m-win-wit -A
+\sgl y
+porque NEG DO -CARA-andar-nINC
+\egl and why NEG DO -FACE-walk -NINC
+\ref ZOH001R011 017
+\_no 00018
+\zoq 7i tigo ya n@mwinwit@?"
+\fts Y porque no vas con ellos?"
+\fte And why don't you go with them?"
+\com
+\idx
+\tx pwes de7xe bi7t n@kpa
+\mb pwes te
+\sg1 pues DCT2-SIM SI
+\egl well DCT2-SIM IF
+\zoq "Pwes de7xe bi7t,
+-pa
+mono querer-INC
+monkey want -INC
+get
+n@kpan p@kk@n tujkuy.
+Page 4
+n p@kk@
+-7xe bi7t n@k -pa 7@n p@k -w@
+agarrar-dINC 1E
+-DINC 1E
+irse-INC 1E
+go -INC 1E
+n tujkuy
+7@n tuj -kuy7
+tirar-INSTR1
+shoot-INSTR1

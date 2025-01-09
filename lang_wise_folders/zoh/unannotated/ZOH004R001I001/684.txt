@@ -1,0 +1,63 @@
+ZOH004R0011001.txt
+\ENG to pull the heel up towards the knee while sitting
+\SLGR NO ANTIP
+\SPL kux.7@m
+\SLGR PASS
+\SLGL estar recogido (trata tambien de otras cosas, no solo pie)
+\SLGL to be pulled back/up (also other things than legs)
+\EXU 1 7@y+ kux-w@ 7@y+ manh.kuy7
+\XPSH 1 [7@y kuxx@y manhkuy7.]
+\XSP 1 Doblo* su pie
+\XEN 1 She pulled her leg back.
+\EXU 2 7@y+ kux-w@ 7@y+ win
+\XPSH 2 [7@y kuxx@y win.]
+\XSP 2 Esta* encogido. (durmiendo, con frio)
+\XEN 2 He's huddled up. (sleeping, cold)
+\SYN
+\SEMF body, arrange
+\ASP achievement
+\ARG patient
+\NOM kux.naanh
+\SUB 7ok.kuj.'@y, kux.na' minh
+\ETYM
+\ETL
+\ROOT kux
+\RTGR P, (TX)
+\DSRC HAJ94
+\CMTS get deriv
+\CMTS no antip * kux.7oy no tiene razo*n, no van a entenderse
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex kuxina
+\_no 01576
+\LG MIG
+\PSH
+\UND kuxina
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG cocina
+\ENG kitchen
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM cocina
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 01/Oct/94
+\lex kux.na' monh
+\_no 01577
+\LG MIG
+\PHO [kuxna monh-]
+\UND kux.na' monh
+\MB recoger_pie, STAT, dormir
+\VAR
+\GRAM vi: stat
+Page 684

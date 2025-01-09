@@ -1,0 +1,89 @@
+\ref 075
+\_no 00076
+\tx yada
+mixtu
+\mb ya -d@ mixtu7
+\sg1 DCT1-DEM gato
+\eg1 DCT1-DEM cat
+\tx nu 7@y nikkekk@yy@
+\mb nu7 7@y nik -kek
+\sg1 perro 3E SUP
+\egl dog
+3E SURF-hop
+\com
+\idx
+tenn@
+ten
+neak@t@kja
+7@y p@7tpa
+7ora
+tum
+7ora tum
+-wa
+nea7 -k@t@kj@7 7ay p@7t -pa
+pararse-COM pared-junto_a 3E pasar-INC ahora uno
+stand -COM wall -beside 3E pass -INC now one
+\ref 076
+\_no 00077
+\tx yada
+mixtu kekk@
+\mb ya -d@ mixtu7 kek
+\sg1 DCT1-DEM gato
+\eg1 DCT1-DEM cat
+\ref 077
+\_no 00078
+\fts este gato esta* parado junto a la pared. al pasar un perro le brinco*
+\fte this cat is standing under the wall. when he passes a dog jumped on him
+\com
+\idx
+\tx kumkuy 7@y kuk
+\mb kumkuy7 7@y kuk
+\sgl pueblo 3E
+\egl town
+3E
+-7@y-wa
+brincar-SUF-COM
+ZOH001R0601001.txt
+\fts este gato subio* saltando encima/sobre de la mesa
+\fte this cat jumped he went up on the table
+\ref 078
+\_no 00079
+\tx 7@n t@k
+\mb 7@n t@k
+-SUF-COM
+k@manhnh@yy@
+mexa tzapji7
+-wa k@
+-manh -7@y-w@ mexa tzapji7
+brincar-COM AFUERA-pisar-SUF-COM mesa encima
+hop -COM AWAY -step -SUF-COM table on
+\tx
+7@n 7awin 7@y tak
+\mb 7@n 7awin7 7@y tak
+y@
+\sgl 1E hermano/a 3E casa
+-7a -w@ y@ -7
+-VERS1-COM DCT1-NOM1
+\egl 1E sibling 3E house there_is-VERS1-COM DCT1-NOM1
+centro
+center
+teji7aw@
+teji
+teji7aw@
+teji
+hay
+\fts la casa de mi hermano esta* en el centro del pueblo
+\fte my brother's house is in the center of town
+\com
+\idx
+maxant@k7anhj@*nh
+\sg1 1E casa hay
+-7a -w@ maxan -t@k -7anhj@@nh
+-VERS1-COM sagrado-casa -DIR7
+\egl 1E house there_is-VERS1-COM sacred -house-DIR7
+\fts mi casa esta* al lado de la iglesia
+\fte my house is next to the church
+\com
+\idx
+\ref 079
+Page 20

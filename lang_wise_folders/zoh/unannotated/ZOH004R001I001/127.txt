@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7ix
+\RTGR 1 T3
+\ROOT 2 pak
+\RTGR 2 T3
+\DSRC TK94
+\CMTS
+\date 15/Oct/94
+\lex 7ix-ten
+\_no 00294
+LG MIG
+\PSH [7ixten-]
+\UND 7ix-ten
+\MB ver, pararse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG cuidar
+\ENG to take care of
+\SPL
+\SLGR
+\EXU 7@y+ 7ix-ten-w@ 7@y 7une7
+\XPSH [7@y 7ixtenn@y 7une7.]
+\XSP Cuido a su hijo.
+\XEN She tooked care of her child.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7ix
+\RTGR 1 T3
+\ROOT 2 ten
+\RTGR 2 11
+\DSRC HAJ95
+\CMTS
+\date 18/Jun/96
+\lex 7ix-tuk
+\_no 00295
+\LG MIG
+\PSH [7ixtuk-]
+\UND 7ix-tuk
+\MB ver, acabarse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG esperar
+\ENG to wait
+ZOH004R0011001.txt
+\SPL yak.7ix=tuk
+\SLGR CAUS
+\SLGL hacer esperar // to make wait
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+Page 127

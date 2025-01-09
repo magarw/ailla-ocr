@@ -1,0 +1,68 @@
+(47) aj
+ky-ee
+DEM A3p-SR:POS A3p-lazo
+ky-xoo-'kj.
+A3p-tirar-RES
+'que fueron sus propios lazos que tiraron.'
+0=jaa=tz
+CPL=PERF=hasta=MIR B3s=subir=DIR
+(48) B'ix oo-taq=pa=la
+y
+saaka,
+costal
+'Y Pedro hasta había salido del costal,'
+0=0=iky'
+(50) Ma-tzan
+(51) qoo-qa
+(49) b'ix b'i'x
+oq t-uj
+y
+de.una.vez CPL.DEP=B3s=DIR huirse A3s-SR:en
+'y de una vez se huyó en la noche.'
+0=jaa'w-al
+PROX=pues B3s=subir-TERM
+'Cuando salió el sol,'
+vamos=PL
+'vámonos'
+ky-saqb'aaq_0=0=xi'
+(52) chi-chi-tzan
+xjaal,
+B3p=decir pues gente
+'dijo la gente,'
+(53) ma-a'
+0=jaa'w-al-ta
+(54) ¿Jaa=tzan t=e'
+PROX-ENF B3s=subir-TERM=3sENF
+'ya salió el sol."
+q-ryaat,
+dónde pues EXIST=B3p Alp-lazo
+'¿Dónde están nuestros lazos?'
+CPL.DEP=B3s=DIR
+(56) 0=0=xi'
+q'iij,
+sol
+ky-xoo-'kj
+CPL.DEP-B3s=DIR A3p-tirar-RES
+'que la gente fue a tirar.'
+(57) Noq=tzan_0=i=jaw
+q'iij.
+sol
+(55) b'ix aa-l-pa-la-jo
+oo-taq
+0=ku'=x
+y DEM=?=hasta=MIR=DEM CPL-PERF B3s=DIR=DIR
+t-tetz'o-'n
+Luuch t-uj-aj
+saaka
+A3s-insertar-SD Pedro A3s-SR:en=DEM costal
+'y eso era porque Pedro los había metido en el costal'
+Luuch t-uj
+Pedro A3s-SR:en
+xjaal.
+gente
+qoniiky'an=tl
+noche=otra
+mees-j
+solo pues CPL.DEP=B3p=DIR sorprender-PAS
+'Pues, se sorprendieron'
+6

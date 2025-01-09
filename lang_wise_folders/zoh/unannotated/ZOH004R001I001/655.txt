@@ -1,0 +1,63 @@
+\UND kuj.naanh
+\MB empujar, MED
+\VAR
+\GRAM meas
+\SPG un empujo*n
+\ENG a push
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT kuj
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex kujtzu7
+\_no 01508
+\LG MIG
+\PSH
+\UND kujtzu7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG codo
+\ENG elbow
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex kuj=wij
+\_no 01509
+\LG MIG
+\PSH [kujwij-]
+\UND kuj=wij
+\MB empujar, zambutirse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG zambutir
+\ENG to push someone into the water
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT 1 kuj
+\RTGR 1 T3
+Page 655

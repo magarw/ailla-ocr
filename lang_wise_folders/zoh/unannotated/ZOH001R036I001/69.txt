@@ -1,0 +1,85 @@
+\ref ZOH001R036 320
+\_no 00317
+\tx 7al rratitu gay
+\mb
+rratitu ka -y
+\sgl al
+7al
+ratito DCT3-TMP
+\egl in a while DCT3-TMP swell
+\zoq Ya waxxo7am.
+fts Ya no le da comezo*n.
+\fte Now it doesn't prick.
+\com
+\idx
+\ref ZOH001R036 321
+\_no 00318
+\tx ya waxxo7am
+\mb__ya wax
+-7oy -w@ -7am
+\sg1 NEG morder-ANTIP-COM-YA
+\egl NEG bite -ANTIP-COM-NOW
+\zoq 7al rratitu gay xinhj@tta*m.
+\fts Al ratitu gay se deshincho*.
+\fte After a while then the swelling has gone down.
+\com
+\idx vseq
+\tx waj@7apa
+waja -7a
+\sg1 bueno-VERS1-INC
+\mb
+\egl good -VERS1-INC
+-pa
+ZOH001R0361001.txt
+xinhj@tta*m
+xinh
+\ref ZOH001R036 322
+\_no 00319
+ne
+\tx joypi7t 7@m tz@kjage7tpa
+\mb joypi7t 7@m tz@k -jay -ke7t -pa ne7
+\sgl otro_di*a 2E hacer-APPL-REPET-INC tambien
+-APPL-REPET-INC also
+\egl next day 2E
+do
+\ref ZOH001R036 323
+\_no 00320
+-jat
+hincharse-rebajar-COM-YA
+-reduce -COM-NOW
+-w@ -7am
+\ref ZOH001R036 324
+\_no 00321
+\zoq Joypi7t 7@m tz@kjage7tpa ne de7xe 7axta ke w@j@7apa.
+\fts Al otro di*a asi* mismo le haces hasta que sane.
+\fte The next day you do it again too like that until it gets better.
+\com
+\idx
+de7xe
+7axta ke
+te -7xe 7axta ke
+DCT2-SIM hasta que
+DCT2-SIM until that
+\tx
+GSM: 7i por 7ejemplo si tzajin yaktuxxoba
+7iw@
+7iw@
+\mb GSM 7i por 7ejemplo si tzajin yak -tux
+\sg1 GSM: y por ejemplo si culebra CAUS-picar-ANTIP-INC alguna quien
+\eg1 GSM: and for example if snake CAUS-bite -ANTIP-INC some who
+ney
+-7oy -pa ney
+\zoq GSM: 7i por ejemplo si tzajin yaktuxxoba ney 7iw@,
+\fts GSM: Y por ejemplo alguien le pica la culebra,
+\fte GSM: And for example if a snake bites someone,
+\com
+\idx
+\tx ti
+j@nanh n@mmoba
+m kuratz@kk@
+\mb ti
+j@nanh n@m7oy -pa 7@m kurar-tz@k -w@
+\sg1 que AC DO -ANTIP-INC 2E curar-hacer-dINC
+\egl what ACC DO -ANTIP-INC 2E heal - do
+Page 69
+-DINC

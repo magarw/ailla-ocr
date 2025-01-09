@@ -1,0 +1,64 @@
+\SCI
+\USE
+\SPG escribir
+\ENG to write
+\EXU 1 toto'=jay-wa
+\XPSH 1 [Toto jayy@.]
+\XSP 1 Escribio* (algo) en el papel.
+\XEN 1 He wrote something on the paper.
+\EXU 2 jay.7@m-w@ bi toto'
+\XPSH 2 [Jayy@mm@ bi toto.]
+\XSP 2 Fue* escrito el papel.
+XEN 2 The paper was written.
+\EXU 3_7@y+ jay.ten-w@-'am bi toto' +g@xi
+\XPSH 3 [7@y jaytenna*m bi totog@xi.]
+\XSP 3 Ya lo tiene escrito en el papel.
+\XEN 3 Now she's got it written on the paper.
+\SYN
+\SEMF speak
+\ASP activity
+\ARG
+\NOM jay.kuy7, ni.jay. kuy7
+\SUB jay=tax, jay-tzak, jay=tz@y, j@x=jay, ni.jay,
+\ETYM
+\ETL
+\ROOT jay
+\RTGR T3
+\SPL jay.7oy
+\SLGR ANTIP
+ZOH004R0011001.txt
+\SLGL escribir; escritura // to write; writing
+\SPL jay.7@m
+\SLGR PASS
+\SLGL escribirse // to be written
+\SPL jay.ten
+\SLGR PRSV
+\SLGL tener escrito // to have written
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex jay [2]
+\_no 00695
+\LG MIG
+\PSH
+\UND jay
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG dilatar; demorarse
+\ENG to delay; to linger
+\SPL yak.jay
+\SLGR CAUS
+\SLGL hacer dilatar // to cause to delay
+\EXU 1 wen=jay
+\XPSH 1 [wen jay]
+\XSP 1 tardarse mucho
+\XEN 1 to be very late
+\EXU 2 d@+ jay-w@ para d@+ monh-w@
+\XPSH 2 [D@ jayya pa da monhnh@.]
+\XSP 2 Tarde* para dormir.
+\XEN 2 I put off going to sleep.
+\SYN
+Page 298

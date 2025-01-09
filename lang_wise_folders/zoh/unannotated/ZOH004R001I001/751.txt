@@ -1,0 +1,64 @@
+\CMTS
+\date 26/Jan/96
+\lex k@pi-po'.kuy7
+\_no 01736
+\LG MIG
+\PHO [k@pipokuy7'
+\UND_k@pi-po7.kuy7
+\MB len~a-rajar. INSTR1
+\VAR
+\GRAM instrl
+\SPG hacha para cortar len~a
+\ENG axe for cutting firewood
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT po7
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex k@.pit=witu'
+\_no 01737
+\LG MIG
+\PSH [k@pitwitu-]
+\UND k@.pit=witu7
+\MB FUERA, poner_mortaja, regresar
+\VAR
+\GRAM vt+dir
+\SCI
+\USE
+\SPG cobijarse; envolverse; envolverlo en todo
+\ENG to wrap up (oneself); to wrap something all up
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 pit
+\RTGR 1 T3
+\ROOT 2 witu7
+\RTGR 2 IX
+\DSRC HAJ94
+\CMTS CK-PH
+\date 25/Jun/96
+-
+ZOH004R0011001.txt
+ok, analysis; OK/TK
+\lex k@pi=t@nh
+\_no 01738
+\LG MIG
+\PSH [k@pit@nh-]
+\UND_k@pi=t@nh
+MB len~a, cortar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG cortar len~a
+\ENG to cut firewood
+\EXU_k@pi=t@nh-w@
+Page 751

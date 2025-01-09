@@ -1,0 +1,63 @@
+\UND toy.jay
+\MB
+\VAR
+\GRAM vi:indir
+\SCI
+\USE
+\SPG dolerle
+ENG to hurt one
+\EXU 1 toy.jay-w@
+\XPSH 1 [Toyjayy@.]
+\XSP 1 Le dolio*.
+\XEN 1 It hurt her.
+\EXU 2 n@k-pa 7@y+ toy.jay-w@ 7@y+ kumpan mama
+\XPSH_2 [N@kpay toyjayy@y kumpan mama.]
+\XSP 2 Su madrino va a dejarle un regalo.
+\XEN 2 Her godmother is going to leave her a present.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT toy
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 09/Feb/96
+\lex toy.kuy7
+\_no 03047
+\LG MIG
+\PSH [toykuy7]
+\UND toy.kuy7
+\MB doler, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG algo; bastante
+\ENG something; a lot of something
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT toy
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 15/Jun/95
+\lex toy-pa+a7k
+\_no 03048
+\LG MIG
+ZOH004R0011001.txt
+\PSH [toypa*7k]
+\UND toy-pa +P@7k
+\MB doler, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG dolor
+\ENG pain
+Page 1312

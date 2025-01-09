@@ -1,0 +1,87 @@
+ZOH001R0021001.txt
+\fts Pero ya que en ese tiempo pelearon tal vez.
+\fte But now in that time perhaps they fought.
+\not
+\idx
+\ref ZOH001R002 032
+\_no 00033
+\tx neyga7
+\mb ney -ka -7
+\sgl mismo-DCT3-NOM1 NPL
+\egl self -DCT3-NOM1 NPL also
+\zoq Neyga7d@kka ne7 tzixukk@w@.
+fts Ellos tambien se dieron.
+\fte They also hit each other.
+\not
+\idx
+bi minn@
+bi min
+\ref ZOH001R002 033
+\_no 00034
+\tx ga7
+7@y jejxuki
+-wa 7@y jej -xuk-E
+y@ji
+\mb ka -7
+ya -ji7
+\sg1 DCT3-NOM1 DEF venir-COM 3E vivir-3PL-dCOM DCT1-LOC1
+\eg1 DCT3-NOM1 DEF come -COM 3E live -3PL-dCOM DCT1-LOC1
+\tx kumkuyjo7.
+\mb kumkuy7-jo7
+\sgl pueblo -Loc2
+\egl town
+-LOC2
+d@kka ne7
+d@kkay ne7
+\not
+\idx det_pron, aux_p1
+tzixukk@w@.
+tzi7-xuk-A -w@
+tambien dar -3PL-RCP-COM
+give-3PL-RCP-COM
+\zoq Ga7 bi minn@ 7@y jejxuki y@ji kumkuyjo7.
+\fts Ellos vinieron a vivir aqui en este pueblo.
+\fte They came to live here in this town.
+\ref ZOH001R002 034
+\_no 00035
+\tx pitz
+ded@
+7anhp@n
+7@n 7anhnittampa*7
+\mb pitz
+neyja*7
+te -da 7anh -p@n
+7@n 7anhnit-tam -pa -v7k ney -jaa7
+DCT2-DEM BOCA -hombre 1E tener -1/2PL-INC-REL IPrn-NPL2
+\eg1 because_of DCT2-DEM MOUTH-man 1E have -1/2PL-INC-REL IPrn-NPL2
+\sg1 por_eso
+\tx tummanh gad@ p@n dak jananh.
+\mb tummanh ka -d@
+-d@ p@n d@kkay jananh
+\sgl igual DCT3-DEM hombre NPL
+\egl equal DCT3-DEM man
+NPL
+\ref ZOH001R002 035
+\_no 00036
+\tx ya matonhnh@
+\mb ya matonh -w@
+\sg1 NEG escuchar-COM
+\egl NEG hear
+\zoq Pitz ded@ 7anhp@n 7@n 7anhnittampa*7 neyją*7 tummanh gad@ p@nd@kj@nanh.
+\fts Por eso esta idioma que tenemos nosotros igual con e*1 de esa gente.
+\fte Because of that the language that we have is the same as that of
+those people.
+\not
+\idx
+AC
+ACC
+como
+-COM how
+junanh 7@y n@ji ga7
+junanh 7@y n@ji
+7anmal d@kka?
+ka -7 7anma*1 d@kkay
+3E nombre DCT3-NOM1 animal NPL
+3E name DCT3-NOM1 animal NPL
+\zoq Ya matonhnh@ junanh 7@y n@ji ga7 7anmald@kka?
+Page 8

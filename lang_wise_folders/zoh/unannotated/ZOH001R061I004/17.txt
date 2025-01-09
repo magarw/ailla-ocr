@@ -1,0 +1,63 @@
+\PSH [7omap@-]
+\UND 7om.A7=p@7
+\MB echar_humo, NOM2, poner
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG echar humo
+\ENG to emit smoke
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7om
+\RTGR 1 12
+\ROOT 2 p@
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex 7opx.a7
+\_no 00040
+\LG MIG
+\PSH [70pxa7]
+\UND 70px.A7
+\MB espumar, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG espuma (como jabo*n)
+\ENG foam (like from soap)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 70px
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 24/Jun/96
+\lex 7opx.a'=tz@k
+\_no 00041
+\LG MIG
+\PSH [70pxatz@k-]
+\UND 70px.A7=tz@k
+\MB espumar, NOM2, HACER
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG hacer espuma
+\ENG to make foam
+\EXU
+\XSP
+ZOH001R0611004.txt
+Page 17

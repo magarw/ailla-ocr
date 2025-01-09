@@ -1,0 +1,44 @@
+\SPL_yak.7anh-je7k [7@y_yanhje7kk@]
+\SLGR CAUS
+\SLGL 1 espantar // to frighten
+\SLGL 2 humillar // to humiliate\EXU 7@y+ 7anh-je7k-pa wana maki.maki
+\XPSH [7@y 7anhje7kpa wana makimaki.]
+\XSP Juana tiene miedo de la aran~a.
+\XEN Juana is afraid of the spider.
+\SYN\SEMF cognitive
+\ASP state\ARG
+\NOM 7anh-je7k.kuy7
+\SUB k@.7anh.je7k
+\ETYM
+\ETL\ROOT 7anh=je7k
+\RTGR 12\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980\lex 7anh-je7k.kuy7
+\_no 00063\LG MIG
+\PHO [7anhje7kkuy7]
+\UND 7anh-je7k.kuy7
+\MB tener_miedo, INSTR1
+\VAR\GRAM instr1
+\SPG espanto
+\ENG fear\EXU 7anh-je7k.kuy7 7anh=7it-pa
+\XPSH [7anhje7kkuy7 7anhnitpa.]
+\XSP Tiene espanto.
+\XEN He is afraid.\SYN
+\ROOT 7anh-je7k
+\DSRC HAJ95\CMTS
+\DATE 03/Jan/1980\lex 7anhjel
+\_no 00064\LG MIG
+\PSH
+\UND 7anhjel
+\MB
+\VAR
+\GRAM S\SCI
+\USE
+\SPG a*ngel
+\ENG angel\EXU
+\XSPZOH004R0011001.txt\XEN
+\SYN\SEMF
+\ETYM
+\ETL Sp
+\ROOTPage 28

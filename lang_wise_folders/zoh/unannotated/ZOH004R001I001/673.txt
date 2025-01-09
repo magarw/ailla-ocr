@@ -1,0 +1,65 @@
+\EXU 7anaxa kumu7
+\XSP gusano de naranja
+\XEN orange worm
+\EXU mok kumu7
+\XSP Gusano de mai*z
+XEN corn worm
+\EXU kumu wa7tzi kumu7
+\XSP gusano llamado borrego
+\SYN
+LF:kumu7
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex kumu' paxte7
+\_no 01550
+\LG MIG
+\PSH [kumu paxte7]
+\UND kumu7 paxte7
+\MB gusano, espina
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG nopal
+\ENG prickly pear
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex kumu' taka7
+\_no 01551
+\LG MIG
+\PSH [kumu taka7]
+\UND kumu7 taka7
+LF:7okox
+\MB gusano, pelo*n
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG gusano pelo*n
+\ENG bald worm
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+ZOH004R0011001.txt
+Page 673

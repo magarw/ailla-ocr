@@ -1,0 +1,76 @@
+\idx
+\ref 137
+\_no 00138
+\tx yukpoypay
+\mb yuk-poy
+\sg1 ARR-juirse-INC-3E AFUERA-pisar-SUF-dINC cerro -LOC2
+\eg1 UP -flee -INC-3E AWAY -step -SUF-dINC hill -LOC2
+-pa -7@y
+-manh -7@y-wa
+\ref 138
+\_no 00139
+\fts suben corriendo en el cerro
+\fte they ran up into the hills
+\com
+\idx aux
+\tx 7i yukpoypay
+\mb 7i yuk-poy
+\fts y abajan corriendo
+\fte and they ran down
+\com
+\idx aux
+\ref 139
+\_no 00140
+-pa -7@y
+\sgly
+wanakxukk@
+wanak -xuk-w@
+bajarse-3PL-dINC
+\egl and Up -flee -INC-3E go_down-3PL-DINC
+ARR-juirse-INC-3E
+k@manhnh@yy@
+k@
+ZOH001R0601001.txt
+\tx yukpoypa
+y@ji
+\mb yuk-poy
+-d@kkay ya -ji7
+\sg1 ARR-juirse-INC DEF macho-nin~o/a-NPL DCT1-LOC1
+\eg1 UP -flee -INC DEF male -child -NPL DCT1-LOC1
+\com
+\idx
+bi jay7uned@kka
+-pa bi jaya -7une7
+\tx 7axta gaja
+\mb
+7anhmaykuyt@kkina*nh
+7axta ka -ja7 7anh -may -kuy7 -t@k -kinaanh
+\sg] hasta DCT3-LOC1 BOCA -contar-INSTR1-casa -de
+\egl until DCT3-LOC1 MOUTH-count -INSTR1-house-limit
+\ref 141
+\_no 00142
+\fts los muchachos van a correr de aqui de la iglesia hasta alla* de la
+escuela
+\ref 140
+\_no 00141
+\tx yukpoypa
+\mb yuk-poy
+\sg1 ARR-juirse-INC
+\eg1 UP -flee -INC river-across
+-ра
+\fte the boys are going to run from here at the church to there by the
+school
+kotz@kjo7
+kotz@k-jo7
+pajakgaja7kwintu7k
+pajak-gaja7kwintu7k
+ri*o -al_otro lado
+\fts van a correr al otro lado del ri*o
+\fte they're going to run across the river
+\com
+\idx
+maxant@kkina*nh
+maxan -t@k -kinaanh
+sagrado-casa -de
+sacred -house-limit
+Page 33

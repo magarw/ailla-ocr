@@ -1,0 +1,63 @@
+\PSH [kuynakxkuy7]
+\UND kuy=nakx.kuy7
+\MB palo, pegar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG garrote; mazo de palo
+\ENG cudgel; wooden club
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nakx
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/96
+\lex kuy=po7k
+\_no 01617
+\LG MIG
+\PSH [kuypo7k]
+\UND kuy=po7k
+\MB palo, porra
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG bola del palo; porra de palo
+\ENG a bump on a tree, like where the bark has grown over a wound
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/96
+\lex kuy=putz.i7
+\_no 01618
+\LG MIG
+\PSH [kuyputzi7]
+\UND kuy pu7tz.E7
+\MB palo, pudrirse, NOM7
+\VAR putz.i' kuy
+\GRAM s (m) sv
+\SCI
+\USE
+\SPG palo podrido
+\ENG rotten log
+\EXU
+\XSP
+\XEN
+ZOH004R0011001.txt
+\SYN
+\SEMF
+Page 700

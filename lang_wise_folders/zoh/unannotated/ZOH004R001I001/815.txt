@@ -1,0 +1,63 @@
+\XSP
+\XEN
+\SYN klabu=tzij=paj.kuy7
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex mas wakxinh+p@7
+\_no 01890
+\LG MIG
+\PSH [mas wakxinhp@7]
+\UND mas wakxinh+p@7
+\MB mas, pequen~o, NOM5
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG el ma*s pequen*o
+\ENG the smallest one
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 17/Jun/95
+\lex masakwata
+\_no 01891
+\LG MIG
+\PSH
+\UND masakwata
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG mazacuata
+ENG a type of snake
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL Sp
+\ROOT
+LF:tzajin
+\DSRC HAJ94
+\CMTS
+\date 10/Nov/94
+\lex mateyanu
+\_no 01892
+\LG MIG
+\PSH
+ZOH004R0011001.txt
+Page 815

@@ -1,0 +1,62 @@
+\date 16/Jun/95
+\lex 7anh-petz+jo7
+\_no 00157
+\LG MIG
+\PSH [7anhpetzjo7]
+\UND 7anh-petz+jo7
+\MB BOCA, X, LOC2
+\VAR
+\GRAM av
+\SCI
+\USE
+\SPG a la derecha
+\ENG to the right
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 20/Jun/95
+\lex 7anh-petz+joonh
+\_no 00158
+\LG MIG
+\PSH [7anhpetzjo*nh]
+\UND 7anh-petz+joonh
+\MB BOCA, X, LOC1
+\VAR
+\GRAM av
+\SCI
+\USE
+\SPG por la derecha; al lado derecho
+\ENG towards the right; to the right side
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS add SPG/TK
+\date 24/Jun/96
+\lex 7anh-pix [1]
+\_no 00159
+ZOH004R0011001.txt
+\LG MIG
+\PSH [7anhpix-]
+\UND 7anh-pix
+\MB BOCA, sentir_comezo*n
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tapar
+Page 67

@@ -1,0 +1,93 @@
+\idx
+\ref ZOH001R036 999-222
+\_no 01203
+j@xp@kpa
+bi
+\tx
+GSM: ga7xe y
+kumu
+\mb GSM ka -7xe 7@y jax -pak -ра
+bi
+kumu7
+\sg1 GSM: DCT3-SIM 3E ATRAS-agarrar-INC DEF lombriz
+\eg1 GSM: DCT3-SIM 3E BACK -get
+-INC DEF worm
+\zoq GSM: Ga7xey j@xp@kpa bi kumud@kka bi 7une?
+\fts GSM: Asi* saca las lombrices la criatura?
+\fte GSM: Like that the child gets out the worms?
+\com
+\idx
+\ref ZOH001R036 999-223
+\_no 01204
+\tx
+OSM: pitz@mpa
+\mb OSM pitz@m-pa
+\sg1 OSM: salir -INC
+\eg1 OSM: leave -INC
+\zoq OSM: Pitz@mpa.
+\fts OSM: sale.
+\fte OSM: They leave.
+\com
+\idx
+\ref ZOH001R036 999-224
+\_no 01205
+ZOH001R0361001.txt
+\tx HAJ: tambyen 7ay
+\mb HAJ
+tambyen 7ay
+\sg1 HAJ: tambien hay
+\egl HAJ: also there are worm
+\ref ZOH001R036 999-225
+\_no 01206
+kumu ke
+kumu 7 ke
+lombriz que
+that comes under of the
+byene debajo del
+byene debajo del
+viene debajo del
+\zoq HAJ: Tambyen 7ay kumu ke byene debajo del piel.
+\fts HAJ: Tambien hay lombriz que viene debajo del piel.
+\fte HAJ: There are also worms that come under the skin.
+\com
+\idx
+d@kka bi 7une
+d@kkay bi 7une7
+NPL DEF nin~o/a
+NPL
+DEF child
+\tx GSM: por 7ejemplo de
+nixtoki
+nik - tok
+\mb GSM por 7ejemplo te -7
+-E7
+DCT2-NOM1 SUP -manchar-NOM3 tener
+\eg1 GSM: for example DCT2-NOM1 SURF-stain -NOM3 have
+\sg1 GSM: por ejemplo
+\ref ZOH001R036 999-226
+\_no 01207
+\tx OSM: ga
+nixtoki
+\mb OSM ka -7 nik - tok -E7
+\sg1 OSM: DCT3-NOM1 SUP -manchar-NOM3 tener
+\eg1 OSM: DCT3-NOM1 SURF-stain -NOM3 have
+7anhnitpa
+7anhnit-pa
+\zoq GSM: Por 7ejemplo de nixtoki 7anhnitpa*7.
+\fts GSM: Por ejemplo e*l que tiene manchas como flor en el cuerpo.
+\fte GSM: For example, one who has spots?
+\com
+\idx
+-INC
+- INC
+\zoq OSM: Ga niktoki 7anhnitpa,
+\fts OSM: Eso tiene machitas en el cuerpo,
+Page 259
+piel
+piel
+piel
+skin
+7anhnitpa*7
+7anhnit-pa -v7k
+-INC-REL
+-INC-REL

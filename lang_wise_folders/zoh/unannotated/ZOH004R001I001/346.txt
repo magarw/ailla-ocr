@@ -1,0 +1,63 @@
+\DATE 03/Jan/1980
+\lex jitzi-p@7t
+\_no 00795
+\LG MIG
+\PSH [jitzip@7t-]
+\UND jitzi=p@7t
+\MB arrastrarse, pasar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tocar al pasar
+\ENG to touch in passing
+\EXU
+\XSP
+\XEN
+\SYN jim
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 jitzi
+\RTGR 1 IX
+\ROOT 2 p@7t
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/96
+\lex ji7tz [2]
+\_no 00796
+\LG MIG
+\PSH
+\UND ji7tz
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG arrugarse
+\ENG to wrinkle
+\SPL yak.ji7tz
+\SLGR CAUS
+\SLGL_arrugar (ropa, cara,
+\EXU 7@n+ yak.ji7tz-pa 7@n+ kin@k
+\XPSH [7@n yakji7tzpan kin@k.]
+\XSP Arrugue* mi nariz.
+\XEN I wrinkled my nose.
+\SYN
+\SEMF body, condition
+\ASP accomplishment
+\ARG patient
+\NOM ji'tz.i7
+\SUB
+\ETYM
+\ETL
+\ROOT ji7tz
+\RTGR 12
+\DSRC TK94
+\CMTS ji7tz.kuy7 'cola'
+\date 03/Jan/80
+\DATE 03/Jan/1980
+ZOH004R0011001.txt
+.) // to wrinkle (clothes, face, ...)
+Page 346

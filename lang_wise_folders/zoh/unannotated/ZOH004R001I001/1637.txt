@@ -1,0 +1,65 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-EXX: where is ERG HAJ:96 ok
+\date 26/Jun/96
+\lex wox
+\_no 03808
+\LG MIG
+\PSH
+\UND WOX
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pelar, como una naranja; quitar la ca*scara de madera
+\ENG to peel, like an orange; strip the bark from wood
+\SPL wox. 7oy
+\SLGR ANTIP
+\SLGL pelar // to peel
+\SPL wox.7@m
+\SLGR PASS
+\SLGL pelarse // to be peeled
+\SLGR NO ASSUM1
+\SPL wox. ten
+\SLGR PRSV
+\SLGL tener pelado // to have peeled
+\EXU 7@y+ wox.ten-w@ 7anax (a) d@k+7a
+\XPSH [7@y woxtenn@ 7anaxa d@kka.]
+\XSP Tiene pelado las naranjas.
+\XEN He's got the oranges peeled.
+\SYN
+\SEMF cut
+\ASP process
+\ARG
+\NOM wox.naanh, wox. 'oy.kuy7
+\SUB
+\ETYM
+\ETL
+\ROOT WOX
+\RTGR T3
+\DSRC TK94
+\CMTS
+\CMTS CK-EX
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex wox
+\_no 03809
+\LG MIG
+\PSH
+\UND WOX
+\MB
+\VAR
+\GRAM vt
+ZOH004R0011001.txt
+\SCI
+\USE
+-
+HAJ:96 fixed
+\SPG sacar puntas; raspar
+\ENG to sharpen points; to scrape
+Page 1637

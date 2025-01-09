@@ -1,0 +1,63 @@
+\MB estar_caliente, INC, agua, X
+\VAR
+\GRAM GN
+\SCI
+\USE
+\SPG Aguas Calientes.
+ENG Aguas Calientes
+\SPL
+\SLGR
+\EXU nutz-pa n@'-ji dond ju mut-pa n@7
+\XPSH [NutzpaN@ji, dondju mutpa n@7]
+\XSP Aguas Calientes, donde nace el agua
+\XEN Aguas Calientes, where the warm spring comes up in the river
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nutz
+\RTGR 12
+\DSRC TK96
+\CMTS
+\lex nutz-pa n@'-ji-7
+\_no 02429
+\LG MIG
+\PSH [nutzpa n@ji7]
+\UND nutz-pa_n@7-ji-7
+\MB estar_caliente, INC, agua, LOC1
+\VAR
+\GRAM top
+\SCI
+\USE
+\SPG en Agua(s) Caliente (s)
+\ENG in/to Aguas Calientes
+\EXU d@+ tij-tam-w@ nutz-pa_n@-ji-7
+\XPSH [D@ tijtamm@ nutzpa n@ji7.]
+\XSP Fuimos en Aguas Caliente.
+\XEN we went to Aguas Calientes.
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT nutz
+\RTGR 12
+\DSRC TK94
+\CMTS nutz-pa n@-ji water loc
+\CMTS the place where they built the new bridge on the road to SMC; TK: no
+/7/ on end.
+\date 25/Jun/96
+\lex nutz.tz@
+\_no 02430
+\LG MIG
+\PSH [nutztz@-]
+\UND nutz.tz@
+\MB estar_caliente, X
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG sudar
+\ENG to sweat
+\EXU nutz.tz@-w@
+Page 1047

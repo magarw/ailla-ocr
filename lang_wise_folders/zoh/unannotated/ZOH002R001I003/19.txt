@@ -1,0 +1,21 @@
++
+Morpheme boundary symbols
+inflectional affix
+derivational affix
+compound
+clitic
+The symbols shown in the table are used to separate morphemes in the
+morpheme breakdown line of each data example. They appear on the side of
+the larger unit to which the morpheme belongs syntactically. This is illustrated
+in the example below. The + that marks a clitic appears on the right of the
+person agreement marker ?əy, because it belongs to the verb complex on its
+right. This is mirrored by the + that marks ?am as a post-verbal clitic. The
+separates two compounded lexemes (ko.wak is clearly a lexicalized form,
+because the root wak does not appear in any underived forms in the modern
+language). The . is placed between a derivational affix and the verb root; the -
+is placed between the root and an inflectional suffix.
+(ii) 'øn jømkowakkám
+?ən+ həm=ko.wak-wǝ+?am
+1E+ tallar-OTRO.vaciar-COM+YA
+'Ya lo quitó raspandolo.'
+xix

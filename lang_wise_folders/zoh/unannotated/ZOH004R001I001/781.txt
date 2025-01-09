@@ -1,0 +1,64 @@
+\GRAM VİR
+\SCI
+\USE
+\SPG moverse los testi*culos
+\ENG to swing dangling - balls.
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 02/Oct/94
+\lex limpyakasa
+\_no 01808
+\LG MIG
+\PSH
+\UND 1impyakasa
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG cuija; limpiacasa; salamanquez
+\ENG a type of animal
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF EZ
+LF: 4 pies
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\lex limpya=tz@k
+\_no 01809
+\LG MIG
+\PSH [limpyatz@k-]
+\UND_Timpya=tz@k
+\MB limpiar, HACER
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG limpiar
+\ENG to cleanse
+\SPL
+\SLGR
+\EXU t@k-limpya=tz@k-pa+a7k
+\XPSH [t@k limpyatz@kpa*7k]
+\XSP curandera
+\XEN curer
+\SYN ko.matz
+\SEMF
+\ETYM limpiar
+\ETL Sp
+ZOH004R0011001.txt
+Page 781

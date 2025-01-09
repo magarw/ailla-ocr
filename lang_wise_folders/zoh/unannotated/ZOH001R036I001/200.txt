@@ -1,0 +1,82 @@
+\fte OSM: Um, it falls.
+\com
+\idx
+\ref ZOH001R036 941
+\_no 00924
+\tx bi 7une
+\mb bi 7une7
+\sg1 DEF nin~o/a
+\eg1 DEF child
+\zoq Bi 7une yopa.
+\fts La criatura lo alborta.
+\fte The baby falls.
+\com
+\idx
+yopa
+yo7 -pa
+caerse-INC
+fall -INC
+\ref ZOH001R036 942
+\_no 00925
+\tx
+7@y mama
+peru si m@jm@ 7@y kaxtigtz@kpa*m
+\mb
+peru si m@jm@ 7@y kaxtigar-tz@k -pa -7am 7@y mama
+\sg1 pero si bastante 3E castigar-hacer-INC-YA
+mama*
+\egl but if a lot 3E punish - do
+mother
+3E
+-INC-NOW 3E
+\zoq Peru si m@jm@ 7@y kaxtigtz@kpa*m 7@y_mama.
+\fts Pero si* bastante se castiga la mama*.
+\fte But if now it punishes its mother a lot.
+\com
+\idx
+GSM: m@jm@
+m@jm@
+\ref ZOH001R036 943
+\_no 00926
+7ixx@mba*m
+\tx
+\mb GSM
+7ix-7@m -pa -7am
+\sg1 GSM: bastante ver-PAS -INC-YA
+\eg1 GSM: a_lot
+\ref ZOH001R036 944
+\_no 00927
+OSM: m@jm@
+m@jm@
+\zoq GSM: M@jm@ 7ixx@mba*m.
+\fts GSM: Ya se ve en peligro.
+\fte GSM: Now it's seen a lot (in danger).
+\com
+\idx
+\tx
+\mb OSM
+ZOH001R0361001.txt
+see-PASS-INC-NOW
+7ixx@mba*m
+7ix-7@m -pa - 7am
+\sg1 OSM: bastante ver-PAS -INC-YA
+\egl OSM: a_lot
+see-PASS-INC-NOW
+\zoq OSM: M@jm@ 7ixx@mba*m,
+\fts OSM: Ya se ve en peligro,
+\fte OSM: Now it's seen a lot,
+\com
+\idx
+\ref ZOH001R036 945
+\_no 00928
+\tx
+7ax
+\mb 7axta ke
+\sg1 hasta que
+\egl until that CAUS-get
+ke yakp@kn@kkoba
+yak -p@k
+-n@k -7oy -pa
+CAUS-agarrar-irse-ANTIP-INC
+-go -ANTIP-INC
+Page 200

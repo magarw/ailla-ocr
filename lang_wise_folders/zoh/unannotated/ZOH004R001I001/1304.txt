@@ -1,0 +1,63 @@
+\lex top.a7
+\_no 03027
+\LG MIG
+\PSH [topa7]
+\UND top.A7
+\MB hacer_calor, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG calor
+\ENG heat
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT top
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex top.a' tyempu
+\_no 03028
+\LG MIG
+\PSH [topa_tyempu]
+\UND top.A7 tyempu
+\MB hacer_calor, NOM2, tiempo
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG tiempo de calor
+\ENG hot season
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex top.a'=7a7tz
+\_no 03029
+\LG MIG
+\PSH [topa 7a7tz-]
+\UND top.A7 7a7tz
+\MB hacer_calor, NOM2, arder
+\VAR
+\GRAM vi
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG hacer mucho calor el calor del sol
+\ENG for the sun to be very hot
+Page 1304

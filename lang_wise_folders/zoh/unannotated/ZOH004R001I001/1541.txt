@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wat
+\RTGR P (T3)
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex wat=t@nh.t@nh.w@y
+\_no 03584
+\LG MIG
+\PSH [watt@nht@nhw@y-]
+\UND wat=t@nh.t@nh.w@y
+\MB amarrar, cortar_con_fierro, cortar_con_fierro, REDUP2
+\VAR
+\GRAM vtR:depos
+\SCI
+\USE
+\SPG amarrar bien bien
+\ENG to tie good and tight
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wat
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 07/Apr/95
+\lex wat=tzonh
+\_no 03585
+\LG MIG
+\PSH [wattzonh-]
+\UND wat=tzonh
+\MB amarrar, unir
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG topar amarra*ndolo
+\ENG to join by tying
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN xotz-tzonh
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 wat
+\RTGR 1 P (T3)
+\ROOT 2 tzonh
+\RTGR 2 T3
+ZOH004R0011001.txt
+\DSRC HAJ95
+\CMTS
+\date 16/Jun/95
+Page 1541

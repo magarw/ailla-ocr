@@ -1,0 +1,64 @@
+\UND ko.way
+\MB OTRO, moler
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG moler ajeno
+\ENG to grind corn for someone else
+\EXU way-pa+a7k yomaa7
+\XPSH [waypa*7k yoma*7]
+\XSP molendera
+\XEN corn grinder
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT way
+\RTGR T1
+\DSRC HAJ94
+\CMTS CK-EX
+\date 18/Jun/96
+\lex ko.wej
+\_no 01474
+\LG MIG
+\PSH [kowej-]
+\UND ko.wej
+\MB OTRO, gritar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG gritar para que no coma algo - animal
+\ENG to shout at an animal to keep it from eating something
+ok HAJ: 96
+\EXU 7@y+ ko.wej-pa 7@y+ mok
+\XPSH [7@y kowejpay mok.]
+\XSP Grito para que (un animal) no coma la mazorca.
+\ETL
+\ROOT wej
+\RTGR T1
+\DSRC TK94
+\CMTS
+\date 29/Jan/96
+ZOH004R0011001.txt
+\XEN He shouted to keep an animal from eating his corn.
+\SYN
+\SEMF
+ETYM
+\lex ko.wit
+\_no 01475
+\LG MIG
+\PSH [kowit-]
+\UND ko.wit
+\MB OTRO, andar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG andar visita*ndolo
+\ENG to walk around visiting people
+\EXU d@+ ko.wit-tam-pa
+\XPSH [D@ kowittampa.]
+\XSP Nos va a visitar.
+Page 641

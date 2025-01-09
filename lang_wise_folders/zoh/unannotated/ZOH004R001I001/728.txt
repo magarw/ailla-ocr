@@ -1,0 +1,63 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT %manh
+\RTGR P
+\DSRC TK94
+\CMTS
+\date 31/Mar/95
+\lex k@.manh.'@<y.@>7
+\_no 01685
+\LG MIG
+\PSH [k@: manhnh@7]
+\UND k@.manh. '@y.A7
+\MB FUERA, *pisar, SUF, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG subida
+\ENG upward slope
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ETYM
+\ETL
+\ROOT %manh
+\RTGR P
+\DSRC HAJ94
+\CMTS
+\date 25/Jun/96
+\lex k@.matonh=p@k
+\_no 01686
+LG MIG
+\PSH [k@matonhp@k-]
+\UND k@.matonh=p@k
+\MB FUERA, escuchar, agarrar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG escuchar
+\ENG to listen
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 matonh
+\RTGR 1 T3
+\ROOT 2 p@k
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS
+ZOH004R0011001.txt
+Page 728

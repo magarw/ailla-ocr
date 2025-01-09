@@ -1,0 +1,63 @@
+\MB romper, NOM7
+\VAR
+\GRAM pcp
+\SPG roto
+\ENG torn
+\EXU w@t.i7+k toto' / toto' w@t.i7
+\XPSH [w@ti7k toto] [toto w@ti*7]
+\XSP papel roto
+\XEN torn paper
+\SYN
+\ROOT wat
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex w@t.i7 [2]
+\_no 00400
+LG MIG
+\PSH [w@ti7]
+\UND w@t.E7
+\MB grande, NOM7
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG ancho; grande
+\ENG wide; big
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS %w@t (2)
+\CMTS
+\date 03/Jan/80
+\lex w@t.i' mok
+\_no 00401
+\LG MIG
+\PSH [w@ti mok]
+\UND w@t. E7 mok
+\MB grande, NOM7, mai*z
+\VAR wat mok
+\GRAM ams
+\SCI
+\USE
+\SPG mai*z grande
+\ENG grown corn
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH001R0611004.txt
+\ROOT
+\DSRC HAJ94
+\CMTS
+Page 159

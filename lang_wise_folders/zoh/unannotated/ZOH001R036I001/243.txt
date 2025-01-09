@@ -1,0 +1,73 @@
+ZOH001R0361001.txt
+\zoq De jukut@k kom ga jipx@ ga fyebre ga.
+\fts De lumbre como esa calentura ese es fiebre.
+\fte of fire, like that fever, that's fever.
+\com
+\idx
+\ref ZOH001R036 999-144
+\_no 01126
+\tx 7entonse 7el mizmo malba komi malba
+\mb entonces 7el mismo malba7 komi7 malba7
+\sg1 entonces el mismo malba grande malba
+\egl then
+the same malba big malba
+\zoq 7entonse 7el mizmo malba, komi malba.
+\fts Entonces la misma malba, la malba grande.
+\fte Then the same malba, big malba.
+\com
+\idx
+\ref ZOH001R036 999-145
+\_no 01127
+\tx 7@m jomotpa
+\mb 7@m jo -mot
+-ра
+\sg1 2E EN - revolver-INC
+\egl 2E
+INTO-stir
+\zoq 7@m jomotpa.
+\fts Lo revuelves.
+\fte You stir it.
+\com
+\idx
+-INC
+\ref ZOH001R036 999-146
+\_no 01128
+\tx GSM: 7@m jomotpa
+\mb GSM 7@m jo -mot
+\sg1 GSM: 2E EN
+\eg1 GSM: 2E
+-revolver-INC
+INTO-stir
+\zoq GSM: 7@m jomotpa.
+\fts GSM: Lo revuelves.
+\fte GSM: You stir it.
+\com
+\idx
+\ref ZOH001R036 999-147
+\_no 01129
+-pa
+- INC
+\tx
+OSM: pa ke pitz@mpa gad@ jukut@k jonhjo
+\mb OSM para ke
+pitz@m-pa ka -da jukut@k jonh
+\sg1 OSM: para que
+salir -INC DCT3-DEM 1umbre
+\eg1 OSM: for that leave -INC DCT3-DEM fire
+\ref ZOH001R036 999-148
+\_no 01130
+\zoq OSM: Pa ke pitz@mpa gad@ jukut@k jonhjo.
+\fts OSM: Para que salga esa fiebre de adentro.
+\fte OSM: So that fever that is inside leaves.
+\com
+\idx
+\tx GSM: por 7ejemplo de
+\mb GSM por 7ejemplo te -7
+para poyputzi
+para poy
+Page 243
+-jo7
+adentro-LOC2
+inside -LOC2
+-putz
+-E7

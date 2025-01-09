@@ -1,0 +1,93 @@
+\egl work -nINC
+\zoq Nampa ke "Ya da yoxtam@, 7o sea mix ya 7@m yox@.
+\fts Dice que "No vamos a trabajar, o sea tu no vas a trabajar.
+\fte she says that "we're not working, or rather you're not going to work.
+\com
+\idx
+\ref ZOH001R055 102
+\_no 00103
+\tx_d@xja*7 bi da yoxtampa
+da yox
+\mb d@x -jaa7 bi
+\sg1 1Prn-NPL2 DEF 1A
+\egl 1Prn-NPL2 DEF 1A work
+\tx yanhke d@kka
+yanhke7 d@kkay
+\mb
+\sgl gringo NPL
+\eg1 yankee NPL
+\ref ZOH001R055 103
+\_no 00104
+\tx para ke m yox 7okmanhpa
+\mb
+para ke 7@m yox
+\sg1 para que 2E
+\egl for that 2E work
+\zoq D@xja*7 bi d@ yoxtampa 7axta ke minpa jemji bi yanhked@kka,
+\fts Nosotros vamos a trabajar hasta que vengan todos los gringos,
+\fte we are going to work until all the gringos get here,
+\com
+\idx
+\ref ZOH001R055 104
+\_no 00105
+\tx bweno
+\mb bweno
+\sgl bueno
+\egl good
+\zoq para kem yoxokmanhpa mix."
+\fts para que empiezes a trabajar tu."
+\fte so that you begin to work.
+\com
+\idx
+\zoq "Bweno.
+\fts "Bueno.'
+"I
+\fte "OK.
+\com
+\idx
+"I
+7axta ke
+-tam -pa 7axta ke
+trabajar-1/2PL-INC hasta que venir-INC todo
+-1/2PL-INC until that come -INC all
+"I
+\ref ZOH001R055 105
+\_no 00106
+yox
+ZOH001R0551001.txt
+mix
+-7okmanh-pa mix
+trabajar-empezar-INC 2Prn
+-begin -INC 2Prn
+\tx ti
+naxe
+7axta ke
+7axta ke
+\mb ti
+naxe
+\sgl que verdad hasta que
+\egl what truth until that
+"I
+\tx yox7okmanhnh@
+jerma*n
+\mb
+-7okmanh-w@ jerma*n
+\sg] trabajar-empezar-COM Germa*n
+-begin -COM Germa*n
+\egl work
+minpa
+jemji bi
+min -pa
+-pa jemji7 bi
+DEF
+DEF
+ye7tztz@ bi yanhke d@kka para
+ye7tz -w@ bi
+bi yanhke7 d@kkay para
+llegar-COM DEF gringo
+arrive-COM DEF yankee
+Page 24
+NPL
+NPL
+para
+for

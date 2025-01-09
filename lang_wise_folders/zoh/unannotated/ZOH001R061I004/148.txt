@@ -1,0 +1,62 @@
+\ETL
+\ROOT t@7px
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex wat.e7
+\_no 00371
+\LG MIG
+\PHO [wate7]
+\UND wat. E7
+\MB amarrar, NOM7
+\VAR
+\GRAM pcp
+\SPG amarrado
+\ENG tied
+\EXU wakax wat.e7
+\XPSH [wakax wate*7]
+\XSP ganado amarrado
+\XEN tied-up cow
+\SYN
+\ROOT wat
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex wat-pak.e
+\_no 00372
+\LG MIG
+\PSH [watpake]
+\UND wat-pak. E
+\MB amarrar, apretarse, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG amarrado bie*n fuerte
+\ENG to tie very securely
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 wat
+\RTGR 1 P (T3)
+\ROOT 2 pak
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex wax.e7
+\_no 00373
+\LG MIG
+\PHO [waxe7]
+\UND wax.E7
+\MB morder, NOM7
+\VAR
+\GRAM pcp
+ZOH001R0611004.txt
+Page 148

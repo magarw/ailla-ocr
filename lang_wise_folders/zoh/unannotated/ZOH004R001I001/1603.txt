@@ -1,0 +1,63 @@
+\XSP
+\XEN
+\SYN win=pu7tz.pu7tz
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH: [7] should be impossible
+\CMTS HAJ:96, can't hear it. doesn't sound exactly like pu7tz@,
+\CMTS but can't get a long /u/ either: HAJ; fixed it: TK
+\date 26/Jun/96
+\lex win-ten-tuk
+\_no 03732
+\LG MIG
+\PSH [wintentuk-]
+\UND win-ten=tuk
+\MB CARA, pararse, terminarse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG atravesar de carrera
+\ENG to cross the road
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 ten
+\RTGR 1 11
+\ROOT 2 tuk
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex wintu7
+\_no 03733
+\LG MIG
+\PSH
+\UND wintu7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG pescuezo
+\ENG neck
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 13/Nov/94
+Page 1603

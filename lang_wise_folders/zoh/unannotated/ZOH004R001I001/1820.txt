@@ -1,0 +1,63 @@
+ZOH004R0011001.txt
+\ENG to pick or lift something up with the scooper of the appropriate
+kind
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jepx
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+\lex yuk.je7p
+\_no 04237
+\LG MIG
+\PSH [yukje7p-]
+\UND yuk.je7p
+\MB ARR, pescar_con_manta
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 levantar pescando (con manta)
+\SPG 2 empezar a pezcar
+\ENG 1 to lift something out of the water with your fishing cloth
+\ENG 2 to start to fish with a cloth
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT je7p
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+\lex yuk.jetz
+\_no 04238
+\LG MIG
+\PSH [yukjetz-]
+\UND yuk.jetz
+\MB ARR, rascar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG levantar algo en la mano
+\ENG to scoop up something with the hand
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+Page 1820

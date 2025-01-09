@@ -1,0 +1,63 @@
+\XEN 4 Now the shroud is on.
+\EXU 5 pit.7@m-w@+'am 7@y+ juk. E
+\XPSH 5 [Pitt@mm@*m 7ay juki.]
+\XSP 5 Ya enrollo* su cigarro.
+\XEN 5 Now his cigar is rolled.
+\SYN
+\SEMF arrange
+\ASP activity
+\ARG
+\NOM pit.i7, pit.kuy7
+\SUB ko.pit, k@.pit-witu'
+\ETYM
+\ETL
+\ROOT pit
+\RTGR T3
+\KEY vr
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex pi7t [1]
+\_no 00136
+\LG MIG
+\PSH
+\UND pi7t
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG trenzar
+\ENG to braid
+\SPL pi7t.7oy
+\SLGR ANTIP
+\SLGL trenzar // to braid
+\SPL pi7t.7@m
+\SLGR PASS
+\SLGL estar trenzada // to be braided
+\SPL pi7t.ney
+\SLGR ASSUM1
+ZOH001R0611006.txt
+\SLGL estar trenzada // to be braided
+\SPL pi7t.ten
+\SLGR PRSV
+\SLGL tener trenzada // to have braided
+\EXU 1 way=pi7t-w@
+\XPSH 1 [waypi7tt@.]
+\XSP 1 Trenzo* el cabello.
+\XEN 1 She braided her hair.
+\EXU 2 7@y+ pi7t.ten-e 7@y+ way7
+\XPSH 2 [7@y pi7tteney way7.]
+\XSP 2 Tiene trenzado su cabello.
+\XPSH 2 She's got her hair braided.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT pi7t
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+Page 93

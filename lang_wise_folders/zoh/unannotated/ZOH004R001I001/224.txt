@@ -1,0 +1,65 @@
+VAR 7uux weni7
+\GRAM sms
+\SCI
+\USE
+\SPG colmena
+ENG mud dauber's nests
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex 7uy
+\_no 00522
+\LG MIG
+\PSH
+\UND 7uy
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG doblar
+\ENG to bend
+\EXU 1 ney 7iw@ 7@y+ 7uy-w@ y@7 t@nh.kuy7
+\XPSH 1 [Ney 7iw@y 7uyya y@7 t@nhkuy.]
+\XSP 1 Alguien doblo* ese fierro.
+\XEN 1 Someone bent this bar.
+\EXU 2 7uy.7oy-pa 7@y+ n@k-w@
+\XPSH_2 [7uyyobay nakk@.]
+\XSP 2 Fue* doblando.
+\XEN 2 He went along bending things.
+\EXU 3 7uy.7@m-w@ bi
+kuy 7anhkax porke jakke t@m
+\XPSH 3 [7uyy@mm@ bi kuy7anhkax porke jakke t@m.]
+\XSP 3 se doblo* las ramas porque tiene mucha fruta.
+\XEN 3 The branches bent over because they had a lot of fruit.
+\SYN
+\SEMF arrange
+\ASP achievement
+\ARG
+ZOH004R0011001.txt
+\NOM 7uy.naanh, t@nh.kuy7=7uy. 'oy.kuy7
+\SUB
+\ETYM
+\ETL
+\ROOT 7uy
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS see /k@y.a-wa/
+\CMTS puede ser un fierro, una mata para que echa mas ramas,
+\SPL 7uy.7oy
+\SLGR ANTIP
+\SLGL doblar // to bend
+\SPL 7uy.7@m
+\SLGR PASS
+\SLGL doblarse // to get bent
+\SPL 7uy.ney
+\SLGR ASSUM1
+Page 224

@@ -1,0 +1,39 @@
+HASTAN
+TOLVAIN
+CHAPTER II
+MORPHOLOGY
+PADAN DANI
+Canonical Shapes and Morphophonemics
+Morpheme Shapes
+Roots and affixes in Chuj have different but partially
+overlapping sets of canonical forms. Roots are monosyllabic
+or longer; the longest native roots are trisyllabic, but loan
+forms from Spanish may be longer. Affixes are monosyllabic or
+shorter; the shortest are single consonants.
+Root Shapes
+The majority of Chuj roots are monosyllabic roots of the
+1
+shape CVC.
+Native roots of the shapes CV(C)CVC, CV₁xV₁C, and
+X
+Previous citation of forms has been made in phonemic
+transcription enclosed in single slashes. Citation of roots,
+stems, and affixes, in the discussion of morphology and syntax,
+is often made in a morphophonemic transcription enclosed in
+double slashes: //šúš //. Each morph is presented in its as-
+sumed base shape--a series of morphophonemes which underlie its
+possible phonemic representations. The phonemic representa-
+tions of a form in given contexts may be predicted from this
+shape (see page 60 and following pages). In the morphophonemic
+transcriptions, roots and derivational or inflectional affixes
+are joined by hyphens, while phrases are separated by single
+spaces. The symbols C and V represent any consonantal morpho-
+phoneme or any vocalic morphophoneme, respectively, in a man-
+ner analogous to the use of these symbols in phonetic and pho-
+nemic transcriptions. General formulae which represent a num-
+ber of roots or a number of possible root shapes, rather than
+a single attested root, are written without slashes: CVC, CiC,
+CV?VC. Consonantal or vocalic morphophonemes which must be re-
+presented by the same phoneme are given the same numerical sub-
+script: CV1²V1C.
+48

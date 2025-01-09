@@ -1,0 +1,62 @@
+\ETL
+\ROOT wit
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 15/Oct/94
+\lex wit-nutz.tz@
+\_no 03753
+\LG MIG
+\PSH [witnutztz@-]
+\UND wit-nutz.tz@
+\MB caminar, estar_caliente, X
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG caminar sudando
+\ENG to walk sweaty
+\EXU d@+ wit-nutz.tz@-wa
+\XPSH [D@ witnutztz@w@.]
+\XSP Camine* sudando.
+\XEN I walked sweating.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wit
+\RTGR 11
+\ROOT nutz.tz@
+\RTGR 12
+\DSRC HAJ02
+\CMTS possibly a resultative reading: I walked myself sweaty.
+\DATE 14/Aug/02
+\lex wit-pitz@m
+\_no 03754
+\LG MIG
+\PSH [witpitz@m-]
+\UND wit-pitz@m
+\MB andar, salir
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG salir a pasear
+\ENG to go out for a walk
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 wit
+\RTGR 1 11
+\ROOT 2 pitz@m
+\RTGR 2 Ix
+\DSRC HAJ94
+\CMTS
+\date 21/Oct/94
+\lex wit-potz
+Page 1612

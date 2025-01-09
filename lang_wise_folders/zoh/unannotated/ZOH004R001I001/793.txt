@@ -1,0 +1,64 @@
+\EXU ta7kxi7 mako7
+\XSP cucaracha lisa
+\EXU kuy+jo7+k ta7kxi7 mako7
+\XSP cucaracha lisa de monte
+\EXU y@k mako7
+\XSP cucaracha negra
+\EXU y@k mako' kuy+jo7+k
+\XPSH [y@k mako kuyjo7k]
+\XSP cucaracha negra de mon
+\EXU chik y@k mako' kuy+jo7+k
+\XPSH [chik y@k mako kuyjo7k]
+\XSP cucarachita negra de monte
+\EXU chik pu7tzpu7tz m. kuy+jo7+k
+\XSP cucarachita amarilla de monte
+\EXU_n@'=mako7
+\XSP cucaracha de ri*o
+\EXU kuy+jo7+k kom (o)=mako' d@k+7a 7i chik mako7
+\XSP cucaracha grande de monte y cucarachitas (de monte)
+\EXU pu7tzpu7tz mako7
+\XSP cucaracha amarilla
+\SYN
+LF: bugs
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex mako' ta7kxi7
+\_no 01836
+\LG MIG
+\PSH
+\UND mako7 ta7kxi7
+\MB cucaracha, liso
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG cucaracha lisa
+\ENG a type of cockroach
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+ZOH004R0011001.txt
+\lex mako' xaj. '@y-wa+@7k
+\_no 01837
+\LG MIG
+\PSH [mako xajj@yy@*7k]
+\UND mako7 xaj.7@y-w@ +P@7k
+\MB cucaracha, brazo, VERS2, COM, REL
+\VAR
+\GRAM
+\SCI
+\USE
+Page 793

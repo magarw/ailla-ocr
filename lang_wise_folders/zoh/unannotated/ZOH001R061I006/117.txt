@@ -1,0 +1,65 @@
+\EXU 1 7@y+ win.jonh-w@ 7@y+ tzanh-w@
+\XPSH 1 [7@y winjonhnh@y tzanhnh@.]
+\XSP 1 Le pego* por delante.
+\XEN 1 He hit him in front.
+\EXU 2 7an(e)=tzanh-xuk-pa
+\XPSH 2 [7anetzanhxukpa.]
+\XSP 2 Esta*n torteando (como en una ayuda).
+\ENG 2 They're making tortillas (like at a big party).
+\EXU 3 7@y+ tzanh.ten-w@ bi 7an.e
+\XPSH 3 [7@y tzanhtenn@ bi 7ane.]
+ZOH001R0611006.txt
+\XSP 3 Tiene la tortilla en la mano (nada mas).
+\XEN 3 She has the tortilla in her hand (not doing anything).
+\SYN
+\SEMF hit
+\ASP achievement
+\ARG agent, patient
+\NOM tzanh.kuy7,
+\SUB 7an@k.tzanh.7@y, k@.tzanh-kap, tzanh-tuk.tuk.w@y, tzanh=wanh-ka'
+\ETYM
+\ETL
+\ROOT tzanh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex tzatz
+\_no 00173
+\LG MIG
+\PSH
+\UND tzatz
+tzanh.naanh, tzaw.e7
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG rajar (como papel)
+\ENG to tear in strips (like paper)
+\SPL tzatz.7oy
+\SLGR ANTIP
+\SLGL_estar_rompiendo // to be torn
+\SPL tzatz.7@m
+\SLGR PASS
+\SLGL rajarse, romperse // to_be_stripped, to be torn
+\EXU 1 xanh-tzatz-w@ patanux 7ay7
+\XPSH 1 [Xanhtzatztz@ patanux 7ay7.]
+\XSP 1 El aire rompio* la hoja de pla*tano.
+\XEN 1 The wind tore the banana leaves.
+\EXU 2 tzatz. '@m-w@ 7@n+ naka
+\ETYM
+\ETL
+\ROOT tzatz
+\RTGR T3
+\DSRC TK94
+\XPSH 2 [Tzatztz@mm@n naka.]
+\XSP 2 se rompio* el cuero (como por una espina).
+\XEN 2 My skin tore (like on a thorn).
+\SYN
+\SEMF break
+\ASP achievement
+\ARG
+\NOM tzatz.e7, tzatz.neenh
+\SUB_tzatz=tuk. tuk.w@y
+Page 117

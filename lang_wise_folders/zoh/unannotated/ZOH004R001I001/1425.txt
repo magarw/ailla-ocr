@@ -1,0 +1,62 @@
+\CMTS the final syllable
+\CMTS CK-all - HAJ:96, stress is on final syllable; fixed: TK
+\date 26/Jun/96
+\lex tze7.e
+\_no 03315
+\LG MIG
+\PSH [tze7e]
+\UND tze7.E
+\MB lavar, NOM7
+\VAR
+\GRAM pcp:ya
+\SCI
+\USE
+\SPG esta* lavado
+\ENG something washed
+\EXU tze7.E+7am
+\XPSH [Tze7e*am.]
+\XSP Ya esta* lavado.
+\XEN Now it's washed.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tze7
+\RTGR T3
+\DSRC HAJ94
+\CMTS fixed: TK
+\date 03/Jan/80
+\lex tzeja7
+\_no 03316
+\LG MIG
+\PSH
+\UND tzeja7
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG ralo; delgado; cosa delgada, como ropa, papel, etc.
+\ENG thin; a thin thing, like cloth or paper, etc.
+\EXU tzeja' nay-w@
+\XPSH [Tzeja nayy@.]
+\XSP Nacio* ralo.
+\XEN She was born thin.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+ZOH004R0011001.txt
+\lex tzeja'.7aH
+\_no 03317
+\LG MIG
+\PSH [tzeja7a-]
+\UND tzeja7.7aH
+\MB delgado, VERS1
+\VAR
+\GRAM versl
+Page 1425

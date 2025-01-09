@@ -1,0 +1,62 @@
+\ROOT k@nh
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-GR, CK-PH ok/OK: TK
+\date 26/Jun/96
+\lex way'-k@w.i7
+\_no 03618
+\LG MIG
+\PSH [wayk@wi7]
+\UND way7=k@nh.E7
+\MB pelo, pintar, NOM7
+\VAR
+\GRAM a:sq (BA-ed)
+\SCI
+\USE
+\SPG canas; canosa
+\ENG gray-hair; gray-haired
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT k@nh
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 11/Feb/96
+\lex way'=pi7t
+\_no 03619
+\LG MIG
+\PSH [waypi7t-]
+\UND way7=pi7t
+\MB pelo, trenzar
+\VAR
+\GRAM vt:incorp
+\SCI
+\USE
+\SPG trenzar el pelo
+\ENG to braid hair
+\EXU d@+ way'=pi7t-pa listonh +j@nanh
+\XPSH [D@ wảypi7tpa' listonhj@nanh.]
+\XSP voy a trenzar mi cabello con listones.
+\XEN I'm going to braid my hair with ribbons.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pi7t
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\DATE 09/Aug/02
+\lex way'=pi7t.kuy7
+\_no 03620
+ZOH004R0011001.txt
+\LG MIG
+\PSH [waypi7tkuy7]
+\UND way7=pi7t.kuy7
+Page 1555

@@ -1,0 +1,63 @@
+\_no 01189
+\LG MIG
+\PSH
+\UND kape pama
+\MB carrizo, cama
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG cama de carrizo
+\ENG bed of stout twigs
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Aug/94
+\lex kap.kuy7
+\_no 01190
+\LG MIG
+\PSH [kapkuy7]
+\UND kap.kuy7
+\MB cargar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG hombro
+\ENG shoulder
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT kap
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 17/Jul/95
+\lex kap.ney
+\_no 01191
+\LG MIG
+\PSH [kapney-]
+\UND kap.ney
+\MB X, ASSUM1
+\VAR
+\GRAM assum1
+\SCI
+\USE
+\DLG
+\SPG estar durmiendo
+\ENG to be sleeping
+ZOH004R0011001.txt
+Page 518

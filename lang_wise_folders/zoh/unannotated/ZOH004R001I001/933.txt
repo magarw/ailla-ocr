@@ -1,0 +1,63 @@
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH - HAJ:96, audible /w/; YES: TK
+\date 25/Jun/96
+\lex nax tzajin
+\_no 02164
+\LG MIG
+\PSH
+\UND nax tzajin
+\MB tierra, culebra
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG culebra o vi*bora chapilla
+\ENG a type of snake
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex nax wowo
+\_no 02165
+\LG MIG
+LF:tzajin
+\PSH
+\UND nax wowo
+\MB tierra, hoyo
+\VAR
+\GRAM s(m)s
+\SCI
+\USE
+\SPG 1 sepulcro; la fosa
+\SPG 2 hueco en la tierra
+\ENG 1 grave
+\ENG 2 a hole in the ground
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Nov/94
+\lex nax wowo jon
+\_no 02166
+LG MIG
+ZOH004R0011001.txt
+\PSH
+\UND nax wowo jon
+\MB tierra, hoyo, pa*jaro
+\VAR
+Page 933

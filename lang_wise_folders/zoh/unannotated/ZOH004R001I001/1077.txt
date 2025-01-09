@@ -1,0 +1,62 @@
+\date 08/Feb/96
+\lex paja7k+p@7
+\_no 02500
+\LG MIG
+\PSH [paja7kp@7]
+\UND paja7k +p@7
+\MB dulce, NOM5
+\VAR
+\GRAM a+R
+\SCI
+\USE
+\SPG dulce
+\ENG sweet
+\EXU
+\XSP
+\XEN
+\SYN paja7k
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 27/Jan/96
+\lex paja7k=tuk
+\_no 02501
+\LG MIG
+\PSH [paja7ktuk-]
+\UND paja7k-tuk
+\MB dulce, terminarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG endulzarse
+\ENG to become sweet
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tuk
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 12/Nov/94
+\lex paja7k=tz@k
+\_no 02502
+\LG MIG
+\PSH [paja7ktz@k-]
+\UND paja7k=tz@k
+\MB dulce, HACER
+\VAR
+\GRAM vt:incorp
+\SCI
+\USE
+\SPG endulzar
+\ENG to sweeten
+ZOH004R0011001.txt
+Page 1077

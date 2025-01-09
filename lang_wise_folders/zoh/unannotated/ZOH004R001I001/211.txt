@@ -1,0 +1,62 @@
+\lex 7ukum tzokoy7
+\_no 00491
+\LG MIG
+\PSH
+\UND 7ukum tzokoy7
+\MB calabaza, corazo*n
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG por dentro de la calabaza
+\ENG the inside of a squash
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Jun/95
+\lex 7uk-xuk-pa+a7k
+\_no 00492
+\LG MIG
+\PSH [7ukxukpa*7k]
+\UND 7uk-xuk-pa +P@7k
+\MB tomar, 3PL, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG los que esta*n tomando
+\ENG those who are drinking
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 7uk
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex 7uk. (i)=jey
+\_no 00493
+\LG MIG
+\PSH [7ukijey-]
+\UND 7uk. E-jey
+\MB tomar, NOM7, batir
+\VAR 7uuk-jey
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG batir pozol
+\ENG to beat pozole
+\EXU
+ZOH004R0011001.txt
+Page 211

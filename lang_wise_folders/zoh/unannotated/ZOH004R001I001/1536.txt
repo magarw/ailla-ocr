@@ -1,0 +1,64 @@
+\EXU 1 wanhka'-w@ bi moko.e7 7@y+ tz@n-w@+ji7
+\XPSH 1 [wanhkaw@ bi
+mokoe 7@y tz@nn@ji7.]
+\XSP 1 Se voltio* el borracho en donde estaba sentado.
+\XEN 1 The drunk fell over where he was sitting.
+\EXU 2 wanhka'.ney-w@ p@n
+\XPSH 2 [wanhkaneyy@ p@n.]
+\XSP 2 Esta* volteado el hombre.
+\XEN 2 The man is turned upside-down.
+\EXU 3 d@ wanhka'-w@
+\XPSH 3 [D@ wanhkaw@.]
+\XSP 3 Me volti*.
+\XEN 3 I flipped over.
+\SYN
+\SEMF move
+\ASP transition
+\ARG
+\NOM
+\SUB 7ok.wanhka'.7@y
+\ETYM
+\ETL
+\ROOT wanhka7
+\RTGR P (11)
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex warda=tz@k
+\_no 03573
+\LG MIG
+\PSH [wardatz@k-]
+\UND warda=tz@k
+\MB guardar, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG guardar
+\ENG to keep; to take care of
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ETYM guardar
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 09/Jul/95
+ZOH004R0011001.txt
+\lex wat
+\_no 03574
+\LG MIG
+\PSH
+\UND wat
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 amarrar
+\SPG 2 ganar
+Page 1536

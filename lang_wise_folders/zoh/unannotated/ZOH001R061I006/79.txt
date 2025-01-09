@@ -1,0 +1,64 @@
+\ROOT wi7t
+\RTGR T2
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex nonh
+\_no 00116
+\LG MIG
+\PSH
+\UND nonh
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG apretar cosa blandita
+\ENG to spring back into shape, like a ball or a tit
+\SPL yak.nonh
+\SLGR CAUS
+\SLGL apachurrar
+\SLGR NO ANTIP
+\SPL nonh.7@m
+\SLGR PASS
+\SLGL estar apachurrado // to be dented
+\SPL nonh.ney
+\SLGR ASSUM1
+\SLGL estar apachurrado // to be dented
+\EXU 1 7@y+ yak.nonh.pu-w@
+\XPSH 1 [7@y yaknonhpuw@.]
+\XSP 1 Lo compuso; lo desapachurro*.
+\XEN 1 It sprang back into shape.
+\EXU 2 nonh-wa bi
+kaj@t@nh
+\XPSH 2 [Nonhnh@ bi k@j@t@nh.]
+\XSP 2 Esta* apachado la almohada.
+\XEN 2 The pillow is dented.
+\EXU 3 7@n+ nonh-w@ bi kaj@t@nh
+\XPSH 3 [7@n nonhnh@ bị k j@t@nh.]
+\XSP 3 Apachurre* la almohada.
+\XEN 3 I dented the pillow.
+\SYN
+\SEMF arrange
+\ASP achievement
+\ARG
+\NOM nonh-w@+@7, nonh.naanh
+\SUB tz@n=nonh, pen=nonh
+\ETYM
+\ETL
+\ROOT nonh
+\RTGR P (T2)
+\DSRC TK94
+ZOH001R0611006.txt
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex no7tz
+\_no 00117
+\LG MIG
+\PSH
+\UND no7tz
+\MB
+\VAR
+\GRAM vt
+Page 79

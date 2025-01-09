@@ -1,0 +1,62 @@
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {7@n+}
+\_no 04399
+\LG MIG
+\PSH
+\UND 7@n+
+\MB 1E
+\VAR
+\USE first person ergative proclitic agreement marker. subject of
+transitive verb; possessor of noun
+\GRAM pron
+\SCI
+\SPG yo
+ENG I
+\SPL
+\SLGR
+\EXU 1 de.y 7@n+ k@.nakx=tuk-tam-pa
+\XPSH 1 [Den k@nakxtuktampa.]
+\XSP 1 Acabamos de rozar (el rastrojo).
+\XEN 1 Now we finish clearing (the field).
+\EXU 2 7@n+ m@7
+\XPSH 2 [7@n_m@7]
+\XSP 2 mi esposa
+\XEN 2 my wife
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+\lex {7@y-ti7}
+\_no 04400
+\LG MIG
+\PSH [7@yti7]
+\UND 7@y-ti7
+\MB 3POSN
+ZOH004R0011001.txt
+\VAR
+\USE third person possessive noun
+\GRAM S
+\SPG de e*l/ella/ellos/ellas
+\ENG theirs
+\SPL
+\SLGR
+\EXU de.y d@+ n@k.ke7t-pa bi xoj naka 7@y-ti7
+\XPSH [Dey d@ n@kke7tpa bi xoj naka 7@yti7.]
+\XSP Ahora voy otra vez para la ca*scara del encino.
+\XEN NOW I'm going again for the bark of the encino tree.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date 03/Jan/80
+Page 1889

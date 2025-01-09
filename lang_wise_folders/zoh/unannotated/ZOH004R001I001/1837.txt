@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT konh
+\RTGR P (11)
+\DSRC HAJ94
+\CMTS caus
+\date 17/Jun/95
+\lex yuk.kuj
+\_no 04276
+\LG MIG
+\PSH [yukkuj-]
+\UND yuk.kuj
+\MB ARR, empujar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG levantar empujando,
+\ENG to lift something by pushing it
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kuj
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex yuk. kunh
+\_no 04277
+\LG MIG
+\PSH [yukkunh-]
+\UND yuk. kunh
+\MB ARR, colgar
+\VAR
+GRAM vt
+\SCI
+\USE
+\SPG colgar
+\ENG to hang
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT kunh
+\RTGR P (T3)
+\DSRC HAJ95
+ZOH004R0011001.txt
+\CMTS
+\date 18/Jul/95
+\lex yuk.k@nh [1]
+Page 1837

@@ -1,0 +1,63 @@
+\lex xix=jax.e7
+\_no 00420
+\LG MIG
+\PSH [xixjaxe7]
+\UND xix=jax. E7
+\MB carne, asar, NOM7
+\VAR
+\GRAM nom:incorp
+\SCI
+\USE
+\SPG carne asada
+\ENG roasted meat
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jax
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex xix-po.e7
+\_no 00421
+\LG MIG
+\PSH [xixpoe7]; _[xix-powe*7]
+\UND xix-ponh. E7
+\MB carne, quemar, NOM7
+\VAR powe7k xix
+\GRAM S
+\SPG carne horneada
+\ENG roasted meat
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT ponh
+\RTGR T3
+\DSRC HAJ95
+\CMTS fixed: TK
+\date 26/Jun/96
+\lex xi'-muy. E
+\_no 00422
+\LG MIG
+\PSH [ximui]
+\UND x17=muy. E
+\MB cadera, tomar_en_boca, NOM7
+\VAR
+\GRAM smsv
+ZOH001R0611004.txt
+\SCI
+\USE
+\SPG una persona seca
+\ENG a person with a skinny old butt
+\EXU
+\XSP
+\XEN
+\SYN xi'-t@tz.i
+\SEMF
+\ETYM
+Page 167

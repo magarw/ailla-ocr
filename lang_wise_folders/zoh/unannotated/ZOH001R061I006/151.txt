@@ -1,0 +1,63 @@
+\SYN
+\SEMF eat
+\ASP process
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT xo7px
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex xotz
+\_no 00224
+\LG MIG
+\PSH
+\UND xotz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG amarrar
+\ENG to tie
+\SPL xotz.7oy
+\SLGR ANTIP
+\SLGL amarrar // to tie
+\SPL xotz.7@m
+\SLGR PASS
+\SLGL amarrarse // to be tied
+\SPL xotz.ney
+\SLGR ASSUM1
+\SLGL estar amarrado // to be tied
+\SPL xotz.ten
+\SLGR PRSV
+\SLGL tener amarrado // to have something tied
+\EXU 1 xotz. E+ 'am
+\XPSH 1 [Xotzeam.]
+\XSP 1 Ya esta amarrado.
+\XEN 1 Now it's tied.
+\EXU 2 7@n+ xotz-pa 7@n+ Taxu
+\XPSH 2 [7@n xotzpan laxu.]
+\XSP 2 Empate* mi mecate.
+\XEN 2 I tied my rope together.
+\SYN wat
+\SEMF arrange
+\ASP transition
+ZOH001R0611006.txt
+\ARG
+\NOM xotz.e7, xotz.naanh
+\SUB ni.xotz=tzonh, xotz=pak, xotz='anh.tzonh, xotz=tzonh
+\ETYM
+\ETL
+\ROOT xotz
+\RTGR P (T3)
+\DSRC TK94
+\CMTS empatar un mecate, no ganado
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex xox
+\_no 00225
+Page 151

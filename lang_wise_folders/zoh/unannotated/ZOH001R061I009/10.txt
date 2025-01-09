@@ -1,0 +1,61 @@
+\SEMF move
+\PASS jup.7@m jalarse
+\ANTI jup. 7oy jalar
+\ASSU jup.ney tirarse alguien en el suelo o la cama
+\PRSV jup.ten 'tener agarrado'
+\lex ju7t
+\_no 00034
+\SPG remover
+\ENG to stir
+\EX 7@y ju7tt@ bi 7uki
+\XSP movio* el atole
+\XEN she stirred the atole
+\ROOT ju7t T3
+\SEMF cook, move
+\PASS NONE ju7t.7@m
+\ANTI ju7t.7oy
+\CMTS
+\lex ju7tz
+\_no 00035
+\SPG apun~alar; flechar; encajar
+\ENG to stab; to shoot with an arrow
+\EX por 7eya* yakju7tztz@ y win
+\XSP se apun~alo por otro
+\XEN he stabbed himself for someone else
+\ROOT ju7tz T3
+\SEMF hit, instr
+\PASS ju7tz.7@m
+\ANTI ju7tz.7oy
+\CMTS no ma*s que una punalada
+\lex jux
+\_no 00036
+\SPG asar
+\ENG to roast
+\EX 7ay juxx@
+\XSP aso* hoja
+\XEN roasted leaf
+ZOH001R0611009.txt
+\EX patanux 7ay 7@y_juxx@
+\XSP aso* hoja de pla*tano (para tamal)
+\XEN she roasted banana leaf (for tamales)
+\ROOT jux T3
+\SEMF Cook
+\PASS NONE (dice que aso* su mismo)
+\ANTI jux. 7oy asar
+\PRSV jux=ten lo tiene asado
+\CMTS think this is for vegetable matter
+\CMTS jax- is meat or tortillas
+\lex juy
+\_no 00037
+\SPG comprar
+\ENG to buy
+\EX 7@n juyy@ paja7k wayay n@7
+\XSP compre* un refresco
+\XEN I bought a soda
+\EX da juyyoyy@
+\XSP compre*
+\XEN I shopped
+\EX tijja n juyyoe7
+\XSP fui* a comprar
+\XEN I went shopping
+Page 10

@@ -1,0 +1,94 @@
+\sgl 1Abs ropa
+romper-PASS-COM 1Erg remendar-COM
+\egl 1Abs clothes tear -PASS-COM 1Erg mend
+\fts ? se rompio* la ropa, lo remendi*
+\fte ? the clothes were torn, I mended them
+\com surely that d@ isn't right
+\idx
+\ref 012
+\_no 00012
+\tx
+7@n komm@
+\mb 7@n kom
+\sg] 1Erg remendar-COM DET ropa
+\egl 1Erg mend
+\ref 013
+\_no 00013
+\fts remendi* ropa que se rompio*
+\fte I mended clothes that had torn
+\com
+\idx
+\ref 014
+\_no 00014
+bi yote
+-w@ bi yote7
+\tx ga
+\mb ka -7
+ZOH001R0611001.txt
+\fts costuro camisas de mi marido
+\fte I sew shirts of my husband
+\com
+\idx incorp
+\tx d@ y@kwij t@ppa
+\mb da y@kwij t@p
+\sgl 1Abs camisa costurar-INC 1Erg esposo
+\egl 1Abs shirt sew
+-COM DET clothes tear -PASS-COM-REL1
+\ref 016
+\_no 00016
+w@t
+7@n jaya
+-ра 7@n jaya
+\tx ga
+\mb ka -7
+w@tt@mm@*7
+-7@m -w@ -v7k
+romper-PASS-COM-REL1
+t@m 7@wi
+t@m 7@nh -E7
+-INC 1Erg husband 3POSSn
+yukpinhnh@
+y
+mini
+yuk-pinh -w@ 7@y min -E
+\sg1 DCT3-NOM1 fruta caerse-NOM7 UP -recoger-COM 3Erg venir-dcom
+\eg1 DCT3-NOM1 fruit fall -NOM7 UP -pick -COM 3Erg come -dCOM
+\fts ella vino recogiendo frutas caidas
+\fte she came picking up fallen fruit
+\com
+\idx aux
+\fts vine recogiendo frutas caidas
+\fte I came picking up fallen fruit
+\com
+\idx aux
+t@m
+yuk-pinh
+t@m
+yukpinhnh@
+\ref 015
+\_no 00015
+\tx
+7@nhnh@*7
+7@n yukpinhnh@
+y
+mini
+-E
+t@m
+\mb t@m 7@nh -w@ -v7k 7@n yuk-pinh -wa 7@y min
+\sg1 fruta caerse-COM-REL1 1Erg UP -recoger-COM 3Erg venir-dcom
+\egl fruit fall -COM-REL1 1Erg UP -pick -COM 3Erg come -dCOM
+7@yti
+7@yti7
+3 POSSN
+-COM
+Yay
+-wa 7@y
+mini
+min -E
+7@nhnh@*7
+7@nh -w@ -v7k
+caerse-COM-REL1
+\sg1 DCT3-NOM1 fruta
+\eg1 DCT3-NOM1 fruit UP -pick -COM 3Erg come -dCOM fall -COM-REL1
+UP -recoger-COM 3Erg venir-dCOM
+Page 3

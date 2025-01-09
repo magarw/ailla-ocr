@@ -1,0 +1,97 @@
+\ref ZOH001R036 582
+\_no 00573
+\tx tzokojo
+7@m witpa
+ban 7@m -sin
+\mb tzokoy7 -jo7 7am wit
+-pa
+bayun 7@m sin
+\sg1 corazo*n-LOC2 2E andar-INC mucho 2E sin
+\egl heart -LOC2 2E walk -INC a lot 2E
+\tx n@kpa
+\mb nak -pa
+\sg1 irse-INC
+tunhjo
+tunh -jo7 7@m yak
+camino-LoC2 2E
+\egl go -INC road -LOC2 2E INSTR2-step -SUF-INC
+\ref ZOH001R036 585
+\_no 00575
+\ref ZOH001R036 584
+\_no 00574
+\tx 7abes
+ney
+y@ji
+7el ke
+\mb 7abeses ney ya -ji7 7el ke
+\sg1 a_veces mismo DCT1-Loc1 e*1 que
+\egl sometimes self
+DCT1-LOC1 he that
+ZOH001R0361001.txt
+\zoq 7abes ney y@ji 7el ke korral7@yy@.
+\fts A veces aqui* e*l que tiene corral.
+\fte Sometimes here he who has a corral.
+\com
+\idx
+\zoq Tzokojo 7@m witpa ban 7@m sin k@ak 7abese n@kpa tunhjo 7@m
+y@kmanhnh@ba.
+fts Andas en el lodo sin huaraches a veces vamos en el camino lo pisamos.
+\fte You walk in the mud a lot you without shoes sometimes you go in the
+road, you're stepping in it.
+\com
+\idx
+\ref ZOH001R036 586
+\_no 00576
+7@m y@kmanhnh@ba
+-manh -7@y-pa
+INSTR2-pisar-SUF-INC
+\ref ZOH001R036 587
+\_no 00577
+7@m tz@kjaba
+\tx ti tzoy
+\mb ti
+tzoy
+7@m tz@k -jay -pa
+\sgl que saltar 2E hacer-APPL-INC
+\egl what jump 2E do -APPL-INC
+\zoq ti tzoy 7@m tz@kjaba?
+\fts que remedio le haces?
+\fte what medicine do you make?
+\com
+\idx
+\tx ti tzoy
+\mb ti
+7@m yumpa
+\tx GSM: por 7ejemplo para 7eya*7k toya
+\mb GSM por 7ejemplo para 7eya -v7k toy -A7
+\sg1 GSM: por ejemplo para otro -REL doler-NOM2 para palodismo
+\egl GSM: for example for other-REL hurt -NOM2 for malaria
+para waykay
+para waykay
+\zoq GSM: Por 7ejemplo, para 7eya*7k toya para waykay toya,
+\fts GSM: Por ejemplo, para otra enfermedad para paludismo,
+\fte GSM: For example, for another disease for malaria,
+\com
+\idx
+tzoy 7@m yum
+huarache a veces
+without huarache sometimes
+-ра
+k@ak
+k@ak
+korra17@yy@
+korral-7@y
+corral-VERS2-COM
+corra]-VERS2-COM
+70 m
+70 7@m xox
+Page 125
+хохра
+7abese
+7abeses
+-w@
+-pa
+toya
+toy -A7
+doler-NOM2
+hurt -NOM2

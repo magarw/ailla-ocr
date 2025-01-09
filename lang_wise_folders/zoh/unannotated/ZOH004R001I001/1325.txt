@@ -1,0 +1,64 @@
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex tuk [2]
+\_no 03078
+\LG MIG
+\PSH
+\UND tuk
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG terminarse; acabarse
+\ENG to come to an end; to be finished
+\SPL yak.tuk
+\SLGR CAUS
+\SLGL terminar; acabar // to end; to finish
+\EXU 1 tuk-w@+ 'am
+\XPSH 1 [tukka*m]
+\XSP 1 ya terminado, fin, terminacio*n
+\XEN 1 finished, the end
+\EXU 2 jak tuk-w@ de yom (V) 7une7
+\XPSH 2 [Jak tukk@ de yo:m 7une7.]
+\XSP 2 Muy bonita es esta muchacha.
+\XEN 2 This girl is very pretty.
+\EXU 3 jak tuk-w@ tuk-w@
+\XPSH 3 [Jak tukk@ tukk@.]
+ZOH004R0011001.txt
+\XSP 3 se hizo muy bonito.
+\XEN 3 It turned out very nicely.
+\EXU 4 jak tuk-w@ bi nax pa 7@m+ nip-pa
+\XPSH 4 [Jak tukk@ bi nax pa 7@m nippa.]
+\XSP 4 Esta* muy bonita la tierra para sembrar.
+\XEN 4 The ground is perfect for planting.
+\EXU 5 ya tuk-w@
+\XPSH 5 [Ya tukk@.]
+\XSP 5 No esta* bueno; no tiene sabor.
+\XEN 5 It isn't good; it doesn't have any flavor.
+\SYN
+\SEMF aspect
+\ASP achievement
+\ARG
+ko.jup='anh.tuk.'@y, kuk.jup-tuk, kuk.kap=tuk, kuk.p@k.tuk,
+\SUB pet-tuk, poy='ix-tuk, tz@k-tuk
+\NOM tuk.kuy7, win-jup-tuk.kuy7, win-ten-tuk, win=tzam=tuk
+\SUB_7ix=tuk,
+\ETYM
+\ETL
+\ROOT tuk
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\CMTS % tuk (2) 12
+\date 03/Jan/80
+\lex tuka7
+\_no 03079
+\LG MIG
+\PSH
+\UND tuka7
+\MB
+\VAR
+\GRAM S
+\SCI
+Page 1325

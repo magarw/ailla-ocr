@@ -1,0 +1,63 @@
+\XSP Limpio* milpa.
+\XEN He cleared the cornfield.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xanh
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\lex k@x.i7
+\_no 01768
+\LG MIG
+\PSH [k@xi7]
+\UND k@x. E7
+\MB comer, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG comida
+\ENG food
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT k@x
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex k@x.i' jepx-p@k. kuy7
+\_no 01769
+\LG MIG
+\PSH [k@xi jepxp@kkuy7]
+\UND k@x. E7 jepx-p@k. kuy7
+\MB comer, NOM7, agarrar_con_ji*cara, agarrar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG cuchara para comer
+\ENG a spoon for eating
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+\ETL
+\ROOT 1 k@x
+\RTGR 1 T3
+\ROOT 2 jepx
+\RTGR 2 P, (T3)
+\ROOT 3 pak
+Page 765

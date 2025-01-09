@@ -1,0 +1,64 @@
+XEN 2 She put the baby on the floor.
+\EXU 3 we7tz.ney-w@ bi jay(a) 7une7
+\XPSH 3 [we7tzneyy@ bi jay7une.]
+\XSP 3 El muchacho esta* sentado en el suelo.
+\XEN 3 The child is sitting on the floor.
+\EXU 4 d@ we7tz-w@ nax+jo7
+\XPSH 4 [D@ we7tztz@ naxjo7.]
+\XSP 4 Me arrastre* en el
+suelo.
+\XEN 4 I dragged myself on the ground.
+\SYN
+\SEMF move, arrange
+\ASP process
+\ARG
+\NOM we7tz.kuy7, we7tz.naanh
+\SUB
+\ETYM
+\ETL
+\ROOT we7tz
+\RTGR P (11)
+\DSRC HAJ94
+\CMTS lying on your back with legs akimbo, exhausted
+\CMTS contrasts this with pe7tz-, which means with both legs_ crossed.
+\CMTS this one means to drag yourself along with one leg pulled up,
+\CMTS pushing with one hand on the ground behind you
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex we7tz.kuy7
+\_no 03656
+\LG MIG
+\PHO [we7tzkuy7]
+\UND we7tz.kuy7
+\MB arrastrarse, INSTR1
+\VAR
+\GRAM instr1
+\SPG sentadera
+ZOH004R0011001.txt
+\ENG bottom
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT we7tz
+\RTGR P (11)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex we7tz.naanh
+\_no 03657
+\LG MIG
+\PHO [we7tzna*nh]
+\UND we7tz.naanh
+\MB arrastrarse, MED
+\VAR
+\GRAM meas
+\SPG un arrastre de culo en el suelo
+\ENG one slide of the butt on the floor
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT we7tz
+\RTGR P (11)
+Page 1572

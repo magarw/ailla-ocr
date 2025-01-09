@@ -1,0 +1,62 @@
+\CMTS ANALYZE
+\date 26/Jun/96
+\lex tum.'anh=tz@k
+\_no 03102
+\LG MIG
+\PSH [tummanhtz@k-]
+\UND tum. 7anh-tz@k
+\MB uno, X, HACER
+\VAR
+\GRAM vt:incorp
+\SCI
+\USE
+\DLG
+\SPG enderezar; emparejar
+\ENG to straighten; to pair up
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tum.'anh.'aH
+\_no 03103
+\LG MIG
+\PSH [tummanhnha-]
+\UND tum. 7anh. 7aH
+\MB uno, X, VERS1
+\VAR
+\GRAM versl
+SCI
+\USE
+\SPG emparejarse
+\ENG to matched up, to be paired off
+\SPL yak.tum. 7anh. 7aH
+\SLGR CONVERS1
+\SLGL enderezar // to straighten
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex tun [1]
+\_no 03104
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+\UND tun
+\MB
+\VAR
+\GRAM vt
+Page 1335

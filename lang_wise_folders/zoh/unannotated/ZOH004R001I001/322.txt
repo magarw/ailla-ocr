@@ -1,0 +1,62 @@
+\RTGR P, (T3)
+\DSRC TK94
+\CMTS fishing with a manta, like a sheet, that you tie around your neck and
+\CMTS then spread with the hands, leaning forward to scoop up some water
+\CMTS and fish
+\CMTS
+\date 03/Jan/80
+\lex je7p.kuy7
+\_no 00745
+\LG MIG
+\PSH [je7pkuy7]
+\UND je7p.kuy7
+\MB pescar_con_manta, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG la manta que se ocupen para pezcar
+\ENG fishing cloth
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT je7p
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+\lex jeta7
+\_no 00746
+\LG MIG
+\PSH
+\UND jeta7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG coa
+\ENG hoe
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/96
+ZOH004R0011001.txt
+\lex jeta' kuy
+\_no 00747
+\LG MIG
+\PSH [jeta kuy]
+Page 322

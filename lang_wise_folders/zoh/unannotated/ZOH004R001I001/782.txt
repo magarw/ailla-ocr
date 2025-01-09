@@ -1,0 +1,64 @@
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS only likes this as 'limpiar' like a ritual cleansing
+\date 19/Jun/96
+\lex lindatarde jay@7
+\_no 01810
+\LG MIG
+\PSH
+\UND lindatarde j@y@7
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG flor de lindatarde
+\ENG a type of plant
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+LF:7okox
+\lex liryu jay@7
+\_no 01811
+\LG MIG
+\PSH
+\UND liryu jay@7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG flor de lirio
+\ENG a type of plant
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+LF:7okox
+\CMTS
+\date 11/Nov/94
+ZOH004R0011001.txt
+\lex lisa koke
+\_no 01812
+\LG MIG
+\PSH
+\UND lisa koke
+\MB
+\VAR
+\GRAM
+\SCI
+Page 782

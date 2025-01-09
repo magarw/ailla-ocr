@@ -1,0 +1,63 @@
+\USE
+\SPG ayudar a trabajar
+\ENG to help work
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 yox
+\RTGR 1 T1
+\ROOT 2 tzonh
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 02/Nov/94
+\lex yox.kuy7
+\_no 04177
+\LG MIG
+\PSH [yoxkuy7]
+\UND yox.kuy7
+\MB trabajar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG trabajo
+\ENG work
+\EXU 1 tum jama yox.kuy7
+\XPSH 1 [tum jama yoxkuy7]
+\XSP 1 un dia de trabajo
+\XEN 1 a day's work
+\EXU 2 ban yox.kuy7
+\XPSH 2 [Ban yoxkuy7.]
+\XSP 2 Hay mucho trabajo.
+\XEN 2 There's a lot of work.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yox
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yox.kuy'=pa7t
+\_no 04178
+\LG MIG
+\PSH [yoxkuypa7t-]
+\UND yox.kuy7=pa7t
+\MB trabajar, INSTR1, encontrar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG encontrar trabajo
+\ENG to find work
+\EXU
+\XSP
+\XEN
+ZOH004R0011001.txt
+Page 1795

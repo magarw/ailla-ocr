@@ -1,0 +1,63 @@
+\_no 00025
+\LG MIG
+\PSH
+\UND 7alkool
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG alcohol
+\ENG alcohol
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 08/Jan/96
+\lex 7alma kajoonh
+\_no 00026
+\LG MIG
+\PSH
+\UND 7alma kajoonh
+\MB
+\VAR 7alma 7@y+ kaja [sps]
+\GRAM SS
+\SCI
+\USE
+\SPG cajo*n del muerto
+\ENG coffin
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 08/Jan/96
+\lex 7alma pak
+\_no 00027
+\LG MIG
+\PSH
+\UND 7alma pak
+\MB alma, hueso
+\VAR 7alma 7@y+ pak d@k+7a [pl]
+\GRAM sms
+\SCI
+\USE
+\SPG 1 esqueleto
+\SPG 2 hueso del muerto
+\ENG 1 skeleton
+ENG 2 bone of a corpse
+\EXU
+\XSP
+ZOH004R0011001.txt
+Page 11

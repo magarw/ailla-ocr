@@ -1,0 +1,78 @@
+\egl soc-do -LOC2 1E spread_out-INC
+\zoq Kotz@kjo7 7@n yeppa.
+\fts En el cerro voy a tenderlo.
+\fte In the hills I'll stretch it out.
+\com
+\idx
+\ref ZOH001R033 010
+\_no 00010
+\tx 7adyo tuwanh jama n@kpa n pakka;
+\mb 7adyo tuwa*nh jama n@k -pa 7@n p@k
+\sg1 luego tres
+dia irse-INC 1E
+\egl later three day go -INC 1E
+\ref ZOH001R033 011
+\_no 00011
+\tx n@kpa
+n
+\mb n@k -pa 7@n
+\sg1 irse-INC 1E
+\egl go -INC 1E
+\zoq 7adyo tuwanh jama n@kpa 7@n pakka.
+\fts Luego tres di*as voy a traerlo
+\fte Three days later I'll go get it.
+\com
+\idx
+get
+\zoq N@kpan p@kk@ g@ we7k.
+\fts voy a traer el tuli.
+\fte I'm going to get the reeds.
+\com
+\idx
+\ref ZOH001R033 012
+\_no 00012
+\tx n@kpa
+n
+\mb nak -pa 7@n
+\sg1 irse-INC 1E
+\egl go -INC 1E get
+p@kk@
+g@ we7k;
+p@k -w@ g@ we7k
+agarrar-dINC ĎEM tule
+-dINC DEM tule
+pakka;
+p@k
+\tx
+\mb
+\zoq N@kpan p@kk@.
+\fts voy a traerlo.
+\fte I'll go get it.
+\com
+\idx
+t@tztza*m;
+t@tz
+-wa
+agarrar-dINC
+\ref ZOH001R033 013
+\_no 00013
+-w@ - 7am
+\sg1 secarse-COM-YA
+\eg1 dry
+ZOH001R0331001.txt
+-COM-NOW
+\zoq T@tztza*m.
+\fts Ya esta* seco.
+\fte Now it has dried.
+\com
+\idx
+\ref ZOH001R033 014
+\_no 00014
+\tx gay
+minpa;
+-DINC
+agarrar-COM
+get
+-w@
+-COM
+Page 3

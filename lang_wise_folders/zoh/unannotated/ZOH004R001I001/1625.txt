@@ -1,0 +1,63 @@
+\GRAM meas
+\SPG un redondo
+\ENG one rotation
+\EX
+\XSP
+\XEN
+\SYN
+ROOT wo7i
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex woj (1)
+\_no 03782
+\LG MIG
+\PSH
+\UND Woj
+\MB
+\VAR
+\GRAM vi: act
+\SCI
+\USE
+\SPG ladrar
+\ENG to bark
+\SPL woj.7@m
+\SLGR PASS
+\SLGL aullado // howled
+\EXU 1 woj-pa nu7
+\XPSH 1 [Wojpa nu7.]
+\XSP 1 Ladra el perro.
+\XEN 1 The dog is barking.
+\EXU 2 7@y+ woj.jay-wa
+\XPSH 2 [7@y wojjayy@.]
+\XSP 2 Le ladro*.
+\XEN 2 The dog barked at someone.
+\SYN
+\SEMF animal, sound
+\ASP process
+\ARG
+\NOM woj.e7
+\SUB
+\ETYM
+\ETL
+\ROOT Woj
+\RTGR 11
+\DSRC HAJ94
+\CMTS no caus?
+\CMTS % woj [1]
+\CMTS da woj-wa; doesn't apply to people
+\date 03/Jan/80
+\lex woj (2)
+\_no 03783
+\LG MIG
+\PSH
+\UND Woj
+\MB
+\VAR
+\GRAM vt
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG hacer hoyo; agujerear
+Page 1625

@@ -1,0 +1,63 @@
+\MB mano, lavar, x
+\VAR
+\GRAM Vi
+\SCI
+\USE
+\SPG lavarse las manos
+\ENG to wash
+EXU 1 k@'-tze7.A-pa
+\XPSH 1 [K@tze7apa.]
+\XSP 1 se lava las manos.
+\XEN 1 She's washing her hands.
+\EXU 2 tzanh. kuy'=k@.tze7. A-w@
+\XPSH 2 [Tzanhkuyk@tze7aw@.]
+\XSP 2 Se lavo* las manos.
+\XEN 2 He washed his hands.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tze7
+\RTGR T3
+\DSRC HAJ94
+\CMTS analysis: -A `middle'
+\CMTS hay otra forma tambien, pero no hay porque ponerle
+\date 25/Jun/96
+\lex k@.tzetz
+\_no 01753
+\LG MIG
+\PSH [k@tzetz-]
+\UND k@.tzetz
+\MB FUERA, labrar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 labrar
+\SPG 2 limpiar con machete (milpa)
+\ENG 1 to carve
+\ENG 2 to clean up with a machete
+\EXU mok-k@.tzetz-wa
+\XPSH [Mokk@tzetztz@.]
+\XSP Limpio* milpa con machete.
+\XEN He cleared the cornfield with a machete.]
+\SEMF
+\ETYM
+\ETL
+\ROOT tzetz
+\RTGR T3
+ZOH004R0011001.txt
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\lex k@.tze'
+\_no 01754
+\LG MIG
+\PSH [k@tze-]
+\UND k@.tze7
+\MB FUERA, lavar
+\VAR
+\GRAM vt
+\SCI
+\USE
+Page 758

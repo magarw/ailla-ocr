@@ -1,0 +1,62 @@
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex xopa7
+\_no 03976
+\LG MIG
+\PSH
+\UND xopa7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG reton~o
+\ENG bud
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS is this form a verb? no hay; NO VERB: TK
+\date 26/Jun/96
+\1ex xopx
+\_no 03977
+\LG MIG
+\PSH
+\UND xOpx
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacudir la verga al orinar
+\ENG to shake your dick while pissing
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xOpx
+\RTGR TX
+\DSRC TK94
+ZOH004R0011001.txt
+\CMTS get deriv's (al uso sexual)
+\date 26/Jun/96
+\lex xopx.xopx.ney
+\_no 03978
+\LG MIG
+\PSH [xopxxopxney-]
+\UND xopx.xopx.ney
+\MB
+\VAR
+\GRAM VİR
+\SCI
+Page 1710

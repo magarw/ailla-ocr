@@ -1,0 +1,61 @@
+\EX
+\XSP
+\XEN
+\ROOT pak T3
+\SEMF
+\PASS NONE
+\ANTI NONE
+\CMTS doesn't accept the regar/tirar glosses today: see 7ok.pak.7@y
+\CMTS can't get any gloss for this form, just the vi 'apretarse' and 7ok.pak
+\lex pakx
+\_no 00201
+\SPG doblar (tela); plegar
+\ENG to fold (cloth); to pleat
+\EX_yote_pakx@
+\XSP doblo* ropa
+\XEN she folded clothes
+\EX pakx@mm@ bi yote
+\XSP se doblo* la ropa
+XEN the clothes were folded
+\ROOT pakx P (T3)
+\SEMF bend, affect
+\PASS pakx.7@m
+\ANTI pakx.7oy
+\ASSU pakx.ney estar doblado
+\PRSV pakx.ten tener doblado
+\CMTS
+\lex papx
+\_no 00202
+\SPG romperse o estrellarse vidrio, por la lumbre
+\ENG for glass to break or shatter, because of the fire
+\Ex papx@ jukutj@nanh
+\XSP se rompio* con la lumbre
+\XEN it broke from the fire
+\EX 7@y yakpapx@
+\XSP lo dejo* que se rompiera
+XEN she left it to break
+\ROOT papx Ix
+\SEMF break
+\CAUS yak.papx romper vidrio
+\PASS NONE
+\CMTS
+\date 20/Mar/96
+\lex pa7t
+\_no 00203
+\SPG encontrar
+\ENG to find
+\EX
+\XSP
+ZOH001R0611010.txt
+\XEN
+\ROOT pa7t T3
+\SEMF percep
+\PASS pa7t.7@m encontrarse; acostumbrarse
+\ANTI pa7t.7oy conseguir
+\CMTS
+\lex patz
+\_no 00204
+\SPG tirar (mango, piedra, algo como asi*)
+\ENG to throw (like a mango or a rock, something like that)
+\EX
+Page 47

@@ -1,0 +1,25 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+ASP
+ARG
+NOM
+SUB
+ETYM
+ETL
+ROOT The root verb for this lexeme.
+DSRC
+The aspectual class of the root.
+The role of an argument that is specifically entailed by
+this root.
+Nominalized forms of this root.
+RTGR The grammatical code of the root: (verbs) T, I, or P.
+Initials of the linguist who collected the data and the
+year it was collected.
+Comments - information that didn't fit anywhere else.
+Date that the entry was last modified.
+CMTS
+Subordinate entries - lexemes with this verb as root.
+Word in the donor language - used for loan words.
+Language from which the lexeme was borrowed.
+DATE
+Table A.1: Lexical database fields
+383

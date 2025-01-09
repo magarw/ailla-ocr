@@ -1,0 +1,63 @@
+\PSH [kuywotz7anh]
+\UND kuy=wotz. 7anh
+\MB palo, aserrar, NOM8
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG aserri*n
+\ENG sawdust
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wotz
+\RTGR T1
+\DSRC TK94
+\CMTS
+\date 11/Jan/96
+\lex kuy-yum.@7
+\_no 00149
+\LG MIG
+\PSH [kuyyum@7]
+\UND kuy=yum.A7
+\MB palo, hervir, NOM2
+\VAR
+\GRAM sv: incorp
+\SCI
+\USE
+\SPG polvo que sacan avispas de madera
+\ENG wood dust left by wood-boring wasps
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex kuw.i
+\_no 00150
+\LG MIG
+\PSH [kuwi]
+\UND kunh.E
+ZOH001R0611004.txt
+\MB colgar, NOM7
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG lazo de oro, que usan las mujeres
+\ENG gold rope worn by women
+\EXU kuwi lapa7
+\XSP lazo de oro
+\XEN
+Page 61

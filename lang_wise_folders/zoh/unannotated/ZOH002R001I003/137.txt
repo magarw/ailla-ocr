@@ -1,0 +1,38 @@
+(vi)
+patient, subject of intransitive
+bi tren japneyyø
+bi tren hap-ney-wǝ
+DEF tren
+'El tren está embrocado.'
+(vii) patient, subject of intransitive
+(6.4)
+(i)
+estar_boca_abajo.ASSUM1-COM
+(ii)
+joypi't xøngkejanømmø
+hoypi?t 0 šəŋ=keh-Anəm-wə
+otro día 3A fiesta-verse.INDEF-COM
+'El otro día amaneció."
+It has been noted that the single argument of an intransitive verb may be
+either an actor or an undergoer, and that there is no formal way to distinguish
+unaccusative intransitive verb roots from unergative ones in MIG Zoque. So,
+there are many verb roots and stems for which it is not possible to determine if
+the sole argument is an actor or an undergoer.
+bi pøn tentzøyyø
+bi pən
+0 ten-cay-wə
+DEF hombre 3A pararse=atorarse-COM
+'El hombre se paró.'
+jøyyokmangngø
+0 həy=?okmaŋ-wǝ
+3A llorar-empezar-COM
+'Empezó a llorar.'
+(ZOH001R025-139)
+(ZOH001 R010- 143)
+112
+(ZOH001R027- 027)
+(ZOH001R012-179)
+Locations are rather a special case in MIG Zoque. They do appear in
+clauses unmarked by a locative postposition or adverb, particularly when the NP
+is a proper noun. It isn't reasonable to include location in the undergoer
+macrorole, however, because there is always a patient or theme at least implied

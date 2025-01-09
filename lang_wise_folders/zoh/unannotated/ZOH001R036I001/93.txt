@@ -1,0 +1,75 @@
+\egl later get -INC 3E BACK -get
+\zoq 7ay pakpa 7@y j@xp@kpa tum@.
+\fts Luego agarra saca uno.
+\fte Later get he'll get one out.
+\com
+\idx
+\ref ZOH001R036 432
+\_no 00425
+\tx 7i 7adond tijja gad@
+\mb 7i 7adonde tij-w@
+\sg] y
+adonde
+\egl and where
+\com
+\idx
+\ref ZOH001R036 433
+\_no 00426
+\zoq 71 7endond
+tijj@ gad@ waxxokuy7,
+\fts Y en donde le pego* la mordida,
+\fte And where was he bitten,
+\tx nada mas n@kpaxta*7
+\mb nada
+\sgl nada
+mas irse-INC-NOMAS
+\egl nothing more go -INC-ONLY
+\zoq nada mas, n@kpaxta*7.
+\fts nada mas, le pone.
+\fte nothing more, it just goes.
+\com
+\idx
+-7oy -kuy7
+ka -da
+ir -COM DCT3-DEM morder-ANTIP-INSTR1
+go -COM DCT3-DEM bite -ANTIP-INSTR1
+mas n@k -pa -xtaa7
+\ref ZOH001R036 434
+\_no 00427
+\tx
+\mb GSM
+\ref ZOH001R036 435
+\_no 00428
+ZOH001R0361001.txt
+-INC one
+\tx 7@y 7anhn@knukk@yy@
+\mb 7@y 7anh -n@k -nuk
+\sg1 3E BOCA -irse-agarrar-SUF-COM DCT3-TMP pegar-agarrar-COM-YA
+\egl 3E MOUTH-go -grab -SUF-COM DCT3-TMP glue -grab
+GSM: bweno
+bweno
+\sg1 GSM: bueno
+\eg1 GSM: good
+\zoq GSM: Bweno.
+\fts GSM: Bueno.
+\fte GSM: ok.
+\com
+\idx
+waxxokuy7
+\zoq 7@y 7anhn@knukk@yy@ gay tzajnukka*m.
+\fts Luego ya se pega.
+\fte It grabs him, later it gets him.
+\com
+\idx
+wax
+\ref ZOH001R036 436
+\_no 00429
+\tx tzajnukpa
+gay
+tzajnukka*m
+-7@y-wa ka -Y tzaj -nuk
+bi p@n 7@y manhkuy
+Page 93
+g@xi
+-w@ - 7am
+-COM-NOW

@@ -1,0 +1,63 @@
+\SLGR
+\EXU tin-tuku7
+\XSP pan*al
+\XEN diaper, "shit=cloth"
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HJ95
+\CMTS
+\date 11/Feb/96
+\lex {=tuk.u7}
+\_no 04506
+\LG MIG
+\PSH
+\UND
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG "no sirve"
+\ENG "no good"
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tuk
+\RTGR 12
+\DSRC TK96
+\CMTS
+\date 11/Feb/96
+\lex {=tuk}
+\_no 04507
+\LG MIG
+\PSH
+\UND tuk
+\MB TRM
+\VAR
+\GRAM suf
+\SCI
+\USE aspectual verbal suffix: terminative
+\SPG terminar o acabar de VERBO
+\ENG to finish VERBing
+\SPL
+ZOH004R0011001.txt
+\SLGR
+\EXU 1 te.y 7@n+ 7ix-tuk. ke7t-pa 7@n+_manak
+\XPSH 1 [Tey 7@n 7ixtukke7tpan manak.]
+\XSP 1 Ahora espero a* mi hijo.
+\XEN 1 Right now I'm waiting for my son again.
+\EXU 2 k@x-tuk-tam-w@
+\XPSH 2 [K@xtuktamm@.]
+\XSP 2 Acabamos de comer.
+\XEN 2 we finished eating
+\SYN
+Page 1935

@@ -1,0 +1,63 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7@7tz
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 13/Jul/95
+\lex ni7k
+\_no 02342
+LG MIG
+\PSH
+\UND ni7k
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG medio secarse una cosa mojada
+\ENG for something wet to get half-dry
+\SPL yak.ni 7k
+\SLGR CAUS
+\SLGL_hacer secar, orear // to dry something, to air it
+\EXU 7@y+ yak.ni7k-pa bi nax para nip-pa porke jakke muj-wa
+\XPSH [7@y yakni7kpa bi nax para nippa porke jakke mujj@.]
+\XSP Lo hace orear la tierra para sembrar porque esta muy mojado.
+\XEN He aired the dirt for sowing because it was very wet.
+\SYN
+\SEMF water
+\ASP accomplishment
+\ARG
+\NOM ni'k. @7
+\SUB
+\ETYM
+\ETL
+\ROOT ni7k
+\RTGR 12
+\DSRC TK94
+\CMTS get deriv's; CK-SPG/OK: TK
+\date 03/Jan/80
+\lex ni7k jajtzuku7
+\_no 02343
+\LG MIG
+\PSH
+\UND ni7k jajtzuku7
+\MB
+ZOH004R0011001.txt
+\VAR
+\GRAM xms
+\SCI
+\USE
+\SPG clase de hormiga muy pequen~o, la ma*s biushita que hay
+\ENG type of ant - very small
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+Page 1009

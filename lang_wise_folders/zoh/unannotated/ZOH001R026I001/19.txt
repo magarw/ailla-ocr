@@ -1,0 +1,82 @@
+ZOH001R0261001.txt
+\sg1 ah pues DCT2-TMP que 2Prn encontrar-COM-YA
+\egl ah well DCT2-TMP that 2prn find
+\zoq "7a, pwes, dey ke mix pa7tta*m,
+\fts "A, pues, ahora que ya te encontre*,
+\fte "Ah, well, now that I've found you,
+\ref ZOH001R026 101
+\_no 00089
+\tx dey
+\mb te
+-Y
+ke
+ke mix k@xx@
+mix k@x -wa
+1>2 comer-dINC
+\eg1 DCT2-TMP there is that 1>2 eat -DINC
+\sg1 DCT2-TMP hay
+que
+teji
+teji
+\zoq dey teji ke mix k@xx@."
+\fts ahora tengo que comerte."
+\fte now I have to eat you.
+\ref ZOH001R026 102
+\_no 00090
+\tx
+\mb
+bi
+bi
+\ref ZOH001R026 103
+\_no 00091
+\tx mix 7ixp@kpa
+\mb mix 7ix-p@k
+naxe n@mpa
+n@m
+naxe
+-ра
+*** bi
+\sg1 verdad decir-INC DEF *** DEF dos
+\egl truth say -INC DEF *** DEF two
+\zoq "Mix 7ixp@kpa,
+\fts "Te conozco,
+\fte "I know you,
+-pa
+\sg] 1>2 ver-agarrar-INC
+\egl 1>2 see-get
+\zoq "Naxe," n@mpa bi - bi metzanh manhkuyp@7k.
+\fts "Cierto," digo el dos pies.
+\fte "Certainly," says the two-legged one.
+-INC
+"I
+\ref ZOH001R026 104
+\_no 00092
+\tx ke mix 7@m w@j@*7
+\mb ke mix 7@m waja
+\sg] que 2Prn 2E bueno
+\egl that 2Prn 2E good
+bi metzanh
+\zoq ke mix 7@m waja*7.
+\fts que tu eres bueno.
+\fte that you are good.
+-COM-NOW
+manhkuyp@7k
+metza*nh manh -kuy7 -p@7k
+pisar-INSTR1-REL2
+step -INSTR1-REL2
+\ref ZOH001R026 105
+\_no 00093
+\tx pe
+si m
+t@pa
+\mb pero si 7@m t@7 -pa
+\sg1 pero si 2E querer-INC
+\egl but if 2E want -INC do
+tz@ktam@
+y@da 7esde tz@ktam
+tz@k -tam -A7 ya -da
+7esde tz@k -tam
+hacer-1/2 PL-IMPV DCT1-DEM esde hacer-1/2PL-IMPV
+-1/2PL-IMPV DCT1-DEM um do -1/2PL-IMPV
+Page 19
+-A7

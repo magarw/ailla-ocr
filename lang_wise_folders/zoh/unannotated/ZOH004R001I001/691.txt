@@ -1,0 +1,64 @@
+\UND kuy kanoa
+\MB
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+SPG canoa; palangana de madera
+ENG canoe; large wooden bowl
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH: can't tell if there's a /w/ or not, very slight if there;
+agreed: TK
+\date 24/Jun/96
+\lex kuy mixtu7
+\_no 01594
+LG MIG
+\PSH
+\UND kuy mixtu7
+\MB
+\VAR
+\GRAM s(m) s
+\SCI
+\USE
+\SPG gato monte*s
+\ENG wild cat
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM mixtun
+\ETL Nahua
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Nov/94
+LF:7anmal
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\lex kuy naka
+\_no 01595
+\LG MIG
+\PSH
+\UND kuy naka
+\MB palo, cuero
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG ca*scara del palo; corteza del a*rbol
+\ENG tree bark
+\SEMF
+\ETYM
+Page 691

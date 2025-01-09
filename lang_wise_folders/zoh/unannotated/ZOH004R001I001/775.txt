@@ -1,0 +1,63 @@
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 13/Jun/95
+\lex lakra7
+\_no 01792
+LG MIG
+\PSH
+\UND lakra7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG cicatriz
+\ENG scar
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex lapa7
+\_no 01793
+\LG MIG
+\PSH
+\UND 1apa7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG oro
+\ENG gold
+\EXU
+\XSP
+\XEN
+\SYN
+LF: jon
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex lawreel
+\_no 01794
+\LG MIG
+\PSH
+\UND lawreel
+\MB
+ZOH004R0011001.txt
+Page 775

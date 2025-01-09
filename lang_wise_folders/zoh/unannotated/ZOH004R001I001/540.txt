@@ -1,0 +1,63 @@
+\SUB yuk.ketz
+\ETYM
+\ETL
+\ROOT ketz
+\RTGR T1
+\DSRC TK94
+\CMTS
+\CMTS
+\date 03/Jan/80
+\lex ketz-ket
+\_no 01237
+\LG MIG
+\PSH [ketzket-]
+\UND ketz-ket
+\MB regar_con_mano, cubrir
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG cubrir regando algo con la mano
+\ENG to cover by sprinkling something with the hand
+\EXU 7@y+ ketz-ket-w@_7an.e kexu+j@nanh
+\XPSH [7@y ketzkett@ 7ane kexuj@nành.]
+\XSP Cubrio* la tortilla regandolo con queso.
+\XEN She sprinkled cheese all over the tortilla.
+\SYN
+\SEMF
+ETYM
+\ETL
+\ROOT ketz
+\RTGR T1
+\ROOT ket
+\RTGR P (T3)
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex ke7tz
+\_no 01238
+\LG MIG
+\PSH
+\UND ke7tz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG masticar; mascar
+\ENG to chew
+\SPL ke7tz.7oy
+\SLGR ANTIP
+\SPL ke7tz.7@m
+\SLGR PASS
+\EXU_1_7@n+ ke7tz-pa bi xi'tz.i7
+\XPSH 1 [7@n ke7tzpa bi xitzi7.]
+\XSP 1 Mastico la can~a.
+\XEN 1 I'm chewing cane.
+\EXU 2 ke7tz.7@m-w@ bi xi'tzi7
+ZOH004R0011001.txt
+\XPSH 2 [Ke7tztz@mm@ bi xitzi7.]
+\XSP 2 Se mastico* la can~a.
+\XEN 2 The cane was chewed.
+\EXU 3 7u 7@m+ mix 7otonh. '@y-wa kwando d@ ke7tz. 'oy-pa
+Page 540

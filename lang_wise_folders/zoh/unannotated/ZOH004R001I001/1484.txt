@@ -1,0 +1,64 @@
+\SPL tzu7t.7@m
+\SLGR PASS
+\SLGL cortarse // to be picked
+\SLGR NO PRSV
+\EXU 1 kajwe=tzu7t-w@
+\XPSH 1 [Kajwetzu7tt@.]
+\XSP 1 Corto* cafe* sin pico.
+\ENG 1 He picked coffee by hand.
+\EXU 2 j@x.tzu7t-7@m-w@ 7@y+ t@tz
+\XPSH 2 [J@xtzu7tt@mm@y t@tz.]
+\XSP 2 Se arranco* su diente.
+\XEN 2 Her tooth was pulled.
+\SYN
+\SEMF pick
+\ASP activity
+\ARG patient,
+instrument
+\NOM kajwe tzu't.i7, tzu7t.naanh
+\SUB
+\ETYM
+\ETL
+\ROOT tzu7t
+\RTGR T3
+\DSRC TK94
+\CMTS pick coffee beans one by one
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex tzu7t.naanh
+\_no 03449
+\LG MIG
+\PHO [tzu7tna*nh]
+\UND tzu7t.naanh
+\MB cortar_cafe*, MED
+\VAR
+\GRAM meas
+\SPG un grano de cafe*
+\ENG one coffee bean
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT tzu7t
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex tzu7tz
+\_no 03450
+\LG MIG
+\PSH
+\UND tzu7tz
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG mamar
+\ENG to suckle
+ZOH004R0011001.txt
+\SPL_yak.tzu7tz
+\SLGR CAUS
+\SLGL dar de mamar // to nurse
+\EXU 7@n+ yak.tzu7tz-w@ 7@n+ 7une7
+Page 1484

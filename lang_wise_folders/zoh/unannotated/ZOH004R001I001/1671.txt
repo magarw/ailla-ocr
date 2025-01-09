@@ -1,0 +1,63 @@
+\UND xanh=7anh=wak
+\MB *aire, BOCA, *vaciar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG abrirse con el aire
+ENG for the wind to open something
+\EXU xanh='anh=wak-pa
+\XPSH [Xanhnhanhwakpa.]
+\XSP Se esta* abriendo con el aire.
+XEN The wind is opening it.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 *xanh
+\ROOT 2 7anh-wak
+\RTGR 2 12
+\DSRC TK96
+\CMTS
+\date 26/Jun/96
+\lex xanh.'oy.kuy7
+\_no 03885
+\LG MIG
+\PHO [xanhnhokuy7]
+\UND xanh.7oy.kuy7
+\MB cortar_c_machete, ANTIP, INSTR1
+\VAR
+\GRAM instr1
+\SPG 1 machete
+\SPG 2 machetear estoy macheteando en mi rastrjo
+\ENG 1 machete
+ENG 2 to cut with a machete I'm clearing my field
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT xang
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex xapu
+\_no 03886
+\LG MIG
+\PSH
+\UND xapu
+\MB
+\VAR
+\GRAM S
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG jabo*n
+\ENG soap
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+Page 1671

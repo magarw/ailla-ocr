@@ -1,0 +1,45 @@
+58 badiamu ifofo
+badi-a-mu ifo-fo
+<< se regrouper »>-ACC-EXIST1 maître-PL
+les maîtres se sont rassemblés
+59 nai ari iquihuui
+nai ari i-qui-huu-i
+ciel LOC AUX.INTR-Ø-venir-PROG
+je viens les rejoindre dans le ciel lointain
+60 //ari mana daquishon//
+ari mana daqui-shon
+LOC plateau << être sur »-ACT.ANT
+je suis allé sur le lointain plateau
+61 yaba ohuifoquian
+yaba ohui-fo-quian
+yaba voix-PL-OST2
+les paroles des morts
+62 yaba ifofoquian
+yaba ifo-fo-quian
+yaba maître-PL-OST2
+les maîtres morts
+63 ifofo iquihuui
+ifo-fo i-qui-huu-i
+maître-PL AUX.INTR-Ø-venir-PROG
+les maîtres viennent
+64 uaya ato iquihuui
+ua-ya ato i-qui-huu-i
+1PERS-COM 3PERS AUX.INTR-Ø-venir-PROG
+ils viennent jusqu'à moi
+65 uqui huanoquian
+un-qui hua-no-quian
+1PERS.N-DIR CF-FUT-OST2
+ils viennent vers moi et repartent
+66 uaya iquihuai
+ua-ya i-qui-hua-i
+1PERS-COM AUX.INTR-Ø-CF-PROG
+ils viennent et repartent avec moi
+67 uqui huanoquian
+un-qui hua-no-quian
+1PERS-DIR CF-FUT-OST2
+ils viennent vers moi et repartent
+68 pushuyari inoca
+pushu-ya-ri i-no-ca
+maison-GEN-ITE AUX.INTR-FUT-PL
+ils vont à nouveau dans leur maison
+25

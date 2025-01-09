@@ -1,0 +1,72 @@
+\ref ZOH001R026 095
+\_no 00083
+\tx 7@y winn@kkixx@yy@
+\mb 7@y win -n@k -7ix-7@y-w@
+\sgl 3E CARA-irse-ver-SUF-COM
+\egl 3E FACE-go -see-SUF-COM
+\zoq 7@y winn@kkixx@yy@.
+\fts Lo deviso*.
+\fte He caught a glimpse of him.
+\ref ZOH001R026 096
+\_no 00084
+\tx gaji
+\mb
+minpa
+ka -ji7 min
+-pa
+\sg1 DCT3-LOC1 venir-INC
+\eg1 DCT3-LOC1 come -INC
+\zoq Gaji minpa.
+fts Ahi* viene.
+\fte There he comes.
+\ref ZOH001R026 097
+\_no 00085
+\tx 7@y n@mjayy@
+mix bi metzanh manhkuyp@* 7k
+\mb 7@y n@m -jay -wa mix bi metza*nh manh -kuy7 -p@7k
+\sgl 3E decir-APPL-COM 2Prn DEF dos
+pisar-INSTR1-REL2
+\egl 3E say -APPL-COM 2Prn DEF two
+step -INSTR1-REL 2
+\zoq 7@y namjayy@, "Mix bi metzanh manhkuyp@*7k.
+fts Le dijo, "Tu eres el dos pie
+\fte He said to him, "You're the two-legged one
+\ref ZOH001R026 098
+\_no 00086
+\tx mix mi n@mjaxukpa*7
+katzit7*ok
+\mb mix mi n@m-jay -xuk-pa -v7k katzit7ok
+\sg1 2prn 3>2 decir-APPL-3PL-INC-REL cazador
+\egl 2prn 3>2 say -APPL-3PL-INC-REL hunter
+\zoq Mix mi n@mjaxukpa*7 katzit7o*k."
+\fts Tu es que te dicen el cazador.
+\fte You're the one they call the hunter."
+\ref ZOH001R026 099
+\_no 00087
+\tx d@x meru
+\mb d@x meru
+ZOH001R0261001.txt
+n@mm@
+n@m -w@ bi
+decir-COM DEF dos
+\sgl 1Prn mero
+\egl 1prn exactly say -COM DEF two
+"I
+\zoq "D@x meru, n@mm@ bi metzanh manhkuyp@7k p@n.
+\fts "Yo soy mero," dijo el dos pie.
+\fte "I am indeed,"
+said the two-legged man.
+\ref ZOH001R026 100
+\_no 00088
+p@n
+bi metzanh manhkuyp@7k
+metza*nh manh -kuy7 -p@7k p@n
+pisar-INSTR1-REL2 hombre
+step -INSTR1-REL2 man
+\tx 7a pwes dey
+\mb 7a pwes te -y
+ke mix pa7tta*m
+mix pa7t
+ke
+-w@ - 7am
+Page 18

@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG costura; tejido; bordado; una cosa ensartada
+\ENG seam; woven piece; embroidery; something threaded through
+something
+\EXU 7axa' t@p.i
+\XPSH [7axa t@pi]
+\XSP huipil bordado
+\XEN embroidered blouse
+\SYN na'k.e
+\SEMF
+\ETYM
+\ETL
+\ROOT t@p
+\RTGR T1
+\DSRC TK96
+\CMTS
+\date 03/Jan/80
+\lex t@7px.i7
+\_no 00325
+\LG MIG
+\PSH [t@7pxi7]
+\UND t@7px. E7
+\MB hacer_mecate, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG 1 ixtle, "iste"
+\SPG 2 mecate; mecatito
+\ENG 1 istle
+\ENG 2 rope; string; thread
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT t@7px
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex t@7px.i'=tz@k
+\_no 00326
+\LG MIG
+\PSH [t@7pxitz@k-]
+\UND t@7px. E7=tz@k
+\MB hacer_mecate, NOM7, HACER
+\VAR
+\GRAM vt:incorp
+\SCI
+\USE
+\SPG hacer hilo
+\ENG to make thread
+ZOH001R0611004.txt
+\EXU t@7px.i'=tz@k-w@
+\XPSH [T@7pxitz@kk@.]
+\XSP Hizo mecatito.
+\XEN She made thread.
+\SYN
+Page 130

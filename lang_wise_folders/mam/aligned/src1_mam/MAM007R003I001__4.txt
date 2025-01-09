@@ -1,0 +1,43 @@
+(36) Jow-owo-on t-iky'=tz
+jalar-AFEC-V A3s-pasar-DIR
+'Lo trajeron jalando y rastrando,'
+ky-kub' maayn t-uj
+A3p-bajar zopilote
+A3s-SR:en
+t-ib'aj
+q'ii-l t-kanb'
+A3s-SR:sobre mar
+traer-INF A3s-ganancia huérfano
+'Entonces "put" se cayeron los zopilotes de cabeza roja en el mar, para traer
+la ganancia del huérfano.'
+(37) asta t-iky'-al
+hasta A3s-DIR=TERM encontrar-AP A3s+SR:orilla
+'hasta que llegó en la orilla del mar.'
+(38) Entoons n=0=tzaj-tzan
+entonces INC=B3s=DIR=pues A3s-traer-SD
+'Entonces lo trajo,'
+(39) o 0-tzaalaj
+CPL B3s-estar.contento huérfano
+'y se puso contento el huérfano.'
+Alp-SR:AGT=1pEXCL
+'ya trajimos tu ganancia,'
+(40) Jee'y-tzan meeb'a, ma-a'
+tz=uul t-kaanb'=a
+bueno pues huérfano PROX-ENF B3s=venir A2s-ganancia=2s
+q-u'n-a,
+Alp-SR:DAT=1pEXCL
+'y para nosotros, ¿qué nos vas a dar?'
+(41) yaj tzan q-ee-ky',
+¿tqal-tzan k=0=t-aq'-al-a
+y=pues Alp-SR:BEN=1pEXCL qué-pues POT=B3s=A2s-dar-POT=2s
+q-ee-ky'?
+(44) 0-chi-tzan
+B3s-decir-pues así
+'dijo.'
+juun=t tyeemp, juun-q'=x t=b'ii,
+A3s-SR:en-todavía uno=otro tiempo uno-?-todavía A3s-oír
+'hasta en otro tiempo, un tiempo determinado,'
+5
+(42) Mii'n, maaxa ch=el
+NEG hasta B2p-POT vivir-AP=2p A3s-SR:sobre
+'No, ustedes vivirán de esto,"

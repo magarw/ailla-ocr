@@ -1,0 +1,62 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 jup
+\RTGR 1 P, (T3)
+\ROOT 2 *xakx
+\DSRC TK94
+\CMTS get deriv's. HAJ:96, can't quite get a good gloss for xakx-
+\date 24/Jun/96
+\lex jup-xamik. 'aH
+\_no 00955
+\LG MIG
+\PSH [jupxamikka-]
+\UND jup=xamik.7aH
+\MB jalar, X, VERS1
+\VAR
+\GRAM vt: vers1
+\SCI
+\USE
+\SPG darle vueltas agarra*ndolo
+\ENG to grab someone by the hand and turn them around
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 jup
+\RTGR 1 P, (T3)
+\DSRC HAJ94
+\CMTS take a person by the hand and turn them in a wide circle, like dancing
+\date 06/Feb/96
+\lex jup-yuchi'. 7a
+\_no 00956
+LG MIG
+\PSH [jupyuchi7a-]
+\UND jup=yuchi'. 7a
+\MB jalar, delgado, VERS1
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacerlo delgado jalandolo
+\ENG to pull thin
+\EXU
+\XSP
+\XEN
+ZOH004R0011001.txt
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jup
+\RTGR P (T3)
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex jup-yuk.ten
+\_no 00957
+Page 417

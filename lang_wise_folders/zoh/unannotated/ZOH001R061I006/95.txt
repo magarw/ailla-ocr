@@ -1,0 +1,64 @@
+\SLGR PASS
+\SLGL molerse // to be ground
+\SPL po7t.ten
+\SLGR PRSV
+\SLGL tenerlo molido // to have it ground
+\EXU 1 7@y+ po7t.ten-wa
+\XPSH 1 [7@y po7ttenn@.]
+\XSP 1 Lo tiene molido.
+\XEN 1 He's got it ground.
+\EXU 2 7@y+ po7t-w@ bi kafe* tza'+jo' bi yomaa7
+\XPSH 2 [7@y po7tt@ bi kafe* tzajo bi yoma*7.]
+\XSP 2 La mujer molio* el cafe* en una piedra.
+\XEN 2 The woman ground the coffee on a rock.
+\SYN
+\SEMF corn, cook
+\ASP activity
+\ARG
+\NOM po't.e7
+\SUB ko.po7t
+ETYM
+\ETL
+\ROOT po7t
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex potz [1]
+\_no 00139
+\LG MIG
+\PSH
+\UND potz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 embarrar
+\SPG 2 hacer pared; enlodar casa
+\ENG 1 to smear mud
+ZOH001R0611006.txt
+\ENG 2 to make a wall; to mud a house
+\SPL potz.7oy
+\SLGR ANTIP
+\SLGL embarrar // to smear mud
+\SPL potz.7@m
+\SLGR PASS
+\SLGL embarrarse // to be smeared with mud
+\EXU 1 t@k=potz-wa
+\XPSH 1 [T@k potztz@.]
+\XSP 1 Embarro* la casa.
+\XEN 1 He mudded the house.
+\EXU 2_7@y+ potz.ten-w@ 7@y+ t@k
+\XPSH 2 [7@y potztenn@y tak.]
+\XSP 2 Tiene enlodado su casa. (ya esta* listo)
+\XEN 2 He's got his house mudded. (now it's ready)
+\SYN
+\SEMF build
+\ASP activity
+\ARG
+\NOM potz.e7, potz.kuy7
+\SUB
+\ETYM
+\ETL
+Page 95

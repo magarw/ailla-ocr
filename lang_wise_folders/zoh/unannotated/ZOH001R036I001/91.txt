@@ -1,0 +1,87 @@
+\ref ZOH001R036 422
+\_no 00416
+\tx y@kwituwa*m
+\mb yak-witu7
+bi
+pak
+\sg1
+-w@ -7am bi pak
+DEF hueso
+\egl soot -return -COM-NOW DEF bone
+tizne-regresar-COM-YA
+\zoq Y@kwituwa*m bi pak.
+\fts Ya se volvio* negro el hueso.
+\fte Now the bone has turned black.
+\com
+\idx
+\ref ZOH001R036 423
+\_no 00417
+\tx ye7xe
+tukpa
+komo y@7
+ya
+\mb ya -7xe tuk
+komo ya -7 ya
+\sg1 DCT1-SIM terminarse-INC como DCT1-NOM1 ya
+\eg1 DCT1-SIM finish
+j@xp@kpa*m
+jax -p@k
+\tx
+\mb
+\sg1 ATRAS-agarrar-INC-YA
+\eg1 BACK -get
+-pa
+-pa - 7am
+-INC-NOW
+ZOH001R0361001.txt
+-INC how DCT1-NOM1 now when 3E
+\ref ZOH001R036 426
+\_no 00419
+\zoq Ye7xe tukpa komo y@7 ya kwanduy j@xp@kpa*m.
+fts Asi* se pone como esto ya cuando lo saca.
+\fte This is how it turns out like this now when he takes it out.
+\com
+\idx
+\ref ZOH001R036 425
+\_no 00418
+\tx gay
+xaja
+pitz@mma*m
+pitz@m-w@ -7am puru
+-E
+puru jipxi
+\mb ka -y x@j-A7
+jipx
+\sg1 DCT3-TMP ***-NOM2 salir -COM-YA puro quemarse-NOM3
+\eg1 DCT3-TMP ***-NOM2 leave -COM-NOW cigar overcook-NOM3
+\zoq Gay x@ja pitz@mma*m puru jipxi.
+\fts Ya salio* bastante puro hecho en carbo*n.
+\fte Then it comes out a lot like pure coal.
+\com
+\idx
+\ref ZOH001R036 427
+\_no 00420
+\tx 7entonse gay
+n@mjaba
+tza7
+-y
+\mb entonces ka
+n@m -jay -pa tza7
+\sg1 entonces DCT3-TMP decir-APPL-INC piedra
+\egl then
+DCT3-TMP say -APPL-INC rock
+\zoq 7entonse gay n@mjaba tza7.
+\fts Entonces eso le dice piedra.
+\fte Then they say it's a rock.
+\com
+\idx
+n@mjaba
+tza7
+n@m-jay -pa tza7
+kwandu y
+kwandu 7@y
+cuando 3E
+\tx gay
+\mb ka -y
+\sg1 DCT3-TMP decir-APPL-INC piedra
+Page 91

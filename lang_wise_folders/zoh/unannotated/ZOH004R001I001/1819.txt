@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [yukjenen-]
+\UND yuk. jenen
+\MB ARR, deshacerse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar de desolver
+\ENG to start to dissolve
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jenen
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+\lex yuk.jep
+\_no 04235
+\LG MIG
+\PSH [yukjep-]
+\UND yuk. jep
+\MB ARR, trayar_maguey
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG empezar a trayar (maguey)
+\ENG to begin to strip maguey
+\SPL
+SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jep
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+\lex yuk.jepx
+\_no 04236
+\LG MIG
+\PSH [yukjepx-]
+\UND yuk.jepx
+\MB ARR, agarrar_con_ji*cara
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG levantar con ji*cara
+ZOH004R0011001.txt
+Page 1819

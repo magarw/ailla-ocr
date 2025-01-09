@@ -1,0 +1,63 @@
+\_no 01106
+\LG MIG
+\PSH [j@xxoj-]
+\UND j@x=7oj
+\MB ATRAS, toser
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG sacar algo de la boca al toser
+\ENG to get something out of your mouth (throat) by coughing
+\SPL
+\SLGR
+\EXU 7@y+ jax. 'oj-pa
+\XPSH [7@y j@xxojpa.]
+\XSP Saca algo en la boca al toser.
+\XEN He coughed something up.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 70j
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex j@x='om
+\_no 01107
+\LG MIG
+\PSH [j@xxom-]
+\UND j@x=7om
+\MB ATRAS, echar_humo
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar algo con humo
+\ENG to smoke something out
+\SPL
+\SLGR
+\EXU 7@y+ j@x. 'om-w@ jonhjoonh
+\XPSH [7@y j@xxomm@ jonhjo*nh.]
+\XSP Saco* algo con humo.
+\XEN She smoked it out.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 70m
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex j@x='opx
+\_no 01108
+ZOH004R0011001.txt
+\LG MIG
+\PSH [j@xxopx-]
+\UND j@x=70px
+\MB ATRAS, echar_espuma
+\VAR
+\GRAM vi
+Page 484

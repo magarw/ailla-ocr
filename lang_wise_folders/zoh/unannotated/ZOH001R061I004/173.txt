@@ -1,0 +1,63 @@
+\UND xoy. A
+\MB_pasar_su_tiempo, NOM2
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG ya no sirve, esta* pasado de su tiempo
+\ENG now it's no good, it's overripe
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT XOY
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\1ex xoy.e7
+\_no 00437
+\LG MIG
+\PHO [xoye7]
+\UND xoy. E7
+\MB pasar_tiempo, NOM7
+\VAR XOe7
+\GRAM pcp
+\SPG pasado su tiempo
+\ENG overripe
+\EXU m@n xoy.e7
+\XPSH [m@n xoye*7]
+\XSP un camote que ya paso* su tiempo
+\XEN an overripe yam
+\SYN
+\ROOT XOY
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex xu. 17
+\_no 00438
+LG MIG
+\PHO [xui7]
+\UND xuy. E7
+\MB pescar, NOM7
+\VAR
+\GRAM pcp
+\SPG agarrado con anzuelo
+\ENG caught with a hook
+\EXU koke xu.i7
+ZOH001R0611004.txt
+\XPSH [koke xui7]
+\XSP pescado agarrado con anzuelo
+\XEN
+\SYN
+\ROOT xuy
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+Page 173

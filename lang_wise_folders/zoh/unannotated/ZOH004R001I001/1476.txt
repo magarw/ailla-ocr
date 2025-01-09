@@ -1,0 +1,63 @@
+\CMTS
+\date 11/Feb/96
+\lex tzukx
+\_no 03431
+\LG MIG
+\PSH
+\UND tzukx
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pellizcar
+\ENG to pinch
+\SPL tzukx. 7oy
+\SLGR ANTIP
+\SLGL pellizcar // to pinch
+\SLGR NO PASS
+\SPL tzukx.ten
+\SLGR PRSV
+\SLGL tener agarrado en las un~as // to have pinched between the nails
+\EXU 1 tzukx. @m-w@ bi pan
+\XPSH 1 [Tzukx@mm@ bi pan.]
+\XSP 1 Quito* un pedazo el pan.
+\XEN 1 Someone took a pinch out of the bread.
+\EXU 2 7@y+ tzukx.ten-w@
+\XPSH 2 [7@y tzukxtenn@.]
+\XSP 2 Lo tiene agarrado con las un~as.
+\XEN 2 She has it by the finger nails.
+\EXU 3_7@n+ tzukx=ki7px-w@ 7@n+ xix
+\XPSH 3 [7@n tzukxki7px@n xix.]
+\XSP 3 Lo pellizque* y lo probe* mi carne (a ver si esta* cocido).
+\XEN 3 I pinched off a bit of meat and tasted it (to see if it was done).
+\SYN
+ZOH004R0011001.txt
+\SEMF touch, hand
+\ASP
+\ARG
+\NOM tzukx.i, tzukx.neenh, tzukx=tzik.i
+\SUB
+\ETYM
+\ETL
+\ROOT tzukx
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 09/Aug/02
+\lex tzukx.i
+\_no 03432
+\LG MIG
+\PHO [tzukxi]
+\UND tzukx. E
+\MB_pellizcar, NOM7
+\VAR
+\GRAM PCp
+\SPG pellizcada
+\ENG pinch
+\EXU t@m tzukx.i
+\XPSH [t@m tzukxi*7]
+\XSP fruta pellizcada
+\XEN fruit with a pinch taken out of it
+Page 1476

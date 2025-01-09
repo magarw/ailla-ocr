@@ -1,0 +1,64 @@
+\XPSH [7@n_ xujwayay7aw@n_k@xi.]
+\XSP Sople* mi
+comida para enfriarla.
+\XEN I blew on my food to cool it.
+\SYN xuj-wayay'.7a
+\SEMF
+\ETYM
+\ETL
+\ROOT puj
+\RTGR T3
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex pukx
+\_no 02784
+\LG MIG
+\PSH
+\UND pukx
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG abundar; rendirse; hacerse bastante (trata de animales que esta*
+criando, como ganado)
+\ENG to yield; to thrive; to reproduce abundantly (of animals that you are
+raising)
+\SPL yak.pukx
+\SLGR CAUS
+\SLGL hacer abundar // to cause to increase
+\EXU 1 7@y+ yak.pukx.w@+'am 7@y+ wakax
+\XPSH 1 [7@y yakpukxa*m 7@y wakax.]
+\XSP 1 Ya se hizo bastante su ganado.
+\XEN 1 Now his cattle have increased.
+\EXU 2 pukx-w@ 7@y+ wakax
+\XPSH 2 [Pukx@y wakax.]
+\XSP 2 Su ganado se hizo bastante.
+\XEN 2 His cattle increased.
+\SYN
+\SEMF animal, farm
+\ASP activity
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT pukx
+\RTGR 12
+\DSRC TK94
+\CMTS CK-PH of EX ok
+\date 03/Jan/80
+\lex pukx.@7
+\_no 02785
+\LG MIG
+\PSH [pukx@7]
+\UND pukx.A7
+\MB abundar, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG monte; yerba
+Page 1198

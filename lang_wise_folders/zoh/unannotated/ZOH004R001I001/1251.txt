@@ -1,0 +1,63 @@
+\MB sufrir, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sufrir
+ENG to suffer
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 12/Nov/94
+\lex sum.sum.ney
+\_no 02907
+\LG MIG
+\PSH [sumsumney-]
+\UND sum.sum.ney
+\MB
+\VAR
+\GRAM VİRF
+\SCI
+\USE
+\SPG zumbando
+\ENG buzzing
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT %sum F
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex surdu
+\_no 02908
+LG MIG
+\PSH
+\UND surdu
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+SPG una persona zurda
+\ENG left-hander
+\EXU
+\XSP
+\XEN
+\SYN 7anh-naji
+\SEMF
+\ETYM zurdo
+\ETL Sp
+ZOH004R0011001.txt
+Page 1251

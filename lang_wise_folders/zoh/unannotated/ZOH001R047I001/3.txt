@@ -1,0 +1,80 @@
+\mb si 70 no
+\sgl si* o no
+\egl yes or no
+\zoq si, 70 no.
+\fts si, o no.
+\fte Yes, or no.
+\com
+\idx
+\ref ZOH001R047 009
+\_no 00010
+\tx bweno pwes.
+\mb bweno pwes
+\sg1 bueno pues
+\egl good well
+\zoq Bweno, pwes.
+\fts Bueno, pues.
+\fte OK, well.
+\com
+\idx
+\ref ZOH001R047 010
+\_no 00011
+\tx 7entonse kwando minn@
+\mb 7entonses kwando min
+\sg1 entonces
+\egl then
+bi dan jaya
+-w@ bi dan jaya
+cuando venir-COM DEF XE
+when come -COM DEF XE
+\tx minn@
+\mb min -w@
+\sg1 venir-COM
+\eg1 come -COM walk -INSTR1-DIR4
+witkuyjo*nh.
+wit -kuy7 -joonh
+andar-INSTR1-DIR4
+\ref ZOH001R047 011
+\_no 00012
+\tx da tijja n
+\mb d@ tij-wa 7@n
+\sgl 1A ir -COM 1E
+\egl 1A go -COM 1E
+ZOH001R0471001.txt
+\zoq 7entonses kwando minn@ bi dan jaya n@mpa, 7i d@x d@ minn@ witkuyjo*nh.
+\fts Entonces cuando vino mi marido dice ke yo vengo del viaje.
+\fte Then when he came back my husband says, and I went on a trip.
+\com
+\idx
+- n - n koke jui.
+\zoq D@ tijj@n kokejui.
+\fts Fui* a comprar pescado.
+\fte I went to buy fish.
+\com
+\idx
+\zoq Tijj@n koketz@mi.
+\fts Fui* a cargar pescado.
+\ref ZOH001R047 012
+\_no 00013
+\tx tijja
+n
+koke
+tz@mi.
+\mb tij-w@ 7@n koke tz@m -E
+\sgl ir -COM 1E pescado cargar-dCOM
+\egl go -COM 1E fish
+carry -dcOM
+7i
+nampa
+n@m
+-pa 7i
+macho decir-INC y
+male say -INC and 1Prn 1A
+1Prn 1A
+koke juy -E
+pescado comprar-dcom
+fish buy -dCOM
+da
+d@x
+d@x da
+Page 3

@@ -1,0 +1,63 @@
+\VAR
+\GRAM int
+\SPG que modo; en que forma
+\ENG how exactly; in what way
+\SPL
+\SLGR
+\EXU 1 junaanh +jaa7_7@m no7tz-w@ bi limeta
+\XPSH 1 [Junanhja*7 7@m no7tztz@ bi limeta?]
+\XSP 1 ?Que* modo quebraste la botella? (Res: a* propo*sito)
+\XEN 1 How did you break the bottle? (Ans: on purpose)
+\EXU 2 junaanh +jaa7 7@m+ tz@k-pa bi tak
+\XPSH 2 [Junanhja*7 7@m tz@kpa bi t@k?]
+\XSP 2 ?Que* modo vas a hacer la casa?
+\XEN 2 How exactly are you going to build the house?
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\DATE 03/Jan/1980
+\lex jun.i7
+\_no 00916
+\LG MIG
+\PSH [juni7]
+\UND jun. E7
+\MB caer pelo, NOM7
+\VAR
+\GRAM pcp/sv
+\SCI
+\USE
+\SPG pelo*n
+\ENG bald
+\EXU kopak=jun. E7
+\XPSH [kopak juni7]
+\XSP pelo*n
+\XEN bald head
+\SYN kopak-taka7
+\SEMF
+\ETYM
+\ETL
+\ROOT jun
+\RTGR 12
+\DSRC TK94
+\CMTS CK-PH of SYN ok HAJ: 96; Not OK: I fixed it: TK
+\date 03/Jan/80
+\lex jun. jun
+\_no 00917
+\LG MIG
+ZOH004R0011001.txt
+\PSH [junjun]
+\UND junjun
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG cucuyuche
+\ENG a type of insect
+\EXU
+\XSP
+Page 400

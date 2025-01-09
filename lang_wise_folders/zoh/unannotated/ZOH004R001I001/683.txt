@@ -1,0 +1,66 @@
+\_no 01573
+\LG MIG
+\PSH [kutyakkoy-]
+\UND kut=yak. 7oy
+\MB X, X, ANTIP
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG andar arrodillado
+\ENG to walk on one's knees
+\EXU kut.yakkoy-w@
+\XPSH [Kutyakkoyy@.]
+\XSP Anduvo arrodillado.
+\XEN He walked on his knees.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * kut
+\RTGR P
+\DSRC HAJ94
+\CMTS analysis: no kut-yak, yak7oy
+\date 24/Jun/96
+\lex kut.x@y
+\_no 01574
+\LG MIG
+\PSH [kutt@y-]
+\UND kut.x@y
+\MB X, DEPOS
+\VAR
+\GRAM depos
+\SCI
+\USE
+\SPG hacerle hincar
+\ENG to make someone kneel
+\SPL
+SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kut
+*
+\RTGR P
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex kux
+\_no 01575
+\LG MIG
+\PSH
+\UND kux
+ZOH004R0011001.txt
+\MB
+\VAR
+\GRAM vt, vi
+=
+\SCI
+\USE
+\SPG recoger el pie al estar sentado
+`kill'
+Page 683

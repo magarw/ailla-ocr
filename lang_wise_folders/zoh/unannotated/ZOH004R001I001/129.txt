@@ -1,0 +1,62 @@
+\date 16/Jun/95
+\lex 7iyanh+jaa7
+\_no 00298
+\LG MIG
+\PSH [7iyanhja*7]
+\UND 7iyanh+jaa7
+\MB
+\VAR
+\USE
+\GRAM int
+\SPG quienes todos
+\ENG who all
+\SPL
+\SLGR
+\EXU 7iyanh+jaa7 d@+ min-tam-w@ y@.ji katemako berakru*s
+\XPSH [7iyanhja*7 d@ mintamm@ yaji Katemako, Berakru*s?]
+\XSP Quienes todos venimos aqui a Catemaco, Veracruz?
+\XEN who all of us came here to Catemaco, Veracruz?
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex 7ofisyu
+\_no 00299
+\LG MIG
+\PSH
+\UND 7ofisyu
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG oficio
+\ENG duty; office
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH - ok/TK
+\date 24/Jun/96
+\lex 7oj
+\_no 00300
+\LG MIG
+\PSH
+\UND 7oj
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG toser
+\ENG to cough
+Page 129

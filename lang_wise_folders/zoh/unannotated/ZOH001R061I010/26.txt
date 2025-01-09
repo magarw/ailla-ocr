@@ -1,0 +1,62 @@
+\XSP brilla bastante
+\XEN it shines a lot
+\EX keopa
+\XSP una cosa que brilla
+\XEN something shiny
+\ROOT keyo 12
+\SEMF light
+\CAUS yak.keo hacer brillar ma*s (hay que limpiarlo)
+\CMTS it's when the sun strikes a shiny object, keopa refers to the
+reflected light
+\lex kep
+\_no 00106
+\SPG patear
+\ENG to kick
+\EX 7@y kepxukk@
+\XSP lo patearon
+XEN they kicked him
+\EX kepkepneyy@
+\XSP lo pataleo**
+\XEN they kicked him a lot
+\EX 7@n kepp@ manhkuy winjo*nh
+\XSP le dio un puntapie
+\XEN he kicked him
+\EX kepp@mpa bi nax
+\XSP esta* suelto la tierra (para sembrar)
+\XEN the earth is turned (for sowing)
+\ROOT kep P (T3)
+\SEMF motion, hit
+\PASS kep.7@m
+ZOH001R0611010.txt
+\ANTI kep.7oy patear atra*s (como caballo)
+\ASSU kep.ney patalear
+\CMTS kick backwards, not forwards
+\lex ket
+\_no 00107
+\SPG tapar; envolver con cobija o con sa*bana
+\ENG to cover; to wrap - with a blanket or a sheet
+\EX 7@y kett@ 7@y win
+\XSP se tapo*
+\XEN she covered herself
+\ROOT ket P (T3)
+\SEMF wrap
+\PASS ket.7@m taparse
+\ANTI ket.7oy
+\CMTS
+\lex ketz
+\_no 00108
+\SPG regar agua
+\ENG to sprinkle water
+\EX n@ ketztz@ tzanhkuyj@nanh
+\XSP rego* agua con la mano
+\XEN she sprinkled water with her hand
+\EX ketztz@mm@ bi n@7
+\XSP se rego* el agua
+\XEN the water was sprinkled
+\EX 7@y ketzxukxukk@
+\XSP 10 acabaron de regar el agua
+\XEN they finished sprinkling the water
+\ROOT ketz T1
+\SEMF affect, water
+\PASS ketz.7@m
+Page 26

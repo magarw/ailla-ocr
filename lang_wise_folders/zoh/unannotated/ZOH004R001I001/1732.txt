@@ -1,0 +1,63 @@
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 26/Jun/96
+\lex xuy
+\_no 04026
+\LG MIG
+\PSH
+\UND xuy
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG pescar con anzuelo
+\ENG to fish with a fish hook
+\EXU 1 koke=xuy-w@
+\XPSH 1 [Kokexuyy@.]
+\XSP 1 Agarro* pescado con anzuelo.
+\XEN 1 He caught fish with a hook.
+\EXU 2 n@k-pa 7@n+ xuy-w@
+\XPSH 2 [N@kpan xuyy@.]
+\XSP 2 voy a pescar con anzuelo.
+\XEN 2 I'm going fishing with a hook.
+\SYN
+\SEMF hunt, animal
+\ASP process
+\ARG
+\NOM xuy.kuy7, xu.i7
+\SUB
+\ETYM
+\ETL
+\ROOT xuy
+\RTGR T1
+\DSRC HAJ94
+\CMTS %xuy (1)
+\date 03/Jan/80
+\lex xuy.kuy7
+\_no 04027
+\LG MIG
+\PSH [xuykuy7]
+\UND xuy.kuy7
+\MB pescar_con_anzuelo, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG anzuelo
+\ENG fishhook
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT xuy
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 22/Oct/94
+Page 1732

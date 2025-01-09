@@ -1,0 +1,62 @@
+\ETL
+\ROOT xanh
+\RTGR T3
+\DSRC TK96
+\CMTS
+\date 26/Jun/96
+\lex 7anh=xanh'.'@y
+\_no 00188
+\LG MIG
+\PSH [7anhxanhnh@y-]
+\UND 7anh-xanh7.7@y
+\MB BOCA, machetear, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG machetear otro pedazo ma*s de lo que hizo
+\ENG to cut (with a machete) another little piece
+\SPL
+\SLGR
+\EXU 7@n+ 7anh.xanh'.7@y-wa
+\XPSH [7@n 7anhxanhnh@yy@.]
+\XSP Corte* otro pedazo_mas.
+\XEN I cut another little piece.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xanh
+\RTGR T3
+\DSRC TK96
+\CMTS
+\date 26/Jun/96
+\lex 7anh-xuku7k
+\_no 00189
+\LG MIG
+\PSH [7anhxuku7k]
+\UND 7anh-xuku7k
+\MB BOCA, X
+\VAR
+\GRAM s (m)s
+\SCI
+\USE
+\SPG sombra
+\ENG shade
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 20/Jun/95
+\lex 7anh-xuku7k=tz@k
+\_no 00190
+ZOH004R0011001.txt
+\LG MIG
+\PSH [7anhxuku7ktz@k-]
+Page 80

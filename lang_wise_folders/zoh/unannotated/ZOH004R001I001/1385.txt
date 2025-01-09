@@ -1,0 +1,63 @@
+\lex t@'k.i7
+\_no 03219
+\LG MIG
+\PSH [t@ki7]
+\UND t@7k. E7
+\MB hipar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG hipo
+\ENG hiccough
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT t@7k
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex t@'-pa+a7k
+\_no 03220
+\LG MIG
+\PSH [t@pa*7]
+\UND t@7-pa +P@7k
+\MB querer, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG novio/a
+\ENG boyfriend or girlfriend
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT ta
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex t@'.t@7
+\_no 03221
+\LG MIG
+\PSH [t@t@7]
+\UND t@7.t@7
+\MB querer, querer
+\VAR
+\GRAM SR
+\SCI
+\USE
+\SPG moyocuili
+\EXU pop (o') t@'.t@7
+\XPSH [popo t@t@7]
+ZOH004R0011001.txt
+Page 1385

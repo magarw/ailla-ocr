@@ -1,0 +1,64 @@
+\SCI
+\USE
+\SPG sarna
+\ENG itch; mange
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzi7tz
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tzoja7
+\_no 03395
+\LG MIG
+\PSH
+\UND tzoja7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG algodo*n
+\ENG cotton
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF EB
+LF:7okox
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex tzoja7 robleyti7
+\_no 03396
+\LG MIG
+\PSH
+\UND tzoja7 robleyti7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG algodo*n del roble
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS denied by GSM; HAJ, TK
+\date 26/Jun/96
+ZOH004R0011001.txt
+Page 1460

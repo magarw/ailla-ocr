@@ -1,0 +1,63 @@
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG estar viendo
+\ENG to be looking
+\EXU
+\XSP
+\XEN
+\SYN ko.7amma
+\SEMF
+\ETYM
+\ETL
+\ROOT 7ix
+\RTGR T3
+\DSRC TK94
+\CMTS lo juzgo* bien o lo vio* bien
+\CMTS rejected gloss: 'ver a ver si quiere'
+\date 13/Jul/95
+\lex ko.7oj
+\_no 01286
+\LG MIG
+\PSH [ko7oj-]
+\UND ko.7oj
+\MB OTRO, toser
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG toser
+\ENG to cough
+\SPL
+\SLGR
+\EXU ti 7@m+ ko.7oj-pa
+\XPSH [Tim ko7ojpa?]
+\XSP ?Porque toseas?
+\XEN Why are you coughing?
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 70j
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 11/Jan/96
+\lex ko.7okx. '@y
+\_no 01287
+\LG MIG
+\PSH [ko7okx@y-]
+\UND ko.7okx.7@y
+ZOH004R0011001.txt
+\MB OTRO, apagarse, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG apaga*rse la luz
+\ENG for the light to go out
+\SPL
+\SLGR
+\EXU ko.7okx. '@y-w@ 7@y+ ta7kx.@7
+Page 561

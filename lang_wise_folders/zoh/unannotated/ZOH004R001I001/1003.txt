@@ -1,0 +1,63 @@
+\_no 02328
+\LG MIG
+\PSH [nikw@kx@y-]
+\UND nik.w@kx.7@y
+\MB SUP, colgar, SUF
+\VAR
+\GRAM vt
+\SPG colgar algo sobre el hombro de alguien
+\ENG to hang something from someone's shoulder
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT w@kx
+\RTGR P, (TX)
+\DSRC HAJ95
+\CMTS
+\date 19/Jun/96
+\lex nik.xi7kx. '@y
+\_no 02329
+\LG MIG
+\PSH [nikxi7kx@y-]
+\UND nik.xi7kx.7@y
+\MB SUP, 11oviznar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 salpicar a alguien
+\SPG 2 regar con la mano
+ENG 1 to sprinkle over someone
+\ENG 2 to sprinkle with your hand
+\EXU 7@y+ nik.xi7kx. '@y-wa n@7
+\XPSH [7@y_nikxi7kx@yy@ n@7.]
+\XSP Le salpico* el agua.
+\XEN He sprinkled water on someone.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xi7kx
+\RTGR TX
+\DSRC HAJ94
+\CMTS get deriv's; CK-ROOT; this was spelled -xikx- earlier. now German
+says it's -xi7kx- and that xi7kx and xikx are variants.
+\date 26/Jun/96
+\lex ni.k@x
+\_no 02330
+\LG MIG
+\PSH [nik@x]
+\UND ni.k@x.0
+\MB PURP, comer, NOM6
+\VAR
+ZOH004R0011001.txt
+\GRAM SVO
+\SCI
+\USE
+\SPG la cosa en donde comemos
+\ENG a place to eat at
+\EXU ni.k@x mexa
+\XSP mesa para comer
+\XEN
+Page 1003

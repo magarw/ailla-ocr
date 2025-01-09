@@ -1,0 +1,64 @@
+\LG MIG
+\PHO [ki7tkuy7]
+\UND ki7t.kuy7
+\MB meter_dedo, INSTR1
+\VAR
+\GRAM instr1
+\SPG dedo
+\ENG finger
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT ki7t
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex ki7t.naanh
+\_no 01260
+\LG MIG
+\PHO [ki7tna*nh]
+\UND ki7t.naanh
+\MB meter_dedo, MED
+\VAR
+\GRAM meas
+\SPG el tanto (de comida)
+que se puede levantar con un dedo
+\ENG the amount (of food) you can pick up with your finger
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT ki7t
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex ki7t-p@k
+\_no 01261
+\LG MIG
+\PSH [ki7tp@k-]
+\UND ki7t=p@k
+\MB meter_dedo, agarrar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG agarrar (comida) con el dedo
+\ENG to pick up (food) with the finger
+\EXU 7@y+ ki7t-p@k-w@ 7@y+ k@x. E 7@y+ prob-tz@k-wa si waj.wa
+\XPSH [7@y ki7tp@kk@y k@xi, 7@y probtz@kk@ si wajwa.]
+\XSP Agarro* la comida con el dedo, lo probo* a ver si fue* salado.
+\XEN She took a little food with her finger, she tasted it to see if it had
+salt.
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT ki7t
+\RTGR T3
+\ROOT p@k
+\RTGR T3
+Page 550

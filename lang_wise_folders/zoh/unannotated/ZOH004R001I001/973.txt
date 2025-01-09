@@ -1,0 +1,63 @@
+\SYN jepx.kuy7
+\SEMF
+\ETYM
+\ETL
+\ROOT jepx
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 26/Jan/96
+\lex ni.jey
+\_no 02258
+\LG MIG
+\PSH [nijey-]
+\UND ni.jey
+\MB PURP, batir
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG batir encima (de un traste)
+\ENG to beat over another dish
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jey
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 15/Jul/95
+\lex ni.jim
+\_no 02259
+\LG MIG
+\PSH [nijim-]
+\UND ni.jim
+\MB PURP, tocar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tocar al pasar
+\ENG to touch in passing
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jim
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 15/Jul/95
+ZOH004R0011001.txt
+Page 973

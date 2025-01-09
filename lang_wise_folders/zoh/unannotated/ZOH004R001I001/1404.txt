@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tzanh
+\RTGR 1 T3
+\ROOT 2 to7kx
+\RTGR 2 T2
+\DSRC HAJ94
+\CMTS
+\date 25/Jun/95
+\lex tzanh.naanh
+\_no 03264
+\LG MIG
+\PHO [tzanhna*nh]
+\UND tzanh.naanh
+\MB pegar_con_pun~o, MED1
+\VAR
+\GRAM meas1
+\SPG pun~azo
+\ENG fistful
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT tzanh
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tzanh-p@k
+\_no 03265
+\LG MIG
+\PSH [tzanhp@k-]
+\UND tzanh-p@k
+\MB pegar_con_pun~o, agarrar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG saludar tocandolo en el hombro
+\ENG to greet with a pat on the shoulder
+\EXU 7@y+ tzanh-p@k-w@ 7@y+ pek.pek+g@xi
+\XPSH [7@y_tzanhp@kk@y pekpekg@xi.]
+\XSP Lo saludo* tocandolo en el hombro.
+\XEN He greeted him by patting him on the shoulder.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzanh
+\RTGR T3
+\ROOT pak
+\RTGR T3
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex_tzanh-tuk. tuk.w@y
+\_no 03266
+ZOH004R0011001.txt
+\LG MIG
+\PSH [tzanhtuktukw@y-]
+Page 1404

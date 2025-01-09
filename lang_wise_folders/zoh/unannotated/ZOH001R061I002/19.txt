@@ -1,0 +1,61 @@
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex jok
+\_no 00074
+\SPG ahumarse (se hizo con el humo)
+\ENG to be smoked; to get smoky
+\SEMF condition
+\ASP activity
+\ARG
+\NOM jok.e7, jok.a7
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex jo.kit
+\_no 00075
+\SPG hacer pedazos quebra*ndolo
+\ENG to break something into pieces
+\SEMF break
+\RTGR T3
+\POS 7@y jokitjayy@
+\MID jokitt@mm@ jemji
+\UNDO
+\CLZ
+\CMTS
+\lex jom
+\_no 00076
+\SPG cercar con rama
+\ENG to fence with branches
+\SEMF build
+\ASP activity
+\ARG
+\NOM jom.e, jom.kuy7
+\RTGR P, (T3)
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex jonh
+\_no 00077
+\SPG atarantarse, marearse
+\ENG to become dizzy
+\SEMF cognitive
+\ASP state, achievement
+ZOH001R0611002.txt
+\ARG
+\NOM jow.e, jonh.kuy7, jonh=nuk
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+se quebro* todo/ todos esta*n quebrado
+Page 19

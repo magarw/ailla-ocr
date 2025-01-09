@@ -1,0 +1,66 @@
+(170) 0=0=ook-x
+jaqo-'n tzi
+ky-ch'oo'p
+CPL.DEP=B3s=DIR=DIR abrir-SD A3s+SR: entrada A3p-nalga
+'que les abrieron el ano'
+(171) b'i'x
+0-i-kyim,
+de.una.vez CPL.DEP=B3p=morir
+'se murieron'
+(172) yaa nti'x 0=i=b'ant.
+ya NEG CPL.DEP=B3p-hacerse
+'ya no se hizo (lo que pensaban).'
+jun
+INC=B3s=venir-pues un
+'Vino un señor Pich,'
+(173) N=0=tzaaj-tzan
+(174) Mii'n-ajo qapa chiix
+NEG=DEM tal.vez de.repente CPL-DEP=B3s-quedar
+t-iyaj-iil-a,
+A2s-semilla-ABST=2s
+'Mira, tal vez se quedó de tí una semilla,’
+(175) luu jun t-xu'j-al-a
+luu'
+aquí un A2s-mujer-ABST=2s aquí
+'aquí tienes para tu esposa,"
+(176) 0-chi-tzan.
+B3s-decir pues
+'dijo.'
+(177) 0=0=ook
+CPL.DEP=B3s=DIR
+tii Pich,
+grande Pich
+0=0=kyaj
+(178) Ween 0-chi-tzan
+(179) ii_0=0=eel-tzan
+q’o-’n jun xu’j Pich t-e
+dar-SD un mujer Pich
+t-xu'j-al
+xjaal.
+A3s-mujer-ABST persona
+'Le dio una mujer Pich para su esposa de la persona.'
+xjaal,
+bueno B3s-decir-pues persona
+'Está bien, dijo la persona,'
+t-e
+y CPL.DEP=B3s-salir-pues A3s-SR
+'y la persona pasó muchos días,'
+(181) Yaa n=0=tzaaj=tzan=ta
+(180) b'isan nim=tzan_q'iij 0
+y
+mucho pues día
+'y la persona estaba muchos dias'
+A3s-SR
+ya INC=B3s=venir-pues=3sENF
+'Ya la persona tuvo un hijo.'
+jun
+un
+0=teen=ta
+CPL B3s estar=3sENF
+xjaal t-q'iij,
+persona A3s-día
+xjaal t-k'waa'l.
+persona A3s-hijo
+xjaal.
+persona
+16

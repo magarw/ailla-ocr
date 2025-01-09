@@ -1,0 +1,85 @@
+\com
+\idx
+\ref ZOH001R036 612
+\_no 00601
+tzoy
+\tx OSM: 7adyo n mama
+\mb OSM 7adyo 7@n mama
+\sg1 OSM: luego 1E mama*
+-da
+tzoy
+3E hacer-COM DCT2-DEM saltar
+\egl OSM: later 1E mother 3E do -COM DCT2-DEM jump
+\ref ZOH001R036 613
+\_no 00602
+ZOH001R0361001.txt
+\zoq OSM: 7adyon mama 7@y tz@kk@ ded@ tzoy.
+\fts OSM: Luego mi mama* hizo ese remedio.
+\fte OSM: Later my mother made that medicine.
+\com
+\idx
+7@y tz@kk@
+7@y tz@k -wa
+\tx
+tzoy
+\mb
+-d@
+tzoy
+7@n mama 7@y tz@kk@
+7@n mama 7@y tz@k -wa
+\sgl 1E mama* 3E hacer-COM DCT2-DEM saltar
+\egl 1E mother 3E do -COM DCT2-DEM jump
+\zoq 7@n mama 7@y tz@kk@ ded@ tzoy.
+\fts Mi mama* hizo ese remedio.
+\fte My mother made that medicine.
+\com
+\idx
+\ref ZOH001R036 614
+\_no 00603
+\tx 7@y p@w@
+tum tzima n@7
+\mb 7@y p@7 -wa tum tzima7 n@7
+\zoq 7@y p@w@ tum tzima n@7,
+fts Puso una ji*cara de agua,
+\fte she put a gourd of water,
+\com
+\idx
+\ref ZOH001R036 615
+\_no 00604
+\tx w@ti
+y tzima7
+\mb w@ti7 7@y tzima7
+\sgl grande 3E ji*cara
+\eg1 large 3E dipper
+ded@
+te
+\sg1 3E poner-COM uno ji*cara agua
+\egl 3E put -COM one dipper water
+\zoq w@tiy tzima7.
+\fts ji*cara grande.
+\fte a big gourd.
+\com
+\idx
+ded@
+te
+\ref ZOH001R036 616
+\_no 00605
+\tx minn@
+y p@w@
+tum 7onanh
+\mb min -w@
+-w@ 7@y
+7@y p@7 -wa tum 7on
+\sg1 venir-COM 3E poner-COM uno desarreglar-MED
+\egl come -COM 3E put -COM one mess_up
+-naanh
+-MEAS
+\zoq Minn@y p@w@ tum 7onanh de kajwe pote.
+Page 131
+de kajwe
+de kajwe
+de cafe
+of coffee grind-NOM3
+pote
+po7t -E
+moler-NOM3

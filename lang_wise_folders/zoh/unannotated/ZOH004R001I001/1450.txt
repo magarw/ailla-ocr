@@ -1,0 +1,64 @@
+\XSP cucuyo pinto
+\XEN spotted firefly
+\EXU tzux tzinko7kx
+\XSP cucuyo verde
+\XEN green firefly
+\EXU chik y@k tzinko7kx d@k+7a
+\XPSH [chik y@k tzinko7kx_d@kka]
+\XSP cucuyo biushito negro
+\XEN small black fireflies
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\lex tzin=t@k
+\_no 03373
+\LG MIG
+\DSRC HAJ94
+\CMTS ANALYZE; cf. ko7kx vi roncar
+\date 26/Jun/96
+\PSH [tzint@k]
+\UND tzin=t@k
+LF:bugs
+\MB ocote, casa
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG pichancha para lavar nixtamal
+ENG big colander for washing corn
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS analysis; who knows? : TK
+\date 26/Jun/96
+\lex tzin=t@m
+\_no 03374
+\LG MIG
+\PSH [tzint@m]
+\UND tzin=t@m
+\MB ocote, fruta
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG fruta de ocote
+\ENG pine cone
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+\ETL
+\ROOT
+\DSRC HAJ94
+Page 1450

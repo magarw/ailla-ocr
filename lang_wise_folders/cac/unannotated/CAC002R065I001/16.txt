@@ -1,0 +1,26 @@
+YERELAN
+11
+bol used for each consonant phoneme. The phonemes / b d g f /
+occur only in non-native roots.
+Vowel Phonemes
+The five Chuj vowel phonemes are the high front vowel
+/i/, the low front vowel /e/, the low central vowel /a/, the
+high back vowel /u/, and the low back vowel /o/.
+Stress Phonemes
+The phonemes of stress in Chuj are weak stress, which
+is left unmarked, strong stress /'/, and sentence stress / "/.
+Juncture Phonemes
+Chuj junctural phonemes are close juncture, marked by
+a single space or by /+/, and open juncture, marked /#/.
+Contour Phonemes
+The three phonemes of contour in Chuj are marked with
+arrows indicating the direction of glide. Rising contour is
+marked //, level contour is marked /→/, and falling contour
+is marked /↓/.
+Pitch Phonemes
+The three phonemes of pitch in Chuj are marked with num-
+bers indicating the level of pitch: highest pitch, /³/; middle
+pitch, /2/; lowest pitch, //. In phonemic transcription, the
+series of numbers denoting significant pitch levels is written
+to the right of the symbol for open juncture, and is followed
+by the notation of contour.

@@ -1,0 +1,65 @@
+\PSH [7anht@7oba*7]
+\UND 7anh-t@7.7oy-pa +P@7k
+\MB BOCA, querer, ANTIP, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG 1 antojo
+\SPG 2 antojito
+\ENG 1 whim
+\ENG 2 appetizer
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT t@
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-GL
+\date 09/Jan/96
+-
+LG MIG
+OK
+\lex 7anh-tzaji
+\_no 00172
+\PSH
+\UND 7anh-tzaji
+\MB
+\VAR
+\GRAM av
+\SPG en la nochecita
+\ENG in the evening
+\SPL
+\SLGR
+\EXU te.y ye7tz-xuk-w@ 7anh-tzaji
+\XPSH [Tey ye7chukk@ 7anhtzaji.]
+\XSP Ahora llegaron en la nochecita.
+\XEN Now they arrived in the evening.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS extracted from a text (Viaje a* Forti*n)
+\date
+\lex 7anh-tzam
+\_no 00173
+ZOH004R0011001.txt
+LG MIG
+\PSH [7anhtzam-]
+\UND 7anh-tzam
+\MB BOCA, platicar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG platicarse algo, como un chisme
+\ENG for something to be talked about, like gossip
+\EXU 7@y+ matonh-w@ 7anh-tzam.e ga.ja.anh
+\XPSH [7@y matonhnh@ 7anhtzame_gaja*nh.]
+\XSP Escucho* la platica por alla*.
+Page 73

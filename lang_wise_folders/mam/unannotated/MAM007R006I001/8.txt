@@ -1,0 +1,64 @@
+(89) miix
+NEG
+'y no se despegaba.'
+0=waa'-n
+B3s-comer-AP
+(90) Nti'
+(91) n=0='eel
+NEG
+'No comió'
+lak'paj.
+CPL.DEP=B3s=DIR pegarse
+t-k'u'j
+INC=B3s=salir A3s-estómago
+'y tenía hambre.'
+(92) Jandaa
+0=0=eel
+(93) jandaa
+por.favor
+'Por favor, dijo'
+0-chi-tzan,
+B3s-decir pues
+q'oo-m pawoor-a ja’la,
+por.favor dar-IMP favor-2s ahora
+'hágame un favor'
+(94) ku chin t-tzaqpi-n=tz-a
+? Bls A2s-soltar-IMP=DIR=2s/1s
+me suelte,
+(95) chin t-tzaqpii-n=tza-x=ta
+Bls A2s-soltar-IMP=DIR=DIR=2sENF
+'suélteme,'
+(96) 0-chi-tzan
+t-q'ama-'n t-ee
+xkab'
+B3s-decir pues CPL.DEP=B3s-DIR A3s-decir-SD A3s-SR:DAT cera
+'le dijo a la cera,”
+(97) chin t-tzaqpi-n=tz-a
+Bls A2s-soltar-IMP=DIR=2s/1s
+'suélteme.'
+(99) ma-a'
+0=0=ok
+kab',
+pero ya ahora EXIST=B3s dos
+'Ahora tengo dos,'
+(98) Per ya jaʼla at=0
+0-kyaj
+PROX=ENF B3s=quedar
+'ya se quedó mi mano y mi pie,
+xhin
+(100) qa=tzan mii
+n-q'ab'=a_t-uk'a
+n-qan=a,
+A2s-mano=1s A3s-SR:COM A1s-pie=1s
+(101) ok_k-x-eel
+tzaj t-tzaqpi-'n=a
+si pues NEG PROX.DEP+Bls DIR
+'y si no me suelte,'
+t-pataada ya
+POT B3s-ir-POT A2s-patada=2s
+'te voy a dar otra patada.'
+A2s-soltar-SD=2s/1s
+w-u'n=a
+jaʼla.
+Als-SR:AGT=1s ahora
+9

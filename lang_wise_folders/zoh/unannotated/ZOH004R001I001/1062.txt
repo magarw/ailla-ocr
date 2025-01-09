@@ -1,0 +1,62 @@
+\date 05/Oct/94
+\lex n@' 7@y+ wit@m
+\_no 02463
+\LG MIG
+\PSH [n@y wit@m]
+\UND n@7 7@y+ wit@m
+\MB agua, 3Erg, ojo
+\VAR
+\GRAM sps
+\SCI
+\USE
+\SPG ojo de agua; manatial
+\ENG spring (of water)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 23/Dec/95
+\lex n@¹.7aH
+\_no 02464
+\LG MIG
+\PSH [n@7a-]
+\UND n@7.7aH
+\MB agua, VERS1
+\VAR
+\GRAM vi: versl
+\SCI
+\USE
+\SPG salir agua
+\ENG for water to come forth
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex n@'-7uk
+\_no 02465
+\LG MIG
+\PSH [n@7uk-]
+\UND n@7=7uk
+\MB agua, tomar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG tomar agua
+\ENG to drink water
+\EXU
+ZOH004R0011001.txt
+Page 1062

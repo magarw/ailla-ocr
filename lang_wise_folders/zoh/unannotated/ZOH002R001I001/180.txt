@@ -1,0 +1,45 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+7.1.1.2. ?ok
+This prefix usually, but not always, co-occurs with the suffix -?ǝy. ?ok-
+combines with ?aŋ- to produce ?oŋ- (example vi), although this is a rare
+occurrence. The most consistent contribution that ?ok- makes to the meaning
+of the verb complex is DOWN, hence the gloss code. ?ok- and yuk-, UP, are the
+most consistently directional prefixes of the set. Finally, on a cultural note,
+?ok- also indicates 'south', since one goes down in order to go south in San
+Miguel Chimalapa, most clearly shown in example (v).
+(7.5)
+(i) 'okjonangpø'
+(iii)
+(iv)
+(v)
+(vi)
+?ok+honaŋ+pə?k
+DOWN+DIR3+REL
+'lowlander'
+dø 'oktzamjadammø
+də+ ?ok.cam.hay-tam-we
+1 A+ DOWN.chat.APPL-1/2PL-COM
+'He told us a tale.'
+'øy 'okxe'pxjayyø
+?əy+ ?ok.še?pš.hay-wa
+3E+ DOWN.make_rope.APPL-COM
+'He hurled it down at him.'
+'okku'pxxø
+0 ?ok.?u?pš-wə
+3A DOWN.get_cloudy-COM
+'Clouds rose up in the south.'
+'øy yak'ongtze'koba 'øy jatong
+?əy+yak.?ok.?aŋ.ce?k.?oy-pa
+(ii)
+3E+ CAUS.DOWN.MOUTH.ask.ANTIP-INC
+'His father asks him.'
+155
+'øy 'oknukkəyyə
+?əy+ ?ok.nuk.?ǝy-wa
+3E+ DOWN.grasp.SUF-COM
+'She let go of it.'
+(ZOH001 R018- 022)
+(ZOH001 R018- 078)
+?ǝy+ hatoŋ
+3E+ father
+(ZOH001 R018- 279)

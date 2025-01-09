@@ -1,0 +1,63 @@
+\MB secar, NOM7, toser, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG (e*1 que tiene) tuberculosis
+\ENG one who has tuberculosis
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 t@tz
+\RTGR 1 12
+\ROOT 2 7oj
+\RTGR 2 11
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex t@w.i
+\_no 00330
+\LG MIG
+\PSH [t@wi]
+\UND t@nh.E
+\MB cortar, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG una cosa cortada con machete
+\ENG something that was cut with a machete
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT t@nh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex t@'k.i7
+\_no 00331
+\LG MIG
+\PSH [t@ki7]
+\UND t@7k. E7
+\MB hipar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+ZOH001R0611004.txt
+\SPG hipo
+\ENG hiccough
+\EXU
+\XSP
+\XEN
+\SYN
+Page 132

@@ -1,0 +1,49 @@
+\DSRC HAJ98
+\CMTS
+\date
+\DATE 03/Jan/1980
+\_no 00086
+\LG MIG
+\PHO [7anhj@nanh]
+\UND 7anh=j@nanh
+\MB
+\VAR
+\USE directional
+\GRAM av
+\ENG over to X
+\EXU_d@_n@k-pa juxtixa 7anhj@nanh
+\XPSH [D@_n@kpa juxtixa 7anhj@nanh.]
+\XEN I'm going over near the mayor's office.
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\_no 00087
+\PSH [7anhj@t-]
+\MB BOCA, rebajar
+\VAR
+\GRAM vt
+\USE
+\SPG dar de comer en traste
+\ENG to feed from a dish
+\SPL
+\SLGR
+\EXU 7@y+ 7anh=j@t-w@ piyu7
+\XPSH [7@y 7anhj@tt@ piyu7.]
+\XSP Le dio de comer el pollito en algo (un traste).
+\XEN She fed the chicken from a dish.
+ZOH004R0011001.txt
+\ROOT jat
+\RTGR 12
+\DSRC HAJ95
+\date 09/Jan/96
+\lex 7anh-j@y
+\_no_00088
+\LG MIG
+\PSH [7anhj@y-]
+\UND 7anh-j@y
+\MB BOCA, 11orar
+\VAR
+\GRAM vi
+Page 38

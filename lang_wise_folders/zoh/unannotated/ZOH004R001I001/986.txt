@@ -1,0 +1,62 @@
+\ROOT jot
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 17/Jul/95
+\lex nik.jox. '@y
+\_no 02288
+\LG MIG
+\PSH [nikjoxx@y-]
+\UND nik. jox.7@y
+\MB SUP, amasar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG darle amasado
+\ENG to give someone something that has been kneaded
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jox
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 17/Jul/95
+\lex nik.jum. '@y
+\_no 02289
+\LG MIG
+\PSH [nikjumm@y-]
+\UND nik.jum.7@y
+\MB SUP, derrumbar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG derrumba*rselo encima de alguien
+\ENG to tumble down on top of someone
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jum
+\RTGR T2
+\DSRC HAJ95
+ZOH004R0011001.txt
+\CMTS
+\date 27/Jan/96
+\lex nik.jup. '@y
+\_no 02290
+\LG MIG
+Page 986

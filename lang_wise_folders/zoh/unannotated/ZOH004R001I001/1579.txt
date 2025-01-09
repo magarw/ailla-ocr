@@ -1,0 +1,63 @@
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT wi7kx
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex win
+\_no 03673
+\LG MIG
+\PSH
+\UND win
+\MB
+\VAR
+\GRAM SY
+\SCI
+\USE
+\SPG 1 por adelante
+\SPG 2 superficie: mesa
+\SPG 3 edge: machete, cuchillo
+ENG 1 in front
+\ENG 2 surface: table
+\ENG 3 edge: machete, knife
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 11/Feb/96
+\lex win-ja7p
+\_no 03674
+ZOH004R0011001.txt
+\LG MIG
+\PSH [winja7p-]
+\UND win-ja7p
+\MB CARA, moler
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG quitar moliendo algo que teni*a el metate por encima
+\ENG to stop grinding something on the surface of the metate
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ja7p
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+Page 1579

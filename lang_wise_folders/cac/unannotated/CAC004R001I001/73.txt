@@ -1,0 +1,98 @@
+ay nab'en spet inb'at t'a merkado
+ay-ø
+nab'en spet
+in-b'at t'a merkado
+exist-3B querer temprano 1B-ir
+prep mercado
+Mañana vengo temprano aquí.
+k'ik'an spet inja' t'a tik
+k'ik'an spet
+in-ja' t'a tik
+mañana temprano 1B-venir prep dem
+148
+Quiero ir a México contigo.
+a in inab'en ijan tzinb'at et' t'a Mejiko
+a in in-nab'en ijan tz-in-b'at ø-et' t'a Mejiko
+top 1B 1B-querer casi pres-1B-ir 2A-SR prep México
+237. Quiero quedarme aquí.
+ingana tzinkan t'a tik
+in-gana tz-in-kan
+t'a tik
+1A-gana pres-1B-quedarse prep dem
+inab'en tzinkan t'a tik
+in-nab'en tz-in-kan
+t'a
+tik
+1A-querer pres-1B-quedarse prep dem
+238. Quiero que te quedes aquí.
+ingana tzachkan t'a tik
+in-gana tz-ach-kan
+t'a
+tik
+1A-gana pres-2B-quedarse prep dem
+239. No quiero que te quedes solo aquí.
+man inganaok laj tzachkan t'a tik
+man in-gana-ok laj tz-ach-kan
+t'a tik
+neg 1A-gana-IRR neg pres-2B-quedarse prep dem
+malaj ingana to tzachkan t'a ch'okojil t'a tik
+malaj in-gana to tz-ach-kan
+t'a ch'okojil t'a tik
+neg 1A-gana nex pres-2B-quedarse prep solo
+prep dem
+240. Juan quería que me quedara en su casa.
+a waj Xun sgana winh ixinkan t'a spat winh
+waj
+Xun s-gana
+winh ix-in-kan
+winh
+s-pat
+top Cmasc Juan 3A-gana él pas-1B-quedarse prep 3A-casa él
+t'a
+a
+winhaj Xun snab'en winh to ijan inkan t'a spat winh
+t'a
+winhaj Xun s-nab'en winh to ijan in-kan
+s-pat winh
+Cmasc Juan 3A-querer él nex casi 1B-quedarse prep 3A-casa él
+241. Juan no quería que me quedara en su casa.
+a waj Xun maj yal laj sk'o'ol winh ixinkan t'a spat winh
+Xun ma-j Ø-yal laj s-k'o'ol
+winh
+a
+waj
+top Cmasc Juan neg-pas 3B-poder neg 3A-estómago él
+ix-in-kan
+s-pat
+winh
+pas-1B-quedarse prep 3A-casa él
+t'a
+a waj Xun malaj sgana winh ixinkan t'a
+waj
+top Cmasc Juan neg 3A-gana él
+a
+winh
+él
+Xun malaj s-gana winh ix-in-kan
+spat winh
+winh
+él
+winhaj Xun malaj snab'en winh to tzinkan t'a spat winh
+t’a
+s-pat
+winhaj Xun malaj s-nab'en winh to tz-in-kan
+Cmasc Juan neg 3A-querer él nex pres-1B-quedarse prep 3A-casa
+t'a
+s-pat
+pas-1B-quedarse prep 3A-casa
+242. Me prometiste unos elotes.
+ixyaltej ixim ajan t'ay in
+ix-ø-Ø-yalt-ej
+ixim ajan t'ay in
+pas-3B-2A-prometer-vtd Cmaíz elote prep 1B
+Me prometiste una manzana.
+ixala to olak' jun inmansan
+ix-ø-Ø-al-a
+to ol-ø-Ø-ak' jun in-mansan
+pas-3B-2A-decir-vtt nex fut-3B-2A-dar uno 1A-manzana
+149

@@ -1,0 +1,25 @@
+Johnson / A Grammar of San Miguel Chimapala Zoque
+Chapter 5: Inflectional Morphology
+Obligatory inflection consists of a person agreement marker (5.1) and a
+mood or aspect suffix (5.2). Optional inflectional morphology consists of
+reciprocals (5.3), reflexives (5.4), negation (5.5), and marking of verbs as
+dependent in auxiliary constructions (5.6).
+5.1. Person agreement markers
+Table 5.1 shows the set of person agreement markers. There are three
+person categories in common use in the modern language: first, second, and
+third. Historically, there were two first person categories: exclusive (X), which
+referred to the speaker and hearer, but not everyone present, and inclusive (1),
+which included to all persons present. The markers for these categories are
+included in the table, but they occur very rarely in the corpus and were never
+offered in elicitation sessions.
+MIG Zoque, like the other MZ languages, is ergative: subjects of
+intransitive verbs (S) and objects of transitive verbs (O) are marked with
+Absolutive case, while subjects of transitive verbs (A) and possessors of nouns
+are marked with Ergative case (Dixon, 1994). This is superficially a mixed
+system. The first and third person markers are prototypically ergative, with
+identity of forms for S and O and distinct forms for A. The second person
+markers show an accusative pattern: S and A are the same, while there are
+various ways to mark O, depending on the person of the agent. The merging of
+second person forms is a relatively recent innovation in MIG Zoque (Kaufman,
+p.c.).
+91

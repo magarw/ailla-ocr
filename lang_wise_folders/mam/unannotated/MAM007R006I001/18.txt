@@ -1,0 +1,73 @@
+(214) Kuu n=0=kyaj-tzan
+teen=ta
+tiiya kayoot.
+bien INC=B3s-DIR=pues estar=3sENF tío coyote
+'está bien, se queda el tío coyote.'
+jun pyeest k=b'aj-eel,'
+EXIST=B3s un fiesta B3s-terminar-POT
+'Hay una fiesta que se celebrará,'
+teen=ta
+tiiya
+INC=B3s=DIR=pues estar=3sENF tío
+kyitaar txe
+xaq.
+A3s-SR:COM guitarra A3s+SR:debajo peña
+'se queda el tío coyote a tocar la guitarra en el peñasco.'
+(215) At=0
+(216) n=0=kyej=tzan
+t-uk'
+0=tzaaj,
+PROX=pues B3s=venir
+'Cuando vino,'
+(217) Ma-tzan
+(218) sprooq'an
+AFEC:ruido.explotar
+'explotando llegó el fuego'
+0=naaj
+PROX=ENF B3s-perder
+'Se perdió conocimiento el tío coyote,'
+t-jaa'w-al
+(219) Ma='
+AFEC:saltando A3s-salir=DIR
+'saltó'
+(222) oqee-n
+t-eel.
+huir-PART A3s-salir
+'salió corriendo.'
+(223) 0=moo'laj
+t-ku'-pan-ta
+A3s-bajar=DIR=3sENF
+(220) juulan
+q'aaq', ju'lalala
+AFEC: forma.llamas A3s-subir-TERM fuego, AFEC: forma.llamas.altas
+'de repente las llamas del fuego llegó (a él)'
+(221) t'iky
+t-ee=tz
+(225) 0-chi-tzan
+B3s-decir-pues
+'dijo.'
+t-naa-b'il
+t-kyitaar
+B3s quemarse A3s-guitarra A3s+SR:debajo
+'Se quemó su guitarra en el peñasco.'
+kayoot chiinb’a-l
+coyote tocar-INF
+tiiya kayoot,
+A3s-pensar-INST tío coyote
+(226) Nn=0=eel-tzan
+txe
+q'aaq'.
+fuego
+(224) Basabeer tiiya maj ki-n=a
+vas.a.ver tío
+qiina
+?
+mirar-AP=2s PRON:1s A2s-SR:AGT=2s
+'Vaya pues, tío, mirá que me está haciendo'
+oq tiiya kayoot.
+INC=B3s=DIR=pues correr tío coyote
+'Salió corriendo el tío coyote.'
+xaq.
+peña
+19
+t-u'n=a

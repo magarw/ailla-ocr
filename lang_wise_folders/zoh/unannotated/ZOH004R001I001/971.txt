@@ -1,0 +1,63 @@
+\PSH [nijay-]
+\UND ni.jay
+\MB PURP, escribir
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG escribir sobre algo
+\ENG to write on something
+\SPL
+\SLGR
+\EXU 7@n+ ni.jay-w@ mexa
+\XPSH [7@n nijayy@ mexa.]
+\XSP Escribi* sobre la mesa.
+\XEN I wrote at the table.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jay
+\RTGR T3
+\DSRC HAJ95
+\CMTS CK-EX: what is /d@/? - HAJ:96, it was an error
+\date 19/Jun/96
+\lex ni.jay. kuy'=tz@k
+\_no 02254
+\LG MIG
+\PSH [nijaykuytz@k-]
+\UND ni.jay. kuy7=tz@k
+\MB PURP, escribir, INSTR1, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG escribir sobre algo
+\ENG to write on something
+\SPL
+SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jay
+\RTGR T3
+\KEY
+\DSRC HAJ95
+\CMTS CK-EX, where is ERG? HAJ:96, fixed
+\date 19/Jun/96
+\lex ni.jej
+\_no 02255
+ZOH004R0011001.txt
+\LG MIG
+\PSH [nijej-]
+\UND ni.jej
+\MB PURP, vivir
+\VAR
+\GRAM vi
+\SCI
+\USE
+Page 971

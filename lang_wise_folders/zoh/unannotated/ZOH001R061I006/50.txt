@@ -1,0 +1,64 @@
+\ROOT p@x T3
+\DSRC HAJ94
+*
+\CMTS
+\CMTS there's some confusion here between ko.p@x and ko.p@t he goes back
+\CMTS and forth a bit, but it's mostly ko.p@t
+\CMTS CK-PH of EX
+\date 18/Jun/96
+\lex kot
+\_no 00071
+\LG MIG
+\PSH
+\UND kot
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG guardar algo que le dieron
+\ENG to keep or take care of something you've been given
+\SPL kot.7oy
+\SLGR ANTIP
+\SLGL guardar algo / to take care of something
+SPL kot.7@m
+\SLGR PASS
+\SLGL agarrar // to get
+\EXU 1 kot.7@m-w@ bi jama=tin
+\XPSH 1 [Kott@mm@ bi jamatin.]
+\XSP 1 Agarraron el dinero. (un plebe, que tiene juntos)
+\XEN 1 They got the money. (a group, they hold it together)
+\EXU 2_7@y+ kot-w@ bi jay(a) 7une' bi jama=tin
+\XPSH 2 [7@y kott@ bi jay7une bi jamatin.]
+\XSP 2 El muchacho agarro* el dinero.
+\XEN 2 The boy took the money.
+\SYN
+\SEMF keep
+\ASP achievement, state
+\ARG
+\NOM
+\SUB
+ZOH001R0611006.txt
+\ETYM
+\ETL
+\ROOT kot
+\RTGR T3
+\DSRC HAJ94
+\CMTS not used very much anymore
+\date 03/Jan/80
+\lex ko.tzik
+\_no 00072
+\LG MIG
+\PSH [kotzik-]
+\UND ko.tzik
+\MB OTRO, pelar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pelar o quitar cuero de un animal
+\ENG to skin an animal
+\SPL ko.tzik.7oy
+\SLGR ANTIP
+\SLGR NO PASS
+Page 50

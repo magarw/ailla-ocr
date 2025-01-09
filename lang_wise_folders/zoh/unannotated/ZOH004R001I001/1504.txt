@@ -1,0 +1,62 @@
+\RTGR 2 IX
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tz@m=p@k
+\_no 03496
+\LG MIG
+\PSH [tz@mp@k-]
+\UND tz@m=p@k
+\MB cargar, agarrar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG recibir la carga
+\ENG to receive the goods
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT tz@m
+\RTGR P (T3)
+\ROOT pak
+\RTGR T3
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex tz@m-p@7t
+\_no 03497
+\LG MIG
+\PSH [tz@mp@7t-]
+\UND tz@m=p@7t
+\MB cargar, pasar
+\VAR
+\GRAM vt+dir
+\SCI
+\USE
+\SPG pasar cargando
+\ENG to pass by carrying something
+\EXU 7@y+ tz@m=p@7t-wa n@'+jo7
+\XPSH [7@y tz@mp@7tt@ n@jo7.]
+\XSP Lo paso* cargando en el ri*o.
+\XEN She passed by the river, carrying it.
+SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tz@m
+\RTGR 1 P
+\ROOT 2 p@7t
+\RTGR 2 11
+\DSRC HAJ94
+ZOH004R0011001.txt
+\CMTS
+\date 28/Jan/96
+\lex tz@m-tzonh
+\_no 03498
+\LG MIG
+Page 1504

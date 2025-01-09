@@ -1,0 +1,65 @@
+ZOH001R0361001.txt
+\sg] hay
+veces cuello secarse-COM mismo DCT2-SIM tambien
+\egl there are times neck dry -COM self DCT2-SIM also
+\zoq 7ay bese yo7k t@tztz@ ney de7x ne7.
+\fts Hay veces esta* seco de la garganta asi* mismo.
+fte Sometimes the throat is dry just like this too.
+\com
+\idx
+\ref ZOH001R036 974
+\_no 00957
+\tx 7asete m p@kpa
+\mb 7asete 7@m p@k
+-pa
+\sgl aceite 2E agarrar-INC
+\egl oil
+2E get
+\zoq 7asetem p@kpa,
+\fts Agarra el aceite,
+\fte You get the oil,
+\com
+\idx
+\ref ZOH001R036 975
+\_no 00958
+\tx
+7asete de k@xx@mba*7k
+7asete
+\mb
+7asete de k@x
+-7@m-pa -v7k 7asete
+\sgl aceite de comer-2E -INC-REL aceite
+\egl oil of eat -2E -INC-REL oil
+\zoq 7asete de k@xx@mba*7k 7asete.
+\fts aceite de comida.
+\fte oil of food oil.
+\com
+\idx
+-INC
+\ref ZOH001R036 976
+\_no 00959
+\tx
+7@m joki7tpa
+\mb__7@m jo -ki7t
+\sgl 2E EN -meter_dedo-INC
+\egl 2E INTO-put_finger-INC
+\zoq 7@m joki7tpa.
+\fts Lo dedeas.
+\fte You apply it with your finger.
+\com
+\idx
+-pa
+\ref ZOH001R036 977
+\_no 00960
+\tx pitz@mpa 7axta xit
+\mb pitz@m-pa 7axta xit
+\sgl salir -INC hasta moco
+\egl leave -INC until phlegm
+\zoq Pitz@mpa 7axta xit.
+\fts sale hasta moco.
+\ref ZOH001R036 978
+\_no 00961
+\fte It comes out until phlegm.
+\com
+\idx
+Page 207

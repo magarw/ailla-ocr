@@ -1,0 +1,62 @@
+\GRAM Vi
+\SCI
+\USE
+\SPG 1 casarse
+\SPG 2 tener esposa
+\ENG 1 to get married.
+\ENG 2 to have a wife
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex m@'k.17
+\_no 02112
+\LG MIG
+\PHO [m@ki7]
+\UND m@7k.E7
+\MB exprimir, NOM7
+\VAR
+\GRAM pcp
+\SPG exprimida
+\ENG wrung
+\EXU yo't.e m@'k.i7
+\XPSH [yote m@ki7]
+\XSP ropa exprimida
+\XEN wrung clothes
+\SYN
+\ROOT m@7k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex na.e7
+\_no 02113
+\LG MIG
+\PHO [nay.e7]
+\UND nay. E7
+\MB brotar, NOM7
+\VAR
+\GRAM pcp
+\SPG brotado, nacido
+\ENG sprouted
+\EXU mok na.e7
+\XPSH [mok nae7]
+\XSP maiz nacido
+\XEN sprouted corn
+\SYN
+\ROOT nay
+\RTGR 12
+ZOH004R0011001.txt
+\DSRC HAJ95
+\CMTS nacio* en la misma mata porque de la lluvia, no se cosecha bien.
+\date 03/Jan/80
+\lex najak
+\_no 02114
+Page 911

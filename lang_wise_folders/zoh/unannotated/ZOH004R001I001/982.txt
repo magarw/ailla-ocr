@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jenen
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 27/Jan/96
+\lex nik.jen. '@y
+\_no 02279
+\LG MIG
+\PSH [nikjenn@y-]
+\UND nik.jen.7@y
+\MB SUP, rascar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG echar algo (arena, tierra, cal) con la mano encima de algo
+\ENG to scrape something (with the hand) over something else
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jen
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+\lex nik.jepx. '@y
+\_no 02280
+\LG MIG
+\PSH [nikjepx@y-]
+\UND nik. jepx.7@y
+\MB SUP, agarrar_con_ji*cara, SUF
+\VAR
+\GRAM vt
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG echarle a alguien de lo que saco* con ji*cara
+\ENG to throw a scooperful of something at someone
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jepx
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+Page 982

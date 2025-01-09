@@ -1,0 +1,63 @@
+\DSRC HAJ94
+\CMTS
+\date 10/Nov/94
+\lex chiliwajiyu
+\_no 00589
+\LG MIG
+\PSH
+\UND chiliwajiyu
+\MB
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG chile guajillo
+\ENG a type of hot pepper
+\EXU
+\XSP
+\XEN
+\SYN niwi' wajiyu
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH ok' FIXED: TK
+\date 24/Jun/96
+\lex chim(i)nea7
+\_no 00590
+\LG MIG
+\PSH
+\UND chiminea7
+\MB
+\VAR chiimnea7
+\GRAM S
+\SCI
+\USE
+\SPG chimenea
+\ENG chimney
+\EXU chim(i)nea+7anhji
+\XSP en la chiminea
+\XEN in the chimney
+\EXU chim(i)nea+pi7t
+\XSP con la chiminea
+\XEN with the chimney
+\SYN
+\SEMF
+\ETYM chimenea
+\ETL Sp
+\ROOT
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS CK-PH
+ok/OK: TK
+\CMTS no sabia exactmente que es la chiminea
+\CMTS long alternate: tum t@nhkuy xutu7....
+\date 24/Jun/96
+\lex chinu
+\_no 00591
+\LG MIG
+\PSH
+\UND chinu
+\MB
+Page 253

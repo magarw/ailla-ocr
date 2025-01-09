@@ -1,0 +1,62 @@
+\date 29/Jan/96
+\lex 7otonh=me7tz
+\_no 00463
+\LG MIG
+\PSH [7otonhme7tz-]
+\UND 7otonh=me7tz
+\MB hablar, buscar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG buscar pleito (por hablar)
+\ENG to try to start a fight (by talking)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7otonh
+\RTGR 12
+\ROOT me7tz
+\RTGR T3
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex 7otonh=mux
+\_no 00464
+\LG MIG
+\PHO [7otonhmux-]
+\UND 7otonh=mux
+\MB hablar, saber
+\VAR
+\GRAM vt
+\SPG saber hablar
+\ENG to know how to speak
+\EXU 7@y+ 7otonh-mux-w@ 7@y+ 7anh.p@n
+\XPSH [7@y 7otonhmuxx@y 7anhp@n.]
+\XSP Supo hablar el zoque.
+\XEN He knew how to speak his Zoque.
+\SYN
+\ROOT 1 7otonh
+\RTGR 1 11
+\ROOT 2 mux
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+ZOH004R0011001.txt
+\lex 7otonh-m@tz. '@y
+\_no 00465
+\LG MIG
+\PSH [7otonhm@tztz@y-]
+\UND 7otonh-m@tz.7@y
+\MB hablar, X, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG bromear
+Page 199

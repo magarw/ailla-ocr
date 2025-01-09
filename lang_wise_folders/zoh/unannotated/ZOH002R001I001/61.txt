@@ -1,0 +1,7 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+3.3.5. Glide absorption
+When a suffix ending in /y/ (indirective -hay, assumptive -ney,
+antipassive -?oy, or verbalizer -?ay) is followed by a suffix beginning with a
+voiceless stop, such as the incompletive -pa or repetitive -ke?t, the stop may
+be voiced (due to 3.3.4) and the glide deleted.
+37

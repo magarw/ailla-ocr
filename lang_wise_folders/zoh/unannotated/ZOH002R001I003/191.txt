@@ -1,0 +1,35 @@
+7.1.3). The following examples contrast the agentless character of the
+assumptive with the intentional character of the perseverative examples shown
+in (7.20).
+(7.17)
+(i)
+(ii)
+(iii)
+kapneyyø bi kuy
+0 kap.ney-wə
+bi kuy
+3A
+cargar_en_hombro.ASSUM1-COM DEF árbol
+'Está tirado el palo (cuando se cayó).'
+ketneba bi 'une'
+0 ket.ney-pa
+bi ?une?
+3A tapar.ASSUM1-INC DEF niño
+'El niño está tapado.'
+pajneyyám bi tøk 'øy kojom
+0 pah.ney-wǝ+?am
+3A sembrar_poste.ASSUM-COM+NOW
+'Está sembrado todavía el horcón de la casa.'
+bi tək ?əy+ kohom
+DEF casa 3E+ horcón
+7.1.2.2. Depositive wey
+The term depositive means "to place something that has the shape
+created by V-ing it", or "Take X and put it" (Kaufman, 1996). This morpheme
+never appears with other non-inflectional suffixes. The initial /w/ of this suffix
+triggers gemination of the preceding consonant just like the completive suffix -
+wǝ. This means that there are many cases in which it is difficult to determine
+whether we're looking at -way or -7ay. In these cases, only the meaning
+provides a clue to the underlying construction. Even allowing for possible mis-
+parses, there are very few depositive forms in the corpus. The following
+examples, except for (7.18 v), are taken from the lexicon.
+166

@@ -1,0 +1,63 @@
+\USE
+\SPG toma*rselo
+\ENG to drink
+\EXU 7@y 7uk-xuk. jay-w@ 7@y 7ojo7
+\XPSH [7@y 7ukxukjayy@y 7ojo7.]
+\XSP se lo tomo* todo su aguardiente.
+\XEN He drank up all his corn liquor.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7uk
+\RTGR 1 T1
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex 7uk-jey.e7
+\_no 00484
+\LG MIG
+\PSH [7ukjeye7]
+\UND 7uk-jey.E7
+\MB tomar, batir, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG pozol
+\ENG pozole
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 7uk
+\RTGR 1 T1
+\ROOT 2 jey
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 28/Apr/95
+\lex 7uk.kuy7
+\_no 00485
+LG MIG
+\PSH [7ukkuy7]
+\UND 7uk. kuy7
+\MB tomar, INSTR1
+\VAR
+\GRAM instrl
+\SCI
+\USE
+\SPG borrachera
+\ENG drunkenness
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+Page 208

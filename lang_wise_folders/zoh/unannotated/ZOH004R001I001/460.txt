@@ -1,0 +1,63 @@
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar deshilandolo
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jot
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 06/Feb/96
+\lex j@x-jox
+\_no 01049
+\LG MIG
+\PSH [j@xjox-]
+\UND j@x-jox
+\MB ATRAS, amasar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar remoliendolo
+\ENG to get something out by regrinding
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jox
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 06/Feb/96
+\lex j@x+jo'.7aH
+\_no 01050
+\LG MIG
+\PSH [j@xjo7a-]
+ZOH004R0011001.txt
+\UND jax +jo7.7aH
+\MB ATRAS, LOC2, VERS1
+\VAR
+\GRAM versl
+\SCI
+\USE
+\SPG hacerse atra*s; quedarse atra*s
+\ENG to get behind; to stay behind
+\SPL
+\SLGR
+\EXU
+\XSP
+Page 460

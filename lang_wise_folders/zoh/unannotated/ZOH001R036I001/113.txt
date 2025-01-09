@@ -1,0 +1,93 @@
+\fte GSM: Ah, grape vine.
+\com
+\idx
+\ref ZOH001R036 527
+\_no 00518
+\tx
+\mb OSM
+OSM: gag@
+\ref ZOH001R036 528
+\_no 00519
+m
+ka -g@ 7@m
+-7xe-neenh
+\sg1 OSM: DCT3-DEM 2E
+ortar_con_machete-cortar-INC DCT2-SIM-MED
+\egl OSM: DCT3-DEM 2E cut_with_machete -cut -INC DCT2-SIM-MEAS
+\zoq OSM: Gag@m t@nhtukpa de7xe*nh.
+\fts OSM: Ese lo cortas esa medida.
+\fte OSM: That you cut this much.
+\com <demonstrates, hands apart>
+\idx
+t@nhtukpa
+t@nh
+ZOH001R0361001.txt
+\tx gag@
+\mb ka
+\zoq 7@y k@n@kk@yy@m tzima kay yopa_bi_n@7.
+\fts Pon le la ji*cara va cayendo el agua.
+\fte One puts your gourd when the water falls.
+\com
+\idx
+\ref ZOH001R036 529
+\_no 00520
+m gaga
+\tx kay
+\mb ka
+-y
+-wa 7@m ka -g@
+\sg1 DCT3-TMP 11enarse-COM 2E
+\eg1 DCT3-TMP fill -COM 2E
+taxx@
+tax
+m tzima kay
+yopa
+\tx 7ay k@n@kk@yy@
+bi n@7
+\mb 7@y k@ -nak -7@y-w@ 7@m tzima7 ka -y yo7 -pa bi n@7
+\sg1 3E AFUERA-irse-3E -COM 2E ji*cara DCT3-TMP caerse-INC DEF agua
+\egl 3E AWAY -go -3E -COM 2E dipper DCT3-TMP fall
+DCT3-TMP fall -INC DEF water
+n@
+-g@ n@7
+\sg1 DCT3-DEM agua
+\eg1 DCT3-DEM water
+-tuk
+\ref ZOH001R036 531
+\_no 00522
+\ref ZOH001R036 530
+\_no 00521
+\tx gay
+p@7am
+chik
+\mb ka -y
+p@7 -A7 -7am
+chik
+\sg1 DCT3-TMP poner-IMPV-YA chico
+-jo7
+botella-Loc2
+\eg1 DCT3-TMP put -IMPV-NOW little bottle -LOC2
+\zoq gay p@7am chik botejo.
+\fts ya echalo en el botecito.
+\fte then put it in a little bottle.
+\com
+\idx
+de7xe*nh
+tzima de n@7
+tzima7 de n@7
+DCT3-ĎEM ji*cara de agua
+DCT3-DEM dipper of water
+\zoq kay taxx@m_gag@ tzima de n@7 tzimajo gag@ n@,
+\fts Ya se
+lleno* esa ji*cara de agua, en la ji*cara es agua,
+\fte Now your that gourd is full of water, that water in the gourd,
+\com
+\idx
+-ра te
+botejo
+bote
+Page 113
+tzimajo
+tzima7 -jo7
+ji*cara-LOC2
+dipper -LOC2

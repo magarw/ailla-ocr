@@ -1,0 +1,62 @@
+\ETL
+\ROOT jeken
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+\lex yuk.je7k
+\_no 04232
+\LG MIG
+\PSH [yukje7k-]
+\UND yuk.je7k
+\MB ARR, limpiar_con_coa
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG levantar algo con coa
+\ENG to lift something with a hoe
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT je7k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+\lex yuk.jen
+\_no 04233
+\LG MIG
+\PSH [yukjen-]
+\UND yuk.jen
+\MB ARR, rascar_con_mano
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG levantar con la mano lo que habia tirado
+\ENG to scoop up (sand...) with the hands something that was spilled
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jen
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+ZOH004R0011001.txt
+\lex yuk. jenen
+\_no 04234
+Page 1818

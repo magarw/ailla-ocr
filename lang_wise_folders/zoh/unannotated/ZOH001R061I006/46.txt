@@ -1,0 +1,63 @@
+\lex ko.jin
+\_no 00064
+\LG MIG
+\PSH [kojin-]
+\UND ko.jin
+\MB OTRO, refregar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG refregar ban~ando
+\ENG to scrub while bathing
+\SPL ko.jin.7oy
+\SLGR ANTIP
+\SPL ko.jin.7@m
+\SLGR PASS
+\EXU tzinh-pa 7@y+ yak.ko.jin-w@_7@y+win
+\XPSH [Tzinhpay yakkojinn@y win.]
+\XSP Se esta* ban~ando, lo esta*n refregando.
+\XEN while bathing, she got them to scrub her.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jin
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 29/Jan/96
+\lex ko.jux
+\_no 00065
+\LG MIG
+\PSH [kojux-]
+\UND ko.jux
+\MB OTRO, asar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG recalentar en asador
+\ENG to reheat in the roaster
+\SLGR NO ANTIP
+\SPL ko.jux.7@m
+\SLGR PASS
+\EXU 7@y+ ko.jux-w@ xix
+\XPSH [7@y kojuxx@ xix.]
+\XSP Recalento* la carne.
+\XEN She reheated the meat.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jux
+\RTGR TX
+\DSRC TK94
+\CMTS
+\CMTS
+\date 18/Jun/96
+ZOH001R0611006.txt
+\lex kom
+\_no 00066
+\LG MIG
+Page 46

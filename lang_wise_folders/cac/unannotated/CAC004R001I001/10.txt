@@ -1,0 +1,95 @@
+CNum clasificador numeral
+cond
+condicional
+Cpiedra clasificador nominal piedras
+Cropa
+Csal
+Ctierra
+cuot
+cuotativo
+Cvegetal clasificador nominal vegetales
+dem
+demostrativo
+DIR
+dub
+EA
+enf
+exh
+exist
+fut
+gen
+imp
+inf
+instr
+int
+intj
+IRR
+m.deónt
+neg
+nex
+nmlz
+pas
+pl
+ppt
+p.rem
+prep
+pres
+prog
+psc
+psv
+rcp
+SR
+clasificador nominal ropa y telas
+clasificador nominal sal
+clasificador nominal tierra
+22
+direccional
+dubitativo
+enfoque de agente
+enfático
+exhortativo
+existencial
+futuro
+genitivo
+imperativo
+infinitivo
+instrumental
+interrogativo
+interjección
+modo irreal (potencial)
+modalidad deóntica
+negación
+nexo
+nominalizador
+pasado
+plural
+participio
+pasado remoto
+preposición
+presente
+progresivo
+posicional
+pasiva
+recíproco
+sustantivo relacional
+sec
+sub
+sbj
+top
+vblz
+VM
+VOC
+vtd
+vti
+vtt
+secuencialidad de tópico
+subordinación
+subjuntivo
+topicalizador
+verbalizador
+voz media
+vocativo
+verbo transitivo derivado
+vocal temática de verbo intransitivo
+vocal temática de verbo transitivo
+23

@@ -1,0 +1,62 @@
+\XEN She's coming to visit us.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wit
+\RTGR 11
+\DSRC TK94
+\CMTS
+\date 29/Jan/96
+\lex kowitiinh
+\_no 01476
+\LG MIG
+\PHO [kowiti*nh]
+\UND kowitiinh
+\MB
+\VAR
+\USE locative
+\GRAM av
+\SPG alrededor
+\ENG around
+\EXU ya.da t@k 7@y+ 7anh.paj-xuk-wa kowitiinh
+\XPSH [Y@da tak 7@y 7anhpajxukk@ kowiti*nh.]
+\XSP Esta casa esta* cercado alrededor.
+\XEN This house has a fence around it.
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex ko.witu'
+\_no 01477
+\LG MIG
+\PSH [kowitu-]
+\UND ko.witu7
+\MB OTRO, regresar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG regresar alguien por usted
+\ENG for someone to come back for you
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT witu7
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+ZOH004R0011001.txt
+\lex ko.wix
+\_no 01478
+\LG MIG
+\PSH [kowix-]
+\UND ko.wix
+\MB OTRO, arrancar
+Page 642

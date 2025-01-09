@@ -1,0 +1,62 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex kuy-jam
+\_no 01609
+\LG MIG
+\PSH [kuyjam]
+\UND kuy-jam
+\MB palo, cal
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG ceniza
+\ENG ashes
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex kuy+jo+7k kabaitu m@tz.i7
+\_no 01610
+\LG MIG
+\PSH [kuyjo7k kabaitu m@tzi7]
+\UND kuy+jo+7k kabaitu m@tz.E7
+\MB palo, LOC2, REL, caballito, X, NOM7
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG juguete de caballito de monte
+\ENG a type of animal
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+ZOH004R0011001.txt
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS CK-all - sounds ok HAJ:96; OK to me, too: TK
+\CMTS es un animal
+\date 24/Jun/96
+\lex kuy+jo+7k mako7
+\_no 01611
+Page 697

@@ -1,0 +1,64 @@
+\VAR
+\GRAM num
+\SCI
+\USE
+\SPG los ocho (de ellos)
+\ENG the eight (of them)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 09/Feb/96
+\lex tu.i
+\_no 03062
+\LG MIG
+\PSH [tui]
+\UND tuy. E
+\MB tender, NOM7
+\VAR [tuwi*7] //tuy.E +P@7k//
+\GRAM SV
+\SCI
+\USE
+\SPG 1 cosa estirada o larga
+\SPG 2 de la barriga
+\ENG 1 a stretched-out or long thing
+ENG 2 a big tummy
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tuy
+\RTGR 12
+\DSRC HAJ94
+\CMTS CK-PH
+this is not a great big /w/, but I think it's there; it IS
+there, before stressed V: TK
+\date 26/Jun/96
+\lex tuj tyempu
+\_no 03063
+\LG MIG
+\PSH
+\UND tuj tyempu
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG tiempo de lluvias
+\ENG rainy season
+\EXU
+ZOH004R0011001.txt
+\XSP
+\XEN
+\SYN
+\SEMF
+Page 1318

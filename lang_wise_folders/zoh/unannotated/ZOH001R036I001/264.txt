@@ -1,0 +1,92 @@
+\fte You grasp it here.
+\com
+\idx
+\ref ZOH001R036 999-246
+\_no 01227
+p@m@
+\tx m si ya m
+\mb 7@m si ya 7@m p@m
+\sgl 2E si NEG 2E
+\egl 2E if NEG 2E
+\tx pa p@7tpa
+\mb para p@7t -ра
+\sg1 para pasar-INC
+\egl for pass -INC
+-A
+aguantar-nINC
+bear
+\zoq m Si yam p@m@, gay mix x@ja nukxukpa pa p@7tpa.
+\fts Si no lo aguantas, te agarran varios para que pase.
+\fte If you can't bear it, then you grab a lot.
+\com
+\idx
+\tx minpa*m
+\mb min
+\ref ZOH001R036 999-247
+\_no 01228
+\tx 7a
+gaji
+bi
+7adyo ka -ji7
+\sg1 luego DCT3-LOC1
+\mb
+minpa*m
+min -pa -7am bi
+venir-INC-YA DEF
+\egl later DCT3-LOC1 come -INC-NOW DEF
+\ref ZOH001R036 999-248
+\_no 01229
+\zoq 7a gaji minpa*m bi 7alko*1.
+\fts De ahi* ya viene el alcohol.
+\fte Then there comes the alcohol.
+\com
+\idx
+petrolyu
+petrolyu
+petroleo
+-pa -7am
+\sg1 venir-INC-YA
+\egl come -INC-NOW petroleum
+\zoq Minpa*m petrolyu,
+\fts Ya la
+ZOH001R0361001.txt
+gay
+x@ja
+mix
+ka -y mix x@j@7
+DCT3-TMP 2Prn bastante
+-nINC DCT3-TMP 2Prn a lot
+echan petroleo,
+\fte Now comes the petroleo,
+\com ointment
+\com
+\idx
+\ref ZOH001R036 999-249
+\_no 01230
+\tx pa y kalentz@kpa
+bi
+\mb para 7@y kalentar-tz@k -pa bi
+\sg1 para 3E calentar-hacer-INC DEF sangre DEF vena NPL
+\egl for 3E heat -do -INC DEF blood DEF vein NPL
+\ref ZOH001R036 999-250
+\_no 01231
+\tx pa p@7tpa ga
+7alko*1
+7alko*l
+alcohol
+alcohol
+\zoq pay kalentz@kpa bi_n@pin, bi tzayd@kka,
+\fts para que caliente la sangre, las cuerdas,
+\fte to heat up the blood, the muscles,
+dolo*r
+n@pin bi
+n@pin7 bi
+Page 264
+nukxukpa
+nuk
+-xuk-pa
+agarrar-3PL-INC
+grab
+tzay d@kka
+tzay7 d@kkay
+-3PL-INC

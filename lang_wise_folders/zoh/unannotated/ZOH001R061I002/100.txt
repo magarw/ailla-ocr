@@ -1,0 +1,62 @@
+ZOH001R0611002.txt
+\ENG to stake; to stab someone with a knife or a stake
+\SEMF cut
+\ASP semelfactive
+\ARG
+\NOM we7k=xipx. 'oy.kuy7
+\RTGR T3
+\POS Y
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex xix [1]
+\_no 00406
+SPG encogerse; encogerse carne seca*ndose
+\ENG to shrink up; for meat to shrink up while drying
+\SEMF nature
+\ASP
+\ARG
+\NOM
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex xom
+\_no 00407
+\SPG encerrar
+\ENG to enclose; to jail
+\SEMF arrange
+\ASP process
+\ARG
+\NOM xom.e7, xom. kuy7, xom.naanh
+\RTGR P (T3)
+\POS rroberto d@ xomm@
+\MID
+\UNDO Y lexicon
+\CLZ
+\CMTS
+\1ex xo7px
+\_no 00408
+\SPG tomar a boca de plato hondo
+\ENG to drink from a bowl
+\SEMF eat
+\ASP process
+\ARG
+\NOM
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex xotz
+\_no 00409
+\SPG amarrar
+\ENG to tie
+\SEMF arrange
+\ASP transition
+roberto me encerro*
+Page 100

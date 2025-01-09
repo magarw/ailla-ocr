@@ -1,0 +1,64 @@
+\ETL
+\ROOT 1 7an
+\RTGR 1 12
+\ROOT 2 tz@m
+\RTGR 2 P
+\DSRC HAJ94
+\CMTS final /k/:TK
+\date 03/Jan/80
+\lex 7an(e)=mukx.i
+\_no 00008
+\LG MIG
+\PSH [7anemukxi]
+\UND 7an.e=mukx. E
+\MB calentarse, NOM7, X, NOM7
+\VAR 7aan=mukxi
+\GRAM nom:incorp
+\SCI
+\USE
+\SPG tortilla empanada, con algo adentro como queso, frijol, carne,
+pescadito
+ENG folded tortilla filled with something like cheese, beans, meat, fish
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7an
+\RTGR 1 12
+ROOT 2
+\DSRC HAJ94
+\CMTS see mukx.ney 'doblarse'
+\date 24/Jun/96
+mukx
+\lex 7anh-jap
+\_no 00009
+LG MIG
+\PSH [7anhjap]
+\UND 7anh-jap.0
+\MB BOCA, X, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG tapadera
+\ENG cap
+SPL
+\SLGR
+\EXU limeta 7anh-jap
+\XPSH [limeta 7anhjap]
+\XSP tapadera de una botella
+\XEN bottle cap
+\SYN
+\SEMF
+\ETYM
+ZOH001R0611004.txt
+\ETL
+\ROOT * jap
+\RTGR P
+\DSRC HAJ95
+\CMTS like a bottle cap, it closes from outside. contrast w/ 7anh.pix
+\date 09/Oct/96
+Page 4

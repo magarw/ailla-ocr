@@ -1,0 +1,62 @@
+\DSRC HAJ98
+\CMTS
+\date
+\lex {te.y te.ji+nam7}
+\_no 04501
+\LG MIG
+\PSH [tey tejinam7]
+\UND te.y te.ji +nam7
+\MB DCT2, TMP, DCT2, LOC1, TOD
+\VAR tey+nam7
+GRAM
+\SCI
+\USE
+\SPG ahora hay todavia
+\ENG now there is still some
+\EXU tey+nam7_tij.w@
+\XPSH [Teynam7 tijj@.]
+\XSP Hace ratito fue/vino.
+\XEN After a while, he went and came back.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS CK-PH; OK/TK
+\date 26/Jun/96
+\lex {ti+goo7}
+\_no 04502
+\LG MIG
+\PSH [tigo*7]
+\UND ti +goTOYA7
+\MB QUE, BENC
+\VAR
+\GRAM pron+case
+\SCI
+\USE
+\SPG porque?
+\ENG why?
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Feb/96
+\lex {=tij}
+\_no 04503
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+\UND tij
+\MB DREGRES
+\VAR
+\USE directional auxiliary verb in its compound form
+\GRAM_aux
+\SPG ir y regresar
+Page 1933

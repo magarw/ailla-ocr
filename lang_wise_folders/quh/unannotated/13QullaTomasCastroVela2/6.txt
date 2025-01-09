@@ -1,0 +1,55 @@
+%trad:
+willasunkimanpis +//.
+como si estuvieras contando...
+chayta rikunki?
+¿eso ves?
+ujum rikuni.
+uhum, veo.
+rikunki +/.
+%trad:
+*TCV:
+%trad:
+*PPM:
+%trad:
+vas a ver
+*TCV: rikuchkani.
+%trad:
+*PPM:
+%trad:
+*TCV: arí.
+%trad: sí.
+*PPM:
+%trad:
+estoy viendo.
+tukuy kaykunata.
+todos estos.
+chay rikusqaykiman jinataq willanki.
+y de acuerdo a lo que veas vas a contar.
+kaypi yaku kachkan kay yaku í?
+%trad: aquí hay agua, esto es agua ¿verdad?
+*TCV:
+yaku.
+%trad:
+agua.
+PPM:
+chaypi tuyturichkanku.
+%trad:
+ahí están flotando.
+%trad:
+chaypi purichkan yaku patanta.
+ahí está caminando sobre el agua.
+%trad:
+*TCV: pikalas.
+%trad: ranas.
+*PPM: ujum.
+*TCV: pikalas.
+%trad:
+*PPM:
+%trad:
+ranas.
+kaypi imataq chanta kaypi tukukun.
+aquí qué es, luego aquí termina.
+kay iskaypi tukukun (señalando las dos últimas hojas).
+en estos dos se termina.
+jukninpi phutiy, jukninpitaq kusiyman rikch'akun.
+7

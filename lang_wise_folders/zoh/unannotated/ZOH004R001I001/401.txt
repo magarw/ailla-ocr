@@ -1,0 +1,64 @@
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 10/Jan/96
+\lex juntu-yuk.p@k
+\_no 00918
+\LG MIG
+\PSH [juntuyukp@k-]
+\UND_ juntu-yuk.p@k
+\MB juntos, ARR, agarrar
+\VAR
+\GRAM vt:incorp
+\SCI
+\USE
+LF:bugs
+\XEN
+\SYN
+\SPG levantar juntos; levantar parejo
+\ENG to put up together; to put away in pairs
+\EXU
+\XSP
+\SEMF
+\ETYM juntos
+\ETL Sp
+\ROOT pak
+\RTGR T3
+\lex junun
+\_no 00919
+\DSRC HAJ94
+\CMTS cf. tum. 7anh 7@y+ yuk.p@k-w@
+\date 10/Jan/96
+\LG MIG
+\PSH
+\UND junun
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacerle cosquillas
+\ENG to tickle someone
+\SPL junun. 7oy
+\SLGR ANTIP
+ZOH004R0011001.txt
+\SLGR NO PASS
+\EXU 7@n+ junun-pa bi yom@'=7une7
+\XPSH [7@n jununpa bi yo:m7une7.]
+\XSP Le hice cosquillas a la muchacha.
+\XEN I tickled the girl.
+\SYN
+\SEMF body, touch
+\ASP activity
+\ARG
+\NOM junun.kuy7, junun.naanh
+\SUB
+\ETYM
+\ETL
+\ROOT junun
+Page 401

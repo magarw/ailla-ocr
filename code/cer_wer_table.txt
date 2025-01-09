@@ -1,0 +1,40 @@
+
+Language:  quch
+CER: 6.64
+WER: 9.60
+Total files: 17
+
+Language:  miq
+CER: 10.47
+WER: 12.34
+Total files: 67
+
+Language:  mcd
+CER: 7.13
+WER: 9.15
+Total files: 107
+
+Language:  mam
+CER: 10.56
+WER: 19.66
+Total files: 154
+
+Language:  quh
+CER: 2.72
+WER: 3.76
+Total files: 204
+
+Language:  cac
+CER: 4.12
+WER: 5.33
+Total files: 245
+
+Language:  zoh
+CER: 3.56
+WER: 6.15
+Total files: 285
+
+Language:  tzh
+CER: 1.43
+WER: 2.73
+Total files: 298

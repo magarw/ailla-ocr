@@ -1,0 +1,63 @@
+\SUB_7anh.jok, ni.jok, win-jok, yuk.jok
+\ETYM
+\ETL
+\ROOT jok
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex jok.a7
+\_no 00843
+\LG MIG
+\PSH [joka7]
+\UND jok.A7
+\MB ahumarse, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG negro
+\ENG black
+\EXU jok.A' p@n
+\XPSH [joka p@n]
+\xSP hombre negro
+\XEN black man
+\EXU tza' jok.a
+\XPSH [tza joka]
+\XSP piedra ahumada
+\XEN smoked rock
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT jok
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex jo.kat
+\_no 00844
+\LG MIG
+\PSH [jokat-]
+\UND jo.kat
+\MB EN, 1amber
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG limpiar todo con la lengua
+\ENG to lick something clean
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT kat
+\RTGR T3
+\DSRC HAJ95
+Page 367

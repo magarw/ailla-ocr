@@ -1,0 +1,43 @@
+105
+interpretación modal (que podría ser también evidencial¹²8): inseguridad acerca de la realidad
+de la referencia.
+(13) para-sha-n-mi
+lluvia-PROGR-3S-EVID (testimonial)
+'está lloviendo (aquí)' (Consultante: "se usa, por ejemplo, para convencer a otro de que no salga porque
+sentís que llueve, lo afirmás")
+Si bien el significado locativo del sufijo -man no ha sido señalado hasta el momento
+para explicar su uso en el contexto verbal, es decir, en relación con su función de "sufijo de
+potencialidad", este rasgo de marcación espacial no es privativo de este uso. Está ampliamente
+aceptada su identificación como "sufijo alativo" (Bills 1972; reproducido por Cerrón
+Palomino 1987:270), es decir, funcionando como índice de locación circunstancial que refiere
+direccionalidad en relación con una meta o un objetivo (espacial, temporal o personal) no
+presente en el campo perceptual del hablante, es decir, codifica "alejamiento" (Comrie 1981),
+como sucede en el siguiente ejemplo (no marcado por modalidad irrealis):
+(14) "kay-man jamu-rqa-ni
+LOC-ALAT ir-PAS-1S
+'fui hacia aquí ("vine hacia aquí alejándome de mi pueblo" - el consultante cuenta así el principio de su
+migración)
+ochenta y cinco wata-piña"
+año-conjunto
+NUM(esp.)
+en el año '85'
+En el ejemplo (14), si bien el hablante se encuentra en el lugar "meta del movimiento",
+la lejanía referida por la presencia del sufijo -man nos muestra que se trata de una operación
+discursiva de distanciamiento, es decir, que la fijación de la "base modal" (y tomo el término
+en sentido amplio como "centro perceptivo") por parte del hablante involucra “elegir” (o
+construir discursivamente) desde dónde nos habla. Claramente, aquí el hablante elige una
+perspectiva espacial con función expresiva.
+Por otro lado, en el contexto de la morfología nominal, el sufijo -man participa del
+sistema de casos de la lengua quechua como marca de "dativo". Si tenemos en cuenta que la
+forma dativa interviene, desde el análisis de la transitividad, señalando espacios (metas,
+objetivos, dirección) relevantes para la acción (en movimiento) referida por el verbo,
+volvemos nuevamente a señalar la relación del sufijo -man con significados locativos. Así
+sucede en el siguiente ejemplo (línea a). Se trata del fragmento de una canción registrada en
+terreno:129
+128
+La consideración de la evidencialidad en función de un centro deíctico es propuesta por Speas (2004) en
+"Evidential paradigms, world variables and persona agreement features"; y para el caso del quechua, por R.
+Floyd (1997) en La estructura categorial de los evidenciales en el quechua Wanka.
+129
+La preposición "a" en castellano (y en muchas otras lenguas) tiene también todos estos valores: dativo,
+objetivo, dirección, finalidad (e.g., "vino a decirme").

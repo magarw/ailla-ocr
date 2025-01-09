@@ -1,0 +1,64 @@
+\PSH [t@kk@y-]
+\UND tak. 7@y
+\MB casa, SUF
+\VAR
+\GRAM vi:vers2
+\SCI
+\USE
+\SPG entrar
+\ENG to enter
+\SPL yak.t@k.7@y
+\SLGR CONVERS2
+\SLGL dejar entrar // to allow to enter
+\EXU 1 t@k. '<@y>-An@m-pa
+\XPSH 1 [T@kk@n@mpa.
+\XSP 1 Alguien entra.
+\XEN 1 Someone is coming in.
+\EXU 2 jam(a) t@k.'<@y>-An@m-w@-'am
+\XPSH 2 Jama t@kk@n@ma*m.
+\XSP 2 Ya entro* la sequi*a.
+\XEN 2 Now the dry season has started.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex t@7k
+\_no 03156
+\LG MIG
+\PSH
+\UND t@7k
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG hipar
+\ENG to hiccouph
+\SPL yak.t@7k
+ZOH004R0011001.txt
+\SLGR CAUS
+\SLGL hacer tener hipos // to give someone the hiccouphs.
+\EXU 1 t@7k-w@
+\XPSH 1 [T@7kk@.]
+\XSP 1 Tuvo hipo.
+\XEN 1 She had the hiccoughs.
+\EXU 2 7@y+ yak.t@7k-pa bi niwi7
+\XPSH 2 [7@y yakt@7kpa bi niwi7.]
+\XSP 2 El chile he hizo tener hipos.
+\XEN 2 The chili is giving him the hiccouphs.
+\SYN
+\SEMF body
+\ASP semelfactive
+\ARG
+\NOM ta'k.i7, t@7k.kuy7
+\SUB
+\ETYM
+\ETL
+\ROOT t@7k
+\RTGR 12
+\DSRC HAJ94
+Page 1357

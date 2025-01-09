@@ -1,0 +1,63 @@
+\PSH [tzixi]
+\UND tzix.E
+\MB tirar_pedo, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG pedo
+\ENG fart
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzix
+\RTGR IX
+\DSRC TK94
+\CMTS %tzix [2]; get deriv's; GMS says /tzixi/ now; God knows
+\date 26/Jun/96
+\lex tzi' tum wej.e
+\_no 00349
+\LG MIG
+\PSH [tzi- tum weje]
+\UND tzi7 tum wej. E
+\MB dar, uno, gritar, NOM7
+\VAR
+\GRAM vt +obj
+\SCI
+\USE
+\SPG pegar un grito
+\ENG to shout
+\EXU 7@y+ tzi'-w@ tum wej. E
+\XPSH [7@y tziw@ tum weje.]
+\XSP Le pego* un grito.
+\XEN She shouted.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tzi7
+\RTGR 1 T3
+\ROOT 2 wej
+\RTGR 2 T1
+\DSRC HAJ94
+\CMTS CK-all - HAJ:96
+\date 20/Jun/96
+\lex tzi'tz.i7
+\_no 00350
+\LG MIG
+\PSH tzitzi7]
+\UND tzi7tz.E7
+\MB tener_sarna, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+ZOH001R0611004.txt
+\SPG sarna
+\ENG itch; mange
+\EXU
+Page 139

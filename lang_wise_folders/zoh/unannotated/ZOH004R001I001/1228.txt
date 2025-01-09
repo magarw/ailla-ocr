@@ -1,0 +1,64 @@
+\EXU 2 p@7t-w@ 7@y+ tyempu
+\XPSH 2 [P@7tt@y tyempu.]
+\XSP 2 Paso* su tiempo.
+\XEN 2 It passed it's time.
+\EXU 3 ti 7@m+ p@7t.jay-pa
+\XPSH 3 [Tim p@7tjaba?]
+\XSP 3 ?Que te pasa?
+\XEN 3 what's the matter?
+\SYN
+\SEMF move
+\ASP achievement
+\ARG
+\NOM p@'t.i7, p@7t.kuy7
+\SUB jitzi-p@7t, ko.p@7t, k@nh-ko.p@7t, ni.p@7t, t@p=p@7t, tz@m=p@7t
+\ETYM
+\ETL
+\ROOT p@7t
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex p@7t tyempu
+\_no 02851
+\LG MIG
+\PSH
+\UND p@7t tyempu
+\MB
+\VAR
+\GRAM vi + obj
+\SCI
+\USE
+\SPG pasar el tiempo
+\ENG for time to pass
+\EXU p@7t-w@-7k tyempu
+\XPSH [p@7tt@*7k_tyempu]
+\XSP tiempo pasado
+\XEN past time
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT p@7t
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex p@7t [jama d@k+7a
+\_no 02852
+\LG MIG
+\PSH [p@7t- jama d@kka]
+\UND p@7t [jama d@k+7a
+\MB pasar, di*a, NP1
+\VAR
+\GRAM vi
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG pasar los dias
+\ENG for days to pass by
+\EXU
+\XSP
+(p@7t-COMP-REL)
+Page 1228

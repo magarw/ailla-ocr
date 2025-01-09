@@ -1,0 +1,62 @@
+\ROOT t@p
+\RTGR T1
+\DSRC TK96
+\CMTS
+\lex t@p.pu'.7@m
+\_no 03192
+\LG MIG
+\PSH [t@ppu7@m-]
+\UND t@p.pu7.7@m
+\MB coser, RVS, PASS
+\VAR
+\GRAM pass
+\SCI
+\USE
+\SPG descoserse; descosturarse
+\ENG to come unstitched; to unravel
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT tap
+\RTGR T1
+\DSRC HAJ94
+\CMTS CK-PH, CK-GR it ought to sound geminate, but it doesn't; it IS
+geminate: TK
+\date 26/Jun/96
+\lex t@p-p@7t
+\_no 03193
+\LG MIG
+\PSH [t@pp@7t-]
+\UND t@p-p@7t
+\MB costurar, cruzar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG enhebrar
+\ENG to thread
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 t@p
+\RTGR 1 T1
+\ROOT 2 p@7t
+\RTGR 2 11
+\DSRC HAJ94
+ZOH004R0011001.txt
+\CMTS
+\date 20/Oct/94
+\lex t@p-xu7t
+\_no 03194
+\LG MIG
+\PSH [t@pxu7t-]
+\UND t@p-xu7t
+Page 1373

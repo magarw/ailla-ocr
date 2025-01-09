@@ -1,0 +1,65 @@
+\ETYM
+\ETL
+\ROOT pinh
+\RTGR T3
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex piw.i+i7k
+\_no 02659
+\LG MIG
+\PSH [piwi*7]
+\UND pinh.E +P@7k
+\MB recoger, NOM7, REL
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG una cosa recogida
+\ENG something that has been picked up
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pinh
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex pix
+\_no 02660
+\LG MIG
+\PSH
+\UND pix
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG sentir_picazo*n
+\ENG to feel a bite
+\SPL yak.pix.7oy
+\SLGR CAUS
+ZOH004R0011001.txt
+de pulga, etc.
+of a flea, etc.
+\SLGL darle comezo*n // to make someone itch
+\EXU 1 d@+ pix-pa
+\XPSH 1 [D@ pixpa.]
+\XSP 1 Me pica.
+\XEN 1 It's biting me.
+\EXU 2 pix. 'oy-pa 7@y+ kuptuku7
+\XPSH 2 [Pixxoypay kuptuku7.]
+\XSP 2 Algo le pica en su espalda.
+\XEN 2 Something is biting his back.
+\EXU 3 7@y+ pix-pa pix-t@k
+\XPSH 3 [7@y pixpa pixt@k.]
+\XSP 3 La pulga pica.
+\XEN 3 The flea is biting.
+\SYN
+\SEMF body
+\ASP semelfactive
+Page 1145

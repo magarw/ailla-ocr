@@ -1,0 +1,77 @@
+ZOH001R0361001.txt
+\egl 1A say -INC where 1A bite -COM 3E snake
+\zoq Da nampa 7onde d@ waxx@y tzajin.
+\fts Digo en donde me mordio* la culebra.
+\fte I say where the snake bit me.
+\com
+\idx
+\ref ZOH001R036 376
+\_no 00371
+\tx d@x n@mjaw@
+ke y@da
+rremedyo y t@pa
+\mb d@x n@m-jay -w@ ke
+\sg] 1prn decir-APPL-COM que
+ya -da rremedyo 7@y t@7 -ра
+DCT1-DEM remedio 3E querer-INC
+\egl 1prn say -APPL-COM that DCT1-DEM remedy 3E want -INC
+\zoq Dax n@mjawa ke yada rremedyoy t@pa.
+\fts Yo me dijeron que este remedio quiere.
+\fte They say to me that they want this remedy.
+\com
+\idx
+\ref ZOH001R036 377
+\_no 00372
+\tx pwes gaja
+n
+\mb pwes ka -ja7 7@n
+\sgl pues DCT3-LOC1 1E
+n@mjayy@
+7otro modo
+nam -jay -wa 7otro modo
+decir-APPL-COM otro modo
+\egl well DCT3-LOC1 1E say -APPL-COM other way
+\zoq Pwes, gajan n@mjayy@, 7otro modo
+\fts Pues, alla* le dije, es otra forma
+\fte well, there I said to them, its another kind
+\com
+\idx
+\ref ZOH001R036 378
+\_no 00373
+\tx 7onde jejtampa
+\mb
+donde jej
+- tam -pa
+\sg1 donde vivir-1/2PL-INC
+\egl where live -1/2PL-INC
+\zoq 7onde jejtampa.
+\fts donde vivimos.
+\fte where we live.
+\com
+\idx
+\ref ZOH001R036 379
+\_no 00374
+\tx per
+\mb
+7@n n@mjayy@
+yan
+mux@
+y@j@nanh
+pero y@ -j@nanh 7@n n@m -jay -w@ ya -7@n mux -A junanh 7@m
+junanh 7@m
+\sg1 pero DCT1-DIR1 1E
+\egl but DCT1-DIR1 1E
+decir-APPL-COM NEG-1E
+say -APPL-COM NEG-1E
+saber-nINC como 2E
+know -nINC how 2E
+bi tzajin waxe
+\tx wajtz@ktampa
+\mb waja -tz@k - tam -pa bi tzajin wax -A7
+\sg1 bueno-hacer-1/2PL-INC DEF culebra morder-NOM2
+\egl good - do -1/2 PL-INC DEF snake bite -NOM2
+\zoq "Per y@j@nanh," 7@n n@mjayy@, "yan mux@ junanh 7@m_w@jtz@ktampa bi
+tzajinwaxe.
+\fts "Pero por aca*," le dije, "no se que modo lo sana la mordida de
+culebra."
+Page 81

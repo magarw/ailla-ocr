@@ -1,0 +1,50 @@
+102 afi afoquian
+afi a-fo-quian
+3PERS.PL AUX.TR-PL-OST2
+elles le firent
+103 arasifoquian
+a-rasi-fo-quian
+3PERS-nombreux-PL-OST2
+celles-ci nombreuses
+104 rohuu tutu ushura
+rohuu tutu ushu-ra
+métal buse graine-ASS
+les oeufs de la buse de métal
+=
+= les graines de tabac
+105 odidifoandi
+odi-idi-foan-di
+transformer-monter-DIR-PASL
+elles commencèrent à se transformer
+106 ahuun busocayanu
+ahuun bu-so-caya-nu
+3POSS <<main »-LOC-EXIST2-ERG
+leurs serres
+= leurs racines
+107 arasi odinai
+a-rasi odi-na-i
+3PERS-nombreux transformer-REC-PROG
+nombreuses elles se sont transformées
+108 odidifoana
+odi-idi-foan-a
+transformer-monter-DIR-ACC
+elles ont commencé à se transformer
+109 arasi buscodi
+a-rasi busco-di
+3PERS-nombreux « être cassé »-PASL
+nombreuses elles sont cassées
+110 tsoan ano raoma
+111 rohuu tutu itsara
+rohuu tutu itsa-ra
+métal buse puanteur-ASS
+la puanteur de la buse de métal
+= l'odeur du tabac
+112 //ahuun itsa paura//
+ahuun itsa pau-ra
+3POSS puanteur puissant-ASS
+sa puissante puanteur
+113 ahuun diso itsara
+ahuun diso itsa-ra
+3POSS convulsion puanteur-ASS
+sa puanteur convulsive
+99

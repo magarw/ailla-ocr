@@ -1,0 +1,63 @@
+\_no 00049
+\LG MIG
+\PSH
+\UND 7anima 7alma
+\MB
+\VAR 7anim 7alma
+\GRAM s (m) s
+\SCI
+\USE
+\SPG 1 finado
+\SPG 2 difunto
+\SPG 3 fantasma
+\ENG 1 deceased
+\ENG 2 ghost
+\ENG 3 phantasm
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM anima, alma
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS 7anim 7alma es un hombre; 7anima 7alma es una mujer [I DONT BELIEVE
+THIS]
+\CMTS the previous comment is the explanation given by GSM. It's included
+\CMTS as a bit of sociolinguistics. [7anim 7alma] TK
+\date 02/Oct/96
+\lex 7antyojo
+\_no 00050
+\LG MIG
+\PSH
+\UND 7antyojo
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG lentes, anteojos
+\ENG glasses
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM anteojos
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 02/Oct/96
+ZOH004R0011001.txt
+\lex 7an@k.matz@.matz@.ney
+\_no 00051
+\LG MIG
+\PSH [7an@kmatz@matz@ney]
+\UND 7an@k.matz@.matz@.ney
+\MB
+\VAR
+\GRAM vi
+\SCI
+Page 22

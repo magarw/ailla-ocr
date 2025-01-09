@@ -1,0 +1,63 @@
+\SLGR CAUS
+\SLGL empollar // to cause to blister
+\EXU tonh-w@ 7@n+ tzanh.kuy7
+\XPSH [Tonhnh@n tzanhkuy7.1
+\XSP Se ampollo* mi mano.
+XEN My hand has a blister.
+\SYN
+\SEMF body
+\ASP
+\ARG
+\NOM yuk.tow.a7, tow.a7
+\SUB yuk.tonh, y@k.tonh
+\ETYM
+\ETL
+\ROOT tonh
+\RTGR 12
+\DSRC HAJ94
+\CMTS caus
+\CMTS indir:caus yak.tonh.jay
+\date 03/Jan/80
+\lex top
+\_no 03026
+\LG MIG
+\PSH
+\UND top
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG hacer calor; tener calor
+\ENG to be hot; to feel hot
+\SPL yak.top
+\SLGR CAUS
+\SLGL hacer sentir calor (sol) // for the sun to make you feel hot
+\EXU 1 ban top-pa
+\XPSH 1 [Ban toppa.]
+\XSP 1 Hace mucho calor.
+\XEN 1 It is very hot.
+\EXU 2 top-An@m-w@
+\XPSH 2 [Topan@mm@.]
+\XSP 2 Hizo calor.
+\XEN 2 It was hot.
+\EXU 3 7@m+ top-pa
+\XPSH 3 [7@m toppa?]
+\XSP 3 ?Tienes calor?
+\XEN 3 Are you hot?
+SYN
+ZOH004R0011001.txt
+\SEMF temp
+\ASP state
+\ARG
+\NOM top.a7
+\SUB yuk.top
+\ETYM
+\ETL
+\ROOT top
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\CMTS CK-PH of EX2 HAJ:96 ok
+\date 03/Jan/80
+Page 1303

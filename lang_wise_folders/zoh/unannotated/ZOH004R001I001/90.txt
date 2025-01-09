@@ -1,0 +1,63 @@
+\EXU 2 7@y+ tat(a) 'apu
+\XPSH 2 [7@y tatapu]
+\XSP 2 su abuelito
+\XEN 2 her grandfather
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 09/Jan/96
+\lex 7apun-tz@k
+\_no 00212
+\LG MIG
+\PSH [7apuntz@k-]
+\UND 7apun-tz@k
+\MB apuntar, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG apuntar (con la pistola)
+\ENG to aim (with a pistol)
+\EXU 7@y+ 7apun=tz@k-w@ tuj.kuy7 +j@nanh
+\XPSH [7@y 7apuntz@kk@ tujkuyj@nanh.]
+\XSP Lo apunto* con una arma.
+\XEN He aimed a gun.
+\SYN
+\SEMF
+\ETYM apuntar
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 12/Jun/95
+\lex 7apu-p@n=tuk
+\_no 00213
+\LG MIG
+\PSH [7apup@ntuk-]
+\UND 7apu-p@n=tuk
+\MB viejo, hombre, terminarse
+\VAR 7aapp@ntuk
+\GRAM vi
+\SCI
+\USE
+\SPG envejecer
+\ENG to grow old
+\EXU 7ap (u)=p@n=tuk. 'am
+\XPSH [7app@ntukka*m.]
+\XSP Se envejecio*.
+\XEN He grew old.
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT tuk
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+Page 90

@@ -1,0 +1,63 @@
+\XSP Desgonzarto* su pie.
+\XEN He sprained his ankle.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 *mạnh
+\RTGR 1 P
+\ROOT 2 wi7kx
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 19/Jun/96
+\lex manh=woj
+\_no 01885
+\LG MIG
+\PHO [manhwoj-]
+\UND_manh=woj
+\MB *pisar, hacer_hoyo
+\VAR
+\GRAM vt
+\SPG hundirse donde iba caminando
+\ENG for the place where you're walking to cave in
+\EXU_7@y+ manh=woj-w@ bi nax
+\XPSH [7@y manhwojj@ bi nax.]
+\XSP Se hundio* la tierra donde iba caminando.
+\XEN The ground caved in where he was walking.
+\SYN
+\ROOT 1 * mạnh
+\RTGR 1 IX
+\ROOT 2 woj
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex manh=w@nh
+\_no 01886
+\LG MIG
+\PSH [manhw@nh-]
+\UND manh=w@nh
+\MB *pisar, sumirse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG atascarse en el lodo
+\ENG to get stuck in the mud
+\EXU manh=w@nh-w@ _tzoko+jo7
+\XPSH [Manhw@nhnh@ tzokojo7.]
+\XSP Se atasco* en el lodo.
+\XEN She got stuck in the mud.
+\SYN
+SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT 1 * mạnh
+\RTGR 1 P
+\ROOT 2 w@nh
+\RTGR 2 Ix
+\DSRC TK94
+\CMTS get deriv's
+Page 813

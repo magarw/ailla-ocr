@@ -1,0 +1,61 @@
+\date 28/Jun/96
+\DATE 03/Jan/1980
+\lex 777777
+\_no 00004
+\CMTS HAJ reviewed the entire dictionary in 1997. She
+She ported it to
+Shoebox 3.0 (windows version). First pass was mostly clean-up:
+(1) standardizing record formats to match the Summer 1996 specs
+(2) completing examples (all four fields: EXU, XPSH, XSP, XEN)
+and adding capitalization and punctuation where appropriate (3)
+adding English translations where possible (some translations
+come from RZ) (4) getting all the supplemental fields filled in
+where they could be (SPL, SLGR, SLGL
+it has to be 4
+characters, you can't search for a 5 char field name!) (5)
+completing MB fields where possible (6) standardizing morpheme
+characters (so that, e.g., ANTIP is always derivational, not
+sometimes derivation and sometimes inflection) (7) dumped entries
+with no glosses and a few other odd bits (the ones that had
+DENIED by GSM in the comments, for example) into an
+appendix database.
+\CMTS Second pass: (1) added lots of example sentences and a few new
+verbs from the 95-96 field work (2) checked all ROOT and
+RTGR fields to make sure the same thing is said of every root
+wherever it is mentioned (3) added SBD and SPR info
+\date
+\CMTS 1998: HAJ added SUB and SUPER data to verb roots. Also added new
+fields NOM (nominalized forms, like .kuy7) and ARG for roots that entail a
+specific argument other than subject, like instrument.
+\CMTS 1999: HAJ added deictic, spatial and temporal adverbials
+\DATE 03/Jan/1980
+\lex 7abanera jay@7
+\_no 00005
+\LG MIG
+\PSH
+\UND 7abanera jay@7
+\MB habanera, flor
+\VAR
+\GRAM sms
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG flor de habanera
+\ENG oleander
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM habanera
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Jun/95
+\lex 7abono
+\_no 00006
+\LG MIG
+\PSH
+\UND 7abono
+Page 2

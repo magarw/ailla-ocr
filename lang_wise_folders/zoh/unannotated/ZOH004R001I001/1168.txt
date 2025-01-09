@@ -1,0 +1,63 @@
+\_no 02715
+\LG MIG
+\PSH [ponontz@k-]
+\UND pon.on7=tz@k
+\MB suave, X, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer blandito
+\ENG to make soft
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex pon.on'. 'aH
+\_no 02716
+\LG MIG
+\PSH [pononna-]
+\UND pon.on 7.7aH
+\MB blandito, VERS1
+\VAR pon. 7aH
+\GRAM versl
+\SCI
+\USE
+\SPG ponerse muy de*bil o blandito
+\ENG to become very weak or soft
+\SPL yak.pon. 7aH
+\SLGR CONVERS1
+\SLGL ablandar // to make soft
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex pon-to7kxi7
+\_no 02717
+\LG MIG
+\PSH [ponto7kxi7]
+\UND pon-to7kxi7
+\MB suave, X
+\VAR
+ZOH004R0011001.txt
+\GRAM
+\SCI
+\USE
+Page 1168

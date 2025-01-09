@@ -1,0 +1,63 @@
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex tux
+\_no 03131
+\LG MIG
+\PSH
+\UND tux
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG picar (como una vi*bora o gallina); pellizcar
+\ENG to bite (like a snake or chicken); to pinch
+\SPL tux. 7oy
+\SLGR ANTIP
+\SLGL picar, pellizcar // to bite, to pinch
+\SLGR NO PASS
+\SPL yak.tux. 7oy
+\SLGR CAUS ANTIP
+\SLGL picar // to bite
+\EXU 1 yak.tux. 'oy-w@ tzajin
+\XPSH 1 [Yaktuxxoyy@ tzajin.]
+\XSP 1 Le pico* la vi*bora.
+\XEN 1 The snake bit (someone).
+\EXU 2 tux.7@m-w@ bi mango
+\XPSH 2 [Tuxx@mm@ bi mango.
+\XSP 2 Picotearon el mango.
+\XEN 2 They minced the mango.
+\EXU 3 bi jon 7@y+ tux.ten-w@ bi mango
+\XPSH 3 [Bi jon 7@y tuxtenn@ bi mango.]
+\XSP 3 El pa*jaro tiene su pico en la fruta y no lo quiere soltar.
+\XEN 3 The bird has the mango in its beak and won't let go.
+\SYN
+\SEMF bite, cut
+\ASP activity
+\ARG
+\NOM tux.kuy7, tux.naanh
+\SUB
+\ETYM
+\ETL
+\ROOT tux
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex tux.kuy7
+\_no 03132
+ZOH004R0011001.txt
+\LG MIG
+\PSH [tuxkuy7]
+\UND tux.kuy7
+\MB picar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG pico
+Page 1347

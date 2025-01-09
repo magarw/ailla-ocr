@@ -1,0 +1,88 @@
+\sg1 irse-INC
+\egl go -INC
+\zoq 7una bes ke jayya*m - jayya*m kinse diay n@kpa.
+\fts Una vez que ya dilato* ya dilato* quince di*a.
+\fte Once it's waited - it's waited now going fifteen days.
+\com
+\idx
+\ref ZOH001R036 999-129
+\_no 01111
+\tx kay
+\mb ka
+m
+-y
+7@m
+\sg1 DCT3-TMP 2E
+\eg1 DCT3-TMP 2E DOWN -bind
+7okwatt@ba*m
+7ok
+\zoq kay m 7okwatt@ba*m,
+\fts Entonces ya lo desatas,
+\fte Then you unbind it,
+\com
+\idx
+ABAJO-amarrar-SUF-INC-YA
+\ref ZOH001R036 999-130
+\_no 01112
+\tx kay
+m
+j@xp@kpam
+\mb ka -Y 7@m jax -p@k
+\sg1 DCT3-TMP 2E
+\eg1 DCT3-TMP 2E BACK -get
+ZOH001R0361001.txt
+-wat -7@y-pa -7am
+\com
+\idx
+-SUF-INC-NOW
+ATRAS-agarrar-INC-YA
+\ref ZOH001R036 999-132
+\_no 01114
+\tx tejiam
+\mb
+-pa -7am
+-INC-NOW
+\zoq kay m j@xp@kpam y@d@ 7am tzajj@*.
+\fts ya le sacas esto que le pegastes.
+\fte now you get out this that you stuck on.
+\com
+\idx
+\ref ZOH001R036 999-131
+\_no 01113
+si tejiam
+\tx 7@m sentz@kpa
+\mb
+7@m senar-tz@k -pa si teji
+\sg1 2E cenar-hacer-INC si hay
+\egl 2E dine - do
+\zoq 7@m sentz@kpam si tejiam byen.
+\fts Sientes si ya esta* bien.
+\fte You feel if now it's well.
+\com
+\idx
+-INC if there_is-NOW well
+\ref ZOH001R036 999-133
+\_no 01115
+yada
+ya -da
+y@
+DCT1-DEM 2E
+DCT1-DEM 2E
+\zoq Tejiam 7@y tz@kpam modimyentu.
+\fts Ya esta* ya hace movimiento.
+\fte Now it makes movements.
+byen
+-7am byen
+-YA bien
+7@y tz@kpam
+modimyentu
+-7am 7@y tz@k -pa -7am movimyentu
+-YA 3E hacer-INC-YA movimiento
+teji
+\sg1 hay
+\egl there_is-NOW 3E do -INC-NOW movement
+7@m tzajj@*
+7@m tzaj -w@
+pegar-COM
+glue -COM
+Page 240

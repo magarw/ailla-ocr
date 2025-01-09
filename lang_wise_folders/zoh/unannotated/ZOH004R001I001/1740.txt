@@ -1,0 +1,62 @@
+\CMTS
+\date 28/Jan/96
+\lex x@k=ko.xe't.e7
+\_no 04045
+\LG MIG
+\PSH [x@kkoxete7]
+\UND x@k=ko.xe7t. E7
+\MB frijol, OTRO, frei*r, NOM7
+\VAR
+\GRAM nom:incorp
+\SCI
+\USE
+\SPG frijol refrito
+\ENG refried beans
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xe7t
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex x@k=k@'t.i7
+\_no_04046
+\LG MIG
+\PSH [x@kk@ti7]
+\UND x@k-k@7t.E7
+\MB frijol, moler, NOM7
+\VAR
+\GRAM nom:incorp
+SCI
+\USE
+\SPG frijoles molidos
+\ENG ground beans
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT k@7t
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex x@k-naka7tz.kuy7
+\_no 04047
+\LG MIG
+\PHO [x@knaka7tzkuy7]
+\UND x@k-naka7tz.kuy7
+\MB frijol, machucar, INSTR1
+\VAR
+ZOH004R0011001.txt
+\GRAM instr1
+\SPG un palo con que machucan el frijol, molinillo de palo
+\ENG a stick for mashing beans, a wooden pestle
+Page 1740

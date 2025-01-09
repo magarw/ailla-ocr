@@ -1,0 +1,65 @@
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+214
+ahuun chii uhuanu
+ahuun chii uhua-nu
+3POSS feu grand-ERG
+leur grand feu
+= leur soleil
+oa taba budodi
+oa taba budo-di
+DEM << plant de cacahouète » calciner-PASL
+ils calcinèrent ces plants de cacahouètes
+ils calcinèrent ces arbres
+=
+budorasiacudi
+budo-rasi-acu-di
+calciner-nombreux-CIRC-PASL
+ils les calcinèrent tous
+ano tohuuhuaifo
+ano tohuu-huain-fo
+LOC exploser-aller-PL
+là ils éclatèrent
+icamuaino
+i-camu-aino
+AUX.INTR-EXIST3-ACT.SIM
+ce fut ainsi
+// chii arasimadi //
+chii a-rasi-ma-di
+feu AUX.TR-nombreux-CAUS-PASL
+le feu le fit ainsi
+ano chii yorima
+ano chii yori-ma-a
+LOC feu trembler-CAUS-ACC
+214
+là le feu les fit trembler
+chii yorimacudi
+chii yori-ma-acu-di
+feu trembler-CAUS-CIRC-PASL
+le feu les fit trembler
+tsoan ano raoma
+ano raomaquian
+ahuun chii ohuira
+ahuun chii ohui-ra
+3POSS feu voix-ASS
+sa voix de feu
+le tonnerre
+=
+chii bara ohuicai
+chii bara ohui-cai
+feu sommet voix-MIR
+sa voix de feu des hauteurs
+le tonnerre
+=
+Les arbres.
+182

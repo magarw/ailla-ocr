@@ -1,0 +1,64 @@
+\CMTS
+\date 04/Nov/94
+\lex k@7tz
+\_no 01757
+\LG MIG
+\PSH
+\UND k@7tz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG masticar
+ENG to chew
+\SPL k@7tz. 7oy
+\SLGR ANTIP
+\SLGL masticar // to chew
+SPL k@7tz.7@m
+\SLGR PASS
+\SLGL gastarse, como el mecate de una hamaca // to be worn out, like
+the rope on a hammock
+\EXU 1 7@y+ k@7tz-w@ bi 7an.e bi tzuk
+\XPSH 1 [7@y k@7tztz@ bi 7ane bi tzuk.]
+\XSP 1 Una rata cascomio* la tortilla.
+\XEN 1 A rat gnawed on the tortilla
+\EXU 2 bi tzuk d@k(+'ay) k@7tz. 'oy-xuk-w@
+\XPSH 2 [Bi tzuk d@kka k@7tztzoxukk@.]
+\XSP 2 Las ratas carcomieron.
+\XEN 2 The rats were gnawing.
+\SYN ke7tz
+\SEMF eat
+\ASP activity
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT k@7tz
+\RTGR T3
+\DSRC HAJ94
+\CMTS confused with ke7tz masticar ?
+CMTS
+\CMTS viene siendo lo mismo
+\date 03/Jan/80
+\lex k@.wak
+\_no 01758
+\LG MIG
+\PSH [k@:wak-]
+\UND k@.wak
+ZOH004R0011001.txt
+-
+\MB FUERA, *vaciar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG desocuparse
+\ENG to vacate; to finish using
+\EXU 1 da ka.wak-wa
+\XPSH 1 [D@ k@wakk@.]
+\XSP 1 Me desocupe*.
+\XEN 1 I left.
+\EXU 2 7@y+ yak.k@.wak-w@ 7@y+ ja'tz. A
+Page 760

@@ -1,0 +1,81 @@
+\com
+\idx
+\ref ZOH001R036 051
+\_no 00052
+\tx 7@y w@jtz@kpa
+\mb 7@y w@ja -tz@k -pa
+\sg1 3E bueno-hacer-INC
+\egl 3E good - do
+\zoq 7@y w@jtz@kpa.
+\fts Lo sana (los granos).
+\fte It heals them.
+\com
+\idx
+\ref ZOH001R036 052
+\_no 00053
+\tx 7@m 7ukpa
+\mb 7@m 7uk
+\sg1 2E
+tomar-INC despues que 2E BOCA -EN
+\egl 2E drink-INC after that 2E MOUTH-INTO-dent
+\ref ZOH001R036 053
+\_no 00054
+\tx
+\mb
+\zoq 7@m 7ukpa despwes ke 7@m 7anhjomuyya*m.
+\fts Lo tomas despues que ya enjuagastes.
+\fte You drink it after you've soaked it.
+\com
+\idx
+tum kopa
+\sg1 uno copa
+\egl one cup
+despwes ke
+-pa despwe*s ke
+\com
+\idx
+tum kopa tum 7utzkuy7
+-INC
+\sgl 2E
+\egl 2E
+\ref ZOH001R036 054
+\_no 00055
+\tx 7@m 7ukpa
+\mb 7@m 7uk -pa
+tomar -INC
+drink-INC
+\zoq 7@m 7ukpa.
+\fts Lo tomas.
+tum 7utz -kuy7
+\zoq Tum kopa
+tum 7utzkuy7, pwes.
+\fts Una copa una medida, pues.
+\fte A cup. well, a measure.
+ZOH001R0361001.txt
+pwes
+pwes
+uno medir -INSTR1 pues
+one measure-INSTR1 well
+\fte You drink it.
+\com
+\idx
+7@m 7anhjomuyya*m
+7@m 7anh -jo
+\ref ZOH001R036 055
+\_no 00056
+tzokoy7 7@y w@jtz@kpa
+\tx para bi ney
+\mb
+para bi
+ney tzokoy7 7ay waja -tz@k -pa
+\sg1 para DEF IPrn corazo*n 3E
+\egl for DEF IPrn heart 3E
+bueno-hacer-INC
+good - do
+\zoq Para bi ney tzokoy7 7@y w@jtz@kpa,
+- INC
+Page 12
+-muy
+-w@ - 7am
+-doblar (se) -COM-YA
+-COM-NOW

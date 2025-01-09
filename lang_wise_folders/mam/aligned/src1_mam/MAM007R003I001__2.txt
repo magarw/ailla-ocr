@@ -1,0 +1,49 @@
+(12) at=0
+alemaj,
+EXIST=B3s un pequeño animal
+'que había un animal chiquito,'
+(13) per masaat=0
+pero venado=B3s
+'que se llamaba venado,'
+(14) t=0=a'
+EXIST=B3s=DESP A3s-SR:en
+'que estaba en la luna.'
+(15) Entoons despwees n=0=ku’
+entonces después INC=B3s=DIR A3s-pensar-SD
+'Entonces después se puso a pensar sobre esto,'
+(16) entoons n=0=xi'=tzan,
+entonces INC=B3s-ir-pues
+'entonces pensó,'
+(18) Kabaal 0=kaamb'a-n
+cabal
+B3s=lograr-AP
+'cabal logró el huérfano,'
+INC=B3s=ir cerbatanear-INF A3s-SR-A3s-SR:PAC
+masaat t-uj
+xjaaw.
+venado A3s-SR:en luna
+'y lo fue a matar, al venadito en la luna.'
+INC=B3s-DIR=DIR A3s-cerbatanear-SD
+'lo mató con un carrizo,"
+(22) 0-chi-tzan
+B3s-decir pues así
+'según dicen.'
+huérfano
+B3s-decir pues B3s-decir-PAS así
+'según dicen así.”
+xjaaw.
+luna
+tz'itab'=0
+t=b'ii,
+DEM tirachinas-B3s A3s-nombre
+'esto se llama honda de carrizo,'
+t-i’j,
+A3s-SR:tema
+tal
+pequeño
+(23) Entoonses txuk 0=0=xi'
+masaat t-uj
+entonces
+directo CPL.DEP=B3s=ir venado A3s-SR:en
+'Entonces directo se fue el venado en el mar,'
+3

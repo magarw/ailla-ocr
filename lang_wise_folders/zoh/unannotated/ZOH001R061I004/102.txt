@@ -1,0 +1,63 @@
+\_no 00252
+\LG MIG
+\PSH [pitzi tokx@*7]
+\UND pitz. E tokx. A+@7k
+\MB cocer_mai*z_con_cal, NOM7, pelar, NOM2, REL
+\VAR tokx.@7+@7k pitz.i
+\GRAM nom:incorp
+\SCI
+\USE
+\SPG nixtamal pelado
+\ENG corn that has been stripped of its outer covering by soaking in lye
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH001R0611004.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 pitz
+\RTGR 1 T1
+\ROOT 2 tokx
+\RTGR 2 IX
+\DSRC HAJ94
+\CMTS CK-GR HAJ:96, corrected from a vi:incorp/now it's nom:incorp (TK)
+\date 25/Jun/96
+\lex pitz.i=way
+\_no 00253
+\LG MIG
+\PSH [pitziway-]
+\UND pitz.E=way
+\MB cocer_mai*z_con_cal, NOM7, moler
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG moler el mai*z; moler nixtamal
+\ENG to grind corn; to grind corn that has been cooked with lye
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pitz T1, way T1
+\KEY
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex pitz.kuy' wa.e
+\_no 00254
+\LG MIG
+\PSH [pitzkuy wae]
+\UND pitz.kuy7 way. E
+\MB cocer_mai*z_con_cal, INSTR1, moler, NOM7
+\VAR
+\GRAM sms v
+\SCI
+\USE
+\SPG masa de nixtamal
+\ENG cornmeal made from corn cooked with lye
+Page 102

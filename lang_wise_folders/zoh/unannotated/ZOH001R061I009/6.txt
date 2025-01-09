@@ -1,0 +1,64 @@
+XEN the water was scooped up with a dipper
+\ROOT jepx P (T3)
+\SEMF pick_up, instr
+\PASS jepx.7@m
+\ANTI jepx. 7oy
+agarrarse
+agarrar
+\ASSU jepx.ney estar montonado (arena o grava)
+\PRSV jepx=ten lo tiene (el agua) en la ji*cara
+\CMTS ASSU: tiene embutido la ji*cara dentro el agua
+\CMTS term tuk
+\lex je7p
+\_no 00019
+\SPG pescar con manta
+\ENG to fish with a cloth
+\EX tijj@ 7@y je:pe
+\XSP fue* a pescar con manta
+\XEN he went to fish with a cloth
+\EX 7@y je7ppa koke
+\XSP pesca con manta
+XEN he fishes with a cloth
+\EX je7ppa
+\XSP esta* pescando
+\XEN she's fishing
+\ROOT je7p P (T3)
+\SEMF hunt, instr
+ZOH001R0611009.txt
+\CMTS fishing with a manta, like a sheet, that you tie around your neck and
+\CMTS then spread with the hands, leaning forward to scoop up some water
+\CMTS and fish
+\PASS NONE
+\ANTI je7p.7oy pescar
+\PRSV je7p-ten tiene la manta dentro del agua
+\ASSU je7p.ney estar adentro del agua la manta
+\CMTS V class: uncertain. now rejects ASSU and PRSV, saying it doesn't make
+\CMTS sense. Reason: this is an activity, you don't just stand there with
+\CMTS the cloth in the water, you scoop and spread
+\CMTS probably a T1. OBJ is always redundant
+\lex jey
+\_no 00020
+\SPG batir (masa)
+\ENG to beat (masa)
+\EX way jeyy@
+\XSP batio* la masa
+\XEN she kneaded the masa
+\EX 7@y jeytenn@ bi way para bi k@xi
+\XSP tiene batido la masa para la comida
+\XEN she's got the masa beaten for the food
+\ROOT jey P (T3)
+\SEMF cook, corn
+\PASS jey.7@m batirse
+\ANTI jey.7oy batir
+\ASSU jey.ney estar batido
+\PRSV jey=ten lo tiene batido
+\lex jim
+\_no 00021
+\SPG rozar; tocar al pasar
+\ENG_to graze; to touch in passing
+\EX 7@y jimja7oyy@
+\XSP toco* algo de la gente al pasar
+\XEN he touched something of someone's in passing
+\EX 7@n jimm@ n n@ki
+\XSP anduvo tocandolo al pasar
+Page 6

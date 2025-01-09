@@ -1,0 +1,61 @@
+\ENG to go out (be extinguished)
+\EX 7okxpa 7i k@nhtzonhpa
+\XSP se prende y se apaga
+\XEN he turns it on and
+\EX 7@y xuja 7okx@ ta7kx@
+\XSP apago* soplando la luz
+\XEN he blew on it, he put out the light
+ROOT 70kx 12
+\SEMF fire
+\CAUS yak.7okx apagar
+\CMTS
+\lex 707k
+\_no 00016
+\SPG calmar(se)
+\ENG to calm down
+\EX 707kk@ xawa
+\XSP se calmo* el viento
+\XEN the wind calmed down
+\lex 7om
+\_no 00017
+\SPG echar humo
+he turns it off
+\ROOT 707k 12
+\SEMF nature
+\CAUS yak.707k hacer calmar el viento:
+\CMTS puede decirlo, pero no puede hacerlo
+\CMTS trata del viento, el tiempo
+\ENG to emit smoke
+\EX
+\XSP
+\XEN
+\ROOT 70m 12
+ZOH001R0611010.txt
+SEMF smoke
+\CAUS yak. 7om hacer echar humo
+\lex 70px
+\_no 00018
+\SPG echar espuma; espumar
+\ENG to emit foam; to foam
+\EX 7@y yakkopx@
+\XSP hizo que echar espuma
+\XEN to make something foam
+\ROOT 70px 12
+\SEMF nature
+\CAUS yak.70px hacer espuma
+\CMTS
+\lex 7otonh
+\_no 00019
+\SPG hablar
+\ENG to speak
+\EX ya n@mmo 7@y 7otonhnh@*7
+\XSP tartamudo
+\XEN stutterer
+\EX jaxjonh 7otonhnh@
+\XSP hablo* por atras
+\XEN he spoke backwards (or behind him)
+\ROOT 7otonh Il
+\SEMF speak
+\CAUS yak. 7otonh hacer hablar
+\CMTS no .jay indir form, see 7otonh.7@y
+Page 5

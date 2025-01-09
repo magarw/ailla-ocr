@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 24/Sep/94
+\lex barbasku
+\_no 00544
+\LG MIG
+\PSH
+\UND barbasku
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG barbasco
+\ENG fish-stunning poison
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex barbasku wa7tz
+\_no 00545
+\LG MIG
+\PSH
+\UND barbasku wa7tz
+\MB barbasco, rai*z
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG raiz de barbasco
+\ENG a type of poisonous root used for fishing
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+LF:wa7tz
+\DSRC TK94
+\CMTS
+\date 12/Jun/95
+\lex barku
+\_no 00546
+\LG MIG
+\PSH
+\UND barku
+\MB
+ZOH004R0011001.txt
+Page 235

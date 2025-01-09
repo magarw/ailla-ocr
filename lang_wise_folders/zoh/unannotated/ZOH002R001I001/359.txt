@@ -1,0 +1,40 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(v)
+pitzømge'ttø 'otro tumø
+0 picəm.ke?t-wə
+Potro tumə
+3A leave-REPET-COM other one
+'Another one left.'
+The celeritive suffix appears most commonly with verbs of motion or
+carrying and has the meaning 'rapidly' or 'all at once'. It has two phonological
+shapes: -pǝ? or -pakpə?. The second is obviously compositional, but I have no
+idea what the pak morpheme might be. The celeritive appears only very rarely
+in the corpus.
+(13.18)
+(i)
+(ii)
+(iii)
+kaxpøpøwø tøk'angjø'
+0
+kaš=pə?.pə?-wə
+tək?aŋhə?+V?k
+3A step=put.CEL-COM san_miguel+REL
+'A Migeleño quickly took a step.'
+'øy yuktzømpøwø
+?əy+ yuk.cəm.pǝə?-wə
+3E+ UP.load.CEL-COM
+'He loaded it up rapidly.'
+'øy wenpøwø
+?ǝy+ wen.pə?-wə
+3E+ divide.CEL_COM
+'She divided it all at once.'
+(ZOH001R018-319)
+331
+(ZOH001R024-172)
+(lexicon)
+(lexicon)
+Verb complexes with the suffixes -ney (ITER1) and -way (ITER2) contain
+reduplicated verb roots, and have an iterative or emphatic meaning. These
+never appear with any other prefixes or suffixes. In the -ney constructions, the
+verb root that bears the central meaning of the complex is reduplicated, as
+shown in the following examples, all but the first taken from the lexicon.

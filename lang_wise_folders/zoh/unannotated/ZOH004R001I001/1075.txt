@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT paj
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex pajak
+\_no 02495
+\LG MIG
+\PSH
+\UND pajak
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG ri*o
+\ENG river
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Nov/94
+\lex pajak 7aka
+\_no 02496
+\LG MIG
+\PSH
+\UND pajak 7aka
+\MB ri*o, orilla
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG orilla del ri*o
+\ENG river bank
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Aug/94
+\lex pajak+jo7
+\_no 02497
+\LG MIG
+\PSH [pajakjo7]
+\UND pajak +jo7
+\MB rio, LOC2
+\VAR
+ZOH004R0011001.txt
+Page 1075

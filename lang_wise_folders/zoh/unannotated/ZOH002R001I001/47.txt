@@ -1,0 +1,24 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+Many Spanish function words have been borrowed, most notably the
+conjunctions y, 'and', o, 'or', and pero, 'but'. Discourse markers like entonces,
+'then', and de ahí, 'from there' have been borrowed, as have words for times
+and places that apparently were not part of the pre-Hispanic culture, like ?ora,
+hora, 'hour', and parke, parque, 'park'. Where there is a Zoque word, it tends to
+be preferred. I seldom see the word mañana, 'morning', in place of ?aŋnamcu?,
+for example.
+So far we have a case of category (2) borrowing: phonology and
+morphology restricted to the loan words with which they are associated, and
+function words that had no native equivalents. Category (3) borrowing includes
+adpositions and a more extensive set of function words. The Spanish
+prepositions de, 'of' and para, 'for', appear in MIG Zoque sentences, preceding
+the nouns in accordance with Spanish syntax, as shown in example (2.8). The
+Zoque way to say this would employ the applicative suffix -hay to reference the
+recipient.
+(2.8) ke 'iwø 'øy manak tzi'oba para yødø pøn
+ke ?iwǝ? ?ǝy+ manak 0 ci?.?oy-pa
+that who 3E+ child 3A give.ANTIP-INC for
+'Who will give his daughter to this man?'
+23
+para yədə pən
+this man
+(ZOH001 R018-221)

@@ -1,0 +1,78 @@
+\_no 00141
+\tx
+7@n winp@kwakpa
+\mb 7@n win -p@k
+-wak
+\sgl 1E CARA-agarrar-vaciar-INC
+\egl 1E
+FACE-get
+\zoq 7@n winp@kwakpa.
+fts Lo ahumo.
+\fte I cense it.
+\com
+\idx
+\ref ZOH001R036 141
+\_no 00142
+\tx 7i 7otro 7@m yakmonhwi tupa
+\mb 7i 7otro 7@m yak -monh
+\sgl y
+-witu7
+otro 2E
+CAUS-dormir-regresar-INC
+\egl and other 2E CAUS-sleep -return -INC
+\ref ZOH001R036 142
+\_no 00143
+\tx 7@m winp@kwakke7tpa
+\mb
+7@m win -p@k
+\zoq 7i_7otro_7@m yakmonhwitupa.
+\fts Y luego lo volteas boca abajo.
+\fte And then you turn it face down.
+\com
+\idx
+FACE-get
+\zoq 7@m winp@kwakke7tpa.
+fts Lo ahumas de vuelta.
+\fte You cense it again.
+\com
+\idx
+\ref ZOH001R036 143
+\_no 00144
+\tx sufisyente
+\mb sufisyente
+\sg1 suficiente
+\eg1 enough
+-empty -INC
+-wak
+\sg1 2E CARA-agarrar-vaciar-REPET-INC
+\egl 2E
+-empty -REPET-INC
+\zoq Sufisyente.
+\fts Suficiente.
+\fte Enough.
+\com
+\idx
+-pa
+\ref ZOH001R036 144
+\_no 00145
+\tx gay
+ka
+\mb
+ZOH001R0361001.txt
+\com
+\idx
+-ke7t -pa
+-pa
+n@ntiam
+n@nti
+gad@
+mal
+-Y
+-7am ka -da mal
+-YA DCT3-DEM mal
+\sg1 DCT3-TMP no_hay
+\eg1 DCT3-TMP there isn't-NOW DCT3-DEM bad
+\zoq Gay n@ntiam gad@ mal.
+\fts Y ya no tiene ese mal aire.
+\fte And now there's no more of that evil.
+Page 31

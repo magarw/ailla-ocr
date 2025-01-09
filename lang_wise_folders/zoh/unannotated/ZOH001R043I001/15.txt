@@ -1,0 +1,91 @@
+ZOH001R0431001.txt
+\mb__ para ke n@m-7oy -pa 7@n tz@k -tam
+neyti7 yox
+\sgl para que DO -ANTIP-INC 1E hacer-1/2PL-DINC IPSN
+\egl for that DO -ANTIP-INC 1E do -1/2PL-dINC IPSN work
+\tx neyti mejora
+\mb neyti7
+\sg] IPSN
+mejora
+mejora
+better
+\eg1 IPSN
+\ref ZOH001R043 061
+\_no 00062
+\zoq para ke n@mmoban tz@ktamm@ neyti7 yoxkuy7, neyti7 mejora.
+\fts para que podamos hacer algun trabajo, alguna mejora.
+\fte so that we can do some work,
+something better.
+\com
+\idx
+\tx porke ney
+ya n@mmo
+ney
+ya n@m-7oy -A
+\mb porke
+\sg1 porque solo
+uno 1Prn tambien NEG DO -ANTIP-nINC
+\eg1 because alone one 1Prn also NEG DO -ANTIP-NINC
+\zoq Porke ney tum@ d@x ne7 ya n@mmo.
+\fts Porque yo solo tambien yo no puedo.
+\fte Because I alone also can't do it.
+\com
+\idx
+\ref ZOH001R043 062
+\_no 00063
+\tx
+\mb
+si no kumkuy
+si no kumkuy7
+\sgl si no pueblo AC
+\egl if no town
+ACC
+tum@ d@x ne7
+tum@ d@x ne7
+\ref ZOH001R043 063
+\_no 00064
+\tx 7um
+\mb 7u
+j@nanh 7@n tz@kpa
+jananh 7@n tz@k -pa
+1E
+1E
+do
+\zoq sị no kumkuyj@nanh 7@n tz@kpa.
+\fts Si no con el pueblo lo voy a hacer.
+\fte If not with the town I'll do it.
+\com
+\idx
+-7@m
+n@mtamm@
+n@m
+hacer-INC
+- INC
+mixja*7 ke
+mix -jaa7 ke
+- tam -w@
+ya
+da
+ya da
+2Prn-NPL2 que NEG 1A
+\egl NEGimpv-2E say -1/2PL-NIMPV 2Prn-NPL2 that NEG 1A
+\sg1 NEGimpv-2E decir-1/2PL-NIMPV
+\ref ZOH001R043 064
+\_no 00065
+-wa
+\tx p@n@kk@mdamm@
+\mb
+p@7 -n@k -7@m -tam -w@
+\sg1 poner-irse-PAS -1/2PL-COPT
+\egl put -go -PASS-1/2PL-COPT
+\zoq 7um n@mtamm@ mixja*7 ke ya da p@n@kk@mdamm@.
+\fts No digan Uds. que no nos llevamos.
+\fte Don't you say that we don't get along.
+\com
+\idx
+\tx da p@n@kk@mdampa
+\mb da p@7 -n@k -7@m - tam -ра
+-kuy7
+trabajar-INSTR1
+Page 15
+-INSTR1

@@ -1,0 +1,63 @@
+\SLGR
+\EXU 1 koyumi. 7aH-w@
+\XPSH 1 [Koyumi 7aw@.]
+\XSP 1 Se puso jefe.
+\XEN 1 He became the boss.
+\EXU 2 komi '-7aH-w@
+\XPSH 2 [Komi 7aw@.]
+\XSP 2 Se puso grande.
+\XEN 2 She got big.
+\SYN
+\SEMF
+ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\lex {7ok.}
+\_no 04391
+\LG MIG
+\PSH
+\UND 70k
+\MB ABAJO
+\VAR
+\GRAM pre
+\SCI
+\USE lexical prefix, recruited from noun 7ok
+\SPG fondo, te*rmino; abajo
+\ENG bottom, end; down
+\SPL
+\SLGR
+\EXU senyor ti+goo7 ya 7@m+ 7ok.nuk-A7
+\XPSH [Senyor, tigo*7 yam 7oknuk@?]
+\XSP ? Sen~or, porque no lo sueltas?
+\XEN Sir, why don't you let go of him?
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 11/Feb/96
+\lex {7ok. VERB.7@y}
+\_no 04392
+\LG MIG
+\PSH
+\UND 7ok. VERB.7@y
+\MB ABAJO, VERB, SUF
+\VAR
+ZOH004R0011001.txt
+\GRAM
+\SCI
+\USE the meaning of this pattern has yet to be worked out
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU ga.y 7ok.nuk.7@y-w@ +'am
+\XPSH [Gay 7oknukk@yya*m.]
+\XSP Ya lo solto*.
+\XEN Now he has let him go.
+\SYN
+Page 1885

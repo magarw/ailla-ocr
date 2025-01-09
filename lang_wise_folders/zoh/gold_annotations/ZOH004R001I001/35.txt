@@ -1,0 +1,47 @@
+\ROOT jox
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 08/Jan/96\lex 7anh-ju7u
+\_no 00079
+\LG MIG
+\PSH [7anhju7u-]
+\UND 7anh-ju7u
+\MB BOCA, hacer_ruido
+\VAR
+\GRAM vi\SCI
+\USE
+\SPG estar retumbando por rato
+\ENG to be rumbling for a while.
+\SPL\SLGR
+\EXU\XSP
+\XEN
+\SYN\SEMF
+\ETYM\ETL
+\ROOT ju77u
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96\lex 7anh-juk
+\_no 00080\LG MIG
+\PSH [7anhjuk-]
+\UND 7anh-juk
+\MB BOCA, fumar
+\VAR
+\GRAM vi\SCI
+\USE
+\SPG medio ahumarse
+\ENG to be half-smoked
+\SPL\SLGR
+\EXU 7anh=juk-wa kax.i
+\XPSH [7anhjukk@ k@xi.]
+\XSP Se medio ahumo* la comida.
+\XEN The food was half-smoked.\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT juk
+\RTGR T1\DSRC HAJ95
+\CMTS
+\date 08/Jan/96\lex 7anh-jup
+\_no 00081ZOH004R0011001.txtPage 35

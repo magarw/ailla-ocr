@@ -1,0 +1,27 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+2000 for a discussion of auxiliaries as an areal feature.) Auxiliary verbs can be
+compounded with a main verb root in complex lexical constructions in MIG
+Zoque, as in the other MZ languages. However, in MIG Zoque these
+constructions exhibit a range of expressive power that goes far beyond the
+simple associated motion constructions described for Mayan languages, or the
+serial verb constructions described in West African and South Asian languages
+(Foley & Olson, 1985). Auxiliaries and verb compounds are discussed in
+chapter 8.
+MIG Zoque, like other MZ languages, exhibits a phenomenon known as
+ergative, or dependent, shift in dependent verb constructions. This is not an
+example of the split ergativity found in some Mayan languages (Kaufman,
+1996), but appears to be a peculiarity of the MZ language family. Ergative shift
+is also discussed in chapter 8. Another feature of the MIG Zoque agreement
+system shared generally with other MZ languages is inverse role-marking, in
+which first and second person patients are marked on the verb in preference to
+third person agents. This situation is discussed in chapter 6. External
+possession is another result of the person hierarchy (that prefers first and
+second persons to third). In these constructions, the verb is marked to agree
+with a first person possessor of the patient, rather than with a third person
+agent. External possession is also discussed in chapter 6.
+An affix template is a handy way to provide an overview of the
+components of a verbal word. There are eleven slots or positions for clitics and
+affixes in a MIG Zoque verb, shown in the table below. Position 1, Negative, is
+better classified as a word rather than a clitic, but since it functionally belongs
+to the verb complex it is included here for convenience.
+12

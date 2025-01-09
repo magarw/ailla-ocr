@@ -1,0 +1,48 @@
+ZOH004R0011001.txt
+\id C:\SHOUT\MIG-LEX.TXT
+\lex 777
+\_no 00001
+\LG MIG
+The data in this file was collected in Forti*n by Heidi Johnson (HAJ) and TK
+in July and August of 1994.
+It was keyboarded by Viviana Zavala Luna during July-August 1994 in Forti*n.
+HAJ massaged and updated the file in Fall 1994 and sent the updated database
+to TK along with the slip file.
+TK annotated the slip file and in Spring 1995 Cheri Ritchey entered these
+annotations in HAJ's version of the database.
+28/Oct/04
+HAJ worked on this file during June and July 1995 in Catemaco, correcting
+spelling and refining glosses, but she made no textual annotations at this
+point.
+HAJ reviewed Spanish glosses with the aim of producing good English glosses
+in June 1996, Catemaco. She re-checked verb meanings and categories with
+2 consultants (GSM and CMS) in San Miguel during January through May 1996,
+and got example sentences for most verb roots. This data had for the most
+part NOT been entered by 23 June 1996.
+\date 07/Aug/01
+\DATE 29/Jan/2000
+TK went through the existing lexical database with GSM 24-27 June 1996.
+Any date stamps in June 1996 as of 22 June 1996 and earlier reflect editing
+or additions by HAJ. Any dates 24-27 June 1996 reflect editing by TK.
+\lex 7777
+\_no 00002
+\LG MIG
+How this database is set up.
+It looks like the REL clitic that occurs after verbs is underlyingly
+//+v7k//, which would come from *+p@7k and be the same as the post-nominal
+variant of SOT (In SOT the post-verbal variant is //+7pv//, from *+p@7).
+But it might come from *+w@7k: if so, it would conflict with what is in MAR,
+so I have not chosen to notate that possibility.
+.way occurs as depositive
+continue with #tziku
+check whether RFL is /7@y+win/ or /7@y+ win/, etc. Adjust accordingly.
+spell contracted +7am as +'am GO THRU WHOLE FILE
+words ending +jo7k are spelled both <+jo+7k> and <+jo7+k>: make uniformly
+<+jo+7k>
+\date 10/Feb/96
+\lex 77777
+\_no 00003
+\CMTS Germa*n vacillates on the presence of word-final /7/ (IN A FEW WORDS ONLY).
+One of these is 7awin(7) `kinsman' another is jajtzuku (7) `ant'. It might
+be good to check the tapes made by BRR.
+Page 1

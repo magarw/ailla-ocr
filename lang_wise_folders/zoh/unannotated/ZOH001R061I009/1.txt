@@ -1,0 +1,61 @@
+\id C:\SHOUT\VT3.TXT 28/Oct/04
+\lex 7anhnit
+\_no 00001
+\SPG tener
+ENG to have
+\EX y@ji mix 7ạnhnitpa
+\XSP aqui me tienes.
+\XEN here you have me
+\ROOT 7anh=nit T3
+\SEMF possess
+\PASS NONE
+\ANTI 7anh.7it.7oy
+\CMTS rejected [7anh7itpa]
+\lex 7apx
+\_no 00002
+\SPG pizcar mazorca - no con todo y pico; dejar totomoste como si tuviera
+todavi*a la mazorca
+\ENG to pick corn, but just a little, stealing it; to fool somebody who comes to
+steal
+\EX 7@y mokkapx@
+\XSP pizco* mazorca
+XEN he stole some corn
+\EX 7apx@mm@ bi mok
+\XSP se pizco* la mazorca
+\XEN the corn was stolen
+\EX t@mmaw@ 7@n mok 7axta 7apxneyy@
+\XSP se dio* la mazorca, esta* hasta colgadito
+\XEN the corn bore fruit until it hung down
+\ROOT 7apx P (T3)
+\SEMF farm, corn, obj
+\CMTS cf mok=7ek 'pizcar mazorca' in the normal fashion
+\PASS 7apx.7@m
+\ANTI 7apx. 7oy
+\ASSU 7apx.ney estar como colgadito o caidito la mazorca
+\CMTS re: assum. the advantage of this is that the water won't get inside
+\CMTS the husk and rot the corn
+ZOH001R0611009.txt
+\CMTS re: 7apx. what they do is slit the husk, cut the ear out from inside,
+\CMTS and then leave the empty husk standing on the stalk so the owner thinks
+\CMTS there's still corn there
+\lex 7a7p
+\_no 00003
+\SPG abrir partiendo como una fruta
+\ENG to split in half - like a fruit
+\EX wen7ape bi t@m
+\XSP esta partida la fruta
+\XEN the fruit is split open
+\ROOT 7a7p P (T3)
+\SEMF break, cut
+\PASS 7a7p.7@m (parts naturally because overripe: med)
+\ANTI 7a7p.7oy
+\ASSU 7a7p.ney `estar abierto' (no mucho va a decir)
+\CMTS lo hace con la mano
+\lex 7ek
+\_no 00004
+\SPG pizcar mazorca
+\ENG to harvest corn
+\EX mok 7ekk@
+\XSP pizco* mazorca
+\XEN he harvested corn
+Page 1

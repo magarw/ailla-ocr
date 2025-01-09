@@ -1,0 +1,62 @@
+\ETL
+\ROOT toy
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex tzokoy'=t@k.7@y
+\_no 03404
+\LG MIG
+\PSH [tzokoyt@kk@y-]
+\UND tzokoy7-t@k. 7@y
+\MB corazo*n, casa, SUF
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG suspirar
+\ENG to breathe
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex tzoni7
+\_no 03405
+\LG MIG
+\PSH
+\UND tzoniz
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG cagalera; intestino
+\ENG intestines
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\lex tzonh
+\_no 03406
+\LG MIG
+\PSH
+\UND tzonh
+\MB
+\VAR
+ZOH004R0011001.txt
+Page 1464

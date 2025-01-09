@@ -1,0 +1,63 @@
+XEN 1 twisted
+\EXU 2 we7ch-pa
+\XPSH 2 [we7chpa.]
+\XSP 2 Se hace pando.
+\XEN 2 It's twisting.
+\EXU 3 dond+ju we7ch-w@ bi tunh
+\XPSH 3 [dondju we7chch@ bi tunh]
+\XSP 3 en una curva; alla* en la curva/vuelta
+\XEN 3 where the road curves
+\EXU 4 d@ we7ch-wa
+\XPSH 4 [D@ we7chch@.]
+\XSP 4 Me hizo chueco.
+\XEN 4 I became crooked.
+\SYN
+\SEMF arrange
+\ASP transition
+\ARG
+\NOM we'ch.i7, we'ch.@7
+\SUB
+\ETYM
+\ETL
+\ROOT we7ch
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex we7ch-w@
+\_no 03628
+\LG MIG
+\PSH [we7chch@]
+\UND we7ch-w@
+\MB pandearse, COM
+\VAR
+\GRAM ps-pcp
+\SCI
+\USE
+\SPG pando; chueco
+\ENG crooked; bent
+\EXU m@jm@ we7ch.w@
+\XPSH [M@jm@ we7chch@.]
+\XSP Se pandio* bastante.
+\XEN It's very twisted.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT we7ch
+\RTGR 12
+\DSRC TK94
+\CMTS doesn't accept we7chichi at all; CK-al1. HAJ:96 ok/TK fixed it
+\date 26/Jun/96
+\lex wej
+\_no 03629
+\LG MIG
+\PSH
+ZOH004R0011001.txt
+\UND wej
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+Page 1559

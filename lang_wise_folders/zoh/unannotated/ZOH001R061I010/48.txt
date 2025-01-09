@@ -1,0 +1,61 @@
+\XSP
+\XEN
+\ROOT patz P, (T3)
+\SEMF throw
+\PASS NONE
+\ANTI patz.7oy
+\ASSU patzneyy@*7
+\lex pekx
+\_no 00205
+\SPG pegar con la ala
+\ENG to hit with the wing
+\ROOT pekx T3
+\SEMF hit
+\EX yakpekxoyy@ piyu
+\XSP le dio* una aletada la gallina
+\XEN the chicken flapped its wing
+\PASS NONE pekx.7@m *
+\ANTI pekx. 7oy
+\CMTS
+\lex pen
+\_no 00206
+\SPG plantar; sembrar
+\ENG to plant; to sow
+\EX
+\XSP
+\XEN
+\ROOT pen T1
+\SEMF farm
+\CMTS
+\lex pen
+\_no 00207
+\SPG apretar con la mano; darle apreto*n
+\ENG to squeeze with the hand; to give a squeeze
+\EX 7@y konpenn@yy@ tzanhkuy j@nanh
+\XSP 1o apreto* con la mano
+\SEMF touch, hand
+\PASS NONE pen.7@m *
+\XEN she squeezed it with the hand
+\ROOT pen T3
+\ANTI pen.7oy
+\PRSV pen=ten lo tiene apretado
+\CMTS CK_GLOSS, kon in EX?
+\lex pet
+\_no 00208
+\SPG barrer
+una cosa tirado en el suelo, y no se de quien
+\ENG to sweep
+\EX
+ZOH001R0611010.txt
+\XSP
+\XEN
+\ROOT pet T1
+\SEMF clean
+\CMTS
+\lex pe7t
+\_no 00209
+\SPG tejer/hacer_cinta de palma para hacer sombrero, petaca
+\ENG to weave palm for hats or petate
+\EX jojo pe7tt@
+\XSP tejio* cinta de palma
+Page 48

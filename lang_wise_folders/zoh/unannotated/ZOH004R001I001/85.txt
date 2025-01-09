@@ -1,0 +1,63 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT 70m
+\RTGR 12
+\DSRC HAJ95
+\CMTS it's a tiny bit of smoke or steam, like from a very cold glass
+\date 09/Oct/96
+\lex 7anh='opx.a
+\_no 00200
+\LG MIG
+\PSH [7anhnhopx]
+\UND 7anh=7opx. A
+\MB BOCA, echar_espuma, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG espuma de la boca
+\ENG foam from the mouth
+\SPL
+\SLGR
+\EXU 7anh='opx.a pitz@m-pa yoya 7@y+ jap
+\XPSH [7anhnhopxa pitz@mpa yoyay jap.]
+\XSP Esta* saliendo espuma de la boca del marrano.
+\XEN Foam is coming out of the pig's mouth.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 70px
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 09/Oct/96
+\lex 7anh= 'uk
+\_no 00201
+\LG MIG
+\PSH [7anhnhuk-]
+\UND 7anh=7uk
+\MB BOCA, tomar
+\VAR
+\GRAM vi
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG tomar a costo de otro
+\ENG to drink at another's expense
+\SPL
+\SLGR
+\EXU d@+ 7anh. 7uk-pa
+\XPSH [D@ 7anhnhukpa.]
+\XSP Tomo a costo de otro.
+\XEN I'm drinking at someone else's expense.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7uk
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+Page 85

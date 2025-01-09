@@ -1,0 +1,82 @@
+\sg1 GSM: por ejemplo DCT2-NOM1 para juirse-pudrirse-NOM3
+\eg1 GSM: for example DCT2-NOM1 for flee! -rot
+\zoq GSM: Por 7ejemplo, de para poyputzi,
+\fts GSM: Por ejemplo, de para sarampio*n,
+\fte GSM: For example, that's for measles,
+\com
+\idx
+\ref ZOH001R036 999-149
+\_no 01131
+\tx 7i para jinputzi
+\mb 7i para jin
+\sgl y para
+\egl and for
+scrub
+\zoq 7i para jinputzi?
+\fts y para viruela?
+\fte and for ???
+\com
+\idx
+-putz
+refregar-pudrirse-NOM3
+- rot
+\ref ZOH001R036 999-150
+\_no 01132
+\tx OSM: pwes jinputzi
+\mb
+OSM pwes jin
+\sg] OSM: pues
+\egl OSM: well scrub
+ZOH001R0361001.txt
+\ref ZOH001R036 999-151
+\_no 01133
+\tx tijja mas 7antes
+\mb tij-w@ mas 7antes
+\sgl ir -COM mas 7antes
+\egl go -COM more before
+\zoq Tijj@ mas 7antes.
+\fts Fue* mas antes.
+\fte That was long before.
+\com
+\idx
+\ref ZOH001R036 999-152
+\_no 01134
+\tx <break> ;
+\fts <break>;
+-E7
+-putz
+refregar-pudrirse-NOM3
+- rot
+\ref ZOH001R036 999-153
+\_no 01135
+\zoq OSM: Pwes, jinputzi, yakki ya 7ixxoyy@.
+\fts OSM: Pues, la viruela nadien lo vio*.
+\fte OSM: well, the ??? nobody has seen.
+\com
+\idx
+\tx GSM: 7i para 7uy
+\mb GSM 7i para 7u
+\sg1 GSM: y
+-7@y
+para NEGimpv-3E
+\eg1 GSM: and for NEGimpv-3E
+-NOM3
+yaki ya
+yakki 7 ya
+nadie NEG ver-ANTIP-nCOM
+-NOM3 nobody NEG see-ANTIP-nCOM
+-E7
+-NOM3
+junn@
+jun
+7@y way7
+-wa 7@y way7
+caer_pelo-COPT 3E pelo
+lose_hair-COPT 3E hair
+\zoq GSM: 7i para 7uy junn@ 7@y_way7?
+\fts GSM: Y para no caiga su pelo?
+\fte GSM: And so his hair doesn't fall out?
+Page 244
+7ixxoyy@
+7ix-7oy
+-wa

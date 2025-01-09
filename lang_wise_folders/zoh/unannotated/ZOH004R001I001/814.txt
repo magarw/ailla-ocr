@@ -1,0 +1,63 @@
+\date 26/Jan/96
+\lex marabia jay@7
+\_no 01887
+\LG MIG
+\PSH
+\UND marabiya jay@7
+\MB maravilla, flor
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG flor de maravilla
+\ENG a type of flower
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM maravilla
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 25/Jun/96
+\lex margarita
+\_no 01888
+\LG MIG
+\PSH
+\UND margarita
+\MB
+\VAR margarit(a) j@y@7
+\GRAM
+\SCI
+\USE
+\SPG margarita
+\ENG a type of plant
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 11/Nov/94
+\lex martiu
+\_no 01889
+\LG MIG
+\PSH
+\UND martiyu
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+LF:7okox
+\SPG martillo
+\ENG hammer
+\EXU
+ZOH004R0011001.txt
+Page 814

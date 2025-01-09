@@ -1,0 +1,52 @@
+\ENG get bored
+\lex kix
+\_no 01033
+\SPG Mixe
+ENG Mixe
+\lex kixawa
+\_no 01034
+\SPG epazote
+\ENG epazote
+\lex klabo
+\_no 01035
+\LG MIG
+\SPG clavo
+\ENG spine
+\lex klabu
+\_no 01036
+\SPG clavo
+\ENG nail
+\lex klaro
+\_no 01037
+\SPG claro
+\ENG of course
+\lex klase
+\_no 01038
+\SPG clase
+\ENG type
+\lex kloro
+\_no 01039
+\SPG cloro
+\ENG bleach
+\lex ko
+\_no 01040
+\SPG XX
+\ENG XX
+\lex ko
+\_no 01041
+\SPG SOC
+\ENG SOC
+\lex ko banu
+\_no 01042
+\SPG caoba
+\ENG mahogany
+\lex kobrar
+\_no 01043
+\SPG cobrar
+\ENG charge
+\lex kodi
+\_no 01044
+\SPG Cody
+\ENG Cody
+ZOH001R0611013.txt
+Page 83

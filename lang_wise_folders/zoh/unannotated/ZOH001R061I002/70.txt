@@ -1,0 +1,63 @@
+\RTGR T3
+\POS d@ tokk@
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tokoy
+\_no 00283
+\SPG perderse
+\ENG to get lost
+\SEMF move_self, cognitive
+\ASP achievement, accomplishment
+\ARG
+\NOM toko.e7
+\RTGR IX
+\POS (also lex) d@ tokoyjayy@n jaykuy7
+\MID NO
+\UNDO NO
+\CLZ
+\CMTS
+\ASP
+\ARG
+\NOM tokx.e7
+\RTGR IX
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tokx
+\_no 00284
+\SPG pelarse mai*z que le echaron cal
+\ENG for corn that has been soaked in lye to shed its skin
+\SEMF corn, cook
+\POS da to7kjayy@n pata7
+\MID
+\UNDO 7@n to7kpuw@
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\lex to7k
+\_no 00285
+\SPG tender o extender en cama o suelo, como petate
+\ENG to stretch out on the bed or the ground, like a mat
+\SEMF arrange
+\ASP achievement
+\ARG
+\NOM * naanh, kuy7 (cosa que se tiende)
+\RTGR P (T3)
+\lex to7kx
+\_no 00286
+\SPG dar palmada
+\ENG to slap; to spank
+\SEMF hit
+me contagio*
+\ASP momentaneous, activity
+\ARG
+\NOM
+\RTGR P, T3
+\POS
+\MID
+'se me perdio* mi lapiz'
+Page 70

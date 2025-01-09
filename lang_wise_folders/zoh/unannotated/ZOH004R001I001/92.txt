@@ -1,0 +1,64 @@
+\SCI
+\USE
+\SPG gente vieja, gente "grande", gente de edad
+\ENG old people,
+"big" people, people of age
+\EXU 7apu p@n+7am
+\XPSH [7apu p@nna*m.]
+\XSP Ya es gente vieja; ya esta* grande.
+XEN Now he's old.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex 7a7p
+\_no 00216
+\LG MIG
+\PSH
+\UND 7a7p
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG abrir_partiendo, como una fruta
+\ENG to split open, like a fruit
+\EXU 1 wen=7a'p.e bi t@m
+\XPSH 1 [wen7ape bi t@m.]
+\XSP 1 Esta* partida la fruta.
+\XEN 1 The fruit is split open.
+\EXU_2_7a7p=7anh-wak.7@m-w@
+\XPSH 2 [7a7ppanhwakk@mm@.]
+\XSP 2 Se partio* (solo) la fruta.
+\XEN 2 The fruit split open (by itself).
+\SYN
+\SPL 7a7p.7oy
+\SLGR ANTIP
+\SPL 7a7p.7@m
+\SLGR PASS
+ZOH004R0011001.txt
+\SPL 7a7p.ney
+\SLGR ASSUM1
+\SLGL estar abierto
+\SEMF break, hand
+\ASP achievement
+\ARG instrument
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT 7a7p
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS Camilo doesn't accept the ASSUM1 form
+\date 03/Jan/80
+\lex 7arma=tz@k
+\_no 00217
+\LG MIG
+\PSH [7armatz@k-]
+\UND 7arma=tz@k
+Page 92

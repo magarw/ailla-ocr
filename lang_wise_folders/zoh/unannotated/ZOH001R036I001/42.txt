@@ -1,0 +1,82 @@
+\fts GSM: Por ejemplo,
+\fte GSM: For example,
+\com
+\idx
+\ref ZOH001R036 190
+\_no 00191
+\tx
+tiyanhja* m
+7okuptz@kpa
+\mb tiyanhjaa7 7@m 7okup -tz@k
+up -tz@k
+\sg1 que todo
+\egl what_all_2E use - do
+ZOH001R0361001.txt
+ahi* lo ahumas en el panteo*n?
+there in the cemetery you cense him?
+2E ocupar-hacer-INC
+\zoq Tiyanhja*m 7okuptz@kpa gaji?
+\fts Que todo ocupas ahi*?
+\fte what all do you use there?
+\com
+\idx
+\ref ZOH001R036 191
+\_no 00192
+OSM: gaji*nh
+ded@
+-da
+\tx
+\mb OSM
+-wak -7oy -kuy7 te
+\sg1 OSM: DCT3-DIR2 DCT2-DEM CARA-echar_humo-vaciar-ANTIP-INSTR1 DCT2-DEM
+\egl OSM: DCT3-DIR2 DCT2-DEM FACE-emit_smoke-empty -ANTIP-INSTR1 DCT2-DEM
+\tx
+\mb GSM
+gaji
+ka -ji7
+DCT3-Loc1
+-INC DCT3-LOC1
+\ref ZOH001R036 193
+\_no 00193
+-pa
+ded@
+ka -jiinh te -d@ win -7pm
+\zoq OSM: Gaji*nh ded@ winnomwakkokuy7 ded@...
+\fts OSM: De ahi* esa ahumada esa...
+GSM: y@k naji
+yak naji
+\sg1 GSM: tizne cera
+\eg1 GSM: soot wax
+\fte OSM: Then that incense that...
+\com
+\idx
+\zoq GSM: Y@k naji.
+\fts GSM: Sera negra.
+\fte GSM: Black wax.
+\com
+\idx
+winnomwakkokuy7
+\ref ZOH001R036 195
+\_no 00195
+\ref ZOH001R036 194
+\_no 00194
+ne7
+\tx OSM: y@k naji 7@y p@kn@kpa
+\mb OSM yak naji 7@y pak
+-n@k -pa ne7
+\sg1 OSM: tizne cera 3E agarrar-irse-INC tambien
+\egl OSM: soot wax 3E get -go -INC also
+\zoq OSM: Y@k naji 7@y_p@kn@kpa_ne7.
+\fts OSM: Sera negra 11eva tambien.
+\fte OSM: He brings black wax too.
+\com
+\idx
+7omokuy7
+\tx 7@y p@kn@kpa
+\mb 7@y p@k
+-n@k -pa 7om
+-7oy -kuy7
+\sg1 3E agarrar-irse-INC echar_humo-ANTIP-INSTR1
+\egl 3E get
+-go -INC emit_smoke-ANTIP-INSTR1
+Page 42

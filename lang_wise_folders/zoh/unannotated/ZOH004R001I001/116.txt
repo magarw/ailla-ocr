@@ -1,0 +1,63 @@
+\SLGR
+\EXU 7ex=nem-w@ 7@y+ manh.kuy7
+\XPSH [7exnemm@y manhkuy7.]
+\XSP Calambreo* su pie.
+\XEN Her foot cramped.
+\SYN
+SEMF
+ETYM
+\ETL
+\ROOT 1 7ex
+\RTGR 1 P (T3)
+\ROOT 2 nem
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS no caus
+\date 09/Jan/96
+\lex 7eya+a7k
+\_no 00269
+\LG MIG
+\PSH [7eya*7k]
+\UND 7eya+P@7k
+\MB otro, REL
+\VAR
+\GRAM pron
+\SCI
+\USE
+\SPG otro
+\ENG other
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 09/Jan/96
+\DATE 03/Jan/1980
+\lex 7eya+jo.onh
+\_no 00270
+\LG MIG
+\PSH [7eyajo*nh]
+\UND 7eya+jo.vnh
+\MB otro, DIR1
+\USE
+\GRAM av
+\SCI
+ZOH004R0011001.txt
+\USE
+\SPG a un lado; a otro lado
+\ENG on one side; elsewhere
+\EXU mixtu7 ten-w@ 7eya+jo. onh
+\XPSH [Mixtu tenn@ 7eyajo*nh.]
+\XSP El gato esta* parado a un lado.
+\XEN The cat is standing at the side.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+Page 116

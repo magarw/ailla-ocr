@@ -1,0 +1,82 @@
+551. ¡Agarren una piedra cada uno!
+yamek jun junok k'e'en
+yam-ek
+jun jun-ok k'e'en
+agarrar-exh uno uno-IRR piedra
+¡Agarremos una piedra cada uno!
+koyamek jun junok ko k'e'en
+ko-yam-ek
+jun jun-ok ko-k'e'en
+1A-agarrar-exh uno uno-IRR 1A-piedra
+552. ¡Hagan una señal cada dos árboles!
+ak'ekanh seña t'a chab' chab'ok te' te' b'aj wan eb'at chi'
+ak’-ek-anh seña t’a chab’ chab’-ok te
+226
+te' b'aj wan e-b'at chi'
+dar-exh-imp seña prep dos dos-IRR Cmadera árbol dónde prog 2A-ir dem
+553. Juan se fue para que no lo vieras.
+ixb'at waj Xun yik man olil laj winh
+ix-ø-b'at waj
+Xun y-ik man ol-ø-ø-il
+pas-3B-ir Cmasc Juan 3A-SR neg fut-3B-2A-ver neg Cmasc
+laj winh
+554. Juan vino para que lo vieras.
+ixja' winhaj Xun yik olil winh
+ix-ø-ja'
+winhaj Xun y-ik ol-ø-Ø-il
+winh
+pas-3B-venir Cmasc Juan 3A-SR fut-3B-2A-ver masc
+555. Compré la carreta para llevar leña.
+ixinman jun karreta yik b'aj swik'b'at ink'atz'itz
+ix-ø-in-man jun karreta y-ik b'aj
+pas-3B-1A-comprar uno carreta 3A-SR dónde
+tz-Ø-w-ik'-b'at
+in-k'atz'itz
+pres-3B-1A-portar-DIR.allá 1A-leña
+556. Compré la carreta para que lleves leña.
+ixinman jun karreta yik b'aj tzik'b'at te' k'atz'itz
+ix-ø-in-man jun karreta y-ik b'aj
+pas-3B-1A-comprar uno carreta 3A-SR dónde
+tz-ø-Ø-ik'-b'at
+te'
+k'atz'itz
+pres-3B-2A-portar-DIR.allá Cmadera leña
+557. Voy a ir aunque esté lloviendo.
+olinb'atok wach'xom ay nhab'
+ol-in-b'at-ok wach'-xo-m
+ay-ø nhab'
+fut-1B-ir-IRR bueno-adv-dub exist-3B lluvia
+558. Voy a ir aunque llueva.
+olinb'atnhej wach'xom olkot nhab'
+ol-in-b'at-nhej wach'-xo-m
+ol-ø-kot nhab'
+fut-1B-ir-sólo bueno-adv-dub fut-3B-venir lluvia
+559. Si vas a ir apúrate.
+ta to olachb'atok elanchamel k'olal
+ta_to ol-ach-b'at-ok elanchamel/yel k'ol-al
+cond fut-2B-ir-IRR rápido/verdad estómago-abs
+560. Si lo veo le pido el machete.
+ta to olwila olink'an k'en machit chi'
+ta_to ol-ø-w-il-a
+ol-ø-in-k'an k'en
+machit chi'
+cond fut-3B-1A-ver-vtt fut-3B-1A-pedir Cmetal machete dem
+561. Si lo viera le pediría el machete.
+tzokwila olink'an k'en machit chi' t'ay
+tz-ok-ø-w-il-a
+ol-ø-in-k'an k'en machit chi'
+pres-IRR-3B-1A-ver-vtt fut-3B-1A-pedir Cmetal machete dem
+t'ay
+prep
+562. Si lo hubiera visto le hubiera pedido el machete.
+ichok chi' ixwila tekan ixink'anek' k'en machit chi' t'ay
+ich-ok chi' ix-ø-w-il-a
+tekan ix-ø-in-k'an-ek'
+así-IRR dem pas-3B-1A-ver-vtt quizá pas-3B-1A-pedir-DIR.pasar
+k'en machit chi' t'ay
+Cmetal machete dem prep
+563. Me voy porque no estoy trabajando.
+olinb’atok yuj to man wanok laj inmunlaji
+ol-in-b'at-ok y_uj_to man wan-ok laj in-munlaj-i
+fut-1B-ir-IRR porque neg prog-IRR neg 1B-trabajar-vti
+227

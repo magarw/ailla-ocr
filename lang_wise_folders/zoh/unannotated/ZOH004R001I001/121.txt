@@ -1,0 +1,62 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7in
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 13/Jul/95
+\lex 7in. @7
+\_no 00281
+\LG MIG
+\PSH [7in@7]
+\UND 7in.A7
+\MB nublarse, NOM2
+\VAR n@' 7in.@7
+\GRAM SV
+\SCI
+\USE
+\SPG 1 nube
+\SPG 2 neblina
+\ENG 1 cloud
+\ENG 2 fog
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7in
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 09/Jan/96
+\lex 7i7px-7anh
+\_no 00282
+\LG MIG
+\PSH [717pxanh]
+\UND 717px-7anh
+\MB
+\VAR 7ipxanh7
+\GRAM num
+\SCI
+\USE
+\SPG veinte
+\ENG twenty
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/95
+\lex 7it.17
+\_no 00283
+ZOH004R0011001.txt
+Page 121

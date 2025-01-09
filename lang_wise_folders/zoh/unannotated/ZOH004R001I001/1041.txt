@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT num
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 27/Jan/96
+\lex num-pa+a7k kuru
+\_no 02415
+\LG MIG
+\PSH [numpa7k kuru]
+\UND num-pa +P@7k kuru
+\MB robar, INC, REL, ardilla
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG ardilla ladrona
+\ENG a type of squirrel
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT num
+\RTGR T1
+\DSRC TK94
+\CMTS
+\date 25/Jun/96
+\1ex_num=p@'
+\_no 02416
+\LG MIG
+\PSH [nump@-]
+\UND num=p@7
+\MB robar, poner
+\VAR
+GRAM vt
+\SCI
+\USE
+\SPG esconder
+\ENG to hide
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+LF:7anmal
+\ETL
+\ROOT 1 num
+\RTGR 1 T1
+\ROOT 2 p@7
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex_num=tun
+ZOH004R0011001.txt
+Page 1041

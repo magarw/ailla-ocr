@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT putz
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 12/Nov/94
+\lex putz.@7
+\_no 02808
+\LG MIG
+\PHO [putz.@7]
+\UND putz.A7
+\MB podrirse, NOM2
+\VAR
+\GRAM SV
+\SPG podrido
+\ENG rotten
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT putz
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex pu7tz
+\_no 02809
+\LG MIG
+\PSH
+\UND pu7tz
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG ponerse amarillo
+\ENG to turn yellow
+\EXU pu7tz-pa 7@y+ n@k-wa
+\XPSH [Pu7tzpay n@kk@.]
+\XSP va amarilla*ndose para entrar a maduro, como naranja, mango.
+\XEN It's turning yellow (ripening, like an orange or a mango).
+\SYN
+\SEMF plant, color
+\ASP achievement, accomplishment
+\ARG
+\NOM pu7tz.pu7tz
+\SUB pu7tz-k@nh, win-pu7tz
+\ETYM
+\ETL
+\ROOT pu7tz
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+ZOH004R0011001.txt
+\1ex pu7tz=k@nh
+\_no 02810
+\LG MIG
+\PHO [pu7tzk@nh-]
+\UND pu7tz-k@nh
+Page 1209

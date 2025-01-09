@@ -1,0 +1,65 @@
+\SYN 7anh-jo7px
+\SEMF animal
+\ASP achievement
+\ARG
+\NOM jo7px.kuy7
+\SUB 7anh.jo7px, j@x-jo7px
+\ETYM
+\ETL
+\ROOT jo7px
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex jo7px.kuy7
+\_no 00884
+\LG MIG
+\PHO [jo7pxkuy7]
+\UND jo7px.kuy7
+\MB poner_bozal, INSTR1
+\VAR
+\GRAM instrl
+\SPG bozal
+\ENG muzzle, bit
+\EX 7@y+ kin@k jo7px.kuy7 bi bescha
+XPSH [7@y kin@k jo7pxkuy7 bi bescha.]
+\XSP Puso bozal el caballo.
+\XEN The horse has its bit on.
+\SYN
+\ROOT jo7px
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex jot
+\_no 00885
+\LG MIG
+\PSH
+\UND jot
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG cortar fruta de cafe* parejo, maduro con verde
+\ENG to pick both ripe and green coffee beans together
+\SPL jot.7oy
+\SLGR ANTIP
+\SLGL_cortar cafe* // to pick coffee beans
+\SPL jot.7@m
+\SLGR PASS
+\SLGL cortarse cafe* // the coffee was picked
+\EXU 1 kajwe=jot-wa
+\XPSH 1 [Kajwe jott@.]
+\XSP 1 Corto* cafe* parejo
+\XEN 1 He picked the coffee,
+\EXU 2 jot. 7oy-w@+ 'am
+\XPSH 2 [Jottoyya*m.]
+maduro con verde.
+ripe and green together.
+\XSP 2 Ya corto* el cafe*
+\XEN 2 Now he has picked the coffee.
+\SYN
+\SEMF pick, hand
+Page 385

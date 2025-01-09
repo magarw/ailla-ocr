@@ -1,0 +1,75 @@
+\ref ZOH001R036 999-020
+\_no 01002
+\tx yumi *7
+\mb yum
+-E -V7k
+\sgl hervir(se) -NOM3-REL
+\egl boil
+-NOM3-REL
+\zoq Yumi *7.
+\fts Hervido.
+\fte Boiled.
+\com
+\idx
+\ref ZOH001R036 999-021
+\_no 01003
+\tx GSM: yumi *7
+\mb
+GSM
+yum
+-E -V7k
+\sg1 GSM: hervir(se) -NOM3-REL
+\egl GSM: boil
+-NOM3-REL
+\zoq GSM: Yumi *7.
+fts GSM: Hervido.
+\fte GSM: Boiled.
+\com
+\idx
+\ref ZOH001R036 999-022
+\_no 01004
+lechexta*7
+\tx 71 gad@
+\mb 7i ka
+\sgl y
+- da
+leche-xtaa7
+DCT3-DEM leche-NOMAS
+\eg1 and DCT3-DEM milk -ONLY
+\zoq 7i gad@ lechexta*7?
+\fts Y esa leche no mas?
+\fte And that is just milk?
+\com
+\idx
+\ref ZOH001R036 999-023
+\_no 01005
+ti 7@y p@jage7tt@
+70 ney
+ti
+\tx 70 ney
+\mb
+7@y p@7 -jay -ke7t -w@
+\sgl o alguna que 3E poner-APPL-REPET-COM
+\egl or some what 3E put -APPL-REPET-COM
+\zoq 70 ney ti 7@y p@jage7tt@?
+\fts o otra cosa le echo*?
+ZOH001R0361001.txt
+\fte or some other thing she put in also?
+\com
+\idx
+\ref ZOH001R036 999-024
+\_no 01006
+\tx
+OSM: de tzutzi lechexta*7
+de tzutzi7
+leche-xtaa7
+\mb OSM
+\sg1 OSM: de pecho
+\egl OSM: of breast
+leche-NOMAS
+milk -ONLY
+\zoq OSM: De tzutzi lechesta*7.
+\fts OSM: El agua del pecho nada mas.
+\fte OSM: Just of breast milk.
+\com
+Page 217

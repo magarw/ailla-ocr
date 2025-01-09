@@ -1,0 +1,77 @@
+\ref ZOH001R036 870
+\_no 00854
+\tx pensatz@k@
+\mb pensar-tz@k -A7
+\sg1 pensar-hacer-IMPV
+\egl think -do
+\zoq Pensatz@k@!
+\fts Piensalo!
+\fte Think!
+\com
+\idx
+\ref ZOH001R036 871
+\_no 00855
+\tx
+OSM: y@ p@7 7@y p@kn@kpa
+\mb OSM ya -pa7k 7@y pak
+\sg1 OSM: DCT1-REL2 3E
+\egl OSM: DCT1-REL2 3E get
+\com
+\idx
+- IMPV
+\zoq OSM: Y@p@7_7@y p@kn@kpa
+\fts OSM: Esto lleva
+\fte OSM: He carries this one.
+\ref ZOH001R036 873
+\_no 00856
+\tx HAJ: ti n@ji
+\mb HAJ ti n@ji
+\sg1 HAJ: que nombre
+\egl HAJ: what name
+\com
+\idx
+\ref ZOH001R036 874
+\_no 00857
+\tx
+GSM: ti n@ji
+\mb GSM ti n@ji
+\zoq HAJ: Ti n@ji ga7?
+\fts HAJ: Como se llama aquel?
+\fte HAJ: What is that one's name?
+\ref ZOH001R036 875
+\_no 00858
+-n@k -pa
+agarrar-irse-INC
+-go -INC
+ga7
+ka
+\tx OSM: 7esde de7
+\mb OSM
+\sg1 OSM: esde
+\egl OSM: um
+-7
+DCT3-NOM1
+DCT3-NOM1
+7esde te -7
+ZOH001R0361001.txt
+\sg1 GSM: que nombre DCT2-DEM pastilla
+\egl GSM: what name DCT2-DEM pill
+ded@
+te -d@
+\zoq GSM: Ti n@ji ded@ pastiya?
+\fts GSM: Como se llama ese pastiya?
+\fte GSM: what is the name of that pill?
+\com
+\idx
+pastiya
+pastiya
+de 7
+7alkanfo*r
+te -7 7alkanfo*r
+DCT2-NOM1 DCT2-NOM1 alcanfor
+DCT2-NOM1 DCT2-NOM1 camphor
+de7 - de7 7alkanfo*r.
+\zoq OSM: 7esde,
+\fts OSM: Eso es alcanfor.
+\fte OSM: Um, that's - that's camphor.
+Page 185

@@ -1,0 +1,49 @@
+122 //ua dimacua//
+ua di-ma-acu-a
+1PERS.A << se dresser »>-CAUS-CIRC-ACC
+ils m'ont fait visiter les alentours
+123 ua dimacuaino
+ua di-ma-acu-aino
+1PERS.A << se dresser »-CAUS-CIRC-ACT.SIM
+ils m'ont fait visiter les alentours
+124 //arishomu shinadi//
+ari-shon-mu shina-di
+LOC-BEN-EXIST1 penser-PASL
+depuis là-haut, ils pensèrent
+125 //rucu shinacudi//
+rucu shina-acu-di
+premièrement penser-CIRC-PASL
+ils commencèrent à penser en tournoyant
+126 uqui shinacudi
+un-qui shina-acu-di
+1PERS.N-DIR penser-CIRC-PASL
+ils pensèrent en tournoyant jusqu'à moi
+127 ono ohua raofo
+ono ohua rao-fo
+LOC fleur << poison/remède »>-PL
+les fleurs vénéneuses lointaines
+=
+= les feuilles de chacruna
+128 fana ohua raofo
+fana ohua rao-fo
+<< plante cultivée » fleur « poison/remède »>-PL
+les fleurs de la plante vénéneuse
+les feuilles de chacruna
+=
+129 ifohuahuun baiya
+ifo-huahuun baiya-a
+maître-PL.ERG « se coiffer >>-ACC
+les maîtres s'en sont coiffées
+130 baiya ifofo
+baiya-a ifo-fo
+<< se coiffer »>-ACC maître-PL
+les maîtres s'en sont coiffées
+131 ///da cuduhuurani///
+da cudu-huuran-i
+DEM dessiner-CP1a-PROG
+ils viennent me décorer de dessins
+132 da uqui cuduna
+da un-qui cudun-a
+Ø 1PERS.N-DIR dessiner-ACC
+ils m'ont décoré de dessins
+31

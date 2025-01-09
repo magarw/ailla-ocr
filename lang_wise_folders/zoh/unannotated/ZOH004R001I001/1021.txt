@@ -1,0 +1,62 @@
+\RTGR P, (12)
+\DSRC HAJ94
+\CMTS
+\date 27/Jan/96
+\lex ni.tz@n. 'aH
+\_no 02370
+\LG MIG
+\PSH [nitz@nna-]
+\UND ni.tz@n.7aH
+\MB PURP, estar_sentado, VERS1
+\VAR
+\GRAM versl
+\SCI
+\USE
+\SPG montar (bestia)
+\ENG to mount a horse
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT tz@n
+\RTGR P, (12)
+\DSRC HAJ94
+\CMTS
+\date 25/Jun/96
+\lex ni.wak
+\_no 02371
+\LG MIG
+\PSH [niwak-]
+\UND ni.wak
+\MB PURP, *vaciar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG quitarselo
+\ENG to take something away from someone
+\EXU
+\XSP
+\XEN
+\SYN ni.p@k=wak
+\SEMF
+\ETYM
+\ETL
+\ROOT * wak
+\DSRC HAJ94
+\CMTS ANALYZE
+\date 19/Jun/96
+ZOH004R0011001.txt
+\lex ni.wat=tzonh. '@y
+\_no 02372
+\LG MIG
+\PSH [niwaktzonhnh@y-]
+\UND ni.wat=tzonh.7@y
+\MB PURP, amarrar, unir, SUF
+\VAR
+\GRAM vt
+\SCI
+Page 1021

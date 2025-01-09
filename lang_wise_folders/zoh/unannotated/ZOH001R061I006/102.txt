@@ -1,0 +1,63 @@
+\SEMF hold, hand
+\ASP achievement
+\ARG
+\NOM
+\SUB 7anh.p@k, 7ix-p@k, ji7p-p@k, jix-p@k, juntu-yuk.p@k, jup=p@k.p@',
+\SUB_j@x-p@k, j@x-p@k.jay, ko.p@k, kuk.p@k-tuk, mi7tz=p@k, muy=p@k,
+\SUB nem=p@k, ni.pak.'@y, nik.p@k. '@y, ni.p@k=wak, p@k-kim, p@k=min,
+\SUB p@k-n@k, p@k=tij, pak-tzonh, p@k-tz@m, p@k=wanak, p@k-wit, p@k=yoj,
+\SUB yuk.p@k, yak.pak. '@y
+\ETYM
+\ETL
+\ROOT p@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex p@7tz
+\_no 00150
+\LG MIG
+\PSH
+\UND p@7tz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG destripar
+\ENG to gut
+\SPL p@7tz.7oy
+\SLGR ANTIP
+\SLGL destripar // to gut
+\SPL p@7tz.7@m
+\SLGR PASS
+\SLGL destriparse // to be gutted
+\SPL p@7tz.ten
+\SLGR PRSV
+\SLGL tener destripado // to have gutted
+\EXU koke=p@7tz-w@
+\XPSH [Kokep@7tztz@.]
+\XSP Destripo* pescado.
+\XEN She gutted the fish.
+\SYN
+\SEMF clean, animal
+\ASP activity
+\ARG
+\NOM p@'tz.i7
+\SUB jax-p@7tz.jay
+\ETYM
+\ETL
+\ROOT p@7tz
+\RTGR T3
+\DSRC TK94
+\CMTS fish, pigs, etc.
+\date 03/Jan/80
+\lex p@' [1]
+\_no 00151
+ZOH001R0611006.txt
+LG MIG
+\PSH
+\UND p@7
+\MB
+\VAR
+Page 102

@@ -1,0 +1,58 @@
+\_no_00021
+\SPG envolver
+\ENG to wrap, to roll up in something
+\RTGR P, (T3)
+\lex mo7tz
+\_no 00022
+\SPG moler en molcajete; machucar, como tomate o chile
+\ENG to grind; to crush, like tomatoes or chili peppers
+\RTGR T3
+\lex mu7k
+\_no 00023
+\SPG chupar
+\ENG to suck
+\RTGR T3
+\lex m@7k [1]
+\_no 00024
+\SPG 1 exprimir (como queso)
+\SPG 2 orden~ar
+\ENG 1 to wring or express (like cheese)
+ENG 2 to milk
+\RTGR T3
+\lex m@x
+\_no 00025
+\SPG tener asco
+\ENG to be nauseated by something
+\RTGR T3
+\lex nakx
+\_no 00026
+\SPG pegar, majar (con palo)
+\ENG to hit, to pound (with a piece of wood)
+\RTGR T3
+\lex na7k
+\_no 00027
+\SPG coser,
+\ENG to sew
+\RTGR T3
+\lex nat
+\_no 00028
+\SPG salar
+\ENG to salt
+\RTGR T3
+ZOH001R0611005.txt
+\lex nem [2]
+\_no 00029
+costurar
+\SPG 1 talonear
+\SPG 2 cortar con tijeras
+\SPG 3 meter el pie encima de alguien
+\ENG 1 to kick with heels while mounted on an animal
+a scissored position]
+\ENG 2 to cut with scissors
+ENG 3 to throw your leg over someone
+\RTGR T3
+\lex num=tun
+\_no 00030
+\SPG devisar escondido
+Page 3
+[abstr: to hold in

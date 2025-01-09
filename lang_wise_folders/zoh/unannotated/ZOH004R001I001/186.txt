@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7@7p
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 09/Jan/96
+\lex 7ok. '@7tz. '@y
+\_no 00434
+\LG MIG
+\PSH [7okk@7tztz@y-]
+\UND 7ok.7@7tz.7@y
+\MB ABAJO, gomitar, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG sacar algo "gomitando"
+\ENG to get rid of something by vomiting
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN jax.7@7tz
+\SEMF
+\ETYM
+\ETL
+\ROOT 7@7tz
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 09/Jan/96
+\lex 707k
+\_no 00435
+\LG MIG
+\PSH
+\UND 707k
+\MB
+ZOH004R0011001.txt
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG calmar (se) (como el viento, no de gente)
+\ENG to calm down (like wind, not people)
+\EXU 7o7k-w@ xanh.A
+\XPSH [707kk@ xawa.]
+\XSP Se calmo* el viento.
+\XEN The wind died down.
+\SPL yak.707k
+\SLGR CAUS
+\SLGL hacer calmar el viento (puede decirlo, pero no puede hacerlo) // to
+calm the wind (you can say it, but you can't do it)
+\SYN
+\SEMF nature
+\ASP achievement
+\ARG
+\NOM 70'k.a7
+\SUB 7anh. '07k, k@.707k. '@y, ni.7o7k, win='07k
+Page 186

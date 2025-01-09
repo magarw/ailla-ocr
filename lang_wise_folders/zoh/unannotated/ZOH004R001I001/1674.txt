@@ -1,0 +1,63 @@
+\_no 03891
+\LG MIG
+\PSH [xatzwanin7a-]
+\UND xatz=wanin'. 7a
+\MB fregar, delgado, VERS1
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer delgado fregandolo entre las manos
+\ENG to rub something thin with the hands
+\EXU 7@y+ xatz-wanin7.7a-w@ tzoko7
+\XPSH [7@y xatzwanin7aw@ tzoko7.]
+\XSP Hizo delgado el lodo fregandolo.
+\XEN He rubbed the clay thin between his hands.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xatz
+\RTGR T3
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex xa7tz.kuy7
+\_no 03892
+\LG MIG
+\PSH [xa7tzkuy7]
+\UND xa7tz.kuy7
+\MB X, INSTR1
+\VAR
+\GRAM instr
+\SCI
+\USE
+\SPG tornillo para torcer mecate
+\ENG vise for twisting rope
+\SPL
+SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\lex xaw.a
+\_no 03893
+ZOH004R0011001.txt
+\LG MIG
+\PSH [xawa]
+\UND xanh.A
+\MB *aire, NOM2
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG viento; aire
+\ENG wind; air
+\SPL
+Page 1674

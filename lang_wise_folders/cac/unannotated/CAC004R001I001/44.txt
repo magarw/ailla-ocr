@@ -1,0 +1,95 @@
+65. Tengo agua para tomar.
+ay a' a' tzwuk'ej
+ay-ø
+a'
+a' tz-ø-w-uk'-ej
+exist-3B Cagua agua pres-3B-1A-beber-vtd
+66. ¿Qué tienes ahí?
+68.
+69.
+¿tas ay t'ay ach t'a?
+tas ay-ø
+90
+t'ay ach t'a
+prep exist-3B prep 2B prep
+67. ¿Quién tiene su machete?
+¿mach ay k'en smachit?
+mach ay-ø
+k'en
+s-machit
+quién exist-3B Cmetal 3A-machete
+¿tas jun ay chi' t'ay ach?
+tas jun ay-ø
+chi' t'ay ach
+prep uno exist-3B dem prep 2B
+¿Qué tiene el machete?
+¿tas ay t'a k'en machit?
+tas ay-Ø
+machit
+t'a k'en
+qué exist-3B prep Cmetal machete
+Yo lo tengo.
+ay k'en t'a in
+ay-ø
+k'en
+in
+exist-3B Cmetal prep 1B
+t'a
+a in wet'nak
+a in w-et'-nak
+top 1B 1A-SR-p.rem
+El maíz tiene gorgojo.
+a ixim ixim ay yijal ixim
+a ixim ixim ay-Ø
+y-ij-al
+ixim
+top Cmaíz maíz exist-3B 3A-gorgojo-gen Cmaíz
+70.
+ixim ixim ixoch nok' ij t'a ixim
+ixim ixim ix-Ø-och
+t'a ixim
+Cmaíz maíz pas-3B-entrar Canimal gorgojo prep maíz
+72.
+ay nok' ij t'a ixim
+t'a ixim
+ay-ø nok' ij
+exist-3B Canimal gorgojo prep maíz
+nok' ij
+Los perros tienen cola.
+no' tz'i' ay snhe nok'
+no'
+s-nhe nok'
+tz'i' ay-ø
+Canimal perro exist-3B 3A-cola Canimal
+a juntzan nok' tz'i' ay snhe nok'
+tz'i' ay-ø
+a
+71. ¿Tienen cola los perros?
+juntzan nok'
+s-nhe nok'
+top algunos Canimal perro exist-3B 3A-cola Canimal
+¿ay am snhe no' juntzan tz'i'?
+ay-ø am s-nhe no'
+juntzan tz’i’
+exist-3B dub 3A-cola Canimal algunos perro
+¿ay snhe nok' tz'i'?
+ay-Ø s-nhe nok' tz'i'
+exist-3B 3A-cola Canimal perro
+¿ay am snhe nok' tz'i'?
+ay-ø
+am s-nhe
+exist-3B dub 3A-cola Canimal perro
+nok'
+>>
+tz 1
+¿tom ay snhe nok' tz'i'?
+tom ay-Ø
+int exist-3B 3A-cola Canimal perro
+s-nhe nok' tz'i'
+¿Acaso tiene cola ese perro?
+¿mato ay snhe no' tz'i chi'?
+mato ay-Ø
+s-nhe no'
+tz’i chi'
+O exist-3B 3A-cola Canimal perro dem
+91

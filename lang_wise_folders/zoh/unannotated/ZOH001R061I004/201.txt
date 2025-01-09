@@ -1,0 +1,63 @@
+\SPG camisa
+\ENG shirt
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wij
+\RTGR IX
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex y@k.wij 7@y+ tzanh.kuy7
+\_no 00509
+\LG MIG
+\PSH [y@kwij 7@y tzanhkuy7]
+\UND yak.wij.0 tzanh.kuy7
+\MB INSTR1, zambutirse, NOM6, pegar_con_mano, INSTR1
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG manga de camisa
+\ENG sleeve of a shirt
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 wij
+\RTGR 1 IX
+\ROOT 2 tzanh
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex y@k.wij 7@y+ kweyu
+\_no 00510
+\LG MIG
+\PSH [y@kwij 7@y kweyu]
+\UND yak.wij.0 7@y+ kweyu
+\MB INSTR2, zambutirse, NOM6, 3Erg, cuello
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG cuello de la camisa
+\ENG neck of a shirt
+ZOH001R0611004.txt
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wij
+\RTGR IX
+Page 201

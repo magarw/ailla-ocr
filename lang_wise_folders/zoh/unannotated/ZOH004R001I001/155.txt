@@ -1,0 +1,63 @@
+\PSH [7okmanh-]
+\UND 7ok.manh
+\MB ABAJO, *pisar
+\VAR
+\GRAM dir+vt, vi
+\SCI
+\USE
+\SPG empezar
+\ENG to begin
+\SPL 7ok.manh.7oy
+\SLGR ANTIP
+\SLGL empezar // to begin
+\SPL 7ok.manh.7@m
+\SLGR PASS
+\SLGL empezarse
+\EXU ga.7 7ok.manh-w@ tum tukxi7
+\XPSH [Ga7 7okmanhnh@ tum tukxi7.]
+\XSP Eso empezo* un pleito.
+\XEN That started a fight.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT *manh
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex 7ok.manh [2]
+\_no 00360
+\LG MIG
+\PSH
+\UND 7ok.manh
+\MB ABAJO, *pisar
+\VAR
+\USE aspectual auxiliary verb that appears before the verb in the
+dependent verb construction
+\GRAM aux
+\SPG empezar
+\ENG to begin
+\SPL
+ZOH004R0011001.txt
+\SLGR
+\EXU 7ok.manh-w@ wan 7@y+ tzanh.'oy-E
+\XPSH [7okmanhnh@ wan 7@y tzanhnhoy.]
+\XSP Juan empezo* a rozar.
+\XEN Juan began to clear brush (with a machete).
+\SYN
+\SEMF
+\ROOT *manh
+\RTGR P, (T3)
+\DSRC HAJ98
+\CMTS
+\date
+\lex 7ok.manh.kuy7
+\_no 00361
+\LG MIG
+\PSH [7okmanhkuy7]
+\UND 7ok.manh.kuy7
+\MB ABAJO, *pisar, INSTR1
+\VAR
+\GRAM instrl
+Page 155

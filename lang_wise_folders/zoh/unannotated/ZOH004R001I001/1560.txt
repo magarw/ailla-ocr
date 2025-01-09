@@ -1,0 +1,63 @@
+\SPG gritar; rugir; mugir; bramar
+\ENG to shout; to roar; to moo; to bellow
+\SPL yak.wej
+\SLGR CAUS
+\SLGL_hacer gritar // to make shout
+\EXU 7@y+ wej.jay-w@
+\XPSH [7@y wejjayy@.]
+\XSP Le grito*.
+\XEN She shouted at him.
+\SYN
+\SEMF speak
+\ASP process
+\ARG patient
+\NOM wej.e, wej.kuy7
+\SUB ko.wej, wej='anh. tzonh, wej='a7tz, wej=m@tz.'@y, wej=xik
+\ETYM
+\ETL
+\ROOT wej
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex wej.e
+\_no 03630
+\LG MIG
+\PSH [weje]
+\UND wej. E
+\MB gritar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG grito
+\ENG shout
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT wej
+\RTGR T1
+\DSRC
+\CMTS
+\date 28/Jan/96
+ZOH004R0011001.txt
+\lex wej.jay
+\_no 03631
+\LG MIG
+\PSH [wejjay-]
+\UND wej.jay
+\MB gritar, APPL
+\VAR
+\GRAM vi:indir
+\SCI
+\USE
+\SPG gritarle; llamar
+\ENG to shout at; to call
+\EXU
+Page 1560

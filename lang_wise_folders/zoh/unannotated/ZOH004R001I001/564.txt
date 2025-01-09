@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [ko7uk-]
+\UND ko.7uk
+\MB OTRO, tomar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tomar todo
+ENG to drink it all away
+\SPL
+\SLGR
+\EXU 7@y+ ko.7uk-w@ 7@y+ gan(a)=tz@k-w@+@7k
+\XPSH [7@y ko7ukk@y gantz@kk@*7k.]
+\XSP Tomo* todo el dinero que habia ganado.
+\XEN He drank up all the money that he had earned.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 7uk
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 11/Jan/96
+\lex ko.7@kx
+\_no 01293
+\LG MIG
+\PSH [ko7@kx-]
+\UND ko.7@kx
+\MB OTRO, desgranar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG desgranar lo bueno, dejando lo malo
+\ENG to shell the good corn, leaving the bad parts
+\SPL
+\SLGR
+\EXU 7@y+ ko.7@kx-w@ 7@y+ mok
+\XPSH [7@y ko7@kx@y mok.]
+\XSP Desgrano* su maiz deshojado.
+\XEN She shelled her corn.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 7@kx
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jun/96
+ZOH004R0011001.txt
+\lex ko.ak
+\_no 01294
+\LG MIG
+\PSH [koak]
+\UND koak
+\MB
+\VAR
+\GRAM vi
+\SCI
+Page 564

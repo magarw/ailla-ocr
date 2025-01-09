@@ -1,0 +1,63 @@
+\_no_01201
+\LG MIG
+\PSH [katzutz@k-]
+\UND katzu7=tz@k
+\MB agrio, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer agrio
+\ENG to make something bitter
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 24/Jun/96
+\lex ka7tz.ka7tz.ney
+\_no 01202
+\LG MIG
+\PSH [ka7tzka7tzney-]
+\UND ka7tz.ka7tz.ney
+\MB masticar, masticar, REDUP1
+\VAR
+\GRAM VİRF
+\SCI
+\USE
+\SPG sonido de masticar
+\ENG the sound of chewing
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS get deriv's - like what? HAJ:96
+\date 18/Jun/96
+\lex kawak
+\_no 01203
+\LG MIG
+\PSH
+\UND kawak
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG mamey
+\EXU kawak t@m
+\xSP la fruta de mamey
+Page 523

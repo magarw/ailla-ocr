@@ -1,0 +1,63 @@
+\SLGR PASS
+\SLGL cubrirse // to be covered
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT Xuy
+\RTGR T3 (or xuy7 ?)
+\DSRC HAJ94
+\CMTS
+\CMTS %xuy (2)
+\date 24/Jun/96
+\lex kuj
+\_no 00075
+\LG MIG
+\PSH
+\UND kuj
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG empujar
+\ENG to push
+\SPL kuj.7oy
+\SLGR ANTIP
+\SLGL empujar // to push
+\SLGR NO PASS
+\SPL kuj-ten-e (pcp)
+\SLGR PRSV
+\SLGL lo tiene empujado // they've got it pushed
+\EXU 1 kuj.ten-w@
+\XPSH 1 [Kujtenn@.]
+\XSP 1 Lo tiene empujado.
+\XEN 1 He's got it pushed.
+\EXU 2 kuj.7@m-wa bi komi' tza7
+\XPSH 2 [Kujj@mm@ bi komi tza7.]
+\XSP 2 Se empujo* la piedra grande. (mucha gente)
+\XEN 2 They pushed the big rock. (many people)
+\SYN
+\SEMF arrange
+\ASP activity
+\ARG
+ZOH001R0611006.txt
+\NOM kuj.naanh
+\SUB 7ok.kuj. '@y, j@x-kuj, kuj=wij, kuj=wit, kuj=w@nh, nik.kuj. '@y,
+\SUB yuk. kuj
+\ETYM
+\ETL
+\ROOT kuj
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex kum.pu'
+\_no 00076
+\LG MIG
+\PSH [kumpu-]
+Page 52

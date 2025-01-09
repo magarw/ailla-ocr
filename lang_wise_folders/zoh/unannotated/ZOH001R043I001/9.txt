@@ -1,0 +1,81 @@
+ZOH001R0431001.txt
+-COM DCT3-LOC1 oaxaca MOUTH-mount-ANTIP-INC-REL
+\egl say
+\zoq N@mm@ gaja7 wajaka 7anhkimmoba*7k.
+\fts Dijo alla* en Oaxaca el gobernador.
+\fte The governor there of Oaxaca said.
+\com
+\idx
+\ref ZOH001R043 034
+\_no 00035
+gad@
+p@n
+d@kka
+\tx
+metza*nh
+\mb
+min -xuk-w@ ka -d@ p@n d@kkay metza*nh
+\sg1 por_eso
+venir-3PL-COM DCT3-DEM hombre NPL
+\eg1 because come -3PL-COM DCT3-DEM man
+NPL
+pitzenhjo minchukk@
+pitzenhjo7
+\zoq Pitzenhjo7 minxukk@ gada p@nd@kkay metza*nh.
+\fts Por eso vinieron esos dos hombres.
+\fte That's why those two men came.
+\com
+\idx
+\ref ZOH001R043 035
+\_no 00036
+\tx 7entonses kwando t@kk@yy@
+\mb 7entonses kwando t@k -7@y -w@
+\sg1 entonces cuando casa -VERS2-COM
+\egl then
+jonhjo
+bi jome juxtixa
+jonh -jo7 bi jome7 juxtixa
+adentro-LOC2 DEF nuevo autoridad
+when house-VERS2-COM inside -LOC2 DEF new authority
+\zoq 7entonses kwando t@kk@yy@ jonhjo7 bi jome7 juxtixa,
+\fts Entonces cuando entro* adentro el presidente nuevo,
+\fte Then when the new mayor went inside,
+\com
+\idx
+\ref ZOH001R043 036
+\_no 00037
+\tx d@kka
+\mb d@kkay
+\sg1 NPL
+\eg1 NPL
+\tx 7i 7@yti tijja
+y
+j@xjupxuki
+\mb 7i 7@yti7 tij-w@ 7ay jax -jup -xuk-E
+\sg1 y
+uno de DCT3-DEM hombre
+3PSN ir -COM 3E ATRAS-jalar-3PL-dCOM
+\eg1 and 3PSN go -COM 3E BACK -pull -3PL-dCOM one of DCT3-DEM man
+dos
+two
+\ref ZOH001R043 037
+\_no 00038
+\zoq 71 7@yti7 tijj@y j@xjupxuki tum@ de gad@ p@nd@kkay
+\fts fueron a sacarlo de jalo*nh uno de esos hombres
+\fte and one of theirs went to pull him out, one of those men
+\com
+\idx
+\tx minn@*
+wajakajo*nh
+\mb min -w@ -v7k wajaka-joonh
+\sg1 venir-COM-V7k oaxaca-DIR4
+\eg1 come -COM-V7k oaxaca-DIR4
+\zoq minn@*7k wajakajo*nh.
+\fts que vino de Oaxaca.
+\fte that came from Oaxaca.
+\com
+Page 9
+tum@ de gad@
+tum@ de ka -d@
+p@n
+p@n

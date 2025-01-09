@@ -1,0 +1,63 @@
+\SPG sacar rascandolo
+\ENG to get something out by scraping
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jetz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\lex j@x-jey
+\_no 01037
+\LG MIG
+\PSH [j@xjey-]
+\UND jax-jey
+\MB ATRAS, batir
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar batido
+\ENG to beat something out
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT jey
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 06/Feb/96
+\lex j@x-ji7kx
+\_no 01038
+ZOH004R0011001.txt
+\LG MIG
+\PSH [j@xji7kx-]
+\UND jax-ji7kx
+\MB ATRAS, tener_olor
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG salir olor fuerte (como se ahogara)
+\ENG for a strong odor to come out (strong enough to choke you)
+\SPL
+\SLGR
+\EXU j@x.ji7kx-w@ 7anhk+oonh
+\XPSH [J@xji7kx@ 7anhko*nh.]
+\XSP Salio* ese olor fuerte para afuera.
+\XEN A strong odor wafted outside.
+\SYN
+\SEMF
+\ETYM
+Page 455

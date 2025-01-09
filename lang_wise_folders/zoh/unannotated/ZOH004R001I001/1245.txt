@@ -1,0 +1,67 @@
+\SYN
+\SEMF
+ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH
+\date 25/Jun/96
+\lex sapuyool
+\_no 02891
+LG MIG
+\PSH [sapuyo*1]
+\UND sapuyool
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG zapuyol-semilla del mamey
+\ENG a type of plant
+\EXU
+\XSP
+\XEN
+\SYN kawak puj 7@y+ xix
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\lex seboya
+\_no 02892
+\CMTS CK
+\date 19/Jun/96
+\LG MIG
+\PSH [seboya]
+\UND seboya
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG cebolla
+\ENG onion
+\EXU
+\XSP
+ok HAJ:96
+\XEN
+\SYN
+HAJ:96/fixed: TK
+\SEMF EB
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH
+\date 25/Jun/96
+-
+LF: 7okox
+\lex seboyiinh
+\_no 02893
+\LG MIG
+HAJ:96 ok
+\PSH [seboyi*nh]
+\UND seboyiinh
+\MB
+ZOH004R0011001.txt
+Page 1245

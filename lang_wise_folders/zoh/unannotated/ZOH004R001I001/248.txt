@@ -1,0 +1,64 @@
+\_no 00576
+\LG MIG
+\PSH [chiknakmok]
+\UND chik nak=mok
+\MB chico, X, maiz
+\VAR
+\GRAM axs
+\SCI
+\USE
+\SPG zapalote chico
+\ENG a type of edible plant
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex chik n@'+jo7 patu
+\_no 00577
+\LG MIG
+\PSH [chik n@jo7 patu]
+\UND chik n@7 +jo7 patu
+\MB chico, agua, LOC2, pato
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG pato del ri*o
+\ENG river duck
+\EXU
+\XSP
+\XEN
+\SYN pixixi7
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 08/Jan/96
+LF: jon
+\lex chik paj.pa
+\_no 00578
+\LG MIG
+\PSH [chik pajpa]
+\UND chik paj.pa
+\MB chico, cercar, X
+\VAR
+\GRAM a (m) SR
+\SCI
+\USE
+\SPG jaulita
+\ENG bird-cage
+\SPL
+\SLGR
+\EXU
+\XSP
+ZOH004R0011001.txt
+Page 248

@@ -1,0 +1,61 @@
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex ju7t
+\_no 00091
+\SPG remover
+\ENG to stir
+\SEMF move
+\ASP activity
+\ARG instrument
+\NOM ju7t.kuy7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex ju7tz
+\_no 00092
+\SPG apun~alar, flechar, encajar, matar con cuchillo
+\ENG to stab, to shoot with an arrow, to drive a stake through, to kill with
+a knife
+\SEMF hit
+\ASP achievement
+\ARG instrument
+\NOM ju7tz. 'oy.kuy7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex jux
+\_no 00093
+\SPG asar
+\ENG to roast
+\SEMF cook
+\ASP activity
+\ARG
+\NOM
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex juy
+\_no 00094
+\SPG comprar
+\ENG to buy
+\SEMF trade
+ZOH001R0611002.txt
+\ASP achievement
+\ARG
+\NOM juy.kuy7
+\RTGR T1
+\POS
+Page 23

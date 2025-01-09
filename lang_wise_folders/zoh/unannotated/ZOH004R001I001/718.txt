@@ -1,0 +1,62 @@
+\CMTS
+\date 12/Jan/96
+\lex k@.jaway. '@y
+\_no 01661
+\LG MIG
+\PSH [k@jawayy@y-]
+\UND k@.jaway.7@y
+\MB FUERĂ, arder, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar arder
+\ENG to start to ache or burn
+\EXU k@.jaway. '@y-wa 7@y+_xaj
+\XPSH [K@jawayy@yy@y xaj.]
+\XSP Empezo* arder su sobaco.
+\XEN His armpit began to ache.
+\SYN jo.jaway
+\SYN ni.jaway
+\SEMF
+\ETYM
+\ETL
+\ROOT jaway
+\RTGR 12
+\DSRC HAJ95
+\CMTS 'wak' is the area between the legs that corresponds (roughly) to
+\CMTS the armpit - the groin? not in my dictionary, either
+\date 12/Jan/96
+\lex k@.jej. '@y
+\_no 01662
+\LG MIG
+\PSH [k@jejj@y-]
+\UND k@.jej.7@y
+\MB FUERA, vivir, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG tener la forma de vivir; ser rico
+\ENG to have means; to be rich
+\EXU k@.jej. '@y-w@ ga7
+\XPSH [k@jejj@yy@ ga7.]
+\XSP Tiene la forma de vivir
+\XEN She lives well.
+\SYN ko. teji+i7k
+\SEMF
+\ETYM
+\ETL
+\ROOT jej
+\RTGR 12
+\DSRC HAJ95
+\CMTS get GL of EX
+\CMTS
+\date 25/Jun/96
+ZOH004R0011001.txt
+\lex k@.je7k
+\_no 01663
+\LG MIG
+\PSH [k@je7k-]
+\UND k@.je7k
+Page 718

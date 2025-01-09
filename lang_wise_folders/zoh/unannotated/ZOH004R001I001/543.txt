@@ -1,0 +1,62 @@
+\date 11/Jan/96
+\lex kilu
+\_no 01243
+\LG MIG
+\PSH
+\UND kilu
+\MB
+\VAR
+\GRAM med
+\SCI
+\USE
+\SPG kilo
+\ENG kilo
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 01/Oct/94
+\lex kilu tzima7
+\_no 01244
+\LG MIG
+\PSH
+\UND kilu tzima7
+\MB kilo, ji*cara
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG ji*cara que mide un kilo; balanza de ji*cara
+\ENG a gourd that measures a kilo; a balance scale of gourds
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 14/Jun/95
+\lex kim
+\_no 01245
+\LG MIG
+\PSH
+\UND kim
+\MB
+\VAR
+ZOH004R0011001.txt
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG subir (+ aluso sexual); "pisar"; "picar".
+\ENG to mount (+ sexual reference); to screw"
+\EXU
+Page 543

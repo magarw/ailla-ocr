@@ -1,0 +1,64 @@
+\SLGL tener cortado // to have something cut
+\EXU 1 7@y+ wak-wa 7@y+ wiki7
+\XPSH 1 [7@y wakk@y wiki7.]
+\XSP 1 Se corto* el dedo.
+\XEN 1 She cut her finger.
+\EXU 2 w@k. '@m-w@ bi xix
+\XPSH 2 [w@kk@mm@ bi xix.]
+\XSP 2 Cortaron la carne.
+\XEN 2 Someone cut the meat.
+\EXU 3 7@y+ w@k.ten-w@ bi xix.
+\XPSH 3 [7@y w@ktenn@ bi xix.]
+\XSP 3 Ya lo corto* la carne (para echar en la olla).
+\XEN 3 She's cut the meat (to put it in the pot).
+\SYN
+\SEMF cut
+\ASP transition
+\ARG instrument
+\NOM w@k.naanh, w@k. 'oy.kuy7
+\SUB jo.w@k
+ETYM
+\ETL
+\ROOT wak
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex w@7kx
+\_no 00209
+ZOH001R0611006.txt
+\LG MIG
+\PSH
+\UND w@7kx
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG empalmar
+ENG to thatch
+\SPL w@7kx.7oy
+\SLGR ANTIP
+\SLGL empalmar casa // to thatch a house
+\SPL w@7kx.7@m
+\SLGR PASS
+\SLGL estar empalmada // to be thatched
+\SPL w@7kx.ney
+\SLGR ASSUM1
+\\SLGL 'trata de otra cosa: estar levantado algo como una machete o un
+lasso... colgando como ropa en un gancho' // 'refers to something else: for
+something to be raised up,
+put away, like a machete or a rope... hanging like clothes from a hook
+\EXU 1 t@k=w@7kx-w@
+\XPSH 1 [T@kw@7kx@.]
+\XSP 1 Empalmo* casa.
+\XEN 1 He thatched houses.
+\EXU 2 w@7kx.ney-w@ bi laxu munkuy g@:xi7
+\XPSH 2 [w@7kxneyy@ bi laxu munkuyg@xi7.]
+\XSP 2 Esta* levantado el mecate alli* en la estaca.
+\XPSH 2 The rope is raised up on that stake there.
+\SYN
+\SEMF build
+\ASP process
+Page 141

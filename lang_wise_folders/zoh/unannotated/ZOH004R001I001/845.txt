@@ -1,0 +1,63 @@
+ZOH004R0011001.txt
+\SPG agarrar en el pun~o algo pequen~o que no se ve, agarrar algo con fuerza
+entre el dedo pulgar y los dos dedos primeros
+\ENG to hold something small in your closed fist so it isn't visible, to hold
+something
+tightly between the thumb and the first two fingers
+\SPL mi7kx.7oy
+\SLGR ANTIP
+\SLGL agarrar en el pun~o // to hold something in the closed fist
+\SPL mi7kx.7@m
+\SLGR PASS
+\SLGL cerrarse el pun~o // for the fist to close
+\SPL mi7kx.ney
+\SLGR ASSUM1
+\SLGL estar cerrado el pun~o // for the fist to be closed
+\EXU 1 mi7kx.7@m-w@ 7@n+ tzanhkuy7
+\XPSH 1 [Mi7kx@mm@n tzanhkuy7.]
+\XSP 1 Se cerro* el pun~o de mi mano.
+XEN 1 My fist closed.
+\EXU 2 7@y+ mi7kx-pa 7@y+ tzanh.kuy7
+\XPSH 2 [7@y mi7kxpay tzanhkuy7.]
+\XSP 2 Cerro* los manos. (para chiflar entre los dedos pulgares)
+\XEN 2 He puts his hands together. (so he can whistle through his
+thumbs)
+\EXU 3 7@n+ mi7kx.ten-w@ bi limeta
+\XPSH 3 [7@n mi7kxtenn@ bi limeta.]
+\XSP 3 Tengo agarrado la botella.
+\XEN 3 I've got a grip on the bottle.
+\SYN mi7tz (casi lo mismo)
+\SYN nuk (casi lo mismo)
+\SEMF hand, sound
+\ASP activity
+\ARG
+\NOM
+\SUB 7ok.mi 7kx. '@y, j@x-mi7kx, nik.mi7kx. '@y
+\ETYM
+\ETL
+\ROOT mi7kx
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS example is closing his thumb and forefinger around my wrist
+\CMTS analyze EX
+\date 03/Jan/80
+\lex mi7kx.naanh
+\_no 01961
+\LG MIG
+\PHO [mi7kxna*nh]
+\UND mi7kx.naanh
+\MB agarrar_en_pun~o, MED
+\VAR
+\GRAM meas
+\SPG el tanto que se puede agarrar en el pun~o cerrado
+\ENG the amount you can hold in your closed fist
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT mi7kx
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+Page 845

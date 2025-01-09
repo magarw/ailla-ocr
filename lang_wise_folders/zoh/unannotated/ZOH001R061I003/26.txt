@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [tzoy7@y-]
+\UND tzoy7.7@y
+\MB remedio, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG curar
+\ENG to cure
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 11/Feb/96
+\lex tzukx.neenh
+\_no 00074
+\LG MIG
+\PSH [tzukxne*nh]
+\UND tzukx.neenh
+\MB pellizcar, MED1
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG pedacito; pedazo
+\ENG a piece; a pinch
+\EXU mix tzi'-A7 tum tzukx.neenh
+\XPSH [Mix tzi tum tzukxne*nh.]
+\XSP Me das una pedacita.
+\XEN Give me a little piece.
+SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzukx
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex tzun.neenh
+\_no 00075
+\LG MIG
+\PSH [tzunne*nh]
+\UND tzun.neenh
+\MB gotear, MED1
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG gota
+\ENG drop
+\EXU
+\XSP
+\XEN
+ZOH001R0611003.txt
+Page 26

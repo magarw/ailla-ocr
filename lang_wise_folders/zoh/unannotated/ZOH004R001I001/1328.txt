@@ -1,0 +1,66 @@
+\USE
+\SPG fin
+\ENG end
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tuk
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 20/Oct/94
+\lex tuk.tuk.ney
+\_no 03085
+\LG MIG
+\PSH [tuktukney-]
+\UND tuk. tuk.ney
+\MB X, X, REDUP1
+\VAR
+\GRAM VIRE
+\SCI
+\USE
+\SPG gritar
+culebra o algo en el monte
+\ENG a shout - of a snake or something in the wilds
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT %tuk F
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex tuk.u7
+\_no 03086
+-
+ZOH004R0011001.txt
+\LG MIG
+\PSH [tuku7]
+\UND tuk.u7
+\MB
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG cosa vieja/rota
+ya no sirve
+\ENG an old or torn piece of clothing, no good anymore
+\EXU j@nh.koya'=tuku7
+\XPSH [j@nhkoyatuku7]
+\XSP conejo que no sirve
+\XEN a rabbit that won't do
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tuk
+\RTGR 12
+\DSRC TK94
+Page 1328

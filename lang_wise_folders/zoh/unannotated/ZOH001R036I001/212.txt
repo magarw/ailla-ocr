@@ -1,0 +1,70 @@
+\zoq 7axuxj@nanh.
+\fts con ajo.
+\fte with garlic.
+\com
+\idx
+\ref ZOH001R036 997
+\_no 00980
+\tx 7@m
+7@m yakkukpa
+\mb 7@m yak -7uk -ра
+\sg1 2E CAUS-tomar -INC
+\egl 2E CAUS-drink-INC
+\zoq 7@m yakkukpa,
+\fts Lo haces tomar,
+\fte You make them drink it,
+\com
+\idx
+\ref ZOH001R036 998
+\_no 00981
+\tx para tentz@ypa
+\mb para ten
+-tz@y
+-ра
+\sg1 para pararse-atorarse -INC
+\eg1 for stand -get_stuck-INC
+\zoq para tentz@ypa.
+\fts para que pare.
+\fte so that it stops up.
+\com
+\idx
+\ref ZOH001R036 999
+\_no 00982
+\tx GSM: gad@
+\mb GSM ka - da
+-n@k -E
+\sg1 GSM: DCT3-DEM barriga-irse-NOM3
+\eg1 GSM: DCT3-DEM belly -go -NOM3
+tzekn@ki
+tzek
+\zoq GSM: Gad@ tzekn@ki.
+\fts GSM: Ese churri.
+\fte GSM: That belly-flux.
+\com
+\idx
+\ref ZOH001R036 999-000
+\_no 00983
+\tx OSM: tzekn@ki
+\mb OSM
+tzek
+-n@k -E
+\sg1 OSM: barriga-irse-NOM3
+\egl OSM: belly -go -NOM3
+\zoq OSM: Tzekn@ki.
+\fts OSM: Churri.
+\fte OSM: Belly flux.
+\com
+\idx
+ZOH001R0361001.txt
+\ref ZOH001R036 999-001
+\_no 00984
+HAJ: si bi 7une
+7@n nenak@xpa
+tim
+tz@kpa
+\tx
+\mb HAJ
+7@n nena7.k@x -pa ti -7@m tz@k -pa
+\sg1 HAJ: si DEF nin~o/a 1E malo .comer-INC que -2E hacer-INC
+si bi 7une7
+Page 212

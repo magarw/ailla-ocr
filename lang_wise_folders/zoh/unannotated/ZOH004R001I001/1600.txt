@@ -1,0 +1,63 @@
+\UND win-popo7.7aH
+\MB CARA, blanco, VERS1
+\VAR
+\GRAM vers1
+\SCI
+\USE
+SPG ponerse pa lido
+\ENG to turn pale
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex win-popo'=tz@k
+\_no 03725
+\LG MIG
+\PSH [winpopotz@k-]
+\UND win-popo7=tz@k
+\MB CARA, blanco, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer medio blanco o descolorido
+\ENG to discolor or make off-white
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+\lex win=pu7tz
+\_no 03726
+\LG MIG
+\PSH [winpu7tz-]
+\UND win-pu7tz
+\MB CARA, ponerse_amarillo
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG ponerse amarillo
+\ENG to turn yellow
+\EXU
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+Page 1600

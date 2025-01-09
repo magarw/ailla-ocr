@@ -1,0 +1,49 @@
+10 uqui ohui ahuudi
+un-qui ohui a-huu-di
+1PERS.N-DIR voix AUX.TR-venir-PASL
+leurs paroles sont venues à moi
+11 ari mana aricai
+ari mana a-ri-cai
+LOC plateau AUX.TR-ITE-MIR
+je vais à nouveau sur le lointain plateau
+12 ifofo ua dima
+ifo-fo ua di-ma-a
+maître-PL 1PERS.A «< se dresser »-CAUS-ACC
+les maîtres me l'ont fait visiter
+13 //ua dimacua
+ua di-ma-acu-a
+1PERS.A << se dresser »-CAUS-CIRC-ACC
+ils m'ont fait visiter les alentours
+14 ua dimacuaino//
+ua di-ma-acu-aino
+1 PERS.A << se dresser »-CAUS-CIRC-ACT.SIM
+ils m'ont fait visiter les alentours
+15 ari mana daquishon
+ari mana daqui-shon
+LOC plateau << être dessus »-ACT.ANT
+sur ce lointain plateau
+16 doco ohui potadi
+doco ohui pota-di
+2PERS.PL.A voix jeter-PASL
+ils nous jetèrent leurs paroles
+17 ohui potacudi
+ohui pota-acu-di
+voix jeter-CIRC-PASL
+ils jetèrent leurs paroles aux alentours
+18 //ifofoyashon//
+ifo-fo-ya-shon
+maître-PL-GEN-BEN
+les paroles des maîtres
+19 //cudu ifofoyashon//
+cudu ifo-fo-ya-shon
+dessin maître-PL-GEN-BEN
+leurs dessins de maîtres
+20 ono nai sutua
+ono nai sutu-a
+LOC ciel << être en file »-ACC
+là-haut, dans le ciel, les uns derrière les autres
+21 sutuamu ifofo
+sutu-a-mu ifo-fo
+<< être en file »-ACC-EXIST1 maître-PL
+les maîtres se sont déplacés les uns derrière les autres
+41

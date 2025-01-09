@@ -1,0 +1,63 @@
+(168) sabeer jniky'puun jun tzee',
+a.saber qué.tamaño uno palo
+'a saber qué tamaño era ese palo,'
+(169) matiij 0 jun
+grande-B3s uno
+'el palo era grande,
+(170) 0-chi-tzan
+0=q'uun-j.
+B3s-decir-pues B3s-decir-PAS
+'dicen.'
+(171) N=chi
+kaana-n,
+INC=B3p encontrar-AP
+'Y llegaron,'
+(172) n-chi
+ja-pan-tzan
+tzee',
+INC=B3p_subir-DIR=pues A3s-SR:AGT A3s-SR:encima palo
+'y los subieron en el árbol,'
+(173) jotx
+t-aaj tz
+AFEC A3s-regresar-DIR
+'y el huérfano regresó "jotx","
+(174) asta n=0=kub'-al
+(175) n=0=tzee-n,
+INC=B3s=reir-AP
+'estaba riendo,'
+(176) ch'uq t-eel
+9
+tzee',
+palo
+(177) nn=0=ok
+tx'otx'
+hastaINC=B3s-bajar-TERM A3s-SR:superficie tierra
+'cuándo bajó en el suelo'
+t-xaajb'a,
+AFEC A3s-salir A3s-caite
+""ch'uq" quitó sus caites,'
+t-xpaatz'a-n
+(178) Mal-ala-an-tzan
+(179) mex-tzan t-u’n
+t-u’n
+INC=B3s=DIR A3s-golpear.con.mano-SD
+'y golpeó el gran tallo del palo.'
+(180) 0-chi-tzan.
+meeb'a,
+huérfano
+t-xi tzee' ja’la,
+hinchar-AFEC-V-pues A3s-ir palo ahora
+'Se fue hinchando el palo ahora,'
+B3s-decir-pues
+'dice.'
+t-witz
+ky-ku'=tz
+hasta-pues A3s-SR:que A3p-bajar=DIR
+'hasta que (no) podían bajar las personas,'
+t-wi'
+matii tzee'
+t-k’u’j
+A3s-estómago grande palo
+xjaal,
+persona
+17

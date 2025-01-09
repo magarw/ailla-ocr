@@ -1,0 +1,83 @@
+\fte He gave him the money.
+\com
+\idx
+\ref ZOH001R011 095
+\_no 00096
+\tx 7a pwes satornino tzunpa
+\mb
+7a pwes satornino tzun
+jamatin
+jamatin
+7@y tzixukk@ bi
+7@y tzi7-xuk-w@ bi
+\sg1 a pues Satornino alegrarse-INC porque 3E dar -3PL-COM DEF dinero
+\egl ah well satornino be_happy -INC because 3E give-3PL-COM DEF money
+\zoq 7a pwes, Satornino tzunpa, porke 7@y tzixukk@ bi jamatin.
+\fts A pues,
+Satornino se alegro*, porque le dieron el dinero.
+\fte Ah well, satornino is happy, because they gave him the money.
+\com
+\idx sp
+\tx yakp@7tpa
+\mb
+\ref ZOH001R011 096
+\_no 00097
+7entonses n@mpa
+dey
+si tejiam
+\tx
+\mb
+entonces n@m -ра te -Y si
+\sg1 entonces decir-INC DCT2-TMP si* hay
+\egl then
+say -INC DCT2-TMP yes
+yak -p@7t -pa
+\sg1 CAUS-pasar-INC
+\eg1 CAUS-pass -INC
+\ref ZOH001R011 097
+\_no 00098
+\tx tzunpa
+\mb tzun
+satornino
+satornino
+\sgl alegrarse-INC Satornino
+\egl be happy -INC Satornino
+\zoq 7entonses n@mpa, "Dey si tejiam para jamay yakp@7tpa."
+\fts Entonces dice, "Ahora si ya tengo para pasar el di*a.
+\fte Then he says, "Now indeed I have enough to pass the day."
+\com
+\idx sp
+-pa
+\zoq Tzunpa Satornino.
+\fts se alegro* Satornino.
+\fte satornino is happy.
+\com
+\idx
+\ref ZOH001R011 098
+\_no 00099
+\tx ye7tztz@ y
+ZOH001R0111001.txt
+t@kjo
+ye7tz -w@ 7@y t@k -jo7
+casa -LOC2
+house-LOC2
+\mb ye7tz -wa
+\sg1 11egar-COM 3E
+\egl arrive-COM 3E
+porke
+-ра porke
+\zoq Ye7tztz@y t@kjo.
+\fts Llego* a su casa.
+\fte He arrived at home.
+\com
+\idx
+\ref ZOH001R011 099
+\_no 00100
+para jama y
+teji -7am para jama 7@y
+-YA para dia
+3E
+there_is-NOW for day
+3E
+Page 22
+"I

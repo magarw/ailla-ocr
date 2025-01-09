@@ -1,0 +1,62 @@
+\lex ni.jin
+\_no 02260
+\LG MIG
+\PSH [nijin-]
+\UND ni.jin.0
+\MB PURP, refregarse, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG bagazo con que se refriega cuando esta* ban~ando; cosa para
+refregarse
+\ENG a bundle of leaves you use for bathing; something you scrub
+yourself with
+EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jin
+\RTGR TX
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex ni.ji7p
+\_no 02261
+\LG MIG
+\PSH [niji7p-]
+\UND ni.ji7p
+\MB PURP, mover_con_palo
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG trompear su compan~ero
+\ENG to root at your fellow pig
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN ko.ji7p
+\SEMF
+\ETYM
+\ETL
+\ROOT ji7p
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 26/Jan/96
+\lex ni.ji7t
+\_no 02262
+\LG MIG
+\PSH [niji7t-]
+\UND ni.ji7t
+ZOH004R0011001.txt
+\MB PURP, manchar
+\VAR
+\GRAM vt
+Page 974

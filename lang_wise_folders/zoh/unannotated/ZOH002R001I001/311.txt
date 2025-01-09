@@ -1,0 +1,49 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+Zoque, sometimes compounded with the Zoque word for 'where', hu?.
+Examples of this type of locative clause are shown in (11.19 iv-vi).
+(11.19)
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+(vii)
+ye'tzpám bi tren 'øy pø'tpaji
+0 ye?c-pa+?am
+bi tren ?ǝy+ pə?t-pa+hi
+3A arrive-INC+NOW DEF train 3E+ pass-INC+LOCREL
+'Now the train is arriving where it passes."
+mehor dø nøktampa 'axta gaja biy mongngøji
+mehor də+ nək-tam-pa
+Pašta gaha? bi ?ǝy+ moŋ-wə+hi
+better 1A+go-1/2PL-INC until there DEF 3E+ sleep-COM+LOCREL
+'Better that we should go to where he's sleeping.' (ZOH001R036-171)
+(ZOH001R025-109)
+'øn 'angtzajpan xuyu 'øy no'tztzømmøji
+?əy+ ?aŋ.cah-pa
+?ən+ šuyu? ?əy+ no?c.?əm-wə+hi
+1E+ MOUTH.glue-INC 1E+ pot 3E+ break.PASS-COM+LOCREL
+'I'm going to glue my pot where it was broken.'
+'dondju toyjaypa 'øy kwerpu
+?adonde=hu? O toy.hay-pa ?əy+ kwerpu
+where where 3A hurt.APPL-INC 3E+ body
+'Where their body hurts."
+-
+(elicited)
+(ZOH001R032-107)
+gay gagø dolór 'øy 'angnitpám yøji donde 'øy paktukkø
+gay gagǝ dolór ?əy+ ?aŋnit-pa+?am yəhi? donde ?əy+ pak-tuk-wə
+then that pain 3E+ have-INC+NOW here where 3E+ grab=end-COM
+'Then that pain that he now has here where he pulled it out.'
+(ZOH001 R036-220)
+'adondju 'angmaypa bi 'unedøkka
+?adonde=hu? 0 ?aŋ.may-pa
+bi ?une?+dǝkkay
+where=where 3A MOUTH.count-INC DEF child+NPL
+'where the children study'
+(ZOH001R028-070)
+11.7. Temporal clauses
+Temporal clauses are most commonly constructed on the Spanish model,
+using the subordinators la 7ora ke (la hora que, '(at) the time when'), kwando
+(cuando, 'when') and myentras (mientras, 'while').
+284

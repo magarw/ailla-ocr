@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 29/Jan/96
+\lex ko.p@7t
+\_no 01439
+\LG MIG
+\PSH [kop@7t-]
+\UND ko.p@7t
+\MB OTRO, pasar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG 1 pasar por alguien
+\SPG 2 pasar visitando
+\ENG 1 to pass by someone
+\ENG 2 to visit in passing
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT p@7t
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 14/Jun/95
+\lex ko.p@x
+\_no 01440
+LG MIG
+\PSH [kop@x-]
+\UND ko.p@x
+\MB OTRO, X
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG desplumar la gallina
+\ENG to pluck a chicken
+\SPL ko.p@x.7oy
+\SLGR ANTIP
+ZOH004R0011001.txt
+\SLGL desplumar la gallina // to pluck a chicken
+\SPL ko.p@x.7@m
+\SLGR PASS
+\SLGL desplumarse // to be plucked
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT p@x T3
+\DSRC HAJ94
+\CMTS
+\CMTS there's some confusion here between ko.p@x and ko.p@t - he goes back
+\CMTS and forth a bit, but it's mostly ko.p@t
+Page 626

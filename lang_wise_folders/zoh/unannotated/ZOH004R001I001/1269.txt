@@ -1,0 +1,63 @@
+\lex tarea
+\_no 02948
+\LG MIG
+\PSH
+\UND tarea
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG tarea
+\ENG task
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex tat.ney nax+jo7
+\_no 02949
+\LG MIG
+\PSH [tatney- naxjo7]
+\UND tat.ney nax+jo7
+\MB
+\VAR
+\GRAM assum1
+\SCI
+\USE
+\DLG
+\SPG aplastarse en el suelo; sentarse en el suelo
+\ENG to plop down on the ground; to sit on the ground
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+SEMF
+\ETYM
+\ETL
+\ROOT * tat
+\DSRC HAJ94
+\CMTS get deriv's - can't get the root in another form
+\CMTS casi la forma en que cae uno en el suelo
+\date 19/Jun/96
+\lex tat(a) 7apu
+\_no 02950
+\LG MIG
+\PSH [tata 7apu]
+\UND tata 7apu
+\MB
+\VAR taat 7apu
+\GRAM s (m) s
+\SCI
+\USE
+\SPG abuelo; bisabuelo
+\ENG grandfather; greatgrandfather
+\SPL bisabwelu7
+Page 1269

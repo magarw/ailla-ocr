@@ -1,0 +1,65 @@
+\XEN He increased it.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS %x@j (2)
+\date 26/Jun/96
+\lex x@k
+\_no 04038
+\LG MIG
+\PSH
+\UND x@k
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG frijol
+\ENG bean
+\SPL popo' x@k
+\XPSH [popo x@k]
+\XSP frijol blanco
+\XEN white bean
+\SPL_y@k=x@k
+\XPSH [y@kx@k]
+\xSP frijol negro
+\XEN black bean
+\SPL nap (a) wit@m
+\XPSH [napa wit@m]
+\XSP frijol chiapaneco; ejote
+\SPL pintu x@k
+\XSP frijol bayo
+\SPL kaxtin(a)x@k
+\XSP frijol andalo*n
+\SYN
+LF:7okox
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex x@k kaldu
+\_no 04039
+-
+\LG MIG
+\PSH
+\UND x@k kaldu
+\MB
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG frijoles en caldo
+\ENG stewed beans
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ZOH004R0011001.txt
+Page 1737

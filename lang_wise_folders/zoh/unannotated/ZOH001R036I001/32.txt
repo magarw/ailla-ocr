@@ -1,0 +1,78 @@
+\ref ZOH001R036 145
+\_no 00146
+\tx_n@kwa*m
+\mb
+n@k -w@ - 7am
+\sg1 irse-COM-YA
+\egl go -COM-NOW
+\zoq N@kwa m.
+\fts Ya se fue*.
+\fte Now it's gone.
+\com
+\idx
+\ref ZOH001R036 146
+\_no 00147
+\tx
+\mb GSM
+w@j@7apa
+w@ja -7a
+-7
+\sg1 GSM: Con DCT3-NOM1 bueno-VERS1-INC
+\eg1 GSM: with DCT3-NOM1 good -VERS1-INC
+GSM: kon ga7
+kon ka
+\zoq GSM: Kon ga7 waj@7apa?
+\fts GSM: Con eso sana?
+\fte GSM: with that it heals?
+\com
+\idx
+\zoq OSM: Kon ga7 waj@7apa.
+\fts OSM: Con ese sana.
+\fte OSM: with that it heals.
+\com
+\idx
+ZOH001R0361001.txt
+\ref ZOH001R036 147
+\_no 00148
+OSM: kon ga7
+w@j@7apa
+w@ja -7a
+-7
+\tx
+\mb OSM kon ka
+\sg1 OSM: Con DCT3-NOM1 bueno-VERS1-INC
+\egl OSM: with DCT3-NOM1 good -VERS1-INC
+\ref ZOH001R036 148
+\_no 00149
+\tx de7xe n@kpa
+n yoxx@
+\mb te -7xe n@k -pa 7@n yox
+\sg1 DCT2-SIM irse-INC 1E
+\eg1 DCT2-SIM go -INC 1E Work
+-pa
+-ра
+kwandu d@ me7chukpa
+kwandu d@ me7tz -xuk-pa
+cuando 1A buscar-3PL-INC
+-dINC when 1A look -3PL-INC
+-w@
+trabajar-dINC
+\zoq De7xe_n@kpan yoxx@ kwandu d@ me7chukpa.
+\fts Asi* voy a trabajar cuando me buscan.
+\fte That's the way I go to work when they look for me.
+\com
+\idx
+\ref ZOH001R036 149
+\_no 00150
+\tx kaswalmente yey
+da n@kpa
+tum rratu las 7ocho kina*nh
+\mb kaswalmente y@ -Y
+da nak -pa
+tum rratu las 7ocho kinaanh
+\sg1 casualmente DCT1-TMP 1A irse-INC uno rato las ocho limite
+\egl as it happens DCT1-TMP 1A go -INC one while the eight limit
+\zoq Kaswalmente, yey d@ n@kpa tum rratu, las 7ochokina*nh.
+\fts Casualmente, ahora voy al rato, como a las ocho.
+\fte As it happens, now I'm going in a while, like around eight.
+Page 32

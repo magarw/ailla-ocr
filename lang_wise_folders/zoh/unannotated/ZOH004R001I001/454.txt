@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [j@xjepx-]
+\UND j@x-jepx
+\MB ATRAS, agarrar_con_ji*cara
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar algo con ji*cara
+\ENG to scoop something out
+\SPL
+\SLGR
+\EXU 7@y+ jax.jepx-w@ xuyu'+jonh
+\XPSH [7@y j@xjepx@ xuyujonh.]
+\XSP Saco* con ji*cara algo de la olla.
+\XEN She scooped it out of the pot.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT jepx
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS CK-PH of EX
+\date 10/Jan/96
+\lex j@x-je7p
+\_no 01035
+\LG MIG
+\PSH [j@xje7p-]
+\UND j@x-je7p
+\MB ATRAS, pescar_con_manta
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar algo cuando esta* pescando con la manta
+\ENG to take out somethingwhen you're fishing with a cloth
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT je7p
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+ZOH004R0011001.txt
+\lex j@x-jetz
+\_no 01036
+\LG MIG
+\PSH [j@xjetz-]
+\UND j@x-jetz
+\MB ATRAS, rascar
+\VAR
+\GRAM vt
+\SCI
+\USE
+Page 454

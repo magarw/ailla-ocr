@@ -1,0 +1,63 @@
+\MB FUERA, X, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG palo para atrancar; atrancador; puntal
+\ENG a stick used as a bar; a bar; a prop
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * tu7tz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex k@.t@k.j@7
+\_no 01746
+\LG MIG
+\PSH [k@t@kj@7]
+\UND k@.t@k.j@7
+\MB FUERA, casa, NOM2
+\USE locative
+\GRAM av
+\SCI
+\USE
+\SPG 1 afuera de la casa pegado a la pared
+\SPG 2 alla* atra*s de la casa
+\SPG 3 orilla de la casa, donde esta* pasillo
+\ENG 1 outside the house against the wall
+\ENG 2 over there across from the house
+\ENG 3 at the edge of the house, by the path
+\EXU nek-A7 de7 kapi k@.t@k.j@7+jo7_para 7uy+_muj-w@
+ZOH004R0011001.txt
+\XPSH [Neka7 de k@pi k@t@kj@jo7 pa 7uy mujja!]
+\XSP !Arrima la len~a ahi* pegado a la pared para que no se enmoje!
+\XEN Pile the firewood up here close to the wall so it doesn't get wet!
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS analysis
+\date 25/Jun/96
+\DATE 03/Jan/1980
+\lex k@.t@k.j@@nh
+\_no 01747
+\LG MIG
+\PHO [k@t@kj@*nh]
+\UND k@.tak.j@@nh
+\MB
+\VAR
+\USE directional postposition
+\GRAM av
+\SPG de abajo
+\ENG out from under
+\EXU mixtu7 yuk-poy-w@ pitz@m. E kuy=7okox k@.t@k.j@@nh
+\XPSH [Mixtu yukpoyy@ pitz@mi kuy7okox k@t@kj@*nh.]
+Page 755

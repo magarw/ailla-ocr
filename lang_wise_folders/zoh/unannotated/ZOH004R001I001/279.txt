@@ -1,0 +1,63 @@
+\SPG vapor del sol
+\ENG vapor from the heat of the sun
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yop
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 14/Jun/95
+\lex jamanh7
+\_no 00652
+\LG MIG
+\PSH
+\UND jamanh7
+\MB
+\VAR jamanh' kuy
+\GRAM S
+\SCI
+\USE
+\SPG (palo de) guanacaste
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\lex jama=tin
+\_no 00653
+\LG MIG
+LF: kuy
+\PSH [jamatin]
+\UND jama=tin
+\MB sol, mierda
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG dinero
+\ENG money
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS originally meant gold or silver'; cf. Nawa teo:=kwitla-tl "sun-shit"
+\date 10/Jan/96
+Page 279

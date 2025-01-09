@@ -1,0 +1,56 @@
+\_no 00040
+\SPG (tirarle y) pegarle
+\ENG (to throw and) to hit something
+\RTGR T3
+\lex tik
+\_no 00041
+\SPG tocar (con el hombro)
+\ENG to touch (with the shoulder)
+\RTGR P (T3)
+\lex totz [1]
+\_no 00042
+\SPG pun~alear (con cuchillo)
+\ENG to stab (with a knife)
+\RTGR T3
+\lex tux
+\_no 00043
+\SPG picar (como una vi*bora o gallina); pellizcar
+\ENG to bite (like a snake or chicken); to pinch
+\RTGR T3
+\lex t@7px
+\_no 00044
+\SPG hacer mecate
+\ENG to make rope
+\RTGR T3
+\lex tzanh
+\_no 00045
+\SPG pegar con el pun~o; golpear
+\ENG to hit
+with the fist
+ZOH001R0611005.txt
+\ENG 2 They're making tortillas (like at a big party).
+\RTGR T3
+\lex tzem (1)
+\_no 00046
+\SPG desafiar; provocar; atropellar para pelear; pegar
+\ENG to challenge; to provoke a fight; to hit
+\RTGR T3
+\lex tze'
+\_no 00047
+\SPG lavar
+\ENG to wash
+\RTGR T3
+\lex tzij
+\_no 00048
+\SPG tirar y pegar con piedra
+\ENG to throw and hit with a rock
+\RTGR T3
+\lex tzix [1]
+\_no 00049
+\SPG picar, como chaya o mala mujer, o una avispa
+\ENG to prick, like a thorn, or to bite, like a wasp
+\RTGR T3
+\lex tzi'
+\_no 00050
+\SPG 1 dar
+Page 5

@@ -1,0 +1,62 @@
+\date 14/Jul/95
+\lex yuk.jatikx
+\_no 04227
+\LG MIG
+\PSH [yukjatikx-]
+\UND yuk.jatikx
+\MB ARR, estornudar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar a estornudar
+\ENG to start to sneeze
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jatikx
+\RTGR I1
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+\lex yuk. ja7tz
+\_no 04228
+\LG MIG
+\PSH [yukja7tz-]
+\UND yuk. ja7tz
+\MB ARR, agarrar_fiado
+\VAR yuk. ja7tz-7okmanh
+\GRAM
+\SCI
+\USE
+\SPG empezar a pedir fiado
+\ENG to start to borrow money
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ja7tz
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex yuk. jaway
+\_no 04229
+\LG MIG
+\PSH [yukjaway-]
+\UND yuk.jaway
+\MB ARR, arder
+\VAR
+ZOH004R0011001.txt
+Page 1816

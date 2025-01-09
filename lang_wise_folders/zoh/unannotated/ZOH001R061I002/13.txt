@@ -1,0 +1,64 @@
+\ARG
+\NOM
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex jej
+\_no 00050
+\SPG vivir
+\ENG to live
+\SEMF nature, body
+\ASP state
+\ARG
+\NOM jej.kuy7, jej.a, ko.jej-pa+a7k, * naanh
+\RTGR 12
+\POS N
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex jek
+\_no 00051
+\SPG derrumbarse cosa, una cosa que esta* estivada o amontonada
+\ENG for something that was stacked or piled up to tumble down.
+\SEMF break
+\ASP achievement, accomplishment
+\ARG patient
+\NOM jek.@7
+\RTGR 12
+\POS
+\MID nax jekk@mm@
+\UNDO
+\CLZ
+\CMTS
+\lex jeken
+\_no 00052
+ZOH001R0611002.txt
+esta* derrumbado la tierra
+\SPG enrollar, como mecate, alambre, bejuco, etc.
+\ENG to coil, like rope, wire, vine, etc.
+\SEMF arrange
+\ASP achievement
+\ARG patient
+\NOM jeken.e
+\RTGR P, (T3)
+\POS da jekenjayy@n laxu
+\MID
+\UNDO 7@n jekenpuw@n laxu
+\CLZ
+\CMTS
+\lex je7k
+\_no 00053
+\SPG limpiar con coa
+\ENG to clean with a hoe
+\SEMF cut, farm
+\ASP activity
+\ARG instrument
+\NOM je7k.kuy7, je'k.e7
+\RTGR T3
+me enrollo* mi mecate
+lo desenrolle* mi mecate
+Page 13

@@ -1,0 +1,36 @@
+xii
+inflected on the stative form with Set B suffixes, or (2) it could be an intransitive verb phrase,
+inflected on the directional verb with Set A prefixes. In the case of 'ajtil pakanach 'ek'ih, Where
+have you been?, the inflection pakan-ach marks the phrase as stative. The case of t'esan hin 'elih,
+I'm inflated, is ambiguous, either t'esan-in 'elih (stv phrase) or tesan hin-'elih (vin phrase). The
+case of ch'ekan sk'e'ih, He's sitting up (alone, of all of us), is unambiguously vin phrase, ch'ekan
+tz-o-k'e'ih.
+vin-rep
+Some verbs suffixed with the repetitive suffix x are marked as vin-rep if the
+derivation is not apparent on the surface. Ex: jaxih, to come again (return), <jah-x-ih. 'otchih to
+enter again, < 'och-x-ih.
+vtr Root transitive verb stems (i.e., CVC underived vtr roots) take the status suffixes 'Vh
+(after CV') and -hV' (elsewhere). The vowel V is a after i, e, a in the CVC root, o after o, and u
+after u. Regular morphophonemic changes reduce the consonant clusters C-h and '-C-. If an
+expressed subject or object (or any other sentence component) follows, the suffix is omitted. Ex:
+pi'ah < pi'-'ah, to take the kinks out of something. piha' < pih-ha', to stretch something. tz'u'uh <
+tz'u'-'uh, to chew sugar cane. p'olo' < p'ol-ho', to roast something. tiwa' < tip'-ha', to carry
+something cylindrical. tzin smak'a' < tz-hin-s-mak'-ha', He hits me; tzin smák' wính, The man
+hits me. Derived transitive verb stems, mostly suffixed -ej (or -C-ej, C-it-ej, etc.), do not take
+status suffixes.
+vtr implied but not attested
+Transitive verb roots so marked have not been attested in
+the shape CVC + status suffix, i.e., CVC-V' or CV'-Vh. However, the lexical items listed below
+such an entry are sufficient to posit a transitive verb of the shape given. Ex: hapa', vtr, to open
+holes in something, is implied by the passive form hapchajih, vtr pas, for holes to be opened in
+something. kip'a', vtr, to toss liquid, is implied by kip'elih, vtr-dir, to toss a liquid away.
+vtr phrase Transitive verb phrases have more than one lexical item and the main verb is
+inflected with Set A prefixes. A large number of such phrases are built on the auxiliary verb 'ak'
+(or 'ak'an) 'to do' and have as their other element an incorporated Spanish-origin verb, e.g., 'ak'
+pensar 'to think' (< Spanish "pensar"); 'ak'an konsegir 'to obtain something' (< Spanish
+"conseguir". Since this is a productive mechanism for incorporating Spanish verbs, there are
+many more phrases in the language that are not included in this dictionary.
+Other vtr phrases are verb plus object, forming an idiomatic phrase, e.g., 'awan kulus 'to
+plant a cross'; 'ik' 'ip 'to rest' (literally 'to take strength'), k'anh nhi' 'to snore' (literally, 'to sound
+the nose'); musej sat 'to trick someone' (literally, 'to cover the eyes'). Reflexive transitives are
+also marked as vtr phrase: jup' -p'ah 'to thrash oneself (in a sweatbath)'. Other vtr phrases simply

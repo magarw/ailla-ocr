@@ -1,0 +1,64 @@
+\GRAM
+\SCI
+\USE
+\SPG ajonjoli*
+\ENG a type of plant
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 10/Jan/96
+\lex jonh.kuy7
+\_no 00875
+\SLGR
+\EXU
+\XSP
+\LG MIG
+\PSH [jonhkuy7]
+\UND jonh.kuy7
+\MB atarantarse, INSTR1
+\VAR
+\GRAM instrl
+\SCI
+\USE
+\SPG la parte en que se atarante uno (como partes de la cabeza)
+\ENG the place (on the head) where you're dizzy
+\SPL
+\XEN
+\SYN
+\SEMF
+\ETYM
+LF:7okox
+\ETL
+\ROOT jonh
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 17/Jul/95
+\lex jonh-nuk
+\_no 00876
+\LG MIG
+\PSH [jonhnuk-]
+\UND jonh-nuk
+\MB marearse, agarrar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG agarrarlo atarantado
+\ENG to snatch someone dizzy
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+Page 381

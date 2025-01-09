@@ -1,0 +1,64 @@
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG arbol "totoposte"
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+LF: kuy
+\lex toto'=woj. kuy7
+\_no 03035
+\LG MIG
+\PHO [totowojkuy7]
+\UND toto7=woj. kuy7
+\XSP
+\XEN
+\SYN
+\MB papel, agujerar, INSTR1
+\VAR
+\GRAM instrl
+\SPG instrumento para hacer hoyos en papel
+\ENG hole-puncher
+\EX
+\ROOT Woj
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+ZOH004R0011001.txt
+\lex totz [1]
+\_no 03036
+\LG MIG
+\PSH
+\UND totz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pun~alear (con cuchillo)
+\ENG to stab (with a knife)
+\SPL totz.7oy
+\SLGR ANTIP
+\SLGL pun-alear // to stab
+\SLGR NO PASS
+\SPL totz.ten
+\SLGR PRSV
+\SLGL tener pun~alado // to have stabbed (on the point of a knife)
+\EXU 1 ney 7@y+ win 7@y+ totz-w@
+\XPSH 1 [Neywin 7@y totztz@.]
+\XSP 1 Se pun~aleo* e*l mismo.
+\XEN 1 He stabbed himself.
+\EXU 2 7@y+ totz.ten-w@ bi p@n bi kuy
+Page 1307

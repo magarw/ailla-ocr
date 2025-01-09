@@ -1,0 +1,62 @@
+\date 14/Jun/95
+\lex jup=tuy
+\_no 00943
+\LG MIG
+\PSH [juptuy-]
+\UND jup-tuy
+\MB jalar, estirar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG estirar jalandolo
+\ENG to stretch something by pulling on it
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 jup
+\RTGR 1 P, (T3)
+\ROOT 2 tuy
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 26/Jun/96
+\lex jup-tzik
+\_no 00944
+\LG MIG
+\PSH [juptzik-]
+\UND jup-tzik
+\MB jalar, pelar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pelar al jalarlo
+\ENG to pull the skin off something
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 jup
+\RTGR 1 P, (T3)
+\ROOT 2 tzik
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 25/Sep/94
+ZOH004R0011001.txt
+\lex jup-tzik.tzik.w@y
+\_no 00945
+LG MIG
+\PSH [juptziktzikw@y-]
+\UND jup-tzik.tzik.w@y
+\MB jalar, pelar, pelar, DEPOS
+\VAR
+Page 412

@@ -1,0 +1,64 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT putz
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex putz.i+i7k
+\_no 00273
+\LG MIG
+\PSH [putzi*7]
+\UND putz.E +P@7k
+\MB pudrirse, NOM7, REL
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG podrido; una cosa podrida
+\ENG rotten; a rotten thing
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT putz
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 25/Jun/96
+\lex putz.i' n@7
+\_no 00274
+\LG MIG
+\PSH [putzi n@7]
+\UND putz.E7 n@7
+\MB pudrirse, NOM7, agua
+\VAR
+\GRAM pcpms
+\SCI
+\USE
+\SPG agua podrida
+\ENG spoiled water
+\EXU putz.E7=w@j-pa+a7k_n@7
+\XPSH [putzi w@jpa*7k n@7]
+\XSP agua de mal olor, un agua que apesta
+\XEN bad-smelling water
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT putz
+\RTGR 12
+\DSRC HAJ94
+\CMTS CK-all
+\date 25/Jun/96
+-
+ZOH001R0611004.txt
+HAJ:96, ok now
+Page 110

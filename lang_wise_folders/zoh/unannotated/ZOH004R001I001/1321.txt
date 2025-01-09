@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 20/Oct/94
+\lex tuj.kuy7
+\_no 03069
+\LG MIG
+\PSH [tujkuy7]
+\UND tuj.kuy7
+\MB disparar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG arma; fusi*l; carabina; escopeta
+\ENG weapon; gun; rifle
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tuj
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 09/Feb/96
+\lex tuj-mok
+\_no 03070
+LG MIG
+\PSH [tujmok]
+\UND tuj-mok
+\MB lluvia, mai z
+\VAR tuj mok
+\GRAM SS
+\SPG siembra de temporal
+ENG fall corn planting
+\EXU 7@m_ nip-pa tuj mok
+\XPSH [7@m nippa tuj mok.]
+\XSP Siembras de temporal.
+\XEN You're sowing the fall planting.
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS see also 'jama mok'
+\date 26/Jun/96
+\lex tuj-n@7
+\_no 03071
+ZOH004R0011001.txt
+\LG MIG
+\PSH [tujn@7]
+\UND tuj-n@7
+\MB lluvia, agua
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG agua de lluvia
+Page 1321

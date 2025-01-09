@@ -1,0 +1,63 @@
+XEN 1 the one who rules
+\EXU 2 7@y+ 7anh.kim.tij-w@ t@k+jo7
+\XPSH 2 [7@y 7anhkimtijja t@kjo7.]
+\XSP 2 Lo fue* a mandar en su casa.
+\XEN 2 He went to order it in his house.
+\SYN
+SEMF
+ETYM
+\ETL
+\ROOT kim
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 24/Jun/96
+\lex 7anh-kim-tzak
+\_no 00101
+\LG MIG
+\PSH [7anhkimtzak-]
+\UND 7anh-kim-tzak
+\MB BOCA, subir, dejar
+\VAR
+\GRAM vt+dir
+\SCI
+\USE
+\SPG dejar para que hacer una cosa
+\ENG to leave word for someone to do something
+\EXU 7@y+ 7anh-kim-tzak-wa yakk@ 7@y+ tz@k-w@ ney-ti7
+\XPSH [7@y 7anhkimtzakk@ yakk@y tzakk@ neyti7.]
+\XSP Le dejo* mandado que haga una cosa.
+\XEN She left word that he should do it..
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 kim
+\RTGR 1 T1
+\ROOT 2 tzak
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 09/Jan/96
+\lex 7anh-kim. 'oy
+\_no 00102
+\LG MIG
+\PSH [7anhkimmoy-]
+\UND 7anh-kim. 7oy
+\MB BOCA, subir, ANTIP
+\VAR
+\GRAM vi: antip
+\SCI
+\USE
+\SPG mandar, gobernar
+\ENG to command, to govern
+ZOH004R0011001.txt
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM *ki 7m
+\ETL pSok
+\ROOT kim
+Page 44

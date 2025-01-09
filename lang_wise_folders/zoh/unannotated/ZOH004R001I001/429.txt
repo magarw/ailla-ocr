@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [ju7tztzookuy7]
+\UND ju7tz.7oy.kuy7
+\MB remover, ANTIP, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG 1 flecha
+\SPG 2 pun~alada
+\ENG 1 arrow
+\ENG 2 a stab
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ju7tz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/96
+\lex juwi '=j@x.p@k
+\_no 00979
+\LG MIG
+\PSH [juwij@xp@k-]
+\UND juwi 7=j@x.p@k
+\MB brasa, FUERA, agarrar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG sacar brasa
+\ENG to take out a coal
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT pak
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\lex jux
+\_no 00980
+\LG MIG
+\PSH
+\UND jux
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG asar
+\ENG to roast
+\SPL jux. 7oy
+ZOH004R0011001.txt
+Page 429

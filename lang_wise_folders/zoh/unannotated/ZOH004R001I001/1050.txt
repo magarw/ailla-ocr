@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 27/Jan/96
+\lex n@ji-p@'.jay
+\_no 02436
+\LG MIG
+\PSH [n@jip@jay-]
+\UND n@ji-p@7.jay
+\MB nombre, poner, APPL
+\VAR
+\GRAM vt: indir
+\SCI
+\USE
+\SPG poner nombre a
+\ENG to put a name on someone or thing
+\EXU
+\XSP
+\XEN
+\SYN n@ji.7@y
+\SEMF
+\ETYM
+\ETL
+\ROOT p@7
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 27/Jan/96
+\lex nak [1]
+\_no 02437
+\LG MIG
+\PSH
+\UND nak
+\MB
+\VAR
+\GRAM vi:irreg
+\SCI
+\USE
+\SPG irse
+\ENG to go
+\SPL yak.n@k
+\SLGR CAUS
+\SLGL dejar ir // to let go
+\EXU 1 n@k-pa
+\XPSH 1 [N@kpa.]
+\XSP 1 se va.
+ZOH004R0011001.txt
+\XEN 1 She is going.
+\EXU 2 n@k-w@ [irreg. PH]
+\XPSH 2 [N@kw@.]
+\XSP 2 Se fue*
+\XEN 2 He went.
+\EXU 3 n@k-707
+\XPSH 3 [N@kko!]
+\XSP 3 Vete!
+\XEN 3 Go away!
+\EXU 4 n@k-E7
+\XPSH 4 [N@ki7!]
+Page 1050

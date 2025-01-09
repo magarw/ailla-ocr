@@ -1,0 +1,63 @@
+\PSH [tukk@]
+\UND tuk-wa
+\MB cortar, COM
+\VAR
+\GRAM ps-pcp
+\SCI
+\USE
+\SPG bonito
+\ENG pretty; nice
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HJ95
+\CMTS
+\date 28/Jan/96
+\lex tu7k.tu7k.ney
+\_no 03093
+\LG MIG
+\PSH [tu7ktu7kney-]
+\UND tu7k.tu7k.ney
+\MB
+\VAR
+GRAM VİRF
+\SCI
+\USE
+\SPG chillando
+\ENG screaming
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT %tu7k F
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex tulipanh jay@7
+\_no 03094
+\LG MIG
+\PSH
+\UND tulipanh jay@7
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG flor de tulipa*n
+\ENG a type of flowering plant
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+Page 1331

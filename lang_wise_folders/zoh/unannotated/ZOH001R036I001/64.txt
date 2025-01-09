@@ -1,0 +1,74 @@
+\tx GSM: dondju
+\mb GSM donde-ju7
+\sg1 GSM: donde-donde
+\eg1 GSM: where-where hurt -INC
+\zoq GSM: Dondju toypa.
+\fts GSM: Donde le duele.
+fte GSM: where it hurts.
+\com
+\idx
+\ref ZOH001R036 296
+\_no 00294
+OSM: 7adonde 7@m xutpa
+7adonde 7@m xut
+\tx
+\mb OSM
+-ра
+\sg1 OSM: adonde 2E agujerar-INC
+\egl OSM: where 2E pierce - INC
+\zoq OSM: 7adonde_7@m xutpa.
+\fts OSM: Adonde lo agujerea.
+\fte OSM: where you pierced it.
+\com
+\idx
+\ref ZOH001R036 297
+\_no 00295
+toypa
+toy -pa
+doler-INC
+\tx
+\mb
+7adonde xuti7
+7adonde xut
+-E7
+\sg adonde agujerar-NOM3
+\egl where
+pierce -NOM3
+\zoq 7adonde xuti7.
+\fts Adonde esta* agujereado.
+\fte where it's pierced.
+\com
+\idx
+\ref ZOH001R036 298
+\_no 00296
+\tx gaji*nh
+\mb
+ka -jiinh
+teji
+teji
+hay
+ZOH001R0361001.txt
+7@m yakjaypa
+7@m yak -jay
+2E CAUS-dilatar-INC
+\sg1 DCT3-DIR2
+\eg1 DCT3-DIR2 there is 2E CAUS-delay -INC
+\zoq Gaji*nh teji 7@m yakjaypa,
+fts De ahi* lo haces a que dilate,
+\fte Then there is you make it wait,
+\com
+\idx
+\ref ZOH001R036 299
+\_no 00297
+\tx komo mas de medya 7ora
+\mb komo mas
+de medya 7ora
+\sg1 como mas de media ahora
+\egl like more of half now
+\zoq komo mas de medya 7ora.
+\fts como mas de media hora.
+\fte like more than half an hour.
+\com
+\idx
+-pa
+Page 64

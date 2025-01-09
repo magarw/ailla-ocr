@@ -1,0 +1,63 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex 7ok.tz@k=tzak. '@y
+\_no 00401
+\LG MIG
+\PSH [7oktz@ktzakk@y-]
+\UND 7ok.tz@k-tzak.7@y
+\MB ABAJO, HACER, dejar, SUF
+\VAR
+\GRAM vt+dir
+\SCI
+\USE
+\SPG dejar de hacer
+\ENG to stop doing something
+\EXU 7@y+ 7ok.tz@k=tzak. '@y-w@ 7@y+ t@k kuk.'i.naanh porke
+ya 7@y+ 7ok.tz@k. '@y-w@+'am 7@y+ jama.tin
+XPSH [7@y 7oktz@ktzakk@yy@y tak kukkina*nh porke yay
+7oktz@kk@yya*m 7@y jamatin]
+\XSP Dejo* de construir su casa por la mitad, porque ya no alcanzo* el
+dinero.
+\XEN She stopped building her house in the middle, because now she
+can't find the money.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tz@k
+\RTGR 1 T3
+\ROOT 2 tzak
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 20/Oct/94
+\lex 7ok.tz@k. '@y
+\_no 00402
+ZOH004R0011001.txt
+\LG MIG
+\PSH [7oktz@kk@y-]
+\UND 7ok.tz@k.7@y
+\MB ABAJO, HACER, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 tener tiempo para algo
+\SPG 2 alcanzar el tiempo
+\ENG 1 to have the time for something
+ENG 2 to find the time for something
+\SPL
+\SLGR
+\EXU kwandu 7@y+ 7ok.tz@k. '@y-pa
+\XPSH [Kwanduy 7oktz@kk@ba.]
+\XSP Cuando tiene el tiempo.
+\XEN when she has the time.
+Page 172

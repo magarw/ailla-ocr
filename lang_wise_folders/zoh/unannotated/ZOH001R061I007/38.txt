@@ -1,0 +1,59 @@
+\PASS woj.7@m aullado
+\CMTS
+\lex woko
+\_no 00157
+\SPG arrastrarse
+\ENG to drag oneself
+\EX
+\XSP
+\XEN
+\ROOT woko Ix
+\SEMF motion
+\CAUS yak.woko arrastrar
+\CMTS
+\lex waj
+\_no 00158
+\SPG apestar; tener olor
+\ENG to stink; to have an odor
+\EX ne: nw@jja
+\XSP apesto*
+\XEN it smelled bad
+\ROOT W@j 12
+\SEMF condition, nature, percep
+\CAUS yak.w@j lo hizo a que se apestara
+\CMTS
+\lex w@nh
+\_no 00159
+\SPG sumirse en - traste de agua, ri*o; hundirse
+\ENG to be submerged in - a dish of water, the river
+\EX w@nhnh@ trastě d@kka_n@jo7
+\XSP se sumio* los traste en el ri*o
+\XEN the dishes were submerged in the river
+\ROOT w@nh Ix
+\SEMF position, water
+\CAUS yak.w@nh sumir
+\CMTS
+ZOH001R0611007.txt
+\lex w@tz
+\_no 00160
+\SPG gotear
+\ENG to drip
+\EX
+\XSP
+\XEN
+\ROOT w@tz Ix
+\SEMF water
+\CAUS yak.w@tz dejar gotear
+\CMTS
+\lex w@7tz
+\_no 00161
+\SPG rechinar (huaraches; una silla en el piso)
+\ENG to squeak (huaraches; chair slid across tile floor)
+\EX
+\XSP
+\XEN
+\ROOT w@7tz 12
+\SEMF sound
+\CAUS yak.w@7tz
+\CMTS cf. m@7tz 12 'rechinar'
+Page 38

@@ -1,0 +1,82 @@
+\com
+\idx
+\ref ZOH001R036 999-154
+\_no 01136
+\tx para 7uy
+\mb para 7u
+\sg1 para NEGimpv-3E
+\egl for
+for NEC
+NEGimpv-3E
+✓-3E
+kopak
+taka7aw@
+-7@y kopak taka7 -7a -wa
+cabeza pelo*n-VERS1-COPT
+head bald -VERS1-COPT
+\zoq Para 7uy kopak taka7aw@?
+\fts Para que no se haga pelo*n?
+\fte So he doesn't go bald?
+\com
+\idx
+\ref ZOH001R036 999-155
+\_no 01137
+\tx ti
+\mb ti
+\sg] que
+\egl what jump DO -ANTIP-INC 2E
+tzoy
+m tziw@
+n@mmoba
+tzoy
+n@m-7oy -ра 7@m tzi7-w@
+saltar DO -ANTIP-INC 2E dar -dINC
+give-dINC
+\zoq Ti tzoy n@mmobam tziw@?
+\fts Que remedio le puedes dar?
+\fte what medicine can you give?
+\com
+\idx
+\ref ZOH001R036 999-156
+\_no 01138
+OSM: 7entonse ded@
+\tx
+\mb OSM
+entonces te -d@
+\sg1 OSM: entonces DCT2-DEM
+\egl OSM: then
+ZOH001R0361001.txt
+way juni
+way7-jun
+\zoq OSM: 7entonse ded@ wayjuni7@yti,
+fts OSM: Entonces eso caido de pelo,
+\fte OSM: Then for that hair falling out,
+\com
+\idx
+pelo-caer_pelo-NOM3 3PSN
+DCT2-DEM hair-lose_hair-NOM3 3PSN
+\ref ZOH001R036 999-157
+\_no 01139
+\tx 7@m tz@kjaba
+de 7arnika
+\mb 7@m tz@k -jay -pa de 7arnika
+\sgl 2E hacer-APPL-INC de arnica
+\eg1 2E do -APPL-INC of arnica
+\zoq 7am tz@kjaba de 7arnika.
+\fts Le haces la arnica.
+\fte You make them of arnica.
+\com
+\idx
+\ref ZOH001R036 999-158
+\_no 01140
+\tx ded@
+tampitz 7ay
+\mb te -d@ tampitz 7ay7
+\sg1 DCT2-DEM a*rnica hoja
+\eg1 DCT2-DEM herb
+leaf
+\zoq Ded@ tamtzitz 7ay.
+-E7
+7@yti
+7@yti7
+Page 245

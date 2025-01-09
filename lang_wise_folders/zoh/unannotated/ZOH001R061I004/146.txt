@@ -1,0 +1,62 @@
+\MB pequen~o, NOM 5
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG chiquito; pequen~o
+\ENG little; small
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH/GR: DONE/TK
+\date 26/Jun/96
+\lex wakxi' pen.e
+\_no 00366
+\LG MIG
+\PSH [wakxi pene]
+\UND wakxi7 pen. E
+\MB chico, transplantar, NOM7
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG planta pequen*a
+\ENG small plant
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex wa7kx.e7
+\_no 00367
+\LG MIG
+\PHO [wa7kxe7]
+\UND wa7kx.E7
+\MB enterciar, NOM7
+\VAR
+\GRAM pcp
+\SPG una cosa enterciada
+\ENG something bundled into loads
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT wa7kx
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+ZOH001R0611004.txt
+Page 146

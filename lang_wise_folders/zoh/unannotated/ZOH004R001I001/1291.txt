@@ -1,0 +1,64 @@
+\USE
+\SPG mierda
+\ENG shit
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 18/Oct/94
+\lex tin-7ay7
+\_no 02999
+\LG MIG
+\PSH [tinnay7]
+\UND tin-7ay7
+\MB cargar, hoja
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG hierba santa
+\ENG a type of plant
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tin-ji7t
+\_no 03000
+\LG MIG
+\PSH [tinji7t-]
+\UND tin-ji7t
+LF:7okox
+\MB cagar, manchar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG manchar con mierda
+\ENG to stain with shit
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ji7t
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 13/Nov/94
+ZOH004R0011001.txt
+Page 1291

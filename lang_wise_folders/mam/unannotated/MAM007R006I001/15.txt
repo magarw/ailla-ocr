@@ -1,0 +1,63 @@
+t-ko'pa-n
+t-iib',
+INC=B3s=DIR A3s-desatar-SD A3s-SR:REFL
+'Se escapó,'
+(175) N=0=jaaw
+0=jaaw t-ko'pa-n
+A3s-SR:AGT=mismo B3s-DIR A3s-desatar-SD A3s-SR:REFL
+'él mismo se escapó."
+(176) t-u'n=x
+(177) Baay mikyee
+vaya NEG
+'Vaya, aunque sea mi tío (abuelo)'
+(178) 0-chi-tzan
+B3s-decir-pues
+'dice'
+(179) ok 0=kb'-eel
+POT B3s-bajar-POT Als-SR:AGT=1s
+'lo voy a matar,'
+(180) 0-chi-tzan=ta
+tiiya
+kayoot.
+B3s-decir-pues=3sENF tío coyote
+'dijo el tío coyote.'
+(181) 0-kb'-eel
+B3s-bajar-POT
+'Lo voy a matar,'
+(182) 0-chi-tzan
+n-chmaan=a,
+Als-abuelo=1s
+(183) n=0=jaaw=tzan
+w-u'n=a
+0=q'uun-j
+B3s-decir-pues B3s-decir-PAS
+'dice que dijo,'
+(184) n=0=xi'=tzan
+tiiya
+INC=B3s=salir-pues tío
+'al escapar el tío coyote'
+(185) Ab'an luu tiiya
+luu tiiya
+que.sí allátío
+w-u'n=a
+Als-SR:AGT=1s
+ja'la
+INC=B3s-ir-pues ahora
+'se fue ahora.'
+(186) nn=0=ook
+koneej,
+conejo
+'El tío conejo allá estaba,'
+kayoot
+coyote
+jun nin-q'iij t-u'n
+INC=B3s=entrar un gran-día A3s-SR:AGT
+'haciendo una fiesta,'
+t-iib'.
+txe
+(187) nn-0=ook
+mariimp_t-u'n
+piky,
+INC=B3s entrar marimba A3s-SR:AGT A3s+SR:debajo peñasco
+'tocando marimba en un peñasco,'
+16

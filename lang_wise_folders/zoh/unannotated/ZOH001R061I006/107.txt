@@ -1,0 +1,63 @@
+\SUB_tik='uk, tik-p@k
+\ETYM
+\ETL
+\ROOT tik
+\RTGR P (T3)
+\DSRC TK94
+\CMTS
+\CMTS gloss was 'arrimarse a e*1', now see tik-p@k for that one
+\date 03/Jan/80
+\lex tok
+\_no 00158
+\LG MIG
+\PSH
+\UND tok
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG manchar; batir; contagiar
+\ENG to stain; to smear; to infect
+\SPL tok. 7oy
+\SLGR ANTIP
+\SLGL manchar; batir // to stain; to smear
+\SPL tok. 7@m
+\SLGR PASS
+\SLGL mancharse
+\EXU 7@y+ tok-w@ bi toy.a7
+\XPSH [7@y tokk@ bi toya7.]
+\XSP Contagio* la enfermedad.
+\XEN The disease infected her.
+\SYN
+\SEMF clean, body
+\ASP activity, achievement
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT tok
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex to7k
+\_no 00159
+ZOH001R0611006.txt
+\LG MIG
+\PSH
+\UND to7k
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tender o extender en cama o suelo, como petate
+\ENG to stretch out on the bed or the ground, like a mat
+\SPL to7k.7oy
+\SLGR ANTIP
+\SLGL tender // to stretch out
+\SPL to7k.7@m
+\SLGR PASS
+Page 107

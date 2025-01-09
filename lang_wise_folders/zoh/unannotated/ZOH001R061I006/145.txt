@@ -1,0 +1,64 @@
+\SPG machetear
+\ENG to cut with a machete
+\SPL xanh.7oy
+\SLGR ANTIP
+\SLGL machetear // to cut with a machete
+\SPL xanh.7@m
+\SLGR PASS
+\SLGL estar macheteado // to be cut with a machete
+\SPL xanh.ten
+\SLGR PRSV
+\SLGL tener macheteado // to have something cut down with a machete
+\EXU 1 xanh-A7
+\XPSH 1 [Xa:w@7!]
+\XSP 1 !Machetealo!
+\XEN 1 Cut it!
+\EXU 2_7@y+ xanh-w@ bị yuj.kuy7
+\XPSH_2 [7@y xanhnh@ bi yujkuy7.]
+\XSP 2 Macheteo* el rastrojo.
+\XEN 2 He cleared the field with a machete.
+\SYN
+\SEMF cut
+\ASP process
+\ARG instrument
+\NOM 7anh.xanh', xaw.e7, xanh.'oy.kuy7
+\SUB 7anh.xanh'.'aH, 7anh.xanh'.'@y, jo.xanh', k@.xanh, win=xanh
+\ETYM
+\ETL
+\ROOT xanh
+\RTGR T3
+ZOH001R0611006.txt
+\DSRC HAJ94
+\CMTS applies mainly to clearing a field
+\CMTS v/xanh (1)
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex xatz
+\_no 00215
+\LG MIG
+\PSH
+\UND xatz
+\MB
+\VAR
+GRAM vt
+\SCI
+\USE
+\SPG fregar entre las manos; torcer, como mecate
+\ENG to rub between the hands; to twist, like rope
+\SPL xatz.7oy
+\SLGR ANTIP
+\SLGL tentar con la mano; torcer // to touch with the hand; to twist
+\SPL xatz.7@m
+\SLGR PASS
+\SLGL estar suelto o blandito la palma o cualquiera // for the palm or
+whatever to be softened by rubbing
+\EXU 1 jojo=xatz-wa
+\XPSH 1 [Jojoxatztz@.]
+\XSP 1 Torcio* palma.
+\XEN 1 She twisted palm leaves.
+\EXU 2 7@y+ xatz.ten-w@ bi nitum 7uk.i7
+\XPSH 2 [7@y xatztenn@ bi nitum 7uki7.]
+\XSP 2 Tiene batido el chocolate.
+\XEN 2 She's got the chocolate stirred up.
+\SYN
+Page 145

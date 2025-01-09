@@ -1,0 +1,62 @@
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex wanin'.7aH
+\_no 03568
+\LG MIG
+\PSH [wanin7a-
+\UND wanin7.7aH
+\MB delgado, VERS1
+\VAR
+\GRAM versl
+\SCI
+\USE
+\SPG hacerse delgado
+\ENG to become thin
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex wanin'=tz@k
+\_no 03569
+\LG MIG
+\PSH [wanintz@k-]
+\UND wanin7=tz@k
+\MB delgado, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer delgado
+ENG to make thin
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+\lex wan-pa+a7k
+\_no 03570
+\LG MIG
+\PSH [wanpa*7k]
+\UND wan-pa +P@7k
+ZOH004R0011001.txt
+Page 1534

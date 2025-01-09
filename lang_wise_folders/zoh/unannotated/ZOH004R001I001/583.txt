@@ -1,0 +1,64 @@
+\lex ko.ka'
+\_no 01335
+\LG MIG
+\PSH [koka-]
+\UND ko.ka7
+\MB OTRO, morirse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG morirse por alguien
+\ENG to die for someone
+\SPL
+\SLGR
+\EXU 7@y+ ko.ka-w@ 7@y+ jaya
+\XPSH [7@y kokaw@y jaya.]
+\XSP Se murio* por su marido.
+XEN She died for her husband.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ka7
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex koke
+\_no 01336
+\LG MIG
+\PSH
+\UND koke
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG pescado
+\ENG fish
+\EXU chik koke
+\XSP pescadito
+\XEN
+\EXU koke_n@'+jo' wit-pa+a7k
+\XPSH [koke n@jo witpa*7k]
+\XSP pez (que esta* en el agua)
+\XEN fish (that is in the water)
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\KEY
+\DSRC
+HAJ94
+\CMTS
+\date 29/Jan/96
+\lex koke k@wenhke7
+\_no 01337
+\LG MIG
+\PSH
+\UND koke k@wenhke7
+\MB
+ZOH004R0011001.txt
+Page 583

@@ -1,0 +1,63 @@
+\lex nik.kep. '@y
+\_no 02297
+\LG MIG
+\PSH [nikkepp@y-]
+\UND nik.kep.7@y
+\MB SUP, patear, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG echarle de patadas; pasarle pateandolo
+\ENG to kick something out; to kick something in passing
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kep
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex nik.ket. '@y
+\_no 02298
+\LG MIG
+\PSH [nikkett@y-]
+\UND nik.ket.7@y
+\MB SUP, tapar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tapar; envolver
+\ENG to cover; to wrap up
+\SPL
+\SLGR
+\EXU 7@y+ nik.ket. '@y-w@ yo't.e7
+\XPSH [7@y nikkett@yy@ yote7.]
+\XSP Lo tapo* con la ropa.
+\XEN She covered it with the cloth.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ket
+\RTGR P, (T3)
+\DSRC HÁJ95
+\CMTS
+\date 08/Feb/96
+\lex nik.ketz. '@y
+\_no 02299
+ZOH004R0011001.txt
+\LG MIG
+\PSH [nikketztz@y-]
+\UND nik.ketz.7@y
+\MB SUP, regar_con_mano, SUF
+\VAR
+\GRAM vt
+Page 990

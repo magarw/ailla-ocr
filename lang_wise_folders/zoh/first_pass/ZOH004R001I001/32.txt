@@ -1,0 +1,63 @@
+\lex 7anh-ji7p
+\_no 00072
+\LG MIG
+\PSH [7anhji7p-]
+\UND 7anh-ji7p
+\MB BOCA, menear
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG trompear
+ENG to root
+\SPL
+\SLGR
+\EXU 7@y+ 7anh-ji7p-w@ bi 7anh-paj bi yoya [vos]
+\XPSH [7@y 7anhji7pp@ bi 7anhpaj bi yoya.]
+\XSP E1 marrano trompeo* el cerco.
+\XEN The pig rooted up the fence.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ji7p
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 08/Jan/96
+\lex 7anh-ji7tz
+\_no 00073
+\LG MIG
+\PSH [7anhji7tz-]
+\UND 7anh-ji7tz
+\MB BOCA, recoger
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tener el hilo suelto para recoger la costura
+\ENG to have the thread pulled to gather the fabric
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ji7tz
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+ZOH004R0011001.txt
+\lex 7anh-jix
+\_no 00074
+\LG MIG
+\PSH [7anhjix-]
+\UND 7anh-jix
+\MB BOCA, remojar
+\VAR
+\GRAM vt
+Page 32

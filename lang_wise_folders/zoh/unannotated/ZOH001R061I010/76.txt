@@ -1,0 +1,61 @@
+\_no 00336
+\SPG voltearse
+\ENG to turn over
+\EX
+\XSP
+\XEN
+\ROOT wanhka Il
+SEMF motion
+\CAUS yak.wanhka voltear; hacer volcar
+\CMTS
+\lex wat
+\_no 00337
+\SPG amarrar; ganar
+\ENG to bind; to earn
+\EX
+\XSP
+\XEN
+\ROOT wat P, (T3)
+\SEMF affect, trade
+\PASS wat.7@m
+\ANTI wat.7oy
+\CMTS
+\lex wax
+\_no 00338
+\SPG morder; mascar
+\ENG to bite
+\EX
+\XSP
+\XEN
+\ROOT wax T3
+\SEMF bite
+\PASS NONE
+\ANTI wax.7oy
+\CMTS
+\lex way
+\_no 00339
+\SPG moler
+\ENG to grind
+\EX waypa
+\XSP esta* moliendo
+\XEN she's grinding
+\ROOT way T1
+\SEMF cook, corn
+\CMTS
+ZOH001R0611010.txt
+\lex we7ch
+\_no 00340
+\SPG encorvar; pandearse palo o varilla
+\ENG to curve
+\EX we7chch@
+\XSP torcido
+\XEN twisted
+\EX we7ch-pa
+\XSP hacerse pando
+\XEN
+\EX dondju we7chch@ bi tunh
+\XSP en una curva; alla* en la curva/vuelta
+\XEN where the road curves
+\ROOT we7ch 12
+\SEMF position, condition
+Page 76

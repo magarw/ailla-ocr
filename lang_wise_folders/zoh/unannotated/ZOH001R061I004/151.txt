@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [wayk@wi7]
+\UND way7-k@nh.E7
+\MB pelo, pintar, NOM7
+\VAR
+\GRAM a:sq (BA-ed)
+\SCI
+\USE
+\SPG canas; canosa
+\ENG gray-hair; gray-haired
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT k@nh
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 11/Feb/96
+\lex way'=p@j.i7
+\_no 00379
+\LG MIG
+\PSH [wayp@ji7]
+\UND way7-p@j.E7
+\MB pelo, largo, NOM7
+\VAR
+\GRAM a:sq (BA-ed)
+\SCI
+\USE
+\SPG cabelludo; peludo
+\ENG long-haired
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex wa'k.e
+\_no 00380
+\LG MIG
+\PSH [wake]
+\UND wa7k. E
+\MB rebanar, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG partido
+\ENG divided; sliced
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH001R0611004.txt
+Page 151

@@ -1,0 +1,61 @@
+\EX da j@7tn@kpa
+\XSP me lleva el ri*o
+\XEN the river carried me off
+\EX j@7tt@ mok
+\XSP le paso* el ri*o el maiz
+XEN the river flooded the corn
+\ROOT j@7t 12
+\SEMF nature, water
+\ASP state, process
+\CMTS
+\date 03/Jan/80
+\lex j@tz
+\_no 00040
+\SPG hacer masa para pollo
+\ENG to make masa for chickens
+\EX piyu j@tztz@
+\XSP hizo masa para pollo
+\XEN she made masa for the chickens
+\ROOT jatz Il
+\SEMF cook
+\ASP activity
+\CMTS
+\date 03/Jan/80
+\lex j@y
+\_no 00041
+\SPG sonar; chillar; llorar
+\ENG to sound; to scream; to cry
+\EX
+\XSP
+\XEN
+\ROOT jay Il
+\SEMF speak, sound
+\ASP activity
+\CAUS yak.j@y hacer llorar
+\CMTS
+\date 03/Jan/80
+\lex ka
+\_no 00042
+\SPG morirse
+ENG to die
+\EX
+\XSP
+\XEN
+\ROOT ka 12
+\SEMF life
+\ASP transition
+\CAUS yak.ka matar
+\date 03/Jan/80
+\lex kam
+\_no 00043
+\SPG trabarse
+\ENG to get stuck
+\EX
+ZOH001R0611007.txt
+\XSP
+\XEN
+\ROOT kam 12
+\SEMF motion
+\ASP transition
+\CAUS yak. kam trabar
+Page 10

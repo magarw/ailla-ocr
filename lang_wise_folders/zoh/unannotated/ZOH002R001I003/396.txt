@@ -1,0 +1,41 @@
+(14.14)
+(i)
+SOV
+SVO
+VSO
+Total
+(ii)
+Number
+3
+11
+4
+18
+SVO order is the most frequent in this category, with 61.1% of transitive
+clauses with both subject and object NPs appearing in this order. It is
+reasonable to suppose that the preference for SV order when only subject NPs
+appear and VO order when there is only an object NP is a reflection of this same
+preferred pattern. Again, in many of these the subject NP is a pronoun, as
+shown in (14.14 i). Example (ii) is the climax of 'The Two-Legged One', when
+the little jaguar finally has his showdown with the hunter, who shoots him
+fatally.
+Percentage
+16.7
+61.1
+22.2
+100
+Table 14.7: Transitive clauses with both subject and object NPs
+'i døxxøn tzipa bi 'aydøkkay
+?i dəš ?ən+ ci?-pa bi ?ay?+dǝkkay
+y 1 Prn 1E+ dar-INC DEF hoja+NPL
+'And I will give him the herbs.'
+(ZOH001R032-153)
+bi metzang mangkuypø'k 'øy jupwanakkø 'øy tujkuy'
+bi mecaŋ maŋkuy?+pə?k ?əy+ hup=wanak-wə əy+ tuhkuy?
+DEF dos
+3E+ jalar=bajar-COM 3E+ arma
+'The two-legged one drew his gun.'
+pie+REL
+(ZOH001R026-122)
+agent. I elicited positive grammaticality judgements for examples of this kind (see Appendix F),
+but they don't seem to appear in the texts. (I haven't made an exhaustive search for them.)
+388

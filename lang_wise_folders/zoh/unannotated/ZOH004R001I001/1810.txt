@@ -1,0 +1,62 @@
+\date 26/Jun/96
+\DATE 09/Aug/02
+\lex yuk.7in
+\_no 04213
+\LG MIG
+\PSH [yuk7in-]
+\UND yuk.7in
+\MB ARR, nublarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG se nublo* en todo, esta* cubriendo el sol
+\ENG to be completely cloudy so that the sun is covered over
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 7in
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 26/Jun/96
+\lex yuk.7ix
+\_no 04214
+\LG MIG
+\PSH [yuk7ix-]
+\UND yuk.7ix
+\MB ARR, ver
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG levantarse para ver
+\ENG to get up to see
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7ix
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 26/Jun/96
+\1ex yuk. 7oj
+\_no 04215
+ZOH004R0011001.txt
+\LG MIG
+\PSH [yuk7oj-]
+\UND yuk. 7oj
+\MB ARR, tosear
+Page 1810

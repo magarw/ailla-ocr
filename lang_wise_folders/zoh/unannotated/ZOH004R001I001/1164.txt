@@ -1,0 +1,64 @@
+\UND pom
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG calmar (dolor)
+\ENG to calm (an ache)
+\SPL yak.pom
+\SLGR CAUS
+\SLGL hacer calmar // to soothe an ache or pain
+\EXU 1 pom-w@ toy-pa+a7k
+\XPSH 1 [Pomm@ toypa*7k.]
+\XSP 1 Calmo* el dolor.
+\XEN 1 The pain eased.
+\EXU 2 7@y+ yak.pom-w@ toy-pa+a7k tzoy'+j@nanh
+\XPSH_ 2 [7@y yakpomm@a toypa*7 tzoyj@nanh.]
+\XSP 2 calmo el dolor con remedio.
+\XEN 2 She eased the pain with medicine.
+\SYN
+\SEMF body
+\ASP accomplishment
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT pom
+\RTGR IX
+\DSRC TK94
+\CMTS get deriv's
+\date 03/Jan/80
+\lex poma
+\_no 02706
+\LG MIG
+\PSH
+\UND poma
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG copal
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+ZOH004R0011001.txt
+LF: kuy
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 21/Jun/95
+\lex poma 7okox
+\_no 02707
+\LG MIG
+\PSH
+\UND poma 7okox
+\MB
+Page 1164

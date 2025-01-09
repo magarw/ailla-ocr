@@ -1,0 +1,62 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nem
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yo't.e'=tz@k-pa+a7k
+\_no 00483
+\LG MIG
+\PSH [yootetz@kpa*7]
+\UND yo7t.E7=tz@k-pa +P@7k
+\MB X, NOM7, HACER, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG fa*brica; telar
+\ENG factory; textile mill; a place where fabric is made
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yo't.e'=yep
+\_no 00484
+\LG MIG
+\PSH [yoteyep-]
+\UND yo7t.E7=yep
+\MB X, NOM7, tender
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG tender ropa
+\ENG to hang clothes
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yep
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+ZOH001R0611004.txt
+\lex yuk. 7utz.i
+\_no 00485
+\LG MIG
+Page 191

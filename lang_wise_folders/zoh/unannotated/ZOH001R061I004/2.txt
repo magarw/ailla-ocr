@@ -1,0 +1,63 @@
+\GRAM sv: incorp
+\SCI
+\USE
+\SPG totopo
+\ENG totopo
+\EXU 7an.e-jax.@7
+\XPSH [7anejax@7!]
+\XSP Haz el totopo!
+\XEN Make the totopo!
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7an
+\RTGR 1 12
+\ROOT 2 jax
+\RTGR 2 T1
+\DSRC HAJ94
+\CMTS
+\date 02/Oct/96
+\lex 7an.e=mon.e
+\_no 00004
+\LG MIG
+\PSH [7anemone]
+\UND 7an. E=mon. E
+\MB calentarse, NOM7, envolver, NOM7
+\VAR
+\GRAM nom:incorp
+\USE
+\SPG tortilla envuelta, lit. "envoltura de tortilla"
+ENG rolled tortilla, lit. "wrapping of tortilla"
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7an
+\RTGR 1 12
+\ROOT 2 mon
+\RTGR 2 P
+\DSRC HAJ94
+\CMTS
+\date 24/Jun/96
+\lex 7an.e-tzanh
+\_no 00005
+\LG MIG
+\PSH [7anetzanh-]
+\UND 7an. E=tzanh
+\MB calentarse, NOM7, golpear
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+ZOH001R0611004.txt
+\SPG tortear
+\ENG to make tortillas
+\SPL
+\SLGR
+\EXU 7an.e=tzanh-pa
+\XPSH [7anetzanhpa.]
+Page 2

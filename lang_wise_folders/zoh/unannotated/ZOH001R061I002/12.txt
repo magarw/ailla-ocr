@@ -1,0 +1,61 @@
+\RTGR T1
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex jaway
+\_no 00046
+\SPG arder (como una quemada o una herida)
+\ENG to burn (like a burn or a wound)
+\ENG 2 burning
+\SEMF body
+\ASP state
+\ARG
+\NOM jawa.i *kuy
+\RTGR 12
+\POS Y lexicon
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex jax
+\_no 00047
+\SPG 1 asar (carne)
+\SPG 2 tostar (totopo)
+\SPG 3 tostarse
+\ENG 1 to roast (meat)
+ENG 2 to bake (totopo)
+\ENG 3 to be baked
+\SEMF cook
+\ASP activity
+\ARG agent, patient
+\NOM jax.e7, jax.kuy7
+\RTGR T3
+\POS grammatical but rotten
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex jay [1]
+\_no 00048
+\SPG escribir
+\ENG to write
+\SEMF speak
+\ASP activity
+\ARG
+\NOM jay.kuy7, ni.jay.kuy7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\lex jay [2]
+\_no 00049
+\SPG dilatar; demorarse
+\ENG to delay; to linger
+\SEMF move_self
+\ASP activity
+Page 12

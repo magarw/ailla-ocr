@@ -1,0 +1,60 @@
+\lex 7@jaj
+\_no 00013
+\SPG quejarse
+\ENG to complain
+\EX 7@j@jpa
+\XSP se esta* quejando
+XEN he's complaining
+\EX j@xt@kjonh_7@j@jpa
+\XSP atras de la casa esta* quejandose
+\XEN he's complaining behind the house
+\ROOT 7@jaj Il
+\SEMF speak
+\ASP activity
+\CMTS MAR also has //7@j@j//
+\date 03/Jan/80
+\lex 7@nh
+\_no 00014
+\SPG caerse de arriba - como fruta
+\ENG to fall from above - like fruit
+\EX 7@nhnh@ tam
+\XSP cayo* la fruta
+XEN the fruit fell
+\EX 7@nhnh@
+\XSP cayo* solo del arbol
+\XEN it fell
+\ROOT 7@nh 12
+\SEMF fall
+\ASP motion, momentaneous
+\CMTS no caus yak.7@nh *
+\date 03/Jan/80
+\lex chekek
+\_no 00015
+\SPG culequear
+\ENG to cluck
+\EX chekekk@ piyu
+\XSP culequeo* la gallina
+\XEN the chicken clucked
+ZOH001R0611007.txt
+\ROOT chekek Il
+\SEMF speak-animal
+\ASP activity
+\CMTS
+\date 03/Jan/80
+\lex cho7k
+\_no 00016
+\SPG sonar "haciendo pendejadas"
+\ENG to make a slurping sound fucking
+\EX cho7k-pa y+chona
+\XSP
+\XEN
+\ROOT cho7k Ix
+\SEMF sex
+\CMTS
+\lex jaj
+\_no 00017
+\SPG arder el cuerpo (en el sol, cuando esta* caminando mucho...)
+\ENG for the body to get warm (in the sun, from walking a lot...)
+\EX ni:jajja
+\XSP ardio* el cuerpo
+Page 4

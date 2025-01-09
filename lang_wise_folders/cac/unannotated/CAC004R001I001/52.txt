@@ -1,0 +1,72 @@
+Juan no es el maestro.
+winhaj Xun man k'ayb'umok laj winh
+winhaj Xun man k'ayb'-um-ok
+laj winh
+Cmasc Juan neg enseñar-agtvz-IRR neg Cmasc
+winhaj Xun manok laj winh k'ayb'um
+winhaj Xun man-ok laj winh k'ayb'-um
+Cmasc Juan neg-IRR neg Cmasc enseñar-agtvz
+122. ¿Quién es el maestro?
+¿mach winh k'ayb'um?
+mach winh k'ayb'-um
+quién CСmasc enseñar-agtvz
+123. ¿Quién es maestro?
+¿mach k'ayb'um?
+mach k'ayb'-um
+quién enseñar-agtvz
+106
+124. Juan es hijo mío.
+a winhaj Xun wunin winh
+a
+winhaj Xun w-unin winh
+top Cmasc Juan 1A-hijo Cmasc (dicho por hombre)
+a winhaj Xun wune' winh
+a winhaj Xun w-une' winh
+top Cmasc Juan 1A-hijo Cmasc (dicho por mujer)
+winhaj Xun wik winh a in tik
+winhaj Xun w-ik winh a in tik
+Cmasc Juan 1A-SR Cmasc top 1B dem
+winhaj Xun wuninal winh
+winhaj Xun w-unin-al winh
+Cmasc Juan 1A-hijo-gen Cmasc
+125. Juan es mi hijo.
+a winhaj Xun wunin winh
+a
+winhaj Xun w-unin winh
+top Cmasc Juan 1A-hijo Cmasc
+winhaj Xun wuninal winh
+winhaj Xun w-unin-al winh
+Cmasc Juan 1A-hijo-gen Cmasc
+¿De quién es Juan?
+¿mach yik winhaj Xun?
+mach y-ik winhaj Xun
+quién 3A-SR Cmasc Juan
+126. ¿Qué es Juan?
+¿tas smunlajel waj Xun?
+tas s-munlaj-el
+waj Xun
+qué 3A-trabajo-gen Cmasc Juan
+tas tzb'o' winh
+tas tz-Ø-s-b'o'
+winh
+qué pres-3B-3A-hacer Cmasc
+¿tas yopicio winh?
+tas y-opicio winh
+qué 3A-oficio Cmasc
+127. ¿Juan es maestro?
+¿winhaj Xun tom k'ayb'um winh?
+winhaj Xun tom k'ayb'-um winh
+Cmasc Juan int enseñar-agtvz Cmasc
+128. Yo soy hijo de don Diego.
+a in tik yuninin waj Yakin
+a
+in tik y-unin-in waj
+Yakin
+top 1B dem 3A-hijo-1B Cmasc Diego
+Yo soy hija de don Diego.
+a in tik yisilin winhaj Yakin
+a
+in tik y-isil-in
+winhaj Yakin
+top 1B dem 3A-hija-1B Cmasc Diego
+107

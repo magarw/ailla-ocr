@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [penm@tzi]
+\UND pen=m@tz. E
+\MB plantar, X, NOM7
+\VAR pen-m@tz.i7k
+\GRAM pcp
+SPG transplantado
+\ENG transplanted
+\EXU 1 ya' pen=m@tz.E7+17k 7okox
+\XPSH 1 [y@ penm@tzi7k 7okox]
+\XSP 1 este mata transplantada
+\XEN 1 this transplanted shrub
+\EXU 2 y@7 7okox pen-m@tz.E7
+\XPSH 2 [y@ 7okox penm@tzi*7]
+\XSP 2 este mata transplantada
+\XEN 2 this transplanted shrub
+\SYN
+\ROOT pen
+\RTGR T3
+\DSRC HAJ95
+\CMTS I changed PH: TK
+\date 25/Jun/96
+\lex pen.naanh
+\_no 02593
+\LG MIG
+\PHO [penna*nh]
+\UND pen.naanh
+\MB apretar, MED1
+\VAR
+\GRAM meas
+\SPG apretada
+\ENG squeeze
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT pen
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex pen=nonh
+\_no 02594
+\LG MIG
+\PHO [pennonh-]
+\UND pen=nonh
+\MB apretar, apachurrarse
+\VAR
+\GRAM
+ZOH004R0011001.txt
+\SPG apretar una cosa blandita
+\ENG to squeeze a pliable thing
+\EXU 7@y+ pen=nonh-w@ bi tam kaw.17
+\XPSH [7@y pennonhnh@ bi tam k@wi7.]
+\XSP Apreto* la fruta madura.
+\XEN She squeezed the ripe fruit.
+\SYN
+\ROOT 1 pen
+\RTGR 1 T3
+\ROOT 2 nonh
+\RTGR 2 P (T2)
+\DSRC HAJ95
+Page 1116

@@ -1,0 +1,64 @@
+\MB ancho, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer ancho
+\ENG to make wide
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 02/Oct/96
+\lex 7aju7
+\_no 00017
+LG MIG
+\PSH
+\UND 7aju7
+\MB
+\VAR 7ajo7
+\GRAM S
+\SCI
+\USE
+\DLG
+\SPG chapuli*n
+\ENG grasshopper
+\EXU 1 tzux 7aju7
+\XSP 1 chapuli*n verde
+\XEN 1 green grasshopper
+\EXU 2 tzapatz 7aju7
+\XSP 2 chapuli*n rojo
+\XEN 2 red grasshoppr
+\EXU 3 y@k.y@k 7aju7
+\XPSH 3 [y@ky@k 7aju7]
+\XSP 3 chapuli*n negro
+\XEN 3 black grasshopper
+\EXU 4 pu7tz.pu7tz 7aju7
+\XPSH 4 [pu7tzpu7tz 7aju7]
+\XSP 4 chapuli*n amarillo
+\XEN 4 yellow grasshopper
+\EXU 5 chik tzux 7aju7 d@k+7a
+\XPSH 5 [chik tzux 7aju7 d@kka]
+\XSP 5 chapuli*n chiquito verde
+\XEN 5 little green grasshopper
+\EXU 6 tzux 7aju7 xaj.7@y.wa+a7k
+\XPSH 6 [tzux 7aju7 xajj@yy@*7k]
+\XSP 6 chapuli*n con ala
+\XEN 6 winged grasshopper
+\EXU 7 7anhwiti tzux 7aju7
+\XSP 7 chapuli*n visitero
+\XEN 7 visiting grasshopper
+\EXU 8 mas tzux.tzux tzux 7aju7
+\XPSH 8 [mas tzuxtzux tzux 7aju7]
+\XSP 8 mas verde chapuli*n
+\XEN 8 greener_grasshopper
+\EXU 9 kek-pa+7k tzux 7aju7
+ZOH004R0011001.txt
+Page 7

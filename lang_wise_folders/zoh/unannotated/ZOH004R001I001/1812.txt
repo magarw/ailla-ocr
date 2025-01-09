@@ -1,0 +1,63 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 70m
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 26/Jun/96
+\lex yuk.70px
+\_no 04218
+\LG MIG
+\PSH [yuk7opx-]
+\UND yuk. 70px
+\MB ARR, espumar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar a sacar espumar
+\ENG to begin to put out foam
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 70px
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 26/Jun/96
+\lex yuk. 7otonh
+\_no 04219
+\LG MIG
+\PSH [yuk7otonh-]
+\UND yuk. 7otonh
+\MB ARR, hablar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar a hablar
+\ENG to start to speak
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7otonh
+\RTGR 11
+\DSRC HAJ95
+ZOH004R0011001.txt
+Page 1812

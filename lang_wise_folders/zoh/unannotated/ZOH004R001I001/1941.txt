@@ -1,0 +1,64 @@
+\SLGR
+\EXU 1 ya.d@ juxtixa p@k=tzonh. 'oy-wa
+\XPSH 1 [Y@da juxtixa p@ktzonhnhoyy@.]
+\XSP 1 Esta autoridad recibio*.
+\XEN 1 This government was elected.
+\EXU 2 y@7tz-w@ soldao d@k+7a(y)
+\XPSH 2 [Y@7tztz@ soldao d@kka.]
+\XSP 2 Llegaron los soldados.
+\XEN 2 The soldiers arrived.
+\EXU 3 7amint@7k tij-tam-w@ 7@n+ yox-tam-E forti*n
+\XPSH 3 [7amint@7k tijtamm@n yoxtame Forti*n.]
+\XSP 3 ET an~o pasado fuimos a trabajar en Forti*n.
+\XEN 3 Last year we went to work in Forti*n.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {-w@} [2]
+\_no 04520
+\LG MIG
+\PSH
+\UND wa
+\MB DINC
+\VAR
+\USE inflectional verbal suffix: dependent incompletive
+\GRAM suf
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU 71-w@_n@k-pa_7@y+ yak.win.witu'-xuk-w@ tzam.kuy'+jo7
+\XPSH [7iwa n@kpay yakwinwituxukk@ tzamkuyjo7?]
+\XSP ?Quien va con ellos al campo en la montan~a?
+\XEN who is going to go guide them into the mountains?
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+ZOH004R0011001.txt
+\lex {-w@} [3]
+\_no 04521
+\LG MIG
+\PSH
+\UND wa
+\MB NIMPV
+\VAR
+\USE inflectional verbal suffix: negative imperative
+\GRAM
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU 7@y+ n@m.jay-w@ 7u 7@m+ n@k-w@
+\XPSH [7@y_n@mjayy@, "7um_n@kk@."]
+\XSP Le dijo, "No vayas.
+\XEN He said to him, "Don't go."
+"I
+Page 1941

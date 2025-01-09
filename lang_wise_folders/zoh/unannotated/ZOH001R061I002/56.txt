@@ -1,0 +1,62 @@
+\ASP activity
+\ARG
+\NOM pet.kuy7
+\RTGR T1
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex pe7t
+\_no 00225
+\SPG tejer/hacer cinta de palma para hacer sombrero o petaca
+\ENG to weave strips of palm for a hat or mat
+\SEMF arrange
+\ASP activity
+\ARG
+\NOM pe't.e7, pe7t.kuy7
+\NOM pe7t.naanh
+\RTGR P, (T3)
+\POS da pe7tjayy@n jojo
+\MID
+\UNDO 7@n pe7tpuw@
+\CLZ
+\CMTS
+\lex pe7tz
+\_no 00226
+\CLZ
+\CMTS
+\SPG recoger los dos pies
+\ENG to draw up both legs (into a cross-legged position)
+\SEMF body, arrange
+\ASP achievement
+\ARG
+\NOM SKIP
+\RTGR P, (T3)
+\POS
+\MID
+\UNDO
+\ASP
+\ARG
+\NOM pikx.naanh
+\RTGR T3
+\POS
+\MID
+\UNDO
+ZOH001R0611002.txt
+\lex pikx
+\_no 00227
+\SPG tocar puerta; pegar con dedo pulgar y dedo primero
+\ENG to knock on the door; to flick with the thumb and forefinger
+\SEMF semelfactive
+\CLZ
+\CMTS
+\lex pin
+\_no 00228
+lo desteji*
+\ASP semelfactive
+\ARG
+SPG tentar
+\ENG to touch lightly with the fingers
+\SEMF hand, touch
+Page 56

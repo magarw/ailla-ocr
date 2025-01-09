@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG cabeza - el hueso, cra*neo
+\ENG skull - inside the head
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex kopak tzima7
+\_no 01417
+\LG MIG
+\PSH
+\UND kopak tzima7
+\MB cabeza, ji*cara
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG pelo*n
+\ENG bald
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS the head shines like a ji*cara
+\date 14/Jun/95
+\lex kopak=kokx
+\_no 01418
+\LG MIG
+\PSH [kopakkokx-]
+\UND kopak kokx
+\MB cabeza, tronar
+\VAR
+\GRAM vi:incorp
+\SCI
+ZOH004R0011001.txt
+\USE
+\SPG pegar un coscorro*n en la cabeza
+\ENG to knock on someone's head
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kokx
+\RTGR TX
+\DSRC HAJ94
+\CMTS
+Page 617

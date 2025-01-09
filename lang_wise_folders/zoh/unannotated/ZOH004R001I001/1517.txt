@@ -1,0 +1,65 @@
+\lex wakax
+\_no 03526
+\LG MIG
+\PSH
+\UND wakax
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG vaca
+\ENG COW
+\EXU yom (@') wakax
+\XPSH [yoom wakax]
+\XSP ternera; vaca
+\XEN female cow
+\EXU yom@' chik wakax
+\XPSH [yom@ chik wakax]
+\XSP ternerita, ganado hembra
+\XEN heifer
+\EXU wakax d@k+7ay
+\XPSH [wakax d@kka]
+\XSP ganado
+\XEN cattle
+\XSP jaya wakax
+\XSP toro; ganado macho
+\XEN bull
+\SYN
+\SEMF EZ
+\ETYM vaca
+LF:7anmal
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH of EXX with yoma, yom@
+\date 26/Jun/96
+\lex wakax 7@y+ totz
+\_no 03527
+LG MIG
+\PSH [wakax 7@y totz]
+\UND wakax 7@y+ totz
+\MB vaca, 3Erg, lengua
+\VAR wakax totz
+\GRAM
+\SCI
+\USE
+\SPG lengua de vaca
+\ENG Cow's tongue
+\EXU tzamm@ wakax totz
+ZOH004R0011001.txt
+\XSP la planta llamado lengua de vaca
+\XEN the plant called cow's tongue
+\SYN
+\SEMF EB
+LF:7okox tzamm@7
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex wakax manh.kuy7
+\_no 03528
+\LG MIG
+Page 1517

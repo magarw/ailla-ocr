@@ -1,0 +1,64 @@
+XPSH [tzux rronrr*nh]
+\XSP ronro*n verde
+\EXU chik pu7tz.pu7tz rronrroonh_d@k+7a
+\XPSH [chik pu7tzpu7tz rronrro*nh d@kka]
+\XSP ronro*n amarillito
+\EXU weka'.7@y-w@+@7k rronrroonh
+\XPSH [weka7@yy@*7k rronrro*nh]
+\XSP ronro*n que tiene cacho
+\EXU tin-woy.woy7 rron rroonh
+\XPSH [tinwoywoy7 rronrro*nh]
+\XSP ronro*n que hace bollita la caca
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS CK-PH
+\date 25/Jun/96
+\lex rrosadu
+\_no 02881
+LG MIG
+\PSH
+\UND rosadu
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG rosado
+\ENG pink
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH
+\date 25/Jun/96
+\lex rruda
+\_no 02882
+\LG MIG
+\PSH
+\UND rruda
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG ruda
+\ENG a type of plant
+\EXU pa=rruda
+\XSP ruda de monte
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF EB
+\ETYM
+LF:7okox
+Page 1241

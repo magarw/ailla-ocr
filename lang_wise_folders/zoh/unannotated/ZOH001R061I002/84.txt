@@ -1,0 +1,62 @@
+\CMTS
+\lex tzum
+\_no 00340
+\SPG hacerse bastante; (a)juntarse
+\ENG to increase; to collect; to preserve
+\SEMF pick_up
+\ASP achievement
+\ARG
+\NOM yak.tzum.i7
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tzun [1]
+\_no 00341
+\SPG gotear
+\ENG to drip
+\SEMF fall, water
+\ASP semelfactive
+\ARG
+\NOM tzun.neenh
+\RTGR IX
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tzun [2]
+\_no 00342
+\SPG alegrarse; estar alegre; estar contento
+\ENG to be glad; to be happy; to be content
+\SEMF cognitive
+\ASP state
+\ARG
+\NOM * kuy7
+\RTGR 12
+\POS N
+\MID
+\UNDO
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\lex tzu7t
+\_no 00343
+\SPG cortar (cafe*) sin pico
+\ENG to pick coffee by hand (without a knife)
+\ENG 1 He picked coffee by hand.
+\SEMF cut
+\ASP activity
+\ARG patient, instrument
+\NOM kajwe tzu't.i7
+\NOM tzu7t.naanh
+\NOM * kuy7
+\RTGR T3
+\POS rroberto d@ tzu7tjayy@n kahwe
+\MID
+\UNDO
+\CLZ
+me corte*
+Page 84

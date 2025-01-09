@@ -1,0 +1,60 @@
+\CMTS
+\EXU
+\XPSH
+\lex 7@7p
+\_no 00033
+\SPG 1 palanquear
+\SPG 2 mover con espeque
+\ENG 1 to use a lever on
+\ENG 2 to move by prying up
+\SEMF move
+\ASP achievement
+\ARG
+\NOM 7@7p.kuy7
+\RTGR P (T3)
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex 7@7tz
+\_no 00034
+\SPG vomitar; "regresar"
+\ENG to vomit
+\SEMF eat, body
+\ASP achievement
+\ARG
+\NOM 7@'tz.17, j@x. '@7tz.i7
+\RTGR T1
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex chekek
+\_no 00035
+\SPG culequear
+ENG to cluck
+\SEMF sound
+\ASP activity
+\ARG actor
+\NOM
+\RTGR 11
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex chitugii7
+\_no 00036
+\SPG chitogui*
+ENG a type of bird
+\SEMF pa*jaro
+ZOH001R0611002.txt
+\lex cho7k
+\_no 00037
+\SPG sonar "haciendo pendejadas"
+\ENG to make a slurping sound fucking
+\SEMF sex
+\ASP activity
+Page 9

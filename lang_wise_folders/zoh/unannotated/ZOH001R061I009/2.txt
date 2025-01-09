@@ -1,0 +1,62 @@
+\EX 7ekkoba
+\XSP esta pizcando
+\XEN he's harvesting
+\EX 7ekk@mm@ t@j@7k bi mok
+\XSP se pizco* la mazorca ayer
+\XEN the corn was harvested yesterday
+\ROOT 7ek T3
+\SEMF farm, corn, obj
+\PASS 7ek.7@m pizcarse
+\ANTI 7ek.7oy pizcar
+\PRSV 7ek-ten lo tiene pizcado
+\CMTS term tuk 'acabar de pizcar'
+\lex 7e7k
+\_no 00005
+\SPG despizcar el frijol
+\ENG to shell beans
+\EX x@k 7e7kk@
+\XSP despizco* el frijol
+XEN he shelled the beans
+\EX X@k 7ekan@mpa
+\XSP esta*n despizcando frijol
+\XEN they're shelling beans (impers)
+\EX 7e7kk@mm@ bi x@k
+\XSP se despizco* el frijol
+\XEN the beans were shelled
+\ROOT 7e7k T3
+\SEMF farm, corn, obj
+\PASS 7e7k.7@m pizcarse
+\ANTI 7e7k. 7oy pizcar
+\PRSV 7e7k=ten lo tiene despizcado
+\lex 7ex
+\_no 00006
+\SPG encajar
+\ENG to pin
+\EX jay@ 7exx@
+\XSP tuvo un flor en el cabello
+ZOH001R0611009.txt
+\XEN_she_had a flower pinned in her hair
+\EX 7exx@mpa bi jay@
+\XSP se va a encajar la flor
+\XEN the flower is going to be pinned
+\ROOT 7ex P (T3)
+\SEMF instr, position
+\PASS 7ex.7@m esta* algo en el cabello
+\ANTI 7ex. 7oy tener algo en el cabello
+\ASSU 7ex.ney estar encajado
+\CMTS
+\lex 7ix
+\_no 00007
+\SPG ver
+\ENG to see
+\EX 7@y ixx@ gaja*nh
+\XSP lo vio* por alla*
+\XEN he saw it from there
+\EX 7@y yakkixx@ 7@y 7anhnitpa*7
+\XSP le ensen~o* lo que tiene
+\XEN he showed him what he has
+\EX d@ 7ixxoba
+\XSP voy a ver
+\XEN I'm going to see
+\EX d@ 7ixx@mm@ pan juyy@ 7@n tak
+Page 2

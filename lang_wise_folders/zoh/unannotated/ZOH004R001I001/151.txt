@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kop
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 09/Jan/96
+\lex 7ok.ko7tz. '@y
+\_no 00350
+\LG MIG
+\PSH [7okko7tztz@y-]
+\UND 7ok.ko7tz.7@y
+\MB ABAJO, tentar_con_mano, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG saltar una cosa aguado en el piso con la mano
+\ENG to throw a wet thing on the ground
+\SPL
+\SLGR
+\EXU 7@y+ 7ok.ko7tz. '@y-w@ j@tz.i
+\XPSH [7@y 7okko7tztzt@yy@ jatzi.]
+\XSP Lo dejo* caer la masa de pollo en el suelo.
+\XEN She dropped the chicken's corn mush on the ground.
+\SYN 7ok.kopx.7@y
+\SEMF
+\ETYM
+\ETL
+\ROOT ko7tz
+\RTGR T3
+\DSRC HAJ95
+\CMTS maybe 70px? hard to figure: TK
+\date 24/Jun/96
+\lex 7ok.kuj. '@y
+\_no 00351
+\LG MIG
+\PSH [7okkujj@y-]
+\UND 7ok.kuj.7@y
+\MB ABAJO, empujar, SUF
+\VAR
+\GRAM dir+vt
+\SCI
+\USE
+\SPG empujar
+\ENG to push
+\EXU ney 7ok. kuj. '@y-xuk-@-wa
+\XPSH [Ney 7okkujj@xuk@w@.]
+ZOH004R0011001.txt
+\XSP Se empujaron.
+\XEN They pushed each other.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kuj
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+Page 151

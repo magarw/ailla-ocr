@@ -1,0 +1,52 @@
+\lex saber
+\_no 02014
+\SPG saber
+\ENG know
+\lex sabes
+\_no 02015
+\SPG sabes
+\ENG know
+\lex sa bila
+\_no 02016
+\SPG za bila
+\ENG
+\lex saborna*1
+\_no 02017
+\SPG sobrecarga
+\ENG
+\lex sakato*nh
+\_no 02018
+SPG zacato*n
+\ENG
+\lex sakrista*n
+\_no 02019
+\SPG sacrista*n
+\ENG priest
+\lex sal
+\_no 02020
+\SPG sal
+\ENG salt
+\lex salbaje
+\_no 02021
+\SPG salvaje
+\ENG savage
+\lex salina
+\_no 02022
+\SPG salina
+\ENG salina
+\lex salu*d
+\_no 02023
+\SPG salud
+\ENG health
+\lex salvar
+\_no 02024
+\SPG salvar
+\ENG save
+\lex sam
+\_no 02025
+\SPG San
+\ENG San
+\lex san
+\_no 02026
+ZOH001R0611013.txt
+Page 161

@@ -1,0 +1,39 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(4.30)
+(i)
+(ii)
+(iii)
+yødø toto kojtennø
+yə.də
+toto? 0 koh.ten-we
+DCT1.DEM paper 3A punch.PRSV-COM
+'This paper is punched through.'
+dø tungngapan nøkkø nøy kuk
+dǝ+ tuŋ.?a-pa
+?ən+ nək-wə nə? ?əy+ kuk
+(ZOH001 R0601001-029)
+1A+ road.VERS1-INC 1E+ go-dINC water 3E+ center
+'I'm going to walk through the water.'
+'øn kukkaptukpa tung
+?əy+ kuk-kap-tuk-pa
+tun
+1E+ center=carry=cut-INC road
+'I'm going across the street.'
+82
+(ZOH001 R0601001-042)
+(ZOH001 R0601001-044)
+4.8.2. Time adverbs
+All of the MIG Zoque time words are listed in Appendix B. The language
+divides the day into five parts: morning, noon, afternoon, evening, and night.
+There are words for day, month and year. Words for hour and minute are, not
+surprisingly, borrowed from Spanish. There are also words for next year and
+last year, and for four days into the future.
+There are three time adverbs formed from the deictic roots. The
+proximal one indicates a time in the immediate future: 'right now', 'soon', 'in a
+minute'. The neutral and distal time adverbs are both regularly translated with
+ahora, 'now', but their specific reference depends on subtle characteristics of
+the events in the narrative. They are much used as discourse markers, and will
+be discussed in greater detail in chapter 14.
+The narrative texts in the corpus are generally structured sequentially
+with respect to time, so I don't see phrases along the lines of "before X, they
+Y'ed". If this sort of expression is required, the Spanish loan word antes,

@@ -1,0 +1,75 @@
+\mb 7ix 7iw@ monh -w@ -v7k
+\sg1 ver quien dormir-COM-REL
+\egl see who sleep -COM-REL
+\zoq "7ix, 7iw@ monh@*7?"
+\fts "Mire, quien esta* durmiendo ahi*?"
+\fte "Look, who is sleeping over there?"
+\com
+\idx
+\ref ZOH001R055 018
+\_no 00019
+\tx 7@y n@mjayy@
+\mb
+7@y nam -jay -wa ke
+\com
+\idx
+decir-APPL-COM que Ana
+\egl 3E say -APPL-COM that Anna
+\sg1 3E
+\zoq 7@y n@mjayy@ ke 7ana.
+\fts Le dijo que Ana.
+\fte she told him that it's Anna.
+\ref ZOH001R055 019
+\_no 00020
+\tx bweno tz@ktzakk@
+yak moa7
+\mb bweno tz@k -tzak -w@ yakk@ monh -A7
+dormir-iOPT
+\sg1 bueno hacer-dejar-COM VOL
+\egl good do
+-leave-COM VOL
+sleep -iOPT
+\ref ZOH001R055 020
+\_no 00021
+\tx 7um
+\mb
+7u
+\zoq "Bweno, tz@ktzakk@ yak moa7.
+\fts "Bueno, dejalo que descanse.
+\fte "Good, leave her so she can rest.
+\com
+\idx vseq
+ke 7ana
+7ana
+ZOH001R0551001.txt
+n@mjayy@
+si d@ ye7tztza*m
+-7@m
+nam -jay -wa si da ye7tz -w@ - 7am
+decir-APPL-COM si* 1A llegar-COM-YA
+\eg1 NEGimpv-2E say -APPL-COM yes 1A arrive-COM-NOW
+\sg1 NEGimpv-2E
+\ref ZOH001R055 021
+\_no 00022
+\zoq 7um_n@mjayy@ si* da ye7tztza*m.
+\fts No le digas que si* ya llegue*.
+\fte Don't tell her that yes, now I've arrived.
+\com
+\idx
+\tx yak
+\mb
+\sg1 VOL
+\eg1 VOL
+7okjeja
+yakk@ 7ok -jej -A7
+ABAJO-vivir-iOPT
+DOWN live -iOPT
+\zoq Yak 7okjeja."
+\fts Que descanse.
+\fte Let her rest.
+\com
+\idx
+\ref ZOH001R055 022
+"I
+"I
+Page 5

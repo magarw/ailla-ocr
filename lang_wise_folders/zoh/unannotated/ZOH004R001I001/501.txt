@@ -1,0 +1,63 @@
+\UND kajwe tzu7t.E7
+\MB cafe*, cortar, NOM7
+\VAR
+\GRAM pcp
+\SPG cafe* cortado sin pico
+\ENG coffee picked by hand
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT tzu7t
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex kajwe=7uk
+\_no 01149
+\LG MIG
+\PSH [kajwe7uk-]
+\UND kajwe=7uk
+\MB cafe, tomar
+\VAR kaj=7uk
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG desayunar
+\ENG to have breakfast
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM cafe*
+\ETL Sp
+\ROOT 7uk
+\RTGR T1
+\DSRC HAJ94
+\CMTS CK-VAR ok, HAJ:96, appears a lot in texts/OK:TK
+\date 24/Jun/96
+\lex kajwe-k@7t
+\_no 01150
+\LG MIG
+\PSH [kajwek@7t-]
+\UND kajwe-k@7t
+\MB cafe*, moler
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG despulpar cafe*; machucar cafe*
+\ENG to grind coffee
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM cafe*
+\ETL Sp
+\ROOT k@7t
+\RTGR T1
+\DSRC HAJ94
+Page 501

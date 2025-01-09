@@ -1,0 +1,24 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+8.3.2. Functions of the components of verb compounds
+Foley & Olson (1985) present a set of characteristics of serial verb
+constructions (SVCs) as part of their argument that such constructions
+constitute single clauses. Their discussion centers around serial verbs in West
+African languages, but they include compound constructions from languages
+like Yimas (Papua-New Guinea) that are very much like the MIG Zoque data
+described in this section. The description of the various functions served by
+MIG Zoque verb compound constructions will be organized around the Foley &
+Olson characteristics.
+They present three fundamental arguments in favor of the single clause
+analysis of SVCs: that in some languages they are a single word, that the
+meaning of one of the components may be different in a series than in
+isolation, and that one of the components may actually be ungrammatical in
+isolation. Verb compounds in MIG Zoque are uncontroversially a single word,
+since they take only one agreement marker and one inflectional suffix.
+There are several roots that appear frequently in compounds with shifted
+meanings, as shown in the examples in (8.20). The root poy- means 'to flee'
+when used by itself, generally referring to animals. In compounds, it means
+'briefly; for/in a minute' (i-ii). num- by itself means 'to steal'; in compounds, it
+means 'secretly' (iii). yoh- by itself means 'to pay'; in compounds, it indicates
+reciprocity or repetition (iv-v). witu?- by itself means 'to turn around'; in
+compounds, it can mean 'all around; around and around' (vi).
+212

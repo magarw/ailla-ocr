@@ -1,0 +1,84 @@
+\eg1 GSM: snake bite -NOM2 BNF
+\zoq GSM: Tzajin waxe go7.
+\fts GSM: Para mordida de culebra.
+\fte GSM: For snake bite.
+\com
+\idx
+\ref ZOH001R036 451
+\_no 00444
+\tx 7i por 7ejemplo tum persona
+\mb 7i por 7ejemplo tum persona nutz
+\sg] y
+por ejemplo uno persona
+\egl and for example one person
+\ref ZOH001R036 452
+\_no 00445
+be_hot
+\zoq 7i por 7ejemplo tum persona nutztz@*7,
+\fts Y por ejemplo una persona que se quemo*
+fte And for example a person who was burned,
+\com
+\idx
+\zoq Ti tzoy 7@m tz@kjaba
+\fts Que remedio le haces
+\fte what medicine do you
+\com
+\idx
+\ref ZOH001R036 453
+\_no 00446
+\tx OSM: ga
+piyu
+\mb OSM ka -7 piyu7
+ZOH001R0361001.txt
+\tx ti tzoy 7@m tz@kjaba
+\mb ti
+\sg1 que
+\egl what jump 2E do -APPL-INC for that good -VERS1-INC well
+para ke
+tzoy 7@m tz@k -jay -pa para ke
+saltar 2E hacer-APPL-INC para que
+w@j@7apa
+pwes
+w@ja - 7a
+pwes
+bueno-VERS1-INC pues
+\sg1 OSM: DCT3-NOM1 gallina
+\egl OSM: DCT3-NOM1 chicken lard
+\com
+\idx
+\ref ZOH001R036 454
+\_no 00447
+nutztz@*7
+\zoq OSM: Ga piyu manteka.
+\fts OSM: Eso con manteca de gallina.
+\fte OSM: That is chicken fat.
+\tx piyu
+manteka 7@y ji7ppa
+\mb piyu7 manteka 7@y ji7p
+estar_caliente-COM-REL
+\ref ZOH001R036 455
+\_no 00448
+\tx
+dondu
+manteka
+manteka
+manteka
+teji7aw@
+para ke w@j@7apa, pwes?
+para que sane, pues?
+make so it, well, gets better?
+\zoq Piyu manteka 7@y ji7ppay win,
+\fts Con manteca de gallina se bate,
+\fte One puts chicken fat on oneself,
+\com (with a small wooden implement)
+\idx
+"
+-w@ -v7k
+y win
+7@y win
+\sgl gallina manteka 3E mover_c_palo-INC 3E REFL
+\egl chicken lard 3E move_w_stick-INC 3E REFL
+-pa
+-COM-REL
+Page 97
+-pa

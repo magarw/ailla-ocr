@@ -1,0 +1,88 @@
+\_no 01264
+\tx 7i n@mmoba
+likwadtz@kk@
+\mb 7i n@m-7oy -pa 7@y likwad -tz@k -w@
+\sg] y
+DO -ANTIP-INC 3E liquar -hacer-dINC
+\egl and DO -ANTIP-INC 3E liquefy-do -DINC
+\zoq 7i_n@mmobay likwadtz@kk@.
+\fts Y lo puede liquar.
+\fte And he can liquefy it.
+\com
+\idx
+\ref ZOH001R036 999-285
+\_no 01265
+\tx likwadu
+\mb
+likwadu
+\sgl liquado
+\egl smoothie
+\zoq Likwadu.
+\fts Licuado.
+\fte Smoothie.
+\com
+\idx
+\ref ZOH001R036 999-286
+\_no 01266
+\tx 7@y 7ukpa
+7@y 7uk
+\mb
+\sg1 3E
+\egl 3E
+ga
+-pa ka -7
+likwadu tzutzu
+n@7
+n@7
+likwadu tzutzu7
+tomar-INC DCT3-NOM1 liquado guajilote agua
+drink-INC DCT3-NOM1 smoothie tree
+water
+\zoq 7@y 7ukpa ga likwadu tzutzu n@7.
+\fts Lo toma esa licuado es agua de guajilote.
+\fte He drinks that smoothie, guajilote water.
+\com
+\idx
+\ref ZOH001R036 999-287
+\_no 01267
+\tx 7@y jopawakpa
+\mb 7@y jop-A
+pwes
+-wak
+-pa pwes
+\sg1 3E ***-NOM2-vaciar-INC pues
+\egl 3E ***-NOM2-empty -INC well
+\com
+\idx
+\zoq 7@y jopawakpa, pwes.
+\fts Lo quela, pues.
+\fte well, he ???.
+\ref ZOH001R036 999-288
+\_no 01268
+\tx limpuy
+\mb
+\sg1 limpio-3E
+\egl clean -3E
+ZOH001R0361001.txt
+7ukpa
+para bi
+limpyu-7@y 7uk -pa para bi
+\tx pitz
+\mb pitz
+\sg1 por_eso
+\egl because of also
+tomar-INC para DEF orin
+drink-INC for DEF urine
+ne7
+ne7
+tambien
+ney
+teke7t 7anhkame
+teke7t 7anh -kam
+BOCA -trabarse -NOM3 tambien mismo
+MOUTH-get_stuck-NOM3 also
+ney
+self
+Page 272
+ne7
+-E7 ne7

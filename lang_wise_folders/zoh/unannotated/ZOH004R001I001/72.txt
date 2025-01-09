@@ -1,0 +1,63 @@
+\ROOT tuk
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 08/Jan/96
+\lex 7anh-tunh 7anh-k@y.kuy7
+\_no 00169
+\LG MIG
+\PSH [7anhtunh
+7anhk@ykuy7]
+\UND 7anh-tunh 7anh-k@y.kuy7
+\MB BOCA, camino, BOCA, 11evar_en_mano, INSTR1
+\VAR
+\GRAM sminstr1
+\SCI
+\USE
+\SPG puerta
+\ENG door
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT k@y
+\RTGR TX
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+\lex 7anh-t@'
+\_no 00170
+\LG MIG
+\PSH [7anht@-]
+\UND 7anh-t@7
+\MB BOCA, querer
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 gustar
+\SPG 2 desear
+\SPG 3 antojarse
+\ENG 1 to like
+\ENG 2 to desire
+\ENG 3 to crave
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT t@7
+ZOH004R0011001.txt
+\RTGR T3
+\DSRC HAJ94
+\CMTS object can be person, or fruit, or whatever
+\date 08/Jan/96
+\lex 7anh-t@'.7oy. pa+a7k
+\_no 00171
+\LG MIG
+Page 72

@@ -1,0 +1,92 @@
+\ref ZOH001R036 300
+\_no 00298
+\tx gay
+7@m_j@xp@kpa*m
+7@m jax -p@k
+\mb ka -y
+\sg1 DCT3-TMP 2E ATRAS-agarrar-INC-YA
+\eg1 DCT3-TMP 2E BACK -get
+\zoq Gay 7@m j@xp@kpa*m.
+\fts Luego ya lo sacas.
+\fte Then you take it out.
+\com
+\idx
+\ref ZOH001R036 301
+\_no 00299
+\tx gay
+\mb
+ka
+\tx mu7kpakk@
+\mb mu7k -pak
+7@m k@n@kpen@ba
+7@m k@
+7@y
+7@y
+-n@k -pen
+-y
+\sg1 DCT3-TMP 2E AFUERA-irse-apretar-SUF-INC DCT1-SIM porque 3E
+\eg1 DCT3-TMP 2E AWAY -go -grasp -SUF-INC DCT1-SIM because 3E
+pwes
+pwes
+\sg1 chupar-apretarse-COM pues
+\egl suck -grab
+-COM well
+\ref ZOH001R036 302
+\_no 00300
+\ref ZOH001R036 303
+\_no 00301
+ZOH001R0361001.txt
+-wa
+\zoq Gay 7am k@n@kpen@ba ye7xe porke 7@y mu7kpakk@, pwes.
+\fts Ahora lo apretas asi* porque esta* bien apretado, pues.
+\fte Then you squeeze it like this so that, well, it's tightened.
+\com
+\idx
+\com
+\idx
+-pa - 7am
+\tx 7ay jaxjuppa
+gag@
+mal pwes
+\mb 7@y jax -jup -pa ka -g@ mal pwes
+\sg1 3E ATRAS-jalar-INC DCT3-DEM mal pues
+\egl 3E BACK -pull -INC DCT3-DEM bad well
+-INC-NOW
+\zoq 7@y j@xjuppa gag@ mal, pwes.
+\fts Lo saca esa maldad, pues.
+\fte well, it pulls out that bad part.
+\com
+\idx
+\ref ZOH001R036 304
+\_no 00302
+\tx ya ke
+\mb__ya ke
+\sg] ya que
+\egl now that
+\zoq Gag@ n@pin 7@y 7anhnitpa jonhjo.
+\fts Esa sangre lo tiene adentro.
+\fte That blood that it has inside.
+-7@y-pa
+\tx gag@
+-jo7
+n@pin 7@y 7anhnitpa jonhjo
+\mb ka -g@ n@pin7 7@y 7anhnit-pa jonh
+\sg1 DCT3-DEM sangre 3E tener -INC adentro-Loc2
+\eg1 DCT3-DEM blood 3E have -INC inside -LOC2
+jayya*m
+jay
+ye7xe
+porke
+ya
+ya -7xe porke
+7@m p@7anh
+gag@
+-w@ -7am 7@m p@7 -7anh ka -g@
+dilatar-COM-YA 2E
+delay -COM-NOW 2E
+tzima
+tzima7
+put
+poner-NOM4 DCT3-DEM ji*cara
+-NOM4 DCT3-DEM dipper
+Page 65

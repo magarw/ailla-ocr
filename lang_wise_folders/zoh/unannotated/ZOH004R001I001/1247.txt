@@ -1,0 +1,64 @@
+\CMTS CK-PH
+\date 25/Jun/96
+\lex sementu
+\_no 02896
+\LG MIG
+\PSH
+\UND sementu
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG cemento
+\ENG cement
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\lex sentabu
+\_no 02897
+\LG MIG
+\CMTS
+\date 18/Oct/94
+\PSH
+\UND sentabu
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG centavo
+\ENG cent
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+-
+\ROOT
+\DSRC HAJ94
+\CMTS where's the slip?
+\date 18/Oct/94
+\lex sen=tz@k
+\_no 02898
+ZOH004R0011001.txt
+HAJ:96, sounds like final 7; so it is: TK
+\VAR
+\GRAM vt
+\LG MIG
+\PSH [sentz@k-]
+\UND sen-tz@k
+\MB sentir, HACER
+\SCI
+\USE
+\SPG sentir
+\ENG to feel
+Page 1247

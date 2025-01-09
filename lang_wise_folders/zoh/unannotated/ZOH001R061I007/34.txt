@@ -1,0 +1,60 @@
+\CAUS yak.tzum juntar; ahorrar
+\CMTS doesn't accept the juntarse gloss now
+\date 03/Jan/80
+\lex tzun
+\_no 00140
+\SPG gotear
+\ENG to drip
+\EX
+\XSP
+\XEN
+\ROOT tzun Ix
+\SEMF water
+\ASP momentaneous, activity
+\CAUS yak.tzun dejar caer por gotas
+\date 03/Jan/80
+\lex tzun
+\_no 00141
+\SPG alegrarse; estar alegre; estar contento
+ENG to be glad
+\EX tzunpa
+\XSP se alegre
+\XEN she is happy
+\ROOT tzun I2
+\SEMF cog
+\ASP state
+\CAUS yak.tzun alegrar
+\CMTS
+\date 03/Jan/80
+\lex tzu7tz
+\_no 00142
+\SPG mamar
+\ENG to nurse
+\EX
+\XSP
+\XEN
+\ROOT tzu7tz I1
+\SEMF care
+\ASP activity
+\CAUS yak.tzu7tz dar de mamar
+\CMTS
+\date 03/Jan/80
+ZOH001R0611007.txt
+\lex tzux
+\_no 00143
+\SPG ser verde
+\ENG to be green
+\EX 7@y yaktzuxx@ tuj
+\xSP el agua lo hizo reverdecer
+\XEN the rain made it green
+\ROOT tzux 12
+\SEMF nature, condition
+\ASP state
+\CAUS yak.tzux hacer reverdecer
+\CMTS analyze gloss - it means to *be* green, not to *turn* green
+\date 03/Jan/80
+\lex tz@n
+\_no 00144
+\SPG estar sentado
+\ENG to sit
+Page 34

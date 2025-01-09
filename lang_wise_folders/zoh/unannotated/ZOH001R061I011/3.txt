@@ -1,0 +1,61 @@
+\SPG agarrar fiado; fiar; pedir
+\ENG to buy on credit
+\EX 7@n jatzp@kk@ 7@n t@k ponji ponji 7@n yojjanhkampa
+\XSP agarre* fiado mi casa, poco a poco lo voy acabando de pagar
+\XEN I bought my house on credit, little by little I'm paying it off
+\ROOT ja7tz T1
+\CMTS ja7tz or jatz ?
+\CMTS no pass
+\CMTS always gives examples with p@k
+\lex jaway
+\_no 00013
+\SPG arder (como una quemada o una herida)
+\ENG to burn (like a burn or a wound)
+\EX wen jawayy@
+\XSP estuvo ardiendo mucho
+\XEN it was burning a lot
+\EX jawaypa
+\XSP ardor
+\XEN burning
+\ROOT jaway 12
+\CMTS caus yak.jaway hacer arder
+\lex jax
+\_no 00014
+\SPG asar (carne); tostar (totopo); tostarse
+\ENG to roast (meat); to toast (totopo)
+\EX xix jaxx@
+\XSP aso* la carne
+\XEN she roasted the meat
+ZOH001R0611011.txt
+\EX_patanux 7ay jaxxukpa
+\XSP esta*n asando hoja de pla*tano
+\XEN they're roasting banana leaves
+\EX ?* jaxx@mma*m bi xix
+\XSP ?* ya se aso* la carne
+\XEN
+\ROOT jax T1
+\CMTS caus yak.jax vt tostar
+\CMTS pass ?
+\CMTS no assuml
+\CMTS prsv jax.ten
+\CMTS pass ex: a little odd because the meat can't roast itself
+\CMTS v class: can't get this w/o an object
+\lex jay
+\_no 00015
+\SPG escribir
+\ENG to write
+\EX toto jayy@
+\XSP escribio* (algo) en el papel
+\XEN she wrote something on the paper
+\EX jayy@mm@ bi toto
+\XSP fue* escrito el papel
+\XEN the paper was written
+\EX 7@y jaytenna*m bi toto g@xi
+\XSP ya lo tiene escrito en el papel
+\XEN now she has it written on the paper
+\ROOT jay T3
+\CMTS antip jay.7oy escribir; escritura
+\CMTS pass jay.7@m escribirse
+\CMTS prsv jay.ten
+\CMTS term tuk
+Page 3

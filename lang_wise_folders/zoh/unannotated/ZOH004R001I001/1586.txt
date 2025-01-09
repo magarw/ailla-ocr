@@ -1,0 +1,62 @@
+\ETL
+\ROOT pitz@m
+\RTGR IX
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+\lex win=jup-tuk. kuy7
+\_no 03690
+\LG MIG
+\PSH [winjuptukkuy7]
+\UND win=jup-tuk. kuy7
+\MB CARA, jalar, terminarse, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG delantar
+\ENG apron
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 jup
+\RTGR 1 P (T3)
+\ROOT 2 tuk
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS CK-PH - OK/OK: TK
+\date 26/Jun/96
+\lex win-j@m
+\_no 03691
+\LG MIG
+\PSH [winj@m-]
+\UND win=j@m
+\MB CARA, taller
+\VAR
+\GRAM vt, vi
+\SCI
+\USE
+\SPG adormecer (se)
+\ENG to get sleepy
+\EXU 7@y+ win-j@m-w@ kajtzay' +jo7
+\XPSH [7@y winj@mm@ kajtzayjo7.]
+\XSP se adormecio* en la hamaca.
+\XEN He dozed off in the hammock.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jam
+\RTGR T1
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+ZOH004R0011001.txt
+\lex win-kej.ke7t
+\_no 03692
+\LG MIG
+Page 1586

@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [naxx@y-]
+\UND nax.7@y
+\MB tierra, VERS2
+\VAR
+\GRAM vi:vers2
+\SCI
+\USE
+\SPG estar sucio
+\ENG to be dirty
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 19/Jun/95
+\lex nay
+\_no 02180
+\LG MIG
+\PSH
+\UND nay
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG brotar; nacer plantas o siembra
+\ENG to sprout; for plants or seedlings to come up
+\SPL yak.nay
+\SLGR CAUS
+\SLGL hacer nacer
+\EXU nay-w@ bi mok 7@n+ nip-w@+@7
+\XPSH [Nayy@ bi mok 7@n nipp@*7.]
+\XSP Nace el maiz que sembre*.
+\XEN The corn that I planted sprouted.
+\SYN
+\SEMF plant, farm
+\ASP achievement
+\ARG
+\NOM na.e7
+\SUB k@.nay
+\ETYM
+\ETL
+\ROOT nay
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex na'k.e
+\_no 02181
+ZOH004R0011001.txt
+\LG MIG
+\PSH [nake]
+\UND na7k.E
+\MB costurar, NOM7
+\VAR
+\GRAM SV
+Page 939

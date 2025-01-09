@@ -1,0 +1,65 @@
+ZOH001R0611006.txt
+\USE
+\SPG pegar con la ala; pegar con palito no bien cortada una rama te
+chicotea
+\ENG to beat with the wing; to hit with a badly cut stick a branch slashes
+you
+\SPL pekx.7oy
+\SLGR ANTIP
+\SLGL oegar con ala // to hit with the wing
+\SLGR NO PASS
+\EXU yak.pekx-'oy-w@ piyu7
+\XPSH [7@y yakpekxoyy@ piyu7.]
+\XSP Le dio* una aletada la gallina
+\XEN The hen hit him with her wing.
+\SYN
+\SEMF hit
+\ASP semelfactive
+\ARG instrument
+\NOM pekx.naanh
+\SUB 7ok.pekx. '@y
+ETYM
+\ETL
+\ROOT pekx
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex pen [2]
+\_no 00129
+\LG MIG
+\PSH
+\UND pen
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG apretar con la mano; darle apreto*n
+\ENG to squeeze with the hand; to give something a little squeeze
+\SPL pen. 7oy
+\SLGR ANTIP
+\SLGL apretar con la mano // to squeeze with the hand
+\SLGR NO PASS
+\SPL pen.ten
+\SLGR PRSV
+\SLGL tener apretado // to have something squeezed in the hand
+\EXU 1 7@y+ kon.pen.7@y-w@ tzanh.kuy'+j@nanh
+\XPSH 1 [7@y konpenn@yy@ tzanhkuyj@nanh.]
+\XSP 1 Lo apreto* con la mano (para pelear).
+\XEN 1 He tightened his hand around him (to fight).
+\EXU 2 7@y+ pen-w@ tzanh.kuy'+j@nanh
+-
+\XPSH 2 [7@y penn@ tzanhkuyj@nanh.]
+\XSP 2 Lo apreto* con la mano (no ma*s toco*).
+\XEN 2 He gave him a little squeeze with his hand.
+\EXU 3 7@y+ pen.ki7px-pa bi mango si k@nh-wa+'am
+\XPSH 3 [7@y penki7pxpa bi mango, si k@nhnha*m.]
+\XSP 3 Esta* apretando probandolo el mango, si ya esta* maduro.
+\XEN 3 She's testing the mango by squeezing it, to see if it's ripe yet.
+\SYN
+\SEMF hand
+\ASP semelfactive
+\ARG instrument
+\NOM pen.naanh, pen. 'oy.kuy7
+Page 88

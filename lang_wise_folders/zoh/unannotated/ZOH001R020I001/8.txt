@@ -1,0 +1,81 @@
+\_no 00028
+\tx 7i n@nti
+\mb 7i n@nti
+\sg] y
+no_hay
+\egl and there isn't
+\zoq 7i n@nti yakti.
+\fts no habi*a nada.
+\fte and there's nothing.
+\com
+\idx
+\not
+\idx
+\ref ZOH001R020 028
+\_no 00029
+\tx 7a lo tuwanh ponh ke
+\mb
+7a lo tuwa*nh ponh ke
+\sgla lo tres
+\egl at lo
+\not
+\idx
+wejja
+wej
+-wa
+gritar-COM
+vez que
+three time that shout -COM
+\zoq 7a_ lo
+tuwanh ponh ke wejja.
+\fts A los tres veces que hablaba.
+\fte Three times that it shouted.
+\com
+\idx
+\ref ZOH001R020 029
+\_no 00030
+\tx g@xi
+\mb__g@xi
+\sg7 Loc4
+\eg7 LOC4
+yakti
+yakti
+nada
+nothing
+\tx 7entonse n@mpa*m
+\mb entonces n@m
+-pa -7am
+senyor 7@y 7ixmuxjayya*m
+senyor 7@y 7ix-mux
+\sg1 entonces decir-INC-YA sen~or 3E
+\egl then
+ZOH001R0201001.txt
+\ref ZOH001R020 030
+\_no 00031
+\tx tzajneyy@
+\mb
+say -INC-NOW mister 3E see-know -APPL-COM-NOW DEF mouth sea
+\zoq 7entonse n@mpa*m, "Senyor." 7@y 7ixmuxjayya*m bi j@p meag@xi.
+\fts Entonces ya dice, "Sen-or. Ya abrio* la boca encima del
+\fte so now he speaks,
+sea.
+\com
+\idx
+tzaj -ney
+\sg1 pegar-ASSUM-COM
+\egl glue -ASSUM-COM
+bi jap
+-jay -w@ -7am bi jap
+ver-saber-APPL-COM-YA
+\not trying to hard to make this a PERF?
+\idx
+-wa
+\zoq Tzajneyy@.
+\fts Estaba pegada.
+\fte It was stuck.
+mea
+mea
+DEF boca mar
+mar.
+"Sir." Now he has managed to see him, his mouth above the
+Page 8

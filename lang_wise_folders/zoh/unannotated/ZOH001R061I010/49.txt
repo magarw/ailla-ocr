@@ -1,0 +1,61 @@
+XEN she wove palm
+\ROOT pe7t T3
+\SEMF sew, create, obj
+\PASS pe7t.7@m ya esta* tejido
+\ANTI pe7t.7oy tejer
+\CMTS
+\lex pikx
+\_no 00210
+\SPG tocar puerta
+\ENG to knock on the door
+\EX
+\XSP
+\XEN
+\ROOT pikx T3
+\SEMF touch, hit
+\PASS pikx.7@m despizcarse
+\ANTI pikx.7oy
+\CMTS
+\lex pin
+\_no 00211
+\SPG tentar
+\ENG to touch lightly with the fingers
+\EX
+\XSP
+\XEN
+\ROOT pin T3
+\SEMF touch, hand
+\PASS NONE pin.7@m *
+\ANTI pin. 7oy
+\CMTS
+\lex pinh
+\_no 00212
+\SPG pepenar; recoger
+\ENG to pick up
+\EX
+\XSP
+\XEN
+\ROOT pinh T1
+\SEMF pick_up, hand
+\PASS pinh.7@m recogerse
+\CMTS
+\lex pit
+\_no 00213
+\SPG poner la mortaja
+\ENG to put on a shroud
+\EX 7@y pitt@ bi kaw@*7
+ZOH001R0611010.txt
+\XSP puso la mortaja a un muerto
+\XEN she wrapped the corpse in a shroud
+\EX piti*am de kaw@7
+\XSP ya esta* con su mortaja el muerto
+\XEN now the corpse is shrouded
+\EX pittoyy@*7
+\XSP aquel que dio* la mortaja
+\XEN the one who put on the shroud
+\EX pitt@mma*m
+\XSP ya tiene la mortaja
+\XEN the corpse has been shrouded
+\ROOT pit T3
+\SEMF wrap
+Page 49

@@ -1,0 +1,33 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+In noun incorporation (NI) constructions, an argument of the verb is
+compounded with the verb stem, thus appearing inside the agreement markers
+and forming part of the whole verb complex. This is a highly productive
+process in MIG Zoque. The incorporated noun usually fills the patient role, but
+other arguments can be incorporated as well. Adjectives may also be
+incorporated (example 10.1 iii; further discussion below). Modifiers of the
+incorporated noun can be stranded outside the verb complex, provided they
+also are non-specific, such as adjectives or relative clauses (iv; further
+discussion below). NI in MIG Zoque is an example of type 1 incorporation,
+according to Mithun's hierarchy (Mithun, 1984).
+(10.1)
+(i)
+(ii)
+Chapter 10: Noun Incorporation
+(iii)
+dø xøkwixtammø
+də+ šək=wiš-tam-we
+1A+ bean=uproot-1/2PL-COM
+'We were uprooting bean plants.'
+køxkuyme'tzpay wittø
+0 kǝš.kuy?=me?c-pa
+?əy+ wit-wə
+3A eat.INSTR1=look_for-INC 3E+ walk.dINC
+'He's walking along looking for food."
+'øy mal'angtzongngø
+?ǝy+ mal-?aŋ.con-wa
+3E+ bad=MOUTH.join-COM
+'He answered badly.'
+254
+(ZOH001R007-010)
+(ZOH001R026-062)
+(ZOH001R024-581)

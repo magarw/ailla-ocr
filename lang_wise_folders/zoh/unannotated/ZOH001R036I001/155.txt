@@ -1,0 +1,69 @@
+\mb GSM 7@m tzok -pa
+\sg1 GSM: 2A sanar-INC
+\eg1 GSM: 2A cure -INC
+\zoq GSM: 7@m tzokpa?
+\fts GSM: Sanas?
+\fte GSM: You get better?
+\com
+\idx
+\ref ZOH001R036 724
+\_no 00713
+\tx OSM: 7@m tzokpa
+\mb OSM 7@m tzok -pa
+\sg1 OSM: 2A sanar-INC
+\egl OSM: 2A cure -INC
+\zoq OSM: 7@m tzokpa.
+\fts OSM: Sanas.
+\fte OSM: You get better.
+\com
+\idx
+\ref ZOH001R036 725
+\_no 00714
+\tx 7i de gaji
+si mi
+\mb 7i de ka -ji7 si mi
+\sg] y
+de DCT3-LOC1 si 3>2
+\egl and of DCT3-LOC1 if 3>2 bother -do
+\ref ZOH001R036 726
+\_no 00715
+\zoq 7i de gaji si mi molestz@kpa mas,
+fts Y de ahi* si te sigue molestando mas,
+\fte And then if it still bothers you,
+\com
+\idx
+\tx de tuni
+\mb de tuni7
+naka
+m
+tzetzpa
+naka 7@m tzetz -pa
+\sg1 de ciruelo cuero 2E labrar-INC
+\egl of plum skin 2E
+2E work - INC
+ZOH001R0361001.txt
+\ref ZOH001R036 727
+\_no 00716
+\zoq de tuni nakam tzetzpa.
+\fts la ca*scara de cirjuela lo raspas.
+\fte you scrape the bark of the plum tree.
+\com
+\idx
+\tx 7@m tzijnaka7tzpa
+\mb 7@m tzij
+mas
+mas
+molestz@kpa
+molestar-tz@k -pa
+molestar-hacer-INC mas
+-INC more
+\zoq 7@m tzijnaka7tzpa,
+\fts Lo machucas,
+\fte You crush it,
+-naka7tz -pa
+\sg1 2E tirar_piedra-aplastar-INC
+\egl 2E throw_rock -flatten -INC
+\com
+\idx
+\ref ZOH001R036 728
+Page 155

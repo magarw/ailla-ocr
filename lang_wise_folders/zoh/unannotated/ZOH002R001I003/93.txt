@@ -1,0 +1,46 @@
+NOM1 is identified as a suffix to make this system work. It is possibly
+also a nominalizing suffix that appears in a few deverbal forms (e.g., šaŋ.?,
+'wind', perhaps derived from the root šaŋ-, 'to cut with a machete' or more
+generally, 'to make a swinging/swishing/whooshing motion'). DEM is a suffix
+that yields a pronominal form from the deictic root. There is no apparent
+system or rule for choosing to use this suffix. The variant DEM form -gə
+occasionally appears with DCT3: gagə, 'that', and even sometimes alone.
+(4.22)
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+yo' pøn pwes nøktøpa joji
+yə.?
+рәп pwes 0 nək-tə?-pa hohi
+DCT1.NOM1 hombre pues 3A ir=querer-INC mañana
+""Este hombre quiere ir mañana."
+'øm nøkpa yødø 'awinjønang benigno
+?əm+ nək-pa yə.də
+?awin?+hənaŋ benigno
+2A+ irse-INC DCT1.DEM hermano+ACC benigno
+""Te vas con este hermano, Benigno."
+'i de ti me'chukpa
+?i de.?
+ti ?ǝy+me?c.šuk-pa
+y DCT2.NOM1 que 3E+ buscar-3PL-INC
+""Y esos, que busca?"
+(ZOH001R010-046)
+gadøk 'øy muxxukpa
+ga.?+dǝkkay
+?əy+ muš-šuk-pa
+DCT3.NOM1 +NPL 3E+ saber-3PL-INC
+'Ellos saben.'
+(ZOH001R010-029)
+jum pøpa 'øm nøkkø dedø jamatin 'øm pøktzongpá'
+hu
+?əm+pə?-pa
+68
+(ZOH001R010-097)
+?əm nək-wə de.də
+hamatin ?ǝm+pǝk=co?-pa+V?k
+donde 2E+ poner-INC 2E+ ir-dINC DCT2.DEM dinero 2E+ agarrar=unir-INC+REL
+'Onde echas el dinero que ha recibido?'
+(ZOH001R028-105)
+(ZOH001R010-264)

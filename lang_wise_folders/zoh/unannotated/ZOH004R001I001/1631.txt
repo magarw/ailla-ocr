@@ -1,0 +1,63 @@
+\PSH [wo7ktummanhnha-]
+\UND wo7k-tum. 7anh.7aH
+\MB raspar, uno, X, VERS1
+\VAR wo7k-tumman. 7a
+\GRAM vt:vers1
+\SCI
+\USE
+\SPG enderezar acepilla*ndolo, acepillar
+\ENG to level by planing, to plane
+\EXU 7@y+ wo7k=tum.'anh.'aH-w@ bi kuy
+\XPSH [7@y wo7ktummanhnhaw@ bi kuy.]
+\XSP Enderezo* acepillando la madera.
+\XEN He levelled the wood by planing it.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 wo7k
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-GR of EX HAJ:96, fixed it
+\date 20/Jun/96
+\lex wo7k.wo7k.ney
+\_no 03795
+\LG MIG
+\PSH [wo7kwo7kney-]
+\UND WO7k.wo7k.ney
+\MB raspar, raspar, REDUP1
+\VAR
+\GRAM VIRF
+\SCI
+\USE
+\SPG el sonido de acepillar; acepillar mucho
+\ENG the sound of planing; to be planing away
+\EXU p@n wo7k.wo7k.ney-pa
+ZOH004R0011001.txt
+\XPSH [P@n wo7kwo7kneypa.]
+\XSP El hombre acepilla y acepilla.
+\XEN The man is planing and planing away.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wo7k
+\RTGR T3
+\DSRC HAJ94
+\CMTS gloss used to be grun~ir, but he doesn't accept it at all now; es el
+sonido de estar raspando: TK
+\date 26/Jun/96
+\lex wo7kx
+\_no 03796
+\LG MIG
+\PSH
+\UND wo7kx
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG aran~ar; rasgun~ar
+\ENG to scratch
+\SPL wo7kx.7oy
+Page 1631

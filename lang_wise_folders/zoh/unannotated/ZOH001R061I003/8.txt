@@ -1,0 +1,62 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7utz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex kax.naanh
+\_no 00021
+\LG MIG
+\PSH [kaxna*nh]
+\UND kax.naanh
+\MB dar_pasos, MED
+\VAR
+\GRAM sv:med
+\SCI
+\USE
+\SPG paso
+\ENG step
+\EXU tum kax.naanh
+\XPSH [tum kaxna*nh]
+\XSP un paso
+\XEN one step
+\SYN
+\SEMF
+ETYM
+\ETL
+\ROOT kax
+\RTGR I1
+\DSRC HAJ94
+\CMTS CK-GR how else? HAJ:96
+\date 18/Jun/96
+\DATE 03/Jan/80
+\lex kej.naanh
+\_no 00022
+\LG MIG
+\PHO [kejna*nh]
+\UND kej.naanh
+\MB verse, MED
+\VAR
+\GRAM meas
+\SPG una vez se vio*
+\ENG once it appeared; one sighting
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT kej
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex kek.naanh
+\_no 00023
+ZOH001R0611003.txt
+\LG MIG
+\PSH [kekna*nh]
+\UND kek.naanh
+\MB brincar, MED1
+Page 8

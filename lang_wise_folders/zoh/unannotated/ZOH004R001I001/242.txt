@@ -1,0 +1,65 @@
+\_no 00561
+\LG MIG
+\PSH
+\UND brocha
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG brocha (para pintar)
+\ENG paint brush
+\EXU
+\XSP
+\XEN
+\SYN k@nh.kuy7
+\SEMF
+ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS cf. k@nh- 'pintar'
+\date 13/Jun/95
+\lex burru
+\_no 00562
+\LG MIG
+\PSH
+\UND burru
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG burro
+\ENG donkey
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 08/Jan/96
+LF:7anmal
+\lex burru y+ pojo7k t@m
+\_no 00563
+\LG MIG
+\PSH [burruy pojo7k t@m]
+\UND burru 7@y+ pojo7k t@m
+\SCI
+\USE
+\MB burro,
+\VAR sanhjwaanh burru puj t@m
+\GRAM
+3Erg, huevo, fruta
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SPG fruta de San Juan de burro; coyol del burro
+\ENG a type of tree fruit
+\EXU
+\XSP
+Page 242

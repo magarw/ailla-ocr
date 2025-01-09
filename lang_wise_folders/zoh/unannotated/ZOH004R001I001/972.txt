@@ -1,0 +1,63 @@
+\SPG vivir
+\ENG to live
+\SPL
+\SLGR
+\EXU ni.jej-wa ga tak
+\XPSH [Nijejj@ ga tak.]
+\XSP Vivio* en esa casa.
+XEN She lived in that house.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jej
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 26/Jan/96
+\lex ni.je7k
+\_no 02256
+\LG MIG
+\PSH [nije7k-]
+\UND ni.je7k
+\MB PURP, limpiar_con_coa
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG limpiar con coa
+\ENG to clear with a hoe
+\EXU
+\XSP
+\XEN
+\SYN je7k
+\SYN win-je7k
+\SYN ko.je7k
+\SYN k@.je7k
+\SEMF
+\ETYM
+\ETL
+\ROOT je7k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+\lex ni.jepx
+\_no 02257
+\LG MIG
+\PSH [nijepx]
+\UND ni.jepx.0
+\MB PURP, agarrar_con_ji*cara, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG cuchara de morro; cuchara de peltre
+\ENG clay spoon
+\SPL
+\SLGR
+\EXU
+ZOH004R0011001.txt
+\XSP
+\XEN
+Page 972

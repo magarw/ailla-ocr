@@ -1,0 +1,63 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzaj
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 17/Jun/95
+\lex ko=tzam.@7
+\_no 01458
+\LG MIG
+\PSH [kotzam@7]
+\UND ko7=tzam.A7
+\MB CAB, sazonarse, NOM2
+\VAR kopak kotzam@7
+\GRAM S
+\SCI
+\USE
+\SPG seso
+\ENG brain
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzam
+\RTGR 12
+\DSRC HAJ94
+\CMTS analysis?
+\date 07/Feb/96
+\lex ko.tzaxx@
+\_no 01459
+\LG MIG
+\PSH [kotzaxx@-]
+\UND ko.tzaxx@
+\MB OTRO, X
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tener verguenza
+\ENG to be ashamed; to be shy
+\SPL
+\SLGR
+\EXU 7u n+ ko.tzaxx@-tam-w@
+\XPSH [7un kotzaxx@damm@.]
+\XSP No tengamos vergu"enza.
+\XEN Let us not be ashamed.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzaxx@
+\RTGR 12
+\DSRC HAJ95
+\CMTS analyze
+ZOH004R0011001.txt
+Page 634

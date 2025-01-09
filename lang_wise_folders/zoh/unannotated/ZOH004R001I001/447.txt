@@ -1,0 +1,63 @@
+\XEN
+\SYN
+\ROOT jat@t
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex j@7t
+\_no 01019
+\LG MIG
+\PSH
+\UND j@7t
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+SPG regar el ri*o
+\ENG to be flooded, to be carried off by the flood, to be covered by
+flood water (cornfield)
+\EXU 1 d@+ j@7t-n@k-pa
+\XPSH 1 [D@ j@7tn@kpa.]
+\XSP 1 Me lleva el ri*o.
+\XEN 1 The river is carrying me off.
+\EXU 2 j@7t=n@k-w@
+\XPSH 2 [J@7tn@kk@.]
+\XSP 2 Lo llevo* el ri*o.
+\XEN 2 The river carried it off.
+\EXU 3 j@7t-w@ mok
+\XPSH 3 [J@7tt@ mok.]
+\XSP 3 Paso* el ri*o el mai*z.
+\XEN 3 The river flooded the cornfield.
+\EXU 4 na' j@7t-wa mok
+\XPSH 4 [N@j@7tt@ mok.]
+\XSP 4 Paso* el ri*o el mai*z.
+\XEN 4 The river flooded the cornfield.
+\SYN win.j@7t
+\SYN ni.j@7t
+\SEMF nature, water
+\ASP state
+\ARG
+\NOM j@7t.naanh
+\SUB win.j@7t, ni.j@7t, j@7t-wit, j@x=j@7t, nik.j@7t.'@y, yuk.j@7t
+\ETYM
+\ETL
+\ROOT j@7t
+\RTGR 12
+ZOH004R0011001.txt
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex j@7t.naanh
+\_no 01020
+\LG MIG
+\PHO [j@7tna*nh]
+\UND ja7t.naanh
+\MB regar_rio, MED
+\VAR
+\GRAM meas
+\SPG una vez paso* el ri*o
+\ENG one flooding
+Page 447

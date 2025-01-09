@@ -1,0 +1,66 @@
+\_no 00348
+\SPG estar sentado
+\ENG to be seated
+\SEMF body, position
+\ASP state
+\ARG
+\NOM tz@n.kuy7, ni.tz@n, num=tz@n.kuy7
+\NOM naanh
+*
+\RTGR P (12)
+\POS Y
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tz@y
+\_no 00349
+\SPG atorarse; entrancarse; trabarse
+ENG to get stuck; to be blocked
+\SEMF move_self
+\ASP state, achievement
+\ARG
+\NOM NO
+\RTGR 12
+\POS NO-jay
+\MID NO
+\UNDO pu7 mig-infl entry
+\CLZ
+\CMTS kotz@yy@yy@ 7@y yo7kjo7
+\CMTS it got
+\CMTS da kotz@yy@yy@
+stuck in her throat
+\POS rroberto d@ wa7kjayya koya
+\MID
+\UNDO
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\lex wa7k
+\_no 00350
+\SPG rebanar; partir fruta, como sandi*a o melo*n (con cuchillo)
+\ENG to slice; to cut up fruit, like watermelon or cantaloupe (with a
+knife)
+\SEMF cut
+\ASP transition
+\ARG
+\NOM wa'k.e
+\NOM wa7k.naanh
+\NOM wa7kkokkuy7
+\RTGR P (T3)
+\SEMF arrange, quantity
+\ASP transition
+\ARG
+'se le trabo* en pescuezo'
+\NOM wa7kx.kuy7, wa7kx.e7
+\NOM wa7kx.naanh
+\RTGR P (T3)
+\lex wa7kx
+\_no 00351
+\SPG (en) terciar bulto de mai*z, naranja, etc. en una rede
+\ENG to make loads of corn, oranges, etc. in a net
+me partio* mi tomate
+\POS rroberto d@ wa7kxjayy@n 7anaxa
+\MID
+\UNDO 7@n wa7kxpuw@n 7anaxa
+Page 86

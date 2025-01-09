@@ -1,0 +1,63 @@
+\UND yep. E7
+\MB extender, NOM7
+\VAR
+\GRAM pcp
+\SPG tendido
+\ENG extended
+\EXU yo't.e' yep.e7
+\XPSH [yote yepe7]
+\XSP ropa tendida
+\XEN clothes hung out to dry
+\SYN
+\ROOT yep
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex yew.e7
+\_no 00473
+\LG MIG
+\PSH [yewe7]
+\UND yenh.E7
+\MB engordarse, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG gordura; grasa
+\ENG fatness; fat
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT yenh
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 20/Jun/96
+\lex yoj.a
+\_no 00474
+\LG MIG
+\PSH [yoja]
+\UND yoj.A
+\MB pagar, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE jake yoj.a `caresti*a'
+\SPG costo; precio; valor
+\ENG cost; price; value
+\EXU jakke yoj.a
+\XSP caresti*a
+\XEN high price
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yoj
+\RTGR T3
+ZOH001R0611004.txt
+Page 187

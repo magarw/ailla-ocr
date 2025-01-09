@@ -1,0 +1,60 @@
+\ENG to grind
+\EX waypa
+\XSP esta* moliendo
+\XEN she's grinding
+\ROOT way T1
+\CMTS
+\lex we7ch
+\_no 00298
+\SPG encorvar; pandearse - palo o varilla
+\ENG to curve
+\EX we7chch@
+\XSP torcido
+\XEN twisted
+\EX we7ch-pa
+\XSP hacerse pando
+\XEN
+\EX dondju we7chch@ bi tunh
+\XSP en una curva; alla* en la curva/vuelta
+\XEN where the road curves
+\ROOT we7ch 12
+\CMTS caus yak.we7ch hacer/dejar chueco; pandear
+\lex wej
+\_no 00299
+\SPG gritar; rugir; mugir; bramar
+\ENG to shout; to roar; to moo; to bellow
+\EX 7@y wejjayy@
+\XSP le grito*
+\XEN he shouted at someone
+\ROOT wej T1
+\CMTS caus yak.wej hacer gritar
+\lex we7k
+\_no 00300
+\SPG envarillar
+\ENG
+\EX
+\XSP
+\XEN
+\ROOT we7k T1
+\CMTS
+\lex wen
+\_no 00301
+ZOH001R0611011.txt
+\SPG partir
+\ENG to tear in half
+\EX 7@y wenn@ 7ane kukkina*nh
+\XSP partio* la tortilla por la mitad
+\XEN she tore the tortilla in half
+\ROOT wen P, (T3)
+\CMTS antip wen.7oy partir
+\CMTS pass wen.7@m partirse
+\CMTS assum1 wen.ney estar partido
+\lex we7tz
+\_no 00302
+\SPG arrastrarse nin*o; andar arrastra*ndose; arrastrarse sentado
+\ENG
+\EX we7tzpa 7@y witt@
+\XSP anda arrastrandose
+\XEN
+\ROOT we7tz P, (11)
+Page 58

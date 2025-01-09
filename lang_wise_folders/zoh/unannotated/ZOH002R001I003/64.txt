@@ -1,0 +1,48 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+morpheme-initial glottal stop fails to delete, it serves as evidence that the
+preceding morpheme does indeed end in a glottal stop. This is a useful
+diagnostic for determining the underlying shape of glottal stop-final verb roots,
+like tə?-, 'to want', whose final consonant generally disappears in context.
+(3.12)
+(i)
+(ii)
+(iii)
+(iv)
+'øn tødampa tamnø'
+?ən+ tə?-tam-pa
+tam?=nə?
+1E+ querer-1/2PL-INC agrio=agua
+'Queremos cerveza.'
+yotetzexukkø
+(3.13)
+(i)
+0 yote?=ce?-šuk-wǝ
+3A ropa=lavar-3PL-COM
+'Lavaron ropa.'
+tø"mpá'k
+tə?.?əm-pa+V?k
+querer.PAS-INC+REL
+'una cosa útil'
+'øy mø"øyyø
+?əy+ mə?.?ǝy-wə
+3E
+'Se casó.'
+esposa.VERS2-COM
+tøki
+tə?k.E
+hipar.NOM3
+'hipo'
+40
+The more interesting case appears when a vowel-initial suffix (see 3.3.2)
+attaches to a stem in the shape CV?C. The word is re-syllabified so that the
+final C of the stem's coda becomes the onset of the suffix syllable. This leaves
+the glottal stop in syllable-final position, from which it is deleted.
+(ii)
+(elicited)
+woke
+wo?k.E
+(elicited)
+(lexicon)
+(lexicon)
+raspar.NOM3
+'raspado'

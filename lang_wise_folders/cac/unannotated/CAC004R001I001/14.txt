@@ -1,0 +1,86 @@
+Fonema
+lel
+/a/
+/o/
+/u/
+Ejemplos
+1. em
+2. b'ak'ech
+3. chanhe
+1. anh
+2. chay
+3. k'ana
+1. ok'
+2. k'och
+3. kolo
+30
+1. ulul
+2. jun
+3. tub'u
+/p/ oclusiva, bilabial, sorda:
+[p] oclusiva, bilabial, sorda
+ALÓFONOS
+Aparece en posición inicial y media:
+#___ [pat] casa
+V_V [ipan] casi.
+[ph] oclusiva, bilabial, sorda, aspirada
+En posición final de palabra:
+# [po ph] mecapal.
+Traducción
+bajar
+gordo
+cuatro inanimado
+trago
+pescado
+pedir
+pie
+llegar allá
+ayudar
+atole
+uno
+pagar
+/b'/ oclusiva, bilabial, sonora, ingresiva:
+[b'] oclusiva, bilabial, sonora ingresiva en posición inicial
+y
+# [b'e] camino
+media:
+V_V [ab'i] oír.
+[b'] oclusiva, bilabial, sonora, explosiva en posición final de palabra:
+_# [chonhab'] pueblo.
+/t/ oclusiva, alveolar sorda:
+[t] oclusiva, alveolar, sorda
+En posición inicial y media:
+#___ [ton] collar
+V_V [mato] disyunción.
+[th] oclusiva, alveolar, sorda, aspirada
+En posición final de palabra:
+# [tuth] frijol.
+/k/ oclusiva, velar, sorda:
+[k] oclusiva, velar, sorda
+En posición inicial y media:
+[kot] venir
+#
+V_V [okes] coyote.
+[kh] oclusiva, velar sorda aspirada
+En posición final de palabra:
+# [ok] pie.
+/t/ oclusiva, alveolar, sorda, glotalizada:
+[t'] oclusiva, alveolar, sorda, glotalizada.
+Aparece en el contexto de fonemas sordos y en posición inicial o
+final total:
+# [t'a] preposición
+# [b'at'] tipo de árbol.
+[d] oclusiva, alveolar, sonora.
+Aparece en el contexto de vocales y consonates sonoras:
+V_V [yed eb' winh] con ellos.
+/k'/ oclusiva, velar, sorda, glotalizada:
+[k'] oclusiva, velar, sorda, glotalizada
+A principio y final de palabra en el contexto de fonemas sordos:
+#_____ _# [k'ik'] negro.
+[g] oclusiva, velar, sonora
+Entre vocales y en el contexto de fonemas sonoros:
+V_V [k'igatz'am] sal negra.
+/w/ semiconsonante, bilabial, sonora, labializada:
+[w] semiconsonante, bilabial, sonora, labializada
+Casi en todos los contextos producidos por gente adulta.
+31

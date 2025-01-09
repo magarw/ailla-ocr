@@ -1,0 +1,78 @@
+ZOH001R0601001.txt
+estirando el brazo.
+\fte there's a man on the roof of this house. He's standing on top. He's
+stretching out his
+arms.
+\com
+\idx
+\cmts picture of a man on a roof with his arms outstretched
+\ref 036
+\_no 00037
+\tx 7@n 7awin
+\mb 7@n 7awin7
+7@y tak teji7aw@
+teji
+7@y tak
+hay
+\sg1 1E hermano/a 3E casa
+\egl 1E sibling
+\ref 037
+\_no 00038
+\fts la casa de mi hermano esta en el centro del pueblo
+\fte my brother's house is in the center of town
+\com
+\idx
+7iti kuk
+-7a -w@ 7it17 kuk
+-VERS1-COM pueblo centro
+center
+3E house there_is-VERS1-COM town
+\tx kumkuy 7@y kuk
+\mb kumkuy7 7@y kuk
+\sgl pueblo 3E centro
+\egl town
+3E center
+\tx 7@n 7awin
+7@y tak
+7@y tak
+y@
+\mb 7@n 7awin7
+\sgl 1E hermano/a 3E casa hay
+-7a -wa ya -7
+-VERS1-COM DCT1-NOM1
+\egl 1E sibling 3E house there_is-VERS1-COM DCT1-NOM1
+teji7aw@
+teji
+\fts la casa de mi hermano esta* en el centro de este pueblo
+\fte my brother's house is in the center of this town
+\com
+\idx
+\com
+\idx
+\ref 038
+\_no 00039
+\tx 7@n t@k
+teji7aw@
+\mb 7@n t@k
+tome deg@ maxant@k
+tome7 de-g@ maxan -t@k
+-VERS1-COM cerca de-DEM sagrado-casa
+\egl 1E house there_is-VERS1-COM near of-DEM sacred -house
+teji
+-7a -wa
+\sgl 1E casa hay
+\fts mi casa esta* cerca de la iglesia
+\fte my house is near the church
+\ref 039
+\_no_00040
+\tx 7@n t@k teji7aw@
+\mb 7@n t@k teji
+\sgl 1E casa hay
+\egl 1E house there_is-VERS1-COM river-across
+pajakgaja7kwintu7k
+-7a -w@ pajak-gaja7kwintu7k
+-VERS1-COM ri*o -al_otro_lado
+\fts mi casa esta* al otro lado del ri*o
+\fte my house is on the other side of the river
+\com
+Page 11

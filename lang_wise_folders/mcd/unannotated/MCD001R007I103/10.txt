@@ -1,0 +1,51 @@
+87 oa rono fumanu
+oa rono fuma-nu
+DEM serpent front-ERG
+sur le front de ce serpent
+= sur la surface du fleuve
+88 arasi casonai
+a-rasi ca-so-na-i
+140
+3PERS-nombreux << dos >> -LOC-REC-PROG
+de nombreux dos
+89 casonai badia
+ca-so-na-i badi-a
+<< dos »>-LOC-REC-PROG rassembler-ACC
+les dos se sont rassemblés
+90 ahuun fusocayashon
+ahuun fu-so-caya-nu
+3POSS<< front »-LOC-EXIST2-ERG
+son front ¹41
+91 oa rono caspohuai
+oa rono caspo-huai-i
+DEM serpent << faire du bruit »>-aller-PROG
+ce serpent gronde
+= ce fleuve gronde
+92 caspohuaqui badidifo
+140
+141
+142
+caspo-hua-qui badi-di-fo
+<< faire du bruit »-faire-DIR rassembler-PASL-PL
+ils se rassemblèrent en faisant du bruit
+93 ahuun huiya uhuara
+ahuun huiya uhua-ra
+3POSS << odeur de poisson » grand-ASS
+sa forte odeur (de poisson)
+94 ahuun huiya pauya
+ahuun huiya pau-ya
+3POSS << odeur de poisson » puissant-GEN
+sa puissante odeur (de poisson)
+95 ahuun huiya doranu
+ahuun huiya dora-nu
+142
+3POSS << odeur de poisson » « odeur rance » -ERG
+son odeur rance (de poisson)
+96 huiya dora pauhuahuun
+huiya dora pau-huahuun
+<< odeur de poisson » « odeur rance » puissant-PL.ERG
+les puissantes odeurs rances
+Racine /catu/, << bas du dos ».
+Du fleuve.
+Odeur comparable à celle « du poisson deux jours après la pêche ».
+141

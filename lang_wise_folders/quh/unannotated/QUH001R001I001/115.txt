@@ -1,0 +1,41 @@
+La relación intersubjetiva entre las personas participantes del diálogo es prominente
+discursivamente en las construcciones condicionales y emerge en las formas seleccionadas.
+Según nuestros ejemplos, la situación más cercana, más segura o más confirmada para el
+hablante requiere, dentro de la construcción interclausal, la forma -spa (+speaker) (por lo que
+no aparece en las traducciones al español en modo subjuntivo); el resto opta por la forma -jti
+(-speaker). En segunda instancia, la forma -jti + -qa precisa la complicidad del oyente para
+proseguir (es decir, la confirmación o el mantenimiento de la validez del enunciado depende
+del contexto local discursivo y se sostiene sobre la hipoteticidad).
+Finalmente, la estructura compuesta por -man (primer tipo de estructura analizada
+dentro del irrealis) también puede recibir el topicalizador -qa. Su interpretación deviene en un
+desiderativo fuerte.
+(42) (ojalá) kan hina kay-man(-qa)
+DES 2S COM ser-IRR(-TOP)
+'¡ojalá fuera como tú!'
+Según el análisis presentado, los dos sufijos, tanto -spa como -jti, constituyen
+categorías mixtas o multifuncionales porque, en el orden semántico, codifican varios
+significados adverbiales al mismo tiempo (temporales, condicionales, causales); y, en el orden
+pragmático, son multivalentes: señalan seguimiento referencial, codifican relevancia de las
+referencias (distinción obviativo / proximal -en relación con la mayor / menor finitud
+morfológica-: -spa: prox.; -jti: obv.), indican topicalidad y mayor o menor cohesividad
+discursiva. Finalmente, contrastan entre sí.
+115
+4.2.4. Contraste entre la expresión de irrealis por medio de -man frente a
+la expresión por medio de -na
+Los siguientes ejemplos sugieren que la variable "sujeto definido" vs. "sujeto
+indefinido" puede estar interviniendo en la selección de la estrategia discursiva que se emplea
+para expresar irrealis. Sin embargo, este rasgo necesita mayor investigación. Según los
+siguientes datos, la expresión con -na necesita sujeto definido (ejemplos 43, 44, 45 y 46)
+mientras la expresión con -man no lo precisa (ejemplo 47).
+(43) allin parla-na-yki jose-wan
+bien hablar-NOM-2S José-ASOC
+'es bueno que tú hables con José'
+(44) pai kacha-ta parla-*man/na-n
+Jose-wan
+él bueno-AC hablar-*ALAT/NOM-3S José-CIA
+'es bueno que él hable con José'
+(45) noqa kacha-ta
+parla-*man/na-y
+Jose-wan
+yo bueno-AC hablar-*ALAT/NOM-1S José-CIA
+'es bueno que yo hable con José'

@@ -1,0 +1,63 @@
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 k@y
+\RTGR 1 T3
+\ROOT 2 num
+\RTGR 2 T1
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+\1ex_7anh-k@y=num. 'aH
+\_no 00118
+\LG MIG
+\PSH [7anhk@ynumma-]
+\UND 7anh-k@y=num. 7aH
+\MB BOCA, 11evar_en_mano, robar, VERS1
+\VAR
+\GRAM vers1
+\SCI
+\USE
+\SPG cerrarlo medio; entrecerrarse
+\ENG to close halfway
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 k@y
+\RTGR 1 T3
+\ROOT 2 num
+\RTGR 2 T1
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+ZOH004R0011001.txt
+\lex 7anh-may
+\_no 00119
+\LG MIG
+\PSH [7anhmay-]
+\UND 7anh-may
+\MB BOCA, contar
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG ensen~ar; aprender
+ENG to teach; to learn
+\EXU 1 7@y+ 7anh-may-w@
+\XPSH 1 [7@y 7anhmayy@.]
+\XSP 1Le ensen~o*
+\XEN 1 She taught someone.
+\EXU 2 7@y+ 7anh-may-xuk-w@
+\XPSH 2 [7@y 7anhmayxukk@.]
+\XSP 2 Le ensen~aron.
+\XEN 2 They taught someone.
+Page 51

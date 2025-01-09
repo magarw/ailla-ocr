@@ -1,0 +1,75 @@
+(133) 0=b'aj
+t-e
+B3s-terminar A3s-SR
+'La persona comió bien,'
+(134) n=chi
+(136) 0-chi-tzan
+INC=B3p
+xjaal.
+persona
+'Lo estaban observando los dueños de la casa.'
+n=0=b'aj
+B3s-decir pues
+'le dijeron'
+(137) a=tzan
+(135) Tza'n-tzant-teen
+ch'in=ta
+t-waa
+cómo pues A2s-estar INC=B2s=terminar poco=2sENF A2s-comida
+'¿Cómo es que usted termina la comida?
+(138) Aax=na
+kii-n=tzan
+t-ajaw-iil
+jaa
+mirar-AP-pues A3s-dueño-ABST casa
+Als-SR:AGT
+'si nosotros no lo terminamos.'
+0=teen=ta
+qeeky' nti'=tzan qa_n=0=b'aj.
+DEM-pues 1pPRON NEG-pues si INC-B3s=terminar
+q-u'n
+(139) 0-chi-tzan.
+mismo=AF B2s=estar=2sENF
+'Usted se queda con nosotros'
+xjaal
+persona
+B3s-decir pues
+'le dijeron.'
+(140) Aax-san
+(141) 0=0=eel-tzan
+CPL.DEP=B3s-salir-pues
+'Pasaron los días,'
+t-waa,
+A3s-comida
+0
+0=teen=a
+xjaal.
+mismo pues CPL B3s=estar ? persona
+'Ahí mismo se quedó la persona.'
+(142) n=0=waa'-n=ta
+(143) 0=b'aj=ta
+INC=B3s=comer-AP=3sENF
+'la persona comía,'
+q-uuk'al=a
+q'iij,
+día
+Als-SR:COM=1sEXCL
+t-i'j
+xjaal,
+persona
+A3s-SR:PAC
+xjaal t-waa.
+B3s-terminar=3sENF
+persona
+'la persona terminaba su comida."
+A3s-comida
+0=txi' xjaal
+b'eeta-l
+pasyaa-l
+(144) Aasta ok
+hasta cuándo B3s-ir persona caminar-INF pasear-INF
+k'uul,
+t-jaq'
+A3s-SR:debajo monte
+'Cuándo se iba la persona a pasear en el monte,'
+13

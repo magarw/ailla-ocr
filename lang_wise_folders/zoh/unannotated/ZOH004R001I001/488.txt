@@ -1,0 +1,63 @@
+\USE
+\SPG 1 11orar
+\SPG 2 chillar
+\ENG 1 to cry
+ENG 2 to scream
+\SPL yak.j@y
+\SLGR CAUS
+\SLGL hacer llorar // to make someone cry
+\EXU da yak.j@y-xuk-wa
+\XPSH [D@ yakj@yxukk@.]
+\XSP Me hicieron llorar.
+\XEN They made me cry.
+\SYN
+\SEMF sound
+\ASP activity
+\ARG
+\NOM ja.i
+\SUB 7anh.j@y, 7ok.j@y.'@y, ko.j@y, k@.j@y.'@y, num=j@y, yuk.j@y
+\ETYM
+\ETL
+\ROOT jay
+\RTGR 11
+\DSRC HAJ94
+\CMTS caus
+\date 03/Jan/80
+\lex jay.j@y=w@j
+\_no 01116
+ZOH004R0011001.txt
+\LG MIG
+\PSH [j@yj@yw@j-]
+\UND jay.jay=w@j
+\MB X, X, tener_olor
+\VAR
+\GRAM VİR
+\SCI
+\USE
+\SPG haber aroma; tener olor bonito; venir un olor sabroso de cosa
+madura
+\ENG to have an aroma; to have a lovely smell; for a delicious smell, as
+of something ripe, to come out
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT waj
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 06/Feb/96
+\lex j@y-pu7tz
+\_no 01117
+\LG MIG
+\PSH [j@ypu7tz-]
+\UND_j@y@7-pu7tz
+\MB flor, amarillo
+\VAR
+\GRAM sa
+\SCI
+\USE
+Page 488

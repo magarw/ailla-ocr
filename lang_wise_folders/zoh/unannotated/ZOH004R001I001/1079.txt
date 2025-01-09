@@ -1,0 +1,63 @@
+\date 27/Jan/96
+\lex paj.e7
+\_no 02505
+\LG MIG
+\PHO [paje7]
+\UND paj. E7
+\MB clavar, NOM7
+\VAR
+\GRAM pcp
+\SPG rajado
+\ENG stripped
+\EXU paj.e7+k tzin
+\XPSH [paje7k_tzin]
+\XSP ocote rajado
+\XEN pine strips
+\SYN
+\ROOT paj
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex pajo7
+\_no 02506
+\LG MIG
+\PSH
+\UND pajo7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG coyote
+\ENG coyote
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Nov/94
+LF:7anmal
+\lex pajo'.7aH
+\_no 02507
+\LG MIG
+\PSH [pajo7a-]
+\UND pajo7.7aH
+\MB coyote, VERS1
+\VAR
+GRAM versl
+\SCI
+\USE
+\SPG aullar (como un coyote)
+ENG to howl like a coyote
+\EXU pajo'.7aH-w@ nu7
+\XPSH [Pajo7aw@ nu7.]
+\XSP Aullo* el perro.
+\XEN The dog howled.
+ZOH004R0011001.txt
+Page 1079

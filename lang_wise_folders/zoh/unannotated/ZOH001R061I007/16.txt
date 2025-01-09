@@ -1,0 +1,61 @@
+\ENG to become wrinkled a flower
+\EX
+\XSP
+\XEN
+\ROOT mum 12
+\SEMF condition
+\ASP process
+\CAUS yak.mum enjutar; arrugar
+\CMTS
+\date 03/Jan/80
+\lex mut
+\_no 00066
+\SPG orinarse porque no alcanzas el ban~o
+\ENG to piss yourself because you can't make it to the bathroom
+\EX n@mutt@
+\XSP nacio* agua
+\XEN
+\ROOT mut Ix
+\SEMF body
+\ASP momentaneous
+\CMTS get deriv's
+\date 03/Jan/80
+\lex muy
+\_no 00067
+\SPG doblar(se)
+\ENG to dent
+\EX muyy@n_machete 7@y win
+\XSP se doblo* el filo de mi machete
+\XEN my machete got dented
+\EX 7@y yakmuyy@
+\XSP 1o apachurro*
+\XEN he bent it
+\EX muyy@mm@ 7@n n@jupkuy
+\XSP apachurre* mi cubeta
+\XEN I dented my bucket
+ZOH001R0611007.txt
+\EX ti p@pi7t 7@m yakmuyy@ m n@jupkuy7 ?
+\XSP con que apachurrastes tu cubeta ?
+\XEN what did you dent your bucket with ?
+\ROOT muy 12, T2
+\SEMF bend, condition
+\ASP process, transition
+\CAUS yak.muy apachurrar
+\PASS
+\CMTS
+\date 03/Jan/80
+\lex m@nh
+\_no 00068
+\SPG cojear
+\ENG to limp
+\EX
+\XSP
+\XEN
+\ROOT m@nh Ix
+\SEMF motion
+\ASP activity
+\CAUS yak.m@nh hacerlo andar mankiyando
+\CMTS get deriv's
+\date 03/Jan/80
+\lex m@7tz
+Page 16

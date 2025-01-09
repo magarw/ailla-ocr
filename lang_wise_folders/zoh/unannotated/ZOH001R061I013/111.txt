@@ -1,0 +1,52 @@
+\lex max
+\_no 01385
+\SPG descomponerse
+\ENG decompose
+\lex maxan
+\_no 01386
+\SPG sagrado
+\ENG sacred
+\lex maxantilla
+\_no 01387
+\SPG capilla
+\ENG chapel
+\lex maxu7
+\_no 01388
+\SPG camaroncito
+\ENG shrimp
+\lex may
+\_no 01389
+\SPG contar
+\ENG count
+\lex mayo*r
+\_no 01390
+\SPG mayor
+\ENG senior
+\lex maystra
+\_no 01391
+\SPG maestra
+\ENG teacher
+\lex maatk@ji7
+\_no 01392
+\SPG tres dias antes
+\ENG three days ago
+\lex maaxt@kji7
+\_no 01393
+\SPG antier
+\ENG two days ago; day before yesterday
+\lex mea
+\_no 01394
+\SPG mar
+\ENG sea
+\lex medalya
+\_no 01395
+\SPG Medalia
+\ENG Medalia
+\lex medida
+\_no 01396
+\SPG medida
+\ENG measure
+ZOH001R0611013.txt
+\lex medidu
+\_no 01397
+Page 111

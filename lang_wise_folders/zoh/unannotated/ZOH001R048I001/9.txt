@@ -1,0 +1,39 @@
+\fte so you know.
+\com
+\idx
+\ref ZOH001R048 039
+\_no 00040
+\tx 7ahanh7.
+\zoq 7ahanh7.
+\fts Uhuh.
+\fte Uhuh.
+\ref ZOH001R048 040
+\_no 00041
+\tx de7xe
+\mb te
+de7.
+-7xe te
+-7
+\sg1 DCT2-SIM DCT2-NOM1
+\eg1 DCT2-SIM DCT2-NOM1
+\com
+\idx
+\zoq De7xe de 7.
+\fts Asi* es.
+\fte That's how it is.
+\ref ZOH001R048 041
+\_no 00042
+\tx ja, de7xe
+\mb jaz te
+de7.
+-7
+\sgl si* DCT2-SIM DCT2-NOM1
+\egl yes DCT2-SIM DCT2-NOM1
+-7xe te
+\zoq J@7, de7xe de7.
+\fts Si*, asi* es.
+\fte Yes, that's how it is.
+\com
+\idx
+ZOH001R0481001.txt
+Page 9

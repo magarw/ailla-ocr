@@ -1,0 +1,63 @@
+\VAR
+\GRAM dir+vi
+\SCI
+\USE
+\SPG calentarse
+\ENG to be warm
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nutz
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 02/Nov/94
+\lex yuk.pinh
+\_no 04303
+\LG MIG
+\PSH [yukpinh-]
+\UND yuk.pinh
+\MB ARR, pepenar
+\VAR
+\GRAM dir+vt
+\SCI
+\USE
+\SPG recoger
+\ENG to pick up
+\EXU 7@y+ yuk.pinh-w@ 7@y+ mok
+\XPSH [7@y yukpinhnh@y mok.]
+\XSP Cosecho* su mai*z.
+\XEN He harvested his corn.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pinh
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yuk.ponh 7an.e
+\_no 04304
+\LG MIG
+\PSH [yukponh- 7ane]
+\UND yuk.ponh 7an. E
+\MB ARR, quemar, calentarse, NOM7
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG esponjarse la tortilla
+\ENG for a tortilla to puff up
+\EXU yuk.ponh-w@+@7k 7an. E
+\XPSH [yukponhnh@*7k 7ane]
+\XSP tortilla esponjada
+\XEN chalupa
+\SYN
+\SEMF
+ZOH004R0011001.txt
+Page 1848

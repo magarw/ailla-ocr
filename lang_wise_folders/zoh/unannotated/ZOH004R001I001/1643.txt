@@ -1,0 +1,62 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex waj@.7aH
+\_no 03821
+\LG MIG
+\PSH [w@j@7a-
+\UND waja.7aH
+\MB bueno, VERS1
+\VAR
+\GRAM vers1
+\SCI
+\USE
+\SPG hacerse bueno
+\ENG to become good
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+\lex w@ja-p@'
+\_no 03822
+\LG MIG
+\PSH [w@japa@-]
+\UND waja-p@7
+\MB bueno, poner
+\VAR
+\GRAM vt:incorp
+\SCI
+\USE
+\SPG arreglar
+\ENG to arrange; to fix
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT p@7
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex waj@-te.j(i). 7a
+\_no 03823
+\LG MIG
+ZOH004R0011001.txt
+Page 1643

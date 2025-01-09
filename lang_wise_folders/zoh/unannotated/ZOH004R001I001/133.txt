@@ -1,0 +1,62 @@
+\SYN
+\ROOT 7@7tz
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 24/Jun/96
+\lex 7oki7
+\_no 00308
+\LG MIG
+\PHO [7oki7]
+\UND
+\MB
+\VAR
+\GRAM S
+\SPG abuelita - lo que un nin~o se llama su abuela
+\ENG grandma what a child calls its grandmother
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex 7ok.jakx. '@y
+\_no 00309
+\LG MIG
+\PSH [7okjakx@y-]
+\UND 7ok.jakx.7@y
+\MB ABAJO, escupir, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG escupir en la forma de sacar algo de la garganta
+\ENG to spit to remove something from the throat
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jakx
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 09/Jan/96
+\lex 7ok.ja7p. '@y
+\_no 00310
+\LG MIG
+\PSH [7okja7pp@y-]
+\UND 7ok.ja7p.7@y
+ZOH004R0011001.txt
+\MB ABAJO, quebrajar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+Page 133

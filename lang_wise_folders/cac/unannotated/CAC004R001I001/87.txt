@@ -1,0 +1,82 @@
+te' k'ak' te wach' sk'e sk'ak'al te'
+te'
+k'ak' te wach' tz-ø-k'e
+s-k'ak'-al
+te'
+Cmadera fuego muy bueno pres-3B-subir 3A-fuego-gen Cmadera
+339. Tu casa está ardiendo.
+te' apat wan tz'ab'at te'
+te'
+a-pat wan s-tz'a-b'at
+te'
+Cmadera 2A-casa prog 3A-quemar-DIR.allá Cmadera
+340. Quemé las tortillas.
+ixinhustz'a ixim wa'il
+ix-Ø-in-nhus_tz'a ixim
+wa'il
+pas-3B-1A-quemar Cmaíz tortilla
+341. Las tortillas se quemaron.
+ixim wa'il ixtz'ab'at ixim
+ixim wa'il ix-ø-tz'a-b'at
+ixim
+Cmaíz tortilla pas-3B-quemar-DIR.allá Cmaíz
+176
+342. Las tortillas están quemadas.
+tz'anak ixim wa'il
+tz'a-nak-ø
+ixim wa'il
+quemar-ppt-3B Cmaíz tortilla
+tz'ab'il ixim wa'il
+tz'a-b'il-ø
+ixim wa'il
+quemar-ppt-3B Cmaíz tortilla
+343. Me duele la cabeza.
+ya' injolom
+ya' in-jolom
+dolor 1A-cabeza
+344. Mi hijo se enfermó.
+winh wunin ixpenax ay winh
+winh w-unin ix-ø-penax
+ay-ø winh
+Cmasc 1A-hijo pas-3B-enfermar exist-3B Cmasc
+winh wunin penaxnak ay winh
+winh w-unin penax-nak-ø
+ay-ø
+winh
+Cmasc 1A-hijo enfermar-p.rem-3B exist-3B Cmasc
+345. Mi hijo está enfermo.
+winh wunin pena ay winh
+winh w-unin pena-ø
+ay-ø
+winh
+Cmasc 1A-hijo enfermar-3B exist-3B Cmasc
+346. Estoy enfermo.
+penain ay
+pena-in
+ay-ø
+enfermar-1B exist-3B
+347. Estuve enfermo.
+penaxnakin ay
+penax-nak-in
+ay-ø
+enfermar-p.rem-1B exist-3B
+348. Mi tía se murió.
+ix inun Tumik ixcham ix
+ix in-nun Tumik ix-ø-cham
+ix
+Cfem 1A-madre Tumik pas-3B-morir Cfem
+349. Ese hombre está muerto.
+a jun winh winak chi' chamnak winh
+a
+jun winh winak chi' cham-nak-ø winh
+top uno Cmasc hombre dem morir-ppt-3B Cmasc
+350. Juan se ríe mucho.
+winhaj Xun stetzewaj winh
+winhaj Xun tz-ø-te-tzewaj
+winh
+Cmasc Juan pres-3B-muy-reírse Cmasc
+winhaj Xun tzijtum stzewaj winh
+winhaj Xun tzijtum tz-Ø-tzewaj
+winh
+Cmasc Juan mucho pres-3B-reírse Cmasc
+177

@@ -1,0 +1,63 @@
+\lex tu7px. 'aH
+\_no 03123
+\LG MIG
+\PSH [tu7pxa-]
+\UND tu7px. 7aH
+\MB jetelte, VERS1
+\VAR
+\GRAM vers1
+\SCI
+\USE
+\SPG hacerse jetelte
+\ENG to become astringent
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex tuta
+\_no 03124
+\LG MIG
+\PSH
+\UND tuta
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG tue*tano
+\ENG marrow
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH - seems to be vowel-final
+\date 12/Jun/95
+\lex tu7tz
+\_no 03125
+\LG MIG
+\PSH
+\UND tu7tz
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG cola
+\ENG tail
+\EXU
+Page 1344

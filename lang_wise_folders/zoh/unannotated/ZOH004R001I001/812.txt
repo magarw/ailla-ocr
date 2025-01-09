@@ -1,0 +1,63 @@
+\GRAM VTR
+\SCI
+\USE
+\SPG chicotear; pegar mucho con una ramita
+\ENG to whip; to beat with a switch
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 * mạnh
+\RTGR 1 P
+\ROOT 2 tzik
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS CK-PH -ok/OK: TK
+\date 25/Jun/96
+\lex manh-wak.p@'
+\_no 01883
+\LG MIG
+\PSH [manhwakp@-]
+\UND_manh=wak.p@7
+\MB *pisar, *vaciar, CEL
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG partir ra*pido (fruta)
+\ENG to divide quickly (a fruit)
+\SPL
+\SLGR
+\EXU 7@y+ manh-wak.p@-w@ bi mono
+\XPSH [7@y manhwakp@w@ bi mono.]
+\XSP Partio* ra*pido la sandia.
+\XEN She quickly divided the watermelon.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 *mạnh
+\RTGR 1 P
+\ROOT 2* wak
+\DSRC HAJ95
+\CMTS
+\date 26/Jan/96
+ZOH004R0011001.txt
+\lex manh=wi7kx
+\_no 01884
+\LG MIG
+\PSH [manhwi7kx-]
+\UND manh=wi7kx
+\MB *pisar, falsearse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG desgonzatarlo al pisar
+\ENG to sprain the ankle
+\EXU 7@y+ manh=wi7kx-w@ 7@y+ manh.kuy7
+\XPSH [7@y manhwi7kx@y manhkuy7.]
+Page 812

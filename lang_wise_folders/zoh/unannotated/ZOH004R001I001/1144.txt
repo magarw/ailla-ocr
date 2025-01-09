@@ -1,0 +1,65 @@
+\PSH [pitz@mkuy7]
+\UND pitz@m.kuy7
+\MB salir, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG salida
+\ENG exit
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pitz@m
+\RTGR IX
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex pi7tz.neenh
+\_no 02657
+\LG MIG
+\PSH [pi7tzne*nh]
+\UND pi7tz.neenh
+\MB X, MED1
+\VAR
+\GRAM med
+\SCI
+\USE
+\SPG manojito - el tanto que agarra con dos dedos
+\ENG a pinch the amount you can grab with two fingers
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pi7tz
+*
+\DSRC HAJ94
+\CMTS analysis; get deriv's
+\date 08/Feb/96
+\lex piw.i
+\_no 02658
+\LG MIG
+\PSH [piwi]
+\UND pinh.E
+\MB recoger, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG recogido
+picked-up
+\ENG
+\EXU
+\XSP
+\XEN
+ZOH004R0011001.txt
+\SYN
+\SEMF
+Page 1144

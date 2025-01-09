@@ -1,0 +1,63 @@
+\PSH [koxuy-]
+\UND ko.xuy
+\MB OTRO, cobijar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG cubrir; tapar; cobijar
+\ENG to cover; to wrap in a blanket
+\SPL ko.xuy.jay
+\SLGR APPL
+\SLGL taparle // to cover someone
+\SPL ko.xuy.7oy
+\SLGR ANTIP
+\SLGL cubrir // to cover
+\SPL ko.xuy.7@m
+\SLGR PASS
+\SLGL cubrirse // to be covered
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xuy
+\RTGR T3 (or xuy7 ?)
+\DSRC HAJ94
+\CMTS
+\CMTS %xuy (2)
+\date 24/Jun/96
+\lex ko.xuy.7
+\_no 01489
+\LG MIG
+\PSH [koxuy7]
+\UND ko.xuy.7 or ko.xuy7.0
+\MB OTRO, cobijar, NOM1 or OTRO, cobijar, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG rebozo; toalla
+\ENG shawl; towel
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xuy
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+ZOH004R0011001.txt
+\lex ko.x@j
+\_no 01490
+\LG MIG
+\PSH [kox@j-]
+\UND ko.x@j
+\MB OTRO, pasar_agua
+Page 647

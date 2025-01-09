@@ -1,0 +1,63 @@
+\ROOT 2 tz@k
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex xaw.e
+\_no 00412
+\LG MIG
+\PSH [xawe]
+\UND xanh. E
+\MB machetear, NOM7
+\VAR xaw@7 (?? - TK)
+\GRAM SV
+\SCI
+\USE
+\SPG rozadura; macheteada; macheteado
+\ENG clearing; field cleared with a machete; cut with a machete
+\SPL
+\SLGR
+\EXU xaw.e7+k yuj.kuy7
+\XPSH [xawe7k yujkuy7]
+\XSP rastrojo ya macheteado
+\XEN a field that's now cleared
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xanh
+\RTGR T3
+\DSRC HAJ95
+CMTS won't accept xaw@7 'macheteado', only xaw@7 'machetealo!'; it;s
+/xawe/:TK
+\date 03/Jan/80
+\lex xek.e
+\_no 00413
+\LG MIG
+\PSH [xeke]
+\UND xek. E
+\MB regar_agua, NOM7
+\VAR
+\GRAM pcp
+\SPG regado
+\ENG irrigated
+ZOH001R0611004.txt
+\EXU mok xek.e+7am / xek.e+7am 7@y+ mok
+\XPSH [mok xeke7am] / [xeke7am 7@y mok]
+\XSP ya esta* regado la milpa
+\XEN an irrigated field
+\SYN
+\SEMF
+\ROOT xek
+\RTGR T3
+\DSRC HAJ96
+\CMTS
+\date 03/Jan/80
+\lex xem.e7
+\_no 00414
+\LG MIG
+\PHO [xeme7]
+\UND xem. E7
+\MB tocar,
+NOM 7
+Page 164

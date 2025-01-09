@@ -1,0 +1,64 @@
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG cebolli*n
+\ENG a type of plant
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex seda patanux
+\_no 02894
+\LG MIG
+LF:7okox
+\PSH
+\UND seda patanux
+\MB
+\VAR ? xeda patanux
+\GRAM sms
+\SCI
+\USE
+\SPG pla*tano_guineo
+\ENG a type of banana
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS thinks xeda sounds funny
+\date 16/Jun/95
+\lex selo7
+\_no 02895
+\LG MIG
+\PSH
+\UND selo7
+\MB
+\VAR seloso
+\GRAM S
+\SCI
+\USE
+\SPG celos
+\ENG envy
+\EXU ban selo7
+\XSP celoso
+\XEN jealous
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+ZOH004R0011001.txt
+Page 1246

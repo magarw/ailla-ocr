@@ -1,0 +1,86 @@
+\ref ZOH001R036 672
+\_no 00660
+\tx GSM: k@monhnh@ba
+\mb GSM
+go7
+\sg1 GSM: AFUERA-dormir-SUF-INC
+-monh -7@y-pa go7
+PURP
+\eg1 GSM: AWAY -sleep -SUF-INC PURP
+k@
+\zoq GSM: K@monhnh@ba go7?
+\fts GSM: Para que te acueste?
+\fte GSM: So you can go to bed?
+\com
+\idx
+\ref ZOH001R036 673
+\_no 00661
+\tx
+OSM: ya ke m
+tzinhtukk@
+\mb OSM ya ke 7@m tzinh -tuk
+\sg1 OSM: ya que 2A ban*arse-terminarse-COM
+\egl OSM: now that 2A bathe -finish
+\zoq OSM: Ya kem tzinhtukk@, koxuy@m win.
+\fts OSM: Ya que acabastes de ban~ar, cubrete.
+\fte OSM: Now that you've finished bathing, cover yourself.
+\com
+\idx
+\ref ZOH001R036 674
+\_no 00662
+\tx keta
+\mb ket
+m win
+-A7
+7@m win
+\sg1 envolver-IMPV 2E REFL
+\egl wrap
+-IMPV 2E REFL
+\zoq Ketam win.
+\fts Tapate.
+\fte Cover yourself.
+\com
+\idx
+\ref ZOH001R036 675
+\_no 00663
+\tx
+GSM: 7i m
+\mb
+GSM 71 7@m nutz
+\sg1 GSM: y 2A estar_caliente-SUF-INC
+\eg1 GSM: and 2A be_hot
+nutztz@ba?
+ZOH001R0361001.txt
+\zoq GSM: 7im nutztz@ba?
+\fts GSM: Y sudas?
+\fte GSM: And you sweat?
+\com
+\idx
+-7@y-pa
+\zoq OSM: Minpa*m bi_nutz@,
+\fts OSM: Ya viene el sudor,
+\fte OSM: Now the sweat comes,
+-SUF-INC
+\ref ZOH001R036 676
+\_no 00664
+bi
+nutz@
+\tx OSM: minpa*m
+\mb OSM
+\sg1 OSM: venir-INC-YA DEF
+\eg1 OSM: come -INC-NOW DEF be_hot
+min -pa -7am bi nutz
+-w@
+-A7
+estar_caliente-NOM2
+-COM SOC-cover -IMPV 2E
+-NOM2
+koxuy@
+m
+win
+ko -xuy
+7@m win
+SOC-cubrir-IMPV 2E REFL
+REFL
+Page 144
+-A7

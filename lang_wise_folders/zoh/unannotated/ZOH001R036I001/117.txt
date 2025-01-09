@@ -1,0 +1,69 @@
+\sg1 muy
+chingo*nh DCT2-DEM uva
+\egl very bitching DCT2-DEM grape vine
+\zoq Jakke chinhgo*n ded@ 7uba poj.
+\fts Muy chingo*n
+ese bejuco de uvas.
+\fte Really bitching that grape vine.
+\com
+\idx
+\ref ZOH001R036 546
+\_no 00537
+\tx GSM: por 7ejemplo dey
+\mb GSM por 7ejemplo te -y
+\sg1 GSM: por ejemplo
+esde
+DCT2-TMP
+\eg1 GSM: for example DCT2-TMP um
+\ref ZOH001R036 547
+\_no 00538
+\zoq GSM: Por 7ejemplo dey, 7esde, n@niwa,
+\fts GSM: Por ejemplo ahora, ese hongo,
+\fte GSM: For example now, um, fungus,
+\com
+\idx
+\ref ZOH001R036 548
+\_no 00539
+\tx OSM: n@niwa
+\mb OSM
+n@niwa
+7@m tz@kjaba
+para tzokpa
+\tx ti p@pi7t
+y
+tzoy
+\mb ti p@7 -pi7t 7am tz@k -jay -pa 7@y tzoy para tzok -pa
+\sgl que poner-INSTR 2E hacer-APPL-INC 3E saltar para sanar-INC
+\egl what put -INSTR 2E do -APPL-INC 3E jump for cure -INC
+\sg1 OSM: hongo
+\egl OSM: fungus
+ZOH001R0361001.txt
+bejuco
+\zoq ti p@pi7t 7am tz@kjabay tzoy para tzokpa?
+\fts con que haces el remedio para que sane?
+\fte with what do you make it's medicine so it heals?
+\com
+\idx
+\zoq OSM: N@niwa.
+\fts OSM: El hongo.
+\fte OSM: Fungus.
+\com
+\idx
+\ref ZOH001R036 549
+\_no 00540
+\tx 7a bese d@ n@ktampa
+\mb 7ay beses d@ n@k -tam -pa
+\sgl ah veces 1A irse-1/2PL-INC
+\egl ah times 1A go -1/2PL-INC
+\zoq 7a bese d@ n@ktampa
+\fts A veces vamos
+7esde n@niwa
+7esde n@niwa
+\fte Sometimes we go
+\com
+\idx
+hongo
+fungus
+\ref ZOH001R036 550
+\_no 00541
+Page 117

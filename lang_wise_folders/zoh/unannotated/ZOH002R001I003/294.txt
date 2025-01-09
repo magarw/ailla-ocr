@@ -1,0 +1,25 @@
+11.1.1. Basic relative clauses
+This is most common and most general form of relative clause. This type
+is marked by a clitic that attaches to the right edge of the verb complex. As
+noted in section 9.3, there are two forms of this clitic: +V?k and +pə?k. The
+first form appears with vowel-final words and the second with consonant-final
+words. Since most verb complexes end in vowels (because the inflectional
+suffixes are all vowel-final), the examples in this section will generally show the
++V?k form. The clitic syllable contracts with the preceding syllable, producing a
+stressed final syllable. The final stress on relative clauses is usually highly
+salient, and in emphatic or especially careful speech, the final /?k/ can be
+heard.
+The head noun always precedes the SREL verb complex, and there may be
+other arguments or adverbs between it and the verb. There is no relative
+pronoun in MIG Zoque, nor are personal pronouns or deictics used to delimit
+the relative clause. Since word order is restricted in relative clauses, whereas it
+is free in the general case, it seems reasonable to refer to MIG Zoque relative
+clauses as externally-headed. Subjects and objects are marked on both the
+matrix and subordinate verbs by the person agreement markers, and the head
+noun of the relative clause is simply construed with both of them.
+There are no restrictions on which of the verb's arguments can be
+relativized. Similarly, any argument in the matrix clauses can be modified by a
+relative clause. In the vast majority of the examples in the texts, NPREL is the SREL
+patient (11.3), but there are a few with actors (11.4). I was able to elicit
+sentences with relativized recipients (11.5 i, ii), sources (iii), possessed nouns
+282

@@ -1,0 +1,63 @@
+\CMTS
+\date 20/Jun/95
+\lex tzikin.'aH
+\_no 03356
+\LG MIG
+\PSH [tzikinna-]
+\UND tzikin.7aH
+\MB pinto, VERS1
+\VAR
+\GRAM vers1
+\SCI
+\USE
+\SPG hacerse pinto
+\ENG to become spotted
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex tzikix
+\_no 03357
+\LG MIG
+\PSH
+\UND tzikix
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG chumbi; higo; higuero
+\ENG fig
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tziku
+\_no 03358
+\LG MIG
+\PSH
+\UND tziku
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+LF: kuy
+ZOH004R0011001.txt
+Page 1443

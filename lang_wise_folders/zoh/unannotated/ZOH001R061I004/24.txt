@@ -1,0 +1,62 @@
+\XEN 2 A lot of fruit fell down.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7@nh
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 09/Jan/96
+\lex 7@'tz.i7
+\_no 00056
+\LG MIG
+\PSH [7@tzi7]
+\UND 7@7tz.E7
+\MB vomitar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG vo*mito
+ENG vomit
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7@7tz
+\RTGR T1
+\DSRC TK94
+\CMTS
+\date 29/Jan/96
+\lex bejcha-y@k.k@x
+\_no 00057
+LG MIG
+\PSH [bejchay@kk@x]
+\UND bescha yak.k@x.0
+\MB caballo, INSTR2, comer, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG pesebre
+\ENG manger
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM bestia
+\ETL Sp
+\ROOT k@x
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 08/Jan/96
+\lex chik 7ukum tzujux+p@7
+\_no 00058
+ZOH001R0611004.txt
+Page 24

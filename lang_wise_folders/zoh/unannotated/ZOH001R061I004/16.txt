@@ -1,0 +1,62 @@
+\ROOT 7u7px
+\RTGR 12
+\RTGL levantar_nubes / for clouds to rise up
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\1ex 7om.a7
+\_no 00037
+\LG MIG
+\PSH [7oma7]
+\UND 7om.A7
+\MB echar_humo, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG humo
+\ENG smoke
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 70m
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 15/Oct/94
+\lex 7om.a'=jok
+\_no 00038
+LG MIG
+\PSH [7omajok-]
+\UND 7om.A7=jok
+\MB echar_humo, NOM2, ahumar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG ahumarse
+\ENG to smoke
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7om
+\RTGR 1 12
+\ROOT 2 jok
+\RTGR 2 12
+ZOH001R0611004.txt
+\DSRC HAJ94
+\CMTS to smoke, as in to darken something with smoke (se pone el traste
+negro)
+\date 09/Jan/96
+\lex 7om.a'=p@'
+\_no 00039
+\LG MIG
+Page 16

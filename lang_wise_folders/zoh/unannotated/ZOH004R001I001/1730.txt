@@ -1,0 +1,66 @@
+XEN 1 narrow
+\EXU 2 7@n+ yak.xu7t-w@ 7@n+ y@k.wij
+\XPSH 2 [7@n yakxu7tt@n y@kwij.]
+camisa.
+\XSP 2 Hice angosto mi
+\XEN 2 I took in my blouse.
+\SYN
+\SEMF size
+\ASP transition
+\ARG
+\NOM xu't.i7
+\SUB t@p-xu7t
+\ETYM
+\ETL
+\ROOT xu7t
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\CMTS caus2 yak+ xu7t hacer angosto; encoger
+\date 03/Jan/80
+\lex xu7tz
+\_no 04022
+LG MIG
+\PSH
+\UND xu7tz
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG liendre
+\ENG a type of insect
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+LF: bugs
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex xu7tz kape
+\_no 04023
+\LG MIG
+\PSH
+\UND xu7tz kape
+\MB hacerse_angosto, carrizo
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG carrizo delgado
+\ENG thin reed
+\EXU
+\XSP
+\XEN
+ZOH004R0011001.txt
+\SYN wanin' kape
+\SEMF EB
+\ETYM
+\ETL
+LF: kape
+Page 1730

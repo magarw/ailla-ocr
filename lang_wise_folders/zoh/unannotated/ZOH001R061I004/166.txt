@@ -1,0 +1,62 @@
+\SCI
+\USE
+\SPG frito
+\ENG fried
+\EXU wakax=xe't.e7 (a:sq BA-ed)
+\XPSH [wakaxxete7]
+\XSP frito de res
+\XEN fried beef
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xe7t
+\RTGR T1
+\DSRC HAJ94
+\CMTS CK-PH - HAJ:96 ok/OK: TK't get 'xete7k wakax'
+\date 26/Jun/96
+\lex xik.i7
+\_no 00418
+\LG MIG
+\PHO [xiki7]
+\UND xik. E7
+\MB reirse, NOM7
+\VAR
+\GRAM pcp
+\SPG risa
+\ENG laughter
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT xik
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex xiw.17
+\_no 00419
+\LG MIG
+\PSH [xiwi7]
+\UND xinh.E7
+\MB hincharse, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG hinchazo*n
+\ENG swelling
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH001R0611004.txt
+\ROOT xinh
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 07/Apr/95
+Page 166

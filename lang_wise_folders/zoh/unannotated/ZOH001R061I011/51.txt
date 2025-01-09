@@ -1,0 +1,60 @@
+\_no 00259
+\SPG pedir
+\ENG to ask
+\EX
+\XSP
+\XEN
+\ROOT tze7k T3
+\CMTS antip tze7k. 7oy
+\CMTS pass tze7k.7@m "se pidio*" a una mujer; le fue* pedido la mano
+\lex tzem
+\_no 00260
+\SPG desafiar; provocar; atropellar para pelear; pegar
+\ENG to challenge; to provoke a fight
+\EX
+\XSP
+\XEN
+\ROOT tzem T3
+\CMTS antip tzem. 7oy vi orinar; v/tzem (2); get deriv's
+\CMTS no pass tzem.7@m *
+\CMTS v/tzem (1)
+\lex tzenh
+\_no 00261
+\SPG estar de lado
+\ENG to be on one side
+\EX
+\XSP
+\XEN
+\ROOT tzenh IX, P
+\CMTS caus yak.tzenh ponerse de lado
+\CMTS get deriv's
+\lex tzetz
+\_no 00262
+\SPG labrar
+\ENG to plane
+\EX
+\XSP
+\XEN
+\ROOT tzetz T3
+\CMTS antip tzetz.7oy
+\CMTS pass tzetz.7@m
+\lex tzi
+\_no 00263
+\SPG pegar; dar
+\ENG to hit; to give
+\EX ney tzi7oyy@
+\xSP lo regalo*
+\XEN she gave it as a gift
+ZOH001R0611011.txt
+\EX t@m tzi7oyy@
+\XSP dio* fruta
+\XEN it bore fruit
+\EX 7@y tziw@ jemji*7
+\XSP repartio* para todos
+\XEN he shared it with everyone
+\ROOT tzi T3
+\CMTS antip tzi.7oy
+\CMTS no pass tzi.7@m *
+\lex tzij
+\_no 00264
+Page 51

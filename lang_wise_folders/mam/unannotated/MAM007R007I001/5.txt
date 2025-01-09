@@ -1,0 +1,76 @@
+(47) tzinx
+al.instante
+xjaal,
+persona
+'inmediatamente las águilas se lanzaron a comer la persona,'
+(48) chi=chi=jal.
+B3p=decir=CL
+'dicen.'
+(49) B'ix t-e
+y
+o=xax
+(50) asta
+n=ch=ook
+tzoqpaj=jal choo-1
+INC=B3p=DIR empezar=CL comer-INF
+A3s-SR
+weena
+CPL=INTNS
+bien
+'Y la persona con su cuchillo, estuvo luchando mucho
+ky-ku=b'aj
+qa txkup t-u’n.
+hasta A3p-bajar terminar PL animal A3s-SR:AGT
+'para matar a los animales."
+(51) Ma-tzan chi kub' b'aj-kye
+(52) n=0=kyaj=tzan
+t'iiw,
+PROX=puesB3p bajar terminar=3pENF águila
+'Cuándo los mató a todos los águilas,'
+xjaal t-uk'a
+persona A3S-SR:COM
+0=selpaj
+B3s=luchar
+INC=B3s=DIR=pues estar
+(54) Aa=0-jun
+xaq.
+peña
+'se quedó la persona en la gran peña,'
+(55) aa=0=jun
+t-k'uxb'il, b'an
+R.COM A3s-cuchillo bien
+b'aaq,
+DEM=B3s=uno hueso
+'Habían muchos huesos,"
+teen xjaal
+DEM=B3s=uno
+t-b'aaq-al
+xjaal.
+A3s-hueso-ABST persona
+'Solito miraba todos los esqueletos humanos.'
+(56) 0-chi-tzan.
+(53) T-jun-aal=x
+naq=tzan_ 0=ook
+nimaal
+t-ki-ʼn
+A3s-uno-ABST=solo solo-pues B3s-DIR A3s-mirar-SD AUM
+B3s-decir pues
+'dice.'
+persona
+t=0=ok=x
+nimaal
+ja’la t-witz
+ahora A3s-SR:sobre AUM
+t-e
+EXIST=B3s=entrar-DIR
+t'iiw,
+águila
+A3s-SR:PAC
+txe
+ky-u'n
+nimaal
+A3p-SR:AGT AUM
+'que se habían metido al fondo de la cueva por las águilas,'
+xaq
+A3s+SR:debajo peña
+6

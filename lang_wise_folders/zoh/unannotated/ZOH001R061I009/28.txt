@@ -1,0 +1,62 @@
+\PASS p@.7@m
+\ANTI p@.7oy
+\CMTS
+\lex p@k
+\_no 00113
+\SPG agarrar
+\ENG to get; to grab
+\EX
+\XSP
+\XEN
+\ROOT p@k T3
+\SEMF pick_up
+\PASS p@k.7@m
+\ANTI p@k. 7oy
+\CMTS
+\lex p@7tz
+\_no 00114
+\SPG destripar
+\ENG to scale; to strip
+\EX koke p@7tztz@
+\XSP destripo* pescado
+\XEN he scaled the fish
+\ROOT p@7tz T3
+\SEMF clean, affect
+\PASS p@7tz.7@m destriparse
+\ANTI p@7tz.7oy destripar
+\PRSV p@7tz-ten-e lo tiene destripado
+\CMTS
+\lex taj
+\_no 00115
+\SPG escarbar
+\ENG to dig
+\EX
+\XSP
+\XEN
+\ROOT taj T3
+\SEMF affect, move
+\PASS taj.7@m
+\ANTI taj.7oy
+\PRSV taj-ten lo tiene escarbado
+\CMTS
+\lex ta7k
+\_no 00116
+\SPG remojar algo en la comida
+\ENG to dunk something in food
+\EX tak@7
+impv
+\XSP
+ZOH001R0611009.txt
+\XEN
+\ROOT ta7k T3
+\SEMF move, eat
+\PASS ta7k.7@m remojarse
+\ANTI ta7k. 7oy remojar
+\PRSV ta7k-ten-e lo tiene remojado
+\CMTS
+\lex tan
+\_no 00117
+\SPG (tirar y) pegar
+con cartucho o piedra
+\ENG (to shoot at and) to hit - with a bullet or a rock
+Page 28

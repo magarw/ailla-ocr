@@ -1,0 +1,63 @@
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG panal de avispas
+\ENG wasp nest
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 08/Jan/96
+\lex weni' tzimalapa
+\_no 03649
+\LG MIG
+\PSH [weni tzimalapa]
+\UND weni7 tzimalapa
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG avispa "chimalapa"
+\ENG wasp "chimalapa
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS Germa*n no conoce/he sure doesnt: TK
+\date 26/Jun/96
+\lex wen.neenh
+\_no 03650
+\LG MIG
+\PHO [wenne*nh]
+\UND wen.neenh
+\MB partir, MED1
+\VAR
+\GRAM meas
+\SPG pedazo
+\ENG piece
+\EXU wen.neenh 7an.e
+\XPSH [wenne*nh 7ane]
+\XSP un pedazo de tortilla
+\XEN a piece of a tortilla
+\SYN 7a7p
+\ROOT wen
+\RTGR P (T3)
+\DSRC HAJ95
+ZOH004R0011001.txt
+\CMTS
+\date 03/Jan/80
+Page 1569

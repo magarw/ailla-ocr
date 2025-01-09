@@ -1,0 +1,84 @@
+'.
+.
+P
+MP
+R
+PS
+SS
+G
+CI
+P
+MP
+R
+PS
+SS
+G
+412.
+?ol kíllax kop'á xántak čím k'úhalíl #¹²→ répéntah ‡
+"ol-k-?íl-l-ax ko-p'áh xán-tak -čím k'úh-al-il répéntah
+.1
+|
+tv
+\
+VP
+Main
+(Intro)
+(Pre-Adv)-
+ATRI
+NP
+Pre-Adv
+(Intro).
+VP
+NP
+Main
+Obj
+1
+S
+213
+S---
+S-
+NP
+a
+iv
+VP
+1
+Main
+NP
+Post-Adv.
+`(S)
+future-we-see-*-* our-self how many-* it-rise sun-*-* surely
+we will see each other about noon, surely (if)
+NP
+Post-Adv.'
+S
+S=NP
+xúnNex coNp'át k'ík'an #²22↑ ščí wíN t'ayín #13 bwénoh #³1
+xún Nex c-hoN-p'át k'ik'-an &--čín wÍN t'ay hẳn bwénoh
+L
+1
+1
+1
+n
+Р
+iv
+iv sp P
+S
+ន
+YE
+VP
+NP
+NP
+-S
+✓
+NP
+Subj
+a
+1
+NP
+Intro
+Main Subj Post-Adv.
+K
+NP
+S
+one only present-we-go black-* durative-he-say male to I good
+E only we go tomorrow," he said to me. Good.

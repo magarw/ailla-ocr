@@ -1,0 +1,62 @@
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex yep.e7
+\_no 04138
+\LG MIG
+\PHO [yepe7]
+\UND yep. E7
+\MB extender, NOM7
+\VAR
+\GRAM pcp
+\SPG tendido
+\ENG extended
+\EXU yo't.e' yep.e7
+\XPSH [yote yepe7]
+\XSP ropa tendida
+\XEN clothes hung out to dry
+\SYN
+\ROOT yep
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex yep.naanh
+\_no 04139
+\LG MIG
+\PHO [yepna*nh]
+\UND yep.naanh
+\MB tener, MED
+\VAR
+\GRAM meas
+\SPG una tendida
+\ENG a hanging (of clothes)
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT yep
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS you hang the clothes on the line. maybe they don't dry that day,
+\CMTS so you have to take them down and put them up again the next day.
+\CMTS each of those days is one yep.naanh
+\DATE 03/Jan/1980
+\lex yep-witu'
+\_no 04140
+\LG MIG
+\PSH [yepwitu-]
+\UND yep-witu7
+\MB tender, regresar
+ZOH004R0011001.txt
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tender en todo alrededor
+\ENG to hang all around
+\EXU 7@y+ yep-witu7-w@ bi chik toto7 +d@k (7a(y))
+\XPSH [7@y yepwituw@ bi chik totod@kka.]
+Page 1779

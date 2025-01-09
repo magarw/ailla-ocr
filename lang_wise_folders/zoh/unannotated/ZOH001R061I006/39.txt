@@ -1,0 +1,64 @@
+\SLGL hacer brincar // to cause to jump
+\SPL kek. 7@m
+\SLGR PASS
+\SLGL brincar // to jump
+\EXU 1 7@n+ kek-pa
+\XPSH 1 [7@n kekpa.]
+XSP 1 Brinco.
+\XEN 1 I hop over something.
+\EXU 2 jon kek-w@
+\XPSH 2 [Jon kekk@.]
+\XSP 2 volio* el pa*jaro.
+\XEN 2 The bird flew.
+\EXU 3 kek.7@m-w@ bi noa7
+\XPSH 3 [Kekk@mm@ bi noa7.]
+\XSP 3 Brincaron el arroyo.
+\XEN 3 They jumped over the arroyo.
+\EXU 4 7@n+ yak.kek-pa y@.d@ tzux najak
+\XPSH 4 [7@n yakkekpa y@d@ tzux najak.]
+\XSP 4 voy a hacer brincar esta rana verde.
+\XEN 4 I'm going to make this green frog jump.
+\SYN
+SEMF move
+\ASP semelfactive, activity
+\ARG
+ZOH001R0611006.txt
+\NOM kek.naanh
+\SUB j@x-kek, ni.kek, nik.kek. '@y, yuk.kek
+\ETYM
+\ETL
+\ROOT kek
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex kekx
+\_no_00054
+\LG MIG
+\PSH
+\UND kekx
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG despeltrar; desestillarse, como madera, olla; quitar hojitas no ma*s
+\ENG to chip; to splinter, like wood or a pot; to pick just the leaves
+\SPL kekx.7oy
+\SLGR ANTIP
+\SPL kekx.7@m
+\SLGR PASS
+\SLGL astillarse
+\EXU kekx.7@m-w@ bi 7ay7
+\XPSH [Kekx@mm@ bi 7ay7.]
+\XSP Corto* las hojitas.
+\XEN Someone cut just the little leaves off.
+\SYN
+\SEMF break
+\ASP achievement
+\ARG
+\NOM
+\SUB 7anh.kekx, 7ok.kekx. '@y, j@x-kekx, nik.kekx. '@y, yuk. kekx
+\ETYM
+\ETL
+Page 39

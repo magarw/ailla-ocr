@@ -1,0 +1,91 @@
+day.
+\com
+\idx quant, incorp_nom
+\ord S Pred [v o]
+\ref ZOH001R053 049
+\_no 00050
+\tx pwes de7xe
+\mb pwes te
+\sg1 pues DCT2-SIM
+- tam -wa
+-1/2 PL-COM
+\egl well DCT2-SIM there_is-1/2 PL-COM
+\zoq Pwes de7xe tejidamm@.
+\fts Pues asi* estamos.
+\fte well that's the way we are.
+\com
+\idx
+\ord Av V
+\ref ZOH001R053 050
+\_no 00051
+-7xe teji
+hay
+\tx tze7oyy@.
+\mb
+tejidamm@.
+\tx 7ay
+de gaji
+da way
+\mb
+7adyo de ka -ji7 d@ way -E
+\sg1 luego de DCT3-LOC1 1A moler-NOM3
+\egl later of DCT3-LOC1 1A grind-NOM3 finish
+tze7 -7oy -w@
+\sg1 lavar-ANTIP-COM
+\egl wash -ANTIP-COM
+\idx incorp_nom
+\ord Av Vincorp V
+ZOH001R0531001.txt
+\tx sena.
+\mb sena
+\sg1 cena
+\egl supper
+tukpa,
+tuk
+\ref ZOH001R053 052
+\_no 00053
+n
+n@kpa
+n@k -pa
+7@n
+irse-INC 1E
+-INC go -INC 1E
+\zoq 7ay de gaji d@ waytukpa, n@kpan tze7oyy@.
+\fts Luego de ahi* acabo de moler, voy a lavar.
+\fte Later then I finish grinding, I'm going to wash.
+\com
+-pa
+terminarse-INC
+\ref ZOH001R053 051
+\_no 00052
+\tx da minpa
+pwes gay
+da da wayke7tpa
+\mb d@ min
+-ра pwes ka -Y d@ da way -ke7t -pa
+\sg] 1A venir-INC pues DCT3-TMP 1A 1A moler-REPET-INC
+\egl 1A come -INC well DCT3-TMP 1A 1A grind-REPET-INC for 1E
+para n n para
+para 7@n 7@n para
+para 1E 1E para
+1E for
+\zoq D@ minpa, pwes gay d@- da wayke7tpa paran- n- para sena.
+\fts vengo pues ahora vuelvo de moler para mi cena.
+\fte I come well then I grind again for my, for supper.
+\com
+\idx
+\ord v v
+\tx gay
+7@n tzejaypa
+n 7une
+yote
+d@kkay para ke
+7@n tze7 -jay -pa 7@n 7une7 yote7 d@kkay para ke
+lavar-APPL-INC 1E nin~o/a ropa NPL
+\eg1 DCT3-TMP 1E wash -APPL-INC 1E child
+\mb ka -Y
+\sg1 DCT3-TMP 1E
+clothes NPL
+Page 13
+para que
+for that

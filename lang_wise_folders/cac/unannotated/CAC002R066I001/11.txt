@@ -1,0 +1,34 @@
+ix
+represent some sort of cognitive classes. Mea culpa.
+The most frequent origins of num cl are vtr (actions and the results of actions), vpo
+(shapes, consistencies, aggregations, etc.), and n (measures).
+A detailed description of the domain of numeral classifiers can be found in Hopkins
+(1970). This paper is the only published result of a collaboration with Brent Berlin (Tzeltal) and
+Chris Day (Jacaltec) in which we planned to write an integrated study of the grammar (Hopkins),
+lexicon (Day) and semantics (Berlin) of the domain. The grammar is described in the cited
+article. The lexicon of Chuj, at least, is recorded here, and Tzeltal lexicon and the semantics of
+Tzeltal numeral classifiers, similar to the semantics of the other two systems, were adequately
+covered by Berlin in his doctoral dissertation, Berlin (1964), and in Berlin (1968). One
+conclusion that can be drawn from the comparison of these systems is that while the grammars
+and the semantics are quite similar, the lexicon is not, in general, cognate across the three
+languages. This implies a common semantic patrimony and diffusion of the grammatical system,
+each language independently assigning lexicon to the task. (A similar situation is presented by
+the noun classifiers, see Hopkins (2012, In press).
+Verbs and Verbal Forms
+Three major verb classes are distinguished by derivational and inflectional morphology.
+A fourth class has only one member. Transitive and intransitive verb roots may serve directly as
+verb stems (and take inflection for tense/aspect, etc.) without derivation. Positional verb roots do
+not occur without derivation, and the resulting forms may have various statuses, inflecting as
+statives or as verbs. (In my dissertation I treated these as a non-verbal root class.) Note that the
+status suffixes occur only phrase-final (i.e., they do not occur if anything follows in the verbal
+phrase, such as a subject or object). The existential verb, 'ay 'to be' takes no tense/aspect marking
+and is inflected for subject like a non-verbal predicate (i.e., with Set B suffixes): 'ajtil 'ay-ach,
+Where are you (from)?
+vtr, vin, vpo, vex The first two classes of verbs are marked as vtr (transitive) and vin
+(intransitive) and cited with the status suffixes (on the surface, -a', -o', -u', transitive, and -ih,
+intransitive). Positional verbs are cited in root form and marked as vpo root. In the sample
+phrases and sentences, vtr and vin are usually inflected for tense/aspect and person (subject
+and/or object).
+Tense/aspect preclitics are 'ix, past; tz- (> s- before consonants), present; 'ol, future.
+Subjects and objects: As subjects/agents of transitive verbs (and possessors of nouns), before
+consonants other than glottal stop, the person markers (generally known as Set A pronouns; see

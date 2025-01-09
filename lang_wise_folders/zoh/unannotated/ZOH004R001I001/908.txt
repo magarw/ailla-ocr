@@ -1,0 +1,63 @@
+\ENG toy
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT m@tz
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\lex m@tz-tuk. tuk.w@y
+\_no 02105
+\LG MIG
+\PSH [m@tztuktukw@y-]
+\UND m@tz-tuk. tuk.w@y
+\MB *
+\VAR
+\GRAM vt: depos
+\SCI
+\USE
+\SPG juguetear
+\ENG to play around
+\SPL
+*jugar, cortar, cortar, ITER2
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT m@tz
+\DSRC HAJ95
+\CMTS
+\date 21/Jun/95
+\lex m@tz.(i'). 7aH
+\_no 02106
+\LG MIG
+\PSH [m@@tzi7a-]
+\UND m@tz.E7.7aH
+\MB *jugar, NOM7, VERS1
+\VAR [m@@tz7a]
+\GRAM vt
+\SCI
+\USE
+\SPG jugar
+\ENG to play
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT m@tz
+\DSRC TK94
+\CMTS cf m@tz7@y
+\date 25/Jun/96
+ZOH004R0011001.txt
+Page 908

@@ -1,0 +1,62 @@
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex kuchara
+\_no 01503
+\LG MIG
+\PSH
+\UND kuchara
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG cuchara
+\ENG spoon
+\EXU
+\XSP
+\XEN
+\SYN k@x.i' jepx-p@k. kuy7
+\SEMF
+ETYM cuchara
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex kucharada
+\_no 01504
+\LG MIG
+\PSH
+\UND kucharada
+\MB
+\VAR
+\GRAM med
+\SCI
+\USE
+\SPG cucharada
+\ENG spoonful
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 01/Oct/94
+\lex kudya-tz@k
+\_no 01505
+\LG MIG
+\PSH [kudyatz@k-]
+\UND kudya=tz@k
+\MB cuidar, HACER
+\VAR
+\GRAM vt
+\SCI
+ZOH004R0011001.txt
+Page 653

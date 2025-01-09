@@ -1,0 +1,63 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM cobrar
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex kobra=tz@k. 'oy-pa+a7k
+\_no 01297
+\LG MIG
+\PSH [kobratz@kkoba*7k]
+\UND kobra=tz@k. 7oy-pa +P@7k
+\MB cobrar, HACER, ANTIP, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG cobrador
+ENG money collector
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS como en el carro, camio*n
+\date 07/Feb/96
+\lex koj
+\_no 01298
+\LG MIG
+\PSH
+\UND koj
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG encajar
+\ENG to punch a hole in something
+\SPL koj.7oy
+\SLGR ANTIP
+\SLGL encajar // to punch a hole
+\SPL koj.7@m
+\SLGR PASS
+ZOH004R0011001.txt
+\SLGL encajarse // for a hole to be punched
+\SPL yak.koj.7oy
+\SLGR CAUS. ANTIP
+\SLGL encajarlo
+\SPL koj.ten
+\SLGR PRSV
+\SLGL tenerlo encajado // to have something on the point of a stake
+\SPL koj.ney
+\SLGL ASSUM1
+Page 566

@@ -1,0 +1,88 @@
+\id C:\TEXTS\ZOH001R036.TXT 28/Oct/04
+\ref ZOH001R036 000
+\_no 00001
+\zoq Entrevista Sobre la Medicina Tradicional
+\fts Entrevista Sobre la Medicina Tradicional
+\fte Interview about Traditional Medicine.
+\com curandero: Omobono Sa*nchez Miguel
+\com entrevistador: Germa*n Sa*nchez Morales
+\com 10/11/95, en San Miguel Chimalapa, Oaxaca, Mexico
+\com grabado por GSM, transcrito por HAJ
+\com traducido al espan~ol por GSM
+\com analisado y traducido al ingles por HAJ
+\com healer: Omobono Sa*nchez Miguel
+\com interviewer:
+\com
+\com
+\com 11/10/94, in San Miguel Chimalapa, Oaxaca, Mexico
+\com recorded by GSM, transcribed by HAJ
+\com translated into Spanish by GSM
+\com analyzed and translated into English by HAJ
+Ortografi*a
+Orthography
+\com 7
+\com @
+\com nh
+\com tz
+\com x
+\com j
+\com
+pau*sula glotal
+vocal medio central
+nasal velar
+German Sa*nchez Morales
+ZOH001R0361001.txt
+(ng)
+africativo alveolar (ts)
+(sh)
+(h)
+fricativo palatal
+glottal fricative
+estre s
+\ref ZOH001R036 001
+\_no 00002
+\tx OSM: d@x d@ nampa
+\mb OSM
+d@x da nam
+-pa
+\sg1 OSM: 1Prn 1A decir-INC
+\egl OSM: 1Prn 1A say -INC
+\zoq OSM: D@x da nampa,
+\fts OSM: Yo digo,
+\fte OSM: I say,
+\com
+\idx
+\ref ZOH001R036 002
+\_no 00003
+\txd@_n@pin
+da n@pin tini
+\mb de n@pin7 tin -E
+\sg1 de sangre cagar-NOM3 3PSN 1E
+\egl of blood shit -NOM3 3PSN 1E
+glottal stop
+mid central vowel
+velar nasal
+alveolar affricate
+palatal fricative
+7@yti 7@n tzampa
+7@yti7 7@n tzam
+\zoq de n@pintini7@yti 7@n tzampa,
+\fts de la dysenteria platico,
+\fte I speak about dysentery,
+\com
+\idx
+stress
+-pa
+platicar-INC
+converse-INC
+\ref ZOH001R036 003
+\_no 00004
+\tx 7i n@pin tini
+7@n 7anhnittampa
+ney xi
+pakjo7
+7@n 7anhnit-tam -pa ney xi7 pak -jo7
+\sg1 y sangre cagar-NOM3 1E tener -1/2PL-INC IPrn culo hueso-LOC2
+\mb 7i n@pin7 tin
+-E
+Page 1

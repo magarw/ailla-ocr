@@ -1,0 +1,62 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@n
+\RTGR P, (12)
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+\lex chik wakxi7
+\_no 00584
+\LG MIG
+\PSH
+\UND chik wakxi7
+\MB chico, pequen~o
+\VAR
+\GRAM amams
+\SCI
+\USE
+\SPG chiquito
+\ENG very small
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 13/Jun/95
+\lex chik wixko7
+\_no 00585
+\LG MIG
+\PSH
+\UND chik wixko7
+\MB
+\VAR
+\GRAM a(m)s
+\SCI
+\USE
+\SPG enano; chaparro; chaparrito
+\ENG dwarf
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 13/Jun/95
+\lex chik xa'+a7k
+\_no 00586
+\LG MIG
+\PSH [chikxa*7]
+\UND chik xa7 +P@7k
+ZOH004R0011001.txt
+Page 251

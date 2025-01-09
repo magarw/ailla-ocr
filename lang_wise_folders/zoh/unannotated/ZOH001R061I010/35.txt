@@ -1,0 +1,61 @@
+\EX 7@y maytenn@
+\XSP lo tiene contado
+\XEN he's got it counted
+\EX may.@-pa (@
+RR)
+\XSP se cuenta
+\ROOT may T3
+\SEMF cog
+\PASS may.7@m
+\CMTS
+\lex mek
+\_no 00146
+\SPG mentir; engan*ar; chismear
+\ENG to lie; to deceive; to gossip
+\EX jake mek
+\XSP engan~ar mucho
+\XEN to deceive a lot
+\ROOT mek Il
+\SEMF cog, speak
+\CMTS
+\lex me7kx
+\_no 00147
+\SPG abrazar
+\ENG to hug
+\EX ney me7kx-xuk-@-wa
+\XSP se abrazaron
+\XEN they hugged each other
+\EX 7@y me7kxtenn@
+\XSP lo tiene abrazado
+\XEN he's got it hugged to him
+\ROOT me7kx T3
+\SEMF touch
+\PASS NONE me7kx.7@m *
+\ANTI me7kx.7oy
+\CMTS
+\lex me7tz
+\_no 00148
+\SPG buscar
+\ENG to look for
+\EX metza7
+\XSP buscalo!
+\XEN look for it!
+\ROOT me7tz T3
+\SEMF percep
+\PASS NONE me7tz.7@m
+\ANTI me7tz.7oy
+\CMTS
+ZOH001R0611010.txt
+\lex mi7kx
+\_no 00149
+\SPG agarrar en el pun~o algo pequen~o que no se vea
+\ENG to hold something small in the closed fist so it isn't visible
+\EX mi7kx@mm@n tzanhkuy7
+\XSP se cerro* el pun~o de mi mano
+\XEN my fist closed around it
+\ROOT mi7kx P (T3)
+\SEMF touch, hand, pick_up
+\PASS mi7kx.7@m
+\ANTI mi7kx.7oy
+\CMTS
+Page 35

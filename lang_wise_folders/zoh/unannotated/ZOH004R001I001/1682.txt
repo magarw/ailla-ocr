@@ -1,0 +1,63 @@
+\ETL
+\ROOT 1 xem
+\RTGR 1 T1
+\ROOT 2 t@
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS CK-PH: should be /xem(a)t@' /
+\date 26/Jun/96
+\lex xepe7
+\_no 03910
+LG MIG
+\PSH
+\UND xepe7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG luna; mes
+\ENG moon; month
+\EXU tum xepe7
+\XSP un mes
+XEN one month
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+\1ex xepe'=xuk. kuy'+jo7
+\_no 03911
+\LG MIG
+\PSH [xepexukkuyjo7]
+\UND xepe7 xuk.kuy7+jo7
+\MB mes, acabarse, INSTR1, LOC2
+\VAR
+\XEN
+\SYN
+\GRAM sms
+\SCI
+\USE
+\SPG al ultimo di*a del mes; final del mes
+\ENG on the last day of the month; at the end of the month
+\EXU
+\XSP
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+\ETL
+\ROOT xuk
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex xepu
+\_no 03912
+\LG MIG
+\PSH
+\UND xepu
+HAJ:96 both VARS correct
+Page 1682

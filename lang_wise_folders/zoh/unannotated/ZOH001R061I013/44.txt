@@ -1,0 +1,52 @@
+\ENG desire
+\lex desena
+\_no 00542
+\SPG de Sena
+\ENG de Sena
+\lex desfada*r
+\_no 00543
+\SPG desfadar
+\ENG get tired
+\lex desgrasya
+\_no 00544
+\SPG desgracia
+\ENG beast
+\lex desgusta*r
+\_no 00545
+\SPG desgustar
+\ENG give_up
+\lex desi*r
+\_no 00546
+\SPG decir
+\ENG say
+\lex desmonte
+\_no 00547
+\SPG desmonte
+\ENG field
+\lex despedi*r
+\_no 00548
+\SPG despedir
+\ENG say goodbye
+\lex despwe*s
+\_no 00549
+\SPG despues
+\ENG after
+\lex desyembre
+\_no 00550
+\SPG diciembre
+\ENG december
+\lex descontrola*r
+\_no 00551
+\SPG descontrolar
+\ENG lose_faith
+\lex detene*r
+\_no 00552
+\SPG detener
+\ENG detain
+\lex dexde
+\_no 00553
+\SPG desde
+\ENG since
+\lex dexsbelado
+ZOH001R0611013.txt
+Page 44

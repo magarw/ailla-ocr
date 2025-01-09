@@ -1,0 +1,62 @@
+\XSP 6 El viento desarreglo* mi cabello.
+\XEN 6 The wind messed up my hair.
+\SYN
+\SEMF arrange
+\ASP activity, achievement
+\ARG
+\NOM 7on.neenh, 7on. kuy7
+SUB ko.7on
+\ROOT 7on
+\RTGR P (TX)
+\DSRC HAJ95
+\CMTS can't get any intransitive forms, T1 nor T2 nor ANTIP
+\date 03/Jan/80
+\DATE 09/Aug/02
+\lex 7on.kuy7
+\_no 00447
+\LG MIG
+\PHO [7onkuy7]
+\UND 7on.kuy7
+\MB desarreglar, INSTR1
+\VAR
+\GRAM instr1
+\SPG peine para hacer aracha el cabello
+\ENG teasing comb
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT 7on
+\RTGR P (T2)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex 7on.ney yo't.e7
+\_no 00448
+\LG MIG
+\PSH [7onney- yote7]
+\UND 7on.ney yo7t. E7
+\MB desarreglar, ASSUM1, ropa
+\VAR
+\GRAM assum1 + obj
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG 1 estar malpuesta la ropa, no esta* doblado
+\SPG 2 monto*n de ropa
+\ENG 1 for clothes to be rumpled, not folded
+\ENG 2 a heap of clothing
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 7on
+\RTGR P (TX)
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex 7on.neenh
+Page 192

@@ -1,0 +1,63 @@
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG destejer; desbaratar; deshilar
+\ENG to unravel; to come apart
+\SPL pujum. 7oy
+\SLGR ANTIP
+\SLGL destejer // to unravel
+\SPL pujum.7@m
+\SLGR PASS
+\SLGL destejerse // to be unravelled
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF arrange
+\ASP accomplishment
+\ARG
+\NOM pujum.i7
+\SUB ko.pujum
+\ETYM
+\ETL
+\ROOT pujum
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex pujum.i7
+\_no 02782
+\LG MIG
+\PHO [pujumi7]
+\UND pujum.E7
+\MB destejer, NOM7
+\VAR
+\GRAM pcp
+\SPG destejido
+\ENG unwoven
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT pujum
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+ZOH004R0011001.txt
+\lex puj-wayay'.7a
+\_no 02783
+\LG MIG
+\PSH [pujwayay7a-]
+\UND puj-wayay!.7a
+\MB soplar, frio, VERS1
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG enfriar soplandolo
+\ENG to blow cool
+\EXU 7@n+ xuj-wayay'.7a-w@ 7@n+ k@x. E
+Page 1197

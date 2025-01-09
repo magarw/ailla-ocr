@@ -1,0 +1,63 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex t@k 7anh.k@.i
+\_no 03143
+LG MIG
+\PSH [t@k 7anhk@i]
+\UND t@k 7anh-k@y. E
+\MB casa, BOCA, 11evar_en_mano, NOM7
+\VAR t@k 7anh.k@y
+\GRAM s (m) s
+\SCI
+\USE
+\SPG puerta de varilla o carrizo
+ENG door of cane or reeds
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kay
+\RTGR TX
+\DSRC TK94
+\CMTS CK-PH HAJ:96, actually I can't decide if it's i or y at the end; NOT
+7anh.k@y*: TK
+\date 26/Jun/96
+\lex t@k 7anh-k@.i kuy
+\_no 03144
+\LG MIG
+\PSH [t@k 7anhk@i kuy]
+\UND t@k 7anh-k@y. E kuy
+\MB casa, BOCA, 11evar_en_mano, NOM7, palo
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG puerta de madera; varilla para puerta
+\ENG wooden door; stout twigs for a door
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT kay
+\RTGR TX
+\DSRC TK94
+\CMTS
+\date 26/Jun/96
+\DATE 03/Jan/1980
+Page 1352

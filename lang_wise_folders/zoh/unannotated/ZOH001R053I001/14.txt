@@ -1,0 +1,63 @@
+\tx n@kpa
+\mb nak -pa
+7anhmayke7tchukk@.
+Žay
+7@y 7anh -may
+-ke7t -xuk-w@
+\sg1 irse-INC 3E BOCA -contar-REPET-3PL-DINC
+\egl go -INC 3E MOUTH-count -REPET-3PL-DINC
+\zoq Gay 7@n tzejaypan 7uneyoted@kkay para ke n@kpay 7anhmayke7tchukk@.
+\fts voy a lavar las ropas de mis hijos para que vaigan a la escuela de
+vuelta.
+ZOH001R0531001.txt
+\fte I'm going to wash my children's clothes so they can go to school again.
+\com
+\idx
+\ord v o [v]
+\ref ZOH001R053 053
+\_no 00054
+\tx n@kpa
+\mb
+y
+7anhmayxukk@.
+nak -pa 7@y 7anh -may -xuk-w@
+\sgl irse-INC 3E BOCA -contar-3PL-dINC
+\egl go -INC 3E MOUTH-count -3PL-dINC
+\zoq N@kpay 7anhmayxukk@.
+\fts vaigan a la escuela.
+\fte They go to school.
+\com
+\idx
+\ord v
+\ref ZOH001R053 054
+\_no 00055
+\tx
+pwes de7xe de7.
+\mb pwes te
+-7xe te
+-7
+\sg1 pues DCT2-SIM DCT2-NOM1
+\egl well DCT2-SIM DCT2-NOM1
+\zoq Pwes de7xe de7.
+\fts Pues asi* es.
+\fte well that's that.
+\com
+\idx
+\ref ZOH001R053 055
+\_no 00056
+\tx tey
+ya d@ minja
+ti bi n@mke7tpa.
+ti bi n@m
+-ke7t -pa
+ya d@ min -jay -A
+\mb te -y
+\sg1 DCT2-TMP NEG 1A venir-APPL-nINC que DEF decir-REPET-INC
+\eg1 DCT2-TMP NEG 1A come -APPL-nINC what DEF say -REPET-INC
+\zoq Tey ya da minja ti bi n@mke7tpa.
+\fts Ahora no se me viene que es lo que voy a decir.
+\fte Now it doesn't come to me what more I'm going to say.
+\com
+\idx unmrk_rel
+\ord AV V O
+Page 14

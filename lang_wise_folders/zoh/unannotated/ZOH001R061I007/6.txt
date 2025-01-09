@@ -1,0 +1,61 @@
+\ASP state
+\CAUS yak.jaway hacer arder
+\CMTS
+\date 03/Jan/80
+\lex jay
+\_no 00022
+\SPG dilatar; demorarse
+\ENG to delay
+\EX wen=jay
+\XSP tardarse mucho
+\XEN to delay a lot
+\ROOT jay 12
+\SEMF motion
+\ASP activity
+\CAUS yak.jay hacer dilatar
+\CMTS
+\date 03/Jan/80
+\lex jej
+\_no 00023
+\SPG vivir
+\ENG to live
+\EX
+\XSP
+\XEN
+\ROOT jej 12
+\SEMF life
+\ASP state, activity
+\CAUS yak.jej dar vida (Dios)
+\date 03/Jan/80
+\lex jek
+\_no 00024
+\SPG derrumbarse cosa; una cosa que esta* estivada, amontonada, derrumbada
+\ENG to crumble something stacked up, piled up,
+\EX jekk@ nax
+\XSP se derrumbo* la tierra
+\XEN the earth crumbled
+\ROOT jek IX
+\SEMF fall
+\ASP process
+\CAUS yak.jek hacer que se derrumbada
+\CMTS
+\date 03/Jan/80
+\lex ji7i
+\_no 00025
+ZOH001R0611007.txt
+\SPG grun-ir
+\ENG to grow]
+\EX
+\XSP
+\XEN
+\ROOT ji7i Ix
+\SEMF speak-animal
+\ASP activity
+\CAUS yak.ji7i hacer grun-ir
+\CMTS
+\date 03/Jan/80
+\lex ji7kx
+\_no 00026
+\SPG tener olor fuerte de chile ancho
+Page 6
+■

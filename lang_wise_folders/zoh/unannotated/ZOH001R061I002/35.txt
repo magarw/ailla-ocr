@@ -1,0 +1,61 @@
+\ENG to grind for tortillas
+\SEMF cook, corn
+\ASP activity
+\ARG patient
+\NOM ka't.i7
+\RTGR T1
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex k@7tz
+\_no 00140
+\SPG masticar
+\ENG to chew
+\SEMF eat
+\ASP activity
+\ARG
+\NOM
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex k@x [1]
+\_no 00141
+\SPG comer
+\ENG to eat
+\SEMF eat
+\ASP activity
+\ARG
+\NOM k@x. kuy7, k@x.i, k@x-tuku7, k@x-tup.u7, k@x.7@m-pa+a7k,
+\NOM ni.k@x, yak.k@x
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex k@y
+\_no 00142
+\SPG llevar en la mano
+\ENG to carry in the hand
+\SEMF hand, carry
+ZOH001R0611002.txt
+\ASP activity
+\ARG
+\NOM 7anh.k@.i, 7anh.k@y.kuy7, k@y.naanh
+\RTGR T3
+\POS Y
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex 107k
+\_no 00143
+\SPG coger
+\ENG to fuck
+\SEMF sex
+Page 35

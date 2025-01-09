@@ -1,0 +1,20 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+These examples illustrate two effects of borrowing at the phonological
+and morphological levels. Neither /g/ nor /d/ are phonemes in MIG Zoque
+(apart from the result of intervocalic voicing); these and other phonemes, such
+as /s/, are generally confined to the borrowed words. Spanish inflectional
+morphemes, like the plural /s/ of wakaš, vacas, are also confined to loan
+words. There are no derivational morphemes borrowed from Spanish into MIG
+Zoque.
+Spanish verb stems are 'Zoque-fied' by being incorporated with the root
+cək-, 'to do' (section 7.3.1), illustrated in example (2.6). Spanish verbal
+inflections never appear in Zoque sentences, although the negative words no
+and ni are sometimes used in addition to the MIG Zoque negative ya (section
+5.5.3). Spanish pronouns only appear in relative clause constructions: ?el ke X,
+él que X, 'he who X'.
+(2.7) døx mix respaldatzøkpa
+dəš miš+ respaldar=cək-pa
+1 Prn 1>2+ support=do-INC
+'I will support you."
+22
+(ZOH001R024-402)

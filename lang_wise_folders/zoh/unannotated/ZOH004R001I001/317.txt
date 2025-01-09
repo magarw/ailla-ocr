@@ -1,0 +1,62 @@
+ZOH004R0011001.txt
+\CMTS he likes all three: 3E, 3A, antip. Can't get this w/1&2 of course
+\date 03/Jan/80
+\lex jenen.e7
+\_no 00735
+\LG MIG
+\PHO [jenene7]
+\UND jenen. E7
+\MB deshacerse, NOM7
+\VAR
+\GRAM pcp
+\SPG desolvido
+\ENG dissolved
+\EX jenen.e7+k_tzoy7
+\XPSH [jenene7k tzoy7]
+\XSP remedio desolvido
+\XEN dissolved medicine
+\SYN
+\ROOT jenen
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex jenen-pa+a7k
+\_no 00736
+\LG MIG
+\PSH [jenenpa*7k]
+\UND jenen-pa +P@7k
+\MB deshacerse, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG una cosa que se disuelve
+\ENG something that dissolves
+SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jenen
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 06/Feb/96
+\lex jep
+\_no 00737
+\LG MIG
+\PSH
+\UND jep
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG trayar maguey
+\ENG to strip maguey fibers
+Page 317

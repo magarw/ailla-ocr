@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS CK-GR ok
+\CMTS yellow in the sense of a fruit that's ripening; pu7tz.pu7tz is when
+it's altogether yellow
+\date 11/Feb/96
+\lex xujun.'aH
+\_no 04004
+\LG MIG
+\PSH [xujunna-]
+\UND xujun.7aH
+\MB amarillito, VERS1
+\VAR
+\GRAM vers1
+\SCI
+\USE
+\SPG ponerse amarillito
+\ENG to turn yellow
+EXU xujun.'aH-w@ t@m
+\XPSH [Xujunnaw@ t@m.]
+\xSP Se fue* amarillandose la fruta.
+\XEN The fruit was turning yellow.
+\SYN
+\SEMF
+ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\1ex_xuj=wayay'.7a
+\_no 04005
+\LG MIG
+\PSH [xujwayay7a-]
+\UND xuj-wayay'. 7a
+\MB soplar, frio, VERS1
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG enfriar soplando
+\ENG to blow cool
+ZOH004R0011001.txt
+\EXU_7@n+ xuj=wayay'.7a-w@ 7@n+ k@x.E
+\XPSH [7@n xujwayay7aw@n k@xi.]
+\XSP Sople* mi comida para enfriarla.
+\XEN I blew on my food to cool it.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xuj
+\RTGR T3
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\1ex xuj-xuk. '@y
+\_no 04006
+Page 1722

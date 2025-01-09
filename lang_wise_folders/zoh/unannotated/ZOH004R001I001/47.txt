@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 24/Jun/96
+\lex 7anh-k@
+\_no 00108
+\LG MIG
+\PSH [7anhk@]
+\UND 7anh-k@
+\MB
+\VAR
+\USE locative
+\GRAM av
+\SPG debajo
+\ENG under
+\SPL
+\SLGR
+\EXU
+\XPSH
+\XSP
+\XEN
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\DATE 03/Jan/1980
+\lex 7anh-k@.i
+\_no 00109
+\LG MIG
+\PSH [7anhk@i]
+\UND 7anh-k@y. E
+\MB BOCA, 11evar_en_mano, NOM7
+\VAR
+\GRAM pcp
+\SPG (estar) tapado
+\ENG (to be) covered
+\SPL
+\SLGR
+\EXU
+\XPSH
+\XSP
+\XEN
+\SYN
+\SEMF
+\ROOT k@y
+\RTGR T3
+\DSRC HAJ97
+\CMTS
+\date 03/Jan/80
+\lex 7anh-k@+jo7
+\_no 00110
+\LG MIG
+\PSH [7anhk@jo7]
+\UND 7anh-k@+jo7
+ZOH004R0011001.txt
+Page 47

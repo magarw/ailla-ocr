@@ -1,0 +1,62 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT mon
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 22/Jun/96
+\lex yuk.mux
+\_no 04297
+\LG MIG
+\PSH [yukmux-]
+\UND yuk.mux
+\MB ARR, saber
+\VAR
+\GRAM vt
+\SPG informarse, saber
+\ENG to be informed, to know
+\EXU 7@y+ yuk.mux-w@ ke min-pa ye.y
+\XPSH [7@y yukmuxx@ ke minpa yey.]
+\XSP Lo supo que viene hoy.
+\XEN He found out she was coming today.
+\SYN
+\ROOT mux
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 22/Jun/96
+\lex yuk.muy
+\_no 04298
+\LG MIG
+\PSH [yukmuy-]
+\UND yuk.muy
+\MB ARR, tener_en_boca
+\VAR
+\GRAM vt
+\SPG levantar con la boca
+\ENG to lift up with your mouth
+\EXU 7@y+ yuk.muy-w@ mexa+jo' p@n@*7k_paja7k+p@7
+\XPSH [7@y yukmuyy@ mexajo p@n@*7k paja7kp@7.]
+\XSP Levanto* con la boca el dulce que estaba en la mesa.
+\XEN He lifted up the candy that was on the table with his mouth.
+\SYN
+\ROOT muy
+\RTGR T2, 12
+\DSRC HAJ95
+\CMTS OK:TK
+\date 26/Jun/96
+ZOH004R0011001.txt
+\lex yuk.nek
+\_no 04299
+\LG MIG
+\PSH [yuknek-]
+\UND yuk.nek
+\MB ARR, estivar
+\VAR
+\GRAM vt
+\SPG estivar
+\ENG to stack
+\EXU 7@y+ yuk.nek-w@ k@pi
+Page 1846

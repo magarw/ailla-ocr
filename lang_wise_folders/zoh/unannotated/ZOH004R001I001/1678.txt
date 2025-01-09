@@ -1,0 +1,63 @@
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+\lex xek
+\_no 03901
+\LG MIG
+\PSH
+\UND xek
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG regar terreno con agua
+\ENG to spread water; to irrigate
+\SPL xek. 7oy
+\SLGR ANTIP
+\SLGL regar (agua) // to spread (water); to irrigate
+SLGR NO PASS
+\EXU 1 7@y+ xek-w@ 7@n+ mok bi n@7
+\XPSH 1 [7@y xekk@n mok bi n@7.]
+\XSP 1 Le paso* ri*o mi mazorca.
+\XEN 1 The river irrigated my cornfield.
+\EXU 2 n@mm@ 7@y+ xek-w@ bi yuj.kuy7
+\XPSH_2 [N@mm@y xekk@ bi yujkuy7.]
+\XSP_2_Esta* regando su milpa.
+\XEN 2 He's irrigating his cornfield.
+\SYN
+\SEMF water, farm
+\ASP process
+\ARG
+\NOM xek.e
+\SUB xek-tunh-poy
+\ETYM
+\ETL
+\ROOT xek
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+ZOH004R0011001.txt
+\CMTS se trata de un regadillo
+\CMTS get sv or pcp
+\CMTS cuando el ri*o se honda, y entra en la sembradura
+\CMTS when the river gets deep, it rises and flows over the milpa
+\date 03/Jan/80
+\lex xek.e
+\_no 03902
+\LG MIG
+\PSH [xeke]
+\UND xek. E
+\MB regar_agua, NOM7
+\VAR
+\GRAM pcp
+\SPG regado
+\ENG irrigated
+\EXU mok xek.e+7am / xek.e+7am 7@y+ mok
+\XPSH [mok xeke7am] / [xeke7am 7@y mok]
+\XSP ya esta* regado la milpa
+\XEN an irrigated field
+Page 1678

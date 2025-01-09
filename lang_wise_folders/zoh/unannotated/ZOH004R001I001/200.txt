@@ -1,0 +1,64 @@
+\ENG to joke
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 7otonh
+\RTGR 1 11
+\ROOT 2 * m@tz
+\DSRC HAJ94
+\CMTS
+\date 28/Apr/95
+\lex 7otonh-pa+a7k tzux-jon
+\_no 00466
+\LG MIG
+\PSH [7otonhpa*7k_tzuxjon]
+\UND 7otonh-pa +P@7k tzux=jon
+\MB hablar, INC, REL, verde, pa*jaro
+\VAR 7otonhpaa+7 tzux-jon
+\GRAM sms
+\SCI
+\USE
+\SPG loro que habla
+\ENG talking parrot
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT 7otonh
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex 7otonh.pakp@
+\_no 00467
+\LG MIG
+\PSH [7otonhpakp@-]
+\UND 7otonh.pakp@
+\MB hablar, CEL
+\VAR
+\GRAM vi
+LF: jon
+\SCI
+\USE
+\SPG hablar antes de su turno
+\ROOT 7otonh
+\RTGR 11
+ZOH004R0011001.txt
+\ENG to speak out of turn; to interrupt
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\DSRC HAJ02
+\CMTS
+Page 200

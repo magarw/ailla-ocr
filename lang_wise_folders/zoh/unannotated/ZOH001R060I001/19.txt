@@ -1,0 +1,74 @@
+\tx mixtu teji7aw@n
+\mb mixtu7 teji
+\sgl gato
+\eg1 cat
+hay
+there_is-VERS1-COM-1E
+\fts el gato esta* en mi casa
+fte the cat is in my house
+\com
+\idx
+\ref 071
+\_no 00072
+\tx mixtu tenn@
+\mb mixtu7 ten
+\sgl gato
+\eg1 cat
+\ref 072
+\_no 00073
+\tx tenn@
+\mb ten
+-7a -w@ -7@n
+-VERS1-COM-1E
+ZOH001R0601001.txt
+t@kjo7
+t@k -jo7
+casa -LOC2
+house-LOC2
+t@kwinjo7
+t@k -win -jo7
+casa -CARA-LOC2
+pararse-COM
+stand -COM house-FACE-LOC2
+-wa
+\fts el gato esta* parado en frente de la casa
+\fte the cat is standing in front of the house
+\com
+\idx
+\ref 073
+\_no 00074
+\tx witpa
+\mb wit
+-pa
+\sg1 andar-INC gato
+\egl walk -INC cat
+-wa
+mixtu tum kuy7okoxk@t@kj@7
+mixtu7 tum kuy -7okox-k@t@kja7
+\sg1 pararse-COM gato uno palo-mata -junto_a
+\egl stand -COM cat one tree-shrub-beside
+\fts el gato esta* parado debajo de un a*rbol
+\fte the cat is standing under a tree
+\com
+\idx
+mixtu neatzapji7
+mixtu7 nea7 -tzapji7
+pared-encima
+wall - on
+fts anda el gato encima de la pared
+\fte the cat is walking on the wall
+\com
+\idx
+\ref 074
+\_no 00075
+pitz@mi
+kuy7okoxk@t@kj@*nh
+\tx mixtu yukpoyy@
+\mb mixtu7 yuk-poy -w@ pitz@m-E kuy -7okox-k@t@kj@@nh
+\sg1 gato ARR-juirse-COM salir -NOM3 palo-mata -de_abajo
+\eg1 cat UP -flee -COM leave -NOM3 tree-shrub-from_under
+\fts el gato salio* corriendo abajo de un a*rbol
+\fte the cat ran out from under a bush
+\com
+\idx
+Page 19

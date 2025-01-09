@@ -1,0 +1,62 @@
+\GRAM SV
+\SCI
+\USE
+\SPG juguete
+\ENG toy
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * m@tz
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\lex m@tz.(i'). 7aH
+\_no 00191
+\LG MIG
+\PSH [m@@tzi7a-]
+\UND m@tz.E7.7aH
+\MB *jugar, NOM7, VERS1
+\VAR [ma@tz7a]
+\GRAM vt
+\SCI
+\USE
+\SPG jugar
+\ENG to play
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT * m@tz
+\DSRC TK94
+\CMTS cf m@tz7@y
+\date 25/Jun/96
+\lex m@'k.i7
+\_no 00192
+\LG MIG
+\PHO [m@ki7]
+\UND m@7k. E7
+\MB exprimir, NOM7
+\VAR
+\GRAM pcp
+\SPG exprimida
+\ENG wrung
+\EXU yo't.e m@'k.i7
+\XPSH [yote m@ki7]
+\XSP ropa exprimida
+\XEN wrung clothes
+\SYN
+\ROOT m@7k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex na.e7
+ZOH001R0611004.txt
+Page 78

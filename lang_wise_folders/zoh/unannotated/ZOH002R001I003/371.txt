@@ -1,0 +1,47 @@
+suffixes: -wǝ (cOPT, completive optative) or -A? (iOPT, incompletive optative).
+The person agreement markers appropriate for the verb follow yakka. The
+second syllable of yakkə is often elided, making it easy to confuse with the
+causative.
+It is used as a third-person imperative in reported speech ("He said that
+they should V"), as shown in examples (13.30 i-ii). It is also used as an indirect
+imperative ("Let her V"), as shown in examples (iii-iv), as a very polite second-
+person imperative (v-vi), and as an expression of a desired or potential state of
+affairs ("That it should V"), as shown in examples (vii-ix).
+(13.30)
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+nømmø ga 'angkimmobá' yaknøkkø kuk
+0 nəm-wə ga?
+3A decir-COM aquel líder
+'Dijo el líder que vaiga a la mitad.'
+?aŋkimmobá?k yakkə 0 nək-wə kuk
+VOL 3A ir-COM centro
+døxxøn tze'kkø yak dø kumxukø
+dəš 7ǝn+ ce?k-wə
+yakkə də+ kum-šuk-A?
+1 Prn 1E+ pedir-COM VOL 1A+ enterrarse-3PL-iOPT
+'Yo lo pedí que me entierre."
+yakkøy po' tum kaxnáng winjóng
+yakkə ?əy+ pə?-A?
+yakkøy me'chukø bi toto'
+bi toto?
+yakkə ?əy+ me?c-šuk-A?
+VOL 3E+ buscar-3PL-iOPT DEF papel
+'Que lo busquen papel.'
+(ZOH001R024-103)
+tum kaš.naaŋ
+win+hoon
+VOL 3E+ poner-iOPT uno dar_paso. MED CARA+DIR 1
+'Que ponga un paso así adelante.'
+yakkø mix tzømkømangngødamø
+yakkə miš cəm=kə.maŋ.?əy-tam-A?
+'Que me suban.'
+(ZOH001R027-042)
+360
+(ZOH001R024-170)
+(ZOH001R029-089)
+2>1+cargar=FUERA.*pisar.SUF-1/2PL-iOPT
+(ZOH001 RO12-197)

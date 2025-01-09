@@ -1,0 +1,40 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+3.3.8. Syllable contraction
+When two vowels are juxtaposed, through deletion of a glottal stop
+(3.3.7) or some (unknown) historical process, they contract to form a single
+syllable. This is evident at the ends of words where the contraction produces
+an irregular primary stress on the final syllable. This is the result we would
+expect if stress were assigned to the penultimate syllable, according to the
+regular rule, and then the ultimate syllable is lost.
+(3.14)
+(i)
+dey dø minnám
+dey də+ min-wǝ+?am
+now 1A+ come-COM+NOW
+'Now I have come.'
+(4) glottal stop deletes
+(5) vowels contract
+(6) gemination
+(ii)
+In example (3.14 i), the /ə/ of the completive suffix becomes an /a/, in
+harmony with the clitic vowel. Then the intervocalic glottal stop deletes, and
+then the vowels contract. The completive suffix syllable, which had the stress
+at the beginning of this process by the regular penultimate stress rule, keeps it.
+The vowel that survives the contraction is the one that had the stress, so the
+stress stays here instead of moving back to the preceding syllable (although in
+context, sometimes this final stress is very weak).
+So, the rules apply in the following order:
+(1)
+(2) stress assignment
+(3) vowel harmony
+kaxnáng
+kaš.naan
+step. MEAS
+'step'
+41
+də min-wǝ+?am
+də min-wǝ +?am
+də min-wá+?am
+də min-wáam
+də min-wám
+də minnám

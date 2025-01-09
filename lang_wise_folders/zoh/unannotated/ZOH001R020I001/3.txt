@@ -1,0 +1,72 @@
+\ref ZOH001R020 007
+\_no 00008
+\tx n@mm@ y nakxkaxxukk@
+\mb n@mm@ 7@y nakx
+-ka7
+\sg1 PROG 3E pegar_con_palo-morirse-3PL-COM
+\eg1 PROG 3E hit_with_stick-die
+\zoq N@mm@y nakxkaxukk@.
+\fts Lo esta*n matando a garrotazo.
+\fte They were beating it to death.
+\com
+\idx
+\not
+\idx aux_p1, vseq_cmp
+\ref ZOH001R020 008
+\_no 00009
+\tx 7@y nakxjujxukpa
+\mb 7@y nakx
+\sg1 3E
+\egl 3E hit_with_stick-lay_eggs
+\not
+\idx vseq_cmp
+\ref ZOH001R020 009
+\_no 00010
+\tx 7i bi makpa*7k
+\mb 7i bi mak
+-juj
+pegar_con_palo-poner_huevos-3PL-INC
+\zoq 7@y nakxjujxukpa,
+\fts Estaban garroteando para que pusiera huevo a la fuerza,
+\fte They were beating it to make it lay eggs,
+\com
+\idx
+\com
+\idx
+ZOH001R0201001.txt
+\not
+\idx aux_p2
+\ref ZOH001R020 010
+\_no 00011
+\zoq 7i bi makpa*7k_p@n_7@y 7ixmuxx@.
+\fts y el pescador lo vio.
+\fte and the fisherman saw them.
+\tx ke yuk@yy@
+\mb ke
+\sg] que
+\egl that scold
+-xuk-w@
+\sg] y
+DEF pescar-INC-REL hombre 3E
+\egl and DEF fish -INC-REL man
+-3PL-COM
+-xuk-pa
+\zoq ke yuk@yy@ g@ 7uned@kkay
+\fts Regan~o a los nin~os
+\fte He scolded the boys
+\com
+\idx
+\ref ZOH001R020 011
+\_no 00012
+-3PL-INC
+p@n 7@y 7ixmuxx@
+-pa -v7k p@n 7@y 7ix-mux
+ver-saber-COM
+3E see-know -COM
+g@ 7une
+d@kka
+yu7k -7@y-wa g@ 7une7 d@kkay
+regan~ar-SUF-COM DEM nin~o/a NPL
+-SUF-COM DEM child NPL
+Page 3
+-wa

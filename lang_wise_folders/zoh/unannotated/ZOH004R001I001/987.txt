@@ -1,0 +1,63 @@
+\PSH [nikjupp@y-]
+\UND nik.jup.7@y
+\MB SUP, jalar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG darle algo con la mano
+\ENG to give someone something with your hand
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jup
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 17/Jul/95
+\lex nik.j@7t. '@y
+\_no 02291
+LG MIG
+\PSH [nikj@7tt@y-]
+\UND nik.j@7t.7@y
+\MB SUP, regar_ri*o, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG echarle algo el ri*o
+\ENG to throw something in the river
+SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT j@7t
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 17/Jul/95
+\lex nik.kap. '@y
+\_no 02292
+ZOH004R0011001.txt
+\LG MIG
+\PSH [nikkapp@y-]
+\UND nik.kap.7@y
+\MB SUP, cargar_en_hombro, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG echarle en el hombro
+\ENG to throw something over your shoulder
+Page 987

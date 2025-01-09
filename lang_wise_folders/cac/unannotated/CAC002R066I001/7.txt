@@ -1,0 +1,33 @@
+V
+GRAMMAR NOTES
+The abbreviations and other grammatical notations that are used in dictionary entries are
+dscussed below. In general the categories are based on Hopkins (1967) and were established
+from field data and discussions with the major informant, Francisco Santizo Andrés, a native of
+San Mateo Ixtatán, Huehuetenango, Guatemala. In a few cases the status of a lexical item has
+been confirmed by reference to a study of the other Chuj dialect, that of San Sebastián Coatán
+(Felipe Diego 1998).
+In a series of articles (1995-2007), the Mexican linguist Cristina Buenrostro has
+presented extensive analyses of several aspects of San Mateo Ixtatán Chuj grammar and syntax.
+Likewise, Judith M. Maxwell has published a number of articles (1976-2001) on Chuj grammar
+and discourse, concentrating on San Sebastián Chuj, the language of her dissertation (Maxwell
+1976). Some details of their analyses differ from the morphological analyses given below.
+Structure of the Dictionary Entries
+Typical entries in the dictionary begin with the lexical item, in bold, followed by the
+grammatical classification of the item and other relevant information (noun or verb class,
+numeral classifier categories, etc.). An English gloss follows, with commentary that may include
+a Spanish gloss (in parentheses). Examples of usage (in italics) and cross-references to other
+entries are then given. Lexical items in certain categories (e.g., plant names) may be
+accompanied by further information. Occasionally, forms tested and found ungrammatical are
+apppended (marked by an asterisk). Examples are:
+'ak, n ('anh). Plant name, Spanish "paja." A long grass used in constructing thatch roofs,
+tied in bundles to a network of poles. Usually brought from (and bought in) aldeas of
+yichpajaw, yaka', and jolomtenam. Cheaper than shingles, and more durable (up to 30
+years), but less preferred because of fire hazard. Br 8569. Muhlenbergia macroura.
+The lexical item 'ak is a noun, a plant name associated with the noun classifer 'anh (herbs). The
+local Spanish term for this plant is "paja." Its use is described, and a collection specimen noted
+(Br 8569), with its botanical identification.
+'ikej, vtr. To make someone the owner of something, Ex: tzikej, He makes him the owner
+(i.e., he gives it to him). wikej, (Let this be) mine!. (Let me have it!). 'ikej, "It's yours!" (in
+response to a question about what you're going to do with that thing you have, "It's
+yours!," "It's for you!."
+The lexical item 'ikej is a transitive verb. Its meaning is given and usage exemplified.

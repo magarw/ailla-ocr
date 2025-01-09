@@ -1,0 +1,63 @@
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG agalla
+\ENG gills
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS ANALYSIS
+\date 29/Jan/96
+\lex koke pojo7k
+\_no 01338
+\LG MIG
+\PSH
+\UND koke pojo7k
+\MB pescado, huevo
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG hueva del pescado
+\ENG fish eggs
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex koke xaj
+\_no 01339
+\LG MIG
+\PSH
+\UND koke xaj
+\MB pescado, brazo
+\VAR
+\GRAM s (m)s
+\SCI
+\USE
+\SPG aleta de pez
+\ENG fin of a fish
+EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+ZOH004R0011001.txt
+Page 584

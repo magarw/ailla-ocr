@@ -1,0 +1,64 @@
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Nov/94
+\lex 7uxu7
+\_no 00517
+\LG MIG
+\PSH
+\UND 7uxu7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG mosca; mosquito
+\ENG fly
+\EXU chik 7uxu7
+\XPSH mosca pequen~a
+\XEN small fly
+\EXU chik wanin 7uxu' d@k+7a
+\XPSH [chik wanin 7uxu d@kka]
+\XSP moscas pequen~as
+\XEN small flies
+\EXU wanin 7uxu7
+\XSP mosca pequen~a
+\XEN small fly
+\EXU y@k kom=7uxu7
+\XSP mosca grande negra
+\XEN big black fly
+\EXU yak 7uxu' d@k+7a
+\XSP moscas negras
+\XEN black flies
+\EXU chik y@k 7uxu' d@k+7a
+\XSP moscas biushitas negras
+\XEN little black flies
+\EXU pu7tz.pu7tz 7uxu' d@k+7a
+\XSP moscas amarillas
+\XEN yellow flies
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 09/Jan/96
+\lex 7uxx@w@x
+\_no 00518
+LF:bugs
+\LG MIG
+\PSH
+\UND 7ux-7@-w@x
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG temblor
+\ENG earthquake
+\EXU
+\XSP
+ZOH004R0011001.txt
+Page 222

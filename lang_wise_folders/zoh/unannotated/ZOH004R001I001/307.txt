@@ -1,0 +1,63 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM pSoke *je7e
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 06/Feb/96
+\lex jej
+\_no 00715
+\LG MIG
+\PSH
+\UND jej
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG vivir
+ENG to live
+\SPL yak.jej
+\SLGR CAUS
+\SLGL dar vida (Dios)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF nature, body
+\ASP state
+\ARG
+\NOM jej.kuy7, jej.a, ko.jej-pa+a7k
+\SUB 7anh.jej, 7ok.jej, jo.jej, j@x-jej, k@.jej.'@y, ni.jej, nik.jej. '@y,
+\SUB win-jej, yuk.jej
+\ETYM
+\ETL
+\ROOT jej
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex jej.a
+\_no 00716
+\LG MIG
+\PHO [jeja]
+\UND jej.A
+\MB vivir, NOM2
+\VAR
+\GRAM SV
+\SPG vive
+\ENG_living
+\EX 7une' 7@y+ jej.a
+ZOH004R0011001.txt
+\XPSH [7uney jeja]
+\xSP la parte mollera en la cabeza del recien nacido
+\XEN the soft spot on the head of a new born
+\SYN
+\ROOT jej
+\RTGR 12
+\DSRC HAJ95
+Page 307

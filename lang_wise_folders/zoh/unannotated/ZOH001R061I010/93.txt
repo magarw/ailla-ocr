@@ -1,0 +1,60 @@
+\CMTS
+\lex yum
+\_no 00419
+\SPG hervir(se)
+ENG to boil
+\EX n@7 7@y yumxuk@*7
+\XSP agua hervida
+\XEN boiled water
+\EX jak yumpa
+\XSP esta* hirviendo mucho
+\XEN it's boiling a lot
+\ROOT yum 12
+\SEMF water, condition, temp
+\CAUS yak.yum hirvir
+\CMTS
+\lex yun
+\_no 00420
+\SPG nadar
+\ENG to swim
+\EX
+\XSP
+\XEN
+\ROOT yun Il
+\SEMF motion
+\CAUS yak.yun hacer nadar
+\CMTS
+\lex yu7p
+\_no 00421
+\SPG picar (madera, cebolla, carne...)
+\ENG to mince; to chop; (wood, onion, meat)
+\EX
+\XSP
+\XEN
+\ROOT yu7p P, (T3)
+\SEMF cut
+\PASS yu7p.7@m picarse
+\ANTI yu7p.7oy picar
+\ASSU yu7p.ney estar picado
+\PRSV yu7p=ten lo tiene picado
+\CMTS
+\lex yu7tz
+\_no 00422
+\SPG agarrar un pun~o y ponerlo ahi*; dejar un pun~o (frijol, mai*z)
+\ENG to get a handful and put it over there; to leave a handful (beans,
+corn)
+ZOH001R0611010.txt
+\EX 7@y yu7tzp@kk@
+\XSP lo agarro* por pun~o
+\XEN she grabbed it by the handful
+\ROOT yu7tz T1
+\SEMF pick_up, hand
+\ANTI NONE * yu7tz.7oy
+\CMTS
+\lex y@7kx
+\_no 00423
+\SPG mover (se); aflojarse
+\ENG to move; to float
+\EX
+\XSP
+Page 93

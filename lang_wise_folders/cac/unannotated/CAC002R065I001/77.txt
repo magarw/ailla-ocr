@@ -1,0 +1,30 @@
+ty: Tren -
+se deter
+72
+and // // marks obligatory weak stress. For instance, the
+phrase every fifteen days is written ///y-hó?-lăxuN-il-ták
+k'úh-al //, since the root and affix appear in the lexicon
+as //láxuN // and //tak//, but the phonemic representation of
+the construction is /yólaxuNil ták k'úhal/.
+Morpheme Categories
+Root Types and Sub-Classes
+In the description of Chuj morphology, it is convenient
+to postulate the existence of six root classes, although it
+is difficult to place some roots in any one class as opposed
+to another. Derivation and inflection unambiguously identify
+most roots as members of a certain form class and no other.
+If a root is productive, observed to co-occur with a number
+of derivational or inflectional affixes, its root class is
+not difficult to characterize. However, when a root is at-
+tested in only a few derived or inflected forms its class
+membership is sometimes uncertain. Likewise, there are roots
+which co-occur with two or more sets of affixes, each of which
+characterizes a different root class. In these cases the as-
+sumption has been made that there are two or more homorganic
+roots which belong to separate root classes.
+Verb Roots
+K
+Verb roots are of the shape //CVC //. Two sub-classes
+of verb roots are distinguished by derivational and inflec-
+tional criteria: transitive and intransitive. Verb roots
+are distinguished as a class by inflection for tense and as-

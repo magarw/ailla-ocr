@@ -1,0 +1,64 @@
+\VAR
+\GRAM adverbial
+\SPG ra*pido
+\ENG quickly
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex {pa=} [1]
+\_no 04487
+\LG MIG
+\PSH
+\UND
+\MB salvaje
+\VAR
+\GRAM prepound: "wild"
+\SCI
+\USE
+\SPG salvaje
+\ENG wild
+\SPL
+\SLGR
+\EXU tunh+jo' pitz@m-pa tum pa=p@n
+\XPSH [Tunhjo pitz@mpa tum pap@n.]
+\XSP Un diablo sale en el camino.
+\XEN A devil comes out in the road.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 11/Feb/96
+\lex {-pa} [2]
+\_no 04488
+\LG MIG
+\PSH
+\UND pa
+\MB INC
+ZOH004R0011001.txt
+\VAR
+\USE inflectional verbal suffix: incompletive
+\GRAM suf
+\SPG
+ENG
+\SPL
+\SLGR
+\EXU tunh+jo' pitz@m-pa tum pa=p@n
+\XPSH [Tunhjo pitz@mpa tum pap@n.]
+\XSP Un diablo sale en el
+camino.
+\XEN A devil comes out in the road.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+Page 1927

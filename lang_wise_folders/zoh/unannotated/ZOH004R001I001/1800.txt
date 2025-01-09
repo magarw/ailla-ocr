@@ -1,0 +1,62 @@
+\EXU yo'-w@ tum tzun.neenh
+\XPSH [Yow@ tum tzunne*nh.]
+\XSP Cayo* una gota.
+\XEN One drop fell.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT yo7
+\RTGR 12
+\DSRC HAJ94
+\CMTS CK-PH ok/OK: TK
+\date 03/Jan/80
+\lex yo'=m@k. 'oy.kuy7
+\_no 04189
+\LG MIG
+\PHO [yom@kkokuy7]
+\UND yo7-m@k. 7oy.kuy7
+\MB tamal, formar, ANTIP, INSTR1
+\VAR
+\GRAM instr1
+\SPG la hoja para hacer tamales (de pla*tano)
+\ENG leaf for making tamales (banana)
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT mak
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex yo't.e7
+\_no 04190
+\LG MIG
+\PSH [yote7]
+\UND yo7t.E7
+\MB X, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG ropa
+\ENG clothes
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT %yo7t
+\DSRC TK94
+\CMTS cf. MAR yo7te
+\date 29/Jan/96
+ZOH004R0011001.txt
+\lex yo't.e'=nem.kuy7
+\_no 04191
+\LG MIG
+\PSH [yote nemkuy7]
+\UND yo7t.E7=nem. kuy7
+Page 1800

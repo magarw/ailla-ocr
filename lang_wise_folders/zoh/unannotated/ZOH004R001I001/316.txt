@@ -1,0 +1,64 @@
+\SYN
+\SEMF scrape, arrange
+\ASP activity
+\ARG
+\NOM
+\SUB 7ok.jen. '@y, j@x-jen, yuk.jen
+\ETYM
+\ETL
+\ROOT jen
+\RTGR T3
+\SPL jen.7oy
+\SLGR ANTIP
+\SLGL rascar // to scrape
+\SPL jen.7@m
+\SLGR PASS
+\SLGL rascarse // to be scraped
+\SPL jen.ney
+\SLGR ASSUM1
+\SLGL estar rascado // to be scraped
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex jenen
+\_no 00734
+\LG MIG
+\PSH
+\UND jenen
+\MB
+\VAR
+\GRAM vt, vi:med
+\SCI
+\USE
+\SPG deshacer(se)
+\ENG to dissolve
+\SPL yak.jenen
+\SLGR CAUS
+ZOH004R0011001.txt
+\SLGL deshacer // to dissolve
+\SPL jenen.7oy
+\SLGR ANTIP
+\SLGL disolver // to dissolve
+\SPL jenen.7@m
+\SLGR PASS
+\SLGL disolverse // to be dissolved
+\EXU 1 7@n+ jenen-pa bi pi*ldura
+\XPSH 1 [7@n jenenpa bi pi*ldura.]
+\XSP 1 Desborono la pastilla.
+\XEN 1 I'm dissolving the pill.
+\EXU 2 jenen.7@m-w@ bi pi*ldura
+\XPSH 2 [Jenenn@mm@ bi pi*ldura.]
+\xSP 2 Se derrito* la pastilla.
+\XEN 2 The pill dissolved.
+\SYN
+\SEMF break
+\ASP accomplishment, achievement
+\ARG
+\NOM jenen.e7
+\SUB j@x-jenen, yuk. jenen
+\ETYM
+\ETL
+\ROOT jenen
+\RTGR T3
+\DSRC TK94
+Page 316

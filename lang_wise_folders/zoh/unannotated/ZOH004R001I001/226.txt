@@ -1,0 +1,63 @@
+\PSH [7@j7@jney-]
+\UND 7@j.7@j.ney
+\MB
+\VAR
+\GRAM VIR
+\SCI
+\USE
+SPG estar quejando de un dolor
+\ENG to be complaining of an ailment; whim ring
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 26/Jun/96
+\lex 7@j@j
+\_no 00526
+\LG MIG
+\PSH [7@jaj-]
+\UND 7@jaj
+\MB
+\VAR
+\GRAM VİR
+\SCI
+\USE
+\SPG quejarse
+\ENG to whimper
+\EXU 1 7@jaj-pa
+\XPSH 1 [7@j@jpa.]
+\XSP 1 Se esta* quejando.
+\XEN 1 She's whimpering.
+\EXU 2 jax-t@k+jonh 7@jaj-pa
+\XPSH 2 [J@xt@kjonh 7@j@jpa.]
+\XSP 2 Atras de la casa esta* quejandose.
+\XEN 2 He's behind the house, whimpering.
+\SYN
+\SEMF sound
+\ASP activity
+\ARG
+\NOM 7ajaj.17
+\SUB nik. '@jaj. 'ay
+\ETYM
+\ETL
+\ROOT 7@jaj
+\RTGR 11
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS MAR also has //7@jaj//
+\date 03/Jan/80
+\lex 7@j@j.i7
+\_no 00527
+\LG MIG
+\PSH [7@j@ji7]
+\UND 7@jaj. E7
+\MB quejarse, NOM7
+Page 226

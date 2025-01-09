@@ -1,0 +1,64 @@
+\UND kum.pu7
+\MB enterrar, RVS
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG desenterrar
+\ENG to dig up
+\SPL kum.pu.7oy
+\SLGR ANTIP
+\SLGL desenterrar // to dig something up
+\SPL kum.pu.7@m
+\SLGR PASS
+\SLGL desenterrarse // to be dug up
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kum
+\RTGR T2
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+ZOH001R0611006.txt
+\lex kunh
+\_no 00077
+\LG MIG
+\PSH
+\UND kunh
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG colgar (como una hamaca)
+\ENG to hang (like a hammock)
+\SPL kunh.7oy
+\SLGR ANTIP
+\SLGL colgar // to hang
+\SPL kunh.7@m
+\SLGR PASS
+\SLGL colgarse // to be hung
+\SPL kunh.ney
+\SLGR ASSUM1
+\SLGL estar colgado // to be hanging
+\SPL kunh.ten
+\SLGR PRSV
+\SLGL tener colgado // to have something hung
+\EXU 1 7@y+ kunh-w@ kajtzay7
+\XPSH 1 [7@y kunhnh@ kajtzay7.]
+\XSP 1 Colgo* la hamaca.
+\XEN 1 She hung the hammock.
+EXU 2 7anhk-joonh 7@y+ kunh-w@ bi kajtzay7; 7@y+
+j@x.kunh-w@
+XPSH 2 [7@nhkjo*nh 7@y kunhnh@ bi kajtzay.]; [7@y
+j@xkunhnh@.]
+XSP 2 Colgo* afuera la hamaca.
+\XEN 2 He hung the hammock outside.
+\EXU 3 kunh.ney-pa kajtzay7
+\XPSH 3 [Kunhneba kajtzay7.]
+Page 53

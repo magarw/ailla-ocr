@@ -1,0 +1,63 @@
+\SPG pla*tano_sapo
+\ENG a type of banana
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 16/Oct/94
+\lex najak tzajin
+\_no 02117
+\LG MIG
+\PSH
+\UND najak tzajin
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG vi*bora sapo
+\ENG a type of snake
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 10/Nov/94
+\lex naji
+\_no 02118
+\LG MIG
+\PSH
+\UND naji
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG cera; cera de colmena
+\ENG wax; bee's wax
+\EXU
+\XSP
+LF:tzajin
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 19/Jun/95
+\lex naji tzanh.kuy7
+ZOH004R0011001.txt
+Page 913

@@ -1,0 +1,65 @@
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT pot
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex pot.i'=tz@k
+\_no 02739
+\LG MIG
+\PSH [potitz@k-]
+\UND pot. E7=tz@k
+\MB hacerse_blanco, NOM7, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer blanquisco
+\ENG to whiten; to make pale
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 08/Feb/96
+\lex po7t
+\_no 02740
+\LG MIG
+\PSH
+\UND po7t
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG moler cafe*, maiz tostado, pinol,
+\ENG to grind coffee, toasted corn,
+\SPL po7t.7oy
+-
+ZOH004R0011001.txt
+\SLGR ANTIP
+\SLGL moler // to grind
+\SPL po7t.7@m
+■ ■
+\SLGR PASS
+\SLGL molerse // to be ground
+\SPL po7t.ten
+\SLGR PRSV
+\SLGL tenerlo molido // to have it ground
+\EXU 1 7@y+ po7t.ten-wa
+Page 1178

@@ -1,0 +1,64 @@
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG barco
+\ENG boat
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 24/Sep/94
+\lex baynia kuy
+\_no 00547
+\LG MIG
+\PSH
+\UND baynia kuy
+\MB vainilla, palo
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG palo de vainilla
+\ENG vanilla tree
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 26/Jun/96
+\lex bayniya*
+\_no 00548
+\LG MIG
+\PSH
+\UND bayniya*
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG vainilla
+\ENG vanilla
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+LF: kuy
+ZOH004R0011001.txt
+Page 236

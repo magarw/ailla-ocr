@@ -1,0 +1,86 @@
+\tx mukk@
+\mb muk
+ZOH001R0361001.txt
+7@y win
+-w@ 7@y golpear-tz@k -w@ 7@y win
+7@y golpyatz@kk@
+golpear-hacer-COM 3E
+-do -COM 3E
+REFL
+REFL
+\sg1 caerse-COM 3E
+\egl fall -COM 3E hit
+\zoq toyjaypa 70 7@y paktukpa 7@y manhkuy, mukk@, 7@y golpyatz@kk@ 7@y win.
+\fts le duele o su trompezo* de pie, se cayo*, se golpeo*.
+\fte it hurts him or he stumped his foot, he fell, he hit himself.
+\com
+\idx
+\ref ZOH001R036 218
+\_no 00218
+\tx 7@y paktukk@
+\mb 7@y pak
+\sgl 3E
+\egl 3E
+7@y k@tzux
+-tuk -w@ 7@y k@tzux
+apretarse-cortar-COM 3E un~a
+- cut -COM 3E nail
+grab
+\zoq 7@y paktukk@ 7@y k@tzux.
+\fts saco de trompezo*n su un~a
+\fte he lost a nail to a blow
+\com
+\idx
+\ref ZOH001R036 219
+\_no 00219
+\tx kay
+toyjabba*m
+\mb ka
+ka -y
+toy -jay -pa -7am
+\sg1 DCT3-TMP doler-APPL-INC-YA
+\eg1 DCT3-TMP hurt -APPL-INC-NOW
+\zoq kay toyjabba*m.
+\fts ya le duele.
+\fte Now it hurts him.
+\com
+\idx
+\ref ZOH001R036 220
+\_no 00220
+\tx gay
+dolor 7@y 7anhnitp*am
+y@ji
+donde 7@y
+gag@
+\mb ka
+ka -y
+ka -g@ dolo*r 7@y 7anhnit-pa -7am ya ji7
+\sg1 DCT3-TMP DCT3-DEM dolor 3E tener -INC-YA
+\eg1 DCT3-TMP DCT3-DEM pain 3E have -INC-NOW DCT1-LOC1 where 3E
+donde 7@y
+donde 3E
+DCT1-LOC1
+\tx paktukk@
+pak
+\mb
+-tuk -wa
+\sg1 apretarse-cortar-COM
+\egl grab
+- cut
+-COM
+\zoq Gay gag@ dolo*r 7@y 7anhnitpa*m y@ji donde 7@y paktukk@,
+\fts Ahi* ese dolor ya lo tiene aqui donde saco* de trompezo*n su un~a,
+\fte Then that pain that he now has here where he pulled out the nail,
+\com
+\idx
+\tx
+\mb
+\ref ZOH001R036 221
+\_no 00221
+pitz@mm@ y@da
+k@tzux bi7t
+pitz@m-wa ya -da k@tzux bi7t
+\sgl salir -COM DCT1-DEM un~a SI
+\egl leave -COM DCT1-DEM nail IF
+\zoq pitz@mm@ y@d@ k@tzux bi7t,
+Page 48

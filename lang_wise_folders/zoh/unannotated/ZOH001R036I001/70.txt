@@ -1,0 +1,82 @@
+\zoq tij@nanh n@mmobam kuratz@kk@?
+\fts con que lo puedes curar?
+\fte with what can you cure it?
+\com
+\idx
+\ref ZOH001R036 325
+\_no 00322
+tzoy 7@m tzipa
+7@m tzi7-pa
+tzoy
+que saltar 2E dar -INC
+give-INC
+70 ti
+\tx
+\mb 70 ti
+\sg1 o
+\egl or what jump 2E
+\zoq 70 ti tzoy 7@m tzipa?
+\fts o que remedio le das?
+\fte or what medicine do you give?
+\com
+\idx
+\ref ZOH001R036 326
+\_no 00323
+\tx
+\mb OSM
+OSM: bweno pwes komo 7a
+bese n@ktampa
+bweno pwes komo 7ay
+\sg1 OSM: bueno pues como hay
+beses n@k -tam -ра
+veces irse-1/2PL-INC
+\egl OSM: good well like there are times go -1/2PL-INC
+\tx yujkuyjo
+\mb yuj
+\sg1 rozar
+\egl clear_field-INSTR1-LOC2
+-kuy7 -jo7
+-INSTR1-LOC2
+ZOH001R0361001.txt
+\zoq OSM: Bweno, pwes, komo 7a bese n@ktampa yujkuyjo.
+\fts OSM: Bueno, pues, como hay veces vamos en la milpa.
+\fte OSM: well, ok, like there are times when we go to the fields.
+\com
+\idx
+\ref ZOH001R036 327
+\_no 00324
+sin
+\tx da nak tampa
+\mb d@ n@k -tam -pa sin
+\sgl 1A irse-1/2PL-INC sin
+\egl 1A go -1/2PL-INC without
+\zoq Da n@ktampa sin rremedyu.
+\fts Nos vamos sin remedio.
+\fte we go without medicine.
+\com
+\idx
+\ref ZOH001R036 328
+\_no 00325
+\tx yujkuyjo
+\mb yuj
+rremedyu
+rremedyu
+remedio
+medicine
+n
+p@7tjadampa
+gag@
+mal
+-kuy7 -jo7
+-jo7 7@n p@7t -jay -tam -pa ka -g@ mal
+-INSTR1-LOC2 1E
+\sg1 rozar
+DCT3-DEM mal
+\egl clear_field-INSTR1-LOC2 1E pass -APPL-1/2 PL-INC DCT3-DEM bad
+pasar-APPL-1/2 PL-INC
+\zoq Yujkuyjon p@7tjadampa gag@ mal,
+\fts En la milpa nos pasa ese mal,
+\fte In the field we come upon that illness,
+\com
+\idx
+Page 70

@@ -1,0 +1,64 @@
+\SPL kum.pu.7oy
+\SLGR ANTIP
+\SLGL desenterrar // to dig something up
+\SPL kum.pu.7@m
+\SLGR PASS
+\SLGL desenterrarse // to be dug up
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kum
+\RTGR T2
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex kumu7
+\_no 01549
+\LG MIG
+\PSH
+\UND kumu7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG lombriz de tripas; gusano
+\ENG intestinal worm; worm
+\EXU naxjo7k kumu7
+\XSP lombriz de la tierra
+\XEN earth worm
+\EXU y@k kumu7
+\XSP gusano negro
+\XEN black worm
+\EXU tzikin kumu7
+\XSP gusano pinto
+\XEN spotted worm
+\EXU tzux kumu7
+\XSP gusano verde
+\XEN green worm
+\EXU tzapatz kumu7
+\XSP gusano rojo
+\XEN red worm
+\EXU weka kumu7
+\XSP gusano con cacho
+\XEN horned worm
+\EXU popo kumu7
+\XSP gusano blanco
+\XEN white worm
+ZOH004R0011001.txt
+\EXU poti kumu 7
+\XSP gusano blanquisco
+\XEN whitish worm
+\EXU pu7tz.pu7tz kumu7
+\XSP gusano amarillo
+\XEN yellow worm
+\EXU 7oja7 kumu7
+\XSP gusano de chachi
+\EXU manhgu kumu7
+\XSP gusano de manhgu
+\XEN mango worm
+Page 672

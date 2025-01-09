@@ -1,0 +1,39 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+6.4. Word order
+Word order in MIG Zoque is free, provided that subjects precede objects
+in cases where some ambiguity might obtain. A further discussion of
+preferences in word order in narrative texts appears in chapter 14. The
+following set of (elicited) data illustrates the freeness of word order. My
+consultants agreed that the following sentences all mean exactly the same
+thing. Complete paradigms exhibiting word order for 1, 2, 3, and 4 argument
+verbs (including causative and applicative constructions) are given in Appendix
+F.
+(6.33)
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+(vi)
+bi nu' 'øy waxxø bi mixtu'
+bi nu? ?ǝy+ was-wə bi mištu?
+DEF dog 3E+ bite-COM DEF cat
+'The dog bit the cat."
+bi mixtu? ?ǝy waxxə bi nu?
+bi nu? bi mixtu? ?əy waxxə
+bi mixtu? bi nu? ?ǝy waxxə
+?ǝy waxxǝ bi nu? bi mixtu?
+?ǝy waxxǝ bi mixtu? bi nu?
+144
+SVO Agent = dog
+SVO Agent = cat
+SOV Agent = dog
+SOV Agent
+VSO Agent
+VSO Agent
+=
+=
+=
+cat
+dog
+cat

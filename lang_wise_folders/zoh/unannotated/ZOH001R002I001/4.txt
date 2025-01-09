@@ -1,0 +1,96 @@
+\fts van a dejar panela - azucar -
+\fte They were going to leave sugar
+\not
+\idx aux_p1
+\ref ZOH001R002 013
+\_no 00014
+\tx ga7
+\mb ka
+k@xxoba
+\tx 7i k@xkuy7,
+\mb 7i k@x -kuy7
+\sg] y
+7aber
+7aber
+aver
+k@x -7oy -pa
+que queso para que comer-ANTIP-INC
+\egl and eat -INSTR1 let's see what cheese for that eat -ANTIP-INC
+comer-INSTR1
+jente d@kka,
+jente d@kkay
+-7
+\sg1 DCT3-NOM1 gente NPL
+\eg1 DCT3-NOM1 people NPL
+\ref ZOH001R002 014
+\_no 00015
+ZOH001R0021001.txt
+\tx kapopo
+\mb kapopo
+\zoq 7i k@xkuy7, 7aber ti
+\fts y comida, aver que si
+kexu7, para ke k@xxoba ga7 jented@kka,
+queso, para que coman esa gente,
+\fte and food, let's see what cheese, so that those people could eat,
+\not
+\idx
+sugar -
+ti
+ti
+\ref ZOH001R002 015
+\_no 00016
+p@n
+d@kka ga7
+d@kka ga7
+yoma d@kka.
+d@kkay ka -7 p@n d@kkay ka -7
+yomaa7 d@kkay
+\sg1 mujer_de_Chima
+DCT3-NOM1 hombre NPL DCT3-NOM1 mujer NPL
+\egl woman_from_Chima NPL DCT3-NOM1 man
+DCT3-NOM1 woman
+NPL
+NPL
+NPL
+kexu7, para ke
+kexu7 para ke
+bi
+te -7xe bi
+\zoq kapopod@kka, ga7_p@nd@kka, ga7 yomad@kka.
+\fts esas mujeres de chima, esos hombres y esas mujeres.
+\fte those women from Chima, those men and those women.
+\not
+\idx
+\tx 7i de7xe
+n@kxukpa
+n@k -xuk-pa
+\mb 7i
+\sgl y
+DCT2-SIM DEF irse-3PL-INC
+\egl and DCT2-SIM DEF go -3PL-INC passed
+yajakja*7.
+yajakja*7
+antepasado
+\zoq 7i de7xe bi n@kxukpa yajakja*7.
+\fts Y asi se fueron antes.
+\fte And that's how things went long ago.
+\not
+\idx unmrk_re]
+\ref ZOH001R002 016
+\_no 00017
+\tx de7xe
+bi tz@kxukk@
+da
+tz@k -xuk-w@ te -7
+jente d@kka.
+jente d@kka
+\mb te -7xe bi
+\sg1 DCT2-SIM DEF hacer-3PL-COM DCT2-NOM1 gente NPL
+\eg1 DCT2-SIM DEF do -3PL-COM DCT2-NOM1 people NPL
+\zoq De7xe bi tz@kxukk@ de jented@kka.
+\fts Asi* hicieron esa gente.
+\fte That is how those people did things.
+\not
+\idx
+\ref ZOH001R002 017
+Page 4

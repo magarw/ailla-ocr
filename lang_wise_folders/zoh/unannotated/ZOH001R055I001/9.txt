@@ -1,0 +1,83 @@
+\zoq 7entons 7anhtzonhnhoyy@ bi 7okyanhke n@mpa, "N@kpan yoxtamm@ Katemaku,
+Berakrus.
+"I
+\fts Entonces respondio* la gringa, dice, "Vamos a trabajar en Catemaco,
+veracuz.
+\fte Then the gringa answered, she says, "we're going to work in Catemaco,
+Veracruz."
+\com
+\idx aux_p1
+\ref ZOH001R055 036
+\_no 00037
+\tx pwes n@ktampa
+\mb pwes n@k -tam -pa
+n@mpa
+n@m -pa
+-pa
+\sg1 pues irse-1/2PL-INC decir-INC
+Germa*n
+\egl well go -1/2PL-INC say -INC Germa*n
+\zoq "Pwes, n@ktampa," n@mpa Jerma*n.
+\fts "Pues, vamos", dice Germa*n.
+\fte "well, let's go", says Germa*n.
+\com
+\idx
+\tx da k@yujtuk
+\mb da ka
+\ref ZOH001R055 037
+\_no 00038
+\tx
+no mas ke mix tzakjaba
+\mb no mas ke mix tzak -jay -pa
+\sg1 no mas que 2>1 dejar-APPL-INC uno dinero
+\egl no more that 2>1 leave-APPL-INC one money
+-yuj
+\sg1 1A AFUERA-rozar
+\egl 1A AWAY -clear_field-finish
+\com
+\idx incorp, aux_p2
+\ref ZOH001R055 038
+\_no 00039
+ZOH001R0551001.txt
+\tx 7i da n@kpa
+\mb 7i da nak -pa
+\sg] y
+1A irse-INC
+\eg1 and 1A go - INC
+\zoq 7i da nakpa.
+\fts y me voy.
+\fte and I'11 go.
+\com
+\idx
+"I
+jerma*n
+jerma*n
+\zoq "No mas ke mix ṭzakjaba tum jamatin pa d@ 7awinyojpa d@ k@yujtuk go7,
+\fts "No mas que me dejas un dinero para pagar compan~ero para que yo acaba
+de limpiar,
+\fte "Just that you leave me some money to pay a friend to finish
+clearing the field for me,
+\ref ZOH001R055 039
+\_no 00040
+\tx bweno n@mpa
+\mb bweno n@m
+-tuk
+go7
+-pa go7
+-terminarse-INC PURP
+-INC PURP
+7okyanhke
+7oko
+vieja
+tum jamatin pa d@ 7awin
+tum jamatin para d@ 7awin7
+-pa
+\sg1 bueno decir-INC
+\egl good say -INC old_woman-yankee
+-yanhke7
+-gringo
+yojpa
+yoj -pa
+para 1A hermano/a pagar -INC
+for 1A sibling pay -INC
+Page 9

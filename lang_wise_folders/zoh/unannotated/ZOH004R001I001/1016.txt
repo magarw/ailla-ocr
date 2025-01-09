@@ -1,0 +1,63 @@
+\UND ni.p@k.7@y
+\MB PURP, agarrar, SUF
+\VAR
+\GRAM vt
+\SPG agarrar adelantado
+ENG to get paid a little in advance
+\EXU 7@y+ ni.p@k. '@y-w@ 7@y+ win para n@k-pa 7@y+
+yox-w@
+XPSH [7@y nip@kk@yy@y win pa_n@kpay yoxx@.]
+\XSP Agarro* adelantado para ir a trabajar.
+\XEN He got paid a little in advance so he could go work.
+\SYN
+\ROOT pak
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jun/96
+\lex ni.p@7t
+\_no 02359
+\LG MIG
+\PSH [nip@7t-]
+\UND ni.p@7t
+\MB PURP, pasar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pasar; rebasar
+\ENG to pass; to overtake
+EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT p@7t
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 16/Oct/94
+\lex ni.tuk=wak
+\_no 02360
+\LG MIG
+\PSH [nitukwak-]
+\UND ni.tuk=wak
+\MB PURP, cortar, *vaciar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG desapartar dos quien lucha
+\ENG to separate two people who are fighting
+\SPL
+\SLGR
+\EXU
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+\SEMF
+\ETYM
+Page 1016

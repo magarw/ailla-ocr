@@ -1,0 +1,61 @@
+\SPG 1 clavar
+\SPG 2 sembrar poste, estaca en el suelo
+\ENG 1 to nail
+\ENG 2 to set a post or stake in the ground
+\SEMF build
+\ASP achievement
+\ARG
+\NOM 7anh.paj, jo.paj, ko.paj.ney, paj.e7
+\RTGR P, (T3)
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex pak [1]
+\_no 00213
+\SPG apretarse
+\ENG to tighten
+\SEMF arrange
+\ASP achievement
+\ARG
+\NOM
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex pak [2]
+\_no 00214
+\SPG regar; tirar
+\ENG to spread; to throw
+\SEMF throw, spread
+\ASP activity
+\ARG patient
+\NOM pak.naanh
+\RTGR TX
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex pakx
+\_no 00215
+\SPG doblar (tela), plegar
+\ENG to fold cloth, to pleat
+ZOH001R0611002.txt
+\SEMF arrange
+\ASP activity
+\ARG
+\NOM 7anh.pakx.e, pakx.e
+\NOM pakx.naanh, *kuy7
+\RTGR P, (T3)
+\POS da pakxjayy@n yote
+\MID
+\UNDO 7@n pakxpuw@
+\CLZ
+\CMTS
+\lex panh [tatz@k
+\_no 00216
+Page 53

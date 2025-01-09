@@ -1,0 +1,61 @@
+\ASP activity
+\ARG
+\NOM
+\RTGR IX
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex maj
+\_no 00144
+\SPG 1 regar una planta, regar agua
+\SPG 2 11enar algo con algo li*quida
+\ENG 1 to water a plant, to sprinkle water
+\ENG 2 to fill something with liquid
+\SEMF water, plant
+\ASP activity
+\ARG
+\NOM maj.kuy7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex majatz
+\_no 00145
+\SPG descubrir, decir la verdad
+\ENG to spill the beans, to tell the truth
+\SEMF speak, cognitive
+\ASP activity
+\ARG
+\NOM
+\RTGR T1
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex mak
+\_no 00146
+\SPG pescar con atarraya
+\ENG to fish with a net
+\SEMF catch
+\ASP activity
+\ARG
+\NOM mak.i7, mak.kuy7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\lex ma7k
+\_no 00147
+\SPG calmarse (una persona)
+\ENG to calm down (of a person)
+\SEMF cognitive
+\ASP achievement
+Page 36

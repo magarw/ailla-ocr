@@ -1,0 +1,25 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+3.2. Prosody
+3.2.1. Stress
+MIG Zoque words have primary stress on the penultimate syllable. Final
+stress (which will always be marked with an accent in the examples) may arise
+for one of two reasons: the word is a loan word from Spanish, borrowed with
+the original stress intact; or, two syllables have been collapsed by a
+morphophonological rule (section 3.3.8). In some cases this contraction may
+have occurred at an earlier stage of the language, but it also remains as an
+ongoing process.
+The first example in (3.1) is of a word with regular, penultimate stress,
+which is predictable and therefore not marked. Example (ii) is a Spanish loan
+word borrowed with the original stress intact. Example (iii) is a MIG Zoque
+word, whose irregular final stress developed at an earlier stage of the language.
+In example (iv), the measure suffix -náŋ carries its own stress. It is usually
+word-final (section 7.2.3). This morpheme is analyzed as having two vowels
+underlyingly, which contract by the rule discussed in section 3.3.8 to yield a
+single, stressed, syllable¹. Example (v) illustrates this process more clearly: the
+irregular final stress is the result of the contraction of two syllables at the end
+of the word.
+1
+Historical reconstruction is beyond the scope of this synchronic study of MIG Zoque
+grammar. However, I need to look back in time for this suffix and for a few similar suffixes
+used with deictic roots (section 4.6) in order to account for the irregular stress pattern.
+28

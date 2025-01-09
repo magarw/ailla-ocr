@@ -1,0 +1,61 @@
+\EX wintz@*na7
+\XSP sentarse con e*1!
+\XEN sit with him!
+\ROOT tz@n P (12)
+\SEMF position
+\ASP state, transition
+\CAUS yak.tz@n asentar; hacer sentar
+\CMTS
+\date 03/Jan/80
+\lex tz@y
+\_no 00145
+\SPG atorarse; entrancarse; trabarse
+\ENG to get behind; to get stuck
+\EX
+\XSP
+\XEN
+\ROOT tz@y 12
+\SEMF motion
+\ASP transition
+\CAUS yak.tz@y hacer trabar; trabar; detener
+\CMTS
+\date 03/Jan/80
+\lex wanak
+\_no 00146
+\SPG bajarse
+\ENG to go down
+\EX
+\XSP
+\XEN
+\ROOT wanak Il
+\SEMF motion
+\ASP activity
+\CAUS p@k=wanak bajar
+\CAUS yak.wanak bajar
+\CMTS
+\date 03/Jan/80
+ZOH001R0611007.txt
+\lex wanhka
+\_no 00147
+\SPG voltearse
+\ENG to turn over
+\EX
+\XSP
+\XEN
+\ROOT wanhka Il
+\SEMF motion
+\ASP activity, transition
+\CAUS yak. wanhka voltear; hacer volcar
+\CMTS
+\date 03/Jan/80
+\lex we7ch
+\_no 00148
+\SPG encorvar; pandearse palo o varilla
+\ENG to curve
+\EX we7chch@
+\XSP torcido
+\XEN twisted
+\EX we7ch-pa
+\XSP hacerse pando
+\XEN
+Page 35

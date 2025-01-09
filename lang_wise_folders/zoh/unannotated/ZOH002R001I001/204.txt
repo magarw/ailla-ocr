@@ -1,0 +1,48 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+also has a prefix ni- that means `use X as an instrument for doing VERB'l
+(Kaufman, p.c.). Like yək-, ni- never appears with a derived verb stem.
+(7.30)
+(i)
+(iii)
+(v)
+nikøx
+ni.kəš
+INSTR3.eat
+'table for eating at'
+nitzøm
+ni.com
+INSTR3.carry
+'pad placed under a load'
+nijin
+ni.hin
+INSTR3.bathe
+'thing for bathing with'
+(ii)
+(iv)
+(vi)
+nimong
+ni.moŋ
+INSTR3.sleep
+'mattress'
+nitzən
+ni.cən
+INSTR3.sit
+'seat'
+nixuy'
+ni.šuy.?
+INSTR3.cover.NOM
+'blanket; sheet'
+7.2.3. Measure nouns
+This is another suffix with alternate forms: -naaŋ/-neeŋ. The latter form
+is relatively rare and does not appear to be phonologically conditioned, since -
+naaŋ appears with verb stems containing all of the six possible vowels. In
+accordance with the regular rule of syllable contraction (section 3.3.8), the
+suffix receives primary stress even though it is the last syllable in the word.
+This suffix is probably cognate with a suffix in neighboring MAR Zoque -i?iŋ/-
+eleŋ, which creates a unit of measure or unitary event (Kaufman, p.c.).
+1 MAR Zoque has a nearly-homophonous prefix ni?-, which means `VERB on it, esp. someone's
+body'. Both prefixes co-occur with the suffix -?ǝy. (Kaufman, p.c.). We commonly find that
+final glottal stops in MAR Zoque have been deleted in the MIG Zoque dialect. This ni?- prefix,
+however, most closely corresponds semantically with the MIG Zoque prefix nik-, discussed in
+section 7.1.1.8.
+179

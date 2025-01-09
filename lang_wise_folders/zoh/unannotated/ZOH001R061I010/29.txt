@@ -1,0 +1,61 @@
+\_no 00119
+\SPG roncar
+\ENG to snore
+\EX
+\XSP
+\XEN
+\ROOT ko7kx 11
+\SEMF speak
+\CMTS no caus
+illogical
+\lex kom
+\_no 00120
+\SPG remendar, como casa, ropa
+\ENG to mend, like a house or clothes
+\EX t@k komm@
+\XSP remendo* la casa
+\XEN she fixed the house
+\EX yote komm@
+\XSP remendo* ropa
+\XEN she mended clothes
+\ROOT kom T3
+\SEMF create, break
+\PASS kom.7@m estar remendado
+\ANTI kom. 7oy remendar
+\PRSV kom=ten lo tiene remendado
+\lex konh
+\_no 00121
+\SPG gatear, como criatura
+\ENG to crawl, like a baby
+\EX konhpa y witt@
+\XSP gateo* la criatura
+\XEN the baby crawled around
+\ROOT konh P (11)
+\SEMF motion
+\CAUS yak.konh hacer gatear
+\lex kop
+\_no 00122
+\SPG cachar con las manos
+\ENG to catch with the hands
+\EX
+\XSP
+\XEN
+\ROOT kop T3
+SEMF pick_up, hand
+\PASS kop.7@m
+\ANTI kop. 7oy
+\CMTS has to be with both hands
+\XSP
+\XEN
+\lex kot
+\_no 00123
+\SPG guardar algo que le dieron
+\ENG to keep something you're given
+\EX
+ZOH001R0611010.txt
+\ROOT kot T3
+\SEMF possess
+\PASS NONE kot.7@m *
+\ANTI kot.7oy
+\CMTS
+Page 29

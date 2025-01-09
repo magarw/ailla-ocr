@@ -1,0 +1,64 @@
+\MB
+\VAR
+\GRAM
+\SPG jugar
+\ENG to play
+\EX
+\XSP
+\XEN
+\SYN
+\SEMF move, cognitive
+\ASP
+\ARG
+\NOM m@tz.i7
+\SUB 7etz-m@tz, 7otonh=m@tz. '@y, j@m=m@tz.w@y, nenh-m@tz. '@y,
+\SUB pen=m@tz, tz@m=m@tz, wej-m@tz. '@y
+\ROOT m@tz
+\RTGR
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+*
+\lex {-An@m}
+\_no 04564
+\LG MIG
+\PSH [-an@m-]; [-@n@m-]
+\UND An@m
+\MB INDEF
+\VAR
+\USE inflectional verbal suffix: indefinite or impersonal
+\GRAM suf
+\SPG se hace VERBO; se pasa VERBO
+\ENG people do VERB; VERB happens
+\SPL
+\SLGR
+\EXU joy+pi7tx@nh-k@j-An@m-w@
+\XPSH [Joypi7t x@nhk@jjan@mm@.]
+\XSP El otro di*a amanecio*.
+\XEN The next day dawned.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+ZOH004R0011001.txt
+\lex {='ok.manh}
+\_no 04565
+\LG MIG
+\PSH [-7okmanh-]
+\UND 7ok.manh
+\MB NCP
+\VAR
+\GRAM aux
+\SCI
+\USE aspectual auxiliary verb in its compound form: inceptive
+\SPG empezar a VERBO
+\ENG to begin to VERB
+\SPL
+\SLGR
+\EXU 1 d@+ yox=7ok.manh-tam-w@
+\XPSH 1 [D@ yoxxokmanhtamm@.]
+\XSP 1 Empezamos a trabajar.
+Page 1960

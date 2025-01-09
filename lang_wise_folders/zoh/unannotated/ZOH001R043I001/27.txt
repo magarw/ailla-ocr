@@ -1,0 +1,96 @@
+\mb porke yampa 7@n 7ix-tam -wa
+\sg1 porque nPERF 1E ver-1/2PL-nCOM
+\egl because nPERF 1E see-1/2PL-nCOM
+\zoq Porke yampan 7ixtamm@.
+\fts Porque no lo hemos visto.
+\fte Because we've never seen it.
+\com
+\idx
+\ref ZOH001R043 115
+\_no 00116
+n
+n@mjadampa
+yak
+\tx dey
+\mb te
+yoxa
+-Y
+lo ke
+lo ke 7@n nam -jay -tam -pa yakka yox
+\sg1 DCT2-TMP lo que 1E decir-APPL-1/2PL-INC VOL
+\eg1 DCT2-TMP lo that 1E
+say -APPL-1/2PL-INC VOL work
+\tx komo 7es debido
+\mb komo 7es debido
+\sg1 como ser debido
+\egl how be owed
+\ref ZOH001R043 116
+\_no 00117
+\tx de7
+\mb te -7
+\zoq Dey lo ken n@mjadampa yakk@ yoxa waja, komo 7es debido.
+\fts Ahora lo que le vamos a decir que trabaje bien, como es debido.
+\fte Now what we say to him is work well, as is proper.
+\com
+\idx
+7@y_n@mm@
+7@y nam -w@
+\sg1 DCT2-NOM1 3E
+\eg1 DCT2-NOM1 3E
+bi
+bi
+decir-COM DEF
+ZOH001R0431001.txt
+\tx yakkoktijjoyy@*7
+\mb
+\ref ZOH001R043 117
+\_no 00118
+7awin
+7awin7
+hermano/a NPL
+say -COM DEF sibling NPL
+d@kka
+d@kkay
+gaja7k
+ka -ja7 -k
+yak -7ok -tij-7oy -w@ -v7k
+\sg] CAUS-ABAJO-ir -ANTIP-COM-REL DCT3-LOC1-NOM pescuezo
+\eg1 CAUS-DOWN -go -ANTIP-COM-REL DCT3-LOC1-NOM neck
+waja
+-A7
+waja
+trabajar-iOPT bueno
+-ioPT good
+\zoq De7 7@y n@mm@ bi 7awind@kkay yakkoktijjoyy@*7_gaja7k wintuk.
+\fts Eso dijo los
+compan~eros que los
+acompan~o* alla* el
+otro lado.
+\fte He said to the fellows who went down with him to the other side.
+\com
+\idx
+\tx primero de 7enero
+\mb primero de 7enero
+\sgl primero de enero
+\egl first
+of january
+\tx jemji de7xe
+7@n p@7tjadamm@
+\mb jemji7 te -7xe 7@n p@7t -jay -tam -wa
+\sg1 todo
+\egl all
+7en 7el nobentay
+7en 7el nobenta-7i
+DCT2-SIM 1E pasar-APPL-1/2PL-COM en e*1 noventa-y
+DCT2-SIM 1E pass -APPL-1/2PL-COM in the ninety -and six
+wintuk
+wintu7
+Page 27
+seys
+seys
+seis
+\zoq Jemji7 de7xe 7n p@7tjadamm@ 7en 7el nobentay seys, primero de 7enero.
+\fts Todos asi* nos paso* en el noventa y seis, primero de enero.
+\fte It all happened to us like that in the ninety-six, first of January.
+\com
+\idx

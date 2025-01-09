@@ -1,0 +1,74 @@
+\sg1 entonces ya que hay
+\egl then
+\tx winnomwakpa*m
+\mb win -7om
+winjo bi 7alma y
+win -jo7 bi 7alma 7@y
+CARA-LOC2 DEF alma 3E
+\sg1
+DCT3-LOC1
+\eg1 FACE-emit_smoke-empty -INC-NOW DCT3-LOC1 FACE-LOC2 DEF soul 3E
+\tx winjo
+\mb win -jo7
+now that there_is-NOW all
+\sg1 CARA-Loc2
+\eg1 FACE-LOC2
+ZOH001R0361001.txt
+-YA todo DCT3-LOC1
+DCT3-LOC1
+CARA-echar_humo-vaciar-INC-YA
+gaji
+-wak -pa -7am ka -ji7
+\fte of the deceased
+\com
+\idx
+\zoq 7entonse ya ke tejiam jemji gaji winnomwakpa*m gaji winjo bi 7almay
+winjo.
+\fts Entonces ya que tienes todo ahi* ya lo ahumas adelante del finado.
+\fte Then now that everything is there now you cense there in front.
+\com
+\idx
+\ref ZOH001R036 201
+\_no 00201
+\tx GSM: 7@m yaknikkokaxpa
+\mb GSM 7@m yak -nik -7ok -kax
+\sg1 GSM: 2E CAUS-SUP -ABAJO-dar_pasos-INC
+\eg1 GSM: 2E CAUS-SURF-DOWN -step
+\zoq GSM: 7@m_yaknikkokaxpa.
+\fts GSM: Lo haces a que lo pase.
+\fte GSM: You make it pass down.
+\com
+\idx
+tukpa
+tuk
+\ref ZOH001R036 202
+\_no 00202
+\tx OSM: despwes ke
+bi 7ome
+-pa bi 70m
+\mb OSM despwe*s ke
+\sg1 OSM: despues que terminarse-INC DEF echar_humo-NOM3
+\egl OSM: after that finish -INC DEF emit_smoke-NOM3
+\zoq OSM: Despwes ke tukpa bi 7ome,
+\fts OSM: Despues que acaba la ahumada,
+\fte OSM: After the smoke is finished,
+\com
+\idx
+-ра
+yak -nik -7ok -kax
+-INC
+\ref ZOH001R036 203
+\_no 00203
+\tx 7adyo n yaknikkokaxpa*m
+\mb 7adyo 7@n
+\sg1 luego 1E CAUS-SUP -ABAJO-dar_pasos-INC-YA
+\egl later 1E CAUS-SURF-DOWN -step
+\zoq 7adyon yaknikkokaxpa*m.
+\fts luego ya lo haga a que lo pase.
+\fte then now I make him step over it.
+\com
+\idx
+-pa -7am
+-INC-NOW
+Page 44
+-E

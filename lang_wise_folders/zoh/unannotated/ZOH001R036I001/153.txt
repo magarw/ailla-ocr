@@ -1,0 +1,81 @@
+tzujiam.
+\zoq 7anhnamtzu 7oray_ tann@7k
+\fts En la man~ana a las doce en la tarde.
+\fte In the morning at noon in the afternoon.
+\com
+\idx
+\ref ZOH001R036 714
+\_no 00703
+\tx
+tzuji
+pwes ya n@mmo
+-pa pwes ya n@m-7oy -A
+\mb tzuji7
+\sg1 noche pues 2A dormir-INC pues NEG DO -ANTIP-NINC 2E
+\eg1 night well 2A sleep -INC well NEG DO -ANTIP-NINC 2E
+pwes 7@m
+pwes 7@m monhpa
+pwes 7@m monh
+\ref ZOH001R036 715
+\_no 00704
+\zoq Tzuji, pwes, 7@m monhpa, pwes, ya n@mmom_7uk@.
+\fts En la noche, pues, te duermes, pues, no lo puedes tomar.
+\fte At night, well, you're sleeping, well, you can't drink.
+\com
+\idx
+\tx joypi7t x@nhkejan@mpa
+\mb joypi7t x@nh -kej -An@m -pa
+\sgl otro_di*a fiesta -verse -INDEF-INC
+\eg1 next day festival-appear-INDEF-INC DCT3-TMP 2E
+kay
+ka -y
+DCT3-TMP 2E
+\zoq Joypi7t x@nhkejan@mpa_kay 7@m 7ukke7tpa,
+\fts El otro di*a amanece lo vuelves a tomar
+\fte The next day dawns then you drink it again,
+\com
+\idx
+\ref ZOH001R036 716
+\_no 00705
+\tx 7axta ke p@7tpa
+\mb 7axta ke
+p@7t -pa
+\sg] hasta que pasar-INC
+\egl until that pass -INC
+\zoq 7axta k p@7tpa.
+\fts hasta que pase.
+\fte until it passes.
+\com
+\idx
+\ref ZOH001R036 717
+\_no 00706
+\tx xukpa
+\mb xuk
+ZOH001R0361001.txt
+ga
+-pa ka -7
+\sg1 acabarse-INC DCT3-NOM1
+\egl finish -INC DCT3-NOM1
+\com
+\idx
+\zoq Xukpa ga.
+\fts se acaba eso.
+\fte That ends.
+\ref ZOH001R036 718
+\_no 00707
+\tx
+\mb GSM
+7@m tz@k -w@
+\sg1 GSM: 2E hacer-COM
+GSM: 7@m tz@kk@
+7uk@
+7@m 7uk -A
+tomar-nINC
+drink-nINC
+Page 153
+EN
+7@m 7ukke7tpa
+7@m 7uk
+-ke7t -pa
+tomar-REPET-INC
+drink-REPET-INC

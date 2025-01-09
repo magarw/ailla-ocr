@@ -1,0 +1,63 @@
+\SYN
+\SEMF arrange
+\ASP achievement
+\ARG
+\NOM wat.e7, wat.kuy7, wat.naanh
+\SUB 7ok.wat.jay, 7ok.wat. '@y, ni.wat=tzonh, wat=pak, wat=t@nh.t@nh.w@y,
+\SUB wat=tzonh, wat=pu'
+\ETYM
+\ETL
+\ROOT wat
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex wax
+\_no 00192
+\LG MIG
+\PSH
+\UND wax
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG morder; mascar
+\ENG to bite; to chew
+\SPL wax. 7oy
+\SLGR ANTIP
+\SLGL morder, mascar // to bite, to chew
+\SLGR NO PASS
+\EXU 7@y+ wax-w@ bi nu' bi mixtu7
+\XPSH [7@y waxx@ bi nu bi mixtu7.]
+ZOH001R0611006.txt
+\XSP El perro mordio* el gato.
+\XEN The dog bit the cat.
+\SYN
+\SEMF bite
+\ASP transition
+\ARG
+\NOM wax.e7, wax. 'oy.kuy7, wax-tzik.i7, wax.naanh
+\SUB wax=naka7tz
+\ETYM
+\ETL
+\ROOT wax
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex we7k [1]
+\_no 00193
+\LG MIG
+\PSH
+\UND we7k
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG envarillar
+\ENG to place the wooden cross-poles (in a wall or door) where the mud goes
+Page 130

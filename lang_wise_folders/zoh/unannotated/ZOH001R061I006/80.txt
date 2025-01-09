@@ -1,0 +1,66 @@
+\SCI
+\USE
+\SPG arar; quebrar; surquear; partir
+\ENG to plow; to break; to break the earth; to cultivate
+\SPL
+no7tz.7oy
+\SLGR ANTIP
+\SLGL cultivar // to cultivate
+\SPL no7tz.7@m
+\SLGR PASS
+\SLGL romperse (cualquiera cosa) // to be broken
+\SPL no7tz.ney
+SLGR ASSUM1
+\SLGL tener rajado // to have it broken
+\SPL no7tz. ten
+\SLGR PRSV
+\SLGL tener rajado // to have it broken.
+\EXU 1 no7tz.ten-e
+\XPSH 1 [No7tztene.]
+\XSP 1 Esta* cultivado/rajado el terreno.
+XEN 1 The ground is broken.
+\EXU 2 7@y+ no7tz-w@ bi xuyu7
+\XPSH 2 [7@y no7tztz@ bi xuyu7.]
+\XSP 2 Quebro* la olla.
+\XEN 2 He broke the pot.
+\EXU 3 7@y+ no7tz.ten-w@ bi nax
+\XPSH 3 [7@y no7tztenn@ bi nax.]
+\XSP 3 Lo cultivo* a tiempo la tierra.
+\XEN 3 He cultivated the ground in time.
+\EXU 4 no7tz. '@m-w@ bi limeta
+\XPSH 4 [No7tztz@mm@ bi limeta.]
+\XSP 4 Se rompio* la botella.
+\XEN 4 The bottle was broken.
+\SYN
+\SEMF break
+\ASP activity
+\ARG
+ZOH001R0611006.txt
+\NOM nax=no7tz.pa'.kuy7, no'tz.e7, no'tz. 07
+\SUB papx=no7tz, tet-no7tz
+\ETYM
+\ETL
+\ROOT no7tz
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS tierra, plato, vaso,
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex nuk
+\_no 00118
+\LG MIG
+\PSH
+\UND nuk
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG agarrar
+\ENG to grasp, to grab
+\SPL nuk. 7oy
+\SLGR ANTIP
+\SLGL agarrar // to grasp
+\SPL nuk.7@m
+breaks into little pieces
+Page 80

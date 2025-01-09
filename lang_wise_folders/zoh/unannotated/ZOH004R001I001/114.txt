@@ -1,0 +1,62 @@
+\date 09/Jan/96
+\lex 7etz-m@tz. '@y
+\_no 00265
+\LG MIG
+\PSH [7etzm@tztz@y-]
+\UND 7etz=m@tz.7@y
+\MB bailar, *jugar, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG bailar jugando
+\ENG to play-dance
+\SPL
+\SLGR
+\EXU 7etz-m@tz. '@y-pa 7@y+ min-wa
+\XPSH [7etzm@tztz@bay minn@.]
+\XSP Veni*a bailando jugando.
+\XEN She came play-dancing.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7etz
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 09/Jan/96
+\lex 7etz-pa+a7k
+\_no 00266
+\LG MIG
+\PSH [7etxpa*7k]
+\UND 7etz-pa +P@7k
+\MB bailar, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG bailador/a, uno que baila
+\ENG dancer, one who dances
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7etz
+\RTGR T1
+\DSRC TK94
+\CMTS
+\date 09/Jan/96
+ZOH004R0011001.txt
+\lex 7ex
+\_no 00267
+\LG MIG
+\PSH
+\UND 7ex
+\MB
+\VAR
+\GRAM vt
+Page 114

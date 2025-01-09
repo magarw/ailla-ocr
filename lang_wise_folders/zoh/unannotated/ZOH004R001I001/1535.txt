@@ -1,0 +1,63 @@
+\MB cantar, INC, REL
+\VAR _wan-pa+a7k p@n
+\GRAM agt1
+\SCI
+\USE
+\SPG cantor
+\ENG singer
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wan
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex wan (@)=t@'
+\_no 03571
+\LG MIG
+\PSH [wan@t@-]
+\UND wan-A=t@7
+\MB cantar, X, querer
+\VAR
+\GRAM vt: desid
+\SCI
+\USE
+\SPG tratar de cantar
+\ENG to try to sing
+\EXU
+\XPSH
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 wan
+\RTGR 1 T1
+\ROOT 2 t@
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS CK-PH - HAJ:96, both good, with and without the V
+\date 20/Jun/96
+\lex wanhka'
+\_no 03572
+ZOH004R0011001.txt
+LG MIG
+\PSH [wanhka-]
+\UND wanhka7
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG voltearse (de personas)
+\ENG to turn over (of people)
+\SPL yak. wanhka'
+\SLGR CAUS
+\SLGL voltear; hacer volcar // to turn over
+Page 1535

@@ -1,0 +1,63 @@
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU y@k.ju7tt@.ju7tt@.w@y-pa
+\XSP "lo mete y lo saca'
+\XEN he is making the movement of fucking
+\SYN cf. %jutu
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex {j@7}
+\_no 04443
+LG MIG
+\PSH
+\UND ja7
+\MB si
+\VAR
+\GRAM part
+\SPG si*
+\ENG yes
+\SPL
+\SLGR
+\EXU
+\XPSH
+\XSP
+\XEN
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {+j@nanh}
+\_no 04444
+LG MIG
+\PHO [j@nanh]
+\UND j@nanh
+\MB DIR1
+\VAR
+\USE directional postposition
+\GRAM av
+\SPG para
+\ENG towards
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT
+ZOH004R0011001.txt
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+Page 1908

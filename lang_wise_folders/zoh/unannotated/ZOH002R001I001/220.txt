@@ -1,0 +1,37 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+agreement markers even though the valency of the whole construction is
+intransitive. In (i), V2 is made intransitive by the addition of the antipassive
+suffix; in (v), it is intransitive because the patient - tuhkuy?, 'gun' - has been
+incorporated. The absolutive dǝ+ (1A) appears in example (ii) because the
+clause is in the inverse: the third person agents of V2 are searching for a first
+person patient, so the more important first person argument must be explicitly
+marked. In example (vii), both the auxiliary and V2 are inflected directly for
+mood. Double marking only occurs with this particular construction: the
+auxiliary nək- and the hortative mood. It is a very common way to say "Let's go
+do something!".
+(8.4)
+(i)
+(ii)
+(iii)
+-
+completive aspect – intransitive V2
+minnøn muxxoydame
+min-wə ?ən+ muš-?oy-tam-E
+come-COM 1E+ know. ANTIP-1/2PL-dCOM
+'We came to know (about it).'
+completive aspect – inverse marking
+minnø dø me'chuki
+min-wə də+ me?tz-šuk-E
+come-COM 1 A+ look_for-3PL-dCOM
+'They came to look for me.'
+incompletive aspect
+minpa 'øy tzakkø 'øy wakaxdøkkay
+min-pa
+?əy+ cak-wə
+come-INC 3E+ leave-dINC 3E+ cow+NPL
+'They come to leave their cattle.'
+?əy+ wakaš+dəǝkkay
+194
+(ZOH001R023-172)
+(ZOH001 R030-001)
+(ZOH001 R032-072)

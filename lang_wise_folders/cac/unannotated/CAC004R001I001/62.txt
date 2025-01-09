@@ -1,0 +1,76 @@
+No duermes de noche.
+max achway laj t'ak'b'alil
+ma-x
+ach-way laj t'ak'b'al-il
+neg-pres 2B-dormir neg noche-abs
+No duerme de noche.
+max way laj winh t'ak'b'alil
+ma-x
+126
+Ø-way
+laj winh t'ak'b'al-il
+neg-pres 3B-dormir neg él noche-abs
+184. El niño se durmió.
+a jun unin ixwayi
+a jun unin ix-ø-way-i
+top uno niño pas-3B-dormir-vti
+a winh unin ixway winh
+a
+winh unin ix-Ø-way
+winh
+top Сmasc niño pas-3B-dormir Cmasc
+ixway winh unin
+ix-Ø-way
+winh unin
+pas-3B-dormir Cmasc niño
+185. El niño está durmiendo.
+a jun unin lanh swayi
+a jun unin lanh s-way-i
+top uno niño prog 3A-dormir-vti
+wan sway winh unin
+wan s-way
+winh unin
+prog 3A-dormir Cmasc niño
+wan skot swayan winh unin
+wan s-kot
+s-wayan winh unin
+prog 3A-venir 3A-sueño Cmasc niño
+186. El niño se va a dormir.
+a jun unin olwayok
+a jun unin ol-ø-way-ok
+top uno niño fut-3B-dormir-IRR
+olway winh unin
+ol-ø-way
+winh unin
+fut-3B-dormir Cmasc niño
+187. El niño se durmió otra vez.
+a jun unin ixway junelxo
+a
+jun unin ix-Ø-way
+junel-xo
+top uno niño pas-3B-dormir otra_vez
+winh unin ixway winh junelxo
+winh unin ix-Ø-way
+winh junel-xo
+Cmasc niño pas-3B-dormir Cmasc otra_vez
+ixway winh unin junelxo
+ix-Ø-way winh unin junel-xo
+pas-3B-dormir Cmasc niño otra_vez
+188. El niño no durmió bien anoche.
+a jun unin maj way wal laj t'ak'b'alil
+Ø-way
+a jun unin ma-j
+wal laj t'ak'b'al-il
+top uno niño neg-pas 3B-dormir enf neg noche-abs
+winh unin maj te way laj winh t'ak'b'alil
+winh unin ma-j
+te Ø-way laj winh t'ak'b'al-il
+Cmasc niño neg-pas muy 3B-dormir neg Cmasc noche-abs
+maj te way laj winh unin t'ak'b'alil
+ma-j te Ø-way laj winh unin t'ak'b'al-il
+neg-pas muy 3B-dormir neg Cmasc niño noche-abs
+maj te way laj winh unin t'a wach' t'ak'b'alil
+ma-j te Ø-way laj winh unin t’a
+unin t'a wach' t'ak'b'al-il
+neg-pas muy 3B-dormir neg Cmasc niño prep bueno noche-abs
+127

@@ -1,0 +1,63 @@
+\lex_tzix-kewanh7
+\_no 03385
+\LG MIG
+\PSH [tzixkewanh7]
+\UND tzix-kewanh7
+\MB
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG chaya; planta "mala mujer"
+\EXU tzix=kewanh' 7ay7
+\XPSH [tzixkewanh 7ay7]
+\XSP hoja de mala mujer
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-all - HAJ:96 ok/OK: TK
+\date 26/Jun/96
+\lex tzix.naanh [1]
+\_no 03386
+\LG MIG
+\PHO [tzixna*nh]
+\UND tzix.naanh
+LF:poj 7okox
+\MB picar, MED
+\VAR
+\GRAM meas
+\SPG un piquete
+\ENG a bite or sting
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT tzix
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex tzix.naanh [2]
+\_no 03387
+\LG MIG
+\PHO [tzixna*nh]
+\UND tzix.naanh
+\MB tirar_pedo, MED
+\VAR
+\GRAM meas
+\SPG pedo
+\ENG fart
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT tzix
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+ZOH004R0011001.txt
+Page 1456

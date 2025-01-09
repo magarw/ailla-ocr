@@ -1,0 +1,22 @@
+indicate a glottal stop that gets deleted or that induces gemination of the
+preceding consonant, as is the case with the initial glottal stop of the
+antipassive suffix 7oy.
+Similarly, W is used to indicate a /w/ that induces gemination in the
+preceding syllable. Such a W is found in the entry for ?aŋmayyə?k, 'student':
+7anh-may-W@+V7k (MOUTH.count.COM+REL). Another symbol intended to
+provide information about historical connections among these languages is H,
+which indicates a glottal fricative that does not appear on the surface in some
+languages. These H's never appear on the surface in MIG Zoque, which is why I
+don't use them in the morpheme breakdown lines in my examples. An entry
+with this symbol is 7anh-kuk.'aH (?aŋkukka-, 'to collec
+These orthographic conventions are used in all the fields that represent
+the underlying form of the entry: lex, PHO, UND, VAR, and EXU (an example of
+the entry's use).
+The next field that might of interest as a search term is GRAM, used for a
+grammatical code describing the entry. Some of these codes are shown in table
+A.3. The codes are based on Spanish words, and may be combined into strings
+reflecting the components of the lexical entry. For example, the code sms
+indicates a noun (sustantivo) modifying another noun. This is not a constrained
+set of items, and thus would be difficult to exploit in a fine-tuned search, but
+one could use it to find all the transitive verbs, for example.
+406

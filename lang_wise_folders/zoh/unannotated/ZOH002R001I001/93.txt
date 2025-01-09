@@ -1,0 +1,49 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+NOM1 is identified as a suffix to make this system work. It is possibly
+also a nominalizing suffix that appears in a few deverbal forms (e.g., šaŋ.?,
+'wind', perhaps derived from the root šaŋ-, 'to cut with a machete' or more
+generally, 'to make a swinging/swishing/whooshing motion'). DEM is a suffix
+that yields a pronominal form from the deictic root. There is no apparent
+system or rule for choosing to use this suffix. The variant DEM form -gə
+occasionally appears with DCT3: gagə, 'that', and even sometimes alone.
+(4.22)
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+yo' pøn pwes nøktøpa joji
+yə.?
+pan pwes 0
+nək-tə?-pa hohi
+DCT1.NOM1 man well 3A go-want-INC tomorrow
+""This man wants to go tomorrow."
+'øm nøkpa yødø 'awinjønang benigno
+?əm+ nək-pa yə.də
+2A+ go-INC DCT1.DEM sibling+ACC
+"You'll go with this fellow, Benigno."
+'i de ti me'chukpa
+?i
+de.?
+ti ?əy+me?c.šuk-pa
+and DCT2.NOM1 what 3E+ look_for-3PL-INC
+""And those guys, what are they looking for?"
+?awin?+hənaŋ benigno
+benigno
+gadøk 'øy muxxukpa
+ga.?+dǝkkay
+(ZOH001 R010-046)
+?əy+ muš-šuk-pa
+DCT3.NOM1+NPL 3E+ know-3PL-INC
+'They know.'
+jum pøpa 'øm nøkkø dedø jamatin 'øm pøktzongpá'
+hu
+?əm+pə?-pa ?əm nək-wǝ de.də
+hamatin ?əm+pək=co?-pa+V?k
+where 2E+ put-INC 2E+ go-dINCDCT2.DEM money 2E+get=join-INC
+'Where are you putting that money you're receiving?'
+(ZOH001R028-105)
+68
+(ZOH001 R010-029)
+(ZOH001R010-097)
+(ZOH001 RO10-264)

@@ -1,0 +1,63 @@
+\lex ko.juy
+\_no 01328
+\LG MIG
+\PSH [kojuy-]
+\UND ko.juy
+\MB OTRO, comprar
+\VAR
+\GRAM vt, vi
+\SCI
+\USE
+\DLG
+\SPG 1 comprar algo por e*1
+\SPG 2 comprar una mujer (sin su voluntad; cuando ella no lo quiere)
+\ENG 1 to buy something for him
+\ENG 2 to buy a woman (against her will)
+\EXU 7@y+ ko.juy='anh.t@k. '@y-w@ 7otro Zichiinh
+\XPSH [7@y kojuyyanht@kk@yy@ 7ot 7ichi*nh.]
+\XSP Compro* otro poquito dema*s.
+\XEN He bought a little bit more.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT juy
+\RTGR T1
+\DSRC TK94
+\CMTS CK-EX ok, HAJ: 96
+\CMTS
+\date 18/Jun/96
+\lex koj=woj
+\_no 01329
+\LG MIG
+\PHO [kojwoj-]
+\UND koj=woj
+\MB encajar, hacer_hoyo
+\VAR
+\GRAM vt
+\SPG agujerar
+\ENG to pierce a hole
+\EXU 7@n+ koj=woj-w@ 7@n+ toto' jay.kuy'+j@nanh
+\XPSH [7@n kojwojj@n totojaykuyj nanh.]
+\XSP Agujere* mi papel con el lapiz.
+\XEN I pierced my paper with a pen.
+\SYN
+\ROOT 1 koj
+\RTGR 1 T3
+\ROOT 2 woj
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex ko.j@7kx
+\_no 01330
+\LG MIG
+\PSH [koj@7kx-]
+\UND ko.j@7kx
+ZOH004R0011001.txt
+\MB OTRO, apurarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+Page 580

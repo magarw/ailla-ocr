@@ -1,0 +1,60 @@
+XEN she has sewn it
+\ROOT na7k T3
+\CMTS antip na7k. 7oy
+\CMTS no pass na7k.7@m *
+\lex nanh
+\_no 00135
+\SPG regar, como semilla, arena, tierra
+\ENG to spread, as seed, sand, dirt
+\EX nanhnh@mm@ bi mok
+\XSP se rego* el mai*z
+\XEN the corn was scattered
+\ROOT nanh P, (T3)
+\CMTS antip nanh.7oy
+\CMTS pass nanh.7@m regarse
+\CMTS assum1 nanh.ney estar regado
+\lex nat
+\_no 00136
+\SPG salar
+\ENG to salt
+\EX
+\XSP
+\XEN
+\ROOT nat T3
+\CMTS antip nat.7oy salar
+\CMTS no pass nat.7@m *
+\CMTS prsv nat=ten lo tiene salado
+\CMTS get nate.. alone
+ZOH001R0611011.txt
+\lex nay
+\_no 00137
+\SPG brotar; nacer plantas; siembra
+\ENG to sprout
+\EX
+\XSP
+\XEN
+\ROOT nay 12
+\CMTS caus yak.nay hacer nacer
+\lex nek
+\_no 00138
+\SPG estivar, como len~a
+ENG to stack, as firewood
+\EX 7@y nektenn@ k@pi
+\XSP tiene estivado la len~a
+\XEN she's got the firewood stacked
+\EX nekk@mm@ de k@pi
+\XSP ya esta* estivado la len~a
+\ROOT nek P, (T3)
+\CMTS antip nek. 7oy estivar
+\CMTS pass nek.7@m
+\CMTS assum1 nek.ney estar estivada (la len~a)
+\lex ne7k
+\_no 00139
+\SPG tapar una corriente la echa para un lado
+\ENG to divert a stream of water
+\EX 7@y ne7kk@ pajak_7@y_p@w@ 7eyajo*nh
+\XSP tapo* el ri*o, lo echo* para un lado
+\XEN he diverted the river, he turned it to one side
+\EX n@ ne7kk@
+\ROOT ne7k P, (T3)
+Page 28

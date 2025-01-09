@@ -1,0 +1,62 @@
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex num.i7
+\_no 00229
+\LG MIG
+\PSH [numi7]
+\UND num. E7
+\MB robar, NOM7
+\VAR
+\GRAM sv/pcp
+\SCI
+\USE
+\SPG robado
+\ENG stolen
+\SPL
+\SLGR
+\EXU num.i7+k wakax
+\XPSH [numi7k wakax]
+\XSP ganado robado
+\XEN stolen cow
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT num
+\RTGR T1
+\DSRC TK96
+\CMTS
+\date 03/Jan/80
+\lex num.i+i7k
+\_no 00230
+LG MIG
+\PSH [numi*7k
+\UND num-E +P@7k
+\MB robar, NOM7, REL
+\VAR
+\GRAM SV
+\SCI
+\USE
+SPG cosa robada
+\ENG a stolen thing
+\EXU 1 num. E+V7k wakax
+\XPSH 1 [numi7k wakax]
+\XSP 1 ganado robado
+\XEN 1 stolen cow
+\EXU 2 wakax num. E+V7k
+\XPSH 2 [wakax numi*7]
+\XSP 2 ganado robado
+\XEN 2 stolen cow
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT num
+ZOH001R0611004.txt
+\RTGR T1
+\DSRC HAJ94
+\CMTS CK-PH, CK-GR HAJ:96. it's 'wakax numi*7' or 'numi7k wakax'
+\date 21/Jun/96
+\lex_num=tun.i7
+Page 93

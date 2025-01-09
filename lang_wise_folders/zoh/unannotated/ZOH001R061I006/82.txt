@@ -1,0 +1,63 @@
+\SLGL lo abrazaron // they hugged someone
+\SPL nu7kx.ten
+\SLGR NO ASSUM1
+\SLGR PRSV
+\SLGL tener abrazado con una mano // to hold cuddled in one arm
+\DSRC HAJ95
+\CMTS 7@n me7kx-ten-pa 'abrazo con las dos manos'
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex num=tun
+\_no 00120
+\LG MIG
+\PSH [numtun-]
+\UND num=tun
+\MB robar, devisar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG devisar escondido
+\ENG to secretly spot someone
+\SPL num=tun.7oy
+\SLGR ANTIP
+\SLGL asomarse // to peep out
+\SLGR NO PASS
+\EXU 7@n+ num-tun-w@ rroberto n@mm@ 7@y+ 7ojo'=7uk-w@
+\XPSH [7@n numtunn@ Rroberto n@mm@y 7ojo7ukk@. .]
+\XSP Devise* escondido a Roberto, estaba tomando aguardiente.
+\XEN I sneakily caught a glimpse of Roberto drinking corn liquor.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 num
+\RTGR 1 T1
+\ROOT 2 tun
+\RTGR 2 T3
+\DSRC TK94
+\CMTS
+\date 07/Apr/95
+\DATE 03/Jan/80
+\lex n@7kx
+\_no 00121
+ZOH001R0611006.txt
+LG MIG
+\PSH
+\UND n@7kx
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG esquivar estivar (piedra) (blok)
+\ENG to stack blocks or rocks
+\SPL n@7kx. 7oy
+\SLGR ANTIP
+\SLGL estivar piedra // to stack rocks
+\SPL n@7kx.7@m
+\SLGR PASS
+\SLGL estar estivado // to be stacked
+\SPL n@7kx.ney
+Page 82

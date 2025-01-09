@@ -1,0 +1,93 @@
+\_no 00620
+\tx junanh t@kk@ba
+\mb junanh
+\sg1 como
+\egl how
+ney kwerpujo
+t@k -7@y -pa ney kwerpu-jo7
+casa -VERS2-INC IPrn cuerpo-LOC2
+house-VERS2-INC IPrn body -LOC2
+\zoq Junanh t@kk@ba ney kwerpujo?
+\fts Como entra en nuestra cuerpo?
+\fte How does it enter into our body?
+\com
+\idx
+\ref ZOH001R036 633
+\_no 00621
+\tx ti
+\mb ti
+ZOH001R0361001.txt
+para n
+7anmal mo 7 d@ waxtampa
+7anma*1 mo7
+d@ wax
+tz@ktampa
+para 7@n tz@k -tam -ра
+para 1E hacer-1/2 PL-INC
+IRR2 1A bite -1/2PL-INC for 1E do -1/2PL-INC
+- tam -pa
+IRR2 1A morder-1/2 PL-INC
+\sg1 que animal
+\egl what animal
+\tx de
+\mb te -7
+waykay toya
+waykay
+toy
+-A7
+\sg1 DCT2-NOM1 palodismo doler-NOM2
+\eg1 DCT2-NOM1 malaria
+hurt -NOM2
+\zoq Ti 7anmal_mo7 d@ waxtampa paran tz@ktampa de waykay toya?
+fts Que animal sera* nos muerde para que nos pega ese enfermedad el
+paludismo?
+fte what animal might it be that bites us so we do that malaria disease?
+\com
+\idx
+\ref ZOH001R036 634
+\_no 00622
+OSM: komo 7antes yoxtampam
+\tx
+\mb OSM
+montanya tzamkuyjo7
+komo 7antes yox
+- tam -pa -7am montanya tzamkuy7 -jo7
+\sg1 OSM: como 7antes trabajar-1/2PL-INC-YA montan~a montan~a -LOC2
+\egl OSM: like before work -1/2PL-INC-NOW mountains mountains-LOC2
+\zoq OSM: Komo 7antes yoxtampam montanya tzamkuyjo7,
+\fts OSM: Como antes trabajamos en la montan~a,
+\fte OSM: Like before we work in the mountains,
+\com
+\idx
+\ref ZOH001R036 635
+\_no 00623
+\tx ney gaja
+\mb ney
+ka -ja7 da monh
+- tam -ра
+\sgl alguna DCT3-LOC1 1A dormir-1/2PL-INC
+\egl some DCT3-LOC1 1A sleep -1/2PL-INC
+d@ monhtampa
+\zoq ney gaja da monhtampa.
+\fts alla dormimos.
+\fte somewhere there we will sleep.
+\com
+\idx
+\ref ZOH001R036 636
+\_no 00624
+\tx 7i
+d@ waxtampa
+ded@
+ban tzokk@
+ха
+-tam -pa te -d@
+\mb 71 d@ wax
+\sg] y
+\eg1 and 1A bite -1/2PL-INC DCT2-DEM biting_insect very cure -COM INTENS
+bayun tzok -w@ xa7
+sanar-COM INTENS
+1A morder-1/2PL-INC DCT2-DEM zancudo
+muy
+Page 135
+jeje
+jeje

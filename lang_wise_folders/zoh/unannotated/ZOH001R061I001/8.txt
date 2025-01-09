@@ -1,0 +1,91 @@
+\fts hace casas grandes y bonitos
+\fte he builds big beautiful houses
+\com I'd bet this is really pretty marginal
+\idx incorp
+\ref 038
+\_no 00038
+\tx t@k
+\mb t@k
+\sg1 casa
+-pa -v7k
+hacer-INC 1Erg querer-INC-REL1
+\egl house do -INC 1Erg want -INC-REL1
+\fts hace casas que me gusta
+\fte he builds houses that I like
+\com
+\idx incorp
+tz@kpa 7@n t@pa*7
+tz@k -pa 7@n ta
+\ref 039
+tz@kpa
+\_no 00039
+\tx ? tak
+\mb
+\sg1
+7@y t@pa*7
+tz@k -pa 7@y t@
+bi jente
+jente
+casa hacer-INC 3Erg querer-INC-REL1 DET gente
+\eg1 house do -INC 3Erg want -INC-REL1 DET people
+t@k
+-pa -v7k bi
+\ref 040
+\_no 00040
+\tx
+tak
+\mb tak
+\fts ? hace casas que le gusta a la gente
+\fte ? he builds houses that the people like
+\com
+\idx incorp
+ZOH001R0611001.txt
+tz@kpa
+tz@k -pa yakti
+ya +7@y t@
+-A
+NEG+3Erg querer-nINC
+\egl house do -INC nothing NEG+3Erg want -nINC
+\sg1 casa hacer-INC nada
+\ref 041
+\_no 00041
+\tx t@k
+\mb t@k
+yakti yay
+\fts hace casas que nadie no le gusta
+\fte he builds houses that nobody likes
+\com
+\idx incorp
+tz@kpa
+tz@k -pa
+t@@*7
+syempre jumpa*7
+syempre jum
+-pa -v7k
+\sg1 casa hacer-INC siempre derrumbar(se)-INC-REL1
+\egl house do -INC always crumble
+\ref 042
+\_no 00042
+\tx ? tak
+\mb
+tz@kpa
+tak
+tz@k -pa
+\sgl
+hacer-INC
+\egl house do -INC crumble
+casa
+\fts hace casas que siempre se derrumban
+\fte he builds houses that always fall down
+\com
+\idx incorp
+-INC-REL1
+\fts ? hizo casas que se derrumbaron
+\fte ? he built houses that fell down
+\com
+jumm@*7
+-w@ -V7
+jum
+derrumbar (se) -COM-REL1
+-COM-REL1
+Page 8

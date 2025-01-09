@@ -1,0 +1,62 @@
+\RTGR P (11)
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yak.y@7x [7@y+ tu7tz
+\_no 04109
+\LG MIG
+\PSH [yaky@7x- 7@y tu7tz
+\UND yak.y@7x 7@y+ tu7tz
+\MB CAUS, X, 3Erg, cola
+\VAR
+\GRAM caus2
+\SCI
+\USE
+\SPG menear
+\ENG to wag the tail
+\EXU 7@y+ yak.y@7x-w@ 7@y+ tu7tz_bi nu7 [vos]
+\XPSH [7@y yaky@7x@y tu7tz bi nu7.]
+\XSP El perro meneo* su cola.
+\XEN The dog wagged its tail.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT y@7kx
+\RTGR IX
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex =yak. 'oy
+\_no 04110
+\LG MIG
+\PSH [-yakkoy-]
+\UND =yak.ka7.7oy
+\MB CAUS, morirse, ANTIP
+\VAR
+\GRAM second member of compound
+\SCI
+\USE
+\SPG matar
+ENG to kill
+\SPL
+\SLGR
+\EXU pekx=yak. 7oy
+\XPSH [pekxyakkoy-]
+\XSP papalotear
+\XEN to flutter
+\EXU xanh=yak.7oy
+\XPSH [xanhyakkoy-]
+\XSP mover en el aire
+\XEN to move in the wind
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT
+\DSRC TK96
+\CMTS
+\date 26/Jun/96
+\lex yanhke7
+Page 1766

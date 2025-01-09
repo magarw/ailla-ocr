@@ -1,0 +1,62 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@m
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex y@k.tz@y. '@y
+\_no 04373
+\LG MIG
+\PSH [y@ktz@yy@y-]
+\UND yak.tz@y.7@y
+\MB X, atorarse, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG encender; prender
+\ENG to light; to turn on
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@y
+\RTGR 12
+\DSRC HAJ94
+\CMTS CK-GR, find deriv's/PH-OK: TK
+\date 26/Jun/96
+\lex y@k.wij
+\_no 04374
+\LG MIG
+\PSH [y@kwij]
+\UND yak.wij.0
+\MB INSTR2, zambutirse, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG camisa
+\ENG shirt
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT wij
+ZOH004R0011001.txt
+\RTGR IX
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex y@k.wij 7@y+ kweyu
+Page 1877

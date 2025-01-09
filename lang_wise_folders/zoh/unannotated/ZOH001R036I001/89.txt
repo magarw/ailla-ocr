@@ -1,0 +1,79 @@
+\mb 7axta ke yak -jipx
+\sg1 hasta que CAUS-quemarse-INC
+\egl until that CAUS-overcook-INC
+\zoq 7axta ke yakjipxpa.
+\fts Hasta que lo queme.
+\fte Until he makes it burn.
+\com
+\idx
+\ref ZOH001R036 413
+\_no 00407
+\tx GSM: 7a bweno 7@y yakjipxpa
+\mb
+GSM
+7ay
+bweno 7@y yak -jipx
+\sg1 GSM: ah
+bueno 3E CAUS-quemarse-INC
+\eg1 GSM: ah good
+good 3E CAUS-overcook -INC
+\ref ZOH001R036 414
+\_no 00408
+\zoq GSM: 7a bweno, 7@y yakjipxpa.
+\fts GSM: Ah bueno, lo quema.
+\fte GSM: Oh ok, he makes it burn.
+\com
+\idx
+OSM: 7@y yakjipxpa
+yak-jipx
+\tx
+\mb OSM 7@y
+\sg1 OSM: 3E
+CAUS-quemarse-INC
+\eg1 OSM: 3E CAUS-overcook -INC
+\zoq OSM: 7@y_yakjipxpa.
+\fts OSM: Si lo hace carbo*n.
+\fte OSM: He makes it burn.
+\com
+\idx
+\ref ZOH001R036 415
+\_no 00409
+\tx ya ke
+\mb__ya ke
+-ра
+\ref ZOH001R036 416
+\_no 00410
+\tx 7@y 7anhjappa
+\mb
+-pa
+ZOH001R0361001.txt
+7anhjappa
+pwes pa
+7uy
+xawa t@kk@yy@
+7anh -jap -ра pwes para 7u
+-7@y
+\sg] ya que
+BOCA -boca -INC pues para NEGimpv-3E
+xawa t@k -7@y -w@
+aire casa -VERS2-nIMPV
+\egl now that MOUTH-mouth-INC well for NEGimpv-3E wind house-VERS2-nIMPV
+\sg1 3E
+\egl 3E
+\zoq Ya ke 7anhjappa, pwes, pa 7uy xawa t@kk@yy@.
+\fts ya que le pone la tapadera, pues, para no le entre aire.
+\fte Now that he caps it, well, so the air doesn't get in.
+\com
+\idx
+bi xuyu
+7@y 7anh -jap -pa bi xuyu7
+BOCA -boca -INC DEF olla
+MOUTH-mouth-INC DEF pot
+\com
+\idx
+\ref ZOH001R036 417
+\zoq 7@y 7anhjappa bi xuyu.
+\fts Le pone tapadera la olla.
+\fte He covers the pot.
+-pa
+Page 89

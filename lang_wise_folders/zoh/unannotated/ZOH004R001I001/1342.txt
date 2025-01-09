@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [tunhnha-]
+\UND tunh.7aH
+\MB camino, VERS1
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG caminar
+\ENG to walk
+\SPL yak.tunh. 7aH
+SLGR CONVERS1
+\SLGL hacer caminar // to make walk
+\EXU 1 kuk+kina.'anh tunh.'aH-w@
+\XPSH 1 [Kukkuna*nh tunhnhaw@.]
+\XSP 1 Camino* por la mitad del camino.
+\XEN 1 he walked down the middle of the road
+\EXU 2 tij-w@ 7@n+ tunh. 'aH-tam-E
+\XPSH 2 [Tijj@n tunhnhadame.]
+\XSP 2 Fuimos a caminar.
+\XEN 2 We went walking.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH of EX2 HAJ:96 fixed
+\date 19/Jun/96
+\lex tunh. '@y
+\_no 03120
+\LG MIG
+\PSH [tunhnh@y-]
+\UND tunh.7@y
+\MB camino, VERS2
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG tener camino
+\ENG to have a path or a way to go
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 13/Nov/94
+ZOH004R0011001.txt
+\lex tu7p
+\_no 03121
+\LG MIG
+\PSH
+\UND tu7p
+\MB
+\VAR
+\GRAM vt
+\SCI
+Page 1342

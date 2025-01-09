@@ -1,0 +1,63 @@
+\SPG le VERBO
+\ENG to VERB to/for/at someone
+\SPL
+\SLGR
+\EXU d@+ 7ok.tzam.jay-tam-w@
+\XPSH [D@ 7oktzamjadamm@.]
+XSP Nos conto*.
+XEN He told us a tale.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {+ja}
+\_no 04433
+\LG MIG
+\PHO
+\UND ja
+\MB LOC1
+\VAR used only with the distal deictic
+\GRAM av
+\SPG alla*
+\ENG there
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex {+jaa7}
+\_no 04434
+\LG MIG
+\PSH [ja*7]
+\UND jaa7
+ZOH004R0011001.txt
+\MB NOM4
+\VAR
+\USE postnominal clitic, forms a plural noun from another noun
+\GRAM clitic
+\SPG los quienes; los_de_dondequiera
+\ENG people who; people from wherever
+\SPL
+\SLGR
+\EXU 1 mix+jaa7 kum.kuy'=p@n+jaa7 me7tz-tam-A7 bi xeme. E7
+p@n d@k+'a(y)
+XPSH 1 [Mixja*7 kumkuyp@nja*7 me7tztam@ bi xeme p@n d@kka.]
+\XSP 1 Uds. gente del pueblo busquen los mu*sicos.
+\XEN 1 You townspeople look for musicians.
+\EXU 2 ya.7 p@n 7@n+ 7anh.7it-tam-pa komo ke si ney
+7awin'+jaa7
+\XPSH_2 [Y@7 p@n 7@n 7anhnittampa komo ke si ney_7awinja*7.]
+\XSP 2 Este hombre lo vamos a tener como que si fuera nuestro
+hermano.
+\XEN 2 But we're going to treat this man as if he were our brother.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+Page 1904

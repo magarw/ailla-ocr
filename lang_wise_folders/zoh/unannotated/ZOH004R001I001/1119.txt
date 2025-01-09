@@ -1,0 +1,63 @@
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex penhsar=tz@k
+\_no 02600
+\LG MIG
+\PSH [penhsartz@k-]
+\UND penhsar=tz@k
+\MB pensar, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pensar
+\ENG to think
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM pensar
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-PH: why /r/? I don't know why, but it's there. HAJ:96, yes
+\date 25/Jun/96
+\lex pepinu
+\_no 02601
+LG MIG
+\PSH
+\UND pepinu
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG pepino
+\ENG cucumber
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 19/Jun/95
+\lex pera
+\_no 02602
+LG MIG
+\PSH
+\UND pera
+\MB
+\VAR
+ZOH004R0011001.txt
+LF:7okox - poj
+Page 1119

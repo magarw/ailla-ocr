@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH'OK: TK
+\date 26/Jun/96
+\lex j@x+jonanh
+\_no 01046
+\LG MIG
+\PSH [j@xjonanh]
+\UND jax +jonanh
+\MB ATRAS, DIR3
+\VAR
+\GRAM av
+\SCI
+\USE
+\SPG para atra*s
+\ENG towards the rear
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\lex j@x-jo7px
+\_no 01047
+\LG MIG
+\PSH [j@xjo7px-]
+\UND jax-jo7px
+\MB ATRAS, poner_bozal
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar con el bozal
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jo7px
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 06/Feb/96
+\lex j@x-jot
+\_no 01048
+\LG MIG
+\PSH [j@xjot-]
+\UND jax=jot
+\MB ATRAS, cortar_parejo
+ZOH004R0011001.txt
+Page 459

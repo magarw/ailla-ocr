@@ -1,0 +1,63 @@
+\SEMF body, move
+\ASP
+\ARG
+\NOM
+\SUB 7ok.jax.'@y, jax.ney, ni.jax, ni.jax.ney, nik.jax. '@y
+\ROOT * jax
+\RTGR P
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex {%kut}
+\_no 04559
+\LG MIG
+\PHO
+\UND
+\MB
+\VAR
+\GRAM
+\SPG estar en las rodillas
+\ENG to be on your knees
+\EX
+\XSP
+\XEN
+\SYN
+\SEMF body, arrange
+\ASP
+\ARG
+\NOM
+\SUB kut.na' wit, kut.ney, kut.x@y, kut.yak. 'oy
+\ROOT kut
+\RTGR P
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+ZOH004R0011001.txt
+\lex {+v7k}
+\_no 04560
+LG MIG
+\PSH
+\UND V7K
+\MB REL1
+\VAR
+\GRAM rel
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU 1 ga.g@ kuy+jo' wit-pa+v7k p@n d@k+'a(y) te.ji-xuk+'am
+ga.ja ga.y ni.ko.pak+jo7
+\XPSH 1 [Gag@ kuyjo witpa*7k p@n d@kka tejixukka*m gaja gay
+nikopakjo7.]
+\XSP 1 Aquellos hombres que son rebeldes ya esta*n alla* en la punta
+del cerro.
+\XEN 1 Those men who are rebels are now there at the top of the hill.
+\EXU 2 7@y+ jamatin=tzi-w@ juxtixa n@k-w@ 7@y+
+yak.tam'=n@'=p@k-E+V7k_p@n
+XPSH 2 [7@y jamatintziwa juxtixa n@kk@y yaktamn@p@ki*7k
+p@n.]
+XEN 2 El presidente dio* dinero al hombre que fue* traer la cerveza.
+\XSP 2 The mayor gave money to the man who went to get the beer.
+\SYN
+\SEMF
+Page 1958

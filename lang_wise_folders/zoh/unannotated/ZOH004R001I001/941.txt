@@ -1,0 +1,63 @@
+\ROOT
+\DSRC HAJ94
+\CMTS* n@7-a
+\CMTS no verb *
+\date 31/Mar/95
+\lex nek
+\_no 02184
+\LG MIG
+\PSH
+\UND nek
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG estivar, len~a, piedras, etc.
+\ENG tostack, wood, rocks etc.
+\SPL nek. 7oy
+\SLGR ANTIP
+\SLGL estivar // to stack
+\SPL nek.7@m
+\SLGR PASS
+\SLGL estivarse // to be stacked up
+\SPL nek.ney
+\SLGR ASSUM1
+\SLGL estar estivada (la len~a) // to be stacked up
+\SPL nek.ten
+\SLGR PRSV
+\SLGL tener estivado // to have something stacked up
+\EXU 1 7@y+ nek.ten-w@ kapi
+\XPSH 1 [7@y nektenn@ k@pi.]
+\XSP 1 Tiene estivado la len~a.
+ZOH004R0011001.txt
+\XEN 1 He's got the firewood stacked up.
+\EXU 2 nek.7@m-w@ de k@pi
+\XPSH 2 [Nekk@mm@ de k@pi.]
+\XSP 2 Ya esta* estivado esa len~a.
+\XEN 2 That firewood is stacked up.
+\EXU 3 7@y+ nek.ten-w@ kuy wotz.e d@k(+'ay)
+\XPSH 3 [7@y nektenn@ kuy wotze d@kka.]
+\XSP 3 Tiene estivado las tablas asseradas.
+\XEN 3 He's got the sawn wood stacked.
+\SYN
+\SEMF build
+\ASP activity, accomplishment
+\ARG patient
+\NOM nek.e
+\SUB 7anh.nek, k@.n@k-nek. '@y, nek-jom, yuk.nek
+\ETYM
+\ETL
+\ROOT nek
+\RTGR P, (T3)
+\DSRC TK94
+\CMTS
+CMTS CK-PH of EX2 HAJ:96, corrected d@ to de 'esa'
+\date 03/Jan/80
+\lex nek.e
+\_no 02185
+\LG MIG
+\PSH [neke]
+\UND nek. E
+\MB estivar, NOM7
+Page 941

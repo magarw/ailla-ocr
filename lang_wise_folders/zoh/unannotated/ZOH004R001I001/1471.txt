@@ -1,0 +1,63 @@
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 11/Feb/96
+\lex tzow.e7
+\_no 03419
+\LG MIG
+\PSH [tzowe 7]
+\UND tzonh.E7
+\MB unir, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG una cosa que esta* empatada
+\ENG something that is tied together
+\EXU 1 tzonh. E+V7k pata7
+\XPSH 1 [tzowe7k pata]
+\XSP 1 un petate empatada
+\XEN 1 a tied mat
+\EXU 2 pata tzonh. E+V7k
+\XPSH 2 [pata tzowe*7]
+\XSP 2 un petate empatada
+\XEN 2 a tied mat
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzonh
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-PH
+\date 03/Jan/80
+\lex tzu7
+\_no 03420
+LG MIG
+\PSH
+\UND tzu7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG noche
+\ENG night
+\EXU jemji' tzu7
+\XSP toda la noche
+\XEN all night
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+HAJ:96 ok/OK:TK
+\CMTS
+\date 28/Jan/96
+\DATE 03/Jan/1980
+\lex tzuj
+\_no 03421
+ZOH004R0011001.txt
+Page 1471

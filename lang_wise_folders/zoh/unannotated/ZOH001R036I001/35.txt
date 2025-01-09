@@ -1,0 +1,84 @@
+\mb mal
+\sgl mal
+\egl bad
+\zoq Tenn@* kay gaji kwanum ye7tzjaba*m ded@_mal.
+\fts Como que si una persona esta* parada alli* cuando te va llegando ese
+desgracia.
+\fte who is standing now there when that evil is coming to you.
+\com
+\idx
+\ref ZOH001R036 159
+\_no 00160
+7@m winpaktzonhpa
+\tx
+\mb 7@m win -pak
+\sg1 2E
+\egl 2E
+-tzonh-pa
+CARA-apretarse-unir -INC
+-join -INC
+FACE-grab
+\zoq 7@m winpaktzonhpa.
+\fts Te das de topada.
+\fte You meet it.
+\com
+\idx
+\ref ZOH001R036 160
+\_no 00161
+ZOH001R0361001.txt
+\tx 7a gaji
+bi
+7okmanhpa*m
+7okmanh-pa -7am bi
+\mb 7a ka -ji7
+\sg1 ah DCT3-Loc1 empezar-INC-YA DEF unir -INC
+\egl ah DCT3-LOC1 begin -INC-NOW DEF join -INC
+\ref ZOH001R036 161
+\_no 00162
+\zoq 7a gaji 7okmanhpa*m bi tzonhpa* bi tzonhnh@*7.
+\fts Ya empieza la mala hora que topo*.
+\fte Now there begins the one he meets the one he met.
+\com
+\idx
+\tx molestz@kk@mba*m
+\mb molestar-tz@k -7@m -pa -7am
+\sgl molestar-hacer-PAS -INC-YA
+\egl bother -do -PASS-INC-NOW
+tzonhpa* bi tzonhnh@*7
+tzonh-pa
+\tx kay
+toyjaba*m
+7@y kwerpu n@mm@
+7esde gay
+\mb ka
+-y
+toy -jay -pa -7am 7@y kwerpu n@m -w@ 7esde ka
+\sg1 DCT3-TMP doler-APPL-INC-YA
+3E cuerpo decir-COM esde
+\eg1 DCT3-TMP hurt -APPL-INC-NOW 3E body say -COM um
+\ref ZOH001R036 162
+\_no 00163
+\tx 7a gay
+\mb 7a ka
+bi tzonh-w@ -v7k
+DEF unir -COM-REL
+DEF join -COM-REL
+\zoq kay toyjaba*m_7@y kwerpu n@mm@, 7esde, gay molestz@kk@mba*m.
+\fts Ya empieza dolor su cuerpo dijo ya esta* molesto su cuerpo.
+\fte Now his body hurts him he said, um, now it's being irritated.
+\com
+\idx
+-Y
+\sg1 ah DCT3-TMP
+\egl ah DCT3-TMP noise-do
+\zoq 7a gay rrwidotz@kpa*m 7@y t@kjo,
+rrwidotz@kpa*m
+7@y t@kjo
+ruido-tz@k -pa -7am 7@y tak -jo7
+ruido-hacer-INC-YA
+3E casa -LOC2
+-INC-NOW BE house-LOC2
+Page 35
+-y
+DCT3-TMP
+DCT3-TMP

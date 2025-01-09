@@ -1,0 +1,61 @@
+(103) Ok
+q-poon=a,
+cuándo Alp-llegar allá=1p
+'Cuándo llegamos,'
+(104) alkyee-tzan n=t-qaa’n-n=a
+qué pues INC=A2s-pedir-SD=2s
+'qué estás pidiendo -- tu comida'
+(105) alkyee-tzan n=t-qua’n-n=a
+qué pues
+'qué estás pidiendo'
+(106) b'ix-mo qapa jak
+y-o
+q-xu'j-al-a
+Alp-mujer-ABST=1p A2s-SR:DAT=2s
+'o tal vez te podemos ofrecer nuestra mujer.'
+(107) Qapa jaka
+t-ko'p=a
+ch'in
+tal.vez se.puede A2s-salvar=2s un.poco Alp-SR:PAC=1pEXCL
+'tal vez nos puedes salvar.'
+(108) Weena, jaka
+0=txi q-q'apo-'n=a
+tal.vez se.puede B3s-DIR Alp-ofrecer-SD=1p
+t-ee=ya.
+che'=x n-wab'e=ya,
+bueno se.puede B2p=DIR A1s-encaminar=1 s/2p
+'Bueno, puedo dejarles,'
+(109) 0-chi-tzan
+0=q'uun-j,
+B3s-decir pues B3s-decir-PAS
+'dijo,'
+(110) Ax
+lo.mismo
+'Está bien.'
+INC=A2s-pedir-SD=2s
+(112) t-u'n-tzan
+mo t-waa=ya
+O A2s-comida=2s
+(111) Peraa q'a-n
+ch=ook-il-ya
+pero
+engarzar-PART B2p=entrar-POT=2p
+'Pero tienen que ser amarrados uno tras otro'
+w-ii-'n
+(113) 0-chi-tzan
+b'a'n=0.
+bueno=B3s
+'dijo.'
+(114) Aaq'a-n
+B3s-decir-pues
+0=txi
+A3s-SR:para.que-pues B3s-DIR Als-llevar/traer-SD
+ky-aaq'-el-a,
+A2p-engarzar-ABST=2p
+'para que les pueda llevar amarrados,'
+0=q'uun-j.
+B3s-decir-PAS
+q-ee='.
+ch=ook-il-ya,
+engarzar-PART B2p=entrar-POT=2p
+'Tienen que ser amarrados,'

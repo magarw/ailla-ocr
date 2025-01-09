@@ -1,0 +1,64 @@
+\SPG frijolillo
+\ENG a type of plant
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+ETYM
+\ETL
+\ROOT * m@tz
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+LF:7okox
+\lex x@k xe7t=t@tz.i7
+\_no 00445
+\LG MIG
+\PHO [x@k xe7tt@tzi7]
+\UND x@k xe7t-t@tz.E7
+\MB frijol, freir, secarse, NOM7
+\VAR
+\GRAM PCP
+\SPG frijoles refrito en seco
+\ENG beans refried dry
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT 1 xe7t
+\RTGR 1 T1
+\ROOT 2 t@tz
+\RTGR 2 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex x@k xox='an.e7
+\_no 00446
+LG MIG
+\PSH [x@k xoxxane7]
+\UND x@k xox=7an. E7
+\XSP
+\XEN
+tzamm@7
+\SYN
+\SEMF
+\ETYM
+\ETL
+\MB frijol, cocer, calentarse, NOM7
+\VAR
+\GRAM s (m)ss
+\SCI
+\USE
+\SPG tamalito de frijoles
+\ENG bean tamale
+\EXU
+\ROOT 1 xox
+\RTGR 1 T3
+\ROOT 2 7an
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS ANALYSIS; OK:TK
+\date 26/Jun/96
+ZOH001R0611004.txt
+Page 176

@@ -1,0 +1,62 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7uk
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex n@'=7uk.kuy7
+\_no 02466
+\LG MIG
+\PSH [n@7ukkuy7]
+\UND n@7=7uk.kuy7
+\MB agua, tomar, INSTR1
+\VAR
+\GRAM instrl:incorp
+\SCI
+\USE
+\SPG ji*cara; vaso; recipiente para recoger agua
+\ENG dipper; glass; something that holds water
+\EXU n@¹-7uk. kuy' tzima7
+\XPSH [n@7ukkuy tzima7]
+\XSP_ji*cara con que tomamos agua
+\XEN a dipper we drink from
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 7uk
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex n@¹.7@y
+\_no 02467
+\LG MIG
+\PSH [n@7@y-]
+\UND n@7.7@y
+\MB agua, VERS2
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG echarle agua; bautizar
+\ENG to baptize
+\EXU 7une' n@7.7@y-wa
+\XPSH [7une n@77@yy@.]
+\XSP Bautizo* nin~o.
+\XEN He baptized the baby.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+ZOH004R0011001.txt
+\DSRC TK94
+\CMTS
+\date 08/Feb/96
+Page 1063

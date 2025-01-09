@@ -1,0 +1,62 @@
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS es como carrizo
+\date 12/Jun/95
+\lex 7ajtanh7
+\_no 00014
+\LG MIG
+\PSH
+\UND 7ajtanh7
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG ancho
+ENG wide
+\EXU 7ajtanh' pajak
+\XPSH [7ajtanh pajak]
+\XSP ri*o ancho
+\XEN wide river
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 02/Oct/96
+\lex 7ajtanh'.7aH
+\_no 00015
+\LG MIG
+\PSH [7ajtanhnha-]
+\UND 7ajtanh7.7aH
+\MB ancho, VERS1
+\VAR
+\GRAM versl
+\SCI
+\USE
+\SPG hacerse ancho
+\ENG to become wide
+\SPL
+\SLGR
+\EXU 7ajtanh'.7aH-w@
+\XPSH [7ajtanhnhaw@.]
+\XSP Se hizo ancho.
+\XEN It widened.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 02/Oct/96
+\lex 7ajtanh'=tz@k
+\_no 00016
+\LG MIG
+\PSH [7ajtanhtz@k-]
+\UND 7ajtanh7=tz@k
+ZOH004R0011001.txt
+Page 6

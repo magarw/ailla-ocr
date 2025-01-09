@@ -1,0 +1,63 @@
+\USE
+\SPG colcho*n
+\ENG mattress
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT monh
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 27/Jan/96
+\lex nip.i7
+\_no 00214
+\LG MIG
+\PSH [nipi7]
+\UND nip.E7
+\MB sembrar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG milpa
+\ENG cornfield
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nip
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 27/Jan/96
+\lex nip.i' mok
+\_no 00215
+\LG MIG
+\PSH [nipi mok]
+\UND nip.E7 mok
+\MB sembrar, NOM7, mai*z
+\VAR
+\GRAM pcpms
+\SCI
+\USE
+\SPG milpa de mai*z, mai*z sembrado
+\ENG cornfield, sown corn
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH001R0611004.txt
+\ROOT nip
+\RTGR T1
+\DSRC HAJ94
+Page 87

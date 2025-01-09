@@ -1,0 +1,26 @@
+Appendix A: The MIG Zoque lexicon
+The version of the lexicon that was used in the writing of this grammar
+can be found at the Archive of the Indigenous Languages of Latin America,
+resource identifier ZOH004R001. This is a plain text Shoebox 2.0 output file,
+also available in PDF format. The PDF version is publically accessible. This
+database was produced mainly by me, but significant numbers of entries were
+made by Terrence Kaufman, and all entries have been reviewed by him. The
+primary consultant for the lexicon was Germán Sánchez Morales, although most
+of the entries were reviewed with other speakers.
+Lexicons for this and other MesoAmerican languages were developed by
+the MesoAmerican Languages Documentation Project using Shoebox 2.0
+databases. They are gradually being made available as on-line databases;
+currently, those of MIG Zoque and Oluta Mixe (Roberto Zavala Maldonado) are
+accessible at the MALDP web site, and the Santa María Chimalapa Zoque lexicon
+(Terrence Kaufman) will appear soon.
+An entry in the database is composed of many labelled fields, each of
+which contains a line of textual information about the lexeme. Many of these
+fields can be used as search criteria, in accordance with the instructions on the
+web page. Unfortunately, the system requires some prior knowledge of how
+the entries are composed and what sorts of information can be found in a given
+field; providing that information is the object of this appendix.
+Table A.1 gives the complete list of field names and with descriptions of
+their contents. Not all of these fields are used in every lexical entry, and some
+of them are peculiar to my lexicon. Entries are keyed by the lexeme, which is
+entered in its underlying form.
+402

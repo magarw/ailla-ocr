@@ -1,0 +1,85 @@
+\id C:\TEXTS\ZOH001R002.TXT
+\ref ZOH001R002 000
+\_no 00001
+\zoq La Historia de San Miguel Chimalapa
+\fts La Historia de San Miguel Chimalapa
+\fte The History of San Miguel Chimalapa
+\com narrado por Gelasio Sa*nchez Morales
+\com 27/7/94, en San Miguel Chimalapa, Oaxaca, Mexico
+\com grabado por Benigno Robles Reyes, transcrito por HAJ,
+\com traducido al espan~ol por GSM,
+\com analisado y traducido al ingles por HAJ.
+\com
+\com
+\com 7
+\com narrated by Gelasio Sa*nchez Morales
+\com 7/27/94, in San Miguel Chimalapa, Oaxaca, Mexico
+\com recorded by Benigno Robles Reyes, transcribed by HAJ,
+\com translated into Spanish by GSM,
+\com analyzed and translated into English by HAJ.
+Ortografi*a
+orthography
+\com @
+\com nh
+\com tz
+\com x
+\com j
+\com *
+ZOH001R0021001.txt
+pau*sula glotal
+vocal medio central
+nasal velar
+28/Oct/04
+\ref ZOH001R002 001
+\_no 00002
+\tx 7antes 7antes, San Mige*l
+\mb 7antes 7antes. San Mige*1
+\sg1 7antes 7antes san Miguel
+\egl before before san Miguel
+(ng)
+africativo alveolar (ts)
+fricativo palatal
+glottal fricative (h)
+estre*s
+(sh)
+\ref ZOH001R002 002
+\_no 00003
+glottal stop
+mid central vowel
+velar nasal
+alveolar affricate
+palatal fricative
+stress
+Chimalapa 7era 7un
+Chimalapa 7era 7un
+Chimalapa ser un paraje
+Chimalapa be a hamlet
+\zoq 7antes 7antes, San Mige*1 Chimalapa 7era 7un paraje.
+\fts Antes antes, San Miguel Chimalapa era un paraje.
+\fte Long ago, San Miguel Chimalapa was a little hamlet.
+\not
+\idx
+paraje.
+paraje
+\tx y@7
+\mb ya -7
+\sg1 DCT1-NOM1 antepasado DCT1-NOM1 NEG pueblo
+\eg1 DCT1-NOM1 passed
+DCT1-NOM1 NEG town
+yajakja*7, y@7
+ya kumkuy7 y@ji7,
+yajakja*7 ya -7 ya kumkuy7 ya ji7
+\zoq Y@7 yajakja*7, y@7 ya kumkuy7 y@ji7,
+\fts Antes, este pueblo no era pueblo,
+\fte This long ago, this was not a town here,
+\not
+\idx exis
+DCT1-LOC1
+DCT1-L0C1
+\ref ZOH001R002 003
+\_no 00004
+\tx sin tum tzamkuyjo7 komo forma de tum paraje.
+\mb sin tum tzamkuy7 -jo7 komo forma de tum paraje
+\sg] sino uno montan~a -Loc2 como forma de uno paraje
+\egl but one mountains-LOC2 how form of one hamlet
+Page 1

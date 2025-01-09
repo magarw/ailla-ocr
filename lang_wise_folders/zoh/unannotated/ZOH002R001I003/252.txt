@@ -1,0 +1,41 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+Olson refer to these as "causative serial verb constructions" (1985:25). Many
+compounds involving directional verbs work this way: V1 tells us how the
+agents moved the patient, and V2 tells us in what direction the patient was
+moved.
+(8.35)
+(i)
+(ii)
+(iii)
+'øy tzangwangkawø
+?ǝy+ caŋ=waŋka?-wǝ
+3E+ pegar-voltearse-COM
+'Lo voltió de un golpe.'
+(8.36)
+(i)
+bi metzang mangkuypø'k 'øy jupwanakkø 'øy tujkuy'
+bi mecaŋ maŋkuy?+pə?k ?əy+ hup=wanak-wǝ ?əy+ tuhkuy?
+DEF dos
+3E+ jalar=bajar-COM 3E+ arma
+pie+REL
+'El dos pies descolgo* su arma.'
+(ZOH001R026-122)
+'øy nakxjujxukpa
+?əy+ nakš=huh-šuk-pa
+(ZOH001R018-309)
+3E+ pegar_c_palo=poner_huevo-3PL-INC
+'Estaban garroteando (una tortuga) para que pusiera huevo a la fuerza.'
+(ZOH001R020-008)
+In some compound verb constructions formed with ?iš-, 'to see', the
+patient of the 'see' event is the agent or actor of the V2 event. So, in example
+(8.36 i), the boy sees the man and the man is fishing7.
+'øy 'ixmakkø bi ja:y'une bi pøn
+bi
+?əy+ ?iš=mak-wə
+haya=?une? bi pən
+3E+ ver=pescar-COM DEF macho-niño DEF hombre
+'El muchacho vió al hombre atarrayando.'
+(elicited)
+7 ?iš- also appears in several idiosyncratic compounds, such as ?iš=tuk- (see-finish) 'to wait',
+and ?iš=pøk- (see=get) 'to recognize'. In these cases, both verbs share the same agent.
+237

@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT pu7
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 08/Jan/96
+\lex 7anh-p@k
+\_no 00162
+\LG MIG
+\PSH [7anhp@k-]
+\UND 7anh-p@k
+\MB BOCA, agarrar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 invitar
+\SPG 2 complacerse
+\ENG 1 to invite
+\ENG 2 to enjoy
+\EXU 7@y+ 7anh-p@k-wa
+\XPSH [7@y 7anhp@kk@.]
+\XSP Le invito*.
+\XEN He invited someone.
+\SYN kumbi=tz@k
+\SEMF
+ETYM
+\ETL
+\ROOT pak
+\RTGR T3
+\DSRC HAJ94
+\CMTS van a pasear, o al ri*o... invitar a ir en alguna parte ("nos vamos?")
+\date 08/Jan/96
+\lex 7anh-p@n
+\_no 00163
+LG MIG
+\PSH [7anhp@n]
+\UND 7anh-p@n
+\MB BOCA, hombre
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG 1 zoque
+\SPG 2 idioma
+\ENG 1 Zoque
+\ENG 2 language
+\EXU 7@n+ 7anh-p@n toto7
+\XPSH [7@n 7anhp@n toto7]
+\xSP mi libro de zoque
+\XEN my Zoque book
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+ZOH004R0011001.txt
+\CMTS
+\date 09/Jan/96
+Page 69

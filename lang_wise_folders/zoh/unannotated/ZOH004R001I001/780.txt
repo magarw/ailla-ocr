@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 02/Oct/94
+\lex libra
+\_no 01805
+\LG MIG
+\PSH
+\UND libra
+\MB
+\VAR
+\GRAM med
+\SCI
+\USE
+\SPG libra
+\ENG pound
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 02/Oct/94
+\lex libra=tz@k
+\_no 01806
+\LG MIG
+\PSH [libratz@k-]
+\UND libra=tz@k
+\MB librar, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG librar
+ENG to set free
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM librar
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 12/Nov/94
+\lex lim. lim.ney
+\_no 01807
+\LG MIG
+\PSH
+\UND lim. lim.ney
+\MB X, X, REDUP1
+\VAR
+ZOH004R0011001.txt
+Page 780

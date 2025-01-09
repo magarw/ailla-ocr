@@ -1,0 +1,64 @@
+\GRAM vt
+\SCI
+\USE
+\SPG 1 apurar
+\SPG 2 seguir apurado
+\ENG 1 to hurry someone
+\ENG 2 to follow someone hurrying them along
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+ΧΕΝ
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 n@k
+\RTGR 1 IX
+\ROOT 2 ja7kx
+\RTGR 2 11
+\DSRC HAJ95
+\CMTS como 'le dijo que se apuro*'
+\date 07/Feb/96
+\lex k@.n@k-kap. '@y
+\_no 01702
+\LG MIG
+\PSH [k@n@kkapp@y-]
+\UND k@.n@k-kap.7@y
+\MB FUERA, irse, cargar_en_hombro, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG echar al hombro
+\ENG to throw on the shoulder
+\EXU 7@y+ ka.n@k-kap. '@y-wa jemji7
+\XPSH [7@y k@n@kkapp@yy@ jemji7.]
+\XSP Echo todo al hombro.
+\XEN He threw it all across his shoulder.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 n@k
+\RTGR 1 IX
+\ROOT 2 kap
+\RTGR 2 P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 07/Feb/96
+ZOH004R0011001.txt
+\lex k@.n@k-kep. '@y
+\_no 01703
+\LG MIG
+\PSH [k@n@kkepp@y-]
+\UND ka.n@k=kep.7@y
+\MB FUERA, irse, patear, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG meter el pie
+Page 735

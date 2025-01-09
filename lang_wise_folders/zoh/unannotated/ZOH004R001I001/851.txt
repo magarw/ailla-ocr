@@ -1,0 +1,64 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 11/Nov/94
+\lex mojo' kuy
+\_no 01974
+\LG MIG
+\PSH [mojo kuy]
+\UND mojo' kuy
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG palo de mojo
+\ENG a type of tree
+\SPL
+\SLGR
+\EXU mojo' 7@y+ t@m
+\XPSH [mojoy t@m]
+\XSP fruta de mojo
+\XEN fruit of the mojo tree
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 26/Jan/96
+\lex mok
+\_no 01975
+\LG MIG
+\PSH
+\UND mok
+\MB
+\VAR
+\GRAM S
+LF: kuy
+\SCI
+\USE
+\SPG mai z
+\ENG corn
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+LF:xojo7k
+\CMTS
+\date 10/Nov/94
+ZOH004R0011001.txt
+Page 851

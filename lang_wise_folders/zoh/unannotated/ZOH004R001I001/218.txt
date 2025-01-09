@@ -1,0 +1,63 @@
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS ANALYSIS? CK-PH: fixed/TK
+\date 24/Jun/96
+\lex 7u7px
+\_no 00508
+\LG MIG
+\PSH
+\UND 7u7px
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG levantar nubes; nublarse
+ENG for clouds to build up; to get cloudy
+\EXU 7u7px=7in.@7 = jinin_7in.@7
+\XPSH [7u7pxin@ jininin@7]
+\XSP nube espeso
+\XEN heavy cloud
+\SYN
+\SEMF nature
+\ASP accomplishment
+\ARG
+\NOM 7ok. 'u7px.@7
+\SUB 7ok. 'u7px. '@y
+\ETYM
+\ETL
+\ROOT 7u7px
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex 7utz
+\_no 00509
+\LG MIG
+\PSH
+\UND 7utz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG medir
+\ENG to measure
+\SPL 7utz.7oy
+\SLGR ANTIP
+\SLGL medir // to measure
+\SPL 7utz.7@m
+ZOH004R0011001.txt
+\SLGR PASS
+\SLGL medirse // to be measured
+SPL 7utz.ten
+\SLGR PRSV
+\SLGL tener medido // to have measured
+\EXU 1 7@y+ 7utz.ten-w@ 7@y+ mok
+\XPSH 1 [7@y 7utztenn@y mok.]
+\XSP 1 Tiene medido su mai*z.
+\XEN 1 She has her corn measured.
+\EXU 2_7@y+ win+jo' 7@y+ 7utz-w@
+\XPSH 2 [7@y winjoy 7utztz@.]
+Page 218

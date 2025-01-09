@@ -1,0 +1,76 @@
+(23) qa jun xjaal
+COMP un persona
+t-tz'aalam=a
+A3s-tabla=3sENF
+'que una persona no llevó su tabla,'
+(25) Qa ma
+chiin=x=wa
+si PROX B1s=ir=1sENF
+'Si el águila me lleva hoy,'
+(26) aax
+(24) naq jun tal
+t-k'uxb'il
+0=xi'
+t-ii-’n.
+solo un pequeño A3s-cuchillo B3s-DIR A3s-llevar-SD
+'solo un cuchillo pequeño llevó.'
+(27) b'i'x
+(28) b'i'x
+de.una.vez B3s-bajar-POT
+'lo voy a matar,’
+miti' 0=ee-x
+NEG
+también NEG
+'no voy a dejar vivir el animal,'
+0=kb'-eel
+0=kb'-eel
+de.una.vez B3s-DIR-POT
+'lo voy a matar,'
+(29) 0-chi-tzan
+milaayx 0=aanq'a-n=ta
+B3s-decir pues
+'dijo la persona.'
+(31) N=0=aq'naa-n
+(32) 0-chi-tzan.
+B3s-DIR=DIR
+B3s-decir pues
+'dice.'
+(33) 0=tzaaj=tzan=ta
+txkup w-u'n=a,
+B3s-vivir-AP=3sENF animal Als-SR:AGT=1s
+xjaal.
+persona
+t-u'n
+(34) juk'
+t'iiw ja’la
+A3s-SR:AGT águila ahora
+(30) Aax-san ok
+ma=tzan
+cierto pues cuando PROX-pues B3s=salir-DIR=3sENF_persona
+aq'naa-l
+trabajar-INF
+'Así fue cuando la persona se fue a trabar."
+B3s-venir-pues=3sENF
+'Vino el águila ahora,'
+t-miij
+xjaal
+INC=B3s-trabajar-AP persona A3s-mitad
+'Estaba la persona trabajando en el terreno,'
+w-u'n=a,
+Als-SR:AGT=1s
+n-b'iyo-'n=a
+Als-matar-SD=1s
+tz'=ee=x=ta
+t-ii-'n
+A3s-llevar-SD
+nimaal t'iiw ja’la,
+AUM águila ahora
+t-jaaw xjaal
+AFEC:acción.jalar A3s-subir persona
+'¡tac! levantó a la persona,'
+tx'otx'
+terreno
+t-u'n-jal,
+A3s-SR:AGT=CL
+xjaal
+4

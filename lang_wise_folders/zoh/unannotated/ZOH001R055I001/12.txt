@@ -1,0 +1,71 @@
+ZOH001R0551001.txt
+\mb donde-ju7 7@m_p@k -pa bi karru termina *1
+\sg1 donde-donde 2E agarrar-INC DEF camio*n terminal
+-INC DEF bus
+terminal
+\egl where-where 2E get
+\zoq dondjum p@kpa bi karru, termina*1."
+\fts donde agarres el carro, el terminal."
+\fte where you catch the bus, the terminal."
+\com
+\idx
+\ref ZOH001R055 050
+\_no 00051
+\tx bweno n@mpa
+\mb bweno n@m
+bi 7okyanhke
+7oko
+-pa bi
+\sg] bueno decir-INC DEF vieja
+\egl good say -INC DEF old_woman-yankee
+\zoq "Bweno," n@mpa bi 7okyanhke.
+\fts "Bueno" dice la gringa.
+J
+\fte "OK", says the gringa.
+\com
+\idx
+\ref ZOH001R055 051
+\_no 00052
+\tx y 7okmin7@yy@
+\mb
+\sgl 3E
+7@y
+ABAJO-venir-SUF-COM
+\egl 3E DOWN -Come -SUF-COM
+7ok
+\com
+\idx
+-min -7@y-wa
+\zoq 7@y 7okminn@yy@.
+\fts Acompan~o*.
+\fte He went with her.
+\ref ZOH001R055 052
+\_no 00053
+\tx ye7chukk@
+naxe
+\mb ye7tz -xuk-w@ naxe
+\sg1 11egar-3PL-COM verdad DCT3-LOC1
+\egl arrive-3PL-COM truth DCT3-LOC1
+-yanhke7
+-gringo
+\zoq Ye7chukk@ naxe gaji.
+\fts Llegaron de veras ahi*.
+\fte They, in fact, got there.
+\com
+\idx
+gaji
+ka -ji7
+\ref ZOH001R055 053
+\_no 00054
+\tx 7@y juyy@
+7@y boletu
+\mb 7@y juy -w@ 7@y boletu
+\sg1 3E comprar-COM 3E boleto
+\egl 3E buy -COM 3E ticket
+\zoq 7@y juyy@ 7@y boletu.
+\fts Compro* su boleto.
+\fte she bought her ticket.
+\com
+\idx
+\ref ZOH001R055 054
+Page 12

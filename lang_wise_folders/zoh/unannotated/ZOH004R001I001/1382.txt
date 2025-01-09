@@ -1,0 +1,65 @@
+\UND t@tz@7 tu7tz paxte7
+\MB iguana, cola, espina
+\VAR t@tz@' tu7tz paxte' kuy
+\GRAM
+\SCI
+\USE
+\SPG rabo lagarto
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 09/Feb/96
+\lex t@7tzkin=7ay7
+\_no 03213
+\LG MIG
+\PSH [t@7tzkin7ay7]
+\UND t@7tzkin=7ay7
+\MB
+\VAR
+\GRAM SVOs
+\SCI
+\USE
+\SPG higuerilla; higo
+\ENG a type of plant
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+LF: kuy
+\lex t@wanh7
+\_no 03214
+\CMTS
+\date 28/Jan/96
+\LG MIG
+\PSH
+\UND t@wanh7
+\MB
+\VAR
+\XEN clearly
+\SYN
+LF:7okox
+\GRAM S
+\SCI
+\USE
+\SPG claridad
+\ENG light; clearness
+\EXU jak tawanh7
+\XSP claramente
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+Page 1382

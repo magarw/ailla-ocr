@@ -1,0 +1,63 @@
+\CMTS so it bends over
+\CMTS EX. 4: he bent it with his own strength
+\date 03/Jan/80
+\DATE 03/Jan/80
+\1ex 7um
+\_no 00015
+\LG MIG
+\PSH
+\UND 7um
+\MB
+\VAR
+\GRAM vt, vi:med
+\SCI
+\USE
+\SPG tirar un poco de algo (cafe*, frijol) del plato
+\ENG to spill a little something (coffee, beans) from a cup or plate
+\SPL 7um.7@m
+\SLGR PASS
+\SLGL tirarse // to be spilled
+\SLGR NO ANTIP
+\EXU 1 7@y+ 7um-w@ 7@y+ kafee
+\XPSH 1 [7@y 7umm@y kafe*.]
+\XSP 1 Tiro* su cafe*.
+\ENG 1 She spilled her coffee.
+\EXU 2 7um-w@
+\XPSH 2 [7umm@.
+\XSP 2 Se le tiro*.
+\XEN 2 It spilled.
+\EXU 3 ney 7um. '@m-w@ bi k@x.E
+\XPSH 3 [Ney 7umm@mm@ bi k@xi.]
+\XSP 3 Casi solo se tiro* la comida.
+\XEN 3 The food spilled by itself.
+\SYN
+\SEMF throw, food
+\ASP achievement
+\ARG
+\NOM 7um.i7
+\SUB 7ok. 'um. '@y, nik. 'um. '@y
+\ETYM
+\ETL
+\ROOT 7um
+\RTGR T2
+ZOH001R0611006.txt
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex 7utz
+\_no 00016
+\LG MIG
+\PSH
+\UND 7utz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG medir
+\ENG to measure
+\SPL 7utz.7oy
+\SLGR ANTIP
+\SLGL medir // to measure
+Page 11

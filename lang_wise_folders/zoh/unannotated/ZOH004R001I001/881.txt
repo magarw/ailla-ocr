@@ -1,0 +1,63 @@
+\SYN 7uk.in@n@7
+\SEMF
+\ETYM
+\ETL
+\ROOT muj
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex muj.@7
+\_no 02043
+\LG MIG
+\PHO [muj@7]
+\UND muj.A7
+\MB mojarse, NOM2
+\VAR
+\GRAM SV
+\SPG mojado
+\ENG wet
+\EXU yo't.e muj.@7 // muj.@7+k yo't.e
+\XPSH [yote muj@7] // [muj@7k yote]
+\XSP ropa mojada
+\XEN wet clothes
+\SYN
+\ROOT muj
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex muk
+\_no 02044
+\LG MIG
+\PSH
+\UND muk
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG caer (se)
+ENG to fall
+\SPL yak.muk
+\SLGR CAUS
+\SLGL dejar caer // to let fall
+\SPL muk.ney
+\SLGR ASSUM1
+ZOH004R0011001.txt
+\SLGL agacharse // to be slumped over
+\EXU 1 da muk-wa
+\XPSH 1 [D@ mukk@.]
+\XSP 1 Me cai*
+\XEN 1 I fell down.
+\EXU 2 muk.ney-w@ mexa+jo7
+\XPSH_2 [Mukneyy@ mexajo7.]
+\XSP 2 Se agacho* sobre la mesa.
+\XEN 2 He was slumped over the table.
+\SYN
+\SEMF fall
+\ASP achievement
+\ARG
+\NOM
+\SUB 7@nh-muk, t@nh-muk
+Page 881

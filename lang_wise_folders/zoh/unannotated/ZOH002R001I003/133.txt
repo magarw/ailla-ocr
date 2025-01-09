@@ -1,0 +1,30 @@
+Chapter 6: The basic clause
+In this chapter, I will discuss the structure of simple declarative clauses.
+The clause type that occurs most frequently in MIG Zoque narratives is a single
+verbal complex with no noun phrases. Core arguments are cross-referenced on
+the verb and thus do not need to be explicitly mentioned in every utterance.
+This is illustrated in the example below, in which the hero of the story, Román,
+is mentioned in the first sentence, but not referenced by any noun phrase or
+pronoun in the second two.
+(6.1)
+Rromán tungpøkkø. Nøkwø. Naxe, ye'tztzø gaji'.
+rromán 0 tuŋ=pək-wǝ
+0 nək-wǝ naše 0 ye?c-wǝ ga.hi?
+román 3A camino=agarrar-COM 3A ir-COM verdad 3A llegarr-COM DCT3.LOC1
+'Román agarró camino. Se fué. De verdad, llegó ahí.'
+(ZOH001R018- 044-6)
+Although most of the data samples presented in this chapter will include
+noun phrases referencing the core arguments for clarity of exposition, it should
+be borne in mind that these could be omitted without loss of grammaticality or
+coherence, given an appropriate context.
+Section 6.1. describes the set of possible core arguments allowed by
+verbs¹ in MIG Zoque and shows how core NPs are distinguished from non-core
+NPs. Section 6.2 describes the agreement system, including the mapping of
+pronominal agreement markers to arguments and possible referents of the
+plural suffixes. This section includes a description of inverse alignment in MIG
+Zoque. In section 6.3, I present the valency-changing suffixes (causative,
+1 In this chapter, I use the term verb to denote both simple verb roots and verb stems, which
+might include derivational affixes, compounded verb roots, and/or an incorporated noun. In
+order to talk about arguments and agreements, I need to be able to refer to a nearly complete
+verb complex, that includes everything except the agreement markers and inflectional affixes.
+108

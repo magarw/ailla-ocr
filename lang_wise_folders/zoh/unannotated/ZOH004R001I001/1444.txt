@@ -1,0 +1,65 @@
+\SPG tejo*n
+\ENG coati
+\EXU wanin' tziku
+\XSP tejo*n de partida
+\EXU wakxi' tziku
+\XSP tejo*n chiquito
+\EXU ney-tum-@ wit-pa+a7k tziku
+\XPSH [ney tum@ witpa*7k tziku]
+\XSP anda solo
+\XEN a coati that walks around by itself
+\SYN
+\SEMF EZ
+LF:7anmal
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex tzikwi 7
+\_no 03359
+\LG MIG
+\PSH
+\UND tzikwi 7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG pin~a
+\ENG pineapple
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\DATE 03/Jan/1980
+LF:7okox
+\lex tzikwiit
+\_no 03360
+\LG MIG
+\PSH [tzikwi*t]
+\UND tzikwiit
+\MB
+\VAR tziikwi*t, tzik(i)wit
+\GRAM S
+\SCI
+ZOH004R0011001.txt
+\USE
+\SPG chiquihuite; canasta; canasto
+\ENG basket
+\EXU kom(i') tzikwiit
+\XPSH [komi tzikwi*t]
+\XSP canasta grande
+\XEN big basket
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+Page 1444

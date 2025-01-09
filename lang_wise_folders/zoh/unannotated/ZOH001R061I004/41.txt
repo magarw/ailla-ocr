@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT xanh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 06/Feb/96
+\lex juk.i
+\_no 00098
+\LG MIG
+\PSH [juki]
+\UND juk. E
+\MB fumar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG cigarro
+\ENG cigarette
+\EXU juk. E kaja
+\XPSH [juki kaja]
+\XSP caja de cigarros
+\XEN pack of cigarettes
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT juk
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 06/Feb/96
+\lex jukut (@)=jipx.@7
+\_no 00099
+\LG MIG
+\PSH [jukuutjipx@7]
+\UND jukut@=jipx.A7
+\MB lumbre, quemarse, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG fiebre
+\ENG fever
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jipx
+\RTGR 12
+ZOH001R0611004.txt
+\DSRC HAJ94
+\CMTS CK-PH ok; check again. ok HAJ:96, it does have a final 7; it also
+has [u:]: TK
+\date 24/Jun/96
+\lex jum.i7
+\_no 00100
+\LG MIG
+Page 41

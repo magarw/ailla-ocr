@@ -1,0 +1,64 @@
+\EXU xuk. '@y-w@ bi pitz.i para 7@n+ tze-tam-pa
+\XPSH_[Xukk@yy@ bi pitzi paran
+tzedampa.]
+\XSP se enfrio* el nixtamal para que lo lavamos.
+\XEN The nixtamal cooled so we can wash it.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xuk
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex xuk-w@+'am 7amint@
+\_no 04011
+\LG MIG
+\PSH [xukk*m 7aamint@]
+\UND xuk-w@+7am 7amint@
+\MB acabarse, COM, YA, an~o
+\VAR
+\GRAM ya
+\SCI
+\USE
+\SPG fin de an*o; ya acabo* el an~o
+\ENG end of the year; now the year is over
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xuk
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+ZOH004R0011001.txt
+\1ex xu7k
+\_no 04012
+\LG MIG
+\PSH
+\UND xu7k
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 oler; olfatear; hueler algo
+\SPG 2 besar
+\ENG 1 to smell
+\ENG 2 to kiss
+\SPL xu7k.oy
+\SLGR ANTIP
+\SLGL oler; besar // to smell; to kiss
+\SPL xu7k.ten
+\SLGR PRSV
+\SLGL tener en la nariz, olfateandolo // to have at the nose, smelling
+\EXU 1 ney xu7k-xuk-A-pa
+\XPSH 1 [Ney xu7kxukk@pa.]
+\XSP 1 Se esta*n besando.
+\XEN 1 They're kissing each other.
+Page 1725

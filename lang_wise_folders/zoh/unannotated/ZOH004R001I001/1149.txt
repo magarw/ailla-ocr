@@ -1,0 +1,64 @@
+\_no 02668
+\LG MIG
+\PSH [pixx@y-]
+\UND pix.7@y
+\MB sentir_picazo*n, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG encajar (en el suelo, la pared...)
+\ENG to pin (in the earth, the wall..
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * pix
+\RTGR P (IX)
+\DSRC HAJ94
+\CMTS
+\date 19/Jun/95
+\lex piyu7
+\_no 02669
+LG MIG
+\PSH
+\UND piyu7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG gallina
+\ENG Chicken
+\EXU 1 chik piyu7
+\XSP 1 pollito
+\XEN 1 chick
+\EXU 2 yom@7 piyu7
+\XSP 2 gallina
+\XEN 2 hen
+\EXU 3 jay(a) piyu7
+\XSP 3 gallo
+\XEN 3 rooster
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+LF: jon
+\CMTS
+\date 24/Sep/94
+\lex piyu' 7@y+ tzix.kuy7
+\_no 02670
+ZOH004R0011001.txt
+\LG MIG
+\PSH [piyuy_tzixkuy7]
+\UND piyu7 7@y+ tzix.kuy7
+\MB gallina, 3Erg, tirar_pedos, INSTR1
+\VAR
+\GRAM spinstr1
+\SCI
+Page 1149

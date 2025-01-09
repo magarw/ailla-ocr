@@ -1,0 +1,64 @@
+\ARG
+\NOM * kuy7 (la mano), ko7tz.naanh
+\RTGR T3
+\POS da ko7tzp@kjayy@n rroberto
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex kuj
+\_no 00132
+\SPG empujar
+\ENG to push
+\SEMF arrange
+\ASP activity
+\ARG
+\NOM kuj.naanh
+\NOM kuj.kuy7 (colorado; not a nice word)
+\RTGR T3
+\POS da kujjayy@n karru
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex kum
+\_no 00133
+\SPG enterrar(se)
+\ENG to bury, to be buried
+\SEMF cover
+\ASP achievement, activity
+\ARG
+\NOM kum.i7, kum.kuy7
+\RTGR T2
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\lex kunh
+\_no 00134
+\SPG colgar (como una hamaca)
+\ENG to hang (like a hammock)
+\SEMF arrange
+\ASP achievement
+\ARG
+\NOM kuw.i,
+\NOM kajtzay=kunh. 'oy. kuy7
+\NOM *naanh
+\RTGR P, (T3)
+\POS da kunhjayy@n
+\MID
+yan
+kajtzay7
+\UNDO 7@n kunhpuw@n kajtzay7
+\CLZ
+\CMTS
+robert agarro* mi masa
+\lex kux
+\_no 00135
+\SPG recoger el pie al estar sentado
+\ENG to pull the heel up towards the knee while sitting
+\SEMF body, arrange
+\ASP achievement
+Page 33

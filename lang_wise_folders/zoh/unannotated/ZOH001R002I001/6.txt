@@ -1,0 +1,73 @@
+\ref ZOH001R002 022
+\_no 00023
+\tx 7ora estamos 7en Kopainala*.
+\mb 7ora estamos 7en Kopainala*
+\sg1 ahora estar en Copainala*
+\eg1 now be
+in Copainala*
+\zoq 7ora estamos 7en Kopainala*.
+\fts Ahora estamos en Copainala*.
+\fte Now we're in Copainala*.
+\not
+\idx
+\ref ZOH001R002 023
+\_no 00024
+\tx minn@
+\mb min
+-w@
+tum grupo de jente de Kopainala*, Chyapas.
+tum grupo de jente de Kopainala*
+de Kopainala* Chyapas
+\sg1 venir-COM uno grupo de gente de Copainala* Chiapas
+\eg1 come -COM one group of people of Copainala* Chiapas
+\zoq Minn@ tum grupo de jente de Kopainala*, Chyapas.
+\fts vino un grupo de gente de Copainala*, Chiapas.
+\fte A group of people came from Copainala*, Chiapas.
+\not
+\idx
+\ref ZOH001R002 024
+\_no 00025
+\tx ga7
+\mb
+ZOH001R0021001.txt
+bi 7@y guxtz@kk@
+lugar.
+bi 7@y gustar-tz@k -w@ lugar
+DCT3-NOM1 DEF 3E gustar-hacer-COM lugar
+\eg1 DCT3-NOM1 DEF 3E like -do -COM place
+\sg1
+ka -7
+\zoq Ga7 bi_7@y guxtz@kk@ lugar.
+\fts Ellos les gusto* ese lugar.
+\fte The ones that liked this place.
+\not
+\idx unmrk_rel
+\ref ZOH001R002 025
+\_no 00026
+\tx deji
+\mb
+tum jamanh7
+tenn@
+g@ tyempo.
+ten -wa ga
+g@ tyempo
+\sg1 DCT2-LOC1 uno guanacastle pararse-COM DEM tiempo
+\eg1 DCT2-LOC1 one ***
+te -ji7 tum jamanh7
+stand -COM DEM time
+\zoq Deji tum jamanh7 tenn@ g@ tyempo.
+\fts Ahi* estaba parado un guanacastle en ese tiempo.
+\fte In that time, a guanacastle stood there.
+\not
+\idx
+\ref ZOH001R002 026
+\_no 00027
+\tx 7i de pajakjo7,
+\mb 7i de pajak-jo7
+\sg] y
+de ri*o -LOC2
+\egl and of river-LOC2
+\zoq 7i de pajakjo7,
+\fts Y en ese ri*o.
+\fte And at this river,
+Page 6

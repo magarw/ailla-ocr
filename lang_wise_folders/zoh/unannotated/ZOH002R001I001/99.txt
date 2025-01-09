@@ -1,0 +1,43 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+frequently in the corpus, always immediately after a noun phrase, and never
+appear independently. +ho? is the only unstressed monosyllabic form in the
+set. When it is postposed to a noun, stress appears on the final syllable of that
+noun: kócək => kocákho?.
+The indeterminacy between these two word classes is certainly not unique
+to MIG Zoque - the English word 'down' exhibits the same behavior. Generally,
+if a word appears in an independent position even once, I class it with the
+adverbs, and if most of the words based on a root morpheme (like cap) are
+adverbs, I put the rest of the similarly-based lexemes in the adverb class, too.
+The exception to this algorithm are the four stress-altering ?aŋ- lexemes
+mentioned above.
+(4.26)
+(i)
+(ii)
+(iii)
+(iv)
+yechukkø tøk'angjø juxtix'anghi'
+tək?aŋhəŋ
+0 yec-šuk-wə
+huštiš+?anji?
+3A arrive-3PL-COM San Miguel mayor+LOC3
+'They arrived in San Miguel at the mayor's office.' (ZOH001R011-003)
+nøkpa ga'xe maryo lopes 'angjø' 'øn tzakkømmø
+nək-pa ga.?še maryo lopes+?aŋhəŋ ?ən+cak.?ǝm-wǝ
+1E+leave.PASS-COM
+go-INC DCT3.SIM mario lopez +DIR5
+'I'll go stay over at Mario Lopez'.'
+'øn tøk teji'awø maxantøk'angjøng
+?ən+ tək tehi.?a-wə
+mašan=tək+?aŋhəəŋ
+1E+ house there is.VERS1-COM holy-house+DIR7
+'My house is next to the church.'
+tennø bi mixtu naxjo'
+0 ten-wə
+bi mištu? naš+ho?
+earth+LOC2
+3A stand-COM DEF cat
+'The cat is standing on the ground.'
+(ZOH001 R055-007)
+74
+(ZOH001 R0601001-078)
+(ZOH001 R0601001-059)

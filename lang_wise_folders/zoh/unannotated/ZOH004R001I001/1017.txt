@@ -1,0 +1,63 @@
+\ETL
+\ROOT tuk
+\RTGR T3
+\ROOT wak
+*
+\DSRC HAJ95
+\CMTS
+\date 19/Jun/96
+\lex nitum 7uk.i
+\_no 02361
+\LG MIG
+\PSH [nitum 7uki]
+\UND nitum 7uk. E
+\MB X, tomar, NOM7
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG atole de chocolate
+\ENG atole with chocolate
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7uk
+\RTGR T3
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex nitum 7uk.i xatz.kuy7
+\_no 02362
+\LG MIG
+\PSH [nitum 7uki xatzkuy7]
+\UND nitum 7uk. E xatz.kuy7
+\MB X, tomar, NOM7, batir, INSTR1
+\VAR chuk (u) lat(e) xatz.kuy
+\GRAM instr1
+\SCI
+\USE
+\SPG batidor de chocolate
+\ENG beater for making hot chocolate
+\EXU
+\XSP
+\XEN
+\SYN mul(i)niu
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7uk
+\RTGR 1 T3
+\ROOT 2 xatz
+ZOH004R0011001.txt
+\RTGR 2 TX
+\DSRC HAJ 94
+\CMTS ANALYZE; can't/TK
+\date 25/Jun/96
+\lex ni.t@n
+Page 1017

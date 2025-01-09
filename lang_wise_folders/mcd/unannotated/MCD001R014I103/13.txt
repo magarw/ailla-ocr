@@ -1,0 +1,45 @@
+133 cudu cuduhuurani
+cudu cudu-huuran-i
+dessiner dessiner-CP1a-PROG
+ils viennent me décorer de dessins, me décorer de dessins
+134 ifofoquian
+ifo-fo-quian
+maître-PL-OST2
+les maîtres
+135 //da ifofoquian//
+da ifo-fo-quian
+DEM maître-PL-OST2
+ces maîtres-là
+136 //da cudu ifofoquian//
+da cudu ifo-fo-quian
+DEM dessin maître-PL-OST2
+ces maîtres aux dessins
+137 uqui cudu sahuina
+un-qui cudu sahui-na-a
+1PERS.N-DIR dessin tourner-REC-ACC
+les dessins se sont tournés vers moi
+138 cudu uhua sahuina
+cudu uhua sahui-na-a
+dessin grand revenir-REC-ACC
+les grands dessins se sont retournés
+139 cudu sahui sahuina
+cudu sahui sahui-na-a
+dessin revenir revenir-REC-ACC
+les dessins se sont retournés, retournés
+140 cudu sahuimanaino
+cudu sahui-ma-na-aino
+dessin revenir-CAUS-REC-ACT.SIM
+les dessins se sont retournés
+141 ifo bishti huuaino
+ifo bishti huu-aino
+maître petit venir-ACT.SIM
+les petits maîtres arrivent
+142 //cudu huucohuurani//
+cudu huuco-huuran-i
+dessin projeter-CP1a-PROG
+ils viennent me projeter des dessins
+143 huuco huucohuuaino
+huuco huuco-huu-aino
+pointer projeter-venir-ACT.SIM
+ils viennent me projeter, me projeter des dessins
+32

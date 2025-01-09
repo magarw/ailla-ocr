@@ -1,0 +1,63 @@
+\_no 00467
+\LG MIG
+\PSH [yawatz@k-]
+\UND yaw.A7=tz@k
+\MB X, NOM2, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer tierno
+\ENG to make tender
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex yaw. (a') 7une7
+\_no 00468
+\LG MIG
+\PSH [yawa 7une7]
+\UND yaw.A7 7une7
+\MB X, NOM2, nin~o/a
+\VAR yaaw 7une7
+\GRAM ams
+\SCI
+\USE
+\SPG bebe*; recien nacido
+\ENG infant; newborn
+\EXU
+\XSP
+\XEN
+\SYN maxan 7une7
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yaw. (a') mok
+\_no 00469
+\LG MIG
+\PSH [yawa mok]
+\UND yaw.A7 mok
+\MB X, NOM2, mai*z
+\VAR yaaw mok
+\GRAM ams
+\SCI
+\USE
+\SPG elote tierno
+\ENG tender new corn
+\EXU
+ZOH001R0611004.txt
+Page 185

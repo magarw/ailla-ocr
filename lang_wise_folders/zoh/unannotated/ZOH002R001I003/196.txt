@@ -1,0 +1,42 @@
+(7.22)
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+'øy jetztennø bi wowo
+?əy+ hec.ten-wə
+bi wowo
+3E+ rascar.PRSV-COM DEF hoyo
+'Metó la mano a hacer hoyo y no lo sacó por pronto.'
+'øy ji'ptennø bi nøtz
+?əy+ hi?p.ten-wə
+bi nəc
+3E+ mover_c_palo.PRSV-COM DEF armadillo
+'Tiene estacado el armadillo (en su hueco).'
+'øy ju'ttennø bi køxi
+?əy+ hu?t.ten-wə
+bi kəš.E
+'3E+ batir.PRSV-COM DEF comer.NOM3
+'Tiene puesto el palo en el atole.'
+'øy keptennø bi pelota
+?əy+ kep.ten-we
+bi pelota
+3E+ patear.PRSV-COM DEF pelota
+'Está puesto el pie para patear la pelota.'
+'øy ko'tztennøy wae
+?əy+ ko?c.ten-wǝ
+3E+ tocar_c_palma.PRSV-COM 3E+
+'Tiene puesto la masa en la palma de la mano.'
+?əy+ wae
+masa
+7.1.4. The mysterious yet ubiquitous suffix ?əy
+This suffix usually appears with one of the directional prefixes discussed
+in section 7.1.1. I have not been able to determine what it means or what its
+function could be in the verbal complex. If it's a circumfix, why do the prefixes
+that co-occur with it also freely occur without it? I tried to make a case for
+collapsing this -?ǝy with the versive VERS2 that derives verbs from nouns, but
+this did not hold up. There were too few cases in which the stem to which -?ey
+was attached could be reasonably construed as nominal. It does not
+consistently make intransitive roots transitive, or otherwise affect the argument
+171

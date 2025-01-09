@@ -1,0 +1,63 @@
+\ENG to cough something up and out
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 70j
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 09/Jan/96
+\lex 7ok. 'om. '@y
+\_no 00422
+\LG MIG
+\PSH [7okkomm@y-]
+\UND 7ok. 7om.7@y
+\MB ABAJO, echar_humo, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG echar humo (en otro lugar, afuera)
+\ENG to move a smoking thing outside so the smoke goes away from you
+\SPL
+\SLGR
+\EXU 7@y+ 7ok. 'om.'@y-w@ 7eya+j@nanh
+\XPSH [7@y 7okkomm@yy@ 7eyaj@nanh.]
+\XSP Echo por otro lado el humo.
+\XEN He moved the smoke aside.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 70m
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 09/Jan/96
+\lex 7ok. 'opx. '@y
+\_no 00423
+ZOH004R0011001.txt
+LG MIG
+\PSH [7okkopx@y-]
+\UND 7ok. 7opx.7@y
+\MB ABAJO, echar_espuma, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG saltar una cosa aguada en el piso con la mano
+\ENG to throw a wet thing on the ground
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN 7ok.ko7tz.7@y
+\SEMF
+Page 181

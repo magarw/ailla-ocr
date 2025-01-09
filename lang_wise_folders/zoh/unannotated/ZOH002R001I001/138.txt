@@ -1,0 +1,52 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+in clauses that include an unmarked locative NP. The postposition that would
+be used for these NPs is +ho?, 'in; to'. It's not clear whether it is simply
+optional or if there's some underlying rule about when to mark a location
+explicitly and when not to. Place names never appear with the postposition
++ho?, although they do appear with the other postpositions.
+(6.5)
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+(vi)
+'iyangjá' dø mintammø yøji katemaco beracrus
+?iyaŋ+haa? də+ min-tam-wə
+yə.hi?
+who+NPL 1A+ come-1/2 PL-COM DCT1.LOC1
+'Who all of us came here to Catemaco, Veracruz'
+'øy 'ukpay 'ukjeye montanya
+?əy+ ?uk-pa
+?əy+ ?uk=hey.E
+montanya
+3E+ drink-INC 3E+ drink=stir.NOM3 mountains
+'He'll drink his pozole in the mountains.'
+ye'chukkø tum noajo'
+0 ye?c-šuk-wə
+tum noa?+ho?
+3A arrive-3PL-COM one canyon+LOC2
+'They arrived in a canyon.'
+porke tungjo' pitzømpa tum pa:pøn
+porke
+'øy pøkkø 'øy weka'
+?ǝy+ pək-wə
+katemaco beracrus
+Catemaco Veracruz
+(ZOH001 R018- 002)
+tuŋ+ho?
+0 pitzǝm-pa tum pa-pən
+because road+LOC2 3A leave-INC one wild-man
+'Because a devil comes out in the road'
+wekajo' 'øy yukpatztzø
+weka?+ho? ?əy+ yuk.pac-wə
+horn +LOC2 3E+ UP.throw-COM
+'He lifted it up on his horn.'
+(ZOH001R053-010)
+113
+(ZOH001 R012-025)
+?əy+ weka?
+3E+ grab-COM 3E+ horn
+'He (a bull) grabbed it (a train) on his horn.'(ZOH001R025-126)
+(ZOH001 R018- 031)
+(ZOH001R025-127)

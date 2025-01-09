@@ -1,0 +1,63 @@
+\GRAM s(m)s
+\SCI
+\USE
+\SPG muchacho; soltero; varoncito
+\ENG boy; bachelor; young man
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 06/Feb/96
+\lex jay(a) niwi7
+\_no 00708
+\LG MIG
+\PSH [jaya niwi7]
+\UND jaya niwi7
+\MB macho, chile
+\VAR jaay niwi7
+\GRAM ams
+\SCI
+\USE
+\SPG chile grande
+\ENG a type of hot pepper
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\lex jay(a) patanux
+\_no 00709
+\LG MIG
+\PSH [jaya patanux]
+\UND jaya patanux
+\MB macho, pla*tano
+\VAR jaay patanux
+\GRAM sms
+\SCI
+\USE
+\SPG pla*tano macho
+\ENG plantain
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+ZOH004R0011001.txt
+Page 304

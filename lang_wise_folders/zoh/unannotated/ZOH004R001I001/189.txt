@@ -1,0 +1,62 @@
+\lex 7omeenh
+\_no 00440
+\LG MIG
+\PSH [7ome*nh]
+\UND 7omeenh
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG un poquito
+\ENG a little bit
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 12/Jun/95
+\lex 7omeenh.7aH
+\_no 00441
+\LG MIG
+\PSH [7omenh7a-]
+\UND 7omeenh. 7aH
+\MB poquito, VERS1
+\VAR
+\GRAM vers1
+\SCI
+\USE
+\SPG hacerse poquito
+\ENG to become small
+\SPL
+SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex 7omeenh=tz@k
+\_no 00442
+\LG MIG
+\PSH [7omenhtz@kk@]
+\UND 7omeenh=tz@k
+\MB poquito, hacer
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer poquito
+\ENG to make smaller
+ZOH004R0011001.txt
+Page 189

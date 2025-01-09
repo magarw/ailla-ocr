@@ -1,0 +1,63 @@
+\id C:\SHOUT\MEAS.TXT
+\lex 7anh='utz. '@y
+\_no 00001
+\LG MIG
+\PSH [7anhnhutztz@y-]
+\UND 7anh=7utz.7@y
+\MB BOCA, medir, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SYN
+\SEMF
+\ETYM
+\ETL
+\SPG medi*rselo
+\ENG to measure something out for someone else
+\EXU 7@y+ 7anh='utz. '@y-wa pa 7@y+ 7uk-w@
+\XPSH [7@y 7anhnhutztz@yy@ pay 7ukk@.]
+\XSP Se lo midio* para que tomara.
+\XEN She measured it out so she could drink.
+\lex 7om.naanh
+\_no 00002
+\ROOT 7utz
+\RTGR T3
+\DSRC HAJ95
+\CMTS 7@y 7utzjayy@ para yak7ukk@ 'lo midio* para que tomara'
+\date 09/oct/96
+LG MIG
+\PHO [7omna*nh]
+\UND 7om.naanh
+\MB echar_humo, MED
+\VAR
+\GRAM meas
+\SPG una ahumada
+\ENG a censing
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT 70m
+\RTGR 12
+\DSRC HAJ95
+\CMTS una palabra muy parecido
+\DATE 03/Jan/80
+\lex 7on.neenh
+\_no 00003
+\LG MIG
+\PSH [7onne*nh]
+\UND 7on.neenh
+28/Oct/04
+\MB desarreglar, MED
+\VAR
+ZOH001R0611003.txt
+\GRAM
+\SPG una basura amontonada
+\ENG a crumpled bit of garbage
+\SPL
+\SLGR
+\EXU
+\XPSH
+\XSP
+Page 1

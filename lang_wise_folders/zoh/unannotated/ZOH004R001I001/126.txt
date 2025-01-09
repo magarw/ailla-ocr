@@ -1,0 +1,63 @@
+\SPG ver que esta* sobando; ver sobar
+\ENG to see someone massaging
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7ix
+\RTGR 1 T3
+\ROOT 2 matz
+\RTGR 2 T3
+\DSRC TK94
+\CMTS
+\date 12/Jun/95
+\lex 7ix-may
+\_no 00292
+\LG MIG
+\PSH [7ixmay-]
+\UND 7ix-may
+\MB ver, contar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG ver cuando lo conto*
+\ENG to watch someone counting
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7ix
+\RTGR 1 T3
+\ROOT 2 may
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jun/96
+\lex 7ix-p@k
+\_no 00293
+\LG MIG
+\PSH [7ixp@k-]
+\UND 7ix-p@k
+\MB ver, agarrar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 conocer
+\SPG 2 reconocer
+\ENG 1 to know
+\ENG 2 to recognize
+\EXU
+ZOH004R0011001.txt
+\XSP
+\XEN
+Page 126

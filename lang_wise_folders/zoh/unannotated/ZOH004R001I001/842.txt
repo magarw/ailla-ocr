@@ -1,0 +1,62 @@
+\lex metz-XOX
+\_no 01953
+\LG MIG
+\PSH [metzxox-]
+\UND_metz=x0x
+\MB dos, cocer
+\VAR
+\GRAM vt:inco
+\SCI
+\USE
+\SPG cocer juntos
+\ENG to cook together
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT XOX
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 21/Jun/95
+\lex me7tz
+\_no 01954
+\LG MIG
+\PSH
+\UND me7tz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG buscar
+\ENG to look for
+\SPL me7tz.7oy
+\SLGR ANTIP
+\SLGL buscar // to look for something
+\SLGR NO PASS
+\EXU me'tz-A7
+\XPSH [Metza7!]
+\XSP !Buscalo!
+\XEN Look for it!
+\SYN
+\SEMF perception
+\ASP activity
+\ARG
+\NOM me7tz.naanh
+ZOH004R0011001.txt
+\SUB 7anh.me7tz.'@y, 7etz-me7tz, 7ok.me7tz. '@y, ko.me7tz, k@.me7tz,
+\SUB ni.me7tz. '@y, yuk.me7tz
+\ETYM
+\ETL
+\ROOT me7tz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex me7tz.naanh
+Page 842

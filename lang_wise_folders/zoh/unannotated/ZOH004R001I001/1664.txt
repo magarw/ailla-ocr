@@ -1,0 +1,63 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-GR; no deriv's: TK
+\date 26/Jun/96
+\lex xaja+jo+7k koke
+\_no 03869
+\LG MIG
+\PSH [xajajo7k koke]
+\UND xaja +jo7 +P@7k koke
+\MB corriente, LOC2, REL, pescado
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG mojarra corrientera
+\ENG a type of fish
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 11/Feb/96
+\lex xajjo
+\_no 03870
+LG MIG
+\PSH
+\UND xajjo
+\MB
+\VAR
+\GRAM med
+LF: koke
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG brazada (la distancia de mano a mano, con los brazos estirados a
+ambos lados)
+\ENG armful (the distance from hand to hand, with hands stretched out
+to the side
+\EXU tum xajjo
+\XSP una brazada
+\XEN one armful
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\lex xaka7
+\_no 03871
+\LG MIG
+\PSH
+\CMTS
+\CMTS ANALYSIS: {xaj} {joj}??; can't get with suffixes: TK
+\date 26/Jun/96
+Page 1664

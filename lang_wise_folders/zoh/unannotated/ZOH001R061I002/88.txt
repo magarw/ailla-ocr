@@ -1,0 +1,64 @@
+\MID
+\UNDO 7@n watpuw@n wakax
+\CLZ
+\CMTS
+\lex wax
+\_no 00356
+\SPG morder; mascar
+\ENG to bite; to chew
+\SEMF bite
+\ASP transition
+\ARG
+\NOM wax.e7, wax. 'oy.kuy7, wax=tzik.i7
+\NOM wax.naanh
+\NOM 7@n p@kk@ tum waxna*nh
+\RTGR T3
+\POS bi nu7 d@ waxjayy@n manhkuy7
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex way
+\_no 00357
+\SPG moler mai*z, para tortilla
+\ENG to grind corn, for tortillas
+\SEMF corn
+\ASP process
+\ARG
+\NOM wa.e, ni.way tza7
+\RTGR T1
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex we7ch
+\_no 00358
+\SEMF arrange
+\ASP transition
+\ARG
+\NOM we'ch.17, we'ch.@7
+\NOM * kuy, *naanh
+\RTGR 12
+\POS N only w/caus
+\MID
+\SPG encorvar; pandearse, como un palo o varilla
+\ENG to curve; to bend, like a pole or wand
+\UNDO we7chpuw@ kuy
+\CLZ
+\CMTS
+\lex wej
+\_no 00359
+ZOH001R0611002.txt
+\SPG gritar; rugir; mugir; bramar
+\ENG to shout; to roar; to moo; to bellow
+\SEMF speak
+\ASP process
+\ARG patient
+\NOM wej.e, wej.kuy7
+\RTGR T1
+\POS
+desate* mi ganado
+agarre* un bocado
+me mordio* el pie el perro
+Page 88

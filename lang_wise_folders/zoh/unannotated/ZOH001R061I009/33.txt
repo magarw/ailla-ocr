@@ -1,0 +1,61 @@
+\XSP
+\XEN
+\ROOT tze7k T3
+\SEMF speak
+\PASS tze7k.7@m "se pidio*" a una mujer; le fue* pedido la mano
+\ANTI tze7k.7oy
+\CMTS
+\lex tzem
+\_no 00136
+\SPG desafiar; provocar; atropellar para pelear; pegar
+\ENG to challenge; to provoke a fight
+\EX
+\XSP
+\XEN
+\ROOT tzem T3
+\SEMF speak
+\PASS NONE tzem.7@m *
+\ANTI tzem. 7oy vi orinar; v/tzem (2); get deriv's
+\CMTS
+\lex tzetz
+\_no 00137
+\SPG labrar
+\ENG to plane
+\EX
+\XSP
+\XEN
+\ROOT tzetz T3
+\SEMF cut, affect
+\PASS tzetz.7@m
+\ANTI tzetz.7oy
+\CMTS
+\lex tzi
+\_no 00138
+\SPG pegar; dar
+\ENG to hit; to give
+\EX ney tzi7oyy@
+\XSP lo regalo*
+\XEN she gave it as a gift
+\EX t@m tzi7oyy@
+\XSP dio* fruta
+\XEN it bore fruit
+\EX 7@y tziw@ jemji*7
+\XSP repartio* para todos
+\XEN he shared it with everyone
+ZOH001R0611009.txt
+\EX ti p@pi7t mi tziw@ ?
+\XSP con que te pego ?
+\XEN what did he hit you with ?
+\ROOT tzi T3
+\SEMF hit, trade
+\PASS NONE tzi.7@m *
+\ANTI tzi.7oy
+\CMTS
+\lex tzij
+\_no 00139
+s\SPG tirar piedra; tirar y pegar con piedra
+\ENG to throw a rock; to throw and hit with a rock
+\EX 7@y tzijj@ bi yoya
+\XSP pego el marrano (con piedra)
+\XEN he hit the pig (with a rock)
+Page 33

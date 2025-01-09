@@ -1,0 +1,65 @@
+XPSH 1 [Kajwe jott@.]
+\XSP 1 Corto* cafe* parejo maduro con verde.
+\XEN 1 He picked the coffee,
+\EXU 2 jot. 7oy-w@+ 'am
+\XPSH 2 [Jottoyya*m.]
+\XSP 2 Ya corto* el cafe*.
+\SEMF pick, hand
+\ASP activity
+\ARG instrument
+\XEN 2 Now he has picked the coffee.
+\SYN
+\lex jo.w@k
+\_no 00042
+\NOM jot.naanh
+\SUB 7ok.jot.'@y, jo.jot, j@x=jot, nik.jot. '@y
+\ETYM
+\ETL
+\ROOT jot
+\RTGR T3
+\LG MIG
+\PSH [jow@k-]
+\UND jo.w@k
+\MB EN, cortar
+\VAR
+\DSRC TK94
+\CMTS pick coffee by sliding the hand down the branch, taking the green
+\CMTS and the ripe together
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+\ENG to quarter a carcass
+\SPL jo.w@k. 7oy
+\SLGR ANTIP
+\SLGL
+\SLGR NO PASS
+\EXU 7@y+ jo.w@k-wa wakax
+\XPSH [7@y jowakk@ wakax.]
+\XSP Descuartizo* la res.
+\XEN He quartered the beef.
+\SYN
+SEMF
+\GRAM dir+vt
+\SCI
+\USE
+\SPG descuartizar (res, marrano...)
+\ETYM
+\ETL
+\ROOT W@k
+ZOH001R0611006.txt
+-
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/96
+ripe and green together.
+\lex ju7k
+\_no 00043
+\LG MIG
+\PSH
+\UND ju7k
+\MB
+\VAR
+\GRAM vt
+\SCI
+Page 31

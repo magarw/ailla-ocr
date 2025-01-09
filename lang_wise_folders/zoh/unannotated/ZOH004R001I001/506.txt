@@ -1,0 +1,63 @@
+\SEMF move
+\ASP achievement
+\ARG
+\NOM
+\SUB 7anh.kam, 7ok. kam. '@y, ju7t-kam, j@x-kam, ko.kam, ma7tz=7anh.kam,
+\SUB wi7t='anh.kam
+\ETYM
+\ETL
+\ROOT kam
+\RTGR P, (12)
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex kamalyoonh
+\_no 01161
+\LG MIG
+\PSH
+\UND kamalyoonh
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG camaleo*n
+\ENG a type of animal
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+LF:4 pies
+\ROOT
+\DSRC TK94
+\CMTS
+\date 11/Jan/96
+\lex kamix(a)=tzanh.kuy7
+\_no 01162
+\LG MIG
+\PSH [kamixatzanhkuy7]
+\UND kamixa=tzanh.kuy7
+\MB camisa, pegar, INSTR1
+\VAR kamiix=tzanh.kuy7
+\GRAM sminstr1
+\SCI
+\USE
+\SPG manga de camisa
+\ENG sleeve of a shirt
+\EXU
+\XSP
+\XEN
+\SYN y@k.wij 7@y+ tzanh.kuy7
+\SEMF
+\ETYM camisa
+\ETL Sp
+ZOH004R0011001.txt
+\ROOT
+\DSRC HAJ94
+\CMTS get deriv's/variants
+\date 11/Jan/96
+\lex kampania
+Page 506

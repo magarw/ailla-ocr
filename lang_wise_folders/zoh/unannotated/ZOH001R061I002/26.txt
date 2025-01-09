@@ -1,0 +1,61 @@
+\CMTS
+\lex kam
+\_no 00103
+\SPG trabarse
+\ENG to get stuck
+SEMF move_self
+\ASP achievement
+\ARG
+\NOM
+\RTGR P, (12)
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex kanh
+\_no 00104
+\SPG vaciarse de huevos (iguana)
+ENG for an iguana to lay eggs
+\SEMF animal
+\ASP achievement
+\ARG
+\NOM
+\RTGR IX
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex kap
+\_no 00105
+\SPG 1 traer cargando en el hombro
+\SPG 2 echar algo en el hombro
+\ENG 1 to carry something on the shoulder
+\ENG 2 to throw something over the shoulder
+\SEMF carry
+\ASP activity
+\ARG location
+\NOM kap.kuy7, ni.kap
+\RTGR P, (T3)
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex kat
+\_no 00106
+\SPG lamber, como perro o gato
+\ENG to lick, like a dog or cat
+\SEMF animal, eat
+\ASP activity
+\ARG
+\NOM
+\RTGR T3
+\POS
+\MID
+ZOH001R0611002.txt
+\UNDO
+\CLZ
+\CMTS
+Page 26

@@ -1,0 +1,64 @@
+ZOH004R0011001.txt
+\SLGL estar abriendo la boca // for the mouth to be open
+\EXU da 7ax-pa
+\XPSH [D@ 7axpa.]
+\XSP Abre* la boca.
+\XEN I opened my mouth.
+\SYN
+\SEMF body
+\ASP achievement
+\ARG patient
+\NOM 7ax.kuy7
+\SUB ko.7ax, mo.e=7ax, nik. 'ax. '@y
+\ETYM
+\ETL
+\ROOT 7ax
+\RTGR P (11)
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex 7axa
+\_no 00236
+\LG MIG
+\PSH
+\UND 7axa
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG mapache
+\ENG coon
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH - ok/TK
+\date 24/Jun/96
+\lex 7axa7
+\_no 00237
+\LG MIG
+\PSH
+\UND 7axa7
+\MB
+\VAR
+\GRAM S
+LF:7aanmaal
+\SCI
+\USE
+\SPG huipil
+\ENG huipil
+\EXU y@k.wij 7axa7
+\XSP camisa huipil
+\XEN huipil blouse
+\SYN
+\SEMF
+\ETYM pS *7asa7
+\ETL
+\ROOT
+Page 101

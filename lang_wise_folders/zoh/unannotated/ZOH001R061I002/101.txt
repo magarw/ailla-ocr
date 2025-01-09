@@ -1,0 +1,62 @@
+\ARG
+\NOM xotz.e7, kuy7, xotz.naanh
+\RTGR P (T3)
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex xox
+\_no 00410
+\SPG cocer
+\ENG to cook
+\SEMF cook
+\ASP process
+\ARG
+\NOM xox.e7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex xoy
+\_no 00411
+\SPG pasar de tiempo, como camote
+o yuca - hace dan~o para comer
+\ENG to be overripe, like a yam it will hurt you to eat it.
+\SEMF plant, nature
+\ASP transition
+\ARG
+\NOM xoy.e7
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex xuj
+\_no 00412
+\SPG soplar
+ENG to blow
+\SEMF body, fire
+\ASP process
+\ARG
+\NOM
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\lex xuk
+\_no 00413
+\SPG acabarse; desaparecer
+\ENG to be finished up; to disappear
+\SEMF aspect
+\ASP transition
+\ARG
+\NOM xuk. kuy7
+\RTGR 12
+Page 101

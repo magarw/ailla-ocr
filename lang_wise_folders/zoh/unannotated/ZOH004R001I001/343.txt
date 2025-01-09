@@ -1,0 +1,63 @@
+\date
+\lex ji7p=tzik
+\_no 00789
+\LG MIG
+\PSH [ji7ptzik-]
+\UND ji7p=tzik
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG rayar moviendolo con palito
+\ENG to scratch_by poking with a stick
+\EXU 7@y+ ji7p=7anh.kuk. aH-wa t@m, 7@y+ ji7p-tzik-w@
+\XPSH [7@y ji7ppanhkukkaw@ t@m, 7@y ji7ptzikk@.]
+\XSP Estaba ajuntando la fruta, y la rayo*
+(con el palito).
+XEN She was heaping up the fruit with a stick and scratched it.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ji7p
+\RTGR P (T3)
+\ROOT tzik
+\RTGR T3
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex ji7p-witu'
+\_no 00790
+\LG MIG
+\PSH [ji7pwitu-]
+\UND ji7p=witu7
+\MB mover_con_palito, regresar
+\VAR
+\GRAM vt
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG menear
+\ENG to stir
+\EXU 7@n+ ji7p-witu'-w@ bi k@x. E para 7u 7@y+ tzaj-w@
+\XPSH [7@n ji7pwituw@ bi k@xi para 7uy tzajja.]
+\XSP Movio* la comida para que no pegue.
+\XEN I stirred the food so it wouldn't stick.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ji7p
+\RTGR P (T3)
+\DSRC HAJ02
+\CMTS
+\DATE 09/Aug/02
+\lex ji7p='anh.kuk.'aH
+\_no 00791
+\LG MIG
+\PSH [ji7ppanhkukka-]
+\UND ji7p=7anh.kuk.7aH
+\MB mover_con_palo, BOCA, centro, VERS1
+\VAR
+Page 343

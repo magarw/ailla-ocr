@@ -1,0 +1,63 @@
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Nov/94
+\DATE 12/Aug/03
+\lex 7um.i7
+\_no 00498
+\LG MIG
+\PHO [7umi7]
+\UND 7um.E7
+\MB tirar, NOM7
+\VAR
+\GRAM pcp
+SPG cosa tirada
+\ENG something spilled
+\EX k@x.i 7um.i7
+\XPSH [k@xi 7umi*7]
+\XSP comida tirada
+\XEN spilled food
+\EX 7um.i7+k k@x.i
+\XPSH [7umi 7k k@xi]
+\XSP comida tirade
+\XEN spilled food
+\SYN
+\ROOT 7um
+LF:bugs
+\RTGR T2
+\RTGL tirar / to spill
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex 7umm@
+\_no 00499
+LG MIG
+\PHO [7umm@]
+\UND
+\MB
+\VAR
+\GRAM
+\SPG tal vez
+\ENG maybe
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex 7un
+\_no 00500
+\LG MIG
+\PSH
+\UND 7un
+\MB
+\VAR
+\GRAM vt [7@y+ 7un-pa/-w@ denied]
+ZOH004R0011001.txt
+Page 214

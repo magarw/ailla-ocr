@@ -1,0 +1,26 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+arguments. If both roots are T3, one of them must be intransitivized by means
+of the antipassive suffix.
+(8.14)
+køxxoban jayyøn toto'
+kəš.?oy-pa
+ən+ hay-wə ?ən+ toto?
+eat.ANTIP-INC 1E+ write-dINC 1E+ paper
+'I'm eating while writing my letters."
+(elicited)
+8.3. Verb compounds
+Verb complexes with compound stems are ubiquitous in MIG Zoque
+discourse. Compounding stems is the most common means of expressing
+adverbial modification, such as manner, means, and direction of motion. In this
+section, I will first describe the morphosyntax of compounds, and then the
+many functions that they serve.
+8.3.1. Morphosyntax of verb compounds
+The most common sort of compound consists of two unadorned roots.
+Three-root compounds are rare. The last example shown below (8.15 v), is
+debatably a three-root compound in MIG Zoque. The root tə?-, 'to want', is
+cognate with a frustrative affix in other Zoquean languages (Wichmann, 1995;
+Kaufman, 1996), and thus might be classified as an affix in MIG Zoque as well.
+I analyze it as a verb root in this grammar, because that analysis seems simpler,
+given the power of verb compounding in this language, than proposing that
+some roots are actually affixes.
+206

@@ -1,0 +1,62 @@
+\ETL
+\ROOT 1 k@x
+\RTGR 1 T3
+\ROOT 2 tu7p
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 17/Jun/95
+\lex k@x-tzak
+\_no 01775
+\LG MIG
+\PSH [k@xtzak-]
+\UND k@x-tzak
+\MB comer, dejar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG dejar de comer
+\ENG to leave off eating
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 k@x
+\RTGR 1 T3
+\ROOT 2 tzak
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS CK gloss ok/OK: TK
+\date 25/Jun/96
+\lex k@x-tzak.a7
+\_no 01776
+LG MIG
+\PSH [k@xtzaka7]
+\UND k@x=tzak.A7
+\MB comer, dejar, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG desperdicio
+\ENG waste
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 k@x
+\RTGR 1 T3
+\ROOT 2 tzak
+\RTGR 2 T3
+ZOH004R0011001.txt
+\DSRC TK94
+\CMTS algo que se queda en el plato
+\date 17/Jun/95
+Page 768

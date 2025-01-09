@@ -1,0 +1,64 @@
+\_no 02119
+\LG MIG
+\PSH [naji tzanhkuy7]
+\UND naji tzanh.kuy7
+\MB cera, pegar, INSTR1
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG 1 mano izquierda
+\SPG 2 surdo
+\ENG 1 left hand
+\ENG 2 left-handed person
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT tzanh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 07/Apr/95
+\lex najwa7
+\_no 02120
+\LG MIG
+\PSH
+\UND najwa7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG talaje de casa
+\EXU kuy+jo+7k najwa7
+\XPSH [kuyjo7k najwa7]
+\XSP talaje de monte
+\SYN
+LF:bugs
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex naka
+\_no 02121
+\LG MIG
+\PSH
+\UND naka
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG cuarta (vara); chicote
+\ENG switch; whip
+\EXU
+\XSP
+ZOH004R0011001.txt
+Page 914

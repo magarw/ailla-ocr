@@ -1,0 +1,65 @@
+\EXU 1 jep.E jep-pa
+\XPSH 1 [Jepe jeppa.]
+\XSP 1 Esta* trayando maguey.
+\XEN 1 He is stripping maguey.
+\EXU 2 jep.E jep.ten-w@
+\XPSH 2 [Jepe jeptenn@.]
+\XSP 2 Trayo* un di*a antes el maguey.
+\XEN 2 He stripped the maguey the day before.
+\SYN
+\SEMF cut
+\ASP activity
+\ARG patient
+\NOM jep.e, jep.kuy7, jep.naanh
+\SUB 7ok.jep. '@y, ko.jep, yuk.jep
+\ETYM
+\ETL
+\ROOT jep
+\RTGR T3
+\SPL jep.7oy
+\SLGR ANTIP
+\SLGL trayar maguey // to strip maguey
+\SPL jep.7@m
+\SLGR PASS
+\SLGL trayarse (maguey) // (for maguey) to be stripped
+\SPL jep.ten
+\SLGR PRSV
+\SLGL tener trayado el maguey // he's got the maguey stripped
+\DSRC TK94
+\CMTS
+\CMTS La hoja verde, lo raja con cuchillo, despues lo traye entre dos
+\CMTS palitos. Sale lo que es la ca*scara, ya se queda nada mas que el
+\CMTS puro maguey. //
+// You cut the green leaf into sections and jerk
+them between two sticks or metal rods. This strips out the green
+pulp, leaving behind the cleaned maguey fibers.
+date 03/Jan/80
+\DATE 03/Jan/1980
+\lex jep.e
+\_no 00738
+\LG MIG
+\PSH [jepe]
+\UND jep. E
+\MB trayar_maguey, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG maguey
+\ENG maguey
+\EXU
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+LF:7okox
+\ROOT jep
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 06/Feb/96
+\lex jep.e nax
+Page 318

@@ -1,0 +1,62 @@
+XEN he went and he came back
+\EX tijke7tt@
+\XSP fue* de nuevo
+\XEN she went again
+\ROOT tij Ix
+\SEMF motion
+\ASP activity
+\CAUS yak.tij mandar que vaiga
+\CAUS p@k=tij llegarlo
+\CMTS
+\date 03/Jan/80
+\lex ti7kx
+\_no 00111
+\SPG pegar el ri*o al lado de algo, como un barco; olearse/tirarse cosa
+llena
+\ENG for the river to slap on the side of something, like a boat; for a full
+thing to slosh or spill
+\EX ti7kxpa bi n@7
+\XSP esta* oleando el agua
+\XEN the river is slapping the side of something
+\ROOT ti7kx I2, IX
+SEMF nature, water
+\ASP activity
+\CMTS tiene que ser 'ti7kx@ n@7', not just 'ti7kx@'
+\date 03/Jan/80
+\lex tokoy
+\_no 00112
+\SPG perderse
+\ENG to get lost
+\EX
+ZOH001R0611007.txt
+\XSP
+\XEN
+\ROOT tokoy Ix
+\SEMF motion, condition
+\ASP process, transition
+\CAUS yak.tokoy perder
+\CMTS
+\date 03/Jan/80
+\lex tokx
+\_no 00113
+\SPG pelarse mai*z que le echaron cal
+\ENG to wash corn that you've soaked in lime
+\EX tokx@ pitzi
+\XSP se pelo* el maiz
+\XEN she washed the corn
+\ROOT tokx Ix
+\SEMF corn
+\ASP activity
+\CAUS yak.tokx pelar mai*z
+\CMTS the lime makes the outer layer of the kernel peel off
+\date 03/Jan/80
+\lex tonon
+\_no 00114
+■ ■
+\SPG alborotarse - polvo, ahuate, avispa
+\ENG
+\EX
+\XSP
+\XEN
+\ROOT tonon Ix
+Page 27

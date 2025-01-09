@@ -1,0 +1,63 @@
+\lex xi7t.pu'
+\_no 03943
+\LG MIG
+\PSH [xi7tpu-]
+\UND xi7t.pu7
+\MB enredarse, RVS
+\VAR
+\GRAM vt: revers
+\SCI
+\USE
+\SPG desenredar
+\ENG to untangle
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xi7t
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex xiw.i7
+\_no 03944
+\LG MIG
+\PSH [xiwi7]
+\UND xinh.E7
+\MB hincharse, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG hinchazo*n
+\ENG swelling
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT xinh
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 07/Apr/95
+\lex xiwonhko7
+\_no 03945
+\LG MIG
+\PSH
+\UND xiwonhko7
+\MB
+\VAR Xiwonhko' kuy
+\GRAM S
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG (palo de) guarrumbo; chancarro
+\ENG a type of tree
+\EXU
+Page 1697

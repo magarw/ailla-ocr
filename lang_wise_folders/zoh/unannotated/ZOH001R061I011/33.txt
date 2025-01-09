@@ -1,0 +1,63 @@
+\SPG apretarse
+\ENG to tighten
+\EX pakk@ xotzpa:ke
+\XSP se apreto* un nudo
+\XEN the knot tightened
+\EX 7@y yakpakk@
+\XSP esta* muy apretado (una cosa)
+\XEN he tightened something
+\ROOT pak 12
+\CMTS caus yak.pak apretar
+\CMTS NEG: estar flojo
+\1ex pakx
+\_no 00161
+\SPG doblar (tela); plegar
+ENG to fold (cloth); to pleat
+\EX yote pakx@
+\XSP doblo* ropa
+\XEN she folded clothes
+\EX pakx@mm@ bi yote
+\XSP se doblo* la ropa
+\XEN the clothes were folded
+\ROOT pakx P (T3)
+\CMTS antip pakx. 7oy
+\CMTS pass pakx.7@m
+\CMTS assum1 pakx.ney estar doblado
+\CMTS prsv pakx. ten tener doblado
+\lex papx
+\_no 00162
+\SPG romperse o estrellarse vidrio, por la lumbre
+\ENG for glass to break or shatter, because of the fire
+\Ex papx@ jukutj@nanh
+\XSP se rompio* con la lumbre
+\XEN it broke from the fire
+\EX 7@y yakpapx@
+\XSP lo dejo* que se rompiera
+XEN she left it to break
+\ROOT papx Ix
+\CMTS caus yak.papx romper vidrio
+\lex pa7t
+\_no 00163
+\SPG encontrar
+\ENG to find
+ZOH001R0611011.txt
+\EX
+\XSP
+\XEN
+\ROOT pa7t T3
+\CMTS antip pa7t. 7oy conseguir
+\CMTS pass pa7t.7@m encontrarse; acostumbrarse
+\lex patz
+\_no 00164
+\SPG tirar
+(mango, piedra, algo como asi*)
+\ENG to throw (like a mango or a rock, something like that)
+\EX
+\XSP
+\XEN
+\ROOT patz P, (T3)
+\CMTS antip patz. 7oy
+\CMTS no pass patz.7@m
+\CMTS patzneyy@*7
+una cosa tirado en el suelo, y no se de quien
+Page 33

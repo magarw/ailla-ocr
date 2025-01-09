@@ -1,0 +1,63 @@
+\lex xotz-tzonh
+\_no 03985
+\LG MIG
+\PSH [xotztzonh-]
+\UND xotz=tzonh
+\MB amarrar, unir
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG anudar; empatar
+ENG to knot; to tie
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN wat=tzonh
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 xotz
+\RTGR 1 P (T3)
+\ROOT 2 tzonh
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS
+\date 19/Jun/95
+\lex xotz='anh.tzonh
+\_no 03986
+\LG MIG
+\PSH [xotztzanhtzonh-]
+\UND xotz=7anh.tzonh
+\MB amarrar, BOCA, unir
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG empatar mecate
+\ENG to tie rope.
+\EXU 7@y+ xotz='anh.tzonh-w@ laxu
+\XPSH [7@y xotztzanhtzonhnh@ laxu.]
+\XSP Empato* mecate.
+\XEN She tied rope.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 xotz
+\RTGR 1 P (T3)
+\ROOT 2 tzonh
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+ZOH004R0011001.txt
+\lex xowa7
+\_no 03987
+\LG MIG
+\PSH
+\UND xowa7
+\MB
+Page 1714

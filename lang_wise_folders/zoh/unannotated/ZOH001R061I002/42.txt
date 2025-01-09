@@ -1,0 +1,62 @@
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex mo7tz
+\_no 00168
+\SPG moler en molcajete; machucar, como tomate o chile
+\ENG to grind; to crush, like tomatos or chili peppers
+\SEMF break, cook
+\ASP activity
+\ARG
+\NOM niwi' mo7tz.kuy7
+\RTGR T3
+\POS d@ mo7tzjayy@n niwi7
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex muj
+\_no 00169
+\SPG mojarse
+\ENG to get wet
+\SEMF condition, water
+\ASP achievement
+\ARG
+\NOM muj.@7
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex muk
+\_no 00170
+\SPG caer(se)
+\ENG to fall
+\SEMF fall
+\ASP achievement
+\ARG
+\NOM
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\lex mu7k
+\_no 00171
+\SPG chupar
+ENG to suck
+\SEMF eat
+\ASP activity
+\ARG
+\NOM mu'k.i7
+\RTGR T3
+\POS
+\MID
+\UNDO
+me molio* mi chile
+Page 42

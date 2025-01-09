@@ -1,0 +1,63 @@
+\ENG to stick your foot out
+\SPL
+\SLGR
+\EXU ti+goo7_mix manh.kuy'-k@.n@k-kep.7@y-pa
+\XPSH [Tigo*7 mix manhkuyk@n@kkepp@ba?]
+\XSP Porque me metes el pie?
+\XEN why do you stick your foot out at me (to trip me)?
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 n@k
+\RTGR 1 IX
+\ROOT 2 kep
+\RTGR 2 P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 07/Feb/96
+\lex k@.n@k=ketz. '@y
+\_no 01704
+\LG MIG
+\PSH [k@n@kketztz@y-]
+\UND k@.n@k=ketz.7@y
+\MB FUERA, irse, tirar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tirar algo abajo de algo
+\ENG to throw something up under something
+\EXU _n@'-k@.n@k=ketz. '@y-w@ bi mexa
+\XPSH [N@k@n@kketztz@yy@ bi mexa.]
+\XSP Echo* agua abajo de la mesa.
+\XEN She threw water up on the underside of the table.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 n@k
+\RTGR 1 IX
+\ROOT 2 ketz
+\RTGR 2 T1
+ZOH004R0011001.txt
+\DSRC HAJ95
+\CMTS
+\date 07/Feb/96
+\lex k@.n@k=me7kx. '@y
+\_no 01705
+\LG MIG
+\PSH [k@n@kme7kx@y-]
+\UND ka.n@k=me7kx.7@y
+\MB FUERA, irse, abrazar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG abrazar
+\ENG to hug
+\EXU 7@y+ ka@.n@k.me7kx.'@y-w@ jemji7
+\XPSH [7@y k@n@kme7kx@yya jemji7.]
+\XSP Abrazo* a todos.
+\XEN He hugged everyone.
+Page 736

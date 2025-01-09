@@ -1,0 +1,64 @@
+\XSP chile zope
+\EXU niwi' wajiyu
+\XSP chile guajillo
+\EXU tzujux niwi7
+\XSP cualquier chile verde
+\EXU tzuk niwi7
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH/OK: TK
+\date 26/Jun/96
+\lex ni.win.pitz@m. '@y
+\_no 02375
+LF:7okox
+\LG MIG
+\PSH [niwinpitz@mm@y-]
+\UND ni.win.pitz@m.7@y
+\MB PURP, CARA, salir, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sobresalir
+\ENG to stand out
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pitz@m
+\RTGR IX
+\DSRC HAJ94
+\CMTS one who goes out to reclamar algo; you say 'no I didn't' and he
+\CMTS says 'yes you did'. he's the one that 7@y niwinpitz@mm@yy@ to
+\CMTS argue with you, or to claim that you did it
+\date 19/Jun/96
+\lex ni.wi7t
+\_no 02376
+\LG MIG
+\PSH [niwi7t-]
+\UND ni.wi7t
+\MB PURP, torcerse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG torcerse
+ZOH004R0011001.txt
+\ENG to get twisted
+\SPL ni.wi7t.7@m
+\SLGR PASS
+\SLGL torcerse // to be twisted
+\EXU ni.wi7t.7@m-w@ bi poj kuy+g@xi
+\XPSH [Niwi7tt@mm@ bi poj kuyg@xi.]
+\XSP E1 bejuco esta* enrollado en el palo.
+\XEN The vine is twisted in the tree.
+\SYN
+\SEMF
+Page 1023

@@ -1,0 +1,89 @@
+\zoq 7@m - 7@m_p@kpa ded@ baporu*.
+\fts Agarras el vaporo*.
+\fte You
+\com
+\idx
+-
+you get that vapor rub.
+\ref ZOH001R036 807
+\_no 00793
+\tx de
+\mb te -7
+yati 7ay 7@y koyawa
+yati7 7ay7 7@y koyawa
+\sg] DCT2-NOM1 anona hoja 3E jicapestle
+\eg1 DCT2-NOM1 anona leaf 3E bowl
+\zoq De yati 7ay 7@y koyawa.
+\fts La hoja de anona el tiernito.
+\fte That tender leaf of the anona.
+\com
+\idx
+\ref ZOH001R036 808
+\_no 00794
+\tx pur
+koyawa*m
+\mb puro ko -yawa7 -7am
+-ра
+\sgl puro soc-tierno-YA
+cortar-INC
+\egl only sOC-tender-NOW cut - INC
+ZOH001R0361001.txt
+\zoq Pur koyawa*m tukpa.
+\fts Puro el tiernito lo cortas.
+tukpa
+tuk
+\ref ZOH001R036 809
+\_no 00795
+\tx minpam
+\mb min
+\fte Now you just cut the tender ones.
+\com
+\idx
+-pa -7am
+k@7tt@ komo komo mole 7@m tz@kpa
+k@7t -w@ komo komo mole 7@m tz@k -pa
+moler-dINC como como mole 2E hacer-INC
+\egl come -INC-NOW grind-dINC like like mole 2E
+- INC
+\sg1 venir-INC-YA
+\zoq Minpam k@7tt@ komo komo mole 7@m tz@kpa.
+\fts vienes a molerlo como mole lo haces.
+\ref ZOH001R036 810
+\_no 00796
+\fte You come to grind it like - like mole you make it.
+\com
+\idx
+\tx 7i p@7
+g@ baporu*
+\mb 7i p@7 -A7 g@ baporu*
+\sg] y
+poner-IMPV DEM vaporo
+\egl and put -IMPV DEM vapor_rub
+y@kt@nh@
+y@k
+gad@
+ka -da
+DCT3-DEM
+INSTR2-cortar_con_machete-IMPV
+INSTR2-cut_with_machete -IMPV DCT3-DEM
+m jomott@
+\com not sure about y@k-t@nh
+\idx
+-t@nh
+\tx 7ay 7@m k@7tt@*7
+min@
+\mb 7ay7 7@m k@7t -w@ -v7k min -A7 7@m jo
+\sg1 hoja 2E
+\egl leaf 2E
+do
+-mot
+Page 172
+-wa
+moler-COM-REL venir-IMPV 2E EN -revolver-dINC
+grind-COM-REL come -IMPV 2E INTO-stir
+-A7
+-DINC
+\zoq 7i p@7_g@ baporu*, y@kt@nh@ gad@ 7ay 7am k@7tt@*7, min@m jomott@.
+\fts Y echale el vaporo*, echale esa hoja que molistes, ven a revolverlo.
+\fte And put it in the vapor rub, put that leaf you ground, come to stir it.
+up

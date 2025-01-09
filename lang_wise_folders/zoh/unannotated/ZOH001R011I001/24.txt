@@ -1,0 +1,74 @@
+\fts No le pegaban.
+\fte They didn't hit any.
+\com
+\idx
+\ref ZOH001R011 104
+\_no 00105
+\tx
+d@x 7@n tzijuwanakk@
+n
+\mb d@x
+d@x
+7@n
+tzij
+-X-wanak -w@ 7@n
+\sgl 1Prn 1E tirar_piedra-X-bajarse-COM 1E
+\egl 1Prn 1E throw_rock -X-go_down-COM 1E
+\tx_tzajnakxkuypi7t
+tzaj -nakx
+\mb
+\sg1
+pegar-pegar_con_palo-INSTR1-INSTR
+\egl glue -hit_with_stick-INSTR1-INSTR
+\ref ZOH001R011 105
+\_no 00106
+\tx dey
+\mb te
+\zoq Dax 7@n tzijuwanakk@n tzajnakxkuypi7t.
+\fts Dio* yo lo baje* a pedrada con la honda.
+\fte I hit one down with my sling.
+\com
+\idx
+d@ minna*m
+-y d@ min
+\com
+\idx
+-w@ - 7am
+\sg1 DCT2-TMP 1A venir-COM-YA
+\eg1 DCT2-TMP 1A come -COM-NOW
+\zoq Dey d@ minna*m.
+\fts Ahora ya vine."
+\fte Now I've come home."
+\ref ZOH001R011 106
+\_no 00107
+\tx mi yojxukk@
+\mb mi
+yoj
+-xuk-w@
+\sg1 3>2 pagar-3PL-COM
+\egl 3>2 pay -3PL-COM
+\zoq "Mi yojxukk@?"
+\fts "Te pagaron?"
+\fte "Did they pay you?"
+\com
+\idx
+\ref ZOH001R011 107
+\_no 00108
+\tx dey
+\mb te -y
+ZOH001R0111001.txt
+-kuy7 -pi7t
+yojxukk@
+de7
+yoj -xuk-w@ te
+-7
+\sg1 DCT2-TMP pagar-3PL-COM DCT2-NOM1
+\eg1 DCT2-TMP pay -3PL-COM DCT2-NOM1
+\zoq "Dey yojxukk@ de7."
+\fts "Si me pagaron, pues.
+"I
+\fte "Now they paid me.
+\com
+\idx
+\ref ZOH001R011 108
+Page 24

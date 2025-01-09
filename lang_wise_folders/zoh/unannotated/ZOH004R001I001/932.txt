@@ -1,0 +1,68 @@
+\XSP chinche de monte biushito
+\EXU y@k(.y@k) nax manu' kuy+jo+7k
+\XPSH [y@ky@k nax manu kuyjo7k]
+\XSP chinche negro de monte
+\EXU paxte'.7@y-w@+@7k nax manu' kuy+jo+7k
+\XPSH [paxte7@yy@*7k nax manu kuyjo7k]
+\XSP chinche de monte que tiene espina
+\EXU tzapatz nax manu' 'kuy+jo+7k
+\XPSH [tzapatz nax manu kuyjo7k]
+\XSP chinche colorado de monte
+\SYN
+\SEMF EZ
+LF:bugs
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-1ast EX
+\date 19/Jun/96
+\lex nax mupe7
+\_no 02162
+\LG MIG
+\PSH
+\UND nax mupe7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\EXU
+\XSP
+\SPG hojase*n
+\ENG a type of plant
+\SPL
+\SLGR
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 08/Feb/96
+\lex nax powi 7
+\_no 02163
+-
+LF: 7okox
+\SCI
+\USE
+\LG MIG
+\PSH
+\UND nax powi7
+\MB tierra, gavila*n
+\VAR
+\GRAM sms
+HAJ:96, a mistake, we erased it
+\SPG gavilancillo
+\ENG a type of hawk
+\EXU
+\XSP
+\XEN
+\SYN wanin7 powi7
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+poj
+Page 932

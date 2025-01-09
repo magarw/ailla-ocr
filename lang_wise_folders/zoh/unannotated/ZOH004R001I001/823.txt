@@ -1,0 +1,65 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT %maw7
+\RTGR F
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex ma.wan
+\_no 01908
+\LG MIG
+\PSH [mawan-]
+\UND ma.wan
+\MB X, cantar
+\VAR
+\GRAM vt
+\SPG rezar por algo
+\ENG to pray for something
+\EXU 1 7@y+ ma.wan.jay-pa ko.maxan para yakk@ 7@y+
+yak.tzok-w@ 7@y+ manak
+XPSH 1 [7@y mawanjaba komaxan pa yakk@y yaktzokk@y manak.]
+\XSP 1 Esta* rezando al santo que cure su hijo.
+\XEN 1 She is praying to the saint to cure her child.
+\EXU 2 7@y+ ma.wan.jay-pa ko.maxan
+\XPSH 2 [7@y mawanjaba komaxan.]
+\XSP 2 Esta*
+\XEN 2 He is
+\SYN
+\ROOT wan
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 19/Jun/96
+\lex max
+\_no 01909
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+\UND max
+\MB
+\VAR
+\GRAM vi
+rezando al santo por algo.
+praying to the saint for something.
+\SCI
+\USE
+\SPG descomponerse
+\ENG to come apart
+\SLGR NO CAUS
+\EXU 1 ney-tum max-w@ k@x.E7
+\XPSH 1 [Neytum maxx@ k@xi7.]
+\XSP 1 Solo se descompuso la comida.
+\XEN 1 The food fell apart by itself.
+\EXU 2 max-w@ de.' p@n
+\XPSH_2 [Maxx@ de p@n.]
+\SUB yuk.max
+\ETYM
+\XSP 2 (por no decir, ese hombre es pintado')
+\XEN 2 (so as not to say, 'that man's skin is discolored')
+\SYN
+\SEMF break
+\ASP achievement, accomplishment
+\ARG
+\NOM max. @7
+Page 823

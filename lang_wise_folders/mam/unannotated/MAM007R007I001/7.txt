@@ -1,0 +1,76 @@
+(70) 0-chi-tzan
+B3s-decir pues
+'dijo la persona,'
+(71) 0=xi'
+t-ma-'n
+k'utz.
+B3s=DIR A3s-decir-SD A3s-SR:DAT zopilote
+'le dijo al zopilote.'
+(72) Nti'=ta
+k'utz
+NEG=3sENF zopilote
+'El zopilote no hizo caso,'
+(73) txuk 0=iky'
+(75)_n=0=jaq'a-n
+liipa-n=ta=jal.
+directo B3s=DIR volar-AP=3sENF=CL
+'pasó volando.'
+(76) t-iky'
+(74) naqpa t-e
+?
+A3s-SR uno=?=?
+'De repente pasó un cuervo,'
+A3s-pasar así
+'cuando pasó.'
+(77) N=0=tzaaj
+jun jooj
+INC=B3s=gritar-AP un cuervo
+'estaba gritando el cuervo'
+xjaal,
+persona
+INC=B3s=venir
+'Vino la persona,'
+(78) n=0=xi
+ikyx.
+(79) aa=0=y
+t-e
+t-bi-n
+CPL.DEP=B3s=DIR=DIR A3s-oir-SD
+(81) xhin
+0=0=ook=x
+jun=a'w=x
+t-ma-'n
+INC=B3s=DIR A3s-decir-SD
+'le habló,'
+(82) Jaka
+(80) naqat jaka
+?
+'si fuera posible que usted'
+xjaal,
+persona
+jooj 0-chi-tzan
+DEM=B2s=2s cuervo B3s-decir-pues
+'usted cuervo, dijo,'
+tx'otx'.
+t-witz
+A3s-SR:sobre tierra
+'me bajaras abajo al suelo.'
+0=txi'
+t-iky' jun jooj,
+A3s-pasar un cuervo
+0=b'ant
+se.puede B3s-hacerse A2s-SR:AGT=2s
+ku'=x t-iiqa-n
+ch'in
+PROX.DEP+B1s DIR=DIR A3s-cargar-SD un.poco
+t-u'n=a
+wee'
+1 SPRON
+n-q'o- 'n
+Se.puede B3s=DIR_Als-dar-SD
+'Yo te puedo dar alguna cosa para usted,'
+tii tqal t-ee=ya,
+qué
+qué
+A3s-SR:POS=2s
+8

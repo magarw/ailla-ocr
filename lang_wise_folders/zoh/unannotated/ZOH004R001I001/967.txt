@@ -1,0 +1,64 @@
+\GRAM vt
+\SCI
+\USE
+\SPG quitar de encima algo que esta* doblado
+\ENG to remove from the surface something that is bent
+\SPL
+\SLGR
+EXU 7@y+ ni.707tz-wak-w@
+\XPSH [7@y ni707tzwakk@.]
+\XSP Se lo quito* de encima que estaba doblado.
+\XEN He took the bent thing off the top.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 707tz
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 26/Jan/96
+\lex
+\_no 02245
+ni.7utz.kuy7-tz@k-w@+@7k
+\LG MIG
+\PSH [ni7utzkuytz@kk@*7k]
+\UND ni.7utz.kuy7-tz@k-w@ +P@7k
+\MB PURP, medir, INSTR1, HACER, COM, REL
+\VAR
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\GRAM agt2
+\SCI
+\USE
+\SPG el traste que ocupo* para medir
+\ENG a dish that was used for measuring
+\SPL
+ZOH004R0011001.txt
+\ROOT 1 7utz
+\RTGR 1 T3
+\ROOT 2 tz@k
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS CK-GL HAJ:96 ok
+\date 19/Jun/96
+\lex ni.7@kx.kuy7
+\_no 02246
+\LG MIG
+\PSH [ni7@kxkuy7]
+\UND ni.7@kx.kuy7
+\MB PURP, desgranar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG traste donde desgranan mai*z
+\ENG a dish for shelling corn into
+\SPL
+Page 967

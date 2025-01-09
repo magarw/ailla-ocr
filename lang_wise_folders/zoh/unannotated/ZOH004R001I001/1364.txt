@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG alambre de fierro
+\ENG metal wire
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM SP
+\ETL
+\ROOT t@nh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex t@nh.kuy' j@m.kuy7
+\_no 03171
+\LG MIG
+\PSH [t@nhkuy j@mkuy7]
+\UND t@nh.kuy7 j@m.kuy7
+\MB cortar, INSTR1, afilar, INSTR1
+\VAR
+\GRAM instrl
+\SCI
+\USE
+\SPG lima para afilar cualquier fierro
+\ENG stone for sharpening any metal tool
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 t@nh
+\RTGR 1 T3
+\ROOT 2 jam
+\RTGR 2 T1
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex t@nh.kuy'=7uy. 'oy.kuy7
+\_no 03172
+\LG MIG
+\PHO [t@nh. kuy7uyyoykuy7]
+\UND t@nh.kuy7=7uy.7oy.kuy7
+\MB cortar_c_machete, INSTR1, doblar, ANTIP, INSTR1
+\VAR
+\GRAM instrl
+\SPG tubo; grifa
+\ENG pipe;
+\EX
+\XSP
+\XEN
+ZOH004R0011001.txt
+\SYN
+\ROOT 1 t@nh
+\RTGR 1 T3
+\ROOT 2 7uy
+\RTGR 2 P (T3)
+\DSRC HAJ95
+Page 1364

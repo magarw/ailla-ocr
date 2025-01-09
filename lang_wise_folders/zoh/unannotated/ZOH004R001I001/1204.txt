@@ -1,0 +1,63 @@
+ZOH004R0011001.txt
+\SPG estar abultadito; estar demasiado lleno
+\ENG to be bulky; to be too full
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS get deriv's HAJ:96, no root junh-
+\date 25/Jun/96
+\lex punh-yuchi'. 7a
+\_no 02797
+\LG MIG
+\PSH [punhyuchi7a-]
+\UND punh-yuchi7.7a
+\MB regar, delgado, VERS1
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG regar (goma) delgado
+\ENG to spread (gum) thinly
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT punh
+\RTGR T3
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex punh'.7@y
+\_no 02798
+\LG MIG
+\PSH [punhnh@y-]
+\UND punh7.7@y
+\MB espiga, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG echar espiga
+\ENG to put forth ears
+\EXU punh'. '@y-pa ga mok
+\XPSH [Punhnh@ba ga mok.]
+\XSP Eche espiga el maiz.
+\XEN The corn is forming ears.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+Page 1204

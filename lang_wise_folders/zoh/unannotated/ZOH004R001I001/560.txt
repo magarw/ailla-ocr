@@ -1,0 +1,62 @@
+\date 13/Jul/95
+\lex ko.7etz
+\_no 01283
+\LG MIG
+\PSH [ko7etz-]
+\UND ko.7etz
+\MB OTRO, bailar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG bailar por ella
+\ENG to dance for her
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7etz
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 14/Jun/95
+\lex ko.7ex=witu'
+\_no 01284
+\LG MIG
+\PSH [ko7exwitu-]
+\UND ko.7ex=wi tu7
+\MB OTRO, encajar, regresar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG encajar por todo alrededor
+\ENG to pin all over something
+\SPL
+\SLGR
+\EXU 7@y+ j@y@7 ko.7ex-witu-w@ 7@y+_kopak
+\XPSH [7@y jay@ ko7exwituw@y kopak.]
+\XSP Encajo* las flores por todo alrededor de su cabeza.
+\XEN She pinned flowers all around her head.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7ex
+\RTGR 1 P (T3)
+\ROOT 2 witu
+\RTGR 2 Il
+\DSRC HAJ95
+\CMTS incorp loc!
+\date 03/Jan/80
+\lex ko.7ix
+\_no 01285
+ZOH004R0011001.txt
+\LG MIG
+\PSH [ko7ix-]
+\UND ko.7ix
+\MB OTRO, ver
+Page 560

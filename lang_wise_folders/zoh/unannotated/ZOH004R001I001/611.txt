@@ -1,0 +1,63 @@
+\VAR ko:no7, konno7
+\GRAM a
+\SCI
+\USE
+\SPG corto
+ENG short
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH: sounds to me (HAJ) like the VAR: long vowel, short N
+\date 24/Jun/96
+\lex kon(n)o'. 7aH
+\_no 01404
+\LG MIG
+\PSH [konno7a-]
+\UND kon (n) 07.7aH
+\MB corto, VERS1
+\VAR koonna-]
+\GRAM vers1
+\SCI
+\USE
+\SPG hacerse corto
+\ENG to become short
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS CK-PH- HAJ:96, didn't recognize 'konnaw@'. has to be 'konno7aw@'
+\date 24/Jun/96
+\lex kon(o')=paj. '@y
+\_no 01405
+\LG MIG
+\PSH [ko:npajj@y-]
+\UND kon (o)=paj.7@y
+\MB corto, clavar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG enclavar
+\ENG to nail
+\EXU
+ZOH004R0011001.txt
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+Page 611

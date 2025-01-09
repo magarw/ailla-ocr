@@ -1,0 +1,48 @@
+P
+MP
+My father and mother died. My brothers and I were
+orphans. We (I and my older brothers) divided them (my
+younger siblings) among us. Two stayed with each of us.
+We looked for food for them, because we already knew how to
+find money.
+We already knew how to find food.
+A
+P
+MP
+PS
+SS
+..
+I
+3. Autobiography
+English Translation
+PS
+SS
+Subj
+G * I here past-he-die male my-Fa he-accompany female my-Mo
+my father with my mother
+he died
+Main
+214
+há?intík #13↑ ?iš čám wiNin mám yết' ?išin nún #13
+há? hin tík ?iš-Ø-čám wiN hin-mám y-?ét' ?iš hìn-nún
+NP
+VP
+Topic
+Main
+hoNkán mép'ail #13
+hoNkán mép'a?il
+VP
+NP
+Subj
+Analysis
+G we-stay orphan-like
+E we were left orphans
+NP
+NP
+Post-Adv.
+Post-Adv.
+→yét' hep' wiN wík 'ták #23
+y-ét' hep'-wiN w-?úk '-tak
+NP
+he-accompany plural-male my-Bro
+with my brothers

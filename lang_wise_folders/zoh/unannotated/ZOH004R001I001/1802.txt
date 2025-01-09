@@ -1,0 +1,62 @@
+\ETL
+\ROOT yep
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yo'=xox
+\_no 04194
+\LG MIG
+\PSH [yooxox-]
+\UND yo7=x0X
+\MB tamal, cocer
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG cocer tamal
+\ENG to cook tamales
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT XOX
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yu7
+\_no 04195
+LG MIG
+\PSH
+\UND yu7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG hambruna
+\ENG famine
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 17/Jun/95
+\lex yubu
+\_no 04196
+LG MIG
+\PSH
+\UND yubu
+\MB
+\VAR
+ZOH004R0011001.txt
+Page 1802

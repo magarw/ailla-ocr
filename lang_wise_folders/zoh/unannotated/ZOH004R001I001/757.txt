@@ -1,0 +1,62 @@
+\RTGR T1
+\DSRC HAJ94
+CMTS CK-PH. HAJ:96, corrected po7anh to ponh 'vez'; "correct" is poonh!!
+(TK)
+\date 25/Jun/96
+\lex k@.tzam. '@y
+\_no 01750
+\LG MIG
+\PSH [k@tzamm@y-]
+\UND k@.tzam.7@y
+\MB FUERA, platicar, VERS1
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG criticar a espaldas; hablar mal de
+\ENG to talk about someone behind their back; to speak ill of someone
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzam
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 02/Nov/94
+\lex k@.tzanh-kap
+\_no 01751
+\LG MIG
+\PSH [k@tzanhkap-]
+\UND k@.tzanh=kap
+\MB FUERA, pegar, traer_en_hombro
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG alguien (mujer) duerme en su brazo
+\ENG to have someone (a woman) sleeping in your arms
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT 1 tzanh
+\RTGR 1 T3
+\ROOT 2 kap
+\RTGR 2 P, (T3)
+\DSRC TK94
+\CMTS CK-GR
+\date 17/Jun/95
+\lex k@-tze7.a
+\_no 01752
+\LG MIG
+\PSH [k@tze7a-]
+\UND k@-tze7.A
+Page 757

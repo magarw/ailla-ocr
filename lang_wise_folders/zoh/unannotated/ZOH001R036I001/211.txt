@@ -1,0 +1,71 @@
+\fte Then you
+\com
+\idx
+ZOH001R0361001.txt
+you prepare them the medicine to make it go on past them.
+\ref ZOH001R036 992
+\_no 00975
+\tx yakp@7tjaba
+\mb yak -p@7t -jay -pa 7@y
+\sg1 CAUS-pasar-APPL-INC 3E
+\eg1 CAUS-pass -APPL-INC 3E
+\zoq Yakp@7tjabay n@kk@.
+\fts Lo vaiga pasando.
+\fte It makes it go past.
+\com
+\idx
+\ref ZOH001R036 993
+\_no 00976
+\tx
+\mb GSM ti
+GSM: ti tzoy7
+tzoy7
+\sg1 GSM: que
+remedio 2E hacer-APPL-INC
+\eg1 GSM: what medicine 2E do -APPL-INC
+\zoq GSM: Ti tzoy7 7@m_tz@kjaba?
+\fts GSM: Que remedio le haces?
+y n@kk@
+nak -w@
+irse-dINC
+go -DINC
+7@m tz@kjaba
+7@m tz@k -jay -pa
+\fte GSM: What medicine do you make them?
+\com
+\idx
+\ref ZOH001R036 994
+\_no 00977
+\tx
+OSM: ded@
+tzoy7 7@m tz@kjaba*7
+\mb OSM te -d@ tzoy7 7@m tz@k -jay -pa -v7k
+\sg1 OSM: DCT2-DEM remedio 2E hacer-APPL-INC-REL
+\egl OSM: DCT2-DEM medicine 2E do -APPL-INC-REL
+\zoq OSM: Ded@ tzoy7 7@m tz@kjaba*7,
+\fts OSM: Ese remedio que le haces,
+\ref ZOH001R036 995
+\_no 00978
+\fte OSM: That medicine that you make for them,
+\com
+\idx
+\tx 7@m tz@kjaba
+\mb 7@m tz@k -jay -pa
+\sg1 2E
+\egl 2E do -APPL-INC anise
+hacer-APPL-INC ani*s
+\zoq 7@m tz@kjaba 7ani*s,
+\fts le haces ani*s,
+\ref ZOH001R036 996
+\_no 00979
+\tx 7axux j@nanh
+\mb 7axux jananh
+\sgl ajo
+AC
+\egl garlic ACC
+7ani*s
+7ani*s
+\fte you make it with anise,
+\com
+\idx
+Page 211

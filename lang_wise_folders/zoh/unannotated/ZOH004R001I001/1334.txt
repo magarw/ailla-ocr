@@ -1,0 +1,64 @@
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-GR; PH-OK:TK; is -k a trace of the +k(@) of MAR?
+\date 26/Jun/96
+\lex tum.'anh
+\_no 03100
+\LG MIG
+\PSH [tummanh]
+\UND tum. 7anh
+\MB uno, X
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG igual; parejo; plano; recto
+\ENG equal; paired; level; straight
+\EXU 1 ya tum. 7anh
+\XPSH 1 [ya tummanh]
+\XSP 1 disparejo
+\XEN 1 not matched
+\EXU 2 ya tum. 7anh d@k+7ay
+\XPSH 2 [Ya tummanh d@kkay.]
+\XSP 2 No Son parejos; son distintos.
+\XEN 2 They're not equal; they're different.
+\EXU 3 ya tum. 7anh d@k+7ay
+\XPSH 3 [ya tummanh d@kkay]
+\XSP 3 distintos
+\XEN 3 different
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+ZOH004R0011001.txt
+\CMTS ya examples notation: omit HAJ:96, no idea what this means
+\CMTS tum.7anh
+\date 19/Jun/96
+\lex tum.'anh te.j(i).7aH
+\_no 03101
+\LG MIG
+\PSH [tummanh teji7a-]
+\UND tum. 7anh te.ji.7aH
+\MB uno, X, DEM1, LOC1, VERS1
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG estar pareja
+\ENG to be matched, to be level
+\EXU tum. 'anh te.ji'.7aH-w@
+\XPSH [Tummanh teji7aw@.]
+\XSP Esta* parejo.
+\XEN They're matched.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+no tener punta
+Page 1334

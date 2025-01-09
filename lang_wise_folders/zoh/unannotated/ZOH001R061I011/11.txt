@@ -1,0 +1,61 @@
+\lex ju7u
+\_no 00048
+\SPG hacer ruido; hacer trueno; hacer sonar; retumbar; zumbar
+\ENG to make noise; to thunder; to make a sound; to rumble; to buzz
+\EX ju77upa m@y@
+\XSP hace trueno de rayo
+XEN the thunder rumbles
+\ROOT ju7u Ix
+\CMTS caus yak.ju7u hacerle sonar
+\lex juj
+\_no 00049
+\SPG poner huevos
+\ENG to lay an egg
+\EX jujja piyu
+\XSP puso huevos la gallina
+XEN the chicken laid egs
+\ROOT juj T1
+\CMTS caus yak.juj hacerlo poner
+\CMTS no pass
+no puede ser, no puede poner su mismo el huevo
+\CMTS you make a chicken lay eggs by fixing a nest and sort of trapping
+\CMTS it in there til it gets the hang of it
+\lex juk
+\_no 00050
+\SPG fumar; ahumar (como comida)
+\ENG to smoke; to smoke something
+\EX jukta*nh
+\XSP vamos a fumar
+\XEN let's smoke
+\EX 7@n jukpa bi juki
+\xSP fumo el cigarro
+\XEN I smoke the cigarette
+\EX da jukpa dax
+\XSP estoy fumando yo
+\XEN me, I'm smoking
+ZOH001R0611011.txt
+\EX jukk@mm@ bi juki d@kka
+\XSP se fumo* los cigarros
+\XEN_the_cigarettes were smoked
+\ROOT juk TỈ
+\CMTS caus yak.juk darle que fumara
+\CMTS pass juk.7@m
+\lex jukuk
+\_no 00051
+\SPG molestar
+\ENG to bother
+\EX jukukk@ yo7k
+\XSP molesto* algo en la garganta
+\XEN something's bothering the throat
+\EX yo7k jukukpa
+\XSP empezo* a arder su garganta como que si tuviera gripa
+\XEN his throat starts burning as if he had a cold
+\ROOT jukuk Ix
+\CMTS no hay que decir jukukk@, siempre dice jukukk@ yo7k
+\CMTS caus yak.jukuk hacer que molestar (su garganta)
+\lex ju7k
+\_no 00052
+\SPG tragar
+\ENG to swallow up
+\EX jama y+ ju7k.xuk-pa
+Page 11

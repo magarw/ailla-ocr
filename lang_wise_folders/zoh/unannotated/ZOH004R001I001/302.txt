@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT jay
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 19/Jun/95
+\lex jay-pa+a7k
+\_no 00703
+\LG MIG
+\PSH [jaypa*7]
+\UND jay-pa +P@7k
+\MB dilatar, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG e*1 que tarda mucho
+\ENG one who delays a long time
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jay
+\RTGR 12
+\DSRC TK96
+\CMTS
+\date 24/Jun/96
+\lex jay-tax
+\_no 00704
+LG MIG
+\PSH [jaytax-]
+\UND jay=tax
+\MB escribir, llenarse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 11enar escribiendo
+\ENG to fill with writing
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 jay
+\RTGR 1 T3
+\ROOT 2 tax
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 19/Jun/95
+ZOH004R0011001.txt
+Page 302

@@ -1,0 +1,64 @@
+\MB sobar, INSTR1
+\VAR
+\GRAM instrl
+\SCI
+\USE
+\SPG sobada
+\ENG pomade; massage oil
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN jat@t.kuy7
+\SEMF
+\ETYM
+\ETL
+\ROOT matz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 17/Jul/95
+\lex matz-pak.p@'
+\_no 01902
+\LG MIG
+\PSH [matzpakp@-]
+\UND matz-pak.p@7
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sobar de una (buena) vez
+\ENG to give someone a good rubbing
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT matz
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\1ex ma7tz
+\_no 01903
+\LG MIG
+\PSH
+\UND ma7tz
+\MB
+\VAR
+GRAM vt
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG amasar
+para tortillas
+\ENG to knead corn dough - for tortillas
+\SPL ma7tz.7oy
+\SLGR ANTIP
+\SLGL amasar // to knead
+\SLGR NO PASS
+Page 820

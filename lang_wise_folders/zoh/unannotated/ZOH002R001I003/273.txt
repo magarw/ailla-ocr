@@ -1,0 +1,28 @@
+9.5.3. Only
+The clitic +štaa? can attach to any word class in MIG Zoque, except
+probably the intensifiers. Its general meaning is the same in all cases: it limits
+the set or extent or scope of the action. It attaches outside (to the right of) a
+plural clitic (9.22 i) or postposition (v amd viii), but inside the adverbial clitic
++7am (YA), shown in example (ii). Example (iii) shows that even when attached
+to the verb complex, it can serve to delimit one of the verb's arguments. In (iv),
++štaa? is limiting the scope of the action: they just sit, they don't work.
+Example (v) shows the clitic limiting a noun phrase to one out of a possible two,
+and example (vi) shows it setting a precise limit, when attached to a number.
+Examples (vii and viii) show +štaa? with a locative deictic and a postpositional
+phrase.
+(9.22)
+(i)
+(ii)
+ga' komo nømtampa tzøjøn kokedøkkaxtá'
+ga? komo (?ən+) nəm-tam-pa
+cəhən koke+dǝkkay+štaa?
+aquel como (1E+) decir-1/2PL-INC X pescado+NPL+NOMAS
+'Aquel, como decimos, es uno los que mandan no más 7.'
+(ZOH001R028-258)
+'awindøkka 'øn jamtzøktampaxtám
+?awin?+dǝkkay ?ən+ ham(V)=cək-tam-pa+štaa?+?am
+de rromán
+hermano+NPL 1E+ *mente-hacer-1/2PL-INC+NOMAS+YA de román
+'Compañero, nos acordamos no más de Román.' (ZOH001 R018-292)
+7 cəhən koke is a type of large fish. The local idiom 'the big fishes' means 'the powerful ones'.
+247

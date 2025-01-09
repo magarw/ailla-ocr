@@ -1,0 +1,62 @@
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\lex j@x-jup.p@'
+\_no 01058
+\LG MIG
+\PSH [j@xjupp@-]
+\UND jax-jup.p@7
+\MB ATRAS, jalar, CEL
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG jalar_ra*pido para sacarlo
+\ENG to pull quickly on something to shake it
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT jup
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\lex j@x-ju7t
+\_no 01059
+\LG MIG
+\PSH [j@xju7t-]
+\UND jax-ju7t
+\MB ATRAS, remover
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG abrir
+\ENG to open
+\SPL
+\SLGR
+\EXU j@x.ju7t-w@ tranka
+\XPSH [J@xju7tt@ tranka.]
+\XSP Abrio* la tranca.
+\XEN He opened the bar.
+SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ju7t
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+ZOH004R0011001.txt
+\lex j@x=juy
+\_no 01060
+\LG MIG
+\PSH [j@xjuy-]
+\UND j@x-juy
+Page 464

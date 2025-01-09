@@ -1,0 +1,65 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+The morpheme breakdowns in data examples use the symbol E to
+indicate a vowel that appears on the surface as /e/ or /i/; the underlying form
+is /e/. The dependent suffix is represented as -E. The following examples
+illustrate the operation of rule (2).
+(3.5)
+(i)
+(iii)
+(v)
+(vii)
+(ix)
+(xi)
+juki
+huk.E
+fumar.NOM3
+'cigaro'
+'angwiti'
+?aŋ.wit.E?
+BOCA.caminar.NOM3
+'visitante'
+'øjøji'
+?əhəh.E?
+quejar.NOM2
+'queja'
+'etze'
+?ec.E?
+bailar.NOM2
+'bailarin'
+'oje'
+?oh.E?
+toser.NOM3
+'tos'
+hape
+ha?p.E
+moler.NOM3
+'quebrado'
+(ii)
+(vi)
+'anemukxi
+?an.E=mukš.E
+(iv) jampitzi
+(x)
+estar_caliente.NOM3-doblar.NOM3
+'tortilla empanada (doblada)'
+34
+ham=pic.E
+cal=echar_maiz_en_cal.NOM2
+'maíz con cal'
+(viii) 'ukjeye'
+kø'ti'
+kə?t.E?
+moler.NOM2
+'molido'
+?uk=hey.E?
+tomar batir.NOM2
+'pozole'
+-
+kokxi'
+kokš.E?
+tronar.NOM2
+'sonido de las coyunturas tronando'
+(xii) nakxe'
+nakš.E?
+pegar.NOM2
+'pegado'

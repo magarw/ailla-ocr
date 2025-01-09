@@ -1,0 +1,86 @@
+\ref ZOH001R043 025
+\_no 00026
+\tx ga7
+\mb ka
+7@y 7ammaxukk@
+tum@7k
+partido bi
+kwalisyo*n d@kka
+-7
+7@y 7amma-xuk-w@ tum@-v7k partido bi
+kwalisyo*n d@kkay
+\sg1 DCT3-NOM1 3E ver -3PL-COM uno -REL partido DEF qualicio*n NPL
+\eg1 DCT3-NOM1 3E see -3PL-COM one -REL party DEF ???
+NPL
+\zoq Ga7 7@y 7ammaxukk@ tum@7k partido bi kwalisyo nd@kkay.
+\fts Esos vieron los otros partidos de la qualicio*n.
+\fte They saw the other parties of the qualicio*n.
+\com
+\idx
+\ref ZOH001R043 026
+\_no 00027
+\tx tz@nxukk@xta*m
+\mb tz@n
+-xuk-w@ -xtaa7-7am
+\sg1 estar_sentado-3 PL-COM-NOMAS-YA
+\egl sit
+-3PL-COM-ONLY - NOW
+\zoq Tz@nxukk@xta*m.
+\fts Quedaron sentado nada mas.
+\fte Now they just sat.
+\com
+\idx
+\ref ZOH001R043 027
+\_no 00028
+\tx 7i komo gaja
+\mb 7i komo ka
+wajaka 7anhkimmoba*7
+7@y 7anhkimm@
+wajaka 7anh -kim -7oy -pa -v7k 7@y 7anh -kim -w@
+como DCT3-Loc1 oaxaca BOCA -subir-ANTIP-INC-REL 3E BOCA -subir-COM
+MOUTH-mount-ANTIP-INC-REL 3E MOUTH-mount-COM
+-ja7
+\sgl y
+\egl and how DCT3-LOC1 oaxaca
+ZOH001R0431001.txt
+\tx metzanh p@n y@ji
+\mb_metza*nh p@n ya -ji7
+\sg1 dos
+\egl two
+t@k7anhj@
+t@k7anhj@7
+San_Miguel
+hombre DCT1-Loc1
+man DCT1-LOC1 San_Miguel
+\zoq 7i komo gaja7 wajaka 7anhkimmoba*7 7@y 7anhkimm@ metzanh p@n y@ji7
+T@kŻanhj@7,
+\fts Y como alla* en Oaxaca el gobernador mando* dos hombres aqui en San
+Miguel,
+\fte And since there in Oaxaca the governor sent two men here to San Miguel,
+\com
+\idx
+\ref ZOH001R043 028
+\_no 00029
+\tx yak
+minno
+\mb yakk@ min -70
+\sg1 VOL
+\eg1 VOL
+y 7ixx@
+junanhja*7 p@ktzonhnhoba
+7@y 7ix-w@ junanh-jaa7 p@k -tzonh-7oy -ра
+venir-IMPV2 3E ver-dINC como -NPL2 agarrar-unir -ANTIP-INC
+come -IMPV2 3E see-dINC how -NPL2 get -join -ANTIP-INC
+\tx y@7
+PRI 7@y jente
+\mb ya -7 PRI 7@y jente
+DCT1-NOM1 PRI 3E
+\eg1 DCT1-NOM1 PRI 3E people
+\sg1
+gente
+\zoq yakminnoy 7ixx@ junanhja*7 p@ktzonhnhoba y@7 PRI 7@y jente.
+\fts que ven a verlo en que forma va a recibir esta gente del PRI.
+\fte he sent them to see how-all the people will elect this PRI.
+\com
+\idx
+Page 7

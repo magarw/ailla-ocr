@@ -1,0 +1,62 @@
+\date 28/Jan/96
+\lex win-ki7t
+\_no 03697
+\LG MIG
+\PSH [winki7t-]
+\UND win-ki7t
+\MB CARA, meter_el_dedo
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pasar el dedo por la orilla
+\ENG to pass the finger along the edge of something
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ki7t
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex win-ko.7ix.kuy7
+\_no 03698
+\LG MIG
+\PSH [winko7ixkuy7]
+\UND win-ko.7ix.kuy7
+\MB CARA, OTRO, ver, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG espejo
+\ENG mirror
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7ix
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 15/Oct/94
+\lex win-k@nh
+\_no 03699
+\LG MIG
+\PSH [wink@nh-]
+\UND win-k@nh
+\MB CARA, Cocerse
+\VAR
+\GRAM vi
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG requemarse
+Page 1589

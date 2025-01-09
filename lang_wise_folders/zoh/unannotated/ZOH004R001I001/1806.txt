@@ -1,0 +1,63 @@
+\SEMF clean, farm
+\ASP activity
+\ARG
+\NOM yuj.kuy7
+\SUB k@.yuj
+\ETYM
+\ETL
+\ROOT yuj
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex yuj.kuy7
+\_no_04204
+\LG MIG
+\PSH [yujkuy7]
+\UND yuj.kuy7
+\MB rozar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG rastrojo
+\ENG cleared field
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT yuj
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 02/Nov/94
+\lex yuj.kuy' wit-pa+a7k p@n
+\_no_04205
+\LG MIG
+\PSH [yujkuy witpa*7k p@n]
+\UND yuj.kuy-wit-pa +P@7k p@n
+\MB rozar, INSTR1, andar, INC, REL, hombre
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG campesino; e*1 que va en su milpa
+\ENG peasant; one who tends a cornfield
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 yuj
+\RTGR 1 T1
+\ROOT 2 wit
+\RTGR 2 Il
+\DSRC HAJ94
+\CMTS
+Page 1806

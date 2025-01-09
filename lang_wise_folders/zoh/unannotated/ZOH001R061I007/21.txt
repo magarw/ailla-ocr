@@ -1,0 +1,62 @@
+\ENG to be born animals, people
+\EX pow@ 7une7
+\XSP nacio* la criatura
+\XEN the baby was born
+\ROOT po 12
+SEMF life
+\ASP transition
+\CAUS yak.po tener cria
+\date 03/Jan/80
+\lex poj
+\_no 00086
+\SPG descolorar; despintarse; quitarse de color
+\ENG to fade;
+to bleach; to lose color
+\EX pojja 7ay k@wi7
+\XSP se despinto*
+\XEN his color faded
+\ROOT poj IX
+\SEMF condition
+\ASP process
+\CAUS yak.poj desten-ir
+\CMTS
+\date 03/Jan/80
+\lex pojoj
+\_no 00087
+\SPG estar destorciendo el mecate
+\ENG for the rope to be untwisted
+\EX
+\XSP
+\XEN
+\ROOT pojoj Ix
+\SEMF condition
+\ASP state
+\CAUS yak.pojoj hacer destorcer
+\CMTS
+\date 03/Jan/80
+\lex po7kx
+\_no 00088
+\SPG calmarse (una persona)
+\ENG to calm down
+ZOH001R0611007.txt
+\EX 7@y yakj@ypo7kx@
+\XSP hizo calmar alguien (nin~o que esta* 11orando)
+\XEN she calmed someone (a baby who was crying)
+\ROOT po7kx Ix
+\SEMF care
+\ASP process, transition
+\CAUS yak.po7kx
+\CMTS
+\date 03/Jan/80
+\lex pom
+\_no 00089
+\SPG calmar (dolor)
+\ENG to ease (a pain)
+\EX pomm@ toypa*7
+\XSP calmo* el dolor
+\XEN the part that hurt eased
+\ROOT pom Ix
+\SEMF sickness, body
+\ASP process
+\CAUS yak.pom hacer calmar
+Page 21

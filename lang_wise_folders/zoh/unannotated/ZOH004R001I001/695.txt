@@ -1,0 +1,64 @@
+\DLG
+\SPG hombre carpintero
+\ENG carpenter
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT WOX
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex kuy yak.ka'-pa+a7k tzikix
+\_no 01604
+\LG MIG
+\PSH [kuyyakkapa*7k tzikix]
+\UND kuy=yak.ka7-pa +P@7k tzikix
+\MB palo, CAUS, morirse, INC, REL, X
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG matapalo
+\ENG a vine-like plant that grows around a tree and strangles it
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 18/Jun/96
+\lex kuy yoya
+\_no 01605
+\LG MIG
+\PSH
+\UND kuy yoya
+\MB
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG javali*n
+\ENG javalina
+\EXU
+ZOH004R0011001.txt
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+LF:7anma]
+Page 695

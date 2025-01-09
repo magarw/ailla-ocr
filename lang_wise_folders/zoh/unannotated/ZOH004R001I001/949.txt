@@ -1,0 +1,63 @@
+XPSH [7@y nemnukk@y_manhkuyj@nanh. ]
+\XSP Lo prenso* con los dos piernas.
+\XEN He pressed it between his legs.
+\SYN
+\ROOT 1 nem
+\RTGR 1 T3
+\ROOT 2 nuk
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex nem=p@k
+\_no 02202
+\LG MIG
+\PSH [nemp@k-]
+\UND nem-p@k
+\MB talonear, agarrar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG prensar con sus piernas
+ENG to press between the legs
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 nem
+\RTGR 1 T3
+\ROOT 2 p@k
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 04/Oct/94
+\lex nem=tuk
+\_no 02203
+\LG MIG
+\PSH [nemtuk-]
+\UND nem-tuk
+\MB_cortar_con_tijeras, cortar
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG cortar tela; cortar con tijeras
+\ENG to cut cloth; to cut with scissors
+\EXU 7@n+ nem-tuk-w@ 7@n+ tzepe7
+\XPSH [7@n nemtukk@n tzepe7.]
+\XSP Corte* mi nagua con tijeras.
+\XEN I cut my skirt with scissors.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 nem
+\RTGR 1 T3
+\ROOT 2 tuk
+\RTGR 2 T3
+Page 949

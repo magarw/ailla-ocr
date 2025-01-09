@@ -1,0 +1,64 @@
+\USE
+\SPG tocayo
+\ENG namesake
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM //to:ka: (y) //
+\ETL Nawa
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tuki
+\_no 03080
+\LG MIG
+\PSH
+\UND tuki
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG tortuga (del mar)
+\ENG turtle (of the sea)
+\EXU n@'+jo+7k tuki
+\XPSH [n@jo7k_tuki]
+\XSP tortuga del ri*o
+\XEN river turtle
+\EXU kuy+jo+7k tuki
+\XPSH [kuyjo7k tuki]
+\XSP tortuga de tierra/monte
+\XEN wood turtle
+\EXU meya+jo+7k tuki
+\XPSH [meyajo7k tuki]
+\XSP tortuga de mar
+XEN sea turtle
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+LF:tuki
+\CMTS
+\date 09/Feb/96
+\lex tuki pak
+\_no 03081
+\LG MIG
+\PSH
+\UND tuki pak
+\MB
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG concha de tortuga
+\ENG turtle shell
+\EXU
+\XSP
+\XEN
+ZOH004R0011001.txt
+Page 1326

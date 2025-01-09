@@ -1,0 +1,28 @@
+acceptable given the right context². In example (iii), then, the recipient is not
+cross-referenced on the verb, except by means of the plural suffix.
+6.2.2. The person hierarchy and inverse alignment
+MIG Zoque exhibits a person hierarchy (Silverstein, 1976), in which first
+and second persons outrank third person entities. (There are no grammatical
+distinctions among possible sorts of third person entities, as in an animacy
+hierarchy.) When a higher-ranked agent acts on a lower-ranked patient, or
+when both agent and patient have equal rank, we have a direct role-marking
+situation. The first three examples in (6.10) illustrate direct role-marking
+first or second person agents acting on third person patients, or a third person
+agent acting on a third person subject. Similarly, the examples in (6.11) show
+first or second person agents acting on equally-ranked first or second person
+patients; these are also all examples of direct role-marking.
+However, when a lower-ranked agent acts on a higher-ranked patient
+(6.10 iv-v), we have an inverse role-marking situation (Klaiman, 1992). In these
+situations it is the higher-ranked argument that is encoded on the verb. When
+a third person agent acts on a first person patient, the verb is marked with the
+first person absolutive marker də (examples 6.12 i-iii)³. When a third person
+agent acts on a second person patient, the verb is marked with the 3>2 marker
+mi. Inverse role-marking does not produce any ambiguous constructions, since
+2 This is a story about a man who is so lazy, that when his friends refuse to feed him any
+longer, he tells them to just go ahead and bury him.
+3 Kaufman (1996) suggests that the third person ergative marker ?əy+ is absorbed by the
+preceding vowel, noting that the order of agreement markers is OSV generally in Mixe-Zoquean
+languages. I'm not entirely convinced of this, since there are many cases of ?əy+ cliticizing
+onto a wide variety of preceding phonological contexts in which the final glide is still clearly
+audible.
+122

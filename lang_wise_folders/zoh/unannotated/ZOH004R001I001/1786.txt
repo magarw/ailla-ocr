@@ -1,0 +1,63 @@
+\date 29/Jan/96
+\lex yo7k=tzem
+\_no 04155
+\LG MIG
+\PSH [yo7ktzem-]
+\UND yo7k=tzem
+\MB pescuezo, desafiar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG atorarse algo en su pescuezo
+ENG to get something stuck in one's throat
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzem
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 02/Nov/94
+\lex yomaa7
+\_no 04156
+\LG MIG
+\PSH [yoma*7]
+\UND yoma +P@7k
+\MB hembra, REL
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG mujer
+\ENG wowan
+\EXU 1 yoma d@k.7a
+\XPSH 1 [yoma d@kka]
+\XSP 1 mujeres
+\XEN 1 women
+\EXU 2 yoma+7pv
+\XPSH 2 [yoma*7]
+\XSP 2 "una quien es hembra"
+\XEN 2 "one who is female"
+\EXU 3 7@y+ yomaa7
+\XPSH 3 [7@y yoma*7]
+\XSP 3 su querida
+\XEN 3 his wife or sweetheart
+\EXU 4 yoma tayu
+\XSP 4 mujeriego
+\XEN 4 womanizer
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH
+\CMTS only 'querida' when possessed; w/o possessor, it's 'mujer'
+\date 03/Jun/96
+Page 1786

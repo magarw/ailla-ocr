@@ -1,0 +1,65 @@
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 10/Nov/94
+\lex mantzana
+\_no 01868
+\LG MIG
+\PSH
+\UND mansana
+\MB
+\VAR mansana
+GRAM med
+\SCI
+\USE
+\SPG manzana
+\ENG apple
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\lex manhgu
+\_no 01869
+\CMTS
+\date 26/Jan/96
+\LG MIG
+\PSH
+\UND manhgu
+\MB
+\VAR
+LF:7okox
+\GRAM S
+\SCI
+\USE
+\SPG mango
+\ENG mango
+\EXU
+\XSP
+\XEN
+\SYN
+LF: kuy
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH HAJ:96, removed bogus final stress
+\date 19/Jun/96
+LF: kuy
+\lex manh=katz
+\_no 01870
+ZOH004R0011001.txt
+\LG MIG
+\PSH [manhkatz-]
+Page 806

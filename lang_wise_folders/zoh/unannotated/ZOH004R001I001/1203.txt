@@ -1,0 +1,63 @@
+\ENG to spread
+\SPL punh.7oy
+\SLGR ANTIP
+\SLGL regar // to spread
+\SPL punh.7@m
+\SLGR PASS
+\SLGL regarse // to be spread
+\EXU 1 7@y+ punh-w@ pun.@7
+\XPSH 1 [7@y punhnh@ pun@7.]
+\XSP 1 Rego* la goma.
+\XEN 1 She spread the gum.
+\EXU 2 7@y+ punh-w@ 7@y+ n@k.i bi mok bi p@n
+\XPSH 2 [7@y punhnh@y naki bi mok bi p@n.]
+\XSP 2 El hombre fue* regando el maiz (porque esta* un hoyito en su bolsa).
+\XEN 2 The man went spilling the corn (because there's a hole in his sack).
+\SYN
+\SEMF arrange
+\ASP activity
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT punh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex punh7
+\_no 02795
+\LG MIG
+\PSH
+\UND punh7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG espiga
+\ENG ear of grain; spike
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 16/Oct/94
+\lex punh-junh.ney
+\_no 02796
+\LG MIG
+\PSH [punhjunhney-]
+\UND punh-junh.ney
+ZOH004R0011001.txt
+\MB X, X, ASSUM1
+\VAR
+\GRAM assum1
+\SCI
+\USE
+Page 1203

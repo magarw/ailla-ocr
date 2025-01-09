@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG sazonarse
+\ENG to become seasoned; to ripen
+\SPL yak.tzam
+\SLGR CAUS
+\SLGL dejar sazonar // to allow to mature
+\EXU 1 tzam-w@+ 'am
+\XPSH 1 [Tzamma*m.]
+\XSP 1 Ya esta* sazon.
+\XEN 1 Now it's mature.
+\EXU 2 tzam-pa+'am
+\XPSH 2 [Tzampa*m.]
+\XSP 2 Ya va a sazona*ndose.
+\XEN 2 Now it's getting ripe.
+\SYN
+\SEMF nature
+\ASP achievement
+\ARG
+\NOM tzam-w@+@7k
+\SUB
+\ETYM
+\ETL
+\ROOT tzam
+\RTGR 12
+\DSRC HAJ94
+\CMTS doesn't like just plain tzam-w@, it's confusable with 'monte'
+\date 03/Jan/80
+\lex tzam.e
+\_no 03241
+\LG MIG
+\PSH [tzame]
+\UND tzam. E
+\MB platicar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG pla*tica; palabra
+\ENG conversation; word
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzam
+\RTGR T1
+\DSRC HAJ4
+\CMTS
+\date 28/Jan/96
+ZOH004R0011001.txt
+\lex tzam.jay
+\_no 03242
+\LG MIG
+\PSH [tzamjay-]
+\UND tzam.jay
+\MB
+\VAR
+\GRAM indir
+\SCI
+Page 1394

@@ -1,0 +1,60 @@
+XEN the chicken flapped its wing
+\ROOT pekx T3
+\SEMF hit
+\PASS NONE pekx.7@m *
+\ANTI pekx.7oy
+\CMTS
+\lex pen
+\_no 00096
+\SPG apretar con la mano; darle apreto*n
+\ENG to squeeze with the hand; to give a squeeze
+\EX 7@y konpenn@yy@ tzanhkuy j@nanh
+\XSP lo apreto* con la mano
+\XEN she squeezed it with the hand
+\ROOT pen T3
+\SEMF touch, hand
+\PASS NONE pen.7@m *
+\ANTI pen.7oy
+\PRSV pen=ten lo tiene apretado
+\CMTS CK_GLOSS, kon in EX?
+\lex pe7t
+\_no 00097
+\SPG tejer/hacer_cinta de palma para hacer sombrero, petaca
+\ENG to weave palm for hats or petate
+\EX jojo pe7tt@
+\XSP tejio* cinta de palma
+\XEN she wove palm
+\ROOT pe7t T3
+\SEMF sew, create, obj
+\PASS pe7t.7@m ya esta* tejido
+\ANTI pe7t.7oy tejer
+\CMTS
+\lex pikx
+\_no 00098
+\SPG tocar puerta
+\ENG to knock on the door
+\EX
+\XSP
+\XEN
+\ROOT pikx T3
+\SEMF touch, hit
+\PASS pikx.7@m despizcarse
+\ANTI pikx.7oy
+\CMTS
+\lex pin
+\_no 00099
+ZOH001R0611009.txt
+\SPG tentar
+\ENG to touch lightly with the fingers
+\EX
+\XSP
+\XEN
+\ROOT pin T3
+\SEMF touch, hand
+\PASS NONE pin.7@m *
+\ANTI pin.7oy
+\CMTS
+\lex pit
+\_no 00100
+\SPG poner la mortaja
+Page 24

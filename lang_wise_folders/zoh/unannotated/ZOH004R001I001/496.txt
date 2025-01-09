@@ -1,0 +1,64 @@
+\PSH
+\UND kaja
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG caja
+\ENG box
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 01/Oct/94
+\lex kajanh
+\_no 01136
+\LG MIG
+\PSH
+\UND kajanh
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG "tigre"
+\ENG "tiger", jaguar
+\EXU
+\XSP
+\XEN
+\SYN tzikin kajanh
+\SEMF EZ --- LF:7anmal
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex kajanh pane7
+\_no 01137
+\LG MIG
+\PSH
+\UND kajanh pane7
+\MB jaguar, garrapata
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG garrapata conchuda
+\ENG a type of insect
+\EXU yuchi pane7
+\EXU tzapatz pane7
+\XSP vermeja
+\SYN
+\SEMF EZ
+\ETYM
+LF:bugs
+ZOH004R0011001.txt
+Page 496

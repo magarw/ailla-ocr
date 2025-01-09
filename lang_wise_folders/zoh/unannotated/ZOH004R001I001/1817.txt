@@ -1,0 +1,63 @@
+\GRAM Vi
+\SCI
+\USE
+\FLG
+\SPG empezar a arder
+\ENG to start to ache
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jaway
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+\lex yuk.jej
+\_no 04230
+\LG MIG
+\PSH [yukjej-]
+\UND yuk.jej
+\MB ARR, vivir
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG revivir; "resurreccio*n"
+\ENG to come back to life; "resurrection"
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jej
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yuk.jeken
+\_no 04231
+ZOH004R0011001.txt
+\LG MIG
+\PSH [yukjeken-]
+\UND yuk.jeken
+\MB ARR, enrollar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG levantar del suelo enrollandolo
+\ENG to raise up off the ground something rolled up
+\SPL
+\SLGR
+\SYN
+\SEMF
+\ETYM
+Page 1817

@@ -1,0 +1,62 @@
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex jun
+\_no 00087
+\SPG caer pelo
+\ENG for hair to fall out
+\SEMF body
+\ASP achievement
+\ARG
+\NOM jun.i7, *kuy7
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex junun
+\_no 00088
+\SPG hacerle cosquillas
+\ENG to tickle someone
+\SEMF body, touch
+\ASP activity
+\ARG
+\NOM junun.kuy7, junun.naanh
+\RTGR T3
+\POS da jununn@
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex jup
+\_no 00089
+\SPG jalar
+\ENG to pull
+\SEMF move, arrange
+\ASP activity
+\ARG
+\NOM 7anh.jup, jup.kuy7, jup.i, k@.n@k=jup.'oy.kuy7, win-jup-tuk.kuy7,
+\NOM yak. jup
+\NOM jup.naanh
+\RTGR P, (T3)
+\UNDO
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\POS rroberto da jupminjayy@n@7 roberto me trajo un viaje de agua
+\MID
+\lex jutu
+\_no 00090
+me hizo cosquilla
+\SPG 1 rodarse
+\SPG 2 resbalarse
+\ENG 1 to roll
+ENG 2 to slip
+\SEMF move
+\ASP activity
+\ARG patient
+\NOM
+Page 22

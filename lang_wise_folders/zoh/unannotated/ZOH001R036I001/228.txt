@@ -1,0 +1,106 @@
+ZOH001R0361001.txt
+\fte You wash their head, there are times it hurts inside.
+\com
+\idx
+\ref ZOH001R036 999-072
+\_no 01055
+\tx 7i p@
+\mb 7i p@7 -A7
+\sg] y
+poner-IMPV
+\egl and PUT -IMPV pinch
+-pa
+\sg1 2E cortar-INC
+\egl 2E cut
+\ref ZOH001R036 999-073
+\_no 01056
+\tx 7@m tukpa
+\mb 7@m tuk
+tzukxnenh
+tzukx
+\zoq 7i pa tzukxneny 7ay.
+\fts Y echale un pedazo de hoja.
+\fte And throw in a pinch of leaf.
+\com
+\idx
+\com
+\idx
+pellizcar-olear
+tzukxnenh
+tzukx
+-INC pinch
+7ay
+7ay7
+hoja
+-make_waves leaf
+\com
+\idx
+-nenh
+- nenh
+pellizcar-olear
+\zoq 7@m tukpa tzukxnenh 7ay ye7xe.
+\fts Cortas un pedazo de hoja asi*.
+\fte You cut a pinch of leaf like this.
+\com
+\idx
+\ref ZOH001R036 999-074
+\_no 01057
+GSM: ney de pataxi
+ney
+\tx
+\mb GSM
+de pa
+\sg1 GSM: mismo de salvaje-flor
+\egl GSM: self of wild
+\ref ZOH001R036 999-075
+\_no 01058
+EN
+-make_waves
+\ref ZOH001R036 999-076
+\_no 01059
+\zoq GSM: Ney de pataxi7@yti.
+\fts GSM: E*1 de diavigo de monte barraco.
+\fte GSM: The same of wild ???.
+\tx
+OSM: ney
+de pataxi
+\mb OSM
+de pa
+\sg1 OSM: mismo de salvaje-flor
+\egl OSM: self of wild
+ney
+-taxi7
+-flower
+7@yti
+7@yti7
+3PSN
+3PSN
+7@yti
+7@yti7
+3PSN
+\zoq OSM: Ney de pataxi7@yti.
+\fts OSM: E*1 de diavigo de monte barraco.
+\fte OSM: The same of wild ???.
+-taxi7
+-flower 3PSN
+m
+\tx minpa
+\mb min
+juxyayy@
+-yay
+-pa
+7@m jux
+\sg1 venir-INC 2E asar -marchitarse-dINC
+\egl come -INC 2E roast-wilt
+-7xe
+7ay ye7xe
+7ay7 ya
+hoja DCT1-SIM
+leaf DCT1-SIM
+jukut@kjo
+kom tey@*
+jukut@k-jo7 komo te -y@ -7
+lumbre -LOC2 como DCT2-DCT1-NOM1
+-dINC fire -LOC2 like DCT2-DCT1-NOM1
+Page 228
+-w@

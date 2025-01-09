@@ -1,0 +1,63 @@
+\XSP 2 Lo trae cargando en la cabeza.
+\XEN 2 She brought it, carrying it on her head.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tz@m
+\RTGR 1 P (T3)
+\ROOT 2 min
+\RTGR 2 IX
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tz@m=m@tz
+\_no 03494
+\LG MIG
+\PSH [tz@mm@tz-]
+\UND tz@m=m@tz
+\MB cargar, X
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG acarrear
+\ENG to cart
+\EXU 7@y+ tz@m=m@tz=tzum-w@
+\XPSH [7@y tz@mm@tztzumm@.]
+\XSP Lo acarreo* y lo ajunto*.
+\XEN He carted it and gathered it together.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tz@m
+\RTGR 1 P (T3)
+\ROOT 2 * m@tz
+\DSRC HAJ94
+\CMTS CK-all HAJ:96 ok
+\date 20/Jun/96
+\lex tz@m=n@k
+\_no 03495
+\LG MIG
+\PSH [tz@mn@k-]
+\UND tz@m=n@k
+\MB cargar, irse
+\VAR
+\GRAM vt+dir
+\SCI
+\USE
+\SPG 11evar cargando
+\ENG to carry something away
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tz@m
+\RTGR 1 P (T3)
+\ROOT 2 n@k
+Page 1503

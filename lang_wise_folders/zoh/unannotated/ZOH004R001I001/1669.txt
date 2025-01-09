@@ -1,0 +1,65 @@
+XPSH 1 [Jamaxampa bi chik nu7.]
+\XSP 1 Esta* soleando el perrito.
+\XEN 1 The puppy is warming itself in the sun.
+\EXU 2 da xam-tam-pa jukut (@k) 7aka
+\XPSH 2 [D@ xamtampa jukut 7aka.
+\XSP 2 NOS calentamos cerca de la lumbre.
+\XEN 2 we're warming ourselves by the fire.
+\SYN
+\SEMF body, fire
+\ASP process
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT xam
+\RTGR 11
+\DSRC TK94
+\CMTS
+\CMTS agent is human or animal
+\CMTS means to deliberately move close to a source of warmth.
+\CMTS cf 7an- 12, to get warm because you happen to be near a fire
+\date 03/Jan/80
+\lex xanh
+\_no 03881
+LG MIG
+\PSH
+\UND xanh
+ZOH004R0011001.txt
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG machetear
+\ENG to cut with a machete
+\SPL xanh.7oy
+\SLGR ANTIP
+\SLGL machetear // to cut with a machete
+\SPL xanh.7@m
+\SLGR PASS
+\SLGL estar macheteado // to be cut with a machete
+\SPL xanh.ten
+\SLGR PRSV
+\SLGL tener macheteado // to have something cut down with a machete
+\EXU 1 xanh-A7
+\XPSH 1 [xa:w@7!]
+\XSP 1 !Machetealo!
+\XEN 1 Cut it!
+\EXU 2 7@y+ xanh-w@ bị yuj.kuy7
+\XPSH 2 [7@y xanhnh@ bi yujkuy7.]
+\XSP 2 Macheteo* el rastrojo.
+\XEN 2 He cleared the field with a machete.
+\SYN
+\SEMF cut
+\ASP process
+\ARG instrument
+\NOM 7anh.xanh' xaw.e7, xanh. 'oy.kuy7
+\SUB 7anh.xanh'.'aH, 7anh.xanh'.'@y, jo.xanh', k@.xanh, win=xanh
+\ETYM
+\ETL
+\ROOT xanh
+\RTGR T3
+"
+Page 1669

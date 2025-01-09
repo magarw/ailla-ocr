@@ -1,0 +1,59 @@
+\lex ka
+\_no 00096
+\SPG morirse
+\ENG to die
+\EX
+\XSP
+\XEN
+\ROOT ka 12
+\SEMF life
+\CAUS yak.ka matar
+\lex kam
+\_no 00097
+\SPG trabarse
+\ENG to get stuck
+\EX
+\XSP
+\XEN
+\ROOT kam 12
+\SEMF motion
+\CAUS yak. kam trabar
+\CMTS
+\lex kanh
+\_no 00098
+\SPG vaciarse de huevos
+\ENG to be emptied of eggs
+\EX kanh-nh@*-7
+\XSP (iguana) sin huevos
+\XEN
+\EX kanhnh@ t@tz@7
+\XSP se vacio de huevos la iguana
+\XEN the iguana emptied itself of its eggs
+\ROOT kanh Ix
+\SEMF nature
+\CMTS only of iguanas
+\lex kap
+\_no 00099
+\SPG traer cargando en el hombro; echar algo en el hombro
+\ENG to carry on the shoulder; to throw something over the shoulder
+\EX
+\XSP
+\XEN
+\ROOT kap P (T3)
+\SEMF move, position
+\PASS kap.7@m
+\ANTI kap. 7oy
+ZOH001R0611010.txt
+\lex kat
+\_no 00100
+\SPG lamber, como perro, gato
+\ENG to lap, like a dog or a cat
+\EX bi_nu7 7@y_katt@ bi_n@7
+\XSP el perro lambio* el agua
+\XEN the dog lapped the water
+\ROOT kat T3
+\SEMF eat, animal
+\PASS kat.7@m ya esta* lambido
+\ANTI kat.7oy lamber
+\CMTS
+Page 24

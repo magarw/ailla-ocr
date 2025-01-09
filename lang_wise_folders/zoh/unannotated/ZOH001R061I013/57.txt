@@ -1,0 +1,53 @@
+\_no 00705
+\SPG Heidi
+\ENG Heidi
+\lex jaj
+\_no 00706
+\SPG arderse
+\ENG get_warm
+\lex jaja
+\_no 00707
+\SPG jaja
+\ENG haha
+\lex jaje7
+\_no 00708
+\SPG zumo
+ENG zest
+\lex jajtzuku7
+\_no 00709
+\SPG hormiga
+\ENG ant
+\lex jakalja*7
+\_no 00710
+\SPG galerita
+\ENG shelter
+\lex jakanh
+\_no 00711
+\SPG DIR2
+\ENG DIR2
+\lex jakke
+\_no 00712
+\SPG muy ; mucho
+\ENG very ; a_lot
+\lex jakx
+\_no 00713
+\SPG sacar_de_boca
+\ENG hawk
+\lex ja7k
+\_no 00714
+\SPG ahogarse
+\ENG drown
+\lex jam
+\_no 00715
+\SPG cal
+\ENG lime
+\lex jama
+\_no 00716
+\SPG dia ; sol
+\ENG day; sun
+\lex jamanh7
+\_no 00717
+\SPG guanacastle
+\ENG guanacastle
+ZOH001R0611013.txt
+Page 57

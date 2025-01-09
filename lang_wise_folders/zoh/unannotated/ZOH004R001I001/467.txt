@@ -1,0 +1,62 @@
+\ETL
+\ROOT kam
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex j@x-kap
+\_no 01065
+\LG MIG
+\PSH [j@xkap-]
+\UND jax-kap
+\MB ATRAS, cargar_en_hombro
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar en el hombro
+\ENG to push out with the shoulder
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kap
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex j@x-kat
+\_no 01066
+\LG MIG
+\PSH [j@xkat-]
+\UND jax-kat
+\MB ATRAS, lamber
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacarlo lambiendo
+\ENG to lick out
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kat
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+ZOH004R0011001.txt
+\lex j@x-kax
+\_no 01067
+Page 467

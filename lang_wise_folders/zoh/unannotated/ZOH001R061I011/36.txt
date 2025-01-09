@@ -1,0 +1,62 @@
+\XSP trenzo* el cabello
+\XEN she braided her hair
+\EX 7@y pittene 7@y way
+\XSP tiene trenzado su cabello
+\ROOT pi7t P, (T3)
+\CMTS antip pi7t.7oy trenzar
+\CMTS pass pi7t.7@m
+estar trenzada
+\CMTS assuml pi7t.ney estar trenzada
+\CMTS prsv pi7t-ten lo tiene trenzada
+\lex pitz
+\_no 00176
+\SPG poner/echar mai*z en la lumbre con cal, para cocer
+\ENG to put corn on the fire with lime, to cook it
+\EX
+\XSP
+\XEN
+\ROOT pitz T1
+\CMTS
+\lex pitz@m
+\_no 00177
+\SPG salir
+\ENG to leave
+\EX
+\XSP
+\XEN
+\ROOT pitz@m Ix
+\CMTS caus2 yak+ pitz@m dejar salir
+\lex piwi
+\_no 00178
+\SPG una cosa recogida
+\ENG something picked up
+\EX
+\XSP
+\XEN
+\ROOT pinh 11
+\CMTS
+\lex pix
+\_no 00179
+\SPG sentir picazo*n de pulga, etc.
+\ENG to feel a bite
+from a flea, etc.
+\EX da pix-pa
+\XSP me pica
+\XEN it's biting me
+ZOH001R0611011.txt
+\EX pixxoba 7@y kuptuku
+\XSP algo le pica en su espalda
+\XEN something is biting his back
+\ROOT pix IX
+\CMTS caus yak.pix.7oy darle comezo*n
+\CMTS doesn't like it like this: gives yuk.tzi7kx or pix.7oy instead
+\lex po
+\_no 00180
+\SPG rajar
+\ENG to split
+\EX 7@y pow@ kapi
+\XSP rajar len~a
+\XEN she split firewood
+\ROOT po T3
+\CMTS antip po.7oy
+Page 36

@@ -1,0 +1,64 @@
+\PSH [tuwanh]
+\UND tuk@-7anh
+\MB tres, NUM
+\VAR
+\GRAM num
+\SCI
+\USE
+\SPG tres
+\ENG three
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS CK-PH: maybe /tuaanh/
+\date 09/Feb/96
+\lex tuwa.'anh kuptuku7
+\_no 03129
+\LG MIG
+\PSH [tuwanh kuptuku7]
+\UND tuk@-7an kuptuku7
+\MB
+\VAR tuwanh kuptuku7 kuy
+\GRAM
+\SCI
+\USE
+\SPG tres lomos
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+LF: kuy
+\lex tuwa. 'nh-ji-7
+\_no 03130
+\LG MIG
+\PSH [tuwanhji7]
+\UND tuk@-7anh-ji-7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG los tres
+\ENG the three (of them)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+Page 1346

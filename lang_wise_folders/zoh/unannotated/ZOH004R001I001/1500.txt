@@ -1,0 +1,64 @@
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex tz@m
+\_no 03487
+\LG MIG
+\PSH
+\UND tz@m
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG cargar
+\ENG to carry
+\SPL tz@m.7oy
+\SLGR ANTIP
+\SLGL cargar // to carry
+SPL tz@m.7@m
+\SLGR PASS
+\SLGL ser acarreado // to be carted
+\SPL tz@m.ney
+\SLGR ASSUM1
+\SLGL estar cargado, esta* puesto sobre el real, que esta* cargando // to
+be loaded, to have what you're carting loaded over the saddle
+\SPL tz@m.ten
+\SLGR PRSV
+\SLGL tener cargado // to have loaded
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF carry
+\ASP activity
+\ARG location
+\NOM ni.tz@m, tz@m.i, tz@m. 'oy.kuy7, tz@m.kuy7, y@k.tz@m
+\SUB_j@x=tz@m,
+nik.tz@m.'@y, p@k=tz@m, tz@m=min, tz@m=m@tz, tz@m=n@k,
+\SUB tz@m=p@7t, tz@m=tzonh, tz@m='anh.kuk.'aH, yuk.tz@m.p@
+\ETYM
+\ETL
+\ROOT tz@m
+\RTGR P (T3)
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS Camilo rejects the ASSUM1
+\date 03/Jan/80
+\lex tz@m.7oy.kuy7
+\_no 03488
+\LG MIG
+\PSH [tz@mmokuy7]
+\UND tz@m.7oy.kuy7
+\MB cargar, ANTIP, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG mecapal
+\ENG carrying line
+\EXU
+Page 1500

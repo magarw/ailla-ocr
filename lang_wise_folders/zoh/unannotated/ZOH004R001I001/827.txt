@@ -1,0 +1,65 @@
+XEN broken foods
+\SYN
+\ROOT max
+\RTGR 12
+\RTGL descomponerse
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex may
+\_no 01918
+\LG MIG
+\PSH
+\UND may
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG contar
+\ENG to count
+\SPL may.7oy
+\SLGR ANTIP
+\SLGL contar // to count
+\SPL may.7@m
+\SLGR PASS
+\SLGL contarse // to be counted
+\SPL may.ten
+\SLGR PRSV
+\SLGL tener contado // to have something counted
+\EXU 1 7@y+ may.ten-w@ bi jama=tin
+\XPSH 1 [7@y maytenn@ bi jamatin.]
+\XSP 1 Tiene contado el dinero.
+\XEN 1 She's got the money counted.
+\EXU 2 may. @-pa
+(.@H
+RR)
+\XPSH 2 [may@pa.]
+\XSP 2 Se cuenta.
+\XEN 2 They counted.
+\SYN
+\SEMF cognitive
+\ASP activity
+\ARG
+\NOM may. kuy7
+\SUB 7anh.may, 7ix-may, jo.may=yoj, j@x=may, ko.may, nik.may. '@y,
+\SUB wit='anh.may, yuk.may='ok.manh
+\ETYM
+\ETL
+\ROOT may
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+ZOH004R0011001.txt
+\lex may. kuy7
+\_no 01919
+\LG MIG
+\PSH [maykuy7]
+\UND may. kuy7
+\MB contar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+Page 827

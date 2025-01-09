@@ -1,0 +1,62 @@
+\ETL
+\ROOT tzi7tz
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 08/Jan/96
+\lex 7anh-nakx
+\_no 00138
+\LG MIG
+\PSH [7anhnakx]
+\UND 7anh-nakx.0
+\MB BOCA, pegar_con_palo, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG caballete lo que esta* protegiendo la palma para que no saque el aire
+\ENG roof ridge a beam placed over roofing so the wind won't carry it off
+\EXU t@k 7@y+ 7anh-nakx
+\XPSH [t@k 7@y 7anhnakx]
+\XSP caballete
+\XEN ridge of a roof
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nakx
+\RTGR T3
+\DSRC HAJ94
+\CMTS fixed XSP/TK
+\date 24/Jun/96
+\lex 7anh-nak (a)=matz
+\_no 00139
+\LG MIG
+\PHO [7anhnakamatz-]
+\UND 7anh-naka-matz
+\MB BOCA, cuero, sobar
+\VAR
+\GRAM vi:incorp
+\SPG sobar la cara
+ENG to massage someone's face
+\EXU 7@y+ 7anh-naka-matz-w@
+\XPSH [7@y 7anhnakamatztz@.]
+\XSP Le sobo* la cara.
+\XEN She massaged his face.
+\SYN
+\ROOT matz
+\RTGR T3
+\RTGL sobar
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\1ex_7anh-nak(a)=no7px
+ZOH004R0011001.txt
+\_no 00140
+\LG MIG
+\PSH [7anhnakano7px-]
+\UND 7anh-naka-no7px
+\MB BOCA, cuero, tener_chupado_1a_cara
+\VAR 7anh-naak=no7px
+\GRAM vi
+Page 59

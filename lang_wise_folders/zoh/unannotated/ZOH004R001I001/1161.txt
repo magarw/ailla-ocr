@@ -1,0 +1,61 @@
+\lex poj=x@k
+\_no 02698
+\LG MIG
+\PSH [pojx@k]
+\UND poj=x@k
+\MB bejuco, frijol
+\VAR X@k 7@y+ poj
+\GRAM SS
+\SCI
+\USE
+\SPG bejuco de frijol
+\ENG bean vine
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-all HAJ:96 ok/German insists pojx@k is the vine and not the bean,
+but I don't believe him: TK
+\date 25/Jun/96
+\lex poki7
+\_no 02699
+\LG MIG
+\PSH
+\UND poki7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG tobillo
+\ENG ankle
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex pok.pok 7ane
+\_no 02700
+\LG MIG
+\PSH [pokpok 7ane]
+\UND pok.pok 7ane
+\MB
+\VAR
+\GRAM SR (m) s
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG tortilla arrimada no ma*s
+\EXU
+Page 1161

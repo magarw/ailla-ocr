@@ -1,0 +1,69 @@
+aa=0=ya
+DEM-pues 2sPRON DEM=B2s=2s
+'Es a vos'
+(38) A=tzan tee'
+(39) ma
+0=kyaj n-ma-'n=a
+PROX B2s=DIR
+'te digo,'
+(40) xq'uuqa-n-'ook-a
+aj
+awal
+luu' aj
+cheenq'.
+cuidar-IMP-DIR=2s DEM siembra aquí DEM frijol
+'cuida esta siembra de frijol.'
+(41) Al-ky-ee=j
+aleq' nn=0=uul
+INT=A3p-SR=DEM ladrón INC=B3s=DIR
+'¿Quién es el ladrón que viene aquí?"
+(42) 0-chi-tzan
+xjaal kyja'.
+B3s-decir-pues persona así
+'dijo la persona así,'
+(43) 0-chi-tzan
+B3s-decir-pues A3s-dueño-ABST
+'dijo el dueño del frijolar.'
+(44) N=0=xi'=tzan
+t-ee-ya.
+A2s-decir-SD=1s/2s A2s-SR:DAT=2s
+ja’la,
+INC-B3s-ir-pues ahora
+'Se fue ahora,'
+(45) n=0=kyej=tzan
+t-ajaw-iil
+(46) Ma-0-tzan
+q'o-'n ja’la.
+INC=B3s=DIR=pues dar-SD ahora
+'se fue dejado.'
+(47) n=0=poon-tzan
+poon ja'la
+PROX=B3s-pues llegar ahora
+'Cuando llegó,'
+INC=B3s=llegar-pues tío
+'llegó el tío a comer,'
+(48) tiiya koneej waa'-l
+tiiya waa'-l
+(50) Nn=0=eetz-tzan
+cheenq'
+frijol
+comer-INF
+t-i’j
+cheenq'.
+tío conejo comer-INF A3s-SR:PAC frijol
+'el tió conejo a comer el frijolar.'
+(49) Sabeer tii oora=la n=0=poon=tzan
+INC=B3s=DIR=pues
+'La cera lo espantó,'
+a.saber quéhora-MIR INC-B3s-llegar-pues
+'A saber a qué hora llegó.'
+aaj
+regresar
+ja’la,
+ahora,
+ja'la.
+ahora
+seky'pu-'n t-u’n
+xlitz'
+espantar-SD A3s-SR:por cera
+5

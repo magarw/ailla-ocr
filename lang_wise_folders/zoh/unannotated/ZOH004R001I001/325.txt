@@ -1,0 +1,62 @@
+\lex jetz=tzik
+\_no 00751
+\LG MIG
+\PSH [jetztzik-]
+\UND jetz-tzik
+\MB rascar, pelar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 aran~ar
+\SPG 2 pelar
+\ENG 1 to scratch
+\ENG 2 to skin
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 jetz
+\RTGR 1 T3
+\ROOT 2 tzik
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/96
+\lex jetz-y@7kx
+\_no 00752
+\LG MIG
+\PSH [jetzy@7kx-]
+\UND jetz-y@7kx
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG remover rascando
+\ENG to remove or stir by scraping
+\EXU 7@y+ jetz-y@7kx-w@ x@k
+\XPSH [7@y jetzy@7kx@ x@k.]
+\XSP Removio* el frijol.
+\XEN She scraped out the beans.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 jetz
+\RTGR 1 T3
+\ROOT 2 y@7kx
+\RTGR 2 Ix
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\lex jex
+\_no 00753
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+\UND jex
+Page 325

@@ -1,0 +1,63 @@
+\XSP voy a hacer brincar esta rana verde
+\XEN I'm going to make this green frog jump
+\ROOT kek T1
+\CMTS caus yak.kek hacer brincar
+\lex kekx
+\_no 00072
+\SPG despeltrar; desestillarse, como madera, olla
+\ENG to chip; to splinter, like wood or a pot
+\EX
+\XSP
+\XEN
+\ROOT kekx T3
+\CMTS antip kekx. 7oy
+\CMTS pass kekx.7@m astillarse
+\lex keo
+\_no 00073
+\SPG brillar
+\ENG to shine; to reflect
+\EX keopa_m@jm@
+\XSP brilla bastante
+\XEN it shines a lot
+\EX keopa
+\XSP una cosa que brilla
+\XEN something shiny
+\ROOT keyo 12
+\CMTS caus yak.keo hacer brillar ma*s (hay que limpiarlo)
+\CMTS it's when the sun strikes a shiny object, keopa refers to the
+reflected light
+\lex kep
+\_no 00074
+\SPG patear
+\ENG to kick
+\EX 7@y kepxukk@
+\XSP lo patearon
+\XEN they kicked him
+\EX kepkepneyy@
+\XSP lo pataleo*
+\XEN they kicked him a lot
+\EX 7@n kepp@ manhkuy winjo*nh
+\XSP le dio* un puntapie
+\XEN he kicked him
+ZOH001R0611011.txt
+\EX kepp@mpa bi nax
+\XSP esta* suelto la tierra (para sembrar)
+\XEN the earth is turned (for sowing)
+\ROOT kep P (T3)
+\CMTS antip kep.7oy patear atra*s (como caballo)
+\CMTS pass kep.7@m
+\CMTS assum1 kep.ney patalear
+\CMTS kick backwards, not forwards
+\lex ket
+\_no 00075
+\SPG tapar; envolver con cobija o con sa*bana
+\ENG to cover; to wrap with a blanket or a sheet
+\EX 7@y kett@ 7@y win
+\XSP se tapo*
+\XEN she covered herself
+-
+-
+\ROOT ket P (T3)
+\CMTS antip ket.7oy
+\CMTS pass ket.7@m taparse
+Page 16

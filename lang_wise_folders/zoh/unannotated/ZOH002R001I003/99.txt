@@ -1,0 +1,41 @@
+frequently in the corpus, always immediately after a noun phrase, and never
+appear independently. +ho? is the only unstressed monosyllabic form in the
+set. When it is postposed to a noun, stress appears on the final syllable of that
+noun: kócək => kocákho?.
+The indeterminacy between these two word classes is certainly not unique
+to MIG Zoque - the English word 'down' exhibits the same behavior. Generally,
+if a word appears in an independent position even once, I class it with the
+adverbs, and if most of the words based on a root morpheme (like cap) are
+adverbs, I put the rest of the similarly-based lexemes in the adverb class, too.
+The exception to this algorithm are the four stress-altering ?aŋ- lexemes
+mentioned above.
+(4.26)
+(i)
+(ii)
+(iii)
+(iv)
+yechukkø tøk'angjø juxtix'anghi'
+0 yec-šuk-wə
+tək?aŋhəŋ huštiš+?aŋji?
+3A llegar-3PL-COM San Miguel autoridad+LOC3
+'Llegaron en San Miguel en la presidencia.'
+nøkpa ga'xe maryo lopes 'angjø' 'øn tzakkømmø
+nək-pa ga.?še maryo lopes+?aŋhəŋ ?ən+cak.?ǝm-wǝ
+ir-INC DCT3.SIM mario lopez+DIR5
+1E+dejar.PAS-COM
+'Voy ontal Mario Lopez para quedarme.'
+'øn tøk teji'awø maxantøk'angjong
+?ǝn+ tək tehi.?a-wə
+mašan=tək+?aŋhǝəŋ
+1E+ casa hay.VERS1-COM sagrado=casa+DIR7
+'Mi casa está al lado de la iglesia.'
+tennø bi mixtu naxjo'
+0 ten-we
+bi mištu? naš+ho?
+3A pararse-COM DEF gato tierra+LOC2
+'El gato está parado en el suelo.'
+(ZOH001R011–003)
+74
+(ZOH001R055-007)
+(ZOH001 R0601001-078)
+(ZOH001 R0601001-059)

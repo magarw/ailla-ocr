@@ -1,0 +1,63 @@
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ko7kx
+\RTGR I1
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex yuk.kom
+\_no 04274
+\LG MIG
+\PSH [yukkom-]
+\UND yuk. kom
+\MB ARR, remendar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG levantar una estivada de trastes
+\ENG to pick up a stack of dishes
+\SPL
+\SLGR
+\EXU yuk. kom-A' de traste
+\XPSH [Yukkom@ de traste!]
+\XSP ! Levante la estivada de los trastes!
+\XEN Pick up that stack of dishes!
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kom
+\RTGR T3
+\DSRC HAJ95
+\CMTS CK-EX HAJ:96 ok
+\date 20/Jun/96
+\lex yuk.konh
+\_no 04275
+\LG MIG
+\PSH [yukkonh-]
+\UND yuk.konh
+\MB ARR, gatear
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG levantarse
+\ENG to get up
+\SPL yak.yuk.konh
+\SLGR CAUS
+\SLGL levantar // to lift
+\EXU
+ZOH004R0011001.txt
+\XSP
+\XEN
+\SYN
+\SEMF
+Page 1836

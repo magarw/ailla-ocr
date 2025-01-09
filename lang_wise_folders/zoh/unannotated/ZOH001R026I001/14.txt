@@ -1,0 +1,68 @@
+\zoq "Yam t@77@m@," 7@y_n@mjayy@.
+\fts "No sirves," le dijo.
+\fte "You're not wanted," he said to him.
+\ref ZOH001R026 074
+\_no 00065
+\tx ya m t@77@m@
+\mb ya 7@m t@7
+-7@m -A
+\sg1 NEG 2A querer-PAS -NINC
+\eg1 NEG 2A want -PASS-NINC
+\zoq "Yam t@77@m@.
+\fts "No sirves.
+\fte "You're not wanted.
+\ref ZOH001R026 075
+\_no 00066
+ke mix
+\tx dey
+\mb te
+-y ke mix pa7t
+\sg1 DCT2-TMP que 2Prn
+\eg1 DCT2-TMP that 2 Prn
+find
+pa7tta*m
+mix k@xpa
+-w@ -7am mix k@x -pa
+encontrar-COM-YA 2Prn comer -INC
+-COM-NOW 2Prn eat -INC
+\zoq Dey ke mix pa7tta*m, mix k@xpa.
+\fts "Ahora que ya te encontre* te voy a comer."
+\fte "Now that I've met you, I'll eat you.
+\ref ZOH001R026 077
+\_no 00067
+\tx 7@y tzanhkage7tt@
+\mb 7@y
+tzanh-ka7
+\sgl 3E pegar-morirse-REPET-COM
+\egl 3E hit -die
+\ref ZOH001R026 078
+\_no 00068
+\tx 7@y k@xx@
+\mb 7ay k@x
+\sgl 3E
+\egl 3E
+-ke7t -w@
+-REPET-COM
+\zoq 7@y tzanhkage7tt@.
+fts Lo volvio* a matar de un manazo.
+\fte Again he killed it with one blow of his paw.
+tunhnhaw@
+tunh
+ZOH001R0261001.txt
+bi jon
+-wa bi jon
+comer-COM DEF pa*jaro
+eat -COM DEF bird
+\zoq 7@y k@xx@ bi jon.
+\fts Lo comio* el pa*jaro.
+\fte He ate the bird.
+\ref ZOH001R026 079
+\_no 00069
+\tx
+7@y n@kke7tt@
+\mb
+-7a -w@ 7@y nak -ke7t -w@
+\sg1 camino-VERS1-COM 3E irse-REPET-COM
+\egl road -VERS1-COM 3E go -REPET-COM
+\zoq Tunhnhaw@ 7@y n@kke7tt@.
+Page 14

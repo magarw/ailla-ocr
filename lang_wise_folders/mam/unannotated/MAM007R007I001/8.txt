@@ -1,0 +1,72 @@
+(83) qa at=0
+ma
+si EXIST=B3s PROX B3s-encontrar-PAS
+'si encuentro algo,'
+(84) 0-chi-tzan
+xjaal.
+B3s-decir-pues persona
+'dijo la persona.'
+(85) N=0=tzaaj=tzan=ta
+INC=B3s=venir-pues=3sENF
+'Vino el cuervo'
+(86) lip
+(87) Kuu
+t-ook-jal
+maax t-witz
+xaq t-uj
+AFEC:volando A3s-entrar=CL hasta A3s-SR:sobre peña A3s-SR:en
+nimaal t-ooky' jul jatuu'ma oo-taq,
+t-uj
+CPL=PERF A3s-SR:en
+grande A3s-hoyo cueva dónde
+ky-jaa
+está.bien
+'Está bien, dijo,'
+(88) n=ku'=tz=tzan
+(89) t-kub'
+0=kan-eet
+nimaal t'iiw
+A3p-casa AUM
+águila
+'volando entró en la peña, en la cueva grande por donde estaba, en la cueva
+de los águilas.'
+0-chi-tzan-jal
+B3s-decir-pues-CL
+A3s-bajar A3s-SR:sobre
+'hasta llegar a la tierra.'
+iiqa-n xjaal t-u'n-jal
+INC=DIR=DIR=pues cargar-SD persona
+lo bajó cargando a la persona,
+t-witz
+(90) Nn=0=eel-tzan
+(91) b'ix at 0
+b'eet
+xjaal
+INC=B3s=DIR=pues caminar persona
+'Se fue caminando la persona ahora,'
+jooj
+cuervo
+(93) ma='
+tx'otx'.
+tierra
+y
+'y había un pedazo de milpa cerca.'
+(92) Mii'na jooj chjoo-n=ta
+NEG
+cuervo pagar-AP=2sENF
+'No, cuervo, te doy gracias,'
+w-u'n=a,
+(94) Qoo w-uuk'al
+Als-SR:AGT=1s
+vamos Als-SR:COM
+'Vamos conmigo'
+jun miiij kjo'n tok naqaa'.
+EXIST=B3s un mitad milpa puesto cerca
+ja’la,
+A3s-SR:AGT=CL ahora
+chin ku'=tz t-iiqa-n=a.
+PROX=ENF Bls DIR=DIR A3s-cargar-SD=2s
+'que me bajaste.'
+ja'la,
+ahora
+9

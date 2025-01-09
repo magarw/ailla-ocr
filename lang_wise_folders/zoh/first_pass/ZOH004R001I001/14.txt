@@ -1,0 +1,63 @@
+\_no 00032
+\LG MIG
+\PSH [7amint@7k]
+\UND 7amint@7.k
+\MB an~o, X
+\VAR
+\GRAM av
+\SPG el an~o pasado
+ENG last year
+\SPL
+\SLGR
+\EXU 7amint@7k tij-tam-w@ 7@n+ yox-tam-E forti*n
+\XPSH [7amint@7k tijtamm@n yoxtame Forti*n.]
+\XSP ET an~o pasado fuimos a trabajar en Forti*n.
+\XEN Last year we went to work in Forti*n.
+\EXU
+\XPSH
+\XSP
+\XEN
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex 7amint@'. 7aH
+\_no 00033
+\LG MIG
+\PSH [7amint@7a-]
+\UND 7amint@7.7aH
+\MB an~o, VERS1
+\VAR
+\GRAM vers1
+\SCI
+\USE
+\SPG cumplir an~os
+\ENG to have a birthday
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS ANALYSIS
+\date 02/Oct/96
+\lex 7amma
+\_no 00034
+\LG MIG
+ZOH004R0011001.txt
+\PSH
+\UND prob //7am.7a//
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG mirar; ver
+\ENG to look; to see
+Page 14

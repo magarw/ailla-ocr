@@ -1,0 +1,66 @@
+\LG MIG
+\UND [kaw@* 7k 7@y monhkuy7]
+\MB ka7-w@ +P@7k 7@y+ monh.kuy7
+\VAR morirse, COM, REL, 3Erg, dormir, INSTR1
+\GRAM sps
+\SCI
+\USE
+\SPG cajo*n del muerto
+\ENG coffin
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 ka7
+\RTGR 1 12
+\ROOT 2 monh
+\RTGR 2 P
+\DSRC HAJ95
+\CMTS fixed PH: TK
+\date 24/Jun/96
+\lex kej
+\_no 01221
+\LG MIG
+\PSH
+\UND kej
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG verse
+\ENG to appear
+\SPL yak.kej
+\SLGR CAUS
+ZOH004R0011001.txt
+\SLGL ensen~ar; dar a saber // to teach
+\EXU 1 kej-w@ 7@y+ jaya
+\XPSH 1 [Kejjay jaya.]
+\XSP 1 Se vio* su marido; se encontro* su marido
+\XEN 1 Her husband appeared.
+\EXU 2 da kej-w@ win.ko.7ix.kuy'+jo7
+\XPSH 2 [D@ kejja winko7ixkuyj07.]
+\XSP 2 Me vi* en el espejo.
+\XEN 2 I saw myself in the mirror.
+\SYN
+\SEMF perception
+\ASP achievement
+\ARG
+\NOM kej.naanh
+\SUB jo.kej-tuk. 'oy-pa+a7k, tzam-kej, win-kej.ke7t, yuk.kej
+\ETYM
+\ETL
+\ROOT kej
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\CMTS CK-GL
+HAJ:96. don't believe this, but now he only glosses it as
+\CMTS 'she met her husband and then they got married'; TK: una cosa que se
+Page 531
+-

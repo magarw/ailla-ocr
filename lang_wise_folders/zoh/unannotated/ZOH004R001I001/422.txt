@@ -1,0 +1,63 @@
+\SPG cual
+\ENG which
+\SPL
+\SLGR
+\EXU 1 juti7_7@y+ juy-w@ bi yomaa7
+\XPSH 1 [Juti 7@y juyy@ bi yoma*7?]
+\XSP 1 ?Cual es el que compro* la mujer?
+\XEN 1 which one did the woman buy?
+\EXU 2 juti7k tam 7@m+ k@x-pa
+\XPSH 2 [Juti7k t@m 7@m k@xpa?]
+\XSP 2 ?Cual de las frutas vas a comer?
+XEN 2 which fruit are you going to eat?
+\EXU 3 juti' geta 7@m+ juy-wa
+\XPSH 3 [Juti geta 7@m juyy@?]
+\XSP 3 ?Onde lo compraste? (no voy a creer que lo compraste)
+\XEN 3 what on earth did you buy? (I can't believe you bought that)
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\DATE 03/Jan/1980
+\lex jutiya7
+\_no 00964
+\LG MIG
+\PSH
+\UND {ju}tiya7
+\MB
+\VAR
+\GRAM int
+\SCI
+\USE
+\SPG cuando
+\ENG when
+\EXU jutiya' 7@m+ n@k-pa
+\XPSH [Jutiyam n@kpa?]
+\XSP ?Cuando te vas?
+\XEN when are you going?
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\DATE 03/Jan/1980
+ZOH004R0011001.txt
+\lex jutiinh
+\_no 00965
+\LG MIG
+\PSH [juti*nh]
+\UND jutiinh
+\MB
+\VAR
+\GRAM int
+\SPG de adonde
+\ENG from where
+\SPL
+\SLGR
+Page 422

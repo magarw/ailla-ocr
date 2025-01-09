@@ -1,0 +1,75 @@
+\fte He says, "Give me some room.
+\com
+\idx
+\ref ZOH001R005 018
+\_no 00019
+\tx 7@n k@xpa;
+\mb
+7@n k@x
+-pa
+\sgl 1E
+comer-INC
+\egl 1E eat - INC
+\zoq 7@n k@xpa.
+\fts Lo voy a comer.
+\fte I'm going to eat it.
+\com
+\idx
+\ref ZOH001R005 019
+\_no 00020
+\tx dax n@kpan
+\mb d@x n@k -pa -7@n
+\sg1 1Prn irse-INC-1E
+\egl 1prn go -INC-1E get
+p@kkoyy@
+p@k
+\zoq D@x_n@kpan p@kkoyy@ mas.
+\fts Yo voy a traer ma*s."
+\fte I'm going to bring more."
+\com
+\idx
+\ref ZOH001R005 021
+\_no 00022
+-7oy -wa
+agarrar-ANTIP-dINC
+"I
+\ref ZOH001R005 020
+\_no 00021
+\tx pe jub@m
+\mb
+\sg1 pero donde-DUBIT-2E
+\egl but where-DUBIT-2E go -INC-2E get
+n@kpa*m
+pakka;
+pero ju7 -b@7 -7@m n@k -pa -7@m p@k
+\ref ZOH001R005 022
+\_no 00023
+ZOH001R0051001.txt
+mas;
+mas
+mas
+-ANTIP-DINC more
+\zoq "Peru jub@7 n@kpa 7@m p@kk@,
+\fts "Pero en donde lo vas a traer,
+\fte "But where are you going to get it,
+\com
+\idx
+\tx si de 7apenas d@ tziwa;
+\mb si de 7apenas d@ tzi7-wa
+\sgl si de apenas 1A dar -COM
+\egl if of hardly 1A give-COM
+-wa
+irse-INC-2e agarrar-dINC
+\zoq si de 7apenas d@ tziwa?
+\fts si apenas me dio*?
+\fte if he just gave it to me?
+\com
+\idx
+\tx
+bi
+senyor d@ tziw@;
+\mb bi senyor d@ tzi7-w@
+\sg1 DEF sen~or 1A dar -COM
+\eg1 DEF mister 1A give-COM
+Page 5
+-DINC

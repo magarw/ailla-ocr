@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [jipx@7]
+\UND jipx@.A7
+\MB quemarse, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG calentura
+\ENG fever
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jipx
+\RTGR 12
+\DSRC HAJ94
+\CMTS CK-PH - ok
+\date 03/Jan/80
+\lex jipx.@7 [2]
+\_no 00084
+\LG MIG
+\PHO [jipx@7]
+\UND jipx.A7
+\MB quemarse, NOM2
+\VAR
+\GRAM SV
+\SPG quemado
+\ENG burned, overcooked
+\EX X@k jipx.@7
+\XPSH [x@k jipx@*7]
+\XSP frijoles quemados
+\XEN burned beans
+\EX jipx.@7+k x@k
+\XPSH [j1px@7k_x@k]
+\XSP frijoles quemados
+\XEN burned beans
+\SYN
+\ROOT jipx
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex ji'tz.i7
+\_no 00085
+\LG MIG
+\PSH [jitzi7]
+\UND ji7tz. E7
+\MB recoger, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG pliegue
+\ENG fold of drapes
+\EXU
+\XSP
+\XEN
+ZOH001R0611004.txt
+Page 35

@@ -1,0 +1,63 @@
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS PH-OK: TK
+\date 25/Jun/96
+\lex potz@k.way7
+\_no 02750
+\LG MIG
+\PSH [potz@kway7]
+\UND potz@k.way7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG de Ixtaltepec
+\ENG from Ixtaltepec
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS CK; analyze; where is Ixtaltepec? HAJ:96, near Tehuantepec
+\date 19/Jun/96
+\lex po7tz
+\_no 02751
+\LG MIG
+\PSH
+\UND po7tz
+\MB
+\VAR
+\GRAM vt
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG poner la mano en forma ma*s o menos plana
+\ENG to put the more or less flat hand down on something
+\SPL
+\SLGR
+\EXU 7@n+ po7tz.ten-pa 7@n+_toto7
+\XPSH [7@n po7tztenpan toto7.]
+\XSP Le puse la mano mi papel.
+\XEN I have my hand flat on my paper.
+\SYN
+\SEMF hand
+\ASP state, achievement
+\ARG
+\NOM
+\SUB po7tz=nuk
+\ETYM
+\ETL
+\ROOT po7tz
+\RTGR TX
+\DSRC TK96
+\CMTS
+\date 03/Jan/80
+Page 1183

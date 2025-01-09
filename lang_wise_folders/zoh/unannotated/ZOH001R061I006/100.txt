@@ -1,0 +1,64 @@
+\SPL pup.ney
+SLGR ASSUM1
+\SLGL amontonarse; regarse // to be piled up; to be scattered
+\SPL pup.ten
+\SLGR PRSV
+\SLGL tener regado // to have spread
+\EXU 7@y+ pup.ten-w@
+\XPSH [7@y puptenn@.]
+\XSP Lo tiene regado amontonado (y ya no lo quiere vender).
+\XEN She's got it spread out in little piles (and now doesn't want to sell
+it).
+\SYN
+\SEMF move
+\ASP activity
+\ARG
+\NOM
+\SUB 7ok.pup.'@y, ko.pup
+\ETYM
+\ETL
+\ROOT pup
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex pux
+\_no 00147
+\LG MIG
+\PSH
+\UND pux
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG deshacer algo de barro no bien "cocido"; desboronar
+\ENG to break up a badly-fired clay object; to crumble
+\SPL pux. 7oy
+\SLGR ANTIP
+\SLGL desboronar // to crumble
+ZOH001R0611006.txt
+\SPL pux.7@m
+\SLGR PASS
+\SLGL desboronarse // to crumble
+\EXU 1 pux. 'oy-w@+@7k
+\XPSH 1 [puxxoyy@*7k]
+\XSP 1 e*1 que lo desborono*
+\XEN 1 the one who made it crumble
+\EXU 2 7@y+ pux-w@ bi nea7
+\XPSH 2 [7@y puxx@ bi nea7.]
+\XSP 2 Le quito* un pedazo de lodo la pared.
+\XEN 2 A piece of mud fell off the wall.
+\SYN
+\SEMF break
+\ASP semelfactive, activity
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT pux
+\RTGR T3
+\DSRC TK94
+\CMTS
+Page 100

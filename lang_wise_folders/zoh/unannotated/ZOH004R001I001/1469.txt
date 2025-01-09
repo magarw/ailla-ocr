@@ -1,0 +1,63 @@
+\USE
+\SPG remedio; medicina
+\ENG remedy; medicine
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 07/Apr/95
+\lex tzoy7=n@7
+\_no 03414
+\LG MIG
+\PSH [tzo*yn@7]
+\UND tzoy7=n@7
+\MB remedio, agua
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG agua de remedio; medicina li*quida
+\ENG liquid medicine
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+\lex tzoy7=tzi7
+\_no 03415
+\LG MIG
+\PSH [tzoytzi-]
+\UND tzoy7=tzi7
+\MB remedio, dar
+\VAR
+\GRAM vt:incorp
+\SCI
+\USE
+\SPG darle remedio
+\ENG to give someone medicine
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT tzi7
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+Page 1469

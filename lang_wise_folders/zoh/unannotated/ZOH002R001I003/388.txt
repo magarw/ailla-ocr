@@ -1,0 +1,42 @@
+(14.7)
+(i)
+(ii)
+(iii)
+(iv)
+'entonse ye'tztzø soldaodøkka
+Pentonse 0 ye?c-wa
+soldado+dǝkkay
+entonces 3A llegar-COM soldado+NPL
+'Entonces llegó los soldados.'
+'entonse yø' soldaodøkka ye'chukkø
+?entonse yə? soldado+dəkkay 0 ye?c-šuk-wə
+entonces este soldado+NPL
+3A llegar-3PL-COM
+'Entonses los soldados llegaron.'
+'øn pøwø 'este tujtáng
+?ən+ pə?-wə
+1E+ dar_a_luz-COM este seis
+'Tuve, este, seis.'
+Peste tuhtaan
+jø tujtáng jejpa
+hə? tujtaaŋ 0 heh-pa
+sí seis 3A vivir-INC
+'Sí, seis viven.'
+(ZOH001R011–002)
+(ZOH001R011–004)
+380
+(ZOH001R053-038)
+(ZOH001R053-039)
+14.2.3. Transitive clauses
+Transitive clauses allow two arguments: an agent and a patient. There
+are also some verb roots, like ci?-, 'dar', that allow a third argument (a
+recipient), and several valency-increasing affixes that add
+add a recipient,
+benefactor, or causer. Since the overt mention of any third argument is
+extremely rare (0.7% of transitive clauses), I counted trivalent clauses in with
+the simple transitives.
+Table 14.4 shows the distribution of overt NPs in transitive clauses. The
+percentage given refers to the total number of transitive clauses. The term
+Dative subsumes all the roles of the third argument - recipient, benefactor, etc.
+In imperative clauses the subject is known to be the second person, so these
+are counted separately.

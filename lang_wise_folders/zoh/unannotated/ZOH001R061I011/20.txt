@@ -1,0 +1,60 @@
+\CMTS touch something hanging in a tree?
+\lex kuj
+\_no 00092
+\SPG empujar
+\ENG to push
+\EX kujtenn@
+\xSP 10 tiene empujado
+\XEN he's got it pushed
+\ROOT kuj T3
+\CMTS antip kuj.7oy
+\CMTS no pass kuj.7@m
+\CMTS prsv kujtenn@
+\lex kum
+\_no 00093
+\SPG enterrar(se)
+\ENG to bury
+\EX 7@y kumm@
+\XSP 1o enterro*
+\XEN he buried someone
+\EX kumm@
+\XSP se enterro*
+XEN it was buried
+\EX d@ kumm@
+ZOH001R0611011.txt
+\XSP me enterro*
+\XEN he buried me
+\EX kumm@w@
+\XSP lo enterraron
+\XEN
+\EX kumm@mma*m bi kaw@*7
+\XSP ya se enterro* e*l que murio*
+\XEN now the corpse was buried
+\ROOT kum T2
+\CMTS pass
+\lex kumm@
+\_no 00094
+\SPG enterrar
+\ENG to bury
+\EX kumm@w@
+\XSP lo enteraron
+\XEN
+\ROOT kumm@ Tx
+\CMTS cf kum: this is probably an ERROR
+\lex kunh
+\_no 00095
+\SPG colgar (como una hamaca)
+\ENG to hang (like a hammock)
+\EX 7@y kunhnh@ kajtzay
+\XSP colgo* la hamaca
+\XEN she hung the hammock
+\EX 7anhkjonh 7@y kunhnh@ / 7@y j@xkunhnh@
+\XSP lo colgo* afuera
+\XEN he hung it outside
+\ROOT kunh P (T3)
+\CMTS antip kunh. 7oy colgar
+\CMTS pass kunh.7@m colgarse
+\CMTS assum1 kunh.ney estar colgado
+\lex kux
+\_no 00096
+Page 20

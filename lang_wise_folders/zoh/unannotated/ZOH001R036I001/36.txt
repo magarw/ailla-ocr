@@ -1,0 +1,74 @@
+\fts Ya empieza hacer ruido en su casa,
+\fte Now it makes a noise in his house,
+\com
+\idx
+\ref ZOH001R036 163
+\_no 00164
+\tx 70 7@y p@jjaba
+7i
+tum toypa*7
+70 7@y pa7 -jay -pa tum toy
+7@y tzokoyjo
+\mb
+-pa -v7k 7@y tzokoy7 -jo7
+\sgl o 3E poner-APPL-INC uno doler-INC-REL 3E corazo*n-LOC2 y
+\egl or 3E put -APPL-INC one hurt -INC-REL 3E
+7i
+-LOC2 and
+\tx kwerpujo
+\mb
+pwes
+kwerpu-jo7 pwes
+\sg1 cuerpo-LOC2 pues
+\egl body -LOC2 well
+\ref ZOH001R036 164
+\_no 00165
+\tx 7onde keda pwes
+\mb donde keda pwes
+\sg1 donde queda pues
+\egl where stays well
+\zoq 70 7@y p@jjaba tum toypa*7 7@y tzokoyjo 7i kwerpujo, pwes.
+\fts le mete un dolor en su corazo*n en su cuerpo, pues.
+\fte or it's put a pain in his heart and well, his body.
+\com
+\idx
+\zoq 7onde keda, pwes.
+\fts En donde queda, pues.
+\fte well, where it is.
+\com
+\idx
+\ref ZOH001R036 165
+\_no 00166
+\tx 7i molestya
+\mb
+7i
+7i
+molestya
+molestia
+\sg] y
+\egl and condition
+\zoq 7i molestya.
+\fts La molesta.
+\fte And condition.
+\com
+\idx
+ZOH001R0361001.txt
+\ref ZOH001R036 166
+\_no 00167
+\tx 7ay gay
+gaji d@ wejxukpa
+ka -ji7 d@ wej
+\mb
+7adyo ka
+-xuk-pa
+-y
+\sg1 luego DCT3-TMP DCT3-LOC1 1A gritar-3PL-INC
+\egl later DCT3-TMP DCT3-LOC1 1A shout -3PL-INC
+\zoq 7ay gay gaji d@ wejxukpa.
+\fts De ahi* me llaman.
+\fte Then they call me.
+\com
+\idx
+\ref ZOH001R036 167
+heart
+Page 36

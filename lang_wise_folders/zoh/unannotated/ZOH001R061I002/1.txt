@@ -1,0 +1,64 @@
+\id C:\SHOUT\LEXSEM.TXT
+\lex 7amma
+\_no 00001
+\SPG mirar; ver
+\ENG to look; to see
+\SEMF perception
+\ASP activity
+\ARG agent, patient
+\NOM 7amma.kuy7
+\RTGR T1
+\POS rroberto d@ 7ammaw@
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\ASP activity, process
+\ARG patient
+\NOM 7an.e, 7an.kuy7
+\RTGR 12
+\POS N
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex 7anh-je7k
+\_no 00003
+\SPG tener miedo
+\ENG to be afraid
+\SEMF cognitive
+\ASP state
+\lex 7an
+\_no 00002
+\SPG calentarse porque esta* cerca de la lumbre
+\ENG to warm up because you're near the fire
+\SEMF temp, body
+\ARG
+\NOM 7anh-je7k.kuy7 7anhnitpa
+\RTGR 12
+\POS rroberto d@ yanhje7kk@
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex 7anh-may
+\_no 00004
+\SPG ensen-ar; aprender
+ENG to teach; to learn
+\SEMF cognitive
+\ASP activity
+\ARG
+ZOH001R0611002.txt
+28/Oct/04
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex 7apx
+roberto me vio*
+\NOM 7anh-may. kuy7-t@k, 7anh-may.kuy7
+\RTGR T3
+\POS rroberto d@ 7anhmayy@
+roberto me espanto*
+roberto me ensen o
+Page 1

@@ -1,0 +1,87 @@
+\idx
+\ref ZOH001R048 014
+\_no 00015
+\tx HAJ: 7i tim
+\mb HAJ
+ti
+7i
+ma7@ba
+-7@m ma7 -7@y -pa
+venta-VERS2-INC
+\egl HAJ: and what-2E sale -VERS2-INC
+\sg1 HAJ: y
+que -2E
+\zoq HAJ: 7i tim ma7@ba?
+\fts HAJ: Y que vendes?
+\fte HAJ: And what did you sell?
+\com
+\idx
+\ref ZOH001R048 015
+\_no 00016
+\tx
+FMH: pwes n@kpan
+\mb FMH pwes n@k -pa -7@n
+\sg1 FMH pues irse-INC-1E
+\eg1 FMH well go -INC-1E
+\tx koke.
+\mb koke
+\sg1 pescado
+\egl fish
+\ref ZOH001R048 016
+\_no 00017
+\tx 7ay
+\mb 7ay
+\sg] hay
+\egl there are
+\zoq FMH: Pwes, 7ay beses n@kpan matz@kk@ koke.
+\fts FMH: Pues voy hay veces voy a vender pescado.
+\fte FMH: Well, there are times I go sell fish.
+\com
+\idx
+beses koya.
+beses koya7
+veces tomate
+times tomato
+\zoq 7ay beses koya7.
+\fts Hay veces tomate.
+\fte Sometimes tomatoes.
+\com
+\idx
+\ref ZOH001R048 017
+\_no 00018
+ZOH001R0481001.txt
+7ay
+beses n@kpa
+n
+7ay
+beses n@k -pa 7@n
+hay
+veces irse-INC 1E
+there are times go -INC 1E
+\tx 7ay
+\mb 7ay
+\sg1 hay
+veces esde
+\egl there are times um
+beses 7esde pwes pan.
+beses 7esde pwes pan
+pues pan
+well bread
+\zoq 7ay beses, 7esde, pwes, pan.
+\fts Hay veces, 7esde, pues,
+pan.
+\fte Sometimes, um, well, bread.
+\com
+\idx
+\ref ZOH001R048 018
+\_no 00019
+\tx de7xe
+kosa k@xikuy.
+\mb te -7xe kosa k@x -E -kuy7
+Page 4
+matz@kk@
+ma7
+-tz@k -w@
+venta-hacer-dINC
+sale -do
+-DINC

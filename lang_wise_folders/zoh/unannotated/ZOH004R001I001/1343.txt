@@ -1,0 +1,63 @@
+\USE
+\SPG desmoronar; hacer pedazos; despedazar
+\ENG to crumble; to break into pieces
+\SPL tu7p.7oy
+\SLGR ANTIP
+\SLGL desmoronar // to crumble
+SPL tu7p.7@m
+\SLGR PASS
+SLGL desmoronarse // to be crumbled up
+\EXU 1 7@y+ tu7p-w@ bi 7an(.e)=jax.e
+\XPSH 1 [7@y tu7ppa bi 7anjaxe.]
+\XSP 1 Quebro* el totopo.
+\XEN 1 She crumbled the totopo.
+\EXU 2 tu7p.7@m-w@ bi 7an.e
+\XPSH 2 [Tu7pp@mm@ bi 7ane.]
+\XSP 2 Se desborono* la tortilla.
+\XEN 2 The tortilla crumbled.
+\EXU 3 7@y+ tu7p.ten-w@ bi 7an.e
+\XPSH 3 [7@y tu7ptenn@ bi 7ane.]
+\XSP 3 Tiene desboronado la tortilla (para dar a los pollitos).
+\XEN 3 She has the tortilla crumbled up (to give to the chicks).
+\SYN
+\SEMF break
+\ASP accomplishment
+\ARG
+\NOM tu'p.17
+\SUB pen=tu7p
+\ETYM
+\ETL
+\ROOT tu7p
+\RTGR T3
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS tortilla, galleta, queso, de comida
+\CMTS crumble, not break
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex tu7px
+\_no 03122
+\LG MIG
+\PSH
+\UND tu7px
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG jetelte
+\ENG that sets your teeth on edge, astringent
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS = Guat. tetelte
+\CMTS_tu7px=tz@k no tiene razo*n
+\CMTS se trata de una cosa que no esta* bien maduro, se pica en la lengua
+\date 28/Jan/96
+Page 1343

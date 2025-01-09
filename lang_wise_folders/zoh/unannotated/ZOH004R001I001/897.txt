@@ -1,0 +1,62 @@
+\SPG cuerno de venado
+\ENG deer horn
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex m@a'=tuj-pa+a7k
+\_no 02079
+\LG MIG
+\PSH [m@atujpa*7k]
+\UND_m@a7=tuj-pa +P@7k
+\MB venado, tirar, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG cazador de venado
+\ENG deer hunter
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tuj
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex m@jm@
+\_no 02080
+\LG MIG
+\PSH
+\UND m@jma
+\MB
+\VAR
+\GRAM AR
+\SCI
+\USE
+\SPG bastante; mucho
+\ENG much; many; a lot (of)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM *m@j
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+ZOH004R0011001.txt
+Page 897

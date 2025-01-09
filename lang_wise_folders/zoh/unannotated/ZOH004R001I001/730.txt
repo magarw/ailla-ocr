@@ -1,0 +1,62 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT mon
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 22/Jun/96
+\lex k@.mux. '@y
+\_no 01690
+\LG MIG
+\PSH [k@muxx@y-]
+\UND k@.mux.7@y
+\MB FUERA, saber, SUF
+\VAR
+\GRAM vt
+\SPG informarse
+\ENG to tell someone something
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT mux
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 22/Jun/96
+\lex k@.nakx
+\_no 01691
+\LG MIG
+\PSH [k@nakx-]
+\UND k@.nakx
+\MB FUERA, pegar
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG rozar
+\ENG to raze
+\EXU win-yawa-k@.nakx-w@
+\XPSH [winyawak@nakx@.]
+\XSP Rozo* el monte.
+\XEN He razed the hillside
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nakx
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 12/Jan/96
+\lex k@.nakx.e
+\_no 01692
+\LG MIG
+\PSH [k@nakxe]
+\UND k@.nakx.E
+\MB FUERA, pegar, NOM7
+\VAR
+ZOH004R0011001.txt
+Page 730

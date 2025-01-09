@@ -1,0 +1,96 @@
+\com
+\idx
+\ref ZOH001R011 086
+\_no 00087
+\tx da tujtamm@
+\mb d@ tuj - tam -w@
+\sgl 1A tirar-1/2 PL-COM ni uno 1E NEG 1E
+\egl 1A shoot-1/2PL-COM no one 1E NEG 1E
+\ref ZOH001R011 087
+\_no 00088
+\zoq D@ tujtamm@, ni tum n yan tzidamm@.
+\fts Le tiramos, ni uno no le pegamos.
+\fte we fired, but we didn't hit one.
+\com
+\idx sp
+kambyo de7
+kambyo te -7
+\tx tzawi 7@y yakkaw@
+\mb tzawi7 7@y yak -ka7
+\sg1 mono 3E
+\egl monkey 3E CAUS-die
+ya
+n
+ni tum n
+tzidamm@
+ni tum 7@n ya 7@n tzi7 -tam -wa
+pegar-1/2PL-nCOM
+hit -1/2PL-nCOM
+\tx 7in
+\mb 7in
+\sg1 nublarse cambio
+DCT2-NOM1 dos
+\egl get_cloudy exchange DCT2-NOM1 two
+\tx 7i
+\mb 7i
+\ref ZOH001R011 088
+\_no 00089
+dey
+te
+CAUS-morirse-COM
+ZOH001R0111001.txt
+-wa
+-COM
+\zoq 7in kambyo de7, metzanh ponh 7@y tziw@, 7i metzanh tzawi 7@y yakkaw@,
+\fts In cambio e*1, dos veces le tiro*, y dos changas mato*
+\fte In contrast he, two times he shot, and two monkeys he killed,
+\com
+\idx sp
+metzanh 7une
+-y
+metza*nh
+DCT2-TMP dos
+\sg1 y
+\eg1 and DCT2-TMP two
+7i
+metzanh ponh 7@y tziw@
+metzanh
+metza*nh ponh 7@y tzi7 -w@ 71
+metza*nh
+vez 3E
+pegar-COM y dos
+time 3E hit -COM and two
+7@n p@kmintamm@
+7une7 7@n p@k -min - tam -wa
+nin~o/a 1E agarrar-venir-1/2PL-COM
+child 1E get -come -1/2PL-COM
+\zoq 7i dey metzanh 7une 7@n p@kmintamm@.
+\fts y ahora dos crias llevamos.
+\fte and now we brought back two babies.
+\com
+\idx
+\ref ZOH001R011 089
+\_no 00090
+\tx pwes grasyas n@mpa
+bi tenyente,
+\mb pwes grasyas n@m
+-ра bi tenyente
+***
+\sgl pues gracias decir-INC DEF teniente
+\egl well thanks say -INC DEF lieutenant ***
+\ref ZOH001R011 090
+\_no 00091
+\tx ke mix 7akompantz@ktamm@
+yexkom tz@kpa
+yexkom tz@k -pa
+\zoq Pwes grasyas," n@mpa bi tenyente, "Yexkom tz@kpa, Satornino,
+\fts Pues gracias," dice el teniente, "Gracias, Satornino,
+"I
+\fte well thank you, says the lieutenant, "Thank you, Satornino,
+\com
+\idx
+satornino
+satornino
+hacer-INC Satornino
+do -INC Satornino
+Page 20

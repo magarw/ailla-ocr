@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT jok
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 10/Jan/96
+\lex jom.e
+\_no 00093
+\LG MIG
+\PSH [jome]
+\UND jom. E
+\MB cercar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG cerco de rama
+\ENG a fence made of branches
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jom
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex jom.e'.7aH
+\_no 00094
+\LG MIG
+\PSH [jome7a-]
+\UND jom.E7.7aH
+\MB X, NOM7, VERS1
+\VAR
+\GRAM versl
+\SCI
+\USE
+\SPG hacerse nuevo
+\ENG to be renewed
+\SPL
+\SLGR
+\EXU jom.e'.7aH-w@ bi x@k
+\XPSH [Jome7aw@ bi x@k.]
+\XSP se hizo nuevo el frijol.
+\XEN The bean plant propagated itself.
+\SYN
+SEMF
+\ETYM
+\ETL
+ZOH001R0611004.txt
+\ROOT
+\DSRC HAJ95
+\CMTS when you sow an old bean, the plant grows and creates new ones
+\date 06/Feb/96
+\lex jo.po.e7
+\_no 00095
+Page 39

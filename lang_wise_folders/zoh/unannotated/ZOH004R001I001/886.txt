@@ -1,0 +1,62 @@
+\ASP
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT mum
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex mum.a7
+\_no 02054
+LG MIG
+\PSH [muma7]
+\UND mum.A7
+\MB enjutarse, NOM2
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG capullo
+ENG bud
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT mum
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 19/Jun/96
+\lex mumu
+\_no 02055
+\LG MIG
+\PSH
+\UND mumu
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG asiento, como de ri*o o de cafe*
+\ENG grounds or silt
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 19/Jun/96
+ZOH004R0011001.txt
+\lex mun.kuy7
+\_no 02056
+Page 886

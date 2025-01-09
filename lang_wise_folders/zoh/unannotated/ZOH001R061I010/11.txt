@@ -1,0 +1,62 @@
+\ASSU NONE
+\CMTS v class: can't get this w/o an object
+\lex jay
+\_no 00042
+\SPG dilatar; demorarse
+\ENG to delay
+\EX wen=jay
+\XSP tardarse mucho
+\XEN to delay a lot
+\ROOT jay 12
+\SEMF motion
+\CAUS yak.jay hacer dilatar
+\CMTS
+\lex jay
+\_no 00043
+\SPG escribir
+\ENG to write
+\EX toto jayy@
+\XSP escribio* (algo) en el papel
+\XEN she wrote something on the paper
+\EX jayy@mm@ bi toto
+\XSP fue* escrito el papel
+\XEN the paper was written
+\EX_7@y jaytenna*m bi toto g@xi
+\XSP ya lo tiene escrito en el papel
+\XEN now she has it written on the paper
+\ROOT jay T3
+\SEMF create, cog
+\PASS jay.7@m escribirse
+\ANTI jay.7oy escribir; escritura
+\PRSV jay.ten
+\CMTS term tuk
+\lex jej
+\_no 00044
+\SPG vivir
+\ENG to live
+\EX
+\XSP
+\XEN
+\ROOT jej 12
+\SEMF life
+\CAUS yak.jej dar vida (Dios)
+ZOH001R0611010.txt
+\lex jek
+\_no 00045
+\SPG derrumbarse cosa; una cosa que esta* estivada, amontonada, derrumbada
+\ENG to crumble something stacked up, piled up,
+\EX jekk@ nax
+\XSP se derrumbo* la tierra
+\XEN the earth crumbled
+\ROOT jek IX
+\SEMF fall
+\CAUS yak.jek hacer que se derrumbada
+\CMTS
+\lex jeken
+\_no 00046
+\SPG enrollar mecate, alambre, bejuco...
+ENG to coil - rope, wire, vine...
+\EX 7@y jekentenn@
+Page 11
+■
+■

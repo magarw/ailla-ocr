@@ -1,0 +1,62 @@
+\VAR
+\GRAM pcp
+\SPG tocado
+\ENG played
+\EXU xem.e7+k piesa
+\XPSH [xeme7k piesa]
+\XSP una melodi*a tocada
+\XEN a played melody
+\SYN
+\ROOT xem
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex xe7px.e7
+\_no 00415
+\LG MIG
+\PHO [xe7pxe7]
+\UND xe7px. E7
+\MB hacer_mecate, NOM7
+\VAR
+\GRAM pcp
+\SPG una cosa torcida; es decir, un mecate
+\ENG a twisted thing; that is, a rope
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT xe7px
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex xex.i7
+\_no 00416
+\LG MIG
+\PSH [xexi7]
+\UND xex.E7
+\MB mudar_piel, NOM7
+\VAR
+\GRAM SV
+\SPG mudado; que tiene escama uno
+\ENG peeling; having scaly skin
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT xex
+\RTGR 12
+\DSRC HAJ95
+\CMTS fixed: TK
+\date 26/Jun/96
+\lex xe't.e7
+\_no 00417
+ZOH001R0611004.txt
+\LG MIG
+\PSH [xete]
+\UND xe7t.E7
+\MB frei*r, NOM7
+\VAR
+\GRAM SV
+Page 165

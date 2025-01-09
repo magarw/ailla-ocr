@@ -1,0 +1,110 @@
+\com
+\idx
+\ref ZOH001R036 899
+\_no 00882
+\tx kay
+\mb
+ka -y 7@m ji7p
+\sg1 DCT3-TMP 2E
+\eg1 DCT3-TMP 2E
+7@m ji7pwitupam
+\tx ji7pwi tupam
+\mb ji7p
+\tx teji7aw@
+\mb teji
+-witu7
+mover_c_palo-regresar-INC-YA
+\ref ZOH001R036 900
+\_no 00883
+\tx 7axta ke
+\mb 7axta ke
+\sg1 hasta que
+\eg1 until that
+move_w_stick-return -INC-NOW
+ji7pwi tupam
+-witu7 -pa -7am ji7p
+\sg1 mover_c_palo-regresar-INC-YA
+\egl move_w_stick-return -INC-NOW move_w_stick-return -INC-NOW
+\tx tukneyya*m
+\mb tuk
+\zoq Kay_7@m ji7pwitupam, ji7pwitupam, ji7pwitupam,
+\fts Ya lo vas moviendo, lo mueves, lo mueves,
+\fte Then now you stir it around, stir it around, stir it around,
+\com
+\idx
+-7a -wa
+\sg1 hay
+-VERS1-COM
+\egl there is-VERS1-COM
+minpa
+min
+-pa
+venir-INC 3E
+come -INC 3E
+\ref ZOH001R036 901
+\_no 00884
+\tx de
+-ney -w@ -7am
+\sg] terminarse-ASSUM-COM-YA
+\egl finish
+ZOH001R0361001.txt
+\zoq 7axta ke minpay tzakk@mm@ komo dey teji7aw@.
+\fts hasta que venga a quedar como ahora esta*.
+\fte until it comes to be left like it is now.
+\com <shows the jar of ointment>
+\idx
+\zoq Tukneyya*m ga7.
+\fts Ya esta* hecho eso.
+\fte Now that one's done.
+\com
+\idx
+-ASSUM-COM-NOW
+\ref ZOH001R036 902
+\_no 00885
+\tx kay
+ke
+\mb ka -y ke
+\sg1 DCT3-TMP que
+\eg1 DCT3-TMP that finish
+-pa - 7am
+-witu7
+mover_c_palo-regresar-INC-YA
+y tzakk@mm@
+7@y tzak -7@m -w@
+tukka*m
+tuk
+komo dey
+komo te
+-Y
+dejar-PAS -dINC como DCT2-TMP
+leave-PASS-dINC like DCT2-TMP
+ga7
+ka -7
+DCT3-NOM1
+DCT3-NOM1
+si m
+-w@ -7am si 7@m
+terminarse-COM-YA si 2E
+-COM-NOW if 2E
+n@mmoba
+-pa -7am
+p@pi7t
+IKEA
+\mb te -7
+p@7-pi7t n@m-7oy
+-ра
+\sg1 DCT2-NOM1 DEM-INSTR DO -ANTIP-INC 2E
+\eg1 DCT2-NOM1 DEM-INSTR DO -ANTIP-INC 2E
+put
+Page 191
+si m xitko7@yy@
+si 7@m xitko7 -7@y-w@
+si 2E catarro-SUF-COM
+if 2E phlegm -SUF-COM
+m
+p@jayya*m
+7@m win
+-7am 7@m win
+7@m p@7 -jay -wa
+poner-APPL-DINC-YA 2E REFL
+-APPL-DINC-NOW 2E REFL

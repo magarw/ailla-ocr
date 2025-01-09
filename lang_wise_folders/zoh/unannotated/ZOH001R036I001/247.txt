@@ -1,0 +1,74 @@
+\zoq Yuchi yuchi 7@m tz@kpa.
+\fts Muy pedasito lo haces.
+\fte Fine fine you make it.
+\com
+\idx
+\ref ZOH001R036 999-164
+\_no 01146
+\tx yak 7i m p@pa
+\mb yakk@ 7i 7@m
+\sg1 VOL
+medyu litru de n@7
+p@7 -pa medyu litru de n@7
+poner-INC medio litro de agua
+\eg1 VOL and 2E put -INC half liter of water
+y
+2E
+-
+\zoq Yak 7im p@pa medyu litru de n@7.
+\fts y le echas medio litro de agua.
+\fte And you put in half a liter of water.
+\com
+\idx
+\ref ZOH001R036 999-165
+\_no 01147
+\tx
+70 si m tz@kt@pa
+\mb 70 si 7@m tz@k -t@7
+\sg] o
+\egl or if 2E
+si 2E hacer-querer-INC mas DO -ANTIP-INC 2E
+do
+\tx 7otro medyu
+\mb
+7otro medyu
+\sgl otro medio
+\egl other half
+ZOH001R0361001.txt
+\com
+\idx
+\ref ZOH001R036 999-166
+\_no 01148
+\tx 7asyeske tum kwartu
+\mb 7asyeske tum kwartu
+\sg1 asi_es_que uno cuarto
+\egl so
+one room
+mas
+n@mmoba
+m p@jage7tpa
+-pa mas n@m-7oy -pa 7@m p@7 -jay -ke7t -pa
+poner-APPL-REPET-INC
+-want -INC more DO -ANTIP-INC 2E put -APPL-REPET-INC
+\zoq 70 sim tz@kt@pa_mas_n@mmobam p@jage7tpa 7otro medyu.
+fts 0 si quieres hacer mas le puedes echar otro medio.
+\fte or if you want to make more, you can put in it again another half.
+\com
+\idx
+\zoq 7asyeske tum kwartu.
+\fts Asi* es que es un cuarto.
+\fte so that's a quart.
+\zoq 7adyom_yakyumpa.
+\fts Luego lo hierves.
+\fte Then you boil it.
+\com
+\idx
+\ref ZOH001R036 999-167
+\_no 01149
+\tx 7adyo m yakyumpa
+-pa
+\mb 7adyo 7@m yak -yum
+\sg1 luego 2E CAUS-hervir(se) - INC
+\egl later 2E CAUS-boil
+- INC
+Page 247

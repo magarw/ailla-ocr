@@ -1,0 +1,63 @@
+\_no 02552
+\LG MIG
+\PSH [patanux 7@y mok pak]
+\UND patanux 7@y+ mok pak
+\MB pla*tano, 3Ērg, mai*z, hueso
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG "mazorca" del pla*tano, donde va a venir la flor
+\ENG "bud" of the banana, where the flower will appear
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex patanux nax
+\_no 02553
+\LG MIG
+\PSH
+\UND patanux nax
+\MB pla*tano, tierra
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG platanal
+\ENG banana plantation
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 16/Oct/94
+\lex patu
+\_no 02554
+\LG MIG
+\PSH
+\UND patu
+\MB
+\VAR patuj
+\GRAM S
+\SCI
+\USE
+\SPG pato
+\ENG duck
+ZOH004R0011001.txt
+\EXU t@k+jo+7k patu
+\XPSH [t@kjo7k patu]
+\XSP pato de casa
+\XEN domestic duck
+Page 1099

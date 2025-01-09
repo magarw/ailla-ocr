@@ -1,0 +1,60 @@
+\PASS tzo7t.7@m arrancarse
+\ANTI tzo7t.7oy arrancar
+\CMTS
+\lex tzukx
+\_no 00144
+\SPG pellizcar
+\ENG to pinch
+\EX
+\XSP
+\XEN
+\ROOT tzukx T3
+\SEMF touch, hand
+\PASS NONE tzukx.7@m *
+\ANTI tzukx. 7oy
+\CMTS
+\lex tzu7t
+\_no 00145
+\SPG cortar (cafe*) sin pico
+\ENG to pick coffee
+\EX kajwe=tzu7tt@
+\XSP 1o corto* cafe* sin pico
+\XEN
+\EX j@xtzu7tt@mm@ 7@y t@tz
+\XSP se arranco* su diente
+\ROOT tzu7t T3
+\SEMF farm, cut, obj
+\PASS tzu7t.7@m cortarse
+\ANTI tzu7t.7oy cortar cafe* sin pico
+\CMTS
+\lex tz@k
+\_no 00146
+\SPG hacer
+\ENG to do
+\EX
+\XSP
+\XEN
+\ROOT tz@k T3
+\SEMF do
+\PASS ney tz@k.7@m hacerse
+\ANTI tz@k. 7oy
+\CMTS
+\lex tz@m
+\_no 00147
+\SPG cargar
+\ENG to carry
+\EX
+\XSP
+\XEN
+\ROOT tz@m P, T3
+ZOH001R0611009.txt
+\SEMF move
+\PASS tz@m.7@m ser acarreado
+\ANTI tz@m.7oy
+\CMTS
+\lex wa7k
+\_no 00148
+\SPG rebanar; partir fruta, como sandi*a o melo*n (con cuchillo)
+\ENG to slice; to halve fruit, like watermelon or canteloupe (with a knife)
+\EX wa7k@mm@ bi 7anaxa
+Page 35

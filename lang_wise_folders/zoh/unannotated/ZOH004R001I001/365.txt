@@ -1,0 +1,63 @@
+\SPG hacer cinta de palma
+\ENG to weave palm strips
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pe7t
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 16/Oct/94
+\lex jo. jot
+\_no 00839
+\LG MIG
+\PSH [jojot-]
+\UND jo.jot
+\MB EN, cortar_parejo
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG deshilar
+\ENG to unravel
+\SPL
+\SLGR
+\EXU 7@y+ jo.jot-wa jemji7
+\XPSH [7@y jojott@ jemji7.]
+\XSP Lo deshilo* todo.
+\XEN He unravelled it all.
+\SYN 7ok.jot.7@y
+\SYN ko.jot
+\SYN k@.jot.7@y
+\SEMF
+\ETYM
+\ETL
+\ROOT jot
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Feb/96
+\lex jo.j@m
+\_no 00840
+\LG MIG
+\PSH [joj@m-]
+\UND jo.j@m
+\MB EN, tallar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG refregar
+\ENG to scrub
+\SPL
+\SLGR
+\EXU 7@m+ jo.j@m-w@+'am
+\XPSH [7@m joj@mma*m?]
+\XSP_Ya_refregaste?
+\XEN Have you scrubbed now?
+ZOH004R0011001.txt
+Page 365

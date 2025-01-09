@@ -1,0 +1,62 @@
+\DSRC HAJ94
+\CMTS
+\date 12/Jun/95
+\lex 7anh-kekx
+\_no 00093
+\LG MIG
+\PSH [7anhkekx-]
+\UND 7anh-kekx
+\MB BOCA, despeltrar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG despeltrarse en la orilla
+\ENG to get chipped at the edge
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kekx
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex 7anh-ketz [1]
+\_no 00094
+\LG MIG
+\PSH [7anhketz-]
+\UND 7anh-ketz
+\MB BOCA, regar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 dar agua en la boca con algo
+\SPG 2 darse de tomar con los manos
+\ENG 1 to put water in someone's mouth
+ZOH004R0011001.txt
+\ENG 2 to splash water into your mouth with your hands
+\SPL
+\SLGR
+\EXU 7@y+ n@=7anh-ketz-w@ bi jon
+\XPSH [7@y n@7anhketztz@ bi jon.]
+\XSP Le dio* agua con algo el pa*jaro.
+\XEN She gave the bird water.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ketz
+\RTGR T1
+\DSRC HAJ95
+\CMTS the 'algo' can be something sort of flat, like a spoon or a leaf
+\CMTS also can mean to splash water into your mouth with your hands
+\date 23/Jun/96
+\lex 7anh-ketz [2]
+Page 41

@@ -1,0 +1,64 @@
+\SLGR ANTIP
+\SLGL cortar // to cut
+\SPL tuk.7@m
+\SLGR PASS
+\SLGL reventar, reventarse y caerse // to burst, to break and fall down
+\SPL tuk. ten
+SLGR PRSV
+\SLGL tener cortado (como fruta) // to have it cut (like fruit)
+\EXU 1 ya tuk-w@
+\XPSH 1 [Ya tukk@.]
+\XSP 1 No tiene sabor.
+\XEN 1 It doesn't have any flavor.
+\EXU 2 7@y+ tuk.jay-w@ 7@y+ way7
+\XPSH 2 [7@y tukjayy@y_way7.]
+\XSP 2 Le corto* el pelo.
+\XEN 2 She cut his hair.
+\EXU 3 tuk.7@m-w@ 7@n+ k@ak 7@y naka
+\XPSH 3 [Tukk@mm@n k@ak 7@y naka.]
+\XSP 3 Se revento* la correa de mi huarache.
+XEN 3 The strap of my sandal broke.
+\EXU 4 7@n+ tuk-w@ bi 7anaxa 7@n+ tzanh.kuy'+pi7t
+ZOH001R0611006.txt
+\XPSH 4 [7@n tukk@ bi 7anaxan_tzanhkuypi7t.]
+\XSP 4 Corte* la naranja con la mano.
+\XEN 4 I picked the orange by hand.
+\SYN
+\SEMF pick
+\ASP achievement
+\ARG instrument
+\NOM tuk.u7, tuk.17
+\SUB 7anh.tuk, jo.tuk, jup-tuk, jup=tuk.tuk.w@y, ko.tuk, k@.tuk,
+\SUB nem-tuk, ni.tuk-wak, t@nh-tuk
+ETYM
+\ETL
+\ROOT tuk
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\CMTS v/ tuk (1) T3
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex tun [1]
+\_no 00163
+\LG MIG
+\PSH
+\UND tun
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG divisar ("devisar") a alguien
+\ENG to peek at or catch sight of someone
+\SPL tun.7oy
+\SLGR ANTIP
+\SLGL divisar // to catch sight of, to peek
+\SPL tun.7@m
+\SLGR PASS
+\SLGL ver // to see
+\SPL tun. ten
+\SLGR PRSV
+\SLGL tener visto // to have in sight
+\EXU 1 7@y+ num=tun-wa
+Page 110

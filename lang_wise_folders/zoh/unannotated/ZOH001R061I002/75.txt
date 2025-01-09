@@ -1,0 +1,60 @@
+\CMTS
+\lex t@n
+\_no 00303
+\SPG echar goma; caer cera por gotas
+\ENG to yield pitch; to drip wax
+\SEMF nature, emit
+\ASP activity
+\ARG
+\NOM t@n.@7
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex t@nh
+\_no 00304
+\SPG cortar, con una machete o fierro
+\ENG to cut, with a machete or iron tool
+\SEMF cut
+\ASP activity, achievement
+\ARG instrument
+\NOM t@nh.kuy7, t@w.i7, y@k.t@nh
+\NOM t@nh.naanh, t@nh. 'oy.kuy7
+\RTGR T3
+\POS da tanhjayy@n kuy
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tap
+\_no 00305
+\SPG costurar; bordar; ensartar
+\ENG to sew; to embroider
+\SEMF build
+\ASP activity
+\ARG
+\NOM t@p.kuy7, t@p.i, y@k.t@p
+\RTGR 1 T1
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\lex t@7p
+\_no 00306
+\SPG caer; caerse cuando caminando
+\ENG to fall; to fall down while walking
+\SEMF fall
+\ASP achievement
+\ARG
+\NOM
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+Page 75

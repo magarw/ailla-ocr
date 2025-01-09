@@ -1,0 +1,62 @@
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex xom.kuy7
+\_no 03973
+\LG MIG
+\PHO [xomkuy7]
+\UND xom. kuy7
+\MB encerrar, INSTR1
+\VAR
+\GRAM instr1
+\SPG la reja (donde encierran los borrachos)
+\ENG the drunk tank
+\EX
+\XSP
+\XEN
+\SYN t@nh.kuy' t@k+jo7
+ROOT
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex xom.naanh
+\_no_03974
+\LG MIG
+\PHO [xomna*nh]
+\UND xom.naanh
+\MB encerrar, MED
+\VAR
+\GRAM meas
+\SPG una encerrada
+\ENG a jail term
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT XOM
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex xom.pu'
+\_no 03975
+\LG MIG
+\PSH [xompu-]
+\UND xom.pu7
+\MB encerrar, RVS
+\VAR
+\GRAM vt: revers
+\SCI
+\USE
+\SPG desencerrar
+\ENG to release
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT xom
+Page 1709

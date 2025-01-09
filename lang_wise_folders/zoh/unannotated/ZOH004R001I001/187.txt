@@ -1,0 +1,63 @@
+\ETYM
+\ETL
+\ROOT 707k
+\RTGR 12
+\DSRC TK94
+\CMTS trata del viento, el tiempo
+\date 03/Jan/80
+\lex 70m
+\_no 00436
+\LG MIG
+\PSH
+\UND 70m
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG echar humo
+\ENG to emit smoke
+\SPL yak. 7om
+\SLGR CAUS
+\SLGL hacer echar humo // to cause something to smoke
+\EXU 1 7om-w@ bi kajw@
+\XPSH 1 [70mm@ bi kajw@.]
+\XSP 1 Echo* humo el cafe*.
+\XEN 1 The coffee steamed.
+\EXU 2 7@n+ 7om-w@ bi 7une' porke nena xawa 7@y+ tzonh-wa
+\XPSH 2 [7@n 7omm@ bi 7une porke nena xaway tzonhnh@.]
+\XSP 2 Ahume* al nin~o porque topo* mal aire.
+\XEN 2 I censed the child because it met with a bad spirit.
+\SYN
+\SEMF emit, nature
+\ASP activity
+\ARG
+ZOH004R0011001.txt
+\NOM 7om.a7, 7om. 'oy.kuy7-kuy, 7om. 'oy.kuy7, 7om.naanh
+\SUB 7anh. 'om, 7ok. 'om. '@y, jo.7om-wak, j@x='om, ko.7om, k@.7om,
+\SUB ni.7om, nik. 'om. '@y, win-'om-wak, yuk. 'om
+ETYM
+\ETL
+\ROOT 70m
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex 7om.a7
+\_no 00437
+\LG MIG
+\PSH [7oma7]
+\UND 70m.A7
+\MB echar_humo, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG humo
+\ENG smoke
+\EXU
+\XSP
+\XEN
+\SYN
+Page 187

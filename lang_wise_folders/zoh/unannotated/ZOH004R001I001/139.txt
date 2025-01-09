@@ -1,0 +1,62 @@
+\DSRC HAJ95
+\CMTS
+\date 09/Jan/96
+\lex 7ok.jin. '@y
+\_no 00322
+\LG MIG
+\PSH [7okjinn@y-]
+\UND 7ok.jin.7@y
+\MB ABAJO, refregar, SUF
+\VAR
+GRAM vt
+\SCI
+\USE
+\SPG echar a un lado refregandolo
+\ENG to push something aside by scrubbing
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jin
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 15/Jul/95
+\lex 7ok.ji7p. '@y
+\_no 00323
+\LG MIG
+\PSH [7okji7pp@y-]
+\UND 7ok.ji7p.7@y
+\MB ABAJO, mover_con_palo, SUF
+\VAR
+\GRAM vt
+\SPG trompear
+\ENG to root
+\SPL
+\SLGR
+\EXU 7@y+ 7ok.ji7p. '@y-w@ ga+jaanh
+\XPSH [7@y 7okji7pp@yy@ gaja*nh.]
+\XSP Lo trompeo* para un lado.
+\XEN It rooted it aside.
+\SYN
+\SEMF
+\ROOT ji7p
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+ZOH004R0011001.txt
+\lex 7ok.jitzi.7@y
+\_no 00324
+\LG MIG
+\PSH [7okjitzi7@y-]
+\UND 7ok.jitzi.7@y
+\MB ABAJO, arrastrar, SUF
+\VAR
+\GRAM vt
+Page 139

@@ -1,0 +1,68 @@
+\_no 00018
+\tx pitzko
+\mb pitzko7
+y@7
+y@ -7 ya
+\sg1 por_eso
+DCT1-NOM1 NEG pueblo
+\eg1 because of DCT1-NOM1 NEG town
+\zoq Pitzko y@7 ya kumkuy7.
+\fts Por eso este no es pueblo.
+\fte Because of this, this is not a town.
+\not
+\idx exis
+\ref ZOH001R002 018
+\_no 00019
+\tx y@7
+\mb y@ -7
+de y@ji7,
+de ya -ji7
+\sg1 DCT1-NOM1 de DCT1-Loc1
+\eg1 DCT1-NOM1 of DCT1-LOC1
+\zoq y@7 de y@ji7,
+\fts Este de aqui,
+\fte This here,
+\not
+\idx
+\ref ZOH001R002 019
+\_no 00020
+\tx 7i ya kumkuy7
+\mb 7i ya kumkuy7
+\sg] y
+NEG pueblo
+\eg1 and NEG town
+\zoq 7i ya kumkuy7,
+\fts no es pueblo,
+\fte isn't a town,
+\not
+\idx exis
+\ref ZOH001R002 020
+\_no 00021
+\tx ya kumkuy7.
+\mb ya kumkuy7
+\sg1 NEG pueblo
+\egl NEG town
+ZOH001R0021001.txt
+"
+ya kumkuy7.
+kumkuy7
+\zoq ya kumkuy7.
+\fts no es pueblo.
+\fte it isn't a town.
+\not
+\idx exis
+\ref ZOH001R002 021
+\_no 00022
+\tx si no minn@
+desde Kopainala*, Chyapas
+Chyapas
+\mb si no min
+-wa desde Kopainala*
+\sg1 si no venir-COM desde Copainala* Chiapas
+\egl if no come -COM from Copainala* Chiapas
+\zoq si no minn@ desde Kopainala*, Chyapas.
+\fts Si no vino desde Copainala*, Chiapas.
+\fte If they didn't come from Copainala*, Chiapas.
+\not
+\idx
+Page 5

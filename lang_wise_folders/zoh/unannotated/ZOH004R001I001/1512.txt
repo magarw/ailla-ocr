@@ -1,0 +1,64 @@
+\LG MIG
+\PSH [tz@wi juki]
+\UND tz@wi juk.E
+\MB tabaco, fumar, NOM7
+\VAR
+\GRAM smsv
+\SCI
+\USE
+\SPG puro tabaco
+\ENG tabacco cigar
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT juk
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tz@y
+\_no 03515
+\LG MIG
+\PSH
+\UND tz@y
+\MB
+ZOH004R0011001.txt
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG atorarse; entrancarse; trabarse
+ENG to get stuck; to be blocked
+\SPL yak.tz@y
+\SLGR CAUS
+\SLGL
+hacer trabar; trabar; detener // to block; to detain
+\EXU 1 tz@y-w@ bi koke mak.i+jo7
+\XPSH 1 [Tz@yy@ bi koke makijo7.]
+\XSP 1 Se trabo* el pescado en la atarraya.
+\XEN 1 The fish got caught in the net.
+\EXU 2 tz@y.ney-w@ tzin=ta7kx.@7
+\XPSH 2 [TZ@yneyy@ tzinta7kx@7.]
+\XSP 2 Esta* puesto la luz de ocote.
+\XEN 2 The pine torch was fixed in place.
+\SYN
+\SEMF move
+\ASP state, achievement
+\ARG
+\NOM
+\SUB_jay-tz@y, jup-tz@y, ne7kx=tz@y, tz@y=pu', 7ok.tz@y.'@y, xuj=tz@y,
+\SUB yak.tz@y. '@y
+\ETYM
+\ETL
+\ROOT tz@y
+\RTGR 12
+\DSRC HAJ94
+\CMTS get stuck in a tight spot: trying to get around a fence, or a
+\CMTS a fruit gets caught between branches in a tree and doesn't fall
+\date 03/Jan/80
+\lex wa.e-jey
+Page 1512

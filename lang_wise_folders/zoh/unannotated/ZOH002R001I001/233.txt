@@ -1,0 +1,41 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(8.15)
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+de gaji makkokmangngø bi pøn
+de ga.hi?
+0 mak=?okmaŋ-wǝ bil pən
+from DCT3.LOC1 3A fish-begin-COM DEF man
+'Then the man began to fish.'
+'øn wakax 'øy patzwangkawø tren
+?ən+ wakaš ?əy+ pac=waŋka-wǝ tren
+1E+ cow 3E+ throw-turn_over-COM train
+'My bull threw over a train.'
+gø tyempu mae ja'kkapa rroberta
+gə tyempu mae? 0 ha?k=ka?-pa rroberta
+DCT3 time REM 3A drown-die-INC_roberta
+'That time Roberta nearly died by drowning.'
+mix 'ixpøkpa
+miš+ ?iš=pək-pa
+1>2+see-get-INC
+'I know you.'
+(ZOH001R020-015)
+(ZOH001R025-261)
+207
+(ZOH001 R015-075)
+(ZOH001R026-103)
+bi nu' 'øy waxnumtøpa bi tzinu 'øy tøk
+bi nu? ?ǝy+ waš=num=tə?-pa
+bi cinu? ?ǝy+ tək
+DEF dog 3E+ bite=steal-want-INC DEF bee 3E+ house
+'The dog wanted to sneak up and bite the bee hive.'
+(ZOH001R046- 057)
+Derived stems can be combined in a compound construction. These
+"inner stems" can be composed of a root and a directional prefix (8.16 i-ii), a
+root, a directional prefix, and the suffix -?ǝy (iii-iv), or sometimes an
+antipassive that applies only to one of the compounds (v). Brackets are placed
+in the examples that follow to indicate the morpho-syntactic constituent
+structure.

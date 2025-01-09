@@ -1,0 +1,62 @@
+\CMTS
+\date 29/Jan/96
+\lex ko.7otonh
+\_no 01290
+\LG MIG
+\PSH [ko7otonh-]
+\UND ko.7otonh
+\MB OTRO, hablar
+\VAR
+\GRAM vi
+SCI
+\USE
+\SPG pedir de un santo
+\ENG to ask of a saint
+\SPL
+\SLGR
+\EXU 7@y+ yak.ko.7otonh-w@ 7@y+ manak ko.maxan 7@y+ win+jo7
+\XPSH [7@y yakko7otonhnh@y manak komaxan 7@y winjo7.]
+\XSP Mando que lo limpiara adelante del santo su hijo.
+\XEN She asked the saint to purify her child.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7otonh
+\RTGR I1
+\DSRC HAJ95
+\CMTS something you do in church
+\date 18/Jun/96
+\lex ko.7ox [yo't.e7
+\_no 01291
+\LG MIG
+\PSH [ko7ox- yote7]
+\UND ko.7ox [yo7t.E7]
+\MB OTRO, X, ropa
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG meter y sacar
+\ENG to put in and take out
+\SPL ko.7ox.7oy
+\SLGR ANTIP
+\SPL ko.7ox.7@m
+\SLGR PASS
+\EXU 7@y+ ko.7ox-w@ yo't.e7 n@'+jo7
+\XPSH [7@y ko7oxx@ yote7 n@jo7.]
+\XSP Metio* y saco* la ropa en el agua.
+\XEN She dunked the clothes in and out of the water.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ko.7ox
+\RTGR T3
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex ko.7uk
+\_no 01292
+Page 563

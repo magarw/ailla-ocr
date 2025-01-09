@@ -1,0 +1,63 @@
+\VAR k@.gaan=tz@k
+\GRAM vt
+\SCI
+\USE
+\SPG 1 ganancia
+\SPG 2 ganarle - algo que estaban vendiendo
+\ENG 1 profit, earnings
+\ENG 2 to earn from, something that you were selling
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-PH - ok/OK:TK
+\CMTS 'ganancia' es ma*s; much better than le gano*
+\date 25/Jun/96
+\lex k@j
+\_no 01657
+\LG MIG
+\PSH
+\UND kaj
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG una fruta que crece abajo de la tierra
+\ENG a fruit that grows under the ground
+\EXU
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS can't find a good translation, but it's 'casi fruta', but for fruit
+\CMTS that grows underground, like camote, papa, ajo... CK-PH/GR of EX
+\date 26/Jan/96
+\lex k@j. 7aH
+\_no 01658
+\LG MIG
+\PSH [k@jja-]
+ZOH004R0011001.txt
+\UND_k@j.7aH
+\MB fruta, VERS1
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG darse fruta
+\ENG to yield tubers; to form a tuber
+\EXU 1 k@j.7aH-w@ bi m@n
+\XPSH 1 [K@jjaw@ bi m@n.]
+\XSP 1 Se dio* camote.
+\XEN 1 The yams produced.
+\EXU 2 k@j. ¹aH-pa+'am bi m@n
+\XPSH 2 [K@jjapa*m bi m@n.]
+Page 716

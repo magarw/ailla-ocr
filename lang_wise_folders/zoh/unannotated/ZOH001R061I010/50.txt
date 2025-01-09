@@ -1,0 +1,65 @@
+\PASS pit.7@m
+\ANTI pit. 7oy poner la mortaja
+\CMTS tambien trata de puros -
+\lex pitikx
+\_no 00214
+\EX pitikx@ juwi
+\XSP saco* chispa la brasa
+\XEN the coal
+\SPG sacar/echar chispa, lumbre/len~a
+\ENG to spark
+\EX pitikx@ jukut@k
+\XSP saco* chispa la lumbre
+\ROOT pitikx Ix
+\SEMF fire
+\lex pi7t
+\_no 00215
+\SPG trenzar
+\ENG to braid
+\EX way pi7tt@
+\XSP trenzo* el cabello
+\XEN she braided her hair
+threw off sparks
+\CAUS yak.pitikx hacer que le sacara chispa
+\CMTS
+\EX 7@y pittene 7@y way
+\XSP tiene trenzado su cabello
+\lex pitz
+\_no 00216
+\ROOT pi7t P, (T3)
+\SEMF care
+\PASS pi7t.7@m estar trenzada
+\ANTI pi7t.7oy trenzar
+\ASSU pi7t.ney estar trenzada
+\PRSV pi7t=ten lo tiene trenzada
+\ROOT pitz T1
+\SEMF cook, corn
+\CMTS
+\lex pitz@m
+\_no 00217
+\SPG salir
+\ENG to leave
+\EX
+\XSP
+ZOH001R0611010.txt
+pitt@mma*m
+pitt@mma*m 7@y
+\SPG poner/echar mai*z en la lumbre con cal, para cocer
+\ENG to put corn on the fire with lime, to cook it
+\EX
+\XSP
+\XEN
+\XEN
+\ROOT pitz@m Ix
+\SEMF motion
+\CAUS yak.pitz@m dejar salir
+\CMTS
+\EX d@ pix-pa
+\XSP me pica
+\lex pix
+\_no 00218
+\SPG sentir_picazo*n de pulga, etc.
+\ENG to feel a bite - from a flea, etc.
+7@y juki
+juki 'ya enrollo* su cigarro'
+Page 50

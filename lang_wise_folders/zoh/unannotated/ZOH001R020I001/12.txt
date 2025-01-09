@@ -1,0 +1,79 @@
+\mb_ kwandu 7@y entregar-tz@k -xuk-w@
+\sg1 cuando 3E
+\egl when
+\not
+\idx
+\zoq Kwandu 7@y 7entregtz@kxukk@,
+\fts Cuando le entrego*
+\fte when they delivered him,
+\com
+\idx
+entregar-hacer-3PL-COM
+3E deliver -do
+\ref ZOH001R020 044
+\_no 00045
+\tx n@mpa
+\mb
+n@m
+ke
+-pa ke
+bi
+d@ yakkotztzokk@*7
+gaja
+bi da yak -ko -tzok -w@ -v7k ka -ja7
+\sg1 decir-INC que
+DCT1-NOM1 DEF 1A CAUS-SOC-sanar-COM-REL DCT3-L0c1
+\egl say -INC that DCT1-NOM1 DEF 1A CAUS-SOC-cure -COM-REL DCT3-LOC1
+\not
+\idx inverse
+\ref ZOH001R020 045
+\_no 00046
+"
+\zoq nampa ke y@7 bi da yakkotztzokk@*7 gaja7.
+fts dice que este es el que me defendio* alla*.
+\fte he says that this is the one that saved me over there.
+\com
+\idx
+y@
+y@ -7
+ZOH001R0201001.txt
+\not
+\idx vseq_cmp, inverse
+\ref ZOH001R020 046
+\_no 00047
+-3PL-COM
+\tx ya d@ nakxkaxxukk@
+\mb ya d@ nakx
+-ka7
+\sg1 NEG 1A pegar_con_palo-morirse-3PL-COM
+\eg1 NEG 1A hit_with_stick-die
+\ref ZOH001R020 047
+\_no 00048
+\zoq Ya da nakxkaxukk@.
+\fts Y por e*1 no me mataron de garrotazo.
+\fte They didn't beat me to death.
+\com
+\idx
+\zoq 7i dey 7@n tzipa tum premyu,
+\fts Y ahora le damos un premio,
+\fte And now we give you a prize,
+\com
+\idx
+\tx para byen jejpa y@da
+\mb
+para byen jej
+-pa
+\sg1 para bien vivir-INC
+-xuk-w@
+\tx 7i dey
+7@n tzi7 tum premyu
+\mb 7i te -y 7@n tzi7 tum premyu
+\sg] y DCT2-TMP 1E
+\eg1 and DCT2-TMP 1E
+dar uno premio
+give one prize
+-3PL-COM
+p@n
+ya -da p@n
+DCT1-DEM hombre
+Page 12

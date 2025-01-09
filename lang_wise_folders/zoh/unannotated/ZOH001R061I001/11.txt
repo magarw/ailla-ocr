@@ -1,0 +1,59 @@
+ZOH001R0611001.txt
+\sg1 3Erg dar -COM DET mai*z DET hombre DET mujer PURP 3Erg moler-COM PURP
+\egl 3Erg give-COM DET corn DET man
+DET woman PURP 3Erg grind-COM PURP
+\fts dio* el maiz el hombre a la mujer para que lo molio*
+\fte the man gave the corn to the woman so she could grind it
+\com
+\idx
+\ref 054
+\_no 00054
+\tx * 7@y tziw@
+\mb
+bi p@n bi
+bi p@n bi
+bi mok
+yoma*7 7i mok ja7pp@
+7@y tzi -w@ bi mok
+yoma*7 7i mok ja7p -w@
+3Erg dar -COM DET mai*z DET hombre DET mujer CONJ mai*z moler-COM
+3Erg give-COM DET corn DET man
+DET woman CONJ corn grind-COM
+\sgl
+\egl
+\tx ga7
+\mb ka
+-7
+\sg1 DCT3-NOM1
+\eg1 DCT3-NOM1
+\fts* dio* el maiz el hombre a la mujer y ella lo molio*
+\fte* the man gave the corn to the woman and she ground it
+\com
+\idx
+\ref 055
+\_no 00055
+7i
+bi yoma*7 7@y yom manak bi 7une
+tzi -w@ bi yoma*7 7@y yoma manak bi 7une 71
+\tx 7@y tziw@
+\mb 7@y
+\sg1 3Erg dar -COM DET mujer
+\egl 3Erg give-COM DET woman
+kotz@nn@
+ko -tz@n
+ga7
+ka -7
+3Erg hembra hijo/a DET nin~o/a CONJ DCT3-NOM1
+3Erg female child DET child CONJ DCT3-NOM1
+\tx 7une
+\mb 7une
+\sgl nin~o/a SOC-estar_sentado-COM
+\egl child
+- wa
+SOC-sit
+\fts la mujer dio* a su hija la criatura y ella cuido* la criatura
+\fte the woman gave her daughter the baby and she baby-sat.
+\com but 7une kotz@n- is probably lexicalized
+\idx incorp
+-COM
+Page 11

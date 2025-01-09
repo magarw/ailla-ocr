@@ -1,0 +1,62 @@
+\XSP 2 olla llena
+\XEN 2 a full jug
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 19/Jun/96
+\lex tay
+\_no 02958
+\LG MIG
+\PSH
+\UND tay
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG "tiempo"; "tai"
+\ENG time out
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM time
+\ETL Eng
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 19/Jun/95
+\lex taya
+\_no 02959
+LG MIG
+\PSH
+\UND taya
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG medida
+\ENG size
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM talle
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 18/Oct/94
+\lex tay. na '=monh
+\_no 02960
+\LG MIG
+\PSH [taynamonh-]
+\UND tay.na7=monh
+\MB X, STAT, dormir
+\VAR
+ZOH004R0011001.txt
+Page 1273

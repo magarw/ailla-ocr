@@ -1,0 +1,64 @@
+\LG MIG
+\PSH
+\UND payu
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG pan*uelo
+\ENG handkerchief
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp pan~o
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 31/Mar/95
+\lex pa'
+\_no 02570
+\LG MIG
+\PSH
+\UND pa7
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG colar
+\ENG to sift
+\SPL pa'.7oy
+\SLGR ANTIP
+\SLGL colar // to sift
+\SPL pa'.7@m
+\SLGR PASS
+\SLGL colarse // to be sifted
+\SPL pa'.ten
+\SLGR PRSV
+\SLGL tener colado // to have something sifted
+\EXU 1 7@y+ pa'-w@ bi 7uk.i
+\XPSH 1 [7@y paw@ bi 7uki.]
+\XSP 1 Colo* el atole.
+\XEN 1 She sifted the atole.
+\EXU 2 pa'.7@m-w@ bi 7uk.i
+\XPSH 2 [Pa7@mm@ bi 7uki.]
+\XSP 2 Esta* colado el atole.
+\XEN 2 The atole is sifted.
+\SYN
+\SEMF arrange
+\ASP activity
+\ARG
+\NOM pa'.kuy7
+\SUB
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT pa7
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+Page 1106

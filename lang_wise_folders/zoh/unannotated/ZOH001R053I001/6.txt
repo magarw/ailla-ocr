@@ -1,0 +1,91 @@
+ZOH001R0531001.txt
+\fte Then he comes, now he sees what work he will do again.
+\com
+\idx
+\ord Av V AV V O
+\ref ZOH001R053 020
+\_no 00021
+y
+\tx 7@y nipp@
+\mb 7@y nip -w@ 7@y
+\sg1 3E sembrar-COM 3E
+\egl 3E SOW
+-COM 3E
+\zoq 7@y nipp@y desmonte para mok, para x@k.
+\fts Siembra su desmonte para maiz, para frijole.
+\fte He sows his field for corn, for beans.
+\com
+\idx
+\ord v o
+\ref ZOH001R053 021
+\_no 00022
+\tx 7ay de gaji
+\mb 7ay
+\sgl ahi* de DCT3-LOC1 3E dejar-INC 3E
+\egl there of DCT3-LOC1 3E leave-INC 3E
+desmonte para mok, para x@k.
+desmonte para mok
+para x@k
+desmonte para mai*z para frijol
+field for corn for bean
+7@y tzakpa
+7@y niptukpa.
+de ka -ji7 7@y tzak -pa 7@y nip
+\zoq 7ay de gaji 7@y tzakpa 7@y niptukpa.
+\fts De ahi* lo deja acaba de sembrar.
+\fte Then he leaves he finishes sowing.
+\com
+\idx
+\ord AV V V
+\ref ZOH001R053 022
+\_no 00023
+\tx myentras ke naypa,
+\mb myentras ke
+nay
+\sg] mientras que
+\egl while
+ga7
+-pa ka -7
+bi jama.
+\tx yakp@7tampa
+\mb yak -p@7t -tam -pa bi jama
+\sg1 CAUS-pasar-1/2PL-INC DEF dia
+\eg1 CAUS-pass -1/2PL-INC DEF day
+\ref ZOH001R053 023
+\_no 00024
+-tuk
+sembrar-terminarse-INC
+-finish
+koyoxpa,
+para n
+ko -yox
+-pa para 7@n
+Soc-trabajar-INC para 1ɛ
+that sprout-INC DCT3-NOM1 SOC-work -INC for 1E
+brotar-INC DCT3-NOM1
+SOW
+\zoq Myentras ke naypa, ga7_koyoxpa, paran yakp@7ttampa bi jama.
+\fts Mientras que nasca, el va a chambear, para que pasemos el di*a.
+\fte while it sprouts, he's going to get a job, so we'll have money to live
+on.
+\com
+\idx
+\ord Av S V [v o]
+minpa
+d@x 7@n 7ixtukke7tpa.
+min -ра ka -y d@x 7@n 7ix-tuk
+gay
+\tx de gaji,
+\mb de ka -ji7
+\sg1 de DCT3-LOC1 venir-INC DCT3-TMP 1Prn 1E
+\egl of DCT3-LOC1 come -INC DCT3-TMP 1Prn 1E
+-ра
+- INC
+see-finish
+\zoq De gaji, minpa gay d@x 7@n 7ixṭukke7tpa.
+\fts De ahi*, viene luego yo lo vuelvo a esperar.
+\fte Then, he comes, later I wait again.
+Page 6
+ver-terminarse-REPET-INC
+-ke7t -pa
+-REPET-INC

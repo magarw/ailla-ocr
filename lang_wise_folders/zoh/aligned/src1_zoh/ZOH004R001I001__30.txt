@@ -1,0 +1,47 @@
+\PSH [7anhjeke]
+\UND 7anh-je7k. E
+\MB BOCA, X, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG susto
+\ENG fright
+\EXU
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ROOT 7anh-je7k
+\DSRC HAJ94
+\CMTS
+\date 22/Feb/96
+\_no 00068
+\PSH
+\UND 7anhji7
+\VAR 7anh.ji'+i7 [7anhji*7] (+REL)
+\GRAM S
+\SPG el unico
+\ENG the only one
+\SLGR
+\EXU
+\XSP
+\XEN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\date 25/Jun/96
+\DATE 03/Jan/1980
+\_no 00069
+\LG MIG
+\PSH [7anhji7]
+\UND 7anh-ji7
+\VAR
+\USE locative
+ZOH004R0011001.txt
+\ENG at
+\SLGR
+\EXU ye7tz-xuk-w@ t@k-7anh.j@7 juxtix(a)+7anhji7
+Page 30

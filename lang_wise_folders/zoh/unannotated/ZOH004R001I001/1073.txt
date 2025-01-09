@@ -1,0 +1,62 @@
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS for 'agua hervida', see examples under yum-
+\date 08/Feb/96
+\lex pa7okj@7
+\_no 02491
+\LG MIG
+\PSH
+\UND pa. 7ok.j@7
+\MB
+\VAR
+\GRAM top
+\SPG Niltepec
+\ENG Nilteped
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS PH-OK/TK
+\date 25/Jun/96
+\lex pa.707k-j@+@7
+\_no 02492
+\LG MIG
+\PSH [pa707kj@*7]
+\UND 707k-j@*7 +P@7k
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG de Niltepec
+ENG from Niltepec
+\SPL
+\SLGR
+\EXU pa.707k-j@+@7 de.7 p@n
+\XPSH [Pa707kj@*7 de7 p@n.]
+\XSP Este sen~or es de Niltepec.
+\XEN This man is from Niltepec.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS CK-all
+\date 25/Jun/96
+\lex padrastu
+\_no 02493
+\LG MIG
+\PSH
+\UND padrastu
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG padrasto
+\ENG step-father
+\EXU
+Page 1073

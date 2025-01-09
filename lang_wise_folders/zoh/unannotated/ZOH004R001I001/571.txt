@@ -1,0 +1,63 @@
+ZOH004R0011001.txt
+\SPG enrollar encima de algo
+\ENG to wind around and around something, like a rope around a tree
+\SPL
+\SLGR
+\EXU 7@y+ ko.jeken-witu'-w@ kuy
+\XPSH [7@y kojekenwi tuw@ kuy.]
+\XSP Lo enrollo* encima de palo.
+XEN He wound it around the tree.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 jeken
+\RTGR 1 P, (T3)
+\ROOT 2 witu
+\RTGR 2 11
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex ko.je7k
+\_no 01308
+\LG MIG
+\PSH [koje7k-]
+\UND ko.je7k
+\MB OTRO, limpiar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG limpiar con coa
+ENG to clean with a hoe
+\EXU
+\XSP
+\XEN
+\SYN je7k
+\SYN win.je7k
+\SYN ko.je7k
+\SEMF
+\ETYM
+\ETL
+\ROOT je7k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 07/Feb/96
+\lex ko.jep
+\_no 01309
+\LG MIG
+\PSH [kojep-]
+\UND ko.jep
+\MB OTRO, trayar_maguey
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG trayar maguey de alguien
+ENG to strip someone else's maguey
+\SPL
+\SLGR
+\EXU
+\XSP
+Page 571

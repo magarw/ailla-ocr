@@ -1,0 +1,62 @@
+\DSRC HAJ94
+\CMTS maybe ma. 7otonh ? NO: PM-S has *matow
+\CMTS antip matonh.7oy escuchar
+\CMTS pass matonh.7@m escucharse
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex matonh.kuy7
+\_no 01894
+\LG MIG
+\PHO [matonhkuy7]
+\UND matonh.kuy7
+\MB escuchar, INSTR1
+\VAR
+\GRAM instr1
+\SPG el oido
+\ENG hearing
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT matonh
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex matonh.naanh
+\_no 01895
+\LG MIG
+\PHO [matonhna*nh]
+\UND matonh.naanh
+\MB escuchar, MED
+\VAR
+\GRAM meas
+\SPG una escuchada, como un sonido que oyo* una sola vez
+\ENG a hearing, like a sound that you hear only once
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT matonh
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex matumu
+\_no 01896
+\LG MIG
+\PSH
+ZOH004R0011001.txt
+\UND matumu
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG mayordomo
+\ENG leader or head or chief sponsor of a ritual celebration
+\EXU
+\XSP
+\XEN
+\SYN
+Page 817

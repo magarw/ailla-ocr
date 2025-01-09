@@ -1,0 +1,64 @@
+\_no 01860
+\LG MIG
+\PSH [manakk@y-]
+\UND manak.7@y
+\MB hijo/a, VERS2
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG dar a luz; tener hijo
+\ENG to give birth; to have a child
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 17/Jun/95
+\lex manchu
+\_no 01861
+\LG MIG
+\PSH
+\UND manchu
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG manso
+\ENG tame; biddable
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM manso
+\ETL Sp
+\ROOT
+ZOH004R0011001.txt
+\DSRC HAJ95
+\CMTS CK-PH
+ok/OK: TK
+\CMTS un animal, como bejcha, ganado
+\date 25/Jun/96
+\lex manchu.7aH
+\_no 01862
+\LG MIG
+\PSH [manchu7a-]
+\UND manchu.7aH
+\MB manso, VERS1
+\VAR
+\GRAM versl
+\SCI
+\USE
+\SPG hacerse manso
+\ENG to become tame
+\SPL
+Page 803

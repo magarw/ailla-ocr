@@ -1,0 +1,62 @@
+\ROOT
+\DSRC HAJ94
+\CMTS could be phrase sms CK
+\date 26/Jun/96
+\lex tzux niwi7
+\_no 03463
+\LG MIG
+\PSH
+\UND tzux niwi7
+\MB verde, chili
+\VAR
+\GRAM a (m)s
+\SCI
+\USE
+\SPG bilis; chile verde
+\ENG a type of hot pepper
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS could be phrase sms: CK
+\date 26/Jun/96
+\lex_tzux=n@7
+\_no 03464
+\LG MIG
+\PSH [tzuxn@7]
+\UND_tzux=n@7
+\MB verde, agua
+\VAR
+\GRAM as
+\SCI
+\USE
+\SPG agua: limpio, pureza, purificacio*n, medio claro, claro, no espeso
+\ENG water: clean, pure, purified, clearish, clear, not thick
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzux
+\RTGR 12
+\DSRC HAJ94
+\CMTS CK-PH - HAJ:96 ok/OK: TK
+\date 26/Jun/96
+\lex tzux=n@'. 7aH
+\_no 03465
+\LG MIG
+\PSH [tzuxn@7a-]
+ZOH004R0011001.txt
+\UND_tzux=n@7.7aH
+\MB verde, agua, VERS1
+\VAR
+\GRAM versl
+\SCI
+Page 1490

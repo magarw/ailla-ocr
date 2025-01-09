@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [xujxukk@y-]
+\UND_xuj=xuk.7@y
+\MB soplar, *frio, VERS2
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG enfriar soplando
+\ENG to cool something by blowing on it
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 xuj
+\RTGR 1 T3
+ROOT 2 xuk
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex xuk
+\_no 04007
+\LG MIG
+\PSH
+\UND xuk
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG acabarse; desaparecer
+\ENG to be finished up; to disappear
+\SPL yak.xuk
+SLGR CAUS
+\SLGL acabar // to finish; to use up
+\EXU 1 xuk-w@+ 'am
+\XPSH 1 [Xukka*m.]
+\XSP 1 Ya se acabo*.
+\XEN 1 Now it's used up.
+\EXU 2 xuk-pa+'am
+\XPSH 2 [xukpa*m.]
+\XSP 2 Ya esta* acaba*ndose.
+\XEN 2 Now it's finishing up.
+SYN
+\SEMF aspect
+\ASP transition
+\ARG
+\NOM xuk. kuy7
+\SUB
+ZOH004R0011001.txt
+\ETYM
+\ETL
+\ROOT xuk
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex xuk.kuy7
+Page 1723

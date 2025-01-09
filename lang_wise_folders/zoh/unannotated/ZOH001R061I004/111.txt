@@ -1,0 +1,63 @@
+\lex putz.@7
+\_no 00275
+\LG MIG
+\PHO [putz.@7]
+\UND putz.A7
+\MB podrirse, NOM2
+\VAR
+\GRAM SV
+\SPG podrido
+\ENG rotten
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT putz
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex pu'.@7
+\_no 00276
+\LG MIG
+\PSH [pu@7]
+\UND pu7.A7
+\MB echar_pus, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG pus
+\ENG pus
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pu
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex p@j.i7
+\_no 00277
+\LG MIG
+\PSH [p@ji7]
+\UND_p@j.E7
+\MB largo, NOM7
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG largo
+\ENG long
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+ZOH001R0611004.txt
+Page 111

@@ -1,0 +1,52 @@
+\SPG apagarse
+\ENG go_out
+\1ex 707k
+\_no 00278
+\SPG calmar(se)
+\ENG calm_down
+\lex 7ola nh
+\_no 00279
+\SPG olang
+\ENG lace_border
+\lex 7olanhsitu
+\_no 00280
+\SPG olancito
+\ENG lace_border
+\1ex 70m
+\_no 00281
+\SPG echar_humo
+\ENG emit_smoke
+\lex 7ombre
+\_no 00282
+\SPG hombre
+\ENG man
+\lex 7ombres
+\_no 00283
+\SPG hombres
+\ENG men
+\lex 7omero
+\_no 00284
+\SPG Homero
+\ENG Homero
+\lex 7omeenh
+\_no 00285
+\SPG un poquito
+\ENG a_little
+\1ex 7on
+\_no 00286
+\SPG desarreglar
+\ENG_mess_up
+\lex 7onke
+\_no 00287
+\SPG aunque
+\ENG even though
+\lex 7onsa
+\_no 00288
+\SPG onza
+\ENG ounce
+\lex 7onhke
+\_no 00289
+\SPG aunque
+\ENG even though
+ZOH001R0611013.txt
+Page 23

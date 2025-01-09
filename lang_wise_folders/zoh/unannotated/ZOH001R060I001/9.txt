@@ -1,0 +1,82 @@
+\fte this foot with its shoe
+\com
+\idx
+\cmts picture of a woman's foot, complete with shoe
+\ref 029
+\_no 00030
+\tx y@d@
+\mb
+toto kojtene
+ya -d@ toto7 koj
+-ten - E
+\sg1 DCT1-DEM papel encajar-PRSV-NOM3
+\eg1 DCT1-DEM paper punch - PRSV-NOM3
+\fts este papel esta*n encajados
+\fte this paper is speared
+ZOH001R0601001.txt
+\com
+\idx
+\cmts picture of papers stuck on a spindle
+\ref 030
+\_no 00031
+ko:mpajtzetutzapji
+komi7 -paj
+\tx y@
+-tzetu7-tzapji7
+\mb ya -7
+\sg1 DCT1-NOM1 grande-clavar-casco - encima hay
+\eg1 DCT1-NOM1
+big -nail -hoof -on
+\tx 7@y jeken
+7@y win
+\mb 7@y jeken
+7@y win
+y@da
+ya -d@
+\sgl 3E enrollar 3E REFL DCT1-DEM
+\egl 3E coil
+\tx y@d@
+\mb ya -d@
+y@
+teji7aw@
+teji -7a
+tum tzajin.
+-wa tum tzajin
+-VERS1-COM uno culebra
+there is-VERS1-COM one snake
+pajtzetutzapji7
+paj
+-tzetu7-tzapji7
+clavar-casco - encima
+3E REFL DCT1-DEM nail -hoof -on
+\fts sobre de este tronco*n esta* una culebra. esta* enrollado sobre de este
+tronco
+\fte there's a snake on top of this stump. it coiled itself on the stump.
+\com
+\idx
+\cmts picture of a snake or rope coiled on top of a stump
+\ref 031
+\_no 00032
+\tx ded@
+mansana tujkunhneyy@
+7@y kuy7okoxg@xi
+\mb te -da mansana tuj -kunh -ney -w@ 7@y kuy -7okox-g@xi
+\sg1 DCT2-DEM manzana tirar-colgar-ASSUM-COM 3e palo-mata -Loc4
+\eg1 DCT2-DEM apple shoot-hang -ASSUM-COM 3E tree-shrub-LOC4
+\fts esa manzana esta* colgado sobre de su arbol
+\fte that apple is hanging from its tree
+\com
+\idx
+\cmts picture of an apple hanging from a branch
+\ref 032
+\_no 00033
+\sg1 DCT1-DEM mesa 3E encima 3E
+\eg1 DCT1-DEM table 3E on
+3E
+mexa 7@y tzapji 7@y p@jaxukk@
+tum
+mexa 7@y tzapji7 7@y p@7 -jay -xuk-w@ tum
+put
+poner-APPL-3PL-COM uno
+-APPL-3PL-COM one
+Page 9

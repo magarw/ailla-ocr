@@ -1,0 +1,75 @@
+\com
+\idx
+\ref 089
+\_no 00090
+\tx d@ minn@
+y@j@nanh
+\mb d@ min
+-w@
+y@ -j@nanh
+DCT1-DIR1
+\sgl 1A venir-COM
+\egl 1A come -COM DCT1-DIR1
+\fts me vine par aca*
+\fte I came over here
+\com
+\idx
+\ref 090
+\_no 00091
+\tx 7@n t@k
+\mb 7@n t@k
+\sgl 1E casa hay
+j@ytij@7
+-7a -wa jaytija7
+-VERS1-COM Juchitan
+\egl 1E house there_is-VERS1-COM Juchitan
+\fts mi casa esta* en Juchita*n
+\fte my house is in Juchita*n
+\com
+\idx
+teji7aw@
+teji
+\ref 091
+\_no 00092
+\tx 7@n 7awin
+7@y t@k
+\mb 7@n 7awin7 7@y tak
+\tx witpa
+\mb wit
+-pa
+\sg1 andar-INC
+\egl walk -INC
+\sgl 1E hermano/a 3E casa hay
+\egl 1E sibling
+ney
+7adondjut@*nh da
+-7a -wa ney
+7adonde-jut@@nh da
+-VERS1-COM mismo adonde -por_donde 1A
+3E house there_is-VERS1-COM self where -where
+1A
+\ref 093
+\_no 00094
+\tx da n@kpa
+ZOH001R0601001.txt
+\fts la casa de mi hermano esta* por donde camino
+\fte my brother's house is in the same street as mine
+\com
+\idx
+\ref 092
+\_no 00093
+\tx da nakpan
+t@kjo7
+\mb d@ nak -pa -7@n t@k -jo7
+\sg] 1A irse-INC-1E
+casa -LOC2
+\egl 1A go -INC-1E
+house-LOC2
+\fts me voy a la casa
+\fte I'm going home
+\com
+\idx
+teji7aw@
+teji
+maxant@kjo7
+Page 23

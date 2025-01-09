@@ -1,0 +1,62 @@
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex yaw.a' mok xox=7an.e
+\_no 04119
+\LG MIG
+\PSH [yawa mok xoxxane]
+\UND yaw.A7 mok xox=7an. E
+\MB X, NOM2, mai*z, cocer, calentarse, NOM7
+\VAR
+\GRAM s (m) ss
+\SCI
+\USE
+\SPG tamal de elote
+\ENG sweet corn tamale
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT XOX
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yaw.a' x@k pux.i7
+\_no 04120
+\LG MIG
+\PSH [yawa x@k puxi7]
+\UND yaw.A7 x@k pux. E7
+\MB X, NOM2, frijol, desboronar, NOM7
+\VAR
+\GRAM amsms
+\SCI
+\USE
+\SPG tamal de frijoles tiernos
+\ENG tender bean tamale
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pux
+\RTGR T3
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS no se hace in San Miguel/PH-OK: TK
+\date 26/Jun/96
+\lex yaw.a'.7aH
+\_no 04121
+\LG MIG
+\PSH [yawa7a-]
+\UND yaw.A7.7aH
+\MB X, NOM2, VERS1
+\VAR
+\GRAM versl
+Page 1770

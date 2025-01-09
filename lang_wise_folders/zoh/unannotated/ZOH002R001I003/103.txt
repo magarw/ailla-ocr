@@ -1,0 +1,35 @@
+4.8. Adverbs
+Adverbs are words that indicate time, direction, or location. (There also
+are a very few words that express manner, such as ponhi, 'softly; slowly'.) Their
+semantic function is thus similar to that of the postpositions, but syntactically
+their behavior is different. These elements are words, not clitics, and are thus
+not constrained to follow immediately after a noun.
+4.8.1. Direction and location adverbs
+MIG Zoque has sets of adverbs relating a figure to a ground in a common
+pattern: above, below, in front of and behind. There are also a few adverbs
+referring to position on a slope, and three adverbs that are only used to refer to
+locations in the town of San Miguel.
+(4.28)
+(i)
+(ii)
+(iii)
+yødø nu teji'awø 'angkøjo de 'øy tøk
+yə.də
+nu? O tehi.?a-wǝ
+?aŋkəho? de ?əy+ tək
+DCT1.DEM perro 3A hay.VERS-COM afuera de 3E+ casa
+'Este perro está afuera de su casa."
+bi kuy'okox tennø 'angketzjo'
+bi kuy=?okoš 0 ten-wa
+?aŋkec+ho?
+DEF árbol-mata 3A pararse-COM lado+LOC2
+'Se para el árbol en la ladera (del cerro).
+dø nøkpa maxantøk 'angtome'
+də+ nək-pa mašan=tək
+1 A+ ir-INC sagrado=casa cerca
+'Ya me voy cerca de la iglesia.'
+?aŋtome?
+78
+(ZOH001 R0601001-057)
+(ZOH001 R0601001-152)
+(ZOH001 R0601001-106)

@@ -1,0 +1,65 @@
+\fts me fui* corriendo dentro de la casa
+\fte I went running inside the house
+\com
+\idx aux
+\ref 151
+\_no 00152
+rroberto tunhnhaw@y
+n@ki
+\tx
+\mb rroberto
+\sg1 Roberto
+ye7tztz@ kotz@k
+tunh -7a -w@ -7@y n@k -E ye7tz -w@ kotz@k
+camino-VERS1-COM-3E irse-dCOM 11egar-COM cerro
+\eg1 Roberto road -VERS1-COM-3E go -dCom arrive-COM hill
+\tx nikopakjo7
+\mb ni
+-kopak -jo7
+\sg1 INSTR3-cabeza-Loc2
+\eg1 INSTR3-head -LOC2
+\fts roberto fue* caminando. llego* hasta el punto del cerro
+\fte roberto went walking. He arrived at the top of the hill.
+\com
+\idx
+\ref 152
+\_no 00153
+\tx bi kuy7okox tenn@
+\mb bi kuy -7okox ten -w@
+\sg1 DEF palo-mata
+pararse-COM lado
+\eg1 DEF tree-shrub stand -COM side
+ZOH001R0601001.txt
+\ref 153
+\_no 00154
+\tx 7anhketzjo*nh
+\mb
+7anhketz-joonh
+-DIR1
+\sgl lado
+\egl side -DIR1
+fts se para el a*rbol el la ladera
+\fte the tree stands on the side (of the hill).
+\com
+\idx
+\ref 154
+\_no 00155
+\tx 7anhketzjonanh
+\mb 7anhketz-jonanh
+\sgl lado
+\egl side
+7anhketzjo7
+7anhketz-jo7
+fts de la ladera
+\fte (from) on the side
+\com could stop before reaching the bottom (coming down a hill)
+\idx
+-DIR3
+-DIR3
+-LOC2
+-LOC2
+\fts
+\fte doesn't have to arrive at the top
+\com going up the side of a hill
+\idx
+Page 36

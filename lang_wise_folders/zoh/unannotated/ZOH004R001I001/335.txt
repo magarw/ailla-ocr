@@ -1,0 +1,63 @@
+ZOH004R0011001.txt
+\EXU jinin'.7aH-w@_bi_n@7 porke pajak tzap+j@nanh tak-w@ bi tuj
+\XPSH [Jininnaw@ bi n@7 porke pajak tzapj@nanh takk@ bi tuj.]
+\XSP Esta* sucio el agua porque alla* arriba del ri*o lluvio el agua.
+\XEN The water is dirty because it rained upstream.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex jinin' =n@7
+\_no 00772
+\LG MIG
+\PSH [jininn@7]
+\UND jinin7=n@7
+\MB espeso, agua
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG agua sucia
+\ENG dirty water
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 06/Feb/96
+\lex jinin'=tz@k
+\_no 00773
+\LG MIG
+\PSH [jinintz@k-]
+\UND jinin7=tz@k
+\MB espeso, hacer
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 hacer espeso
+\SPG 2 hacer sucio
+\ENG 1 to thicken something
+\ENG 2 to make something dirty
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+Page 335

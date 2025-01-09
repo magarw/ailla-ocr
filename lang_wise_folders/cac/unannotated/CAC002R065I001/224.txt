@@ -1,0 +1,58 @@
+NESTA POSTA
+P
+MP
+PS
+SS
+G
+E
+P
+MP
+PS
+SS
+G
+E
+E
+KOREN KOMMENEN
+NP
+Intro
+well
+# čí tik tik ‡ háwal xun yík'ti?al yáx #13
+čí? tik
+há? wal xun y-?ík'-ti?-al y-?áx
+VP
+there-here
+FINA
+ANTIG
+219
+Analysis
+Subj.
+Main
+NP
+Topic
+one its-carry-mouth-*
+a story
+?áy wal xun yík'ti? ko mám kíčam čí? ?áykaníh #231
+?áy-6 wal xun y-?ík'-ti? ko-mám k-?íčam čí? ?áy-Ø-kan-ih
+SP
+Main
+be-it * one its-carry-mouth our-Fa our-GF there be-it-stay-*
+there is a story of our ancestors
+Main.
+NP
+NP
+it-be
+there is
+P hap' yak' xun caN ko mám kíčam či? péká? #23↑
+hap'-y-?ák' xun caN ko-mám k-?íčam čí? pék-a?
+MP
+PS
+VP
+SS
+G
+which remains
+Subj.
+reported-he-do one some our-Fa our-GF there in the past
+some of our ancestors in the past
+they say they did it
+dive
+VALMENYALIUM, siger hanatvus LEADMET

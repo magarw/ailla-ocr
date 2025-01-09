@@ -1,0 +1,41 @@
+There are some cases in which the argument added by the applicative
+suffix is opaque. (6.23 i) may mean 'He arrived to or for him, maybe'. There's a
+clearer usage of this kind shown in (ii). It's possible that the applicative in (iii) is
+referencing the locative phrase kocək+ho?, 'in the hills', along the lines of
+example (6.22 ii), above. Otherwise, it's quite mysterious: there are no other
+actors in this particular stretch of text4.
+(6.23)
+(i)
+(ii)
+(iii)
+ga yakku pøn bweno ne' ye'chayyám 'ummø
+ga.?
+yakku? pən bweno ne? 0 ye?c.hay-wa+?am ?ummə
+DCT3.NOM1 pobre hombre bueno también 3A llegar.APPL-COM+YA tal_vez
+'Y aquel pobre hombre, bueno, ya le había llegado tal vez.'
+kwandum ye'chabám dedø mal
+kwandu ?əm+ ye?c.hay-pa+?am de.də
+cuando 2E+ llegar.APPL-INC+YA DCT2.DEM
+'Cuando te va llegando esa desgracia'
+(ZOH001 R024-240-1)
+mal
+mal
+(ZOH001 R036- 158)
+bi
+naka
+kotzøkjo nøkpan tzetzjayyø bi naka
+kocək+ho? nək-pa ?ən+ cec.hay-wǝ
+cerro+LOC2 ir-INC 1E+ raspar.APPL-COM DEF cuero
+'Voy a raspar la cáscara en el cerro.'
+(ZOH001 R036, 037)
+6.2.3. Passive ?ǝm
+In a passive construction the undergoer of a verb becomes the subject
+and the agent is suppressed. There are no passive constructions that allow the
+overt expression of an agent, in a postpositional phrase or otherwise. It is
+really most accurate to say that the passive suffix bleaches all the semantic
+features from the agent argument: the thing was done, obviously someone did
+4 Sr. Omobono Sánchez Miguel uses the applicative suffix a lot in this text, which is long
+interview with him about his healing practices (he is a curandero). Perhaps he uses it because
+everything that he talks about is done on behalf of someone else the patient he is treating -
+although he doesn't explicitly mention the patient in every clause.
+135

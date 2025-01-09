@@ -1,0 +1,37 @@
+56
+1
+Roots of the shape CVCVC (other than CV₁xV₁C and
+CV₁²V₁C) are common. Probably the great majority of CVC VC
+forms in the total inventory of Chuj lexical items are loans
+from Spanish. However, forms of CVCVC shape which are not
+borrowed from Spanish also occur. Appendix C lists the 198
+native Chuj forms of the shape CVCVC which have been attested.
+Since the predominant pattern of Chuj roots is CVC and VC suf-
+fixes are likewise common, it might be suspected that the
+CVCVC forms are composed of
+are composed of CVC roots and VC suffixes. If
+the items listed in Appendix C were arbitrarily cut into CVC
+roots and VC suffixes, the following suffixes would appear:
+-ep, -ap, -up, -it, -et, -at, -ut, -ic, -ac, -uc,
+-uc, -ič, -eč,
+-ač, -oč, -uč, -ik, -ek, -ak, -ok, -uk, -i?, -e?, -a?, -0?,
+-u?, -ip', -ep', -ap', -op', -up', -ič', -ik', -ak', -uk',
+-es, -us, -iš, -eš, -aš, -oš, -ex, -ax, -ox, -ah, -uh,
+-is, -es,
+-im, -em,
+om, -um, -in, -en, -an,
+-on, -un, -uN, -aw,
+-em, -am,
+-ay,
+-oy, -il, -el, -al, -ol, and -ul. That is, all but
+forty of the possible VC combinations in Chuj would be real-
+ized as suffixes. The forty hypothetical suffixes which
+would not appear are -ip, -op, -ot, -ec, -oc, -it', -et',
+-at', -ot', -ut' -ic',
+-ec¹, -ac', -oc', -uc', -eč', -ač¹,
+-oč', -uč', -ek' -ok' -as, -OS, -uš, -ix, -ux, -ih, -eh,
+-oh, -iN, -eN, -aN, -ON, -iw, -ew, -ow, -uw, -iy, -ey, and
+-uy.
+Some of these hypothetical suffixes would occur only
+once; others would occur often. Thus, while it is possible
+that the Chuj CVCVC forms are bi-morphemic, without further at-

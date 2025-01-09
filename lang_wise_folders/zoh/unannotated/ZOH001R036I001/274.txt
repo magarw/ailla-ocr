@@ -1,0 +1,89 @@
+\ref ZOH001R036 999-295
+\_no 01274
+\tx 7eske
+\mb 7eske
+porke
+porke
+teji7aw@
+teji
+hay
+\com
+\idx
+\sg1 es que
+porque
+\egl it's that because there_is-VERS1-COM dirty 3E womb
+ZOH001R0361001.txt
+\zoq 7eske porke teji7aw@ susyu 7@y matri*s.
+\fts Porque esta* sucia la matri*s.
+\fte It's that because there's dirt in her womb.
+\ref ZOH001R036 999-296
+\_no 01275
+\tx 7entonse 7ukpa
+de
+\mb entonces 7uk -pa te -7
+susyu 7@y matri*s
+susyu 7@y matri*s
+-VERS1-COM sucio 3E matri*s
+-7a -wa
+waku n@7
+waku n@7
+\sg1 entonces tomar-INC DCT2-NOM1 guaco agua
+\egl then drink-INC DCT2-NOM1 guaco water
+\zoq 7entonse 7ukpa de waku n@7,
+\fts Entonces toma esa agua de guaco,
+\fte Then she drinks that guaco water,
+\com
+\idx
+\ref ZOH001R036 999-297
+\_no 01276
+\tx para y
+j@xp@kjaba
+gad@
+n@pin kwajadu
+\mb
+para 7@y jax -pak -jay -pa ka -d@ n@pin7 kwajadu
+\sg1 para 3E ATRAS-agarrar-APPL-INC DCT3-DEM sangre cuajada
+\egl for 3E BACK -get
+-APPL-INC DCT3-DEM blood clotted
+\zoq paray j@xp@kjaba gad@ n@pin kwajadu.
+\fts para que saque esa sangre cuajada.
+\fte so that she gets out that clotted blood.
+\com
+\idx
+\ref ZOH001R036 999-299
+\_no 01278
+\ref ZOH001R036 999-298
+\_no 01277
+\tx
+kwajartz@kk@
+jonhjo
+pat@
+pitzenhjo ya
+\mb_ kwajar-tz@k -wa jonh -jo7 pitzenhjo7 ya pa7t
+\sg1 cuajar-hacer-COM adentro-Loc2 por_eso
+\egl clot -do -COM inside -LOC2 because
+NEG
+NEG find
+-A
+\tx ya ke waku 7@y 7ukpa 7@y jenenpa
+\mb ya ke waku 7@y 7uk -pa 7@y jenen
+\sg] ya que guaco 3E
+tomar-INC 3E
+\egl now that guaco 3E drink-INC 3E
+encontrar-nINC
+\zoq Kwajartz@kk@ jonhjo, pitzenhjo ya pat@.
+\fts Esta* cuajado adentro, por eso no encuentra cria.
+\fte It's clotted inside, that's why she doesn't find it (a baby).
+\com
+\idx
+-nINC
+n@pin
+gad@
+-pa ka -da n@pin7
+deshacer(se)-INC DCT3-DEM sangre
+dissolve -INC DCT3-DEM blood
+\zoq Ya ke waku 7@y 7ukpa, 7@y jenenpa gad@ n@pin.
+\fts Ya que toma el guaco, deshace esa sangre.
+\fte Now that she drinks the guaco, it dissolves that blood.
+\com
+Page 274

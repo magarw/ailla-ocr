@@ -1,0 +1,62 @@
+\date 12/Aug/94
+\lex mok='ek.n@m-pa+'am
+\_no 01993
+\LG MIG
+\PSH [mokkekn@mpa*m]
+\UND mok-7ek. (A)n@m-pa+7am
+\MB mai*z, pizcar, INDEF, INC, YA
+\VAR
+\GRAM indef:ya
+\SCI
+\USE
+\DLG
+\SPG la cosecha de mai*z; esta*n pizcando la mazorca
+\ENG the corn harvest; they're harvesting corn
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7ek
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\1ex mok='ek-pa+a7k
+\_no 01994
+\LG MIG
+\PSH [mokkekpa*7k]
+\UND mok=7ek-pa +P@7k
+\MB mai*z, pizcar, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG pizcador
+\ENG harvester
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7ek
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+ZOH004R0011001.txt
+\lex mok='ix-ten
+\_no 01995
+\LG MIG
+\PSH [mokkixten-]
+\UND mok=7ix=ten
+\MB mai*z, ver, pararse
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+Page 859

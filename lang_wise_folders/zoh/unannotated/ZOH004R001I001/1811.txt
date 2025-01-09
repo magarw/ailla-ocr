@@ -1,0 +1,63 @@
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar a tosear
+\ENG to start to cough
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 70j
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 26/Jun/96
+\lex yuk. 7okx
+\_no 04216
+\LG MIG
+\PSH [yuk7okx-]
+\UND yuk. 7okx
+\MB ARR, apagarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG apagarse (luz)
+\ENG for a light to go out
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7okx
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 26/Jun/96
+\lex yuk. 7om
+\_no 04217
+\LG MIG
+\PSH [yuk7om-]
+\UND yuk. 7om
+\MB ARR, echar_humo
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar a echar humo
+\ENG to begin to emit smoke
+\SPL
+\SLGR
+\EXU
+ZOH004R0011001.txt
+Page 1811

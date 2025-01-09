@@ -1,0 +1,63 @@
+\EXU
+\XSP
+\XEN
+\SYN dond+ju kum-@-pa ka'-xuk-pa+a7k
+\SEMF
+\ETYM camposanto
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex kan
+\_no 01166
+LG MIG
+\PSH
+\UND kan
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG pene
+\ENG penis
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 18/Jun/96
+\lex kan tin
+\_no 01167
+\LG MIG
+\PSH
+\UND kan tin
+\MB pene, mierda
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG "verga de mierda"
+\ENG "shit dick", a term of abuse
+\SPL
+ZOH004R0011001.txt
+\SLGR
+\EXU 7aap kan tin
+\XSP viejo verga de mierda (asi* a veces dicen las mujeres a un
+hombre)
+\XEN old shit dick (this is what women sometimes call a man)
+SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+Page 508

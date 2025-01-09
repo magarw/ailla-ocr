@@ -1,0 +1,61 @@
+\XSP me forze* para que compre* mi casa
+\XEN
+\ROOT 7ix T3
+\SEMF percep
+\CAUS yak.7ix ensen~ar; mostrar
+\PASS 7ix.7@m verse
+\ANTI 7ix.7oy ver
+\CMTS
+\lex 707tz
+\_no 00008
+\SPG doblar (algo tieso, como fierro)
+\ENG to bend (something rigid, like iron or a cornstalk)
+\EX mok 707tztz@
+\XSP doblo* mai*z
+\XEN the corn bent
+\EX 707tztz@mm@ bi t@nhkuy
+\XSP se doblo* el fierro
+\XEN the iron was bent
+\ROOT 707tz P (T3)
+\SEMF bend
+\PASS 707tz.7@m
+\ANTI 707tz.7oy
+\ASSU 707tz.ney estar doblado
+\PRSV 707tz.ten tener doblado
+\CMTS term tuk 'acabar de doblar'
+\lex 7utz
+\_no 00009
+\SPG medir
+\ENG to measure
+\EX 7@y+ 7utz-ten-w@ 7@y mok
+\XSP lo tiene medido su mai*z
+\XEN he's got his corn measured
+\EX 7@y winjo y 7utztz@
+\XSP delante de e*1, lo midio*
+\XEN he measured it in front of him
+\ROOT 7utz T3
+\SEMF trade
+\PASS 7utz.7@m
+\ANTI 7utz.7oy
+\PRSV 7utz.ten
+\CMTS term tuk 'acabar de medir'
+\lex 7@kx
+\_no 00010
+\SPG desgranar (mai*z)
+\ENG to shell (corn)
+\EX mok 7@kx@
+\XSP desgrano* mai*z
+\XEN he shelled corn
+ZOH001R0611009.txt
+\EX mok 7@kxta*nh
+\XSP vamos a desgranar mai*z
+\XEN let's shell corn
+\ROOT 7@kx T3
+\SEMF farm, corn, obj
+\PASS 7@kx.7@m
+\ANTI 7@kx.7oy
+\PRSV 7@kx=ten lo tiene desgranado
+\CMTS term tuk
+\CMTS tiene que ser mai*z
+\lex 7@7p
+Page 3

@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS kaja7 is `down'; what is t@nh (7)?
+\date 25/Jun/96
+\DATE 03/Jan/1980
+\lex k@.j@y. '@y
+\_no 01675
+\LG MIG
+\PSH [k@j@yy@y-]
+\UND ka.jay.7@y
+\MB FUERA, llorar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 11orar escondido
+\ENG to cry secretly
+\EXU 7@y+ ka.j@y. 'ay-wa_7@y+ ya.anh.je7k=t@-wa
+\XPSH [7@y kajayy@yya, 7@y yanhje7kt@w@.]
+\XSP Lioro* escondido, lo quiso espantar.
+\XEN He cried in hiding, she tried to scare him.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jay
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 07/Feb/96
+\lex k@.j@@nh
+\_no 01676
+\LG MIG
+\PHO [k@j@*nh]
+\UND ka.ja@nh
+\MB
+\VAR
+\USE directional
+\GRAM av
+\SPG debajo; por abajo; de abajo
+\ENG under; to/from under
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+ZOH004R0011001.txt
+\lex k@j. '@y
+\_no 01677
+\LG MIG
+\PSH [k@jj@y-]
+\UND k@j.7@y
+\MB fruta, VERS2
+\VAR
+\GRAM vi
+Page 724

@@ -1,0 +1,52 @@
+\lex mako7
+\_no 01322
+\SPG cucaracha
+\ENG cockroach
+\lex maktaxji7
+\_no 01323
+\SPG los_cuatro
+\ENG the_four
+\lex maktaxxanh
+\_no 01324
+\SPG cuatro
+\ENG four
+\lex maktuk@ji
+\_no 01325
+\SPG en_cuatro_dias
+\ENG in_four_days
+\lex maktuk@ji7
+\_no 01326
+SPG
+\ENG four days ago
+\lex makxtujta*nh
+\_no 01327
+\SPG nueve
+\ENG nine
+\lex ma7k
+\_no 01328
+\SPG calmarse
+\ENG calm_down
+\lex mal
+\_no 01329
+\SPG mal
+\ENG bad
+\lex malanhka
+\_no 01330
+\SPG malanca
+\ENG
+\lex malanhka*7
+\_no 01331
+\SPG malanga
+\ENG
+\lex malaya
+\_no 01332
+\SPG CONFAC
+\ENG CONFAC
+\lex malba
+\_no 01333
+\SPG malba
+\ENG malba
+\lex malba7
+\_no 01334
+ZOH001R0611013.txt
+Page 106

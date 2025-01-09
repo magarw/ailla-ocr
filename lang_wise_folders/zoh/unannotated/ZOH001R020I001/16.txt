@@ -1,0 +1,65 @@
+\idx
+\not
+\idx
+\ref ZOH001R020 060
+\_no 00061
+\tx
+\mb
+jejja
+jej
+jej -w@
+\sg1 vivir-COM
+\egl live -COM
+\zoq jejja.
+\fts y vivio* mucho.
+\fte and he lived.
+\com
+\idx
+\not
+Vidx vseq
+\ref ZOH001R020 061
+\_no 00062
+\tx de gaji
+tum ponh 7@y yanhwakka*m
+bi chik
+popo
+popo7
+\mb de ka -ji7 tum ponh 7@y yak -7anh -wak -w@ -7am bi chik
+\sg1 de DCT3-Loc1 uno vez 3E CAUS-BOCA -vaciar-COM-YA DEF chico blanco
+\egl of DCT3-LOC1 one time 3E CAUS-MOUTH-empty -COM-NOW DEF little white
+\tx kaja
+\mb
+kaja
+\sg1 caja
+\egl box
+\zoq De gaji7 tum ponh 7@y yanhwakka*m bi chik popo kaja.
+\fts De ahi* una vez abrio* la cajita blanca.
+\fte Then once he has opened the little white box.
+\com
+\idx
+\not
+\idx
+\ref ZOH001R020 062
+\_no 00063
+\tx
+n@mm@ y yanhwak
+7ora
+\mb__n@mm@ 7@y yak -7anh -wak -wa 7ora
+\sg1 PROG 3E CAUS-BOCA -vaciar-dINC ahora
+\eg1 PROG 3E CAUS-MOUTH-empty -dINC now
+\zoq N@mm@y yanhwakk@ 7ora,
+\fts La hora de abrir,
+\fte when he's opening it,
+\com
+\idx
+ZOH001R0201001.txt
+\not
+\idx aspect, aux_pl
+\ref ZOH001R020 063
+\_no 00064
+\tx
+\mb
+\sg1 ARR-pelo-pintar-COM
+yukwayk@nhnh@
+yuk-way7-k@nh -w@
+Page 16

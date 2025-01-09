@@ -1,0 +1,63 @@
+\SYN
+\SEMF water
+\ASP transition
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT w@tz
+\RTGR 12
+\DSRC TK94
+\CMTS
+\CMTS v/w@tz (2)
+\date 03/Jan/80
+\lex w@tz.17
+\_no 03855
+\LG MIG
+\PSH [w@tzi7]
+\UND w@tz.E7
+\MB peinar, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG peinado
+\ENG combed
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT w@tz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex w@tz.kuy7
+\_no 03856
+\LG MIG
+\PSH [w@tzkuy7]
+\UND watz.kuy7
+\MB peinar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG peine
+\ENG comb
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT w@tz
+\RTGR T3
+ZOH004R0011001.txt
+Page 1658

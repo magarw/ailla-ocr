@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7utz
+\RTGR T3
+\DSRC HAJ95
+\CMTS 7@y 7utzjayy@ para yak7ukk@ 'lo midio* para que tomara'
+\date 09/Oct/96
+\lex 7anh='@kx. '@y
+\_no 00207
+\LG MIG
+\PSH [7anhnh@kx@y-]
+\UND 7anh=7@kx.7@y
+\MB BOCA, desgranar_maiz, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG desgranar un poquito dema*s
+\ENG to shell a little more corn
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7@kx
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 09/Oct/96
+\lex 7api7
+\_no 00208
+\LG MIG
+\PSH
+\UND 7api7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG chayote
+\ENG chayote
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+LF:7okox
+\lex 7apostol
+\_no 00209
+ZOH004R0011001.txt
+Page 88

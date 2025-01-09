@@ -1,0 +1,62 @@
+\XEN I went along touching things as I passed
+\ROOT jim T3
+\SEMF touch, hand
+\PASS jim.7@m
+\ANTI NONE
+\CMTS v class: has to have ergative markers
+\lex jin
+\_no 00022
+\SPG refregarle
+\ENG to scrub
+\EX 7@y jinjayy@ 7@y kuptuku7
+\xSP le refrego* la espalda
+\XEN he scrubbed his back
+\EX 7@n jinpa_7@n win
+\XSP estoy refregando yo mismo
+\XEN I'm scrubbing myself
+\EX 7@y jinxukka*m
+\XSP ya esta* refregaron
+\XEN now they've scrubbed
+\ROOT jin T3
+SEMF care
+\PASS NONE * jin.7@m
+\ANTI jin. 7oy refregar
+\CMTS tiene que ser personas
+\lex ji7p
+\_no 00023
+\SPG mover (coma una comida); menear; revolver; trompear
+\ENG to move (food); to stir; to mix; to root
+EX yoya ji7ppoba y witt@
+\XSP anduvo trompeando el marrano
+\XEN_a pig_goes rooting around
+\EX 7@y ji7pwituw@ k@xi7
+\XSP lo removio* la comida
+\XEN she stirred the food around
+\ROOT ji7p P (T3)
+\SEMF cook, move
+\PASS ji7p.7@m moverse
+\ANTI ji7p. 7oy menear (la comida); revolver
+\ASSU ji7p.ney estar amontonado
+\CMTS now rejects the ANTI
+\lex ji7t
+\_no 00024
+ZOH001R0611009.txt
+\SPG manchar
+\ENG to smear; to stain
+\EX bi 7une 7@y k@xi nenji7tt@
+\XSP la criatura se mancho*
+de comida
+\XEN the baby smeared food on itself
+\ROOT ji7t T3
+\SEMF clean
+\PASS ji7t.7@m mancharse
+\ANTI ji7t.7oy
+\CMTS now rejects both PASS and ANTI
+\CMTS always gives examples with nen+
+\lex ji7tz
+\_no 00025
+\SPG recoger (tela) con un hilo suelto
+\ENG to gather (fabric)
+\EX
+\XSP
+Page 7

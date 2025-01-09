@@ -1,0 +1,63 @@
+\ENG to go out rumbling
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ju77u
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex j@x-juk
+\_no 01056
+\LG MIG
+\PSH [j@xjuk-]
+\UND jax=juk
+\MB ATRAS, fumar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG salir ahumado
+\ENG to come out smoked
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT juk
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex j@x=jup
+\_no 01057
+\LG MIG
+\PSH [j@xjup-]
+\UND jax-jup
+\MB ATRAS, jalar
+\VAR
+\GRAM dir + vt
+\SCI
+\USE
+\SPG sacar jalandolo
+\ENG to get something out by pulling it
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+\ETL
+\ROOT jup
+Page 463

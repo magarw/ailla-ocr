@@ -1,0 +1,63 @@
+\GRAM S
+\SCI
+\USE
+\SPG espina
+\ENG thorn
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex paxte' tziji7
+\_no 02567
+\LG MIG
+\PSH [paxte tziji7]
+\UND paxte7 tziji7
+\MB
+\VAR
+\GRAM s(m)s
+\SCI
+\USE
+\SPG puerco espi*n
+\ENG porcupine
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex pay.ney
+\_no 02568
+\LG MIG
+\PSH [payney-]
+\UND pay.ney
+\MB X, ASSUM1
+\VAR
+GRAM assum1
+\SPG
+\ENG
+\EXU pay.ney-w@ bi n@7
+\XPSH [Payneyy@ bi_n@7.]
+\XSP Esta* mansa el agua, como que si no tuviera corriente.
+\XEN The water is still, as if there were no current.
+\SYN
+\ROOT
+pay
+\DSRC HAJ95
+\CMTS
+\date 25/Jun/96
+ZOH004R0011001.txt
+\lex payu
+\_no 02569
+Page 1105

@@ -1,0 +1,63 @@
+\lex yuk.j@tat
+\_no 04255
+\LG MIG
+\PSH [yukj@t@t-]
+\UND yuk.j@t@t
+\MB ARR, sobar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar a sobar o tallar
+ENG to start to rub or scrape
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jat@t
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex yuk.j@t='ok.manh
+\_no 04256
+\LG MIG
+\PSH [yukj@ttokmanh-]
+\UND yuk.j@t=7ok.manh
+\MB ARR, rebajar, ABAJO, *pisar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar a rebajar
+\ENG to start to lose weight
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 jat
+\RTGR 1 12
+\ROOT 2 7okmanh
+\RTGR 2 12
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex yuk.j@7t
+\_no 04257
+\LG MIG
+\PSH [yukj@7t-]
+\UND yuk.j@7t
+\MB ARR, regar_ri*o
+\VAR
+ZOH004R0011001.txt
+Page 1828

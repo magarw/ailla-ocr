@@ -1,0 +1,63 @@
+\XEN
+\SYN
+\SEMF body, temp
+\ASP state
+\ARG
+\NOM
+\SUB jo.jaj, ni.jaj, yuk.jaj
+\ROOT jaj
+\RTGR 12
+\DSRC HAJ95
+\CMTS your legs or butt cheeks rub together when you're walking a long way
+in the sun and get chafed. hay que poner mentolata.
+\date 03/Jan/80
+\lex jaj.e7
+\_no 00629
+\LG MIG
+\PSH [jaje7]
+\UND jaj.E7
+\MB arder, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG zumo de naranja o limo*n
+\ENG zest of orange or lime
+\EXU 1 7anax (a) jaj.e7
+\XPSH 1 [7anax jaje7]
+\XSP 1 zumo de naranja
+\XEN 1 orange zest
+\EXU 2 7imunix jaj.e7
+\XPSH 2 [7imunix jaje7]
+\XSP 2 zumo de limo*n
+\XEN 2 lime zest
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jaj
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 24/Jun/96
+\lex jaj.jaj.ney
+\_no 00630
+ZOH004R0011001.txt
+\LG MIG
+\PSH [jajjajney-]
+\UND jaj.jaj.ney
+\MB X, X, REDUP2
+\VAR
+\GRAM VİR
+\SCI
+\USE
+\SPG riendose
+\ENG to laugh
+\EXU xikpa 7@y+ jaj.jaj.ney-w@
+\XPSH [Xikpay jajjajneba.]
+\XSP Se esta* riendo con gusto.
+\XEN She is laughing with pleasure.
+\SYN
+\SEMF
+\ETYM
+Page 269

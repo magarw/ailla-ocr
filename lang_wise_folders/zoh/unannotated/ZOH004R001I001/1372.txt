@@ -1,0 +1,63 @@
+\USE
+\SPG jugar por coser
+\ENG to play at sewing
+\EXU bi yom (@)=7une7_7@y+ t@p-m@tz.7@y-pa
+\XPSH [Bi yo:m7une 7@y t@pm@tztz@ba.]
+\XSP La muchacha esta* jugando por coser.
+\XEN The girl is playing at sewing
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT t@p
+\RTGR T1
+\DSRC HAJ02
+\CMTS
+\DATE 09/Aug/02
+\lex t@p-pa+a7k
+\_no 03190
+\LG MIG
+\PSH [t@ppa*7k]
+\UND t@p-pa +P@7k
+\MB coser, INC, RE
+\VAR t@p-pa+a7k p@n
+\GRAM agt1
+\SCI
+\USE
+\SPG costurero/a
+\ENG seamstress; tailor
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT t@p
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 09/Feb/96
+\lex t@p.pu'
+\_no 03191
+\LG MIG
+\PSH [t@ppu-]
+\UND t@p.pu7
+\MB coser, RVS
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG destejer; descoser
+\ENG to undo weaving or sewing
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+Page 1372

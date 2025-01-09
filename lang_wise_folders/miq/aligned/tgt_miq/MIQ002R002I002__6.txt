@@ -1,0 +1,66 @@
+ai gabanmentka
+3.POSS cabinet
+'sus gabinetes'
+'their cabinets'
+nani ba
+PL DET
+ai
+ta uplika nani ba
+kan
+3.POSS REL person PL DET take.out-IMPF be.3.PERF
+'elegían sus líderes como gobernadores'
+'they elected their leaders as governors'
+an
+and
+'consejales y luego'
+'councils and then'
+baha managua
+that Managua
+bawina
+then
+'en Managua en la capital de Nicaragua'
+'in Managua, the capital of Nicaragua, in the capital,'
+bila-ra
+ba kapital nicaragua
+kapital-ka-ra
+inside-LOC DET capital Nicaragua capital-DEF-LOC
+nahki lalka nani mank-i bal-aia
+this leader PL
+put-IMPF come-INF
+'elejian sus gobiernos y hacian'
+'they elected their governments and legislated'
+an
+kumkum
+and some
+'y algunos'
+'and some'
+ulbisakanka nani manis bara sa
+writing
+PL
+may there AUX.3.NPST
+'hay muchos escritos que están ahí’
+'there are many writings there'
+dia-ra
+rait nani ba
+what-LOC right PL
+DET
+'hay muchas verdades también'
+'there are many truths too'
+sakuna baha nani ulbisakanka nani kumkum
+but that PL writing
+PL
+some
+'pero dentro de esos escritos hay una cosa'
+'but there is something in those writings'
+ba dauk-i bal-an sa
+DET make-IMPF come-3.PST AUX.3.NPST
+PL DET
+gobernador
+governor
+bara ba bila-ra
+there DET inside-LOC
+sin
+bara sa
+also there AUX.3.NPST
+sika
+AUX

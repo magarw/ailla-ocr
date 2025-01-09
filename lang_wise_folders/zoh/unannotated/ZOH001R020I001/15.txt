@@ -1,0 +1,64 @@
+\zoq N@kpay makk@.
+\fts va a pescar.
+\fte He goes to fish.
+\com
+\idx
+\not
+\idx aux_p1
+\ref ZOH001R020 056
+\_no 00057
+\tx rrikotukka*m
+\mb rico-tuk
+\sg1 rico-terminarse-YA
+\egl rich-finish
+\not
+\idx
+\zoq Rrikotukka*m.
+\fts se hizo muy rico.
+\fte Now he's become very rich.
+\com
+\idx
+\ref ZOH001R020 057
+\_no 00058
+\tx koteji7amp@7
+\mb ko -teji
+-7am
+-7am-p@7k
+\sg1 soc-hay
+-YA -REL 2
+\egl soc-there_is-NOW-REL 2
+\ref ZOH001R020 058
+\_no 00059
+\zoq Koteji7amp@7,
+\fts Ya muy rico,
+\fte Now he has a lot,
+\not
+\idx
+-NOW
+\ref ZOH001R020 059
+\_no 00060
+\tx jejja
+\mb
+\sg1 vivir-COM
+\egl live -COM
+\tx peru 7enhfadtz@kk@
+\mb peru enfadar
+-tz@k -w@
+jejxukk@
+jej -xuk-w@
+vivir-3PL-COM
+\sg1 pero enfadar
+-hacer-COM
+\egl but grow_tired-do -COM live -3PL-COM
+\zoq peru 7enhfadtz@kk@ jejxukk@.
+\fts pero se enfado* de vivir.
+\fte but he gets tired of living.
+\com
+\idx aspect, vseq
+jej -w@
+\zoq Jejj@,
+\fts vivio*,
+\fte He lived,
+\com
+ZOH001R0201001.txt
+Page 15

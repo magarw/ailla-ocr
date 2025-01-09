@@ -1,0 +1,62 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tonh
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 17/Jun/95
+\lex y@k.t@nh
+\_no 04368
+\LG MIG
+\PSH [y@kt@nh]
+\UND yak.t@nh.0
+\MB INSTR2, cortar, NOM6
+\VAR
+GRAM SVO
+\SCI
+\USE
+\SPG machete
+\ENG machete
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT t@nh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex y@k.t@p
+\_no 04369
+LG MIG
+\PSH [y@kt@p]
+\UND yak.t@p.0
+\MB INSTR2, coser, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG aguja
+\ENG needle
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT t@p
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex y@k.t@'.7@y
+\_no 04370
+ZOH004R0011001.txt
+Page 1875

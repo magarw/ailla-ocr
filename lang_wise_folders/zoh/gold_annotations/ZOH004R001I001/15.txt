@@ -1,0 +1,64 @@
+\EXU 1 7amma-A7 tzap+j@nanh
+\XPSH 1 [7amma tzapjananh!]
+\XSP 1 !Mira pa(ra) arriba!
+\XEN 1 Look up!
+\EXU 2 7@n+ 7amma-w@ pa tzap+j@nanh
+\XPSH 2 [7@n 7ammaw@ pa tzapjānanh.]
+\XSP 2 vi* para arriba.
+XEN 2 I looked up.
+\EXU 3 7@y+ yak.7amma-w@
+\XPSH 3 [7@y yakkammaw@.]
+\XSP 3 Lo esta* dando de ver.
+\XEN 3 He was showing it to someone
+\EXU 4 d@ 7amma-pa ya.j@@nh ka.jaanh
+\XPSH 4 [D@ 7ammapa yaj@*nh kaja*nh.]
+\XSP 4 Estoy viendo para aca* y por alla*.
+\XEN 4 I'm looking here and there.
+\EXU 5 7amma.7@m-w@ bi p@n
+\XPSH 5 [7amma7@mm@ bi p@n.]
+\XSP 5 vieron el hombre.
+\XEN 5 They saw the man.
+\SYN
+\SPL yak.7amma
+\SLGR CAUS
+\SLGL hacer ver
+\SPL 7amma.7@m
+\SLGR PASS
+\SLGL vieron
+\SEMF perception
+\ASP activity
+\ARG agent, patient
+\NOM 7amma.kuy7
+\SUB ko.7amma, win=n@k='amma, yuk. 'amma
+\ETYM
+\ETL
+\ROOT 7amma
+\RTGR T1
+\DSRC HAJ94
+\CMTS prob. derived; other languages have %7a7m
+\CMTS pass was equated with '7ay 7amma-xuk-w@' with an unknown agent.
+\date 03/Jan/80
+\lex 7amma.kuy7
+\_no 00035
+\LG MIG
+\PSH [7ammakuy7]
+\UND 7amma.kuy7
+\MB mirar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG 1 los ojos
+\SPG 2 la vista
+\ENG 1 the eyes
+\ENG 2 vision
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+Page 15

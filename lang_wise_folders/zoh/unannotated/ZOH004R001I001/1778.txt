@@ -1,0 +1,66 @@
+\SPG 2 ser gordo
+\ENG 1 to get fat
+\ENG 2 to be fat
+\SPL yak.yenh
+\SLGR CAUS
+\SLGL hacer engordar // to fatten; to cause to become fat
+\EXU 1 jak yenh-wa
+\XPSH 1 [jak yenhnh@]
+\XSP 1 una carne muy gorda
+\XEN 1 a very fat piece of meat
+\EXU 2 jak yenh-pa 7@y+ n@k-wa
+\XPSH 2 [Jak yenhpay n@kk@.]
+\XSP 2 Se fue* engordando mucho.
+\XEN 2 She went along getting very fat.
+\SYN
+\SEMF body
+\ASP transition
+\ARG
+\NOM yew.e7
+\SUB
+\ETYM
+\ETL
+\ROOT yenh
+\RTGR IX
+\DSRC TK94
+\CMTS caus yak+ yenh caus2 engordar
+\CMTS CK-GR
+HAJ:96 fixed
+\date 03/Jan/80
+\lex yep
+\_no 04137
+\LG MIG
+\PSH
+ZOH004R0011001.txt
+-
+\UND yep
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG (ex) tender; tender (ropa)
+\ENG to stretch; to hang (clothes)
+\SPL yep. 7oy
+\SLGR ANTIP
+\SLGL extender // to stretch
+\SPL yep.ten
+\SLGR ASSUM1
+\SPL yep.7@m
+\SLGR PASS
+\SLGL extenderse // to be stretched
+\SLGL estar tendido // to be hung out
+\EXU 7@y+ yep-w@ yo't.e7
+\XPSH [7@y yepp@ yote7.]
+\XSP Tendio* la ropa.
+\XEN She hung the clothes.
+\SYN
+\ETYM
+\ETL
+\ROOT yep
+\SEMF arrange
+\ASP process
+\ARG
+\NOM yep.e7, yote'=yep.kuy7, yep.naanh
+\SUB
+Page 1778

@@ -1,0 +1,64 @@
+\GRAM vt
+\SCI
+\USE
+\SPG amontonarse con una vara
+\ENG to heap things up with a stick
+\SPL
+\SLGR
+\EXU 7@y+ ji7p=7anh.kuk. 'aH-w@ t@m, 7@y+ ji7p-tzik-w@
+\XPSH [7@y ji7ppanhkukkaw@ t@m, 7@y ji7ptzikk@.]
+\XSP Estaba ajuntando la fruta, y la rayo*
+(con el palito).
+\XEN She was heaping up the fruit with a stick and scratched it.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ji7p
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 06/Feb/96
+\DATE 14/Aug/02
+\lex ji7p.w@y
+\_no 00792
+\LG MIG
+\PSH [ji7pp@y-]
+\UND ji7p.w@y
+\MB mover_con_palo, DEPOS
+\VAR
+\GRAM vt: depos
+\SCI
+\USE
+\SPG arrimar
+\ENG to push aside.
+\EXU 7@y+ ji7p.w@y-w@_7eya+joonh
+\XPSH [7@y ji7pp@yy@ 7eyajo*nh.]
+\XSP Lo arrimo* a un lado.
+\XEN He pushed it aside with a stick.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ji7p
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/96
+ZOH004R0011001.txt
+\lex ji7t
+\_no 00793
+\LG MIG
+\PSH
+\UND ji7t
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG manchar
+\ENG to smear; to stain
+\EXU bi 7une' 7@y+ k@x. E nen(a)=ji7t-w@
+\XPSH [Bi 7uney k@xi nenji7tt@.]
+\XSP La criatura se mancho* de comida.
+Page 344

@@ -1,0 +1,63 @@
+\USE
+\SPG
+\ENG
+\SPL pox.pox.ney (vir)
+\SLGR andando con los zapatos haciendo un ruido
+\EXU pox.pox.ney-pa 7@y+ wit-wa
+\XPSH [Poxpoxneypay witt@.]
+\XSP Anduvo con los zapatos hiciendo un ruido.
+\XEN She walked with her shoes slapping.
+\SYN
+\SEMF
+ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\lex {.pu'}
+\_no 04492
+\LG MIG
+\PSH
+\UND pu7
+\MB RVS
+\VAR
+\GRAM suf
+\SCI
+\USE morphosyntactic verbal suffix: reversive
+\SPG deshacer VERBO
+\ENG to undo VERB
+\SPL
+\SLGR
+\EXU kom=pu'.7@m-w@
+\XPSH [Kompu7@mm@.]
+\XSP Se desarmo*
+\XEN It stopped working.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 11/Feb/96
+ZOH004R0011001.txt
+\lex {+p@7k}
+\_no 04493
+\LG MIG
+\PSH
+\UND p@7k
+\MB REL2
+\VAR
+\GRAM rel
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU 1 y@.d@ tzam.e 7@y+ n@ji metz-a-'anh manh.kuy'+p@7k
+p@n
+XPSH 1 [Y@d@ tzame 7@y n@ji "Metzanh Manhkuyp@7k P@n."]
+\XSP 1 Esta pla*tica se llama "El Dos Pies".
+\XEN 1 This story is called "The Two Legged Person."
+\SYN
+\SEMF
+Page 1929

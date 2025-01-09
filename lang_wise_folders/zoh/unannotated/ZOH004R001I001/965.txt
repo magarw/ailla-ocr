@@ -1,0 +1,62 @@
+\DSRC HAJ95
+\CMTS CK-EX: shd be opposite order. HAJ:96, right, we fixed it
+\date 19/Jun/96
+\lex ni.7ex.kuy7
+\_no 02240
+\LG MIG
+\PSH [ni7exkuy7]
+\UND ni.7ex.kuy7
+\MB PURP, encajar, INSTR1
+\VAR
+\GRAM instrl
+\SCI
+\USE
+\SPG cosa en donde se puede levantar encajado cualquier cosa
+\ENG a place where you can hang something without having a hook or pin, like
+hanging a piece of paper over a picture frame
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7ex
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 26/Jan/96
+\lex ni.707k
+\_no 02241
+\LG MIG
+\PSH [ni707ok-]
+\UND ni.707k
+\MB PURP, calmarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG 1 calmarse
+\SPG 2 estar_medio mojadito
+\ENG 1 to calm down
+\ENG 2 to be a little wet
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 707k
+\RTGR 12
+ZOH004R0011001.txt
+\DSRC HAJ95
+\CMTS
+\date 13/Jul/95
+\lex ni.7om
+\_no 02242
+Page 965

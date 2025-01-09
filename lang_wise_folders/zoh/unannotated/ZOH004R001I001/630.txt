@@ -1,0 +1,62 @@
+\DSRC HAJ94
+\CMTS
+\date 24/Jun/96
+\lex ko.tij
+\_no 01448
+\LG MIG
+\PSH [kotij-]
+\UND ko.tij
+\MB OTRO, ir
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG ir por alguien
+\ENG to go for someone
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tij
+\RTGR IX
+\DSRC HAJ94
+\CMTS
+\date 14/Jun/95
+\lex ko.tokoy
+\_no 01449
+\LG MIG
+\PSH [kotokoy-]
+\UND ko. tokoy
+\MB OTRO, perderse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG perder
+\ENG to lose
+\EXU 1 7@y+ ko.tokoy.jay-w@
+\XPSH 1 [7@y kotokoyjayy@.]
+\XSP 1 Perdio* algo.
+\XEN 1 He lost something.
+\EXU 2 7@y+ ko. tokoy-w@ toy.kuy7
+\XPSH 2 [7@y kotokoyy@ toykuy.]
+\XSP 2 Perdio* algo.
+\XEN 2 She lost something.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tokoy
+\RTGR IX
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS CK-GR ok as vt HAJ:96. both EX mean the same thing
+\date 18/Jun/96
+\lex ko.tom. '@y
+\_no 01450
+Page 630

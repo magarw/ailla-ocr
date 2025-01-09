@@ -1,0 +1,67 @@
+\mb ka -y min -pa -7am kwando xuk
+\sg1 DCT3-TMP venir-INC-YA
+\eg1 DCT3-TMP come -INC-NOW when finish -SUF-COM-NOW
+\ref ZOH001R036 663
+\_no 00651
+\zoq Gay minpam kwando xukk@yya*m.
+\fts Ya viene cuando ya se enfrio*
+\fte Now it comes when it's finished (cooled).
+\com
+\idx
+\tx gam
+\mb
+tzinhpa*m
+tzinh
+ka -Y -7@m
+\sg1 DCT3-TMP-2A
+\eg1 DCT3-TMP-2A bathe -INC-NOW
+\zoq Gam tzinhpa*m,
+\fts Ya te ban~as,
+\fte Now you bathe,
+\com
+\idx
+ZOH001R0361001.txt
+-pa - 7am
+ban*arse-INC-YA
+\com
+\idx ord
+\ref ZOH001R036 664
+\_no 00652
+\tx 7i ju
+t@kk@ba
+pak
+toe7
+\mb 7i ju7 t@k -7@y -pa pak toy
+-7@y-w@ - 7am
+cuando acabarse-SUF-COM-YA
+-E7
+\sgl y
+donde casa -VERS2-INC hueso doler-NOM3
+\egl and where house-VERS2-INC bone hurt -NOM3
+\zoq 7i ju t@kk@ba pak toe7.
+fts y en donde se mete el dolor del hueso.
+\fte and where the hurt bone enters.
+\ref ZOH001R036 665
+\_no 00653
+\tx GSM: pitz@mpa
+\mb GSM pitz@m-pa
+\sg1 GSM: salir -INC
+\eg1 GSM: leave -INC
+\zoq GSM: Pitz@mpa.
+\fts GSM: Sale.
+\fte GSM: It leaves.
+\com
+\idx
+\ref ZOH001R036 666
+\_no 00654
+\tx OSM: pitz@mpa
+\mb OSM pitz@m-pa
+\sg1 OSM: salir -INC
+\egl OSM: leave -INC
+\zoq OSM: Pitz@mpa.
+\fts OSM: Sale.
+\fte OSM: It leaves.
+\com
+\idx
+\ref ZOH001R036 667
+Page 142

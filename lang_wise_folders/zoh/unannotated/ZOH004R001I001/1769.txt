@@ -1,0 +1,65 @@
+\MB anona, tierra
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG anonal
+\ENG an anona orchard
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH
+\date 26/Jun/96
+\lex yaw.a7
+\_no 04117
+\LG MIG
+\PSH [yawa7]
+\UND yaw.A7
+\MB X, NOM2
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG tierno
+\ENG tender
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT %yanh
+\DSRC HAJ94
+-
+\CMTS
+\date 29/Jan/96
+\lex yaw.a' mok 7uk.i
+\_no 04118
+\LG MIG
+\PSH [yawa mok 7uki]
+\UND yaw.A7 mok 7uk.E
+\MB X, NOM2, mai*z, tomar, NOM7
+\VAR
+\GRAM amsms
+\XEN
+\SYN
+HAJ:96 main stress on nax/OK:TK
+\SCI
+\USE
+\SPG atole de elote
+ENG sweet corn atole
+\EXU
+\XSP
+\SEMF
+\ETYM
+\ETL
+\ROOT 7uk
+ZOH004R0011001.txt
+Page 1769

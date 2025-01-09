@@ -1,0 +1,73 @@
+ZOH001R0361001.txt
+\zoq Limpuy 7ukpa para bi teke7t7anhkame ne7, ney pitz ne7.
+\fts Lo toma limpio para la tapeadura de orin tambien, eso es tambien.
+\fte He drinks it clean so that urine blockage also, because that is also.
+\com
+\idx
+\ref ZOH001R036 999-290
+\_no 01269
+\tx ney pitz
+\mb ney
+pitz
+\sgl mismo por eso
+uno DEF guajilote fruta
+\egl self because of one DEF tree
+fruit
+tum@ bi tzutzu
+tum@ bi tzutzu7
+\zoq Ney pitz tum@ bi tzutzu t@m.
+\fts Es el mismo la fruta de guajilote.
+\fte It's the same one, the guajilote fruit.
+\com
+\idx
+\ref ZOH001R036 999-291
+\_no 01270
+\tx <break>;
+\fts <break>;
+\ref ZOH001R036 999-292
+\_no 01271
+\tx GSM: ya manak pat@*
+\mb GSM
+ya manak pa7t
+\sg1 GSM: NEG hijo/a
+\eg1 GSM: NEG child find
+encontrar-nINC
+\ref ZOH001R036 999-293
+\_no 01272
+\tx ti
+\mb ti
+-A
+\zoq GSM: Ya manak pat@*,
+\fts GSM: y aquel que no puede tener hijo,
+\fte GSM: And one who can't get children,
+\com
+\idx
+\zoq ti tzoy 7@m tz@kjaba?
+fts que remedio le haces?
+-nINC
+tzoy
+7@m tz@kjaba
+tzoy
+7@m tz@k -jay -pa
+\sg1 que saltar 2E hacer-APPL-INC
+\egl what jump 2E do -APPL-INC
+\fte what medicine do you make them?
+\com
+\idx
+\com
+\idx
+t@m
+t@m
+\ref ZOH001R036 999-294
+\_no 01273
+\tx OSM: yoma ya manak pat@*7
+\mb OSM yomaa7 ya manak pa7t
+-t@7
+\sg1 OSM: mujer NEG hijo/a encontrar-querer-nINC-REL
+\egl OSM: woman NEG child find
+-want -nINC-REL
+\zoq OSM: Yoma* ya manakpat@*7,
+\fts OSM: Mujer que no puede tener cria,
+\fte OSM: A woman who can't have children,
+-A -V7k
+Page 273

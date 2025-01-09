@@ -1,0 +1,61 @@
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\1ex xu7k
+\_no 00414
+\SPG 1 oler; olfatear; hueler algo
+\SPG 2 besar
+\ENG 1 to smell
+\ENG 2 to kiss
+\SEMF body
+\ASP process
+\ARG
+\NOM xu7k.naanh, xu'k.i7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex xun
+\_no 00415
+\SPG andar de rama en rama, como una ardilla o un chango
+\ENG to walk from branch to branch, like a squirrel or a monkey
+\SEMF animal, move_self
+\ASP process
+VARG location, manner
+\NOM
+\RTGR IX
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\1ex xut
+\_no 00416
+\SPG agujerar; hacer hueco
+\ENG to pierce; to make a hole
+\SEMF cut
+\ASP transition
+\ARG
+\NOM ?* naanh
+\NOM nax-xut. 'oy.kuy7
+\RTGR T3
+\POS Y
+\MID
+\UNDO
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\1ex xu7t
+\_no 00417
+\SPG hacerse angosto
+\ENG to become narrow
+\SEMF size
+\ASP transition
+\ARG
+\NOM xu't.i7
+\RTGR 12
+Page 102

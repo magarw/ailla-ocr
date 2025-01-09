@@ -1,0 +1,64 @@
+\SPG paloma
+\ENG dove
+\EXU popo' paloma
+\XSP paloma_blanca
+\EXU y@k paloma
+\XSP paloma_negra
+\EXU nax paloma
+\XSP paloma "sucia"
+\SYN
+LF: jon
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 08/Feb/96
+\lex pama
+\_no 02526
+\LG MIG
+\PSH
+\UND pama
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG cama
+\ENG bed
+\EXU pama kuy
+\XSP camilla de palos delgados
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 15/Jun/95
+\lex pan
+\_no 02527
+\LG MIG
+\PSH
+\UND pan
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG pan
+\ENG bread
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+ZOH004R0011001.txt
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH HAJ:96, /a/ sounds short, exactly like Spanish
+Page 1088

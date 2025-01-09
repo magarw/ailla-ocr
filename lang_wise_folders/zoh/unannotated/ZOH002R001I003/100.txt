@@ -1,0 +1,49 @@
+(v)
+(vi)
+(vii)
+(ix)
+(x)
+dø nøkpan tøkjo'
+də+ nək-pa ?ən+ tək+ho?
+1 A+ ir-INC 1E+ casa+LOC2
+'Me voy a la casa.'
+(viii) dø nøkpa parkejonang
+də+ nək-pa parke+honaŋ
+1 A+ ir-INC parque+DIR3
+'Me voy al parque.'
+(xi)
+dø tøkkøba tzamkuyjo'
+də+ tək.?əy-pa
+camkuy?+ho?
+1A+ casa.VERS2-INC montaña+LOC2
+'Me voy en la montaña.'
+dø nøkpa camkuyjonang
+də+ nək-pa camkuy?+honaŋ
+1 A+ ir-INC montaña+DIR3
+'Me voy para la montaña.'
+dø minnø tøkjóng
+də+ min-wə
+tək+hooŋ
+1A+ venir-COM casa+DIR4
+'Vine de la casa.'
+dø pitzømpam tøkjongjong
+də+ picəm-pa+?am tək+hoŋ+hoon
+1A+ salir-INC+YA
+'Voy saliendo par afuera de la casa.'
+casa=adentro+DIR4
+(ZOH001 R0601001-092)
+(ZOH001 R0601001-096)
+75
+(ZOH001 R0601001-095)
+(ZOH001 R0601001-003)
+(ZOH001 R0601001-117)
+(ZOH001 R0601001-098)
+'øy powo mexgøxi jemji bi 'ay'døkka
+?əy+ pə?-wə
+meša+gəši hemhi bi ?ay?+dǝkkay
+3E+ poner-COM mesa+LOC4 todo DEF hoja+NPL
+'Lo puso en la mesa todas las hojas.'
+(ZOH001 R010-614)
+There are three non-spatial postpositions, shown in table 4.5. If MIG
+Zoque had a complete case system, these would simply be a part of that.
++hənaŋ, ACC, is usually translated by con, 'with', and shows the same

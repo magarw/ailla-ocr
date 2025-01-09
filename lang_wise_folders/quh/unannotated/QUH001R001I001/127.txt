@@ -1,0 +1,52 @@
+-palabras de cuatro sílabas
+(4)
+(5)
+'chay.-man.tá.-qa
+DEM-ABL-FOC
+■
+(
+( x i
+(X
+-palabras de seis sílabas
+X.)φ
+X.) w
+)(X . ) f
+‘llan.k´a.-‘mu-r.qa-n.kú.- chu
+(6)
+trabajar-TRANSLOC-PAS-3PL-INT/VAL
+X
+C
+(X I X
+( X . )( X
+.) w
+.) (X.) f
+X
+.) Φ
+-palabras de una sílaba¹58
+'y después" o "y desde aquí' (conector discursivo)
+Según la prominencia (siempre relativa) de los acentos, el que aparece dominando la
+estructura prosódica general pertenece a la frase fonológica, nivel que sistemáticamente
+impone la dominancia de la sílaba fuerte del pie trocaico final.
+ñam
+(X) f=w = 4
+En el análisis morfológico de las palabras que poseen número par de sílabas, los sufijos
+parecen no alterar el patrón acentual. Sin embargo, hasta aquí los datos son insuficientes para
+resolver si la sufijación se encuentra o no incorporada a la palabra fonológica.
+'¿fueron a trabajar?'
+La representación observada señala dos aspectos relevantes: 1- un doble nivel de
+asignación acentual. La asignación acentual en el nivel del pie, que determina la ubicación de
+los acentos secundarios de la palabra prosódica (priorizando su presencia en la primera sílaba
+de la palabra), y la asignación del acento principal, que se realiza en el nivel frasal (q); 2- la
+dirección de asignación acentual en el nivel de la frase se resuelve en dirección derecha-
+izquierda ya que el límite relevante de la palabra para la localización del acento principal es el
+límite derecho que favorece su ubicación sobre la anteúltima sílaba. Quedan abiertos algunos
+interrogantes: 1- ¿existen dos o más niveles de asignación acentual en el quechua?; 2- ¿los dos
+niveles que a primera vista se reconocen en el proceso de asignación de acentos operan en la
+misma dirección u operan en direcciones contrapuestas?; 2- ¿en qué secuencialidad lo hacen?;
+es decir, ¿qué asignación de acento es previa y condiciona a qué otra?
+En palabras con un número impar de sílabas, la distribución de los pies trocaicos (al ser
+siempre binarios) producen situaciones problemáticas como las que siguen.
+158
+No son frecuentes en la lengua.
+127
+'camino'

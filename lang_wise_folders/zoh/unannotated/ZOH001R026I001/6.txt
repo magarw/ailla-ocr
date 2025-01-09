@@ -1,0 +1,93 @@
+ZOH001R0261001.txt
+\fts Y el tigrillo pinto le volvio* a contestar,
+\fte And the little spotted jaguar answered her again,
+\ref ZOH001R026 031
+\_no 00026
+\tx 7@y n@mjayy@
+\mb 7@y n@m -jay -wa
+\sg1 3E decir-APPL-COM no
+\egl 3E say -APPL-COM no
+\tx 7@n k@xkuy
+\mb 7@n k@x
+-kuy7
+comer-INSTR1
+\sgl 1E
+\egl 1E eat -INSTR1
+\ref ZOH001R026 033
+\_no 00027
+\zoq 7@y n@mjayy@, "N@7tti, mama, d@x teji ken metz@ 7@n_k@xkuy."
+\fts Le dijo, "No, mama* yo tengo que buscar mi
+comida.
+"
+\fte He said to her, "No, mama, I have to look for my food."
+\tx manak
+\mb manak
+\sgl hijo/a
+\egl child
+\tx y yakkanhtzonhnhoge7tt@
+bi mama
+\mb 7@y yak -7anh -tzonh-7oy -ke7t -w@ bi mama
+\sgl 3E CAUS-BOCA -unir -ANTIP-REPET-COM DEF mama*
+\egl 3E CAUS-MOUTH-join -ANTIP-REPET-COM DEF mother well go -IMPV2 male
+\ref ZOH001R026 035
+\_no 00028
+\tx pak@
+\mb pak
+n@7tti mama
+n@7tti mama
+ke
+d@x tej
+d@x teji
+mama* 1prn hay
+ke
+que 1E
+mother 1Prn there is that 1E
+\zoq Y yakkanhtzonhnhoge7tt@ bi mama, Pwes, n@kko, jaymanak.
+\fts Le volvio* a contestar su mama* "Pues, anda, mi hijo.
+\fte The mother answered him again, "well, go, son.
+m
+tunh
+7@m tunh
+-A7
+\sgl agarrar-nIMPV 2E camino
+\egl get
+-nIMPV 2E road
+\zoq P@k@m tunh."
+\fts Agarra tu camino."
+\fte Take your road."
+\ref ZOH001R026 036
+\_no 00029
+\tx_n@kw@
+bi 7un
+\mb n@k -w@ bi 7une7
+\sg] irse-COM DEF nin~o/a tigre
+\egl go -COM DEF child
+jaguar
+kajanh
+kajanh
+\zoq N@kw@ bi 7unkajanh.
+\fts se fue* el tigrillo.
+\fte The little jaguar went.
+\ref ZOH001R026 037
+\_no 00030
+\tx y
+yakn@mja7oyy@
+\mb 7@y yak -n@m -jay -7oy -w@
+n metz@
+7@n me7tz -A7
+buscar-nIMPV
+look -nIMPV
+bi
+bi
+"I
+mama
+mama
+Page 6
+pwes n@kko
+pwes n@k -70
+jay
+jaya
+pues irse-IMPV2 macho
+nik7ixx@
+gada
+nik -7ix-7@y-A7 ka -da

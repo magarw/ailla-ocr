@@ -1,0 +1,63 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS grammar seems wrong: TK
+\date 25/Jun/96
+\lex jar@k
+\_no 01013
+\LG MIG
+\PSH
+\UND jarak
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG buche de ave, molleja, muchi
+\ENG bird's beak
+\EXU 1 jon 7@y+ jarak
+\XPSH 1 [jon 7ay jarak]
+\XSP 1 buche de pa*jaro
+\XEN 1 bird's beak
+\EXU 2 kuku' 7@y+ jarak
+\XPSH 2 [kukuy jarak]
+\XSP 2 buche de tortolita
+\XEN 2 dove's beak
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\lex jat
+\_no 01014
+\LG MIG
+\PSH
+\UND jat
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG rebajar
+\ENG to lose weight
+\SPL yak.j@t
+\SLGR CAUS
+\SLGL hacer rebajar // to cause to lose weight
+\EXU 1 da j@t-w@+'am 7@n+ kwerpo
+\XPSH 1 [D@ jatta*m 7@n kwerpo.]
+\XSP 1 Ya rebajo* mi cuerpo.
+\XEN 1 NOW I've lost weight.
+\EXU 2 da j@t-w@ 7i da kitza.7aH-w@
+\XPSH 2 [D@ jatta 7i da kitza7aw@.]
+\XSP 2 Me rebaje* y me enflaqueci*.
+Page 444

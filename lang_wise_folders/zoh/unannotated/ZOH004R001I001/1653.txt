@@ -1,0 +1,62 @@
+\CMTS
+\date 11/Feb/96
+\lex w@t.i' tunh
+\_no 03843
+\LG MIG
+\PSH [w@ti tunh]
+\UND w@t. E7 tunh
+\MB grande, NOM7, camino
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG calle; camino real
+\ENG street; high street
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex w@t.i' wiki7
+\_no 03844
+\LG MIG
+\PSH [w@ti wiki7]
+\UND w@ti7 wiki7
+\MB grande, dedo
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG dedo pulgar
+\ENG thumb
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex w@t.i'.7aH
+\_no 03845
+\LG MIG
+\PSH [w@ti7a-]
+\UND w@t.E7.7aH
+\MB grande, NOM7, VERS1
+\VAR
+\GRAM vers1
+\SCI
+\USE
+\SPG hacerse ma*s grande
+\ENG to grow bigger
+ZOH004R0011001.txt
+Page 1653

@@ -1,0 +1,62 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7etz
+\RTGR T1
+\DSRC TK96
+\CMTS
+\date 03/Jan/80
+\lex 7etz.e' p@n d@k+7a
+\_no 00032
+\LG MIG
+\PSH [7etze_p@n_d@kka]
+\UND 7etz.E7 p@n d@k+7a
+\MB bailar, NOM7, hombre, NPL
+\VAR 7etzpa+a7k p@n d@k+7ay
+\GRAM svs+pl
+\SCI
+\USE
+\SPG bailadores, bailadoras
+\ENG dancers
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7etz
+\RTGR T1
+\DSRC TK94
+\CMTS
+\date 24/Jun/96
+\lex 7in. @7
+\_no 00033
+LG MIG
+\PSH [7in@7]
+\UND 7in.A7
+\MB nublarse, NOM2
+\VAR n@' 7in.@7
+\GRAM SV
+\SCI
+\USE
+\SPG 1 nube
+\SPG 2 neblina
+\ENG 1 cloud
+\ENG 2 fog
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7in
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 09/Jan/96
+ZOH001R0611004.txt
+Page 14

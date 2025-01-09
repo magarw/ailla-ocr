@@ -1,0 +1,62 @@
+\lex tzoja' kuy
+\_no 03397
+\LG MIG
+\PSH [tzoja kuy]
+\UND tzoja7 kuy
+\MB algodo*n, palo
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG mata de algodo*n
+\ENG cotton plant
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tzoja'-tuk. kuy7
+\_no 03398
+\LG MIG
+\PSH [tzojatukkuy7]
+\UND tzoja7-tuk.kuy7
+\MB algodo*n, cortar, INSTR1
+\VAR
+\GRAM instrl:incorp
+\SCI
+\USE
+\SPG corte de algodo*n
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tuk
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tzok
+\_no 03399
+\LG MIG
+\PSH
+\UND tzok
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG sanar
+\ENG to heal
+\SPL yak.tzok
+\SLGR CAUS
+ZOH004R0011001.txt
+Page 1461

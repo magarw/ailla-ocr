@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [jappanhwak-]
+\UND jap=7anh=wak
+\MB tapar, BOCA, *vaciar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG destapar (hoya, caja, botella.
+\ENG to uncover (hole, box, bottle...)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 * jap
+\RTGR 1 P
+ROOT 2 7anh.wak
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 30/Jan/96
+\lex jap.w@y
+\_no 00669
+\LG MIG
+\PSH [japp@y-]
+\UND jap.w@y
+\MB
+\VAR
+\GRAM vt: depos
+\SCI
+\USE
+\SPG embrocar
+\ENG to turn over
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT * jap
+\RTGR P
+\DSRC TK94
+\CMTS like turning over an ashtray
+\date 13/Jun/95
+\lex ja7p
+\_no 00670
+\LG MIG
+ZOH004R0011001.txt
+\PSH
+\UND ja7p
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 moler
+\SPG 2 quebrajar
+\ENG 1 to grind
+Page 286

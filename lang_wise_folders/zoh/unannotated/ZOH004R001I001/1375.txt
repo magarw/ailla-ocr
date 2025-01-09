@@ -1,0 +1,62 @@
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 13/Nov/94
+\lex_t@p@7p=tz@k
+\_no 03197
+\LG MIG
+\PSH [t@p@7ptz@k-]
+\UND t@p@7p=tz@k
+\MB tibio, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer tibio
+\ENG to make tepid
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 20/Jun/95
+\lex t@p@7p. 'aH
+\_no 03198
+\LG MIG
+\PSH [t@p@7ppa-]
+\UND t@p@7p.7aH
+\MB tibio, VERS1
+\VAR
+\GRAM versl
+\SCI
+\USE
+\DLG
+\SPG entibiarse
+\ENG to become tepid
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex t@7p
+\_no 03199
+\LG MIG
+\PSH
+\UND t@7p
+\MB
+\VAR
+ZOH004R0011001.txt
+Page 1375

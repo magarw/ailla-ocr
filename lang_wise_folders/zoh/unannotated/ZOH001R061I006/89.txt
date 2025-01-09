@@ -1,0 +1,63 @@
+ZOH001R0611006.txt
+\SUB 7anh.pen, 7anh.pen.pu', pen=nonh, pen=m@tz, pen=nuk, pen=tu7p,
+\SUB pen.pak, pen.ki7px
+\ETYM
+\ETL
+\ROOT pen
+\RTGR T3
+\DSRC TK94
+\CMTS
+\CMTS CK-PH of EX HAJ:96, ok, don't know what kon- is
+\date 03/Jan/80
+\lex pe7t
+\_no 00130
+\LG MIG
+\PSH
+\UND pe7t
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tejer/hacer cinta de palma para hacer sombrero o petaca
+\ENG to weave strips of palm for a hat or mat
+\SPL pe7t.7oy
+\SLGR ANTIP
+\SLGL tejer // to weave palm
+\SPL pe7t.7@m
+\SLGR PASS
+\SLGL ya esta* tejido // to be woven
+\SPL pe7t.ney
+\SLGR ASSUM1
+\SLGL tener cruzado el pie // to have the legs crossed
+\SPL pe7t.ten
+\SLGR PRSV
+\SLGL tenerlo tejido // to have something woven of palm
+\EXU 1 jojo-pe7t-w@
+\XPSH 1 [Jojope7tt@.]
+\XSP 1 Tejio* cinta de palma.
+\XEN 1 She wove palm strips.
+\EXU 2 manh.kuy7=pe7t-w@
+\XPSH_2 [Manhkuy pe7tt@.]
+\XSP 2 Cruzo* el pie.
+\XEN 2 He crossed his leg.
+\SYN
+\SEMF arrange
+\ASP activity
+\ARG
+\NOM pe't.e7, pe7t.kuy7
+\SUB ko.pe7t
+\ETYM
+\ETL
+\ROOT pe7t
+\RTGR P, (T3)
+\DSRC TK94
+\CMTS antip
+\CMTS pass
+\CMTS assum1
+\date 03/Jan/80
+\lex pe7tz
+\_no 00131
+\LG MIG
+\PSH
+Page 89

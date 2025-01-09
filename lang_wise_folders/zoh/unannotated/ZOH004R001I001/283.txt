@@ -1,0 +1,65 @@
+\UND jan
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG quemarse, por el frio o el aire
+\ENG to be burned, by
+\SPL
+\SLGR
+\EXU 1 k@.jan-w@+ 'am
+\XPSH 1 [K@janna*m 7@y 7ay'.]
+\SUB k@.jan
+\ETYM
+\ETL
+\ROOT jan
+\RTGR 12
+\XSP 1 Esta* como quemado la hoja.
+\XEN 1 It's leaves are yellow (because it's dying).
+\EXU 2_7@y+ yak.jan-pa bi xanh.A
+\XPSH 2 [7@y yakjanpa bi xawa.]
+\XSP 2 Lo chamosca el aire.
+XEN 2 It's wind-burned.
+\SYN
+\SEMF temp
+\ASP achievement, accomplishment
+\ARG
+\NOM
+\SPL yak.jan
+\SLGR CAUS
+\SLGL hacer quemar // to burn
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex jan=7ay7
+\_no 00662
+\LG MIG
+\PSH [jannay7]
+\UND jan=7ay7
+\MB quemarse, hoja
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG tequesquite
+\ENG a type of plant
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT jan
+\RTGR 12
+\DSRC TK94
+ZOH004R0011001.txt
+the cold or the wind
+LF:7okox
+\CMTS
+\date 10/Jan/96
+\lex januki7
+\_no 00663
+\LG MIG
+Page 283

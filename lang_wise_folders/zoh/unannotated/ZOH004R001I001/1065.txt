@@ -1,0 +1,64 @@
+\ENG a type of plant
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 23/Dec/95
+\lex n@'-kajanh
+\_no 02471
+\LG MIG
+\PSH [n@kajanh]
+\UND n@7-kajanh
+\MB agua, tigre
+\VAR nu:n@7
+\GRAM SS
+\SCI
+\USE
+\SPG perro de agua
+\ENG a type of animal
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+LF:7okox
+\lex n@'-ketz
+\_no 02472
+\LG MIG
+\DSRC HAJ94
+\CMTS nu:n@7 is a direct translation of the Spanish, it can be said
+\date 08/Feb/96
+\PSH [n@ketz]
+\UND n@7-ketz
+\MB agua, regar
+\VAR
+\GRAM vi:incorp
+LF:7anmal
+\SCI
+\USE
+\SPG regar agua
+\XEN
+\SYN
+\ENG to sprinkle water
+\EXU
+\XSP
+SEMF
+\ETYM
+\ETL
+\ROOT ketz
+\RTGR T1
+\DSRC HAJ94
+ZOH004R0011001.txt
+\CMTS
+\date 08/Feb/96
+\lex n@'-kuy
+Page 1065

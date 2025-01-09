@@ -1,0 +1,62 @@
+\CMTS
+\date 28/Jan/96
+\lex xaw.e
+\_no 03896
+\LG MIG
+\PSH [xawe]
+\UND xanh. E
+\MB machetear, NOM7
+\VAR xaw@7 (?? TK)
+\GRAM SV
+\SCI
+\USE
+\SPG rozadura; macheteada; macheteado
+\ENG clearing; field cleared with a machete; cut with a machete
+\SPL
+\SLGR
+\EXU xaw.e7+k yuj.kuy7
+\XPSH [xawe7k yujkuy7]
+\XSP rastrojo ya macheteado
+\XEN a field that's now cleared
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xanh
+\RTGR T3
+\DSRC HAJ95
+\CMTS won't accept xaw@7 'macheteado', only xaw@7 'machetealo!'; it;s
+/xawe/:TK
+\date 03/Jan/80
+\lex xaxi7
+\_no 03897
+\LG MIG
+\PSH
+\UND xaxi7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG escama de pescado
+\ENG fish scale
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+ZOH004R0011001.txt
+\CMTS
+\date 25/Jun/96
+\lex xa'.xa7
+\_no 03898
+\LG MIG
+\PSH [xaxa7]
+\UND xa7.xa7
+Page 1676

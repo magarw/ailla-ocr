@@ -1,0 +1,63 @@
+\MB
+\VAR
+\USE locative
+\GRAM ss+loc
+\SCI
+\USE
+\SPG afuera
+ENG outside
+\EXU 7anh-k@+jo7 ten-w@ bi mixtu7
+\XPSH [7anhk@jo tenn@ bi mixtu7.]
+\XSP El gato esta* parado afuera.
+\XEN The cat is standing outside.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS GET 7anh.k@(7) alone: OK
+\date 24/Jun/96
+\DATE 03/Jan/1980
+\lex 7anhk@+joonh
+\_no 00111
+\LG MIG
+\PSH [7anhk@jo*nh]
+\UND 7anhk@+joonh
+\MB afuera, DIR1
+\VAR 7anhk+joonh
+\GRAM av
+\SCI
+\USE
+\SPG afuera
+\ENG outside
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex 7anh-k@x
+\_no 00112
+\LG MIG
+\PSH [7anhk@x-]
+\UND 7anh-k@x
+\MB BOCA, comer
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG darle de comer, sin cobrar
+ENG to feed without charging
+\SPL
+\SLGR
+\EXU
+ZOH004R0011001.txt
+Page 48

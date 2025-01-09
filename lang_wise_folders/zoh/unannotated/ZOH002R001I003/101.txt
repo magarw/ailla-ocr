@@ -1,0 +1,32 @@
+ambiguity as the English and Spanish equivalents: it can indicate either an
+instrument or a companion.
+Form
+goo?
+hənaŋ
+pi?t
+English
+beneficiary
+Spanish
+beneficiario
+accompaniment acompañamiento
+instrument
+instrumento
+Gloss code
+BNF
+ACC
+INSTR
+Table 4.6. Non-spatial postpositions.
++goo? (BNF) and +pi?t (INSTR) are historically the same morphemes as
+the subordinators goo? (PURP) and pi?t (IF) (Kaufman, p.c.). I have split them
+into two separate classes because their syntactic behavior is different in MIG
+Zoque. Postpositions mark the function of a non-argument noun phrase;
+subordinators mark the relation of a subordinate clause to a superordinate
+clause. The benefactive postposition is only used in the '(good) for a headache'
+sense shown in example (4.27 i), never in the 'on behalf of a person' sense. The
+Spanish loan word para is always used to convey the latter meaning, as shown
+in example (v). Actually,+pi?t and +goo? in the postposition forms are rarely
+used in the corpus. +goo? appears only in the text about traditional healing
+practices (ZOH001R036, an interview with Sr. Omobono Sánchez Miguel) and
+there are many other ways to express the instrument relation, including the use
+of +hənaŋ.
+76

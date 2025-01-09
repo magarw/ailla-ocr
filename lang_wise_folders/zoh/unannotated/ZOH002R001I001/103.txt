@@ -1,0 +1,36 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+4.8. Adverbs
+Adverbs are words that indicate time, direction, or location. (There also
+are a very few words that express manner, such as ponhi, 'softly; slowly'.) Their
+semantic function is thus similar to that of the postpositions, but syntactically
+their behavior is different. These elements are words, not clitics, and are thus
+not constrained to follow immediately after a noun.
+4.8.1. Direction and location adverbs
+MIG Zoque has sets of adverbs relating a figure to a ground in a common
+pattern: above, below, in front of and behind. There are also a few adverbs
+referring to position on a slope, and three adverbs that are only used to refer to
+locations in the town of San Miguel.
+(4.28)
+(i)
+(ii)
+(iii)
+yødø nu teji'awø 'angkøjo de 'øy tøk
+yə.də
+nu? 0 tehi.?a-we
+?aŋkǝho? de ?əy+ tək
+DCT1.DEM dog 3A there_is.VERS-COM outside
+'This dog is outside of his house.'
+of 3E+ house
+(ZOH001 R0601001-057)
+bi kuy'okox tennø 'angketzjo'
+bi kuy=?okoš 0 ten-wǝ
+?aŋkec+ho?
+DEF tree-shrub 3A stand-COM on_the_side
+'The tree is standing on the side (of the hill).
+(ZOH001 R0601001-152)
+dø nøkpa maxantøk 'angtome'
+də+ nək-pa mašan=tək ?aŋtome?
+1 A+ go-INC holy-house near
+'I'm going over near the church.'
+78
+(ZOH001 R0601001-106)

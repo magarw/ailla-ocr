@@ -1,0 +1,61 @@
+\_no 00069
+\SPG rechinar
+\ENG to squeak
+\EX
+\XSP
+\XEN
+\ROOT m@7tz 12
+SEMF sound
+\ASP activity
+\CAUS yak.m@7tz
+\CMTS cf. w@7tz 12 'rechinar'
+\date 03/Jan/80
+\lex nay
+\_no 00070
+\SPG brotar; nacer plantas; siembra
+\ENG to sprout
+\EX
+\XSP
+\XEN
+\ROOT nay 12
+\SEMF nature, plant
+\ASP transition, process
+\CAUS yak.nay hacer nacer
+\date 03/Jan/80
+\lex ne7kx
+\_no 00071
+\SPG ser pegajoso
+\ENG to be sticky
+\EX
+\XSP
+\XEN
+\ROOT ne7kx Ix
+\SEMF condition
+\ASP state
+\CMTS
+\date 03/Jan/80
+\lex nem
+\_no 00072
+\SPG flamear; echar llamas
+\ENG to flame; to spark
+\EX jak nemm@
+\XSP flameo* mucho
+\XEN it flamed a lot
+\ROOT nem 12
+\SEMF fire
+\ASP activity
+\CAUS yak.nem hacer flamear
+\CMTS
+\date 03/Jan/80
+\lex nenh
+\_no 00073
+\SPG olear (ri*o)
+\ENG to make waves
+\EX nenhm@tztzoba n@7
+\XSP esta* oleando el agua
+\XEN the river is making waves
+\ROOT nenh Ix
+ZOH001R0611007.txt
+\SEMF nature, water
+\ASP activity
+Page 17

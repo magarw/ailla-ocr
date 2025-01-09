@@ -1,0 +1,62 @@
+\ENG to dunk something in food
+\EX tak@7
+impv
+\XSP
+\XEN
+\ROOT ta7k T3
+\SEMF move, eat
+\PASS ta7k.7@m remojarse
+\ANTI ta7k. 7oy remojar
+\PRSV_ta7k-ten-e lo tiene remojado
+\CMTS
+\lex ta7kx
+\_no 00252
+\SPG arder (lumbre); alumbrar (luz)
+\ENG to burn (light); to light (a light)
+\EX ta7kx@ jemji7
+\XSP alumbro* todo
+\XEN everything lit up
+\ROOT ta7kx 12
+\SEMF light, fire
+\CAUS yak.ta7kx hacer arder; alumbrar; prender luz
+\CMTS
+\lex tan
+\_no 00253
+\SPG completar (se)
+\ENG to finish
+\EX yak.tan jemji
+\XSP hacer completar todo
+\XEN to make someone finish everything
+\EX 7@n yaktanpan yoxkuy
+\XSP estoy completando mi trabajo
+\XEN I'm finishing my work
+\ROOT tan 12
+\SEMF aspect
+\CAUS yak.tan completar
+\CMTS
+\lex tan
+\_no 00254
+\SPG (tirar y) pegar
+ZOH001R0611010.txt
+con cartucho o piedra
+\ENG (to shoot at and) to hit with a bullet or a rock
+\EX
+\XSP
+\XEN
+\ROOT tan T3
+\SEMF hit
+\PASS NONE * tan.7@m
+\ANTI tan.7oy pegar (only get this in INC)
+\CMTS tirar: una pistola o una piedra. le pego* por tirar algo
+\lex tanh
+\_no 00255
+\SPG estar ancho
+ENG to be wide
+\EX
+\XSP
+\XEN
+\ROOT tanh I2
+\SEMF condition
+\CMTS
+\lex tax
+Page 58

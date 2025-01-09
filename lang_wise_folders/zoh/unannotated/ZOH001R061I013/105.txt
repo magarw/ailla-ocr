@@ -1,0 +1,53 @@
+\_no 01309
+\SPG maestro
+\ENG teacher
+\lex maistro
+\_no 01310
+\SPG maestro
+\ENG teacher
+\lex maj
+\_no 01311
+\SPG 11enar
+\ENG fill
+\lex majatz
+\_no 01312
+\SPG descubrir
+\ENG tell_on
+\lex maji7
+\_no 01313
+\SPG placenta
+\ENG
+\lex majin
+\_no 01314
+\SPG Majin
+\ENG Majin
+\lex majoma
+\_no 01315
+\SPG ma*scara
+\ENG mask
+\lex mak
+\_no 01316
+\SPG diez
+\ENG ten
+\lex mak
+\_no 01317
+\SPG pescar con atarraya
+\ENG fish
+\lex maka7
+\_no 01318
+\SPG lombricero
+\ENG
+\lex makimaki
+\_no 01319
+\SPG _aran~a
+\ENG spider
+\lex ma kina
+\_no 01320
+\SPG maquina
+\ENG machine
+\lex makkanh
+\_no 01321
+\SPG diez
+\ENG ten
+ZOH001R0611013.txt
+Page 105

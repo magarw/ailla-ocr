@@ -1,0 +1,63 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 24/Jun/96
+\lex kuk+jo'+7k 7awin
+\_no 01520
+\LG MIG
+\PSH [kukjo7k_7awin]
+\UND kuk+jo7+7k 7awin
+\MB centro, LOC2, REL, hermano/a
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG hermano/a de en medio
+\ENG middle brother or sister
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 24/Jun/96
+\lex kuk. jup=tuk
+\_no 01521
+LG MIG
+\PSH [kukjuptuk-]
+\UND kuk.jup=tuk
+\MB centro, jalar, acabarse
+\VAR
+\GRAM dir+vt
+\SCI
+\USE
+\SPG atravesar
+\ENG to go astray
+\EXU 7@y+ kuk.jup-tuk-w@ tunh
+\XPSH [7@y kukjuptukk@ tunh.]
+\XSP Atraveso* el camino.
+\XEN She lost her way.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 jup
+\RTGR 1 P, (T3)
+\ROOT 2 tuk
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+ZOH004R0011001.txt
+Page 660

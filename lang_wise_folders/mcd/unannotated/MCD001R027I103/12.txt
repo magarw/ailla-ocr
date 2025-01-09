@@ -1,0 +1,47 @@
+141 // un nusca ahuaquin //
+142 // tsoan ano raoma //
+143 /// ano raomaquian ///
+144 asca huami ana
+145 icaiyabano
+ic-ai-yaba-no
+AUX.INTR-DUR-NEG-EXH
+qu'il n'en soit plus ainsi
+146 icaitanoba
+ic-ai-ta-no-ba
+AUX.INTR-DUR-après-EXH-NEG
+qu'il n'en soit plus ainsi
+147 mimaqui doaquian
+min-ma-qui doa-a-quian
+2PERS.N-dedans-DIR « introduire profondément »>-ACC-OST2
+elles se sont introduites profondément en toi
+D-EXPULSION
+148 rohuu tsico paucai
+rohuu tsico pau-cai
+métal derrière puissance-MIR
+la puissance du derrière de métal
+= l'alcool de canne à sucre du trapiche
+149 un afo iquian
+un afo i-quian
+1PERS.N 3PERS AUX.INTR-OST2
+je le leur fais
+150 un afo rapuhuai
+un afo rapu-hua-i
+1PERS.N 3PERS retirer-faire-PROG
+je les retire
+151 un rapuhuainai
+un rapu-huain-ai
+1PERS.N retirer-aller-PROG
+je les retire
+152 mimaquimu ihuaidi
+min-ma-qui-mu ihuai-di
+2PERS-dedans-DIR-EXIST disparaître-PASL
+elles disparurent de ton intérieur
+153 ori afo iquian
+ori afo i-quian
+DEIC.LOC 3PERS.PL AUX.INTR-OST2
+elles vont rester au loin
+154 ahuun tuquifoanquin
+ahuun tuqui-foan-quin
+3POSS << se déplacer »>-DIR-OST1
+elles changent de lieu
+173

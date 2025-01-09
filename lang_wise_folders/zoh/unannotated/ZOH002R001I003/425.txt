@@ -1,0 +1,58 @@
+(b)
+bi pən bi yomá? bi toto ?ay ciwə
+bi toto bi pən bi yomá? ?əy ciwə
+?ǝy ciwǝ bi pən bi toto bi yomá?
+?ǝy ciwǝ bi toto bi pən bi yomá?
+?ǝy ciwǝ bi pən bi yomá? bi toto?
+?ǝy ciwǝ bi toto bi yomá? bi pən
+?ǝy ciwǝ bi yomá? bi pən bi toto?
+?ǝy ciwǝ bi yomá? bi toto bi pən
+?əy yaktəŋŋə bi pən bi ha:y?une bi kuy
+?əy yaktəŋŋə bi pən bi kuy bi ha:y?une
+?əy yaktəŋŋə bi ha:y?une bi pən bi kuy
+Actor
+Actor
+=
+418
+=
+Actor = hombre
+Actor
+hombre
+Actor
+hombre
+Actor
+Actor
+-
+=
+Actor
+mujer
+mujer
+Actor
+Actor = mujer
+bi huštiša ?əy yakciwə bi pən bi yomá? bi toto?
+bi huštiša bi pən ?əy yakciwə bi pən bi yomá? bi toto?
+'øy yaktøngngø bi pøn bi ja:y'une bi kuy
+?əy+ yak.təŋ-wə
+bi pən bi haya=?une? bi kuy
+3E+ CAUS.cortar=COM DEF hombre DEF macho-niño DEF palo
+'El hombre mandó al muchacho a cortar el palo.'
+=
+=
+hombre
+hombre
+=
+=
+hombre
+hombre
+Actor = muchacho
+4. Transitive verb with four overt NPS
+This argument structure can arise when the causative is used with a
+trivalent root like ci?- 'dar', or when both the causative prefix and the
+applicative suffix are used. The causer NP must precede the causee NP, which
+must precede the recipient NP.
+(a) bi juxtixa 'øy yaktziwø bi pøn bi yomá' bi toto'
+bi
+huštiša ?əy+ yak.ci?-wə
+bi pən bi yomaa? bi toto?
+DEF presidente 3E+ CAUS.dar-COM DEF hombre DEF mujer DEF papel
+'El presidente mandó al hombre que diera la carta á la mujer.'

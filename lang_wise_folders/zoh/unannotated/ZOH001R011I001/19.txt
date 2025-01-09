@@ -1,0 +1,81 @@
+\sg] CAUS-morirse-COM DEF vieja
+\egl CAUS-die
+\ref ZOH001R011 082
+\_no 00083
+\zoq "Porke ya 7an p@ktijtamm@* de metzi 7@y yakkaw@ bi 7oktzawi,
+y@
+\fts "Porque este que llevamos los dos lo mato* a la changa,
+fte "Because this one that we brought killed both the monkeys,
+\com
+\idx sp
+-COM DEF old_woman-monkey
+\tx 7i
+por de7
+\mb 7i por te -7
+\sgl y
+por DCT2-NOM1 1E
+\egl and for DCT2-NOM1 1E
+\tx tzawi d@kka
+\mb tzawi7 d@kkay
+NPL
+\sg1 mono
+\eg1 monkey NPL
+\ref ZOH001R011 084
+\_no 00085
+\com
+\idx
+\zoq 7i por de7 7@n p@kmintamm@ de7 bi 7une tzawid@kka.
+\fts y por e*l traemos los changitos.
+\fte and because of him we brought back these baby monkeys.
+\com
+\idx sp
+\ref ZOH001R011 083
+\_no_00084
+\tx porke d@xja*
+\mb porke
+\sg1 porque 1Prn-LOC1 1E
+- tam -wa
+tirar-1/2PL-COM
+\egl because 1Prn-LOC1 1E shoot-1/2 PL-COM
+\zoq Porke d@xja* 7@n_tujtamm@,
+\fts Porque nosotros le tiramos,
+\fte Because we shot at them,
+\com
+\idx
+7@n p@kmintamm@
+7@n p@k
+d@x -ja*7 7@n tuj
+\tx 7i ya n
+\mb 7i
+\sgl y
+\eg1 and NEG 1E hit -1/2PL-COM
+de7
+bi 7une
+-min - tam -wa te -7 bi 7une7
+agarrar-venir-1/2 PL-COM DCT2-NOM1 DEF nin~o/a
+get -come -1/2PL-COM DCT2-NOM1 DEF child
+\sg1 cinco
+\egl five
+ZOH001R0111001.txt
+tantamm@
+\ref ZOH001R011 085
+\_no 00086
+\tx
+\mb
+-mono
+7@n tujtamm@
+ya 7@n tan
+-tam -wa
+NEG 1E pegar-1/2PL-COM
+\zoq 7i yan tantamm@.
+\fts y no le pegamos.
+\fte and we didn't hit them.
+moxanhji7
+d@ p@7ttamm@
+moxxanh-ji7 da p@7t -tam -wa
+-LOC1 1A pasar-1/2PL-COM
+-LOC1 1A pass -1/2PL-COM
+\zoq Moxanhji7 d@ p@7ttamm@.
+\fts Los cinco pasamos.
+\fte The five of us missed.
+Page 19

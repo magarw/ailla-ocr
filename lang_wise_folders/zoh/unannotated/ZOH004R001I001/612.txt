@@ -1,0 +1,64 @@
+\ROOT paj
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS CK-PH ok; fixed: TK
+\date 24/Jun/96
+\lex kon (o')=xom. '@y
+\_no 01406
+\LG MIG
+\PSH [konoxomm@y-]
+\UND kono7=xom. 7@y
+\MB corto, encerrar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG encerrar con alguien
+ENG to jail with
+someone
+\EXU ney
+\XPSH [Ney 7iwj@nanh 7@y ko:nxomm@yy@.]
+\XSP Con alguien lo encerro*
+\XEN She was jailed with someone.
+\SYN
+\SEMF
+\ETYM
+\ETL
+7iw@+j@nanh 7@y+ kon(o')=xom.'@y-w@
+\ROOT XOM
+\RTGR P, (T3)
+\DSRC TK94
+\CMTS dropped v (after koon) not findable.
+\CMTS cf. yak. koon-kuj.7oy
+\date 24/Jun/96
+\lex kon. '@kx. '@y
+\_no 01407
+\XEN
+\SYN
+ZOH004R0011001.txt
+\LG MIG
+\PSH [konn@kx@y-]
+\UND kon.7@kx.7@y
+\MB X, desgranar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG desgranar encima de los demas mai*z que ya estaba mueca
+\ENG to shell corn on top of other corn that is now wrinkled
+\SPL
+\SLGR
+\EXU
+\XSP
+\SEMF
+\ETYM
+\ETL
+\ROOT 7@kx
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 13/Jul/95
+\lex kon. '@y
+\_no 01408
+\LG MIG
+Page 612

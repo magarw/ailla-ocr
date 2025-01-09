@@ -1,0 +1,64 @@
+\LG MIG
+\PSH
+\UND XOX
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG cocer
+\ENG to cook
+\SPL xox. 7oy
+\SLGR ANTIP
+\SLGL cocer // to cook
+\SPL xox.7@m
+\SLGR PASS
+\SLGL cocerse solo; cocer // to cook by itself; to cook
+\SPL xox. ten
+\SLGR PRSV
+\SLGL tener_cocico // to have something cooked
+\EXU 1 xox. 7@m-w@
+\XPSH 1 [Xoxx@mm@.]
+\XSP 1 Se cocio*.
+\XEN 1 It was cooked.
+\EXU 2 kon n@' 7@y+ xox-w@
+\XPSH 2 [Kon n@y xoxx@.]
+\XSP 2 Lo cocio con agua.
+\XEN 2 She cooked it with water.
+\SYN
+\SEMF cook
+\ASP process
+\ARG
+\NOM xox.e7
+\SUB
+\ETYM
+\ETL
+\ROOT XOX
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex xuj
+\_no 00226
+\LG MIG
+\PSH
+\UND xuj
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG soplar
+\ENG to blow
+ZOH001R0611006.txt
+\SPL xuj.7oy
+\SLGR ANTIP
+\SLGL soplar // to blow
+\SPL xuj.7@m
+\SLGR PASS
+\SLGL soplar // to blow (impersonal)
+\EXU 1 7@y+ xuj-w@ bi jukut@k
+\XPSH 1 [7@y xujja bi jukut@k.]
+\XSP 1 Soplo* la lumbre.
+\XEN 1 She blew on the fire.
+Page 152

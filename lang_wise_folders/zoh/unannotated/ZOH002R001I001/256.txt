@@ -1,0 +1,39 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+Negative
+(9.1)
+(i)
+Quantifier
+Deictic
+Definite
+(ii)
+I use the term head noun to refer to the noun that is required, the one
+that is filling an argument role of a verb. In RRG terms, this is the nucleus of
+the noun phrase. The following examples were elicited to illustrate this order
+when most of the possible elements are included.
+Adjective Mod Noun Head Noun
+minpa jemji bi komi pa:pøndøkka
+0 min-pa
+3A come-INC all
+hemhi? bi komi? papən+dǝkkay
+DEF big devil+NPL
+bi jejxukpá? tzamkuyjo?
+bi 0 heh-šuk-pa+V?k camkuy?+ho?
+DEF 3A live-3PL-INC+REL forest+LOC2
+'All the big devils that live in the forest are coming.'
+'øn juyyø jemji tzapatz yøkwijdøkká
+?an+ huy-wa hemhi? capac yəkwih+dəkkay
+1E+ buy-COM all red shirt+NPL
+9.2. Definiteness
+Relative clause
+Plural Possessed noun
+Postposition
+'øy tøppo 'øm 'awin bi 'angmayyobá'
+?əy+ təp-wə
+?ǝm+ ?awin? bi ?aŋ.may.7oy-pa+V?k
+3E+ sew-COM 2E+ sibling DEF MOUTH.count.ANTIP-INC-REL
+'I bought all the red shirts that your sister the teacher sewed.' (elicited)
+(elicited)
+229
+Nouns are not obligatorily marked as to definiteness, but can be marked
+as definite with the article bi or a deictic. Nouns not marked as definite are not
+necessarily interpreted as indefinite. There is no morpheme to mark

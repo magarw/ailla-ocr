@@ -1,0 +1,63 @@
+\EXU 3 7@y+ mama 7@y+ ket.ten-w@ bi 7une7
+\XPSH 3 [7@y mamay kettenn@ bi 7une7.]
+\XSP 3 Su mama* tiene tapado el nin~o.
+\XEN 3 His mother has the child covered up.
+\SYN
+\SEMF cover, arrange
+\ASP achievement
+\ARG
+\NOM ket.e, ket.kuy7, ni.ket.e
+\SUB 7ok.ket. '@y, ko.ket, k@.ket, ni.ket, nik.ket. '@y
+\ETYM
+\ETL
+\ROOT ket
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\CMTS
+\date 03/Jan/80
+\lex ket.a de toto7
+\_no 01233
+\LG MIG
+\PSH [keta de toto7]
+\UND ket.A de toto7
+\MB tapar, NOM2, de, papel
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG forro de libro (le puso forro al libro)
+ENG book wrapper
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ket
+\RTGR P, (T3)
+\DSRC HAJ94
+ZOH004R0011001.txt
+\CMTS CK-GR, CK-PH
+\CMTS German doesn't quite get this - it's from Gelasio's data; doesnt get
+it with me either: /keta7/ta*palo'
+\date 24/Jun/96
+\lex ket.e
+\_no 01234
+\LG MIG
+\PSH [kete]
+\UND ket. E
+\MB tapar, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG (estar) tapado; una cosa tapada
+\ENG (to be) covered; something covered
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+Page 538

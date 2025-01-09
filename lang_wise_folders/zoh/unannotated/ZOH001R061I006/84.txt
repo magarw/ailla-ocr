@@ -1,0 +1,65 @@
+XPSH 2 [7@y pajxukk@ neajo7.]
+\XSP 2 Esta* clavado en la pared.
+\XEN 2 They nailed it to the wall.
+\EXU 3 kuy-paj-w@
+\XPSH 3 [Kuypajj@.]
+\XSP 3 Sembro* el poste.
+\XEN 3 He set the post.
+\EXU 4 7@y+ paj.ten-w@ bi kuy
+\XPSH 4 [7@y pajtenn@ bi kuy.]
+\XSP 4 Sembro* el poste (en donde lo necesita).
+\XEN 4 He set the post (where he needed it).
+\EXU 5 paj.ney-w@+'am bi tak 7@y+ kojom
+\XPSH 5 [Pajneyya*m bi tak 7@y kojom.]
+\XSP 5 Esta
+sembrado todavi*a el horco*n de la casa.
+\XEN 5 The beam of the house is still standing.
+\SYN
+\SEMF build
+\ASP achievement
+\ARG
+\NOM 7anh.paj, jo.paj, ko.paj.ney, paj.e7
+\SUB k@.paj
+\ETYM
+\ETL
+\ROOT paj
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex pak [2]
+\_no 00123
+ZOH001R0611006.txt
+\LG MIG
+\PSH
+\UND pak
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG regar; tirar
+\ENG to spread; to throw
+\SLGR NO ANTIP
+\SLGR NO PASS
+\EXU 1 n@'-pak-w@ (tzima'+j@nanh)
+\XPSH 1 [N@pakk@ (tzimaj@nanh).]
+\XSP 1 Rego* agua (con ji*cara.)
+\XEN 1 She threw water (with a dipper).
+\EXU 2 7@n+ pak-w@ n@7
+\XPSH 2 [7@n pakk@ n@7.]
+\XSP 2 Regue* agua.
+\XEN 2 I threw water.
+\SYN
+\SEMF throw, arrange
+\ASP activity
+\ARG patient
+\NOM pak.naanh
+\SUB 7ok. pak. '@y, j@x-pak, j@x-pak. '@y, pak=jonh, pak-ka', pak=kek
+\ETYM
+\ETL
+\ROOT pak
+\RTGR TX
+\DSRC TK94
+\CMTS
+Page 84

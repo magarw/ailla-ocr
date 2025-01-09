@@ -1,0 +1,63 @@
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG venerar una di*a de fiesta
+\ENG to observe a holiday
+\SPL
+\SLGR
+\EXU 7@y+ ko.may-w@ x@nh
+\XPSH [7@y komayy@ x@nh.]
+\XSP Venero* la fiesta.
+\XEN She celebrated the holiday.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT may
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex koma' tzay7
+\_no 01369
+\LG MIG
+\PSH [koma tzay7]
+\UND koma7 tzay7
+\MB rodilla, cuerda
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG cuerda/vena de la rodilla; espinilla
+\ENG hamstring
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex kom.e7
+\_no 01370
+\LG MIG
+\PSH [kome7]
+\UND kom. E7 (+P@k)
+\MB remendar, NOM7
+\VAR [ko:me*7] (with REL)
+\GRAM sv/pcp
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG remendado; una cosa remendada
+\ENG mended; a mended thing
+\EXU yo't.e' kom.e7
+\XPSH [yote kome*7]
+\XSP ropa remendada
+\XEN mended clothes
+\SYN
+Page 597

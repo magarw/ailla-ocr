@@ -1,0 +1,92 @@
+83.
+84.
+85.
+a kotek malaj yatz'amil
+96
+a ko-tek
+malaj y-atz'am-il
+top 1A-comida neg 3A-sal-gen
+La comida está salada.
+a jun yol k'o'ol tik k'achi ixaji
+a jun y-ol
+k'o'ol tik k'achi ix-Ø-aj-i
+top uno 3A-dentro estómago dem amargo pas-3B-exist-vti
+a jun tek te k'a chi'
+a jun tek
+te k'a-ø
+chi'
+top uno comida muy amargo-3B dem
+La comida tiene chile.
+a jun yol k'o'ol tik ay yichil
+a jun y-ol
+k'o'ol
+tik ay-ø y-ich-il
+top uno 3A-dentro estómago dem exist-3B 3A-chile-gen
+El caldo tiene chile.
+a jun yaltek ay ich t'ay
+a
+jun yaltek ay-ø
+ich t'ay
+top uno caldo exist-3B chile prep
+La olla tiene agua.
+a jun chen tik ay a' t'a yol lum
+a jun chen tik ay-ø
+lu’um
+top uno olla dem exist-3B agua prep 3A-dentro Ctierra
+a' t'a y-ol
+La olla no tiene agua.
+lum chen malaj a' t'a yol lum
+lu'um chen malaj a’
+t'a y-ol
+lu’um
+Ctierra olla neg agua prep 3A-dentro Ctierra
+86. ¿Dónde tiene Juan el machete?
+¿b'aj til ay k'en machit yuj waj Xun?
+b'aj_til ay-ø
+dónde exist-3B Cmetal machete 3A-SR Cmasc Juan
+k'en machit y-uj waj Xun
+¿Dónde tiene él el mecate?
+¿aj
+;aj til ay ch’anh lasu winh?
+aj_til ay-ø
+ch’anh lasu winh
+dónde exist-3B Cfibra lazo él
+87. Juan tiene el machete en la mano.
+89.
+a winhaj Xun ay k'en machit t'a sk'ab' winh
+a winhaj Xun ay-
+k'en machit t'a s-k'ab' winh
+top Cmasc Juan exist-3B Cmetal machete prep 3A-mano Cmasc
+Juan tiene el mecate en la mano.
+a winhaj Xun yet’ ch’anh lasu winh t’a sk’ab’
+a
+winhaj Xun y-et’ ch’anh lasu winh t'a s-k'ab'
+top Cmasc Juan 3A-SR Cfibra lazo Cmasc prep 3A-mano
+88. Juan tiene una piedra en la mano.
+a winhaj Xun ay jun k'e'en t'a sk'ab'
+winhaj Xun ay-Ø
+a
+s-k'ab'
+jun k'e'en t'a
+winh
+top Cmasc Juan exist-3B uno piedra prep 3A-mano Cmasc
+Juan tiene una piedra en el bolsillo.
+winhaj Xun ayem jun k'e'en t'a yune sbolxax winh
+winhaj Xun ay-d-em
+jun k'e'en t'a y-une s-bolxax
+Cmasc Juan exist-3B-DIR.abajo uno piedra prep 3A-hijo 3A-bolsa
+winh
+Cmasc
+Tengo dos hermanos.
+ay chab'an wuktak
+chab'-wa'an w-uktak
+ay-ø
+exist-3B dos-CNum 1A-hermano
+90. ¿Cuántos hermanos tienes?
+¿jaywan uktak ay?
+Ø-uktak (ay-Ø)
+jay-wan
+cuánto-CNum 2A-hermano (exist-3B)
+91. ¿Tienes jabón para vender?
+¿ay no' xapon tzachonho?
+97

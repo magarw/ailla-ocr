@@ -1,0 +1,63 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT paj
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 02/Jun/96
+\lex chik powi7
+\_no 00579
+\LG MIG
+\PSH
+\UND chik powi7
+\MB chico, gavila n
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG gavilancillo, gavilancito
+ENG a type of hawk
+\EXU
+\XSP
+\XEN
+\SYN nax powi 7
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 24/Jun/96
+\lex chik p@n
+\_no 00580
+\LG MIG
+LF: jon
+\PSH
+\UND chik p@n
+\MB chico, hombre
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG gente pequen~o
+ENG little people
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 20/Jun/95
+\lex chik tzikin kajanh
+\_no 00581
+ZOH004R0011001.txt
+Page 249

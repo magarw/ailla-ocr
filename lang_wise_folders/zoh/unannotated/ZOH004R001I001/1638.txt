@@ -1,0 +1,63 @@
+\SPL wox. 7oy
+\SLGR ANTIP
+\SLGL sacar puntas, raspar; to sharpen points, to scrape
+\SLGR NO PASS
+\EXU wox-punta. 7aH-w@
+\XPSH [woxpunta7aw@.]
+\XSP Saco* puntas.
+\XEN She sharpened the points.
+\SYN
+\SEMF cut
+\ASP process
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT WOX
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\CMTS won't accept the bare root today; today he will: TK
+\date 03/Jan/80
+\lex wox.naanh
+\_no 03810
+\LG MIG
+\PHO [woxna*nh]
+\UND wox.naanh
+\MB pelar, MED
+\VAR
+\GRAM meas
+\SPG una rebanada
+\ENG a bit of orange peel that you sliced off
+\EXU tum wox.naanh 7anaxa-pak
+\XPSH [tum woxnanh 7anaxpak]
+\XSP una rebanada de ca*scara de naranja
+\XEN a slice of orange peel
+\SYN
+\ROOT WOX
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex wox. 'oy.kuy7
+\_no 03811
+ZOH004R0011001.txt
+LG MIG
+\PHO [woxxokuy7]
+\UND wox. 7oy.kuy7
+\MB pelar, ANTIP, INSTR1
+\VAR
+\GRAM instrl
+\SPG cuchillo
+\ENG knife
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT WOX
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+Page 1638

@@ -1,0 +1,87 @@
+243. Me prometiste que me ibas a dar unos elotes.
+ixyaltej ixim ajan ijan ixcha' ixim t'ay in
+ix-ø-a-yalt-ej
+ixim ajan ijan ix-ø-Ø-cha'
+pas-3B-2A-prometer-vtd Cmaíz elote casi pas-3B-2A-regalar Cmaíz
+t'ay in
+ixim
+prep 1B
+Me prometiste que me ibas a dar una manzana.
+ixal t'ay in to ijan tzak' jun inmansan
+ix-ø-Ø-al
+t'ay in to ijan tz-ø-Ø-ak'
+jun in-mansan
+pas-3B-2A-decir prep 1B nex casi pres-3B-2A-dar uno 1A-manzana
+Te di unos elotes.
+ixwak' ixim ajan t'ay ach
+ix-ø-w-ak'
+150
+ixim ajan t'ay ach
+pas-3B-1A-dar Cmaíz elote prep 2B
+244. Me prometiste llevarme a Huehuetenango.
+ixyaltej t'ay in ijan ixinik'b'at t'a Chinapjul
+ix-ø-a-yalt-ej
+t'ay in ijan ix-in-ø-ik'-b'at
+pas-3B-2A-prometer-vtd prep 1B casi pas-1B-2A-portar-DIR.allá
+t'a Chinapjul
+prep Huehuetenango
+tzal t'ay in to tzinik'b'at t'a Chinapjul
+tz-ø-Ø-al
+t'ay in to tz-in-ø-ik'-b'at
+t'a
+pres-3B-2A-decir prep 1B nex pres-1B-2A-portar-DIR.allá prep
+Chinapjul
+Huehuetenango
+245. ¿Crees en Dios?
+¿tzam ak'och dios t'a a k'o'ol?
+tz-am
+a-k'och dios t'a a-k'o'ol
+pres-dub 2A-llegar dios prep 2A-estómago
+246. Creo que él se fue con Juan.
+tekan ixb'at winh yet' winhaj Xun
+tekan ix-ø-b'at winh y-et' winhaj Xun
+tal vez pas-3B-ir él 3A-SR Cmasc Juan
+tzina' tekan to ixb'at winh yet' winhaj Xun
+tz-ø-in-na'
+tekan to ix-ø-b'at winh y-et' winhaj Xun
+3A-SR Cmasc Juan
+pres-3B-1A-pensar tal_vez nex pas-3B-ir él
+1
+tekan to yet' winhaj Xun ixb'at winh
+tekan to y-et' winhaj Xun ix-ø-b'at winh
+tal vez nex 3A-SR Cmasc Juan pas-3B-ir él
+247. No creo que venga Juan.
+max incha' laj ta to olja' waj Xun
+ma-x
+Ø-in-cha'
+laj_ta_to ol-ø-ja' waj Xun
+neg-pres 3B-1A-recibir neg cond fut-3B-venir Cmasc Juan
+tekan to maj ja' am laj waj Xun
+tekan to ma-j ø-ja’
+am laj waj Xun
+tal vez nex neg-pas 3B-venir dub neg Cmasc Juan
+Creo que Juan va a venir.
+tzincha'a ta to olja' waj Xun
+tz-ø-in-cha'a
+ta_to ol-ø-ja'
+waj Xun
+pres-3B-1A-recibir cond fut-3B-venir Cmasc Juan
+No creo que no venga Ruth.
+ma-x
+max ina’ laj tom man olja' laj ix Ruth
+Ø-in-na' laj tom man ol-ø-ja' laj ix
+neg-pres 3B-1A-pensar neg int neg fut-3B-venir neg Cfem Ruth
+Ruth
+Creo que va a llover.
+tekan olyak' nhab'
+tekan ol-ø-y-ak’
+nhab'
+tal_vez fut-3B-3A-dar lluvia
+248. Dudo de tu promesa.
+max incha' laj ta to olak' atzilab'
+Ø-in-cha'
+neg-pres 3B-1A-recibir
+ma-x
+laj ta_to ol-ø-Ø-ak' a-tzilab'
+neg cond fut-3B-2A-dar 2A-promesa
+151

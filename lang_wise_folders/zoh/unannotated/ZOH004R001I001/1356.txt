@@ -1,0 +1,62 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT potz
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 13/Nov/94
+\lex t@k-w@7kx
+\_no 03153
+\LG MIG
+\PSH [t@kw@7kx-]
+\UND t@k=w@7kx
+\MB casa, empalmar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG empalmar casa
+\ENG to thatch a house
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT W@7kx
+\RTGR P (T3)
+\DSRC TK94
+\CMTS
+\date 19/Jun/95
+\lex t@kx.t@kx.ney
+\_no 03154
+\LG MIG
+\PSH [t@kxt@kxney-]
+\UND takx.t@kx.ney
+\MB
+\VAR
+\GRAM VIRF
+\SCI
+\USE
+\SPG palpitar
+\ENG to beat; to palpitate
+\EXU t@kx.t@kx.ney-pa bi tzokoy7
+\XPSH [T@kxt@kxneypa bi tzokoy7.]
+\XSP Palpita el corazo*n.
+\XEN The heart is beating.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT %t@kx
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex t@k. '@y
+\_no 03155
+\LG MIG
+ZOH004R0011001.txt
+Page 1356

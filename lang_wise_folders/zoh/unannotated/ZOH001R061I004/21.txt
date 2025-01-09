@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT 1 7uk
+\RTGR 1 T1
+\ROOT 2 jey
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 28/Apr/95
+\lex 7uk. (i)=jey
+\_no 00049
+\LG MIG
+\PSH [7ukijey-]
+\UND 7uk. E-jey
+\MB tomar, NOM7, batir
+\VAR 7uuk-jey
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG batir pozol
+\ENG to beat pozole
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7uk
+\RTGR 1 T1
+\ROOT 2 jey
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex 7um.i7
+\_no 00050
+\LG MIG
+\PHO [7umi7]
+\UND 7um. E7
+\MB tirar, NOM7
+\VAR
+\GRAM pcp
+\SPG cosa tirada
+\ENG something spilled
+\EX k@x.i 7um.i7
+\XPSH [k@xi 7umi*7]
+\XSP comida tirada
+\XEN spilled food
+\EX 7um.i7+k k@x.i
+\XPSH [7umi 7k k@xi]
+\XSP comida tirade
+\XEN spilled food
+\SYN
+\ROOT 7um
+\RTGR T2
+\RTGL tirar / to spill
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+ZOH001R0611004.txt
+Page 21

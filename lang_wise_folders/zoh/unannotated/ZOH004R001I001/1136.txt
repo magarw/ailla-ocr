@@ -1,0 +1,66 @@
+\UND pitaya7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG tuna; pitaya; fruta del nopal
+ENG cactus fruit
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 15/Jun/95
+\lex pit.i
+\_no 02639
+LG MIG
+\PSH [piti]
+\UND pit. E
+\MB poner_mortaja, NOM7
+\VAR
+LF:t@m
+\GRAM pcp
+\SCI
+\USE
+\SPG ya esta* con su mortaja
+\ENG shrouded,
+rolled
+\EXU tum pit. E patanux 7ay7
+\XPSH [tum_piti
+patanux 7ay7]
+\XSP un rollo de hoja de platano
+\XEN a roll of banana leaves
+SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pit
+\RTGR T3
+ZOH004R0011001.txt
+\lex pitikx
+\_no 02640
+\LG MIG
+\PSH
+\UND pitikx
+\MB
+\VAR
+\GRAM vi
+\DSRC TK94
+\CMTS CK-GR, CK-PH HAJ:96, corrected root from pi7t- to pit-/OK: TK
+\date 25/Jun/96
+\SCI
+\USE
+\SPG sacar o echar chispa, la lumbre
+\ENG for the fire to throw off sparks
+\SPL yak.pitikx
+\SLGR CAUS
+\SLGL hacer que le sacara chispa // to cause something to emit sparks
+\EXU 1 pitikx-w@ juwi7
+\XPSH 1 [Pitikx@ juwi7.]
+Page 1136

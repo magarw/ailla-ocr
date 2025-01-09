@@ -1,0 +1,63 @@
+\lex 7ok.jek.'@y
+\_no 00315
+\LG MIG
+\PSH [7okjekk@y-]
+\UND 7ok.jek.7@y
+\MB ABAJO, derrumbarse, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG desprenderse
+\ENG to slide down, to crumble down
+\SPL
+\SLGR
+\EXU 7ok.jek. '@y-w@ 7anh.ketz
+\XPSH [7okjekk@yy@ 7anhketz.]
+\XSP Se desprendio* el padero*n.
+\XEN The mud wall crumbled down.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jek
+\RTGR 12
+\DSRC HAJ95
+\CMTS like when the edge of a road is softened by rain and slides down
+\date 09/Jan/96
+\lex 7ok.je7k. '@y
+\_no 00316
+\LG MIG
+\PSH [7okje7kk@y-]
+\UND 7ok.je7k.7@y
+\MB ABAJO, limpiar_con_coa, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tumbar algo con coa
+\ENG to fell something with a hoe
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT je7k
+\RTGR T3
+ZOH004R0011001.txt
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+\lex 7ok.jen. '@y
+\_no 00317
+\LG MIG
+\PSH [7okjenn@y-]
+\UND 7ok.jen.7@y
+\MB ABAJO, rascar, SUF
+\VAR
+\GRAM vt
+Page 136

@@ -1,0 +1,63 @@
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex wa7k.naanh
+\_no 03551
+\LG MIG
+\PHO [wa7kna*nh]
+\UND wa7k.naanh
+\MB rebanar, MED
+\VAR
+\GRAM meas
+\SPG una rebanada
+\ENG a slice
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT wa7k
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex wa7k.wa7k
+\_no 03552
+\LG MIG
+\PSH [wa7kwa7k]
+\UND wa7k.wa7k
+\MB
+\VAR
+\GRAM SR
+\SCI
+\USE
+\SPG cuervo
+\ENG crow
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+LF: jon
+\CMTS
+\date 11/Aug/94
+\lex wa7k=wanin'. 7aH
+\_no 03553
+LG MIG
+\PSH [wa7kwanin7a-]
+\UND wa7k=wanin7.7aH
+\MB rebanar, delgado, VERS1
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG rebanar delgado
+\ENG to slice thickly
+\EXU
+\XSP
+\XEN
+ZOH004R0011001.txt
+Page 1527

@@ -1,0 +1,48 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(8.20)
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+(vi)
+poytzøntamo
+0 poy=cən-tam-A?
+3A huirse sentarse-1/2PL-IMPV
+'Sientese un rato.'
+mix poy'ixtuktamø
+miš+ poy=?iš=tuk-tam-A?
+2>1+huirse=ver=terminarse-1/2PL-IMPV
+'Esperame un ratito.'
+'i ga pøndøkka numtzønxukkø
+?i ga.?
+jutzeng pong 'øn nømjoyojke'ttø
+huceŋ poŋ ?ən+ nəm=ho.yoh.ke?t-wə
+cuantos vez 1E+ decir=IN.pagar.REPET-COM
+'Cuantas veces le repetía?4¹
+yojtzi'oxukkø
+pən+dǝkkay 0 num=cən-šuk-wə
+y DCT3.NOM1 hombre+NPL 3A robar=sentarse-3PL-COM
+'Y esos hombres se escondieron.'
+0 yoh-ci?.?oy-šuk-wa
+3A pagar=dar.ANTIP-3PL-COM
+'Saludaron.'
+'øm jeywitupa
+?ǝm+ hey=witu?-pa
+2E+ batir=regresar-INC
+'Lo bates.'
+(ZOH001 R010-065)
+(ZOH001 RO10-309)
+223
+(ZOH001 R024-461)
+(ZOH001 R014-056)
+(ZOH001R017-022)
+(ZOH001R032-130)
+There are many compounds in MIG Zoque in which one of the roots would
+be ungrammatical in isolation because it is no longer a living morpheme in the
+4 This sentence comes from a text in which Sr. Sánchez is talking about how much work he has
+done to teach me Zoque, and the construction actually indicates tremendous repetition. First,
+he chooses the root yoh- in its repetitive sense. Then he prefixes it with ho-, which indicates
+IN when used directionally, but can also be used to express repetition. Finally, he adds the
+repetitive suffix, giving the whole thing the sense of him saying things over and over and over
+again.

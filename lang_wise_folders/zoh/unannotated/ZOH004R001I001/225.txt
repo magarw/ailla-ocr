@@ -1,0 +1,62 @@
+\SLGL estar doblado // to be bent
+\SPL 7uy.ten
+\SLGR PRSV
+\SLGL tener doblado // to have bent
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex 7uy.naanh
+\_no 00523
+\LG MIG
+\PHO [7uyna*nh]
+\UND 7uy.naanh
+\MB doblar, MED
+\VAR
+\GRAM meas
+\SPG una doblada de una mata (para cultivar)
+\ENG a bent-over branch of a shrub (for cultivating)
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT 7uy
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex 7@j
+\_no 00524
+\LG MIG
+\PSH
+\UND 7@j
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG pujar
+\ENG to grunt
+\SPL yak.7@j
+\SLGR CAUS
+\SLGL hacer pujar // to make grunt
+\EXU da 7aj-wa kwand 7@n+ yuk.p@k-w@ yada jemetz.p@
+\XPSH [D@ 7@jj@ kwand yukp@kk@ yada jemetzp@.]
+\XSP Puje* cuando levante* este que pesa.
+ZOH004R0011001.txt
+\XEN I grunted when I lifted this heavy thing.
+\SYN
+\SEMF sound
+\ASP semelfactive
+\ARG
+\NOM 7@j.i7
+\SUB jax='aj
+\ETYM
+\ETL
+\ROOT 7@j
+\RTGR 11
+\DSRC TK94
+\CMTS get deriv's
+\date 03/Jan/80
+\lex 7@j.7@j.ney
+\_no 00525
+\LG MIG
+Page 225

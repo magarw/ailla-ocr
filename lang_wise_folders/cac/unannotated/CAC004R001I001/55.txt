@@ -1,0 +1,79 @@
+142. Juan va a ser topil (va a cuidar).
+a winhaj Xun olstanhb'ej winh
+a winhaj Xun ol-ø-s-tanhb'-ej
+winh
+top Cmasc Juan fut-3B-3A-cuidar-vtd Cmasc
+Neftalí va a ser maestro.
+a nhaj Neftali oloch ni'o k'ayb'umok
+a nhaj Neftali ol-ø-och
+ni'o k'ayb'-um-ok
+top Cniño Neftalí fut-3B-entrar Cniño enseñar-agtvz-IRR
+Juan va a ser maestro.
+a winhaj Xun oloch winh k'ayb'umal
+112
+a winhaj Xun ol-ø-och
+winh
+k'ayb'-um-al
+top Cmasc Juan fut-3B-entrar Cmasc enseñar-agtvz-abs
+143. ¿Qué va a ser el niño (Neftalí)?
+¿tas olsb'o' ni'o?
+tas ol-ø-s-b'o'
+ni'o
+qué fut-3B-3A-hacer Cniño
+¿tas olsk'ulok winhaj Neftalí?
+tas ol-ø-s-k'ul-ok
+winhaj Neftalí
+qué fut-3B-3A-hacer-IRR Cmasc Neftalí
+144. Pedro fue alcalde el año pasado.
+a winhaj Petul ixyak' alkalil winh t'a jun ab'il ek'nak
+a winhaj Petul ix-Ø-y-ak'
+alkal-il winh t'a jun ab'il
+top Cmasc Pedro pas-3B-3A-dar alcalde-abs Cmasc prep uno año
+ek'-nak-ø
+pasar-p.rem-3B
+winhaj Petul yak' alkalil winh jun ab'il
+winhaj Petul y-ak' alkal-il
+winh jun ab'il
+Cmasc Pedro 3A-dar alcalde-abs Cmasc uno año
+winhaj Petul yak’nak alkalil winh
+winhaj Petul y-ak'-nak
+alkal-il winh
+Cmasc Pedro 3A-dar-p.rem alcalde-abs Cmasc
+145. ¿Cuándo fue alcalde Pedro?
+¿b'ak'in yak'nak alkalil winhaj Petul?
+alkal-il
+b'ak'in y-ak'-nak
+winhaj Petul
+cuándo 3A-dar-p.rem alcalde-abs Cmasc Pedro
+¿b'ak'in ix-ø-y-ak' alkal-il winhaj Petul chi'?
+cuándo pas-3B-3A-dar alcalde-abs Cmasc Pedro dem
+146. ¿Qué fue Pedro el año pasado?
+¿tas ixb'o' winhaj Petul t'a jun ab'il ek'nak?
+tas ix-ø-s-b'o'
+winhaj Petul t'a jun ab'il ek'-nak
+qué pas-3B-3A-hacer Cmasc Pedro prep uno año pasar-p.rem
+¿tas ixk’ulej winhaj Xun t'a jun ab’il?
+tas ix-ø-s-k'ul-ej
+winhaj Xun t'a jun ab'il
+qué pas-3B-3A-hacer-vtd Cmasc Juan prep uno año
+tas sk’ulejnak winhaj Xun t'a jun ab'il
+tas s-k'ul-ej-nak-ø
+winhaj Xun t'a jun ab'il
+qué 3A-hacer-vtd-p.rem-3B Cmasc Juan prep uno año
+147. Pedro es hombre.
+a winhaj Petul winhak winh
+a winhaj Petul winak-ø
+winh
+top Cmasc Pedro hombre-3B Cmasc
+waj Pedro winak winh
+waj Pedro winak-ø winh
+Cmasc Pedro hombre-3B Cmasc
+148. Alejandra es mujer.
+a ix Alej ix ix
+a ix Alej ix ix-Ø
+top Cfem Alejandra Cfem mujer-3B
+149. Yo soy hombre.
+a in tik winakin
+a in tik winak-in
+top 1B dem hombre-1B
+113

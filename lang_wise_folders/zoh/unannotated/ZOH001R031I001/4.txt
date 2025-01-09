@@ -1,0 +1,83 @@
+ZOH001R0311001.txt
+7@n pet
+\mb_ ka -y
+d@ 7orno-jukut@k-7@y-pa
+-ра
+\sg1 DCT3-TMP 1A horno-lumbre -VERS2-INC 1E barrer-INC
+\eg1 DCT3-TMP 1A oven -fire -VERS2-INC 1E sweep -INC
+\zoq Gay d@ 7ornojukutt@ban petpa.
+\fts Echo la lumbre en mi horno lo voy a barrer.
+\fte now I'll make a fire in the oven, I'll sweep.
+\com
+\idx incor
+\ref ZOH001R031 014
+\_no 00015
+\tx 7@n ponhpa
+\mb 7@n ponh
+\sgl 1E quemar-INC
+\egl 1E burn -INC
+-ра
+\zoq 7@n ponhpa.
+\fts Lo aso.
+\fte I'll bake it.
+\com
+\idx
+\ref ZOH001R031 015
+\_no 00016
+\tx 7aber
+\mb 7aber
+\sg1 aver
+como
+\eg1 let's see how
+junanh tukneyba
+junanh tuk
+\com
+\idx
+\zoq 7aber junanh_tukneyba.
+\fts Aver como sale.
+\fte However it ends up.
+\ref ZOH001R031 016
+\_no 00017
+-ney -pa
+terminarse-ASSUM-INC
+finish
+\tx si moso
+\mb si moso
+-A
+\sgl si bonito
+ARR-pararse-INC o NEG UP -pararse-nINC
+\egl if beautiful UP -stand -INC or NEG UP -stand -nINC
+\ref ZOH001R031 017
+\_no 00018
+\tx makkanh tuwanhp@
+\mb
+\sg1 diez
+\egl ten
+-ASSUM-INC
+yuktenpa
+70 ya
+yuktene
+yuk-ten -ра 70 ya yuk-ten
+\zoq si moso yuktenpa 70 ya yuktene.
+\fts si levanta bonito o no se levanta.
+\fte If it rises nicely or it doesn't rise.
+\not
+\idx
+tej
+makkanh tuwanh-p@7k teji
+yoja7@yya*m
+bi
+7arina
+tres -REL2 hay
+yoj -A7
+-A7 -7@y -w@ -7am bi 7arina
+DEF harina
+pagar-NOM2-VERS2-COM-YA
+three -REL2 there is pay -NOM2-VERS2-COM-NOW DEF flour
+\zoq Makkanh tuwanhp@ tej yoja7@yya*m bi 7arina.
+\fts Treinta mil esta* caro la harina.
+\fte Thirty thousand it is, the flour has to be paid for.
+\com
+\idx vseq
+\ref ZOH001R031 018
+Page 4

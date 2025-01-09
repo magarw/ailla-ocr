@@ -1,0 +1,63 @@
+\USE
+\SPG orinar
+\ENG to urinate
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * tek
+\DSRC TK94
+\CMTS get deriv's
+\date 15/Jun/95
+\lex tem
+\_no 02971
+\LG MIG
+\PSH
+\UND tem
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG relampaguear
+\ENG to lightning
+\SLGR NO CAUS
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF nature
+\ASP semelfactive
+\ARG
+\NOM tem.a7
+\SUB tem.tem.ney
+\ETYM
+\ETL
+\ROOT tem
+\RTGR 12
+\DSRC TK94
+\CMTS get deriv's
+\date 03/Jan/80
+\lex tem.a7
+\_no 02972
+\LG MIG
+\PSH [tema7]
+\UND tem.A7
+\MB relampaguear, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG rela*mpago
+\ENG lightning
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+Page 1278

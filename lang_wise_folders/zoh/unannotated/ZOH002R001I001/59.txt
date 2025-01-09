@@ -1,0 +1,43 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+There are a few lexemes that appear to be exceptions to these harmony
+rules. Some of them look intriguingly like the result of a total harmony rule
+that would have applied in an earlier stage of the language. There aren't very
+many of these, indicating that this is not an ongoing process.
+(3.6)
+(i)
+(iii)
+maki
+mak.E
+fish_with_a_net.NOM3
+'net'
+tupu'
+tu?p.X
+crumble.X
+'piece'
+(3.7)
+(i) jopowe
+ho.poŋ.E
+IN.burn.NOM3
+(ii)
+'fire'
+(iv)
+3.3.3. Alternation of /ŋ/ and /w/
+/ŋ/ and /w/ appear in mutually exclusive contexts: there are no syllables
+that begin with /ŋ/ and none that end with /w/. An underlying /w/ becomes
+/ŋ/ at the end of a syllable. When one of the vowel-initial suffixes is attached
+to a stem ending in /ŋ/, the underlying /w/ surfaces due to the re-
+syllabification of the resulting word.
+we'chi
+we?č.E
+35
+curve.NOM3
+'crooked'
+notzo'
+no?c.X
+split.X
+'crevice'
+(ii)
+way køwi'
+way kəŋ.E?
+hair paint.NOM3
+'gray-haired'

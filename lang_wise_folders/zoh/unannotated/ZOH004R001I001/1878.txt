@@ -1,0 +1,63 @@
+\_no 04375
+\LG MIG
+\PSH [y@kwij 7@y kweyu]
+\UND yak.wij.0 7@y+ kweyu
+\MB INSTR2, zambutirse, NOM6, 3Erg, cuello
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG cuello de la camisa
+\ENG neck of a shirt
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wij
+\RTGR IX
+\DSRC HAJ94
+\CMTS CK-PH - HAJ:96, no final j, now ok/YES /j/:TK
+\date 26/Jun/96
+\lex y@k.wij 7@y+ tzanh.kuy7
+\_no 04376
+\LG MIG
+\PSH [y@kwij 7@y tzanhkuy7]
+\UND yak.wij.0 tzanh.kuy7
+\MB INSTR1, zambutirse, NOM6, pegar_con_mano, INSTR1
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG manga de camisa
+\ENG sleeve of a shirt
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 wij
+\RTGR 1 IX
+\ROOT 2 tzanh
+\RTGR 2 T3
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex y@k.wij ji'tz.i.7@y-wa+@7k
+\_no 04377
+\LG MIG
+\PSH [y@kwij jitzi7@yy@*7]
+\UND yak.wij.0 ji7tz.E.7@y-w@ +P@7k
+\MB INSTR2, zambutirse, NOM6, ponerse_dobladillo, NOM7,
+VERS2, COM, REL
+\VAR
+\GRAM agt2
+\SCI
+\USE
+\SPG camisa plegada
+Page 1878

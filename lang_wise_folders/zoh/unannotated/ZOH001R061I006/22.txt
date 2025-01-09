@@ -1,0 +1,65 @@
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pescar con manta
+\ENG to fish with a cloth
+\EXU 1 tij-w@ 7@y+ je'p-E
+\XPSH 1 [Tijj@y jepe.]
+\XSP 1 Fue* a pescar con manta.
+\XEN 1 She went to fish with a cloth.
+\EXU 2 7@y+ je7p-pa koke
+\XPSH 2 [7@y je7ppa koke.]
+\XSP 2 Pesca con manta.
+\XEN 2 He's catching fish with a cloth.
+\SPL je7p.7oy
+\SLGR ANTIP
+\SLGL pescar con manta // to fish with a cloth
+\SPL
+je7p.7@m
+\SLGR NO PASS
+ZOH001R0611006.txt
+\SPL je7p.ney
+\SLGR ASSUM1
+\SLGL estar adentro del agua la manta // to have the cloth positioned in
+the water
+\SPL je7p.ten
+\SLGR PRSV
+\SLGL tener la manta dentro del agua // to have the cloth positioned in the
+water
+\SYN
+\SEMF hunt
+\ASP activity
+\ARG instrument
+\NOM je7p.kuy7
+\SUB j@x-je7p, nik.je7p. '@y, win-je7p, yuk.je7p
+\ETYM
+\ETL
+\ROOT je7p
+\RTGR P, (T3)
+\DSRC TK94
+\CMTS fishing with a manta, like a sheet, that you tie around your neck and
+\CMTS then spread with the hands, leaning forward to scoop up some water
+\CMTS and fish
+\CMTS
+\date 03/Jan/80
+\lex jetz
+\_no 00030
+\LG MIG
+\PSH
+\UND jetz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG rascar
+\ENG to scratch
+\EXU 1 7@y+ jetz-w@ 7@y+ kup=tuku7
+\XPSH 1 [7@y_jetztz@y_kuptuku7.]
+\XSP 1 Rasco* su espalda.
+\XEN 1 She scratched his back.
+\EXU 2_7@y+ jetz.jay-w@
+\XPSH 2 [7@y jetzjayy@.]
+Page 22

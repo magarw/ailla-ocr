@@ -1,0 +1,64 @@
+\_no_00094
+\SPG derretirse; deshacerse
+\ENG to go rancid - oil
+\EX
+\XSP
+\XEN
+\ROOT pujuj 12
+\SEMF condition
+\ASP process
+\CAUS yak.pujuj derretir
+\CMTS
+\date 03/Jan/80
+\ROOT pukx 12
+\SEMF farm, condition, life
+\lex pukx
+\_no 00095
+\SPG abundar; rendirse; hacerse bastante (trata de animales que esta*
+criando, como ganado)
+\ENG to be abundant; to make abundant (speaks of animals that you're
+raising, like cattle)
+\EX 7@y yakpukxam 7@y wakax
+\XSP ya se hizo bastante su ganado
+\XEN he built up his herd of cattle
+\ASP state, process
+\CAUS yak.pukx hacer abundar
+\CMTS
+\date 03/Jan/80
+\EX punn@ kuy
+\XSP echo* goma el palo
+\XEN the tree gave gum
+\lex pun
+\_no 00096
+\SPG echar goma; estilarse; sacar leche
+\ENG to ooze gum
+\ROOT pun 12
+\SEMF nature
+\ASP process
+\CAUS yak.pun hacer echar goma
+\CMTS
+\date 03/Jan/80
+\lex putz
+\_no 00097
+\SPG pudrirse
+\ENG to rot
+\EX putzamp@7
+\XSP podrido
+\XEN rotten
+\ROOT putz 12
+\SEMF condition
+\ASP process
+\CAUS yak.putz dejar podrirse
+\CMTS
+\date 03/Jan/80
+ZOH001R0611007.txt
+\lex pu7tz
+\_no 00098
+aceite
+\SPG ponerse amarillo
+\ENG to turn yellow
+\EX pu7tzpa 7@y nakk@
+\XSP va amarilla*ndose (para entrar a maduro
+Page 23
+-
+naranja, mango)

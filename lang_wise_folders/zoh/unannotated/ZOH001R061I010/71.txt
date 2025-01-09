@@ -1,0 +1,60 @@
+\ROOT tzi7tz 12
+\SEMF condition, nature, body
+\CAUS yak.tzi7tz dar sarna; arrugar; hacer marchitar
+\lex tzix
+\_no 00312
+\SPG tirar pedos
+\ENG to fart
+\EX
+\XSP
+\XEN
+\ROOT tzix Ix
+\SEMF body
+\CMTS
+\lex tzix
+\_no 00313
+\SPG picar - chaya = mala mujer - avispa
+\ENG to prick
+\EX yaktzixxoyy@
+\XSP le pico*
+\XEN it pricked
+\XEN
+\ROOT tzix T3
+\SEMF hit, bite
+\PASS NONE
+\ANTI tzix.7oy
+\CMTS wouldn't confirm this root/gloss by itself, gave me the caus:antip
+\lex tzok
+\_no 00314
+\SPG sanar
+\ENG to heal
+\EX kotzokk@ y tz@ki
+\XSP lo hizo sanar
+\XEN he healed it
+\EX 7@y yaktzokjayy@ 7@y putzi
+\XSP le hizo sanar su grano
+ZOH001R0611010.txt
+\XEN she healed the cut
+\ROOT tzok 12
+\SEMF care, sickness
+\CAUS yak.tzok sanar herida o enfermedad (doesn't equal criar)
+\CMTS
+\lex tzonh
+\_no 00315
+\SPG unir; topar
+\ENG to join
+\EX 7@y tzonhpa 7anhpaj
+\XSP topa el cerco
+\XEN he joined the fence
+\EX 7@y tzonhnh@ p@n
+\XSP topo* el hombre
+\XEN she met the man
+\ROOT tzonh T3
+\SEMF move
+\PASS tzonh.7@m toparse; empatarse (mecate)
+\ANTI tzonh.7oy topar alguien
+\CMTS
+\lex tzot
+\_no 00316
+\SPG salir sol o luna
+Page 71

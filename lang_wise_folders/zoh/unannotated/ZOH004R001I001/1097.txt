@@ -1,0 +1,65 @@
+\PSH [paskwalita_j@y@7]
+\UND paskwalita jay@7
+\MB
+\VAR paskwaliit jay@7
+\VAR paskwalita poj jay@7 `flor de bejuco de pascua'
+\GRAM
+\SCI
+\USE
+\SPG flor de pascua
+\ENG a type of vine
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex pata7
+\_no 02548
+\LG MIG
+\PSH
+\UND pata7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG petate
+\ENG straw mat
+\EXU
+\XSP
+\XEN
+LF:poj
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Aug/94
+\lex pataja7
+\_no 02549
+\LG MIG
+\PSH
+\UND pataja7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG guayaba
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+ZOH004R0011001.txt
+LF: kuy
+Page 1097

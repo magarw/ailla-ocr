@@ -1,0 +1,70 @@
+\idx
+\ref ZOH001R036 704
+\_no 00693
+\tx
+7ay7
+\mb GSM
+\sg1 GSM:
+hoja
+\eg1 GSM: leaf
+GSM: 7ay
+\zoq GSM: 7ay.
+\fts GSM: Hoja.
+\fte GSM: Leaves.
+\com
+\idx
+\ref ZOH001R036 705
+\_no 00694
+\tx 7@y j@xp@kjayya*m
+\mb 7@y jax -pak
+\sg1 3E
+\egl 3E BACK -get
+ATRAS-agarrar-APPL-COM-YA
+\ref ZOH001R036 706
+\_no 00695
+\zoq 7@y j@xp@kjayya*m bi 7alko*1.
+\fts Lo saco* el alcohol
+\fte Now he's taken it out of the alcohol.
+\com
+\idx
+\tx
+OSM: bi n@7
+\mb OSM bi n@7
+\sg1 OSM: DEF agua
+\eg1 OSM: DEF water
+\zoq OSM: Bi n@7.
+\fts OSM: El agua.
+\fte OSM: The water.
+\com
+\idx
+\ref ZOH001R036 707
+\_no 00696
+\tx
+GSM: bi n@7
+\mb GSM bi n@7
+\sg1 GSM: DEF agua
+\eg1 GSM: DEF water
+bi
+7alko*1
+-jay -w@ -7am bi 7alko*1
+DEF alcohol
+-APPL-COM-NOW DEF alcohol
+\zoq GSM: Bi n@7?
+\fts GSM: El agua?
+\fte GSM: The water?
+\com
+\idx
+ZOH001R0361001.txt
+\ref ZOH001R036 708
+\_no 00697
+\tx
+\mb OSM ka 7@m
+tum kopa
+7uk -pa -7am tum kopa
+tomar-INC-YA uno copa
+\sg1 OSM: DCT3 2E
+\eg1 OSM: DCT3 2E drink-INC-NOW one cup
+OSM: ka m 7ukpam
+\zoq OSM: Kam 7ukpam tum kopa.
+\fts OSM: Ya tomas una copa.
+Page 151

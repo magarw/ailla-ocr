@@ -1,0 +1,63 @@
+\_no 00019
+\tx 7ukkoxukk@.
+\mb 7uk -7oy -xuk-w@
+\sg1 tomar-ANTIP-3PL-COM
+\egl drink-ANTIP-3PL-COM
+\zoq 7ukkoxukk@.
+\fts Tomaron.
+\fte They drank.
+\com
+\idx
+\ref ZOH001R047 019
+\_no 00020
+\tx pwes pa
+7okjejxukk@.
+\mb pwes para 7ok -jej -xuk-w@
+\sgl pues para ABAJO-vivir-3PL-COM
+\egl well for DOWN -live -3PL-COM
+\zoq Pwes, para 7okjejxukk@.
+\fts Pues, para que descansaron.
+\fte well, so they could rest.
+\com
+\idx
+\ref ZOH001R047 020
+\_no 00021
+\tx 7okjejxukk@.
+\mb
+7ok -jej -xuk-w@
+\sg1 ABAJO-vivir-3PL-COM
+\eg1 DOWN -live -3PL-COM
+\zoq 7okjejxukk@.
+\fts Descansaron.
+\fte They rested.
+\com
+\idx
+\ref ZOH001R047 021
+\_no 00022
+\tx si,
+si, de7xe
+\mb si
+de7.
+-7xe te -7
+\sgl si* DCT2-SIM DCT2-NOM1
+\eg1 yes DCT2-SIM DCT2-NOM1
+si te
+\zoq Si, de7xe de7.
+\fts Si*, asi* es.
+\fte Yes, that's how it is.
+\com
+\idx
+\ref ZOH001R047 022
+\_no 00023
+\tx de7xe
+de7.
+\mb te -7xe te -7
+\sg1 DCT2-SIM DCT2-NOM1
+\eg1 DCT2-SIM DCT2-NOM1
+\zoq De7xe de 7.
+\fts Asi* es.
+\fte That's how it is.
+\com
+\idx
+ZOH001R0471001.txt
+Page 5

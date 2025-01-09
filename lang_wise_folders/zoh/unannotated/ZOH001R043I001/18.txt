@@ -1,0 +1,79 @@
+\fts Llevemonos.
+\fte Let's get along.
+\com
+\idx
+\ref ZOH001R043 074
+\_no 00075
+\tx tz@kta*nh
+\mb tz@k -taanh
+\sg1 hacer-HORT
+\egl do
+-HORT
+\zoq Tz@kta*nh.
+\fts Haguemos.
+\fte Let's do it.
+\com
+\idx
+\ref ZOH001R043 075
+\_no 00076
+\tx tummanh jupp@mda*nh
+para ke
+\mb tummanh jup -7@m -taanh para ke
+\sgl igual jalar-PAS -HORT para que 1E
+\egl equal pull -PASS-HORT for that 1E
+ZOH001R0431001.txt
+\_no_00077
+\tx 7i ga
+\mb 7i ka -7
+-kuy7
+\tx yoxkuy
+n@mm@ bi p@n
+\mb yox
+n@m -w@ bi p@n
+\sgl trabajar-INSTR1 decir-COM DEF hombre
+\egl work
+-INSTR1 say -COM DEF man
+\zoq Tummanh_jupp@mda*nh para ke 7@n tz@ktampa y@d@ yoxkuy7," n@m@ bi p@n
+7anhmayyoba*7k.
+\fts Jalemos parejo para que haguemos este trabajo", dijo el maestro.
+\fte Let's pull together so that we can do this work," said the teacher.
+\com
+\idx
+\ref ZOH001R043 076
+\zoq 7i ga7_p@ktzonhnhoyy@ komo juxtixa.
+\fts Y e le recibio* como presidente.
+\fte And he was elected as mayor.
+\com
+\idx
+\ref ZOH001R043 077
+\_no 00078
+7@n tz@ktampa
+y@da
+7@n tz@k -tam -pa ya -da
+hacer-1/2PL-INC DCT1-DEM
+do -1/2PL-INC DCT1-DEM
+p@ktzonhnhoyy@
+komo juxtixa
+p@k -tzonh-7oy -wa komo juxtixa
+\sg] y
+DCT3-NOM1 agarrar-unir -ANTIP-COM como autoridad
+\egl and DCT3-NOM1 get -join -ANTIP-COM like authority
+7anhmayyoba*7
+7anh -may
+-7oy -pa -v7k
+BOCA -contar-ANTIP-INC-REL
+MOUTH-Count -ANTIP-INC-REL
+\zoq Ga7 7@y 7otonhnhoyy@ bi kumkuy7.
+\fts E*1 le hablo* el pueblo.
+\fte He spoke to the town.
+\com
+\idx
+\tx ga
+7@y 7otonhnhoyy@
+bi kumkuy
+7@y 7otonh-7oy
+\mb ka -7
+-wa bi kumkuy7
+\sg1 DCT3-NOM1 3E hablar-ANTIP-COM DEF pueblo
+\eg1 DCT3-NOM1 3E speak -ANTIP-COM DEF town
+Page 18

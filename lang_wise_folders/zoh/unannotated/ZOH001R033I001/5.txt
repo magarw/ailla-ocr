@@ -1,0 +1,88 @@
+\_no 00019
+\tx
+\mb
+n takpa*m;
+7@n tak
+\sgl 1E tejer-INC-YA
+\egl 1E weave-INC-NOW
+-pa - 7am
+\zoq 7@n_takpa*m.
+\fts ya lo estoy tejiendo.
+\fte Now I'm weaving them.
+\com
+\idx
+\ref ZOH001R033 020
+\_no 00020
+\tx kay
+si d@ pata
+\mb
+ka -y
+si d@ pata7
+\sg1 DCT3-TMP si 1A petate
+\eg1 DCT3-TMP if 1A mat
+ZOH001R0331001.txt
+takpa*m;
+tak
+-pa -7am
+tejer-INC-YA
+weave-INC-NOW
+\zoq kay si d@ patatakpa*m,
+\fts Ahora si yo estoy tejiendo petate,
+\fte Then now if I'm weaving a mat,
+\com
+\idx
+\ref ZOH001R033 021
+\_no 00021
+\tx de sinko dia 7@y tukkam
+\mb
+de sinko dia 7@y tuk
+\sg1 de cinco dia 3E
+\egl of five day 3E
+\ref ZOH001R033 022
+\_no 00022
+\tx kay
+\mb ka
+g@
+-w@ -7am g@
+terminarse-COM-YA
+finish
+\zoq de sinko dia 7@y tukka*m g@ pata7.
+fts en cinco di'as acabo el petate.
+\fte in five days that mat is finished.
+\com
+\idx
+-COM-NOW DEM mat
+\zoq Kay d@n ma77@yba*m para komida,
+\fts Ya los voy a vender para comida,
+\fte Now I'm going to sell them for food,
+\com
+\idx
+pata7;
+pata7
+DEM petate
+dan ma77@yba*m
+para komida
+-y d@n ma7 -7@y -pa -7am para komida
+\sg1 DCT3-TMP XE venta-VERS2-INC-YA para comida
+\eg1 DCT3-TMP XE sale -VERS2-INC-NOW for food
+go7;
+\tx komida d@x para k@xkuy
+\mb komida d@x para k@x -kuy7 go7
+\sg1 comida 1Prn para comer-INSTR1 PURP
+\egl food 1Prn for eat -INSTR1 PURP
+\ref ZOH001R033 024
+\_no 00023
+\tx para d@n k@xkuy
+\mb para d@n k@x
+k@xkuy
+-kuy7
+k@x -kuy7 para la
+\sg1 para XE comer-INSTR1
+comer-INSTR1 para la
+\egl for XE eat -INSTR1 for DEM eat -INSTR1 eat -INSTR1 for the
+para la
+para g@ k@xkuy
+para g@ k@x
+-kuy7
+para DEM comer-INSTR1
+Page 5

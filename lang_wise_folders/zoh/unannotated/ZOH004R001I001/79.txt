@@ -1,0 +1,63 @@
+\SPG cerrado con llave
+\ENG locked with a key
+\EXU t@k 7anh-wit.i7
+\XPSH [t@k 7anhwiti7]
+\XSP casa cerrada con llave
+\XEN a house locked with a key
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wi7t
+\RTGR T2
+\DSRC TK94
+\CMTS
+\date 09/Jan/96
+\lex 7anh-xanh7
+\_no 00186
+\LG MIG
+\PSH [7anhxanh7]
+\UND 7anh=xanh.7
+\MB BOCA, X, NOM1
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG abierto
+\ENG open
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xanh
+\RTGR T3
+\DSRC TK94
+\CMTS get deriv's can't get .7a or other, see 7anh-wak
+\CMTS HAJ:96 - don't believe that root. believe it: TK
+\CMTS ends in /7/: TK
+\date 24/Jun/96
+\lex 7anh=xanh'.'aH
+\_no 00187
+\LG MIG
+\PSH [7anhxanhnha-]
+\UND 7anh-xanh7.7aH
+\MB BOCA, X, VERS1
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG ponerse abierto
+\ENG to become open
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+Page 79

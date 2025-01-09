@@ -1,0 +1,64 @@
+\SCI
+\USE
+\SPG tener chupado la cara (como un viejito sin dientes)
+\ENG to have the cheeks sucked in (like an old person without teeth)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT no7px
+\RTGR 12
+\DSRC HAJ94
+\CMTS CK-GR vi ok
+\CMTS CK-ROOT what is this no7px? (checked HAJ:96 ok)
+\date 08/Jan/96
+\lex 7anh-nam-tzu7
+\_no 00141
+\LG MIG
+-
+\PSH [7anhnamtzu7]
+\UND 7anh-nam-tzu7
+\MB BOCA, X, noche
+\VAR
+\GRAM av
+\SCI
+\USE
+\SPG muy temprano; de man*ana
+\ENG very early; in the morning
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 08/Jan/96
+\lex 7anh-nek
+\_no 00142
+ZOH004R0011001.txt
+\LG MIG
+\PSH [7anhnek-]
+\UND 7anh-nek
+\MB BOCA, estivar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG echar puro palo para que no entren
+\ENG to place a bar so that no one enters
+\EXU 7@y+ 7anh-nek-w@ tak
+\XPSH [7@y 7anhnekk@ tak.]
+\SEMF
+\ETYM
+\ETL
+\ROOT nek
+\XSP_Tapo* la puerta con puro palo.
+\XEN He barred the house.
+\SYN
+Page 60

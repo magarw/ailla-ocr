@@ -1,0 +1,63 @@
+\GRAM Vi
+\SCI
+\USE
+\SPG caer pelo
+\ENG for hair to fall out
+\SPL yak. jun
+\SLGR CAUS
+\SLGL hacer caer el pelo // to cause hair to fall out
+\EXU 1 way'=jun-w@
+\XPSH 1 [way junn@.]
+\XSP 1 Cayo* pelo.
+\XEN 1 The hair fell out.
+\EXU 2 d@ way jun-pa
+\XPSH 2 [D@ way junpa.]
+\XSP 2 Esta* cayendo mi cabello.
+\XEN 2 My hair is falling out.
+\SYN
+\SEMF body
+\ASP achievement
+\ARG
+\NOM jun.i7
+\SUB 7ok.jun. '@y, yuk. jun
+\ETYM
+\ETL
+\ROOT jun
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex junaanh
+\_no 00914
+\LG MIG
+\PSH [juna*nh]
+\UND {ju}.naanh
+\MB
+\VAR
+\GRAM int
+\SCI
+\USE
+\SPG co*mo; que modo; como es?
+\ENG how
+\EXU junaanh 7@m+ no7tz-w@ bi limeta
+\XPSH [Juna*nh 7@m no7tztz@ bi limeta?]
+ZOH004R0011001.txt
+\XSP ?Como rompiste la botella?
+\XEN How did you break the bottle?
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS is the final stress related to the fact that this is a question by
+itself? YES
+\date 18/Jun/96
+\DATE 03/Jan/1980
+\lex junaanh +jaa7
+\_no 00915
+\LG MIG
+\PSH [junanhja*7]
+\UND junaanh +jaa7
+\MB
+Page 399

@@ -1,0 +1,63 @@
+\_no 00449
+\LG MIG
+\PSH [7onne*nh]
+\UND 7on.neenh
+\MB desarreglar, MED
+\VAR
+\GRAM
+\SPG una basura amontonada
+\ENG a crumpled bit of garbage
+\SPL
+\SLGR
+\EXU
+\XPSH
+\XSP
+\XEN
+\SYN
+\SEMF
+\ROOT 7on
+\RTGR P (TX)
+\DSRC HAJ96
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex 7onsa
+\_no 00450
+LG MIG
+\PSH
+\UND 7onsa
+\MB
+\VAR
+\GRAM med
+\SCI
+\USE
+\SPG onza
+\ENG ounce
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 15/Oct/94
+\lex 70px
+\_no 00451
+\LG MIG
+\PSH
+\UND 70px
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG espumar
+\ENG to foam
+\SPL yak.70px
+\SLGR CAUS
+\SLGL hacer espuma // to make foam
+Page 193

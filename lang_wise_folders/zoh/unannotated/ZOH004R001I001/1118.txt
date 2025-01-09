@@ -1,0 +1,63 @@
+\GRAM vt
+\SCI
+\USE
+\SPG desmoronar
+\ENG to crumble something with your hand
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 pen
+\RTGR 1 T3
+\ROOT 2 tu7p
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 16/Oct/94
+\lex pen. 'oy.kuy7
+\_no 02598
+\LG MIG
+\PSH [pennokuy7]
+\UND pen. 7oy.kuy7
+\MB apretar, ANTIP, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG un apreto*n
+\ENG a squeeze
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pen
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex penh.penh.ney
+\_no 02599
+\LG MIG
+\PSH [penhpenhney-]
+\UND penh.penh.ney
+\MB
+\VAR
+\GRAM VIRE
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG estar papaloteando
+\ENG to be fluttering
+\EXU penh.penh.ney-pa sur-penh.penh
+\XPSH [Penhpenhneypa surpenhpenh.]
+\XSP Esta papaloteando la mariposa.
+\XEN The butterfly is fluttering.
+\SYN
+\SEMF
+Page 1118

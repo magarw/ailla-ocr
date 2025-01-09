@@ -1,0 +1,63 @@
+ZOH001R0611004.txt
+\XSP_Esta* torteando (cuando no es ma*s que una).
+\XEN She's making tortillas (when there's just one person).
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7an
+\RTGR 1 12
+\ROOT 2 tzanh
+\RTGR 2 T3
+\DSRC TK96
+\CMTS
+\date 03/Jan/80
+\lex 7an.e=tzanh.kuy7
+\_no 00006
+\LG MIG
+\PSH [7anetzanhkuy7]
+\UND 7an. E=tzanh.kuy7
+\MB calentarse, NOM7, golpear, INSTR1
+\VAR
+\GRAM instrl:incorp
+\SCI
+\USE
+\SPG todos esta*n torteando, como en una ayuda
+\ENG everyone is making tortillas, like at an ayuda
+\EXU 7an.e=tzanh.kuy7 ko.tzonh.kuy'+jo7
+\XPSH [7anetzanhkuy kotzonhkuyjo7.]
+\XSP_Esta*n torteando en una ayuda.
+\XEN They're making tortillas at an ayuda.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7an
+\RTGR 1 12
+\ROOT 2 tzanh
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS no suena bien (hoy) (HAJ:96 the example is correct)
+\date 02/Oct/96
+\lex 7an.e=tz@m-pa+a7k
+\_no 00007
+\LG MIG
+\PSH [7anetz@mpa*7k]
+\UND 7an. E=tz@m-pa+v7k
+\MB calentarse, NOM7, cargar, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG 1 cargador de tortilla
+\SPG 2 e*1 que lleva su lonche
+\ENG 1 tortilla carter
+\ENG 2 someone who carries his lunch
+\EXU 7an.e=tz@m-w@?
+\XPSH [7anetz@mm@?]
+\XSP Llevastes tortilla?
+\XEN Did you bring tortillas?
+\SYN
+\SEMF
+\ETYM
+Page 3

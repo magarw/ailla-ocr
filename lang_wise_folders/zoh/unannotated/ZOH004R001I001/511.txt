@@ -1,0 +1,63 @@
+\_no 01173
+\LG MIG
+\PSH [kandelakabu]
+\UND kandela'=kabu
+\MB vela, cabo
+\VAR kandeel=kabu
+\GRAM sms
+\SCI
+\USE
+\SPG cabo de la vela
+\ENG candle wick
+\EXU
+\XSP
+\XEN
+\SYN kandela k@nh-w@+'am kuk+kina.anh
+\SEMF
+\ETYM candela, cabo
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH - ok, HAJ: 96
+\date 24/Jun/96
+\lex kanela kuy
+\_no 01174
+\LG MIG
+\PSH
+\UND kanela kuy
+\MB canela, palo
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG palo de canela
+\ENG cinnamon tree
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 30/Jun/95
+ZOH004R0011001.txt
+\lex kan-momo7
+\_no 01175
+\LG MIG
+\PSH [kanmomo7]
+\UND kan-momo7
+\MB
+\VAR
+\GRAM a:sq
+\SCI
+\USE
+\SPG de verga mocha, "verga-mocho"
+\ENG somebody without a penis
+\SPL
+\SLGR
+Page 511

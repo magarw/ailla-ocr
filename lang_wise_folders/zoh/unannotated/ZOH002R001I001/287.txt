@@ -1,0 +1,37 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+The incorporated patient must be non-specific; that is, it must be an
+uncounted, indefinite, entity. I can say that I am going to 'tree-cut', but I can't
+point to a particular tree and then say "I will tree-cut (that one)". Example (10.9
+i) is ungrammatical: determiners, deictics, and definite quantifiers can not be
+stranded, because they would make the incorporated noun specific.
+(10.9)
+(i)
+* dø yotekommø yødø
+də+ yote?-kom-wǝ
+yədə
+1 A+ clothes-mend-COM this
+* 'I clothes-mended these'
+NI thus serves as a means of modifying the verb, narrowing its denotation
+to a particular subtype of action. In example (10.10 i), 'to coffee-drink' is
+actually the common idiom for 'to eat breakfast'. While it generally involves
+drinking coffee, it doesn't specify one cup or two, and most likely includes
+eating a piece of bread as well. In texts, NI can be a way of describing the
+action that is being performed without introducing an essentially irrelevant
+entity into the discourse context (ii). The beans have nothing to do with the
+story told in this text; the narrator is just setting up the background by
+explaining what they were doing at the beginning of the story.
+(10.10)
+(i)
+(ii)
+jø' dø kajwe'ukpaxtám
+hə? də+ kahwe=?uk-pa+štaa?+?am
+yes 1A+ coffee-drink-INC+ONLY+NOW
+'Yes, I'm just going to drink some coffee.'
+dø xøkyujtammø wayay nojo'
+də+ šək=yuh-tam-wə
+wayay nə?+ho?
+1A+ bean=clear-1/2 PL-COM cold water+LOC2
+'We were clearing a bean field in Agua Fria.'
+260
+(ZOH001 RO10-150)
+(ZOH001 R007-002)

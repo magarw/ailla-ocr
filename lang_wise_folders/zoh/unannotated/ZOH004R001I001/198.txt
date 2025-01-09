@@ -1,0 +1,64 @@
+\USE
+\SPG hablar
+\ENG to speak
+\SPL yak. 7otonh
+\SLGR CAUS
+\SLGL hacer hablar // to make speak
+\EXU 1 ya n@m. 7oy 7@y+ 7otonh-w@-v7
+\XPSH 1 [Ya n@mmoy 7otonhnh@*7.]
+\XSP 1 No puede hablar; tartamudo
+\XEN 1 He can't talk; stutterer
+\EXU 2 j@x+joonh 7otonh-w@
+\XPSH 2 [J@xjonh 7otonhnh@.]
+\XSP 2 Hablo* por atras.
+\XEN 2 She spoke backwards.
+\EXU 3 d@ 7otonh-w@ 7@n+ 7awin +j@nanh
+\XPSH_3 [D@ 7otonhnh@n 7awinj@nanh.]
+\XSP 3 Hable* con mi compan~ero.
+XEN 3 I spoke with my friend.
+\SYN
+\SEMF speak
+\ASP activity
+\ARG
+\NOM 7otow.e
+\SUB 7anh. 'un='otonh, 7otonh-mux, 7otonh=7anh.may, 7otonh.m@tz. '@y,
+\SUB 7otonh. '@y, ko.7otonh, 7otonh-mux, ni.7otonh. '@y, yuk. 'otonh,
+\SUB y@k.jo.7otonh
+\ETYM
+\ETL
+\ROOT 7otonh
+\RTGR 11
+\DSRC HAJ94
+\CMTS no .jay indir form, see 7otonh.7@y
+\date 03/Jan/80
+\lex 7otonh=7anh.may
+\_no 00462
+\LG MIG
+\PSH [7otonhnhanhmay-]
+\UND 7otonh=7anh.may
+\MB hablar, BOCA, contar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG 1 empezar a hablar
+\SPG 2 aprender a hablar
+\ENG 1 to begin to speak
+\ENG 2 to learn to speak
+SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7otonh
+\RTGR 1 Il
+\ROOT 2 may
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS
+Page 198

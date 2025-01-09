@@ -1,0 +1,53 @@
+\_no 01561
+\SPG cosita
+\ENG whatchamacallit
+\lex nana
+\_no 01562
+\SPG ti*a
+\ENG aunt
+\lex nana7
+\_no 01563
+\SPG abuelita
+\ENG grandmother
+\lex nantzin
+\_no 01564
+\SPG nanche
+ENG nanche
+\lex nanh
+\_no 01565
+\SPG regar
+\ENG spread
+\lex nanhkatzu7
+\_no 01566
+\SPG cinco negritos
+\ENG
+\lex napa7
+\_no 01567
+\SPG guacamaya
+\ENG
+\lex nat
+\_no 01568
+\SPG salar
+\ENG salt
+\lex natz@n
+\_no 01569
+\SPG callarse
+\ENG shut_up
+\lex nax
+\_no 01570
+\SPG tierra; mugre
+\ENG earth; dirt
+\lex naxe
+\_no 01571
+\SPG verdad
+\ENG truth
+\lex nay
+\_no 01572
+\SPG brotar
+\ENG sprout
+\lex naanh
+\_no 01573
+\SPG MED
+\ENG MEAS
+ZOH001R0611013.txt
+Page 125

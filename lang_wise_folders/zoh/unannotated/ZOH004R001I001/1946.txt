@@ -1,0 +1,62 @@
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex {yak.}
+\_no 04531
+\LG MIG
+\PSH
+\UND yak
+\MB CAUS
+\VAR
+\GRAM
+\SCI
+\USE verbal lexical prefix: causative
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU bi cae 7@y+ yak.w@ja-tz@k-pa
+\XPSH [Bi cae 7@y yakw@: jtz@kpa.]
+\XSP Lo manda arreglar los calles.
+XEN They have the streets cleaned.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 11/Feb/96
+\lex {yanh=}
+\_no 04532
+\LG MIG
+\PSH
+\UND
+\MB
+\VAR
+\GRAM pre
+\SCI
+\USE (pro) nominal prepound
+\SPG ajeno; de otro
+\ENG other's
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 12/Feb/96
+\lex {ya}
+\_no 04533
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+Page 1946

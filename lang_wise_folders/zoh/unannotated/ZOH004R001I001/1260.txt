@@ -1,0 +1,63 @@
+ZOH004R0011001.txt
+\SLGL hacer arder; alumbrar; prender luz // to cause to burn; to light; to
+turn on a light
+\EXU ta7kx-wa jemji7
+\XPSH [Ta7kx@ jemji7.]
+\XSP Alumbro* todo.
+\XEN It lit up everything.
+\SYN
+\SEMF light, temp
+\ASP activity
+\ARG
+\NOM
+\SUB ko.ta7kx, yuk.ta7kx
+\ETYM
+\ETL
+\ROOT ta7kx
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex ta7kx.i7
+\_no 02927
+\LG MIG
+\PSH [ta7kxi7]
+\UND ta7kx.E7
+\MB X, NOM7
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG liso
+\ENG smooth
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS another slip has GRAM sv/pcp - can this be?
+\date 20/Jun/95
+\lex ta7kx.i'.7aH
+\_no 02928
+\LG MIG
+\PSH [ta7kxi7a-]
+\UND ta7kx.E7.7aH
+\MB X, NOM7, VERS1
+\VAR
+\GRAM versl
+\SCI
+\USE
+\SPG alisarse
+\ENG to become smooth
+\SPL yak.ta7kx.E'.7aH
+\SLGR CAUS
+\SLGL hacer liso // to make smooth
+\EXU
+\XSP
+\XEN
+\SYN
+Page 1260

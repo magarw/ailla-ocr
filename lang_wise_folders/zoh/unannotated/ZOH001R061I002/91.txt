@@ -1,0 +1,62 @@
+\CMTS
+\lex wi7t
+\_no 00368
+\SPG 1 torcerse
+\SPG 2 torcer mecate
+\ENG 1 to be twisted
+ENG 2 to twist rope
+\SEMF arrange
+\ASP activity, achievement
+\ARG patient
+\NOM 7anh.wi7t.i, wi7t='anh.wak. 'oy.kuy7
+\NOM wi7t. 'oy.kuy7, wi7t.naanh
+\RTGR T2
+\POS Y lex
+\MID
+\UNDO wi7tpuw@ laxu
+\CLZ
+\CMTS
+\lex witz
+\_no 00369
+\SPG hacer alma*cigo
+\ENG to make a nursery; to nurture plants
+\SEMF plant
+\ASP process
+\ARG
+\NOM witz.i
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex wix
+\_no 00370
+\SPG arrancar, con rai*z y todo
+\ENG to pull up, roots and all
+\SEMF plant, cut
+\ASP achievement
+\ARG
+\NOM wix.naanh
+\NOM * kuy7
+\RTGR T3
+\POS d@ wixjayy@n tzamm@7
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex wixi7
+\_no 00371
+\SPG Zopilote
+\ENG buzzard
+\SEMF EX
+ZOH001R0611002.txt
+LF: jon
+\lex wo7i
+\_no 00372
+\SPG rodarse
+\ENG to roll
+\SEMF move_self
+\ASP process
+me arranco* mi monte
+Page 91

@@ -1,0 +1,63 @@
+\_no 02417
+\LG MIG
+\PSH [numtun-]
+\UND_num=tun
+\MB robar, devisar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG devisar escondido
+\ENG to secretly spot someone
+\SPL num=tun.7oy
+\SLGR ANTIP
+\SLGL asomarse // to peep out
+\SLGR NO PASS
+\EXU 7@n+ num-tun-w@ rroberto n@mm@ 7@y+ 7ojo'=7uk-w@
+\XPSH_ [7@n_numtunn@ Rroberto n@mm@y 7ojo7ukk@.]
+\XSP Devise* escondido a Roberto, estaba tomando aguardiente.
+\XEN I sneakily caught a glimpse of Roberto drinking corn liquor.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 num
+\RTGR 1 T1
+\ROOT 2 tun
+\RTGR 2 T3
+\DSRC TK94
+\CMTS
+\date 07/Apr/95
+\DATE 03/Jan/1980
+\lex num=tun.i7
+\_no 02418
+LG MIG
+\PHO [numtuni7]
+\UND_num=tun. E7
+\MB robar, devisar, NOM7
+\VAR
+ZOH004R0011001.txt
+\GRAM pcp
+\SPG alguien que deviso* a escondido
+\ENG someone that you saw from hiding
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT 1 num
+\RTGR 1 T1
+\ROOT 2 tun
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex num=tun.kuy7
+\_no 02419
+\LG MIG
+\PHO [numtunkuy7]
+\UND _num=tun.kuy7
+\MB robar, devisar, INSTR1
+\VAR
+\GRAM instr1
+\SPG la forma en que se devisa a escondida
+Page 1042

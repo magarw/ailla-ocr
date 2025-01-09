@@ -1,0 +1,62 @@
+A
+R
+P
+tékan k'ík'an to cinpáši šinčíh #13
+MP ték-an k'ík'-an toh c-hin-páš-ih š-hin-číh
+✓
+PS
+SS
+A
+R
+р
+PS
+ALARD
+PP
+SS
+Intro
+1.
+a
+Intro
+NP
+P.
+I
+PP
+NP
+Pre-Adv
+211
+S--
+J.
+iv
+VP
+Main.
+G perhaps-* black-* still present-I-return durative-I-say
+"Perhaps tomorrow I return," I said.
+P Pentónse # wáloN lólon yet' wẤN #
+MP ?entónseh wal-hoN-lo?-C₁-on y-ét' wiN
+4
+ន
+tv
+sp
+NP
+VP
+TO
+Main
+S=NP
+iv
+VP
+VP
+Main
+Main.
+1
+-S
+Pre-Adv
+NP
+I
+Subj
+-1
+iv
+S=NP
+Post-Adv
+(S)
+G then progressive-we-chat-*-* he-accompany male
+E Then, as we chatted (I with him),

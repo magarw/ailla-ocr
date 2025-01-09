@@ -1,0 +1,83 @@
+\ref ZOH001R036 983
+\_no 00966
+\tx OSM: bi 7une
+\mb OSM bi 7une7
+\sg1 OSM: DEF nin~o/a
+\egl OSM: DEF child'
+\zoq OSM: Bi 7une.
+\fts OSM: La criatura.
+\fte OSM: The baby.
+\com
+\idx
+\ref ZOH001R036 984
+\_no 00967
+kwando w@tiam
+bi
+\tx GSM: por 7ejemplo yey
+\mb GSM por 7ejemplo y@ -y kwando w@ti7 -7am bi
+\sg1 GSM: por ejemplo DCT1-TMP cuando grande-YA
+\eg1 GSM: for example DCT1-TMP when large -NOW DEF child
+DEF nin~o/a
+\ref ZOH001R036 985
+\_no 00968
+\tx minpam
+\mb min
+\zoq GSM: Por 7ejemplo yey kwando w@tiam bi 7une,
+\fts GSM: Por ejemplo cuando ya esta* grande la criatura,
+\fte GSM: For example now when the baby is big,
+\com
+\idx
+-pa -7am 7@y t@tz
+3E
+\sg1 venir-INC-YA
+\egl come -INC-NOW 3E
+ZOH001R0361001.txt
+7@y t@tz jakke y
+jakke 7@y
+diente mucho 3E
+teeth a lot 3E
+\tx myentras ke
+\mb myentras ke
+\sg1 mientras que
+\egl while
+that
+\com
+\idx
+\zoq minpam 7@y t@tz, jakkey_tzekn@kpa.
+\fts ya viene su diente, ya le esta* dando mucho churri.
+\fte now the teeth are coming, the belly is running (diarrhea).
+\com
+\idx
+tzekn@kpa
+tzek
+\ref ZOH001R036 986
+\_no 00969
+pin@k par
+\tx ti 7@m w@ja para ke ya jak tzekn@kk@
+\mb ti 7@m waja para ke
+tzek
+\sg] que 2E bueno para que
+ya jakke
+-n@k -wa pin@k para
+NEG mucho barriga-irse-nCOM CONFAC para
+\egl what 2E good for that NEG a_lot belly -go -nCOM CONFAC for
+7une
+7une7
+-n@k -pa
+barriga-irse-INC
+belly -go -INC
+pitz@mpa 7@y t@tz d@kka
+pitz@m-pa 7ay t@tz d@kkay
+salir -INC 3E diente NPL
+leave -INC 3E teeth NPL
+\ref ZOH001R036 987
+\_no 00970
+\tx OSM: kwando tum 7une
+\zoq Ti 7am w@ja para ke ya jak tzekn@kk@ pin@k par myentras ke pitz@mpa 7@y
+t@tzd@kka.
+\fts Que es bueno para que ya no tiene mucho churri para
+mientras que salga sus dientes?
+\fte what do you do maybe so that its belly doesn't run while its teeth are
+coming in?
+tzekn@kpa
+Page 209

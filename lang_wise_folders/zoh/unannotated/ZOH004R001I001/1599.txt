@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 pa7t
+\RTGR 1 T3
+\ROOT 2 tzonh
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex win-popo7
+\_no 03722
+\LG MIG
+\PSH [winpopo7]
+\UND win-popo7
+\MB CARA, blanco
+\VAR
+\GRAM a:sq (BA-ed)
+\SCI
+\USE
+\SPG palido; medio blanco; descolorido
+\ENG pale; off-white; discolored
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex win-popo' x@k
+\_no 03723
+\LG MIG
+\PSH [winpopo x@k]
+\UND win-popo7 x@k
+\MB CARA, blanco, frijol
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG frijol blanco
+\ENG white bean
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex win-popo'.7aH
+\_no 03724
+ZOH004R0011001.txt
+\LG MIG
+\PSH [winpopo7a-]
+Page 1599

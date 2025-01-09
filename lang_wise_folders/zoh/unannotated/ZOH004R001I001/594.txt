@@ -1,0 +1,63 @@
+\CMTS
+\date 27/Mar/95
+\lex koloor
+\_no 01362
+\LG MIG
+\PSH
+\UND koloor
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG color
+\ENG color
+\EXU
+\XSP
+\XEN
+\SYN k@nh.kuy7
+\SEMF
+ETYM SP
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/96
+\lex kom
+\_no 01363
+\LG MIG
+\PSH
+\UND kom
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG remendar, como casa, ropa
+\ENG to mend, like a house or clothes
+\SPL kom. 7oy
+\SLGR ANTIP
+\SLGL remendar // to mend
+\SPL kom.7@m
+ZOH004R0011001.txt
+\SLGR PASS
+\SLGL estar remendado // to be mended
+\SPL kom=ten
+\SLGR PRSV
+\SLGL tener remendado // to have something mended
+\EXU 1 t@k-kom-w@
+\XPSH 1 [T@kkomm@.]
+\XSP 1 Remendo* la casa.
+\XEN 1 He repaired the house.
+\EXU 2 yo't.e'-kom-w@
+\XPSH 2 [Yotekomm@.]
+\XSP 2 Remendo* ropa.
+\XEN 2 She mended the clothes.
+\EXU 3 7@n+ kom-w@ 7@n+ y@k.wij
+\XPSH 3 [7@n komm@n y@kwij.]
+\XSP 3 Remendi* la camisa.
+\XEN 3 I mended my shirt.
+\EXU 4 kom. 7@m-wa bi yak.wij
+\XPSH 4 [Komm@mm@ bi y@kwij.]
+\XSP 4 Remendaron la camisa (se remendo* la camisa).
+Page 594

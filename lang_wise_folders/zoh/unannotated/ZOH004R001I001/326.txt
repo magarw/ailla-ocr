@@ -1,0 +1,65 @@
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG hombre Mixe Sanjuanero
+\ENG Mixe man from Sanjuanero
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+ΧΕΝ
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex jey [1]
+\_no 00754
+\LG MIG
+\PSH
+\UND jey
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG batir (masa)
+\ENG to beat (masa)
+\EXU 1 7@n+ jey-tam-pa de7 way porke d@ yo'=tz@k-tam-pa
+\XPSH_1 [7@n jeytampa de way porke d@ yotz@ktampa.]
+\XSP 1 Vamos a batir la masa porque vamos a hacer tamales.
+\XEN_1 we're going to beat the masa because we're going to make
+tamales.
+ZOH004R0011001.txt
+\EXU 2 7@y+ jey.ten-w@ bi way para bi k@x.E
+\XPSH 2 [7@y jeytenn@ bi way para bi k@xi.]
+\XSP 2 Tiene batido la masa para la comida.
+\XEN 2 She's got the masa beaten for the food.
+\SYN
+\SEMF cook, corn
+\ASP activity
+\ARG agent, patient.
+\NOM jey. kuy7
+\SUB 7anh.jey. '@y, jo.jey, j@x-jey, ko.jey, ni.jey
+\ETYM
+\ETL
+\ROOT jey
+\RTGR P, (T3)
+\SPL jey.7oy
+\SLGR ANTIP
+\SLGL batir // to beat
+\SPL jey.7@m
+\SLGR PASS
+\SLGL batirse // to be beaten
+\SPL jey.ney
+\SLGR ASSUM1
+\SLGL estar batido // to be beaten
+\SPL jey.ten
+\SLGR PRSV
+Page 326

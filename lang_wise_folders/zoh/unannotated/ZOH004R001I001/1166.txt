@@ -1,0 +1,62 @@
+\CMTS
+\date 21/Jun/95
+\lex pom.pom=tax
+\_no 02710
+\LG MIG
+\PSH [pompomtax-]
+\UND pom.pom=tax
+\MB X, X, llenar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG entumirse; hormiguearse
+ENG to get numb and prickly
+\EXU pom.pom=tax-w@
+\XPSH [Pompomtaxx@.]
+\XSP Esta* hormigado.
+\XEN She itches.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tax
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex pon.ji
+\_no 02711
+\LG MIG
+\PSH [ponji]
+\UND pon.ji
+\MB
+\VAR
+\GRAM av: man
+\SCI
+\USE
+\SPG despacio
+\ENG softly; quietly
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex pon-mu7k
+\_no 02712
+\LG MIG
+\PSH [ponmu7k]
+\UND pon-mu7k
+\MB suave, zacate
+\VAR
+\GRAM
+\SCI
+\USE
+ZOH004R0011001.txt
+Page 1166

@@ -1,0 +1,62 @@
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex na7k
+\_no 00184
+\SPG coser, costurar
+\ENG to sew
+\SEMF build
+\ASP activity
+\ARG
+\NOM na'k.e
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex nanh
+\_no 00185
+\SPG regar, como semilla, arena, tierra
+\ENG to spread, as seed, sand, dirt
+\SEMF spread
+\ASP activity
+\ARG
+\NOM naw.e7, nanh.naanh, nanh.'oy.kuy7
+\RTGR P,
+(T3)
+\POS da nanhjayy@n poe
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex nat
+\_no 00186
+\SPG salar
+\ENG to salt
+\SEMF cook
+\ASP activity
+\ARG
+\NOM nat.e7
+\RTGR T3
+ZOH001R0611002.txt
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex nay
+\_no 00187
+\SPG brotar; nacer plantas o siembra
+\ENG to sprout; for plants or seedlings to come up
+\SEMF plant, farm
+\ASP achievement
+\ARG
+\NOM na.e7
+\RTGR 12
+\POS
+\MID
+Page 46

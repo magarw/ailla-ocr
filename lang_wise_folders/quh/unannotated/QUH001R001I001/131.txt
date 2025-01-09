@@ -1,0 +1,45 @@
+131
+una representación métrica según "pie trocaico" (es decir, según un
+constituyente prosódico mínimo en el que la primera sílaba lleva el acento). En este nivel, el
+acento se distribuye iterativamente en dirección de izquierda a derecha lo que deviene,
+normalmente, en que la última sílaba de la palabra no se acentúe (hay excepciones
+sistemáticas);
+el peso fonológico (o representación moraica) de la sílaba no altera, en general,
+el ritmo. Sin embargo, la temporalidad de las sílabas parece relevante solo en contextos
+limitados (e.g., en pies degenerados, como efecto compensatorio, en presencia de sufijos
+pronominales);
+no posee "restricción de palabra mínima": la o puede estar constituida por una
+sola sílaba, es decir, por un pie "degenerado";
+el límite relevante de frase (¿y de palabra?) para la asignación del acento
+principal es el límite derecho. De esta forma, el quechua ingresa, dentro de las "bounded
+language", en la categoría de lenguas con acento rítmico;
+tres niveles recursivos de asignación acentual: pie, palabra fonológica y frase
+fonológica; y dos direcciones: acento principal asignado de derecha a izquierda en el nivel de
+la frase y acento secundario y terciarios asignados de izquierda a derecha en el nivel del pie
+(con prominencia relativa sobre la sílaba inicial de palabra). En el caso en que no coincide el
+"tren acentual" del pie con el "tren acentual" del nivel de la frase, “gana" el acento frasal
+produciendo acomodamientos en el lugar del encuentro (nivel de la palabra), lo que puede
+involucrar habilitaciones (o restricciones) relacionadas con el peso moraico de las sílabas; 163
+la sufijación tiende a formar palabra prosódica independiente (y unificada: e.g.
+los sufijos pueden silabificar entre sí dentro del constituyente) y a no alterar el patrón acentual
+de la palabra receptora (i.e., durante el proceso derivacional se asignan dentro del bloque
+"cíclico"). Un caso especial lo representan los sufijos pronominales que, en algunos casos
+(ya fue mencionado), modifican el patrón acentual de la palabra receptora.
+164
+5.3. Relación patrón métrico de la lengua – patrón genérico: una aproximación a
+la observación de discursos naturales
+La exploración siguiente está orientada descriptivamente, es decir, en primera instancia
+y de forma inductiva busca descubrir la organización estructural y comunicativa del texto que
+se presenta, haciendo foco en las características de los elementos que operan en el nivel
+prosódico sin presuponer su autonomía ni la de ninguno de los elementos involucrados. En
+segunda instancia, buscará probar si el comportamiento prosódico, específicamente acentual,
+varía (más que el sintáctico, morfológico o de fonología léxica), como propone Woodbury
+163
+Tal como mencionó Levinsohn (1976), sobre el quechua Inga (sin presentar ni evidencias ni análisis), "the
+gramatical word does not coincide with the stress group". Considero que tanto el constituyente inferior a la
+palabra (el pie) como el superior (la frase) son los niveles relevantes a la asignación acentual en la lengua
+quechua. El género también puede ser un factor interviniente como se analiza más adelante.
+164
+En este sentido, Stewart (1984) propone una solución diferente al "rompecabezas" rítmico. Ella opta por
+considerar al constituyente de sufijación "extramétrico". Esta solución es discutida en posteriores revisiones de la
+teoría y, en general, no es preferida.

@@ -1,0 +1,62 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT mak
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex 7ok-mantza7
+\_no 00357
+\LG MIG
+\PSH [7okmantza7]
+\UND 7ok-mantza7
+\MB ABAJO, X
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG talo*n
+\ENG heel
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex 7ok-mantza'=tet
+\_no 00358
+\LG MIG
+\PSH [7okmantzatet]
+\UND 7ok-mantza7=tet
+\MB ABAJO, X, estar_rajado
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG rajarse talo*n
+\ENG to split a toenail
+\EXU 7ok-mantza'-tet-pa
+\XPSH [7okmantzatetpa.]
+\XSP Esta* rajando su talo*n.
+\XEN Her toenail is splitting.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tet
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 09/Jan/96
+\lex 7ok.manh [1]
+\_no 00359
+\LG MIG
+ZOH004R0011001.txt
+Page 154

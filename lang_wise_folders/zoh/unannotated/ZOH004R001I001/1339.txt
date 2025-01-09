@@ -1,0 +1,62 @@
+\USE
+\SPG camino; calle
+\ENG road; street
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 13/Jun/95
+\lex tunh wit.kuy7
+\_no 03112
+\LG MIG
+\PHO [tunh witkuy7]
+\UND tunh wit.kuy7
+\MB camino, andar, INSTR1
+\VAR
+\GRAM instr1
+\SPG un camino donde se camino
+\ENG a road where you walk
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT wit
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tunh-j@x.t@nh
+\_no 03113
+\LG MIG
+\PSH [tunhj@xt@nh-]
+\UND tunh-j@x.t@nh
+\MB camino, ATRAS, cortar_con_fierro
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG brechar para hacer camino; cortar un camino en el monte con
+machete
+ZOH004R0011001.txt
+\ENG to cut a road; to cut a path through the brush with a machete
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT t@nh
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-GR HAJ:96 fixed
+\CMTS
+\date 19/Jun/96
+\lex tunhku=wit
+Page 1339

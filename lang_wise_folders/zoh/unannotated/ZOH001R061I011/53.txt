@@ -1,0 +1,62 @@
+\ROOT tzi7tz 12
+\CMTS caus yak.tzi7tz dar sarna; arrugar; hacer marchitar
+\lex tzix
+\_no 00269
+\SPG tirar pedos
+ENG to fart
+\EX
+\XSP
+\XEN
+\ROOT tzix Ix
+\CMTS
+\lex tzix
+\_no 00270
+\SPG picar - chaya
+\ENG to prick
+\EX yaktzixxoyy@
+\XSP le pico*
+\XEN it pricked
+\XEN
+=
+\lex tzok
+\_no 00271
+\SPG sanar
+\ENG to heal
+\EX kotzokk@ y tz@ki
+\XSP lo hizo sanar
+\XEN he healed it
+\ROOT tzix T3
+\CMTS antip tzix. 7oy
+\CMTS pass tzix.7@m*
+\CMTS wouldn't confirm this root/gloss by itself, gave me the caus:antip
+\EX 7@y yaktzokjayy@ 7@y putzi
+\xSP le hizo sanar su grano
+ZOH001R0611011.txt
+mala mujer avispa
+\XEN she healed the cut
+\ROOT tzok 12
+\CMTS caus_yak.tzok sanar herida o enfermedad (doesn't equal criar)
+\CMTS caus2 yak+ tzok sanar
+\lex tzonh
+\_no 00272
+\SPG unir; topar
+\ENG to join
+\EX 7@y tzonhpa 7anhpaj
+\XSP topa el cerco
+\XEN he joined the fence
+\EX 7@y tzonhnh@ p@n
+\XSP topo* el hombre
+\XEN she met the man
+\lex tzot
+\_no 00273
+\SPG salir sol o luna
+\ROOT tzonh T3
+\CMTS antip tzonh.7oy topar alguien
+\CMTS pass tzonh.7@m toparse; empatarse (mecate)
+\ENG for the sun or moon to go down
+\EX tzottam jama
+\XSP ya salio* el sol
+\XEN the sun has gone down
+\EX tzottam xepe
+\XSP ya salio* la luna
+Page 53

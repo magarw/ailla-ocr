@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT mi7kx
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 11/Jan/96
+\lex j@x-mon
+\_no 01086
+\LG MIG
+\PSH [j@xmon-]
+\UND j@x-mon
+\MB ATRAS, envolver
+\VAR
+\GRAM vt
+\SPG sacar envuelto
+\ENG to take something out wrapped
+\EXU 7@y+ j@x-mon.w@
+\XPSH [7@y j@xmonn@]
+\XSP Lo saco* envuelto.
+\XEN She took it out wrapped.
+\SYN
+\ROOT mon
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 22/Jun/96
+\lex j@x-monh
+\_no 01087
+\LG MIG
+\PSH [j@xmonh-]
+\UND jax-monh
+\MB ATRAS, dormir
+\VAR
+\GRAM vi
+\SPG salir a dormir afuera
+\ENG to go outside to sleep
+\EXU j@x=monh.w@ 7anh-k@+jo7
+\XPSH [J@xmonhnh@ 7anhk@jo7.]
+\XSP Salio* a dormir afuera.
+\XEN He went outside to sleep.
+\SYN
+\ROOT monh
+ZOH004R0011001.txt
+\RTGR 12
+\DSRC HAJ95
+\CMTS en vez de decir: n@kpa y monhnh@ 7anhk@jo7
+\date 22/Jun/96
+\lex j@x=muy
+\_no 01088
+\LG MIG
+\PSH [j@xmuy-]
+\UND jax=muy
+\MB ATRAS, tener_en_boca
+\VAR
+\GRAM vt
+\SPG sacar algo de la boca
+\ENG to get something out of your mouth
+\EXU 7@y+ jax-muy.w@ bi paja7k.p@7
+\XPSH [7@y j@xmuyy@ bi paja7kp@7.]
+\XSP Saco* el dulce de la boca.
+Page 476

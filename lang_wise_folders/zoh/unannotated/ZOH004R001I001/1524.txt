@@ -1,0 +1,62 @@
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex wakxi' tzamm@7
+\_no 03544
+\LG MIG
+\PSH [wakxi tzamm@7]
+\UND wakxi7 tzamm@7
+\MB chico, monte
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG monte pequen*o
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS PH-OK: TK
+\date 26/Jun/96
+\lex wakxi' wiki7
+\_no 03545
+\LG MIG
+\PSH [wakxi wiki7]
+\UND wakxi7 wiki7
+\MB chico, dedo
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG dedo pequen*o
+\ENG little finger
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex wakxi' yom (@) 7awin
+\_no 03546
+\LG MIG
+\PSH [wakxi yoom 7awin]
+\UND wakxi7 yoma7 7awin
+\MB chico, hembra, hermano/a
+\VAR j@x@7kp@7
+\GRAM amsms
+\SCI
+\USE
+\SPG hermana menor
+\ENG younger sister
+ZOH004R0011001.txt
+Page 1524

@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG por mitad
+\ENG by half; in half
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 24/Jun/96
+\lex kuk-kit
+\_no 01525
+\LG MIG
+\PSH [kukkit-]
+\UND kuk-kit
+\MB centro, quebrar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG quebrar por la mitad
+\ENG to break in half
+\EXU kuk.kit.7@m-w@
+\XPSH [Kukkitt@mm@.]
+\XSP se quebro* por la mitad.
+\XEN It broke in half.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kit
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex kuk.manh.ten-w@ jama
+\_no 01526
+\LG MIG
+\PSH [kukmanhtenn@ jama]
+\UND kuk.manh.ten-w@ jama
+\MB centro, *pisar, PRSV, COM, di*a
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG al mediodia; a las doce
+\ENG at noon; at twelve o'clock
+\EXU
+\XSP
+\XEN
+ZOH004R0011001.txt
+\SYN 7ora y+ tan.n@7
+\SEMF
+\ETYM
+\ETL
+Page 662

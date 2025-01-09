@@ -1,0 +1,62 @@
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex j@x='@7tz
+\_no 01113
+\LG MIG
+\PSH [j@xx@7tz-]
+\UND jax=7@7tz
+\MB ATRAS, vomitar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG sacar algo gomitando
+\ENG to vomit something up
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN 7ok. '@7tz. '@y
+\SEMF
+\ETYM
+\ETL
+\ROOT 7@7tz
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex j@x='@7tz.17
+\_no 01114
+\LG MIG
+\PHO [j@xx@7tzi7]
+\UND jax=7@7tz.E7
+\MB ATRAS, gomitar, NOM7
+\VAR
+\GRAM PCP
+\SPG gomitado
+\ENG vomited
+\EX_k@x.i j@x='@7tz.17
+\XPSH [k@xi j@xx@7tzi7]
+\XSP comida gomitada
+\XEN vomited-up food
+\SYN
+\ROOT 7@7tz
+\RTGR T1
+\RTGL gomitar / to vomit
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex jay
+\_no 01115
+\LG MIG
+\PSH
+\UND jay
+\MB
+\VAR
+\GRAM vi
+\SCI
+ZOH004R0011001.txt
+Page 487

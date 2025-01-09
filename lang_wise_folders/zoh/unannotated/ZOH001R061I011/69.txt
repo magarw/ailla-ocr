@@ -1,0 +1,60 @@
+\SPG marchitarse
+\ENG
+\EX
+\XSP
+\XEN
+\ROOT yay 12
+\CMTS caus yak.yay hacer marchitar
+\lex yem
+\_no 00359
+\SPG 11amar con la mano
+\ENG to call by waving
+\EX 7@y yemjayy@
+\XSP 10 11amo
+\XEN she waved him over
+\ROOT yem Ix
+\CMTS caus yak.yem
+\lex yem
+\_no 00360
+\SPG soplar con soplador
+\ENG to blow with a bellows
+con la mano
+\EX yemm@ jukut@k yemkuyj@nanh
+\XSP soplo* la lumbre con el soplador
+\XEN he blew on the fire with a bellows
+\ROOT yem T3
+\CMTS antip yem.7oy soplar
+\CMTS pass yem.7@m soplarse
+\CMTS prsv yem-ten lo tiene soplandolo
+\lex yen
+\_no 00361
+\SPG lamer; lambear
+\ENG to lick; to lap
+\EX
+\XSP
+\XEN
+\ROOT yen T3
+\CMTS antip yen. 7oy
+\CMTS no pass yen.7@m *
+\lex yep
+\_no 00362
+\SPG (ex) tender; tender (ropa)
+\ENG to stretch; to hang (clothes)
+\EX 7@y yepp@ yote7
+\XSP tendio* la ropa
+ZOH001R0611011.txt
+\XEN she hung out the clothes
+\ROOT yep P, (T3)
+\CMTS antip yep.7oy
+\CMTS pass yep.7@m extenderse
+\lex ye7tz
+\_no 00363
+\SPG 11egar
+\ENG to arrive
+\EX
+\XSP
+\XEN
+\ROOT ye7tz Il
+\CMTS caus yak.ye7tz obligar a llegar
+\lex yo
+Page 69

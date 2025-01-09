@@ -1,0 +1,71 @@
+(13) kyee'yx
+bonito
+'bien bueno salió'
+(14) per kyee'yx
+pero bonito
+'pero bien bueno.'
+0=0=tzaaj
+CPL.DEP=B3s-venir
+(15) Per 0=0=tzaalaj
+(17) 0-chi-tzan
+pero CPL.DEP=B3s-estar.contento
+'La persona estaba contenta.
+(16) Per galaan=0_nimaal w-awal-a,
+(18) ya ja'la
+ya ahora
+waa'-l
+0=0=tzaaj
+pero galán=B3s AUM Als-siembra=1s
+'Está bien buena mi siembra,'
+B3s-decir-pues
+'dijo la persona.'
+(19) Pero nti'
+weena
+CPL.DEP-B3s-venir muy
+(22) ma-tzan
+x=0=kaana-n=tzan
+t-ee
+comer-INF A3s-SR:PAC
+'Después llegó un tío conejo a comerlo.'
+0=naa'-n
+(20) N=0=waa'-n.
+xjaal.
+persona
+PROX.DEP=B3s-encontrar-AP=pues
+(24) t-i'j
+xjaal t-i’j,
+pero NEG B3s-penssar-AP persona A3s-SR:tema
+'La persona no se imaginó qué está pasando.'
+INC-B3s=comer-AP
+'Comía.'
+(21) Entoons ya kyee'yx=0
+nimaal n-cheenq'=a
+entonces ya bonito=B3s AUM Als-frijol=1s
+'Entonces ya estaba bueno el frijolar,'
+0-poon-ta
+xjaal
+persona muy
+xhiky ja'la,
+PROX=pues B3s-llegar=3sENF conejo ahora
+'(cuando) llegó el conejo,'
+(23) b'an kyee'yx=0 nimaal t-waa.
+bueno bonito=B3s AUM A3s-comida
+'estaba bien buena mi comida.'
+jun miij awal,
+A3s-SR:por un mitad siembra
+t-i'
+weena.
+jun tiiya
+un tío
+t-i'j
+jun tiiya
+A3s-SR:por un tío
+cheenq'.
+koneej
+conejo
+koneeja,
+conejo
+0-poon waa'-1
+B3s-llegar comer-INF A3s-SR:PAC frijol
+'Por un pedazo de siembra, por un tío conejo, llegó a comer el frijolar.'
+3

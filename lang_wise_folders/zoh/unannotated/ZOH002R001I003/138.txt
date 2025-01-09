@@ -1,0 +1,52 @@
+in clauses that include an unmarked locative NP. The postposition that would
+be used for these NPs is +ho?, 'in; to'. It's not clear whether it is simply
+optional or if there's some underlying rule about when to mark a location
+explicitly and when not to. Place names never appear with the postposition
++ho?, although they do appear with the other postpositions.
+(6.5)
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+(vi)
+yə.hi?
+'iyangjá' dø mintammø yøji katemaco beracrus
+?iyaŋ +haa? də+ min-tam-wə
+katemaco beracrus
+quien+NPL 1A+ venir-1/2PL-COM DCT1.LOC1 Catemaco Veracruz
+'Quienes todos venimos aquí a Catemaco, Veracruz'
+'øy 'ukpay 'ukjeye montanya
+?ǝy+ ?uk-pa
+?əy+ ?uk-hey.E
+3E+ tomar-INC 3E+ tomar=batir.NOM3
+'Toma su pozole en la montaña.'
+ye'chukkø tum noajo'
+0 ye?c-šuk-wə
+tum noa?+ho?
+3A llegar-3PL-COM uno arroyo+LOC2
+'Llegaron en un arroyo."
+'øy pøkkø 'øy weka'
+?əy+ pək-wə
+?əy+ weka?
+3E+ agarrar-COM 3E+ cuerno
+' (un toro) Agarró (un tren) con su cacho.'
+wekajo' 'øy yukpatztzø
+weka?+ho?
+?əy+ yuk.pac-wə
+cuerno+LOC2 3E+ ARR.tirar-COM
+'Lo levantó con su cacho.'
+(ZOH001R018- 002)
+porke tungjo' pitzømpa tum pa:pøn
+porke tuŋ+ho?
+0 pitzǝm-pa tum pa-pən
+porque camino+LOC2 3A salir-INC uno salvaje-hombre
+'Porque en el camino sale un diablo."
+113
+montanya
+montaña
+(ZOH001 R053-010)
+(ZOH001 R012-025)
+(ZOH001 R018- 031)
+(ZOH001R025-126)
+(ZOH001R025-127)

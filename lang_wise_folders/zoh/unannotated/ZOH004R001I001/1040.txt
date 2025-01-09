@@ -1,0 +1,63 @@
+\UND num=j@y
+\MB robar, llorar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG 11orar escondido
+\ENG to cry in hiding
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 num
+\RTGR 1 T1
+\ROOT 2 jay
+\RTGR 2 11
+\DSRC HAJ94
+\CMTS
+\date 05/Oct/94
+\lex num-manak
+\_no 02413
+\LG MIG
+\PSH [nummanak]
+\UND num-manak
+\MB robar, hijo/a
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG hijo bastardo
+\ENG bastard
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT num
+\RTGR T1
+\DSRC HAJ94
+\CMTS ANALYSIS
+\date 27/Jan/96
+\lex num-pa+a7k
+\_no 02414
+\LG MIG
+\PSH [numpa*7]
+\UND num-pa +P@7k
+\MB robar, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG ladro*n
+\ENG thief
+\EXU
+\XSP
+\XEN
+ZOH004R0011001.txt
+Page 1040

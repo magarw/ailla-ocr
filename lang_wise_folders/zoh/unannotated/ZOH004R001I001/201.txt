@@ -1,0 +1,62 @@
+\DATE 14/Aug/02
+\lex 7otonh-tzun
+\_no 00468
+\LG MIG
+\PSH [7otonhtzun-]
+\UND 7otonh=tzun
+\MB hablar, ser_alegre
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG hablar presumido
+\ENG to speak arrogantly
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7otonh
+\RTGR 11
+\ROOT tzun
+\RTGR 12
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex 7otonh=witu'
+\_no 00469
+\LG MIG
+\PSH [7otonhwi tu-]
+\UND 7otonh=witu7
+\MB hablar, regresar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG hablar en turno; volver a hablar
+\ENG to take one's turn at talk; to speak again
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7otonh
+\RTGR 11
+\ROOT witu7
+\RTGR 11
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex 7otonh.'@y
+\_no 00470
+ZOH004R0011001.txt
+LG MIG
+\PSH [7otonhnh@y-]
+\UND 7otonh.7@y
+\MB hablar, SUF
+\VAR
+Page 201

@@ -1,0 +1,64 @@
+\MB alumbrarse, NOM2, BOCA, robar, NOM1
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG rayo de luz
+\ENG a ray of light
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 ta7kx
+\RTGR 1 12
+\ROOT 2 num
+\RTGR 2 T1
+\DSRC HAJ94
+\CMTS
+\date 09/Feb/96
+\lex tam7
+\_no 02932
+\LG MIG
+\PSH
+\UND tam7
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG amargo
+\ENG bitter
+\EXU jak tam7
+\XSP muy amargo
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 20/Jun/95
+\lex tamarindu7
+\_no 02933
+\LG MIG
+\PSH
+\UND tamarindu7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG tamarindo
+\ENG tamarind
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+ZOH004R0011001.txt
+LF: kuy
+Page 1262

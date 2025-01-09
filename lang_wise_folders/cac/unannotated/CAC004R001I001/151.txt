@@ -1,0 +1,32 @@
+1
+43AUST
+ENT
+MATA
+146
+Stative Phrases
+The stative phrase consists of an inflected stative
+stem. Minimal inflection of a stative stem is inflection
+for personal subject. All other inflection is optional.
+Examples of stative stems are found in the discussion of
+stative affixes, pages 138-142.
+Particle Phrases
+Particle phrases consist of clusters of particles.
+Phrases which include particles, but which include other root
+types as well, are discussed as noun phrases; if other root
+types occur in the phrase, the particles do not function as
+the head of the construction. Particle phrases have no clear
+head-attribute structure. These phrases are difficult to
+gloss out of sentence context, just as it is often impossible
+to gloss individual particles. Examples of particle phrases
+are: //há?-Nex-há? // just the same or just like that, com-
+posed of //há? // demonstrative and //Nex// only; //tah-ton //
+if, composed of //tah// (meaning unclear) and //toh// still
+or yet; //toh-Nex// only, composed of //toh// still and
+//Nex// only; //ma-toh // but if, composed of //ma // negative
+and //toh// still or yet. Other examples of particles
+phrases are found in the texts in Appendix D.
+Noun Phrases
+The noun phrase consists minimally of an uninflected
+noun stem, which may in turn be an underived noun root. In
+most cases the uninflected stem is one of the set of speci-
+:

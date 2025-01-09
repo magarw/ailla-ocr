@@ -1,0 +1,63 @@
+\SPG cuidar la milpa
+\ENG to guard the cornfield
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7ix
+\RTGR 1 T3
+\ROOT 2 ten
+\RTGR 2 11
+\DSRC TK94
+\CMTS
+\date 12/Nov/94
+\lex mok='07tz
+\_no 01996
+\LG MIG
+\PSH [mokko7tz-]
+\UND mok=707tz
+\MB mai*z, doblar
+\VAR
+\GRAM vi+obj
+\SCI
+\USE
+\SPG doblar el mai*z
+\ENG for a cornstalk to bend
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 707tz
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 15/Oct/94
+\lex mok= '@kx
+\_no 01997
+\LG MIG
+\PSH [mokk@kx-]
+\UND mok=7@kx
+\MB mai*z, desgranar
+\VAR
+\GRAM vt:incorp
+\SCI
+\USE
+\SPG desgranar mai*z
+\ENG to shell corn
+EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7@kx
+\RTGR T3
+ZOH004R0011001.txt
+Page 860

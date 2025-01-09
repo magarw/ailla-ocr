@@ -1,0 +1,62 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex tu7tz-pak
+\_no 03126
+\LG MIG
+\PSH [tu7tzpak]
+\UND tu7tz=pak
+\MB cola, hueso
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG colita
+\ENG tail-bone
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 20/oct/94
+\1ex_tu7tz-tuk.u7
+\_no 03127
+\LG MIG
+\PSH [tu7tztuku7]
+\UND tu7tz=tuk.u7
+\MB cola, cortar, X
+\VAR
+\GRAM spcp
+\SCI
+\USE
+\SPG un animal que le cortaron la cola
+\ENG an animal whose tail has been cut off
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tuk
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 20/Oct/94
+ZOH004R0011001.txt
+\lex tuwa-'anh
+\_no 03128
+\LG MIG
+Page 1345

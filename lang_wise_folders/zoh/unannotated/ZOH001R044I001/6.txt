@@ -1,0 +1,23 @@
+\sg] y
+ZOH001R0441001.txt
+muy
+chico pobre pobre hombre 3E hijo/a pues
+\egl and very little poor poor man 3E child well
+\zoq 7i ban chik pobre, pobre p@n 7@y manak, pwes.
+\fts Y muy pobrecito hijo de gente pobre pues.
+\fte And very poor, a poor man's son,
+\com
+\idx
+\ref ZOH001R044 023
+\_no 00024
+\tx 7@y mama ga
+bi rrika ga yoma 7@yti
+\mb 7@y mama ka -7 bi rrika ga yomaa7 7@yti7
+\sg1 3E mama* DCT3-NOM1 DEF rica DEM mujer 3PSN
+\egl 3E mother DCT3-NOM1 DEF rich DEM woman 3PSN
+\zoq 7@y mama ga bi rrika, g@ yoma7@yti."
+\fts su mama* es la rica, la mama de la mujer."
+\fte His mother, that's the rich one, that one's mother."
+\com
+\idx
+Page 6

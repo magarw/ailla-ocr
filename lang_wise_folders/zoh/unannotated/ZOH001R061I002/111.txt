@@ -1,0 +1,60 @@
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex {%tek}
+\_no 00451
+\SPG orinar
+\ENG to urinate
+\SEMF body
+\ASP activity
+\ARG
+\NOM
+\lex {%utz}
+\_no 00452
+\SPG encogerse; ser jorabado
+\ENG to hunch oneself up; to be hunchbacked
+\SEMF arrange, body
+\ASP
+\ARG
+\NOM
+\RTGR P
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex {%wak}
+\_no 00453
+\SPG vaciar
+\ENG to empty
+\SEMF arrange
+\ASP
+\ARG
+\NOM wi7t='anh.wak. 'oy.kuy7
+\RTGR
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex {%xakx}
+\_no 00454
+\SPG
+\ENG
+\SEMF arrange
+\ASP
+\ARG
+\NOM
+\RTGR P
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex {%xuy}
+\_no 00455
+ZOH001R0611002.txt
+\SPG cobijar
+\ENG to cover with a blanket
+Page 111

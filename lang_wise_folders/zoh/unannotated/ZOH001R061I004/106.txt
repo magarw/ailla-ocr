@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG blanquisco
+\ENG off-white
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS get deriv's
+\date 15/Jun/95
+\lex pot.i'.7aH
+\_no 00263
+\LG MIG
+\PSH [poti7a-]
+\UND pot.E7.7aH
+\MB hacerse_blanco, NOM7, VERS1
+\VAR
+\GRAM vi: versl
+\SCI
+\USE
+\SPG hacerse blanquisco
+\ENG to become pale
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pot
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex pot.i'=tz@k
+\_no 00264
+\LG MIG
+\PSH [potitz@k-]
+\UND pot. E7=tz@k
+\MB hacerse_blanco, NOM7, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer blanquisco
+\ENG to whiten; to make pale
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+ZOH001R0611004.txt
+Page 106

@@ -1,0 +1,64 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 20/Oct/94
+\lex tuk. 17
+\_no 03082
+\LG MIG
+\PHO [tuki7]
+\UND tuk. E7
+\MB cortar, NOM7
+\VAR
+\GRAM pcp
+\SPG cortada
+\ENG cut, picked
+\EXU t@m tuk.i7
+\XPSH [t@m tuki7]
+\XSP fruta cortada
+\XEN picked fruit
+\SYN
+\ROOT tuk
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tukjar
+\_no 03083
+\LG MIG
+\PSH
+\UND tukj@r
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG pa*jaro carpintero
+\ENG wood pecker
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+LF: jon
+HAJ:96 ok/OK:TK
+\CMTS CK-PH
+\date 26/Jun/96
+\lex tuk.kuy7
+\_no 03084
+\LG MIG
+\PSH [tukkuy7]
+\UND tuk. kuy7
+\MB acabarse, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+ZOH004R0011001.txt
+Page 1327

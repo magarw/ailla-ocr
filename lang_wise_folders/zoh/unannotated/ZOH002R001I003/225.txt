@@ -1,0 +1,54 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(8.8)
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+(vi)
+kay minpam bi jentedøkkay 'ixxukkø bi santu
+ga.y
+min-pa+?am bi hente+dəkkay ?əy+ ?iš-šuk-wǝ bi santu
+DCT3.TMP venir-INC+YA DEF gente+NPL 3E+ ver-3PL-dINC DEF santo
+'Ya viene la gente a verlo el santo.'
+(ZOH001R032-044)
+nøktampa dehi 'øn 'ixtammø dedø tzawowo
+?ən+ ?iš-tam-wǝ
+de.də
+ca? wowo
+nək-tam-pa de.hi?
+ir-1/2PL-INC DCT2.LOC1 1E+ ver-1/2PL-dINC DCT2.DEM piedra-hoyo
+'Vamos ahí a ver ese hoyo de piedra.'
+(ZOH001R015-037)
+ya minø pinøk 'øm koyoxxø
+ya min-A
+pinək ?ǝm+ ko.yoš-wə
+NEG venir-nINC CONFAC 2E+ SOC.trabajar-dINC
+'No vinieras a chambear.'
+(ZOH001 R019-067)
+ney de'xe pinøk nøkpam yoxtammø 'eyajo'
+ney de.?še pinək nək-pa ?əm+ yoš-tam-wə
+?eya?+ho?
+mismo DCT2.SIM CONFAC ir-INC 2E+ trabajar-1/2PL-dINC otro+LOC2
+'Así mismo fueran a trabajar otro lado.'
+(ZOH001R010-040)
+pitz bi nøkpay jamatinpøkxukkø kada xepe
+pic
+bi nək-pa ?əy+ hamatin=pək-šuk-wǝ kada šepe
+por eso DEF ir-INC 3E+ dinero=agarrar-3PL-dINC cada mes
+'Por eso van a traer dinero cada mes."
+(ZOH001R028-331)
+210
+ga jamatin nøkpay 'øy pøkxukkø kada xepe
+kada šepe
+ga.?
+hamatin nək-pa ?əy+ pək-šuk-wə
+DCT3.NOM1 dinero ir-INC 3E+ agarrar-3PL-dINC+REL cada mes
+'Ese dinero que se van a traer cada mes.'
+(ZOH001R028-332)
+The irregular form nəmmo- 'to be able to' also appears in the dependent
+verb construction and functions as an auxiliary verb. I treat it as an unanalyzed
+stem and gloss it 'be_able' because although it is a derived stem, it is clearly
+lexicalized. Its analysis is nəm.?oy-, 'DO.ANTIP'. The root nəm- with this
+meaning appears, though rarely, in compound verb constructions (an example
+is shown in 8.9 v); otherwise it exists only in this special collocation. nəmmo-

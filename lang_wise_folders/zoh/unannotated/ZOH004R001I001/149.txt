@@ -1,0 +1,63 @@
+\_no 00345
+\LG MIG
+\PSH [7okki7tt@y-]
+\UND 7ok.ki7t.7@y
+\MB ABAJO, meter_dedo, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tener algo entro los dedos pero de manera suelta
+\ENG to have something nearly caught with the fingers, but lose it
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT ki7t
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex 7ok.kitz. '@y
+\_no 00346
+\LG MIG
+\PSH [7okkitztz@y-]
+\UND 7ok.kitz.7@y
+\MB ABAJO, enrollar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 desenrollar
+\SPG 2 desremangar
+\ENG 1 to unroll
+\ENG 2 to roll down your pants or sleeves
+\SPL
+ZOH004R0011001.txt
+\SLGR
+\EXU 7@n+ 7ok.kitz. '@y-pa 7@n+ y@k.wij 7@y+ tzanh.kuy7
+\XPSH [7@n 7okkitztz@ban y@kwij 7@y tzanhkuy7.]
+\XSP voy a desenrollar las mangas de mi camisa.
+\XEN I'm going to roll down my shirtsleeves.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kitz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex 7ok.koj. '@y
+\_no 00347
+\LG MIG
+\PSH [7okkojj@y-]
+\UND 7ok.koj.7@y
+\MB ABAJO, encajar, SUF
+\VAR
+Page 149

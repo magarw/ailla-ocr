@@ -1,0 +1,63 @@
+\GRAM vi:indef
+\SCI
+\USE
+\SPG estar corriendo alrededor
+\ENG for people to be running (around)
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT poy
+\RTGR 11
+\DSRC TK96
+\CMTS
+\lex yuk.p@k
+\_no 04308
+\LG MIG
+\PSH [yukp@k-]
+\UND yuk.p@k
+\MB ARR, agarrar
+\VAR
+\GRAM dir+vt
+\SCI
+\USE
+\SPG guardar; levantar
+\ENG to keep; to store
+\EXU 1 tum. 7anh 7@y+ yuk.p@k-w@
+\XPSH 1 [Tummanh 7@y yukp@kk@.]
+\XSP 1 Lo levanto* parejo.
+\XEN 1 She put them away in pairs.
+\EXU 2 7@y+ yuk.p@k-w@ 7@y+ tzi'-xuk-w@+@7k
+\XPSH_2 [7@y yukp@kk@y tzixukk@*7k.]
+\XSP 2 Levanto* la cosa que le dieron.
+\XEN 2 He put away the things they gave him.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT p@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS see also kot
+\CMTS
+\date 29/Jan/96
+ZOH004R0011001.txt
+\lex yuk.p@k mexa7
+\_no 04309
+\LG MIG
+\PSH [yukp@k- mexa7]
+\UND yuk.p@k mexa7
+\MB ARR, agarrar, mesa
+\VAR
+\GRAM vt+obj
+\SCI
+\USE
+\SPG alzar la mesa
+\ENG to clear the table
+\EXU
+Page 1850

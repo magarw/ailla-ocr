@@ -1,0 +1,65 @@
+\PSH [7okjupp@y-]
+\UND 7ok.jup.7@y
+\MB ABAJO, jalar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG dejar estirado en el suelo
+\ENG to leave something stretched out on the ground
+\SPL
+\SLGR
+\EXU 1 7@y+ 7ok.jup. '@y-w@ 7@y+ win_nax+jo7
+\XPSH 1 [7@y 7okjupp@yy@y win naxjo7.]
+\XSP 1 Se estiro
+en el suelo.
+\XEN 1 He stretched himself out on the ground.
+\EXU 2 7@y+ 7ok.jup. '@y-w@ bi laxu
+\XPSH 2 [7@y 7okjupp@yy@ bi laxu.]
+\XSP 2 Dejo
+\SEMF
+\ETYM
+\ETL
+\XEN 2 She left the rope stretched out on the ground.
+\SYN
+\ROOT jup
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 09/Jan/96
+\lex 7ok.j@7kx. '@y
+\_no 00332
+\LG MIG
+\PSH [7okj@7kx@y-]
+\UND 7ok.j@7kx.7@y
+\MB ABAJO, apurarse, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+el mecate estirado en el suelo.
+\SLGR
+\EXU
+\XSP
+\SPG apurarse atra*s de alguien
+\ENG to hurry along behind someone
+\SPL
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT ja7kx
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 09/Jan/96
+\lex 7ok.j@m. '@y
+\_no 00333
+LG MIG
+\PSH [7okj@mm@y-]
+\UND 7ok.j@m.7@y
+\MB ABAJO, tallar, SUF
+\VAR
+Page 143

@@ -1,0 +1,79 @@
+\ref ZOH001R036 371
+\_no 00366
+\tx kom de7x
+kwando de7x
+d@
+\mb komo te
+d@ n@kkoypa
+d@ n@k -7oy -pa kwando te -7xe d@
+\sg1 como DCT2-SIM 1A andar-ANTIP-INC 1A irse-ANTIP-INC cuando DCT2-SIM 1A
+\egl like DCT2-SIM 1A walk -ANTIP-INC 1A go -ANTIP-INC when
+DCT2-SIM 1A
+\tx wejxukpa
+\mb wej
+-xuk-pa
+\sgl gritar-3PL-INC
+\egl shout -3PL-INC
+\zoq Kom de7x d@ wittoypa da n@kkoypa kwando de7x_d@ wejxukpa.
+\fts Como asi* caminamos andamos cuando asi* me llaman.
+d@ wittoypa
+-7xe d@ wit -7oy -ра
+\fte Like that we walk we go when like that they call me.
+\com
+\idx
+\ref ZOH001R036 372
+\_no 00367
+\tx da n@kpa
+\mb da nak -pa
+\sgl 1A irse-INC
+\egl 1A go -INC
+\zoq D@ n@kpa.
+\fts Me voy.
+\fte I go.
+\com
+\idx
+\ref ZOH001R036 373
+\_no 00368
+\tx
+\mb
+7entonse 7entre
+d@xja*7
+entonces 7entre d@x -jaa7
+\sg1 entonces entre
+\egl then
+ZOH001R0361001.txt
+1Prn-NPL2
+between 1Prn-NPL2
+\zoq 7entonse 7entre d@xja*7,
+\fts Entonces entre nosotros,
+\fte Then between us,
+\com
+\idx
+\ref ZOH001R036 374
+\_no 00369
+\tx 7entre grupu de jente 7entre
+\mb 7entre grupu de jente 7entre
+\sg1 entre
+grupo de gente entre compan~ero pues
+\egl between group of people between fellow well
+\ref ZOH001R036 375
+\_no 00370
+\tx da nampa
+\mb da nam
+-pa
+\sg1 1A decir-INC
+\zoq 7entre grupu de jente, 7entre kompanyeru, pwes.
+\fts Entre grupo de gente, entre compan~ero, pues.
+\fte In the group of people, well, among the colleagues.
+\com
+\not (group of me*dicos and practioners of traditional medicine who met in
+Oaxaca last year);
+kompanyeru pwes
+kompanyeru pwes
+7onde d@ waxx@
+donde da wax -wa
+donde 1A morder-COM
+y tzajin
+7@y tzajin
+3E culebra
+Page 80

@@ -1,0 +1,64 @@
+\SCI
+\USE
+\SPG cantar
+\ENG to sing
+\SPL wan.7@m
+\SLGR PASS
+\SLGL canter (impersonal) // to sing (impersonal)
+\EXU 1 ya wan-a+'am
+\XPSH 1 [Ya wana*m.]
+\XSP 1 Ya no canta.
+\XEN 1 Now he doesn't sing.
+\EXU 2 7@y+ wan-w@ bi kum.kuy'+jo7+k wan.e7
+\XPSH 2 [7@y wann@ bi kumkuyjo7k wane7.]
+\XSP 2 Canto* una cancio*n de su pueblo.
+\XEN 2 She sang a song of her village.
+\EXU 3 wan. '@m-w@ bi wan.e' 7@y+ kum.kuy'+jo7
+\XPSH 3 [wann@mm@ bi wane 7@y kumkuyjo7.]
+\XSP 3 Cantaron la cancio*n de su pueblo.
+\XEN 3 Someone sang the song of their village.
+\SYN
+\SEMF speak
+\ASP process
+\ARG patient
+\NOM wan.e7
+\SUB 7ok.wan. '@y, jo.wan, ma.wan
+\ETYM
+\ETL
+\ROOT wan
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex wat
+\_no 00191
+ZOH001R0611006.txt
+\LG MIG
+\PSH
+\UND wat
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 amarrar
+\SPG 2 ganaṛ
+\ENG 1 to tie
+\ENG 2 to earn
+\SPL wat.7oy
+\SLGR ANTIP
+\SLGL amarrar; ganar // to tie; to earn
+\SPL wat.7@m
+\SLGR PASS
+\SLGL amarrarse // to be tied
+\SPL wat.ney
+SLGR ASSUM1
+\SLGL estar amarrado // to be tied
+\SPL wat.ten
+\SLGR PRSV
+\SLGL estar amarrado // to have tied
+\EXU 7@y+ wat.w@y-w@ bi wakax
+\XPSH [7@y watt@yy@ bi wakax.]
+\XSP Tiene amarrado el ganado.
+\XEN He has the cow tied.
+Page 129

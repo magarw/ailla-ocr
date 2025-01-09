@@ -1,0 +1,63 @@
+\USE
+\SPG hilo
+\ENG thread
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jup
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 06/Feb/96
+\lex jup.i t@p.kuy7
+\_no 00927
+\LG MIG
+\PSH [jupi t@pkuy7]
+\UND jup. E t@p.kuy7
+\MB jalar, NOM7, coser, INSTR1
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG aguja
+\ENG needle
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 jup
+\RTGR 1 P, (T3)
+\ROOT 2 t@p
+\RTGR 2 T1
+\DSRC HAJ94
+\CMTS
+\date 06/Feb/96
+\lex jup.i.7@y
+\_no 00928
+\LG MIG
+\PSH [jupi7@7-]
+\UND jup.E.7@y
+\MB hilo, NOM7, VERS2
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hilar; echar hilo
+\ENG to spin thread
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jup
+ZOH004R0011001.txt
+Page 405

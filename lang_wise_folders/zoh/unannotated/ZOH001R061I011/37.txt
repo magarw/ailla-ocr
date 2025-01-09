@@ -1,0 +1,59 @@
+\CMTS pass po.7@m rajarse
+\lex po
+\_no 00181
+\SPG nacer animales, gente
+\ENG to be born - animals, people
+\EX pow@ 7une7
+\XSP nacio* la criatura
+\XEN the baby was born
+\ROOT po 12
+\CMTS caus yak.po tener cria
+\lex po7at@k
+\_no 00182
+\SPG primo; sobrino
+\ENG cousin (male); nephew
+\EX yom(a) po7at@k
+\XSP prima
+\XEN female cousin
+\ROOT po 12
+\CMTS CK-PH ok the glottal stop is there
+\lex poanh7
+\_no 00183
+\SPG algo que trajo de nacimiento el nin~o, como una mancha
+\ENG with a birthmark on forehead
+\EX
+\XSP
+\XEN
+\ROOT po 12
+\CMTS CK-GL ok
+\lex poj
+\_no 00184
+\SPG descolorar; despintarse; quitarse de color
+to bleach; to lose color
+\ENG to fade;
+\EX pojj@ 7@y k@wi7
+\XSP se despinto*
+\XEN his color faded
+\ROOT poj IX, 12
+\CMTS caus2 yak+ poj desten~ir
+ZOH001R0611011.txt
+\lex pojoj
+\_no 00185
+\SPG estar destorciendo el mecate
+\ENG for the rope to be untwisted
+\EX
+\XSP
+\XEN
+\ROOT pojoj Ix
+\CMTS caus yak.pojoj hacer destorcer
+\lex po7kx
+\_no 00186
+\SPG calmarse (una persona)
+\ENG to calm down
+\EX 7@y yakj@ypo7kx@
+\XSP hizo calmar alguien (nin~o que esta* llorando)
+\XEN she calmed someone (a baby who was crying)
+\ROOT po7kx Ix
+\CMTS caus2 yak+ po7kx
+\lex pom
+Page 37

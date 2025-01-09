@@ -1,0 +1,63 @@
+\_no 01682
+\LG MIG
+\PSH
+\UND k@kuy7 watzi7
+\MB quijada, pelo_del_cuerpo
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG barba
+\ENG beard
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 25/Jun/96
+\lex k@kuy'=7anh=way7
+\_no 01683
+\LG MIG
+\PSH [k@kuy7anhway7]
+\UND K@kuy7=7anh-way7
+\MB quijada, BOCA, pelo
+\VAR
+\GRAM s (m) s (m) s
+\SCI
+\USE
+\SPG barba
+\ENG beard
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN k@kuy' watzi7
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 12/Jan/96
+\lex k@.manh.'@y
+\_no 01684
+\LG MIG
+\PSH [k@manhnh@y-]
+\UND k@.manh.7@y
+\MB FUERA, *pisar, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG subir
+\ENG to go up
+\EXU
+\XSP
+ZOH004R0011001.txt
+Page 727

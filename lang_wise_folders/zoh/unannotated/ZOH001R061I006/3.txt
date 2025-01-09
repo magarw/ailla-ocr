@@ -1,0 +1,65 @@
+\MB
+\VAR mok=7apx
+\GRAM vt
+\SCI
+\USE
+\SPG 1 pizcar mazorca - no con todo y pico
+\SPG 2 dejar totomoste como si tuviera
+\ENG 1 to pick corn, but just a little, stealing it
+\ENG 2 to leave empty corn husks on the plant to fool the owner
+\EXU 1 mok=7apx-w@
+\XPSH 1 [Mokkapx@.]
+\XSP 1 Pizco* mazorca.
+\XEN 1 She stole some corn from the field.
+\EXU 2 7apx.7@m-w@ bi mok
+\XPSH_2 [7apx@mm@ bi mok.]
+\XSP 2 Se pizco* la mazorca.
+\XEN 2 The corn was stolen.
+ZOH001R0611006.txt
+\EXU 3 t@m. 7aH-w@ 7@n+ mok 7axta 7apx.ney-w@
+\XPSH 3 [T@mmaw@n mok 7axta 7apxneyy@.]
+\XSP 3 Se dio* la mazorca hasta colgadito.
+\SPL 7apx.7@m
+\SLGR PASS
+\XEN 3 The corn bore so much it was hanging down.
+\SYN
+\SPL 7apx.7oy
+\SLGR ANTIP
+\SPL 7apx.ney
+\SLGR ASSUM1
+todavi*a la mazorca
+\SLGL estar como colgadito o caidito la mazorca, cuando esta* grande
+\SEMF corn, pick, farm
+\ASP activity
+\ARG patient
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT 7apx
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS Camilo doesn't accept the ASSUM1 form
+\CMTS cf mok=7ek 'pizcar mazorca' in the normal fashion
+\CMTS re:ASSUM1 the advantage of this is that rain water won't get inside
+\CMTS the husk and rot the corn in the field
+\CMTS re:gloss what they do is slit the husk, cut the ear out from the
+\CMTS inside, and then leave the empty husk standing on the stalk so the
+\CMTS owner thinks there's still corn there
+\date 03/Jan/80
+\lex 7a7p
+\_no 00005
+\LG MIG
+\PSH
+\UND 7a7p
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG abrir partiendo, como una fruta
+\ENG to split open, like a fruit
+\EXU 1 wen=7a'p.e bi t@m
+\XPSH 1 [wen7ape bi t@m.]
+\XSP 1 Esta* partida la fruta.
+Page 3

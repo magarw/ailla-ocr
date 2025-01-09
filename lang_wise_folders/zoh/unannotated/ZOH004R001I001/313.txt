@@ -1,0 +1,62 @@
+\SLGR PRSV
+\SLGL tener limpiado // to have clean
+\DSRC TK94
+\CMTS patio, rastrojo, jardi*n
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex je7k.kuy7
+\_no 00727
+\LG MIG
+\PSH [je7kkuy7]
+\UND je7k.kuy7
+\MB limpiar_con_coa, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG coa
+ENG hoe
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN jeta7
+\SEMF
+\ETYM
+\ETL
+\ROOT je7k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+\lex jeme7
+\_no 00728
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+\UND jeme7
+\MB
+\VAR
+\GRAM med
+\SCI
+\USE
+\SPG jeme: la distancia entre el dedo pulgar y el indice
+\ENG a measure of the distance between thumb and forefinger
+\EXU tum jeme7
+\XSP un jeme
+\XEN
+\SYN
+\SEMF
+\ETYM jeme
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS German denies final /7/:TK
+\CMTS
+\date 24/Jun/96
+\lex jeme7tz
+\_no 00729
+\LG MIG
+\PSH
+Page 313

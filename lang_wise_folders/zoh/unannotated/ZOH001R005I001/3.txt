@@ -1,0 +1,84 @@
+\egl 3E pull_up -INC
+\zoq 7@y wixpa.
+\fts Lo arranca.
+\fte He pulled them up.
+\com
+\idx
+\ref ZOH001R005 009
+\_no 00010
+\tx 7@y wixpa
+\mb 7@y wix
+\sg1 3E
+arrancar-INC DEF pa*jaro
+\egl 3E pull_up -INC DEF bird
+\com
+\idx
+\zoq 7@y wixpa bi jon.
+\fts Lo arranque el zanate.
+fte The bird pulled them up.
+-pa
+\ref ZOH001R005 010
+\_no 00011
+bi jon;
+jon
+bi
+\tx
+7entonse bi t@k 7@y koyumi;
+\mb 7entonses bi t@k 7@y koyumi
+\sg1 entonces DEF casa 3E duen~o
+\egl then
+DEF house 3E master
+\ref ZOH001R005 011
+\_no 00012
+\zoq 7entonses bi tak 7@y koyumi,
+\fts Entonces el duen~o de la casa,
+\fte Then the owner of the house,
+\com
+\idx
+\tx 7u
+\mb 7u
+bi yujkuy
+bi yuj
+y koyumi 7i
+bi
+tak
+-kuy7 7@y koyumi 7i bi
+bi t@k
+\sg1 NEGimpv DEF rozar
+-INSTR1 3E
+duen o y
+\eg1 NEGimpv DEF clear_field-INSTR1 3E master and DEF house 3E
+DEF casa
+\tx n@mpa;
+\mb n@m
+-pa
+\sg1 decir-INC
+\egl say - INC
+ZOH001R0051001.txt
+\ref ZOH001R005 012
+\_no 00013
+\tx tigo
+yam
+tz@k@
+\mb ti -goo7 ya -7@m tz@k -A
+\sg1 que -BNF NEG-2E
+\zoq 7u bi yujkuy7 7@y koyumi bi t@k 7@y koyumi, n@mpa,
+\fts o el duen~o del rastrojo y el duen~o de la casa, dice,
+\fte or the master of the field and the master of the house, says,
+\com
+\idx
+tum tzajnakxtum;
+tum tzaj -nakx
+hacer-nINC uno pegar-pegar_con_palo-uno
+\egl what-BNF NEG-2E do -nINC one glue -hit_with_stick-one
+\zoq "Tigo7 yam tz@k@ tum tzajnakxtum,
+\fts "Porque no
+haces una honda,
+\fte "why don't you make a sling,
+\com
+7@y koyumi
+7@y koyumi
+3E duen o
+master
+Page 3
+- tum

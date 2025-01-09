@@ -1,0 +1,63 @@
+\MB OTRO, majar, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG mazo de palo
+\ENG wooden mallet
+\EXU ko.nakx kuy
+\XSP mazo de palo
+\XEN wooden mallet
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nakx
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex konchita j@y@7
+\_no 01394
+\LG MIG
+\PSH
+\UND konchita jay@7
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG flor de conchita
+\ENG a type of flower
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex ko.nem [1]
+\_no 01395
+\LG MIG
+\PSH [konem-]
+\UND ko. nem
+\MB OTRO, talonear
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG cortar con tijeras
+\ENG to cut with scissors
+\EXU 7@y+ ko.nem-w@
+\XPSH [7@y konemm@.]
+\XSP Lo corto* con tijeras.
+\XEN He cut it with scissors.
+\SYN
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+Page 607

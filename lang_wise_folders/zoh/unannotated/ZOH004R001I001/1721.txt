@@ -1,0 +1,64 @@
+\LG MIG
+\PSH
+\UND xujku7t
+\MB
+\VAR xujku7
+\GRAM
+\SCI
+\USE
+\SPG arador
+\ENG a type of insect
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS CK-PH - HAJ:96 ok/OK: TK
+\date 26/Jun/96
+\lex xuj-tz@y
+\_no 04002
+LF:bugs
+\LG MIG
+\PSH [xujtz@y-]
+\UND xuj=tz@y
+\MB soplar, atorarse
+\VAR
+\GRAM vt+dir
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 xuj
+\RTGR 1 T3
+\ROOT 2 tz@y
+\RTGR 2 12
+\SCI
+\USE
+\SPG detener (algo que se esta* rodando o moviendo) sopla*ndolo
+\ENG to hold something (that's rolling or moving) in place by blowing on
+it
+\lex xujun
+\_no 04003
+\LG MIG
+\PSH
+\UND xujun
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS blow on something that's rolling or moving so it won't fall
+\date 28/Jan/96
+\SPG amarillito (fruta)
+\ENG yellowish (fruit)
+\SYN
+Page 1721

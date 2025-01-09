@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT juy
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 17/Jul/95
+\lex yuk.j@7kx
+\_no 04253
+\LG MIG
+\PSH [yukj@7kx-]
+\UND yuk.j@7kx
+\MB ARR, apurarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar a apurarse
+\ENG to start to hurry
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT j@7kx
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 17/Jul/95
+\lex yuk.j@m
+\_no 04254
+\LG MIG
+\PSH [yukj@m-]
+\UND yuk.j@m
+\MB ARR, tallar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar adormecer
+\ENG to start to drowse
+\SPL
+\SLGR
+\EXU yuk.j@m-w@ kajtzay'+jo7
+\XPSH [Yukj@mm@ kajtzayjo7.]
+\XSP Empezo* adormecer en la hamaca.
+\XEN She started to drowse in the hammock.
+\SYN
+SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT jam
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+Page 1827

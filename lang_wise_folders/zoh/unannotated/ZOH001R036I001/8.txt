@@ -1,0 +1,85 @@
+\ref ZOH001R036 032
+\_no 00033
+\tx 7ay nada
+mas
+\mb
+7ay nada
+mas
+\sg1 ay nada
+mas
+\egl ay nothing more
+\zoq 7ay nada mas.
+\fts Hay nada mas.
+\fte There is nothing more.
+\com
+\idx
+\ref ZOH001R036 033
+\_no 00034
+\tx 7osya
+\mb 70-sea
+ke
+deji*nh
+7okwakk@
+ded@
+ke
+toya
+7ok -wak -wa te -d@ toy -A7
+ABAJO-vaciar-COM DCT2-DEM doler-NOM2 3PSN
+\egl or-may_be that DCT2-DIR2 DOWN -empty -COM DCT2-DEM hurt -NOM2 3PSN
+\sg1 o -sea
+7@yti
+7@yti7
+te jiinh
+que DCT2-DIR2
+\zoq 7osya ke deji*nh 7okwakk@ ded@ toya7@yti.
+\fts o sea de ahi* termino* de esa enfermedad.
+\fte or it may be that then that illness goes away.
+\com
+\idx
+\ref ZOH001R036 034
+\_no 00035
+\tx
+GSM: toy
+toy
+\mb GSM
+\sg1 GSM: doler 3PSN
+\eg1 GSM: hurt 3PSN
+7@yti
+7@yti7
+\zoq GSM: Toy7@yti.
+\fts GSM: De esa enfermedad.
+\fte GSM: of that illness.
+\com
+\idx
+ZOH001R0361001.txt
+\ref ZOH001R036 035
+\_no 00036
+\tx
+d@ n@kke7tpa
+OSM: bweno dey
+bi xojnaka
+\mb OSM bweno te -y da n@k -ke7t -pa bi xoj -naka
+\sg1 OSM: bueno DCT2-TMP 1A irse-REPET-INC DEF palo-cuero 3PSN
+\egl OSM: good DCT2-TMP 1A go -REPET-INC DEF tree-skin 3PSN
+\zoq OSM: Bweno, dey d@ n@kke7tpa bi xojnaka7@yti.
+\fts OSM: Bueno, ahora voy de la ca*scara de encino.
+\fte OSM: Ok, now I'll go again for the bark of the encino tree.
+\com
+\idx
+\ref ZOH001R036 036
+\_no 00037
+\tx xojnaka
+pa7tt@mpa
+kotz@kjo
+\mb
+xoj -naka pa7t -7@m -pa
+ko -tzak -jo7
+\sg1 palo-cuero encontrar-PAS -INC SOC-hacer-Loc2
+\egl tree-skin find
+-PASS-INC SOC-do -LOC2
+7@yti
+7@yti7
+\zoq xojnaka pa7tt@mpa kotz@kjo.
+\fts La ca*scara de encino se encuentra alla* en el cerro.
+\fte The bark of the encino is found in the hills.
+Page 8

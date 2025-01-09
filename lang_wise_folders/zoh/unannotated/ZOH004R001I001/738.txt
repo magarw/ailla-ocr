@@ -1,0 +1,62 @@
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\lex k@.n@k=n@m. '@y
+\_no 01708
+\LG MIG
+\PSH [k@n@kn@mm@y-]
+\UND k@.n@k=n@m.7@y
+\MB FUERA, irse, decir, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG decirle en un de ropente
+\ENG to speak suddenly, abruptly
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 n@k
+\RTGR 1 IX
+\ROOT 2 n@m
+\RTGR 2 T1
+\DSRC HAJ95
+\CMTS
+\date 26/Jan/96
+\lex k@.n@k=p@m.i'.7@y
+\_no 01709
+\LG MIG
+\PSH [k@n@kp@mi7@y-]
+\UND k@.n@k=p@m. E7.7@y
+\MB FUERA, irse, aguantar, NOM7, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG exigir
+\ENG to exhort, to demand
+\EXU 7@y+ k@.n@k-p@m.E'.7@y-w@ yakk@ yox-xuk-w@]
+\XPSH [7@y k@n@kp@mi7@yy@ yak yoxxukk@.]
+\XSP Lo exigio* que trabajen
+\XEN He exhorted them to work.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 n@k
+\RTGR 1 IX
+\ROOT 2 p@m
+\RTGR 2 T1
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/96
+\lex k@.n@k=wij. '@y
+\_no 01710
+Page 738

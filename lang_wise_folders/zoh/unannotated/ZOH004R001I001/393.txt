@@ -1,0 +1,63 @@
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex juj
+\_no 00902
+\LG MIG
+\PSH
+\UND juj
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG poner huevos
+ENG to lay an egg
+\SPL yak.juj
+\SLGR CAUS
+\SLGL hacer poner huevos // to make a bird lay eggs
+\EXU juj-w@ piyu7_(vi+subj)
+\XPSH [Jujj@ piyu7.]
+\XSP Puso huevos la gallina.
+\XEN The hen laid an egg.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT juj
+\XPSH T1
+\DSRC HAJ94
+\CMTS
+\CMTS you make a chicken lay eggs by fixing a nest and sort of trapping
+\CMTS it in there til it gets the hang of it
+\date 10/Jan/96
+\lex juk
+\_no 00903
+\LG MIG
+\PSH
+\UND juk
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG 1 fumar
+\SPG 2 ahumar (como comida)
+\ENG 1 to smoke (like tobacco)
+ZOH004R0011001.txt
+\ENG 2 to smoke (like food)
+\SPL yak. juk
+\SLGR CAUS
+\SLGL darle que fumara // to let someone smoke, to give someone a
+smoke
+\EXU juk-taanh
+\XPSH [Jukta*nh.]
+\XSP Vamos a fumar.
+\XEN Let's smoke.
+\SYN
+\SEMF eat, cook
+\ASP activity
+\ARG
+\NOM juk.i
+\SUB 7anh.juk, j@x-juk, yuk.juk
+Page 393

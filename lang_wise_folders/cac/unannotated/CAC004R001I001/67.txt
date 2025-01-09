@@ -1,0 +1,93 @@
+207. ¿A quién viste ayer en el mercado?
+¿mach ixil ewi t'a chonhb'al?
+mach ix-ø-Ø-il
+ewi t'a chonhb'al
+quién pas-3B-2A-ver ayer prep mercado
+¿mach il ewi t'a merkado?
+mach ø-0-0-il
+ewi t'a merkado
+quién pas-3B-2A-ver ayer prep mercado
+208. ¿Qué viste ayer en el mercado?
+¿tas il ewi t'a chonhb'al?
+tas Ø-0-0-il
+ewi t'a chonhb'al
+qué pas-3B-2A-ver ayer prep mercado
+136
+¿tas ixil ewi t'a chonhb'al?
+tas ix-ø-Ø-il
+ewi t'a chonhb'al
+qué pas-3B-2A-ver ayer prep mercado
+209. ¿Dónde y cuándo me viste?
+¿b'aj til y b'ak in ixinila?
+b'aj_til y b'ak_in ix-in-ø-il-a
+dónde y cuándo pas-1B-2A-ver-vtt
+¿b'aj til y b'ak in ilin?
+b'aj_til y b'ak_in ø-ø-il-in
+dónde y cuándo pas-2A-ver-1B
+¿b'aj til y b'ak in ilnakin?
+b'aj_til y b'ak_in ø-il-nak-in
+dónde y cuándo 2A-ver-p.rem-1B
+210. Me pidió que le comprara un sombrero para él.
+ixk'an winh t'ay in to tzinman jun xumpil winh t'a winh
+ix-Ø-s-k'an winh t'ay in to tz-ø-in-man
+pas-3B-3A-pedir él
+jun
+prep 1B nex pres-3B-1A-comprar uno
+xumpil winh ta winh
+sombrero Cmasc prep él
+ixk'an fabor winh t'ay in tzinman jun xumpil winh
+ix-Ø-s-k'an fabor winh t'ay in tz-ø-in-man
+jun
+pas-3B-3A-pedir favor él prep 1B pres-3B-1A-comprar uno
+s-xumpil
+3A-sombrero él
+winh
+211. Me pidió que le comprara un sombrero para su padre.
+ixk'an winh to tzinman jun xumpil winh t'a smam winh
+ix-ø-s-k'an
+winh to tz-Ø-in-man
+jun xumpil
+pas-3B-3A-pedir él nex pres-3B-1A-comprar uno sombrero
+winh
+winh t'a
+S-mam
+Cmasc prep 3A-papá él
+ixk'an fabor winh t'ay in yik tzinman jun xumpil winh yik smam winh
+ix-Ø-s-k'an fabor winh t'ay in y-ik
+pas-3B-3A-pedir favor él prep 1B 3A-SR
+tz-ø-in-man
+jun s-xumpil winh y-ik s-mam winh
+pres-3B-1A-comprar uno 3A-sombrero él 3A-SR 3A-papá él
+212. Él ordenó que fueras a Huehuetenango.
+a winh ixalani to tzachb'at t'a Chinapjul
+a
+winh ix-ø-al-an-i
+top él
+to tz-ach-b'at (t'a) Chinapjul
+pas-3B-decir-EA-vti nex pres-2B-ir (prep) Huehuetenango
+a winh achekanb'at Chinapjul
+a
+winh ach-chek-an-b'at
+Chinapjul
+top él 2B-mandar-EA-DIR.allá Huehuetenango
+a winh achpechanb'at Chinapjul
+a
+winh ach-pech-an-b’at
+top
+él
+Chinapjul
+2B-ordenar-EA-DIR.allá Huehuetenango
+213. Él te ordenó ir a Yuxquen.
+a winh ixalani to tzachb'at t'a Yuxken
+a
+winh ix-ø-al-an-i
+top él
+to tz-ach-b'at t'a Yuxken
+pas-3B-decir-EA-vti nex pres-2B-ir prep Yuxken
+a winh ixalani tzachb'at Yuxken
+a
+winh ix-ø-al-an-i
+top él
+tz-ach-b'at Yuxken
+pas-3B-decir-EA-vti pres-2B-ir Yuxken
+137

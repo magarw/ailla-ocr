@@ -1,0 +1,37 @@
+verbs of speaking and perception, the preferred position for the subject is after
+the verb, regardless of its newness as information. In the next example (ii-iii),
+the discourse entity "the people" is introduced in a VSO clause on line 0447.
+The subsequent stretch of texts details the complaints that people may bring to
+the saint for curing, with no further explicit mention of "the people". The
+discourse entity is then refreshed on line 059, with the NP positioned before the
+transitive verb. The next section is topically different: now Sr. Omobono
+Sánchez Miguel describes the planning for the saint's fiesta and all the fine
+things the people do to celebrate her miracles.
+(14.13)
+(i)
+(ii)
+(iii)
+nø'tti 'øy 'angtzongngøyyø bi tzønjon
+nə?tti ?ǝy+ ?aŋ.coŋ.?ǝy-wǝ
+no
+3E+ BOCA.unir.SUF-COM DEF pájaro
+""No", the bird answered him.'
+bi cənhon
+(ZOH001R026-068)
+kay minpam bi jentedøkkay 'ixxukø bi santu
+kay min-pa+?am bi hente+dǝkkay ?əy+ ?iš-šuk-wə bi santu
+entonces venir-INC+YA DEF gente+NPL 3E+ ver-3PL-DINC DEF santo
+'Now the people are coming to see the saint.' (ZOH001R032-044)
+'i gahing gay bi jentedøkkay 'øy me'chukpám
+?i gahiin gay
+bi hente+dǝkkay ?əy+ me?c-šuk-pa+?am
+y de ahí entonces DEF gente+NPL 3E+ buscar-3PL-INC+YA
+'And from there now the people seek her out.' (ZOH001R032-059)
+Transitive clauses with both subject and object NPs are quite rare only
+4.1% of all transitive clauses. Table 14.7 shows the relative frequency of the
+possible orderings of these NPs with respect to the verb8.
+7 I count an NP that appears between the auxiliary and the main verb as an instance of VS
+order, to distinguish it from cases in which the NP precedes the whole auxiliary phrase.
+8 Technically, it is grammatical for object NPs to precede subjects when there is no possibility
+of confusing the roles, such as when the object is inanimate and the verb requires an animate
+387

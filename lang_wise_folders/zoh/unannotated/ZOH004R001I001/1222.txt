@@ -1,0 +1,65 @@
+\ETYM
+\ETL
+\ROOT yoj
+\RTGR IX
+\DSRC HAJ94
+\CMTS
+\date 15/Jun/95
+\lex p@7k.p@7k.ney
+\_no 02837
+\LG MIG
+\PSH [p@7tkp@7kney-]
+\UND p@7k.p@7k.ney
+\MB
+\VAR
+\GRAM VİRF
+\SCI
+\USE
+\SPG punzar como un dolorcito
+ENG for an ache to throb
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS get deriv's
+\date 15/Jun/95
+\lex p@7kx
+\_no 02838
+\LG MIG
+\PSH
+\UND p@7kx
+\MB
+\VAR
+\GRAM S
+\SPG suelda con suelda: una rai*z, que se usa cuando se quiebra tu
+mano, lo echas como yeso y
+lo amarras
+you use it like
+\ENG a root that you use when you break your arm
+plaster and bind the break
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\CMTS fixed PH:TK
+\date 25/Jun/96
+\lex p@m
+\_no 02839
+\LG MIG
+\PSH
+\UND p@m
+\MB
+\VAR
+ZOH004R0011001.txt
+\GRAM vt, vi:act
+\SCI
+Page 1222
+—

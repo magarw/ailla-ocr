@@ -1,0 +1,60 @@
+\lex min
+\_no 00150
+\SPG venir
+\ENG to come
+\EX
+\XSP
+\XEN
+\ROOT min Ix
+\SEMF motion
+\CAUS yak.min dejar venir
+\lex mi7tz
+\_no 00151
+\SPG agarrar con el pun*o algo pequen~o que no se vea
+\ENG to hold something small in the closed fist so it isn't visible
+\EX
+\XSP
+\XEN
+\ROOT mi7tz T3
+\SEMF touch, hand, pick_up
+\PASS NONE mi7tz.7@m
+\ANTI mi7tz.7oy
+\CMTS
+\lex mokok
+\_no 00152
+\SPG doler; por poquito le duele
+\ENG to hurt
+\EX
+\XSP
+\XEN
+\ROOT mokok Ix
+\SEMF body
+\CMTS get deriv's
+\lex mokoy
+\_no 00153
+\SPG emborracharse
+ENG to get drunk
+\EX
+\XSP
+\XEN
+\ROOT mokoy Ix
+\SEMF body
+\CMTS
+\1ex mo7kx
+\_no 00154
+\SPG agarrar huevos
+\ENG to get eggs
+\EX 7@y mo7kxpa 7@y tzunu7
+\XSP
+ZOH001R0611010.txt
+\XEN he grabbed his ball-sack
+\EX 7@y mo7kxjayy@ 7@y tzunu7
+\XSP he grabbed the other guy's ball-sack
+\ROOT mo7kx Tx
+\SEMF hand, pick_up
+\CMTS
+\lex mon
+\_no 00155
+\SPG envolver
+\ENG to wrap
+Page 36

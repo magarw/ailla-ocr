@@ -1,0 +1,63 @@
+\ETYM
+\ETL
+\ROOT 1 n@k
+\RTGR 1 IX
+\ROOT 2 ja7k
+\RTGR 2 12
+\DSRC HAJ95
+\CMTS
+\date 12/Jan/96
+\lex k@.n@k=jeken. '@y
+\_no 01695
+\LG MIG
+\PSH [k@n@kjekenn@y-]
+\UND ka.n@k=jeken.7@y
+\MB FUERA, irse, enrollar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG enrollar todo
+ENG to roll everything up
+\SPL
+\SLGR
+\EXU 7@y+ k@.n@k.jeken. '@y-w@ laxu d@k+7a
+\XPSH [7@y_ kan@kjekenn@yya laxu d@kka.]
+\XSP Enrollo* todos los mecates.
+\XEN She coiled up all the ropes.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 n@k
+\RTGR 1 11
+\ROOT 2 jeken
+\ROOT 2 P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 12/Jan/96
+\lex k@.n@k-jek. '@y
+\_no 01696
+\LG MIG
+\PSH [k@n@kjekk@y-]
+\UND ka.n@k=jek.7@y
+\MB FUERA, irse, derrumbarse, SUF
+\VAR
+\GRAM vi
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG desprenderse en todo
+\ENG to come undone all over
+\SPL
+\SLGR
+\EXU k@.n@k-jek. '@y-w@ 7anh.ketz d@k+7a
+\XPSH [K@n@kjekk@yy@ 7anhketz d@kka.]
+\XSP se desprendio* el padero*n en todo.
+\XEN All the walls came down.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 n@k
+Page 732

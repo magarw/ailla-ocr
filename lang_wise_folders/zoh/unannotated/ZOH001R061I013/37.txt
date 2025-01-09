@@ -1,0 +1,53 @@
+\ENG flying
+\lex boleto
+\_no 00454
+\SPG boleto
+ENG ticket
+\lex boletu
+\_no 00455
+\SPG boleto
+\ENG ticket
+\lex bolsa
+\_no 00456
+\SPG bolsa
+\ENG pocket
+\lex bordado
+\_no 00457
+\SPG bordado
+\ENG embroidered
+\lex borra*r
+\_no 00458
+\SPG borrar
+\ENG erase
+\lex borrego
+\_no 00459
+\SPG borrego
+\ENG sheep
+\lex borregu
+\_no 00460
+\SPG borrego
+\ENG sheep
+\lex bote
+\_no 00461
+\SPG botella
+\ENG bottle
+\lex boteya
+\_no 00462
+\SPG botella
+\ENG bottle
+\lex boteya7
+\_no 00463
+\SPG botella
+\ENG bottle
+\lex boy
+\_no_00464
+\SPG voy
+\ENG go
+\lex brasada*
+\_no 00465
+\LG
+MIG
+\SPG brazada
+\ENG armlength
+ZOH001R0611013.txt
+Page 37

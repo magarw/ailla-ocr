@@ -1,0 +1,60 @@
+\CMTS
+\lex wak
+\_no 00162
+\SPG cortar (con cuchillo)
+ENG to cut (with a knife)
+\EX
+\XSP
+\XEN
+\ROOT W@k T3
+\SEMF cut, instr
+\PASS NONE w@k.7@m *
+\ANTI w@k. 7oy
+\PRSV w@k=ten lo tiene cortado
+\CMTS
+\lex wat
+\_no 00163
+\SPG romper (tela, papel, etc.)
+\ENG to tear (cloth, paper, etc)
+\EX w@tt@mm@ toto
+\XSP se rompio* el papel
+\XEN the paper was torn
+\ROOT wat T3
+\SEMF break
+\PASS w@t.7@m
+\ANTI w@t.7oy
+\CMTS
+\lex w@7t
+\_no 00164
+\SPG tumbar_a*rbol; tumbar/derribar palo
+\ENG to fell a tree
+\EX kuyw@7tt@
+\XSP tumbo* el arbol
+\XEN he felled the tree
+\ROOT w@7t T3
+\SEMF cut, break, obj
+\PASS NONE w@7t.7@m *
+\ANTI w@7t.7oy
+\CMTS
+\lex w@tz
+\_no 00165
+\SPG peinar
+\ENG to comb
+\EX
+\XSP
+\XEN
+ZOH001R0611009.txt
+\ROOT w@tz T3
+\SEMF care
+\PASS NONE w@tz.7@m*
+\ANTI w@tz.7oy
+\CMTS
+\lex xanh
+\_no 00166
+\SPG machetear
+\ENG to cut with a machete
+\EX xaw@7
+\XSP machetealo!
+\XEN cut it!
+\EX ponhk@nhxukpa dondju xanhnhoxukk@
+Page 39

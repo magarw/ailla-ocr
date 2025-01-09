@@ -1,0 +1,59 @@
+\CMTS antip ne7k. 7oy tapar
+\CMTS pass ne7k.7@m taparse
+\CMTS assum1 ne7k.ney estar tapado
+\lex ne7kx
+\_no 00140
+\SPG ser pegajoso
+\ENG to be sticky
+\EX
+\XSP
+\XEN
+\ROOT ne7kx Ix
+\CMTS
+\lex nem
+\_no 00141
+\SPG cortar con tijeras; talonear
+\ENG to cut with scissors; to kick w/heels while mounted on an animal
+\EX
+\XSP
+\XEN
+\ROOT nem T3
+\CMTS antip nem.7oy
+\CMTS no pass nem.7@m *
+\lex nem
+\_no 00142
+\SPG flamear; echar 11amas
+\ENG to flame; to spark
+\EX jak nemm@
+\XSP flameo* mucho
+XEN it flamed a lot
+\ROOT nem 12
+\CMTS caus yak.nem hacer flamear
+\lex nenkumi
+\_no 00143
+\SPG manchado
+\ENG stained
+\EX
+\XSP
+\XEN
+\ROOT kum T2
+\CMTS
+\lex nenh
+\_no 00144
+\SPG olear (ri*o)
+\ENG to make waves
+\EX nenhm@tztzoba n@7
+\XSP esta* oleando el agua
+\XEN the river is making waves
+\ROOT nenh Ix
+\CMTS no caus
+\CMTS get deriv's
+\lex nijaminn@y
+\_no 00145
+ZOH001R0611011.txt
+\SPG recordar
+\ENG to remember
+\EX
+\XSP
+\XEN
+Page 29

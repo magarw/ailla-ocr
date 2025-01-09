@@ -1,0 +1,64 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 27/Jan/96
+\lex paj.pa
+\_no 02508
+LG MIG
+\PSH [pajpa]
+\UND paj.paj ??
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG cacaste, para frijol
+\ENG a basket, for beans
+\EXU chik paj.paj
+\XSP jaulita
+\XEN bird cage
+\EXU pajpa x@k-nakx.kuy7
+\XPSH [pajpa x@knakxkuy7]
+\XSP cacaste para porriar frijol
+\XEN basket for cleaning beans
+\EXU piyu' 7@y+ pajpa
+\XPSH [piyuy pajpaj
+\XSP cacaste de gallina
+\XEN chicken coop
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT paj
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS CK-PH of EX1 - ok
+\date 27/Jan/96
+\lex paj.tzetu7
+\_no 02509
+\LG MIG
+\PSH [pajtzetu7]
+\UND paj.tzetu7
+\MB
+\VAR
+\GRAM
+\SCI
+\SLGR
+\EXU
+\USE
+\SPG tronco de palo cortado puntiagudo
+\ENG a log or tree-trunk cut with a sharp point
+\SPL
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+that final h doesn't appear
+Page 1080

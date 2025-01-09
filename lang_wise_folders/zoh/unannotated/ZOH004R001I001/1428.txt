@@ -1,0 +1,62 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 07/Apr/95
+\lex tzek=toy
+\_no 03323
+\LG MIG
+\PSH [tzektoy-]
+\UND tzek=toy
+\MB barriga, doler
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG doler de barriga
+\ENG for the stomach to hurt
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT toy
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 18/Oct/94
+\lex tzek-tu.i7
+\_no 03324
+LG MIG
+\PSH [tzektuwi 7]
+\UND tzek-tuy. E7
+\MB barriga, estirar, NOM7
+\VAR
+\GRAM BA-ed
+\SCI
+\USE
+\SPG barrigo*n; panzo*n
+\ENG beergut; paunch
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tuy
+\RTGR 12
+\DSRC TK94
+\CMTS %tuy
+\date 28/Jan/96
+\lex tzek=wat
+\_no 03325
+ZOH004R0011001.txt
+Page 1428

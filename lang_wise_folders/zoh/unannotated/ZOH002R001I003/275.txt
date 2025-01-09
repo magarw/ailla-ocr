@@ -1,0 +1,38 @@
+9.7. Coordination and comparison
+Noun phrases or parts of noun phrases can be coordinated by means of
+the Spanish conjunction y, 'and' (transcribed ?i in Zoque), or by simply
+juxtaposing the conjoined elements. The Spanish conjunction method is the
+most common.
+(9.23)
+(i)
+(ii)
+(iii)
+'øn juyyø metzang 'axa tumø tzapatzpø' 'i tumø yøkyøk
+?ən+ huy-wə
+tumə capac+pə?k ?i tumə yəkyək
+1E+ comprar-COM dos huipil uno rojo+REL y uno negro
+mecaŋ ?aša
+'Compré dos huipiles, un rojo y un negro.'
+(elicited)
+møjmø yo:m'une tijjø 'i møjmø ja:y'une'
+məhmə yomə?=?une? 0 tih-wə
+?i məhmə haya=?une?
+mucho hembra-niño 3A ir&regresar-COM y mucho macho-niño
+'Bastante muchacha fueron y bastante muchachos.'
+(ZOH001 R015-043)
+'øm wattoba 'øm køxkuy mongkuy jemji
+?əm+ kəš.kuy?
+moŋ.kuy?
+hemhi?
+?ǝm+ wat.?oy-pa
+2E+ ganar.ANTIP-INC 2E+ comer. INSTR1 dormir.INSTR1 todo
+'Ganas tu comida, dormitorio, todo.'
+(ZOH001 R018-183)
+Comparison in noun phrases, as in verb phrases, is done by means of the
+Spanish comparative mas, 'more', and follows the Spanish syntactic pattern. I
+find no hints in the corpus as to how this might have been done before the
+invasion, but Suarez (1983:110) observes that in Tlahuitoltepec Mixe
+"comparison of superiority is rendered by two clauses, one asserting the quality
+for the item compared, the other negating it for the term of comparison". This
+would produce phrases like "he is tall, I am not so tall".
+249

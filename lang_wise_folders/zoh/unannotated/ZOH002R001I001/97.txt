@@ -1,0 +1,39 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+alphabetically, it is easy to see that most of the spatial terms in MIG Zoque are
+based on five morphemes, shown in the following table.
+Zoque
+Pan
+həš
+kə
+3
+cap
+win
+English Gloss Code
+MOUTH
+BACK
+AWAY
+on
+FACE
+Spanish Gloss Code
+BOCA
+ATRAS
+AFUERA
+encima
+CARA
+Table 4.5: Root morphemes of spatial adverbs and postpositions
+Paŋ, həš-, and win- also appear as verbal prefixes, whence their gloss
+codes 3. These three forms appeared as independent words at an earlier stage
+of the language (Kaufman, p.c.; see section 7.1.1 for more discussion). Because
+of this historical independence and because of the clear relatedness amongst
+the forms, I'm inclined to class all of the lexemes based on these morphemes as
+adverbs, rather than postpositions, whether I have direct evidence of their
+current independent status or not. However, there is a small subset of the ?aŋ-
+forms (Paŋji?, ?aŋhə?, ?aŋhənaŋ, and ?aŋhəəŋ) that consistently behave like
+postpositions, in that they only appear immediately after the noun phrase to
+which they pertain, and they often seem to affect the stress of the preceding
+noun, which an independent lexeme would not do. For example, in the phrase
+huštiš?aŋhi?, 'at the mayor's office', as it appears in ZOH001 R011-003, the
+primary stress falls on ?aŋ-, and only a very weak secondary stress falls on the
+This kə- is not the same as the verbal prefix kə-, AWAY. Historically, this one is kə?,
+roughly meaning 'lower part' (Wichman, 1995).
+72

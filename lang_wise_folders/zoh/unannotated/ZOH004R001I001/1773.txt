@@ -1,0 +1,63 @@
+\VAR yaaw xepe7
+\GRAM ams
+\SCI
+\USE
+\SPG luna nueva
+ENG new moon
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yaw. (a') x@k
+\_no 04127
+\LG MIG
+\PSH [yawa x@k]
+\UND yaw.A7 x@k
+\MB X, NOM2, frijol
+\VAR yaaw x@k
+\GRAM x (m) s
+\SCI
+\USE
+\SPG ejote
+\ENG green beans
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yay
+\_no 04128
+\LG MIG
+\PSH
+\UND yay
+\MB
+\VAR
+\GRAM vi: med
+\SCI
+\USE
+\SPG marchitarse
+\ENG to wither
+\SPL yak.yay
+\SLGR CAUS
+\SLGL hacer marchitar // to cause to wither
+\EXU yay-w@ 7ay7
+\XPSH [Yayy@ 7ay7.]
+\XSP Se marchito* la hoja.
+\XEN The leaf withered.
+ZOH004R0011001.txt
+\SYN
+\SEMF plant
+Page 1773

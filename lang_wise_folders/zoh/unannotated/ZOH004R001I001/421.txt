@@ -1,0 +1,63 @@
+\_no 00961
+\LG MIG
+\PSH [ju7pxpak-]
+\UND ju7px=pak
+\MB X, apretarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG 1 apretar con nudo que corre
+\SPG 2 cerrar cortinas
+\ENG 1 to cinch with a slip knot
+\ENG 2 to draw curtains closed
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 *ju7px
+\ROOT 2 pak
+\RTGR 2 T3
+\DSRC TK94
+\CMTS get deriv's
+\CMTS ju7px does not appear alone
+\CMTS it's the act of drawing the slip knot or the curtain closed
+\CMTS Could this be jupx- 'recoger', new root from Camilo?
+\date 14/Jun/95
+\lex jusga=tz@k
+\_no 00962
+\LG MIG
+\PSH [jusgatz@k-]
+\UND jusga=tz@k
+\MB juzgar, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG juzgar
+\ENG to judge
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM juzgar
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex juti7
+\_no 00963
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+\UND juti+V7k
+\MB
+\VAR juti7k
+\GRAM int
+Page 421

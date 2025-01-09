@@ -1,0 +1,61 @@
+\XEN
+\ROOT tok T3
+\SEMF clean
+\PASS tok.7@m mancharse
+\ANTI tok. 7oy
+\CMTS
+\lex tokoy
+\_no 00266
+\SPG perderse
+\ENG to get lost
+\EX
+\XSP
+\XEN
+\ROOT tokoy Ix
+\SEMF motion, condition
+\CAUS yak.tokoy perder
+\CMTS
+\lex tokx
+\_no 00267
+\SPG pelarse mai*z que le echaron cal
+\ENG to wash corn that you've soaked in lime
+\EX tokx@ pitzi
+\XSP se pelo* el mai*z ..
+\XEN she washed the corn
+\ROOT tokx Ix
+\SEMF corn
+\CAUS yak.tokx pelar mai*z
+\CMTS the lime makes the outer layer of the kernel peel off
+ZOH001R0611010.txt
+\XSP
+\XEN
+\ROOT to7k P, (T3)
+\SEMF move, position
+\PASS to7k.7@m tenderse
+\ANTI to7k. 7oy
+\CMTS
+■
+\lex to7k
+\_no 00268
+\SPG tender; extender (petate) en cama o suelo
+\ENG to stretch; to lay out (a mat) on the bed or floor
+\EX
+\lex to7kx
+\_no 00269
+\SPG dar palmada
+\ENG to slap; to spank
+\EX 7@y 7ene to7kx@
+\XSP 1o pego* la palmada en la nalga
+\XEN she spanked him on the bottom
+\ROOT to7kx Tx
+\SEMF hit, hand
+\PASS NONE
+\CMTS CK for ney
+\lex ton
+\_no 00270
+\SPG limpiar soplando (de gorgojo, de broca, de bica, de basura} mai*z, frijol
+\ENG to clean by blowing on it (of weevils, of trash) corn, beans, rice
+\EX 7@y tontenn@
+\XSP lo tiene soplando
+\XEN she's got it cleaned
+Page 61

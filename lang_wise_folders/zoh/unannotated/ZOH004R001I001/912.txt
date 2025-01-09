@@ -1,0 +1,65 @@
+\LG MIG
+\PSH
+\UND najak
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG sapo
+\ENG toad
+\EXU y@k najak
+\XSP sapo negro
+\EXU pop(o') najak
+\XSP rana blanca
+\EXU tzux najak
+\XSP rana verde
+\EXU najak pojo7k
+\XSP huevecillos
+\EXU chik najak
+\XSP renacuajo
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex najak koke
+\_no 02115
+\LG MIG
+\PSH
+\UND najak koke
+\MB sapo, pescado
+\VAR
+\GRAM
+\SCI
+\USE
+LF:najak
+\SPG peje sapo del mar
+\ENG a type of fish
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF EZ
+LF: koke
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\lex najak patanux
+\_no 02116
+\GRAM sms
+\SCI
+\USE
+\LG MIG
+\PSH
+\UND najak patanux
+\MB
+\VAR
+ZOH004R0011001.txt
+Page 912

@@ -1,0 +1,65 @@
+XPSH 1 [7@y jekentenn@.]
+\XSP 1 Lo tiene enrollado.
+\XEN 1 She's got it coiled up.
+\EXU 2 jeken.7@m-w@ tzajin
+\XPSH_2 [Jekenn@mm@ tzajin.]
+\XSP 2 Se enrosco* la vi*bora.
+\XEN 2 The snake coiled around itself.
+\EXU 3_nax+jo+7k patz.ney-w@ laxu 7@y+ jeken-wa
+\XPSH 3 [Naxjo7k_patzneyy@ laxuy jekenn@.]
+\XSP 3 En el suelo esta* tirado el mecate, lo enrollo*.
+\XEN 3 The rope was lying on the ground, she rolled it up.
+\SYN
+\SEMF arrange
+\ASP achievement
+\ARG
+\NOM jeken.e
+\SUB 7ok.jeken. '@y, ko.jeken-wit, k@.jeken. '@y, nik.jeken. '@y,
+\SUB yuk. jeken
+\ETYM
+\ETL
+\ROOT jeken
+\RTGR P, (T3)
+\SPL jeken.7oy
+\SLGR ANTIP
+\SLGL enrollar // to coil
+\SPL jeken.7@m
+\SLGR PASS
+\SLGL enroscarse (vi*bora); enrollar // to coil or roll up oneself
+\SPL jeken.ney
+\SLGR ASSUM1
+\SLGL estar enrollado // to be coiled
+\SPL jeken.ten
+\SLGR PRSV
+ZOH004R0011001.txt
+\SLGL tener enrollado // to have coiled
+\DSRC TK94
+\CMTS antip jeken. 7oy enrollar
+\CMTS pass jeken.7@m enroscarse (vi*bora); enrollar
+\CMTS prsv jeken=ten lo tiene enrollado
+\CMTS assum1 jeken.ney estar enrollado
+\CMTS root class? but AAJ YGS
+\CMTS
+\date 03/Jan/80
+\lex jeken.e
+\_no 00724
+\LG MIG
+\PSH [jekene]
+\UND jeken.E
+\MB enrollar, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG enrollado
+\ENG coiled
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jeken
+^^^^^^^ what does this mean?!
+Page 311

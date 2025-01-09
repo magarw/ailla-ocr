@@ -1,0 +1,78 @@
+\_no 00480
+\tx GSM: 70 seya
+\mb GSM
+70 seya
+\sg1 GSM: 0
+\eg1 GSM: or may be NEG scar
+ya takwa
+ya takwa7
+7anhtena
+7anh -ten
+-A
+sea NEG cicatriz BOCA -pararse-nINC
+\ref ZOH001R036 490
+\_no 00481
+\tx OSM: n@7tti
+\mb OSM
+n@7tti
+\sg1 OSM: no
+\eg1 OSM: no
+\zoq GSM: 70 seya ya takwa 7anhtena.
+\fts GSM: 0 sea no deja cicatriz.
+\fte GSM: Or maybe it doesn't leave a scar.
+\com
+\idx
+\zoq OSM: N@7tti.
+\fts OSM: No.
+\fte OSM: No.
+\com
+\idx
+\ref ZOH001R036 491
+\_no 00482
+\sg1 GSM: igual
+\eg1 GSM: equal
+\tx GSM: tumanh pitz@mpa bi naka
+\mb GSM
+tummanh
+pitz@m-pa bi
+naka
+\ref ZOH001R036 492
+\_no 00483
+\tx
+\mb OSM komo komo junanh pa7t
+\sg1 OSM: como como como
+\egl OSM: like like how
+ZOH001R0361001.txt
+salir -INC DEF cuero
+leave -INC DEF skin
+\zoq GSM: Tumanh pitz@mpa bi naka.
+\fts GSM: Parejo sale la piel.
+\fte GSM: The skin comes out the same.
+\com
+\idx
+MOUTH-stand -nINC
+OSM: komo komo junanh pa7tt@mdampa
+\ref ZOH001R036 493
+\_no 00484
+\com
+\idx
+find
+\zoq OSM: Komo komo junanh pa7tt@mdampa.
+\fts OSM: Asi* como nos encontramos.
+\fte OSM: Like - like how we are found.
+\zoq Gad@ - gad@ kuy naka,
+\fts Esa ca*scara de palo,
+\fte That that tree bark,
+-7@m - tam -pa
+encontrar-PAS -1/2PL-INC
+-PASS-1/2PL-INC
+\com the way our skin is (we the interlocutors)
+\idx
+\tx gad@
+gad@
+kuy naka
+\mb ka -d@
+-d@ ka -d@ kuy naka
+\sg1 DCT3-DEM DCT3-DEM palo cuero
+\eg1 DCT3-DEM DCT3-DEM tree skin
+Page 105

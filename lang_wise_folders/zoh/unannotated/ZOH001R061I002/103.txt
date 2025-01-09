@@ -1,0 +1,61 @@
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex xux
+\_no 00418
+\SPG chiflar
+\ENG to whistle
+\SEMF sound
+\ASP process
+\ARG
+\NOM xux.kuy7
+\RTGR 11
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex xuy
+\_no 00419
+\SPG pescar con anzuelo
+\ENG to fish with a fish hook
+\SEMF hunt, animal
+\ASP process
+\ARG
+\NOM xuy.kuy7, xu.i7
+\RTGR T1
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex x@j
+\_no 00420
+\SPG pasar el agua
+\ENG for the rain to end
+\SEMF nature
+\ASP transition
+\ARG
+\NOM
+\RTGR IX
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex x@k@k
+\_no 00421
+\SPG quejarse ya para morir
+ENG to utter a death-rattle
+\SEMF body, nature, sound
+\ASP process
+\ARG
+\NOM
+\RTGR IX
+\POS
+\MID
+\UNDO
+ZOH001R0611002.txt
+Page 103

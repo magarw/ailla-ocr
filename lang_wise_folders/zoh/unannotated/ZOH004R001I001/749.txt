@@ -1,0 +1,63 @@
+\lex k@.pa7t
+\_no 01731
+\LG MIG
+\PSH [k@pa7t-]
+\UND k@.pa7t
+\MB FUERA, pasar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG encontrar la forma de hablar, trabajar
+\ENG to find the way to do something - speaking, working
+\EXU 7@y+ 7otonh-k@.pa7t-w@
+\XPSH [7@y 7otonhk@pa7tt@.]
+\XSP Encontro* la forma de hablar.
+\XEN She found a way to speak (to say what she wanted to say).
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT pa7t
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\lex k@pi
+\_no 01732
+\LG MIG
+\PSH
+\UND kapi
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG len~a
+\ENG firewood
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 17/Jun/95
+\lex k@pi-mo7k
+\_no 01733
+\LG MIG
+\PSH [k@pimo7k]
+ZOH004R0011001.txt
+\UND_k@pi-mo7k
+\MB len~a, abrazar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG 11evar len~a abrazada al lado del cuerpo
+\ENG to carry a bundle of firewood on the hip
+\SPL
+Page 749

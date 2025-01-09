@@ -1,0 +1,82 @@
+\sg1 porque DCT3-NOM1 gente y
+DCT3-NOM1 NPL
+\egl because DCT3-NOM1 people and DCT3-NOM1 NPL
+\zoq Porke ga7 jente 7i ga7d@k yukpoyxukpa
+\fts Porque esa gente se corren
+\fte Because those people would run away
+\not
+\idx
+\ref ZOH001R002 050
+\_no 00051
+\tx kwandu 7@y 7ammaxukpa tum y@ki7.
+\mb kwandu 7@y 7amma-xuk-pa tum y@ki7
+\sg1 cuando 3E ver -3PL-INC uno ladino
+\eg1 when
+3E see -3PL-INC one ladino
+\zoq kwandu 7@y 7ammaxukpa_tum y@ki7.
+\fts cuando ven una gente ladina.
+\fte when they saw a ladino.
+\not
+\idx
+\ref ZOH001R002 051
+\_no 00052
+\tx tum p@n 7i tum yom
+\mb tum p@n 7i
+\sg1 uno hombre y
+\egl one man
+and
+ZOH001R0021001.txt
+7une
+tum yom@7 7une7
+uno hembra nin~o/a
+one female child
+\zoq T@kk@xukpa winxekxekjo7,
+\fts Se meten arriba del tapanco,
+\zoq Tum p@n 7i tum yom7une numtz@nxukpa.
+\fts Un hombre o una muchacha se esconden.
+\fte A man and a girl would hide.
+\not
+\idx vseq_cmp
+winxekxekjo7,
+win -xek
+\ref ZOH001R002 054
+\_no 00055
+\ref ZOH001R002 052
+\_no 00053
+\tx t@kk@xukpa
+-xek
+\mb tak -7@y -xuk-pa
+\sg1 casa -VERS2-3PL-INC
+CARA-regar - regar
+\eg1 house-VERS2-3PL-INC FACE-sprinkle-sprinkle-LOC2
+minpa
+min
+\zoq porke deji7 minpa de 7,
+\fts porque ahi* viene e*1,
+\fte because here he comes,
+\not
+\idx
+numtz@nxukpa.
+num -tz@n
+\fte They would get up into the corn crib,
+\not
+\idx redup
+rob -sit
+\ref ZOH001R002 053
+\_no 00054
+\tx porke deji7
+de7,
+-7
+\mb porke te -ji7
+-ji7
+\sg1 porque DCT2-LOC1 venir-INC DCT2-NOM1
+\eg1 because DCT2-LOC1 come -INC DCT2-NOM1
+robar-estar_sentado-3PL-INC
+-pa te
+ARR-juirse-3PL-INC
+UP - flee -3PL-INC
+Page 12
+-xuk-pa
+-jo7
+-LOC2
+-3PL-INC

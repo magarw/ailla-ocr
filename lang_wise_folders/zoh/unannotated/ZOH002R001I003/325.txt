@@ -1,0 +1,34 @@
+Piwǝ? 'who' can be used to question any argument that
+references a human being. In texts, it typically refers to the actor,
+as shown in examples (12.2 i-ii). Example (iii) can be interpreted
+two ways: ?iwa? can refer to either the giver or the recipient. In
+example (iv) it refers to the patient argument. Examples (v-vi)
+show that the question word can refer to an argument in a
+subordinate clause. In (v), ?iwe? refers to the recipient of 'tell' and
+in (vi) to the agent of 'close'.
+(12.2)
+(i)
+(ii)
+(iii)
+'iwo do tøpa
+?iwǝ? də+ tə?-pa
+quien 1A+ querer-INC
+'Quien me quiere?'
+(ZOH001R056-014)
+'iwø 'øy manak tzi'oba para yødø pøn
+?iwǝ? ?ǝy+ manak 0 ci?.?oy-pa para yədə pən
+quien 3E+ hijo 3A dar.ANTIP-INC para este hombre
+'De quien hija va a dar para este hombre?2¹
+(ZOH001 R018-221)
+'iwøy tziwo bi pøn bi toto'
+?iwǝ? ?ǝy+ ci?-wǝ
+bi toto?
+quien 3E+ dar-COM DEF hombre DEF papel
+'Quien dió la carta al hombre?' o
+'Á quien dió el hombre la carta?'
+bi pən
+(elicitado)
+2 This looks like an antipassive form with an expressed object (the daughter),
+but the stem ci?.?oy- seems to be a lexicalized form meaning 'regalar'. It thus
+does not obey the normal rules for antipassive constructions.
+315

@@ -1,0 +1,62 @@
+\date 28/Jan/96
+\lex win-jay
+\_no 03675
+\LG MIG
+\PSH [winjay-]
+\UND win.jay
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG dilatar con alguien
+\ENG to delay or be late with someone
+\EXU 7@y+ win.jay-w@ 7@y+ wiit@kka-pa+a7k
+\XPSH [7@y winjayy@ 7ay wiit@kkaba*7k.]
+\XSP Dilato* mucho con el que andaba.
+XEN She tarried with someone she was out walking with.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jay
+\RTGR 12
+\DSRC HAJ95
+\CMTS CK-EX HAJ:96 ok/fixed it, but analysis unclear: TK
+\date 03/Jan/80
+\lex win-jej
+\_no 03676
+\LG MIG
+\PSH [winjej-]
+\UND win-jej
+\MB CARA, vivir
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG vivir con alguien
+\ENG to live with someone
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jej
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+\lex win-jek
+\_no 03677
+ZOH004R0011001.txt
+\LG MIG
+\PSH [winjek-]
+\UND win-jek
+\MB CARA, derrumbarse
+\VAR
+\GRAM vi
+Page 1580

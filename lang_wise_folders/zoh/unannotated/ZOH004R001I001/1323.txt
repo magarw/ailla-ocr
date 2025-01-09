@@ -1,0 +1,63 @@
+\_no 03074
+\LG MIG
+\PSH [tujtanhji7]
+\UND tujtu-7anh-ji-7
+\MB
+\VAR
+\GRAM num
+\SCI
+\USE
+\SPG los seis
+\ENG the six (of them)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 09/Feb/96
+\lex tuj-tzik
+\_no 03075
+\LG MIG
+\PSH [tujtzik-]
+\UND tuj=tzik
+\MB tirar, pelar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG herir de un balazo
+\ENG to wound with a bullet
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tuj
+\RTGR 1 T1
+\ROOT 2 tzik
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 07/Apr/95
+\lex tuj. (@)n@m
+\_no 03076
+\LG MIG
+\PSH [tuj@n@m-]
+\UND tuj.An@m
+MB tirar, INDEF
+\VAR tuuj.n@m
+\GRAM vi:indef
+\SCI
+\USE
+\SPG estar disparando
+\ENG for people to be shooting
+\EXU
+ZOH004R0011001.txt
+Page 1323

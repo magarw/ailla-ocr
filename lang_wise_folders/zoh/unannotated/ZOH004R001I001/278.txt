@@ -1,0 +1,62 @@
+\DSRC HAJ94
+\CMTS se siembra en diciembre; lo que se siembra en mayo es tuj mok
+\date 11/Nov/94
+\lex jama top.a7
+\_no 00649
+\LG MIG
+\PSH [jama topa7]
+\UND jama top.A7
+\MB sol, hacer_calor, NOM2
+\VAR
+\GRAM smsv
+\SCI
+\USE
+\SPG calor del sol; vapor del sol
+\ENG the heat of the sun; steam from the heat of the sun
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT top
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\lex jama yati7
+\_no 00650
+\LG MIG
+\PSH
+\UND jama yati7
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG anona de chahuite
+\ENG a type of fruit
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS en el tiempo seco se da
+\date 11/Nov/94
+ZOH004R0011001.txt
+\lex jama yop.a7
+\_no 00651
+\LG MIG
+\PSH [jama yopa7]
+\UND jama yop.A7
+\MB sol, hacer_vapor, NOM2
+\VAR
+\GRAM sms
+\SCI
+\USE
+Page 278

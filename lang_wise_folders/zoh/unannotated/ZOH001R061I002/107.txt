@@ -1,0 +1,61 @@
+\SEMF fall
+\ASP transition
+\ARG
+\NOM
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex yuj
+\_no 00435
+\SPG rozar
+\ENG to raze
+\SEMF clean, farm
+\ASP activity
+\ARG
+\NOM yuj.kuy7
+\RTGR TI
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex yuk.poy
+\_no 00436
+\SPG correr
+\ENG to run
+\SEMF move_self
+\ASP activity
+\ARG manner
+\NOM yuk.poy.naanh
+\RTGR (11)
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS 7@y yakyukpoyy@ 'lo corrio*; lo hizo correr'
+\lex yum
+\_no 00437
+\SPG hervir(se)
+\ENG to boil
+\SEMF cook
+\ASP process
+\ARG
+\NOM yum.i7
+\RTGR 11, 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex yun
+\_no 00438
+\SPG nadar
+\ENG to swim
+\SEMF move_self
+ZOH001R0611002.txt
+\ASP process
+\ARG location
+Page 107

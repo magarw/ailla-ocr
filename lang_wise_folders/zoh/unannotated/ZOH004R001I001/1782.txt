@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG gordura; grasa
+\ENG fatness; fat
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yenh
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 20/Jun/96
+\lex yo7
+\_no 04146
+\LG MIG
+\PSH
+\UND YO7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG tamal
+\ENG tamale
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex yoj
+\_no 04147
+\LG MIG
+\PSH
+\UND Yoj
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pagar
+\ENG to pay
+\SPL yoj. 7oy
+\SLGR ANTIP
+\SLGL pagar // to pay
+\SPL yoj.7@m
+\SLGR PASS
+\SLGL pagarse
+\SPL yak.yoj
+\SLGR CAUS
+ZOH004R0011001.txt
+\SLGL hacer pagar
+\EXU 1 7@n+ yoj-w@+'am 7@n+ ja'tz.A7
+Page 1782

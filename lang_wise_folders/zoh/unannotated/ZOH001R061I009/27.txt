@@ -1,0 +1,61 @@
+\ROOT pu7kx T3
+\SEMF hit, animal
+\PASS NONE pu7kx.7@m *
+\ANTI pu7kx. 7oy cornear to butt with the horns
+\CMTS
+\lex punh
+\_no 00109
+\SPG regar
+\ENG to spread
+\EX 7@y punhnh@ pun@7
+\XSP rego* la goma
+\XEN she spread the gum
+\ROOT punh T3
+\SEMF move
+\PASS punh.7@m regarse
+\ANTI punh.7oy
+\CMTS
+\lex pup
+\_no 00110
+\SPG sacudir; remenear; "remen~ar"
+ENG to shake
+\EX
+\XSP
+\XEN
+\ROOT pup P, T3
+\SEMF move
+\PASS NONE pup.7oy *
+\ANTI pup.7oy
+\CMTS
+\lex pux
+\_no 00111
+\SPG deshacer algo de barro no bien "cocido"; desboronar
+\ENG for something of clay to crumble because it's not well "cooked"
+\EX puxxoyy@*7
+\XSP el que lo desborono*
+\XEN the one who made it crumble
+\ROOT pux T3
+\SEMF break
+ZOH001R0611009.txt
+\PASS pux.7@m desboronarse
+\ANTI pux. 7oy desboronar
+\CMTS puxx@ is when bits of an adobe building crumble off the edges
+\lex p@
+\_no 00112
+\SPG poner
+\ENG to put
+\EX p@7
+\XSP !ponlo!
+\XEN put it (somewhere)!
+\EX dax tap@7oyy@
+\XSP yo crei*
+\XEN I believed it
+\EX 7@y p@w@ primer ponh
+\XSP lo estreno*
+\XEN
+\EX 7@y p@w@ 7@y t@nhkuy7
+\xSP 1o marco* con su fierro
+\XEN he branded it
+\ROOT p@ T3
+\SEMF move
+Page 27

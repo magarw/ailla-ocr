@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex yaw. (a') 7une7
+\_no 04124
+\LG MIG
+\PSH [yawa 7une7]
+\UND yaw.A7 7une7
+\MB X, NOM2, nin-o/a
+\VAR yaaw 7une7
+\GRAM ams
+\SCI
+\USE
+\SPG bebe*; recien nacido
+\ENG infant; newborn
+\EXU
+\XSP
+\XEN
+\SYN maxan 7une7
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yaw. (a') mok
+\_no 04125
+\LG MIG
+\PSH [yawa mok]
+\UND yaw.A7 mok
+\MB X, NOM2, mai*z
+\VAR yaaw mok
+\GRAM ams
+\SCI
+\USE
+\SPG elote tierno
+\ENG tender new corn
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yaw. (a') xepe7
+\_no 04126
+\LG MIG
+\PSH [yawa xepe7]
+\UND yaw.A7 xepe7
+\MB X, NOM2, luna
+ZOH004R0011001.txt
+Page 1772

@@ -1,0 +1,62 @@
+Mam - 2
+(1) T-i'j
+(2)
+(3) 0=chi=tzan,
+(5)
+A3s-SR:tema DER-picar.con.uñas-ADJ
+'Tercer cuento sobre el Sacaojos'
+Kee at=0 jun
+que EXIST=B3s un
+'Pues había una vez,'
+B3s=decir=pues
+'dice,'
+(4) ojtxa ky-yool
+x-k'ot-k'aj
+(6)
+antes A3p-palabra abuelo-INAL
+'palabra de los abuelos.'
+(7)
+Kee at=0
+mas
+que EXIST=B3s más
+yool,
+palabra
+(10) 0=chi=tzan
+t-witz kya'j,
+A3s-SR:superficie cielo
+'que había, mejor vino un animal, dice, en el cielo,'
+x-k'ot-k'aj witz 0=chi.
+DER-picar.con.uñas-ADJ cara B3s=decir
+'llamado el Sacaojos.'
+Ok t-uul
+ky-naa-b'il
+xjaal,
+cuándo A3s-venir A3p-pensar-INST gente
+'Cuándo se despertaba la gente,'
+B3s=decir=pues
+'dice (que)'
+chmaan-b'aj.
+(11)
+(8) nti'=tl
+ky-b'aq' ky-witz.
+NEG=otro A3p-pepita A3p-cara
+'ya no tenían sus ojos.'
+(9) Oo=taq 0=jaa=tz
+t-b'aq' ky-witz t-u'n
+CPL=PERF B3s=subir=DIR A3s-pepita A3p-cara A3s-SR:por
+xk'otk'aj witz,
+Sacaojos
+'Ya el animal había sacado sus ojos,'
+ok 0=tzaaj=ja
+cuando B3s=venir=CL
+'cuando venía'
+0=tzaaj jun jiil, 0=chi=tzan,
+B3s=venir un animal, B3s=decir=pues
+witz, t-oox-an
+cara A3s-tres-ORD
+(12) xk'otk'aj wii'tz, xk'otk'aj wii'tz
+Sacaojos
+Sacaojos
+'cantando "Sacaojos, Sacaojos"'
+0=chi=tzan=ja
+B3s=dice=pues=CL

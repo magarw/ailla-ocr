@@ -1,0 +1,63 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 num
+\RTGR 1 T1
+\ROOT 2 7ix
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 15/Oct/94
+\lex nutz
+\_no 02427
+\LG MIG
+\PSH
+\UND nutz
+\MB
+\VAR
+\GRAM vi: med
+\SCI
+\USE
+\SPG 1 estar caliente (comida, cafe*..., por el fuego o el sol)
+\SPG 2 quemarse
+\ENG 1 to be hot (food, coffee, ..., from the fire or the sun)
+\ENG 2 to burn oneself
+\SPL yak. nutz
+\SLGR CAUS
+\SLGL calentar; quemar // to heat up; to burn
+\EXU 1 d@+ nutz-w@
+\XPSH 1 [D@ nutztz@.]
+\XSP 1 Me queme*.
+\XEN 1 I burned myself.
+\EXU 2 7@n+ yak.nutz-wa kax. E
+\XPSH 2 [7@n yaknutztz@ k@xi.]
+\XSP 2 Calente* la comida.
+\XEN 2 I heated up the food.
+\EXU 3_d@+ nutz-w@_k@x.E+j@nanh
+\XPSH 3 [D@ nutztz@ k@xijananh.]
+ZOH004R0011001.txt
+\XSP 3 Me queme* con la comida.
+\XPSH 3 I burned myself on the food.
+\SYN
+\SEMF temp, cook, body
+\ASP state, achievement
+\ARG
+\NOM
+\SUB ko.nutz, yuk.nutz
+\ETYM
+\ETL
+\ROOT nutz
+\RTGR 12
+\DSRC HAJ94
+\CMTS caus2 yak+ nutz calentar; quemar
+\date 03/Jan/80
+\lex nutz-pa n@-ji
+\_no 02428
+\LG MIG
+\PSH [nutzpa n@ji]
+\UND nutz-pa n@-ji
+Page 1046

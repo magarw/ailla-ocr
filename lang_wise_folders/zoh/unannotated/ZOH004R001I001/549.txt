@@ -1,0 +1,64 @@
+\UND ki7t
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG meter el dedo
+\ENG to put your finger in something
+\SPL ki7t.7oy
+\SLGR ANTIP
+\SLGR NO PASS
+\SPL ki7t.ten
+\SLGR PRSV
+\SLGL tener puesto el dedo (chistoso) // to have the finger put in something
+(funny)
+\EXU 7@y+ ki7t-w@ bi k@x.i
+\XPSH [7@y ki7tt@ bi k@xi.]
+\XSP Metio* el dedo en la comida.
+\XEN She put her finger in the food.
+\SYN
+\SEMF hand
+\ASP achievement
+\ARG patient
+\NOM ki7t.kuy7, ki7t.naanh
+\SUB 7ok.ki7t. '@y, jo.ki7t, j@x-ki7t, y@k.ki7t. '@y, nik.ki7t. '@y,
+\SUB win-ki7t, yuk.kit
+\ETYM
+\ETL
+\ROOT ki7t
+\RTGR T3
+\DSRC HAJ94
+\CMTS 7@n kiltt@n wiki7
+*
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex ki7t=ki7px
+\_no 01258
+ZOH004R0011001.txt
+\LG MIG
+\PSH [ki7tki7px-]
+\UND ki7t=ki7px
+\MB meter_dedo, probar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG probar (comida) con el dedo
+\ENG to taste (food) with the finger
+\EXU 7@y+ ki7t-ki7px-w@ 7@y+ k@x.Ě si waj.wa
+\XPSH [7@y ki7tki7px@y k@xi si wajwa.]
+\XSP Probo* su comida con el dedo a ver si fue* salado.
+\XEN She tasted the food with her finger to see if it was salted.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kilt
+\RTGR T3
+\DSRC HAJ02
+\CMTS
+\DATE 09/Aug/02
+\lex ki7t.kuy7
+\_no 01259
+Page 549

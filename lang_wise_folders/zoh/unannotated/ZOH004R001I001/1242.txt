@@ -1,0 +1,62 @@
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 11/Nov/94
+\lex rruma
+\_no 02883
+\LG MIG
+\PSH
+\UND rruma
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG re*uma
+\ENG rheumatism
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex rruwatanh patanux
+\_no 02884
+\LG MIG
+\PSH
+\UND rruwatanh patanux
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG platano roatan
+\ENG a type of banana
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH
+\date 25/Jun/96
+\lex sa bila
+\_no 02885
+\LG MIG
+\PSH
+\UND sa bila
+\MB
+\VAR
+\GRAM
+\SCI
+ZOH004R0011001.txt
+Page 1242

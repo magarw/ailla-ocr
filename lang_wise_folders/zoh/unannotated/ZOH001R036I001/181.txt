@@ -1,0 +1,79 @@
+ZOH001R0361001.txt
+\zoq 7@n 7@n ded@ 7ay 7@n tz@kjaypa pam matztzokuy7.
+\fts Yo
+yo - esa hoja lo hago para sobar.
+\fte I I that leaf that I make you for your massage.
+\com
+\idx
+-
+\ref ZOH001R036 851
+\_no 00835
+\tx 7esde 7i si m
+\mb 7esde 7i
+\sg1 esde y
+\egl um
+juypa
+ded@
+matztzokuy
+ded@
+si 7@m juy -ра te -d@ matz -7oy -kuy7 te -d@
+si 2E comprar-INC DCT2-DEM sobar-ANTIP-INSTR1 DCT2-DEM
+and if 2E buy -INC DCT2-DEM rub -ANTIP-INSTR1 DCT2-DEM
+\tx mentulatu
+\mb mentulatu
+\sg1 mentholato
+\egl mentholatum
+\zoq 7esde, 7i sim juypa ded@ matztzokuy, ded@ mentulatu,
+fts Y si lo compras esa pomada, ese mentholato,
+\fte Um, and if you buy that massage cream, that mentholatum,
+\com
+\idx
+\ref ZOH001R036 852
+\_no 00836
+p@pi7t
+7@m matzpa
+\tx ga
+\mb ka -7 p@7 -pi7t 7@m matz -pa
+\sg1 DCT3-NOM1 poner-INSTR 2E
+\eg1 DCT3-NOM1 put -INSTR 2E
+sobar-INC
+rub -INC
+\zoq ga p@pi7t 7@m matzpa.
+\fts con eso lo sobas.
+\fte with that you massage.
+\com
+\idx
+\ref ZOH001R036 853
+\_no 00837
+\tx para bi kwerda d@kkay jotuypa
+para bi kwerda d@kkay jo
+\sg1 para DEF cuerda NPL
+\egl for DEF cord NPL
+\mb
+-tuy
+EN
+y n@kk@
+-ра 7@y nak -wa
+-estirar(se)-INC 3E irse-dINC
+-INC 3E
+go -DINC
+INTO-stretch
+\zoq Para bi kwerdad@kkay jotuypay nakka,
+\fts Para las cuerdas se va estirandose,
+\fte For the big cords that are stretching out,
+\com
+\idx
+\ref ZOH001R036 854
+\_no 00838
+\tx 7i bi yukmatzjaba
+y tzek
+\mb 7i bi yuk-matz -jay -pa 7@y tzek
+\sg] y
+DEF ARR-sobar-APPL-INC 3E barriga
+\egl and DEF UP -rub -APPL-INC 3E belly
+\zoq 7i_bi yukmatzjabay tzek.
+\fts y le vas sobandole su barriga par arriba.
+\fte and he rubs up his belly.
+\com
+\idx
+Page 181

@@ -1,0 +1,59 @@
+XEN the moon has gone down
+\ROOT tzot Ix
+\CMTS caus yak.tzot hacer salir (Dios)
+\lex tzo7t
+\_no 00274
+\SPG arrancar (sin la rai*z)
+\ENG to pull up (without the root)
+\EX 7@y jaxtzo7tt@
+\XSP 1o arranco* sin la rai*z
+\XEN she pulled it up
+\ROOT tzo7t T3
+\CMTS antip tzo7t.7oy arrancar
+\CMTS pass tzo7t.7@m arrancarse
+\lex tzo7tz
+\_no 00275
+\SPG faltar
+\ENG to lack; to miss
+\EX tzo7tztz@ m@jm@
+\XSP falta mucho
+\XEN she missed someone a lot
+\XEN
+\ROOT tzo7tz Ix
+\CMTS no caus
+\lex tzoy
+\_no 00276
+\SPG saltar
+\ENG to jump
+\EX
+\XSP
+\XEN
+\ROOT tzoy Il
+\CMTS caus yak.tzoy hacer saltar
+\lex tzoy7
+\_no 00277
+\SPG remedio; medecina
+\ENG remedy; medicine
+\EX
+\XSP
+\XEN
+\ROOT tzoy7
+\CMTS
+\lex tzuj
+\_no 00278
+\SPG escupir
+\ENG to spit
+\EX 7@y niktzujj@yy@
+\XSP lo escupio*
+\XEN she spit
+\ROOT tzuj Il
+\CMTS
+ZOH001R0611011.txt
+\lex tzukx
+\_no 00279
+\SPG pellizcar
+\ENG to pinch
+\EX
+\XSP
+\XEN
+Page 54

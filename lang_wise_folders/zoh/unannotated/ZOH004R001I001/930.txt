@@ -1,0 +1,62 @@
+\lex nax 7@y+ ko. pak
+\_no 02157
+\LG MIG
+\PSH [nax 7@y koopak]
+\UND nax 7@y+ ko. pak
+\MB tierra, 3Erg, OTRO, hueso
+\VAR
+\GRAM sps
+\SCI
+\USE
+\SPG mundo; toda la tierra
+\ENG the world; all the earth
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex nax jum.i7
+\_no 02158
+\LG MIG
+\PSH [naxjumi7]
+\UND nax jum.E7
+\MB tierra, derrumbar, NOM7
+\VAR
+\GRAM pcp:incorp
+\SCI
+\USE
+\SPG tierra derrumbada
+\ENG crumbled earth
+\SPL
+SLGR
+\EXU
+\XSP
+\XEN
+\SYN nax jum. @'+@7
+\SEMF
+\ETYM
+\ETL
+\ROOT %nax, %jum
+\ROOT jum
+\RTGR T2
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex nax jum.@7
+\_no 02159
+\LG MIG
+\PSH [nax jum@7]
+\UND nax jum.A7
+\MB tierra, derrumbar, NOM2
+\VAR
+\GRAM s (m)s
+\SCI
+\USE
+ZOH004R0011001.txt
+Page 930

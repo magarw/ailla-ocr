@@ -1,0 +1,64 @@
+\SLGR bisabuelo
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-GL -ok
+\date 28/Jan/96
+\DATE 03/Jan/1980
+\lex tat(a) bida
+\_no 02951
+\LG MIG
+\PSH [tata bida]
+\UND tat(a) bida
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG abuelo; bisabuelo
+\ENG grandfather; great-grandfather
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN cf. tat(a) 7apu
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex tatzu7
+\_no 02952
+\LG MIG
+\PSH
+\UND tatzu7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG "caco" [hicaco]
+\ENG a type of tree
+\EXU tatzu' t@m
+\XSP fruta de caco
+\XEN fruit of the caco tree
+\SYN
+LF: kuy
+ZOH004R0011001.txt
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+Page 1270

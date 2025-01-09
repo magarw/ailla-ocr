@@ -1,0 +1,56 @@
+101
+(delimitación de la frontera realis/irrealis). Pueden
+frontera realis/irrealis). Pueden ser circunstanciales vs.
+epistémicos ¹¹7;
+117.
+2- un ordenamiento gradual en relación con un “mundo normal” (ideal):
+lo que,
+en términos corrientes, se conoce como "el curso normal de los
+acontecimientos", según los participantes de la interacción. No excluye conflictos y
+contradicciones. Puede ser deóntico, estereotípico, desiderativo.
+Según Kratzer (1991), las nociones modales se definen como dependientes de dos
+contextos conversacionales que interactúan para delimitar lo que se considera como
+"necesario", "probable", "posible", "levemente posible", "imposible", etc.
+118
+Los últimos 25 años de la semántica formal se basan en gran parte sobre el trabajo de
+Stalnaker (1979) y otros (Lewis 1973, 1986; Heim 1981; Kamp 1981), que analizan toda
+proposición en función de la modificación que produce en lo que llaman common ground:
+aquel conjunto de proposiciones (o presuposiciones -según Duranti y Goodwin 1991-) en
+continua evolución sobre las cuales están de acuerdo hablante y oyente y que dibujan, al
+mismo tiempo, los efectos del mundo actual así como también la de otros mundos posibles.
+Esto ha dado origen a diversas teorías semánticas consideradas "dinámicas", precisamente por
+su relación con un contexto constantemente cambiante.
+4.2. Exploraciones sobre el dominio Irrealis en Quechua boliviano
+A continuación recorro algunos señalamientos realizados en la bibliografía sobre el
+quechua que refieren formas que involucran el dominio del irrealis. Junto a otras formas, las
+analizo en particular a partir de datos recogidos en terreno y presento una sistematización
+(interpretativa) de los recursos involucrados.
+117
+Las siguientes construcciones del quechua fueron identificadas como "subjuntivas" por
+algunos autores:
+(1) muna-su-na-y-ta
+ó
+amar-FUT-SUB/FUT-(INF)1S-AC
+'cuando yo te ame'
+(2) muna-su-jti-y
+119
+amar-FUT-SUB/DS-1S
+(id)
+(Berrios 1919:121)
+Kratzer cita a Ross (1969) y a Perlmutter (1971) para señalar que estos autores consideran a los operadores
+modales como verbos que contienen una oración subordinada ("embedding a sentence") y, en este sentido,
+presuponen su función de control y dominio sobre ella. Además alude a que estos autores consideraban a los
+modales epistémicos como intransitivos, y los modales circunstanciales como transitivos. Según Kratzer, esto
+"sugiere que la distinción entre modales con bases circunstanciales y los modales con bases epistémicas (...)
+puede correlacionarse con una diferencia en la estructura argumental” (Kratzer 1991: 650) (traducción propia).
+Ambos aspectos pueden ser relevantes de ser analizados en el quechua. No conozco estudios previos sobre ellos.
+En el mismo sentido, resultan interesantes las propuestas, que desde una perspectiva también de semántica
+formal, desarrollan Landman (1992), Parsons (1989) y Cipria & Roberts (2001). En sus trabajos se propone un
+análisis modal (que apela a la noción de mundos posibles) de los tiempos progresivos e imperfectivos. El
+pretérito, en cambio, es el único tiempo superrrealis, "no modalizado". El futuro es, por supuesto, irrealis por
+definición.
+118
+119 Recuerdo que el quechua boliviano sigue el patrón más extendido entre lenguas con marcación de núcleo
+final: SOV. El verbo principal se puede flexionar a través del paradigma entero de categorías temporales mientras
+que el verbo dependiente posee limitaciones de flexión (característica común a los verbos medios en
+encadenamientos clausales). Lo mismo sucede en los ejemplos de nominalización.

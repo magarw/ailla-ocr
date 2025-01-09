@@ -1,0 +1,63 @@
+\SPG verguenza
+\ENG shame
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT tzaxx@
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tzaxx@.kuy7
+\_no 03296
+LG MIG
+\PSH [tzaxx@kuy7]
+\UND tzaxx@.kuy7
+\MB tener_verguenza, INSTR1
+\VAR tza7xx@kuy7 DENIED: GSM
+\GRAM instr1
+\SCI
+\USE
+\SPG verguenza
+ENG shame
+\EXU nanti 7@m+ tzaxx@.kuy7
+\XPSH [N@ntim tzaxx@kuy7.]
+\XSP No tienes verguenza; sin verguenza.
+\XEN You have no shame; shameless.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT tzaxx@
+\RTGR 12
+\DSRC TK94
+\CMTS CK-PH; compare MAR
+\date 26/Jun/96
+\lex tzaxx@.kuy' 7ay7
+\_no 03297
+\LG MIG
+\PSH [tzaxx@kuy 7ay7]
+\UND tzaxx@.kuy7 7ay7
+\MB tener_verguenza, INSTR1, hoja
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG hoja de verguenza
+\ENG a type of vine
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+LF:poj
+ZOH004R0011001.txt
+\ROOT
+\DSRC TK94
+\CMTS ANALYSIS
+\date 26/Jun/96
+\lex tzay7
+Page 1417

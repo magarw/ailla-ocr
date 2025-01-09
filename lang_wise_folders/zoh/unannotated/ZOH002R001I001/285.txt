@@ -1,0 +1,40 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(v)
+(10.6)
+(i)
+The incorporated noun phrase can be modified by elements external to
+the verb complex; that is, modifiers may be stranded. These must be non-
+specific sorts of modifiers, such as relative clauses. The examples in (10.6)
+illustrate the contrast between modification of an incorporated noun (i) and of
+an unincorporated noun (ii). Notice that in (i) the modifying adjective has been
+relativized: "He builds houses that are big."
+(ii)
+'axta ke tømtukpa
+Pašta ke təm=tuk-pa
+until that fruit=finish-INC
+'Until the fruit sets'
+(10.7)
+(i)
+tøktzøkpa komí'
+0
+tək=cək-pa
+komi?+V?k
+3A house-do-INC big+REL
+'He builds big houses.'
+ko:mtøk 'øy tzøkpa
+komi? tək ?əy+ cək-pa
+big house 3E+ do-INC
+'He builds big houses.'
+(ZOH001R013-048)
+tøktzøkpa syempre jumpá'
+Non-existential relative clauses are also allowed as stranded modifiers
+(10.7 i-v). These can be full clauses, with no restrictions on mood, polarity,
+valency, etc.
+0 tək=cək-pa
+syempre 0 hum-pa+V?k
+3A house-do-INC always 3A crumble-INC+REL
+'He builds houses that always fall down."
+258
+(elicited)
+(elicited)
+(elicited)

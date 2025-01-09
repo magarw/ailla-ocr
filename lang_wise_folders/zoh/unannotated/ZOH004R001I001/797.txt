@@ -1,0 +1,62 @@
+\lex mak-tuk@-ji-7
+\_no 01845
+\LG MIG
+\PSH [maktuk@ji7]
+\UND mak-tuk@-ji-7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG cuatro di*as antes
+\ENG four days ago
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\lex makx=tujta-anh
+\_no 01846
+\LG MIG
+\PSH [makxtujta*nh]
+\UND makTAX=tujtu-7anh
+\MB
+\VAR
+\GRAM num
+\SCI
+\USE
+\SPG nueve
+\ENG nine
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\1ex_makx=tujta-nh-ji-7
+\_no 01847
+\LG MIG
+\PSH [makxtujtanhji7]
+\UND makTAX-tujtu-7anh-ji-7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG los nueve
+\ENG the nine
+\EXU
+\XSP
+ZOH004R0011001.txt
+Page 797

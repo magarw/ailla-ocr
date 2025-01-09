@@ -1,0 +1,85 @@
+ix-ø-w-olchimt-ej
+pas-3B-1A-agujerear-vtd
+ixinteolej k'apak kamix
+ix-ø-in-te-ol-ej
+k'apak kamix
+pas-3B-1A-muy-fut-vtd Cropa camisa
+La camisa está agujereada.
+olan k'apak kamix
+ol-an
+182
+k'apak kamix
+aguejerear-psc Cropa camisa
+372. Enlodé la canasta.
+Las camisas están agujereadas.
+olchimtak k'apak kamix
+olchimt-tak k'apak kamix
+agujerear-pl Cropa camisa
+k'apak kamix
+Cropa camisa
+373. La canasta está enlodada.
+sok'omtak te' mo'och
+sok'om-tak te'
+ixinsok'omej te' mo'och
+ix-ø-in-sok'om-ej
+te'
+mo'och
+pas-3B-1A-enlodar-vtd Cmadera canasta
+374. La canasta se enlodó.
+mo'och
+lodo-pl Cmadera canasta
+te' mo'och ixsok'omaj te'
+te'
+mo'och ix-ø-sok'om-aj
+te'
+Cmadera canasta pas-3B-enlodar-psv Cmadera
+375. La canasta tiene lodo en el asa.
+te' mo'och ay sok'om t'a sk'ab' te'
+te'
+mo'och ay-Ø sok'om t'a s-k'ab' te'
+Cmadera canasta exist-3B lodo prep 3A-mano Cmadera
+376. El asa de la canasta está enlodada.
+a sk'ab' te' mo'och sok'omtak
+s-k'ab' te'
+a
+mo'och sok'om-tak
+top 3A-mano Cmadera canasta lodo-pl
+377. Mi perro se murió.
+nok' intz'i' ixcham nok'
+nok'
+in-tz'i' ix-ø-cham nok'
+Canimal 1A-perro pas-3B-morir Canimal
+378. Juan mató a mi perro.
+a waj Xun ixmak'ancham nok' intz'i'
+a
+waj
+Xun ix-ø-mak'-an-cham
+nok' in-tz'i'
+top Cmasc Juan pas-3B-golpear-EA-matar Canimal 1A-perro
+379. Juan hizo matar a mi perro.
+a winhaj Xun ixalani ixcham nok' intz'i'
+a winhaj Xun ix-ø-al-an-i
+ix-ø-cham nok'
+top Cmasc Juan pas-3B-decir-EA-vti pas-3B-morir Canimal
+in-tz'i'
+1A-perro
+a winhaj Xun ixak'ani mak'naxcham nok' intz'i'
+a
+winhaj Xun ix-Ø-ak'-an-i
+top Cmasc Juan pas-3B-dar-EA-vti 3B-golpear-psv-morir Canimal
+in-tz'i'
+1A-perro
+380. Él me hizo matar a mi perro.
+Ø-mak'-nax-cham nok'
+yuj winh ixinmak'cham nok' intz'i'
+y-uj winh ix-ø-in-mak'cham nok' in-tz'i'
+3A-SR él pas-3B-1A-matar Canimal 1A-perro
+a winh ixak'an t'ay in ixinmak'an cham nok' intz'i'
+a winh ix-Ø-ak'-a
+t'ay in
+top él
+pas-3B-dar-EA prep 1B
+ix-Ø-in-mak'-kan-cham
+nok' in-tz'i'
+pas-3B-1A-golpear-DIR. quedarse-morir Canimal 1A-perro
+183

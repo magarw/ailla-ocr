@@ -1,0 +1,87 @@
+ZOH001R0611001.txt
+\sg1 DCT3-NOM1 irse-INC 3Erg pescado venta-VERS2-COM salar-NOM7
+\eg1 DCT3-NOM1 go -INC 3Erg fish sale -VERS2-COM salt -NOM7
+\fts ella va a vender pescado salado
+\fte that one is going to sell salt fish
+\com
+\idx incorp
+\ref 033
+\_no 00033
+\tx ga7
+\mb ka
+ma7@yy@
+-7
+nate*7
+y
+n@ki
+nat -E7 ma7 -7@y -w@ 7@y n@k -E
+\sg1 DCT3-NOM1 pescado salar-NOM7 venta-VERS2-COM 3Erg irse-dcom
+\eg1 DCT3-NOM1 fish salt -NOM7 sale -VERS2-COM 3Erg go -dcom
+\fts ella fue* vendiendo pescado salado
+\fte that one went around selling salt fish
+\com
+\idx aux
+\ref 034
+\_no 00034
+\tx ga7
+\mb ka
+ma7@yy@
+y n@ki
+nate*7
+nat -E7
+-7
+ma7 -7@y -wa 7@y n@k -E
+\sg1 DCT3-NOM1 pescado venta-VERS2-COM 3Erg irse-dCOM salar-NOM7
+\eg1 DCT3-NOM1 fish sale -VERS2-COM 3Erg go -dCOM salt -NOM7
+koke
+koke
+\fts ella fue* vendiendo pescado salado
+\fte that one went around selling salt fish
+\com
+\idx
+koke
+koke
+\ref 035
+koke
+y
+\_no 00035
+\tx *? ga7
+n@ki
+\mb ka -7
+-7@y-w@ koke 7@y n@k -E
+\sgl DCT3-NOM1 venta-VERS2-COM pescado 3Erg irse-dcom
+\eg1 DCT3-NOM1 sale -VERS2-COM fish 3Erg go -dCOM
+\ref 036
+\_no 00036
+\fts *? ella fue* vendiendo pescado
+\fte *? that one went around selling fish
+\com
+\idx
+ma7@yy@
+ma7
+komi*7
+\tx t@k tz@kpa
+\mb t@k
+komi 7
+\sg1 casa hacer-INC grande
+\egl house do -INC big
+\ref 037
+\_no 00037
+\tx t@k
+\mb t@k
+\sg1 casa
+\egl house do
+tz@k -pa
+\fts hace casas grandes
+\fte he builds large houses
+\com
+\idx incorp
+tz@kpa
+komi*7 moso
+komi 7
+moso
+tz@k -pa
+hacer-INC grande
+bonito
+-INC big beautiful
+Page 7

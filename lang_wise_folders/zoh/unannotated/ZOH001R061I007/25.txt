@@ -1,0 +1,60 @@
+\SPG arder (lumbre); alumbrar (luz)
+\ENG to burn (light); to light (a light)
+\XSP alumbro* todo
+\XEN everything lit up
+\ROOT ta7kx 12
+\SEMF light, fire
+\ASP transition, process
+\CAUS yak.ta7kx hacer arder; alumbrar; prender luz
+\CMTS
+\date 03/Jan/80
+\lex tan
+\_no 00103
+\SPG completar (se)
+\ENG to finish
+\EX yak.tan jemji
+\XSP hacer completar todo
+\XEN to make someone finish everything
+\EX 7@n yaktanpan yoxkuy
+\XSP estoy completando mi trabajo
+\XEN I'm finishing my work
+\ROOT tan 12
+\SEMF aspect
+\ASP transition, process
+\CAUS yak. tan completar
+\CMTS
+\date 03/Jan/80
+\lex tanh
+\_no 00104
+\SPG estar ancho
+\ENG to be wide
+\EX
+\XSP
+\XEN
+\ROOT tanh I2
+\SEMF condition
+\ASP state
+ZOH001R0611007.txt
+\CMTS
+\date 03/Jan/80
+\lex tax
+\_no 00105
+\SPG 11enarse
+\ENG to be filled
+\EX 7@y yaktaxx@ tummanh
+\XSP lo arraso* *
+\XEN she filled it level
+\EX taxxa*m
+\XSP esta* lleno, satisfecho
+\XEN he's full
+\ROOT tax 12
+\SEMF condition
+\ASP state
+\CAUS yak.tax llenar
+\CMTS
+\date 03/Jan/80
+\lex tem
+\_no 00106
+\SPG relampaguear
+\ENG to lightning
+Page 25

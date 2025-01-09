@@ -1,0 +1,65 @@
+\SPG pedazo; una cosa ya en pedazos
+\ENG pieces; a thing now in pieces.
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tu7p
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex tu'tz.i7
+\_no 03138
+\LG MIG
+\PSH [tutzi7]
+\UND tu7tz.i7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG cuchara de morro
+\ENG a wooden spoon
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tuunjuwi
+\_no 03139
+\LG MIG
+\PSH
+\UND tunu7, juwi
+\MB ombligo, brasa
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG la forma del panal
+del
+como ombligo, tiene huequito como la forma
+fu*tbol americano
+\ENG shaped like a honeycomb like a belly-button, with little
+football-shaped holes
+\SPL
+\SLGR
+\EXU
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+Page 1350

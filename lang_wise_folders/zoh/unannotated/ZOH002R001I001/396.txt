@@ -1,0 +1,40 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+Transitive clauses with both subject and object NPs are quite rare only
+4.1% of all transitive clauses. Table 14.7 shows the relative frequency of the
+possible orderings of these NPs with respect to the verb8.
+SOV
+SVO
+VSO
+Total
+(14.14)
+(i)
+Number
+3
+11
+4
+18
+'i døxxøn tzipa bi 'aydøkkay
+?i dəš ?ən+ ci?-pa
+Percentage
+16.7
+61.1
+22.2
+100
+Table 14.7: Transitive clauses with both subject and object NPs
+SVO order is the most frequent in this category, with 61.1% of transitive
+clauses with both subject and object NPs appearing in this order. It is
+reasonable to suppose that the preference for SV order when only subject NPs
+appear and VO order when there is only an object NP is a reflection of this same
+preferred pattern. Again, in many of these the subject NP is a pronoun, as
+shown in (14.14 i). Example (ii) is the climax of 'The Two-Legged One', when
+the little jaguar finally has his showdown with the hunter, who shoots him
+fatally.
+bi ?ay?+dǝkkay
+and 1Prn 1E+ give-INC DEF leaf+NPL
+'And I will give him the herbs.'
+(ZOH001R032-153)
+8 Technically, it is grammatical for object NPs to precede subjects when there is no possibility
+of confusing the roles, such as when the object is inanimate and the verb requires an animate
+agent. I elicited positive grammaticality judgements for examples of this kind (see Appendix F),
+but they don't seem to appear in the texts. (I haven't made an exhaustive search for them.)
+368

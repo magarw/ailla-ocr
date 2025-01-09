@@ -1,0 +1,62 @@
+\RTGR T3
+\DSRC HAJ94
+\CMTS the hand motion is one flat palm passing over the other
+\date 03/Jan/80
+\lex t@7px.i7
+\_no 03201
+\LG MIG
+\PSH [t@7pxi7]
+\UND t@7px. E7
+\MB hacer_mecate, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG 1 ixtle, "iste"
+\SPG 2 mecate; mecatito
+\ENG 1 istle
+\ENG 2 rope; string; thread
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT t@7px
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex t@7px. i'=tz@k
+\_no 03202
+\LG MIG
+\PSH [t@7pxitz@k-]
+\UND t@7px. E7=tz@k
+\MB hacer_mecate, NOM7, HACER
+\VAR
+\GRAM vt:incorp
+\SCI
+\USE
+\SPG hacer hilo
+\ENG to make thread
+\EXU t@7px.i'=tz@k-w@
+\XPSH [T@7pxitz@kk@.]
+\XSP Hizo mecatito.
+\XEN She made thread.
+SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT t@7px
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+ZOH004R0011001.txt
+\lex t@tz [1]
+\_no 03203
+\LG MIG
+\PSH
+\UND t@tz
+Page 1377

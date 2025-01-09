@@ -1,0 +1,62 @@
+XPSH 2 [N@nti7apa.]
+\XSP 2 No va a estar.
+\XEN 2 She's not going to be here.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 25/Jun/96
+\lex n@nti@
+\_no 02453
+LG MIG
+\PSH
+\UND n@n ti.y@
+\MB
+\VAR
+\GRAM NEG
+\SCI
+\USE
+\SPG no hay
+\ENG there isn't any
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\lex n@n@7
+\_no_02454
+\LG MIG
+\PSH
+\UND _n@n@7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG lo que esta* fino
+\ENG something that is very fine
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+Page 1058

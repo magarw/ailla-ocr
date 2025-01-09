@@ -1,0 +1,63 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT p@7t
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex p@7t.jay
+\_no 02853
+\LG MIG
+\PSH [p@7tjay-]
+\UND p@7t.jay
+\MB
+\VAR
+\GRAM indir
+\SCI
+\USE
+\SPG sucederle; pasarle algo
+\ENG for something to happen to someone
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT p@7t
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\DATE 03/Jan/1980
+\lex p@7t.kuy7
+\_no 02854
+\LG MIG
+\PSH [p@7tkuy7]
+\UND p@7t.kuy7
+\MB pasar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG 1 pasado
+\SPG 2 puente o algo para pasar
+\ENG 1 past
+\ENG 2 bridge or something to pass across
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+\ETL
+\ROOT p@7t
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 21/Jun/95
+Page 1229

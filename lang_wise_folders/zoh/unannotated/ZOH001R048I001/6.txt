@@ -1,0 +1,75 @@
+\tx 7ahan7.
+\zoq 7ahan7.
+\fts Aha.
+\fte Uhuh.
+\ref ZOH001R048 024
+\_no 00025
+\tx de7
+\mb te
+-7
+\sg1 DCT2-NOM1 DEF XE
+\eg1 DCT2-NOM1 DEF XE
+\zoq De7 bi dan negosyo.
+\fts Ese es mi negocio.
+\fte That's my business.
+\com
+\idx
+\ref ZOH001R048 025
+\_no 00026
+\tx de7
+\mb te
+bi d@n negosyo.
+bi d@n negosyo
+negocio
+business
+-7
+\sg1 DCT2-NOM1 ir -COM 1E
+\eg1 DCT2-NOM1 go -COM 1E
+\zoq De7 tijj@n negosyo.
+\fts Ese es mi negocio.
+\fte That's my business.
+\com
+\idx
+\sg1 mamey
+\egl fruit
+tijja n
+tij-w@ 7@n
+\ref ZOH001R048 026
+\_no 00027
+\tx kawak.
+\mb kawak
+\zoq Kawak.
+\fts Mamey.
+\fte Mamey.
+\com
+\idx
+\ref ZOH001R048 027
+\_no 00028
+\tx de7
+\mb te -7
+\sg1 DCT2-NOM1 ir -COM 1E
+\eg1 DCT2-NOM1 go -COM 1E
+tijja
+n
+tij-w@ 7@n
+\zoq De7 tijj@n negosyu.
+\fts Ese fue* mi negosio.
+\fte That was my business.
+\com
+\idx
+\ref ZOH001R048 028
+\_no 00029
+\tx jay
+patanux.
+\mb jaya patanux
+\sg1 macho pla*tano
+ZOH001R0481001.txt
+negosyo.
+negosyo
+negocio
+business
+negosyu.
+negosyo
+negocio
+business
+Page 6

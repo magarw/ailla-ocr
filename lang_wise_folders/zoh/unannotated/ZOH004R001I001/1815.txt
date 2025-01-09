@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7@7tz
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 26/Jun/96
+\lex yuk.jaj
+\_no 04225
+\LG MIG
+\PSH [yukjaj-]
+\UND yuk.jaj
+\MB ARR, arder
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar a arder como zumo de naranja
+\ENG to start to burn like orange zest
+\SPL
+\SLGR
+\EXU kwandu yak.ka-w@ bi 7ux(u')=7oko, yuk.jaj-w@ 7@y+j@p
+\XPSH [Kwandu yakkaw@ bi 7ux7oko, yukjajjay jap.]
+\XSP Cuando mato* el escurpio*n, empezo* a arder su boca.
+\XEN when he killed the scorpion, his mouth started to burn.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT jaj
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+\lex yuk.ja7k
+\_no 04226
+ZOH004R0011001.txt
+\LG MIG
+\PSH [yukja7k-]
+\UND yuk.ja7k
+\MB ARR, ahogarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar a ahogarse
+\ENG to start to drown
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ja7k
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+Page 1815

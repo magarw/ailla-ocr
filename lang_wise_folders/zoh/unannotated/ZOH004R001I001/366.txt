@@ -1,0 +1,63 @@
+\SYN jo.jin
+\SEMF
+\ETYM
+\ETL
+\ROOT jam
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 06/Feb/96
+\lex joj. '@y
+\_no 00841
+\LG MIG
+\PSH [jojj@y-]
+\UND joj.7@y
+\MB espacio, VERS2
+\VAR
+\GRAM vers2
+\SCI
+\USE
+\SPG tener espacio adentro
+\ENG to have a hollow inside
+\EXU joj. '@y-wa bi tak
+\XPSH [Jojj@yy@ bi tak.]
+\XSP Tiene espacio adentro la casa.
+\XEN The house has a hole inside it.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 10/Jan/96
+\lex jok
+\_no 00842
+\LG MIG
+\PSH
+\UND jok
+\MB
+\VAR
+\GRAM vi: med
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG ahumarse (se hizo con el humo)
+\ENG to be smoked; to get smoky
+\SPL yak. jok
+\SLGR CAUS
+\SLGL ahumar // to smoke something
+\EXU jok-w@ bi nea7 por de 7om.a jukut@k 7@yti
+\XPSH [Jokk@ bi_nea7 por de 7oma jukut@k 7@yti.]
+\XSP Se ahumo* la pared porque de el humo del fuego.
+\XEN The wall was blackened by the smoke from the fire.
+\EXU da jok-wa
+\XPSH [D@ jokk@.]
+\XSP Soy negro.
+\XEN I'm black.
+\SYN
+\SEMF condition
+\ASP activity
+\ARG
+\NOM jok.e7, jok.a7
+Page 366

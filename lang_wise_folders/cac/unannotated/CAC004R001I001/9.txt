@@ -1,0 +1,112 @@
+16°15'0"W
+16°0'0"W
+15°45'0"W
+15°30'0"W
+México
+92°15'0"W
+92°15'0"W
+Guatemala
+Comitán
+W-
+N
+S
+Belize
+Honduras
+El Salvador
+92°0'0"W
+Las Margaritas
+La Trinitaria
+E
+92°0'0"W
+91°45'0"W
+Carmen Xa
+Gracias a Dios
+San Antonio Porvenir
+Tziscao
+Quetzal
+La Trinidad Yuxquen
+Candelaria
+San Antonio Buenavista
+Cuauhtémoc
+San Francisco
+Guaxacaná Chaculá Yalambojoch
+Nueva Esperanza
+Nentón
+91°30'0"W
+91°45'0"W
+San Miguel Acatán-
+México
+Jácaltenango
+San Mateo Ixtatán
+Patalcal
+San Sebastián Coatán
+Huehuetenango
+El Platana
+91°30'0"W
+Yulchen
+Santa Eulalia
+San Rafael La Independencia
+Soloma
+Barillas
+San Juan Ixcoy
+Simbología
+Poblaciones
+Tipo
+91°15'0"W
+★Cabecera
+Poblado Mayor
+Poblado Menor
+0 5 10 15 20
+I
+Kilómetros
+91°15'0"W
+1
+91°0'0"W
+Guatemala
+16°15'0"W
+- 16°0'0"W
+- 15°45'0"W
+91⁰0'0"W
+15°30'0"W
+1
+2
+3
+A
+AA
+abs
+adv
+conj
+afirm
+AG
+agtvz
+aj
+AUX
+B
+Cagua
+Canimal
+Cfem
+Cfibra
+primera persona
+segunda persona
+tercera persona
+grupo ergativo
+antipasivo absolutivo
+absoluto
+adverbio
+adverbio de tiempo
+afirmación
+antipasivo agentivo
+agentivizador
+superior
+auxiliar
+grupo absolutivo
+clasificador nominal agua
+clasificador nominal animales
+clasificador nominal femenino
+ABREVIATURAS
+clasificador nominal fibras
+Cmadera clasificador nominal madera
+Cmasc clasificador nominal masculino
+Cmetal clasificador nominal metales, piedras y vidrio
+Cniño clasificador nominal niños
+21

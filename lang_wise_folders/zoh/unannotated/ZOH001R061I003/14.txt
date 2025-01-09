@@ -1,0 +1,63 @@
+\ROOT mekx
+\RTGR P (T1)
+\DSRC HAJ95
+\CMTS he demonstrated the meaning of this word by half-winking each
+\CMTS eye in turn
+\DATE 03/Jan/80
+\lex me7tz.naanh
+\_no 00038
+\LG MIG
+\PHO [me7tzna*nh]
+\UND me7tz.naanh
+\MB buscar, MED
+\VAR
+\GRAM meas
+\SPG una buscada
+\ENG a search
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT me7tz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex mi7kx.naanh
+\_no 00039
+\LG MIG
+\PHO [mi7kxna*nh]
+\UND mi7kx.naanh
+\MB agarrar_en_pun~o, MED
+\VAR
+\GRAM meas
+\SPG el tanto que se puede agarrar en el pun~o cerrado
+\ENG the amount you can hold in your closed fist
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT mi7kx
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex mi7tz.naanh
+\_no 00040
+\LG MIG
+\PSH [mi7tzna*nh]
+\UND mi7tz.naanh
+\MB agarrar_en_pun~o,
+\VAR
+\GRAM med
+\SCI
+\USE
+\SPG manojito
+\ENG handful
+\SPL
+ZOH001R0611003.txt
+\SLGR
+\EXU tum mi7tz.naanh
+\XPSH [tum mi7tzna*nh]
+MED1
+Page 14

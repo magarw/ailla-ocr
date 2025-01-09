@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tzux 7aju7
+\_no 03458
+LG MIG
+\PSH
+\UND tzux 7aju7
+\MB verde, chapuli*n
+\VAR
+\GRAM a (m)s
+\SCI
+\USE
+\SPG chapuli*n verde
+\ENG grasshopper
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+\lex tzux jon
+\_no 03459
+\LG MIG
+\PSH
+\UND tzux jon
+\MB verde, pa*jaro
+\VAR
+\GRAM a (m) s
+\SCI
+\USE
+\SPG loro
+\ENG parrot
+\EXU chik tzux jon
+\XSP periquito
+\XEN parakeet
+SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+LF: jon
+ZOH004R0011001.txt
+\DSRC TK94
+\CMTS CK-PH of EX HAJ:96 - ok now, stress is on jon/OK:TK
+\date 26/Jun/96
+\lex tzux kuy
+\_no 03460
+\LG MIG
+\PSH
+\UND tzux kuy
+\MB verde, palo
+Page 1488

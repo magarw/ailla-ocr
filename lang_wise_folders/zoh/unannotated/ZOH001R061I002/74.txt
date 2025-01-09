@@ -1,0 +1,65 @@
+\CLZ
+\CMTS
+\lex tux
+\_no 00299
+\SPG picar (como una vi*bora o gallina); pellizcar
+\ENG to bite (like a snake or chicken); to pinch
+\SEMF bite
+\ASP activity
+\ARG
+\NOM tux.kuy7
+\NOM tux.naanh
+\RTGR T3
+\POS da tuxjayy@n koya
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tuy
+\_no 00300
+\SPG estirar(se)
+ENG to stretch
+\SEMF arrange
+\ASP achievement
+\ARG
+\NOM tu.i
+\RTGR P (TX)
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex t@7k
+\_no 00301
+\SPG hipar
+\ENG to hiccouph
+\SEMF body
+\ASP semelfactive
+\ARG
+\NOM ta'k.17, t@7k.kuy7
+\RTGR 12
+\POS N
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\ASP accomplishment
+\ARG
+\NOM * kuy7
+ZOH001R0611002.txt
+\lex t@7kx
+\_no 00302
+\SPG destripar (ca*scara tostada o dura)
+\ENG to peel (a toasted or hard shell)
+\SEMF cut
+\NOM t@7kx@mba*7
+\RTGR P (T3)
+\POS da ta7kxjayy@n pojo7k
+ayy
+\MID
+\UNDO
+\CLZ
+pellizco* mi tomate
+huevo rompido (no cocido duro)
+me quebro* los buevos
+Page 74

@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT ko.jap
+\RTGR P (T3)
+\DSRC TK94
+\CMTS
+\date 19/Jun/95
+\lex ko.ja7p
+\_no 01303
+\LG MIG
+\PSH [koja7p-]
+\UND ko.ja7p
+\MB OTRO, moler
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG remoler
+\ENG regrind
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ja7p
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+\lex ko.jax
+\_no 01304
+\LG MIG
+\PSH [kojax-]
+\UND ko.jax
+\MB OTRO, asar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG recalentar; retostar
+ENG to rewarm; to retoast
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT jax
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+\lex ko.jay
+ZOH004R0011001.txt
+Page 569

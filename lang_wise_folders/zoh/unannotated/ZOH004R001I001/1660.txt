@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [w@xtujta*nh]
+\UND wax-tujtu-7anh
+\MB 2, +5, NUM
+\VAR
+\GRAM num
+\SCI
+\USE
+\SPG siete
+\ENG seven
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex w@x-tujta-'nh-ji-7
+\_no 03860
+\LG MIG
+\PSH [w@xtujtanhji7]
+\UND wax-tujtu-7anh-ji-7
+\MB 2, +5, NUM, X, X
+\VAR
+\GRAM num
+\SCI
+\USE
+\SPG los siete
+\ENG the seven (of them)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex w@xt@k-ji
+\_no 03861
+\LG MIG
+\PSH [w@xt@kji]
+\UND waxtak-ji
+\MB 2, X
+\VAR
+\GRAM av
+\SCI
+\USE
+\SPG pasado man*ana
+\ENG the day after tomorrow
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ZOH004R0011001.txt
+Page 1660

@@ -1,0 +1,63 @@
+\ENG to get burned again
+\EXU win-k@nh-w@ kotz@k
+\XPSH [wink@nhnh@ kotz@k.]
+\XSP Se quemo* el cerro.
+\XEN The hillside burned.
+\SYN ni.k@nh
+\SYN jo.k@nh
+\SEMF
+\ETYM
+\ETL
+\ROOT k@nh
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex win-k@nh=wak
+\_no 03700
+\LG MIG
+\PSH [wink@nhwak-]
+\UND win-k@nh=wak
+\MB CARA, pintar, *vaciar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG despintar
+\ENG to discolor; to fade
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 k@nh
+\RTGR 1 T3,
+\ROOT 2 wak
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex win-k@w.i7
+\_no 03701
+\LG MIG
+\PSH [wink@wi7]
+\UND win-k@nh.E7
+ZOH004R0011001.txt
+\MB CARA, pintar, NOM7
+\VAR
+\GRAM BA-ed
+\SCI
+\USE
+\SPG 1 gris; azulito medio blanquisco
+\SPG 2 morado de un golpe
+\SPG 3 pan~o de la cara; que tiene pan~o donde se quemo*
+\ENG 1 gray; pale blue
+\ENG 2 purple from a blow
+\ENG 3 a blotch on the skin; having a blotch on the skin
+\EXU 7@y+ tzi'-xuk-w@ win-naka win-k@nh-w@
+\XPSH [7@y tzixukk@ winnaka, wink@nhnh@.]
+\XSP Le pegaron en la cara, se hizo morado.
+\XEN He hit him in the face and it turned purple.
+\SYN
+Page 1590

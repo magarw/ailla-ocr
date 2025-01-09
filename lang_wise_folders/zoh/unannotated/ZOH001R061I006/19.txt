@@ -1,0 +1,64 @@
+\USE
+\SPG rascar (con la mano o un herramiento)
+\ENG to scrape (with the hand or a tool)
+\EXU 1 7@y+ jen-w@ nax
+\XPSH 1 [7@y jenn@ nax. ]
+\XSP 1 Rasco* la tierra.
+\XEN He scraped the dirt.
+\EXU 2 7@y+ jen-w@ tzanh.kuy'+j@nanh
+\XPSH 2 [7@y jenn@ tzanhkuyj@nanh.]
+\XSP 2 Lo rasco* con la mano.
+\XEN 2 She scraped it with her hand.
+\EXU 3 j@x.jen.7@m-w@ bi nax
+\XPSH 3 [J@xjenn@mm@ bi nax.]
+\XSP 3 Se saco* rascando la tierra.
+XEN 3 The dirt was scraped out.
+\EXU 4 jen.ney-w@ bi nax
+\XPSH 4 [Jenneyy@ bi nax. ]
+\XSP 4 Esta* rascado la tierra (cuando escarba y cae la tierra).
+\XEN 4 The dirt is scraped down (when you're digging and the dirt falls
+down).
+\SYN
+\SEMF scrape, arrange
+\ASP activity
+\ARG
+\NOM
+\SUB 7ok.jen. '@y, j@x-jen, yuk.jen
+\ETYM
+\ETL
+\ROOT jen
+\RTGR T3
+\SPL jen.7oy
+\SLGR ANTIP
+\SLGL rascar // to scrape
+\SPL jen.7@m
+\SLGR PASS
+\SLGL rascarse // to be scraped
+\SPL jen.ney
+\SLGR ASSUM1
+ZOH001R0611006.txt
+\SLGL estar rascado // to be scraped
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex jenen
+\_no 00026
+\LG MIG
+\PSH
+\UND jenen
+\MB
+\VAR
+\GRAM vt, vi:med
+\SCI
+\USE
+\SPG deshacer(se)
+\ENG to dissolve
+\SPL yak.jenen
+\SLGR CAUS
+\SLGL deshacer // to dissolve
+\SPL jenen.7oy
+\SLGR ANTIP
+\SLGL disolver // to dissolve
+\SPL jenen.7@m
+\SLGR PASS
+Page 19

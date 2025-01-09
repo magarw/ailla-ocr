@@ -1,0 +1,63 @@
+\GRAM SV
+\SCI
+\USE
+\SPG pedazo
+\ENG piece
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wen
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS get deriv's
+\date 28/Jan/96
+\lex we'ch.i7
+\_no 00384
+\LG MIG
+\PHO [wechi7]
+\UND we7ch. E7
+\MB encorvar, NOM7
+\VAR
+\GRAM pcp
+\SPG chueco
+\ENG crooked
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT we7ch
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex we'ch.@7
+\_no 00385
+\LG MIG
+\PHO [wech@7]
+\UND we7ch.A7
+\MB encorvar,
+\VAR
+\GRAM SV
+\SPG e*1 que esta* chueco
+\ENG someone who is crooked
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT we7ch
+\RTGR 12
+NOM2
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex we'k.e7
+\_no 00386
+\LG MIG
+\PHO [weke7]
+\UND we7k.E7
+ZOH001R0611004.txt
+Page 153

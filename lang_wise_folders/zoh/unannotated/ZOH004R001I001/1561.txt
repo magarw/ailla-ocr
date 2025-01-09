@@ -1,0 +1,63 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wej
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex wej.kuy7
+\_no 03632
+\LG MIG
+\PSH [wejkuy7]
+\UND wej.kuy7
+\MB gritar, INSTR1
+\VAR
+\GRAM instrl
+\SCI
+\USE
+\SPG garganta
+\ENG throat
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wej
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 12/Aug/94
+\lex wej=m@tz. '@y
+\_no 03633
+\LG MIG
+\PSH [wejm@tztz7@y-]
+\UND wej-m@tz.7@y
+\MB gritar, rechinar, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG gritar mucho distintos ruidos
+\ENG to shout a lot - different noises.
+\EXU wen(u) d@+ wej=m@tz. '@y-wa
+\XPSH [wenu d@ wejm@tztz@yy@.]
+\XSP Grite* mucho.
+\XEN I shouted all over the place.
+\SYN
+SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT 1 wej
+\RTGR 1 T1
+\ROOT 2 m@tz
+\DSRC HAJ94
+\CMTS
+\date 26/Jun/96
+Page 1561

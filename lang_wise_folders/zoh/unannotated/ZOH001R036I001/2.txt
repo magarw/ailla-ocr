@@ -1,0 +1,69 @@
+ZOH001R0361001.txt
+\egl and blood shit -NOM3 1E have -1/2PL-INC IPrn ass bone -LOC2
+\zoq 7i_n@pintini 7@n 7anhnittampa ney xi pakjo7,
+\fts y la dysenteri*a lo tenemos dentro de la cadera,
+\fte and the dysentery we have in our hip,
+\com
+\idx
+\ref ZOH001R036 004
+\_no 00005
+\tx ney tzekjo7
+\mb ney tzek
+-jo7
+\sg1 IPrn barriga-Loc2
+\egl IPrn belly -LOC2
+\zoq ney tzekjo7.
+\fts en nuestra barriga.
+\fte in our belly.
+\com
+\idx
+\ref ZOH001R036 005
+\_no 00006
+\tx kwand 7okmanhpa bi
+\mb kwando 7okmanh-pa bi
+\sg1 cuando empezar-INC DEF
+\eg1 when begin -INC DEF
+\zoq Kwand 7okmanhpa bi- ga dolo*r,
+\fts Cuando empieza ese dolor,
+\fte when the I that pain starts,
+\com
+\idx
+\ref ZOH001R036 006
+\_no 00007
+p@m@7
+\tx yam
+\mb
+-A7
+\sg1 NEG-2A aguantar-NOM2
+\eg1 NEG-2A bear
+ya -7@m_p@m
+\zoq yam p@m@7.
+\fts no lo aguantas.
+\fte you can't bear it.
+\com
+\idx
+\ref ZOH001R036 007
+\_no 00008
+\tx yam
+\mb ya -7@m p@m
+p@m@7
+\com
+\idx
+-NOM2
+-A7
+\sg1 NEG-2A aguantar-NOM2
+\eg1 NEG-2A bear
+\zoq Yam_p@m@7,
+\fts No lo aguantas,
+\fte You can't bear it,
+\ref ZOH001R036 008
+\_no 00009
+\tx porke ga
+-NOM2
+ga
+dolo*r
+ka -7 dolo*r
+DCT3-NOM1 dolor
+DCT3-NOM1 pain
+dolo*r 7esde jak toyyoypa
+Page 2

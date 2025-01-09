@@ -1,0 +1,64 @@
+\SEMF cook, corn
+\ASP activity
+\ARG agent, patient
+\NOM jey.kuy7
+\SUB 7anh.jey. '@y, jo.jey, j@x-jey, ko.jey, ni.jey
+\ETYM
+\ETL
+\ROOT jey
+\RTGR P, (T3)
+\SPL jey.7oy
+\SLGR ANTIP
+\SLGL batir // to beat
+\SPL jey.7@m
+\SLGR PASS
+\SLGL batirse // to be beaten
+\SPL jey.ney
+\SLGR ASSUM1
+\SLGL estar batido // to be beaten
+\SPL jey.ten
+\SLGR PRSV
+\SLGL tener batido // to have beaten
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex jim
+\_no 00032
+\LG Mig
+\PSH
+\UND jim
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 rozar
+\SPG 2 tocar al pasar
+\ENG 1 to graze
+\ENG 2 to touch in passing
+ZOH001R0611006.txt
+\EXU 1 7@y+ jim.jay. 'oyy@ yanh.ti7
+\XPSH 1 [7@y jimja7oyya yanhti7.]
+\XSP 1 Toco* algo de la gente al pasar.
+\XEN 1 She touched something of someone else's in passing.
+\EXU 2 7@n+ jim-w@ 7@n+_n@k-E
+\XPSH 2 [7@n jimm@n n@ki.]
+\XSP 2 Anduvo tocandolo al pasar (como en una vereda muy angosta).
+\XEN 2 He went along touching things in passing (like on a narrow path).
+\EXU 7@y+ jim-w@ bi tzamm@7 d@k+('ay)
+\XPSH [7@y jimm@ bi tzamm@7 d@kka.]
+\XSP Lo fue* tocando los montes.
+\XEN She went along touching the leaves of the shrubbery.
+\SYN
+\SEMF touch, hand
+\ASP activity, achievement
+\ARG
+\NOM jim.naanh
+\SUB 7ok.jim. '@y, k@.jim. '@y, ni.jim
+\ETYM
+\ETL
+\ROOT jim
+\RTGR T3
+\SPL jim. 7oy
+\SLGR ANTIP
+Page 24

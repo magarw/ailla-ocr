@@ -1,0 +1,64 @@
+\UND pikx
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tocar puerta; pegar con dedo pulgar y dedo primero
+\ENG to knock on the door; to flick with the thumb and forefinger
+\SPL pikx.7oy
+\SLGR ANTIP
+\SLGL tocar puerta // to knock on the door
+\SPL pikx.7@m
+\SLGR PASS
+\SLGL despizcarse // to be be shelled
+\EXU pikx.7@m-w@ bi kanika
+\XPSH [Pikx@mm@ bi kanika.]
+\XSP Tocaron la canica.
+XEN He hit the marble.
+\SYN
+\SEMF semelfactive
+\ASP
+\ARG
+\NOM pikx.naanh
+\SUB
+\ETYM
+\ETL
+\ROOT pikx
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex pikx [x@k
+\_no 02624
+LG MIG
+ZOH004R0011001.txt
+\PSH
+\UND pikx [x@k
+\MB
+\VAR
+\GRAM vi [+subj
+\SCI
+\USE
+\SPG 1 estar bien tostado [el frijol]
+\SPG 2 despizcarse [el frijol] de tanta seca
+\ENG 1 for beans to be well toasted
+\ENG 2 for beans to fall from the shell from drying out
+\SPL yak.pikx
+\SLGR CAUS
+\SLGL dejar despizcarse el frijol // to leave the beans until they fall out of
+their shells by themselves
+\EXU ney=tum. @ pikx-pa
+\XPSH [Ney tum@ pikxpa.]
+\XSP Solo se esta* despizcando.
+\XEN They're falling from the shells by themselves.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pikx
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+Page 1129

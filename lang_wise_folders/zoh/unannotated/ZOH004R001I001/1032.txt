@@ -1,0 +1,65 @@
+\SYN
+\SEMF body
+\ASP state
+\ARG
+\NOM
+\SUB
+\ROOT no7px
+\RTGR 12
+\SPL yak.no7px
+\SLGR CAUS
+\SLGL hacer que esta* chupado la cara
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex no7tz
+\_no 02396
+\LG MIG
+\PSH
+\UND no7tz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG arar; quebrar; surquear; partir
+\ENG to plow; to break; to break the earth; to cultivate
+\SPL
+no7tz.7oy
+\SLGR ANTIP
+\SLGL cultivar // to cultivate
+SPL no7tz.7@m
+ZOH004R0011001.txt
+\SLGR PASS
+\SLGL romperse (cualquiera cosa) // to be broken
+\SPL no7tz.ney
+\SLGR ASSUM1
+\SLGL tener rajado // to have it broken
+\SPL no7tz.ten
+\SLGR PRSV
+\SLGL tener rajado // to have it broken
+\EXU 1 no7tz.ten-e
+\XPSH 1 [NO7tztene.]
+\XSP 1 Esta* cultivado/rajado el terreno.
+\XEN 1 The ground is broken.
+\EXU 2 7@y+ no7tz-w@ bi xuyu7
+\XPSH 2 [7@y no7tztz@ bi xuyu7.]
+\xSP 2 Quebro* la olla.
+\XEN 2 He broke the pot.
+\EXU 3 7@y+ no7tz.ten-w@ bi nax
+\XPSH 3 [7@y_no7tztenn@ bi nax.]
+\XSP 3 Lo cultivo* a tiempo la tierra.
+\XEN 3 He cultivated the ground in time.
+\EXU 4 no7tz. '@m-w@ bi limeta
+\XPSH 4 [No7tztz@mm@ bi limeta.]
+\XSP 4 se rompio* la botella.
+\XEN 4 The bottle was broken.
+\SYN
+\SEMF break
+\ASP activity
+\ARG
+\NOM nax=no7tz.pa'.kuy7, no'tz.e7, no'tz.07
+\SUB papx=no7tz, tet-no7tz
+\ETYM
+\ETL
+Page 1032

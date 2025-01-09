@@ -1,0 +1,62 @@
+\GRAM vi
+\SPG estar apachurradi to
+\ENG to have a little dent
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT muy
+\RTGR T2
+\DSRC HAJ95
+\CMTS
+\date 22/Jun/96
+\lex win-m@k
+\_no 03710
+\LG MIG
+\PSH [winm@k-]
+\UND win-m@k
+\MB CARA, mezclar
+\VAR
+\GRAM vt
+\SPG envolver tamal con otro
+\ENG to wrap tamales with someone else
+\EXU 7@y win-m@k-w@ yo7
+\XPSH [7@y winm@kk@ yo7.]
+\XSP Envolvio* tamal con ella.
+\XEN She wrapped tamales with her.
+\SYN
+\ROOT mak
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 22/Jun/96
+\lex win=naka pak
+\_no 03711
+\LG MIG
+\PSH [winnaka pak]
+\UND win-naka pak
+\MB CARA, cuero, hueso
+\VAR
+\GRAM ssms
+\SCI
+\USE
+\SPG 1 po*mulo; hueso de cachete
+\SPG 2 calavera
+\ENG 1 cheekbone
+\ENG 2 skull
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+ZOH004R0011001.txt
+\CMTS
+\date 13/Nov/94
+\lex win-nak(a)=tze'
+\_no 03712
+\LG MIG
+Page 1594

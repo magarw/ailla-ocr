@@ -1,0 +1,71 @@
+Yo soy presidente municipal.
+a in tik mero yajalin t'a sjolomal chonhab’ tik
+a
+in tik mero y-ajal-in
+top 1B dem mero 3A-dueño-1B prep 3A-cabeza-gen pueblo
+179. Juan me llamó tonto.
+122
+a winhaj Xun ixinyal winh kistalil
+a
+180. Estoy durmiendo.
+lan inwayi
+lan in-way-i
+prog 1A-dormir-vti
+winhaj Xun ix-in-y-al
+winh kistal-il
+top Cmasc Juan pas-1B-3A-hablar Cmasc tonto-abs
+wan inwayi
+wan in-way-i
+prog 1A-dormir-vti
+Tengo sueño.
+ay inwayan
+ay-ø
+in-wayan
+exist-3B 1A-sueño
+Estás durmiendo.
+lan awayi
+lan a-way-i
+prog 2A-dormir-vti
+wan awayi
+wan a-way-i
+prog 2A-dormir-vti
+Él está durmiendo.
+wan sway winh
+wan s-way
+prog 3A-dormir él
+t'a s-jolom-al chonhab' tik
+dem
+winh
+181. No estoy durmiendo.
+man lanhok laj inwayi
+man lanh-ok laj in-way-i
+neg prog-IRR neg 1A-dormir-vti
+No está durmiendo él.
+man wanok laj sway winh
+man wan-ok laj s-way winh
+neg prog-IRR neg 3a-dormir él
+No estás durmiendo.
+man lanyok laj awayi
+man lanh-ok laja-way-i
+neg prog-IRR neg 2A-dormir-vti
+182. Duermo poco.
+jab'nhej tzinwayi
+jab'-nhej tz-in-way-i
+poco-sólo pres-1B-dormir-vti
+Duerme poco él.
+kenhej sway winh
+ken-nhej tz-ø-way
+poco-sólo pres-3B-dormir él
+winh
+jab'nhej sway winh
+jab'-nhej tz-Ø-way
+poco-sólo pres-3B-dormir él
+winh
+Duermes poco.
+jab'nhej tzachwayi
+jab'-nhej tz-ach-way-i
+poco-sólo pres-2B-dormir-vti
+kenhej tzachwayi
+ken-nhej tz-ach-way-i
+poco-sólo pres-2B-dormir-vti
+123

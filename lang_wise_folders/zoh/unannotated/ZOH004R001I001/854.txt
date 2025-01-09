@@ -1,0 +1,65 @@
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG pimienta
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex moke poj
+\_no 01982
+\LG MIG
+\PSH
+\UND moke poj
+\MB
+\VAR
+\GRAM
+LF: kuy
+\SCI
+\USE
+\SPG bejuco de pimienta
+\ENG a type of vine
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 21/Jun/95
+\lex mok=ko.tzik
+\_no 01983
+\LG MIG
+\PSH [mokkotzik-]
+\UND mok=ko.tzik
+LF:poj
+\MB mai*z, OTRO, pelar
+\VAR
+\GRAM vi:incorp
+\SCI
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\USE
+\SPG deshojar mazorca
+\ENG to husk corn
+\ROOT tzik
+\RTGR T3
+ZOH004R0011001.txt
+Page 854

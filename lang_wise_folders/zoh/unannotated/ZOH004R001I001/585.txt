@@ -1,0 +1,63 @@
+\CMTS
+\date 11/Nov/94
+\lex koke xaxi7
+\_no 01340
+\LG MIG
+\PSH
+\UND koke xaxi7
+\MB_pescado, escama
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG escama de pez
+\ENG fish scale
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH
+\date 24/Jun/96
+\lex koke=nuk.kuy7
+\_no 01341
+\LG MIG
+\PHO [kokenukkuy7]
+\UND koke=nuk. kuy7
+\MB pescado, agarrar, INSTR1
+\VAR
+\GRAM instr1
+\SPG chinchorro
+\ENG a long net that they lay out in a circle
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT nuk
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex koke-nuk-pa+a7k
+\_no 01342
+\LG MIG
+\PSH [kokenukpa*7k]
+\UND koke-nuk-pa +P@7k
+sounds good, HAJ:96/OK: TK
+\MB pescado, agarrar, INC, REL
+\VAR koke=nukpa+a7k p@n
+\GRAM agt1
+\SCI
+\USE
+\SPG pescador
+\ENG fisherman
+\EXU
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+Page 585

@@ -1,0 +1,62 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 27/Mar/95
+\lex kox=tz@k
+\_no 01486
+\LG MIG
+\PSH [koxtz@k-]
+\UND kox=tz@k
+\MB costar, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG costarle
+\ENG to be hard for someone to do
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM costar
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-PH - ok/OK: TK
+\date 24/Jun/96
+\lex ko.xuj
+\_no 01487
+\LG MIG
+\PSH [koxuj-]
+\UND ko.xuj
+\MB OTRO, soplar
+\VAR
+GRAM vt
+\SCI
+\USE
+\SPG limpiar soplandolo
+\ENG to clean something by blowing on it
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xuj
+\RTGR T3
+\DSRC HAJ94
+ZOH004R0011001.txt
+\CMTS
+\date 14/Jun/95
+\lex ko.xuy
+\_no 01488
+\LG MIG
+Page 646

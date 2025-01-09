@@ -1,0 +1,90 @@
+\_no 00080
+\tx 7@n t@k
+\mb 7@n t@k
+-7a -w@
+-j@xt@kjoonh
+\sgl 1E casa
+-VERS1-COM sagrado-casa -atra*s_de
+\egl 1E house there_is-VERS1-COM sacred -house-behind
+\com
+\idx
+teji7aw@
+teji
+hay
+\fts mi casa esta* atra*s de la iglesia
+\fte my house is behind the church
+\ref 080
+\_no 00081
+\tx 7@n t@k
+\mb 7@n t@k
+\sgl 1E
+-winjo7
+-7a-w@
+-ah-COM sagrado-casa -en_frente
+\egl 1E house there_is-ah-COM sacred -house-in_front
+casa
+\ref 081
+\_no 00082
+\tx 7@n t@k
+\mb 7@n t@k
+teji7aw@
+teji
+hay
+ZOH001R0601001.txt
+maxant@kj@xt@kjo*nh
+maxan -tak
+\fts mi casa esta* en frente de la iglesia
+\fte my house is in front of the church
+\com
+\idx
+teji7aw@
+teji
+\sg1 1E casa hay
+maxant@kwinjo7
+maxan -t@k
+tome de g@
+-7a -wa
+tome7 de ga
+-VERS1-COM cerca de DEM
+-t@k
+sagrado-casa
+\egl 1E house there_is-VERS1-COM near of DEM sacred -house
+\fts mi casa esta* cerca de la iglesia
+\fte my house is near the church
+\com
+\idx
+teji7aw@
+teji
+hay
+\ref 082
+\_no 00083
+\tx 7@n t@k
+\mb 7@n t@k
+\sg1 1E casa
+pajakgaja7kwintu7k
+-7a -w@ pajak-gaja7kwintu7k
+-VERS1-COM ri*o -al_otro lado
+\egl 1E house there_is-VERS1-COM river-across
+\fts mi casa esta* en el otro lado del ri*o
+\fte my house is on the other side of the river
+\com
+\idx
+\ref 083
+\_no 00084
+\tx 7@n t@k
+\mb 7@n t@k
+teji7aw@
+teji
+-7a -w@
+tzapj@nanh
+tzapj@nanh
+-VERS1-COM por arriba
+\sgl 1E casa hay
+\egl 1E house there_is-VERS1-COM to_up_there
+maxant@k
+maxan
+\fts mi casa esta* por alla* arriba
+\fte hy house is up there
+\com
+\idx
+Page 21

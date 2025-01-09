@@ -1,0 +1,63 @@
+\_no 04419
+\LG MIG
+\PSH [d@xja*7]
+\UND t@.x +jaTE7
+\MB 1, PLPRN
+\VAR
+\GRAM pron
+\SCI
+\USE first person plural pronoun
+\SPG nosotros
+\ENG we; us
+\SPL
+\SLGR
+\EXU pitzenh +jo7 d@.x+jaa7 m@jm@ kaxṭigu 7@n+ p@7t-tam-pa
+\XPSH [Pitzenhjo7, d@xja*7 m@jm@ kaxtigun p@7ttampa.]
+\XSP Por eso, nosotros bastante trabajo pasamos.
+\XEN That's why we have so much toil.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex {d@.x}
+\_no 04420
+\LG MIG
+\PSH [d@x]
+\UND t@x
+\MB 1Prn
+\VAR
+\GRAM pron
+\SCI
+\USE first person singular pronoun
+\SPG yo
+\ENG I
+\EXU tij-w@ nikola*s lorenso, 7anhtonyo 7i d@.x jerma*n
+\XPSH [Tijj@ Nikola*s, Lorenso, 7anhtonyo, 7i d@x, Jerma*n.]
+\XSP Fuimos Nicola*s, Lorenzo, Antonio, y yo, Germa*n.
+\XEN Nicola*s, Lorenzo, Antonio, and I, Germa*n, went.
+\SYN
+\SEMF
+\ETYM *t@.tz
+\ETL
+ZOH004R0011001.txt
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Feb/96
+\lex {d@+} [1]
+\_no 04421
+\LG MIG
+\PSH
+\UND d@+
+\MB 1A
+\VAR
+\GRAM pron
+\SCI
+\USE first person absolutive pronominal agreement marker
+\SPG me
+\ENG I
+Page 1898

@@ -1,0 +1,63 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex naka
+\_no 02122
+\LG MIG
+\PSH
+\UND naka
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG cuero
+\ENG skin
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex naka temanh7
+\_no 02123
+\LG MIG
+\PSH
+\UND naka temanh7
+\MB
+\VAR nak temanh7
+\GRAM
+\SCI
+\USE
+\SPG huaje; guaje
+\ENG a type of tree
+\ENG
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+LF: kuy
+\ROOT
+\DSRC TK94
+\CMTS
+\date 11/Nov/94
+\lex naka-tzik
+\_no 02124
+\LG MIG
+\PSH [nakatzik-]
+ZOH004R0011001.txt
+Page 915

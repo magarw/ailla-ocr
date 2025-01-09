@@ -1,0 +1,63 @@
+\ETYM
+\ETL
+\ROOT juk
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex juk.i
+\_no 00904
+\LG MIG
+\PSH [juki]
+\UND juk. E
+\MB fumar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG cigarro
+\ENG cigarette
+\EXU juk. E kaja
+\XPSH [juki kaja]
+\XSP caja de cigarros
+\XEN pack of cigarettes
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT juk
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 06/Feb/96
+\lex jukuk
+\_no 00905
+\LG MIG
+\PSH
+\UND jukuk
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG molestar
+\ENG to bother
+ZOH004R0011001.txt
+\SPL yak.jukuk
+\SLGR CAUS
+\SLGL hacer que molestar (su garganta) // to give someone a sore throat
+\EXU 1 jukuk-pa 7@n+ yo7k
+\XPSH 1 [Jukukpan yo7k.]
+\XSP 1 Me molesta algo en la garganta.
+\XEN 1 My throat is bothering me.
+\EXU 2 jukuk-w@ yo7k
+\XPSH_2 [Jukukk@ yo7k.]
+\XSP 2 Molesto* algo en la garganta.
+\XEN 2 Something was tickling his throat.
+\EXU 3 yo7k jukuk-pa
+\XPSH 3 [Y07k jukukpa.]
+\XSP 3 Empezo* a arder su garganta como que si tuviera gripa.
+\XEN 3 Her throat started getting sore as though she were catching a
+cold.
+\EXU 4 da jukuk-pa
+Page 394

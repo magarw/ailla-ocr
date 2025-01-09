@@ -1,0 +1,62 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7uk
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-PH - both ok, HAJ:96
+\date 18/Jun/96
+\lex katzu'.7aH
+\_no 01199
+\LG MIG
+\PSH [katzu7a-]
+\UND katzu7.7aH
+\MB agrio, VERS1
+\VAR
+\GRAM versl
+\SCI
+\USE
+\SPG agriarse
+\ENG to turn sour
+\SPL yak.katzu7.7aH
+\SLGR CAUS
+\SLGL agriar // to make sour
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex katzu'=paja7k
+\_no 01200
+\LG MIG
+\PSH [katzupaja7k]
+\UND_katzu7=paja7k
+\MB agrio, dulce
+\VAR
+\GRAM aa
+\SCI
+\USE
+\SPG agridulce, dulce agrio
+\ENG bittersweet
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 24/Jun/96
+\lex katzu'=tz@k
+ZOH004R0011001.txt
+Page 522

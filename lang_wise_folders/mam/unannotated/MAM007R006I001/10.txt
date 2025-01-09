@@ -1,0 +1,67 @@
+(115) 0=0=ok
+(116) chin t-tzaqpii-n=tz=a
+qaana-n
+CPL.DEP=B3s=DIR preguntar-AP A3s-SR:DAT CL:no.humano
+'le dijo a él.'
+Bls A2s-soltar-IMP=DIR=2s/1s
+'Suéltame,'
+(117) nn=0=aq'-poon-tzan
+t-pataada jaʼla.
+INC=B3s-dar-duro-pues A3s-patada ahora
+‘le dio la patada.'
+(118) Ooy pataada k-q'ii-l-a
+hoy? patada
+'Con las patadas que le doy,'
+k=eelax
+(120) 0-chi-tzan
+kyja' luu'
+B3s-decir-pues así esto
+'dijo así.'
+(121) B'i'x
+0=kyaj
+lak'paj
+de.una.vez B3s-DIR pegar
+'De una vez se pegó su segundo pie.'
+B2s-experimentar-POT=2s
+(119) aax
+t-xak'-paj=a
+mismo B2s=DIR+POT+DIR A2s-pata.arriba-P>I=2s Als-SR:AGT=1s
+jaʼla
+ahora
+'allí te vas a dar vuelta,'
+(122) Ma-tzan
+(123) 0-chi-tzan
+kyja',
+B3s-decir-pues así
+'dijo así,'
+t-ee
+(125) 0-chi-tzan
+0-poon t-ajaw-iil
+cheenq',
+PROX=pues B3s=llegar A3s-dueño-ABST frijol
+'Cuando llegó el dueño del frijolar,'
+(124) aa jodiido aalpalta n=0-piika-n
+a jodido ?
+'vos sos el quien daña a mi siembra,'
+0=q’uun-j,
+B3s-decir-pues B3s-decir-PAS
+'dijo,'
+t-qan
+A3s-pie
+(126) 0-chi-tzan ky-aqiil
+B3s-decir-pues B3p-todo
+'dijo todo,'
+jal
+(127) 0-chi-tzan kyja'.
+B3s-decir-pues así
+'dijo así.'
+w-u'n=a
+ja'la
+Als-SR:AGT=1s ahora
+w-awak-a
+INC=B3s=dañar-AP A3s-SR:PAC Als-siembra=1s
+t-i'j
+w-u'n=a
+ky-kab'-al.
+A3p-dos-ORD
+11

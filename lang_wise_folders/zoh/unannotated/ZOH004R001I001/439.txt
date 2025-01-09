@@ -1,0 +1,63 @@
+\LG MIG
+\PSH
+\UND j@mney
+\MB
+\VAR
+\GRAM av
+\SCI
+\USE
+\SPG norte
+\ENG north
+\EXU j@mney tuj
+\XSP 11uvia/agua del norte
+\XEN rain from the north
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 14/Jun/95
+\lex j@m=ta7kx.i'.7a
+\_no 01001
+\LG MIG
+\PSH [j@mta7kxi7a-]
+\UND jam-ta7kx.i'. 7a
+\MB
+\VAR
+\GRAM vt
+\SPG alisar
+\ENG to make smooth by scraping
+\EXU 7@y+ j@m-ta7kxi '.7a-wa 7@y+ j@m.kuy'
+\XPSH [7@y jamta7kxi7aw@ 7ay jamkuy.]
+\XSP Hizo pulido su piedra por afilar.
+\XEN He rubbed his polishing stone smooth by rubbing it.
+\ROOT jam
+\RTGR T1
+\DSRC TK00
+\CULT
+\CMTS sharpening the machete on a rock, you rub smooth the rock.
+\date 23/Aug/00
+\DATE 14/Aug/02
+\lex j@m-tzik.i7
+\_no 01002
+\LG MIG
+\PSH [j@mtziki7]
+\UND jam-tzik. E7
+\MB tallar, pelar, NOM7
+\VAR
+ZOH004R0011001.txt
+\GRAM SV
+\SCI
+\USE
+\SPG tropellar algo para que se pelara
+\ENG to bang into something so that it scrapes off some skin
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+Page 439

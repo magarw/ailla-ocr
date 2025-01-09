@@ -1,0 +1,76 @@
+\mb 71
+\sg] y
+DCT1-TMP
+\egl and DCT1-TMP other other-REL hurt -NOM2 self he same hurt -NOM2 well
+ya
+y@ -y
+\zoq 7i yey 7otro 7eya*7k toya ney 7el mismo toya, pwes.
+\fts Y ahora otra enfermedad ese la misma enfermedad, pues.
+\fte And now the other illness, well, it's the same illness.
+\com
+\idx
+ZOH001R0361001.txt
+7otro 7eya -v7k toy -A7 ney 7el mismo toy -A7
+pwes
+otro otro -REL doler-NOM2 mismo e*l mismo doler-NOM2 pues
+\ref ZOH001R036 155
+\_no 00156
+\tx kwandu 7alma 7@m tzonhpa
+\mb kwandu 7alma 7@m tzonh-pa
+\sg1 cuando alma 2E unir -INC
+\egl when soul 2E join -INC
+\zoq Kwandu 7alma 7@m tzonhpa,
+\fts Cuando topas el difunto,
+\fte when you meet a ghost,
+\com
+\idx
+\ref ZOH001R036 156
+\_no 00157
+\tx
+7alma m
+tzonhpa
+\mb 7alma 7@m tzonh-pa
+\sgl alma 2E unir -INC
+\egl soul 2E join -INC
+\zoq 7almam tzonhpa.
+fts topas el difunto.
+\fte you meet a ghost.
+\com
+\idx
+\ref ZOH001R036 157
+\_no 00158
+ke
+\tx 7@m 7ammapa 7@m 7amakuyjo
+jente ga7
+\mb 7@m 7amma-pa 7@m 7amma-kuy7 -jo7 ke jente ka -7
+\sgl 2E ver -INC 2E mirar-INSTR1-LOC2 que gente DCT3-NOM1
+\egl 2E see -INC 2E look -INSTR1-LOC2 that people DCT3-NOM1
+\tx_tenn@*7
+ten
+\mb
+-w@ -v7k
+\sg1 pararse-COM-REL
+\egl stand -COM-REL
+\com
+\idx
+\zoq 7@m 7ammapa 7@m 7amakuyjo ke jente ga7 tenn@*7.
+\fts Lo esta*s viendo en tu vista como que si una persona esta* parado.
+\fte You're looking at your reflection as if that person is was standing
+there.
+\ref ZOH001R036 158
+\_no 00159
+\tx tenn@*
+\mb ten
+kay
+gaji
+kwandu m ye7tzjaba*m
+ded@
+-w@ ka -y
+ka -ji7 kwandu 7@m ye7tz -jay -pa -7am te -da
+\sg1 pararse-COM DCT3-TMP DCT3-LOC1 cuando 2A 11egar-APPL-INC-YA
+\egl stand -COM DCT3-TMP DCT3-LOC1 when 2A
+arrive-APPL-INC-NOW
+\tx mal
+Page 34
+DCT2-DEM
+DCT2-DEM

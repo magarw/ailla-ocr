@@ -1,0 +1,62 @@
+\ROOT tzuj
+\RTGR T1
+\DSRC HAJ94
+\CMTS CK-PH, CK-GR ok
+\date 21/Jun/95
+\lex pitz
+\_no 02647
+\LG MIG
+\PSH
+\UND pitz
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG poner/echar mai*z en la lumbre con cal, para cocer
+\ENG to put corn mixed with lye over the fire, to cook it
+\EXU 1 7@y+ pitz-w@ ga.' pitzi
+\XPSH 1 [7@y pitztz@ ga pitzi.]
+\XSP 1 Puso maiz en la lumbre.
+\XEN 1 she put the corn on the fire with lye.
+\EXU 2 pitz.7@m-w@ bi pitzi porke k@nh-w@+¹am
+\XPSH 2 [Pitztz@mm@ bi pitzi porke k@nhnha*m.]
+\XSP 2 Ya lo bajaron el nixtamal porque ya se cosio*.
+\XEN 2 Now someone took the corn off the fire because now it's cooked.
+\SYN
+\SEMF corn, cook
+\ASP activity
+\ARG
+\NOM pitz.i, pitz.kuy' way
+\SUB pitz.i-ja7p, pitz.i-k@nh=ka', pitz.i=tokx.@+@7k, pitz.i-way
+\ETYM
+\ETL
+\ROOT pitz
+\RTGR T1
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex pitzenhjo7
+\_no 02648
+ZOH004R0011001.txt
+\LG MIG
+\PHO [pitzenhjo7]
+\UND
+\MB
+\VAR
+\GRAM
+\SPG por eso
+\ENG therefore; so
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex pitz.i
+\_no 02649
+\LG MIG
+\PSH [pitzi]
+Page 1140

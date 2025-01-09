@@ -1,0 +1,64 @@
+\SPG patear
+\ENG to kick
+\EX 7@y kepxukk@
+\XSP lo patearon
+\XEN they kicked him
+\EX kepkepneyy@
+\XSP lo pataleo*
+\XEN they kicked him a lot
+\EX 7@n kepp@ manhkuy winjo*nh
+\XSP le dio* un puntapie
+\XEN he kicked him
+\EX kepp@mpa bi nax
+\XSP_esta* suelto la tierra (para sembrar)
+\XEN the earth is turned (for sowing)
+\ROOT kep P (T3)
+\SEMF motion, hit
+\PASS kep.7@m
+\ANTI kep.7oy patear atra*s (como caballo)
+\ASSU kep.ney patalear
+\CMTS kick backwards, not forwards
+\lex ket
+\_no 00043
+\SPG tapar; envolver con cobija o con sa bana
+\ENG to cover; to wrap
+with a blanket or a sheet
+\EX 7@y kett@ 7@y win
+\XSP se tapo*
+\XEN she covered herself
+\ROOT ket P (T3)
+SEMF wrap
+\PASS ket.7@m taparse
+\ANTI ket. 7oy
+\CMTS
+\lex ke7tz
+\_no_00044
+\SPG masticar; mascar
+\ENG to chew
+\EX
+\XSP
+\XEN
+\ROOT ke7tz T3
+\SEMF eat
+ZOH001R0611009.txt
+\PASS ke7tz.7@m
+\ANTI ke7tz.7oy
+\CMTS
+\lex kit
+\_no 00045
+\SPG quebrar; quebrar palo
+\ENG to break
+like a stick
+rama
+\lex ki7t
+\_no 00046
+\SPG meter el dedo
+\EX
+\XSP
+\XEN
+\ROOT kit T3
+\SEMF break
+\PASS kit.7@m quebrarse
+\ANTI kit.7oy
+\CMTS break it with the hands, or it could be the feet
+Page 12

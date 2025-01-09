@@ -1,0 +1,80 @@
+\_no 01250
+\tx 7algo
+\mb 7algo
+\sgl algo
+asi*
+\egl something thus
+7asi*
+7asi*
+\zoq 7algo 7asi*.
+\fts Algo asi*.
+\fte Something like that.
+\com
+\idx
+\ref ZOH001R036 999-271
+\_no 01251
+\tx peru y@p@
+\mb peru y@ -p@7 7@y xox
+-xuk-pa
+\sg1 pero DCT1-poner 3E cocer-3PL-INC
+\egl but DCT1-put 3E cook -3PL-INC
+7@y xoxxukpa
+\zoq Peru y@p@ 7@y xoxxukpa,
+\fts Pero esto lo cocen,
+\fte But they cook this,
+\com
+\idx
+\ref ZOH001R036 999-272
+\_no 01252
+sal de benado
+\tx 7@y n@ji
+\mb 7ay n@ji sal de benado
+\sg1 3E nombre sal de venado
+\egl 3E name salt of deer
+\zoq 7@y n@ji sal de benado,
+fts se llama sal de venado,
+\fte it's called deer salt,
+\com
+\idx
+ZOH001R0361001.txt
+\ref ZOH001R036 999-273
+\_no 01253
+\tx par
+par
+7@y 7ukpa
+par bi teke7t 7anhkame
+para 7@y 7uk -pa para bi teke7t 7anh -kam
+\mb
+\sg1 para 3E tomar-INC para DEF orin
+\egl for 3E drink-INC for DEF urine
+\ref ZOH001R036 999-274
+\_no 01254
+go7
+-E7
+go7
+BOCA -trabarse -NOM3 BNF
+MOUTH-get_stuck-NOM3 BNF
+\zoq par 7@y 7ukpa par bi teke7t7anhkame go7.
+\fts para la tapeadura de orin.
+\fte for blockage of urine.
+\com
+\idx
+\tx 7i n@mmoba
+y
+7ukk@
+tekkot@pa
+ga
+\mb 7i n@m-7oy -pa 7@y 7uk -wa
+\sg] y
+persona
+tek-7oy -t@7 -pa ka -7
+persona
+***-ANTIP-querer-INC DCT3-NOM1 persona
+\egl and DO -ANTIP-INC 3E drink-dINC ***-ANTIP-want -INC DCT3-NOM1 person
+DO -ANTIP-INC 3E tomar-dINC
+\zoq 7i_n@mmobay 7ukk@ tekkot@pa ga persona.
+\fts Y lo puede tomar quiere orinar esa persona.
+\fte And he can drink it, that person wants to piss.
+\com
+\idx
+Page 269

@@ -1,0 +1,73 @@
+\eg] UP -hair-paint -COM
+\zoq yukwayk@nhnh@.
+\fts se hizo canosa.
+\fte his hair turns grey.
+\not
+\idx incorp_nom
+\ref ZOH001R020 064
+\_no 00065
+\tx
+\mbk@nh
+k@nhnh@
+bi way jemji7ok
+-wa bi way7 jemji7ok
+\sg] pintar-COM DEF pelo por todo
+\egl paint -COM DEF hair all over
+\zoq K@nhnh@ bi way jemji7ok.
+\fts se hizo cana por todo.
+\fte His hair turns grey all over.
+\not
+\idx
+\ref ZOH001R020 065
+\_no 00066
+\tx 7i de gaji
+7umm@ ney
+\mb 7i de ka -ji7 7umm@ ney
+\sgl y
+de DCT3-LOC1 tal vez mismo
+\egl and of DCT3-LOC1 maybe self die
+\tx 7okkom
+\mb 7ok - kom
+\sg1 ABAJO-remendar
+\egl DOWN -mend
+\ref ZOH001R020 066
+\_no 00067
+d@kka
+d@kkay
+ZOH001R0201001.txt
+NPL
+NPL
+\zoq 7i de gaji7 7umm@ ney kat@xukpa*m tantu 7okkomd@kka.
+\fts y de ahi* quiza*s que ya quiere a morir de tanto viejas.
+\fte And then perhaps they wanted to die from such old age.
+\com
+\idx
+\zoq 7@y yanhwakke7tt@ bi y@ky@kp@7.
+\fts Abrio* la cajita negra.
+\ref ZOH001R020 067
+\_no 00068
+\tx 7@y yanhwakke7tt@
+bi
+y@ky@kp@
+\mb 7@y yak -7anh -wak -ke7t -w@ bi y@k -yak -p@7k
+\sg1 3E CAUS-BOCA -vaciar-REPET-COM DEF tizne-tizne-REL2
+\egl 3E CAUS-MOUTH-empty -REPET-COM DEF soot -soot -REL2
+\fte Then he opened the black one.
+\com
+\idx
+\not ke7t can mean 'next'
+\idx
+kat@xukpa*m
+tantu
+-t@7 -xuk-pa -7am tantu
+morirse-querer-3PL-INC-YA
+tanto
+-want -3PL-INC-NOW_so_much
+ka7
+7ora
+\tx n@mm@ y yanhwak
+\mb n@mm@ 7ay yak -7anh -wak -wa 7ora
+\sg1 PROG 3E CAUS-BOCA -vaciar-dINC ahora
+\eg1 PROG 3E CAUS-MOUTH-empty -dINC now
+\zoq N@mm@y yanhwakk@ 7ora,
+Page 17

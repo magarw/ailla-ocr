@@ -1,0 +1,62 @@
+\DATE 03/Jan/1980
+\lex potz.kuy7 [2]
+\_no 02747
+\LG MIG
+\PHO [potzkuy7]
+\UND potz.kuy7
+\MB cansarse, INSTR1
+\VAR
+\GRAM instr1
+\SPG cansancia
+\ENG tiredness
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT potz
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex potz-tuk. tuk.w@y
+\_no 02748
+\LG MIG
+\PSH [potztuktukw@y-]
+\UND potz-tuk. tuk.w@y
+\MB cansarse, terminarse, terminarse, REDUP2
+\VAR
+\GRAM VİR
+\SCI
+\USE
+\SPG aburrirse o cansarse demasiado
+\ENG to get very bored or tired
+\EXU potz-tuk. tuk.w@y-w@
+\XPSH [Potztuktukw@yy@.]
+\XSP Esta* cansado demasiado.
+\XEN He's very tired.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 potz
+\RTGR 1 12
+\ROOT 2 tuk
+ZOH004R0011001.txt
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS CK-GR - HAJ:96, not the depos way, the redup w@y
+\date 25/Jun/96
+\lex potz@k.j@7
+\_no 02749
+\LG MIG
+\PSH [potz@kj@7]
+\UND potz@k.j@7
+\MB
+\VAR
+\GRAM top
+\SPG Ixtaltepec
+\ENG Ixtaltepec
+\EXU
+\XSP
+\XEN
+Page 1182

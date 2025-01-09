@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [kuyjo7k mako7]
+\UND kuy+jo+7k mako7
+\MB palo, LOC2, REL, cucaracha
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG cucaracha de monte
+\ENG a type of cockroach
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 07/Feb/96
+\lex kuy+jo+7k waya-kuy
+\_no 01612
+\LG MIG
+\PSH [kuyjo7k wayakuy]
+\UND kuy+jo+7k waya-kuy
+\MB palo, LOC2, REL, guaya, palo
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG guaya
+\ENG a type of tree
+SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 07/Feb/96
+\lex kuy+jo' tuni7 kuy
+\_no 01613
+\LG MIG
+\PSH [kuyjo tuni7 kuy]
+\UND kuy+jo7 tuni7 kuy
+\MB palo, LOC2, ciruelo, palo
+\VAR jobo (kuy)
+\GRAM s (ms)
+\SCI
+\USE
+\SPG a*rbol: jobo
+\ENG a type of tree
+\EXU
+ZOH004R0011001.txt
+Page 698

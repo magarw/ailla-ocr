@@ -1,0 +1,62 @@
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {-w@} [4]
+\_no 04522
+\LG MIG
+\PSH
+\UND wa
+\MB NCOM
+\VAR
+\USE inflectional verbal suffix: negative completive
+\GRAM suf
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU 7u_7@m+n@m-w@ mix+ ke yakki' ya mi n@m.jay-w@
+\XPSH [7um n@mm@ mix ke yakki ya min@mjayy@.]
+\XSP No digas que nadie no te dijo.
+\XEN Don't say that nobody told you.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+ZOH004R0011001.txt
+\lex {-w@} [5]
+\_no 04523
+\LG MIG
+\PSH
+\UND wa
+\MB COPT
+\VAR
+\USE inflectional verbal suffix: optative completive
+\GRAM suf
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU n@m-w@ ga 7anh-kim. 7oy-pa+v7k yakk@ nak-w@ kuk
+\XPSH [N@mm@ ga 7anhkimmoba*7 yakn@kk@ kuk.]
+\XSP Dijo aquel comandante que vaya a la mitad.
+\XEN That commander said that they should go to the center.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex %xim F
+\_no_04524
+\LG MIG
+\PSH
+\UND
+Page 1942

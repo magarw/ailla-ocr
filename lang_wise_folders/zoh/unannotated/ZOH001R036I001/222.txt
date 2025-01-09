@@ -1,0 +1,74 @@
+\egl 3E drink-INC 3E boil
+\zoq 7@y 7ukpa, 7@y yumpa, pwes.
+\fts Lo toma, lo hierve, pues.
+\fte one drinks it, well, one boils it.
+\com
+\idx
+\ref ZOH001R036 999-043
+\_no 01027
+\tx 7@y 7ukpa
+\mb 7@y 7uk
+\sg1 3E
+\egl 3E drink-INC
+\zoq 7@y 7ukpa.
+\fts Lo toma.
+\fte She drinks it.
+\com
+\idx
+-ра
+tomar -INC
+\ref ZOH001R036 999-044
+\_no 01028
+\tx sya
+pata
+dolo*r
+dolo*r
+\mb
+si-ya p@7t -A
+\sgl si-NEG pasar-nINC DCT3-NOM1 dolor
+\egl if-NEG pass -nINC DCT3-NOM1 pain
+\com
+\idx
+\zoq sya p@t@ ga dolo*r.
+\fts si no pasa ese dolor.
+\fte If the ache doesn't pass.
+\ref ZOH001R036 999-045
+\_no 01029
+\tx bugambilya
+\mb bugambilya
+\sg1 bugambilia
+\egl bugambilia
+\tx 7@y yumpa
+\mb 7@y yum
+\sg1 3E hervir(se)-INC 3E
+\egl 3E boil
+ga
+ka -7
+ZOH001R0361001.txt
+-INC well
+\tx morradu
+\mb morradu
+\sg1 morado
+\egl purple
+7@y tukke7tpa
+gad@
+-pa 7@y tuk -ke7t -pa ka -da
+\ref ZOH001R036 999-046
+\_no 01030
+\zoq Morradu.
+\fts Morado.
+\fte Purple.
+\com
+\zoq 7@y yumpa, 7@y_tukke7tpa gad@ j@y@, 7oja de bugambilya.
+\fts Lo hierve, vuelve a cortar aquella flor, hoja de bugambilia.
+\fte One boils it, one cuts again that flower, bugambilla leaf.
+\com
+\idx
+jaya
+7oja de
+jaya7
+cortar-REPET-INC DCT3-DEM flor
+7oja de
+hoja de
+-INC 3E cut -REPET-INC DCT3-DEM flower leaf of
+Page 222

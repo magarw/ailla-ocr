@@ -1,0 +1,64 @@
+\PSH [pixi kuy]
+\UND pixi7 kuy
+\MB yuca, palo
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG palo de yuca; mata de yuca
+\ENG cassava tree; cassava shrub
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex pixi '=xox.kuy7
+\_no 02664
+\LG MIG
+\PSH [pixixoxkuy7]
+\UND pixi7 xox.kuy7
+\MB yuca, cocer, INSTR1
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG olla para cocer yuca
+\ENG pot for cooking cassava
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT XOX
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex pix.ney
+\_no 02665
+\LG MIG
+\PSH [pixney-]
+\UND pix.ney
+\MB *encajar, ASSUM1
+\VAR
+\GRAM assum1
+\SCI
+\USE
+ZOH004R0011001.txt
+(en la pared o el suelo, como un clavo)
+\ENG to be pinned or stuck; to get pinned (in the earth or wall, like a
+\SPG estar encajada; encajarse
+nail)
+\EXU
+\XSP
+\XEN
+\SYN
+Page 1147

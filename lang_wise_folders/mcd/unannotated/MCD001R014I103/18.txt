@@ -1,0 +1,49 @@
+186 anoyano ifofo
+ano-ya-no ifo-fo
+LOC-COM-FOC maître-PL
+les maîtres d'ici
+187 onofoya idiquin
+ono-fo-ya i-di-quin
+LOC-PL-COM AUX.INTR-PASL-OST1
+ils se rassemblèrent au loin
+188 ari mana badia
+ari mana badi-a
+LOC plateau << se regrouper »>-ACC
+ils se sont rassemblés sur le lointain plateau
+189 badiafo ifofo
+badi-a-fo ifo-fo
+« se regrouper »-ACC-PL maître-PL
+les maîtres se sont rassemblés
+190 docoyari iquihuui
+doco-ya-ri i-qui-huu-i
+1PERS.PL.A-COM-ITE AUX.INTR-Ø-venir-PROG
+ils se sont joints à nous
+191 uqui huafoquian
+un-qui hua-a-fo-quian
+1PERS.N-DIR CF-ACC-PL-OST2
+ils sont venus à moi et sont repartis
+192 //atoyari ihuodi//
+ato-ya-ri i-huo-di
+3PERS.PL-COM-ITE AUX.INTR-aller-PASL
+je partis avec eux
+193 ////doco dafo ifofo////
+doco da-fo ifo-fo
+1PERS.PL.A DEM-PL maître-PL
+ces maîtres, jusqu'à nous
+194 docoquimu badia
+doco-qui-mu badi-a
+1PERS.PL.A-DIR-EXIST1 «< se regrouper »>-ACC
+ils se sont joint à nous
+195 ///badi badimashori///
+badi badi-ma-shon-ri
+<< se regrouper »>- «< se regrouper »>-CAUS-ACT.ANT-ITE
+ils se sont à nouveau rassemblés, rassemblés
+196 ahuun ohui afodi
+ahuun ohui a-fo-di
+3POSS voix AUX.TR-PL-PASL
+leurs voix se rassemblèrent
+197 ahuun ohui shinadi
+ahuun ohui shina-di
+3POSS voix penser-PASL
+ils pensèrent leurs paroles
+37

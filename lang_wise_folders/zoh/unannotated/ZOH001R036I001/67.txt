@@ -1,0 +1,82 @@
+\sg1 DCT3-NOM1 DEF doler-ANTIP-INC-REL
+\eg1 DCT3-NOM1 DEF hurt -ANTIP-INC-REL
+\zoq Ga bi toyyoba*7.
+\fts Ese es el que duele.
+fte That is what hurts.
+\com
+\idx
+\ref ZOH001R036 311
+\_no 00308
+\tx de7x
+de
+bi tz@kxukpa
+pwes
+\mb te -7xe te -7
+bi tz@k -xuk-pa pwes
+\sg1 DCT2-SIM DCT2-NOM1 DEF hacer-3PL-INC pues
+\eg1 DCT2-SIM DCT2-NOM1 DEF do
+-3PL-INC well
+\zoq De7x de bi tz@kxukpa, pwes.
+\fts Asi* es que se hace, pues.
+\fte well, that's how they do it.
+\com
+\idx
+\ref ZOH001R036 312
+\_no 00309
+\tx GSM: por 7ejemplo tum toya
+\mb GSM
+\sg1 GSM: por
+\eg1 GSM: for
+por 7ejemplo tum toy -A7
+ejemplo
+example one hurt -NOM2 like have_mange -NOM 3
+\ref ZOH001R036 313
+\_no 00310
+ZOH001R0361001.txt
+komo tzitzi7
+komo tzi7tz
+-E7
+uno doler-NOM2 como tener_sarna -NOM3
+\zoq GSM: Por 7ejemplo, tum toya komo tzitzi7,
+\fts GSM: Por ejemplo, una enfermedad como sarna,
+\fte GSM: For example, an illness like mange,
+\com
+\idx
+\tx ti tzoy 7@m tz@kjaba
+\mb ti
+tzoy
+\sg1 que saltar 2E
+\egl what jump 2E do
+para 7@m yaktzokpa
+7@m tz@k -jay -pa para 7@m yak -tzok -pa
+hacer-APPL-INC para 2E CAUS-sanar-INC
+-APPL-INC for 2E CAUS-cure -INC
+\zoq ti tzoy 7@m tz@kjaba
+\fts que remedio le haces
+\fte what medicine do you
+\com
+\idx
+\ref ZOH001R036 314
+\_no 00311
+\tx OSM: de
+\ref ZOH001R036 315
+\_no 00312
+para 7@m yaktzokpa?
+para que lo sanes?
+make to heal it?
+tzitzi7
+tzi7tz
+\mb OSM
+7@y naji
+7@y n@ji
+te -7
+\sg1 OSM: DCT2-NOM1 tener_sarna-NOM3 3E nombre
+\egl OSM: DCT2-NOM1 have_mange -NOM3 3E
+name
+-E7
+\zoq OSM: De tzitzi7 7@y_n@ji,
+\fts OSM: Esa sarna se 11ama,
+\fte OSM: That one it's name is mange,
+\com
+\idx
+Page 67

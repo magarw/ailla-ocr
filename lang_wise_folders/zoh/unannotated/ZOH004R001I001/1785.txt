@@ -1,0 +1,64 @@
+\USE
+\SPG cuello; pescuezo
+\ENG neck
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 02/Nov/94
+\1ex yo7k=jup
+\_no 04153
+\LG MIG
+\PSH [yo7kjup-]
+\UND yo7k=jup
+\MB pescuezo, jalar
+\VAR
+\GRAM vt:incorp
+\SCI
+\USE
+\SPG ahorcar
+\ENG to strangle
+\EXU 7@y+ yo7k=jup-w@ 7@y+win
+\XPSH [7@y yo7kjupp@y win.]
+\XSP se ahorco* e*1
+so*lo.
+\XEN He strangled all by himself.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jup
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yo7k-tunh
+\_no 04154
+\LG MIG
+\PSH [yo7ktunh-]
+\UND yo7k-tunh
+\MB pescuezo, camino
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG garganta; manzana de la garganta
+\ENG throat; adam's apple
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT
+\DSRC HAJ94
+\CMTS
+Page 1785

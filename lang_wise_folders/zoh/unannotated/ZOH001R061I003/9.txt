@@ -1,0 +1,63 @@
+\VAR
+\GRAM med
+\SCI
+\USE
+\SPG brinco
+\ENG a hop
+\EXU tum kek.naanh
+\XPSH [tum kekna*nh]
+\XSP un brinco
+\XEN one hop
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kek
+\RTGR T1
+\DSRC TK94
+\CMTS
+\date 07/Feb/96
+\lex ki7t.naanh
+\_no 00024
+\LG MIG
+\PHO [ki7tna*nh]
+\UND ki7t.naanh
+\MB meter_dedo, MED
+\VAR
+\GRAM meas
+\SPG el tanto (de comida)
+que se puede levantar con un dedo
+\ENG the amount (of food) you can pick up with your finger
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT ki7t
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex kitz.naanh
+\_no 00025
+LG MIG
+\PHO [kitzna*nh]
+\UND kitz.naanh
+\MB enrollar, MED
+\VAR
+\GRAM meas
+\SPG un recogido de la camisa
+\ENG one roll of the sleeve
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT kitz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+ZOH001R0611003.txt
+\lex kokx.naanh
+\_no 00026
+\LG MIG
+Page 9

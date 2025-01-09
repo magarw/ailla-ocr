@@ -1,0 +1,64 @@
+t-ku'=tz
+A3s-SR:para.que-pues A3s-bajar=DIR
+'Para que baje la persona'
+(57) T-u'n-tzan
+(58) tza'n t-teen
+cómo
+'cómo está'
+(59) t-u'n
+t-ku'=tz
+A3s-SR:para.que A3s-bajar-DIR
+'para que baje en el peñasco,'
+(60) milaayx 0=ku'=tz
+NEG
+'no puede bajar’
+(61) ti-t-teen
+(62) t-u'n
+A3s-estar
+qué-A3s-estar
+'que esté'
+(63) N=0=xi
+A3s-SR:para.que
+'para que baje.'
+B3s=bajar=DIR
+(65) n=0=xi
+(64) nn=0=iky'
+t-ki-'n
+xjaal
+INC=B3s=DIR A3s-mirar-SD persona
+'Cuando vio la persona'
+jun k’utz,
+INC=B3s-pasarun zopilote
+'pasó un zopilote,'
+t-ku'=tz.
+A3s-bajar=DIR
+INC=B3s-DIR sonar persona
+'le habló la persona,'
+(66) k'utz 0=chi-tzan
+q’ajt xjaal t-i’j,
+zopilote B3s-decir-pues
+'zopilote, dijo'
+(67) naqat jaka
+?
+(68) xhin
+'que fuera posible (que) usted'
+t-witz
+xaq,
+A3s-sobre peña
+0=b'ant-ta
+t-u'n(=a?)
+se.puede B3s-hacerse=3s A2s-SR:AGT
+xjaal
+persona
+ku'=x t-iiqa-n
+PROX.DEP+Bls DIR=DIR A3s-cargar-SD
+'me cargara'
+(69) chin weeky' t-u'n
+A3s-SR:PAC
+tx'otx',
+A3s-SR:sobre tierra
+'y me bajaras al suelo,'
+n-ku'=pan=a
+Bls 1sPRON A3s-SR:para-que Als-bajar-llegar=1s
+t-witz
+7

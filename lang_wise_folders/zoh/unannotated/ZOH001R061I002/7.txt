@@ -1,0 +1,61 @@
+\CLZ
+\CMTS
+\lex 7un
+\_no 00025
+\SPG engan~ar
+\ENG to deceive
+\SEMF speak, cognitive
+\ASP activity
+\ARG
+\NOM
+\RTGR TX
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex 7u7px
+\_no 00026
+\SPG levantar nubes; nublarse
+ENG for clouds to build up; to get cloudy
+\SEMF nature
+\ASP accomplishment
+\ARG
+\NOM 7ok. 'u7px.@7
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex 7utz
+\_no 00027
+\SPG medir
+\ENG to measure
+\SEMF cognitive
+\ASP achievement
+\ARG
+ZOH001R0611002.txt
+\NOM 7utz.i, 7utz.kuy7, yuk. 7utz.17
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex 7uy
+\_no 00028
+\SPG doblar
+\ENG to bend
+\SEMF arrange
+\ASP achievement
+\ARG
+\NOM 7uy.naanh
+\NOM t@nh.kuy'=7uy. 'oy.kuy7
+\RTGR P (T3)
+\POS rroberto d@ 7uyjayy@n kuy 7okox
+\MID
+\UNDO
+\CLZ
+\CMTS
+Page 7

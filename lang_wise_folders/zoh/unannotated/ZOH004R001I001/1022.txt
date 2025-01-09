@@ -1,0 +1,63 @@
+\USE
+\SPG empatar
+\ENG to tie together
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 wat
+\RTGR 1 P, (T3)
+\ROOT 2 tzonh
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS tie together like the pieces of a broken rope
+\date 19/Jun/96
+\lex ni.way tza7
+\_no 02373
+\LG MIG
+\PSH [niway tza7]
+\UND ni.way.0 tza7
+\MB PURP, moler, NOM6, piedra
+\VAR
+\GRAM svOms
+\SCI
+\USE
+\SPG metate
+\ENG
+\EXU ni.way tza7 7@y+ tzanh.kuy7
+\XPSH [niway tza7 7@y tzanhkuy7]
+\XSP mano de metate
+\XEN handle of a metate
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT way
+\RTGR T1
+\DSRC TK94
+\CMTS
+\date 27/Jan/96
+\lex niwi7
+\_no 02374
+\LG MIG
+\PSH
+\UND niwi7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG chile
+\ENG chile
+\EXU kojtzo niwi7
+\XSP chili shigundo
+ZOH004R0011001.txt
+\EXU jay(a) niwi7
+\XSP chile grande
+\EXU pop (o') niwi7
+Page 1022

@@ -1,0 +1,26 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+Chapter 4: Word Classes
+I define 12 classes of words for MIG Zoque: verbs, nouns, pronouns,
+quantifiers (including numbers), adjectives, deictics, postpositions, adverbs,
+intensifiers, subordinators, modals, and discourse markers. Criteria used for
+determining class membership are either formal or functional.
+The class of verb roots (section 4.1) is determined formally by the affixes
+that are required for these roots to appear in words. Verb roots are not
+considered words, since they never appear without at least minimal inflection
+(section 2.1) and an agreement marker (section 6.2) or a nominalizing affix
+(section 7.2). A verbal word, then, would be a verb stem with the obligatory
+inflection and whatever optional affixes it might have. Verb stems can also be
+formed from nouns and adjectives (section 7.3). A verbal word requires
+marking with one of the agreement markers, which are clitics that lean to the
+left and so form part of the phonological word preceding the verb word. The
+clitic's host word might be a negative or volitive morpheme, which also belongs
+syntactically to the verb phrase. It is clearer and simpler to refer to the whole
+agglomeration (shown in table 2.1) as a verb complex. The term verb stem is
+used in this book to refer to something more than a root but less than a
+complex; for example, a root with a directional prefix would be considered a
+stem.
+The other classes are lexeme classes, some of whose members may be
+monomorphemes and some of which may be derived forms. Functionally,
+nouns (section 4.2), pronouns (section 4.3), quantifiers (section 4.4), and
+deictics (section 4.6) can fill argument roles. The argument structure of verbs
+46

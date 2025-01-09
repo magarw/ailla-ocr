@@ -1,0 +1,86 @@
+\ref ZOH001R036 695
+\_no 00684
+\tx gad@
+\mb
+7alkoljo
+7alko*1-jo7
+\sg1 DCT3-DEM alcohol-Loc2
+\eg1 DCT3-DEM alcohol-LOC2
+\zoq gad@ 7alkoljo,
+\fts en ese alcohol,
+\fte in that alcohol,
+\com
+\idx
+ka -d@
+\ref ZOH001R036 696
+\_no 00685
+\tx gad@
+7alkojo
+tejiwa*m
+ga
+\mb
+ka -d@ 7alko*1-jo7 teji -w@ -7am ka -7
+\sg1 DCT3-DEM alcohol-Loc2 hay
+-COM-YA DCT3-NOM1
+\eg1 DCT3-DEM alcohol-LOC2 there_is-COM-NOW DCT3-NOM1
+\com
+\idx
+\zoq gad@ 7alkojo tejiwa*m ga.
+fts en el alcohol ya esta* eso.
+\fte in that alcohol now that is there.
+\ref ZOH001R036 697
+\_no 00686
+\tx 7a los kinse dia kinanh 7@m_j@xp@kpa
+\mb 7a los kinse
+\sg1 a los quince dia limite 2E
+\egl at the fifteen
+\tx m
+7uk@
+\mb 7@m 7uk
+-A7
+\sg1 2E
+tomar-IMPV
+\egl 2E drink-IMPV
+ZOH001R0361001.txt
+\com
+\idx
+\zoq 7a_los kinse dia kinanh 7am j@xp@kpa, ya_g@ mismo 7oram 7uk@.
+\fts A los quince di*a lo sacas, no la misma lo tomas.
+\fte At the end of fifteen days you take it out, now at that time you drink
+it.
+\ref ZOH001R036 698
+\_no 00687
+\tx myentras ke
+\mb myentras ke
+\sg1 mientras que
+\egl while
+ya
+g@ mismo 7ora
+dia kinaanh 7@m jax -p@k -pa ya g@
+g@ mismo 7ora
+ATRAS-agarrar-INC ya DEM mismo ahora
+day limit 2E BACK -get
+-INC now DEM same now
+mal
+p@7tpa gag@
+p@7t -pa ka -g@ mal
+pasar-INC DCT3-DEM mal
+that pass -INC DCT3-DEM bad
+\ref ZOH001R036 699
+\_no 00688
+\tx gad@
+\mb ka -d@
+\sg1 DCT3-DEM
+\zoq Myentras ke p@7tpa gag@ mal,
+\fts Mientras que pase ese mal,
+\fte while that illness is passing,
+\com
+\idx
+fortalesa 7@y 7anhnitpa bi 7alko*1 7i
+fortalesa 7@y 7anhnit-pa bi 7alko*1 7i
+fortaleza 3E tener -INC DEF alcohol y
+Page 149
+bi
+7ay
+bi 7ay7
+DEF hoja

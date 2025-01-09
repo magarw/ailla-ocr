@@ -1,0 +1,66 @@
+\XEN
+\SYN
+\ROOT jep
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex jepx
+\_no 00742
+\LG MIG
+\PSH
+\UND jepx
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG agarrar con j*icara o palo
+\ENG to scoop up with a dipper or bucket
+\SPL jepx. 7oy
+\SLGR ANTIP
+\SLGL agarrar con ji*cara // to scoop up
+\SPL jepx.7@m
+\SLGR PASS
+\SLGL agarrase con ji*cara // to be scooped up
+\SPL jepx.ney
+\SLGR ASSUM1
+\SLGL estar amontonado (arena o grava); tener embutido la ji*cara
+dentro el agua // to be piled up (sand or gravel); to have the dipper
+positioned in the water, ready to scoop
+\SPL jepx.ten
+\SLGR PRSV
+ZOH004R0011001.txt
+\SLGL tener la ji*cara en el agua // to have the dipper placed in the water
+\EXU 1 7@y+ jepx-w@ bi n@'
+tzima' +j@nanh
+\XPSH 1 [7@y jepx@ bi_n@ tzimaj@nanh.]
+\XSP 1 Agarro* el agua con ji*cara.
+XEN 1 She dipped up the water with a dipper.
+\EXU 2 jepx.7@m-w@ bi na' tzima' +pi7t
+\XPSH 2 [Jepx@mm@ bi na tzimapi7t.]
+\XSP 2 Se agarro* el agua con ji*cara.
+\XEN 2 The water was scooped up with a dipper.
+\SYN
+\SEMF pick_up
+\ASP activity
+\ARG agent, patient
+\NOM jepx.kuy7,
+\SUB 7anh.jepx. '@y,
+\SUB nik. jepx. '@y, yuk.jepx
+\ETYM
+\ETL
+\ROOT jepx
+\RTGR P (T3)
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex jepx.kuy7
+\_no 00743
+\LG MIG
+ni.jepx, y@k.jepx
+7ok.jepx. @y, jo.jepx, j@x-jepx, ko.jepx,
+\PSH [jepxkuy7
+\UND jepx.kuy7
+\MB agarrar_con_ji*cara, INSTR1
+Page 320

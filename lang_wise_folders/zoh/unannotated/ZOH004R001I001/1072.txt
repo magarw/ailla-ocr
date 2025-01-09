@@ -1,0 +1,64 @@
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG tabaco de ri*o; tabaco cimarro*n
+ENG wild tobacco
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS tambien dice otra cosa una planta que nace en las pedras del ri*o
+\date 25/Jun/96
+\lex n@'-win xakaka7
+\_no 02489
+\LG MIG
+\PSH [n@win xakaka7]
+\UND n@7-win xakaka7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG culebra de agua; culebra negra
+\ENG a type of snake
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 23/Dec/95
+\lex n@'-yum.i
+\_no_02490
+\LG MIG
+\PSH [n@: yumi]
+\UND n@7-yum. E
+\MB agua, hervir, NOM7
+\VAR
+\GRAM SV
+\SCI
+ZOH004R0011001.txt
+\EXU
+\XSP
+\XEN
+\USE
+\SPG remolino de agua; borbollo*n de agua
+\ENG fountain of water
+\SYN
+\SEMF
+\ETYM
+\ETL
+LF:tzajin
+\ROOT yum
+\RTGR T2
+Page 1072

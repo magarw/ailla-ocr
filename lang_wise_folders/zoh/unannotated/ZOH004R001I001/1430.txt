@@ -1,0 +1,63 @@
+\EXU 1 7@y+ tze7k.jay-w@ 7@y+ tzanh.kuy7
+\XPSH 1 [7@y tze7kjayy@y tzanhkuy7]
+\XSP 1 Le pidio* la mano.
+\XEN 1 He asked for her hand in marriage.
+\EXU 2_7@y+ tze7k-w@ tum juk.i
+\XPSH 2 [7@y tze7kk@ tum juki.]
+\XSP 2 Pidio* un cigarro.
+\XEN 2 She asked for a cigarette.
+\SYN
+\SEMF speak
+\ASP achievement
+\ARG
+\NOM tze'k.e7
+\SUB 7anh.tze7k. '@y, 7ok.tze7k, 7ok.tze7k.tzi',
+\ETYM
+\ETL
+\ROOT tze7k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex tzem (1)
+\_no 03328
+\LG MIG
+\PSH
+\UND tzem
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG desafiar; provocar; atropellar para pelear; pegar
+\ENG to challenge; to provoke a fight; to hit
+\SLGR NO PASS
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF cognitive
+\ASP achievement
+\ARG
+\NOM
+\SUB_tzi'=tzem
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT tzem
+\RTGR T3
+\DSRC HAJ94
+\CMTS Camilo says this is "una palabra de Santa Mari*a"
+\date 03/Jan/80
+\lex tzem (2)
+\_no 03329
+\LG MIG
+\PSH
+\UND tzem
+\MB
+\VAR
+\GRAM vi
+\SPG orinar
+\ENG to urinate
+\SPL tzem.7oy
+Page 1430

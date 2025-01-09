@@ -1,0 +1,63 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ji7tz
+\RTGR P, (T3)
+\DSRC TK95
+\CMTS
+\date 06/Feb/96
+\lex jo. 7an
+\_no 00806
+\LG MIG
+\PSH [jo7an-]
+\UND jo.7an
+\MB EN, calentarse
+\VAR
+GRAM vt
+\SCI
+\USE
+\SPG calentar un traste
+\ENG to hold a pot over the fire to dry it out so you can put dry stuff in
+it
+\SPL
+\SLGR
+\EXU 7@y+ jo.7an-w@ bi p@'.7oy.kuy7 pa 7@y+ yak.t@tz-w@
+\XPSH [7@y jo7ann@ bi p@7okuy7 pay yakt@tztz@.]
+\XSP Calento* el traste para que lo secara.
+\XEN She heated the pot so it would dry.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7an
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Feb/96
+\lex jo.7e7k
+\_no 00807
+\LG MIG
+\PSH [jo7e7k-]
+\UND jo.7e7k
+\MB EŇ, despizcar_frijol
+\VAR
+\GRAM vt
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG despizcar todo
+\ENG to shell all the beans
+\SPL
+\SLGR
+\EXU 7@y+ jo.7e7k-w@ jemji7
+\XPSH [7@y jo7e7kk@ jemji7.]
+\XSP Lo despizco* todo.
+\XEN She shelled all of them.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7e7k
+Page 351

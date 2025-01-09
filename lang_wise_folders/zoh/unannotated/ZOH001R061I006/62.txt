@@ -1,0 +1,63 @@
+\NOM may. kuy7
+\SUB 7anh.may, 7ix-may, jo.may=yoj, j@x-may, ko.may, nik.may.'@y,
+\SUB wit='anh.may, yuk.may='ok.manh
+\ETYM
+\ETL
+\ROOT may
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex mekx
+\_no 00090
+\LG MIG
+\PSH
+\UND mekx
+\MB
+\VAR
+\GRAM vt, vi
+\SPG medio-cerrar los ojos
+\ENG to nearly close the eyes
+\EXU 7@y+ mekx-w@ 7@y+ wit@m
+\XPSH [7@y mekx@y wit@m.]
+\XSP Medio-cerro* los ojos.
+\XEN She half-closed her eyes.
+\SYN
+\SEMF body
+\ASP achievement
+\ARG
+\NOM mekx.kuy7
+\SUB yuk.mekx
+\ROOT mekx
+\RTGR P, (T1)
+\SPL mekx.ney
+\SLGR ASSUM1
+\SLGL tener medio-cerrado los ojos // to have the eyes half-closed
+\SLGR NO ANTIP
+\SPL mekx.7@m
+\SLGR PASS
+\SLGL medio-cerrarse los ojos // for the eyes to be half-closed
+\SLGR NO PRSV
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex me7kx
+\_no 00091
+\LG MIG
+\PSH
+\UND me7kx
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG abrazar
+ZOH001R0611006.txt
+\ENG to hug
+\SPL me7kx.7oy
+\SLGR ANTIP
+\SLGL abrazar // to hug
+\SLGR NO PASS
+\EXU 1 ney me7kx-xuk-@-wa [RR]
+Page 62

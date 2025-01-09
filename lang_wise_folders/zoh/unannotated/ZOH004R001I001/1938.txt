@@ -1,0 +1,63 @@
+\XEN
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {=tz@k}
+\_no 04513
+\LG MIG
+\PSH
+\UND tz@k
+\MB HACER
+\VAR
+\GRAM
+\SCI
+\USE incorporator used to form Zoque verbs from Spanish verb stems.
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU 1 7u 7@m+ n@m-w@ mix+ ke ya 7@m+ gan=tz@k-A
+\XPSH 1 [7um n@mm@ mix ke yam gantz@:ka.]
+\XSP 1 No digas tu que no vas a ganar.
+\XEN 1 Don't you say that you're not going to earn anything.
+\EXU 2 jam (v)=tz@k-tam-A7 ti 7@n+ tz@k-min-tam-w@
+\XPSH 2 [Jamtz@kta:m@ tin tz@kmintamm@.]
+\XSP 2 Recuerden a que venimos.
+\XEN 2 Remember what we came to do.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 11/Feb/96
+\lex {.way7}
+\_no 04514
+\LG MIG
+\PSH
+\UND way7
+\MB VIV
+ZOH004R0011001.txt
+\VAR
+\USE nominal suffix
+\GRAM suf
+\SPG vivir en; habitante de
+\ENG to live in; inhabitant of
+\SPL
+\SLGR
+\EXU jay (@)=tij-@.way7
+\XPSH [J@ytiway7]
+\XSP Juchiteco
+\XEN Juchitecan
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+Page 1938

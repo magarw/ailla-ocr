@@ -1,0 +1,73 @@
+\zoq yum@ ded@ wakum t@nhtukpa tum pedasu.
+\fts hierve ese guaco cortas un pedaso.
+\fte boil that guaco, you cut it a piece.
+\com
+\idx
+\ref ZOH001R036 917
+\_no 00900
+\tx
+7@m tzatzke7tpa
+\mb 7@m tzatz-ke7t -pa ya
+\sgl 2E rajar-REPET-INC DCT1-SIM uno
+\egl 2E tear -REPET-INC DCT1-SIM one
+\ref ZOH001R036 918
+\_no 00901
+\tx metzanh witupa
+\mb metza*nh
+witu7
+\zoq 7am tzatzke7tpa ye7xe tum@.
+\fts Lo rajas asi* uno.
+\fte You strip it again like this, one.
+\com
+\idx
+\sg1 dos
+\egl two
+regresar-INC
+return -INC
+\zoq Metzanh witupa,
+\fts se vuelve dos pedazos,
+\fte It becomes two pieces,
+\com
+\idx
+kuk -t@nh
+\ref ZOH001R036 920
+\_no 00903
+-ра
+\ref ZOH001R036 919
+\_no 00902
+\tx 7i kukt@w@
+\mb 7i
+\sg] y
+centro-cortar_con_machete-IMPV
+\egl and center-cut_with_machete
+\zoq 7i kukt@w@.
+\fts y cortalo por mitad.
+\fte and cut it in half.
+\com
+\idx
+ye7xe tum@
+-7xe tum@
+\tx 7i
+7i
+\mb 7i
+\sg] y
+\eg1 and INSTR2-get
+y@kp@k@
+yak
+ZOH001R0361001.txt
+bi n@jo
+-p@k -A7 bi n@7 -jo7
+INSTR2-agarrar-IMPV DEF agua -LOC2
+-IMPV DEF water-LOC2
+\zoq 7i y@kp@k@ bi najo.
+\fts Metelo entre el agua.
+\ref ZOH001R036 921
+\_no 00904
+\fte And put it in the water.
+\com
+\idx
+\tx GSM: n@jo
+\mb GSM n@7 -jo7
+-A7
+-IMPV
+Page 195

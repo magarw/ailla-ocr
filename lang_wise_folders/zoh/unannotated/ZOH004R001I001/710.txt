@@ -1,0 +1,62 @@
+\CMTS
+\date 07/Feb/96
+\lex kwarta
+\_no 01642
+\LG MIG
+\PSH
+\UND kwarta
+\MB
+\VAR
+\GRAM med
+\SCI
+\USE
+\SPG cuarta
+\ENG measure of distance between thumb and little finger
+\EXU tum@' kwarta
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 24/Jun/96
+\lex kwerpu xix
+\_no 01643
+\LG MIG
+\PSH
+\UND kwerpu xix
+\MB cuerpo, carne
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG carne del cuerpo
+\ENG flesh of the body
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM cuerpo
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex kwete
+\_no 01644
+\LG MIG
+\PSH
+\UND kwete
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG cohete
+\ENG rocket
+Page 710

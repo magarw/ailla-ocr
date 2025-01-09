@@ -1,0 +1,35 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(vi)
+gadøkka 'ixxoxukpa kwandu nønti'awo
+ga?+dǝkkay 0 ?iš.?oy-šuk-pa
+that+NPL
+(ii)
+kwandu 0 nənti.?a-wə
+3A see.ANTIP-3PL-INC when 3A there isn't.VERS1-COM
+(ZOH001 R028-234)
+'They see when there isn't any."
+The verb root that means 'to hear' is matoŋ-. It occurs only rarely in the
+corpus, but elicitation sessions revealed that the syntax of its use parallels that
+of ?iš-, 'to see'. It can introduce a subordinate clause described the perceived
+event, with or without the borrowed complementizer ke.
+(11.25)
+(i)
+'øn matongngø wannø kamilo
+?ən+ matoŋ-wǝ 0 wan-wə kamilo
+1E+ hear-COM 3A sing-COM camilo
+'I heard Camilo sing.'
+(elicited)
+'øn matongngø ke rroberto ko'kxø 'angmaykuytøkjo'
+?ən+ matoŋ-wa ke rroberto 0 ko?kš-wə
+1E+ hear-COM that roberto 3A snore-COM school+LOC2
+7anmaykuytək+ho?
+'I heard that Roberto was snoring in the schoolhouse.' (elicited)
+11.9.3. Cognition.
+In this section, we look at an assortment of verbs that express cognitive
+events, such as wanting, knowing, and thinking.
+te?- means 'to want'. As an independent root it can be used transitively
+(example i) or to introduce a subordinate clause, with or without ke (ii-iii). te?-
+is most commonly used as the second root in a compound verb construction,
+which will be discussed in chapter 8. In those constructions it means 'to want X
+to V'.
+290

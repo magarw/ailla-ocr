@@ -1,0 +1,63 @@
+\date 28/Jan/96
+\lex ten='anh.wak
+\_no 02977
+\LG MIG
+\PSH [tennanhwak-]
+\UND ten=7anh.wak
+\MB pararse, BOCA, *vaciar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG abrirse de alguien
+\ENG to stand aside
+\SPL
+\SLGR
+\EXU mix+ ten='anh.wak-tam-A7
+\XPSH [Mix tennanhwaktam@7!]
+\XSP !A*branse de mi*!
+\XEN Stand away from me (give me room)!
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 ten
+\RTGR 1 11
+\ROOT 2
+\DSRC HAJ95
+\CMTS CK-all - HAJ:96, fixed; fixed GRAM/TK
+\date 26/Jun/96
+\lex tepesuchi kuy
+\_no 02978
+\LG MIG
+\PSH
+\UND tepesuchi kuy
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+wak
+\SPG palo de tepesuchi
+\ENG a type of tree
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 30/Jun/95
+\lex tepx
+\_no 02979
+\LG MIG
+\PSH
+\UND tepx
+\MB
+Page 1281

@@ -1,0 +1,64 @@
+XEN 2 It's really boiling.
+\EXU 3_7@n+ yum=yoj-w@_
+\XPSH 3 [7@n yumyojj@.]
+\XSP 3 Lo recalente*.
+\XEN 3 I reheated it.
+\SYN
+\SEMF cook
+\ASP process
+\ARG
+\NOM yum.i7
+\SUB y@k.yum
+\ETYM
+\ETL
+\ROOT yum
+\RTGR 11, 12
+\DSRC HAJ94
+\CMTS
+\CMTS CK-GR; v/yum (1)
+\date 03/Jan/80
+\DATE 09/Aug/02
+\lex yumi
+\_no 04327
+\LG MIG
+\PSH
+\UND yumi
+\MB
+\VAR
+\GRAM
+\SCI
+\USE jajtzuku' yumi `ant-hill'
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\KEY
+\DSRC TK96
+\CMTS
+\lex yum=t@tz
+\_no 04328
+\LG MIG
+\PSH [yumt@tz-]
+\UND_yum=t@tz
+\MB hervir, secarse
+\VAR
+GRAM vt
+\SCI
+\USE
+\SPG secar herviendolo
+\ENG to boil dry
+ita.
+\EXU 7@y+ yum=t@tz-w@ 7@n xuyu7
+\XPSH [7@y yumt@tztz@n xuyu7.]
+\XSP Se seco* la lumbre mi olla.
+\XEN It boiled my pot dry.
+ZOH004R0011001.txt
+Page 1858

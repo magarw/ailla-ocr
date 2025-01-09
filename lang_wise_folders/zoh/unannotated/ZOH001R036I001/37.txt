@@ -1,0 +1,75 @@
+\_no 00168
+\tx n@kpa
+n
+\mb nak -pa 7@n
+\sgl irse-INC 1E
+7ixx@
+7ix-w@
+ver-dINC
+\egl go -INC 1E see-DINC
+\zoq N@kpan 7ixx@.
+fts voy a verlo.
+\fte I'll go to see him.
+\com
+\idx
+\ref ZOH001R036 168
+\_no 00169
+\tx 7@n n@mjaba
+xawa toya
+y@7
+\mb 7@n nam -jay -pa xawa toy
+-A7 y@ -7
+\sgl 1E decir-APPL-INC aire doler-NOM2 DCT1-NOM1
+\egl 1E say -APPL-INC wind hurt -NOM2 DCT1-NOM1
+\zoq 7@n n@mjaba xawa toya y@7
+\fts Le digo que es mal aire
+\fte I say to him it's this bad spirit -
+\com
+\idx
+\ref ZOH001R036 169
+\_no 00170
+\tx 7alma 7@y toya
+\mb
+7alma 7@y toy
+-A7
+\sgl alma 3E doler-NOM2
+\egl soul 3E hurt -NOM2
+ZOH001R0361001.txt
+\zoq 7alma 7@y toya.
+fts enfermedad de difunto.
+\fte ghost sickness.
+\com
+\idx
+\ref ZOH001R036 170
+\_no 00171
+\tx 7ay
+\mb hay
+\sg1 hay
+veces 1A buscar-3PL-INC
+\egl there are times 1A look -3PL-INC
+beses d@ me7chukpa
+beses d@ me7tz -xuk-pa
+\zoq 7ay beses d@ me7chukpa.
+\fts Hay veces me buscan.
+\fte Sometimes they look for me.
+\com
+\idx
+\ref ZOH001R036 171
+\_no 00172
+7axta gaja
+bi
+monhnh@ji
+monh -w@ -ji
+\tx mejo*r d@ n@ktampa
+\mb mejor
+\sgl mejor 1A irse-1/2PL-INC hasta DCT3-LOC1 DEF dormir-COM-LOCREL
+\egl best
+-1/2PL-INC until DCT3-LOC1 DEF sleep -COM-LOCREL
+mejor da n@k -tam -pa 7axta ka -ja7 bi
+1A go
+\zoq Mejo*r_d@ n@ktampa 7axta gają bi monhnh@ji,
+\fts Mejor nos vamos hasta alla* donde esta* acostado,
+\fte Better we should go where he's sleeping,
+\com
+\idx
+Page 37

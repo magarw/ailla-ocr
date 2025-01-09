@@ -1,0 +1,63 @@
+\_no 00856
+\LG MIG
+\PSH [jok@x-]
+\UND jo.k@x
+\MB EN, comer
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG comer todo lo que esta* en la traste
+\ENG to eat everything on the plate
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT k@x
+\RTGR T3
+\DSRC HAJ95
+\CMTS CK-PH ok HAJ:96
+\date 18/Jun/96
+\lex jok. (a') n@7
+\_no 00857
+\LG MIG
+\PSH [joka n@7]
+\UND jok.A7 n@7
+\MB ahumarse, NOM2, agua
+\VAR jook n@7
+\GRAM ams
+\SCI
+\USE
+\SPG agua negro, cafe*
+\ENG black water, coffee
+\EXU
+\XSP
+\XEN
+\SYN jok-w@+@7_n@7
+\SEMF
+\ETYM
+\ETL
+\ROOT jok
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 10/Jan/96
+\lex jom
+\_no 00858
+\LG MIG
+\PSH
+\UND jom
+\MB
+\VAR
+\GRAM vt
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG cercar con rama
+\ENG to fence with branches
+Page 373

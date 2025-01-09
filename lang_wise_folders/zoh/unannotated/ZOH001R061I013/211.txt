@@ -1,0 +1,53 @@
+\lex xut
+\_no 02643
+\SPG agujerar; hacer hueco
+\ENG pierce
+\lex xu7t
+\_no 02644
+\SPG hacerse angosto
+ENG
+\lex xu7tz
+\_no 02645
+\SPG liendre
+\ENG
+\lex xuwi7
+\_no 02646
+\LG
+MIG
+\SPG rede
+\ENG net
+\lex xux
+\_no 02647
+\SPG chiflar
+\ENG whistle
+\lex xuy
+\_no 02648
+\SPG pescar con anzuelo
+\ENG fish with a fish hook
+\lex xuyu7
+\_no 02649
+\SPG olla
+\ENG pot
+\lex x@j
+\_no 02650
+\SPG ***
+\ENG ***
+\lex x@j
+\_no 02651
+\SPG pasar el agua
+\ENG ***
+\lex x@j@7
+\_no 02652
+\SPG bastante
+\ENG a_lot
+\lex x@k
+\_no 02653
+\SPG frijol
+\ENG bean
+\lex x@k@k
+\_no 02654
+\SPG quejarse ya para morir
+\ENG
+\1ex x@7kx
+ZOH001R0611013.txt
+Page 211

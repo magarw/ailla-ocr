@@ -1,0 +1,64 @@
+\UND malba tzamm@7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG malva cimarro*n; "monte de malva"
+\ENG a type of plant
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 25/Jun/96
+\lex malditu p@n
+\_no 01853
+\LG MIG
+\PSH
+\UND malditu p@n
+\MB maldito, hombre
+\VAR
+\GRAM ams
+LF:tzamm@7
+\SCI
+\USE
+\SPG pecador; hombre condenado
+\ENG sinner; condemned man
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM maldito
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 17/Jun/95
+\lex mal-toy.a7
+\_no 01854
+\LG MIG
+\PSH [maltoya7]
+\UND mal-toy.A7
+\MB malo, doler, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG enfermedad muy mala
+\ENG a very severe illness
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM mala
+\ETL sp
+ZOH004R0011001.txt
+Page 800

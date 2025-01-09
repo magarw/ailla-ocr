@@ -1,0 +1,62 @@
+\ETL
+\ROOT tzatz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tzaw.e7
+\_no 00340
+\LG MIG
+\PHO [tzawe7]
+\UND tzanh. E7
+\MB pegar_con_pu~no, NOM7
+\VAR
+\GRAM pcp
+\SPG alguien que le pegaron
+\ENG someone who was hit
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT tzanh
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tzaxx@.i
+\_no 00341
+\LG MIG
+\PHO [tzaxx@i]
+\UND tzaxx@.E
+\MB tener_verguenza, NOM7
+\VAR
+\GRAM pcp
+\SPG verguenza
+\ENG shame
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT tzaxx@
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tze7.e
+\_no 00342
+\LG MIG
+\PSH [tze7e]
+\UND tze7. E
+\MB lavar, NOM7
+\VAR
+\GRAM pcp:ya
+\SCI
+\USE
+\SPG esta* lavado
+\ENG something washed
+\EXU tze7.E+7am
+\XPSH [Tze7e*am.]
+\XSP Ya esta* lavado.
+\XEN Now it's washed.
+ZOH001R0611004.txt
+Page 136

@@ -1,0 +1,65 @@
+\EXU 1 t@k+jo+7k tzuk
+\XPSH 1 [t@kjo7k tzuk]
+\XSP 1 rata de la casa
+\XEN 1 house rat
+\EXU 2 kuy+jo+7k_tzuk
+\XPSH 2 [kuýjo7k tzuk]
+\XSP 2 rata de monte
+\XEN 2 field rat
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex tzuki
+\_no 03429
+\LG MIG
+\PSH
+\UND tzuki
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG danta; anteburro; tapir
+\ENG mountain cow; tapir
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF EZ
+LF:7anmal
+\lex tzuki7
+\_no 03430
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\LG MIG
+\PSH
+\UND tzuki 7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+LF:7anmal
+\SPG suegro de mujer
+\ENG father-in-law of a woman
+\EXU 7@n+ tzuki7
+\XPSH [7@n tzuki7]
+\XSP mi suegro
+\XEN my father-in-law
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+ZOH004R0011001.txt
+Page 1475

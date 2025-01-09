@@ -1,0 +1,61 @@
+\XEN
+\ROOT xut T3
+\SEMF create, cut
+\PASS xut.7@m
+\ANTI xut.7oy
+\CMTS
+\1ex xu7t
+\_no 00399
+\SPG hacerse angosto
+\ENG to widen
+\EX
+\XSP
+\XEN
+\ROOT xu7t 12
+\SEMF condition
+\CAUS yak.xu7t
+\CMTS
+\lex xux
+\_no 00400
+\SPG chiflar
+\ENG to whistle
+\EX 7@y xuxjayy@
+\XSP le chiflo*
+\XEN he whistled at someone
+\ROOT Xux Il
+\SEMF speak
+\CMTS
+\lex xuy
+\_no 00401
+\SPG pescar con anzuelo
+\ENG to fish with a fish hook
+\EX koke xuyy@
+\XSP agarro* pescado con anzuelo
+\XEN he fished with a hook
+\ROOT xuy T1
+\SEMF hunt
+\PASS NONE
+\ANTIP NONE
+\PRSV NONE
+\CMTS
+\lex x@j
+\_no 00402
+\SPG pasar el agua
+\ENG for the rain to pass
+\EX X@jjam tuj
+\XSP ya paso* el agua
+\XEN now the rain has passed
+ZOH001R0611010.txt
+\CMTS 7@y 7ixtukk@ yakx@jj@ bi tuj
+\XSP espero que pasa el agua
+\XEN she waited for the rain to pass
+\ROOT X@j Ix
+\SEMF nature, water
+\CAUS yak.x@j (see ex.)
+\CMTS ex is probably yakk@
+\lex x@k@k
+\_no 00403
+\SPG quejarse
+ya para morir
+\ENG to complain - now like you're going to die
+Page 89

@@ -1,0 +1,63 @@
+\EXU_2_xuj.'@m-w@ bi jukut@k
+\XPSH 2 [Xujj@mm@ bi jukut@k.]
+\XSP 2 Soplaron la lumbre.
+\XEN 2 Someone blew on the fire.
+\SYN
+\SEMF body, fire
+\ASP process
+\ARG
+\NOM
+\SUB xuj-tz@y, xuj-xuk. '@y
+ETYM
+\ETL
+\ROOT xuj
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex xut
+\_no 00227
+\LG MIG
+\PSH
+\UND xut
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG agujerar; hacer hueco
+\ENG to pierce; to make a hole
+\SPL xut.7oy
+\SLGR ANTIP
+\SLGL agujerar // to pierce
+\SPL xut.7@m
+SLGR PASS
+\SLGL estar agujerado // to be pierced
+SLGR NO ASSUM1
+\SPL xut.ten
+\SLGR PRSV
+\SLGL_tener agujerado // to have something pierced
+\EXU 7@n+ xut-w@ 7@n+ toto7
+\XPSH [7@n xutt@n toto7.]
+\XSP Hice hoyos en mi papel.
+\XEN I poked holes in my paper.
+\SYN
+\SEMF cut
+\ASP transition
+\ARG
+\NOM nax=xut. 'oy.kuy7
+\SUB
+\ETYM
+\ETL
+\ROOT xut
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+ZOH001R0611006.txt
+\1ex x@7kx
+\_no 00228
+\LG MIG
+\PSH
+Page 153

@@ -1,0 +1,65 @@
+\XSP garza blanca
+\XEN white egret
+\EXU y@k wonhja7
+\XSP garza negra
+\XEN black egret
+\EXU pinta wonhja7
+\XSP garza pinta
+\XEN spotted egret
+\SYN
+\SEMF
+\ETYM EZ
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex woppo7
+\_no 03801
+LF: jon
+\LG MIG
+\PSH
+\UND woppo7 (kuy)
+\MB
+\VAR woppo' kuy
+\GRAM
+\SCI
+\USE
+\SPG (palo de) majagua
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF EB
+LF: kuy
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 11/Feb/96
+\lex wotz
+\_no 03802
+\LG MIG
+\PSH
+\UND wotz
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG cortar con sierra
+\ENG to cut with a saw
+\SPL wotz.7@m
+\SLGR PASS
+\SLGL cortarse // to be cut
+\EXU 1 7@y+ wotz-tuk-w@
+\XPSH 1 [7@y wotztukk@.]
+\XSP 1 Lo corto* con sierra.
+\XEN 1 He cut it with a saw.
+\EXU 2 da wotz-pa
+\XPSH 2 [D@ wotzpa.]
+\XSP 2 Me estoy cortando.
+ZOH004R0011001.txt
+Page 1634

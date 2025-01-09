@@ -1,0 +1,80 @@
+\egl good
+\zoq Bweno.
+\fts Bueno.
+\fte ok.
+\com
+\idx
+\ref ZOH001R044 009
+\_no 00010
+\tx pwes n@kpa*n
+k@xitz@kk@
+\mb pwes n@k -pa -7@n k@x -E
+\sgl pues irse-INC-1E
+\egl well go -INC-1E eat -NOM3-do
+\zoq Pwes n@kpa*n k@xitz@kk@.
+\fts Pues voy a hacer comida.
+\fte well I'm going to make food.
+\com
+\idx
+\ref ZOH001R044 010
+\_no 00011
+\tx k@xtz@k
+\mb
+k@x
+d@x
+-E -tz@k -wa
+d@x
+\sg1 comer-NOM3-hacer-COM 1Prn
+\eg1 eat -NOM3-do
+-COM 1Prn
+\zoq K@xtz@k_d@x.
+\fts Hice comida yo.
+\fte I made food.
+\com
+\idx
+\ref ZOH001R044 011
+\_no 00012
+\tx yey
+d@ tukpa
+\mb ya -y d@ tuk
+-tz@k -w@
+comer-NOM3-hacer-dINC
+\zoq Yey d@ tukpa.
+\fts Ahorita acabo.
+\sg1 DCT1-TMP 1A terminarse-INC
+\eg1 DCT1-TMP 1A finish
+\fte Now I'm finished.
+\com
+\idx
+-pa
+\sg1 decir-COM PAR
+\egl say -COM SEEM
+ZOH001R0441001.txt
+- INC
+\ref ZOH001R044 012
+\_no 00013
+\tx n@mm@
+b@xe de7xe nh
+bin
+\mb n@m -wa b@xe te -7xe-neenh bi -7@n
+-DINC
+\tx n ma7ixxa*m
+\mb 7@n ma
+\sgl 1E
+-7ix-w@ - 7am
+(futuro)-ver-COM-YA
+\egl 1E (future)-see-COM-NOW
+DCT2-SIM-MED DEF-1E
+DCT2-SIM-MEAS DEF-1E
+ma7ixx@,
+ma
+para mas ya
+-7ix-w@ para mas
+ya
+(futuro)-ver-COM para mas NEG
+(future)-see-COM for more NEG
+\zoq Namma b@xe de7xe*nh bin ma7ixx@, para mas yan ma7ixxa*m.
+\fts Dijo parece ese tanto es lo que son~e*, para mas ya no son~i*.
+\fte He said it seems that's all that I dreamed, for I didn't dream more.
+\com
+Page 3

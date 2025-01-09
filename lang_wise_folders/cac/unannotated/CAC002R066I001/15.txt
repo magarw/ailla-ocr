@@ -1,0 +1,38 @@
+xiii
+incorporate adverbials of various sorts.
+vtr (part)
+distinguish
+Some instances of the participles of transitive verbs are so marked, usually to
+them from the similar forms of positional verbs.
+vpo root
+Positional verb roots are not found in underived forms, so they are listed as CVC-,
+vpo root. The following entries give the forms on which this root is proposed. Positionals
+undergo a number of derivational processes (mostly reduplication) that occur with no other form
+class. Many positional roots are homorganic with transitive verb roots and have similar
+meanings, but there are also positional roots that have meanings distinct from those of
+homorganic transitive verbs, and positionals that have no transitive counterpart.
+Semantically, positional roots deal with the specification of shapes, aggregations, and
+other physical features of objects. Two kinds of positionals can be distinguished (but are not
+marked here): distributive positionals describe features distributed across a number of objects;
+non-distributive positionals describe features concentrated on a single object. The contrast
+between these two types can be seen in the derived numeral classifiers, as in the following: cha'
+pilanh lu'um 'two ball-shaped pieces of clay' (distributive); cha' potz'anh lu'um 'two dents in a
+clay object' (non-distributive).
+A notable set of noun phrases built on positional roots and consisting of CVC-u body
+part constitute insults and rude comments with respect to people (or animals) that have
+prominent features, e.g., kechu nhi' 'Flat nose!' If the features noted are plural, the construction is
+CVC-jap' body part, e.g., kech jap' 'ok 'Flat feet!'
+Minor classes
+adj
+Adjectives generally share with nouns inflection for person but not tense/aspect,
+but they have a unique derivation in p'-ih to form intransitive verb stems. A large subset of
+adjectives, those which describe colors, occur with unique derivational suffixes (probably
+positional verbs in origin) to form stems that describe color variants.
+adj implied but not attested (in isolation) Like the similar marking for vtr implied, this
+marking notes that the adjective was not attested in underived form. Most if not all the instances
+are based on forms with -p'-ih suffixes. Others are based on semantics; some derivations overlap
+with vpo, so some of these adj identifications may be in error.
+adv
+A few lexical monomorphemic items are classed as adverbs. The great majority
+of these adverbs are loans from Spanish; native adverb roots probably number fewer than a
+dozen. Other adverbs are derived, usually employing the suffix ok, from verbal constructions,

@@ -1,0 +1,63 @@
+\_no 04111
+\LG MIG
+\PSH
+\UND yanhke7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG gringo
+\ENG person from North America
+\EXU jaya yanhke7
+\XSP gringo
+\XEN
+\EXU yom@ yanhke7
+\XSP gringa
+\SYN
+\SEMF
+\ETYM yankee
+\ETL Sp yanqui; Eng yankee
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 17/Jun/95
+\lex yanh-mak
+\_no 04112
+\LG MIG
+\PSH [yanhmak]
+\UND yanh-mak
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG huerfano
+\ENG orphan
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT %yanh
+\DSRC HAJ94
+\CMTS cf. yaw.a7
+\date 29/Jan/96
+\lex yanh-ti7
+\_no 04113
+\LG MIG
+\PSH [yanhti7]
+\UND yanh-ti7
+\MB OTRO, QUE
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG ajeno; de otro; de la gente
+\ENG another's; of the people
+\EXU
+\XSP
+ZOH004R0011001.txt
+Page 1767

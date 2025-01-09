@@ -1,0 +1,63 @@
+\MB pelo, trenzar, INSTR1
+\VAR
+\GRAM instrl
+\SCI
+\USE
+\SPG listo*n
+\ENG hair ribbon
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pi7t
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex way'=popo7
+\_no 03621
+\LG MIG
+\PSH [waypopo7]
+\UND way'=popo7
+\MB
+\VAR
+\GRAM a:sq
+\SCI
+\USE
+\SPG de pelo blanco
+\ENG white/grey-haired
+\EXU way'=popo'. (7a)-pa+'am
+\XPSH [waypopo7apa*m.]
+\XSP Empieza a tener pelo blanco.
+\XEN She's beginning to have grey hair.
+SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-GR; FIX
+\date 20/Jun/96
+\lex way'=popo'. 7aH
+\_no 03622
+\LG MIG
+\PSH [waypopo7a-]
+\UND way¹=popo'. 7aH
+\MB pelo, blanco, VERS1
+\VAR
+\GRAM vers
+\SCI
+\USE
+\SPG pone*rsele blanco el pelo
+\ENG for the hair to turn white
+\SPL
+\SLGR
+\EXU
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+Page 1556

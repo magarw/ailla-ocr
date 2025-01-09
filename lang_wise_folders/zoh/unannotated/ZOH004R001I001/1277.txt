@@ -1,0 +1,64 @@
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS CK-PH: is teji7aH OK?
+HAJ:96, I get this a lot in texts, all 3:
+\CMTS teji + nothing, teji. 7aH-w@, teji.7aH-pa, all glossed the same
+\CMTS ditto n@nti
+\date 19/Jun/96
+\lex teke7t
+\_no 02968
+\LG MIG
+\PSH
+\UND teke7t
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG ori*n; meados
+ENG urine
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tek
+\DSRC TK94
+\CMTS
+\date 25/Jun/96
+\lex teku
+\_no 02969
+\LG MIG
+\PSH
+\UND teku
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG Zapoteco
+\ENG Zapotec
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC TK94
+\CMTS
+\date 03/Apr/95
+\lex tek. 'oy
+\_no 02970
+\LG MIG
+\PSH [tekkoy-]
+\UND tek. 7oy
+\MB X, ANTIP
+\VAR
+\GRAM vi:antip
+\SCI
+-
+Page 1277

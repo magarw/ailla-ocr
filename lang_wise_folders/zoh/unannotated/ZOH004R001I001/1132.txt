@@ -1,0 +1,63 @@
+\date 16/Oct/94
+\lex pin-yak.yuk. konh
+\_no 02630
+\LG MIG
+\PSH [pinyakyukkonh-]
+\UND pin-yak.yuk.konh
+\MB tentar, CAUS, ARR, gatear
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG despertar por tocarlo
+\ENG to wake by touching
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pin
+\RTGR T3
+\ROOT konh
+\RTGR P (11)
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex pinh
+\_no 02631
+\LG MIG
+\PSH
+\UND pinh
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG pepenar; recoger
+\ENG to pick up; to gather
+\SPL pinh.7@m
+\SLGR PASS
+\SLGL recogerse
+\EXU 1 7@y+ pinh-w@ bi tza7
+\XPSH 1 [7@y pinhnh@ bi tza7.]
+\XSP 1 Recogio* la piedra.
+\XEN 1 She picked up the rock.
+\EXU 2 7@y+ pinh.ten-w@ bi tza7
+\XPSH 2 [7@y pinhtenn@ bi tza7.]
+\XSP 2 Lo recogio* antes.
+\XEN 2 She picked it up earlier.
+\SYN
+ZOH004R0011001.txt
+\SEMF pick_up, hand
+\ASP activity
+\ARG
+\NOM piw.i, pinh.naanh
+\SUB jo.pinh, j@x=pinh, pinh='anh.kuk.'aH, yuk.pinh
+\ETYM
+\ETL
+\ROOT pinh
+\RTGR T3
+\DSRC HAJ94
+Page 1132

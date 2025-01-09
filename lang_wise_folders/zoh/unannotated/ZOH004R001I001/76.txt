@@ -1,0 +1,63 @@
+ZOH004R0011001.txt
+\SPG abrirse (puerta, caja, refresco, cualquiera cosa)
+\SPL ya(k. 7)anh.wak
+\SLGR CAUS
+\SLGL abrir // to open (to cause to open)
+\ENG to open (door, box, soda, whatever)
+\EXU 1 7@y+ k@y.7anh-wak-w@ 7anh=tunh
+\XPSH 1 [7@y k@yy@nhwakk@ 7anhtunh.]
+\XSP 1 Abrio* la puerta.
+\XEN 1 She unlocked the door.
+\EXU 2 7@y yak.k@y=7anh-wak-w@ 7anh=tunh
+\XPSH 2 [7@y yakk@yyanhwakk@ 7anhtunh.]
+\XSP 2 Le hizo que abrira la puerta.
+\XEN 2 He made someone open the door.
+\EXU 3 xanh 7anh=wak-w@ 7anh=tunh
+\XPSH 3 [xanh 7anhwakk@ 7anhtunh.]
+\XSP 3 Se abrio* la puerta con el aire.
+\XEN 3 The wind opened the door.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 7anh=wak
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 09/Jan/96
+\lex 7anh-watzi7
+\_no 00179
+\LG MIG
+\PSH [7anhwatzi7]
+\UND 7anh-watzi7
+\MB BOCA, pelos
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG bigote
+\ENG moustache
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 07/Apr/95
+\lex 7anh-way7
+\_no 00180
+\LG MIG
+\PSH [7anhway7]
+\UND 7anh-way7
+\MB BOCA, pelo
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG pelo de cara (barba o bigote o cualquier)
+\ENG facial hair
+Page 76

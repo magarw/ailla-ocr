@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG dividir; separar
+\ENG to divide; to separate
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 p@k
+\RTGR 1 T3
+\ROOT 2 tuk
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex kuk.tunh. 'aH
+\_no 01530
+\LG MIG
+\PSH [kuktunhnha-]
+\UND kuk. tunh. 7aH
+\MB centro, camino, VERS1
+\VAR
+\GRAM vers1
+\SCI
+\USE
+\SPG caminar al medio camino
+\ENG to walk down the middle of the road
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS gave me kukkina*nh tunhnhaw@ instead (under tunh.7a)
+\date 11/Jan/96
+\lex kuk.t@nh
+\_no 01531
+\LG MIG
+\PSH [kukt@nh-]
+\UND kuk.t@nh
+\MB centro, cortar
+\VAR
+\GRAM dir+vt
+\SCI
+\USE
+\SPG cortar por la mitad
+ENG to cut in half
+\EXU
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT t@nh
+Page 664

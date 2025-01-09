@@ -1,0 +1,62 @@
+\UNDO N
+\CLZ
+\CMTS
+\lex 7ek
+\_no 00009
+\SPG pizcar mazorca
+\ENG to harvest corn
+\SEMF corn, pick
+\ASP activity
+\ARG patient
+\NOM 7ek. kuy7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex 7e7k
+\_no 00010
+\SPG despizcar el frijol
+\ENG to shell beans
+\SEMF pick, farm
+\ASP activity
+\ARG patient
+\NOM ni.7e7k.kuy7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex 7etz
+\_no 00011
+\SPG bailar
+\ENG to dance
+\SEMF move_self
+\ASP activity
+\ARG manner
+\NOM 7etz.e7
+\RTGR T1
+ZOH001R0611002.txt
+\POS NO
+\MID* 7etztz@mm@ - 7etchukk@ (mejor) 'bailaron'
+\MID 7etztz@mm@ gad@ nitum7etze 'bailaron ese tzonh'
+\UNDO NO
+\CLZ si 7etzpa bi7t de yoma*7 da nakpan t@kjonanh
+\CLZ 'si baila esa mujer me voy para la casa
+\CMTS
+\lex 7ex
+\_no 00012
+\SPG encajar
+\ENG to pin
+\SEMF stab
+\ASP achievement
+\ARG instrument
+\NOM ni.7ex.kuy7
+\NOM
+7ex.naanh
+\RTGR P (T3)
+\POS 7@n mama d@ nikkexx@yy@ tum jaya
+\POS mi mama me encajo* una flor en el cabello
+Page 3

@@ -1,0 +1,63 @@
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-a11 - HAJ:96 ok, hard to produce an example/fixed: TK
+\date 26/Jun/96
+\lex tz@k.ja.e
+\_no 00358
+\LG MIG
+\PSH [tz@kja*y]
+\UND tz@k.jay.E
+\MB hacer, APPL, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG brujeri*a
+\ENG witchcraft
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tz@k
+\RTGR 1 T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tz@m.i
+\_no 00359
+\LG MIG
+\PSH [tz@mi]
+\UND tz@m. E
+\MB cargar, NOM7
+\VAR
+\GRAM med
+\SCI
+\USE
+\SPG tercio
+\ENG bale; half a mule load
+\EXU tum tz@mi
+\XSP un tercio
+\XEN one half of a mule load
+SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@m
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS CK-PH
+\date 26/Jun/96
+\lex tz@m.i7
+\_no 00360
+\LG MIG
+\PSH [tz@mi7]
+\UND tz@m. E7
+ZOH001R0611004.txt
+ok/NO, fixed: TK
+Page 143

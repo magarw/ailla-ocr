@@ -1,0 +1,62 @@
+\SPG una devisada
+\ENG a glimpse
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT tun
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex tux.naanh
+\_no 00062
+\LG MIG
+\PHO [tuxna*nh]
+\UND tux.naanh
+\MB picar, MED
+\VAR
+\GRAM meas
+\SPG una picada
+\ENG a peck
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT tux
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex t@nh.naanh
+\_no 00063
+\LG MIG
+\PHO [t@nhna*nh]
+\UND t@nh.naanh
+\MB cortar_c_machete, MED
+\VAR
+\GRAM meas
+\SPG una machetazo
+\ENG one stroke of a machete
+\EX
+\XSP
+\XEN
+\SYN t@nh. 'oy.kuy7
+\ROOT t@nh
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex tzanh.naanh
+\_no_00064
+\LG MIG
+\PHO [tzanhna*nh]
+\UND tzanh.naanh
+\MB pegar_con_pun~o, MED1
+\VAR
+\GRAM meas1
+\SPG pun~azo
+\ENG fistful
+\EX
+ZOH001R0611003.txt
+Page 22

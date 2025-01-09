@@ -1,0 +1,63 @@
+\lex x@j.@7
+\_no 04035
+\LG MIG
+\PSH [x@j@7]
+\UND x@j.A7
+\MB bastante, NOM2
+\VAR
+\GRAM quant
+\SCI
+\USE
+\SPG varios; bastante; mucho
+\ENG several; a lot; many
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS %x@j (2)
+\date 11/Feb/96
+\lex x@ja' ponh
+\_no 04036
+\LG MIG
+\PSH [x@ja ponh]
+\UND_x@j.A7=ponh
+\MB bastante, NOM2, vez
+\VAR
+\GRAM a (m)s
+\SCI
+\USE
+\SPG muchas veces
+\ENG many times
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH; %x@j (2); ANALYZE
+\date 26/Jun/96
+\lex x@j. '@y
+\_no 04037
+\LG MIG
+\PSH [x@jj@y-]
+\UND x@j.7@y
+\MB bastante, V ERS2
+\VAR
+\GRAM vers2
+\SCI
+\USE
+\SPG aumentar] abundar
+\ENG increase
+\EXU 7@y+ yak.x@j.'@y-wa
+\XPSH [7@y yakx@jj@yy@.]
+\XSP Lo aumento*.
+ZOH004R0011001.txt
+Page 1736

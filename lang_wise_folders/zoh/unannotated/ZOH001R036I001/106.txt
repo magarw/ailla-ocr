@@ -1,0 +1,87 @@
+\ref ZOH001R036 494
+\_no 00485
+\tx ga
+\mb ka -7
+kuy naka ga
+kuy naka ka -7
+\sg1 DCT3-NOM1 palo cuero
+\eg1 DCT3-NOM1 tree skin
+\tx yaktzetzjaba
+\mb
+7@y naka
+yak -tzetz -jay -pa
+\sg1 CAUS-labrar-APPL-INC 3E cuero
+7@y naka
+\eg1 CAUS-work -APPL-INC 3E skin
+\ref ZOH001R036 495
+\_no 00486
+\zoq Ga kuy naka ga mer toykuy m yaktzetzjaba 7@y naka.
+\fts Esa ca*scara de palo es bastante mandas a raspar la ca*scara.
+\fte That tree bark, that's really something you get its bark scraped.
+\com
+\idx
+\tx 7@m yakjaxpa
+\mb 7@m yak -jax
+jukut@kjo
+-pa jukut@k-jo7
+\sgl 2E CAUS-asar -INC lumbre -Loc2
+\egl 2E CAUS-roast-INC fire -LOC2
+\zoq 7@m yakjaxpa jukut@kjo.
+fts Lo cuescas en la lumbre.
+\fte You toast it in the fire.
+\com
+\idx
+\ref ZOH001R036 496
+\_no 00487
+\tx gay
+\mb ka
+ke
+-y ke
+ZOH001R0361001.txt
+m
+mer
+meru
+7@m
+DCT3-NOM1 mero
+2E
+DCT3-NOM1 exactly something 2E
+\tx wituwa*m
+\mb witu7
+jaxxa*m
+gay
+jax -w@ -7am ka -y
+-w@ - 7am
+\sg1 regresar-COM-YA
+\egl return
+return -COM-NOW
+toykuy
+toykuy7
+algo
+-jax -E
+\sg1 DCT3-TMP que
+asar -COM-YA DCT3-TMP como tortilla-asar -NOM3
+\eg1 DCT3-TMP that roast-COM-NOW DCT3-TMP like tortilla-roast-NOM3
+\ref ZOH001R036 497
+\_no 00488
+\tx
+7anto
+gam
+po7tpa*m
+\mb 7entonses ka -y -7@m po7t -pa -7am
+\sg1 entonces DCT3-TMP-2E moler-INC-YA
+\egl then
+DCT3-TMP-2E
+grind-INC-NOW
+\zoq 7anto gam po7tpa*m
+\fts Entonces ya lo vas a moler
+\fte Then now you'll grind it
+\com
+\idx
+kom 7anhjaxe
+komo 7ane
+\zoq Gay ke jaxxa*m gay kom 7anhjaxe wituwa*m.
+fts Ya que se tosto* ya se volvio* como totopo.
+\fte Now that it's toasted now it comes out like totopos.
+\com
+\idx
+Page 106

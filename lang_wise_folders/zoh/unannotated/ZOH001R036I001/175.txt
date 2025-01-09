@@ -1,0 +1,89 @@
+ZOH001R0361001.txt
+\mb pitz@m-pa -7am komo kwandu tij-w@ 7@m tzinh
+\sgl salir -INC-YA
+\egl leave -INC-NOW
+\ref ZOH001R036 822
+\_no 00807
+\zoq Pitz@mpa*m kom kwandu tijj@m tziwi*7.
+\fts Ya va saliendo como te fuistes a ban~ar.
+\fte Now it comes out as if you went to bathe.
+\com
+\idx
+\tx 7axta mujpa
+\mb 7axta muj
+-E
+como cuando ir -COM 2E ban*arse-dCOM
+like when go -COM 2e
+m
+tz@kk@
+-pa 7@m tz@k -w@
+\sg1 hasta mojarse-INC 2E
+\egl until get_wet-INC 2E
+\zoq 7axta mujpam tz@kk@m nixuy7.
+\fts Hasta que enmojes tu sa*bana.
+\fte Until you soak your sheet.
+\com
+\idx aux
+\ref ZOH001R036 824
+\_no 00809
+\ref ZOH001R036 823
+\_no 00808
+m
+p@ma
+topa7
+-A
+\tx ya
+gad@
+\mb ya 7@m_p@m
+ka -d@ top
+\sg1 NEG 2A aguantar-nINC DCT3-DEM
+\eg1 NEG 2A bear
+-nINC DCT3-DEM be_hot
+hacer-dINC 2E
+do -DINC 2E
+\ref ZOH001R036 825
+\_no 00810
+\tx teji7aw@
+\mb teji
+\zoq Yam p@ma gad@ topa7 pitz@mpa*7.
+\fts No aguantas ese vapor que va saliendo.
+\fte You can't bear that steam that's coming out.
+\com
+\idx
+m
+nixuy7
+7@m nixuy7
+sa bana
+sheet
+\zoq Gaga joypi7t kwan x@nhkejan@mpa,
+\fts Luego el otro di*a cuando amanece,
+\fte That next day when it dawns,
+\com
+\idx
+m
+kwerpu
+-7a -wa 7@m kwerpu
+\sg1 hay
+\egl there_is-VERS1-COM 2E
+bathe -dCOM
+\tx gag@
+joypi7t kwan x@nhkejan@mpa
+ka
+\mb ka -ga joypi7t kwando x@nh -kej
+-An@m -pa
+\sg1 DCT3-DEM otro_di*a cuando fiesta -verse -INDEF-INC
+\eg1 DCT3-DEM next day when festival-appear-INDEF-INC
+-VERS1-COM 2E cuerpo
+body
+\zoq teji7aw@m kwerpu,
+\fts esta* tu cuerpo,
+\fte it's your body,
+\com
+\idx
+\ref ZOH001R036 826
+pitz@mpa*7
+pitz@m-pa -v7k
+hacer_calor-NOM2 salir -INC-REL
+-NOM2 leave -INC-REL
+-A7
+Page 175

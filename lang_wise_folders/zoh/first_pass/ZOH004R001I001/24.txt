@@ -1,0 +1,62 @@
+\ROOT tzanh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex 7an(e)=mukx.i
+\_no 00054
+\LG MIG
+\PSH [7anemukxi]
+\UND 7an.e=mukx. E
+\MB calentarse, NOM7, X, NOM7
+\VAR 7aan=mukxi
+\GRAM nom:incorp
+\SCI
+\USE
+\SPG tortilla empanada, con algo adentro como queso, frijol, carne,
+pescadito
+ENG folded tortilla filled with something like cheese, beans, meat, fish
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7an
+\RTGR 1 12
+\ROOT 2 * mukx
+\DSRC HAJ94
+\CMTS see mukx.ney 'doblarse'
+\date 24/Jun/96
+\lex 7an(i)maal
+\_no 00055
+\LG MIG
+\PSH
+\UND 7animaal
+\MB
+\VAR 7animaal, 7aanmaal
+\GRAM S
+\SCI
+\USE
+\SPG animal
+\ENG animal
+\EXU 1 jaya 7an(i)maal
+\XSP 1 animal macho
+\XEN 1 male animal
+\EXU 2 yoma 7an(i)maal
+\XSP 2 animal hembra
+\XEN 2 female animal
+ZOH004R0011001.txt
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS equal stress on both syllables
+\date 24/Jun/96
+\lex 7anh=7it
+\_no 00056
+\LG MIG
+Page 24

@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG ir a quebrajar en otro lugar su nixtamal
+\ENG to go somewhere else to grind your nixtamal
+\SPL
+\SLGR
+\EXU nak-w@ 7@y+_jo.ja'p-E 7@y+ pitz. E
+\RTGR [N@kk@y jojapey pitzi.]
+\XSP Fue* a quebrajar en casa de otro el nixtamal.
+\XEN She went to someone else's house to grind her nixtamal.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ja7p
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 06/Feb/96
+\lex jo.jaway
+\_no 00820
+\LG MIG
+\PSH [jojaway-]
+\UND jo.jaway
+\MB EN, arder
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar arder
+\ENG to start to sting
+\SPL
+\SLGR
+\EXU jo.jaway-w@ 7@y+ wak [CK-PH]
+\XPSH [Jojawayy@y wak.]
+\XSP Empezo* arder dentro de sus piernas.
+\XEN His groin started to ache.
+\SYN ka.jaway.7@y
+\SYN ni.jaway
+\SEMF
+\ETYM
+\ETL
+\ROOT jaway
+\RTGR 12
+ZOH004R0011001.txt
+\DSRC HAJ95
+\CMTS 'wak' is the area between the legs that corresponds (roughly) to
+\CMTS the armpit the groin? not in my dictionary, either
+\date 06/Feb/96
+\lex jo.jax
+\_no 00821
+\LG MIG
+\PSH [jojax-]
+\UND jo.jax
+\MB EN, asar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG ir a asar o tostar en otra parte
+\ENG to go roast or bake somewhere else
+\SPL
+Page 357

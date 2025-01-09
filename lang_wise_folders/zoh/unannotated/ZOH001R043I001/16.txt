@@ -1,0 +1,80 @@
+\sg1 1A poner-irse-PAS -1/2PL-INC
+\egl 1A put -go -PASS-1/2PL-INC
+\zoq Da pan@kk@mdampa.
+\fts Nos llevamos.
+\fte we get along.
+\com
+\idx
+\ref ZOH001R043 065
+\_no 00066
+\tx porke neywin 70 sea
+\mb porke neywin 70 sea
+\sg1 porque IPrn o sea
+\egl because IPrn or may_be 1Prn-NPL2 1A sit
+\com
+\idx
+\ref ZOH001R043 066
+\_no 00067
+\zoq Porke neywin 7o sea d@xja*7 d@ tz@ntamm@ dey,
+\fts Porque nosotros o sea nosotros estamos sentados ahora,
+\fte Because we or us we're seated now,
+an~o
+\sg1 pero IPSN
+\egl but IPSN year
+\tx peru neyti* 7amint@ mixja*7 n@mmoba
+\mb
+peru neyti7 7amint@7 mix -jaa7 n@m-7oy
+ZOH001R0431001.txt
+d@xja*7 d@ tz@ntamm@
+d@x -jaa7 d@ tz@n
+-y
+1Prn-NPL2 1A estar_sentado-1/2PL-COM DCT2-TMP
+-1/2PL-COM DCT2-TMP
+\tx tz@ntamm@
+kom juxtixa
+tz@n
+\mb
+-tam -wa komo juxtixa
+\sg1 estar_sentado-1/2PL-dINC como autoridad
+\egl sit
+-1/2PL-dINC like authority
+\ref ZOH001R043 067
+\_no 00068
+\tx ney kumkuy wakxi
+\mb ney kumkuy7 wakxi7
+\sg1 IPrn pueblo chico
+\egl IPrn town small
+\zoq peru neyti*7 7amint@7 mixja*7 n@mmobam tz@ntamm@ komo juxtixa.
+\fts pero algun an~o Uds. van a sentarse como autoridad.
+m
+-pa
+7@m
+2Prn-NPL2 DO -ANTIP-INC 2E
+2Prn-NPL2 DO -ANTIP-INC 2E
+\fte but some year you all will be able to sit as authorities.
+\com
+\idx
+\com
+\idx
+\zoq Ney kumkuy7 wakxi7.
+\fts Nuestro pueblo es pequen~o.
+\fte our town is small.
+\ref ZOH001R043 068
+\_no 00069
+\tx ney kumkuy ya
+\mb ney kumkuy7 ya
+dey
+-tam -w@ te
+para m
+kukp@ktuktamm@
+para 7@m kuk -p@k -tuk -tam -w@
+\sg] IPrn pueblo NEG para 2E
+\egl IPrn town
+NEG for 2E center-get
+centro-agarrar-cortar-1/2PL-nIMPV
+- cut
+\zoq Ney kumkuy7 ya param kukp@ktuktamm@.
+\fts Nuestro pueblo no es para que nos dividamos.
+\fte our town you should not divide.
+Page 16
+-1/2PL-nIMPV

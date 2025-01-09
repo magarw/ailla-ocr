@@ -1,0 +1,63 @@
+\UND k@.7ex=wi tu7
+\MB FUERA, encajar, regresar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG encajar alrededor
+\ENG to pin all around
+\EXU 7@n+ k@.7ex=witu'-pa 7@n+ way7 j@y@+j@nanh
+\XPSH [7@n k@7exwitupan way j@:yj@nanh.]
+\XSP Rodeo mi cabello de flores.
+\XEN I'm pinning flowers all around my hair.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\RTGR
+\DSRC HAJ02
+\CMTS
+\DATE 09/Aug/02
+\lex k@.7ix. '@y
+\_no 01650
+\LG MIG
+\PSH [k@7ixx@y-]
+\UND k@.7ix.7@y
+\MB FUERA, ver, SUF
+\VAR
+\GRAM vt
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG tenerlo visto
+\ENG to confirm the location or availability of something
+\SPL
+\SLGR
+\EXU 7@y+ k@.7ix. '@y-w@+' am bi kuy
+\XPSH [7@y k@7ixx@yya*m bi kuy.]
+\XSP Tiene visto la madera.
+\XEN Now he's checked out the lumber.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 7ix
+\RTGR T3
+\KEY
+\DSRC HAJ95
+\CMTS it like this: you want some lumber, and you think you've seen it
+\CMTS somewhere, so you go see if it's still there and come right back
+\CMTS and they ask you '7@m k@7ixx@yy@' and you say, 'j@, 7an k@7ixx@yy@¹.
+\date 18/Jun/96
+\lex k@.7oj. '@y
+\_no 01651
+\LG MIG
+\PSH [k@7ojj@y-]
+\UND k@.7oj.7@y
+\MB FUERA, toser, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+Page 713

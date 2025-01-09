@@ -1,0 +1,94 @@
+\sg] y venir-INC uno irse-INC 3E len~a
+\egl and come -INC one
+go -INC 3E
+\zoq 7i minpa tum@ n@kpay_k@p7aw@,
+\fts Y viene uno se va a len~ar,
+\ref ZOH001R053 033
+\_no 00034
+\fte And one comes he's going to get firewood,
+\com
+\idx
+\ord v s v
+\zoq 7i tum@y 7ixtukpay jatonh
+\fts
+\tx 7i tum@
+7ixtukpa
+Zay
+\mb 7i tum@7 7@y 7ix-tuk
+\sg] y
+\egl and one
+uno
+3E ver-terminarse-INC 3E
+3E see-finish
+-INC 3E
+y uno espera su papa*
+\fte and one waits for his father
+\com
+\idx
+\ord s v o
+ZOH001R0531001.txt
+\ref ZOH001R053 034
+\_no 00035
+p@kminpa
+p@k
+\idx
+\ord o v
+\tx si 7api
+\mb
+si 7api7
+-min -pa
+\sg] si chayote agarrar-venir-INC o
+\egl if chayote get
+firewood-VERS1-COM
+y jatonh.
+-pa 7@y jatonh
+\ref ZOH001R053 036
+\_no 00037
+\tx 7i.
+\mb 7i
+\sg] y
+\egl and
+70 patanux 7u
+70 patanux 7u
+\zoq si 7api p@kminpa 7o_patanux 7u niwi7.
+\fts si trae chayote o pla*tano o chile.
+\fte if he brings chayote or bananas or chile.
+\com
+\ref ZOH001R053 035
+\_no 00036
+ga
+\tx kay
+n@kpa
+\mb ka
+-y ka -7
+n@k -pa
+\sg1 DCT3-TMP DCT3-NOM1 irse-INC 3E
+\eg1 DCT3-TMP DCT3-NOM1 go -INC 3E
+-VERS1-COM
+papa*
+father
+niwi.
+niwi7
+pla*tano NEGimpv chile
+-come -INC or banana NEGimpv chile
+bi jama.
+\tx yakp@7ttampa
+\mb yak -p@7t -tam -pa bi jama
+\sg1 CAUS-pasar-1/2PL-INC DEF dia
+\eg1 CAUS-pass -1/2PL-INC DEF day
+y ma7@yy@
+7@y ma7 -7@y -wa
+venta-VERS2-dINC
+7itijo
+para
+7it17 -jo7 para
+pueblo-LOC2 para
+sale -VERS2-dINC town -LOC2 for
+\zoq kay ga n@kpay ma7@yy@ 7itijo para yakp@7ttampa bi jama.
+\fts Luego ella va a venderlo en el
+pueblo para que pasemos el di*a.
+\fte Then that one goes to sell in the town so we'll have money for the day.
+\com
+\idx
+\ord S V AV AV
+Page 9

@@ -1,0 +1,51 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(7.16)
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+(vi)
+xomneyyø
+0 šom.ney-wa
+3A jail.ASSUM-COM
+'He was in jail.'
+tømmawon mok 'axta 'apxneyyø
+0 təm.?a-we
+?ən+mok ?asta 0 ?apš.ney-wǝ
+3A fruit.VERS1-COM 1E+ corn until 3A harvest_corn.ASSUM-COM
+'My corn bore fruit until it was hanging down.'
+naxjo pe'tzneyyø
+naš+ho?
+0
+earth+LOC1 3A draw_up_legs.ASSUM-COM
+'She's sitting on the ground with her legs pulled behind her.'
+pe?c.ney-wə
+gaji sol kopak patzneyyø
+ga.hi?
+solo kopak 0 pac.ney-wa
+DCT3.LOC1 only head 3A throw.ASSUM-COM
+'There were just skulls thrown down.'
+jupneyyø tum jupkuy nø'
+0 hup.ney-wə
+tum hup.kuy? nə?
+3A pull.ASSUM-COM one pull.INSTR1 water
+'A bucket of water was drawn.'
+nakxneyyø bi yote'
+0 nakš.ney-we
+bi yote?
+3A hit_w_wood.ASSUM-COM DEF clothes
+'The clothes are hung (on a stake in the wall).'
+(ZOH001R012-334)
+de.?
+(ZOH001R018-167)
+(vii) kojneyyø de kuy yatigøxi
+0 koh.ney-we
+kuy yati?+gəši
+3A punch_hole.ASSUM-COM DCT2.NOM1 tree sweetsop+LOC4
+'That stick is stuck through the sweetsop (fruit).'
+165
+(ZOH001 R018-310)
+The assumptive suffix focusses on the current position of the object in
+question, without expressing how it got into that position. This lack of
+expressed agency distinguishes the assumptive from the perseverative (section

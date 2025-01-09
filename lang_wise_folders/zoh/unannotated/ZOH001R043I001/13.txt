@@ -1,0 +1,83 @@
+\tx neywin 7@n 7ammadampa
+ZOH001R0431001.txt
+kumkuy
+ney
+\mb neywin 7@n 7amma-tam
+wakxinh
+-pa ney kumkuy7 wakxinh
+\sg1 IPrn 1E ver -1/2 PL-INC IPrn pueblo pequen~o
+\egl IPrn 1E see -1/2 PL-INC IPrn town small
+\zoq Neywin 7@n 7ammadampa ney kumkuy7 wakxinh.
+\fts Nosotros vemos nuestro pueblo es chiquito.
+fte We see that our town is small.
+\com
+\idx
+\ref ZOH001R043 052
+\_no 00053
+\tx ya n@mmo
+\mb___ya n@m-7oy -A
+\sg1 NEG DO -ANTIP-NINC 1E
+\eg1 NEG DO -ANTIP-NINC 1E center-get
+\com
+\idx
+\zoq Ya n@mmon kukp@ktuktamm@.
+\fts No podemos dividirnos.
+\fte we can't divide.
+\tx juxtixa
+\mb juxtixa
+\ref ZOH001R043 053
+\_no 00054
+\tx tey
+d@x da
+komo
+d@
+d@x d@ tz@n
+70 d@ p@ktzonhnhoyy@
+70 d@ p@k -tzonh-7oy -wa komo
+\mb te -y
+\sg1 DCT2-TMP 1Prn 1A estar_sentado-COM O 1A agarrar-unir -ANTIP-COM Como
+\eg1 DCT2-TMP 1Prn 1A sit
+-COM or 1A get
+-join -ANTIP-COM like
+\sgl autoridad
+\egl authority
+n
+7@n kuk
+kukp@ktuktamm@
+-p@k -tuk - tam
+-wa
+centro-agarrar-cortar-1/2 PL-dINC
+- cut -1/2PL-DINC
+tz@nn@
+\ref ZOH001R043 055
+\_no 00056
+\zoq Tey d@x da tz@nn@ 7o da p@ktzonhnhoyy@ komo juxtixa.
+\fts Ahora yo estoy en el puesto o recibi* como presidente.
+\fte Now I am seated or I am elected as mayor.
+\com
+\idx
+\ref ZOH001R043 054
+\_no 00055
+\tx mixja*7 ya m
+\mb mix -jaa7 ya 7@m p@k
+p@ktzonhnhodamm@
+-tzonh-7oy -tam -wa
+\sg1 2Prn-NPL2 NEG 2A agarrar-unir -ANTIP-1/2PL-nCOM
+\egl 2Prn-NPL2 NEG 2A get -join -ANTIP-1/2PL-nCOM
+\zoq Mixja*7 yam p@ktzonhnhodamm@,
+\fts Uds. no recibieron,
+\fte You all were not elected,
+\com
+\idx
+\tx pero syempre neywin
+\mb
+-w@
+p@n@kk@mdampa
+p@7 -n@k -7@m - tam -pa
+poner-irse-PAS -1/2PL-INC
+put -go -PASS-1/2PL-INC
+pero syempre neywin
+\sg1 pero siempre IPrn
+\egl but always IPrn
+\zoq pero syempre neywin p@n@kk@mdampa.
+Page 13

@@ -1,0 +1,62 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT top
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\lex jama yop.a7
+\_no 00066
+\LG MIG
+\PSH [jama yopa7]
+\UND jama yop.A7
+\MB sol, hacer_vapor, NOM2
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG vapor del sol
+\ENG vapor from the heat of the sun
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yop
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 14/Jun/95
+\lex jatikx.i
+\_no 00067
+LG MIG
+\PSH [jatikxi]
+\UND jatikx.E
+\MB estornudar, NOM7
+\VAR
+\GRAM SV
+\SPG destornudo
+\ENG sneeze
+\SPL
+\SLGR
+\EXU
+\XPSH
+\XSP
+\XEN
+\SYN
+\SEMF
+\ROOT jatikx
+\RTGR IX
+\DSRC
+\CMTS
+\date 03/Jan/80
+ZOH001R0611004.txt
+\lex jat.@' kuy=wa7tz
+\_no 00068
+\LG MIG
+Page 28

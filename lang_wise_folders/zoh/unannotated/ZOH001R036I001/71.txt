@@ -1,0 +1,88 @@
+\ref ZOH001R036 329
+\_no 00326
+\tx tzajin waxxokuy7
+\mb tzajin wax
+-7oy -kuy7
+\sg] culebra morder-ANTIP-INSTR1
+\egl snake bite -ANTIP-INSTR1
+\zoq tzajin waxxokuy7.
+\fts mordida de culebra.
+\fte snake bite.
+\com
+\idx
+\ref ZOH001R036 330
+\_no 00327
+\tx
+pwes gaji
+7en ga
+\mb pwes ka -ji7 7en ka -7
+7ora
+pwes de7
+7ora pwes te
+naka
+naka
+-7
+\sgl pues DCT3-LOC1 en DCT3-NOM1 ahora pues DCT2-NOM1 palo_colorado cuero
+\egl well DCT3-LOC1 in DCT3-NOM1 now well DCT2-NOM1 red_tree
+skin
+\tx 7@m tzetzpa
+\mb
+7@m tzetz -pa
+labrar-INC
+\sgl 2E
+\egl 2E work -INC
+\zoq Pwes, gaji 7en ga 7ora, pwes, de7 pake naka 7@m tzetzpa.
+\fts Pues, ahi* en ese momento, pues, ese la ca*scara de palo colorado lo
+raspas.
+\fte well, there in that time, well, you scrape that red tree bark.
+\com
+\idx
+\ref ZOH001R036 331
+\_no 00328
+\tx ya kom kwando t@kjo
+\mb ya komo kwando t@k -jo7
+-jo7 7@m teji
+\sg1 NEG como cuando casa -LOC2 2E
+\eg1 NEG like when
+hay
+house-LOC2 2E
+ZOH001R0361001.txt
+\ref ZOH001R036 332
+\_no 00329
+\tx
+7@m_n@kpa
+medikujo
+\mb 7@m n@k -pa
+mediku-jo7
+\sg1 2E irse-INC medico-Loc2
+\egl 2E
+go -INC doctor-LOC2
+\zoq Ya kom kwando t@kjo 7@m teji7aw@, pwes.
+\fts No es como cuando estamos en la casa, pues.
+\fte well, it's not like when you're at home.
+\com
+\idx
+\zoq 7@m n@kpa medikujo.
+\fts vas con el medico.
+\fte You go to the doctor.
+\com
+\idx
+\ref ZOH001R036 333
+\_no 00330
+\tx de gaji
+kom ga
+\mb de ka -ji7 komo ka -7
+7@m teji7aw@
+pake
+pake
+pwes
+-7a -w@ pwes
+-VERS1-COM pues
+there_is-VERS1-COM well
+kuyjo
+kuy -jo
+pwes tzetza
+pwes tzetz -A7
+Page 71
+ded@
+te -da

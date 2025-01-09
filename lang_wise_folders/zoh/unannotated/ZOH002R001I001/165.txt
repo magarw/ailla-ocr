@@ -1,0 +1,41 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(v)
+The idiom cak.?əm-, 'to remain', or 'to be left', accounts for the vast
+majority of passives found in the corpus (examples i and ii, below). It may be a
+calque on the Spanish expression quedarse, 'to stay; to remain'. Another idiom
+that appears to be a calque on a Spanish se expression is pək=nək.?əm-, 'to
+get along', llevarse in Spanish (example iii). pək=nək, 'get=go', is the most
+common way to say 'to take' in MIG Zoque. Literally, the stem would mean 'to
+be taken'. Also note that the construction shown in (iii) is transitive.
+(6.27)
+(i)
+(ii)
+nakxneyyø bi ja:y'une bi møa 'øy wekagøxi
+0 nakš.ney-wa
+bi haya=?une? bi mǝa ?əy+ weka?+gəši
+3A hit_w_wood.ASSUM1-COM DEF male=child DEF deer 3E+ horn+LOC4
+'The boy was stuck spread out on the horns of the deer.'
+(ZOH001R046- 088)
+(iii)
+yøhi tzakkømmø
+yə.hi?
+0 cak.?ǝm-wə
+DCT1.LOC1 3A leave.PASS-COM
+'Here he stayed.'
+(ZOH001R024-276)
+de' para yaktzakkømmø go' kontentu dedø pøn
+para ?əy+yak.cak.?əm-wǝ
+de.?
+goo? kontentu de.də
+рәһ
+DCT2.NOM1 so that 3E+ CAUS.leave.PASS-COM BNF content DCT2.DEM man
+'This is so that man stays happy.'
+(ZOH001R018- 237)
+ya pøknøkkømxukkám bi froylangdøkjønang
+ya ?əy+ pək=nək.?əm-šuk-wǝ+7am bi froylaŋ+dǝkkay+hənaŋ
+NEG 3E+ get=go.PASS.3PL-COM+NOW DEF froylan+NPL+ACC
+'They don't get along with Froylan's people."
+140
+(ZOH001R024-566)
+Finally, there are some T3 verbs allow passives, but the resulting stem
+expresses an idiomatic or more strictly narrowed meaning.

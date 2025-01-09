@@ -1,0 +1,61 @@
+\ASSU kunh.ney estar colgado
+\lex ku7t
+\_no 00128
+\SPG picar pescado
+\ENG for fish to bite
+\EX jakke ku7tpa bi koke
+\XSP pica mucho el pescado
+\XEN the fish are really biting
+\EX tey ya kuta*m
+\XSP ya no pican (el pescado)
+\XEN now they're not biting
+\ROOT ku7t Il
+\CMTS
+\date 20/Mar/96
+\lex kux
+\_no 00129
+\SPG recoger el pie, cuando estar sentado
+\ENG to pull the heel up towards the knee
+\EX 7@y kuxx@ 7@y manhkuy
+\XSP recogio* el pie
+\XEN she pulled her foot up
+\ROOT kux P (TX)
+\SEMF position, body
+\PASS estar recogido (trata tambien de otras cosas, no solo pie)
+\ANTI NONE - no tiene razo*n, no van a entenderse
+\lex k@nh
+\_no 00130
+\SPG cocerse; madurarse; quemarse
+\ENG to cook; to ripen; to burn
+\EX k@nhnha*m
+\XSP ya esta* cocido
+\XEN now it's cooked
+ZOH001R0611010.txt
+\EX 7@y xoxk@nhxukk@
+\XSP ya lo cocieron
+XEN now they've cooked it
+\EX k@nhnham k@xi7
+\XSP ya esta* cocida la comida
+\XEN now the food is cooked
+\EX 7@y yakk@nhnham bi tzamm@*7k manhgo
+\XSP ya se maduro* el mango sazo*n
+\XEN now the wild mango has ripened
+\EX k@nhnham bi yujkuy7
+\XSP ya se quemo* el desmonte
+\XEN now the field has been burned
+\ROOT k@nh 12
+\SEMF cook, condition, fire
+\CAUS yak.k@nh madurar; quemar
+\CMTS se quemo* = se maduro*
+\CMTS subdivide?!
+\CMTS has to do with food that is ready to eat: cooked, ripe,
+\lex k@nh
+\_no 00131
+\SPG pintar
+\ENG to paint
+\EX y@7 p@pi7 da nea7 k@nhpa
+\XSP con esto pinto la pared (entonces, es la brocha)
+\XEN with this X I painted the wall
+\ROOT k@nh T3
+\SEMF affect, condition
+Page 31

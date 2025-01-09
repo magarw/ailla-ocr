@@ -1,0 +1,62 @@
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex xitko7
+\_no 03941
+\LG MIG
+\PSH
+\UND xit-ko7
+\MB moco, X
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG catarro; gripa
+\ENG catarrh; cold
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS ANALYZE; can't do it: TK
+\date 26/Jun/96
+\lex xi7t
+\_no 03942
+\LG MIG
+\PSH
+\UND xi7t
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG lazar; lazar con mecate; enredarse
+\ENG to rope; to get tangled up
+\SPL xi7t.7oy
+\SLGR ANTIP
+\SLGL lazar // to rope
+\SPL xi7t.7@m
+\SLGR PASS
+\SLGL lazarse // to be roped
+\SPL xi7t.ten
+ZOH004R0011001.txt
+\SLGR PRSV
+\SLGL tener lazado // to have something roped
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xi7t
+\RTGR T3, T2
+\DSRC HAJ94
+\CMTS
+\date 20/Jun/95
+Page 1696

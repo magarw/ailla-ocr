@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT tzi7kx
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 20/Oct/94
+\lex yuk.tzux
+\_no 04320
+\LG MIG
+\PSH [yuktzux-]
+\UND yuk.tzux
+\MB ARR, estar_verde
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG reverdecer; ponerse verde
+\ENG to green up again; to turn green
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzux
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 17/Jun/95
+\lex yuk.tz@m.p@'
+\_no 04321
+\LG MIG
+\PSH [yuktz@mp@-]
+\UND yuk.tz@m.p@7
+\MB ARR, cargar, CEL
+\VAR
+\GRAM dir+vt
+\SCI
+\USE
+\SPG cargar ra*pidamente
+\ENG to carry quickly
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@m
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yuk.wat
+\_no 04322
+ZOH004R0011001.txt
+\LG MIG
+\PSH [yukwat-]
+Page 1855

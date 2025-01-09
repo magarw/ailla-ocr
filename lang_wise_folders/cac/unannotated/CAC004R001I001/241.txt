@@ -1,0 +1,49 @@
+VER A THOREAN LANGTEADEQUAR SEM
+NOWAIKA,
+A
+MP
+PS
+SS
+G
+E
+P
+MP
+PS
+SS
+G
+CI
+MP
+PS
+SS
+G
+yámkan xun k'é?en tík #124
+yám-kan xun k'ếên tík
+VP
+Main
+hold-stay one stone here
+stay holding this rock!
+NP
+NP
+obj.
+to čí? ?íxan skót k'é?en #23
+toh čí? ?íx-an c-Ø-kót k'é?n
+NP
+Subj.
+VP
+236
+P péro tík níwan háč ay híp #13.
+péroh tík níw-an-áč ?áy- h-íp
+PP NP
+SP
+SP
+NP
+Intro Pre-Adv Main. Main Subj.
+but here big-*-you be-it your-strength
+Intro
+still there leaning-* present-it-arrive stone
+still
+it leans over towards us
+Main
+E but here you are big
+stone
+you have strength

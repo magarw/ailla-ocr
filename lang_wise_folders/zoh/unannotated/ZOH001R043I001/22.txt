@@ -1,0 +1,84 @@
+\zoq Paja7k n@7 7ukxukk@.
+\fts Tomaron refresco.
+\fte They drank soft drinks.
+\com
+\idx
+pitzenhjo 7awin
+pitzenhjo7 7awin7
+\ref ZOH001R043 092
+\_no 00093
+\tx
+d@kka tzakk@mm@
+kontento
+\mb
+d@kkay tzak -7@m -w@ kontento
+\sg1 por eso
+hermano/a NPL dejar-PAS -COM contento
+\egl because sibling NPL leave-PASS-COM happy
+\zoq Pitzenhjo7 7awind@kkay tzakk@mm@ kontento.
+\fts Por eso los compan~eros quedaron contento.
+\fte That's why the people were left happy.
+\com
+\idx
+\ref ZOH001R043 093
+\_no 00094
+\tx tzunxukpa
+porke ya y
+tzun
+-xuk-pa porke ya 7@y 7anh -7un
+-7@y-xuk-w@
+\mb
+\sgl alegrarse-3PL-INC porque NEG 3E BOCA -engan~ar-SUF-3PL-nCOM
+\egl be happy -3PL-INC because NEG 3E MOUTH-deceive -SUF-3PL-nCOM
+\ref ZOH001R043 094
+\_no 00095
+m@tzixukk@
+\tx ya y
+\mb_ya 7@y m@tzi-xuk-w@
+\sg1 NEG 3E jugar-3PL-nCOM
+\eg1 NEG 3E play -3PL-nCOM
+\zoq Tzunxukpa porke yay 7anhnhunn@xukk@.
+\fts Esta*n alegre porque no los
+engan~aron.
+\fte They're happy because he didn't deceive them.
+\com
+\idx
+\zoq Yay_m@tzixukk@.
+\fts No los jugaron.
+\fte He didn't play with them.
+\com
+\idx
+\ref ZOH001R043 095
+\_no 00096
+\tx 7i dey
+\mb 7i
+\sg] y
+DCT2-TMP 1E
+\eg1 and DCT2-TMP 1E
+ZOH001R0431001.txt
+7@n 7ixtuktampa
+ke
+-tam -pa ke
+ver-terminarse-1/2PL-INC que
+-1/2PL-INC that
+te -y 7@n 7ix-tuk
+see-finish
+7anhnhunn@xukk@
+\tx y@d@
+juxtixa
+\mb ya -d@ juxtixa
+\sg1 DCT1-DEM autoridad
+\eg1 DCT1-DEM authority
+waja
+yakyoxa
+yak -yox
+-A7 waja
+CAUS-trabajar-iOPT bueno
+-iOPT good
+Page 22
+CAUS-work
+\zoq 7i dey 7@n 7ixtuktampa ke yakyoxa waja yada juxtixa.
+\fts Y ahora esperemos que trabaje bien este presidente.
+\fte And now we'll wait and see if he works well, this mayor.
+\com
+\idx

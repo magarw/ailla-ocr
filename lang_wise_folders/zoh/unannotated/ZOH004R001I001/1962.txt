@@ -1,0 +1,62 @@
+\date 03/Jan/80
+\lex {%p@nh}
+\_no 04568
+\LG MIG
+\PHO
+\UND
+\MB
+\VAR
+\GRAM
+\SPG
+\ENG
+\EX
+\XSP
+\XEN
+\SEMF
+\ASP
+\ARG
+\NOM
+\SUB p@nh-j@nh.ney, yuk.p@nh
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex {%tay}
+\_no 04569
+\LG MIG
+\PHO
+\UND
+\MB
+\VAR
+\GRAM
+\SPG
+\ENG
+\EX
+\XSP
+\XEN
+\SYN
+\SEMF
+\ASP
+\ARG
+\NOM
+\SUB tay.na' monh, tay.ney, tay.x@y
+\ROOT * tay
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex {%tek}
+\_no 04570
+\LG MIG
+\PHO
+\UND
+\MB
+\VAR
+ZOH004R0011001.txt
+\GRAM
+\SPG orinar
+\ENG to urinate
+\EX
+\XSP
+\XEN
+Page 1962

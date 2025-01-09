@@ -1,0 +1,96 @@
+\idx
+\ref ZOH001R036 503
+\_no 00494
+\tx
+bweno gay
+\mb bweno ka
+ke
+-Y ke
+\sg1 bueno DCT3-TMP que
+\egl good DCT3-TMP that dry
+\tx y minn@
+7@y min
+\mb
+-wa
+\sgl 3E venir-dINC
+\egl 3E come -dINC
+\ref ZOH001R036 505
+\_no 00496
+\tx 7i
+\mb 7i
+ZOH001R0361001.txt
+t@tztza*m
+t@tz
+\zoq Bweno, gay ke t@tztza*m puro de7xey tz@kjabay minn@.
+\fts Bueno, ya que se seco* puro asi* lo viene curandolo.
+\fte ok, then now that it's dry only like that one comes to cure it.
+\com
+\idx
+\zoq 7axta ke minpa*y w@j@7awa.
+\fts Hasta que viene a sanar.
+\fte Until one comes to heal it.
+\com
+\idx
+puro de7xe
+y tz@kjaba
+-w@ -7am puro te -7xe 7@y tz@k -jay -pa
+hacer-APPL-INC
+do -APPL-INC
+\ref ZOH001R036 504
+\_no 00495
+\tx 7axta ke minpa*
+\mb 7axta ke
+\sg] hasta que
+venir-INC 3E bueno-VERS1-DINC
+Vegl until that come -INC 3E good -VERS1-DINC
+secarse-COM-YA
+waja7aw@
+min -pa 7@y w@ja - 7a
+Zay
+puro DCT2-SIM 3E
+-COM-NOW only DCT2-SIM 3E
+\ref ZOH001R036 506
+\_no 00497
+-pa -7am
+poner-INC-YA
+deji
+tey
+meru
+7erida
+deji
+te -ji7
+-ji7 meru
+te -ji7 te -Y
+DCT2-LOC1 DCT2-TMP DCT2-LOC1 mero
+bi
+bi 7erida
+DEF herida
+\sg] y
+\egl and DCT2-LOC1 DCT2-TMP DCT2-LOC1 exactly DEF wound
+\zoq 7i deji tey deji meru bi 7erida.
+\fts Ahi* esta* mero la herida.
+\fte And there now there exactly is the wound.
+\com
+\idx
+\ref ZOH001R036 507
+\_no 00498
+\tx 7@y p@pam
+de
+\mb 7@y p@7 -pa -7am te -7
+ded@
+\tx 7@y p@pam
+xoj naka
+\mb 7@y p@7
+te -d@ хој naka
+\sgl 3E
+DCT2-DEM palo cuero
+\egl 3E put -INC-NOW DCT2-DEM tree skin
+-wa
+\zoq 7@y p@pam ded@ xoj naka.
+\fts Le echa esa ca*scara de encino.
+\fte Now one puts on that tree bark.
+\com
+\idx
+tampitz
+tampitz
+Page 108

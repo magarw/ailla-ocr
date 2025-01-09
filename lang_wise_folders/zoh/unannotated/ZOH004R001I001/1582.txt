@@ -1,0 +1,62 @@
+\ROOT je7p
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex win-jipx
+\_no 03680
+\LG MIG
+\PSH [winjipx-]
+\UND win-jipx
+\MB CARA, quemarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG quemarse por encima
+\ENG to get burned on the outside
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jipx
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+\lex win+jo7
+\_no 03681
+\LG MIG
+\PSH [winjo7]
+\UND win+jo7
+\MB CARA, LOC1
+\USE locative
+\GRAM av
+\SPG adelante; enfrente de
+\ENG in front of
+\EXU t@k 7@y+ 7anh.tunh win+jo7 ten-w@ bi mixtu7
+\XPSH [T@k 7@y 7anhtunh winjo tenn@ bi mixtu7.]
+\XSP El gato esta* parado en frente de la puerta de la casa.
+\XEN The cat is standing in front of the door of the house.
+\SPL
+\SLGR
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\DATE 03/Jan/1980
+\lex win+jo7+jaa7
+\_no 03682
+ZOH004R0011001.txt
+\LG MIG
+\PHO [winjoja*7]
+\UND win.jo7. jaa7
+Page 1582

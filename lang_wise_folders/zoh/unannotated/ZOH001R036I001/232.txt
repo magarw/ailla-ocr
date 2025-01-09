@@ -1,0 +1,68 @@
+ZOH001R0361001.txt
+\sg1 y DCT1-DEM saltar por ejemplo DCT2-DCT1-NOM1
+\egl and DCT1-DEM jump for example DCT2-DCT1-NOM1
+\zoq 7i y@d@ tzoy por 7ejemplo te y@7.
+\fts Y ese remedio por ejemeplo ese esta.
+fte And that remedy, for example, is this.
+\com <muestra la hoja para aire que
+\idx
+\ref ZOH001R036 999-092
+\_no 01074
+\tx si toypa
+bi7t
+bi7t
+\mb si toy
+-pa
+\sgl si doler-INC SI
+\egl if hurt -INC IF
+\zoq si toypa bi7t,
+\fts Si te duele,
+\fte If it hurts,
+\com
+\idx
+\ref ZOH001R036 999-093
+\_no 01075
+\tx ney y@
+min@
+m p@jay
+\mb ney y@ -7
+min -A7 7@m p@7 -jay -w@
+\sgl mismo DCT1-NOM1 venir-IMPV 2E poner-APPL-DINC
+\egl self DCT1-NOM1 come -IMPV 2E put -APPL-DINC
+\zoq ney ya min@m p@jay.
+\fts esto mismo ven a echarle.
+\fte this same one you come to put in.
+\com
+\idx
+\ref ZOH001R036 999-094
+\_no 01076
+\tx 7@m kowitupa
+jemji7ok 7@m kopak
+\mb 7@m ko -witu7 -pa jemji7ok 7@m kopak
+\sg1 2E SOC-regresar-INC por todo 2E cabeza
+\egl 2E
+SOC-return -INC all over 2E
+head
+\zoq 7@m kowitupa jemji7ok kopak
+\fts Le pones en todo lo que es tu cabeza
+\fte You put it all over your head
+\com
+\idx
+\ref ZOH001R036 999-095
+\_no 01077
+\tx pa ga
+\mb para ka -7
+dolo*r tejiw@*
+dolo*r teji
+-w@ -REL
+\sg1 para DCT3-NOM1 dolor hay
+-COM-REL
+\egl for DCT3-NOM1 pain there is-COM-REL
+\zoq pa ga dolo*r tejiw@*.
+\fts para ese dolor que tiene.
+\fte for that pain that's there.
+\com
+\idx
+\ref ZOH001R036 999-096
+\_no 01078
+Page 232

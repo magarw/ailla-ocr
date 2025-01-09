@@ -1,0 +1,40 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(3.9)
+(i)
+(ii)
+(iii)
+(iv)
+døx 'øn 'oktzammøba
+dəš ?ən+ ?ok.cam.?ǝy-pa
+1 Prn 1E+ DOWN.relate.SUF-INC
+'I tell [the tale].'
+'angmayyobá'
+?aŋ.may.?oy-pa+V?k
+MOUTH.count.ANTIP-INC+REL
+'teacher'
+(ZOH001R045-001)
+mix nømjage'ttampa ke 'angmaytammø ney 'awin'
+miš nəm.hay.ke?t-tam-pa
+ke ?aŋ.may-tam-wǝ
+'un 'okjongngodammø ney 'angpøn
+?u
+?ən+ ?ok.hoŋ.?oy-tam-wǝ
+(lexicon)
+1>2 say.APPL.REPET-1/2PL-INC that MOUTH.count-1/2PL-OPT our brother
+ney ?awin?
+'I say to you again that we should teach our brothers.'
+(ZOH001R057-035)
+38
+ney ?aŋ=pən
+our mouth=man
+(ZOH001 R057-037)
+NEGimpv 1E+ DOWN.get_dizzy.ANTIP-1/2PL-COM
+'Don't let us forget our language.'
+Glide absorption is a variable process, varying according to speaker.
+Three of my male consultants (ages 38-60) always apply the rule; none of the
+other consultants (including other older men) ever did. All the women said '-
+oypa' instead of '-oba'.
+3.3.6. Affrication
+When a verb stem ending with the alveolars /t/ or /c/ is followed by a
+morpheme beginning with /š/ (like the third person plural suffix -šuk), the
+result of the combination is the affricate /č/.

@@ -1,0 +1,63 @@
+\USE
+\SPG pizcarlo todo
+\ENG to harvest everything
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 n@k
+\RTGR 1 IX
+\ROOT 2 7ek
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS
+\date 26/Jan/96
+\lex k@.n@k='e7k. '@y
+\_no 01713
+\LG MIG
+\PSH [k@n@kke7kk@y-]
+\UND k@.n@k=7e7k.7@y
+\MB FUERA, irse, despizcar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG despizcar todo
+\ENG to shell everything
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 n@k
+\RTGR 1 IX
+\ROOT 2 7e7k
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS
+\date 12/Jan/96
+\lex k@.n@k='okx. '@y
+\_no 01714
+\LG MIG
+\PSH [k@n@kkokx@y-]
+\UND k@.n@k=7okx. 7@y
+\MB FUERA, irse, apagarse, SUF
+\VAR
+\GRAM vi
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG apagarse todo [sic] sus luzes
+\ENG for all the lights to go out
+\EXU k@.n@k-'okx. '@y-wa ta7kx.i7
+\XPSH [K@n@kkokx@yy@ ta7kxi7.]
+Page 740

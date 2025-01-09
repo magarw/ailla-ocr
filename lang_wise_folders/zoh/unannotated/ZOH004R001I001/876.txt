@@ -1,0 +1,64 @@
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG revolver; mezclar (no se trata de comida)
+\ENG to stir; to mix (not of food)
+\SPL mot.7oy
+\SLGR ANTIP
+\SLGL revolver // to stir
+\SPL mot.7@m
+\SLGR PASS
+\SLGL revolverse // to be stirred
+\SPL mot.ten
+\SLGR PRSV
+\SLGL tener revolvido // to have something stirred
+\EXU 1 7@y+ mot-w@ bi poe' jam+j@nanh
+\XPSH 1 [7@y mott@ bi poe jamj@nanh.]
+\XSP 1 Revolvio* la arena con cal.
+\XEN 1 She mixed the sand with lime.
+\EXU 2 7alkool 7@y+ mot-w@+'am_n@'+j@nanh
+\XPSH 2 [7alko*1 7@y motta*m_n@j@nanh.]
+\XSP 2 El alcohol ya esta* revuelto con agua
+ya es aguardiente.
+\XEN 2 The alcohol is now mixed with water now it's liquor.
+\SYN
+\SEMF arrange
+\ASP activity
+\ARG
+\NOM mot.e7, mot.naanh
+\SUB
+\ETYM
+\ETL
+\ROOT mot
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex mot.naanh
+\_no 02033
+\LG MIG
+\PHO [motna*nh]
+\UND mot.naanh
+\MB mezclar, MED
+\VAR
+ZOH004R0011001.txt
+\GRAM meas
+\SPG una revolvida; una medida
+\ENG a stir; a measure
+\EXU tum mot.naanh 7ojo7
+\XPSH [tum motnanh 7ojo7]
+\XSP una medida de aguardiente
+\XEN a measure of liquor
+\SYN
+\ROOT mot
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex motz
+\_no 02034
+\LG MIG
+\PSH
+Page 876

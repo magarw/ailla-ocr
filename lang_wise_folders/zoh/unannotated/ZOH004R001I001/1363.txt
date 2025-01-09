@@ -1,0 +1,63 @@
+\SLGL cortarse // to be cut
+\SPL t@nh.ten
+\SLGR PRSV
+\SLGL_tener cortado // to have something cut
+\EXU 7@y+ t@nh.ten-w@
+\XPSH [7@y t@nhtenn@.]
+\XSP Lo tiene cortado.
+\XEN He had it all cut.
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF cut
+\ASP activity, achievement
+\ARG instrument
+\NOM t@nh.kuy7, t@w.i7, y@k.t@nh, t@nh. 'oy.kuy7, t@nh.naanh
+\NOM t@nh.kuy7=7uy. 'oy.kuy7
+\SUB 7ok.t@nh. '@y, jo.t@nh, ko.t@nh, kuk.t@nh, t@nh-muk, t@nh-tuk,
+\SUB t@nh-tzonh, t@nh=wanak
+\ETYM
+\ETL
+\ROOT t@nh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex t@nh.kuy7
+\_no 03169
+\LG MIG
+\PSH [t@nhkuy7]
+\UND t@nh.kuy7
+\MB cortar_con_fierro, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG una cosa de fierro
+\ENG a metal thing
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT t@nh
+\RTGR T3
+ZOH004R0011001.txt
+\DSRC TK96
+\CMTS
+\date 19/Jun/96
+\lex t@nh.kuy' 7alambre
+\_no 03170
+\LG MIG
+\PSH [t@nhkuy 7alambre]
+\UND t@nh.kuy7 7alambre
+\MB cortar_con_fierro, INSTR1, alambre
+\VAR
+\GRAM sms
+Page 1363

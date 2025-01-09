@@ -1,0 +1,61 @@
+\XSP se partio* la naranja
+\XEN the orange was cut in half
+\EX 7anax woxe*7 ma77@ba wake*7
+\XSP venden naranjas pelada partida
+\XEN they sell peeled & cut oranges
+\ROOT wa7k T3
+\SEMF cut, instr
+PASS NONE wa7k.7@m *
+\ANTI wa7k. 7oy
+\CMTS PASS or NONE ?
+\lex wa7kx
+\_no 00149
+\SPG (en) terciar bulto de mai*z, naranja
+\ENG
+\EX
+\XSP
+\XEN
+\ROOT wa7kx P, (T3)
+\SEMF move
+\PASS NONE wa7kx.7@m *
+\ANTI wa7kx.7oy
+\CMTS
+\lex wat
+\_no 00150
+\SPG amarrar; ganar
+\ENG to bind; to earn
+\EX
+\XSP
+\XEN
+\ROOT wat P, (T3)
+\SEMF affect, trade
+\PASS wat.7@m
+\ANTI wat.7oy
+\CMTS
+\lex wax
+\_no 00151
+\SPG morder; mascar
+\ENG to bite
+\EX
+\XSP
+\XEN
+\ROOT wax T3
+SEMF bite
+\PASS NONE
+\ANTI wax.7oy
+\CMTS
+ZOH001R0611009.txt
+\lex wen
+\_no 00152
+\SPG partir
+\ENG to tear in half
+\EX 7@y wenn@ 7ane kukkina*nh
+\XSP partio* la tortilla por la mitad
+\XEN she tore the tortilla in half
+\ROOT wen P, (T3)
+\SEMF cut, hand
+\PASS wen.7@m partirse
+\ANTI wen. 7oy partir
+\ASSU wen.ney estar partido
+\CMTS
+Page 36

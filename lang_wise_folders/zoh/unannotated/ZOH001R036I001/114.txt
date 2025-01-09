@@ -1,0 +1,80 @@
+\tx 7un kwartu 7o komo sea
+\mb 7un kwartu 7o komo sea
+\sg1 un cuarto O
+\egl a
+como sea
+room or how may_be
+\zoq 7un kwartu 70 komo sea.
+\fts En un quarto o como sea.
+\fte A quart or whatever.
+\com
+\idx
+\ref ZOH001R036 532
+\_no 00523
+\tx
+7@m yaktaxpa
+\mb 7@m yak -tax
+\sgl 2E
+\egl 2E CAUS-fill
+-pa
+CAUS-11enarse -INC
+-INC
+\zoq 7@m_yaktaxpa.
+\fts Lo llena.
+\fte You fill it.
+\com
+\idx
+\ref ZOH001R036 533
+\_no 00524
+\tx_mal
+\mb mal
+\sg1 mal
+\egl bad
+\tx ga
+\mb ka -7
+7@m 7anhnitpam
+7@m 7anhnit-pa -7am para
+para kwandu m
+kwandu 7@m ye7tz -jay -pa
+\sg1 DCT3-NOM1 2E tener -INC-YA para cuando 2E 11egar-APPL-INC DCT2-DEM
+ye7tzjaba
+\eg1 DCT3-NOM1 2E have
+-INC-NOW for when 2E
+arrive-APPL-INC DCT2-DEM
+\zoq Ga 7@m 7anhnitpam para kwandum ye7tzjaba ded@ mal,
+\fts Eso ya lo tienes para cuando ya va llegando esa enfermedad,
+\fte Now you have it for when that illness comes on you,
+\com
+\idx
+\ref ZOH001R036 534
+\_no 00525
+\tx
+70 para bi wit@m go7
+\mb 70 para bi wit@m go7
+\sgl o
+BNF
+para DEF ojo
+\egl or for DEF eye
+BNF
+ZOH001R0361001.txt
+\zoq 70 para bi wit@m go7.
+\fts o para el ojo.
+\fte or for the eyes.
+\com
+\idx
+\ref ZOH001R036 535
+\_no 00526
+minpam
+7@m p@jayy@
+7asukar
+\tx gaji
+\mb
+min -pa -7am 7@m p@7 -jay -w@
+7asukar
+\sg1 DCT3-LOC1 venir-INC-YA 2E poner-APPL-dINC azucar
+\eg1 DCT3-LOC1 come -INC-NOW 2E put -APPL-dINC sugar
+\zoq Gaji minpam 7@m p@jayy@ 7asukar.
+ka -ji7
+Page 114
+ded@
+te -da

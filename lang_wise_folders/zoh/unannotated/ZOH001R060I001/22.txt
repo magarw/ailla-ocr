@@ -1,0 +1,89 @@
+\ref 084
+\_no 00085
+\tx 7@n t@k
+\mb 7@n t@k
+teji7aw@
+teji
+hay
+-7a -w@
+\sg1 1E casa
+-VERS1-COM para_arriba
+\egl 1E house there_is-VERS1-COM up there
+\fts mi casa esta* para alla* arriba
+\fte my house is up there
+\com
+\idx
+\com
+\idx
+\ref 085
+\_no 00086
+\tx 7@n t@k teji7aw@
+teji
+\mb
+7@n t@k
+\sgl 1E casa hay
+DCT3-LOC1 para_abajo
+\egl 1E house there_is-VERS1-COM DCT3-LOC1 down_there
+\fts mi casa esta* alla* bajito
+\fte my house is down there
+\ref 087
+\_no 00088
+-7a -w@
+-VERS1-COM
+\fts mi casa esta* alla* abajo
+\fte my house is down below
+\com
+\idx
+\ref 086
+\_no 00087
+\tx 7@n t@k
+teji7aw@
+\mb 7@n t@k
+teji
+\sgl 1E casa hay
+\egl 1E house there_is-VERS1-COM below
+\ref 088
+\_no 00089
+\tx 7@n t@k
+\mb 7@n t@k
+\tx 7@n t@k
+7@n t@k
+\mb
+\sgl 1E
+casa
+\egl 1E house there_is-VERS1-COM
+teji7aw@
+teji
+hay
+-7a -w@
+-VERS1-COM
+ZOH001R0601001.txt
+\fts mi casa esta* por ahi*
+\fte my house is over there
+\com
+\idx
+teji7aw@
+teji
+k@x@nanh
+k@x@nanh
+deje*nh
+-7a -wa te -jeenh
+-VERS1-COM
+\sg1 1E casa hay
+\egl 1E house there_is-VERS1-COM
+gaja
+ka -ja7
+\fts mi casa esta* por alla*
+\fte my house is over there
+k@j@*nh
+k@jaanh
+debajo
+gaja*nh
+-7a -wa ka -jaanh
+-VERS1-COM DCT3-DIR1
+DCT3-DIR1
+DCT2-DIR1
+DCT2-DIR1
+k@j@nanh
+k@j@nanh
+Page 22

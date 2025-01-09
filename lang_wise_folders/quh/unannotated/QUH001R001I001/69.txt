@@ -1,0 +1,48 @@
+Muchos préstamos evidencian también reordenamientos semánticos ligados a dominios
+o actividades específicas donde se puede observar una complementariedad semántica con las
+expresiones propiamente quechuas. Así "trabajar” alude a las actividades laborales urbanas,
+mientras que "llank'ay", el término quechua equivalente, restringe actualmente su referencia
+al trabajo agrícola. En el mismo sentido, el término "q'uncha" refiere al fogón (forma
+tradicional de cocer los alimentos), mientras que "cocina" alude al artefacto de gas.
+El siguiente ejemplo (parte de una entrevista semi-dirigida) muestra cómo el orden de
+los constituyentes también se ve alterado por el contacto. En la línea 1 el hablante (T), que
+había respondido en español a la pregunta del investigador, respeta el orden prototípico de esta
+lengua a pesar de que ya había realizado el cambio de código hacia el quechua: ordena los
+constituyentes según “pronombre-verbo-locativo". Sin embargo, en la línea 2, que resulta una
+repetición (en el nivel semántico) de la línea 1, el hablante re-acomoda los constituyentes
+según el orden básico del quechua: LOC -V (locativo-verbo). Dicho orden se mantiene en las
+líneas siguientes (3) y (4).
+(4)
+PD: y ahora: en quechua nos podés contar algo:?
+T: sí/ sí/ por qué no: /eh::
+//
+1. noqa jamu-rqa-ni kay-man/ eh:
+1S
+venir-PAS-1S LOC-DIR
+2. kay-man jamu-rqa-ni e: //
+LOC-DIR venir-PAS-1S
+3. ochenta y cinco wata-piña /
+ochenta y cinco año-NUM
+4. chay-manta ripu-sqa-ni jamu-sqa-ni //
+DEM-ABL ir-PAS/HAB-1S venir-PAS/HAB-1S
+'yo vine acá / eh:
+(5) `ishkiná-ta muyu-yku-ni
+esquina-AC girar-DIR/INDUCT-1S
+(cuando)giro (doy vuelta) la esquina'
+acá vine eh: //
+69
+en el año ochenta y cinco
+después me iba y volvía'
+En el nivel prosódico, lo más frecuente es que el elemento léxico del español sea
+adaptado o “nativizado” (Hill y Hill 1986) al patrón fonológico (vocálico, consonántico,
+silábico, rítmico, retórico) del quechua. En el siguiente fragmento de canción, “esquina”, que
+es una palabra grave, cuando es incorporada al texto quechua desplaza el acento principal a la
+anteúltima sílaba de la palabra morfológica -de la que los sufijos forman parte-: ish.ki.na.ta,
+teniendo acento secundario en la primera sílaba.
+A continuación, (5) y (6) muestran la incorporación del préstamo al molde rítmico de
+la frase fonológica del quechua. En ella, la distribución del acento es influenciada fuertemente
+por el factor ritmo (tal como lo teorizan Hayes 1995, entre otros), es decir, donde la asignación
+acentual diseña una estructura métrica pareja que tiende a regularizar la aparición del acento,
+su frecuencia e intensidad. Tal como lo desarrollo y analizo en el capítulo 5, la figura métrica
+del quechua se compone sobre un "troqueo silábico". Es decir, su metro está conformado por
+constituyentes prosódicos mínimos o "pies" (f) formados por dos sílabas (o): la primera

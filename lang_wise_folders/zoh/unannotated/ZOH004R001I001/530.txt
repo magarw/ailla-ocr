@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ka'
+\RTGR 12
+\DSRC HAJ94
+\CMTS {tzok} here does not mean
+suffixoid
+\date 07/Feb/96
+\lex ka'-w@+@7k
+\_no 01218
+\LG MIG
+\PSH [kaw@*7k]
+\UND ka7-w@ +P@7k
+\MB morirse, COM, REL
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG cada*ver; muerto
+\ENG cadaver; corpse
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ka7
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex ka'-w@+a7k 7@y+ jay@7
+\_no 01219
+LG MIG
+\PSH [kaw*7k 7@y jay@]
+\UND ka'-w@ +P@7k 7@y+ j@y@7
+\MB morirse, COM, REL, 3Erg, flor
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG flor de muerto
+\ENG flower of the dead
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ka7
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 11/Jan/96
+\lex ka'-w@+@7k 7@y+ monh.kuy7
+\_no 01220
+ZOH004R0011001.txt
+sanar' seems to be an inflexional
+Page 530

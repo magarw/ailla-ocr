@@ -1,0 +1,64 @@
+\GRAM sms
+\SCI
+\USE
+\SPG cedro
+\ENG cedar
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Nov/94
+LF: kuy
+\lex maxan mama
+\_no 01913
+\LG MIG
+\PSH
+\UND maxan mama
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG madre sagrada
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex maxan tak
+\_no 01914
+\LG MIG
+\PSH
+\UND maxan t@k
+\MB
+\VAR
+\GRAM a/sms
+\SCI
+\USE
+\SPG iglesia; capilla
+\ENG church; chapel
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 21/Jun/95
+ZOH004R0011001.txt
+Page 825

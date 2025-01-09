@@ -1,0 +1,63 @@
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 12/Feb/96
+\lex yuch. Hi'=tz@k
+\_no 04202
+\LG MIG
+\PSH [yuchchitz@k-]
+\UND yuchchi7=tz@k
+\MB delgado, HACER
+\VAR yuchi-tz@k
+\GRAM vt
+\SCI
+\USE
+\SPG adelgazar
+\ENG to make thin
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS yuch. Hi7=tz@k
+\date 12/Feb/96
+\lex yuj
+\_no 04203
+\LG MIG
+\PSH
+\UND yuj
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG rozar
+\ENG to raze
+ZOH004R0011001.txt
+\SPL yuj.7@m
+\SLGR PASS
+\SLGL rozar // to raze (impersonal)
+\SPL yuj.ten
+\SLGR PRSV
+\SLGL tener rozado // to have cleared
+\SLGR NO ASSUM1
+\EXU 7@y+ yuj-w@ bi yuj.kuy7
+\XPSH [7@y yujj@ bi yujkuy7.]
+\XSP Rozo* el desmonte.
+\XEN He cleared the field.
+\SYN
+Page 1805

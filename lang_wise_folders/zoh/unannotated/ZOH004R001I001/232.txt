@@ -1,0 +1,63 @@
+XEN He pried open his door.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7@7p
+\RTGR 1 P (T3)
+ROOT 2 7anh=wak
+\RTGR 2 12
+\DSRC HAJ95
+\CMTS
+\date 09/Jan/96
+\lex 7@7tz
+\_no 00537
+\LG MIG
+\PSH
+\UND 7@7tz
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG vomitar; "regresar"
+\ENG to vomit
+\SPL yak.7@7tz
+\SLGR CAUS
+\SLGL hacer vomitar // to make vomit
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF eat, body
+\ASP achievement
+\ARG
+ZOH004R0011001.txt
+\NOM 7@'tz.i7, j@x.'@7tz.i7
+\SUB 7ok. 7@7tz.7@7tz.w@y, 7ok. '@7tz. '@y, j@x='@7tz, j@x='@7tz.i7,
+\SUB nik. '@7tz.'@y, yuk.7@7tz
+ETYM
+\ETL
+\ROOT 7@7tz
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex 7@w.i7
+\_no 00538
+\LG MIG
+\PSH [7@wi7]
+\UND 7@nh.E7
+\MB caer, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG fruta que se cayo* del a*rbol
+\ENG fallen fruit
+\EXU 1 ban 7@w.i7
+\XPSH 1 [Ban 7@wi7.]
+\XSP 1 Cayo* bastante.
+\XEN 1 A lot fell down.
+\EXU 2 ban 7@w.E' t@m
+Page 232

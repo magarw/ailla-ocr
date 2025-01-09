@@ -1,0 +1,61 @@
+SEMF speak
+\PASS NONE tzem.7@m *
+\ANTI tzem. 7oy vi orinar; v/tzem (2); get deriv's
+\CMTS
+\lex tzenh
+\_no 00304
+\SPG estar de lado
+\ENG to be on one side
+\EX
+\XSP
+\XEN
+\ROOT tzenh IX, P
+\SEMF position
+\CAUS yak.tzenh ponerse de lado
+\CMTS
+\lex tzetz
+\_no 00305
+\SPG labrar
+\ENG to plane
+\EX
+\XSP
+\XEN
+\ROOT tzetz T3
+\SEMF cut, affect
+\PASS tzetz.7@m
+\ANTI tzetz.7oy
+\CMTS
+\lex tzi
+\_no 00306
+\SPG pegar; dar
+\ENG to hit; to give
+\EX ney tzi7oyy@
+\XSP 1o regalo*
+\XEN she gave it as a gift
+\EX tam tzi7oyy@
+\XSP dio* fruta
+\XEN it bore fruit
+\EX 7@y tziw@ jemji*7
+\XSP repartio* para todos
+\XEN he shared it with everyone
+\EX ti p@pi7t mi tziw@ ?
+\XSP con que te pego ?
+\XEN what did he hit you with ?
+\ROOT tzi T3
+\SEMF hit, trade
+\PASS NONE tzi.7@m *
+\ANTI tzi.7oy
+\CMTS
+ZOH001R0611010.txt
+\lex tzij
+\_no 00307
+s\SPG tirar piedra; tirar y pegar con piedra
+\ENG to throw a rock; to throw and hit with a rock
+\EX 7@y tzijj@ bi yoya
+\XSP pego el marrano (con piedra)
+\XEN he hit the pig (with a rock)
+\EX 7@n tzijj@ n manhkuy kuypi7t
+\XSP machuque* mi pie con palo
+\XEN I crushed my foot with a stick
+\ROOT tzij T3
+Page 69

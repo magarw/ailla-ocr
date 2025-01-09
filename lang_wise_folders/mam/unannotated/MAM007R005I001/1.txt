@@ -1,0 +1,75 @@
+Mam - 5
+(1) t-i'j
+(2)
+(3)
+A3s-SR:tema
+'Sobre un sueño'
+At=0
+jun witziky'
+un sueño
+jun n-witziky'=a_s=ook
+EXIST=B3s un Als-sueño=1s PROX.DEP+A3s=entrar
+qoniiky'an.
+(7)
+maaky'
+desde.hoy noche
+'Anoche tuve un sueño.'
+0=ab'=xa at=iin=a
+B3s=oir-? EXIST=B1s=1s
+'Estaba en la orilla de un rio.'
+(5) Naqpa
+(4) N=chin kyiixhan-a t-uj
+chi'l tzi
+jun
+INC=B1s pescar=1s A3s-SR:en canasta A3s+SR:orilla un
+tal
+a'.
+pequeño rio
+'Estaba pescando con un canasto en un rio pequeño.'
+0=0=xi'
+n-b'i-'n=a
+(6) Qo naaj-al
+tzi
+jun_ a'.
+A3s+SR:orilla un rio
+de.repente CPL.DEP=B3s-DIR
+s-aaj
+q'ajt jun
+PROX.DEP+B3s=DIR sonar un
+'De repente escuché una voz.'
+Als-escuchar-DS=1s
+wib'aj.
+VOZ
+q'ooy, qo
+B1p terminar-POT vos Blp
+0=chi.
+B3s=dice
+'Nos vamos a morir, nos vamos a morir, dijo.'
+0=0=xi'
+n-ki-'n=a
+naal
+(10) 0=ab'=xa xhiin=x
+CPL.DEP=B3s=DIR Als-ver-SD=1s
+'Lo miré, nadie estaba.'
+terminar+POT VOS
+q'ooy 0=ab'=xa
+B3s=oir-?
+(8) Noqpa
+tii' ajuun jun tal
+xu'j w-uuk'al=a.
+de.repente ? ? un pequeño mujer Als-SR:COM=1s
+'De repente me acompañaba una señorita.'
+tz'iinan=0.
+no.está=B3s
+(9) Kyee'x 0=0=kii-n
+jun
+tal
+xu'j.
+bonito CPL.DEP=B3s=mirarse-AP un pequeño mujer
+'La joven era muy bonita.'
+B3s=oir-? PROX.DEP+B1s=siempre
+'Yo le hablé.'
+q'ajt=a
+t-i'j.
+sonarse=1sA3s-SR:dativo
+2

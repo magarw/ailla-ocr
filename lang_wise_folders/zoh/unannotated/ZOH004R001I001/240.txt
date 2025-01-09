@@ -1,0 +1,63 @@
+\_no 00556
+\LG MIG
+\PSH [bejchay@kk@x]
+\UND bescha yak.k@x.0
+\MB caballo, INSTR2, Comer, NOM6
+\VAR
+GRAM SVO
+\SCI
+\USE
+\SPG pesebre
+\ENG manger
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM bestia
+\ETL Sp
+\ROOT k@x
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 08/Jan/96
+\lex bens (e)=tz@k
+\_no 00557
+\LG MIG
+\PSH [bensetz@k-]
+\UND bense=tz@k
+\MB vencer, HACER
+\VAR benhs=tz@k
+\GRAM vt
+\SCI
+\USE
+\SPG vencer
+\ENG to win; to conquer
+\SPL yak.benhs=tz@k
+\SLGR CAUS
+\SLGL vencer // to conquer
+\EXU 7@y+ yak.benhs-tz@k. 7oy-w@
+\XPSH [7@y yakbenhstz@kkoyy@.]
+\XSP Lo vencio*.
+\XEN He conquered them.
+\SYN
+\SEMF
+ETYM vencer
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 08/Jan/96
+\lex bentana
+\_no 00558
+\LG MIG
+\PSH
+\UND bentana
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+ZOH004R0011001.txt
+Page 240

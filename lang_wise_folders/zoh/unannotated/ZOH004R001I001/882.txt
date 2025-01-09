@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT muk
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\CMTS caus2 yak+ muk dejar caer
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex mukx.ney
+\_no 02045
+\LG MIG
+\PSH [mukxney-]
+\UND mukx.ney
+\MB X, ASSUM1
+\VAR
+\GRAM vi:assum1
+\SCI
+\USE
+\SPG estar doblado; doblarse
+\ENG to be folded; to fold (by itself)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * mukx
+\RTGR P
+\DSRC TK94
+\CMTS
+\date 21/Jun/95
+\1ex_mukx=wanak
+\_no 02046
+\LG MIG
+\PSH [mukxwanak-]
+\UND mukx=wanak
+\MB X, bajar
+\VAR
+\GRAM vt+dir
+\SCI
+\USE
+\SPG bajar la falda del sombrero
+\ENG to turn down the brim of your hat
+\EXU 7@y+ mukx=wanak-w@ 7@y+ ko.jap
+\XPSH [7@y mukxwanakk@y kojap.]
+ZOH004R0011001.txt
+\XSP Bajo* la falda de su sombrero.
+\XEN He turned down the brim of his hat.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 * mukx
+\RTGR 1 P
+\ROOT 2 wanak
+\RTGR 2 11
+\DSRC TK94
+\CMTS CK-GR, get deriv's; %mukx does not occur without %wanak.
+\date 25/Jun/96
+Page 882

@@ -1,0 +1,63 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex jut@@nh
+\_no 00968
+\LG MIG
+\PSH [jut@*nh]
+\UND juteenh
+\MB
+\VAR juteenh
+\GRAM int
+\SPG por donde; en cual direccio*n
+\ENG towards where; in what direction
+\SPL
+\SLGR
+\EXU 1 jut@@nh 7@m+ n@k-pa
+\XPSH 1 [Jut@*nh 7@m n@kpa?]
+\XSP 1 Por donde vas?
+\XEN 1 where are you going to?
+\EXU 2 jut@@nh n@k-pa 7@m+ tzinh-wa: w@t(i) pajak+jo7 70
+xek pajak+jo7
+\XPSH_2_[Jut@nh n@kpam tzinhnh@: w@t_pajakjo 70 xek pajakjo??]
+\XSP 2 ?Por donde vas a ban~ar: en el rio grande o en el ri*o chico?
+\XEN 2 where are you going to bathe: in the big river or in the little river?
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\DATE 15/Aug/02
+\lex ju7t
+\_no 00969
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+\UND ju7t
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG remover
+\ENG to stir
+\SPL ju7t.7oy
+\SLGR ANTIP
+\SLGL remover // to stir
+\SLGR NO PASS
+\SPL ju7t.ten
+\SLGR PRSV
+\SLGL tener puesto el palo, listo para moverlo // to have the stick in the
+pot, ready to stir
+\EXU 1 7@y+ ju7t-w@ bi 7uk. E
+Page 424

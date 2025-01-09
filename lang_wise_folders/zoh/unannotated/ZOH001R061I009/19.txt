@@ -1,0 +1,62 @@
+\XEN
+\ROOT mu7k T3
+\SEMF eat
+\PASS NONE mu7k.7@m
+ANTI mu7k.7oy
+\CMTS
+\lex mux
+\_no 00074
+\SPG saber
+\ENG to know
+\EX jak muxxoba
+\XSP sabe mucho
+\XEN she knows a lot
+\ROOT mux T3
+\SEMF cog
+\CAUS yak.mux publicar to reveal
+\PASS mux.7@m
+se supo"
+\ANTI mux. 7oy
+\CMTS
+aprender
+\XSP
+\XEN
+\lex m@k
+\_no 00075
+\SPG mezclar; formar en un molde; hacer tamalito
+\ENG to mix; to make a mold; to make tamales
+\EX
+\ROOT m@k P (T3)
+\SEMF move, affect
+\PASS m@k.7@m moltearse
+\ANTI m@k.7oy
+\ASSU m@k.ney estar mezclado
+\lex m@7k
+\_no 00076
+\SPG exprimir (como queso); orden~ar
+\ENG to wring (like cheese); to milk
+\EX
+\XSP
+\XEN
+\ROOT m@7k T3
+\SEMF
+\PASS NONE m@7k.7@m *
+VANTI m@7k.7oy
+\CMTS
+ZOH001R0611009.txt
+\lex m@x
+\_no 00077
+\SPG tener asco a*; tenerle asco
+\ENG to be disgusted; to have nausea
+\EX 7okm@:xin
+\XSP da asco
+\XEN it makes you sick
+ROOT m@x T3
+\SEMF sickness
+\PASS NONE m@x.7@m *
+\ANTI m@x.7oy tenerle asco
+\CMTS
+\lex naka7tz
+\_no 00078
+\SPG planchar; machucar; aplastar
+Page 19

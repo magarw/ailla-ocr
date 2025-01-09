@@ -1,0 +1,64 @@
+\SLGR PASS
+\EXU 1 7@n+ nuk. pak-pa
+\XPSH 1 [7@n nukpakpa.]
+\XSP 1 Lo agarro fuerte.
+\XEN 1 I grasp it firmly.
+\EXU 2 nuk. '@m-w@ bi koke
+\XPSH 2 [Nukk@mm@ bi koke.]
+\XSP 2 Agarraron el pescado.
+\XEN 2 They grabbed the fish.
+\EXU 3 7@y+ nuk.ten-w@ bi koke
+\XPSH 3 [7@y nuktenn@ bi koke.]
+\XSP 3 Tiene agarrado el pescado.
+\XEN 3 He's got the fish caught in his hand.
+\SYN
+\SEMF hand, carry
+\ASP achievement
+\ARG
+\NOM nuk.i7, koke-nuk. kuy7
+\SUB_7in=win-nuk, 7ix=7ok. poy-nuk, 7ok.nuk-tzak. '@y, 7ok.nuk.'@y,
+\SUB 7ok.poy-=nuk, jonh-nuk, ko.jup=nuk, ko.nuk. 'oy, ma7tz=nuk,
+\SUB mi7tz-nuk, nem-nuk, nuk.pak, pen=nuk, po7tz-nuk,
+\SUB ti7kx=7ok.poy=nuk
+\ETYM
+\ETL
+\ROOT nuk
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex nu7kx
+\_no 00119
+ZOH001R0611006.txt
+\LG MIG
+\PSH
+\UND nu7kx
+\MB
+\VAR
+\GRAM vt
+\SPG tener abrazado con una mano; arrullar
+\ENG to hug or hold someone with one arm; to cuddle
+\EXU 1 7@n+ nu7kx.ten-pa tum tzanh.kuy+pi7t
+\XPSH 1 [7@n nu7kxtenpa tum tzanhkuypi7t.]
+\XSP 1 La tengo abrazado con una mano.
+\XEN 1 I'm hugging her with one arm.
+\EXU_2_mix ko.nu7kx.jay-w@ 7@n+ manak y@7 komaxan_7@y+
+win+jo7
+\XPSH 2 [Mix konu7kxja*n manak y@ komaxan 7@y winjo.]
+\XSP 2 Habla el santo que cuida a mi hija (que le de una buena suerte).
+\XEN 2 She speaks to the saint on behalf of my daughter.
+\SYN
+\SEMF hand, touch
+\ASP state
+\ARG instrument
+\NOM nu7kx.kuy7
+\SUB ko.nu7kx
+\ROOT nu7kx
+\RTGR T3
+\SPL nu7kx. 7oy
+\SLGR ANTIP
+\SLGL abrazar con una mano // to hug with one arm
+\SPL nu7kx.7@m
+\SLGR PASS (indef)
+Page 81

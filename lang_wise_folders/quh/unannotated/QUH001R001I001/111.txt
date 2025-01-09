@@ -1,0 +1,52 @@
+qhujcha mayu qhawa-ri-spa//
+lago
+río
+comenzando a mirar el río Cojcha
+mirar-INC-SUB/SIM/SS
+warmi-ta muna-na
+mujer-AC querer-CONCR
+(es) amante de la mujer
+ka-sha-n/
+ser-PROGR-3S/PRES
+watu-ri-spa
+sunqu-nchis-ta
+corazón-1 PL/INCL-AC descifrar-INC-SUB/SIM/SS/PROX
+preguntando a nuestro corazón
+wañu-jti-n
+wañu-pulla-y-taj
+morir-SUB/SEQ/DS/OBV-3S morir- ir-INF/IMP-CONTR/ENF
+si él muere, vos (también) vas a morir pues
+kawsa-lla-nki-taj
+kawsa-jti-n
+vivir-SUB/SEQ/DS-3S vivir-INTEN/AFEC-2S/FUT-CONTR/ENF
+si él vive, vos vas a recibir vida pues
+pi-pis
+may-pis
+muna-su-jti-n
+aquí-CONJ/ADIT ADV/dónde-ADIT querer-20-SUB/SEQ/DS-3S
+y aquí y en cualquier parte (que) te quiera
+kuti-chi-pulla-y-taj
+sunqu-n
+corazón-POS3 retornar-CAUS/OBLIG-ir-INF- CONTR/ENF
+tenés que (ir a) devolverle su corazón'
+111
+Los sufijos -spa y −jti señalan, sintácticamente, al verbo marcado (con la presencia del
+sufijo) como dependiente y, semánticamente, lo muestran como modificador de naturaleza
+adverbial en relación con el verbo principal. Dichos morfemas se ubican, por lo tanto, siempre
+al final de la cláusula. Si buscamos definir si se trata de sufijos verbales o clausales, por lo
+menos desde un punto de vista morfológico la marcación de concordancia personal que
+aparece junto al sufijo -jti de forma obligatoria nos inclina a definirlos como categorías
+verbales. Como se observa en el ejemplo (30), la cláusula que controla constituye la cláusula
+que sigue a la marcada. En todos los casos, la cláusula que controla es, desde un punto de vista
+sintáctico, la cláusula matriz.
+Siguiendo el patrón más extendido entre lenguas con marcación de núcleo final, en
+quechua el verbo principal se puede flexionar a través del paradigma entero de categorías
+temporales mientras que el verbo dependiente posee limitaciones de flexión (característica
+común a los verbos medios en encadenamientos clausales). Lo mismo sucede, como se
+observa en los ejemplos del apartado anterior, en la nominalización.
+Como se muestra en (30) los verbos de la cláusula marcada poseen, en el nivel
+funcional del seguimiento referencial, morfología de switch-reference: -spa o SS / -jti o DS. 138
+es extraño) como “qhari phuyu": nube de hombre (o con forma de hombre), realizando un re-análisis de la forma
+según su background y los recursos lingüísticos que domina.
+138 Presenté un análisis del fenómeno de switch-reference en quechua boliviano en "Sistema de cambio de
+referencia (switch-reference) en Quechua. Aproximación gramatical y discursiva." Trabajo supervisado por

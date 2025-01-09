@@ -1,0 +1,62 @@
+\ENG (to be) chopped
+\SPL
+\SLGR
+\EXU
+\XPSH
+\XSP
+\XEN
+\SYN
+\SEMF
+\ROOT yu7p
+\RTGR P (T3)
+\DSRC HAJ97
+\CMTS
+\date
+\lex yu'p.i7
+\_no 04340
+\LG MIG
+\PHO [yupi7]
+\UND yu7p.E7
+\MB picar, NOM7
+\VAR
+\GRAM pcp
+\SPG picado
+\ENG minced
+\EXU xix yu'p.i7
+\XPSH [xix yupi7]
+\XSP carne picada
+\XEN minced meat
+\SYN
+\ROOT yu7p
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex ya@k
+\_no 04341
+LG MIG
+\PSH
+\UND yak
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG tizne
+\ENG soot
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex y@k koke
+\_no 04342
+\LG MIG
+ZOH004R0011001.txt
+Page 1864

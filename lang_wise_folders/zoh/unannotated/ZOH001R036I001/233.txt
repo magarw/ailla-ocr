@@ -1,0 +1,75 @@
+\tx GSM: junanh 7@y naji de
+\mb GSM junanh 7@y n@ji te -7
+\sg1 GSM: como 3E nombre
+\eg1 GSM: how 3E name
+\zoq GSM: Junanh 7@y n@ji de 7ay?
+\fts GSM: Como se llama esa hoja?
+fte GSM: what is the name of that leaf?
+\com
+\idx
+\ref ZOH001R036 999-097
+\_no 01079
+\tx
+\mb OSM
+xawa 7ay
+te -7
+xawa 7ay7
+\sg1 OSM: DCT2-NOM1 aire hoja
+\eg1 OSM: DCT2-NOM1 wind leaf
+OSM: de
+\zoq OSM: De xawa 7ay.
+\fts OSM: De hoja para aire.
+\fte OSM: That's wind leaf.
+\com
+\idx
+\ref ZOH001R036 999-098
+\_no 01080
+\tx GSM: xawa 7ay
+\mb GSM
+xawa 7ay7
+\sg1 GSM: aire hoja
+\egl GSM: wind leaf
+\zoq GSM: Xawa 7ay.
+\fts GSM: Hoja para aire.
+\fte GSM: wind leaf.
+\com
+\idx
+\ref ZOH001R036 999-099
+\_no 01081
+ZOH001R0361001.txt
+7ay
+7ay7
+DCT2-NOM1 hoja
+DCT2-NOM1 leaf
+\tx OSM: 7oja jaya
+\mb OSM 7oja jay@7
+\sg1 OSM: hoja flor
+\egl OSM: leaf flower
+\zoq OSM: 7oja jaya.
+fts OSM: La flor de ichachi.
+\fte OSM: Flower leaf.
+\com
+\idx
+\ref ZOH001R036 999-100
+\_no 01082
+\tx si 7@m mukk@
+7@m pak
+\mb si 7@m muk -wa
+7@m pak
+-wa
+\sg1 si 2E caerse-COM 2A hueso zafarse-COM 2E
+\egl if 2E fall -COM 2A bone get_out-COM 2E
+\tx pakkitt@
+\mb pak -kit
+\sg1 hueso-quebrar-COM
+\egl bone -break -COM
+-w@
+yonn@
+yon
+7@m tzanhkuy 70 7@m
+7@m tzanh-kuy7 70 7@m
+pegar-INSTR1 o
+2A
+hit -INSTR1 or 2A
+\zoq si 7@m mukk@, 7@m pakyonn@ 7@m tzanhkuy 70 7@m pakkitt@,
+Page 233

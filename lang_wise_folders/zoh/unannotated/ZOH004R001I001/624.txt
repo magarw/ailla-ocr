@@ -1,0 +1,62 @@
+\ROOT pup
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 12/Aug/94
+\lex ko.pu'
+\_no 01434
+\LG MIG
+\PSH [kopu-]
+\UND ko.pu7
+\MB OTRO, deshacer
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG desatar
+ENG to untie
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pu7
+\RTGR TX
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex kopya=tz@k
+\_no 01435
+\LG MIG
+\PSH [kopyatz@k-]
+\UND kopya=tz@k
+\MB copiar, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG copiar
+\ENG to Copy
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM copiar
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex ko.p@k
+\_no 01436
+\LG MIG
+\PSH [kop@k-]
+\UND ko.p@k
+\MB OTRO, agarrar
+\VAR
+ZOH004R0011001.txt
+Page 624

@@ -1,0 +1,65 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7uk
+\RTGR 1 T1
+\ROOT 2 jey
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex 7uk-(@)-t@'
+\_no 00494
+\LG MIG
+\PSH [7uukt@-]
+\UND 7uk-A-t@7
+\MB tomar, querer
+\VAR
+\GRAM vt+desid
+\SCI
+\USE
+\SPG 1 tratar de beber
+\SPG 2 querer tomar
+\ENG 1 to try to drink
+\ENG 2 to want to drink
+\EXU 7@y+ 7uk-t@'-w@
+\XPSH [7@y 7uukt@w@.]
+\XSP Quiso tomar.
+\XEN She wanted to drink.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 7uk
+\RTGR 1 T1
+\ROOT 2 t@
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS CK-PH
+\date 24/Jun/96
+\lex 7uli
+\_no 00495
+LG MIG
+\PSH
+\UND 7uli
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG hule
+\ENG rubber
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+-
+ZOH004R0011001.txt
+ok [NO, it's 7uukt@w@]
+Page 212

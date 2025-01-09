@@ -1,0 +1,68 @@
+\zoq Metzi t@kk@ba gaji.
+\fts Los dos entran ahi*
+\fte Both of them go in there.
+\com
+\idx
+\ref ZOH001R036 568
+\_no 00559
+GSM: y@k хој
+yak
+xoj
+\tx
+\mb GSM
+\sg1 GSM: tizne palo
+\eg1 GSM: soot tree
+\zoq GSM: Y@kxoj,
+\fts GSM: Encino negro,
+\fte GSM: Black encino,
+\com
+\idx
+\ref ZOH001R036 569
+\_no 00560
+\tx
+popo
+хој
+\mb popo7 xoj
+\sg1 blanco palo
+\egl white tree
+\zoq popo xoj,
+\fts encino bianco,
+\fte white encino,
+\com
+\idx
+\ref ZOH001R036 570
+\_no 00561
+\tx 7i tzapatz xoj
+\mb 7i
+\sg] y
+\egl and red
+tzapatz xoj
+palo
+rojo
+tree
+\zoq 7i tzapatz xoj.
+\fts y el encino colorado.
+\fte and red encino.
+\com
+\idx
+\ref ZOH001R036 571
+\_no 00562
+\tx
+OSM: pwes ga
+\mb OSM pwes ka -7
+\sg1 OSM: pues DCT3-NOM1
+\egl OSM: well DCT3-NOM1 self -because_of
+\zoq OSM: Pwes, ga neypitz.
+\fts OSM: Pues, eso tambien es.
+\fte OSM: Well, that one is too.
+\com
+\idx
+\ref ZOH001R036 572
+\_no 00563
+ZOH001R0361001.txt
+neypi7tz
+ney -pitz
+mismo-por_eso
+\tx GSM: tuwanh
+\mb GSM tuwa*nh
+Page 122

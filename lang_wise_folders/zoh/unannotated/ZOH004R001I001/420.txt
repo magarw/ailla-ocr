@@ -1,0 +1,48 @@
+ZOH004R0011001.txt
+\RELAGT (>7oy)-pa+a7k $ \09GS \09GE \09X \09XS \09XE
+\RELRES 7@y+ -pa+a7k $ \10GS \10GE \10x \10XS \10XE
+\RESNOM .7anh $ \11GS \11GE \11x \11xs \11XE
+\LOCNOM 7@y+ +ji $ \12GS \12GE \12x \12xs \12XE
+\SPCNOM $ \13GS \13GE \13x \13XS \13XE
+\ASSUM1 ney $ \14GS \14GE \14X \14XS \14XE
+\STAT .na7 $ \15GS \15GE \15X \15XS \15XE
+\ASSUM2 .w@y-w@ $ \16GS \16GE \16x \16xs \16XE
+\DEPOS .7@y $ \17GS \17GE \17X \17XS \17XE
+\CAUS yak $ \18GS \18GE \18X \18XS \18XE
+\ANTIP >7oy $ \19GS \19GE \19X \19XS \19XE
+\SEMF
+\SPL 1 ju7px>7oy
+\SPSH
+\SPUN
+\SPMB
+\SLGR NTP
+\SLGL recoger tela
+\SPLX
+\SPLXS
+\SPLXE
+\SPL 2 ju7px>'@m
+\SPSH
+SPUN
+\SPMB
+\SLGR PSV
+\SLGL encogerse // they shrank the cloth
+\SPLX
+\SPLXS
+\SPLXE
+\SBD
+\SPR
+\XREF
+\ETYM
+\ETGR
+\ETGL
+\ETL
+\COG
+\LG MIG
+\DSRC HAJ95, TK01
+\CULT
+\CMTS NEW ROOT (from Camilo)
+\CMTS SLGR NO ASSUM1
+\date 23/Jul/01
+\DATE 09/Aug/02
+\lex ju7px-pak
+Page 420

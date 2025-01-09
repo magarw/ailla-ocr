@@ -1,0 +1,80 @@
+Duermo mucho.
+tzintewayi
+tz-in-te-way-i
+pres-1B-muy-dormir-vti
+124
+Duerme mucho él.
+steway winh
+tz-Ø-te-way
+winh
+pres-3B-muy-dormir él
+Duermes mucho.
+tzachtewayi
+tz-ach-te-way-i
+pres-2B-muy-dormir-vti
+183. Duermo mucho de día.
+tzinteway k'ualil
+tz-in-te-way
+k'ual-il
+pres-1B-muy-dormir día-abs
+Duerme de día (él).
+a winh sway winh k'ualil
+(a winh) tz-Ø-way
+(top él) pres-3B-dormir él
+winh k'ual-il
+día-abs
+a winh te jun ip sway k'ualil
+(a winh) te jun ip
+tz-Ø-way
+k’ual-il
+(top él) muy uno fuerza pres-3B-dormir día-abs
+No duermo mucho de día.
+max inway laj k’ualil
+ma-x
+in-way laj k'ual-il
+neg-pres 1B-dormir neg día-abs
+Duermes mucho de día.
+tzachteway k'ualil
+tz-ach-te-way
+k'ual-il
+pres-2B-muy-dormir día-abs
+te jun ip tzach way k'ualil
+te
+tz-ach-way
+k'ual-il
+jun ip
+muy uno fuerza pres-2B-dormir día-abs
+Duermo mucho de noche.
+tzinteway t'ak'b'alil
+tz-in-te-way t'ak’b’al-il
+pres-1B-muy dormir noche-abs
+Duerme mucho de noche.
+steway winh t'ak'b'alil
+tz-Ø-te-way
+winh t'ak'b'al-il
+pres-3B-muy-dormir él noche-abs
+Duermes mucho de noche.
+tzachte way t'ak’b’alil
+tz-ach-te-way
+t'ak'b'al-il
+pres-2B-muy-dormir noche-abs
+No duermo mucho de noche.
+max inway laj t'ak'b'alil
+ma-x
+in-way laj t'ak'b'al-il
+neg-pres 1B-dormir neg noche-abs
+No duerme de día.
+a winh max way laj winh k'ualil
+winh ma-x
+a
+top él
+Ø-way laj winh k'ual-il
+neg-pres 3B-dormir neg Cmasc día-abs
+No duermes de día.
+max achway laj k'ualil
+ma-x ach-way laj k’ual-il
+neg-pres 2B-dormir neg día-abs
+max achwayok laj k’ualil
+ma-x ach-way-ok laj k’ual-il
+neg-pres 2B-dormir-IRR neg día-abs
+125

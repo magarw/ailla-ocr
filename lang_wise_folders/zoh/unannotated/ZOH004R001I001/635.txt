@@ -1,0 +1,62 @@
+\date 07/Feb/96
+\date
+\lex ko.tzij
+\_no 01460
+\LG MIG
+\PSH [kotzij-]
+\UND ko.tzij
+\MB OTRO, pegar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG correr de pedrado algo que esta* cuidando
+\ENG to chase off something by throwing rocks at it
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzij
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 20/Oct/94
+\lex ko.tzik
+\_no 01461
+\LG MIG
+\PSH [kotzik-]
+\UND ko.tzik
+\MB OTRO, pelar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pelar o quitar cuero de un animal
+\ENG to skin an animal
+\SPL ko.tzik. 7oy
+\SLGR ANTIP
+\SLGR NO PASS
+\EXU m@a'-ko.tzik-pa
+\XPSH [M@a kotzikpa.]
+ZOH004R0011001.txt
+\XSP Esta* pelando el cuero de un venado.
+\XEN He's skinning a deer.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzik
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex ko.tzonh
+\_no 01462
+\LG MIG
+\PSH [kotzonh-]
+\UND ko.tzonh
+\MB OTRO, unir
+Page 635

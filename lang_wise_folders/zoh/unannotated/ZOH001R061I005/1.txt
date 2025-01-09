@@ -1,0 +1,56 @@
+\id C:\SHOUT\NOPAS.TXT
+\lex 7anh=7it
+\_no 00001
+\SPG tener
+\ENG to have
+\RTGR IX
+\lex 7on
+\_no 00002
+\SPG 1 desarreglar
+\SPG 2 amontonar
+\ENG 1 to mess up
+\ENG 2 to bundle in a heap
+\ENG 5 The wind is messing up my hair.
+\RTGR P (TX)
+\lex 707tz
+\_no 00003
+\SPG doblar (como fierro)
+\ENG to bend (like an iron bar)
+\RTGR P (T3)
+\lex je7k
+\_no 00004
+\SPG limpiar con coa
+\ENG to clean with a hoe
+\RTGR T3
+\lex je7p
+\_no 00005
+\SPG pescar con manta
+\ENG to fish with a cloth
+\RTGR P, (T3)
+\lex jopx
+\_no 00006
+\SPG tomar a boca de plato
+\ENG to drink from the plate
+\RTGR T3
+28/Oct/04
+\lex junun
+\_no 00008
+ZOH001R0611005.txt
+\lex jo.w@k
+\_no 00007
+\SPG descuartizar (res, marrano...)
+\ENG to quarter a carcass
+\RTGR T3
+\SPG hacerle cosquillas
+ENG to tickle someone
+\RTGR T3
+\lex ju7t
+\_no 00009
+\SPG remover
+\ENG to stir
+\RTGR T3
+\lex ki7t
+\_no 00010
+\SPG meter el dedo
+\ENG to put your finger in something
+Page 1

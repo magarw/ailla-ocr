@@ -1,0 +1,39 @@
+107
+La co-ocurrencia del sufijo -man junto a los sufijos evidenciales del quechua (-mi, -si,-
+chá) fue analizada por Faller (2002) quien señaló que estos últimos sirven para precisar la
+fuente a partir de la cual se conoce la información. En el caso de su combinación con el
+reportativo (-si), la lectura deviene ambigua en relación con si la incertidumbre pertenece al
+hablante actual o al productor del discurso citado. La aparentemente contradictoria
+combinación con el sufijo -mi (testigo directo) refiere inferencia fuerte por parte del hablante
+a partir de información contextual con la que éste cuenta ("debe").
+ka-sha-n-man(-chá/mi/si/ó).
+estar-ASP/PROGR-3S-IRR (-EVID)
+Rosmeri casa-LOC
+'Rosmeri estaría en la casa (lo infiero / debía estar / me dijeron que estaría / estará)'
+(19) Rosmeri wasi-pi
+En resumen, la participación de la misma forma -man en contextos dispares puede
+estar indicando la presencia de un significado nuclear que luego se "adapta" a las funciones
+específicas de cada construcción. En este sentido, su ocurrencia en múltiples contextos nos
+obliga a indagar sobre la relación que un sistema de deixis espacial entabla con los diferentes
+sistemas que comparten la forma.
+4.2.2. El irrealis expresado mediante el sufijo -na
+El sufijo -na es analizado por diferentes autores como "nominalizador de futuro"
+(Cerrón Palomino 1987; Lefebvre y Muysken 1988; entre otros). La nominalización es un
+procedimiento muy extendido en el quechua pero las lecturas de irrealis sólo ingresan cuando
+la cláusula subordinada presenta el sufijo -na-, como en el siguiente ejemplo:
+(20) (qan-pa runa
+riku-na-yki-man)
+rima-sha-ni
+tú-GEN hombre ver-NOM/FUT-2S-ALAT hablar-PROGR-1S
+'yo hablo con el hombre que tú verás (que es muy probable que veas)'
+A diferencia de -man, -na es un sufijo derivativo, es decir, modifica la categoría léxica
+de la palabra (en el proceso de nominalización: de verbo a nombre), ocurre inmediatamente
+después de la raíz verbal (por lo que es más interno en la estructura verbal) y puede recibir
+diferentes sufijos de caso (en el ejemplo 20 recibe a -man como alativo).
+Como -man, también el sufijo -na es muy productivo. Se lo encuentra en otras formas
+compuestas: como nominalizador deverbativo (e.g. mikhu-na: comestible o "comida" o "que
+puede ser comido"; que deriva de la base verbal mikhu-y: comer), como verbalizador
+denominativo (e.g. tanta-na-: tener ganas de comer pan, deriva del nombre tanta: pan) (Cerrón
+Palomino 1987), en la composición de otros sufijos como, por ejemplo, -naya que se
+considera "desiderativo" y que funciona como "verbalizador deverbativo" (según Cerrón
+Palomino 1987: 280) como en "mikhu-naya": tener ganas de comer, etc.

@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 pitz
+\RTGR 1 T1
+\ROOT 2 k@nh
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS CK-GR, CK-GL ok
+\date 25/Jun/96
+\lex pitz.i=tokx.@+@7k
+\_no 02652
+\LG MIG
+\PSH [pitzi tokx@*7]
+\UND pitz.E tokx. A+@7k
+\MB cocer_mai*z_con_cal, NOM7, pelar, NOM2, REL
+\VAR tokx.@7+@7k pitz.i
+\GRAM nom:incorp
+\SCI
+\USE
+\SPG nixtamal pelado
+\ENG corn that has been stripped of its outer covering by soaking in lye
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 pitz
+\RTGR 1 T1
+\ROOT 2 tokx
+\RTGR 2 IX
+\DSRC HAJ94
+\CMTS CK-GR HAJ:96, corrected from a vi:incorp/now it's nom:incorp (TK)
+\date 25/Jun/96
+\lex pitz.i=way
+\_no 02653
+\LG MIG
+\PSH [pitziway-]
+\UND pitz.E=way
+\MB cocer_mai*z_con_cal, NOM7, moler
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG moler el mai*z; moler nixtamal
+\ENG to grind corn; to grind corn that has been cooked with lye
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pitz T1, way T1
+\KEY
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+Page 1142

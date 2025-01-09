@@ -1,0 +1,62 @@
+\SYN
+\SEMF
+ETYM
+\ETL Sp
+\ROOT
+\DSRC TK94
+\CMTS CK-PH HAJ:96, was final /o/, an error
+\date 19/Jun/96
+\lex pelot(a) m@tz.i7
+\_no 02586
+\LG MIG
+\PSH [pelota m@tzi7]
+\UND pelota m@tz.E7
+\MB pelota, *jugar, NOM7
+\VAR peloot m@tz.17
+\GRAM s (m) sv
+\SCI
+\USE
+\SPG juego de pelota
+ENG ball game
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM pelota
+\ETL Sp
+\ROOT m@tz
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex pen 7eya+joonh
+\_no 02587
+\LG MIG
+\PSH [pen_7eyajo*nh]
+\UND pen 7eya+joonh
+\MB plantar, otro, DIR1
+\VAR
+\GRAM vt+av
+\SCI
+\USE
+\SPG transplantar
+\ENG to transplant
+\EXU 7eya+joonh 7@y+ pen-w@
+\XPSH [7eyajo*nh 7@y penn@.]
+\XSP Lo trasplanto* otro lado.
+\XEN He planted it somewhere else.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pen
+\RTGR T1
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS CK-GR; This is syntactically right.
+\date 28/Jan/96
+\lex pen [1]
+\_no 02588
+\LG MIG
+\PSH
+Page 1113

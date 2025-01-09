@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wa7k
+\RTGR T3
+\DSRC HAJ94
+\CMTS slice -> get small
+\date 28/Jan/96
+\lex wa7kx
+\_no 03554
+\LG MIG
+\PSH
+\UND wa7kx
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG (en) terciar bulto de mai*z, naranja, etc. en una rede
+\ENG to make loads of corn, oranges, etc. in a net
+\SPL wa7kx. 7oy
+\SLGR ANTIP
+\SLGL terciar bulto // to make up loads
+\SLGR NO PASS
+\SPL wa7kx.ney
+\SLGR ASSUM1
+\SLGL enterciarse // to be divided up into loads
+\SPL wa7kx.ten
+\SLGR PRSV
+\SLGL tener enterciado // to have divided into loads
+ZOH004R0011001.txt
+\EXU 1 7@y+ wa7kx.w@y-wa bi 7anaxa
+\XPSH 1 [7@y wa7kx@yy@ bi 7anaxa.]
+\XSP 1 Tiene enterciado la naranja.
+\XEN 1 He has the oranges bundled into loads.
+\EXU 2 7@y+ wa7kx-w@ bi 7anaxa xuwi+jo7
+\XPSH 2 [7@y wa7kx@ bi 7anaxa xuijo7.]
+\XSP 2 Tercio* la naranja en la rede.
+\XEN 2 He loaded the oranges in the net.
+\SYN
+\SEMF arrange, quantity
+\ASP transition
+\ARG
+\NOM wa7kx.kuy7, wa7kx.e7, wa7kx.naanh
+\SUB
+\ETYM
+\ETL
+\ROOT wa7kx
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex wa7kx.e7
+\_no 03555
+\LG MIG
+\PHO [wa7kxe7]
+\UND wa7kx.E7
+\MB enterciar, NOM7
+\VAR
+\GRAM pcp
+Page 1528

@@ -1,0 +1,66 @@
+\SPL nek.7@m
+\SLGR PASS
+\SLGL estivarse // to be stacked up
+\SPL nek.ney
+\SLGR ASSUM1
+\SLGL estar estivada (la len~a) // to be stacked up
+\SPL nek. ten
+\SLGR PRSV
+\SLGL tener estivado // to have something stacked up
+\EXU 1 7@y+ nek.ten-w@ k@pi
+\XPSH 1 [7@y nektenn@ k@pi.]
+\XSP 1 Tiene estivado la len~a.
+\XEN 1 He's got the firewood stacked up.
+\EXU 2 nek.7am-w@ de k@pi
+\XPSH 2 [Nekk@mm@ de k@pi.]
+\XSP 2 Ya esta* estivado esa len~a.
+ZOH001R0611006.txt
+\XEN 2 That firewood is stacked up.
+\EXU 3 7@y+ nek.ten-w@ kuy wotz.e d@k (+'ay)
+\XPSH 3 [7@y nektenn@ kuy wotze d@kka.]
+\XSP 3 Tiene estivado las tablas asseradas.
+\XEN 3 He's got the sawn wood stacked.
+\SYN
+\SEMF build
+\ASP activity, accomplishment
+\ARG patient
+\NOM nek.e
+\SUB 7anh.nek, k@.n@k-nek. '@y, nek=jom, yuk.nek
+\ETYM
+\ETL
+\ROOT nek
+\RTGR P, (T3)
+\DSRC TK94
+\CMTS
+\CMTS CK-PH of EX2 HAJ:96, corrected d@ to de 'esa'
+\date 03/Jan/80
+\lex ne7k
+\_no 00112
+LG MIG
+\PSH
+\UND ne7k
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tapar una corriente la echa para un lado
+\ENG to divert a stream of water
+\SPL ne7k. 7oy
+\SLGR ANTIP
+\SLGL tapar // to divert a stream of water
+\SPL ne7k.7@m
+\SLGR PASS
+\SLGL taparse // to be diverted
+\SPL ne7k.ney
+\SLGR ASSUM1
+\SLGL estar tapado // to be diverted
+\EXU 1 7@y+ ne7k-w@ pajak 7@y+ pa-w@_7eya+joonh
+\XPSH_1_[7@y_ne7kk@ pajak, 7ay pawa 7eyajo*nh.]
+\XSP 1 Tapo* el ri*o, lo echo
+para un lado.
+\XEN 1 He diverted the stream,
+causing it to run off to the side.
+\EXU 2 n@'=ne7k-w@
+\XPSH 2 [N@ne7kk@.]
+Page 76

@@ -1,0 +1,62 @@
+\ENG to scrape; to sand
+\SEMF scrape
+\ASP activity
+\ARG
+\NOM wo'k.e
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex won
+\_no 00377
+\SPG sacar majagua
+\SEMF plant
+\ASP process
+\ARG
+\NOM
+\RTGR P (T3)
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex wotz
+\_no 00378
+\SPG cortar con sierra
+\ENG to cut with a saw
+\SEMF cut
+\ASP process
+\ARG
+\NOM wotz.e7
+\NOM wotz.kuy7, wotz.naanh
+\RTGR T1
+\POS rroberto da wotzjayy@n kuy
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex wox
+\_no 00379
+\SPG sacar puntas; raspar
+\ENG to sharpen points; to scrape
+\SEMF cut
+\ASP process
+\ARG
+\NOM see other wox
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+roberto me corto* mi madera
+\lex wox
+\_no 00380
+\SPG pelar, como una naranja; quitar la ca*scara de madera
+\ENG to peel, like an orange; strip the bark from wood
+\SEMF cut
+\ASP process
+Page 93

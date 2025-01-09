@@ -1,0 +1,84 @@
+\com
+\idx
+\ref ZOH001R036 353
+\_no 00348
+\tx 7i si ya m
+\mb 7i si ya 7@m p@k
+\sg] y
+si NEG 2E
+\egl and if NEG 2E
+\tx_tz@wi bi7t
+\mb tz@wi bi7t
+\sg1 tabaco SI
+\egl tabacco IF
+\ref ZOH001R036 354
+\_no 00349
+p@kn@ka
+yujkuyjo
+yuj
+agarrar-irse-NOM2 rozar
+-n@k -A7
+\zoq 7i si yam_p@kn@k@ yujkuyjo gag@ tz@wi bi7t.
+\fts Y si no llevas en la milpa ese tabaco.
+get
+fte And if you didn't bring that tobacco to the field.
+\com
+\idx
+\ref ZOH001R036 356
+\_no 00351
+ZOH001R0361001.txt
+\tx yaka*
+bi 7anma*
+\mb yak -ka7
+-A7 bi 7anma*1
+\sg1 CAUS-morirse-IMPV DEF animal
+\eg1 CAUS-die
+-IMPV DEF animal
+\zoq w@kno7tzja 7@y tzek,
+\fts Rajale la barriga,
+\fte Cut open its belly,
+\com
+\idx
+\zoq kon ney puju7k.
+\fts con su tripa.
+\fte with its guts.
+\com
+\idx
+\zoq Yaka* bi 7anma*1 - bi tzajin.
+\fts Mata el animal la culebra.
+\fte You kill that animal - the snake.
+\com
+\idx
+\ref ZOH001R036 357
+\_no 00352
+\tx 7a
+gad@
+-go -NOM2 clear_field-INSTR1-LOC2
+\ref ZOH001R036 355
+\_no 00350
+\tx w@kno7tzja
+7@y tzek
+\mb wak
+-no7tz -jay -A7
+7@y tzek
+\sg1 cortar-quebrar-APPL-IMPV 3E barriga
+\eg1 cut
+-break -APPL-IMPV 3E belly
+\tx kon ney puju7k
+\mb kon ney
+puju7k
+\sg1 con mismo tripas
+Vegl with self guts
+bi tzajin
+bi tzajin
+DEF culebra
+DEF snake
+-kuy7 -jo7
+-INSTR1-LOC2
+puju7k d@kka pedasu m j@xp@kpam
+Page 76
+gag@
+ka -g@
+DCT3-DEM
+DCT3-DEM
+mix

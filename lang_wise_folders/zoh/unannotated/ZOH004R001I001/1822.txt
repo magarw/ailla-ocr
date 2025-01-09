@@ -1,0 +1,62 @@
+\lex yuk.jipx
+\_no 04241
+\LG MIG
+\PSH [yukjipx-]
+\UND yuk.jipx
+\MB ARR, quemarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar a quemarse
+\ENG to start to scorch
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jipx
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 15/Jul/95
+\lex yuk.ji7p
+\_no 04242
+\LG MIG
+\PSH [yukji7p-]
+\UND yuk.ji7p
+\MB ARR, mover_con_palo
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG levantar con su trompa
+\ENG to raise up with your snout
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ji7p
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 15/Jul/95
+\lex yuk.jitzi
+\_no 04243
+\LG MIG
+\PSH [yukjitzi-]
+\UND yuk.jitzi
+\MB ARR, arrastrarse
+\VAR
+\GRAM vi
+ZOH004R0011001.txt
+Page 1822

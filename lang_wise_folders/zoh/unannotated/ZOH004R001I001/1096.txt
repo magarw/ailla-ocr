@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 16/Oct/94
+\lex pasaje
+\_no 02545
+\LG MIG
+\PSH
+\UND pasaje
+\MB
+\VAR pasajeru
+\GRAM S
+\SCI
+\USE
+\SPG pasajero
+\ENG passenger
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 31/Mar/95
+\lex pasajeru
+\_no 02546
+LG MIG
+\PSH
+\UND pasajeru
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG pasajero
+\ENG passenger
+\SPL
+\SLGR
+\EXU n@k-xuk-pa+a7k j@@ytija7
+\XPSH_ [n@kxukpa*7k j@:yti:j@7.]
+\XSP los que van a Juchita*n
+\XSP the ones going to Juchita*n
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ95
+\CMTS CK-EX - HAJ:96, ok
+\date 25/Jun/96
+\lex paskwalit(a) jay@7
+\_no 02547
+\LG MIG
+ZOH004R0011001.txt
+Page 1096

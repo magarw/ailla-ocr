@@ -1,0 +1,87 @@
+\_no 00655
+sin
+\tx
+\mb no mas
+no mas ke m yaknutztz@ba
+ke 7@m yak -nutz
+-7@y-pa sin
+\sg1 no mas que 2A CAUS-estar_caliente-SUF-INC sin
+\egl no more that 2A CAUS-be_hot
+\zoq No mas kem yaknutztz@ba sin fin.
+fts No mas que te haces sudar bastante.
+\fte It just makes you sweat without end.
+\com
+\idx inverse
+\ref ZOH001R036 668
+\_no 00656
+\tx por 7ejemplo de7xde bi
+\mb por 7ejemplo de-7xe bi
+\sg1 por ejemplo de-SIM DEF
+\egl for example of-SIM DEF
+\ref ZOH001R036 669
+\_no 00657
+\tx
+\mb
+7anhtzaji
+7anhtzaji
+\sg1 nochecita
+\egl evening
+\zoq 7anhtzaji,
+\fts entrando la noche,
+\fte in the evening,
+\com
+\idx
+\zoq Por 7ejemplo, de7xe bi 7@m p@kpa gag@ 7@m tzinhpa
+\fts Por ejemplo asi* es - agarras eso te ban~as
+\fte For example it's like
+you get that, you bathe
+\com
+\idx
+\ref ZOH001R036 670
+\_no 00658
+\tx ya y@
+\mb ya ya -7
+7ora
+7ora
+\sg1 NEG DCT1-NOM1 ahora
+\eg1 NEG DCT1-NOM1 now evening
+ZOH001R0361001.txt
+\ref ZOH001R036 671
+\_no 00659
+\zoq ya y@ 7ora, 7anhtzaji.
+\fts no esta hora de noche.
+\fte not at this hour, at night.
+\com
+\idx
+7@m_p@kpa
+7@m p@k
+2E
+2E get
+k@
+7anhtzaji
+7anhtzaji
+nochecita
+\zoq Pam k@monhnh@ba go7.
+\fts Para que te acuestes.
+\fte so you go to bed.
+\com
+\idx
+gag@ 7@m tzinhpa
+-ра ka -g@ 7@m tzinh
+agarrar-INC DCT3-DEM 2A
+-INC DCT3-DEM 2A
+\tx pa m
+k@monhnh@ba
+go7
+\mb para 7@m
+-monh -7@y-pa go7
+\sg1 para 2A AFUERA-dormir-SUF-INC PURP
+\egl for 2A AWAY -sleep -SUF-INC PURP
+fin
+fin
+fin
+-SUF-INC without end
+Page 143
+-pa
+ban*arse-INC
+bathe - INC

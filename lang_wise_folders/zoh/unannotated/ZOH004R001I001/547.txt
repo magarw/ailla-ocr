@@ -1,0 +1,62 @@
+\SUB ko.kinh=ka', yuk.kinh=ka'
+\ETYM
+\ETL
+\ROOT kinh=ka7
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex kinh=ka'.jay
+\_no 01253
+\LG MIG
+\PSH [kinhkajay-]
+\UND kinh-ka7.jay
+\MB enojarse, APPL
+\VAR
+\GRAM vt:indir
+\SCI
+\USE
+\SPG odiar
+\ENG to hate
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kinh=ka7 I2
+\DSRC TK94
+\CMTS
+\date 11/Jan/96
+\lex kinh=ka'.jay-pa+a7k
+\_no 01254
+\LG MIG
+\PSH [kinhkajaba*7]
+\UND kinh-ka7.jay-pa +P@7k
+\MB enojarse, APPL, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG enemigo; e*1 que le tiene mucha muina
+\ENG enemy; the one who is very angry
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kinh=ka7
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+ZOH004R0011001.txt
+\lex kit
+\_no 01255
+\LG MIG
+\PSH
+\UND kit
+Page 547

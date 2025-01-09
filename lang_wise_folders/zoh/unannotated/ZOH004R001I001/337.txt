@@ -1,0 +1,62 @@
+\ENG smallpox
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT putz
+\RTGR 12
+\DSRC HAJ94
+\CMTS get deriv's
+\date 06/Feb/96
+\lex jin. '@y
+\_no 00777
+\LG MIG
+\PSH [jinn@y-]
+\UND jin.7@y
+\MB espeso, VERS2
+\VAR
+\GRAM vers2
+SCI
+\USE
+\SPG espesarse
+\ENG to thicken
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 11/Nov/94
+\lex jip.jip.ney
+\_no 00778
+\LG MIG
+\PSH [jipjipney-]
+\UND jip.jip.ney
+\MB
+\VAR
+\GRAM VİR
+\SCI
+\USE
+\SPG andar trompeando
+\ENG togo rooting around
+\EXU jip.jip.ney-pa yoya
+\XPSH [Jipjipneba yoya.]
+\XSP Anda trompeando el marrano.
+\XEN The pig is rooting around.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS get deriv's
+\date 06/Feb/96
+ZOH004R0011001.txt
+Page 337

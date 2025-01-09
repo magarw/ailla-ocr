@@ -1,0 +1,64 @@
+\USE
+\SPG costura; tejido; bordado; una cosa ensartada
+\ENG seam; woven piece; embroidery; something threaded through
+something
+\EXU 7axa' t@p.i
+\XPSH [7axa t@pi]
+\XSP huipil bordado
+XEN embroidered blouse
+\SYN na'k.e
+\SEMF
+\ETYM
+\ETL
+\ROOT tap
+\RTGR T1
+\DSRC TK96
+\CMTS
+\date 03/Jan/80
+\lex t@pi7tz
+\_no 03185
+\LG MIG
+\PSH
+\UND t@pi7tz
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG tuza
+\ENG a type of animal
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 15/Jun/95
+\lex t@p.jay
+\_no 03186
+\LG MIG
+\PSH [t@pjay-]
+\UND t@p.jay
+\MB
+\VAR
+\GRAM indir
+\SCI
+LF:7anmal
+\USE
+\SPG costurarse
+\ENG to sew something for someone
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT t@p
+\RTGR T1
+ZOH004R0011001.txt
+Page 1370

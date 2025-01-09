@@ -1,0 +1,63 @@
+\CMTS
+\date 03/Jan/80
+\lex jej-an@m
+\_no 00717
+\LG MIG
+\PSH
+\UND jej-An@m
+\MB vivier, INDEF
+\VAR
+\GRAM impers
+\SCI
+\USE
+\SPG viven
+\ENG people live
+\EXU 1 majm@ jej-An@m-pa
+\XPSH 1 [m@jma jejan@mpa]
+\XSP 1 habitante
+\XEN 1 inhabitant
+\EXU 2 jeej-(A)n@m-pa ya.ji
+\XPSH 2 [Jejn@mpa y@ji.]
+\XSP 2 viven aqui*.
+\XEN 2 People live here.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jej
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\lex jeje
+\_no 00718
+\LG MIG
+\PSH
+\UND jeje
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG zancudo
+\ENG a tiny fiercely biting flying insect
+\EXU y@k jeje
+\XSP Zancudo negro
+\EXU pu7tz.pu7tz jeje
+\XSP Zancudo amarillo
+\EXU
+\EXU
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+LF: bugs
+\CMTS
+\date 10/Jan/96
+ZOH004R0011001.txt
+\lex jej.jej.ney
+\_no 00719
+\LG MIG
+Page 308

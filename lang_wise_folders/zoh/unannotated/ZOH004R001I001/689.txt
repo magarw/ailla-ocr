@@ -1,0 +1,62 @@
+\CMTS la parte la mas gruesa de la madera
+\date 18/Jun/96
+\lex kuy 7@y+ tzay7
+\_no 01588
+\LG MIG
+\PSH [kuy 7@y tzay7]
+\UND kuy 7@y+ tzay7
+\MB a*rbol, 3Erg, vena
+\VAR
+\GRAM sps
+\SCI
+\USE
+\SPG majagua
+\EXU
+\XSP
+\XEN
+\SYN wopo7
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS clase de palo
+\date 18/Jun/96
+\lex kuy 7@y+ tzokoy7
+\_no 01589
+\LG MIG
+\PSH [kuy 7@y tzokoy7]
+\UND kuy 7@y tzokoy7
+\MB tree, 3Erg, heart
+\VAR
+\GRAM sps
+\SCI
+\USE
+\SPG corazo*n del a*rbol
+\ENG heart of a tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex kuy bastoonh
+\_no 01590
+\LG MIG
+\PSH [kuy basto*nh]
+\UND kuy bastoonh
+\MB
+\VAR
+ZOH004R0011001.txt
+\GRAM sms
+\SCI
+\USE
+\SPG basto*n de palo
+\ENG cane; walking stick
+\EXU
+Page 689

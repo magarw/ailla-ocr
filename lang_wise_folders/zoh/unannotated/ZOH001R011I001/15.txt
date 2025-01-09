@@ -1,0 +1,73 @@
+\mb entonces mix ten -7anh -wak - tam
+\sg1 entonces 2>1 pararse-BOCA
+\egl then
+\ref ZOH001R011 064
+\_no 00065
+\tx k@n@kxe7px@yy@
+\mb k@
+2>1 stand -MOUTH-empty -1/2PL-IMPV
+\zoq 7entonse, "Mix tennanhwaktam@!"
+\fts Entonces, "Abranse de mi, salganse de mi!"
+\fte Then, "Stand clear away from me!"
+\com
+\idx sp
+-n@k -xe7px
+\ref ZOH001R011 065
+\_no 00066
+\tx 7@y tzijja
+\mb 7@y tzij
+\sg1 3E
+tirar_piedra-COM
+\egl 3E throw_rock -COM
+\sg]
+AFUERA-irse-hacer_mecate-SUF-COM
+\eg1 AWAY -go -make_rope
+\zoq 7@y tzijja.
+\fts Le tiro*.
+\fte He fired.
+\com
+\idx
+\ref ZOH001R011 066
+\_no 00067
+\zoq K@n@kxe7px@yy@.
+\fts Le agarro* su honda y le dio* una vuelta.
+\fte He stepped back and twisted around.
+\com
+\idx
+\tx 7an
+p@w@
+\mb 7entonses p@7 -w@
+meru
+\sg1 entonces poner-COM mero
+\egl then
+\tx gaji
+\mb
+ZOH001R0111001.txt
+-wa
+\ref ZOH001R011 067
+\_no 00068
+-vaciar-1/2PL-IMPV
+wanakk@
+ka -ji7 wanak -wa
+\sg1 DCT3-Loc1 bajarse-COM
+\eg1 DCT3-LOC1 go_down-COM
+-A7
+-7@y-w@
+meri
+kopak 7@y tzijayy@
+kopak 7@y tzi7 -jay -wa
+cabeza 3E pegar-APPL-COM
+put -COM exactly head 3E hit -APPL-COM
+\zoq 7an p@w@ meri kopak 7@y tzijayy@!
+\fts Entonces pego* meru la cabeza le pego!
+\fte Then he put it right on the head, he shot it!
+\com
+\idx sp
+\zoq Gaji wanakk@.
+\fts Alli* bajo*.
+\fte There it came down.
+\com
+\idx
+\ref ZOH001R011 068
+-SUF-COM
+Page 15

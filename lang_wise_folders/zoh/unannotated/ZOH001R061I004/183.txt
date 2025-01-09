@@ -1,0 +1,63 @@
+\PSH [yawa mok xoxxane]
+\UND yaw.A7 mok xox=7an. E
+\MB X, NOM2, mai*z, cocer, calentarse, NOM7
+\VAR
+\GRAM s(m) ss
+\SCI
+\USE
+\SPG tamal de elote
+\ENG sweet corn tamale
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT XOX
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yaw.a' mok 7uk.i
+\_no 00463
+\LG MIG
+\PSH [yawa mok 7uki]
+\UND yaw.A7 mok 7uk. E
+\MB X, NOM2, mai*z, tomar, NOM7
+\VAR
+\GRAM amsms
+\SCI
+\USE
+\SPG atole de elote
+\ENG sweet corn atole
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7uk
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex yaw.a' x@k pux.i7
+\_no 00464
+\LG MIG
+\PSH [yawa x@k puxi7]
+\UND yaw.A7 x@k pux. E7
+\MB X, NOM2, frijol, desboronar, NOM 7
+\VAR
+\GRAM amsms
+\SCI
+\USE
+\SPG tamal de frijoles tiernos
+\ENG tender bean tamale
+ZOH001R0611004.txt
+\EXU
+\XSP
+\XEN
+\SYN
+Page 183

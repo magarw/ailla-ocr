@@ -1,0 +1,50 @@
+(69) Kwaanda
+aldeeya t-uj
+Xaq,
+aldea
+barranco
+A3s-SR:en
+'Cuándo yo voy a ir a dar la misa en la aldea el Barranco,'
+bien pues A2s-pasar Als-SR:COM=1s/2s
+(71) b'a'n-tzan q-xi' 1-ol=t-e-t-ee.
+miis t-uj
+bien pues Alp-ir ver-INF-A3s-SR: PAC-A3s-SR:PAC
+(72) Entoonse n=0=xi'=tzan padre ja’la q'o-1 t-ee
+miis.
+entonces
+INC=B3s-ir-pues padre ahora dar-INF A3s-SR:PAC misa
+'Entonces se fue el padre a dar la misa.'
+b'aj
+INC=B3s=DIR:afuera terminar
+'Terminó la misa'
+t-ma-'n
+padre we=y',
+INC=B3s-DIR:acá A3s-decir-SD padre Als-SR:DAT:1s
+'y en seguida dijo el padre a mí,’
+ja'la Sebastyaan
+pues vamos pues ahora
+ahora Sebastián
+t-e=t-ee
+A3s-SR:PAC=A3s-SR:PAC
+'pues vámonos ahora Sebastián a verlo'
+foso
+EXIST=B3s=DESP
+'por donde está el foso del cerro,'
+(77) qoo
+n-chi-tzan
+aj,
+vamos Als-decir-pues DEM?
+'vamos le dije,'
+b'eet=a
+(78) n=0-iky'=tzan
+q-uuk'a ya
+maestra t-i’j
+INC=B3s-pasar-pues Alp-SR:COM=1pEXCL maestro
+A3s-SR:sobre
+jun a'
+agua potable,
+un agua
+'pues nos fuimos con el maestro del agua potable,”
+'entonces entramos caminando a caballo,'
+cheej
+A3s-SR:sobre caballo

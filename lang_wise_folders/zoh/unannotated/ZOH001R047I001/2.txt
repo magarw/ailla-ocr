@@ -1,0 +1,85 @@
+\zoq wen d@ m@n tajj@.
+\fts Arranque* mucho camote.
+\fte I pulled up a lot of yams.
+\com
+\idx
+\ref ZOH001R047 004
+\_no 00005
+\tx 7entonses 7@n 7anhnitpa
+\mb 7entonses 7@n 7anhnit-pa
+\sg1 entonces 1E tener -INC
+\egl then
+\com
+\idx
+\ref ZOH001R047 005
+\_no 00006
+\tx 7enh tum tzuxu taxx@.
+\mb 7en tum tzuxu7
+tax
+\sgl en
+\egl in
+1E have -INC quantity of yam
+\zoq 7entonses 7@n 7anhnitpa kantidad de m@n 7en 7un tzuxu7.
+\fts Entonces tengo bastante camote en una esquina.
+\fte Then I have lots of yams in a corner.
+\zoq 7enh tum tzuxu7 taxx@.
+\fts En una esquina lleno.
+\fte In a corner, it's full.
+\com
+\idx
+\ref ZOH001R047 006
+\_no 00007
+\tx taxx@
+\mb
+tax
+7enh
+kantida7 de m@n
+kantidad de m@n
+7en
+cantidad de camote en
+in
+uno esquina llenarse-COM
+one corner fill
+ZOH001R0471001.txt
+-wa
+\zoq Taxx@ gag@ m@n.
+\fts Lleno de camote.
+\fte Full of those yams.
+\com
+\idx
+\com
+\idx
+gag@
+m@n.
+- wa ka -ga man
+\sgl 1lenarse-COM DCT3-DEM camote
+\egl fill
+-COM DCT3-DEM yam
+-COM
+\ref ZOH001R047 007
+\_no 00008
+\tx 7entonse bi chik
+\mb 7entonses bi chik
+kotajjanh
+tum ladu.
+ko -taj
+-7anh tum ladu
+\sg1 entonces DEF chico SOC-escarbar-NOM4 uno lado
+\egl then DEF little soc-dig
+-NOM4 one side
+\zoq 7entonses bi chik kotajjanh tum ladu.
+\fts Entonces los biushitu un lado.
+\fte Then the little ones on the side.
+\not kotajjanh = camote arrancado pero biushito)
+\ref ZOH001R047 008
+\_no 00009
+\tx si
+si 70 no.
+7enh 7un tzuxu7.
+7en 7un tzuxu7
+un esquina
+a
+corner
+Page 2
+en
+in

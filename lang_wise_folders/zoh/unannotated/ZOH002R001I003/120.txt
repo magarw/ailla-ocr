@@ -1,0 +1,42 @@
+Johnson / A Grammar of San Miguel Chimapala Zoque
+(v)
+(vi)
+(vii)
+sim ye'tzmuxpa
+si ?əm+ ye?c=muš-pa
+if 2E+ llegar=saber-INC
+'Si llegas.'
+jemji de lo kem tøpa
+hemhi? de lo ke
+todo
+de lo que 2E+
+'todo de lo que quieres'
+?əm+ tə?-pa
+pøkø yo' pam refresko
+pək-A? yə.?
+querer-INC
+para ?ǝm+ refresko
+agarrar-IMPV DCT1.DEM para 2E+ refresco
+'Agarra esto para tu refresco.'
+(ZOH001 R012- 162)
+(ZOH001R012- 110)
+(ZOH001R011–093)
+(viii) 'øn tzøktammøn chik jakaljá'
+?ən+ cək-tam-wǝ
+?ən+ čik hakal+haa?
+1E+ hacer-1/2PI-COM 1E+ chico galerita+CADA
+'Cada uno hicimos nuestra galerita donde vamos a dormir.'
+(ZOH001R007- 011)
+The remainder of the Zwicky and Pullum criteria for distinguishing clitics
+from affixes are also met. There are no gaps in the set of clitics: all persons are
+represented. There are no morphophonological idiosyncrasies in the set, since
+the alternations are dependent on context (whether the host ends in a vowel or
+a deletable glottal stop) and on register (reduced forms in rapid or casual
+speech; full forms in careful speech). There are clearly no semantic
+idiosyncracies.
+5.1.2. Plural marking
+The plural suffix for a first or second person argument is -tam (1/2PL).
+The plural suffix for a third person argument is -šuk (3PL). These suffixes may
+actually be co-referenced with any core argument (see section 6.2.3 for further
+discussion). Number agreement between the verb and an overt nominal
+95

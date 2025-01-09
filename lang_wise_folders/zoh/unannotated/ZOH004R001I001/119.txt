@@ -1,0 +1,62 @@
+\DSRC HAJ94
+\CMTS
+\date 10/Nov/94
+\lex 7imunix n@7
+\_no 00276
+\LG MIG
+\PSH
+\UND 7imunix n@7
+\MB limo*n, agua
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG jugo de limo*n
+\ENG lime juice
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 15/Oct/94
+\lex 7in
+\_no 00277
+\LG MIG
+\PSH
+\UND 7in
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG nublarse
+\ENG to get cloudy
+\EXU 7in-w@ 7anh-nam-tzu7
+\XPSH [7inn@ 7anhnamtzu7.]
+\XSP Se nublo* en la man~ana.
+\XEN It got cloudy in the morning.
+\SYN
+\SPL yak.7in
+\SLGR CAUS
+\SLGL hacer nublar // to make cloudy
+\SEMF nature
+\ASP accomplishment
+\ARG
+ZOH004R0011001.txt
+\NOM 7in. @7
+\SUB 7in-win-nuk, 7ok.'in, yuk. 'in
+\ETYM
+\ETL
+\ROOT 7in
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex 7inanu patanux
+\_no 00278
+Page 119

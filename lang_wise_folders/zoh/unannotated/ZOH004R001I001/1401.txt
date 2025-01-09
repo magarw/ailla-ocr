@@ -1,0 +1,63 @@
+\SPG mun*eca; coyuntura/porra de la mano
+\ENG wrist; wrist joint
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzanh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 20/Jun/95
+\lex tzanh.kuy7 xaj
+\_no 03257
+\LG MIG
+\PSH [tzanhkuy7 xaj]
+\UND tzanh.kuy7 xaj
+\MB golpear, INSTR1, brazo
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG brazo y sobaco
+\ENG the whole arm, up to the shoulder joint
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT tzanh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 20/Jun/95
+\lex tzanh.kuy7 xix
+\_no 03258
+\LG MIG
+\PSH [tzanhkuy7 xix]
+\UND tzanh.kuy7 xix
+\MB golpear, INSTR1, carne
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG comatillo del brazo
+\ENG biceps
+\EXU
+\XSP
+\XEN
+ZOH004R0011001.txt
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzanh
+\RTGR T3
+Page 1401

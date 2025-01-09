@@ -1,0 +1,29 @@
+Formation of Verb Stems
+82
+Three classes of verb stems are derived by suffixation:
+transitive verb stems, intransitive verb stems, and verb stems
+of undetermined class. The latter stems may not be inflected
+without further derivation, and most may be derived to form
+either transitive or intransitive verb stems.
+Formation of Verb Stems
+of Undetermined Class
+//c // derives verb stems from transitive verb roots.
+The derived stems describe repetitive action. Stems derived
+with ///c// must be further derived by //it // and ///ex// be-
+fore they may be inflected. Examples of this derivation are:
+//kál-c-it-ex// to mix something over and over < //kál // to
+mix something, //láw-c-it-ex// to fan something over and over
+//láw // to fan something.
+<
+//č // derives verb stems from transitive and intransitive
+verb roots. The derived stems indicate completeness of action.
+Stems derived by //č// must be further derived before inflec-
+tion; further derivation with //it// and //ex// forms a tran-
+sitive verb stem, further derivation with ///ax /// forms an in-
+transitive verb stem, and further derivation with //im// and
+//tak // forms a noun stem. Examples of these derivations are:
+//č'íy-č-it-ex // to rip something by pulling off small bits
+< transitive verb root //č'íy // to pull off small pieces of
+something, //č'íy-č-it-ax-(ih) // to be torn into little bits
+< transitive verb root //č'íy // to pull off pieces of some-
+thing, //óč-č-ax-(ih) // to fill a thing with one's body, or to

@@ -1,0 +1,62 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tze7
+\RTGR T3
+\DSRC HAJ94
+\CMTS fixed: TK
+\date 03/Jan/80
+\lex tzek=tu.i7
+\_no 00343
+\LG MIG
+\PSH [tzektuwi 7]
+\UND tzek-tuy. E7
+\MB barriga, estirar, NOM7
+\VAR
+\GRAM BA-ed
+\SCI
+\USE
+\SPG barrigo*n; panzo*n
+\ENG beergut; paunch
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tuy
+\RTGR 12
+\DSRC TK94
+\CMTS %tuy
+\date 28/Jan/96
+\lex tzetz.e7
+\_no 00344
+\LG MIG
+\PHO [tzetze7]
+\UND tzetz.E7
+\MB labrar, NOM7
+\VAR
+\GRAM_PCP
+\SPG labrado
+\ENG worked
+\EXU tzetz.e7+k kuy
+\XPSH [tzetze7k kuy]
+\XSP madera labrada
+\XEN worked wood
+\SYN
+\ROOT tzetz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tze'k.e7
+\_no 00345
+\LG MIG
+\PHO [tzeke7]
+\UND tze7k. E7
+\MB pedir, NOM7
+\VAR
+ZOH001R0611004.txt
+Page 137

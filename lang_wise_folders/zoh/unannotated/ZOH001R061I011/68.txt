@@ -1,0 +1,61 @@
+\XSP
+\XEN
+\ROOT xu7t 12
+\CMTS caus yak.xu7t
+\CMTS caus2 yak+ xu7t hacer angosto; encoger
+\lex xux
+\_no 00353
+\SPG chiflar
+\ENG to whistle
+\EX 7@y xuxjayy@
+\XSP le chiflo*
+\XEN he whistled at someone
+\ROOT Xux I1
+\CMTS
+\lex xuy
+\_no 00354
+\SPG pescar con anzuelo
+ENG to fish with a fish hook
+\EX koke xuyy@
+\XSP agarro* pescado con anzuelo
+\XEN he fished with a hook
+\ROOT xuy T1
+\lex x@j
+\_no 00355
+\SPG pasar el agua
+\ENG for the rain to pass
+\EX X@jjam tuj
+\XSP ya paso* el agua
+\XEN now the rain has passed
+\CMTS 7@y 7ixtukk@ yakx@jja bi tuj
+\XSP espero que pasa el agua
+\XEN she waited for the rain to pass
+\ROOT X@j IX
+\CMTS caus yak.x@j (see ex.)
+\CMTS ex is probably yakk@
+\lex x@k@k
+\_no 00356
+\SPG quejarse - ya para morir
+\ENG to complain
+\EX
+\XSP
+\XEN
+\ROOT x@k@k Ix
+\CMTS get deriv's
+\CMTS no caus
+\CMTS ya estaba dando las ultimas para morir
+\lex x@n
+\_no 00357
+ZOH001R0611011.txt
+\SPG aguar
+\ENG
+-
+\lex yay
+\_no 00358
+now like you're going to die
+\EX
+\XSP
+\XEN
+\ROOT x@n Ix
+\CMTS ERROR? can't get this: no sale nada
+Page 68

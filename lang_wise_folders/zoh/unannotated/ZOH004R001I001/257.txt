@@ -1,0 +1,63 @@
+\EXU
+\XSP
+\XEN
+\SYN ya monh-
+\SEMF
+\ETYM
+\ETL Sp
+ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS cf. monh- 'acostarse' NEG in \EX
+\date 08/Jan/96
+\lex dey
+\_no 00599
+\LG MIG
+\PSH
+\UND te-y
+\MB DEM1, TEMP
+\VAR
+\GRAM part
+\SCI
+\USE
+\SPG 1 ahora, ya
+\SPG 2 ahorita
+\SPG 3 bueno
+\ENG 1 now
+ENG 2 right now
+\ENG 3 good, ok
+\ENG
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 08/Jan/96
+\lex dond +ju kum-@-pa ka'-xuk-pa+a7k
+\_no 00600
+\LG MIG
+\PSH [dondju kum@: pa kaxukpa*7]
+\UND donde +ju kum-@-pa ka7-xuk-pa +P@7k
+\MB donde, donde, enterrar, X, INC, morirse, 3P1, INC, REL
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG panteo*n; camposanto
+\ENG graveyard; cemetery
+\SPL
+\SLGR
+\EXU
+ZOH004R0011001.txt
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+Page 257

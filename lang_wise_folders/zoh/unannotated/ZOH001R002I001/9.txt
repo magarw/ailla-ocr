@@ -1,0 +1,85 @@
+\fts No lo oistes como se llama esos animales?
+\fte Didn't you hear what they call those animals?
+\not
+\idx
+\ref ZOH001R002 036
+\_no 00037
+\tx 7i bi kajanh tummanh tummanh.
+\mb 7i bi kajanh tummanh
+\sg] y
+tummanh
+DEF tigre igual
+igual
+\egl and DEF jaguar equal equal
+\zoq 7i bi kajanh, tummanh, tummanh.
+\fts El tigre, igual,
+igual.
+\fte And the jaguar, it's the same, the same.
+\not
+\idx
+\ref ZOH001R002 037
+\_no 00038
+\tx minpa
+bi ney 7anhp@n
+\mb min
+-pa bi ney 7anh -p@n
+\sg1 venir-INC DEF IPrn BOCA -hombre
+\egl come -INC DEF IPrn MOUTH-man
+\ref ZOH001R002 038
+\_no 00039
+\zoq Minpa bi ney 7anhp@n deji7 de gaja*nh.
+\fts viene nuestra idioma ahi* de alla*.
+\fte our language comes here from there.
+\not
+\idx
+y@d@
+-wa ya -d@
+\tx minn@
+\mb min
+7anhp@n de Kopainala*, Chyapas.
+7anh -p@n de Kopainala* Chyapas
+BOCA -hombre de Copainala*
+\egl come -COM DCT1-DEM MOUTH-man of Copainala*
+\sg1 venir-COM DCT1-DEM
+Chiapas
+Chiapas
+\ref ZOH001R002 039
+\_no 00040
+\tx
+\mb pero ka
+ZOH001R0021001.txt
+\zoq Minn@ y@d@ 7anhp@n de Kopainala*, Chyapas.
+\fts vino esta idioma de Copainala*, Chiapas.
+\fte This language came from Copainala*, Chiapas.
+\not
+\idx
+pero gad@
+tyempu 7inosente,
+pero ka -d@ tyempu 7inosente
+\sg1 pero DCT3-DEM tiempo
+\egl but DCT3-DEM time
+\ref ZOH001R002 040
+\_no 00041
+\zoq Pero gad@ tyempu 7inosente,
+\fts Pero en ese tiempo era inocente,
+\fte But in that innocent time,
+\not
+\idx
+\tx numtunh,
+\mb
+\sg1
+\egl rob - road
+robar-camino
+deji7 de gaja*nh.
+te -ji7 de ka -jaanh
+DCT2-LOC1 de DCT3-DIR1
+DCT2-LOC1 of DCT3-DIR1
+numtunh.
+num -tunh n@m -xuk-w@ num -tunh
+做法
+decir-3PL-COM robar-camino
+say -3PL-COM rob -road
+Page 9
+inocente
+innocent
+n@mxukk@

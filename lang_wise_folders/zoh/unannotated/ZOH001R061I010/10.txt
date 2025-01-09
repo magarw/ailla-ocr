@@ -1,0 +1,62 @@
+\ANTI ja7p. 7oy moler
+\PRSV ja7p.ten
+\CMTS term tuk
+\CMTS to crush/grind something in the metate
+\lex jatikx
+\_no 00038
+\SPG estornudar
+\ENG to sneeze
+\EX da yakjatikx@ niwi
+\XSP me hizo estornudar el chile
+\XEN the chile made me sneeze
+\ROOT jatikx Ix
+\SEMF body
+\CAUS yak.jatikx hacer estornudar
+\CMTS
+\lex ja7tz
+\_no 00039
+\SPG agarrar fiado; fiar; pedir
+\ENG to buy on credit
+\EX 7@n jatzp@kk@ 7@n tak ponji ponji 7@n yojjanhkampa
+\XSP agarre* fiado mi casa, poco a poco lo voy acabando de pagar
+\XEN I bought my house on credit, little by little I'm paying
+\ROOT ja7tz T1
+\SEMF trade
+\CMTS ja7tz or jatz ?
+\PASS NONE
+\CMTS always gives examples with p@k
+\lex jaway
+\_no 00040
+ZOH001R0611010.txt
+\SPG arder (como una quemada o una herida)
+\ENG to burn (like a burn or a wound)
+\EX wen jawayy@
+\XSP estuvo ardiendo mucho
+\XEN it was burning a lot
+\EX jawaypa
+\XSP ardor
+\XEN burning
+\ROOT jaway 12
+\SEMF body, temp
+\CAUS yak.jaway hacer arder
+\CMTS
+\lex jax
+\_no 00041
+\SPG asar (carne); tostar (totopo); tostarse
+\ENG to roast (meat); to toast (totopo)
+\EX xix jaxx@
+\XSP aso* la carne
+\XEN she roasted the meat
+\EX patanux 7ay jaxxukpa
+\XSP esta*n asando hoja de pla*tano
+\XEN_they're roasting banana leaves
+\EX ?* jaxx@mma*m bi xix
+\XSP ?* ya se aso* la carne
+\XEN
+\ROOT jax T1
+\SEMF Cook
+\CAUS yak.jax vt tostar
+\PASS? ex: a little odd because the meat can't roast itself
+\PRSV jax.ten
+Page 10
+off

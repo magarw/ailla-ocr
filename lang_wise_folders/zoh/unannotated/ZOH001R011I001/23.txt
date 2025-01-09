@@ -1,0 +1,87 @@
+\tx y
+\mb 7@y
+\sg1 3E
+n@mjayy@
+7odi7 tej
+nam -jay -wa 7odi7 teji
+decir-APPL-COM Odi
+\egl 3E say -APPL-COM odi
+\tx y y@jama
+\mb 7@y y@
+\sg1 3E
+-7 -jama
+DCT1-NOM1-dia
+\egl 3E DCT1-NOM1-day
+\ref ZOH001R011 100
+\_no 00101
+\zoq Y n@mjayy@, "7odi7! Tej y@ji jamatin_7@n gantz@kk@ y y@jama!
+\fts Le dijo, "Odi! Aqui esta* el dinero lo que gane* hoy!
+\fte He said to her, "odie! Here is the money I earned today!
+\com
+\idx
+m
+\tx jub@
+\mb
+tijj@*7
+7@m tij-w@
+\sg1 donde-DUBIT 2A ir -COM
+\eg1 where-DUBIT 2A go -COM
+ju7 -b@7
+\zoq "Jub@m tijj@*7?"
+\fts "Donde fuistes, pues?"
+\fte "where on earth did you go?"
+\com
+\idx
+\ref ZOH001R011 101
+\_no 00102
+\tx 7@n 7oktijj@yy@
+7i
+xa
+\mb 7@n
+\sgl 1E
+7ok -tij-7@y-w@ 7i xa7
+ABAJO-ir -SUF-COM Y
+INTENS soldado NPL
+\egl 1E DOWN -go -SUF-COM and INTENS soldier NPL
+\com
+\idx sp
+ZOH001R0111001.txt
+y@ji
+jamatin 7@n gantz@kk@
+ya ji7 jamatin 7@n ganar-tz@k -w@
+hay
+DCT1-LOC1 dinero 1E ganar-hacer-COM
+there is DCT1-LOC1 money 1E earn -do
+\zoq "7@n 7oktijj@yy@ 7i xa soldaod@kka.
+\fts "Segui* los soldados.
+\fte "I went down with some soldiers.
+\ref ZOH001R011 102
+\_no 00103
+\tx tijja
+\mb
+\sgl ir -COM 1E mono
+\egl go -COM 1E
+n tzawi me7tztame
+tij-w@
+tij-w@ 7@n tzawi7 me7tz -tam -E
+buscar-1/2PL-dCOM
+\zoq Tijjan tzawi me7tztame.
+\fts Fuimos a buscar changos.
+\fte we went monkey-hunting.
+\com
+\idx
+monkey look -1/2PL-dCOM
+\ref ZOH001R011 103
+\_no 00104
+-
+soldao d@kka
+soldado d@kkay
+\tx ya y tanxukk@
+-xuk-w@
+\mb ya 7@y tan
+\sg1 NEG 3E pegar-3PL-COM
+\eg1 NEG 3E hit -3PL-COM
+\zoq Yay tanxukk@.
+Page 23
+"I
+-COM

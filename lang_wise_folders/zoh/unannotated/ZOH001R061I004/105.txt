@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT putz
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex pojoj.e7
+\_no 00260
+\LG MIG
+\PHO [pojoje7]
+\UND pojoj.E7
+\MB destorcerse, NOM7
+\VAR
+\GRAM Pcp
+\SPG destorcido
+\ENG unravelled
+\EXU laxu pojoj.e7
+\XPSH [laxu pojoje7]
+\XSP mecate destorcido
+\XEN unravelled rope
+\SYN
+\ROOT pojoj
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex pojo7k=xox.e
+\_no 00261
+\LG MIG
+\PSH [pojo7kxoxe]
+\UND pojo7k=xox. E
+\MB huevo, cocer, NOM7
+\VAR
+\GRAM nom:incorp
+\SCI
+\USE
+\SPG huevo cocido duro
+\ENG hard-boiled egg
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT XOX
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex pot.i7
+\_no 00262
+\LG MIG
+\PSH [poti7]
+\UND pot. E7
+\MB hacerse_blanco, NOM7
+\VAR
+\GRAM a
+ZOH001R0611004.txt
+Page 105

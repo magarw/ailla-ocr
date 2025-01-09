@@ -1,0 +1,63 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 01/Oct/94
+\lex k@.7an
+\_no 01645
+LG MIG
+\PSH [k@7an-]
+\UND k@.7an
+\MB FUERA, calentarse
+\VAR
+\GRAM Vi
+\SCI
+\USE
+\SPG calentarse las hojas de una mata cerca de la lumbre
+\ENG to heat up the leaves of a plant close to the fire
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7an
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 13/Jul/95
+\lex k@.7anh.je7k. '@y
+\_no 01646
+\LG MIG
+\PSH [k@7anhje7kk@y-
+\UND k@.7anh.je7k.7@y
+\MB FUERA, tener_miedo, SUF
+\VAR k@.anh.je7k.7@y
+\GRAM vt
+\SCI
+\USE
+\SPG desanimar; echarle en miedo
+\ENG to lose courage; to be in fear
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+\ETL
+\ROOT 7anh.je7k
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+Page 711

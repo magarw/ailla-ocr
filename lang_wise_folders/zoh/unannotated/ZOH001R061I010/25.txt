@@ -1,0 +1,61 @@
+\lex kax
+\_no 00101
+\SPG pegar un paso; dar pasos
+\ENG to take a step
+\EX
+\XSP
+\XEN
+ROOT kax I1
+\SEMF motion
+\CAUS yak.kax hacer caminar
+\CMTS could not get any kind of object, or ergative pronouns
+\lex kej
+\_no 00102
+\SPG verse
+\ENG to appear
+\EX kejj@ 7@y jaya
+\XSP se vio* su marido
+\XEN her husband appeared
+\ROOT kej 12
+\SEMF percep
+\CAUS yak.kej ensen~ar; dar a saber
+\CMTS
+\lex kek
+\_no 00103
+\SPG brincar; saltar; volar
+\ENG to hop; to jump; to fly
+\EX 7@n kekpa
+\XSP brinco
+\XEN I hop over something
+\EX d@ kekpa tum ponh
+\XSP voy a brincar un viaje
+\XEN I'm going to hop once
+\EX jon kekk@
+\XSP volio* el pa*jaro
+\XEN the bird flew
+ZOH001R0611010.txt
+\EX 7@n yakkekpa y@d@ tzux najak
+\XSP voy a hacer brincar esta rana verde
+\XEN I'm going to make this green frog jump
+\ROOT kek T1
+\SEMF motion
+\CAUS yak.kek hacer brincar
+\CMTS
+\lex kekx
+\_no 00104
+\SPG despeltrar; desestillarse, como madera, olla
+\ENG to chip; to splinter, like wood or a pot
+\EX
+\XSP
+\XEN
+\ROOT kekx T3
+\SEMF break
+\PASS kekx.7@m astillarse
+\ANTI kekx.7oy
+\CMTS
+\lex keo
+\_no 00105
+\SPG brillar
+\ENG to shine; to reflect
+\EX keopa m@jm@
+Page 25

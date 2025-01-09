@@ -1,0 +1,72 @@
+(240) Tiiya
+Tío
+(241) ma='
+maa=tzan ma
+jaʼla
+ahora tío
+'Tío, hasta ahora te encontré, tío,
+0=1-eet=a
+tiiya
+PROX=ENF B2s-ver-PAS=2s Als-SR:AGT=1s tío
+'ya te encontré,'
+tiiya,
+(242) 0-chi-tzan.
+hasta-puesPROX B2s-encontrar-PAS=2s Als-SR:AGT=1s
+B3s-decir pues
+'dijo.'
+(243) Mii' tiiya, mii' 0=q'ojl=ta
+NEGtío
+'No, tío, no te enojés,
+0=q'ojl=ta
+B2s=enojar=2sENF
+(246) Poq'
+(244) mii'
+NEG
+'no te enojés,'
+(245) luu jun pixh=0=ta
+aquí un
+'tomá un pedazo de fruta conmigo.'
+(247) N=0=tzaaj
+t-kub' jun nimaal
+AFEC:acción.partir A3s-bajar un AUM
+'¡Zas! partió una fruta de zapote."
+q'o-'n,
+INC=B3s-DIR dar-SD
+'Lo dió,'
+0=kan-eet-a
+NEG B2s=enojar=2sENF
+(248) luu jun pixh=0
+aquí un pedazo=B3s
+'tomá un tu pedazo,'
+(249) porbaala-n=x=chaq=ta
+(250) N=0=tzaaj
+(251) t'ab'
+t-lo'
+pedazo=B3s=3sENF A3s-fruta
+w-u'n=a
+t-ee='
+neej.
+probar-IMP=DIR=DIST=2sENF primero
+'pruébala primero."
+xoo-'n
+INC=B3s-DIR tirar-SD
+'Lo tiró,'
+(252) nn=0=ook
+A2s-SR:POS=2s
+teen=q' lo-1
+INC=B3s=DIR estar CL ver-INF
+'se puso a comerlo.'
+w-u'n=a
+t-tzy-eet
+tiiya,
+AFEC:acción.atrapar.con.boca A3s-agarrar-PAS A3s-SR:AGT tío
+'¡tas! lo agarró el tío,'
+t-ee.
+w-uuk'al=a
+luu'
+Als-SR:COM=1s aquí
+t-lo=q'a chulal.
+A3s-fruta CL zapote
+t-u'n
+A3s-SR:PAC
+21

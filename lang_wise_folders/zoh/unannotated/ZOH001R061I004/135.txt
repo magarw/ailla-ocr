@@ -1,0 +1,63 @@
+\VAR tzaam p@n
+\GRAM sms
+\SCI
+\USE
+\SPG hombre sazo*n
+\ENG a mature man
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzam
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 10/Feb/96
+\lex tzatz.a7
+\_no 00338
+\LG MIG
+\PSH [tzatza7]
+\UND tzatz.A7
+\MB rajar, NOM2
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG rajado; roto
+\ENG torn in strips; torn
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzatz
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-PH: should be tzatz.@7 ??
+ZOH001R0611004.txt
+\CMTS HAJ:96 tzatz@7 = 'rompelo'. he confirms this entry; OK/TK
+\date 26/Jun/96
+\lex tzatz.e7
+\_no 00339
+\LG MIG
+\PSH [tzatze7]
+\UND tzatz.E7
+\MB rajar, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG "lo rajaron"; "alguien lo rajo*"
+\ENG torn; "they tore it"; "someone tore it"
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+Page 135

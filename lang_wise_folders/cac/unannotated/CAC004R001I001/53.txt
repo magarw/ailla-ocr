@@ -1,0 +1,97 @@
+Yo no soy hijo de don Diego.
+a in tik man inyuninok laj waj Yakin
+a
+in tik man in-y-unin-ok
+laj waj Yakin
+top 1B dem neg 1B-3A-hijo-IRR neg Cmasc Diego
+Yo no soy hija de don Diego.
+a in tik man inyisilok laj waj Yakin
+a in tik man in-y-isil-ok
+laj waj Yakin
+top 1B dem neg 1B-3A-hija-IRR neg Cmasc Diego
+129. Juan es brujo.
+108
+a winhaj Xun ajb'a'al winh
+a winhaj Xun aj-b'a'al winh
+top Cmasc Juan sup-brujo Cmasc
+130. Juan se volvió brujo.
+a winhaj Xun ixoch winh ajb'a'alil
+a
+winhaj Xun ix-Ø-och
+winh aj-b'a'al-il
+top Cmasc Juan pas-3B-entrar Cmasc sup-brujo-abs
+131. Esa canasta es mía.
+a jun te' mo'och chi' wik te'
+a
+jun te'
+mo'och chi' w-ik
+te'
+top uno Cmadera canasta dem 1A-SR Cmadera
+Esa canasta es tuya.
+a jun te' mo'och tik ik te'
+a
+jun te'
+top uno Cmadera canasta dem 2A-SR Cmadera
+mo'och tik Ø-ik te'
+Esa canasta es de él.
+a jun te' mo'och chi' yik te' winh
+a jun te'
+mo'och chi' y-ik te'
+winh
+top uno Cmadera canasta dem 3A-SR Cmadera él
+Esa canasta no es mía.
+a jun te' mo'och chi' man wikok laj te'
+a
+jun te'
+mo'och chi' man w-ik-ok laj te'
+top uno Cmadera canasta dem neg 1A-SR-IRR neg Cmadera
+Este canastón no es mío.
+a jun te' xu'uk tik man wikok laj te'
+a
+jun te'
+top uno Cmadera canastón dem neg 1A-SR-IRR neg Cmadera
+xu'uk tik man w-ik-ok laj te'
+Ese canastón no es tuyo.
+a jun te' xu'uk chi' man ikok laj te'
+a
+jun te'
+top uno Cmadera canastón dem neg 2A-SR-IRR neg Cmadera
+132. Mi canasta es esa.
+xu'uk chi' man ø-ik-ok laj te'
+Esa canasta no es de él.
+a jun te' mo'och chi' man yikok laj te' winh
+a jun te'
+mo'och chi' man y-ik-ok laj te'
+winh
+top uno Cmadera canasta dem neg 3A-SR-IRR neg Cmadera él
+a te' inmo'och a jun te' chi'
+a te'
+chi'
+in-mo'och a
+jun te'
+top Cmadera 1A-canasta top uno Cmadera dem
+te' inxu'uk a te' chi'
+te'
+chi'
+in-xu'uk
+a te'
+Cmadera 1A-canastón top Cmadera dem
+Mi canasta no es esa.
+a te' inmo'och mok laj jun te' chi'
+a
+te'
+in-mo'och m-ok
+laj jun te'
+chi'
+top Cmadera 1A-canasta neg-IRR neg uno Cmadera dem
+te' inxu'uk manok laj te' chi'
+in-xu'uk
+chi'
+te'
+man-ok laj te'
+Cmadera 1A-canastón neg-IRR neg Cmadera dem
+manok laj te' inxuk chi'
+man-ok laj te'
+in-xuk chi'
+neg-IRR neg Cmadera 1A-canastón dem
+109

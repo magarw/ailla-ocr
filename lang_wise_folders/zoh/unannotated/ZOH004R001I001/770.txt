@@ -1,0 +1,63 @@
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS analysis? cf. mex(a)+g@xi on the table'
+\date 25/Jun/96
+\lex k@x@@nh
+\_no 01780
+\LG MIG
+\PHO [k@x@*nh}
+\UND k@x@@nh
+\MB
+\VAR
+\USE directional
+\GRAM av
+\SPG de alla* arriba
+\ENG from up
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS only used to refer to directions in San Miguel
+\DATE 03/Jan/1980
+\lex k@x-(@)=t@'
+\_no 01781
+\LG MIG
+\PSH [k@x@t@-]
+\UND k@x-@-t@7
+\MB comer, X, querer
+\VAR
+\GRAM vt+desid
+\SCI
+\USE
+\SPG querer de comer
+\ENG to want to eat
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT 1 k@x
+\RTGR 1 T3
+\ROOT 2 t@
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS CK-PH: first @ should be long.
+\CMTS HAJ:96
+it is long, but it's not k@x(i)=t@'. that's 'quiso comida';
+IF IT'S LONG, WE HAVE TO BE ABLE TO RECOVER THAT FROM THE SPELLING!!!
+\date 25/Jun/96
+\lex k@y
+\_no 01782
+\LG MIG
+\PSH
+\UND kay
+\MB
+\VAR
+\GRAM vt
+Page 770

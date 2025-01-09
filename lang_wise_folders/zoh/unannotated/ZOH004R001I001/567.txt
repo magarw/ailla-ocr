@@ -1,0 +1,63 @@
+ZOH004R0011001.txt
+\SLGR estar encajado // to be stuck through by something
+\EXU 1 7@n+ koj-w@ de.' yati7
+\XPSH 1 [7@n kojj@ de yati7.]
+\XSP 1 Encaje* esa anona.
+\XEN 1 I punched a hole in this fruit.
+\EXU 2 koj.7@m-w@ de.' yati7
+\XPSH 2 [Kojj@mm@ de yati7.]
+\XSP 2 Se encajo* la anona.
+\XEN 2 The anona was pierced.
+\EXU 3 koj.ney-w@ de. kuy yati'+g@xi
+\XPSH 3 [Kojneyy@ de kuy yatig@xi.]
+\XSP 3 Esta* encajado ese palo en la anona.
+\XEN 3 That stick is stuck through the anona.
+\SYN
+\SEMF cut
+\ASP achievement
+\ARG
+\NOM koj. kuy7
+\SUB 7ok.koj.'@y, koj=woj, koj=nuk, ya.anh.koj.'@y, nik.koj.'@y,
+\SUB yuk.koj
+\ETYM
+\ETL
+\ROOT koj
+\RTGR T3
+\DSRC TK94
+\CMTS Camilo doesn't accept the ASSUM1 form, ex is from GSM
+\CMTS get deriv's
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex koja
+\_no 01299
+\LG MIG
+\PSH
+\UND koja
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG pecado
+\ENG sin
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 27/Mar/95
+\lex ko.jap [1]
+\_no 01300
+\LG MIG
+\PSH [kojap-]
+\UND ko.jap
+\MB OTRO, X
+\VAR
+\GRAM vt
+\SCI
+Page 567

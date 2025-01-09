@@ -1,0 +1,71 @@
+\zoq 7alegrem witpa.
+\fts Andas alegre.
+\fte You walk around happy.
+\com
+\idx
+\ref ZOH001R044 018
+\_no 00019
+\tx
+k@xi
+\mb k@x -E7
+me7tzpam
+me7tz -pa -7am
+\sg1 comer-NOM3 buscar-INC-YA
+\egl eat -NOM3 look -INC-NOW money
+\ref ZOH001R044 019
+\_no 00020
+\tx k@xxoba
+\mb k@x
+\zoq K@xime7tzpam bweltu.
+\fts Comes todo tu vuelto.
+\fte You look for food with your pay.
+\com ??
+\idx
+-7oy -pa
+\sg1 comer-ANTIP-INC
+\egl eat -ANTIP-INC
+\zoq K@xxoba.
+\fts Come.
+\fte You eat.
+\com
+\idx
+\ref ZOH001R044 020
+\_no 00021
+\tx 7ukkoba
+\mb 7uk -7oy -pa
+\sg1 tomar-ANTIP-INC
+\egl drink-ANTIP-INC
+\zoq 7ukkoba.
+\fts Toma.
+\fte You drink.
+\com
+\idx
+\ref ZOH001R044 021
+\_no 00022
+ZOH001R0441001.txt
+bweltu
+bweltu
+vuelto
+\tx per kwandu mix wit
+\mb pero kwandu mix wit
+\sg1 pero cuando 2Prn andar 2E
+\egl but when 2Prn walk 2E screwed-2E
+\ref ZOH001R044 022
+\_no 00023
+\tx 7i ban chik
+\mb 7i bayun chik
+7@m jodida*m
+7@m jodida -7@m
+jodida -2E
+\zoq Per kwando mix wit 7@m jodida*m yakkiw@.
+\fts Pero cuando tu ya esta*s jodida nadien.
+\fte But when you you're screwed, you're nobody.
+\com
+\idx
+yakkiw@
+yakki7-w@
+nadie -COM
+nobody-COM
+pobre, pobre p@n 7@y manak pwes
+pobre pobre p@n 7@y manak pwes
+Page 5

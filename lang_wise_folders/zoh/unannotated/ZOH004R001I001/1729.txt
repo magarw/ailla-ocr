@@ -1,0 +1,63 @@
+\SLGL estar agujerado // to be pierced
+SLGR NO ASSUM1
+\SPL xut.ten
+\SLGR PRSV
+\SLGL tener agujerado // to have something pierced
+\EXU 7@n+ xut-w@ 7@n+ toto7
+\XPSH [7@n xutt@n toto7.]
+\XSP Hice hoyos en mi papel.
+\XEN I poked holes in my paper.
+\SYN
+\SEMF cut
+\ASP transition
+\ARG
+\NOM nax=xut. 'oy.kuy7
+\SUB
+\ETYM
+\ETL
+\ROOT xut
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex xutu7
+\_no 04020
+LG MIG
+\PSH
+\UND xutu7
+\MB
+\VAR
+\GRAM S
+\SPG hoyo pequen~o
+\ENG small hole
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS pequen~o hoyo/hueco, puede ser en dondequiera
+\CMTS examples were the spyhole in the door, and a hole with a cable
+\CMTS running through it
+\date 20/Jun/96
+\lex xu7t
+\_no 04021
+\LG MIG
+\PSH
+\UND xu7t
+\MB
+\VAR
+\GRAM vi: med
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG hacerse angosto
+\ENG to become narrow
+\SPL yak.xu7t
+\SLGR CAUS
+\SLGL hacer angosto; encoger // to make narrow; to shrink
+\EXU 1 xu7t-w@
+\XPSH 1 [xu7tt@]
+\XSP 1 angosto
+Page 1729

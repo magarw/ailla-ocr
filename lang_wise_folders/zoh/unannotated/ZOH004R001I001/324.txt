@@ -1,0 +1,63 @@
+\SYN
+\SEMF scrape, hand
+\ASP activity
+\ARG instrument
+\NOM jetz.naanh
+\SUB 7ok.jetz. '@y, jetz-tzik, jetz-y@7kx, jo.jetz-wak, j@x-jetz, ko.jetz,
+\SUB nik.jetz. '@y, yuk.jetz
+\ETYM
+\ETL
+\ROOT jetz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex jetz.naanh
+\_no 00749
+\LG MIG
+\PHO [jetzna*nh]
+\UND jetz.naanh
+\MB rascar, MED
+\VAR
+\GRAM meas
+\SPG el tanto que se puede agarrar con la mano rascando
+\ENG the amount you can scratch up with the hand
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT jetz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex jetz-nitz
+\_no 00750
+ZOH004R0011001.txt
+LG MIG
+\PSH [jetznitz-]
+\UND jetz=nitz
+\MB rascar_con_mano, ponerse_aspero
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer a spero rascandolo
+\ENG to roughen by scraping
+\EXU 7@y+ jetz-nitz-w@ 7ukum
+\XPSH [7@y jetznitztz@ 7ukum.]
+\XSP Hizo a*spero la calabaza por rascarlo.
+\XEN She roughed up (the surface of) the squash by scraping it.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT jetz
+\RTGR T3
+\ROOT nitz
+\RTGR IX
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+Page 324

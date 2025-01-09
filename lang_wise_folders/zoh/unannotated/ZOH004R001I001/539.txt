@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ket
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS cf ket.ney got this in place of that
+\date 11/Jan/96
+\lex ket.kuy7
+\_no 01235
+\LG MIG
+\PSH [ketkuy7]
+\UND ket.kuy7
+\MB tapar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG ropa; sa*bana; algo con que se tapa
+\ENG clothes; a sheet; something that you can cover yourself with
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN ni.xuy
+\SEMF
+\ETYM
+\ETL
+\ROOT ket
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex ketz
+\_no 01236
+\LG MIG
+\PSH
+\UND ketz
+\MB
+ZOH004R0011001.txt
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG regar (agua, frijol, arena...)
+\ENG to spread (water, beans, sand ...)
+\SLGR NO ANTIP
+\SPL ketz.7@m
+\SLGR PASS
+\SLGL (se puede decir) // (you can say it)
+\EXU_n@'=ketz-w@ tzanh.kuy'+j@nanh
+\XPSH [N@ketztz@ tzanhkuyj@nanh.]
+\XSP Rego* agua con la mano.
+\XEN She scattered water with her hand.
+\SYN
+\SEMF activity
+\ASP
+\ARG instrumentn
+\NOM
+\SUB 7anh.ketz, 7ok.ketz. '@y, k@.n@k-ketz. '@y, nik.ketz. '@y, win-ketz,
+Page 539

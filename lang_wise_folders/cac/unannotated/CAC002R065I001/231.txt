@@ -1,0 +1,62 @@
+UNA REAKINJA GALE
+P
+MP
+PS
+SS
+G
+E
+P
+MP
+PS
+SS
+G
+A
+CI
+Ai
+P
+PS
+SS
+G
+QULATI
+CI
+t'a nok' kóyóte či? #¹3
+t'ah nok' kóyóteh či?
+NP
+to animal coyote there
+to that coyote
+Post-Adv.
+hátik ?áykan?ek' wẤN
+há? tik ?áy--kan ?ek'
+NP
+Pre-Adv
+* here
+here
+SP
+Main
+MP t'ah xólom lu?m wíc čí?
+NP
+he is
+226
+be-he-stay-around
+Obj
+past-it-I-see male
+I saw him
+WIN
+NP
+Subj
+t'a xólom lum wíc čí? #234
+Piš wil win
+?iš-g-w-?11 WIN
+VP
+NP
+Post-Adv
+to head earth mountain there
+on top of that mountain
+Main
+male
+t'a cálan čí?
+t'ah cál-an čí?
+NP
+Post-Adv.
+to ridged-* there
+on that ridge

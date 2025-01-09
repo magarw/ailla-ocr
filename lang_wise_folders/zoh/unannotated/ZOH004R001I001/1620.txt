@@ -1,0 +1,64 @@
+\_no 03771
+\LG MIG
+\PSH [wi7ttanhwakkokuy7]
+\UND wi7t=7anh-wak. 7oy.kuy7
+\MB torcerse, abrirse, ANTIP, INSTR1
+\VAR
+GRAM instr1
+\SCI
+\USE
+\SPG 11ave
+\ENG key
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 wi7t
+\RTGR 1 T2
+\ROOT 2* wak
+\DSRC HAJ94
+\CMTS get gloss/done: TK
+\date 26/Jun/96
+\lex witz
+\_no 03772
+\LG MIG
+\PSH
+\UND witz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer alma*cigo
+\ENG to make a nursery; to nurture plants
+\SPL witz.7oy
+\SLGR ANTIP
+ZOH004R0011001.txt
+\SLGL hacer alma*cigo // to start plants
+\SPL witz.7@m
+\SLGR PASS
+\SLGL estar hecho alma*cigo // for plants to be started
+\SPL witz.ten
+\SLGR PRSV
+\SLGL estar hecho alma*cigo // to have your plants started
+\EXU 1 witz-@7
+\XPSH 1 [witz@7!]
+\XSP 1 Haz alma*cigo!
+\XEN 1 Start those plants!
+\EXU 2 mumu+jo' 7@y+ witz-w@
+\XPSH 2 [Mumujo 7@y witztz@.]
+\XSP 2 En abono hizo alma*cigo.
+\XEN 2 He started the plants in manure.
+\EXU 3 7@y+ witz.ten-wa
+\XPSH 3 [7@y witztenn@.]
+\XSP 3 Lo preparo* a tiempo.
+\XEN 3 She started the plants ahead of time.
+\SYN
+\SEMF plant
+\ASP process
+\ARG
+\NOM witz.i
+Page 1620

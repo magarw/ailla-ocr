@@ -1,0 +1,62 @@
+\lex toy. (a') p@n
+\_no 03051
+\LG MIG
+\PSH [toya p@n]
+\UND toy.A7 p@n
+\MB doler, NOM2, hombre
+\VAR tooy p@n
+\GRAM s (m) s
+\SCI
+\USE
+\SPG enfermo
+\ENG sick person
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT toy
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex trampa
+\_no 03052
+\LG MIG
+\PSH
+\UND trampa
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG trampa
+\ENG tramp
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 18/Oct/94
+\lex tramu
+\_no 03053
+\LG MIG
+\PSH
+\UND tramu
+\MB
+\VAR
+\GRAM med
+\SCI
+\USE
+\SPG tramo
+\ENG a unit of measure
+\EXU
+ZOH004R0011001.txt
+Page 1314

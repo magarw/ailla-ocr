@@ -1,0 +1,95 @@
+\id C:\TEXTS\ZOH001R043.TXT
+\ref ZOH001R043 000
+\_no 00001
+\zoq El Presidente del An~o 1996
+\fts El Presidente del An~o 1996
+\fte The Mayor of Year 1996
+\com narrado por Germa*n Sa*nchez_Morales
+\com 20/1/96, en San Miguel Chimalapa, Oaxaca, Mexico
+\com grabado por GSM, transcrito por HAJ,
+\com traducido al espan~ol por GSM,
+\com analisado y traducido al ingles por HAJ.
+\com
+\com
+\com 7
+\com @
+\com nh
+\com tz
+\com narrated by Germa*n Sa*nchez Morales
+\com 1/20/96, in San Miguel Chimalapa, Oaxaca, Mexico
+\com recorded by GSM, transcribed by HAJ,
+\com translated into Spanish by GSM,
+\com analyzed and translated into English by HAJ.
+Ortografi*a
+Orthography
+\com x
+\com j
+\com *
+pau*sula glotal
+vocal medio central
+nasal velar
+ZOH001R0431001.txt
+28/Oct/04
+\tx 7enh 7el nobentay
+\mb 7en 7el nobenta-7i
+(ng)
+africativo alveolar (ts)
+fricativo palatal
+glottal fricative (h)
+estre*s
+(sh)
+\com
+\idx
+\ref ZOH001R043 001
+\_no 00002
+\tx yey
+\mb ya -y mix 7ok
+\sg1 DCT1-TMP 1>2
+mix
+7oktzamjadampa
+y@7
+7@n 7ammaw@*7
+7@n 7amma-w@ -v7k
+-tzam -jay -tam -ра y@ -7
+ABAJO-platicar-APPL-1/2PL-INC DCT1-NOM1 1E ver -COM-REL
+\eg1 DCT1-TMP 1>2 DOWN -converse-APPL-1/2 PL-INC DCT1-NOM1 1E see -COM-REL
+sinko para 7i nobentay seys
+sinko para 7i nobenta-7i seys
+\sg1 en e*1 noventa-y cinco para y
+noventa-y seis
+\egl in the ninety -and five for and ninety -and six
+\tx sinko
+\mb sinko
+\sg1 cinco
+\egl five
+\ref ZOH001R043 002
+\_no 00003
+7entonses ya
+\tx
+\mb 7entonses ya kwando xuk
+\sg1 entonces ya
+\egl then
+now when
+glottal stop
+mid central vowel
+velar nasal
+\zoq Yey mix 7oktzamjadampa y@7 7@n 7ammaw@*7 7enh 7el nobentay sinko para 7i
+nobentay seys.
+\fts Ahora les voy a platicar este que vi* en el noventa y cinco para
+noventa y seis.
+alveolar affricate
+palatal fricative
+stress
+\fte Now I'm going to relate to you this that I saw in ninety-five going on
+ninety-six.
+kwando xukpa*m
+bi
+7amint@7 7enh 7el nobentay
+-pa -7am bi 7amint@7 7en 7el nobenta-7i
+cuando acabarse-INC-YA DEF an~O
+finish -INC-NOW DEF year
+e*1 noventa-y
+the ninety -and
+Page 1
+en
+in

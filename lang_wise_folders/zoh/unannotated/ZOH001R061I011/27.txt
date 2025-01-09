@@ -1,0 +1,60 @@
+\CMTS
+\lex muy
+\_no 00130
+\SPG doblar(se)
+ENG to dent
+EX muyy@ n_machete 7@y win
+\XSP se doblo* el filo de mi machete
+\XEN my machete got dented
+\EX 7@y yakmuyy@
+\XSP 1o apachurro*
+XEN he bent it
+\EX muyy@mm@ 7@n n@jupkuy
+\XSP apachurre* mi cubeta
+\XEN I dented my bucket
+\EX ti p@pi7t 7@m yakmuyy@ m n@jupkuy7 ?
+\XSP con que apachurrastes tu cubeta ?
+XEN what did you dent your bucket with ?
+\ROOT muy 12, T2
+\CMTS caus yak.muy apachurrar
+\CMTS pass
+\lex m@nh
+\_no 00131
+\SPG cojear
+\ENG to limp
+\EX
+\XSP
+\XEN
+\ROOT m@nh Ix
+\CMTS caus yak.m@nh hacerlo andar mankiyando
+\CMTS get deriv's
+\lex naka7tz
+\_no 00132
+\SPG planchar; machucar; aplastar
+\ENG to iron; to press; to smash
+\EX naka7tztz@ yote7
+\XSP plancho* _la_ropa
+\XEN he ironed clothes
+\ROOT naka7tz T3
+\CMTS no form ka7tz *
+\CMTS antip na.ka7tz.7oy
+\CMTS pass naka7tz.7@m
+\CMTS frozen prefix na.
+\lex nakx
+\_no 00133
+\SPG
+\ENG to hit; to pound
+\EX x@k nakxpa
+\XSP esta* porriando frijol
+\XEN she's pounding beans
+\ROOT nakx T3
+ZOH001R0611011.txt
+\CMTS antip nakx. 7oy
+\CMTS no pass nakx.7@m *
+\lex na7k
+\_no 00134
+\SPG coser; costurar
+\ENG to sew
+\EX na7kxukka*m
+\XSP ya lo cosio*
+Page 27

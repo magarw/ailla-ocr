@@ -1,0 +1,65 @@
+\lex n@nh7@win
+\_no 02455
+\LG MIG
+\PSH
+\UND n@nh7@win
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG pasarri*o
+ENG a type of animal
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS CK
+\date 19/Jun/96
+\lex n@pin7
+\_no 02456
+LG MIG
+\PSH
+\UND n@pin7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG sangre
+\ENG blood
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+LF:4 pies
+HAJ:96, sounds ok
+\DSRC HAJ94
+\CMTS
+\date 15/Jun/95
+\lex n@pin'=kej
+\_no 02457
+\LG MIG
+\PSH [n@pinkej-]
+\UND n@pin7=kej
+\MB sangre, verse
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG verse la sangre
+\ENG for blood to appear
+\EXU
+\XSP
+\XEN
+ZOH004R0011001.txt
+Page 1059

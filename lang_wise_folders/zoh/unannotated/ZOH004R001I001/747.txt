@@ -1,0 +1,62 @@
+\lex k@nh.kuy7
+\_no 01726
+\LG MIG
+\PSH [k@nhkuy7]
+\UND k@nh.kuy7
+\MB pintar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG 1 color
+\SPG 2 brocha
+\ENG 1 color
+\ENG 2 brush
+\EXU nea7 k@nh.kuy7
+\XSP brocha para pintar paredes
+\XEN brush for painting walls
+\SYN koloor
+\SEMF
+\ETYM
+\ETL
+\ROOT k@nh
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\lex k@nh.kuy7 [2]
+\_no 01727
+\LG MIG
+\PHO [k@nhkuy7]
+\UND k@nh.kuy7
+\MB quemarse, INSTR1
+\VAR
+\GRAM instr1
+\SPG mucha quemazo*n (en el desmonte)
+\ENG lots of stuff to be burned (in the field)
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT k@nh
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex k@nh-tzak.a7
+\_no 01728
+\LG MIG
+\PSH [k@nhtzaka7]
+\UND k@nh-tzak.A7
+\MB quemarse, dejar, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG tizo*n
+\ENG firebrand
+ZOH004R0011001.txt
+\EXU juk.i k@nh-tzak.a7
+\XPSH [juki k@nhtzaka7]
+\XSP colilla de cigarro
+Page 747

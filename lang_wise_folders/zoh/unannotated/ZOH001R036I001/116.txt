@@ -1,0 +1,80 @@
+\zoq Jakke waxpa.
+\fts Mucho arde.
+\fte It really bites.
+\com
+\idx
+\ref ZOH001R036 541
+\_no 00532
+\tx 7@y k@xjaba
+\mb
+seya
+7@y
+7@y k@x -jay -pa seya
+k@x
+\sgl 3E comer-APPL-INC sea ponerse_amarillo-NOM3
+\egl 3E eat -APPL-INC may be turn_yellow
+\zoq 7@y k@xjaba seya putzi.
+\fts Lo come sea grano.
+\fte It eats at it like grit.
+\com
+\idx
+\ref ZOH001R036 542
+\_no 00533
+\tx seya xawa7@yy@
+\mb seya xawa-7@y
+aire-VERS2-COM SI todo
+\egl may_be wind-VERS2-COM IF all
+\sg1 sea
+\ref ZOH001R036 543
+\_no 00534
+ZOH001R0361001.txt
+\zoq Seya xawa7@yy@ bi7t jemji j@xp@kpa.
+\fts Si tiene aire tambien todo lo saca.
+\fte If it has (bad) air it takes all that out.
+\com
+\idx
+putzi
+pu7tz
+\ref ZOH001R036 544
+\_no 00535
+bizt jemji j@xp@kpa
+-w@ bi7t jemji7 jax -pak
+ATRAS-agarrar-INC
+BACK -get
+\tx GSM: 7entonse ga
+\mb GSM entonces ka -7 waja para wit@m
+\sg1 GSM: entonces DCT3-NOM1 bueno para ojo
+\eg1 GSM: then
+DCT3-NOM1 good for eye
+OSM: para wit@m toe7
+\tx
+\mb OSM para wit@m toy
+\sg1 OSM: para ojo
+\egl OSM: for eye
+-E7
+doler-NOM3
+hurt -NOM3
+\zoq OSM: Para wit@m toe7.
+\fts OSM: Para mal de ojo.
+\fte OSM: For eye disease.
+\com
+\idx
+\zoq GSM: 7entonse ga w@ja para wit@m toe7.
+\fts GSM: Entonces ese bueno eso para mal de ojo.
+\fte GSM: Then that is good for eye disease.
+\com
+\idx
+-E
+-NOM3
+w@ja para wit@m toe7
+toy -E7
+doler-NOM3
+hurt -NOM3
+\ref ZOH001R036 545
+\_no 00536
+\tx jakke chinhgo*n ded@
+7uba poj
+\mb jakke chinhgo*n te -d@ 7uba poj
+Page 116
+-ра
+-INC

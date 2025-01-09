@@ -1,0 +1,84 @@
+\com
+\idx
+\ref ZOH001R036 999-007
+\_no 00989
+\tx
+\mb OSM
+te -7
+\sg1 OSM: DCT2-NOM1
+\eg1 OSM: DCT2-NOM1
+OSM: de
+\tx chik 7une
+\mb chik 7une7
+\sg1 chico nin~o/a
+\egl little child
+\ref ZOH001R036 999-008
+\_no 00990
+\zoq chik 7une,
+\fts la criatura,
+\fte little child,
+\com
+\idx
+tzektz@yy@*
+tzek
+-tz@y -w@ -v7k
+barriga-atorarse -COM-REL
+belly
+ly
+\zoq OSM: De tzektz@yy@*,
+\fts OSM: Eso que esta* empachado,
+\fte OSM: That swollen belly,
+\com
+\idx
+\ref ZOH001R036 999-009
+\_no 00991
+\com
+\idx
+ZOH001R0361001.txt
+-get_stuck-COM-REL
+7@y 7ora pa
+k@xxoba
+\tx yampa yetza
+\mb
+7@y 7ora para k@x -7oy -pa
+\sg1 nPERF 11egar-nINC 3E ahora para comer-ANTIP-INC
+\eg1 nPERF arrive-nINC 3E now for eat -ANTIP-INC
+yampa ye7tz -A
+\zoq yampa yetza 7@y 7ora pa k@xxoba.
+\fts no ha llegado su tiempo para que coma.
+\fte it's time to eat hasn't
+arrived.
+\ref ZOH001R036 999-010
+\_no 00992
+\tx 7i kom teji
+mama
+mama
+\mb 7i komo teji
+\sgl y como hay
+mama*
+\egl and like there is mother 3E
+\tx k@xpa*
+\mb k@x
+\sg1 comer-INC-REL 3E
+\egl eat -INC-REL 3E
+7@y
+tzipa
+-pa -v7k 7@y tzi7-pa
+dar -INC
+give-INC
+7@y koj@ypa
+gag@
+7une
+7@y ko -jay -pa ka -g@
+-g@ 7une7
+3E SOC-sonar-INC DCT3-DEM nin~o/a
+SOC-sound-INC DCT3-DEM child
+\zoq 7i kom teji mama 7@y koj@ypa gag@ 7une k@xpa* 7@y tzipa,
+\fts y como hay madres esta* comiendo llora el nin~o por la cosa que esta*
+comiendo la mama* le da,
+\fte and since there are mothers, the baby is crying for what she's eating, she
+gives it to it,
+\com
+\idx
+\ref ZOH001R036 999-011
+Page 214

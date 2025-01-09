@@ -1,0 +1,59 @@
+COSHOITI DU DAUPHIN
+Gasta Bala
+04 novembre 2001
+1
+2
+3
+4
+5
+6
+7
+8
+9
+// asca huami ana //
+un nusca quiforo
+tsoan ano raoma
+ano rao rihuima
+un nusca quiforo
+asca huami ana
+// un nusca rinoma //
+uhuun isca fanacai
+uhuun isca-a fana-cai
+1POSS AUX.INTR2-ACC chant-MIR
+ainsi est mon chant
+// uhuun yohuu fanaquian //
+uhuun yohuu fana-quian
+1POSS sorcier chant-OST2
+mon chant de sorcier
+10 uhuun yohuu fanafoquian
+uhuun yohuu fana-fo-quian
+1POSS sorcier chant-PL-OST2
+mes chants de sorcier
+11 miqui fana baduhuai
+min-qui fana badu-huai-i
+D- EXPULSION
+2PERS-DIR chant verser-aller-PROG
+le chant se déverse sur toi
+12 uhuun fana baduhuaishon
+uhuun fana badu-huai-shon
+1POSS chant verser-aller-ACT.ANT
+mon chant s'est déversé sur toi
+13
+tsoan ano raoma
+14 // ano rao rihuima //
+15 un nusca quiforo
+16 uhuun yohuu fananu
+uhuun yohuu fana-nu
+1POSS sorcier chant-ERG
+mon chant de sorcier
+yora turuhuai
+bia yora turu-hua-i
+17 bia
+2PERS.A corps nettoyer-faire-PROG
+il nettoie ton corps
+18 un bia yora turuquin
+un bia
+yora turu-quin
+1PERS.N 2PERS.A corps nettoyer-OST1
+je nettoie ton corps
+134

@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [jokejtukkooba*7k]
+\UND jo.kej-tuk-7oy-pa +P@7k
+\MB EN, verse, acabar, ANTIP, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG transparente
+\ENG transparent
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 kej
+\RTGR 1 12
+ROOT 2 tuk
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 06/Feb/96
+\lex jo.kit
+\_no 00848
+\LG MIG
+\PSH [jokit-]
+\UND jo.kit
+\MB EN, quebrar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer pedazos quebra*ndolo
+\ENG to break something into pieces
+\SPL
+SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF break
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT kit
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\CMTS something long and brittle, like sticks or pencils.
+\CMTS something like cookies is wen-
+\date 03/Feb/96
+\DATE 03/Jan/1980
+\lex jo.ki7t
+\_no 00849
+\LG MIG
+\PSH [joki7t-]
+\UND jo.ki7t
+\MB EN, meter_dedo
+\VAR
+\GRAM vt
+Page 369

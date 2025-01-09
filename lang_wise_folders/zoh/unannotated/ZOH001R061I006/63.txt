@@ -1,0 +1,63 @@
+XPSH 1 [Ney me7kxuk@w@.]
+\XSP 1 Se abrazaron.
+\XEN 1 They hugged each other.
+\EXU 2 7@y+ me7kx.ten.e
+\XPSH_2 [7@y me7kxtene.]
+\XSP 2 Lo tiene abrazado.
+\XEN 2 She has it hugged to her.
+\SYN
+\SEMF carry
+\ASP process, transition
+\ARG
+\NOM
+\SUB 7anh.me7kx, 7anh.me7kx.n@k, me7kx.n@k, me7kx.pak.pak.w@y,
+\SUB 7ok.me7kx. '@y, j@x-me7kx, ko.me7kx, k@.n@k-me7kx. '@y,
+\SUB ni.me7kx, nik.me7kx. '@y, win-me7kx=monh, yuk.me7kx
+\ETYM
+\ETL
+\ROOT me7kx
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex me7tz
+\_no 00092
+\LG MIG
+\PSH
+\UND me7tz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG buscar
+\ENG to look for
+\SPL me7tz.7oy
+\SLGR ANTIP
+\SLGL buscar // to look for something
+\SLGR NO PASS
+\EXU me'tz-A7
+\XPSH [Metza7!]
+\XSP ! Buscalo!
+\XEN Look for it!
+\SYN
+\SEMF perception
+\ASP activity
+\ARG
+ZOH001R0611006.txt
+\NOM me7tz.naanh
+\SUB 7anh.me7tz. '@y, 7etz-me7tz, 7ok.me7tz. '@y, ko.me7tz, k@.me7tz,
+\SUB_ni.me7tz.'@y, yuk.me7tz
+\ETYM
+\ETL
+\ROOT me7tz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex mi7kx
+\_no 00093
+\LG MIG
+\PSH
+Page 63

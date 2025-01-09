@@ -1,0 +1,63 @@
+\DSRC HAJ94
+\CMTS CK-PH - ok; deleted VAR: TK
+\date 24/Jun/96
+\lex ko.jup='anh. tuk.'@y
+\_no 01326
+\LG MIG
+\PSH [kojuppanhtukk@y-]
+\UND ko.jup=7anh. tuk. 7@y
+\MB OTRO, jalar, BOCA, terminarse, SUF
+\VAR
+\GRAM vt:incorp
+\SCI
+\USE
+\SPG rodear
+\ENG to close
+\EXU 7@y+
+ko.jup='anh . tuk.7@y-w@ yo't.e'+j@nanh
+\XPSH [7@y kojuppanhtukk@yy@ yotej@nanh.]
+\XSP Lo rodeo* al jalar las cortinas.
+\XEN She closed it up by drawing the curtains.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 jup
+\RTGR 1 P, (T3)
+\ROOT 2 tuk
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS close the curtains (while sleeping) so no one will see you
+\CMTS also close curtains across an alcove so no one will see you
+\date 07/Feb/96
+\lex ko.jux
+\_no 01327
+\LG MIG
+\PSH [kojux-]
+\UND ko.jux
+\MB OTRO, asar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG recalentar en asador
+\ENG to reheat in the roaster
+ZOH004R0011001.txt
+\SLGR NO ANTIP
+\SPL ko.jux.7@m
+\SLGR PASS
+\EXU 7@y+ ko.jux-w@ xix
+\XPSH [7@y kojuxx@ xix.]
+\XSP Recalento* la carne.
+\XEN She reheated the meat.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT jux
+\RTGR TX
+\DSRC TK94
+\CMTS
+\CMTS
+\date 18/Jun/96
+Page 579

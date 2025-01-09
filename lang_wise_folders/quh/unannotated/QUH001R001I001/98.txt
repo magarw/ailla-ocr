@@ -1,0 +1,42 @@
+4.1. ¿A qué se denomina "irrealis"? Diferentes posturas
+98
+Repaso a continuación las perspectivas y definiciones desarrolladas en la bibliografía
+sobre la distinción entre los dominios semánticos del Realis e Irrealis.
+Tanto Givón (1994, 1995) como Payne (1997) señalan que la distinción entre Realis e
+Irrealis corresponde a un nivel alto de operación modal que, como la mayoría de las
+distinciones conceptuales, describen un continuum. Proponen que, prototípicamente, por
+medio del modo realis el hablante asevera que un evento o estado específico ha tenido lugar
+efectivamente o que la proposición posee valor de verdad (según la perspectiva del mismo
+hablante), mientras que a través del irrealis el hablante simplemente no realiza tal aseveración.
+Este último dominio abarca, por lo tanto, eventos que no han tenido existencia en un tiempo
+real (falsos / deseados / imaginados) o de los cuales se predica una existencia potencial en un
+tiempo futuro (posibles / proyectados). De esta manera, desde una aproximación funcionalista,
+postulan que el irrealis sucede "a caballo" entre dos sub-modos: el epistémico y el deóntico
+(Givón 1994). El valor epistémico de un enunciado deriva del grado de compromiso del
+hablante con la verdad de la proposición (Payne 1997:246), es decir, el irrealis emerge cuando
+se expresa una verdad posible en términos tradicionales de lógica proposicional. En términos
+comunicativos/cognitivos, se presenta mediante una proposición afirmada débilmente. Por
+otro lado, el valor deóntico del irrealis deriva de la expresión subjetiva del grado de
+obligación que se (re)produce sobre la acción referida por el verbo (Payne 1997:246), es decir,
+el irrealis se manifiesta cuando se expresa una proposición necesaria, deseada o no deseada
+débilmente por el hablante. En ambos casos, produce en el oyente un desafío (solicitado,
+esperado, etc.) por lo que involucra valores interaccionales.
+De esta manera, Givón (1994) define el Irrealis como una dimensión compleja y
+graduable que intercepta otros dominios (e.g., semánticos, referenciales, pragmáticos¹¹0). Para
+el autor, el denominador común del irrealis (en tanto es evaluativo deóntico) es su marcación
+de futuridad que involucra (siempre) inseguridad epistémica. Es por esto que su valor
+epistémico es "no marcado” mientras que su valor deóntico es el rasgo "marcado” del
+dominio. Dentro de este amplio espacio semántico/funcional, señala que, en ciertas lenguas, el
+modo subjuntivo tiende a aparecer en la expresión de dos sub-regiones coherentes entre sí: la
+zona de baja seguridad (en la dimensión epistémica) y la zona de la manipulación débil (en la
+dimensión deóntica). En este sentido, el subjuntivo constituiría un patrón gramatical que
+formaría parte de la expresión de un dominio mayor: el irrealis.
+También Akatsuka (1985) define el dominio conceptual de Realis / Irrealis en forma
+escalar dentro de la evaluación epistémica, es decir, según él, representa la evaluación
+subjetiva (por parte del hablante) de la realidad de un determinado evento o situación.
+Para Givón, las construcciones contrafactuales y las marcaciones de habitualidad se
+constituyen en zonas fronterizas o "híbridas" entre el dominio Irrealis y el Realis. Lo mismo
+es referido por Payne (1997:245). Para Akatsuka, por ejemplo, la sorpresa ingresa dentro del
+110
+Por ejemplo, en el dominio semántico, se asocia con indefinición de referentes y disjunción de sujetos; en el
+dominio pragmático, es relativa a la interacción con el interlocutor ya que involucra sus expectativas.

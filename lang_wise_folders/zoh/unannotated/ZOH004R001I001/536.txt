@@ -1,0 +1,63 @@
+\SEMF hit
+\ASP semelfactive
+\ARG
+\NOM kep.kuy7
+\SUB 7ok.kep.'@y, j@x-kep, kep=no7tz, ko.kep, k@.n@k=kep.'@y, yuk.kep
+\SUB nik.kep. '@y, win-n@k=kep. '@y, y@k.kep
+\ETYM
+\ETL
+\ROOT kep
+\RTGR P, (T3)
+\DSRC HÁJ94
+\CMTS CK-EX3
+\CMTS
+\CMTS kick backwards, not forwards
+\date 03/Jan/80
+\lex kep.kuy7
+\_no 01229
+\LG MIG
+\PSH [kepkuy7]
+\UND kep.kuy7
+\MB patear, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG pie
+\ENG foot
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kep
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex kep=no7tz
+\_no 01230
+\LG MIG
+\PSH [kepno7tz-]
+\UND kep=no7tz
+\MB patear, arar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG rajar al patearlo
+\ENG to split by kicking
+\EXU
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 kep
+Page 536

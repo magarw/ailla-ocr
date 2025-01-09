@@ -1,0 +1,71 @@
+\sgl otro si 1E
+\egl other if lE
+stab
+\zoq 7otro si 7@n pata7 7@n tz@kpa.
+\fts otro si voy a hacer otro petate.
+\fte Another if I'm going to make my mat.
+\com
+\idx
+\ref ZOH001R033 030
+\_no 00029
+\tx 7@n xipxke7tpa
+\mb 7@n xipx
+-ke7t -pa
+7otro;
+7otro
+\sgl 1E encajar-REPET-INC otro
+\egl 1E
+-REPET-INC other
+petate 1E
+mat 1E
+\zoq 7@n xipxke7ṭpa 7otro.
+\fts lo voy a rajar otro.
+\fte I'll strip another one.
+\com
+\idx
+\ref ZOH001R033 031
+\_no 00030
+tz@kpa
+ti -7@m tz@k -pa
+\tx HAJ: tim
+\mb HAJ
+yey;
+y@ -y
+\sg1 HAJ: que -2E hacer-INC DCT1-TMP
+\egl HAJ: what-2E do -INC DCT1-TMP
+\zoq HAJ: Tim tz@kpa yey?
+\fts HAJ: Que haces ahorita?
+\ref ZOH001R033 032
+\_no 00031
+\tx LJC: ja;
+\mb LJC
+ja7
+\sg1 LJC: si*
+\egl LJC: yes
+\fte HAJ: What are you making right now?
+\com
+\idx
+\zoq LJC: J@7.
+\fts LJC: Si*.
+\fte LJC: Yes.
+\com
+\idx
+ZOH001R0331001.txt
+hacer-INC
+do -INC
+\ref ZOH001R033 033
+\_no 00032
+\tx ja 7@y tz@kpa
+pata7 pata7;
+\mb ja7 7@y tz@k -pa pata7 pata7
+\sgl si* 3E hacer-INC petate petate
+\eg1 yes 3E do -INC mat
+mat
+\ref ZOH001R033 034
+\_no 00033
+\zoq Ja7, 7@y tz@kpa pata7, pata7.
+\fts Si*, hizo petate, petate.
+\fte Yes, I'm making a mat, a mat.
+\com
+\idx
+Page 7

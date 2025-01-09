@@ -1,0 +1,60 @@
+\lex ketz
+\_no 00076
+\SPG regar agua
+\ENG to sprinkle water
+\EX n@ ketztz@ tzanhkuyj@nanh
+\XSP rego* agua con la mano
+\XEN she sprinkled water with her hand
+\EX ketztz@mm@ bi n@7
+\XSP se rego* el agua
+\XEN the water was sprinkled
+\EX 7@y ketzxukxukk@
+\xSP 10 acabaron de regar el agua
+\XEN they finished sprinkling the water
+\ROOT ketz T1
+\CMTS no antip ketz.7oy *
+\CMTS pass ketz.7@m
+\CMTS can't drop the OBJ? other patients?
+\lex ke7tz
+\_no 00077
+\SPG masticar; mascar
+ENG to chew
+\EX
+\XSP
+\XEN
+\ROOT ke7tz T3
+\CMTS antip ke7tz.7oy
+\CMTS pass ke7tz.7@m
+\lex kex
+\_no 00078
+\SPG ponerse picho o crespo
+\ENG to become curly
+\EX 7@y yakkexx@ bi way
+\xSP 1o mando* enchinar su cabello
+ZOH001R0611011.txt
+\XEN she made her hair curly
+\ROOT kex 12
+\CMTS caus yak.kex mandar enchinar el cabello
+\lex kim
+\_no_00079
+\SPG subir (+ aluso sexual); "pisar"; "picar"
+\ENG to mount (+ sexual reference)
+\EX
+\XSP
+\XEN
+\ROOT kim T1
+\CMTS
+\lex kit
+\_no 00080
+\SPG quebrar; quebrar palo - rama
+\ENG to break
+like a stick
+\EX
+\XSP
+\XEN
+\ROOT kit T3
+\CMTS antip kit.7oy
+\CMTS pass kit.7@m quebrarse
+\CMTS break it with the hands, or it could be the feet
+\lex ki7t
+Page 17

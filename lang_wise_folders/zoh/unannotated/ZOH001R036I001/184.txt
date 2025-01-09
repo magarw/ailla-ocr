@@ -1,0 +1,83 @@
+\_no 00849
+\tx de7
+ney
+\mb te -7 ney mix -7@m
+\sg1 DCT2-NOM1 mismo 2 Prn-2E
+\eg1 DCT2-NOM1 self 2 Prn-2E
+\ref ZOH001R036 866
+\_no 00850
+\zoq De7 ney mixx@n tz@kk@? 7om ya juwi*?
+\fts Eso tu mismo lo hicistes? o lo comprastes?
+\fte That one, did you make it yourself?
+If? or did you bu
+\com incorp-deictic?
+buy it?
+\idx
+\tx OSM: y@
+juwi7
+juwi 7
+\mb OSM
+\sg1 OSM: DCT1-NOM1
+brasa
+\egl OSM: DCT1-NOM1 coal
+\com
+\idx
+mixx@m tz@kk@
+y@ -7
+\zoq OSM: Y@ juwi 7.
+\fts OSM: Esto es comprado.
+\fte OSM: This is bought.
+ZOH001R0361001.txt
+70 m y@
+tz@k -w@ 70 7@m y@ -7
+hacer-COM O 2E
+do -COM or 2E
+\ref ZOH001R036 867
+\_no 00851
+\tx GSM: mixx@m tz@kk@* teji
+\mb GSM mix -7@m tz@k -w@
+\sg1 GSM: 2Prn-2E hacer-COM hay
+teji
+\egl GSM: 2Prn-2E do -COM there is DCT2-NOM1
+\com
+\idx
+\zoq GSM: Mixx@m tz@kk@* teji de 7umm@.
+\fts GSM: Lo que hicistes tu eso es tal vez.
+\fte GSM: what you made, maybe that's it.
+\com
+\idx
+\ref ZOH001R036 868
+\_no 00852
+\tx OSM: de7
+\mb OSM
+\sg1 OSM: DCT2-NOM1 DCT1-NOM1 AC
+\eg1 OSM: DCT2-NOM1 DCT1-NOM1 ACC
+y@
+te -7 y@ -7
+\zoq OSM: De7 y@j@nanh.
+\fts OSM: Esto con esto.
+\fte OSM: That with this.
+jananh
+jananh
+\ref ZOH001R036 869
+\_no 00853
+\tx GSM: ti j@nanh 7@m tz@kpa
+\mb GSM ti jananh 7am tz@k -pa
+\sg1 GSM: que AC
+2E hacer-INC
+\eg1 GSM: what ACC 2E do -INC
+juwi*
+juwi7
+DCT1-NOM1 brasa
+DCT1-NOM1 coal
+\zoq GSM: Tij@nanh_7@m tz@kpa?
+\fts GSM: Con que lo haces?
+\fte GSM: with what did you make it?
+\com
+\idx
+de
+7umm@
+te -7 7umm@
+DCT2-NOM1 tal vez
+maybe
+Page 184

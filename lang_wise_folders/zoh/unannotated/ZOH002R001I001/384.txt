@@ -1,0 +1,32 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+14.2.2. Intransitive clauses
+We'll look first at intransitive clauses, the simpler case. Table 14.2
+divides the set of intransitive clauses into those with no argument, those with a
+subject (almost always an actor - there are very few passive verbs in these
+texts), imperatives, and verbs that are intransitive because the object was
+incorporated.
+O arguments
+Subject
+Imperative
+Incorporated
+object
+Total
+Number
+105
+56
+6
+6
+173
+Percentage
+60.7
+32.4
+3.5
+3.5
+100
+Table 14.2: Intransitive clauses
+356
+Imperatives, of course, imply a second-person subject, which is rarely
+overtly mentioned. Clauses with incorporated objects never appear with overt
+NP subjects in these four texts. Incorporating the object serves to generalize
+the activity denoted by the verb+object construction, de-emphasizing the
+patient argument.

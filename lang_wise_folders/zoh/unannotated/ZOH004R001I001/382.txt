@@ -1,0 +1,62 @@
+\ROOT jonh
+\RTGR 12
+\DSRC HAJ94
+\CMTS hoy no le gusta: cf tzij-jonh-w@ pa y+ nuk-w@
+\date 06/Feb/96
+\lex jo.paj
+\_no 00877
+\LG MIG
+\PSH [jopaj-]
+\UND jo.paj
+\MB EN, cercar
+\VAR
+\GRAM dir+vt
+\SCI
+\USE
+\SPG reforzar cerco
+\ENG to reinforce a fence
+\EXU 7@y+ jo.paj-w@ 7@y+ 7anh.paj
+\XPSH [7@y jopajj@y 7anhpaj.]
+\XSP Reforzo* su cerco.
+\XEN He reinforced his fence.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT paj
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 03/Feb/96
+\lex jo.pinh
+\_no 00878
+\LG MIG
+\PSH [jopinh-]
+\UND jo.pinh
+\MB EN, recoger
+\VAR
+\GRAM dir+vt
+\SCI
+\USE
+\SPG escoger
+\ENG to choose
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pinh
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 03/Feb/96
+\lex jo.po.e7
+\_no 00879
+\LG MIG
+ZOH004R0011001.txt
+\PSH [jopoe7]
+\UND jo.ponh.E7
+\MB requemar, NOM7
+Page 382

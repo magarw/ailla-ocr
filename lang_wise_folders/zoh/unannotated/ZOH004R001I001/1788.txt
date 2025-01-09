@@ -1,0 +1,62 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS see yomaa7, m@7
+\date 26/Jun/96
+\DATE 03/Jan/1980
+\lex yom(a) po7at@k
+\_no 04160
+\LG MIG
+\PSH [yoma po7at@k]
+\UND ??yoma po7at@k
+\MB mujer, X
+\VAR yoom po7at@k
+\GRAM s (m) s
+\SCI
+\USE
+\SPG prima
+\ENG cousin (female)
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yom (@) mu7t
+\_no 04161
+\LG MIG
+\PSH [yom@ mu7t]
+\UND yom (@) mu7t
+\MB
+\VAR yoom mu7t
+\GRAM sms
+\SCI
+\USE
+\SPG suegra de un hombre
+\ENG mother-in-law of a man
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS CK-PH - HAJ:96 ok/OK: TK
+\date 26/Jun/96
+\lex yom (@)=7une7
+\_no 04162
+ZOH004R0011001.txt
+Page 1788

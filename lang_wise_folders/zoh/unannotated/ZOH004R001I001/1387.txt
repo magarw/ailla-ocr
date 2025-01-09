@@ -1,0 +1,63 @@
+XPSH_2 [Tzajneyy@ bi toto7.]
+\XSP 2 Esta* pegado el papel (como en la pared).
+\XEN 2 The paper is stuck (like on the wall).
+\SYN
+\SEMF break, arrange
+\ASP accomplishment
+\ARG
+\NOM ko.tzaj.kuy7, tzaj=nakx.kuy7, tzaj=nakx.tum7, tzaj.e7
+\SUB ko.tzaj, tzaj.pu'
+\ETYM
+\ETL
+\ROOT tzaj
+\RTGR P (T3)
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex tzajax
+\_no 03224
+\LG MIG
+\PSH
+\UND tzajax
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG chacal, tiene tenaza, en los ri*os se encuentra
+\ENG a type of shrimp that has pincers and is found in rivers
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jun/96
+\lex tzaj.e7
+\_no 03225
+\LG MIG
+\PHO [tzaje7]
+\UND tzaj.E7
+LF:mo7kxi7
+\MB pegar, NOM7
+\VAR
+\GRAM pcp
+\SPG pegado
+\ENG glued
+ZOH004R0011001.txt
+\EXU toto' tzaj.e7
+\XPSH [toto tzaje*7]
+\XSP papel pegado
+\XEN glued paper
+\SYN
+\ROOT tzaj
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tzajin
+Page 1387

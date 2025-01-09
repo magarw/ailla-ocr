@@ -1,0 +1,63 @@
+\SPG sacar la cuenta cuanto?
+\ENG to count out the bill
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT may
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 11/Jan/96
+\lex j@x-me7kx
+\_no 01084
+\LG MIG
+\PSH [j@xme7kx-]
+\UND jax-me7kx
+\MB FUERA, abrazar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacarlo abrazado
+\ENG to take somebody out by holding him
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT me7kx
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 11/Jan/96
+\lex j@x-mi 7kx
+\_no 01085
+LG MIG
+\PSH [j@xmi 7kx-]
+\UND j@x-mi 7kx
+\MB ATRAS, agarrar_en_pun~o
+\VAR
+ZOH004R0011001.txt
+\GRAM vt
+\SCI
+\USE
+\SPG sacar algo en el pun~o para afuera
+\ENG to take something closed in your fist outside
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+Page 475

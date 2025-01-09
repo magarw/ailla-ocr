@@ -1,0 +1,68 @@
+\lex k@nh [1]
+\_no 01721
+\LG MIG
+\PSH
+\UND k@nh
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pintar
+\ENG to paint
+\SPL k@nh.7oy
+\SLGR ANTIP
+\SLGL pintar // to paint
+\SPL k@nh.7@m
+\SLGR PASS
+\SLGL pintarse // to be painted
+\EXU 1 y@7.p@+pi7t d@+ nea'=k@nh-pa
+[Y@p@pi7t_d@ neak@nhpa.]
+\XPSH 1
+\XSP 1 Con esto pinto la pared.
+(entonces, es la brocha)
+\XEN 1 With this, I paint the wall. (so it's a brush)
+\EXU 2 k@nh.7@m-w@ bi nea7
+\XPSH 2 [K@nhnh@mma bi nea7.]
+\XSP 2 Pintaron la pared.
+(impersonal)
+\XEN 2 They painted the wall. (impersonal)
+\SYN
+\SEMF clean
+\ASP activity
+\ARG
+\NOM win-k@w.i7
+\SUB k@nh-ko.wak, win-k@nh-wak, yuk.k@nh
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT k@nh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\CMTS is k@nh-w@ `pintado; se pinto*' a middle voice or a pseudo-participle?
+\date 03/Jan/80
+\lex k@nh [2]
+\_no 01722
+\LG MIG
+\PSH
+\UND k@nh
+\MB
+\VAR
+\GRAM vi: med
+\SCI
+\USE
+\SPG 1 cocerse
+\SPG 2 madurarse
+\SPG 3 quemarse
+\ENG 1 to get cooked
+\ENG 2 to mature or ripen
+\ENG 3 to get burned
+\SPL yak.k@nh
+\SLGR CAUS
+\SLGL_madurar; quemar // to ripen something; to burn something
+\EXU 1
+k@nh-w@+ 'am
+\XPSH 1 [K@nhnha*m.]
+\XSP 1 Ya esta* cocido.
+Page 744

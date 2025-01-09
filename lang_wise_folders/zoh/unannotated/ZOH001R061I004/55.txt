@@ -1,0 +1,63 @@
+\lex ko. nem [2]
+\_no 00133
+\LG MIG
+\PSH [konem]
+\UND ko.nem.0
+\MB OTRO, talonear, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG tijera
+\ENG scissors
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nem
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 11/Feb/96
+\lex ko.nu7kx.i+i7
+\_no 00134
+\LG MIG
+\PSH [konu7kxi*7]
+\UND ko.nu7kx.E+i7
+\MB OTRO, arullar, NOM7, X
+\VAR
+\GRAM
+\SPG cosa que se deseo*
+\ENG something that you wanted
+\SPL
+\SLGR
+\EXU
+\XPSH
+\XSP
+\XEN
+\SYN
+\SEMF
+\ROOT nu7kx
+\RTGR T3
+\DSRC TK
+\CMTS
+\date
+\lex ko.nu7kx. 'o<y-a>7
+\_no 00135
+\LG MIG
+\PSH [konu7kxo7]
+\UND ko.nu7kx. 'o<y-A>7
+\MB OTRO, arullar, ANTIP, NOM2
+ZOH001R0611004.txt
+\VAR
+\GRAM antip
+\SPG ruega a Dios que mates un venado
+\ENG pray to God that you kill a deer
+\SPL
+\SLGR
+\EXU
+\XPSH
+Page 55

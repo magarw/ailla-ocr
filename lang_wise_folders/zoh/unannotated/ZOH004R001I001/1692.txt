@@ -1,0 +1,63 @@
+\GRAM vi:med
+\SCI
+\USE
+\SPG 11oviznar; brisar
+\ENG to drizzle; to rain lightly
+\SLGR NO CAUS
+\EXU tuj xi7kx-w@ = xi7kx-w@ bi tuj
+\XPSH [Tuj xi7kx@.]
+\XSP Llovizno*.
+\XEN Rain drizzled.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xi7kx
+\RTGR 12
+\DSRC HAJ94
+\CMTS get deriv's no caus - no puede
+\CMTS not regar, porque el agua debe venir del cielo
+\CMTS ANALYZE EX HAJ:96 it is, ok; fixed: TK
+\CMTS German seems to accept both xi7kx and xikx as synonyms; xikx* doesn't
+exist: TK
+\date 26/Jun/96
+\lex xi7kx (2)
+\_no 03933
+LG MIG
+\PSH
+\UND xi7kx
+\MB
+\VAR
+\GRAM vt
+\SPG regar unas gotitas de agua con los dedos, se usa la mano como ji*cara
+\ENG to sprinkle little drops of water with the fingers, you use the hand
+like a dipper
+\SLGR NO ANTIP
+\SLGR NO PASS
+\SLGR NO ASSUM1
+\SPL xi7kx.ten
+\SLGR PRSV
+\SLGL esta regando, repitiendolo // to be repeatedly sprinkling water
+from the fingertips
+\EXU 7@y+ xi7kx-w@ bi n@7
+\XPSH [7@y xi7kx@ bi n@7]
+\XSP Rego* el agua.
+\XEN She scattered the water.
+\SYN
+ZOH004R0011001.txt
+\SEMF water, hand
+\ASP activity
+\ARG
+\NOM xi7kx.naanh
+\SUB nik.xi7kx. '@y
+\ROOT xi7kx
+\RTGR TX
+\DSRC HAJ95
+\CMTS sprinkle a little with the fingers, like when you're ironing
+\CMTS ketz- is with the palm full of water, to get it really wet
+\CMTS have to have the Erg, but can't get ANTIP
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex xi7kx.naanh
+\_no 03934
+Page 1692

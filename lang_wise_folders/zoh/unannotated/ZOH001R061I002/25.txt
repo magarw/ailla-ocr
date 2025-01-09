@@ -1,0 +1,61 @@
+\CMTS
+\lex jat@t
+\_no 00099
+\SPG sobar una persona
+\ENG to massage a person
+\SEMF body, touch
+\ASP activity
+\ARG
+\NOM jat@t.kuy7, j@t@t.naanh
+\RTGR T3
+\POS Y lexicon
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex j@7t
+\_no 00100
+\SPG regar el ri*o
+\ENG to be flooded, to be carried off by the flood, to be covered by
+flood water (cornfield)
+\SEMF nature, water
+\ASP state
+\ARG
+\NOM *kuy7, j@7t.naanh
+\RTGR 12
+\POS N
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex j@tz
+\_no 00101
+\SPG hacer masa para pollo
+\ENG to make corn mush for the chickens
+\SEMF corn, cook
+\ASP activity
+\ARG benefactor
+\NOM jatz.i
+\RTGR 11
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex jay
+\_no 00102
+\SPG 1 11orar
+\SPG 2 chillar
+\ENG 1 to cry
+\ENG 2 to scream
+\SEMF sound
+\ASP activity
+\ARG
+\NOM ja.i
+\RTGR 11
+ZOH001R0611002.txt
+\POS
+\MID
+\UNDO
+\CLZ
+Page 25

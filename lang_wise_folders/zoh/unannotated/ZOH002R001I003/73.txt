@@ -1,0 +1,21 @@
+reduplicative suffix -ney. They are discussed in section 4.1.4. Apart from these
+definitional restrictions, any verbal affix may appear with any verb.
+Auxiliary verbs are a small class of verbs with unique syntactic properties.
+The set of auxiliaries and the grounds for determining membership in this set
+are discussed in section 4.1.5. The inflectional morphology of auxiliary verb
+phrases is discussed in section 5.6. The syntactic properties of auxiliary verb
+phrases are discussed in chapter 8.
+4.1.1 Intransitive verbs
+Intransitive verb roots appear with absolutive person agreement markers.
+In the lexicon, these roots are further divided into two groups: 11, or unergative
+verbs, in which the subject is the actor or agent of the verbal event; and 12, or
+unaccusative verbs, in which the subject is the patient or theme of the verbal
+event (Perlmutter & Postal, 1984). There are no formal criteria for
+distinguishing the two subclasses; the division was made based on the
+understanding of Kaufman and myself of the meanings of these roots. The
+label Ix was used for roots that we were unable to classify as either 11 or 12.
+Most verbs of speaking fall into the 11 class, as well as the verbs of motion. The
+distinction made in the lexicon is an artifact of the research process. Since we
+were unable to find any formal criteria for subdividing the class of intransitive
+verbs, the distinction is not carried into this grammar.
+48

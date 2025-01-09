@@ -1,0 +1,62 @@
+\XSP eclipse del sol
+\XEN eclipse of the sun
+\EX xepe y+ ju7k.xuk-pa
+\XSP eclipse de la luna
+\XEN eclipse of the moon
+\EX 7@y ju7kk@ bi nu7 bi 7ane
+\XSP trago* el perro la tortilla
+\XEN the dog swallowed up the tortilla
+\ROOT ju7k T3
+\CMTS antip ju7k. 7oy
+\CMTS no pass ju7k.7@m * can't swallow itself
+\CMTS no antip
+\CMTS = MAR wu7k
+\lex jum
+\_no 00053
+\SPG derrumbar (se) (casa, tierra, lado de algo)
+\ENG to tumble down (house, earth, side of something)
+\EX 7@y tum yakjumm@
+\XSP 1o desbarato* de una vez
+\XEN he tumbled it down at once
+\EX tak 7@y jumxukpa
+\XSP esta*n desbaratando la casa
+\XEN they're knocking down the house
+\EX jumm@mm@ bi t@k
+\XSP se derrumbo* la casa
+\XEN the house fell down
+\lex jun
+\_no 00054
+\ROOT jum T2
+\CMTS is this really T2? get one w/o agent
+\CMTS caus yak.jum desbaratar (se); deshacer; borrar; derrumbar
+\CMTS no antip
+because a dog can't swallow just anything
+\SPG caer pelo
+\ENG for hair to fall out
+\EX way junn@
+\XSP cayo* pelo
+\XEN his hair fell out
+\lex junun
+\_no 00055
+ZOH001R0611011.txt
+\ROOT jun Ix
+\CMTS caus yak.jun hacer caer el pelo
+\SPG hacerle cosquillas
+\ENG to tickle someone
+\EX
+\XSP
+\XEN
+\ROOT junun T3
+\CMTS antip junun.7oy
+\CMTS no pass junun.7@m *
+\lex jup
+\_no 00056
+\SPG jalar
+\ENG to pull
+\EX 7@y juptenn@ bi laxu
+\XSP tiene agarrado el mecate
+\XEN he's got the rope pulled tight (or, he's got hold of the rope?)
+\EX jupp@mm@ bi wakax
+\XSP se jalo* el ganado
+\XEN the cow was pulled (???)
+Page 12

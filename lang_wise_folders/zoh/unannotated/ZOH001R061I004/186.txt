@@ -1,0 +1,62 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yaw. (a') x@k
+\_no 00470
+\LG MIG
+\PSH [yawa x@k]
+\UND yaw.A7 x@k
+\MB X, NOM2, frijol
+\VAR yaaw x@k
+\GRAM x (m) s
+\SCI
+\USE
+\SPG ejote
+ENG green beans
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yaw. (a') xepe7
+\_no 00471
+\LG MIG
+\PSH [yawa xepe7]
+\UND yaw.A7 xepe7
+\MB X, NOM2, luna
+\VAR yaaw xepe7
+\GRAM ams
+\SCI
+\USE
+\SPG luna nueva
+\ENG new moon
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yep.e7
+\_no 00472
+\LG MIG
+\PHO [yepe7]
+ZOH001R0611004.txt
+Page 186

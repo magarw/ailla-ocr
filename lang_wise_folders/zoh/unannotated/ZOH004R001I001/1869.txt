@@ -1,0 +1,63 @@
+\MB X, EN, ver, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG estar viendo como esta*n las cosas; vigilar
+\ENG to be watching things; to guard
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7ix
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex y@k.jo.7otonh. '@y
+\_no 04353
+\LG MIG
+\PSH [y@kjo7otonhnh@y-]
+\UND yak.jo.7otonh.7@y
+\MB X, EN, hablar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG aconsejar
+\ENG to advise
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7otonh
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 04/Nov/94
+\lex y@k.joj
+\_no 04354
+\LG MIG
+\PSH [y@kjoj-]
+\UND yak.joj.0
+\MB INSTR2, espacio, NOM6
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG bolsa
+\ENG bag
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+Page 1869

@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT pu7tz
+\RTGR IX
+\DSRC TK
+\CMTS
+\date 28/Jan/96
+\lex win-pu7tz.pu7tz
+\_no 03727
+\LG MIG
+\PSH [winpu7tzpu7tz]
+\UND win-pu7tz.pu7tz
+\MB CARA, ponerse_amarillo, ponerse_amarillo
+\VAR
+\GRAM a:sq (BA-ed)
+\SCI
+\USE
+\SPG amarillito
+\ENG pale yellow
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pu7tz
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 11/Feb/96
+\lex win=pu7tz.pu7tz-tuk
+\_no 03728
+\LG MIG
+\PSH [winpu7tzpu7tztuk-]
+\UND win=pu7tz.pu7tz-tuk
+ZOH004R0011001.txt
+\MB CARA, ponerse_amarillo, ponerse_amarillo, terminarse
+\VAR
+\GRAM versl
+\SCI
+\USE
+\SPG ponerse amarillo
+\ENG to turn yellow
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS CK-PH: [7] should be impossible. HAJ:96, was an error, now fixed
+\date 20/Jun/96
+\lex win-pu7tz.pu7tz=tz@k
+\_no 03729
+\LG MIG
+Page 1601

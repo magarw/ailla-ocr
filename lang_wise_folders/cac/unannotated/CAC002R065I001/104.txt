@@ -1,0 +1,30 @@
+99
+<
+//tak // derives noun stems from noun stems, and is
+obligatory after //im//, //eč //, and stems formed with //il//
+from positional roots. The suffix //tak// indicates plural-
+ity, usually implying an uncountable mass or multitude of
+features. Examples of the derivation are: //kélem-tak //
+young men < noun root
+< noun root //kélem // young man, //kús-el-tak //
+sad persons ‹ noun stem //kús-el // sadness < intransitive
+verb root ///kús // to be sad, //láN-č-im-tak// ripped and
+patched clothes < transitive verb root //lán // to carry a
+bundle of disorderly fibers, //c'íp'-il-tak // lined or
+striped object ‹ positional root ///c'íp' // marked with lines.
+//ok // derives noun stems from numeral stems already
+derived with ///e//. The stems indicate that the numerical
+values are approximate. Examples of the derivation are:
+//xún-ok // about one < //xún // one, //?óš-e?-ok // about three
+< //?óš-e? // three.
+Formation of Positional
+Stems
+//CVC //, complete reduplication of the root, derives
+positional stems from positional roots. Examples of the deri-
+vation are: //wéc-CVC-an-(ih) // to shimmer < //wéc // shiny in-
+side, //két-CVC-an-ok // walking slowly and weakly < //két //
+walking slowly and weakly. Note that these stems are further
+derived in ///an// to form intransitive verb or adverbial
+stems. Note also that this reduplication is distinct from the
+inflectional reduplication for number which also occurs with
+positional stems.

@@ -1,0 +1,62 @@
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tzo7tz
+\_no 00336
+\SPG faltar
+\ENG to lack; to miss
+\SEMF cognitive
+\ASP state
+\ARG
+\NOM
+\RTGR IX
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tzoy
+\_no 00337
+\SPG saltar
+\ENG to jump
+\SEMF move_self
+\ASP semelfactive
+\ARG manner
+\NOM tzoy.naanh
+\RTGR 11
+\POS 7@y niktzoyy@yy@
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tzuj
+\_no 00338
+\SPG escupir
+\ENG to spit
+\SEMF body
+\ASP semelfactive
+\ARG
+\NOM tzuj.i7t
+\RTGR 11
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tzukx
+\_no 00339
+\SPG pellizcar
+\ENG to pinch
+\SEMF touch, hand
+\ASP
+ZOH001R0611002.txt
+\UNDO
+\CLZ
+'le salto'
+\ARG
+\NOM tzukx.i, tzukx.neenh, tzukx=tzik.i
+\RTGR T3
+\POS
+\MID
+Page 83

@@ -1,0 +1,59 @@
+\ROOT tzukx T3
+\CMTS antip tzukx.7oy
+\CMTS no pass tzukx.7@m *
+\lex tzum
+\_no 00280
+\SPG hacerse bastante; (a)juntarse
+\ENG to increase; to collect
+\EX 7@y yaktzumm@ 7@y tzi:xuk@*7
+\XSP aguardo* algo que le dieron
+\XEN he collected what they gave him
+\ROOT tzum 12
+\CMTS caus2 yak+ tzum juntar; ahorrar
+\CMTS doesn't accept the juntarse gloss now
+\lex tzun
+\_no 00281
+\SPG gotear
+\ENG to drip
+\EX
+\XSP
+\XEN
+\ROOT tzun I1, IX
+\CMTS caus yak.tzun dejar caer por gotas
+\lex tzun
+\_no 00282
+\SPG alegrarse; estar alegre; estar contento
+\ENG to be glad
+\EX tzunpa
+\XSP se alegre
+\XEN she is happy
+\ROOT tzun I2
+\CMTS caus yak.tzun alegrar
+\lex tzu7t
+\_no 00283
+\SPG cortar (cafe*) sin pico
+ENG to pick coffee
+ZOH001R0611011.txt
+\EX kajwe=tzu7tt@
+\XSP 1o corto* cafe* sin pico
+\XEN
+\EX j@xtzu7tt@mm@ 7@y t@tz
+\XSP se arranco* su diente
+\ROOT tzu7t T3
+\CMTS antip tzu7t.7oy cortar cafe* sin pico
+\CMTS pass tzu7t.7@m cortarse;
+\lex tzu7tz
+\_no 00284
+\SPG mamar
+\ENG to nurse
+\EX
+\XSP
+\XEN
+\ROOT tzu7tz I1
+\CMTS caus2 yak+ tzu7tz dar de mamar
+\lex tzux
+\_no 00285
+\SPG ser verde
+ENG to be green
+\EX 7@y yaktzuxx@ tuj
+Page 55

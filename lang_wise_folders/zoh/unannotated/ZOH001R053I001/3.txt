@@ -1,0 +1,94 @@
+\ord v o
+\ref ZOH001R053 008
+\_no 00009
+\tx n@kpa
+n m@7tztz@
+7@n ko7uk
+\mb nak -pa 7@n me7tz -w@ 7@n kajwe -7uk -E
+\sgl irse-INC 1E buscar-dINC 1E
+\egl go -INC 1E search-dINC 1E
+cafe
+\tx yakkaj7ukpa
+\mb yak -kajwe -7uk -pa
+\sg1 CAUS-cafe
+-tomar-INC
+\eg1 CAUS-coffee-drink-INC
+\idx unmrk_rel
+\com kaj-7uk-i xix
+\ord v 0 [v]
+\zoq N@kpan me7tztz@ 7@n ko7uk xix paran yakkaj 7ukpa.
+\fts voy a buscar la carne que vamos a tomar en desayuno, para que le de de
+tomar su cafe*
+\ref ZOH001R053 009
+\_no 00010
+\fte I'm going to look for the breakfast meat so I can feed him breakfast.
+\com
+ZOH001R0531001.txt
+\tx
+7@n yakkaj7uktukpa
+\mb 7@n yak -kajwe -7uk-tuk
+\sgl 1E CAUS-cafe -tomar-terminarse-INC 1E
+\egl 1E CAUS-coffee-drink-finish
+\tx 7ane,
+\mb 7ane
+para n
+para 7@n
+-tomar-NOM3 carne para 1E
+coffee-drink-NOM3 meat for 1E
+7@y way,
+7@y tzima.
+7@y way -E 7@y tzima7
+\sg1 tortilla 3E moler-NOM3 3E ji*cara
+\egl tortilla 3E grind-NOM3 3E dipper
+\com
+\idx
+\ord v vo
+\ref ZOH001R053 010
+\_no 00011
+\tx 7i 7omenh
+7omeenh
+\mb 7i
+\sg] y
+\egl and a little
+-pa
+\tx montanya.
+\mb montanya
+\sg1 montan~a
+\egl mountains
+\zoq 71 7omenh bi
+\fts y un poco de
+\fte and a little
+\com
+\idx unmrk_loc
+\ord [v Av]
+xix
+xix
+\zoq 7@n yakkaj7uktukpa, 7@n monjaypa 7@y 7ane, 7@y way, 7@y tzima,
+\fts Acabo de tomar su cafe*, le amarro su tortilla, su masa para pozol, y
+su ji*cara,
+-INC 1E wrap
+\fte I finish feeding him breakfast, I wrap his tortillas, his corn meal for
+pozole, and his gourd,
+bi
+7asukar para y
+bi 7asukar para 7@y
+un poquito DEF azucar
+para 3E
+7@n monjaypa
+7@n mon
+7@y
+7@y
+-jay -pa
+envolver-APPL-INC 3E
+-APPL-INC 3E
+7ukpa y 7ukjeye
+7uk -ра 7@y 7uk -E
+tomar-INC 3E
+DEF sugar for 3E drink-INC 3E
+Page 3
+-jey -E
+tomar-NOM3-batir-NOM3
+drink-NOM3-beat -NOM3
+7asukar paray 7ukpay 7ukjeye_montanya.
+azucar para que tome su pozol en la montan~a.
+sugar so he can drink his pozole in the mountains.

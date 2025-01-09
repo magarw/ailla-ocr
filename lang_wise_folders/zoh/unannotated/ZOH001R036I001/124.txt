@@ -1,0 +1,73 @@
+y
+\tx par minpam
+\mb
+para min -pa -7am 7@y jo
+\sg1 para venir-INC-YA
+\egl for come -INC-NOW 3E INTO-stir
+\com
+\idx
+\ref ZOH001R036 578
+\_no 00569
+\tx
+\mb
+\zoq Par minpam y jomott@mm@ gaji
+\fts Para que venga a revolverse ahi*
+\fte so that now it comes to be mixed there
+par
+mal
+para ka
+-g@ mal
+\sg1 para DCT3-DEM mal
+\egl for DCT3-DEM bad
+gag@
+\zoq par gag@ mal.
+\fts para esa enfermedad.
+\fte for that illness.
+\com
+\idx
+\ref ZOH001R036 579
+\_no 00570
+\tx GSM: pa bi n@niwa
+\mb GSM
+para bi n@niwa
+\sg1 GSM: para DEF hongo
+\eg1 GSM: for DEF fungus
+\zoq GSM: Pa bi n@niwa.
+\fts GSM: Para el hongo.
+\fte GSM: For the fungus.
+\com
+\idx
+\ref ZOH001R036 580
+\_no 00571
+\tx OSM: mhmm
+\mb OSM
+mhmm
+\sg1 OSM: mhmm
+\egl OSM: mhmm
+ZOH001R0361001.txt
+-7@m -w@
+3E EN -revolver-PAS -dINC
+\zoq OSM: Mhmm.
+fts OSM: Mhmm.
+\fte OSM: Mhmm.
+\com
+\idx
+\ref ZOH001R036 581
+\_no 00572
+\tx
+no
+\mb no
+\sg1 no
+\eg1 no
+\zoq No.
+\fts No.
+\fte No.
+\com
+\idx
+jomott@mm@
+-mot
+gaji
+ka -ji7
+DCT3-Loc1
+-PASS-DINC DCT3-LOC1
+Page 124

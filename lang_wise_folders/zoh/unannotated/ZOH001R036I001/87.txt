@@ -1,0 +1,71 @@
+\sg1 como cuando 3E frei*r-INC
+\egl like when ЗЕ fry - INC
+\zoq kom kwanduy xe7tpa.
+\fts como cuando lo esta* friendo.
+fte like when he's frying.
+\com
+\idx
+\ref ZOH001R036 404
+\_no 00398
+ke
+-y ke
+\tx tey
+te
+\mb
+\sg1 DCT2-TMP que
+\eg1 DCT2-TMP that fry -COM-NOW
+\zoq Tey ke xe7tta*m,
+\fts ya que lo frito*
+\fte Now that he's fried it,
+\com
+\idx
+\ref ZOH001R036 405
+\_no 00399
+xe7tta*m
+xe7t -w@ -7am
+frei*r-COM-YA
+\tx y yakyumt@tzpa
+\mb 7@y yak -yum
+\sg1 3E CAUS-hervir(se)-secarse
+\egl 3E CAUS-boil
+\zoq y yakyumt@tzpa.
+\fts lo seca herviendo.
+\fte he boils it dry.
+\com
+\idx
+\ref ZOH001R036 406
+\_no 00400
+\tx ga
+\mb ka -7
+\sg1 DCT3-NOM1 NEG 3E
+\eg1 DCT3-NOM1 NEG 3E
+-t@tz
+-dry
+ZOH001R0361001.txt
+ya y n@77@y
+ya 7@y n@7 -7@y -A
+agua -VERS2-nINC
+water-VERS2-nINC
+\ref ZOH001R036 408
+\_no 00402
+-pa
+-INC
+- INC
+\zoq Ga yay n@77@y.
+\fts Eso no le eche agua.
+\fte It doesn't have water in it.
+\com
+\idx
+\ref ZOH001R036 407
+\_no 00401
+\tx GSM: 7a bweno ya y
+n@77@y@
+\mb GSM 7ay bweno ya 7@y n@7 -7@y -A
+\sg1 GSM: ah bueno NEG 3E agua -VERS2-nINC
+\eg1 GSM: ah good NEG 3E water-VERS2-nINC
+\zoq GSM: 7a bweno, yay_n@77@y@.
+\fts GSM: Ah bueno, no le echa agua.
+\fte GSM: Oh ok, it doesn't have water.
+\com
+\idx
+Page 87

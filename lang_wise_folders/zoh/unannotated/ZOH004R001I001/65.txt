@@ -1,0 +1,64 @@
+\SCI
+\USE
+\SPG poner algo para tapar no mas abajo (como puerta para que no entren los
+marranos)
+\ENG when the door is open, put something across the bottom half (so
+pigs don't get in)
+the
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * panh
+\RTGR P
+\DSRC TK94
+\CMTS
+\date 12/Jun/95
+\lex 7anh-pen
+\_no 00153
+\LG MIG
+\PSH [7anhpen-]
+\UND 7anh-pen
+\MB BOCA, apretar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 [a] brochar
+\SPG 2 abotonar
+\ENG 1 to clasp
+\ENG 2 to button
+\EXU 1 7@y+ 7anh-pen-w@ y@k.wij
+\XPSH 1 [7@y 7anhpenn@ y@kwij.]
+\XSP 1 Lo abotono* su camisa.
+\XEN 1 She buttoned her shirt.
+\EXU 2_7@y+ 7anh=pen.jay-w@ chik jay(a)=7une7_7@y+ y@k.wij
+\XPSH 2 [7@y 7anhpenjayya chik jay7uney y@kwij.]
+\XSP 2 Le abotono* la camisa del nin~o.
+\XEN 2 She buttoned the child's shirt.
+\EXU 3 7@y+ yak.7anh-pen-w@ 7@y+ y@k.wij
+\XPSH 3 [7@y yanhpenn@y y@kwij.]
+\XSP 3 Le hizo abotonar la camisa.
+\XEN 3 She made him button his shirt.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pen
+\RTGR T3
+\DSRC HAJ94
+\CMTS caus ya.anh.pen abotonar
+\date 24/Jun/96
+ZOH004R0011001.txt
+\lex 7anh-pen.pu'
+\_no 00154
+\LG MIG
+\PSH [7anhpenpu-]
+\UND 7anh-pen.pu7
+\MB BOCA, brochar, RVS
+\VAR
+\GRAM vt
+Page 65

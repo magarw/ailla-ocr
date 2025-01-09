@@ -1,0 +1,51 @@
+ZOH001R0611005.txt
+\ENG to sink; to be submerged in, like a dish in water or in the river
+\RTGR IX
+\lex w@7t
+\_no 00061
+\SPG tumbar_a*rbol; tumbar o derribar palo
+\ENG to fell trees
+\RTGR T3
+\lex watz [1]
+\_no 00062
+\SPG peinar
+\ENG to comb
+\RTGR T3
+\lex xek
+\_no 00063
+\SPG regar terreno con agua
+\ENG to spread water; to irrigate
+\RTGR T3
+\1ex xe7t
+\_no 00064
+\SPG frei*r; tostar
+\ENG to fry; to toast
+\RTGR T1
+\lex xi7kx (2)
+\_no 00065
+\SPG regar unas gotitas de agua con los dedos, se usa la mano como ji*cara
+\ENG to sprinkle little drops of water with the fingers, you use the hand
+like a dipper
+\RTGR TX
+\lex xom
+\_no 00066
+\SPG encerrar
+\ENG to enclose; to jail
+\RTGR P (T3)
+\1ex x@7kx
+\_no 00067
+\SPG ahogarse con algo que esta* comiendo
+\ENG to choke on something that you're eating
+\RTGR T1
+\lex yen
+\_no 00068
+\SPG lamer; lambear; probar comida con el dedo
+\ENG to lick; to lap; to taste food with the finger
+\RTGR T3
+\lex yu7tz
+\_no 00069
+\SPG agarrar un pun~o y ponerlo ahi*; dejar un pun~o (frijol, mai*z)
+\ENG to grab a fistful of something and put it over there; to leave a
+handful of something (beans, corn)
+\RTGR T1
+Page 7

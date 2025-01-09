@@ -1,0 +1,38 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+Transitive clauses with only an overt subject NP are infrequent (only 4.8%
+of all transitive clauses). When overt subjects do appear, they most frequently
+appear before the verb, as shown in table 14.6.
+(14.12)
+(i)
+SV
+VS
+Total
+(ii)
+Number
+17
+4
+21
+As noted earlier, independent subject pronouns typically precede the
+verb. This conforms nicely with the principal that new information follows the
+verb and old information precedes it, since an independent subject pronoun
+just repeats the information encoded on the verb by the agreement marker.
+Percentage
+81
+19
+100
+Table 14.6: Transitive clauses with only an overt subject NP
+pwes dey døxxøn 'ixpa junang dø ja:mpø'tpa
+pwes dey dəš ?ən+ ?iš-pa hunaŋ də+ hama=pə?t-pa
+well now 1 Prn 1E+ see-INC how 1A+ day-pass-INC
+'Well, now I'll see how I'm going to get through the day."
+(ZOH001R053-047)
+kay ga nøkpay ma'øyyø 'itijo'
+?iti?+ho?
+kay ga? nək-pa ?ǝy+ ma?.?ǝy-we
+then that go-INC 3E+ sale.VERS2-COM town+LOC2
+'Then she will go selling (fruit) in the town.'
+366
+(ZOH001R053-035)
+Pronouns account for the vast majority of overt subject NPs in transitive
+clauses, particularly when the object is not also mentioned (see below). Other
+kinds of NPs tend to appear in speaking clauses that use verbs other than nəm-

@@ -1,0 +1,62 @@
+\ETL
+\ROOT muy
+\RTGR T2, 12
+\DSRC HAJ95
+\CMTS
+\lex xi't.@7
+\_no 00423
+\LG MIG
+\PHO [xit@7]
+\UND xi7t.A7
+\MB enredarse, NOM2
+\VAR
+\GRAM SV
+\SPG enredado
+\ENG tangled
+\EXU laxu xi't.@7
+\XPSH [laxu xit@*7]
+\XSP mecate enredo*
+\XEN tangled-up rope
+\SYN
+\ROOT xi7t
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex xi'-t@tz.i
+\_no 00424
+\LG MIG
+\PSH [xit@tzi]
+\UND xi7-t@tz. E
+\MB cadera, secarse, NOM7
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG una persona seca
+\ENG a person with a skinny old butt
+\EXU
+\XSP
+\XEN
+\SYN xi'-muy. E
+\SEMF
+\ETYM
+\ETL
+\ROOT t@tz
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+ZOH001R0611004.txt
+\lex xi'tz.i7
+\_no 00425
+\LG MIG
+\PSH [xitzi7]
+\UND xi7tz.E7
+\MB X, NOM7
+\VAR Xi7tz. E7 7asukra
+\GRAM S
+\SCI
+\USE
+\SPG can~a de azucar
+\ENG sugar cane
+Page 168

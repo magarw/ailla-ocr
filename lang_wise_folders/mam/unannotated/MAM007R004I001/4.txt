@@ -1,0 +1,69 @@
+(37) chi-chi-tzan
+B3p-decir-pues
+'dijo la gente,'
+(38) sool ch'in=ni
+t-chiky'-eel
+tee'
+0=x-el
+sólo poco=DIM A2s=sangre-ABST 2sPRON B3s-DIR-POT
+t-ii-’n=a,
+A2s-llevar-SD=2s
+'sólo un poquito de sangre vas a llevar.'
+(39) chi-chi-tzan
+B3p-decir-pues
+'dijo la gente.'
+(40) Toons
+n=0=tzaaj,
+entonces INC=B3s-venir
+'Entonces vino,'
+xjaal,
+gente
+(41) aax-tzan
+0=x-el
+lo.mismo pues B3s-DIR-POT
+'sí, lo vamos a pensar,'
+(42) ax
+xjaal.
+gente
+b'a'n ky-ky'aq_chi-choo-n
+lo mismo bueno A3p-pulga B3p=comer-AP
+'que las pulgas nos comen,'
+(44) Toons 0=0=xi'=tzan
+q-na-'n
+t-i'j,
+Alp-pensar-SD A3s-SR:tema
+(43) nn=0=eel
+ch'in=ni q-chiky'-eel
+ky-u'n-jal.
+INC=B3s=salir poco=DIM A1p-sangre-ABST A3p-SR:por=CL
+'que nos quitan un poco de sangre.'
+(45) ma-tzan
+entonces CPL.DEP=B3s=DIR=pues
+'Entonces lo tiraron ahora,"
+0=poon-jal
+PROX-pues B3s=llegar.allá CL
+'y cuándo llegó en el gato de monte,'
+t-u
+(48) nti'=x
+q-i'j,
+Alp-SR:PAC
+NEG=todavía B3s-agarrar-PAS=CL
+'no pudo agarrarla,'
+xoo'-n-jal ja’la,
+tirar-SD-CL_ahora
+t-i'
+wech,
+A3s-SR:sobre gato.de.monte
+(46) kall, kall t-xi'=jal
+AFEC
+tzmaal weech.
+A3s-ir-CL A3s-SR:en A3s+pelo gato.de.monte
+"kall, kall" se fue caminando debajo del pelo del gato de monte."
+(47) N=0=xi
+t-tx'a-'kj
+weech,
+gato.de.monte
+INC=B3s-DIR A3s-morder-RES
+'El gato de monte fue a morderla'
+0-tzy-eet-jal,
+5

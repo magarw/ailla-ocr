@@ -1,0 +1,91 @@
+\_no 00270
+\tx 7oray
+\mb
+7ora -7@y
+\sg1 ahora-3E
+\eg1 now -3E finish
+\zoq 7oray tann@7k y 7ukpa tum@.
+fts A las doce toma uno.
+tann@7k
+y
+-w@ -v7k 7@y
+tan
+completar (se) -COM-REL 3E
+-COM-REL 3E
+\fte At noon he drinks one.
+\com
+\idx
+\ref ZOH001R036 273
+\_no 00271
+\tx tzujiam
+7@y 7ukke7tpa
+\mb tzuji7-7am 7@y 7uk -ke7t -pa
+\sg1 noche -YA
+3E
+tomar-REPET-INC otro uno
+\egl night -NOW 3E drink-REPET-INC other one
+\ref ZOH001R036 274
+\_no 00272
+\tx 7axta ke xukpa
+\mb 7axta ke
+xuk
+\zoq Tzujiam 7@y 7ukke7tpa 7otro tum@.
+\fts En la tarde vuelve de tomar otra copa.
+\fte In the afternoon again he drinks another cup.
+\com
+\idx
+\zoq 7axta ke xukpay tz@kk@.
+fts Hasta que lo termine.
+\fte Until it's finished.
+\com
+\idx
+\ref ZOH001R036 275
+\_no 00273
+\tx
+GSM: bweno toykuy
+\mb GSM bweno toykuy7
+y tz@kk@
+\sg1 hasta que
+-pa 7@y tz@k -w@
+acabarse-INC 3E hacer-dINC
+\egl until that finish -INC 3E do -DINC
+\tx
+\mb
+70...
+70
+\sg1 o
+\egl or
+2E
+\eg1 GSM: good something 2E do
+\sg1 GSM: bueno algo
+ZOH001R0361001.txt
+7ukpa tum@
+7uk -pa tum@
+tomar-INC uno
+drink-INC one
+\ref ZOH001R036 276
+\_no 00274
+\tx
+\mb OSM
+\sg1 OSM: cinco cuarto
+\egl OSM: five
+room
+OSM: moxxanh kwartu
+moxxanh kwartu
+7otro tum@
+7otro tum@
+7@m tz@kjaba
+7@m tz@k-jay -pa
+\zoq GSM: Bweno, toykuy 7@m tz@kjaba paray 7ukpa tum xemana 70...
+\fts GSM: Bueno, le haces bastante para que tome una semana o...
+\fte GSM: Ok, you make a lot so he drinks it a week or...
+\com
+\idx
+tum xemana
+paray 7ukpa
+para-7@y 7uk -pa tum xemana
+tomar-INC uno semana
+drink-INC one week
+hacer-APPL-INC para-3E
+-APPL-INC for -3E
+Page 59

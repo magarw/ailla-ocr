@@ -1,0 +1,60 @@
+\XSP tumbo* el arbol
+\XEN he felled the tree
+\ROOT w@7t T3
+\SEMF cut, break, obj
+\PASS NONE w@7t.7@m
+\ANTI w@7t.7oy
+\CMTS
+\lex w@tz
+\_no 00370
+\SPG gotear
+\ENG to drip
+\EX
+\XSP
+\XEN
+\ROOT w@tz Ix
+\SEMF water
+\CAUS yak.w@tz dejar gotear
+\CMTS
+\lex w@tz
+\_no 00371
+\SPG peinar
+ENG to comb
+\EX
+\XSP
+\XEN
+\ROOT w@tz T3
+\SEMF care
+\PASS NONE w@tz.7@m *
+\ANTI w@tz.7oy
+\CMTS
+\lex w@7tz
+\_no 00372
+\SPG rechinar (huaraches; una silla en el piso)
+\ENG to squeak (huaraches; chair slid across tile floor)
+\EX
+\XSP
+\XEN
+\ROOT w@7tz 12
+\SEMF sound
+\CAUS yak.w@7tz
+\CMTS cf. m@7tz 12 rechinar'
+\lex w@y
+\_no 00373
+\SPG tener tin~a, manchas
+\ENG
+\EX w@ypa
+\XSP tiene tin~a
+\XEN
+\ROOT way Ix
+\SEMF cog
+\CAUS yak.w@y hacer tener tin-al
+\CMTS
+\lex xa7kx
+\_no 00374
+\SPG tirar salpicando
+\ENG
+ZOH001R0611010.txt
+\EX xa7kx-pa n@pin7
+\XSP tira sangre
+Page 83

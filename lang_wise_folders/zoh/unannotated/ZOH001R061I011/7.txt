@@ -1,0 +1,60 @@
+\ENG to grow]
+\EX
+\XSP
+\XEN
+\ROOT ji7i Ix
+\CMTS caus yak.ji7i hacer grun-ir
+\lex ji7kx
+\_no 00029
+\SPG tener olor fuerte de chile ancho
+\ENG to have a strong odor of chile ancho
+\EX
+\XSP
+\XEN
+\ROOT ji7kx Ix
+\CMTS caus yak.ji7kx
+\lex jim
+\_no 00030
+\SPG rozar; tocar al pasar
+\ENG to graze; to touch in passing
+\EX 7@y jimja7oyy@
+\XSP toco* algo de la gente al pasar
+\XEN he touched something of someone's in passing
+\EX 7@n jimm@ n n@ki
+\XSP anduvo tocandolo al pasar
+\XEN I went along touching things as I passed
+\ROOT jim T3
+\CMTS no antip
+\CMTS pass jim.7@m
+\CMTS v class: has to have ergative markers
+\lex jin
+\_no 00031
+ZOH001R0611011.txt
+\SPG refregarle
+\ENG to scrub
+\EX 7@y jinjayy@ 7@y kuptuku7
+\XSP le refrego* la espalda
+\XEN he scrubbed his back
+\EX 7@n jinpa 7@n win
+\XSP estoy refregando yo mismo
+\XEN I'm scrubbing myself
+\EX 7@y jinxukka*m
+\XSP ya esta* refregaron
+\XEN now they've scrubbed
+\ROOT jin T3
+\CMTS antip jin. 7oy refregar
+\CMTS no pass * jin.7@m
+\CMTS tiene que ser personas
+\lex jinin
+\_no 00032
+\SPG ensuciarse el agua
+\ENG to dirty the water
+\EX jininpa n@7
+\XSP viene ensucia*ndose el agua
+\XEN he goes dirtying the water
+\EX 7@y yakjininnaw@ n@7
+\XSP 1o ensucio* el agua
+\XEN he got the water dirty
+\ROOT jinin Ix
+\CMTS caus yak.jinin.7a hacerlo ensucio* el agua
+Page 7

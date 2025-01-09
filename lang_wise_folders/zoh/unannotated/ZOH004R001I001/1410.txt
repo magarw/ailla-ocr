@@ -1,0 +1,63 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 20/Jun/95
+\lex tzapatz. 'aH
+\_no 03279
+\LG MIG
+\PSH [tzapatztza-]
+\UND tzapatz. 7aH
+\MB rojo, VERS1
+\VAR
+GRAM versl
+\SCI
+\USE
+\SPG hacerse rojo
+ENG to become red
+SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex tzap.ji
+\_no 03280
+\LG MIG
+\PSH [tzapjil
+\UND tzap.ji
+\MB
+\VAR
+\USE locative
+\GRAM av
+\SCI
+\USE
+\SPG encima; por encima
+\ENG over; on top; on the outside
+\EXU ya.d@ 7anmal maki.maki wit-pa y@.da tak 7@y+ ko.jap tzap.ji
+\XPSH [Y@d@ 7anmal makimaki witpa yada tak 7@y kojap tzapji.]
+\XSP Este animal la aran~a camina sobre el techo de la casa
+\XEN This spider is walking on the ceiling of this house.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+ZOH004R0011001.txt
+\CMTS
+\date 26/Jun/96
+\DATE 03/Jan/1980
+Page 1410

@@ -1,0 +1,74 @@
+\com
+\idx
+\ref ZOH001R036 999-260
+\_no 01241
+\tx 7@y 7anhnitpa*m
+\mb 7@y 7anhnit-pa -7am
+\sg1 3E tener -INC-YA
+\egl 3E have -INC-NOW there_is-NOW day
+\zoq 7@y 7anhnitpa*m tejiam jama.
+\fts ya lo tiene muchos di*a.
+\fte Now he has there are days.
+\com
+\idx
+\ref ZOH001R036 999-261
+\_no 01242
+\tx
+n@kpa
+doktorjo
+\mb__n@k -pa
+doktor-jo7
+\sg1 irse-INC doctor-Loc2
+\egl go -INC doctor-LOC2
+\zoq N@kpa doktorjo.
+\fts va al doctor.
+tejiam
+teji
+hay
+\fte He goes to the doctor.
+\com
+\idx
+\ref ZOH001R036 999-262
+\_no 01243
+ZOH001R0361001.txt
+jama
+-7am jama
+-YA dia
+\tx 7i sonda 7@y xukpa
+pa yaktekkoxukpa
+\mb 7i
+\sgl y
+sonda 7@y xuk
+-pa para yak -tek-7oy -xuk-pa
+sonda 3E acabarse-INC para CAUS-***-ANTIP-3PL-INC
+\egl and *** 3E finish -INC for CAUS-***-ANTIP-3PL-INC
+\zoq 7i_sonda 7@y xukpa pa yaktekkoxukpa.
+\fts Y le ponen sonda para que lo hagan a que orine.
+\fte And he finishes ??? to make him piss.
+\com
+\idx
+\ref ZOH001R036 999-265
+\_no 01245
+\ref ZOH001R036 999-264
+\_no 01244
+\tx
+per y@p@
+y@
+\mb pero ya -p@7 y@ -7
+-pa
+\sg1 pero DCT1-poner DCT1-NOM1 2E tomar-INC
+\egl but DCT1-put DCT1-NOM1 2E
+drink-INC
+\tx GSM: 7@m 7ukpa
+\mb GSM 7@m 7uk -ра
+\sg1 GSM: 2E tomar-INC
+\egl GSM: 2E drink-INC
+\zoq GSM: 7@m 7ukpa.
+\zoq Per y@p@ ya 7am 7ukpa.
+\fts Pero esto es para que lo tomas.
+\fte But this, this you drink.
+\com
+\idx
+7@m 7ukpa
+7@m 7uk
+Page 267

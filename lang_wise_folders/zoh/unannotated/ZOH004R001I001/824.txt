@@ -1,0 +1,63 @@
+\ETL
+\ROOT max
+\RTGR 12
+\DSRC HAJ94
+\CMTS get deriv's
+\CMTS puede ser cualquiera cosa
+\date 03/Jan/80
+\lex maxan
+\_no 01910
+\LG MIG
+\PSH
+\UND maxan
+\MB
+\VAR
+\GRAM a/s
+\SCI
+\USE
+\SPG sagrado
+\ENG sacred
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex maxan 7une7
+\_no 01911
+\LG MIG
+\PSH
+\UND maxan 7une7
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG nene/nin*o recie*n nacido; criatura tierna
+\ENG infant; newborn
+\EXU
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 25/Jun/96
+\lex maxan kuy
+\_no 01912
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+\UND maxan kuy
+\MB sagrado, palo
+\VAR
+comida, tele, carro,...
+Page 824

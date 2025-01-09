@@ -1,0 +1,62 @@
+\lex nem [2]
+\_no 00192
+\SPG 1 talonear
+\SPG 2 cortar con tijeras
+\SPG 3 meter el pie encima de alguien
+\ENG 1 to kick with heels while mounted on an animal [abstr: to hold in
+a scissored position]
+\ENG 2 to cut with scissors
+\ENG 3 to throw your leg over someone
+\SEMF cut
+\ASP activity, achievement
+\ARG instrument
+\NOM nem.kuy7, nem.e7
+\NOM nem. naanh
+\RTGR T3
+\POS bi yoma* d@ n@mjayy@n yote
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex nenh
+\_no 00193
+\SPG olear (ri*o)
+\ENG for the river to make waves
+\SEMF water, nature
+\ASP activity
+\ARG
+\NOM nenh.naanh
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex nik. 'ix. '@y
+\_no 00194
+\SPG fijarse
+\ENG to keep an eye on
+\SEMF cognitive
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\ASP accomplishment
+\ARG
+\NOM ni'k.@7
+ZOH001R0611002.txt
+\lex ni7k
+\_no 00195
+\SPG medio secarse una cosa mojada
+\ENG for something wet to get half-dry
+\SEMF water
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+la mujer me corto* mi tela
+Page 48

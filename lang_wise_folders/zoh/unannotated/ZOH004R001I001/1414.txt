@@ -1,0 +1,63 @@
+\lex tzatz.e7
+\_no 03288
+\LG MIG
+\PSH [tzatze7]
+\UND tzatz. E7
+\MB rajar, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG "lo rajaron"; "alguien lo rajo*"
+ENG torn; "they tore it"; "someone tore it"
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzatz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tzatz.neenh
+\_no 03289
+\LG MIG
+\PSH [tzatzne*nh]
+\UND tzatz.neenh
+\MB rajar, MED1
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG tira
+\ENG strip (of paper, etc.)
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT tzatz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex tzatz-tuk.tuk.w@y
+\_no 03290
+\LG MIG
+\PSH [tzatztuktukw@y-]
+\UND tzatz-tuk.tuk.w@y
+ZOH004R0011001.txt
+\MB rajar, cortar, cortar, DEPOS
+\VAR
+\GRAM vt: depos
+\SCI
+\USE
+\SPG romper en pedazos
+\ENG to break into pieces
+\EXU 7@n+ tzatz-tuk. tuk.w@y-w@ 7@n+ toto7
+Page 1414

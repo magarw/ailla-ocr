@@ -1,0 +1,61 @@
+\lex tzinh
+\_no 00131
+\SPG ban*arse
+\ENG to bathe
+\EX
+\XSP
+\XEN
+ROOT tzinh Il
+\SEMF care
+\ASP activity
+\CAUS yak.tzinh ban~ar
+\CMTS
+\date 03/Jan/80
+\lex tzi7tz
+\_no 00132
+\SPG arrugarse; tener sarna; marchitarse
+\ENG to become wrinkled; to have dandruff; to wilt
+\EX tzi7tztza*m
+\XSP ya esta* marchitado
+\XEN now it has wilted
+\ROOT tzi7tz 12
+\SEMF condition, nature, body
+ASP process, state
+\CAUS yak.tzi7tz dar sarna; arrugar; hacer marchitar
+\date 03/Jan/80
+\lex tzix
+\_no 00133
+\SPG tirar pedos
+ENG to fart
+\EX
+\XSP
+\XEN
+\ROOT tzix Ix
+\SEMF body
+\ASP momentaneous, activity
+\CMTS
+\date 03/Jan/80
+\lex tzok
+\_no 00134
+ZOH001R0611007.txt
+\SPG sanar
+\ENG to heal
+\EX kotzokk@ y tz@ki
+\XSP lo hizo sanar
+\XEN he healed it
+\EX 7@y yaktzokjayy@ 7@y putzi
+\XSP le hizo sanar su grano
+\XEN she healed the cut
+\ROOT tzok 12
+\SEMF care, sickness
+\ASP process
+\CAUS yak.tzok sanar herida o enfermedad (doesn't equal criar)
+\CMTS
+\date 03/Jan/80
+\lex tzot
+\_no 00135
+\SPG salir sol o luna
+\ENG for the sun or moon to go down
+\EX tzottam jama
+\XSP ya salio* el sol
+Page 32

@@ -1,0 +1,64 @@
+\SPG ventana
+\ENG window
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex boronhguy7 kuy
+\_no 00559
+\LG MIG
+\PSH
+\UND boronhguy7 kuy
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG palo de coquito
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 13/Jun/95
+\lex borregu
+\_no 00560
+\LG MIG
+\PSH
+\UND borregu
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG borrego
+\ENG sheep
+\EXU
+\XSP
+\XEN
+\SYN
+LF: kuy
+\SEMF EZ
+\ETYM
+\ETL
+LF:7anmal
+\ROOT
+\DSRC TK94
+\CMTS
+\date 13/Jun/95
+\lex brocha Sp
+ZOH004R0011001.txt
+Page 241

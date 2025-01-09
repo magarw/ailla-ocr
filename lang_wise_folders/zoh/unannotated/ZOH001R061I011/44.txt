@@ -1,0 +1,60 @@
+\lex tet
+\_no 00221
+\SPG rajar
+\ENG to split
+\EX 7okmantza7 tete7
+\XSP talo*n rajado
+\XEN a split claw
+\ROOT tet Ix
+\CMTS CK-GR, get deriv's
+\lex tex
+\_no 00222
+\SPG
+\ENG
+\EX
+\XSP
+\XEN
+\ROOT tex
+\CMTS CK-GL prob. sexual; get deriv's
+\lex tij
+\_no 00223
+\SPG ir y regresar
+\ENG to go and return
+\EX tijpa gaji7
+\XSP va muncho ahi*
+\XEN she goes over there
+\EX 7@y kotijpa*7
+\XSP alguien que visita
+\XEN one who goes visiting
+\EX tijj@ 7i wituw@
+\XSP fue* y regreso*
+\XEN he went and he came back
+ZOH001R0611011.txt
+\EX tijke7tt@
+\XSP fue* de nuevo
+\XEN she went again
+\ROOT tij IX
+\CMTS caus yak.tij mandar que vaiga
+\CMTS caus p@k-tij llegarlo
+\lex tik
+\_no 00224
+\SPG tocar
+\ENG to touch
+\EX
+\XSP
+\XEN
+\ROOT tik P, (T3)
+\CMTS antip tik.7oy
+\CMTS no pass tik.7@m *
+\CMTS gloss was 'arrimarse a e*1', now see tik-p@k for that one
+\lex ti7kx
+\_no 00225
+\SPG pegar el ri*o al lado de algo, como un barco; olearse/tirarse cosa
+llena
+\ENG for the river to slap on the side of something, like a boat; for a full
+thing to slosh or spill
+\EX ti7kxpa bi n@7
+\XSP esta* oleando el agua
+\XEN the river is slapping the side of something
+\ROOT ti7kx I2, IX
+Page 44

@@ -1,0 +1,62 @@
+\date 29/Jan/96
+\lex y@k.tzinh
+\_no 00506
+\LG MIG
+\PSH [y@ktzinh]
+\UND yak.tzinh.0
+\MB INSTR2, ban~arse, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG donde se ban~a uno; sala de ban*o; algo para ban~ar
+\ENG place where you bathe; bathing room; something you use while
+bathing
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzinh
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex y@k.tz@m
+\_no 00507
+\LG MIG
+\PSH [y@ktz@m]
+\UND yak.tz@m.0
+\MB INSTR2, cargar, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG mecapal
+\ENG a headband used to carry things on your back
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@m
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex y@k.wij
+\_no 00508
+\LG MIG
+\PSH [y@kwij]
+\UND yak.wij.0
+ZOH001R0611004.txt
+\MB INSTR2, zambutirse, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+Page 200

@@ -1,0 +1,93 @@
+575. Juan va a sembrar chile y yo también.
+winhaj Xun olb'at winh awoj ich yet' inpaxi
+winhaj Xun ol-ø-b'at winh aw-oj
+ich y-et' in-pax-i
+Cmasc Juan fut-3B-ir Cmasc sembrar-inf chile 3A-SR 1B-adv-vti
+winhaj Xun olb'at winh awoj ich yet' paxin
+winhaj Xun ol-ø-b'at winh aw-oj
+ich y-et' pax-in
+Cmasc Juan fut-3B-ir Cmasc sembrar-inf chile 3A-SR adv-1B
+576. Juan va a sembrar chile pero yo no.
+olb'at winhaj Xun awoj ich a in tik ma’ay
+ol-ø-b'at winhaj Xun aw-oj
+a
+ich
+in tik ma'ay
+fut-3B-ir Cmasc Juan sembrar-inf chile top 1B dem neg
+577. Juan no va a sembrar chile, pero yo sí.
+230
+man olb’at laj winhaj Xun awoj ich pero a in olinb'atok
+man ol-ø-b'at laj winhaj Xun aw-oj
+ich pero a
+neg_fut-3B-ir neg Cmasc Juan sembrar-inf chile pero top
+in ol-in-b'at-ok
+1B fut-1B-ir-IRR
+578. No quiero nada de eso.
+malaj jab'ok jun chi' scha' ink'o'ol
+malaj jab'-ok
+neg
+in-k'o'ol
+jun chi' tz-ø-cha'
+poco-IRR uno dem tz-3B-recibir 1A-estómago
+579. ¿Quiere algo de esto?
+¿tom tzanib'ej jab'ok jun tik?
+tom tz-Ø-a-nib'ej
+jab'-ok jun tik
+int pres-3B-2A-querer poco-IRR uno dem
+¿sk'an a k'o'ol jab'oj jun tik?
+tz-ø-k’an
+a-k'o'ol
+jab'-ok jun tik
+pres-3B-pedir 2A-estómago poco-IRR uno dem
+580. No puedo caminar solo.
+max yal laj inb'ey inch'ok'ojil
+ma-x
+Ø-yal laj in-b'ey in-ch'ok'ojil
+neg-pres 3B-poder neg 1A-caminar 1A-soledad
+581. Yo sólo puedo trabajar en la mañana.
+axonhej t'a ch'imk'alil syal inmunlaji
+axo-nhej t'a ch'imk'alil tz-ø-yal
+in-munlaj-i
+conj-sólo prep temprano pres-3B-poder 1A-trabajar-nmlz
+582. Ya mero voy.
+toxo wal tzinb'ati
+to-xo (wal) tz-in-b'at-i
+nex-adv (enf) pres-1B-ir-vti
+583. Ahora es tarde para ir a trabajar.
+a tik naik ixk'e k'u yik tzinb'at munlajel
+tik_naik ix-ø-k'e
+a
+k'u y-ik
+tz-in-b'at munlaj-el
+pas-3B-subir día 3A-SR pres-1B-ir trabajar-nmlz
+top ahora
+584. Esta planta es buena para comer.
+a jun anh anh k’ultak tik wach’ kochian anh
+anh
+a jun anh
+k’ultak/itaj tik wach' ko-chi'-an
+top uno Cvegetel Cvegetal planta/hierba dem bueno 1A-comer-sub
+anh
+Cvegetal
+585. Esta planta es buena para esa enfermedad.
+a jun anh anh k’ultak tik wach’ anh t’a jun ilya’ chỉ
+anh
+k’ultak tik wach
+anh t'a jun
+a
+jun anh
+top uno Cvegetal Cvegetal planta dem bueno Cvegetal prep uno
+ilya'
+chi'
+enfermedad dem
+586. Juan es rápido para caminar.
+winhaj Xun te jelan sb'ey winh
+winh
+winhaj Xun te jelan s-b'ey
+Cmasc Juan muy bueno 3A-caminar Cmasc
+winhaj Xun elanchamel sb'ey winh
+winhaj Xun elanchamel s-b'ey
+Cmasc Juan rápido
+winh
+3A-caminar Cmasc
+231

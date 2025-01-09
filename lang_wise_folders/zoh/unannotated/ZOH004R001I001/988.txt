@@ -1,0 +1,63 @@
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kap
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 17/Jul/95
+\lex nik.kax. '@y
+\_no 02293
+\LG MIG
+\PSH [nikkaxx@y-]
+\UND nik.kax.7@y
+\MB SUP, dar_paso, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG abrir los pies
+\ENG to open the legs, as if to take a step
+\SPL
+\SLGR
+\EXU 7@y+ nik.kax. '@y-w@ 7@y+ bejcha para 7@y+
+ni.tz@n. 'aH-w@
+\XPSH [7@y nikkaxx@yy@y bejcha paray nitz@nnaw@.]
+\XSP Abrio* los pies para montar el caballo.
+\XEN He opened his legs to mount the horse.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kax
+\RTGR 11
+\DSRC HAJ95
+\CMTS ANALYZE EX/DONE: TK
+\date 25/Jun/96
+\lex nik.kekx. '@y
+\_no_02294
+\LG MIG
+\PSH [nikkekx@y-]
+\UND nik.kekx.7@y
+ZOH004R0011001.txt
+\MB SUP, despeltrar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG despeltrarse y brincar a alguien
+\ENG to chip off and fly out at someone
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+Page 988

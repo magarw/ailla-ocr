@@ -1,0 +1,75 @@
+\ref ZOH001R036 074
+\_no 00075
+\tx naka7tzpa
+pa m
+komatzpa
+7@m win
+\mb naka7tz -pa para 7@m ko -matz -pa 7@m win
+\sgl aplastar-INC para 2E SOC-sobar-INC 2E CARA
+\egl flatten -INC for 2E SOC-rub -INC 2E
+FACE
+\zoq Naka7tzpa pam komatzpa 7@m win.
+\fts Lo deshaces para que te limpies tu mismo.
+\fte You crush it to clean yourself.
+\com
+\idx
+\ref ZOH001R036 075
+\_no 00076
+7@m win
+-pa 7@m win
+\tx 7i 7anhtzaji 7@m monpa
+\mb 7i 7anhtzaji 7@m mon
+\sgl y
+nochecita 2E envolver-INC 2E REFL
+\egl and evening 2E wrap
+-INC 2E
+REFL
+\zoq 7i 7anhtzaji 7@m monpa 7@m_win
+\fts Y en la nochecita te envuelves
+\fte And then in the evening you wrap yourself up
+\com
+\idx
+\ref ZOH001R036 076
+\_no 00077
+\tx 7i m monhkuy
+\mb 7i 7@m
+\sgl y 2E
+\eg1 and 2E
+and
+tz@kpa
+tz@k -pa
+hacer-INC
+2E sleep -INSTR1 do - INC
+monh -kuy7
+dormir-INSTR1
+\zoq 7im monhkuytz@kpa.
+\fts y te duermes.
+ZOH001R0361001.txt
+\fte and you go to bed.
+\com
+\idx
+\ref ZOH001R036 077
+\_no 00078
+\tx joypi7t 7@m watpupa
+\mb
+joypi7t 7@m wat
+-pu -pa
+\sgl otro_di*a 2E amarrar-RVS-INC
+\egl next_day 2E bind -RVS-INC
+\zoq Joypi7t 7@m watpupa.
+\fts El otro di*a lo desatas.
+\fte And the next day you unwrap.
+\com
+\idx
+\ref ZOH001R036 078
+\_no 00079
+\tx toywayya*m
+bi kopak
+\mb toy -way -w@ -7am bi kopak
+\sgl doler-moler-COM-YA
+\egl hurt -grind-COM-NOW DEF head
+DEF cabeza
+\zoq Toywayya*m bi kopak.
+\fts Ya no duele tu cabeza.
+\fte Now the head doesn't hurt.
+Page 17

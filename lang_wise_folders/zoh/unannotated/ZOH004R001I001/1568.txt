@@ -1,0 +1,65 @@
+\UND weni7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG avispa
+\ENG wasp
+\EXU y@k weni7
+\XSP avispa negra
+\XEN black wasp
+\EXU tey mas pu7tz.pu7tz_weni7
+\XSP ahora mas amarilla la avispa
+\XEN now this wasp is a little yellower
+\EXU toro-puj weni7
+\EXU n@tz weni7
+\XSP avispa horcadora
+\EXU n@tz y@k weni7
+\XSP avispa horcadora negra
+EXU pu7tz.pu7tz nax wowo weni7
+\XSP avispa amarilla de hueco de tierra
+\XEN wasp that lives in a hole in the ground
+\EXU tzux weni7
+\XSP avispa verde
+\XEN green wasp
+\EXU chik tzux weni' d@kka
+\XSP avispa biushitas verde
+\XEN little green wasps
+\EXU komi' nax wowo weni7
+\XSP avispa de hueco grande
+\XEN wasp that lives in a big hole
+\EXU n@tz wowo weni
+\XSP avispa horcadora
+\XEN
+\EXU chik pu7tz.pu7tz weni7
+\XSP avispa amarillita
+\XEN slightly yellow_wasp
+\EXU xi7 p@j.i¹ weni7
+\XSP avispa culo largo
+\XEN big-tailed wasp
+\EXU xi7 p@j.i' y@k weni7
+\XSP avispa culo largo negro
+\XEN wasp with a big black tail
+\EXU tzikin chik weni7
+\XSP avispa pintitas
+\XEN wasp with little spots
+\EXU tzapatz xa7tzkuy' weni7
+\XSP charnahuite colorado
+ZOH004R0011001.txt
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK xa7tzkuy7/DONE:TK
+\date 26/Jun/96
+LF:weni 7
+\lex weni' t@k
+\_no 03648
+\LG MIG
+\PSH [weni t@k]
+\UND weni7 t@k
+Page 1568

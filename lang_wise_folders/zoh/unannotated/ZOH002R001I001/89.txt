@@ -1,0 +1,33 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+surface in any other environments. It is probably cognate with a suffix in
+neighboring MAR Zoque -i?iŋ/-e?eŋ, which creates a unit of measure or unitary
+event (Kaufman, p.c.). This in turn is clearly related to the MIG Zoque measure
+suffix -naaŋ?/neeŋ, discussed in section 7.2.3. We can reasonably deduce that
+the MIG Zoque numeral suffix is -?aŋ by the fact that there are geminate
+consonants in the forms maktaššaŋ (4), moššaŋ (5), and makkaŋ (10). This
+gemination would be regularly produced by a glottal-stop initial suffix in
+accordance with the rule discussed in 3.3.1. Note further that the final syllable
+in these two forms is not stressed, although in all the other forms it is stressed.
+Final stress generally indicates that a syllable has been deleted (section 3.3.8).
+We can thus deduce that the other forms had a final vowel, although we can not
+know precisely which vowel it was.
+The counting system is illustrated in example (4.19) with the numbers for
+something-two. Numbers from 10 to 19 are formed by prefixing the basic
+numbers with mak-. (Note that mak- is also used to mark the numbers 4,
+maktaššaŋ, and 9, maktuhtáŋ.) Number twenty is a new morpheme, ?i?pšaŋ?.
+Numbers 21 through 30 are formed with ?i?pšaŋ? followed by the numbers
+from 1 to 10. At 31, we begin adding the prefix ko- to the second part of the
+number. (This ko- is not to be confused with the verbal prefix discussed in
+section 7.1.1). 40 is two twenties, 60 is three twenties, and so on.
+(4.19)
+2
+12
+22
+42
+62
+mecán
+makmecán
+?i?pšaŋ? komakmecán
+mecáŋ ?i?pšaŋ? komakmecán
+tuwaŋ ?i?pšaŋ? komakmecán
+64

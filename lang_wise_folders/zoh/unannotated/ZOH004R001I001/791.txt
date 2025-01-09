@@ -1,0 +1,63 @@
+\ASP activity
+\ARG
+\NOM mak.i7, mak.kuy7
+\SUB 7ok.mak. '@y, jax-mak, yuk.mak
+\ETYM
+\ETL
+\ROOT mak
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex maka7
+\_no 01831
+LG MIG
+\PSH
+\UND maka7
+\MB
+\VAR maka7 kuy
+\GRAM
+\SCI
+\USE
+\SPG (palo de) lombricero
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 21/Jun/95
+\lex mak.i
+\_no 01832
+LG MIG
+\PSH [maki]
+\UND mak.i (not //mak. E)
+\MB
+\VAR
+\GRAM SV
+\SCI
+\USE
+LF: kuy
+\SPG atarraya
+\ENG cast-net
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT mak
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+ZOH004R0011001.txt
+\lex maki.maki
+\_no 01833
+Page 791

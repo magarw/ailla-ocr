@@ -1,0 +1,62 @@
+\ETYM tiempo
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 07/Apr/95
+\lex tuj t@k. 7<@y>-@n@m-w@+' am
+\_no 03064
+\LG MIG
+\PSH [tuj t@kk@n@mma*m]
+\UND tuj t@k. 7<@y>-An@m-w@+7am
+\MB 11over, casa, SUF, INDEF, COM, YA
+\VAR
+\GRAM indef:ya
+\SCI
+\USE
+\SPG tiempo de lluvia; ya entro* la lluvia
+\ENG rainy season; now the rainy season has started
+\EXU
+\XSP
+\XEN
+\SYN tak=7ok.manh-pa+'am tuj 'ya empiece a llover'
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 30/Jan/96
+\lex tuj [1]
+\_no 03065
+\LG MIG
+\PSH
+\UND tuj
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG disparar; tirar
+\ENG to fire; to shoot
+\EXU 7@y+ tuj-w@ bi m@a7 bi p@n
+\XPSH [7@y tujj@ bi m@a7 bi p@n.]
+\XSP El hombre disparo* al venado.
+\XEN The man shot at the deer.
+\SYN
+\SEMF hit
+\ASP semelfactive
+\ARG instrument
+\NOM tuj.kuy7
+\SUB tuj-tzik
+\ETYM
+\ETL
+\ROOT tuj
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex tuj [2]
+\_no 03066
+Page 1319

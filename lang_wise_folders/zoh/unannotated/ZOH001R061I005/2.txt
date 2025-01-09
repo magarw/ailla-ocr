@@ -1,0 +1,55 @@
+\RTGR T3
+\lex ko.pe7t
+\_no 00011
+\SPG despulgar
+\ENG to delouse
+\RTGR T3
+\lex ko.pit
+\_no 00012
+\SPG envolver; enrollar
+\ENG to wrap; to roll up
+\RTGR TX, T3
+\lex ko.tzik
+\_no 00013
+\SPG pelar o quitar cuero de un animal
+\ENG to skin an animal
+\RTGR T3
+\lex ko-tzu7px
+\_no 00014
+\SPG chupar cabeza
+\ENG to suck a head
+\RTGR T3
+\lex kuj
+\_no 00015
+\SPG empujar
+\ENG to push
+\RTGR T3
+\lex matz
+\_no 00016
+\SPG sobar
+\ENG to rub; to massage
+\RTGR T3
+\lex ma7tz
+\_no 00017
+\SPG amasar
+para tortillas
+\ENG to knead corn dough for tortillas.
+\RTGR T3
+\lex me7kx
+\_no 00018
+\SPG abrazar
+\ENG to hug
+\RTGR T3
+ZOH001R0611005.txt
+\lex me7tz
+\_no 00019
+\SPG buscar
+\ENG to look for
+\RTGR T3
+\lex mi7tz
+\_no 00020
+\SPG agarrar con el pun*o algo pequen~o que no se ve
+\ENG to hold something small in the closed fist so it isn't visible
+\RTGR T3
+\lex mon
+Page 2

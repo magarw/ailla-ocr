@@ -1,0 +1,63 @@
+ZOH004R0011001.txt
+XPSH [7@y nikjixx@yy@ k@xi.]
+\XSP Agarro* la comida y se lo dio* al otro. (dar = tirar)
+\XEN She scooped up some food with her tortilla and threw it at
+someone.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jix
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 08/Feb/96
+\lex nik.jom. '@y
+\_no 02286
+\LG MIG
+\PSH [nikjomm@y-]
+\UND nik.jom.7@y
+\MB SUP, cercar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG echar (palo) encima
+\ENG to throw a branch on top
+\SPL
+\SLGR
+\EXU 7@y+ nik.jom. '@y-w@ bi kuy bi jom. E
+\XPSH [7@y nikjomm@yy@ bi kuy bi jome.]
+\XSP Echo* encima el palo al cerco.
+\XEN He threw the branch on top of the fence.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT jom
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS it probably has to be trees and fences
+\date 27/Jan/96
+\lex nik.jot. '@y
+\_no 02287
+\LG MIG
+\PSH [nikjott@y-]
+\UND nik.jot.7@y
+\MB SUP, cortar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tirar todo lo que deshilo*
+\ENG to toss everything that unravelled
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+Page 985

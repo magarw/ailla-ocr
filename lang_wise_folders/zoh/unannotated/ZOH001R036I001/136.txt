@@ -1,0 +1,85 @@
+\tx 7ax de7xenhp@7
+\mb 7axta de-7
+-xenh -p@7
+\sg1 hasta de-NOM1-tanto -REL
+\egl until of-NOM1-amount-REL
+\zoq 7i da waxtampa ded@ jeje ban tzokk@ xa 7ax de7xenhp@7.
+fts Y nos pica el zancudo muy grande es hasta esa medida.
+\fte And that very big zancudo, like up to this size.
+\com
+\idx
+\ref ZOH001R036 637
+\_no 00625
+\tx kom
+\mb komi7
+jeje
+jeje
+\sgl grande zancudo
+\egl big
+biting_insect
+\zoq Kom jeje.
+\fts Zancudo grande.
+\fte Big Zancudo.
+\com
+\idx
+\ref ZOH001R036 638
+\_no 00626
+\tx n@kpam
+y
+waxx@
+\mb n@k -pa -7am 7@y wax
+\sg1 irse-INC-YA
+\egl go -INC-NOW 3E
+3E
+\zoq N@kpam y waxx@.
+\fts Te va a picar.
+-wa
+morder-dINC
+bite -dINC
+\fte Now it goes and bites.
+\com
+\idx
+ZOH001R0361001.txt
+\ref ZOH001R036 639
+\_no 00627
+\tx n@kpam
+\mb
+\sg1 irse-INC-YA
+chupar-APPL-DINC 2E
+\egl go -INC-NOW BE suck -APPL-DINC 2E
+y
+mu7kjayy@
+7@m_n@pin
+nak -pa -7am 7@y mu7k -jay -wa 7@m n@pin7
+3E
+\ref ZOH001R036 640
+\_no 00628
+\tx
+x@j@
+de7
+\mb x@j-A7 te -7
+\zoq N@kpam y mu7kjayy@ 7@m n@pin.
+\fts va a chupar tu sangre.
+\fte It goes and sucks your blood.
+\com
+\idx
+chik jeje
+chik
+\sgl ***-NOM2 DCT2-NOM1 chico
+\egl ***-NOM2 DCT2-NOM1 little
+\tx ga7
+bi malu*7
+\mb ka -7 bi malo
+\sg1 DCT3-NOM1 DEF malo
+\eg1 DCT3-NOM1 DEF bad
+sangre
+blood
+d@kka per tum@xta*7
+d@kkay pero tum@-xtaa7
+pero uno -NOMAS
+but one -ONLY
+jeje
+zancudo
+biting_insect NPL
+NPL
+Page 136

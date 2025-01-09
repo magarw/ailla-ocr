@@ -1,0 +1,72 @@
+(13) N=chi-ku’ teen xjaal belaare-l
+INC=B3p=DIR estar gente vigilar-INF
+'La gente se puso a controlar al gato de monte."
+nimaal wech
+(14) Nn=0=ook-x
+INC=B3s=entrar-DIR AUM gato.de.monte
+'Entró el gato de monte en el hoyo de la piedra,'
+n=0=kan-eet-tzan
+tzi
+(16) Ntoons par
+(15) toons
+t-ja
+entonces INC=B3s=encontrar-PAS-pues A3s+SR:entrada A3s-casa
+weech
+entonces porque
+jaʼla.
+gato.de.monte ahora
+'entonces se descubrió la entrada del gato de monte.'
+b'a'n=ta
+ojtxa,
+antes
+'Entonces, porque el piojo sabía hablar antes,"
+la-'tz=a
+axi’n,
+ver-RES.IMP=2s maíz
+(17) squk'
+piojo
+'piojo, vaya a ver el maíz,'
+t-i'
+(18) lapee-x-a
+perseguir=DIR=2s A3s-SR:PAC
+'persiga al gato de monte,'
+(19) 0-chi-tzan
+B3s-decir-pues
+'dijeron.'
+(20) N=0=xi
+squk' 0=0=yoola-n
+bueno=3sENF piojo CPL.DEP=B3s=hablar-AP
+(23) txa'q' t-eel
+t-ee
+weech.
+A3s-SR:PAC gato.de.monte
+0=q'uun-j.
+B3s-decir-PAS
+weech,
+gato.de.monte
+squk',
+piojo
+'y el gato de monte fue a morder al piojo,'
+t-oky' xaq,
+A3s-hoyo piedra
+tanaq squk' t-u
+AFEC A3s-salir DEM piojo A3s-SR:en
+""txa'q' " se hizo cuándo se destripó el piojo.'
+ky-xoo'-n xjaal squk' t-i'
+weech,
+INC=B3s=DIR A3p-tirar-SD gente piojo A3s-SR:sobre gato.de.monte
+'La gente tiró el piojo en el cuerpo del gato de monte,'
+(21) yaa txoo'll t-xi' nimaal squk' t-i'
+weech,
+ya AFEC A3s-ir DEM piojo A3s-SR:sobre gato.de.monte
+'y "txoo'll" se fue el piojo sobre el gato de monte,'
+weech
+(22) n=0=xi
+t-tx'a-'kj
+naq
+INC=B3s-DIR A3s-morder-RES DEM
+3
+nimaal
+gato.de.monte AUM
+t-k'u'j.
+A3s-estómago

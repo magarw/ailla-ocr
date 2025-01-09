@@ -1,0 +1,64 @@
+\SPL na7k.7oy
+\SLGR ANTIP
+\SLGL coser; costurar // to sew
+\SLGR NO PASS
+\EXU 1 7@y+ na7k-xuk-w@+ 'am
+\XPSH 1 [7@y na7kxukka*m.]
+\XSP 1 Ya lo costuraron.
+\XEN 1 Now they've sewn it.
+\EXU 2 7@y+ na7k-w@ bi yo't.e' para 7@y+na7k=mux-w@
+\XPSH 2 [7@y na7kk@ bi yote paray na7kmuxx@.]
+\XSP 2 Lo costuro* la ropa para que salga bien.
+\XEN 2 She sewed the clothes so they came out well sewn.
+\SYN t@p
+\SEMF build
+\ASP activity
+\ARG
+\NOM na'k.e
+\SUB na7k-mux
+\ETYM
+\ETL
+\ROOT na7k
+\RTGR T3
+\DSRC HAJ94
+\CMTS an old-fashioned word
+\date 03/Jan/80
+\lex nanh
+\_no 00109
+ZOH001R0611006.txt
+\LG MIG
+\PSH
+\UND nanh
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG regar, como semilla, arena, tierra
+\ENG to spread, as seed, sand, dirt
+\SPL nanh.7oy
+\SLGR ANTIP
+\SLGL regar // to spread
+\SPL nanh.7@m
+\SLGR PASS
+\SLGL regarse
+\SPL nanh.ney
+\SLGR ASSUM1
+\SLGL estar regado // to be spread
+\EXU nanh.7@m-w@ bi mok
+\XPSH [Nanhnh@mm@ bi mok.]
+\XSP Se rego* el mai*z.
+\XEN The corn seed was spread.
+\SYN
+\SEMF spread
+\ASP activity
+\ARG
+\NOM naw.e7, nanh.naanh, nanh.'oy.kuy7
+\SUB 7ok.nanh.'@y
+\ETYM
+\ETL
+\ROOT nanh
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+Page 74

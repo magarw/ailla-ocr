@@ -1,0 +1,61 @@
+XEN he pulled the tree down
+\ROOT jitzi T1
+\CMTS no pass
+\CMTS no antip
+\CMTS no assum
+\lex ji7tz
+\_no 00038
+\SPG recoger (tela) con un hilo suelto
+\ENG to gather (fabric)
+\EX
+\XSP
+\XEN
+\ROOT ji7tz P (T3)
+\CMTS antip ji7tz.7oy poner pliegue
+\CMTS pass ji7tz.7@m estar en pliegues
+\CMTS assum1 ji7tz.ney esta* plegado
+\lex ji7tz
+\_no 00039
+\SPG arrugarse
+\ENG to become wrinkled
+\EX 7@n yakji7tzpa n kin@k
+\XSP arrugue* mi nariz
+\XEN I wrinkled my nose
+\ROOT ji7tz 12, T2
+\CMTS caus yak.ji7tz arrugar (ropa, cara,
+\lex jix
+\_no 00040
+\ROOT jix T3
+\CMTS antip jix. 7oy
+\SPG remojar (la tortilla en la comida)
+\ENG to scoop up (food with a tortilla)
+\Ex 7@y_j@xjixpa totoj@nanh bi nax tonton
+\XSP 10 saca con papel la tierra hecho polvo
+\XEN she scoops up the dust with a paper
+ZOH001R0611011.txt
+\lex jok
+\_no 00041
+\CMTS pass jix.7@m
+\CMTS prsv jix.ten 'tener puesto en la comida la tortilla'
+\SPG ahumarse (se hizo con el humo)
+\ENG to smoke
+\EX
+\XSP
+\XEN
+\ROOT jok 12
+\CMTS caus yak.jok ahumar
+\lex jom
+\_no 00042
+\SPG cercar con rama
+\ENG to fence with branches
+..)
+\EX 7@y 7anhjomm@ kuy 7anhkaxj@nanh
+\XSP 1o cerco* con rama
+\XEN he fenced it with branches
+\EX jomm@mma*m bi yujkuy
+\XSP ya esta* cercado el desmonte
+\XEN now the field has been fenced
+\ROOT jom P (T3)
+\CMTS get deriv's
+\CMTS antip jom. 7oy acercar * now can't get this
+Page 9

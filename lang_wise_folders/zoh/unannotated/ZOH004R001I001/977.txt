@@ -1,0 +1,63 @@
+\CMTS CK-GL HAJ:96 now ok
+\date 19/Jun/96
+\lex ni.kap
+\_no 02267
+\LG MIG
+\PSH [nikap]
+\UND ni.kap.0
+\MB PURP, cargar_en_hombro, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG resistidor
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\ENG shoulder pad (for padding a load)
+\SPL
+SEMF
+\ETYM
+\ETL
+\ROOT kap
+\RTGR P, (T3)
+\DSRC HAJ95
+-
+\CMTS
+\date 27/Jan/96
+\lex ni.kek
+\_no 02268
+\LG MIG
+\PSH [nikek-]
+\UND ni.kek
+\MB PURP, brincar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG brincar algo
+\ENG to hop over something
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kek
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 19/Jun/96
+\lex ni.ket
+\_no 02269
+ZOH004R0011001.txt
+\LG MIG
+\PSH [niket-]
+\UND ni.ket
+\MB PURP, tapar
+Page 977

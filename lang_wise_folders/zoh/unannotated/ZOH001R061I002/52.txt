@@ -1,0 +1,62 @@
+\_no 00208
+\SPG sudar
+\ENG to sweat
+\SEMF body
+\ASP acitivity
+\ARG
+\NOM nutz.@7
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex nak [1]
+\_no 00209
+\SPG irse
+\ENG to go
+\SEMF move_self
+\ASP activity
+\ARG direction
+\NOM
+\RTGR IX
+\POS n@kjayy@ 7ay 7okjonhnh@yy@
+\POS se le fue* lo olvido* (it escaped me, in the mind)
+\POS n@kjayy@ y jam7okkuy se le fue* su pensamiento'
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex n@7kx
+\_no 00210
+\SPG esquivar estivar (piedra) (blok)
+\ENG to stack blocks or rocks
+\SEMF arrange
+\ASP activity
+\ARG
+\NOM n@7kx.naanh, n@7kx. 'oy.kuy7
+\RTGR P, (T3)
+\POS da n@7kxjayy@n tzad@kka
+\MID
+\UNDO 7@n n@7kxpuw@ tza7
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\lex n@m
+\_no 00211
+\SPG decir
+\ENG to say
+\SEMF speak
+\ASP activity
+\ARG
+\NOM n@m.i
+\RTGR 11
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex paj
+\_no 00212
+desestive* la piedra
+Page 52

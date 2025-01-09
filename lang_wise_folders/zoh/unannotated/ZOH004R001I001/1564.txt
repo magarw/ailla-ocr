@@ -1,0 +1,63 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 wej
+\RTGR 1 T1
+\ROOT 2 7a7tz
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 15/Oct/94
+\lex weka7
+\_no 03639
+\LG MIG
+\PSH
+\UND weka7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG cuerno; cacho
+\ENG horn
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex wekxa
+\_no 03640
+\LG MIG
+\PSH
+\UND wekxa
+\MB
+\VAR wekxaj
+\GRAM S
+\SCI
+\USE
+\SPG sauce
+\ENG willow
+\EXU wekxa d@k7a [no /j/]
+\XSP
+\XEN
+\SYN
+\SEMF EB
+ETYM
+LF: kuy
+ZOH004R0011001.txt
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH HAJ:96, can't tell if the /j/ is there, seems to change; /j/
+not underlying: TK
+\date 26/Jun/96
+Page 1564

@@ -1,0 +1,62 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xik
+\RTGR 11
+\DSRC HAJ94
+\CMTS CK-PH HAJ:96 ok/OK:TK
+\date 26/Jun/96
+\lex xik.i7
+\_no 03930
+\LG MIG
+\PHO [xiki7]
+\UND xik. E7
+\MB reirse, NOM7
+\VAR
+\GRAM pcp
+\SPG risa
+\ENG laughter
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT xik
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex xik-@n@m
+\_no 03931
+\LG MIG
+\PSH [xik@n@m-]
+\UND xik-An@m
+\MB reirse, INDEF
+\VAR
+\GRAM indef
+\SCI
+\USE
+\SPG rei*rse alguien o gente
+\ENG for people to laughl; for there to be laughter
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xik
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex xi7kx (1)
+\_no 03932
+\LG MIG
+\PSH
+\UND xi7kx
+ZOH004R0011001.txt
+\MB
+\VAR
+Page 1691

@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT jom
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex jo.mux
+\_no 00865
+\LG MIG
+\PSH [jomux-]
+\UND jo. mux
+\MB EN, saber
+\VAR
+\GRAM vt
+\SPG saber todo
+\ENG to find out everything
+\EXU 7@y+ jo.mux-w@ jemji
+\XPSH [7@y jomuxx@ jemji.]
+\XSP Lo supo todo.
+\XEN He found out everything.
+\SYN
+\ROOT mux
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 22/Jun/96
+\lex jom(e)=yo7t.7@y
+\_no 00866
+\LG MIG
+\PSH [joomyo7tt@y-]
+\UND jom(e)=yo7t.7@y
+\MB nuevo, ropa, VERS2
+\VAR joom=yo7tt@y-
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG ponerse ropa nueva
+\ENG to put on new clothes
+EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yo7t
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 06/Feb/96
+\lex jon
+\_no 00867
+\LG MIG
+\PSH
+\UND jon
+\MB
+\VAR
+\GRAM S
+ZOH004R0011001.txt
+Page 377

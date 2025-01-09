@@ -1,0 +1,63 @@
+ve'
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex kej.naanh
+\_no 01222
+\LG MIG
+\PHO [kejna*nh]
+\UND kej.naanh
+\MB verse, MED
+\VAR
+\GRAM meas
+\SPG una vez se vio*
+\ENG once it appeared; one sighting
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT kej
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex kek
+\_no 01223
+LG MIG
+\PSH
+\UND kek
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG 1 brincar
+\SPG 2 saltar
+\SPG 3 volar
+\ENG 1 to hop
+\ENG 2 to jump
+\ENG 3 to fly
+\SPL yak.kek
+\SLGR CAUS
+\SLGL hacer brincar // to cause to jump
+\SPL kek.7@m
+\SLGR PASS
+\SLGL brincar // to jump
+\EXU 1 7@n+ kek-pa
+\XPSH 1 [7@n kekpa.]
+\XSP 1 Brinco.
+\XEN 1 I hop over something.
+\EXU 2 jon kek-w@
+ZOH004R0011001.txt
+\XPSH 2 [Jon kekk@.]
+\XSP 2 volio* el pa*jaro.
+\XEN 2 The bird flew.
+\EXU 3 kek. 7@m-w@ bi noa7
+\XPSH 3 [Kekk@mm@ bi noa7.]
+\XSP 3 Brincaron el arroyo.
+\XEN 3 They jumped over the arroyo.
+\EXU 4 7@n+ yak.kek-pa y@.d@ tzux najak
+\XPSH 4 [7@n yakkekpa y@d@ tzux najak.]
+\XSP 4 voy a hacer brincar esta rana verde.
+\XEN 4 I'm going to make this green frog jump.
+\SYN
+Page 532

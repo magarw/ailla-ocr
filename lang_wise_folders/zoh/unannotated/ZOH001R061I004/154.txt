@@ -1,0 +1,63 @@
+\MB envarillar, NOM7
+\VAR
+\GRAM pcp
+\SPG envarillado
+\ENG made of poles or wands
+\EXU 1 t@k we'k.e7
+\XPSH 1 [t@k weke7]
+\XSP 1 casa envarillada
+\XEN 2 poled house
+\EXU 2 tak we'k.e7+'am+p@7
+\XPSH 2 [t@k weke 7amp@7]
+\XSP 2 casa que ya esta* envarillada
+\XEN 2 a house that now has its poles installed
+\SYN
+\ROOT we7k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex wij.i
+\_no 00387
+\LG MIG
+\PHO [wiji]
+\UND wij.E
+\MB zambutirse, NOM7
+\VAR
+\GRAM pcp
+\SPG esta*s adentro del agua, se zambutio*
+\ENG you're in the water, you dived in.
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT wij
+\RTGR P (IX)
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex wiki' tzoa7
+\_no 00388
+ZOH001R0611004.txt
+\LG MIG
+\PSH [wiki tzoa7]
+\UND wiki7 tzonh.A7
+\MB dedo, unir, NOM2
+\VAR
+\GRAM s (m)s
+\SCI
+\USE
+\SPG nudillo
+\ENG knuckles
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzonh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+Page 154

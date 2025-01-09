@@ -1,0 +1,61 @@
+\ENG to get cloudy
+\EX
+\XSP
+\XEN
+\ROOT 7in Ix
+\SEMF nature
+\ASP transition, process
+\CAUS yak.7in hacer nublar
+\date 03/Jan/80
+\lex 7oj
+\_no 00005
+\SPG toser
+\ENG to cough
+\EX
+\XSP
+\XEN
+\ROOT 70j 11
+\SEMF body
+\ASP momentaneous
+\CAUS yak. 7oj hacer toserse
+\CMTS
+\date 03/Jan/80
+\lex 7okx
+\_no 00006
+\SPG apagarse
+\ENG to go out (be extinguished)
+\EX 7okxpa 7i k@nhtzonhpa
+\XSP se prende y se apaga
+\XEN he turns it on and he turns it off
+\EX 7@y xuj@ 7okx@ ta7kx@
+\XSP apago* soplando la luz
+\XEN he blew on it, he put out the light
+\ROOT 70kx 12
+\SEMF fire
+\ASP transition
+\CAUS yak. 7okx apagar
+\CMTS
+\date 03/Jan/80
+\lex 707k
+\_no 00007
+\SPG calmar(se)
+\ENG to calm down
+ZOH001R0611007.txt
+\EX 707kk@_xawa
+\XSP se calmo* el viento
+\XEN the wind calmed down
+\ROOT 707k 12
+\SEMF nature
+\ASP process, transition
+\CAUS yak.707k hacer calmar el viento:
+\CMTS puede decirlo, pero no puede hacerlo
+\CMTS trata del viento, el tiempo
+\date 03/Jan/80
+\lex 70m
+\_no 00008
+\SPG echar humo
+\ENG to emit smoke
+\EX
+\XSP
+\XEN
+Page 2

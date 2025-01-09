@@ -1,0 +1,63 @@
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG estiva
+\ENG stack
+\SPL
+\SLGR
+\EXU k@pi nek.e7
+\XPSH [k@pi neke7]
+\XSP len~a estivada, una estivada de len~a
+\XEN stacked firewood, a stack of firewood
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nek
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS CK-GR, CK-GL HAJ:96 ok/OK: TK
+\date 03/Jan/80
+\lex nek=jom
+\_no 02186
+\LG MIG
+\PHO [nekjom-]
+\UND nek=jom
+\MB estivar, cercar
+\VAR
+\GRAM vt
+\SPG cercar surtido
+\ENG to fence with assorted materials (?)
+\EXU 7@y+ nek=jom-w@
+\XPSH [7@y nekjomm@.]
+\XSP Lo cerco* surtido.
+\XEN
+\SYN
+\ROOT 1 nek
+\RTGR 1 P (T3)
+\ROOT 2 jom
+\RTGR 2 P (T3)
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex ne7k
+\_no 02187
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+\UND ne7k
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tapar una corriente la echa para un lado
+\ENG to divert a stream of water
+\SPL ne7k.7oy
+\SLGR ANTIP
+\SLGL tapar // to divert a stream of water
+\SPL ne7k.7@m
+\SLGR PASS
+\SLGL taparse // to be diverted
+Page 942

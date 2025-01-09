@@ -1,0 +1,94 @@
+ixincha winh uk’um anh winh
+ix-ø-in-cha'
+winh uk'-um anh winh
+pas-3B-1A-encontrar Cmasc beber-agtvz trago Cmasc
+488. Vine con el hombre que estaba borracho.
+ixinkot yet’ winh uk’um anh
+ix-in-kot
+y-et' winh uk’-um anh
+pas-1B-venir 3A-SR Cmasc beber-agtvz trago
+489. ¿Cuál de los hombres que estaba borracho salió?
+;mach eb’ winh uk’um anh chỉ ixeli?
+mach eb' winh uk'-
+208
+anh chỉ ix-ø-el-i
+quién pl Cmasc beber-agtvz trago dem pas-3B-salir-vti
+490. El hombre mató al perro.
+a winh winhak ixmak'ancham nok' tz'i'
+a winh winhak ix-ø-mak'-an-cham
+nok' tz'i'
+top Cmasc hombre pas-3B-golpear-EA-morir Canimal perro
+491. El perro mordió al hombre.
+a nok' tz'i' ixchi'anelta' winh winak
+a nok'
+tz'i' ix-ø-chi'-an-el-ta'
+winh winak
+top Canimal perro pas-3B-morder-EA-DIR. afuera-adv Cmasc hombre
+El perro estaba mordiendo al hombre.
+a nok' tz'i' wal chi'anelta' winh winak
+a
+nok'
+tz'i' wal ø-chi'-an-el-ta'
+winh
+top Canimal perro enf 3B-morder-EA-DIR. afuera-adv Cmasc
+winak
+hombre
+El perro está mordiendo al hombre.
+a nok' tz'i' wan schi'anelta' winh winak
+a
+nok'
+tz'i' wan ø-s-chi'-an-el-ta'
+winh
+top Canimal perro prog 3B-3A-morder-prog-DIR. afuera-adv Cmasc
+winak
+hombre
+B
+wan schi'naxelta' winh winak yuj nok' tz'i'
+wan s-chi'-nax-el-ta'
+winh winak y-uj nok'
+prog 3A-morder-psv-DIR. afuera-adv Cmasc hombre 3A-SR Canimal
+tz'i'
+perro
+El hombre mató al perro que lo estaba mordiendo.
+a winh winak ixmak'ancham nok' tz'i' yuj to wal chi'naxelta' winh
+yuj nok'
+nok'
+winh winak ix-ø-mak'-an-cham
+tz'i'
+a
+top Cmasc hombre pas-3B-golpear-EA-morir Canimal perro
+y_uj_to wal ø-chi'-nax-el-ta'
+winh y-uj
+nok'
+porque enf 3B-morder-psv-DIR. afuera-adv Cmasc 3A-SR Canimal
+a winh winak ixsmak'cham nok' tz'i' winh yuj to wan schi'anelta' nok'
+a
+winh winak ix-ø-s-mak'cham nok' tzi winh
+top Cmasc hombre pas-3B-3A-matar Canimal perro Cmasc
+y_uj_to wan ø-s-chi'-an-el-ta'
+nok'
+porque prog 3B-3A-morder-prog-DIR. afuera-adv Canimal
+492. El perro me estaba mordiendo
+a nok' tz'i' wal inchi'anelta'
+a
+nok' tz'i' wal in-chi'-an-el-ta'
+top Canimal perro enf 1B-morder-EA-DIR. afuera-adv
+493. El hombre mató al perro que me estaba mordiendo.
+a winh winak ixmak'ancham nok' tz'i', nok' wal inchi'anelta'
+nok'
+winh winak ix-ø-mak'-an-cham
+tz'i',
+top Cmasc hombre pas-3B-golpear-EA-morir Canimal perro
+a
+nok'
+wal in-chi'-an-el-ta'
+Canimal enf 1B-morder-EA-DIR. afuera-adv
+494. El perro estaba enfermo.
+a nok' tz'i' penaxo ay nok'
+a
+nok'
+tz'i' pena-xo
+nok'
+top Canimal perro enfermedad-adv exist-3B Canimal
+ay-ø
+209

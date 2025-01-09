@@ -1,0 +1,45 @@
+50 //oimacudi//
+oi-ma-acu-di
+voir-CAUS-CIRC-PASL
+ils me firent voir autour de moi
+51 acudimuquian
+acu-di-mu-quian
+CIRC-PASL-EXIST1-EVID.DIR
+vraiment autour de moi
+52 //yaba pia cuduya//
+yaba pia cudu-ya
+yaba flèche dessin-GEN
+la flèche décorée des morts
+53 tsobarasihuurashon
+tsoba-rasi-huuran-shon
+prendre-nombreux-CP1a-ACT.ANT
+ils sont tous venus la saisir
+54 tsobapacuhuurashon
+tsoba-pacu-huuran-shon
+prendre-<< plusieurs fois »>-CP1a-ACC-ACT.ANT
+chacun est venu la saisir, l'un à la suite de l'autre
+55 //uqui huucohuurani//
+un-qui huuco-huuran-i
+1PERS.N-DIR projeter-CP1a-PROG
+ils s'approchent en la projetant vers moi
+56 uhuun mana upahua
+uhuun mana upa-hua
+1POSS plateau parents-AUGM
+mes nombreux parents du plateau
+57 uhuun mana upafo
+uhuun mana upa-fo
+1PERS plateau parent-PL
+mes parents du plateau
+58 ua uqui bapohuui
+ua un-qui bapo-huu-i
+Ø 1PERS.N-DIR « attendre en haut »-venir-PROG
+ils viennent m'attendre, là-haut
+59 bapohuuranaiton
+bapo-huuran-aiton
+<< attendre en haut »-CP1a-ACT.SIM
+ils viennent attendre, là-haut
+60 ahuun yabaquian
+ahuun yaba-quian
+3POSS yaba-OST2
+leurs âmes mortes
+51

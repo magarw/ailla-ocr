@@ -1,0 +1,63 @@
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex klabu
+\_no 01274
+\LG MIG
+\PSH
+\UND klabu
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG clavo
+\ENG nail
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+LF:7okox tzamm@7
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex klabu=tzij-paj.kuy7
+\_no 01275
+\SCI
+\USE
+\SPG martillo
+\LG MIG
+\PSH [klabutzijpajkuy7]
+\UND klabu=tzij=paj.kuy7
+\MB clavo, tirar_piedra, cercar, INSTR1
+\VAR
+\GRAM instr1
+\ENG hammer
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN martiu
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tzij
+\RTGR T3
+ZOH004R0011001.txt
+\ROOT 2 paj
+\RTGR 2 P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+Page 556

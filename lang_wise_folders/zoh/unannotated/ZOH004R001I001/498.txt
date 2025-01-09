@@ -1,0 +1,62 @@
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG cajo*n; ataud
+\ENG chest; coffin
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex kajtzay7
+\_no 01141
+\LG MIG
+\PSH
+\UND kajtzay7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG hamaca
+\ENG hammock
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 06/Feb/96
+\lex_kajtzay'=kunh. 'oy.kuy7
+\_no 01142
+\LG MIG
+\PHO [kajtzaykunhnhokuy7]
+\UND kajtzay7-kunh. 7oy.kuy7
+\MB hamaca, colgar, ANTIP, INSTR1
+\VAR
+\GRAM instr1
+\SPG gancho para colgar hamaca
+\ENG hook for hanging a hammock
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT kunh
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex kajwe
+ZOH004R0011001.txt
+Page 498

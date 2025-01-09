@@ -1,0 +1,53 @@
+97
+Considero que los contrastes extienden metafóricamente (Lakoff y Johnson, 1980)
+referencias espaciales (siempre relativas) sobre otros dominios epistémicos/deónticos de la
+manera siguiente: a mayor cercanía o proximidad, dominio del realis; a mayor lejanía,
+dominio del irrealis. A su vez, en la configuración del "espacio" del irrealis operan diferentes
+mecanismos discursivos a los que no se puede integrar dentro de un único sistema.
+106
+Dichos mecanismos funcionan como marcadores modales de irrealis por medio de una
+operatoria inferencial sistemática y convencionalizada. En otras palabras, propongo que los
+significados modales del irrealis, en el quechua boliviano "mezclado", no están determinados
+estructuralmente, sino que se apoyan en una codificación de orden pragmático que es
+motivada por la aparición de formas específicas en contextos también específicos. Siguiendo a
+Vidal y Klein (1998), quienes retoman la propuesta de Tomlin (1987) y Tomlin y Pu (1991),
+distingo entre "codificación estructural" y "señalamiento pragmático" de una forma
+lingüística. Entiendo que una forma "codifica estructuralmente" una función si la presencia de
+la función en el mensaje requiere que el hablante invariablemente use la forma específica, la
+que será interpretada automáticamente por el oyente en relación con dicha función. Por otro
+lado, una forma “señala pragmáticamente" una función si la presencia de la forma habilita al
+oyente a inferir esa función particular pero ella no es necesaria estructuralmente; es decir, la
+forma, que posee otra función primaria, sólo en ciertos contextos promueve sistemáticamente
+una inferencia orientada a un ámbito funcional diferente.
+En consonancia con la propuesta general de mi tesis, el presente desarrollo toma el
+discurso como marco teórico y metodológico para el análisis de las formas. Y el interés se
+focaliza en el nivel pragmático, es decir, en el estudio de los aspectos del contexto que se
+incluyen en la estructura de la lengua (Silverstein 1976; Levinson 1983; Gumperz 1982,
+1991). De la misma manera, para la recolección y análisis del corpus se emplearon técnicas en
+terreno de observación, participación y elicitación.
+2- Distancia espacial
+aquí (a la vista) > acercándose (entrando en la escena) > alejándose (saliendo de la escena) > donde no se alcanza
+a ver > desconocido
+3- Distancia temporal
+ahora > pasado/futuro reciente > pasado/futuro lejano > desconocido
+4- Fuentes de información (distancia conceptual)
+evidencia directa (sensorial) > evidencia directa endofórica (accesible a los participantes de la interacción) >
+evidencia indirecta de oídas > evidencia indirecta inferida.
+106
+Jackendoff (1976 y ss.), en reiteradas oportunidades, sostiene que las relaciones espaciales son fundamentales
+en la cognición y, por lo tanto, están codificadas de diversas maneras en las lenguas. Es decir, que los predicados
+espaciales primitivos se extienden a otros campos semánticos, tales como el tiempo, la posesión y muchos otros.
+La extensión de este procedimiento hacia el dominio de la modalidad constituiría más evidencia sobre la
+centralidad conceptual de las relaciones espaciales.
+107 El mismo procedimiento es identificado por Bendix (1998) en relación con la interpretación del irrealis a
+partir del marcador TAM (tiempo/aspecto/modo) del Newari (lengua tibeto-burmana).
+108 En el español, los verbos modales (poder y deber) son ambiguos en ausencia de contexto entre
+interpretaciones deónticas, epistémicas y aléticas (esta última presente en, por ejemplo, P. debió venir ayer en su
+interpretación contrafactual, es decir, según la lectura "debió venir pero no vino). En estos casos, para interpretar
+el modal, se hace imprescindible el contexto. El contexto es el que nos proporciona la base modal y la ordering
+source (según Kratzer 1991) por lo que, en este caso, la modalidad tampoco estaría determinada estructuralmente.
+109 El
+corpus de este capítulo está conformado por fragmentos discursivos seleccionados del habla de personas
+migrantes provenientes del Departamento de Potosí (Bolivia) que actualmente residen en Buenos Aires (partidos
+de Escobar y Pilar), Argentina. Si bien algunos de los ejemplos han sido extraídos del habla espontánea, la
+mayoría fueron obtenidos mediante elicitación a partir del trabajo con consultantes de diferentes edades y sexos.

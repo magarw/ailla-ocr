@@ -1,0 +1,64 @@
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG tocar
+\ENG to play music
+\SPL xem.7@m
+\SLGR PASS
+\SLGL tocar // to play (impersonal)
+\SPL xem.t
+\SLGR PRSV
+\SLGL tener el intrumento, tocandolo // to have the instrument and be
+playing it
+\EXŪ 7@y+ xem-w@ bị xempe
+\XPSH [7@y xemm@ bi xempe.]
+\XSP Toco* la guitarra.
+\XEN He's playing the guitar.
+\SYN
+SEMF sound
+\ASP process
+\ARG patient
+\NOM xem.e7
+\SUB xem(a)-t@7
+\ETYM
+\ETL
+\ROOT xem
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex xe7t
+\_no 00218
+\LG MIG
+\PSH
+\UND xe7t
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG frei*r; tostar
+\ENG to fry; to toast
+\SLGR NO PASS
+ZOH001R0611006.txt
+\EXU 1 mok=xe7t-w@ 7eken '+jo7
+\XPSH 1 [Mokxe7tt@ 7ekenjo7.]
+\XSP 1 Tosto* el mai*z en el comal.
+\XEN 1 She toasted the corn on the griddle.
+\EXU 2 kajwe=xe7t-pa
+\XPSH 2 [Kajwexe7tpa.]
+\XSP 2 Tuesta el cafe*
+\XEN 2 He is toasting the coffee.
+\EXU 3 d@ xe7t-pa
+\XPSH 3 [D@ xe7tpa.]
+\XSP 3 Estoy freyendo (algo).
+\XEN 3 I'm frying (something).
+\SYN
+\SEMF cook
+\ASP process
+\ARG
+\NOM xe't.e7, xe7t-t@tz.i7
+\SUB xe7t=jax
+\ETYM
+\ETL
+Page 147

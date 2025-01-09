@@ -1,0 +1,65 @@
+\USE
+\SPG tragar
+\ENG to swallow up, to gulp
+\SPL ju7k. 7oy
+\SLGR ANTIP
+\SLGL tragar // to swallow
+\SPL ju7k.7@m
+\SLGR PASS
+\SLGL tragarse // to be swallowed up
+\EXU 1 jama 7@y+ ju7k-xuk-pa
+\XPSH 1 [jamay ju7kxukpa]
+\XSP 1 eclipse del sol
+\XEN 1 eclipse of the sun
+\EXU 2xepe' 7@y+ ju7k-xuk-pa
+\XPSH 2 [xepe y ju7kxukpa]
+\XSP 2 eclipse de la luna
+\XEN 2 eclipse of the moon
+\EXU 3 ju7k.7@m-w@ bi 7an.e
+\XPSH 3 [Ju7kk@mm@ bi 7ane.]
+\XSP 3 Se trago* la tortilla.
+\XEN 3 The tortilla was gulped down.
+\EXU 4 7@y+ ju7k-w@ bi nu7 bi 7an.e
+\XPSH 4 [7@y ju7kk@ bi nu7 bi 7ane.]
+\XSP 4 El perro trago* la tortilla.
+\XEN 4 The dog gulped down the tortilla
+\EXU 5 min. 'oy-e 7@y+ ju7k. 'oy-wa
+\XPSH 5 [Minnoy ju7koyy@!]
+\XSP 5 !Ven a comer! (dice a los nin~os)
+\XEN 5 Come eat! (they say to children)
+\SYN
+\SEMF eat
+\ASP transition
+\ARG
+\NOM
+\SUB yuk.ju7k
+\ETYM
+\ETL
+\ROOT ju7k
+\RTGR T3
+\DSRC TK94
+\CMTS
+\CMTS = MAR wu7k
+\date 03/Jan/80
+ZOH001R0611006.txt
+\lex junun
+\_no 00044
+\LG MIG
+\PSH
+\UND junun
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacerle cosquillas
+\ENG to tickle someone
+\SPL junun.7oy
+\SLGR ANTIP
+\SLGR NO PASS
+\EXU 7@n+ junun-pa bi yom@'=7une7
+\XPSH [7@n jununpa bi
+yo:m7une7.]
+\XSP Le hice cosquillas a la muchacha.
+\XEN I tickled the girl.
+Page 32

@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT 70m
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 25/Jun/96
+\lex k@ak
+\_no 01654
+\LG MIG
+\PSH
+\UND k@ak
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG huarache
+\ENG sandal
+\EXU 7@n+ k@ak+jo7
+\XPSH [7@n k@akjo7]
+\XSP en mi huarache
+\XEN in my sandal
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Jan/96
+\lex k@ak naka
+\_no 01655
+\LG MIG
+\PSH
+\UND k@ak naka
+\MB huarache, cuero
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG correa de huarache
+\ENG strap of a sandal
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/96
+\lex k@.gan(a)=tz@k
+\_no 01656
+\LG MIG
+\PSH [k@ganatz@k-]
+\UND k@.gana=tz@k
+\MB FUERA, ganar, HACER
+ZOH004R0011001.txt
+Page 715

@@ -1,0 +1,62 @@
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzetz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 07/Feb/96
+\lex kuy-tzij.kuy7
+\_no 01627
+\LG MIG
+\PSH [kuytzijkuy7]
+\UND kuy=tzij.kuy7
+\MB palo, tirar_piedra, INSTR1
+\VAR
+\GRAM instr1: incorp
+\SCI
+\USE
+\SPG mazo de palo
+\ENG wooden club
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzij
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/96
+\lex kuy-woj. kuy7
+\_no 01628
+\LG MIG
+\PSH [kuywojkuy7]
+\UND kuy-woj. kuy7
+\MB palo, agujerar, INSTR1
+\VAR
+\GRAM SS
+\SPG barreno; birbikin
+\ENG drill
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT Woj
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jun/96
+\lex kuy-wo7k
+\_no 01629
+\LG MIG
+ZOH004R0011001.txt
+Page 704

@@ -1,0 +1,63 @@
+\ROOT jax
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex jaxake7
+\_no 00690
+\LG MIG
+\PSH [jaaxake7]
+\UND jaxake7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG nuera (de un hombre o una mujer)
+\ENG daughter-in-law (of a man or a woman)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 24/Jun/96
+\lex jax.e7
+\_no 00691
+\LG MIG
+\PSH [jaxe7]
+\UND jax. E7
+\MB asar, NOM7
+\VAR jax.e'+7k
+\GRAM ps-pcp
+\SCI
+\USE
+\SPG 1 tostado
+\SPG 2 asado
+\ENG 3 una cosa tostado
+\ENG 1 toasted
+\ENG 2 roasted
+\ENG 3 something toasted or roasted
+\EXU 1 xix=jax. E7
+\XPSH 1 [xixjaxe7]
+\XSP 1 carne asada
+\XEN 1 roasted meat
+\EXU 2 jax. E'+7k xix
+\XPSH 2 [jaxe7k xix]
+\XSP 2 carne asada
+\XEN 2 roasted meat
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT jax
+\RTGR T1
+\DSRC TK94
+\CMTS CK-PH HAJ:96 - corrected jax@*7 to jaxe7. 1st is the IMPV of jax-
+\date 24/Jun/96
+Page 296

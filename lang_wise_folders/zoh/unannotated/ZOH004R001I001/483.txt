@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT 7ek
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex j@x='ex
+\_no 01104
+\LG MIG
+\PSH [j@xxex-]
+\UND j@x=7ex
+\MB ATRAS, encajar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar de donde estaba encajado o tapado
+\ENG to pull out the thing that's stuck in
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN 7ok. 'ex. '@y
+\SEMF
+\ETYM
+\ETL
+\ROOT 7ex
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex j@x='ix
+\_no 01105
+\LG MIG
+\PSH [j@xxix-]
+\UND jax=7ix
+\MB ATRAS, ver
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG ver_par atra*s
+\ENG to look behind
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+SEMF
+\ETYM
+\ETL
+\ROOT 7ix
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex j@x='oj
+Page 483

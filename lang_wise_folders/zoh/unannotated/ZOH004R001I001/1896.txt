@@ -1,0 +1,63 @@
+\GRAM
+\SPG asi*
+\ENG so, as
+\SPL
+\SLGR
+\EXU 1 ney de.7xe pin@k n@k-pa 7@m yox-tam-w@ 7eya+a7k
++jo7
+\XPSH 1 [Ney de7xe pin@k n@kpam yoxtamm@ 7eya*7kjo7.]
+\XSP 1 Asi* mismo fueran a trabajar al otro lado.
+\XEN 1 The same way maybe you'd go to work elsewhere.
+\EXU 2 de.7xe+v7k gente
+\XPSH 2 [de7xe7k jente]
+\XSP 2 esa clase de gente
+\XEN 2 that kind of person
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {de.y}
+\_no 04415
+\LG MIG
+\PSH [dey]
+\UND te.y
+\MB DCT2, TMP
+\VAR
+\USE neutral temporal deictic. not right away, not long ago
+\GRAM av
+\SPG ahora
+\ENG now
+\SPL
+\SLGR
+\EXU te.y ye7tz-xuk-w@ 7anh-tzaji
+\XPSH [Tey ye7chukk@ 7anhtzaji.]
+\XSP Ahora llegaron en la nochecita.
+\XEN Now they arrived in the evening.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+ZOH004R0011001.txt
+\lex {dond +ju}
+\_no 04416
+\LG MIG
+\PSH [dondju]
+\UND donde +ju
+\MB donde, donde
+\VAR
+\GRAM LOC REL SBD
+\SCI
+\USE
+\SPG donde
+\ENG where
+\SPL
+\SLGR
+\EXU
+\XSP
+Page 1896

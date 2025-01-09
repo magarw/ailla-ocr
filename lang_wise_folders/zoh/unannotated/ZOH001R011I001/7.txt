@@ -1,0 +1,96 @@
+\zoq N@kxukk@.
+\fts Se fueron.
+\fte They went.
+\com
+\idx
+\ref ZOH001R011 027
+\_no 00028
+\tx ye7chukk@
+\mb
+rroyo
+chorro
+ye7tz -xuk-w@ rroyo chorro
+\sg1 11egar-3PL-COM arroyo chorro
+\egl arrive-3PL-COM canyon waterfall where where
+\ref ZOH001R011 028
+\_no 00029
+\zoq Ye7chukk@ rroyo chorro dondjut@nh wanakpa bi n@7.
+\fts Llegaron en el arroyo chorro donde hay una caida de agua.
+\fte They arrived in the waterfall canyon where the water comes down.
+\com
+\idx sp
+\tx n@mpa
+\mb n@m
+y@jixta
+de 7
+ban
+tzawi
+-pa
+ya -ji7 -xtaa7 te -7 bayun tzawi7
+DCT1-LOC1-NOMAS DCT2-NOM1 mucho mono
+\egl say -INC DCT1-LOC1-ONLY DCT2-NOM1 a_lot monkey
+\sg1 decir-INC
+\ref ZOH001R011 029
+\_no 00030
+\zoq Nampa, "Y@jixta*, de 7 ban tzawi.
+\fts Dice, "Aqui no mas, hay mucho changos.
+\fte He says, "Right here, there are lots of monkeys.
+\com
+\idx
+ZOH001R0111001.txt
+\tx 7i dey
+t@kk@da*nh
+t@k -7@y -ta*nh
+\mb 7i te -y
+\sg] y
+DCT2-TMP casa -VERS2-estar_ancho poco
+\egl and DCT2-TMP house-VERS2-be_wide
+little
+\ref ZOH001R011 030
+\_no 00031
+\tx 7i yey
+\mb 7i
+\sg] y
+DCT1-TMP DCT2-NOM1 1E
+\eg1 and DCT1-TMP DCT2-NOM1 1E
+\zoq 7i dey t@kk@da*nh 7ichinh tzamkuyjonanh
+\fts y vamonos un poco para dentro de la montan~a
+\fte and now let's enter a little into the jungle
+\com
+\idx
+\com
+\idx
+de
+n
+ya -y te -7 7@n pa7t
+\ref ZOH001R011 031
+\_no 00032
+wanakpa
+dond jut@nh
+donde jut@@nh
+bi
+n@7
+wanak -pa bi n@7
+donde por donde bajarse-INC DEF agua
+go_down-INC DEF water
+\tx ti naxe
+\mb ti
+\sg1 que
+\zoq 7i yey_den_pa7ttampa."
+\fts y ahorita lo encontramos.
+\fte and right away we'll find them."
+t@kk@xukk@
+"I
+pa7ttampa
+find
+7ichinh tzamkuyjonanh
+7ichi*nh tzamkuy7 -jonanh
+montan~a -DIR3
+mountains-DIR3
+-tam -pa
+encontrar-1/2PL-INC
+-1/2PL-INC
+tzamkuyjonanh
+naxe t@k -7@y-xuk-w@ tzamkuy7 -jonanh
+verdad casa -SUF-3PL-COM montan~a -DIR3
+Page 7

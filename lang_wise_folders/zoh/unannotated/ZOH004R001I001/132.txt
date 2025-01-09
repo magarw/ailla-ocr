@@ -1,0 +1,64 @@
+\lex 7ojo7
+\_no 00305
+\LG MIG
+\PSH
+\UND 70j07
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG aguardiente
+\ENG corn liquor
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 12/Jun/95
+\lex 7ok
+\_no 00306
+LG MIG
+\PSH
+\UND 70k
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG huella
+\ENG track
+\EXU
+\XSP
+\XEN
+\SYN 7ok-k@7
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS cf 7ok=k@7 are these variations of the same word? No, just
+synonyms/TK
+\date 24/Jun/96
+\lex 7ok.7@7tz.7@7tz.w@y
+\_no 00307
+\LG MIG
+\PSH [70k7@7tz7@7tzw@y-]
+\UND 7ok.7@7tz.7@7tz.w@y
+\MB ABAJO, gomitar, gomitar, DEPOS
+\VAR
+\GRAM VTR
+\SPG gomitar
+\ENG to vomit
+\EXU 7@y+ 7ok. 7@7tz.7@7tz.w@y-w@ bi mok puj
+\XPSH [7@y 7okk@7tz7@tztz@yy@ bi mok puj.]
+\XSP Lo estuvo gomitando los granos de maiz. (una cuerva)
+\XEN It was vomiting up the corn seeds.
+(a crow)
+Page 132

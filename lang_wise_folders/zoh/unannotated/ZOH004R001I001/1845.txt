@@ -1,0 +1,63 @@
+\_no_04294
+\LG MIG
+\PSH [yukme7tz-]
+\UND yuk.me7tz
+\MB ARR, buscar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG empezar a buscar
+\ENG to start to look for
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT me7tz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex yuk.min='ok.manh
+\_no 04295
+\LG MIG
+\PSH [yukminnokmanh-]
+\UND yuk.min=7ok.manh
+\MB ARR, venir, BAJA, *pisar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar a venir
+\ENG to start to come
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT min
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex yuk.mon
+\_no 04296
+\LG MIG
+\PSH [yukmon-]
+\UND yuk.mon
+\MB ARR, envolver
+\VAR
+\GRAM vt
+\SPG levantar envuelto
+ENG to raise up wrapped up
+ZOH004R0011001.txt
+Page 1845

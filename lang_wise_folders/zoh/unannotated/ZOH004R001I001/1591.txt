@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT k@nh
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex win-k@x
+\_no 03702
+\LG MIG
+\PHO [wink@x-]
+\UND win-k@x
+\MB CARA, comer
+\VAR
+\GRAM vt
+\SPG comer con alguien
+\ENG to eat with someone
+\EXU 7@y+ win-k@x..oy-wa
+\XPSH [7@y wink@xxoyy@.]
+\XSP Comio* con e*1.
+\XEN She ate with him.
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT k@x
+\RTGR T3
+\RTGL comer // to eat
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex win-manak
+\_no 03703
+\LG MIG
+\PSH [winmanak]
+\UND win-manak
+\MB CARA, hijo/a
+\VAR
+\GRAM XS
+\SCI
+\USE
+\SPG primer hijo
+\ENG first-born son
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex win-me7kx=monh
+\_no_03704
+\LG MIG
+\PSH [winme7kxmonh-]
+\UND win-me7kx=monh
+ZOH004R0011001.txt
+Page 1591

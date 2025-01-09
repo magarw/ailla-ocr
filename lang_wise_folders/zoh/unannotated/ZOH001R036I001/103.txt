@@ -1,0 +1,83 @@
+\_no 00472
+\tx
+\mb OSM
+te -da
+\sg1 OSM: DCT2-DEM
+\egl OSM: DCT2-DEM thorn tree say
+OSM: ded@
+ха
+\tx
+\mb xa7
+\sg1 INTENS
+\eg1 INTENS
+\ref ZOH001R036 482
+\_no 00473
+\tx
+\mb GSM
+GSM: tepeskewite
+tepeskewite
+\sg1 GSM: tepesquehuite
+\eg1 GSM: tepesquehuite
+\zoq OSM: Ded@ paxte kuy n@mpa ban teji j@tij@nanh xa.
+\fts OSM: Esa palo de espina dice mucho hay por alla* por Juchita*n.
+\fte OSM: That spiny tree they say there are lots of towards Juchitan.
+\com
+\idx
+\not (en camino de Juchita*n)
+\zoq GSM: Tepeskewite.
+\fts GSM: Tepesquehuite.
+\fte GSM: Tepesquehuite.
+\com
+\idx
+\ref ZOH001R036 483
+\_no 00474
+ZOH001R0361001.txt
+ban teji
+paxte kuy
+paxte7 kuy
+-pa bayun teji
+espina palo decir-INC mucho hay
+\tx
+OSM: 7andale
+\mb OSM
+7andale
+\sg1 OSM: 7andale
+\egl OSM: there_you_go
+\com
+\idx
+\zoq OSM: 7andale.
+\fts OSM: Andale.
+\fte OSM: There you go.
+\ref ZOH001R036 484
+\_no 00475
+\tx paxte kuy
+\mb paxte7 kuy
+\sg1 espina palo
+\eg1 thorn tree
+\zoq Paxte kuy.
+\fts Palo con espina.
+\fte Spiny tree.
+\com
+\idx
+\ref ZOH001R036 485
+\_no 00476
+n@mpa
+n@m
+jananh
+jati
+jaytija7 jananh
+Juchitan DIR1
+-INC a lot there is Juchitan DIR1
+\tx gag@
+\mb
+ka
+naka jak w@ja 7adonde ga
+ka -g@ naka jakke waj@ 7adonde ka -7
+\sg1 DCT3-DEM cuero muy
+bueno adonde DCT3-NOM1 estar_caliente-NOM3
+\eg1 DCT3-DEM skin very good where DCT3-NOM1 be_hot
+Page 103
+nutzi
+nutz
+-E
+-NOM3

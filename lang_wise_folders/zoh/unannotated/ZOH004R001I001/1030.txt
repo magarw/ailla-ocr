@@ -1,0 +1,63 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 27/Jan/96
+\lex noko'=tz@k
+\_no 02392
+\LG MIG
+\PSH [nokotz@k-]
+\UND noko7=tz@k
+\MB currioso, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer currioso
+\ENG to make hardy
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 27/Jan/96
+\lex nonh
+\_no 02393
+\LG MIG
+\PSH
+\UND nonh
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG apretar cosa blandita
+\ENG to spring back into shape, like a ball or a tit
+\SPL yak.nonh
+\SLGR CAUS
+\SLGL apachurrar
+\SLGR NO ANTIP
+\SPL nonh.7@m
+\SLGR PASS
+\SLGL estar apachurrado // to be dented
+\SPL nonh.ney
+\SLGR ASSUM1
+\SLGL estar apachurrado // to be dented
+\EXU 1 7@y+ yak.nonh.pu-w@
+\XPSH 1 [7@y yaknonhpuw@.]
+Page 1030

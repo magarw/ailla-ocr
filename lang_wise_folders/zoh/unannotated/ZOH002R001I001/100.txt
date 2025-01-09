@@ -1,0 +1,50 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(v)
+(vi)
+(vii)
+(ix)
+(x)
+dø nøkpan tøkjo'
+də+ nək-pa ?ən+ tək+ho?
+1 A+ go-INC 1E+ house+LOC2
+'I'm going home."
+(viii) dø nøkpa parkejonang
+(xi)
+dø tøkkøba tzamkuyjo'
+də+ tək.?ǝy-pa
+camkuy?+ho?
+1A+ house.VERS2-INC mountain+LOC2
+'I'm going into the mountains.'
+dø nøkpa camkuyjonang
+də+ nək-pa camkuy?+honaŋ
+1A+ go-INC mountain+DIR3
+'I'm going towards the mountains.'
+də+ nək-pa parke+honaŋ
+1A+ go-INC park+DIR3
+'I'm going to the park.'
+dø minnø tøkjóng
+də+ min-wə
+tək+hooŋ
+1A+ come-COM house+DIR4
+'I'm coming from home."
+(ZOH001 R0601001-092)
+(ZOH001 R0601001-096)
+75
+(ZOH001 R0601001-095)
+(ZOH001 R0601001-003)
+dø pitzømpam tøkjongjong
+də+ picəm-pa+?am
+tək+hoŋ+hoon
+1A+ leave-INC +NOW house-inside+DIR4
+'I'm going out from inside the house."
+(ZOH001R0601001-117)
+(ZOH001 R0601001-098)
+'øy powo mexgøxi jemji bi 'ay'døkka
+?əy+ pə?-wə
+meša+gǝši hemhi bi ?ay?+dǝkkay
+3E+ put-COM table+LOC4 all DEF leaf+NPL
+'He put all the leaves on the table.'
+(ZOH001 R010-614)
+There are three non-spatial postpositions, shown in table 4.5. If MIG
+Zoque had a complete case system, these would simply be a part of that.
++hənaŋ, ACC, is usually translated by con, 'with', and shows the same

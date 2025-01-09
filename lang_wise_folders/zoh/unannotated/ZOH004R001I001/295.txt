@@ -1,0 +1,64 @@
+ZOH004R0011001.txt
+\NOM jawa.i
+\SUB jo.jaway, k@.jaway. '@y, ni.jaway, yuk.jaway
+\ETYM
+\ETL
+\ROOT jaway
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex jax
+\_no 00689
+\LG MIG
+\PSH
+\UND jax
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG 1 asar (carne)
+\SPG 2 tostar (totopo)
+\SPG 3 tostarse
+\ENG 1 to roast (meat)
+\ENG 2 to bake (totopo)
+\ENG 3 to be baked
+\SPL yak.jax
+\SLGR CAUS
+\SLGL hacer tostar // to cause to bake or roast
+\SPL jax-E
+\SLGR PCP
+\SLGL asado // roasted
+\SPL jax. 7oy
+\SLGR ANTIP
+\SLGL asar // to roast
+\SPL jax.7@m
+\SLGR PASS
+\SLGL asarse // to be roasted
+\EXU 1 xix=jax-w@
+\XPSH 1 [Xixjaxx@.]
+\XSP 1 Aso* la carne.
+\XEN 1 She roasted the meat.
+\EXU 2 7@m+ jax-w@+'am bi xix?
+\XPSH 2 [7@m jaxxa*m bi xix?]
+\XSP 2 Ya asaste la carne?
+\XEN 2 Have you roasted the meat now?
+\EXU 3 jax. E+'am
+\XPSH 3 [Jaxea*m.]
+\XSP 3 Ya esta* asado.
+\XEN 3 Now it's roasted.
+\EXU da jax. 'oy-pa
+\XPSH [D@ jaxxoba.]
+\XSP Estoy asando (algo).
+\XEN I'm roasting (something).
+\SYN
+\SEMF cook
+\ASP activity
+\ARG agent, patient
+\NOM jax.e7, jax.kuy7
+\SUB jo.jax, ko.jax, xe7t=jax
+\ETYM
+\ETL
+Page 295

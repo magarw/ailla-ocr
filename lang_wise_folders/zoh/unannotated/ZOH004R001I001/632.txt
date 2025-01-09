@@ -1,0 +1,62 @@
+XEN cock's comb
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 29/Jan/96
+\lex ko.toy
+\_no 01453
+\LG MIG
+\PSH [kotoy-]
+\UND ko.toy
+\MB OTRO, doler
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG celar; cuidar
+\ENG to watch over; to take care of
+\EXU
+\XSP
+\XEN
+\SYN 7ix. ten
+\SEMF
+\ETYM
+\ETL
+\ROOT toy
+\RTGR 12
+\DSRC HAJ94
+\CMTS like you get someone to watch over the food, for portion control,
+\CMTS at an ayuda. so the server doesn't dish out too much at a time
+\date 18/Jun/96
+\lex ko.tuk
+\_no 01454
+LG MIG
+\PSH [kotuk-]
+\UND ko.tuk
+\MB OTRO, cortar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG recortar
+\ENG to cut again
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tuk
+\RTGR T3
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS
+\date 20/Oct/94
+\lex ko.t@nh
+\_no 01455
+Page 632

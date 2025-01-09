@@ -1,0 +1,63 @@
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS cf. SOT [pattanh] < *patajax: widely diffused in Mayan
+\date 08/Feb/96
+\lex patanux
+\_no 02550
+\LG MIG
+\PSH
+\UND patanux
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG platano
+\ENG banana
+\EXU gineyu patanux
+\XSP guineo
+\EXU jay (a) patanux
+\XSP pla*tano macho
+\EXU chik patanux
+\XSP guineyito chico
+\EXU seda patanux
+\XSP guineyito chico
+\EXU najak patanux
+\XSP pla*tano sapo
+\SYN
+\SEMF EB
+ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Nov/94
+\lex patanux 7@y+ mok
+\_no 02551
+LF:7okox
+\LG MIG
+\PSH [patanux 7@y mok]
+\UND patanux 7@y+ mok
+\MB pla*tano, 3Erg, mai*z
+\VAR
+\GRAM sps
+\SCI
+\USE
+\SPG mazorca de pla*tano
+\ENG banana sprouts
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+ZOH004R0011001.txt
+\CMTS
+\date 28/Jan/96
+\lex patanux 7@y+ mok pak
+Page 1098

@@ -1,0 +1,63 @@
+\VAR
+\GRAM BA-ed
+\SCI
+\USE
+\SPG de pelo crespo; colocho; "picho"
+\ENG curly-haired
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kex
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex way'=kex. kuy7
+\_no 03616
+\LG MIG
+\PHO [waykexkuy7]
+\UND way7=kex.kuy7
+\MB cabello, ponerse_crespo, INSTR1
+\VAR
+\GRAM instrl
+\SPG cosas para enchinar la cabella
+\ENG hair curlers
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT kex
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex way'=k@nh
+\_no 03617
+ZOH004R0011001.txt
+\LG MIG
+\PSH [wayk@nh-]
+\UND way7=k@nh
+\MB pelo, pintar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG tener cana
+\ENG to be gray-haired
+\EXU 1 way'=k@nh-w@+7am
+\XPSH 1 [wayk@nhnha*m.]
+\XSP 1 Ya tiene cana.
+\XEN 1 Now he's gray.
+\EXU 2 d@+ way'=k@nh-pa
+\XPSH 2 [D@ wayk@nhpa.]
+\XSP 2 Tengo cana.
+\XEN 2 I'm turning gray.
+\SYN
+\SEMF
+\ETYM
+\ETL
+Page 1554

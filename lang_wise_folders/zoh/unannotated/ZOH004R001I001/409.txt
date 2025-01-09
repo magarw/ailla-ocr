@@ -1,0 +1,62 @@
+\CMTS
+\date 09/Nov/94
+\lex jup.naanh
+\_no 00936
+\LG MIG
+\PHO [jupna*nh]
+\UND jup.naanh
+\MB jalar, MED
+\VAR
+\GRAM meas
+\SPG una cubeta de agua; un viaje al ri*o a cargar agua
+\ENG a bucketful of water; one trip to the river to fetch water
+\EXU tum jup.naanh n@7 7@y jup-min-w@
+\XPSH [Tum jupnanh n@7 7@y jupminn@.]
+\XSP Trajo una cubeta de agua.
+\XEN He brought a bucket of water.
+\SYN
+\ROOT jup
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex jup=n@k
+\_no 00937
+\LG MIG
+\PSH [jupn@k-]
+\UND jup-n@k
+\MB jalar, irse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 11evar en la mano, como una cubeta
+\ENG to carry in the hand, something with a handle like a bucket
+SPL
+\SLGR
+\EXU 7@y+ jup=n@k-w@ 7@y+ tzanh.kuy'+g@xi
+\XPSH [7@y jupn@kk@y tzanhkuyg@xi.]
+\XSP Lo 11evo* de la mano.
+\XEN She took someone by the hand and went along.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 jup
+\RTGR 1 P, (T3)
+\ROOT 2 nak
+\RTGR 2 11
+\DSRC HAJ95
+ZOH004R0011001.txt
+\CMTS
+\date 18/Jun/96
+\lex jup-pak
+\_no 00938
+\LG MIG
+\PSH [juppak-]
+\UND jup-pak
+\MB jalar, apretarse
+\VAR
+\GRAM vt
+\SCI
+Page 409

@@ -1,0 +1,55 @@
+100
+112
+113
+mundos posibles en el cual la afirmación propuesta es "verdadera" (o adecuada). Es decir, la
+proposición constituye un subconjunto (w) del gran conjunto de mundos posibles (W).¹¹² En
+su relación se sostienen las consecuencias lógicas de implicación, consistencia, compatibilidad
+lógica y background conversacional (por ejemplo, en términos de “lo que la ley provee",
+“dadas las evidencia a mano”, etc.)¹¹³ que garantizan una conceptualización teórica del
+fenómeno como relativo a un marco de referencia contingente y de anclaje pragmático (es
+decir, construido discursivamente a partir de los lugares que ocupan los participantes en la
+interacción). El background conversacional cumple la función de asignar (denotativamente) a
+cada mundo posible un conjunto de fuerzas o valencias que los hablantes aceptan por (lo que
+consideran) conocimiento (valor epistémico) (Schoubye 2004) o por normativa compartida
+(valor deóntico).
+A su vez, la habilitación de interpretaciones ambiguas -epistémicas, deónticas,
+circunstanciales- se define sólo a partir de informaciones provistas por el contexto de uso
+(lingüístico o extra-lingüístico) que debe especificar qué modalidad se implica. Es decir, las
+oraciones que conllevan operaciones modales sólo expresan una proposición si algún
+parámetro contextual (f) especifica el tipo de modalidad en juego determinando una relación
+de accesibilidad entre mundos (nociones como "w' es epistemológicamente accesible desde
+w"¹14 o "w' es deónticamente accesible desde w"¹¹5).
+,114
+115-
+Si bien las formalizaciones alcanzadas hasta aquí dieron cuenta de la clave que
+organiza la modalidad: su relatividad, de la contingencia de las afirmaciones modales y de la
+dualidad de operadores como "debe" o "puede", no lograron solucionar ciertos problemas:
+inconsistencia en el análisis deóntico de las proposiciones, explicaciones paradójicas sobre
+construcciones condicionales e insuficiencia en la explicación de la gradualidad de las
+nociones modales.
+116
+En 1991, Kratzer, después de varios trabajos previos (1977, 1978, 1981), realiza un
+aporte, que considero transformador, al análisis "estándar" de la modalidad a partir de analizar
+un subdominio de la modalidad: el epistémico. Su propuesta, junto a aspectos señalados en
+el apartado anterior, será vertebradora del análisis que desarrollo a continuación sobre el
+corpus.
+Ella propone que la modalidad es “doblemente relativa" y delimita dos parámetros o
+"contextos conversacionales" que la regulan:
+112
+1- la base modal: fijada por los participantes de la interacción. Se trata del
+parámetro que define qué mundos posibles son accesibles a través del mundo referido
+Mantengo el uso de "w" para significar world (“mundo") por encontrarlo extendido en la bibliografía sobre
+semántica modal.
+113
+Sin mencionar los casos en que una oración contiene varios modalizadores por lo que diferentes backgrounds
+conversacionales se encuentran operando en combinación.
+114
+Se da "si y solo si w' es compatible con todo lo que conocemos de w”.
+115
+Se da "si y solo si w' es compatible con todo lo que la normativa provee en w".
+116
+Los desarrollos de Kratzer son compatibles con los de Schoubye (2004) quien, desde la filosofía, recorre un
+camino similar en "Epistemic meaning and the concept of knowledge". Schoubye propone la reformulación del
+"espacio espitémico" -que, según él, intercepta las dimensiones epistémica, evidencial y modal- por medio de
+revisar la propuesta de Givón (1982) a través de herramientas desarrolladas por la epistemología revisionista o
+"contextualismo" (De Rose 1992, 1999).

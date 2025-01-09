@@ -1,0 +1,63 @@
+\lex tijera jon
+\_no 02990
+\LG MIG
+\PSH
+\UND tijera jon
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG tijerilla
+\ENG a type of bird
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 10/Nov/94
+\lex tij.mot
+\_no 02991
+\LG MIG
+\PSH [tijmot-]
+\UND tij.mot
+\MB ir, CON_OTRO
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG 1 ir tambie*n
+\SPG 2 participar
+\ENG 1 to go along
+\ENG 2 to participate
+\EXU
+\XSP
+\XEN
+\SYN
+LF: jon
+\SEMF
+\ETYM
+\ETL
+\ROOT tij
+\RTGR IX
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tik
+\_no 02992
+\LG MIG
+\PSH
+\UND tik
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tocar (con el hombro)
+ZOH004R0011001.txt
+Page 1287

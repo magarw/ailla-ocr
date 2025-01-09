@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jetz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+\lex yuk.ji7i
+\_no 04239
+\LG MIG
+\PSH [yukji7i-]
+\UND yuk.ji7i
+\MB ARR, grun-ir
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar a grun-ir
+\ENG to start to grow]
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ji7i
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 15/Jul/95
+\lex yuk.ji7kx
+\_no 04240
+\LG MIG
+\PSH [yukji7kx-]
+\UND yuk.ji7kx
+\MB ARR, tener_olor_de_chile
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar el olor fuerte (como de chile)
+\ENG to start to smell strongly of chili
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ji7kx
+\RTGR IX
+ZOH004R0011001.txt
+\DSRC HAJ95
+\CMTS
+\date 15/Jul/95
+Page 1821

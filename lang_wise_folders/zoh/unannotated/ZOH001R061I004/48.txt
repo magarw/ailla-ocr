@@ -1,0 +1,64 @@
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG cigarra; caballito del diablo; mantis; juguete de caballito
+\ENG a type of insect
+\EXU tzux kabayitu m@tz.i7
+\XSP caballito verde
+\EXU pu7tz.pu7tz kabayitu m@tz.i7
+\XSP caballito amarillito
+\EXU kabayitu m@tz.i' pu7tz.pu7tz+p@7
+\XPSH [kabayitu m@tzi_pu7tzpu7tzp@7]
+\XSP caballito amarillo
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS NAIS 298 300
+\date 07/Feb/96
+LF: bugs
+\lex kajwe tzu't.i7
+\_no 00116
+\LG MIG
+\PHO [kajwe tzuti*7]
+\UND kajwe tzu7t.E7
+\MB cafe*, cortar, NOM7
+\VAR
+\GRAM PCP
+\SPG cafe* cortado sin pico
+\ENG coffee picked by hand
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT tzu7t
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex kajwe=tze7.e7
+\_no 00117
+\LG MIG
+\PSH [kajwe tze7e*7k]
+\UND kajwe=tze7.E7 +P@7k
+ZOH001R0611004.txt
+\MB cafe, lavar, NOM7, REL
+\VAR tze7e+7k kajwe
+\GRAM nom:incorp
+\SCI
+\USE
+\SPG cafe* lavado; cafe* limpio
+\ENG washed coffee beans; clean coffee beans
+\EXU kajwe puj tze7.e7
+\XPSH [kajwe puj tze7e*7]
+\XSP cafe* despulpado, ya lavado
+\XEN husked coffee, washed
+\SYN
+\SEMF
+\ETYM
+Page 48

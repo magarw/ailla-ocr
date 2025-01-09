@@ -1,0 +1,38 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+to elicit expressions such as * 7ǝn šaŋ=poŋ-wǝ bi yuhkuy?, 'we cleared the
+fields and burned them'.
+(8.34)
+(i)
+(ii)
+(iii)
+mix tennangwaktamø
+miš ten=?aŋ.*wak-tam-A?
+2>1 stand=clear_out-1/2PL-IMPV
+'Stand back!'
+dø nitenwitudamapa
+də+ ni.ten=witu?-tam-A-pa
+1A PSE.stand=return-1/2PL-RECIP-INC
+'We'll turn and stand (facing each other).'
+(ZOH001R011–063)
+(ZOH001R026-112)
+chik ja:y'unedøkka 'øy tzijno'tztzø bi limeta
+čik haya=?une?+dəkkay ?əy+ cih=no?c-wǝ
+small male=child+NPL
+bi limeta
+3E+ throw_rock.break.COM DEF bottle
+'The boys threw a rock at the bottle and broke it.'
+(elicited)
+8.3.2.5. V1 Object is V2 Subject
+In most of the examples that have been discussed so far, V1 and V2 have
+been nuclear junctures; that is, they are linked in the nucleus of the clause and
+thus share precisely the same arguments. In (8.34 ii) above, both the jaguar
+and the man turn and they both stand facing each other they are the mutual
+actors of the clause. MIG Zoque compound verb constructions also allow core
+junctures in which "two cores, each with their own nucleus and corresponding
+arguments, are joined together to form a larger complex core" (Foley & Olson,
+1985:47).
+226
+The two cores are constrained to share an argument, which Foley & Olson
+claim must be either the actor or the undergoer. A common form of core
+juncture in Zoque is one in which the undergoer of a transitive V1 is the
+undergoer of an intransitive V2, as shown in the examples in (8.35). Foley &

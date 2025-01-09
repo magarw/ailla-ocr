@@ -1,0 +1,51 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+other positional expressions (like tay.ney-wǝ, 'he was lying face up'). The
+following examples come from the lexicon.
+(7.19)
+(i)
+(iii)
+COM
+(v)
+japna mongngø
+0 hap.na moŋ-wə
+3A *face_down.STAT sleep-COM
+'She slept face down.'
+tzengna tennø
+0 ceŋ.na
+ten-we
+3A be_on_one_side.STAT stand-COM
+'She stood sideways.'
+tzønna wanakkø
+O cən.na wanak-wə
+3A sit.STAT go_down-COM
+'She sat down.'
+(ii)
+tayna mongngø
+0 tay.na moŋ-wǝ
+3A *face_up.STAT sleep-COM
+'He slept face up."
+168
+(iv) japna yowo
+0 hap.na yo?-wǝ
+3A *face_down.STAT fall-
+'He fell face down.'
+(vi) tzønna mongngø
+O cən.na mon-we
+3A sit.STAT sleep-COM
+'He slept sitting up."
+(vii) tzengnaminpa 'i tzengnanøkpa
+0 ceŋ.na=min-pa
+?i 0 ceŋ.na=nək-pa
+3A be_on_one_side.STAT=come-INC and 3A be_on_one_side.STAT=go-INC
+'She staggered.'
+7.1.3. Perseverative ten
+This suffix means roughly "to keep something V-ed", or perhaps more
+precisely, "to V, and as a result to have something V-ed".
+One of my
+consultants often translated expressions with this suffix as "to V the day
+before". It is the volitional counterpart of assumptive -ney, which does not
+imply intentional action. Something can assume a position of having been
+stretched, for example, without a human being deliberately doing the
+stretching, but if –ten is used, the fact that the stretching was done deliberately
+is made clear. Compare the first five examples shown below with examples in
+(7.17) above.

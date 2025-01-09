@@ -1,0 +1,63 @@
+\SYN
+\SEMF cut
+\ASP transition
+\ARG
+\NOM w@7t. 'oy.kuy7
+\SUB
+\ETYM
+\ETL
+\ROOT W@7t
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex watz [1]
+\_no 00213
+\LG MIG
+\PSH
+\UND w@tz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG peinar
+ENG to comb
+\SPL w@tz.7oy
+\SLGR ANTIP
+\SLGL peinar // to comb
+\SLGR NO PASS
+\SLGR NO ASSUM1
+\SLGR NO PRSV
+\EXU 7@y+ w@tz-w@ bi way7
+\XPSH [7@y w@tztz@ bi way 7.]
+\XSP Peino* el cabello.
+\XEN She combed her hair.
+\SYN
+\SEMF body, clean
+\ASP process
+\ARG
+\NOM w@tz.i, w@tz.kuy7, y@k.w@tz, w@tz.naanh
+\SUB ko.w@tz
+ETYM
+\ETL
+\ROOT w@tz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\CMTS v/w@tz (1)
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex xanh
+\_no 00214
+ZOH001R0611006.txt
+\LG MIG
+\PSH
+\UND xanh
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+Page 144

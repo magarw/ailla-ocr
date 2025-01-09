@@ -1,0 +1,61 @@
+ZOH001R0611009.txt
+\XSP esta*n quemando donde machetearon
+\XEN they're burning where the cut (down weeds) with machetes
+\ROOT xanh T3
+\SEMF cut, instr
+\PASS xanh.7@m
+\ANTI xanh.7oy
+\CMTS
+\lex xatz
+\_no 00167
+\SPG tentar con la mano; torcer (mecate)
+\ENG to touch with the hand; to twist (rope)
+\EX jojo xatztz@
+\XSP torcio* palma
+\XEN she twisted palm
+\EX d@ 7uki xatzpa
+\XSP voy a batir el atole
+\XEN I'm going to beat the atole
+\ROOT xatz T3
+\SEMF touch, create, hand
+\PASS xatz.7@m esta* suelto o blandito la palma (o cualquiera)
+\ANTI xatz.7oy
+\CMTS explore semantics
+\CMTS makes a rolling/rubbing motion with hands, like for rope-making
+\lex xek
+\_no 00168
+\SPG regar (con) agua
+\ENG to sprinkle (with) water; to irrigate
+\EX 7@y xekk@ 7@n mok bi n@7
+\XSP le paso* ri*o mi mazorca
+\XEN the river irrigated my corn
+\ROOT xek T3
+\SEMF move, water
+\PASS NONE xek.7@m *
+\ANTI xek. 7oy
+\CMTS se trata de un regadillo
+\CMTS get sv or pcp
+\CMTS cuando el ri*o se honda, y entra en la sembradura
+\CMTS when the river gets deep, it rises and flows over the milpa
+\lex xipx
+\_no 00169
+\SPG estacar; encajar alguien con cuchillo, estaca
+\ENG to stake; to stab someone with a knife, a stake
+\EX 7@y xipx@ kuchij@nanh
+\XSP lo estaco* con cuchillo
+\XEN she stabbed it with a knife
+\ROOT xipx T3
+\SEMF cut, instr
+\PASS xipx.7@m encajarse
+\ANTI xipx.7oy encajar
+\CMTS
+\lex xi7t
+\_no 00170
+\SPG lazar; lazar con mecate; enredarse
+\ENG to lasso; to lasso with a rope
+\EX xi7tt@ bi laxu
+\XSP se enredo* el mecate
+\XEN the rope got tangled up
+\EX 7@n xi7tpupa pan jekenpa
+\XSP lo desenredo para que le enrolle
+Page 40

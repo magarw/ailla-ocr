@@ -1,0 +1,63 @@
+\lex pakx.e
+\_no 02520
+\LG MIG
+\PHO [pakxe]
+\UND pakx. E
+\MB doblar, NOM7
+\VAR
+\GRAM pcp
+\SPG doblado
+\ENG folded
+\EXU pakx.e bi yo't.e7 // yo't.e' pakx.e
+\XPSH [pakxe bi yote7] // [yote pakxe]
+\XSP ropa doblada
+\XEN folded clothes
+\SYN
+\ROOT pakx
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex pakx.ke7t
+\_no 02521
+\LG MIG
+\PSH [pakxke7t-]
+\UND pakx.ke7t
+\MB doblar, REPET
+\VAR
+\GRAM vt: repet
+\SCI
+\USE
+\SPG volver a doblar
+\ENG to double again
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pakx
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 27/Jan/96
+\lex pakx.naanh
+\_no 02522
+\LG MIG
+\PHO [pakxna*nh]
+\UND pakx.naanh
+\MB doblar, MED
+\VAR
+\GRAM meas
+\SPG una doblada (en tela)
+\ENG a fold (in cloth)
+\EX
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\ROOT pakx
+\RTGR P (T3)
+\DSRC HAJ95
+Page 1086

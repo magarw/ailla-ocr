@@ -1,0 +1,62 @@
+\XEN
+\SYN
+\SEMF
+\ROOT 7on
+\RTGR P (TX)
+\DSRC HAJ96
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex 7utz.7oy.pa+a7k
+\_no 00004
+\LG MIG
+\PSH [7utztzoba*7]
+\UND 7utz.7oy.pa +P@7k
+\MB medir, ANTIP, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG medidor
+\ENG one who measures
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7utz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex 7utz.i
+\_no 00005
+\LG MIG
+\PSH [7utzi]
+\UND 7utz.E
+\MB medir, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG medido
+\ENG measured
+\SPL
+\SLGR
+\EXU 7utz.i 7@y+ tzi-wa
+\XPSH [7utziy tziw@.]
+\XSP Medido se lo dio*
+\XEN He gave it to her measured.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 7utz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 09/Jan/96
+ZOH001R0611003.txt
+Page 2

@@ -1,0 +1,81 @@
+\zoq OSM: Moxxanh kwartu.
+\fts OSM: Cinco quarto.
+\fte OSM: Five quarts.
+\com
+\idx
+\ref ZOH001R036 277
+\_no 00275
+\tx GSM: 7a moxxanh kwartu
+\mb GSM
+7a moxxanh
+kwartu
+cuarto
+room
+\sg1 GSM: ah cinco
+\eg1 GSM: ah five
+\zoq GSM: 7a, moxxanh kwartu.
+\fts GSM: Ah, cinco quarto.
+\fte GSM: Ah, five quarts.
+\com
+\idx
+\ref ZOH001R036 278
+\_no 00276
+\tx 7@y 7anhnitpa ga7
+\mb 7@y 7anhnit-pa ka -7
+\sgl 3E tener -INC DCT3-NOM1
+\egl 3E have -INC DCT3-NOM1 for one week or for
+\ref ZOH001R036 279
+\_no 00277
+\zoq 7ay 7anhnitpa ga7 para tum xemana 70 para jutzenh jama?
+\fts Tiene para una semana e*1 o para cuantos dias?
+\fte He has it for one week or for how many days?
+\com
+\idx
+\tx OSM: tum xemana
+\mb OSM tum xemana
+\sg1 OSM: uno semana
+\egl OSM: one week
+\zoq OSM: Tum xemana.
+\fts OSM: Una semana.
+\fte OSM: One week.
+\com
+\idx
+\ref ZOH001R036 280
+\_no 00278
+7ukpa
+\tx tum xemana 7@y
+\mb tum xemana 7@y 7uk
+\sg1 uno semana 3E
+\egl one week
+-pa
+tomar -INC
+3E drink-INC
+\zoq Tum xemana 7@y 7ukpa.
+\fts Una semana toma.
+\fte One week he drinks it.
+\com
+\idx
+\ref ZOH001R036 281
+\_no 00279
+\tx ya ke gay
+\mb__ ya
+ke ka
+-y
+\sg1 ya que
+DCT3-TMP
+ZOH001R0361001.txt
+para tum xemana 70 para jutzenh jama
+para tum xemana 70 para jutzenh
+para uno semana o para cuanto
+dia
+how much day
+jama
+7ukxukka*m
+-xuk
+7uk
+jemji
+ga
+-w@ -7am ka -7 jemji7
+DCT3-NOM1 todo
+tomar-acabarse-COM-YA
+Page 60

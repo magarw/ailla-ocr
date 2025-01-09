@@ -1,0 +1,62 @@
+XPSH [Nutztz@w@.]
+\XSP Sudo*.
+\XEN She sweated.
+\SYN
+\SEMF body
+\ASP acitivity
+\ARG
+\NOM nutz.@7
+\SUB
+\ETYM
+\ETL
+\ROOT nutz
+\RTGR 12
+\DSRC HAJ94
+\CMTS CK-all sure sounds like two /tz/s to me HAJ:96/OK: TK, but I can't
+analyze it; cf. tzaxx@ tener vergu"enza"
+\date 03/Jan/80
+\lex nutz.@7
+\_no 02431
+\?? -\LG MIG
+\PSH [nutz@7]
+\UND nutz.@7
+\MB estar_caliente, NOM2
+\VAR
+\GRAM SV
+\SPG sudor
+\ENG sweat
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT nutz
+\RTGR 12
+\DSRC HAJ95
+\CMTS OK: TK
+\date 03/Jan/80
+\lex n@7
+\_no 02432
+\LG MIG
+\PSH
+\UND n@7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG agua
+\ENG water
+\EXU jakke n@7 y@7 7anaxa
+\XSP muy jugoso esta naranja
+\XEN very juicy is this orange
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+ZOH004R0011001.txt
+\CMTS
+\date 15/Jun/95
+\lex n@ji
+Page 1048

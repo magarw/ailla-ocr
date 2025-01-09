@@ -1,0 +1,63 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT xuy7
+\RTGR T3
+\DSRC HAJ94
+\CMTS still not certain if this is xuy7 or xuy: the /7/ is there/TK
+\date 24/Jun/96
+\lex 7anh-yoj [1]
+\_no 00193
+\LG MIG
+\PSH [7anhyoj-]
+\UND 7anh-yoj
+\MB BOCA, cambiar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG cambiar (dinero, otras cosas)
+\ENG to exchange (money, other things)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yoj
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex 7anh-yoj [2]
+\_no 00194
+\LG MIG
+\PSH [7anhyoj]
+\UND 7anh=yoj.0
+\MB BOCA, cambiar, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG cambio
+\ENG change
+\EXU mix+ tzi-w@ bi 7anh=yoj
+\XPSH [Mix tziw@ bi 7anhyoj.]
+\XSP Me diste el cambio.
+\XEN You gave me the change.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yoj
+\RTGR T3
+\DSRC HAJ94
+ok/TK
+ZOH004R0011001.txt
+\CMTS CK-PH
+\date 24/Jun/96
+\lex 7anh='ek=wak
+\_no 00195
+\LG MIG
+Page 82

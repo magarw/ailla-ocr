@@ -1,0 +1,78 @@
+\fts Lo agarras raspas la ca*scara.
+\fte You get it, you scrape the bark.
+\com
+\idx
+\ref ZOH001R036 778
+\_no 00764
+\tx GSM: ti naka
+\mb GSM ti naka
+\sg1 GSM: que cuero
+\eg1 GSM: what skin
+\zoq GSM: Ti naka?
+\fts GSM: Que ca*scara?
+\fte GSM: What bark?
+\com
+\idx
+\ref ZOH001R036 779
+\_no 00765
+\tx
+\mb OSM
+\sg1 OSM: mulatto
+cuero
+\eg1 OSM: type_of_tree skin
+OSM: tz@kx
+tz@kx
+\zoq OSM: Tz@kx naka.
+\fts OSM: Ca*scara de mulatto.
+\ref ZOH001R036 780
+\_no 00766
+\fte OSM: Bark of the mulatto tree.
+\com
+\idx
+\tx madre kakaw 7ay
+\mb madre kakaw 7ay7
+\sg1 madre cacao hoja
+\egl mother cacao leaf
+\com
+\idx
+\zoq Madre kakaw 7ay.
+\fts Hoja de madre cacao.
+\fte The leaf of the mother of cacao.
+\ref ZOH001R036 781
+\_no 00767
+\tx 7ay gay
+\mb
+7adyo ka -y
+naka
+naka
+latajo
+7@m_p@pa
+7@m p@7
+-pa lata-jo7
+\sg1 luego DCT3-TMP 2E poner-INC lata-Loc2
+\egl later DCT3-TMP 2E put -INC can -LOC2
+\zoq 7ay gay 7@m p@pa latajo.
+\fts Luego lo echas en la lata.
+\fte Later you put it in a can.
+\com
+\idx
+\ref ZOH001R036 782
+\_no 00768
+ZOH001R0361001.txt
+\tx ya ke taxxa*m
+ALL LIHKG
+\mb ya ke
+\sg1 ya
+\egl now
+bi latajo gag@
+pakk@ dakka
+tax -w@ -7am bi lata-jo7 ka -ga pakk@ d@kkay
+llenarse-COM-YA
+pakk@ NPL
+bark NPL
+lata-LOC2
+DEF
+DCT3-DEM
+que
+that fill -COM-NOW DEF can -LOC2 DCT3-DEM
+Page 166

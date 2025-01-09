@@ -1,0 +1,64 @@
+\SPG coger
+\ENG to fuck
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF sex
+\ASP activity
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT 107k
+\RTGR IX
+\DSRC TK94
+\CMTS get deriv's
+\date 03/Jan/80
+\lex 107k. 107k.ney
+\_no 01818
+\LG MIG
+\PSH [107k1o7kney-]
+\UND 107k. 107k.ney
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG estar metiendo la verga, haciendo_sexo/pisando
+\ENG to stick the penis in something, having sex or pissing
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex 1yonh
+\_no 01819
+\LG MIG
+\PSH
+\UND 1yonh
+\MB
+\VAR tzapatz kajanh
+\GRAM
+\SCI
+\USE
+\SPG leo*n
+\ENG a type of big cat
+\EXU
+\XSP
+\XEN
+\SYN tzapatz kajanh
+\SEMF EZ
+\ETYM
+ZOH004R0011001.txt
+LF:7anmal
+Page 785

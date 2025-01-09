@@ -1,0 +1,68 @@
+\RTGR 1 T3
+\ROOT 2 no7tz
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 01/Oct/94
+\lex ker=tz@k
+\_no 01231
+\LG MIG
+\PSH [kertz@k-]
+\UND ker=tz@k
+\MB creer, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG creer
+\ENG to believe
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM creer
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-PH
+\date 18/Jun/96
+\lex ket
+\_no 01232
+\LG MIG
+\PSH
+\UND ket
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+-
+\SLGR ANTIP
+\SPL ket.7@m
+ok, HAJ: 96
+\SPG tapar; envolver
+\ENG to cover; to wrap
+\SPL ket. 7oy
+\SLGR PASS
+\SLGL taparse
+\SPL estar tapado
+\SLGR ASSUM1
+\SLGL to be covered
+\SPL ket.ten
+-
+ZOH004R0011001.txt
+con cobija o con sa*bana (cuando esta* acostado)
+with a blanket or a sheet (when you're lying down)
+\SLGR PRSV
+\SLGL tener tapado // to have covered up
+\EXU 1 7@y+ ket-w@ 7@y+win
+\XPSH 1 [7@y kett@y win.]
+\XSP 1 Se tapo*.
+\XEN 1 She covered herself.
+\EXU 2 ket.ney-pa bi 7une7
+\XPSH 2 [Ketneba bi 7une7.]
+\XSP 2 Esta* tapado el nin~o.
+\XEN 2 The child is covered up.
+Page 537

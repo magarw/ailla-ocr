@@ -1,0 +1,63 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pak
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 16/Oct/94
+\lex wax
+\_no 03589
+LG MIG
+\PSH
+\UND wax
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG morder; mascar
+\ENG to bite; to chew
+\SPL wax. 7oy
+\SLGR ANTIP
+\SLGL morder, mascar // to bite, to chew
+\SLGR NO PASS
+\EXU 7@y+ wax-w@ bi nu' bi mixtu7
+\XPSH [7@y waxx@ bi nu bi mixtu7.]
+\XSP El perro mordio* el gato.
+\XEN The dog bit the cat.
+\SYN
+\SEMF bite
+\ASP transition
+\ARG
+\NOM wax.e7, wax. 'oy.kuy7, wax-tzik.i7, wax. naanh
+\SUB wax=naka7tz
+\ETYM
+\ETL
+\ROOT wax
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex wax.e7
+\_no 03590
+\LG MIG
+\PHO [waxe7]
+\UND wax. E7
+\MB morder, NOM7
+\VAR
+\GRAM pcp
+\SPG una cosa mordida
+\ENG something bitten
+\EX
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+\ROOT wax
+\RTGR T3
+Page 1543

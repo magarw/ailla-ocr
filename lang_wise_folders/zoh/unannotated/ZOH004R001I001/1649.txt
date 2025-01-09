@@ -1,0 +1,63 @@
+\CMTS
+\date 28/Jan/96
+\lex w@k. 'oy.kuy7
+\_no 03835
+\LG MIG
+\PHO [w@kkokuy7]
+\UND wak. 7oy.kuy7
+\MB cortar_c_cuchillo, ANTIP, INSTR1
+\VAR
+\GRAM instrl
+SPG 1 cuchillo
+\SPG 2 una cortada
+\ENG 1 knife
+\ENG 2 a cut
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT wak
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex w@7kx
+\_no 03836
+\LG MIG
+\PSH
+\UND w@7kx
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG empalmar
+\ENG to thatch
+\SPL w@7kx. 7oy
+ZOH004R0011001.txt
+\SLGR ANTIP
+\SLGL empalmar casa // to thatch a house
+\SPL w@7kx.7@m
+\SLGR PASS
+\SLGL estar empalmada // to be thatched
+\SPL w@7kx.ney
+\SLGR ASSUM1
+\SLGL 'trata de otra cosa: estar levantado algo como una machete o un
+lasso... colgando como ropa en un gancho' // refers to something else: for
+something to be raised up,
+put away, like a machete or a rope... hanging like clothes from a hook
+\EXU 1 t@k=w@7kx-w@
+\XPSH 1 [T@kw@7kx@.]
+\XSP 1 Empalmo* casa.
+\XEN 1 He thatched houses.
+\EXU 2 w@7kx.ney-w@ bi laxu munkuy g@:xi7
+\XPSH_2 [w@7kxneyy@ bi laxu munkuyg@xi7.]
+\XSP 2 Esta* levantado el mecate alli* en la estaca.
+\XPSH 2 The rope is raised up on that stake there.
+\SYN
+\SEMF build
+\ASP process
+\ARG
+\NOM
+\SUB
+Page 1649

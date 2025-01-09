@@ -1,0 +1,69 @@
+(182) Aax
+cierto
+'Así fue'
+(183) t-uul
+itz'j
+A3s-DIR nacerse
+'cuando nació un hijo,'
+(184) at 0
+(185) Ma-tzan
+0=0=ook-a
+t-oky'
+t-ch'oo'p ikyx
+EXIST=B3s A3s-hoyo A3s-nalga también
+xjaal.
+persona
+'tenía su ano, igual que la persona.'
+CPL.DEP=B3s=entrar-?
+(186) 00-taq
+PROX=pues B3s-DIR
+'Cuando vieron'
+(187) n=0=tzaaj=tzan
+0=itz'j
+jun t-k'waa'l xjaal,
+CPL-PERF B3s-nacerse un A3s-hijo persona
+'que se había nacido un hijo de la persona,'
+t-e
+INC=B3s=venir-pues A3s-SR
+Pich
+xu'j
+mujer Pich
+'vino el papá de la mujer Pich'
+(188) mii'na txiin
+NEG
+jovencita
+'Mira hija, dijo ahora,'
+tz'-ook ki-'n
+(189) ma='=tzan
+jun k'waal
+un hijo
+(190) 0-chi-tzan=ch.
+B3s-decir-pues-dijo
+0=kyaj
+jun t-iyaj-iil
+PROX=ENF-pues B3s-quedar un A3s-semilla-ABST
+'ya la persona nos dejó una semilla'
+ja'la
+mirar-SD ahora
+0-chi-tzan-ch
+'dijo.'
+(191) B'a'nx jaw we'=ya
+(193) 0-chi-tzan=ch.
+'dijo.'
+ja'la,
+B3s=decir-pues-dijo ahora
+(192) Nchi'j 0=kub' q-u’n,
+nchi'j.
+alístate DIR pararse=2s mañana
+'Levántate mañana.'
+mañana B3s-bajar Alp-SR:AGT
+'Mañana lo vamos a matar,'
+B3s-decir-pues-dijo
+iky tza'n
+t-e
+así como A3s-SR
+ti maam-b'aj t-maan
+grande papá-INAL A3s-papá
+17
+xjaal ja'la
+persona ahora

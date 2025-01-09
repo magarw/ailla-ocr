@@ -1,0 +1,63 @@
+\ENG brother-in-law
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 01/Oct/94
+\lex kape
+\_no 01187
+\LG MIG
+\PSH
+\UND kape
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG carrizo
+\ENG reed
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Nov/94
+\lex kape 7anh-k@.i
+\_no 01188
+LF: kape
+\LG MIG
+\PSH [kape 7anhk@i]
+\UND kape 7anh=k@y. E
+\SCI
+\USE
+\MB carrizo, BOCA, llevar_en_mano, NOM7
+\VAR kape 7anhk@y
+\GRAM s (m)ss
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SPG puerta de varitas; de carrizo es la puerta
+\ENG a door made of stout twigs
+\EXU
+\XSP
+SEMF
+\ETYM
+\ETL
+\ROOT k@y
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex kape pama
+Page 517

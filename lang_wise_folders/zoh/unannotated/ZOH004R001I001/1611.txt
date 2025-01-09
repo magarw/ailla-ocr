@@ -1,0 +1,63 @@
+\XPSH 2 [wenu d@ witt@.]
+\XSP 2 Camine* mucho.
+\XEN 2 I walked a lot.
+\SYN
+\SEMF move
+\ASP process
+\ARG
+\NOM 7anh.wit.i, wit.kuy7
+\SUB 7anh.wit, 7anh.wit.tzonh, j@7t-wit, ko.jeken=wit, ko.wit, kuj=wit,
+\SUB kut.na' wit, num-wit, p@k-wit, wit='anh.may, wit='anh.wak,
+\SUB wit-pitz@m, wit-potz, wit=tzun
+\ETYM
+\ETL
+\ROOT wit
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex wit [2]
+\_no 03751
+\LG MIG
+\PSH
+\UND wit
+\MB andar
+\VAR
+\USE auxiliary verb that occasionally appears after the verb in a
+dependent construction
+\GRAM aux
+\SPG andar
+\ENG to walk
+\SPL
+\SLGR
+\EXU y@.ji bi rebelde d@k+7a(y) num-pa 7@y+ wit-w@
+\XPSH [Yaji bi rebelde d@kka numpay witt@.]
+\XSP Aqui* los rebeldes anda robando.
+\XEN The rebels went around here stealing.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex wit=7awin
+\_no 03752
+\LG MIG
+\PSH [wit7awin]
+\UND wit=7awin
+\MB andar, hermano
+ZOH004R0011001.txt
+\VAR
+\GRAM s(+poss)
+\SCI
+\USE
+\SPG amigo; compan*ero
+\ENG friend
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+Page 1611

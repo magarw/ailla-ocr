@@ -1,0 +1,64 @@
+\SCI
+\USE
+\SPG bailar
+\ENG to dance
+\EXU 1 tij-w@ 7@y+ 7etz-w@
+\XPSH 1 [tijj@y 7etztz@.]
+\XSP 1 Fue* a bailar.
+\XEN 1 He went dancing.
+\EXU 2 7@y+ 7etz-t@k.7aH-w@
+\XPSH 2 [7@y 7etzt@kkaw@.]
+\XSP 2 Bailo* con alguien.
+\XEN 2 She danced with someone.
+\EXU 3 7etz-w@ 7@y+ pitz@m-i jonh+joonh
+\XPSH 3 [7etztz@y_ pitz@mi jonhjo*nh.]
+\XSP 3 salio* bailando de adentro.
+\XEN 3 He came out dancing.
+\EXU 4 d@ 7etz-w@ x@nh +jo7
+\XPSH 4 [D@ 7etztz@ x@nhjo7.]
+\XSP 4 Baile* en la fiesta.
+XEN 4 I danced at the party.
+\EXU 5 7etz.7@m-w@ bi migelenya
+\XPSH 5 [7@tztz@mm@ bi migelenya.]
+\XSP 5 Bailaron la migelen~a.
+\XEN 5 They danced the Migelen~a.
+\EXU 6_7@y+ 7etz-tuk-w@ bi kum.kuy7+jo7+v7k_yomaa7
+\XPSH 6 [7@y 7etztukk@ bi kumkuyjo* 7k yoma*7.]
+\XSP 6 La mujer migelen~a termino* de bailar.
+\XEN 6 The woman from San Miguel finished dancing.
+\SYN
+\SPL yak. 7etz
+\SLGR CAUS
+\SLGL hacer bailar // to make dance
+\SPL 7etz.7@m DENIED --> 7etz(a)n@m-pa esta n bailando'
+\SLGR PASS
+\SLGL bailar (IMPERS)
+\SEMF move
+\ASP activity
+\ARG
+\NOM 7etz.e7
+\SUB 7etz-m@tz, 7etz-me7tz, ko.7etz, k@.7etz. '@y, yuk. 7etz
+\ETYM
+\ETL
+\ROOT 7etz
+\RTGR T1
+\DSRC HAJ94
+ZOH004R0011001.txt
+\CMTS CK-EX ok (HAJ 96)
+\date 03/Jan/80
+\DATE 14/Aug/02
+\lex 7etz.e7
+\_no 00262
+\LG MIG
+\PSH [7etze7]
+\UND 7etz.E7
+\MB bailar, NOM7
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG e*1 que esta* bailando
+\ENG dancer
+\SPL
+\SLGR
+Page 112

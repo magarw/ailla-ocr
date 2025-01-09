@@ -1,0 +1,62 @@
+\XEN
+\SYN
+\SEMF
+\ETYM tenate
+\ETL Sp < Nawa
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH - HAJ:96 - sounds ok, like n@7tti but with an /a/; OK: TK
+\date 25/Jun/96
+\lex tani
+\_no 02941
+\LG MIG
+\PSH
+\UND tani
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG Estanislao (nombre de un hombre)
+\ENG Estanislao (a man's name)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF nombre de un hombre
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC TK94
+\CMTS
+\date 12/Jun/95
+\lex tan.neenh
+\_no 02942
+\LG MIG
+\PSH [tanne*nh]
+\UND tan.neenh
+\MB
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG completo; una cosa completa
+\ENG complete; a completed thing
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ZOH004R0011001.txt
+\ETYM
+\ETL
+\ROOT tan
+\RTGR 12
+\DSRC HAJ94
+\CMTS CK-PH/GR HAJ:96, corrected to geminate n
+\date 19/Jun/96
+\lex tanh
+\_no 02943
+\LG MIG
+\PSH
+Page 1266

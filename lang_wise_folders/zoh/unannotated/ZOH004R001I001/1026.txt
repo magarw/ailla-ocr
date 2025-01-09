@@ -1,0 +1,63 @@
+\SEMF plant
+\ASP achievement
+\ARG
+\NOM ni.xo't.a
+\SUB
+\ETYM
+\ETL
+ROOT ni.xo7t
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex ni.xotz-tzonh. '@y
+\_no 02382
+\LG MIG
+\PSH [nixotztzonhnh@y-]
+\UND ni.xotz-tzonh.7@y
+\MB PURP, empatar, unir, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG empatar
+\ENG to tie
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 xotz
+\RTGR 1 TX
+\ROOT 2 tzonh
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 21/Jun/95
+\lex ni.xo't.a
+\_no 02383
+\LG MIG
+\PSH [nixota]
+\UND ni.xo7t.A
+\MB PURP, X, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG reton*o
+\ENG sprout; bud
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ni.xo7t
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+ZOH004R0011001.txt
+Page 1026

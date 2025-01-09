@@ -1,0 +1,28 @@
+RISONTTILA
+67
+/?élših/ < //?él-š-ih // to leave again
+/?élištah/ </él-iš-tah // to enter again towards
+the speaker
+Note that * //^él-š-tah // does not occur.
+Phonemic Representations
+of Morphophonemes
+Morphophonemic transcriptions as presented here utilize
+essentially the same set of symbols as phonemic transcriptions.
+However, the phonemic representation of a given morphophoneme
+is not necessarily the phoneme whose symbol is identical.
+Certain sequences of two or more morphophonemes have special
+phonemic representations. That is, the phonemic representa-
+tions of a morph may differ from one phonological environment
+to another. In order to predict the phonemic representations
+of a given morph, the following special phonemic representations
+of morphophonemic sequences must be taken into account.
+Root Shape Alternation
+Roots written //CVC // in morphophonemic transcription
+are represented phonemically by forms of the shape /CVVC/
+before open juncture, and by forms of the shape /CVC/ else-
+where. Roots written //CVCV°C // in morphophonemic transcrip-
+tion are represented phonemically by forms of the shape
+/cvcv*vc/ before open juncture, and by forms of the shape
+/cvcvc/ elsewhere. This alternation of root shape in a dif-
+ferent phonological environment may be the result of a
+Proto-Mayan pre-junctural re-articulation of the vowel in

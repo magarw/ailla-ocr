@@ -1,0 +1,52 @@
+\ENG animal
+\lex t@p@7p
+\_no 02354
+\SPG tibio
+\ENG luke_warm
+\lex t@7p
+\_no 02355
+\SPG caer
+\ENG fall
+\lex t@7px
+\_no 02356
+\SPG hacer_mecate
+\ENG make_rope
+\lex t@t@7
+\_no 02357
+\SPG moyocuili
+\ENG
+\lex t@tz
+\_no 02358
+\SPG secarse
+\ENG dry
+\lex t@tz
+\_no 02359
+\SPG diente
+\ENG teeth
+\lex t@tzi7
+\_no 02360
+\SPG flaco
+\ENG thin
+\lex t@tz@7
+\_no 02361
+\SPG iguana
+\ENG iguana
+\lex t@7tzkinnay7
+\_no 02362
+\SPG higuerilla; higo
+\ENG
+\lex t@wanh7
+\_no 02363
+\SPG claridad
+\ENG light
+\lex t@xi
+\_no 02364
+\SPG murcielago
+\ENG bat
+\lex t@@nh
+\_no 02365
+\SPG DIR4
+\ENG DIR4
+\lex tza7
+ZOH001R0611013.txt
+Page 188

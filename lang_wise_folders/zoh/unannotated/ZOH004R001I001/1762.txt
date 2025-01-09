@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT tan
+\RTGR 12
+\DSRC HAJ94
+\CMTS FIX EX HAJ:96 ok; FIXED: TK
+\date 26/Jun/96
+\lex yak.tzam=way
+\_no 04099
+\LG MIG
+\PSH [yaktzamway-]
+\UND yak.tzam=way
+\MB caus, hablar, X
+\VAR
+\GRAM caus2
+\SCI
+\USE
+\SPG convencer explica*ndoselo; convencer a que siguiera hablando
+\ENG to convince by explaining
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzam
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yak.tzi'.7oy kalambre
+\_no 04100
+\LG MIG
+\PSH [yaktzi7oy- kalambre]
+\UND yak.tzi7.7oy kalambre
+\MB CAUS, dar, ANTIP, calambre
+\VAR
+\GRAM antip:caus1; vi+subj
+\SCI
+\USE
+\SPG darle calambre
+ENG to give one a cramp
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzi7
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+ZOH004R0011001.txt
+\lex yak.tzum.i7
+\_no 04101
+\LG MIG
+\PHO [yaktzumi *7]
+Page 1762

@@ -1,0 +1,108 @@
+\fts Eso es para sarampio*n.
+\fte That's for measles.
+\com
+\idx
+\ref ZOH001R036 999-139
+\_no 01121
+\tx gay
+\mb ka
+tzinhpam
+tzinh
+-y
+\sg1 DCT3-TMP
+\eg1 DCT3-TMP bathe
+7une
+bi
+-pa -7am bi 7une7
+DEF nin~o/a
+-INC-NOW DEF child
+ban*arse-INC-YA
+\zoq Gay_ tzinhpam bi 7une.
+\fts Ya lo ban~a la criatura.
+\fte Now one bathes the baby.
+\com
+\idx
+\ref ZOH001R036 999-140
+\_no 01122
+\tx 7ay
+gag@
+\mb 7adyo ka -ga jukut@k 7@y tz@m
+\sg1 luego DCT3-DEM 1umbre 3E
+\egl later DCT3-DEM fire
+3E
+jukut@k 7@y tz@mtenn@
+\ref ZOH001R036 999-141
+\_no 01123
+ZOH001R0361001.txt
+\zoq 7ay gaga jukut@k 7@y tz@mtenn@.
+\fts De ahi* tiene la fiebre encima.
+\fte Then he's carrying the fire outside.
+\com
+\idx
+\tx
+7entons ded@
+\mb entonces te
+***
+-d@
+\sg1 entonces DCT2-DEM ***
+\egl then
+poi7 ded@
+7ay 7@y tzinhpa
+te -d@ 7ay7 7@y
+DCT2-DEM hoja 3E
+DCT2-DEM *** DCT2-DEM leaf 3E
+-ten -w@
+cargar-PRSV-COM
+carry -PRSV-COM
+\ref ZOH001R036 999-143
+\_no 01125
+bathe
+\zoq 7entonse ded@ poi7 ded@ 7ay 7@y tzinhpa, pwes.
+\fts Entonces esa hoja lo_ban~a, pues.
+\fte Then that ???, that leaf, well, you bathe it.
+\com
+\idx
+\ref ZOH001R036 999-142
+\_no 01124
+\tx 7i gay
+minpa*m
+m
+p@jayy@
+bi
+\mb 7i
+\sg] y
+min -pa -7am 7@m p@7 -jay -w@ bi
+venir-INC-YA 2E
+poner-APPL-DINC DEF
+\egl and DCT3-TMP come -INC-NOW 2E put -APPL-DINC DEF
+ka -Y
+DCT3-TMP
+\tx de jukut@k kom ga
+\mb de jukut@k komo ka -7
+\sg1 de lumbre
+\egl of fire
+pwes
+tzinh -ра pwes
+ban*arse-INC pues
+-INC well
+\zoq 7i gay minpa*m m p@jayy@ bi
+\fts Y ya vienes a echarle para la fiebre.
+\fte And then you come now and put it on the for the fever.
+\com
+\idx
+para jukut@k go7.
+jipx@
+jipx@
+para jukut@k go7
+para jukut@k go7
+para lumbre BNF
+for fire
+BNF
+ga
+fyebre ga
+ka -7 fyebre ka
+-7
+como DCT3-NOM1 tener_calentura DCT3-NOM1 fiebre DCT3-NOM1
+like DCT3-NOM1 have_fever
+DCT3-NOM1 fever DCT3-NOM1
+Page 242

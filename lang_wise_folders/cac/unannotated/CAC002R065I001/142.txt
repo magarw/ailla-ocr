@@ -1,0 +1,31 @@
+137
+minimal number of legs required to form bowlegs is plural.
+The positional roots found in these compounds are thus dis-
+tributive positionals.
+The positional stems formed with ///an //, and the com-
+pound forms with reduplication of these stems, are singular.
+That is, they refer to singular objects and singular features:
+//čóy-an // loose (object), //t'éx-an // sitting on floor (a
+single object), //pác-an pác-an // wooly (object),
+(object), //t'íN-an
+t'íN-an // narrow-waisted (object).
+Plurality of objects described is expressed by redupli-
+cation of the positional root: //pák-an pák-an hú?m // the
+single piece of paper is folded once, //pák-păk húm // the
+several papers are each folded once; //póc¹-an póc¹-an y-?áx-
+(ih) // the single object is dented once, //póc¹-poc' y-?áx-
+(ih) // the several objects are each dented once; //típ'-an
+típ'-an y-?áx-(ih) hú?m // the single piece of paper is a
+multi-ply cylinder, //típ'-tïp' y-?áx-(ih) hú?m // the several
+pieces of paper each form a multi-ply cylinder; //píl-an píl-
+an y-²áx-(ih) // the single object is small and spherical,
+//pil-pil y-?áx-(ih) // the several objects are each small and
+spherical.
+BAAD
+Plurality of features is expressed by suffixing the po-
+sitional root with //kiš-tak //. If the root is a distributive
+positional, plurality of objects is also implied. If the root
+is a non-distributive positional, the objects may either be
+plural objects each of which carries a single feature,
+single object which carries multiple features: //pák-kiš-tak
+or a

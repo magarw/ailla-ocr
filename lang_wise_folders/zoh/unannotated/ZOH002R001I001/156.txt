@@ -1,0 +1,45 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(6.20)
+(i)
+(ii)
+(6.21)
+(i)
+(ii)
+yaktzakkømmø yøji'
+0 yak.cak.?əm-wə
+yə.hi?
+3A CAUS.leave.PASS-COM DCT1.LOCI
+'She was told to stay here."
+(iii)
+gaji wakax yakkanəmpa
+ga.hi?
+wakaš 0 yak.ka?.Anəm-pa
+DCT3.LOC1 cow 3A CAUS.die.INDEF-INC
+'There (where) they kill cattle.'
+6.3.2. Applicative hay
+The function of the applicative suffix -hay is to create an additional core
+argument, usually a recipient or beneficiary. Remember that NPs corresponding
+to core arguments in MIG Zoque are not case-marked or otherwise
+distinguished in any way. The use of the applicative suffix to add a new core
+argument thus contrasts with the use of a postposition (+hənaŋ, ACCOM) or a
+Spanish preposition (para, 'for') to indicate a non-core recipient or beneficiary.
+dø 'oktzamjadammø
+də+ ?ok.cam.hay-tam-wə
+1A+ DOWN.chat.APPL-1/2PL-COM
+'He told us a tale.'
+'øy pøjayyøy tza'
+?əy+ pə?.hay-wə ?ǝy+ ca?
+3E+ put.APPL-COM 3E+ rock
+'He loaded its rock into it (a bola).'
+'último yoxkuy' mix tzøkjaba
+?último yoš.kuy?
+miš+ cək.hay-pa
+last
+'the last job you'll do for me'
+work.INSTR1 2>1+do.APPL-INC
+(ZOH001 R015-105)
+131
+(ZOH001R028-177)
+(ZOH001R018- 022)
+(ZOH001R011 – 062)
+(ZOH001 R012-392)

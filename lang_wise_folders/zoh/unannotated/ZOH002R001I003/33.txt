@@ -1,0 +1,28 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+constructions, including verb stem compounding, are described in chapter 8.
+The structure of a noun phrase is presented in chapter 9; this includes
+discussion of quantifiers and definiteness. Noun incorporation is described in
+chapter 10. Multi-clause expressions, including relative clauses, coordination,
+and subordinated clauses, are discussed in chapter 11. Questions and the
+modal operators that pertain solely to questions are discussed in chapter 12. A
+deeper discussion of aspect (beyond the simple facts of inflection) appears in
+chapter 13. Finally, an analysis of MIG Zoque narrative text conventions and
+discourse markers appears in chapter 14. This will also involve further
+discussion of word order, as it relates to issues of topic and recency. There are
+six appendices. Appendix A describes the on-line lexicon. Appendices B-D list
+complete tables of deictics, time, and space adverbials. Appendix E gives a
+larger set of number words than the brief discussion in section 4.4.1, and
+Appendix F provides a set of examples of permissible permutations of word
+orders in sentences with varying numbers of core arguments.
+I have tried to make this grammar as complete as possible, but much has
+necessarily been left out. It is in many cases impossible to determine
+conclusively if some sub-construction is an error, albeit a commonly-made
+one, or an alternative means of expression. For example, there are several
+instances in the corpus of an auxiliary verb construction (chapter 8) in which
+the pronominal agreement argument is duplicated at the left edge of the
+phrase. I do not know if this happened because the speaker changed his or her
+mind in mid-sentence, or if it is a grammatical alternate. I was not able to elicit
+examples of this kind, and so chose not to include it in the description of
+auxiliary verb phrases. People have an untidy habit of speaking without regard
+for the difficulties of the poor grammarian, who wants her data neatly sorted
+9

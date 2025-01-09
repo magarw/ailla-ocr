@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG deshinchar
+\ENG for swelling to go down
+\EXU xinh=j@t-w@+'am bi xiw.E7
+\XPSH [Xinhj@tta*m_bi xiwi7.]
+\XSP Ya desincho* la hinchazo*n.
+\XEN Now the swelling has gone down.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jat
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex xinh-w@+@7k
+\_no 03937
+\LG MIG
+\PSH [xinhnh@*7k]
+\UND xinh-w@ +P@7k
+\MB hincharse, COM, REL
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG hinchado
+\ENG swollen
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xinh
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex xipx
+\_no 03938
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+\UND xipx
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG estacar; encajar alguien con cuchillo o estaca
+\ENG to stake; to stab someone with a knife or a stake
+\SPL xipx.7oy
+\SLGR ANTIP
+\SLGL encajar // to stab
+\SPL xipx.7@m
+\SLGR PASS
+\SLGL encajarse // to be stabbed
+\SPL xipx.ten
+\SLGR PRSV
+\SLGL tener rajado // to have stripped
+\EXU 7@y+ xipx-w@ kuchiyu+j@nanh
+\XPSH [7@y xipx@ kuchiyuj@nanh.]
+Page 1694

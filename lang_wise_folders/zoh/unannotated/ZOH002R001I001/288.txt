@@ -1,0 +1,38 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+When the verb complex has three arguments, whether because the root is
+bivalent (like ci?-, 'to give') or because affixation has increased its valency, the
+third argument is typically a human recipient or benefactor. If the patient
+argument is incorporated, the complex remains transitive. The recipient (or
+benefactor, etc.) argument can not be incorporated, so you can't say, for
+example, "He girl-gave flowers." This type of NI resembles Mithun's type II
+(1984:856-859), in that the presence of the third argument allows the
+incorporating verb complex to remain transitive.
+(10.11)
+(i)
+(ii)
+(iii)
+(iv)
+'øn tzønkuytzixukkø 'i tzønxukkø
+?ən+ cən.kuy?=ci?-šuk-wǝ
+?i 0 cən-šuk-wə
+1E+ sit.INSTR1-give-3PL-COM and 3A sit-3PL-COM
+'I gave them seats and they sat down.'
+dey chanitu ya nømmo mix 'anetzidammám
+dey čanitu ya nəm.?oy-A
+now chanito NEG DO.ANTIP-nINC 1>2+tortilla-give-1/2PL-DINC+NOW
+'Now, Chanito, we can't give you tortillas anymore.'
+miš+ ?ane=ci?-tam-wǝ+?am
+peru syempre yakkø dø yoxkuytzi'
+peru syempre yakkə də+ yoškuy?=ci?-A?
+but always VOL 1A+ work-give-iOPT
+'But let her always give work to me.'
+(ZOH001R010-023-4)
+tigó' mix mangkuykønøkkeppøba
+ti+goo?
+miš+ maŋkuy?=kə.nək-kep.?ǝy-pa
+what+BNF 2>1+foot AWAY.go=kick.SUF-INC
+'Why do you stick your foot out at me?'
+261
+(ZOH001R027-007)
+(ZOH001R014-053)
+(ZOH001 R018-323)

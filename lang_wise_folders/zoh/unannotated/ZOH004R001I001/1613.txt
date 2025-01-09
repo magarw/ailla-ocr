@@ -1,0 +1,63 @@
+\_no 03755
+\LG MIG
+\PSH [witpotz-]
+\UND wit-potz
+\MB caminar, cansarse
+\VAR
+\GRAM vi
+\SPG cansarse de caminar
+\ENG to get tired of walking
+\SPL
+\SLGR
+\EXU da wit=potz-tam-pa
+\XPSH [D@ witpotztampa.]
+\XSP Nos cansamos de caminar.
+\XEN we get tired of walking.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex wit=tzun
+\_no 03756
+\LG MIG
+\PSH [wittzun-]
+\UND wit=tzun
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG andar_presumido
+\ENG to walk around arrogantly
+\EXU jakke wit=tzun-pa
+\XPSH [Jakke wittzunpa.]
+\XSP Anda muy presumidu.
+\XEN She went around very haughtily.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 wit
+\RTGR 1 11
+\ROOT 2 tzun
+\RTGR 2 11
+\DSRC HAJ95
+\CMTS
+\date 08/Feb/96
+\lex witu'
+\_no 03757
+\LG MIG
+\PSH
+\UND witu7
+\MB
+\VAR
+\GRAM vi
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG regresar
+\ENG to return
+Page 1613

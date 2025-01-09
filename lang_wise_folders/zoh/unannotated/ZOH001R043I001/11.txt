@@ -1,0 +1,88 @@
+\fte why did he do it?
+\com
+\idx
+\ref ZOH001R043 043
+\_no 00044
+\tx porke y@da jente PRI 7@yti mas
+\mb porke
+ya -da
+-d@ jente PRI 7@yti7 mas
+\sg1 porque
+DCT1-DEM gente PRI 3PSN
+\egl because DCT1-DEM people PRI 3PSN
+\ref ZOH001R043 044
+\_no 00045
+\tx ya n@mmo
+\mb ya n@m-7oy -A
+\sg1 NEG DO -ANTIP-NINC
+\eg1 NEG DO -ANTIP-nINC CAUS-sit
+\zoq Porke y@d@ jente PRI7@yti7 mas m@jm@xukk@.
+\fts Porque esta gente del PRI son mas bastante.
+\fte Because there are more of these people of PRI.
+\com
+\idx
+\tx d@kka bi kwalisyo*n 7@yti
+\mb d@kkay bi kwalisyo*n 7@yti7
+\sg1 NPL DEF qualicio*n 3PSN
+\egl NPL DEF ???
+3PSN
+\ref ZOH001R043 045
+\_no 00046
+\tx si no tz@npa
+\mb si no tz@n
+ZOH001R0431001.txt
+yaktz@nxukk@
+yak -tz@n
+\ref ZOH001R043 046
+\_no 00047
+\tx
+\mb
+-pa
+\sgl si no estar_sentado-INC
+\egl if no sit
+CAUS-estar_sentado-3PL-dINC
+\zoq Ya n@mmo yaktz@nxukk@ ga7 7@y jented@kkay bi kwalisyo*n7@yti7.
+\fts No pueden sentar la gente de ellos los de la qualicio*n.
+\fte They couldn't seat those people of the qualicio*n.
+\com
+\idx
+m@jm@xukk@
+m@jm@
+mas
+more a lot
+\ref ZOH001R043 047
+\_no 00048
+PRI 7@y jente
+PRI 7@y jente
+bastante-3PL-COM
+PRI 3E gente
+-INC PRI 3E people
+pitzenhjo ga
+de kinkin
+pitzenhjo7 ka -7 de kinkin
+DCT3-NOM1 de muina
+ga7
+7@y jente
+-xuk-w@ ka -7 7@y jente
+DCT3-NOM1 3E gente
+-3PL-DINC DCT3-NOM1 3E people
+\zoq Si no tz@npa PRI 7@y jente.
+\fts Si no la gente del PRI es lo que se va a sentar como presidente.
+\fte If they're not going to seat the PRI's people.
+\com
+\idx
+-xuk-w@
+7@y tz@kxukk@
+7@y tz@k -xuk-w@
+de7xe.
+te -7xe
+3E hacer-3PL-COM DCT2-SIM
+\sg1 por_eso
+\eg1 because DCT3-NOM1 of jealousy 3E do -3PL-COM DCT2-SIM
+\zoq Pitzenhjo7 ga7 de kinkin 7@y tz@kxukk@ de7xe.
+\fts Por eso ellos de muina lo hicieron asi*.
+-3PL-COM
+\fte That's why they did like that from jealousy.
+\com
+\idx
+Page 11

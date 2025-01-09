@@ -1,0 +1,87 @@
+\egl HAJ: if DEF child
+\zoq HAJ: Si bi 7une 7@n nenak@xpa, tim tz@kpa?
+\fts HAJ: Si la criatura come desnudo, que haces?
+\fte HAJ: If the baby eats naked, what do you do?
+\com I was trying to say 'eats something bad'
+\idx
+\ref ZOH001R036 999-003
+\_no 00985
+\tx 7entyendes 7a beses comen 7algo
+\mb 7entyendes 7a beses comen 7algo
+\sgl entiendes
+mal los ninyos
+mal los ninyos
+mal los ninyos
+a veces comen algo
+\egl understand at times eat something bad the children
+\zoq 7entyendes
+7a beses comen_7algo_mal los ninyos.
+\fts entiendes a veces comen algo mal los nin~os.
+\fte understand at times children eat something bad.
+\com
+\idx
+\tx k@xpa
+\mb k@x
+\ref ZOH001R036 999-004
+\_no 00986
+\tx GSM: por 7ejemplo si 7une
+\mb GSM por 7ejemplo si 7une7
+\sg1 GSM: por ejemplo si nin-o/a 3E
+\eg1 GSM: for example if child 3E
+ZOH001R0361001.txt
+1E bad .eat -INC what-2E
+-
+bi 7une
+-pa bi 7une7
+\sg1 comer-INC DEF nin~o/a
+\egl eat -INC DEF child
+\ref ZOH001R036 999-005
+\_no 00987
+\zoq GSM: Por 7ejemplo, si 7une 7@y k@xpa, ke ya w@j@nam k@xpa bi 7une
+\fts GSM: Por ejemplo, si la criatura come, y no es que para que coma
+todavia,
+\fte GSM: For example, if the baby eats, that the baby eats still isn't good,
+\com
+\idx
+\ref ZOH001R036 999-006
+\_no 00988
+\tx ti por Zejemplo
+7@y tz@ki
+por 7ejemplo
+-tz@y
+\mb ti
+-wa 7@y tz@k -E
+\sg1 que
+barriga-atorarse -COM 3E hacer-dCOM
+\egl what for example belly -get_stuck-COM 3E do -dCOM
+por ejemplo
+ti
+ti
+-
+\zoq ti por 7ejemplo tzektz@yy@ 7@y tz@ki.
+\fts que por ejemplo lo hizo empachar.
+\fte what for example made it stick in the belly.
+\com
+\idx
+tzektz@yy@
+tzek
+ke
+7@y k@xpa
+ya w@j@nam
+7@y k@x -pa ke ya waja -nam7
+comer-INC que NEG bueno-TOD
+eat -INC that NEG good -STILL
+do
+\tx ya
+\mb ya
+\sg] ya
+que saltar 2E hacer-APPL-INC
+\eg1 now what jump 2E do -APPL-INC
+tzoy 7@m tz@kjaba
+tzoy 7@m tz@k -jay -pa
+\zoq Ya ti tzoy 7@m tz@kjaba?
+\fts Que remedio le haces?
+\fte Now
+-INC
+what medicine do you make for them?
+Page 213

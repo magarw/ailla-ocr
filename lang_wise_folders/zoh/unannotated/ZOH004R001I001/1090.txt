@@ -1,0 +1,64 @@
+\SCI
+\USE
+\SPG hacerse resballoso
+\ENG to become slippery
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 27/Jan/96
+\lex panelita jay@7
+\_no 02531
+\LG MIG
+\PSH
+\UND panelita jay@7
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG flor de panelita
+\ENG a type of flower
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex pa=niwi7
+\_no 02532
+\LG MIG
+\PSH [paniwi7]
+\UND pa=niwi7
+\MB salvaje, chili
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG chile de monte
+\ENG wild chili
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+LF:7okox
+ZOH004R0011001.txt
+Page 1090

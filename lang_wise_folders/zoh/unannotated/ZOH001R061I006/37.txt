@@ -1,0 +1,64 @@
+\ASP activity
+\ARG
+\NOM jat@t.kuy7, j@t@t.naanh
+\SUB jax-j@tat, yuk. jat@t
+\ETYM
+\ETL
+\ROOT jatat
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex kap
+\_no 00051
+\LG MIG
+\PSH
+\UND kap
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 traer cargando en el hombro
+\SPG 2 echar algo en el hombro
+\ENG 1 to carry something on the shoulder
+\ENG 2 to throw something over the shoulder
+\SPL kap. 7oy
+ZOH001R0611006.txt
+\SLGR ANTIP
+\SLGL traer cargando en el hombro // to carry on the shoulder
+\SPL kap.7@m
+\SLGR PASS
+\SLGL traerse en el hombro // to be carried on the shoulder
+\SPL kap.ney
+\SLGR ASSUM1
+\SLGL puesto en el hombro // placed on the shoulder
+\EXU 1 7@y+ kap-min-pa kuy 7@y+ p@k.p@k+jo7
+\XPSH 1 [7@y kapminpa kuy 7ay pakp@kjo7.]
+\XSP 1 Trae cargando el palo en su hombro.
+\XEN 1 He's carrying the wood on his shoulder
+\EXU_2_7@n+ kap.ten-w@ 7@n+ toto7
+\XPSH 2 [7@n kaptenn@n toto7.]
+\XSP 2 Tengo puesto en el hombro mi cuaderno.
+\XEN 2 I've got my notebook set on my shoulder.
+\EXU 3 kap.ney-w@ bi kuy
+\XPSH 3 [Kapneyy@ bi kuy.]
+\XSP 3 Esta* tirado el palo. (cuando se cayo*)
+\XEN 3 The tree is lying on the ground. (after it fell)
+\EXU 4 kap=n@k. 'oy-pa 7ok+jonanh
+\XPSH_4 [Kapn@kkoba 7okjonanh.]
+\XSP 4 Fue* cargando para alla* abajo.
+\XEN 4 He went off carrying something down there.
+\SYN
+\SEMF carry
+\ASP activity
+\ARG location
+\NOM kap.kuy7 ni.kap
+\SUB 7ok.kap. @y, jax-kap, k@.tzanh-kap, k@.n@k=kap. '@y,
+\SUB nik.kap. '@y, yuk. kap
+\ETYM
+\ETL
+\ROOT kap
+\RTGR P, (T3)
+Page 37

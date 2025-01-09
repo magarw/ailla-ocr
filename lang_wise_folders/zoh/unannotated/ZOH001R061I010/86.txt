@@ -1,0 +1,62 @@
+\SEMF speak
+\CAUS yak.xik hacer de reir
+\CMTS
+\lex xi7kx
+\_no 00384
+\SPG 11oviznar; brisar
+\ENG to drizzle
+\EX tuj xi7kx@
+\XSP 11ovizno*
+\XEN it drizzled
+\ROOT xi7kx I1, IX
+\SEMF nature
+\CAUS NONE
+no puede
+\CMTS not regar, porque el agua debe venir del cielo
+\lex xinh
+\_no 00385
+\SPG hincharse; hinchada
+\ENG to swell;
+a swelling
+\EX m@jm@ xinh@
+\XSP esta* hinchado bastante
+\XEN it swelled up a lot
+\ROOT xinh I2
+\SEMF body, condition
+\CAUS NONE
+\CMTS
+\lex xipx
+\_no 00386
+ZOH001R0611010.txt
+\SPG estacar; encajar alguien con cuchillo, estaca
+\ENG to stake; to stab someone with a knife, a stake
+\EX 7@y xipx@ kuchij@nanh
+\XSP lo estaco* con cuchillo
+\XEN she stabbed it with a knife
+\ROOT xipx T3
+\SEMF cut, instr
+\PASS xipx.7@m encajarse
+\ANTI xipx. 7oy encajar
+\CMTS
+\lex xi7t
+\_no 00387
+\SPG lazar; lazar con mecate; enredarse
+ENG to lasso; to lasso with a rope
+\EX xi7tt@ bi laxu
+\XSP se enredo* el mecate
+\XEN the rope got tangled up
+\EX 7@n xi7tpupa pan jekenpa
+\XSP 1o desenredo para que le enrolle
+\XEN I untangle it so I can roll it up
+\ROOT xi7t T3
+\SEMF move, instr
+\PASS xi7t.7@m
+ANTI xi7t.7oy
+\CMTS
+\lex xix
+\_no 00388
+\SPG encogerse; encogerse carne seca*ndose
+\ENG to shrink up; for meat to shrink up while drying
+\EX
+\XSP
+Page 86

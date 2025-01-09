@@ -1,0 +1,63 @@
+\GRAM meas
+\SPG una cortaza
+\ENG one snip with the scissors.
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT nem
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex nenh.naanh
+\_no 00047
+\LG MIG
+\PHO [nenhna*nh]
+\UND nenh.naanh
+\MB olear, MED
+\VAR
+\GRAM meas
+\SPG ola; oleada
+\ENG wave; a slap of a wave
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT nenh
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex ni.7utz.kuy7-tz@k-w@+@7k
+\_no 00048
+\LG MIG
+\PSH [ni7utzkuytz@kk@*7k]
+\UND ni.7utz.kuy7-tz@k-w@ +P@7k
+\MB PURP, medir, INSTR1, HACER, COM, REL
+\VAR
+\GRAM agt2
+\SCI
+\USE
+\SPG el traste que ocupo* para medir
+\ENG a dish that was used for measuring
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7utz
+\RTGR 1 T3
+\ROOT 2 tz@k
+\RTGR 2 T3
+\DSRC HAJ95
+ZOH001R0611003.txt
+\CMTS CK-GL
+\date 19/Jun/96
+\lex ni'k.@7
+HAJ:96 ok
+Page 17

@@ -1,0 +1,92 @@
+ZOH001R0531001.txt
+\com tape has 't@nhkuyt@kjo*nh', an error! it means 'carcel'
+\ord v Av
+\ref ZOH001R053 028
+\_no 00029
+\tx gay
+\mb
+ka
+gay
+n
+yakk@xxoypa.
+ka -y 7@n yak -k@x -7oy -ра
+CAUS-comer-ANTIP-INC
+-y
+\sg1 DCT3-TMP DCT3-TMP 1E
+\eg1 DCT3-TMP DCT3-TMP 1E CAUS-eat -ANTIP-INC
+\zoq Gaji gay_7@n yakk@xxoypa.
+\fts De ahi* le doy de comer.
+\fte Then I give them something to eat.
+\com
+\idx
+\ord Av V
+\ref ZOH001R053 029
+\_no 00030
+-ji7 komo d@x
+\tx de gaji, komo d@x d@ pobre yoma*7,
+\mb de ka
+komo d@x d@ pobre yomaa7
+\sg1 de DCT3-LOC1 como 1Prn 1A pobre mujer
+\egl of DCT3-LOC1 like 1Prn 1A poor woman
+\zoq De gaji, komo d@x d@ pobre yoma*7, minchukpa_7eskwelajo*nh.
+\fts De ahi*, como yo soy mujer pobre, vienen de la escuela.
+\fte Then, since I'm a poor woman, they come from school.
+\com
+\idx
+\ord Av S Pred V Av
+\ref ZOH001R053 030
+\_no 00031
+\tx n@kpa
+y
+\mb nak -pa 7@y k@pi
+len~a
+k@piyaxukk@.
+\zoq N@kpay k@piyaxukk@.
+\fts se van a len~ar.
+\sg1 irse-INC 3E
+\egl go -INC 3E firewood-VERS1-3PL-COM
+\fte They go get firewood.
+\com
+\idx
+\ord vincorp
+\ref ZOH001R053 031
+\_no 00032
+\tx_n@kpa
+\mb n@k -pa 7@y
+\sgl irse-INC 3E
+\egl go -INC 3E get
+-7a
+y p@kxukk@
+pak
+-xuk-w@
+-VERS1-3PL-COM
+k@pi
+k@pi
+-xuk-wa
+agarrar-3PL-COM len~a
+-3PL-COM firewood NPL
+\zoq N@kpa p@kxukk@ k@pid@kka.
+\fts van a traer las len~as.
+\ref ZOH001R053 032
+\_no 00033
+\tx 7i minpa
+\mb 7i min -pa
+\fte They're going to get the firewood.
+\com
+\idx
+\ord v o
+minchukpa 7eskwelajo*nh.
+min -xuk-pa
+-xuk-pa 7eskwela-joonh
+venir-3PL-INC escuela -DIR4
+come -3PL-INC school -DIR4
+y
+tum@ n@kpa
+tum@7 n@k -pa 7@y k@pi
+d@kka.
+d@kkay
+NPL
+k@p7aw@.
+Page 8
+-7a
+-wa

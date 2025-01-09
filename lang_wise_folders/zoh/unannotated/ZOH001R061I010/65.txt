@@ -1,0 +1,60 @@
+\XSP te quiero
+\XEN I love you
+\EX t@7@m-pa
+\XSP sirve
+\XEN it will do
+\EX ya* t@7@mm@
+\XSP no sirvio*
+XEN it won't do
+\ROOT t@ T3
+\SEMF cog
+\PASS vi t@.7@m servir
+\ANTI t@.7oy querer
+\CMTS
+\lex taj
+\_no 00285
+\SPG
+\ENG
+\EX
+\XSP
+\XEN
+\ROOT t@j Ix
+\SEMF sex
+\CMTS get GL, prob. sexual
+\lex t@7k
+\_no 00286
+\SPG hipar
+\ENG to hiccouph
+\EX t@7kk@
+\XSP tuvo hipo
+\XEN she had the hiccouphs
+\ROOT t@7k Il
+\SEMF body, speak
+\CAUS NONE
+\CMTS
+\lex t@n
+\_no 00287
+\SPG echar goma
+\ENG to emit gum
+\EX
+\XSP
+\XEN
+\ROOT t@n Ix
+ZOH001R0611010.txt
+SEMF nature
+\CMTS cf. pun T2 'echar goma'
+\CMTS como un pino que echa prementina
+\lex t@nh
+\_no 00288
+\SPG cortar - con machete
+\ENG to cut - with machete
+\EX
+\XSP
+\XEN
+\ROOT t@nh T3
+\SEMF cut, instr
+\PASS MED t@nh.7@m cortarse su mismo
+\ANTI t@nh.7oy
+\CMTS
+\lex tap
+Page 65

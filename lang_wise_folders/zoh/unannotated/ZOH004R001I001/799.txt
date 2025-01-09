@@ -1,0 +1,67 @@
+\MB
+\VAR
+\GRAM Vi
+\SCI
+\USE
+\SPG calmarse (una persona)
+\ENG to calm down (of a person)
+\SPL yak.ma7k
+\SLGR CAUS
+\SLGL calmar (nin~o/a o borracho/a
+\SPL ma7k.ney
+SLGR ASSUM1
+\SLGL estar quieto // to be silent
+\EXU 1 d@ ma7k.ney-w@+xtaa7
+\XPSH 1 [D@ ma7kneyy@xta*7.]
+\XSP 1 Estuve quieto.
+\XEN 1 I was silent.
+\EXU 2 ma7k-w@ bi 7une7
+\XPSH 2 [Ma7kk@ bi 7une7.]
+\XSP 2 Se calmo* la criatura.
+\XEN 2 The baby settled down.
+\SYN na.tz@n
+\SEMF cognitive
+\ASP achievement
+\ARG
+\NOM
+\SUB yuk.ma7k
+\ETYM
+\ETL
+\ROOT ma7k
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex malanhka7
+\_no 01851
+\LG MIG
+\PSH
+\UND malanhka7
+\MB
+\VAR malanhka
+\GRAM
+\SCI
+\USE
+\SPG malanga
+\ENG a type of plant
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+LF:7okox
+\ROOT
+\DSRC TK94
+\CMTS CK-PH; fixed/TK
+\date 25/Jun/96
+ZOH004R0011001.txt
+\lex malba tzamm@7
+\_no 01852
+\LG MIG
+\PSH
+.) // to calm (a child or a drunk ...)
+(escondido, cuando pasa alguien de quien tengo miedo.)
+(hidden, when someone passes that I'm afraid of.)
+Page 799

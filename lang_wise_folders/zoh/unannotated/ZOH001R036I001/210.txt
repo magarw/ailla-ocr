@@ -1,0 +1,86 @@
+\mb OSM kwando tum 7une7
+\sg1 OSM: cuando uno nin~o/a
+\egl OSM: when one child
+\ref ZOH001R036 988
+\_no 00971
+\zoq OSM: Kwando tum 7une tzekn@kpa,
+\fts OSM: Cuando una criatura tiene churri,
+\fte OSM: when a child's belly is running,
+\com
+\idx
+\zoq minpam 7@y 7okka7kka.
+\fts viene ya su muela.
+\tx minpam
+7@y 7okka7kka
+\mb min -pa -7am 7@y 7okka7kka7
+\sg1 venir-INC-YA
+3E muele
+\egl come -INC-NOW 3E molar
+\fte now its molar is coming.
+\com
+\idx
+\ref ZOH001R036 989
+\_no 00972
+\tx
+ga
+\mb ka -7
+\sg1 DCT3-NOM1 muele
+\eg1 DCT3-NOM1 molar
+tzek
+7okka7kka pwes pitz@mpam
+7@y minn@
+7okka7kka7 pwes pitz@m-pa -7am 7@y min -wa
+pues salir -INC-YA 3E
+well leave -INC-NOW 3E
+venir-dINC
+come -dINC
+\ref ZOH001R036 990
+\_no 00973
+ZOH001R0361001.txt
+-n@k -pa
+barriga-irse-INC
+belly -go -INC
+\tx 7i bi n@mm@ y
+\mb 7i
+\zoq Ga 7okka7kka, pwes, pitz@mpam 7@y minn@,
+\fts Esa muela, pues, ya viene saliendo,
+\fte That molar, well, now it's coming along in,
+\com
+\idx
+molestz@kk@
+7i bi n@mm@ 7@y molestar-tz@k -w@
+\ref ZOH001R036 991
+\_no 00974
+\tx de gaji
+mixx@m
+\mb de ka -ji7
+mix - 7@m
+\sg1 de DCT3-Loc1 2Prn-2E
+\egl of DCT3-LOC1 2Prn-2E
+\sg] y
+DEF PROG 3E molestar-hacer-dINC
+\egl and DEF PROG 3E bother -do -DINC
+\zoq 7i bi n@mm@y molestz@kk@.
+\fts y lo esta* molestando.
+\fte and it's bothering it (the baby).
+\com
+\idx
+7@m prepartz@kjaba
+bi tzoy7 para
+7@m preparar-tz@k -jay -pa
+bi tzoy7 para
+2E preparar-hacer-APPL-INC DEF remedio para
+2E
+prepare -do
+-APPL-INC DEF medicine for
+\tx y yakp@7tjaba
+n@kk@
+\mb 7ay yak -p@7t -jay -pa nak -wa
+\sg1 3E
+CAUS-pasar-APPL-INC 3E irse-dINC
+y
+7@y
+\egl 3E CAUS-pass -APPL-INC 3E go -dINC
+\zoq De gaji mixx@m 7@m prepartz@kjaba bi tzoy7 paray yakp@7tjabay n@kk@.
+\fts De ahi* tu se lo preparas el remedio para que lo vaiga pasando.
+Page 210

@@ -1,0 +1,89 @@
+\tx OSM: malbaxta*7
+\mb OSM malba-xtaa7
+\sg1 OSM: malba-NOMAS
+\egl OSM: malba-ONLY
+\zoq OSM: Malbaxta*7.
+\fts OSM: Malba no mas.
+fte OSM: Just malba.
+\com
+\idx
+\ref ZOH001R036 774
+\_no 00760
+\tx
+\mb GSM 7i
+GSM: 7i gaxta*7
+7@y yakp@7tpa
+ka -7 -xtaa7 7@y yak -p@7t -pa
+\sg1 GSM: y DCT3-NOM1-NOMAS 3E CAUS-pasar-INC DEF lumbre -quemarse-NOM3
+\eg1 GSM: and DCT3-NOM1-ONLY 3E CAUS-pass -INC DEF fire
+-overcook-NOM3
+\zoq GSM: 7i gaxta*7 7@y yakp@7tpa bijukutjipx@?
+\fts GSM: Y eso no mas pasa la
+fiebre?
+\fte GSM: And just that makes the fever go away?
+\com
+\idx
+\ref ZOH001R036 775
+\_no 00761
+\tx OSM: wanakpa
+bi topa
+\mb OSM wanak -pa bi top
+\sg1 OSM: bajarse-INC DEF hacer_calor-NOM2
+\egl OSM: go_down-INC DEF be_hot
+\tx jukut@k
+\mb
+jukut@k
+\sg1 lumbre
+\egl fire
+ZOH001R0361001.txt
+\ref ZOH001R036 776
+\_no 00762
+\tx 7ay gay
+\mb 7adyo ka -y 7@m xox
+\sg1 luego DCT3-TMP 2E
+\egl later DCT3-TMP 2E
+\ref ZOH001R036 777
+\_no 00763
+7@m xoxke7tpa
+\tx 7@m p@kpam
+\mb 7@m p@k
+-A
+\zoq OSM: wanakpa bi topa jonhjo tejiw@* bi jukut@k.
+fts OSM: Baja la calor de adentro que tiene la fiebre.
+\fte OSM: The heat goes down inside the one that has the fever.
+\com
+\idx
+-NOM2
+\zoq 7ay gay 7@m xoxke7tpa tuwanh jama 7@y n@kpa.
+\fts Luego vuelves a cocerlo a los tres di*as.
+bi
+bi
+tuwanh jama 7@y n@kpa
+-ke7t -pa
+tuwa*nh jama 7@y n@k -pa
+cocer-REPET-INC tres dia 3E irse-INC
+cook -REPET-INC three day 3E
+go -INC
+\fte Later then you cook it again, three days go by.
+\com
+\idx
+\sg1 2E agarrar-INC-YA
+\egl 2E get
+\zoq 7@m p@kpam 7@m tzetzpam bi naka.
+bi
+jonhjo
+tejiw@*
+jonh -jo7 teji -w@ -v7k bi
+adentro-Loc2 estar-COM-REL DEF
+inside -LOC2 be
+-COM-REL DEF
+jukutjipx@
+jukutak-jipx
+-pa -7am 7@m
+7@m tzetzpam
+bi naka
+tzetz -pa -7am bi naka
+2E labrar-INC-YA DEF cuero
+-INC-NOW 2E work -INC-NOW DEF skin
+Page 165
+-A7

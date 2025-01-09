@@ -1,0 +1,62 @@
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex y@k tzepe7
+\_no 04345
+\LG MIG
+\PSH
+\UND y@k tzepe7
+\MB tizne, nagua
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG nagua negra
+\ENG black traditional long skirt
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS CK-GR HAJ:96 ok/OK:TK
+\date 26/Jun/96
+\lex y@k. 7uk.kuy7
+\_no 04346
+LG MIG
+\PSH [y@k7ukkuy7]
+\UND yak. 7uk.kuy7
+\MB tizne, tomar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG taza
+\ENG CUP
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7uk
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 15/Oct/94
+\lex y@k.i7
+\_no 04347
+\LG MIG
+\PSH [y@ki7]
+\UND y@k. E7
+\MB tizne, NOM 7
+ZOH004R0011001.txt
+Page 1866

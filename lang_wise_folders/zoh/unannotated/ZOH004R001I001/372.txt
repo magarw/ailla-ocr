@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT k@nh
+\RTGR 12
+\DSRC TK94
+\CMTS CK-GR of EX ok, HAJ:96. 'esta* quemando'
+\CMTS no sabemos como ni de quien se esta* quemando
+\date 25/Jun/96
+\lex jo.k@nh-pa+a7k
+\_no 00854
+\LG MIG
+\PSH [jok@nhpa*7k]
+\UND jo.k@nh-pa +P@7k
+\MB EN, quemarse, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG incendio
+\ENG fire
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT k@nh
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Feb/96
+\lex jo.k@w.@7
+\_no 00855
+\LG MIG
+\PSH [jok@w@7]
+\UND jo.k@nh.A7
+\MB EN, quemarse, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG requemado; chamuscado
+\ENG reburned; scorched
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT k@nh
+\RTGR 12
+\DSRC HAJ94
+ZOH004R0011001.txt
+\CMTS
+\date 06/Feb/96
+\lex jo.k@x
+Page 372

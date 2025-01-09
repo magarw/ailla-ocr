@@ -1,0 +1,79 @@
+\eg1 DCT3-NOM1 NEG for 3E up
+\zoq Ga ya pa 7@y k@x@.
+\fts Eso no es para que lo como.
+\fte That's not for him to eat.
+\com
+\idx
+\ref ZOH001R036 389
+\_no 00384
+\tx gay
+\mb ka -Y
+7@y t@nhtuktukw@ypa
+7@y_t@nh
+-tuk -tuk -way -pa
+por pedasitu
+por pedasitu
+\sg1 DCT3-TMP 3E cortar_con_machete-cortar-cortar-ITER2-INC por pedasito
+\eg1 DCT3-TMP 3E cut_with_machete -cut
+-ITER2-INC for piecelet
+\zoq Gay 7@y t@nhtuktukw@ypa por pedasitu.
+\fts Eso lo corta por pedasito.
+\fte That he cuts into little pieces.
+\com
+\idx
+\ref ZOH001R036 391
+\_no 00385
+\tx 7@y t@nhpa
+\mb
+7@y_tnh
+\zoq 7@y t@nhpay n@kk@.
+\fts Lo va cortando.
+\fte He cuts away.
+\com
+\idx
+y
+n@kk@
+7@y n@k -wa
+\sg1 3E cortar_con_machete-INC 3E irse-dINC
+\eg1 3E cut_with_machete -INC 3E
+go -dINC
+\ref ZOH001R036 392
+\_no 00386
+\tx 7@y t@nhpa
+\mb
+7@y t@nh
+\zoq 7@y t@nhpay n@kk@.
+\fts Lo va cortando.
+\fte He cuts away.
+\com
+\idx
+y n@kk@
+-pa 7@y nak -wa
+\sg1 3E
+cortar_con_machete-INC 3E irse-dINC
+\egl 3E cut_with_machete -INC 3E go -DINC
+\ref ZOH001R036 393
+\_no 00387
+\tx 7ax
+\mb
+ZOH001R0361001.txt
+ke
+7axta ke
+\sg] hasta que
+\egl until that a lot -VERS2-INC
+\com
+\idx
+-pa
+x@jj@ba
+x@ja7
+\zoq 7ax ke x@jj@ba.
+\fts Hasta que se haga bastante.
+\fte Until there's a lot.
+-7@y -pa
+bastante-VERS2-INC
+\ref ZOH001R036 394
+\_no 00388
+\tx gag@
+xajpak
+- cut
+Page 84

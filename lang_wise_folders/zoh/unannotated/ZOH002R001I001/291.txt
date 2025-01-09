@@ -1,0 +1,34 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+In this chapter we'll look at the various types of sentences that can be
+composed of more than one clause. Relative clauses are discussed in section
+11.1. In section 11.2, we look at coordinated clauses. Section 11.3 has a
+discussion of comparative constructions. These are formed on the model of
+Spanish grammar, using connectives borrowed from Spanish. We return to MIG
+Zoque connectives in sections 11.4 and 11.5, to discuss purpose clauses and 'if'
+clauses, respectively. Section 11.6 contains a discussion of clauses using
+Spanish subordinators. In section 11.7, we look at 'that' clauses, which appear
+with verbs of speaking, perceiving, and wanting. Section 11.8 contains a
+description of locative clauses.
+Chapter 11: Multi-clause Expressions
+In general, MIG Zoque syntax does not entail requirements on the
+referent of third person agreement markers in subordinate clauses. The
+referents of subject or object agreement markers are determined pragmatically.
+The following two examples illustrate this point.
+(11.1)
+(i)
+(ii)
+bi pøn 'øy tzangngø bi yomá' 'i yowø
+bi pǝn ?ǝy+ caŋ-wǝ
+bi yomaa? ?i 0 yo-wǝ
+DEF man 3E+ hit_w_fist-COM DEF woman and 3A fall-COM
+'The man hit the woman and she fell;
+The man hit the woman and he fell.'
+bi jay'une' 'øy xu'kkø bi yom'une 'i yukpoyyø
+bi haya=?une? ?ǝy+ šu?k-wə
+(elicited)
+bi yomǝ=?une??i 0 yuk.poy-wə
+DEF male=child 3E+ kiss-COM DEF girl-child and 3A UP.flee-COM
+'The boy kissed the girl and he ran away;
+The boy kissed the girl and she ran away."
+(elicited)
+264

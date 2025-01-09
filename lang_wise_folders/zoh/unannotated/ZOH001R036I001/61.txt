@@ -1,0 +1,106 @@
+ZOH001R0361001.txt
+\egl now that DCT3-TMP drink-finish -COM-NOW DCT3-NOM1 all
+\zoq Ya ke gay 7ukxukka*m ga jemji.
+\fts ya que ya lo termino* de tomar todo.
+\fte Now that then he's drunk it all.
+\com
+\idx
+\ref ZOH001R036 282
+\_no 00280
+golpe jonhjo
+n@pin
+-y
+-w@ -7am
+gad@
+ka -d@ golpe jonh -jo7 n@pin7
+\sg1 DCT3-TMP bajarse-COM-YA DCT3-DEM golpe adentro-LOC2 sangre
+\eg1 DCT3-TMP go_down-COM-NOW DCT3-DEM blow inside -LOC2 blood
+\tx gay
+\mb ka
+\tx k@nhnh@
+\mb k@nh
+-w@
+\sg1 cocerse-COM
+\egl cook
+-COM
+\zoq Gay wanakka*m gad@ golpe jonhjo n@pin - n@pin k@nhnh@,
+\fts Ya bajo* ese golpe adentro tiene la sangre cuajada,
+\fte Now that blow has gone down it has clotted blood inside,
+\com
+\idx
+\ref ZOH001R036 283
+\_no 00281
+\tx 7i si yak n@mm@
+\mb 7i si yakk@ n@mm@
+\sgl y
+si VOL PROG
+\egl and if VOL PROG
+wanakka*m
+wanak
+\com
+\idx
+\zoq 7i si yak n@mm@ yaktoypanam bi7t.
+\fts y si le duele todavia.
+\fte and if it's - it still hurts.
+\tx 7ay7
+\mb
+7ay7
+\sg1 hoja
+\egl leaf
+\ref ZOH001R036 284
+\_no 00282
+\tx 7enton kay
+gaji
+m kay
+mixx@m
+\mb entonces ka -y
+ka -ji7 7@m ka -Y mix -7@m
+\sg1 entonces DCT3-TMP DCT3-LOC1 2E DCT3-TMP 2Prn-2E
+\egl then
+DCT3-TMP 2Prn-2E
+DCT3-TMP DCT3-LOC1 2E
+\com
+\idx
+yaktoypanam
+yak -toy
+-pa -nam7
+CAUS-doler-INC-TOD
+CAUS-hurt -INC-STILL
+\ref ZOH001R036 285
+\_no 00283
+\zoq 7enton kay gajim kay mixx@m 7@m juypa tum 7ay7.
+\fts Entonces ahi* tu compras una hoja.
+\fte Then now there now you you buy a leaf.
+\tx minpa*m
+\mb
+min -pa -7am
+\sg1 venir-INC-YA
+\egl come -INC-NOW
+bi7t
+bi7t
+SI
+IF
+xutjayy@
+xut
+donde teji7aw@
+7@m juypa
+7@m juy
+2E
+2E
+n@pin
+n@pin7
+sangre
+blood
+tum
+tum
+-ра
+comprar-INC uno
+-INC one
+buy
+-jay -w@ donde teji
+gad@ golpe
+-7a -wa ka -da golpe
+-VERS1-COM DCT3-DEM golpe
+pierce -APPL-COM where there_is-VERS1-COM DCT3-DEM blow
+Page 61
+agujerar-APPL-COM donde hay

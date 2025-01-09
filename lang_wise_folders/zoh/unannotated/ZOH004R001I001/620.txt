@@ -1,0 +1,63 @@
+\MB cabeza, golpear_en_cabeza
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG poner caballete
+\ENG to put on a roof ridge
+\EXU kopak=x@m-w@ bi tak
+\XPSH [Kopakx@mm@ bi t@k.]
+\XSP Pusieron la caballete en la casa
+\XEN They put the roof ridge on the house.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT x@m
+\RTGR T3
+\DSRC TK94
+\CMTS see x@m for an example with kopak: he doesn't like this form here; GET
+GLOSS
+\date 18/Jun/96
+\lex ko.pe7t
+\_no 01425
+\LG MIG
+\PSH [kope7t-]
+\UND ko.pe7t
+\MB OTRO, tejer
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG despulgar
+\ENG to delouse
+\SPL ko.pe7t.7oy
+\SLGR ANTIP
+\SLGL despulgar // to delouse
+\SLGR NO PASS
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ko.pe7t
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 16/Oct/94
+\lex ko.pit
+\_no 01426
+ZOH004R0011001.txt
+\LG MIG
+\PSH [kopit-]
+\UND ko.pit
+\MB OTRO, envolver
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG envolver; enrollar
+\ENG to wrap; to roll up
+Page 620

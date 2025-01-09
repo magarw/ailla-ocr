@@ -1,0 +1,44 @@
+syllable huš, which would receive full primary stress if there were no
+postposition.
+The following examples illustrate the problem of assigning lexemes to
+the right class. +ho? (i) is uncontroversially a postposition, while the
+appearance of kowitiiŋ (ii) after the verb places it decisively in the adverb class.
+Examples (iii) and (iv) show a fuzzier case, that of kəhəəŋ, 'below'. In example
+(iii) it follows immediately after the noun phrase, like a normal postposition.
+There are many examples of kəhəəŋ in this position in the corpus. In example
+(iv), however, it appears independently, as part of the predicate 'to be below'.
+(4.25)
+(i)
+(ii)
+(iii)
+(iv)
+ye'tztzø 'ana jermáng 'øy tøkjo'
+ye?c-wǝ
+?ana jermáŋ ?əy+ tək+ho?
+llegar-COM ana germán 3E+ casa+LOC2
+'Ana llegó en la casa de Germán.'
+yødø tøk 'øy 'angpajxukkø kowiting
+yə.də tək ?əy+ ?aŋ.pah-šuk-wə
+kowitiin
+este casa 3E+ BOCA.clavar-3PL-COM alrededor
+'Esta casa está cercado alrededor.'
+dø tungngapa yødø nipø't køhøng
+də+ tuŋ.?a-pa
+yə.də
+1A+ camino.VERS1-INC DCT1.DEM
+'Voy a caminar debajo del puento.'
+'øn tøk teji'awø køjóng
+?ǝn+ tək 0 tehi.?a-wə
+(ZOH001 R055-001)
+kǝj?ǝəŋ
+1E+ casa 3A hay.VERS1-COM debajo
+'Mi casa está allá abajo.'
+(ZOH001 R0601001-021)
+ni.pə?t kəhəəŋ
+INSTR3.pasar debajo
+(ZOH001 R0601001-105)
+(ZOH001 R0601001-086)
+There is also a small set of entries in the table (hoŋ, hooŋ, honaŋ, and
+hənaŋ) that are similar in phonological form, but probably not derived from the
+same root morpheme. These are uncontroversially postpositions: they appear
+73

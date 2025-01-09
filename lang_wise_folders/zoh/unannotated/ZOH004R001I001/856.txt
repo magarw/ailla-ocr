@@ -1,0 +1,63 @@
+\RTGR IX
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex mokoy
+\_no 01986
+\LG MIG
+\PSH
+\UND mokoy
+\MB
+\VAR
+\GRAM Vi
+\SCI
+\USE
+\SPG emborracharse
+\ENG to get drunk
+\EXU 1 da mokoy-w@
+\XPSH 1 [D@ mokoyy@.]
+\XSP 1 Me emborrache*.
+\XEN 1 I got drunk.
+\EXU 2 7ojo' d@ yak. mokoy-wa
+\XPSH_2 [7ojo d@ yakmokoyy@.]
+\XSP 2 El aguardiente me emborracho*.
+\XEN 2 The liquor made me drunk.
+\SYN
+\SEMF body, cognitive
+\ASP achievement
+\ARG
+\NOM moko.e
+\SUB
+ETYM
+\ETL
+\ROOT mokoy
+\RTGR 12
+\DSRC HAJ94
+\CMTS another person can't get you drunk: only something alcoholic can
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex mok-pitz
+\_no 01987
+\LG MIG
+\PSH [mokpitz-]
+\UND mok-pitz
+\MB mai*z, cocer_en_cal
+\VAR
+\GRAM vi:incorp
+\SCI
+ZOH004R0011001.txt
+\USE
+\SPG poner mai*z para cocer
+\ENG to put corn in lime
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pitz
+\RTGR T1
+\DSRC TK94
+\CMTS
+Page 856

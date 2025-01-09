@@ -1,0 +1,63 @@
+\SPG abajen~o; hombre de para alla abajo
+\ENG lowlander; someone from down over there
+\EXU
+\XSP
+\XEN
+\SYN 7ok+nanh+p@7
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex 7ok.jonh. '@y
+\_no 00327
+\LG MIG
+\PSH [7okjonhnh@y-]
+\UND 7ok.jonh.7@y
+\MB ABAJO, atarantarse, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG olvidar
+\ENG to forget
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jonh
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 12/Jun/95
+\lex 7ok.jot. '@y
+\_no 00328
+\LG MIG
+\PSH [7okjott@y-]
+\UND 7ok.jot.7@y
+\MB ABAJO, cortar_parejo, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG deshilar
+\ENG to unravel
+\SPL
+\SLGR
+\EXU 7@y+ 7ok.jot. '@y-wa yo't.e7
+\XPSH_ [7@y_7okjott@yy@ yote7.]
+\XSP Deshilo* la ropa.
+\XEN The cloth unraveled.
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT jot
+\RTGR T3
+Page 141

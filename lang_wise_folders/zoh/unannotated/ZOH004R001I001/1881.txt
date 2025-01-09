@@ -1,0 +1,64 @@
+\SPG negro
+\ENG black
+\EXU
+\XSP
+\XEN
+\SYN negru
+\EXU 1 y@k.y@k_p@n
+\XPSH 1 [y@ky@k p@n]
+\XSP 1 hombre negro
+\XEN 1 black man
+\EXU 2 y@k.y@k_yomaa7
+\XPSH 2 [y@ky@k yoma*7]
+\XSP 2 mujer negra
+\XEN 2 black woman
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 25/Jun/96
+\lex y@7kx
+\_no 04383
+\LG MIG
+\PSH
+\UND y@7kx
+\MB
+\VAR
+\GRAM vi:act
+\SCI
+\USE
+\SPG mover (se); aflojarse
+\ENG to move (oneself); to float
+\SPL yak.y@7kx
+\SLGR CAUS
+\SLGL mover; menear // to move; to stir
+\EXU 1 xanh=y@7kx-w@ bi yo't.e7
+\XPSH 1 [Xanhy@7kx@ bi yote7.]
+\XSP 1 Se movio* con el aire la ropa.
+\XEN 1 The clothes shifted in the wind.
+\EXU 2 da y@7kx-w@
+\XPSH 2 [D@ y@7kx@.]
+\XSP 2 Me movi*.
+\XEN 2 I moved.
+\SYN
+\SEMF move
+\ASP process
+\ARG
+\NOM
+\SUB
+\ASP
+\ARG
+\NOM
+ZOH004R0011001.txt
+\SUB jetz-y@7kx
+\ETYM
+\ETL
+\ROOT y@7kx
+\RTGR IX, Il
+\DSRC TK94
+\CMTS caus2 yak+ y@7kx mover; menear
+\CMTS motion doesn't have to cause a change of location. For EXU 2,
+\CMTS the illustration given by GSM was wiggling in his chair.
+Page 1881

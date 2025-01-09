@@ -1,0 +1,62 @@
+\CMTS
+\date 03/Jan/80
+\DATE 14/Aug/02
+\lex 7ok. tij. '@y
+\_no 00386
+\LG MIG
+\PSH [7oktijj@y-]
+\UND 7ok. tij.7@y
+\MB ABAJO, ir_regresar, SUF
+\VAR
+\GRAM vi
+\SPG ir abajo; seguir
+\ENG to go down; to follow along
+\SPL
+\SLGR
+\EXU 7@n+ 7ok.tij.'@y-w@ 7i xa' soldao d@k_(+7a(y))
+\XPSH [7@n 7oktijj@yy@ 7i xa soldao d@kka.]
+\XSP Segui* con los soldados.
+\XEN I went down with the soldiers.
+\SYN
+\SEMF
+\ROOT tij
+\RTGR IX
+\DSRC HAJ98
+\CMTS
+\date
+\1ex 7ok-tuj
+\_no 00387
+\LG MIG
+\PSH [7oktuj]
+\UND 7ok-tuj
+\MB ABAJO, Îluvia
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG 1 sur
+\SPG 2 agua de sur
+\ENG 1 south
+\ENG 2 rain from the south
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 29/Jan/96
+ZOH004R0011001.txt
+\lex 7ok. tuy.7@y
+\_no 00388
+\LG MIG
+\PSH [7oktuyy@y-]
+\UND 7ok. tuy.7@y
+\MB ABAJO, estirar, SUF
+\VAR
+\GRAM vt
+\SCI
+Page 166

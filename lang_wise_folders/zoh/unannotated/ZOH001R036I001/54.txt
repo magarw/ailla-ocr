@@ -1,0 +1,76 @@
+\idx
+\ref ZOH001R036 246
+\_no 00246
+\tx gad@
+\mb ka
+kana n@7
+-da kana n@7
+\sg1 DCT3-DEM sal agua
+bastante golpe SI
+\eg1 DCT3-DEM salt water a_lot blow IF
+\ref ZOH001R036 247
+\_no 00247
+m@jma
+m@jm@
+\zoq Gad@ kana n@7, m@jm@ golpe bi7t,
+\fts Esa agua de sal, si es bastante golpe,
+\fte That salt water, if it's a big blow,
+\com
+\idx
+\ref ZOH001R036 248
+\_no 00248
+\tx ga
+jarabe* yakkukpa*m
+\mb ka -7
+jarabe* yak -7uk
+-pa -7am
+\sg1 DCT3-NOM1 jarabe* CAUS-tomar-INC-YA
+\eg1 DCT3-NOM1 ***
+CAUS-drink-INC-NOW
+ZOH001R0361001.txt
+\zoq ga jarabe* yakkukpa*m.
+\fts ga jarabe* a que tome jarabe*.
+\fte that ??? that he drinks now.
+\com
+\idx
+\tx 7i 7@y 7ukpa
+pwes
+\mb 7i 7@y 7uk
+\sgl y
+-ра pwes
+3E tomar-INC pues
+\eg1 and 3E drink-INC well
+\zoq 7i_7@y 7ukpa, pwes.
+\fts Y lo toma, pues,
+\fte And, well, he drinks it.
+\com
+\idx
+\ref ZOH001R036 249
+\_no 00249
+golpe bi7t
+golpe bilt
+\tx GSM: por 7ejemplo gad@
+\mb GSM por 7ejemplo
+\sg1 GSM: por ejemplo
+\eg1 GSM: for example DCT3-DEM water 2E
+n@7
+7@m yakkukpa*7
+ka -d@ n@7 7@m yak -7uk -pa -v7k
+DCT3-DEM agua 2E CAUS-tomar-INC-REL
+CAUS-drink-INC-REL
+\zoq GSM: Por 7ejemplo, gad@ n@7 7@m_yakkukpa*7,
+\fts GSM: Por ejemplo, esa agua aquel lo tome,
+\fte GSM: For example, that water that you make him drink,
+\com
+\idx
+\zoq tij@nanh_7@m prepartz@kpa?
+\fts con que lo preparas?
+\ref ZOH001R036 250
+\_no 00250
+\tx ti jananh 7@m prepartz@kpa
+\mb ti jananh 7@m preparar-tz@k -pa
+\sg1 que AC
+2E preparar-hacer-INC
+\egl what ACC 2E prepare -do
+- INC
+Page 54

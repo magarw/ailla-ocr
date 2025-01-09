@@ -1,0 +1,88 @@
+\idx sp
+\ref ZOH001R011 077
+\_no 00078
+\tx wituxukk@
+\mb witu7
+-xuk-w@
+\sg1 regresar-3PL-COM
+\egl return -3PL-COM house-DIR3
+\zoq wituxukk@ t@kjonanh.
+\fts Regresaron para la casa.
+\fte They went back home.
+\com
+\idx
+t@kjonanh
+t@k -jonanh
+casa -ĎIR3
+p@7 -n@k -xuk-w@ -7am
+poner-irse-3PL-COM-YA
+\ref ZOH001R011 078
+\_no 00079
+\tx p@n@kxukkam
+\mb
+\sg1
+DCT3-TMP DEF mono
+\egl put -go -3PL-COM-NOW DCT3-TMP DEF monkey
+\zoq P@n@kxukkam kay bi tzawi.
+\fts Ya llevan el chango.
+\ref ZOH001R011 079
+\_no 00080
+\fte Now they've brought the monkeys.
+\com
+\idx
+ZOH001R0111001.txt
+kay
+bi
+ka -y bi
+\tx ye7chukk@
+juxtix
+7anhji7
+\mb ye7tz -xuk-w@ juxtixa 7anhji7
+\sg1 11egar-3PL-COM autoridad LOC3
+\egl arrive-3PL-COM authority LOC3
+\zoq Ye7chukk@ juxtix7anhji7.
+\fts Llegaron ontal presidente.
+\fte They arrived at the mayor's.
+\com
+\idx
+\ref ZOH001R011 081
+\_no 00082
+\tx porke y@
+\mb porke y@ -7
+\ref ZOH001R011 080
+\_no 00081
+ke
+\tx 7@y n@mjayy@
+\mb 7@y nam -jay -wa ke
+\sg1 3E decir-APPL-COM que
+\egl 3E say -APPL-COM that good soldier 2>1 give-COM 3E
+\sg1 porque DCT1-NOM1 1E
+\egl because DCT1-NOM1 1E
+\tx yakkaw@
+bi
+\mb yak -ka7 -wa bi
+tzawi
+tzawi7
+bwen soldadu mix tziw@
+bweno soldado mix tzi7-w@
+bueno soldado 2>1 dar -COM 3E
+\zoq 7@y_n@mjayy@, "Ke bwen soldadu mix tziwa," 7@y n@mjayy@.
+\fts Le dijo, "Que buen soldado me distes, le dijo.
+\fte He said to him, "what a good soldier you gave me," he said to him.
+\com
+\idx sp
+7@n p@ktijtamm@*
+de
+metzi 7@y
+7@n p@k -tij-tam -w@ -v7k te -7 metzi 7@y
+agarrar-ir -1/2PL-COM-REL DCT2-NOM1 los_dos 3E
+get -go -1/2PL-COM-REL DCT2-NOM1 the_two 3E
+7oktzawi
+7oko
+7@y n@mjayy@
+7@y
+-tzawi7
+n@m -jay -w@
+decir-APPL-COM
+say -APPL-COM
+Page 18

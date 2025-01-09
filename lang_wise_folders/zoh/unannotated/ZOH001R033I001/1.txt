@@ -1,0 +1,88 @@
+\id C:\ZOH001R033.TXT
+\ref ZOH001R033 000
+\_no 00001
+\zoq Como se hace el petate
+\fts Como se hace el petate
+\fte How mats are made
+\com narrado por Leonora Jimenez Cruz
+\com 11/9/95, en San Miguel Chimalapa, Oaxaca, Mexico
+\com grabado por HAJ, transcrito por HAJ,
+\com traducido al espan~ol por GSM,
+\com analisado y traducido al ingles por HAJ.
+\com
+\com
+\com 7
+\com @
+\com nh
+\com tz
+\com narrated by Leonora Jimenez Cruz
+\com 11/9/95, in San Miguel Chimalapa, Oaxaca, Mexico
+\com recorded by HAJ, transcribed by HAJ,
+\com translated into Spanish by GSM,
+\com analyzed and translated into English by HAJ.
+Ortografi*a
+Orthography
+\com x
+\com j
+\com *
+28/Oct/04
+pau*sula glotal
+vocal medio central
+nasal velar
+(ng)
+africativo alveolar (ts)
+fricativo palatal (sh)
+glottal fricative (h)
+estre*s
+\ref ZOH001R033 002
+\_no 00002
+\tx da nakpa
+n
+\mb da nak -pa 7@n
+\sg1 1A irse-INC 1E
+tule-arrancar-dINC
+\egl 1A go -INC 1E tule-pull_up -dINC
+\ref ZOH001R033 003
+\_no 00003
+\zoq Da n@kpa 7@n we7ktzo7tt@.
+\fts voy a arrancar tule.
+\fte I'm going to pull up reeds.
+\com
+\idx
+ZOH001R0331001.txt
+we7ktzo7tt@
+we7k-tzo7t
+\tx
+d@ ye7tzpa
+g@
+rroyo;
+\mb da ye7tz -pa ga rroyo
+\sgl 1A 11egar-INC DEM arroyo
+\egl 1A arrive-INC DEM canyon
+\ref ZOH001R033 004
+\_no 00004
+\zoq D@ ye7tzpa_g@ rroyo.
+\fts Llego en el arroyo.
+\fte I arrive in the arroyo.
+\com
+\idx
+g@ n
+\tx kay
+\mb ka
+-y g@ 7@n
+\sg1 DCT3-TMP DEM 1E
+\eg1 DCT3-TMP DEM 1E
+-w@
+glottal stop
+mid central vowel
+velar nasal
+alveolar affricate
+palatal fricative
+stress
+tzo7tt@
+ga
+we7k;
+tzo7t -wa g@ we7k
+arrancar-COM DEM tule
+pull_up -COM DEM tule
+Page 1

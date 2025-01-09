@@ -1,0 +1,64 @@
+\lex peka.7aH
+\_no 02576
+\LG MIG
+\PSH [peeka7a-]
+\UND peka.7aH
+\MB usado, VERS1
+\VAR
+\GRAM vers1
+\SCI
+\USE
+\SPG hacerse viejo (de cosas)
+\ENG to get old (of things)
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex peka+a7k
+\_no 02577
+\LG MIG
+\PSH [peeka*7]
+\UND peka +P@7k
+\MB usado, REL
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG viejo (de cosas)
+\ENG old or used (of things)
+\SPL
+\SLGR
+\EXU yo't.e' peka+a7k
+\XPSH [yote peka*7]
+\XSP ropa vieja,
+ropa usada
+\XEN old clothes, used clothes
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 25/Jun/96
+\lex peka-tz@k [1]
+\_no 02578
+\LG MIG
+\PSH [pekatz@k-]
+\UND peka=tz@k
+\MB usado, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+ZOH004R0011001.txt
+Page 1109

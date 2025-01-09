@@ -1,0 +1,63 @@
+\RTGR IX
+\DSRC HAJ98
+\CMTS This is the only auxiliary that regularly appears both before (Aux
+Pron Verb) and after (verb Pron Aux) the main verb.
+\date
+\lex nak(-@)=t@'
+\_no 02439
+\LG MIG
+\PSH [n@@kt@-]
+\UND nak-@-t@7
+\MB irse, X, querer
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG querer ir
+\ENG to want to go
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 n@k
+\RTGR 1 IX
+\ROOT 2 t@7
+\RTGR 2 T3
+\DSRC TK94
+\CMTS
+\date 27/Jan/96
+\lex n@7kx
+\_no 02440
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+\UND n@7kx
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG esquivar estivar (piedra) (blok)
+\ENG to stack blocks or rocks
+\SPL_n@7kx.7oy
+\SLGR ANTIP
+\SLGL estivar piedra // to stack rocks
+\SPL n@7kx.7@m
+\SLGR PASS
+\SLGL estar estivado // to be stacked
+\SPL n@7kx.ney
+\SLGR ASSUM1
+\SLGL estar estivada // to be stacked
+\SPL n@7kx.ten
+\SLGR PRSV
+\SLGL tener estivada // to have stacked
+\EXU_1_tza'-n@7kx-w@
+\XPSH 1 [Tzan@7kx@.]
+\XSP 1 Estivo* piedra.
+\XEN 1 He stacked rocks.
+\EXU 2 7@n+ n@7kx-w@ 7@n+ wiki' d@k (+'ay)
+\XPSH 2 [7@n n@7kx@n wiki d@kka.]
+Page 1052

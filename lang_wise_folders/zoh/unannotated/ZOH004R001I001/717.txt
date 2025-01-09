@@ -1,0 +1,65 @@
+\XSP 2 Ya tiene fruta el camote.
+\XEN 2 Now the yams are producing.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS CK-GL - ok: fruta es fruit that grows underground
+\date 12/Jan/96
+\lex k@.jan
+\_no 01659
+\LG MIG
+\PSH [k@jan-]
+\UND k@.jan
+\MB FUERA, quemarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG 1 hacerse faltar agua
+\SPG 2 quemarse
+\ENG 1 to parch
+\ENG 2 to be burned by cold wind
+\EXU k@.jan-w@
+\XPSH [K@jann@.]
+\XSP Se quemo* una planta por falta de agua.
+\XEN The plant was parched.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT jan
+\RTGR 12
+\DSRC HAJ94
+\CMTS no caus
+\date 12/Jan/96
+-
+\lex k@.ja7p. '@y
+\_no 01660
+\EXU
+\XSP
+ZOH004R0011001.txt
+yak.k@.jan *
+\LG MIG
+\PSH [k@ja7pp@y-]
+\UND k@.ja7p.7@y
+\MB FUERA, moler, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG moler un poco dema*s
+\ENG to grind a little more, so it will make up a tortilla or whatever
+\SPL
+\SLGR
+\SEMF
+\ETYM
+\ETL
+\ROOT ja7p
+\RTGR T3
+\DSRC HAJ95
+\XEN
+\SYN 7anh.n@k.ja7p. '@y
+Page 717

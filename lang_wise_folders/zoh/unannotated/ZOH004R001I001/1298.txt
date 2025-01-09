@@ -1,0 +1,62 @@
+\SCI
+\USE
+\SPG pelarse mai*z
+\ENG for corn to be skinned
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT to7kx
+\RTGR TX
+\DSRC TK94
+\CMTS
+\date 09/Feb/96
+\lex to7kx.e7
+\_no 03014
+\LG MIG
+\PHO [to7kxe7]
+\UND to7kx.E7
+\MB dar_palmada, NOM7
+\VAR
+\GRAM pcp
+\SPG alguien que le pegaba una palmada
+\ENG someone that was slapped
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT to7kx
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex to7kx.x@y
+\_no 03015
+\LG MIG
+\PSH [to7kx@y-]
+\UND to7kx.x@y
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG aplastar
+\ENG to plop down
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT to7kx
+ZOH004R0011001.txt
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tom.e7
+Page 1298

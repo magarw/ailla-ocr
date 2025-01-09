@@ -1,0 +1,66 @@
+\mb OSM ya d@ tzi7-w@ -7am bi wayay7
+\sg1 OSM: NEG 1A dar -COM-YA
+DEF frio
+\eg1 OSM: NEG 1A give-COM-NOW DEF cold
+\zoq OSM: Ya da tziwa*m bi wayay.
+\fts OSM: Ya no me dio* el frio.
+\fte OSM: Now it didn't give me the cold.
+\com
+\idx
+\ref ZOH001R036 627
+\_no 00616
+\tx ya d@ tziwa m
+\mb ya da tzi7-w@ -7am bi
+\sg1 NEG 1A dar -COM-YA DEF
+\egl NEG 1A give-COM-NOW DEF have_fever
+\zoq Ya d@ tziwa*m bi jipx@.
+\fts ya no me dio* la calentura.
+ZOH001R0361001.txt
+bi jipx@
+jipx@
+\fte Now it didn't give me the fever.
+\com
+\idx
+\com
+\idx
+\ref ZOH001R036 628
+\_no 00617
+\tx
+tum p@7tt@
+7axta por dey
+\mb tum p@7t -w@
+7axta por te
+-Y
+\sg1 uno pasar-COM hasta por DCT2-TMP
+\eg1 one pass -COM until for DCT2-TMP
+\ref ZOH001R036 630
+\_no 00618
+\zoq Tum p@7tt@ 7axta por dey.
+\fts Paso de una vez hasta por ahorita.
+\fte It left at once up to now.
+\tx GSM: 7axta por dey
+\mb GSM
+tener_calentura
+7axta por te
+-y
+\sg1 GSM: hasta por DCT2-TMP
+\eg1 GSM: until for DCT2-TMP
+\zoq GSM: 7axta por dey.
+\fts GSM: Hasta por ahora.
+\fte GSM: Up until now.
+\com
+\idx
+\ref ZOH001R036 631
+\_no 00619
+junanh minpa
+\tx por 7ejemplo ded@ toya
+\mb por 7ejemplo te -d@ toy -A7 junanh min -pa
+\sg1 por ejemplo DCT2-DEM doler-NOM2 como venir-INC
+\egl for example DCT2-DEM hurt -NOM2 how come -INC
+\zoq Por 7ejemplo ded@ toya junanh minpa?
+\fts Por ejemplo ese enfermedad como viene?
+\fte For example that disease how does it come?
+\com
+\idx
+\ref ZOH001R036 632
+Page 134

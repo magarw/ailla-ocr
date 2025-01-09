@@ -1,0 +1,62 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yox
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex koyumi
+\_no 01498
+\LG MIG
+\PSH
+\UND koyumi
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG duen~o; patron
+\ENG master; owner; boss
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 14/Jun/95
+\lex koyum(i). 7aH
+\_no 01499
+\LG MIG
+\PSH [koyumi7a-]
+\UND koyumi. 7aH
+\MB duen~o, VERS1
+\VAR koyuum. 7aH
+\GRAM vi:vers1
+\SCI
+\USE
+\SPG hacerse duen~o; aduen-arse
+\ENG to become the boss
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex koyye7
+\_no 01500
+ZOH004R0011001.txt
+Page 651

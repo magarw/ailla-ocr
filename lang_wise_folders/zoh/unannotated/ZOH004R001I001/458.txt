@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG sacar algo con pedazo de papel
+\ENG to wipe up a bit of something with something like a piece of paper
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN 7ok. jix. '@y
+\SEMF
+\ETYM
+\ETL
+\ROOT jix
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 06/Feb/96
+\lex j@x+jo7
+\_no 01044
+\LG MIG
+\PSH [j@xjo7]
+\UND j@x+jo7
+\MB ATRAS, LOC2
+\VAR
+\USE locative
+\GRAM av
+\SCI
+\USE
+\SPG atra*s
+\ENG back; behind
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\DATE 03/Jan/1980
+\lex j@x+jo+7k yom@' 7awin
+\_no 01045
+ZOH004R0011001.txt
+\LG MIG
+\PSH [j@xjo7k yom@ 7awin]
+\UND jax +jo7 +P@7k yom@7 7awin
+\MB ATRAS, LOC2, REL, hembra, hermano/a
+\VAR
+\GRAM smsms
+\SCI
+\USE
+\SPG hermana menor
+\ENG younger sister
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+Page 458

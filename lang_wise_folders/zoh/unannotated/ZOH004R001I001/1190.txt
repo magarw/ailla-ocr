@@ -1,0 +1,65 @@
+\ETL
+\ROOT po7
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex po'.7a=t@k
+\_no 02765
+\LG MIG
+\PSH [po7at@k]
+\UND po7.7a=t@k
+\MB nacer, X, casa
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG primo; sobrino
+\ENG cousin (male); nephew
+\EXU yom(a) po7at@k
+\XPSH [yoom po7at@k]
+\XSP prima
+\XEN female cousin
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT po
+\RTGR 12
+\DSRC HAJ94
+\CMTS CK-PH ok
+\CMTS HAJ:96
+\date 19/Jun/96
+—
+\lex po't.e7
+\_no 02766
+\LG MIG
+\PSH [pote7]
+\UND po7t.E7
+\MB moler, NOM7
+\VAR
+\GRAM
+\ETL
+\ROOT po7t
+\RTGR T3
+\SCI
+\USE
+\SPG mai*z pinole
+\ENG corn that has been toasted and ground
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN mok-po't.e7
+\SEMF
+\ETYM
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+ZOH004R0011001.txt
+the glottal stop is there; CK-PH of EX
+yo:m po7at@k is good, he wouldn't say yoma po7at@k
+\lex poolbora
+\_no 02767
+Page 1190

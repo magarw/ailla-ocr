@@ -1,0 +1,60 @@
+\SPG oler; olfatear; hueler algo; besar
+\ENG to smell; to kiss
+\EX ney xu7kxuk@pa
+\XSP se esta*n besando
+\XEN they're kissing each other
+\ROOT xu7k T3
+\SEMF percep
+\ANTI xu7k.oy
+\CMTS
+\lex xut
+\_no 00176
+\SPG agujerar; hacer hueco
+\ENG to pierce; to make a hole
+\EX
+\XSP
+\XEN
+\ROOT xut T3
+\SEMF create, cut
+\PASS xut.7@m
+\ANTI xut.7oy
+\CMTS
+\lex x@m
+\_no 00177
+\SPG (sonido) golpear (en la cabeza)
+\ENG to make (the sound of a) blow (on the head)
+\EX 7@y_x@mm@ 7@y kopak
+\XSP golpio* su cabeza
+\XEN she hit her head
+\ROOT x@m T3
+\SEMF sound, hit
+\PASS x@m.7@m ya esta* golpeado
+\ANTI x@m. 7oy golpear
+\CMTS
+\lex yem
+\_no 00178
+\SPG soplar con soplador
+\ENG to blow with a bellows
+\EX yemm@ jukut@k yemkuyj@nanh
+\XSP soplo* la lumbre con el soplador
+\XEN he blew on the fire with a bellows
+\ROOT yem T3
+\SEMF fire, move
+\PASS yem.7@m soplarse
+\ANTI yem. 7oy soplar
+\PRSV yem=ten lo tiene soplandolo
+\CMTS
+\lex yen
+\_no 00179
+\SPG lamer; lambear
+\ENG to lick; to lap
+\EX
+ZOH001R0611009.txt
+\XSP
+\XEN
+\ROOT yen T3
+\SEMF eat, animal
+\PASS NONE yen.7@m*
+\ANTI yen.7oy
+\CMTS
+Page 42

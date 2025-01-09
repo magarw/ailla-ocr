@@ -1,0 +1,63 @@
+\MB
+\VAR
+\GRAM VİR
+\SCI
+\USE
+\SPG (animal amarrado) jalonea*ndose; (doler) punzando
+\ENG (for a tied-up animal) to jerk itself around; (for a wound) to throb
+\EXU 7@y+ pak. '@y-w@ 7@y+ manh.kuy' toy-pa jup. 'oy-pa
+\XPSH_ [7@y pakk@yy@y manhkuy, toypa juppoba.]
+\XSP Se trompezo* su pie, le duele punzando.
+\XEN He stubbed his foot, it hurt throbbingly.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jup
+\RTGR P, (T3)
+\DSRC TK94
+\CMTS no ma*s que juppoba can't think of a gloss for jup.jup.ney-pa
+\date 24/Jun/96
+\lex jup-kim
+\_no 00932
+\LG MIG
+\PSH [jupkim-]
+\UND jup=kim
+\MB jalar, subir
+\VAR
+\GRAM vt+dir
+\SCI
+\USE
+\SPG subir para arriba jalandolo
+\ENG to haul something up by pulling on it
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT 1 jup
+\RTGR 1 P, (T3)
+\ROOT 2 kim
+\RTGR 2 T1
+\DSRC TK94
+\CMTS
+\date 14/Jun/95
+\lex jup-ko.tzik
+\_no 00933
+\LG MIG
+\PSH [jupkotzik-]
+\UND jup-ko.tzik
+\MB jalar, OTRO, pelar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pelar al jalarlo
+\ENG to pull the skin off something
+\EXU
+\XSP
+\XEN
+Page 407

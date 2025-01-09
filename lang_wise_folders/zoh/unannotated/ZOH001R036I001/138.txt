@@ -1,0 +1,79 @@
+\eg1 OSM: DCT2-DEM hurt -NOM2
+\zoq OSM: Ded@ toya.
+\fts OSM: Esa enfermedad.
+\fte OSM: That disease.
+\com
+\idx
+\ref ZOH001R036 646
+\_no 00634
+bese ney paktoya
+beses ney
+pak -toy -A
+\tx GSM: por 7ejemplo 7a
+\mb GSM por 7ejemplo 7ay
+\sg1 GSM: por ejemplo hay
+veces mismo hueso-doler-NOM2
+\eg1 GSM: for example there are times self bone -hurt -NOM2
+\tx yaknukkoba
+\mb
+yak -nuk
+\sg1
+CAUS-agarrar-ANTIP-INC hermano/a NPL
+\eg1 CAUS-grab -ANTIP-INC sibling NPL
+ZOH001R0361001.txt
+7awin
+-7oy -pa 7awin7
+\ref ZOH001R036 647
+\_no 00635
+\zoq GSM: Por 7ejemplo, 7a bese_ney paktoya yaknukkoba 7awind@kka.
+\fts GSM: Por ejemplo, a veces le agarra dolor de hueso los compan~ero.
+\fte GSM: For example, sometimes some bone disease catches the fellows.
+\com
+\idx
+\tx ti tzoy 7@m tz@kjaba
+\mb ti
+\sgl que
+\egl what jump 2E do -APPL-INC
+\zoq Ti tzoy 7@m tz@kjaba?
+\fts Que remedio le haces?
+\fte what medicine do you make?
+\com
+\idx
+7@m tz@k -jay -pa
+saltar 2E hacer-APPL-INC
+tzoy
+\com
+\idx
+d@kka
+d@kkay
+\ref ZOH001R036 648
+\_no 00636
+\tx junanhja*7__7@m prepartz@kpa
+\mb junanh-jaa7 7@m preparar-tz@k -pa
+\sg1 como -NPL2 2E preparar-hacer-INC 2E
+\egl how -NPL2 2E
+prepare -do -INC 2E
+\ref ZOH001R036 649
+\_no 00637
+\tx OSM: 7a de
+\tx p@7tpa
+\mb p@7t -pa
+gad@ pak toe7
+ka -da pak toy -E7
+\sg1 pasar-INC DCT3-DEM hueso doler-NOM3
+\egl pass -INC DCT3-DEM bone hurt -NOM3
+\zoq_Junanhja*7 7@m prepartz@kpam tzoy param tzipa para p@7tpa gad@ pak
+toe7?
+\fts Que modo preparas tu remedio para que le des para que pase ese dolor de
+hueso?
+tzipa
+para
+para 7@m tzi7-pa para
+saltar para 2E dar -INC para
+jump for 2E give-INC for
+\fte How all do you prepare your medicine so you can give them so that bone
+disease passes?
+pak toe7
+m tzoy para m
+7@m tzoy
+Page 138

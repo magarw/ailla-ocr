@@ -1,0 +1,62 @@
+\lex tatz@k
+\_no 02953
+\LG MIG
+\PSH
+\UND tatz@k
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG oreja
+\ENG ear
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex tawrette7
+\_no 02954
+\LG MIG
+\PSH
+\UND tawrette7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG silla
+\ENG seat
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL Sp < taburete
+\ROOT
+\DSRC TK94
+\CMTS
+\date 03/Apr/95
+\lex tax
+\_no 02955
+\LG MIG
+\PSH
+\UND tax
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG 11enarse
+\ENG to fill
+\SPL yak.tax
+\SLGR CAUS
+ZOH004R0011001.txt
+Page 1271

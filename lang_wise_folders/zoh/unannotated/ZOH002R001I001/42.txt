@@ -1,0 +1,22 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+RRG employs the useful notion of semantic macroroles for the description
+of the argument structure of verbs (Dowty, 1979; Van Valin and LaPolla,
+1997:141 ff). Cross-linguistically, subjects of verbs tend to be selected from a
+restricted set of possible semantic roles: agent, experiencer, instrument,
+recipient, source, and force. Objects are similarly restricted to a small set of
+roles: patient, theme, recipient, source and location. These sets can be
+generalized under the headings actor and undergoer, respectively, greatly
+simplifying discussions of sets of predicates with essentially similar argument
+structures, but slight differences in the precise role played by the most
+prominent arguments2. In MIG Zoque, the sets are actually more restricted,
+since only animate or quasi-animate entities (like the wind) can be actors.
+English sentences with non-animate actors, such as 'the rock hit the wall' or
+'the knife cut the bread' would have to be paraphrased along the lines of
+'(someone) threw the rock at the wall' or 'the bread was cut with a knife'3. This
+restriction is similar to that described for Jacaltec Mayan by Craig (1977).
+2 There appears to be a sort of thematic hierarchy operating in MIG Zoque, in that the texts
+show a strong preference for volitional (human) entities as subjects, either as actors or agents,
+and for inanimate entities as patients. I did not study this systematically, and so have none of
+the negative evidence that is necessary to fully demonstrate the idea.
+3 Expressions of this kind are acceptable in MAR Zoque (Kaufman, p.c.).
+18

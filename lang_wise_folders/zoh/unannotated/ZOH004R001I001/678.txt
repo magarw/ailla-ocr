@@ -1,0 +1,62 @@
+\ROOT kunh
+\RTGR P, (T3)
+\DSRC TK94
+\CMTS
+\date 11/Jan/96
+\lex kunh.x@y=tzak
+\_no 01561
+\LG MIG
+\PSH [kunhnh@ytzak-]
+\UND kunh.x@y=tzak
+\MB colgar, X, dejar (x = DEPOS or SUF)
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG dejar colgado en un clavo
+\ENG to leave something hanging on a nail
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 kunh
+\RTGR 1 P, (T3)
+\ROOT 2 tzak
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS
+\date 11/Jan/96
+\lex kupi7
+\_no 01562
+\LG MIG
+\PSH
+\UND kupi7
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG flojo; perezoso; haraga*n
+\ENG lazy; a lazy person; a bum
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS get deriv's
+\date 27/Mar/95
+ZOH004R0011001.txt
+\lex kupi'.7aH
+\_no 01563
+\LG MIG
+\PSH [kupi7a-]
+Page 678

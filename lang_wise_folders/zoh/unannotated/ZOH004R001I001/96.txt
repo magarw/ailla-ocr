@@ -1,0 +1,63 @@
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS 7atzi+i7k //7atzi+P@7k// mayor para uno; hermano mayor//older brother;
+ti*o
+\CMTS 7aatz pan //7atz(i) p@n// [sms] ti*o grande
+\date 09/Jan/96
+\lex 7atz(i) p@n
+\_no 00225
+\LG MIG
+\PSH [7atzi p@n]
+\UND 7atzi p@n
+\MB ti*o, hombre
+\VAR 7aatz p@n
+\GRAM
+\SCI
+\USE
+\SPG ti*o grande
+ENG old uncle
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 09/Jan/96
+\lex 7a7tz
+\_no 00226
+\LG MIG
+\PSH
+\UND 7a7tz
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG 1 arder (fuego, cuerpo)
+\SPG 2 arder esto*mago
+\SPG 3 estar caliente (comal)
+\SPG 4 estar fuerte (sol)
+\ENG 1 to burn (fire, body)
+\ENG 2 for the stomach to burn
+\ENG 3 to be hot (comal)
+\ENG 4 to be hot (the sun)
+\EXU 1 7a7tz-pa 7@n+ tzokoy
+\XPSH 1 [7a7tzpan tzokoy.]
+\XSP 1 Ardio* mi esto*mago (como si tiene agrura).
+\XEN 1 My stomach burns (it's sour).
+\EXU 2 7a7tz-w@ 7eken
+\XPSH 2 [7a7tztz@ 7eken.]
+\XSP 2 Estuvo caliente el comal.
+\XEN 2 The griddle was hot.
+\EXU 3 7a7tz.7oy-pa
+\XPSH 3 [7a7tztzoba.]
+\XSP 3 Le arde.
+\XEN 3 It burns her.
+\EXU 4 d@ 7a7tz-pa 7@n+ tzanh.kuy7
+\XPSH 4 [D@ 7a7tzpan tzanhkuy7.]
+\XSP 4 Arde mi mano.
+Page 96

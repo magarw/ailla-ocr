@@ -1,0 +1,64 @@
+VAR [jopoe*7]
+\GRAM SV
+\SCI
+\USE
+\SPG incendio; una cosa que ya esta* quemado
+\ENG fire; something that's burning
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ponh
+\RTGR T3
+\DSRC HAJ94
+\CMTS cf jo.k@nh-pa; now he doesn't like this one (twice he doesn't like it)
+\CMTS ok
+HAJ: 96
+\CMTS that final /e/ is laryngealized; it's /jopoe7/ TK
+\date 24/Jun/96
+\lex jo.ponh
+\_no 00880
+\LG MIG
+\PSH [joponh-]
+\UND jo.ponh
+\MB EN, quemar
+\VAR
+\GRAM dir+vt
+\SCI
+\USE
+\SPG requemar (cuando pasa la lumbre en el cerro)
+\ENG to burn again (when fire runs over the hillside)
+\EXU k@pi-jo.ponh. E
+\XPSH [k@pi jopoe]
+\XSP len~a rajada
+\XEN strips of firewood
+\SYN
+\SPL
+\SLGR
+\SEMF
+\ETYM
+\ETL
+\ROOT ponh
+\RTGR T3
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS
+\date 25/Jun/96
+\lex jopx
+\_no 00881
+\LG MIG
+\PSH
+\UND jopx
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tomar a boca de plato
+\ENG to drink from the plate
+\SPL jopx.7oy
+\SLGR ANTIP
+Page 383

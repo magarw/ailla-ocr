@@ -1,0 +1,64 @@
+\SPG
+\ENG
+\EX
+\XSP
+\XEN
+\SYN
+\SEMF arrange
+\ASP
+\ARG
+\NOM
+\SUB jup=xakx, xakx=witu', xakx.na7
+\ROOT xakx
+*
+\RTGR P
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex {%xuy}
+\_no 04576
+\LG MIG
+\PHO
+\UND
+\MB
+\VAR
+\GRAM
+\SPG cobijar
+\ENG to cover with a blanket
+\EX
+\XSP
+\XEN
+\SYN
+\SEMF arrange
+\ASP achievement
+\ARG
+\NOM 7anh.xuy7, ni.xuy7
+\SUB ni.xuy, xuy.ten
+\ROOT * xuy
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex {.A}
+\_no 04577
+\LG MIG
+\PSH [.a]; [.@]
+\UND A
+\MB NOM2
+ZOH004R0011001.txt
+\VAR
+\USE verbal suffix that produces a noun or an adjective
+\GRAM suf
+\SPG
+\ENG
+\SPL
+\SLGR
+EXU 1 ya 7otonh.A
+\XPSH 1 [ya 7otowa]
+\XSP 1 mudo
+\XEN 1 mute
+\EXU 2 ja'tz.@
+\XPSH 2 [jatz@]
+\XSP 2 fiado
+\XEN 2 debt
+\SYN
+Page 1965

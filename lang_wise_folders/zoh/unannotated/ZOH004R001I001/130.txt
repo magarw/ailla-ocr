@@ -1,0 +1,63 @@
+\EXU 1 7oj.a7 !
+\XPSH 1 [7oja7 !]
+\XSP 1 !Tosea!
+\XEN 1 Cough!
+\EXU 2 jakke 7oj-w@ bi toy.A7
+\XPSH 2 [Jakke 7ojja bi toya*7.]
+\XSP 2 Toseo* mucho el enfermo.
+\XEN 2 The sick person coughed a lot.
+VEXU 3 7@n+ yak.'oj-mux-pa
+\XPSH 3 [7@n yakkojmuxpa.]
+\XSP 3 Lo voy a hacer que tosea a fuerza.
+\XEN 3 I'm going to force someone to cough.
+\SYN
+\SEMF body
+\ASP semelfactive
+\ARG
+\NOM 7oj.a7, 7oj.e7
+\SUB 7ok. 'oj. '@y, jax-'oj, ko.7oj, k@.7oj. '@y, nik. 'oj. '@y, yuk. 'oj
+\ETYM
+\ETL
+\ROOT 70j
+\RTGR 11
+\SPL yak. 7oj
+\SLGR CAUS
+\SLGL hacer toser // to make cough
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex 7oj.7oj.ney
+\_no 00301
+\LG MIG
+\PSH [70j7ojney-]
+\UND 7oj.7oj.ney
+\MB
+\VAR
+\GRAM VIR
+\SCI
+\USE
+\SPG sonido de marrano
+\ENG the sound a pig makes
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 15/Oct/94
+ZOH004R0011001.txt
+\lex 7ojaseenh
+\_no 00302
+\LG MIG
+\PSH
+\UND 7ojaseenh
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+Page 130

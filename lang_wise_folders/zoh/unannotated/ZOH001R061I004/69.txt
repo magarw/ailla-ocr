@@ -1,0 +1,65 @@
+\lex k@'t.i7
+\_no 00167
+\LG MIG
+\PSH [k@ti7]
+\UND k@7t.E7
+\MB moler, NOM7
+\VAR
+GRAM pcp
+\SCI
+\USE
+\SPG molido
+\ENG ground
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT k@7t
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex mal-toy.a7
+\_no 00168
+\LG MIG
+\PSH [maltoya7]
+\UND mal-toy.A7
+\MB malo, doler, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG enfermedad muy mala
+\ENG a very severe illness
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM mala
+\ETL sp
+\ROOT toy
+\RTGR 12
+\DSRC HAJ94
+\CMTS CK-PH
+\date 25/Jun/96
+-
+ok/OK: TK
+\lex manh.kuy' we'ch.i7
+\_no 00169
+ZOH001R0611004.txt
+\LG MIG
+\PSH [manhkuy_wechi7]
+\UND manh.kuy7 we7ch. E7
+\MB *pisar, INSTR1, encorvar, NOM7
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG una enfermedad de pierna: no camina bien
+\ENG a sickness of the leg that causes you to not walk well
+\EXU
+Page 69

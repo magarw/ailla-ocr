@@ -1,0 +1,82 @@
+\sg1 DCT2-SIM cosa comer-NOM3-INSTR1
+\eg1 DCT2-SIM thing eat -NOM3-INSTR1
+\zoq De7xe kosa k@xikuy7.
+\fts Asi* cosa de comer.
+\fte Like that, things to eat.
+\com
+\idx
+\ref ZOH001R048 019
+\_no 00020
+bin
+ma7@ban
+\tx kosa de para n
+de 7
+\mb kosa de para 7@n te -7 bi -7@n ma7
+\sgl cosa de para 1E DCT2-NOM1 DEF-1E
+\egl thing of for 1E DCT2-NOM1 DEF-1E
+\zoq Kosa de paran de7 bin ma77@ban witt@.
+\fts Cosa que si* es lo que ando vendiendo.
+\ref ZOH001R048 020
+\_no 00021
+\fte Things so that I can go around selling them.
+\com
+\idx
+\tx 7i kwandu da n@kpa
+\mb 7i kwandu d@ n@k -pa
+\sg] y
+\egl and when 1A go
+yaja
+sityu 7@n p@n@kpa
+m@n.
+ya
+ya -jaz sityu 7@n p@7 -n@k -pa m@n
+cuando 1A irse-INC DCT1-LOC1 sitio 1E poner-irse-INC camote
+-INC DCT1-LOC1 sitio 1E
+put -go -INC yam
+\ref ZOH001R048 021
+\_no 00022
+\tx
+\mb
+\zoq 7i kwandu d@ n@kpa y@j@7 sityu 7@n p@n@kpa m@n.
+\fts Y cuando voy aqui en Cuauhtemoc 11evo camote.
+\fte And when I go here to Sitio I bring yams.
+\com
+\idx
+7@n_p@n@kpa
+7@n p@7 -n@k -pa
+\sgl 1E
+poner-irse-INC pla*tano
+\egl 1E put -go -INC banana
+ZOH001R0481001.txt
+\zoq 7@n p@n@kpa seda k@wi7.
+\fts Llevo platanito maduro.
+\fte I bring ripe bananas.
+\com
+\idx
+\ref ZOH001R048 022
+\_no 00023
+\tx 7@n p@n@kpa
+7api7.
+\mb 7@n p@7 -n@k -pa 7api7
+\sgl 1E poner-irse-INC chayote
+\egl 1E put -go -INC chayote
+\zoq 7@n p@n@kpa 7api7.
+\fts Lleva chayote.
+seda
+seda
+\fte I bring chayote.
+\com
+\idx
+\ref ZOH001R048 023
+\_no 00024
+witt@.
+-7@y -pa -7@n wit -w@
+venta-VERS2-INC-1E andar-dINC
+sale -VERS2-INC-1E walk -dINC
+k@wi7.
+k@nh
+mature
+-E7
+madurarse-NOM3
+-NOM3
+Page 5

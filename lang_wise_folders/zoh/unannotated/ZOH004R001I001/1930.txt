@@ -1,0 +1,64 @@
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {.p@'}
+\_no 04494
+\LG MIG
+\PSH
+\UND p@7
+\MB CEL
+\VAR pak.p@'
+\GRAM suf
+\SCI
+\USE morphosyntactic verbal suffix: celerative
+\SPG enteramente; de una vez;
+\ENG entirely, all at once, quickly
+\SPL
+ra*pidamente
+\SLGR
+\EXU 7@y+ yuk.tz@m.p@' -wa
+\XPSH [7@y yuktz@mp@w@.]
+\XSP Lo cargo* ra*pidamente.
+\XEN He loaded it up quickly.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\lex {-tam}
+\_no_04495
+LG MIG
+ZOH004R0011001.txt
+\PSH
+\UND tam
+\MB 1/2PL
+\VAR
+\USE plural marker for first and second person subjects or objects
+\GRAM suf
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU 1 mix +7@n tzi-tam-w@ mok
+\XPSH 1 [Mixx@n tzidamm@ mok.]
+\XSP 1 Te dimos mai*z.
+\XEN 1 We gave you some corn.
+\EXU 2 mix+ tzi-tam-w@ mok
+\XPSH 2 [Mix tzidamm@ mok.]
+\XSP 2 Nos diste mai*z.
+\XEN 2 You gave us some corn.
+\EXU 3 mi+ tzi-tam-w@ benigno toto' d@k+7a(y)
+\XPSH 3 [Mi tzidamm@ Benigno toto d@kka.]
+\XSP 3 Benigno les dio* papeles a Uds.
+\XEN 3 Benigno gave you all some papers.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+Page 1930

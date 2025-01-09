@@ -1,0 +1,63 @@
+\MB agarrar, bajarse
+\VAR
+\GRAM vt
+\SPG bajar
+\ENG to lower; to take down
+\EXU
+\XPSH
+\XSP
+\XEN
+\SYN
+\SEMF
+\ROOT 1 p@k
+\RTGR 1 T3
+\ROOT 2 wanak
+\RTGR 2 11
+\DSRC HAJ97
+\CMTS
+\date
+\lex p@k=wit
+\_no 02835
+\LG MIG
+\PSH [p@kwit-]
+\UND p@k=wit
+\MB agarrar, andar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG andar; (usar ??)
+\ENG to walk; (to use ??)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 p@k
+\RTGR 1 T3
+\ROOT 2 wit
+\RTGR 2 11
+\DSRC HAJ94
+\CMTS
+\date 15/Jun/95
+\lex p@k=yoj
+\_no 02836
+\LG MIG
+\PSH [p@kyoj-]
+\UND p@k=yoj
+\MB pluma, cambiar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG mudar de pluma
+\ENG to moult
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ZOH004R0011001.txt
+Page 1221

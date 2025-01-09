@@ -1,0 +1,64 @@
+\CLZ
+\CMTS
+\lex mum
+\_no 00172
+\SPG arrugarse; enjutarse - flor
+\ENG to wrinkle; to wilt - of flowers
+\SEMF body
+\ASP
+\ARG
+\NOM
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex mut
+\_no 00173
+\SPG 1 salir agua de la tierra donde nace
+\SPG 2 orinarse/chorrearse porque no puedes alcanzar el ban~o
+\ENG 1 for a spring to come out of the ground
+\ENG 2 to piss yourself because you can't make it to the bathroom
+\SEMF body, water
+\ASP activity
+\ARG
+\NOM
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex mux [1]
+\_no 00174
+\SPG saber
+\ENG to know
+\SEMF cognitive
+\ASP state
+\ARG
+\NOM mux.i7, mux.kuy7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex muy [1]
+\_no 00175
+\SPG doblar(se)
+\ENG to dent
+\SEMF arrange
+\ASP achievement
+\ARG
+ZOH001R0611002.txt
+\NOM mu.17
+\NOM
+naanh, * kuy7
+\RTGR T2
+\POS da muyjayy@n n@jupkuy7
+\MID
+\UNDO 7@n yakmuypuw@
+se me apachuro* mi cubeta
+(con martillo)
+Page 43

@@ -1,0 +1,77 @@
+\_no 00830
+70 m
+\tx
+ney mix 7@m tz@kpa
+tzoy 7@m juypa
+\mb ney
+mix 7@m tz@k -pa
+70 7@m tzoy 7@m juy
+\sgl mismo 2Prn 2E hacer-INC O 2E saltar 2E
+\egl self 2Prn 2E do -INC or 2E jump 2E buy
+\ref ZOH001R036 847
+\_no 00831
+\tx
+junanhja*7
+\mb junanh-jaa7
+\sg1 como -NPL2
+\egl how -NPL2
+\zoq Ney mix 7@m tz@kpa
+7om tzoy 7@m juypa?
+\fts Tu mismo haces tu remedio o lo compras?
+\fte Do you make it yourself or do you buy your medicine?
+\com
+\idx
+\zoq Junanhja* 7?
+\fts Que modo?
+\fte How all?
+\com
+\idx
+\ref ZOH001R036 848
+\_no 00832
+\tx ti
+7ay 7@m
+\mb ti
+7ay7 7@m
+\sg1 que
+hoja 2E
+\egl what leaf 2E
+\zoq Ti 7ay 7@m...?
+\fts Que hoja...
+\fte what leaf do you...?
+\com
+\idx
+\ref ZOH001R036 849
+\_no 00833
+7ay
+\tx
+OSM: pwes gag@
+\mb OSM pwes ka -g@ 7ay7
+\sg1 OSM: pues DCT3-DEM hoja
+\egl OSM: well DCT3-DEM leaf
+\zoq OSM: Pwes, gag@ 7ay
+\fts OSM: Pues, esa hoja
+\fte OSM: Well, that leaf
+\com
+\idx
+\ref ZOH001R036 850
+\_no 00834
+\tx
+ZOH001R0361001.txt
+7@n 7@n ded@
+\mb 7@n 7@n
+\sgl 1E 1E
+\egl 1E 1E
+7ay 7@n tz@kjaypa
+pa m
+-d@ 7ay7 7@n tz@k -jay -pa para 7@m
+te
+DCT2-DEM hoja 1E hacer-APPL-INC para 2E
+DCT2-DEM leaf 1E do -APPL-INC for 2E
+\tx matztzokuy7
+\mb__matz -7oy -kuy7
+\sg1 sobar-ANTIP-INSTR1
+\egl rub -ANTIP-INSTR1
+-pa
+comprar-INC
+- INC
+Page 180

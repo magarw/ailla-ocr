@@ -1,0 +1,63 @@
+\lex t@m [1]
+\_no 03159
+\LG MIG
+\PSH
+\UND t@m
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG fruta
+\ENG fruit
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jun/96
+\lex t@m [2]
+\_no 03160
+LG MIG
+\PSH
+\UND t@m
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG levantar la cabeza la verga (el "amigo")
+\ENG for a stiff dick to be standing up
+\SPL kopak-t@m (vi)
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 26/Jun/96
+\lex t@m. 7aH
+\_no 03161
+\LG MIG
+\PSH [t@mma-]
+\UND t@m. 7aH
+\MB fruta, VERS1
+\VAR
+\GRAM vi: versl
+\SCI
+\USE
+\SPG dar fruta
+ZOH004R0011001.txt
+\ENG to produce fruit
+\EXU jakke t@m
+Page 1359

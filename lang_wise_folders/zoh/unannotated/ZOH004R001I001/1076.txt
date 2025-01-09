@@ -1,0 +1,64 @@
+\GRAM s+loc
+\SCI
+\USE
+\SPG en el ri*o
+\ENG in the river
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 27/Jan/96
+\lex pajak+jo+7k mo7kxi7
+\_no 02498
+\LG MIG
+\PSH [pajakkjo7k mo7kxi7]
+\UND pajak+jo+7k mo7kxi7
+\MB ri*o, LOC2, REL, camaro*n
+\VAR pajak mo7kxi7
+\GRAM
+\SCI
+\USE
+\SPG camaro*n del ri*o
+\ENG river shrimp
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 08/Feb/96
+\lex paja7k
+\_no 02499
+\LG MIG
+\PSH
+\UND paja7k
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG dulce
+\ENG sweet
+\EXU
+\XSP
+\XEN
+\SYN
+LF:mo7kxi7
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT
+\DSRC HAJ94
+\CMTS all other lgs point to *pa7ak. Maybe PM-S *pa7ajk
+Page 1076

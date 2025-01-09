@@ -1,0 +1,62 @@
+\ROOT jom
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+\lex win+jonanh
+\_no 03685
+\LG MIG
+\PSH [winjonanh]
+\UND win +jonanh
+\MB CARA, DIR3
+\VAR
+\GRAM av
+\SCI
+\USE
+\SPG adelante; por adelante
+\ENG front; in front
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Feb/96
+\lex win=jonh
+\_no 03686
+\LG MIG
+\PSH [winjonh-]
+\UND win-jonh
+\MB CARA, atarantarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG estar medio atarantadito
+\ENG to be a little dizzy
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN 7ichinh jonh-w@
+\SYN ni. jonh
+\SEMF
+\ETYM
+\ETL
+\ROOT jonh
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex win+jo.onh
+\_no 03687
+\LG MIG
+\PSH [winjo nh]
+\UND win+jo.onh
+ZOH004R0011001.txt
+Page 1584

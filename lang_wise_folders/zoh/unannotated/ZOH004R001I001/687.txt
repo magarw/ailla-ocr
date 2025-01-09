@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT kax
+\RTGR P
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/96
+\lex kuy 7anh.nakx
+\_no 01583
+\LG MIG
+\PSH [kuy 7anhnakx]
+\UND kuy 7anh.nakx.0
+\MB palo, BOCA, pegar, NOM6
+\VAR
+\GRAM s(m) ss
+\SCI
+\USE
+\SPG solera, palo o madera para prensar en el techo
+\ENG a piece of wood for holding the roof down
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nakx
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex kuy 7ukum puj
+\_no 01584
+\LG MIG
+\PSH
+\UND kuy 7ukum puj
+\MB palo, calabaza, semilla
+\VAR
+\GRAM s (m) sms
+\SCI
+\USE
+\SPG pin-on
+\ENG pine nut
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 20/Jun/95
+\lex kuy 7u7px kajanh
+\_no 01585
+\LG MIG
+ZOH004R0011001.txt
+\PSH
+\UND kuy 7u7px kajanh
+\MB
+Page 687

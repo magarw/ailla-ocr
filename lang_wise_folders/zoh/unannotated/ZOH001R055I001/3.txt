@@ -1,0 +1,87 @@
+\zoq "Bweno, 7entonse, n@kpa ga7xe Maryo Lopes7anhj@ 7@n tzakk@mm@,
+\fts "Bueno, entonces,
+\fte "All right, then,
+voy ontal Mario Lopez para quedarme,
+I'll go to Mario Lopez to stay,
+\com
+\idx aux_p1
+\ref ZOH001R055 008
+\_no 00009
+\tx 7i yey
+n
+7ixx@
+\mb 7i
+tzujiam minpa
+ya -y
+tzuji7-7am min -pa 7@n 7ix-w@
+\sg] y
+DCT1-TMP noche -YA venir-INC 1E
+\egl and DCT1-TMP night -NOW come -INC 1E
+ver-COM
+see-COM
+\zoq 7i yey tzujiam minpan 7ixx@."
+\fts y ahora en la tarde lo vengo a ver.
+\fte and now in the afternoon I'll come back to see him."
+\com
+\idx aux_p1
+\ref ZOH001R055 009
+\_no 00010
+\tx
+7entons n@mm@
+bi jerma*n 7@y m@7
+\mb
+jerma*n 7@y m@7
+\sg1 entonces decir-COM DEF Germa*n 3E
+\egl then
+7entonses n@m -w@ bi
+\ref ZOH001R055 010
+\_no 00011
+n@kk@
+-7@m n@k -w@
+esposa NEGimpv-2A irse-COM
+say -COM DEF Germa*n 3E wife NEGimpv-2A go -COM
+ZOH001R0551001.txt
+n@kk@.
+\zoq 7entons n@mm@ bi Jerma*n 7@y m@7, "7um
+\fts Entonces dijo la mujer de Germa*n, "No vaigas.
+\fte Then German's wife said, "Don't go.
+\com
+\idx poss
+\zoq Yey ga minpa*m.
+\fts Ahorita ya viene.
+\tx yey
+ga
+\mb y@ -y ka -7
+\sg1 DCT1-TMP DCT3-NOM1
+\eg1 DCT1-TMP DCT3-NOM1 come -INC-NOW
+\ref ZOH001R055 011
+\_no 00012
+minpa*m
+min
+\fte He'll be right here.
+\com
+\idx
+\fte Rest right here.'
+\com
+\idx
+-pa -7am
+venir-INC-YA
+\tx ney y@ji
+7okjeja
+\mb ney ya -ji7
+7ok -jej -A7
+\sgl mismo DCT1-LOC1 ABAJO-vivir-IMPV
+\egl self DCT1-LOC1 DOWN -live -IMPV
+\zoq Ney yaji 7okjeja."
+\fts Aqui mismo descansa."
+\ref ZOH001R055 012
+\_no 00013
+\tx bweno n@mm@
+\mb
+bweno n@m
+-wa
+\sg1 bueno decir-COM
+"I
+7um
+7u
+Page 3

@@ -1,0 +1,45 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(11.20)
+(i)
+(ii)
+(iii)
+la 'ora ke tayna nøkkø 'øy nipenwakkø 'øy machete
+la ora ke tay.na nək-wə
+əy+ ni.pen=wak-wǝ
+?ǝy+ mačete
+the hour that X.STAT go-COM 3E PURP.grasp=*empty-COM 3E+ machete
+'When he went over on his back, he pulled out his machete.'
+(ZOH001 R018- 076)
+'øn ja:mtzøktampa kwando dø 'oktzamjadammø
+?ən+ hamV=cək-tam-pa
+kwando dǝ+ ?ok.cam.hay-tam-we
+1E+ *mind=do-1/2PL-INC when 1 A+ DOWN.talk.APPL-1/2PL-COM
+'We remember when he told us a tale.'
+(ZOH001R018-022)
+yakki ya pøtø myentras ke døš do teji'awo
+yakki
+ya 0 pəlt-A
+no_one NEG 3A pass-nINC while
+'Nobody passes while I am here."
+myentras ke dəš də+ tehi.?a-wǝ
+(11.21)
+(i)
+that 1 Prn 1A+ there_is.VERS1-COM
+(ZOH001R018-022)
+The Spanish word hora, 'hour', has also been borrowed as a MIG Zoque
+subordinator. It appears immediately after the verb complex, syntactically
+parallel to the relative and locative clitic subordinators. This one isn't a clitic,
+since if it were the initial syllable would contract with the final syllable of the
+preceding word. I believe this is the only case in MIG Zoque of a borrowed
+Spanish function word being used in accordance with the Zoque syntax, rather
+than importing the Spanish syntax along with the word 2.
+?ora ?ǝy+ ci?-wə
+naxey yaknikpoyyoba 'ora 'øy tziwø 'axta gajáng
+naše ?əy+yak.nik.poy.?oy-pa
+Pašta gahaan
+truth 3E+ CAUS.SURF.flee.ANTIP-INC hour 3E+ give-COM until DCT3.DIR1
+'In fact when he jumped on top of him he knocked him over there.'
+(ZOH001R018-333-4)
+2 Terrence Kaufman points out that the Zapotec of Juchitán also uses hora in this way, but it is
+a right-branching construction in that language.
+285

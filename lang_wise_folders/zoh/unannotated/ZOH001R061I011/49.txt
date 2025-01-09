@@ -1,0 +1,60 @@
+\lex t@7k
+\_no 00248
+\SPG hipar
+\ENG to hiccouph
+\EX t@7kk@
+\XSP tuvo hipo
+\XEN she had the hiccouphs
+\ROOT t@7k I1, IX
+\CMTS no caus; get deriv's
+\lex t@n
+\_no 00249
+\SPG echar goma
+ENG to emit gum
+\EX
+\XSP
+\XEN
+\ROOT t@n Ix
+\CMTS cf. pun T2 'echar goma'
+\CMTS como un pino que echa prementina
+\lex tzaj
+\_no 00250
+\SPG pegar (papel) con pegamento
+\ENG to glue (paper) with glue
+\EX
+\XSP
+\XEN
+\ROOT tzaj P, (T3)
+\CMTS antip tzaj.7oy
+\CMTS pass tzaj.7@m
+\lex tzak
+\_no 00251
+\SPG dejar
+\ENG to leave
+\EX joxanh 7@y tzakk@
+\XSP lo dejo* vacio
+\XEN he left it empty
+\ROOT tzak T3
+\CMTS antip tzak. 7oy
+\CMTS pass tzak.7@m quedarse
+\lex tzakx
+\_no 00252
+\SPG sacar mazorca, pla*tano; medio caer
+\ENG
+ZOH001R0611011.txt
+\EX patanux tzakx@
+\XSP tiene medio caido la mazorca del pla*tano
+\XEN
+\ROOT tzakx Ix
+\CMTS get deriv's
+\CMTS no caus
+\lex tzam
+\_no 00253
+\SPG sazonarse
+\ENG to become seasoned; to ripen
+\EX tzamma*m
+\XSP ya esta* sazon
+\XEN now it's ripe
+\EX tzampa*m
+\XSP ya va a sazonandose
+Page 49

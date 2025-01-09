@@ -1,0 +1,64 @@
+\_no 01163
+\LG MIG
+\PSH
+\UND kampaniya
+\MB
+\VAR kampania t@m
+\GRAM
+\SCI
+\USE
+\SPG campanilla
+\ENG a type of seed
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS CK-PH ok HAJ:96; fixed: TK
+\CMTS fruta del monte
+\date 24/Jun/96
+\lex kampia=tz@k
+\_no 01164
+\LG MIG
+\PSH [kampiatz@k-]
+\UND kampia=tz@k
+\EXU
+\XSP
+LF:poj
+\MB campear, HACER
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG andar cazando venado o javali*n u otro animal
+\ENG to go hunting deer or javelina or other animal
+SPL
+\SLGR
+\XEN
+\SYN
+\SEMF
+\ETYM campear
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 24/Jun/96
+\lex kampusantu
+\_no 01165
+\LG MIG
+ZOH004R0011001.txt
+\PSH
+\UND kampusantu
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG panteo*n
+\ENG cemetery
+Page 507

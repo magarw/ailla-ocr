@@ -1,0 +1,49 @@
+VOCALES77
+Cerrada o Alta
+Media*
+Abierta o Baja
+Anterior
+i
+Central
+a
+Fuente: Cerrón Palomino (1987)
+Posterior
+u
+Fonéticamente, se registran ocho sonidos vocálicos en dependencia de contextos
+lingüísticos específicos: [i,e,c,a,a‚µ‚o,№]
+65
+La representación ortográfica más extendida en Bolivia adopta los siguientes grafemas:
+a, ch, h/j, i, k, l, ll, m, n, ñ, p, q, r, s, sh, t, th, t’, u, w, y, k', kh, p', ph, th, ch', chh, q', qh. Estas
+formas son las que adopto en las transcripciones de los textos quechuas en la presente tesis.78
+Morfológicamente, el quechua es una lengua con rasgos aglutinantes y polisintéticos.
+Los afijos operan cambios gramaticales y semánticos sobre las raíces léxicas; aunque no
+siempre es posible una correspondencia unívoca entre un morfema y un significado
+gramatical. Tipológicamente, también es una lengua sufijadora; es decir, en la que los afijos
+derivativas, flexivos o independientes se posponen a la raíz nominal, a la raíz verbal, o a la
+cláusula según corresponde. Los afijos derivativos verbales, en general, son los que organizan
+estructuras jerárquicas en las oraciones ya que estructuran las relaciones sintácticas.
+SUFIJOS VERBALES MÁS HABITUALES
+PRON de: 1: -ni; 2: -nki; 3: -n; 1p0:-wa; 2pO: -su; 1pS/2pO: -yki;
+Nominalizadores: PAS: -sqa; POT/FUT: -na; INF: -y
+Temporales (varían según personas): PAS: -rqa, FUT: -saq
+Subordinadores adverbiales: -spa, -jti
+Los morfemas –tanto nominales como verbales-, además de codificar los significados
+prototípicos que se detallan a continuación, pueden ser "multivalentes" en el ámbito
+discursivo; es decir, pueden asumir valores semánticos o pragmáticos de forma sistemática en
+el trancurso de la interacción verbal (algunos ejemplos se analizan en el capítulo 4).
+A continuación presento una lista de los sufijos más frecuentes de la lengua.
+CAU: -chi; INC: -ri; BEN: -pu; TRANSLOC: -mu
+REC: -na-ku
+REFL: -ku
+DIR: IND: -yku (ingresivo; descendiente); EDUC: -rqu (egresivo; ascendente)
+SUFIJOS NOMINALES MÁS HABITUALES
+NOM: 0; GEN: -paj o -j; AC: -ta; ABL: manta; DAT: -man; PL: -kuna; LOC: -pi; INSTR/CIA: wan; BEN: -paj;
+LIM: kama; CAU: -rayku; COM: -hina
+PRON/POS de 1: -y; 2: -yki; 3: -n; 1PL. INCL: -nchis; 1PL.EXCL: -yku; 3PL: -nku; 2PL: -ykichis.
+Sintácticamente, se trata de una lengua de orden SOV, de núcleo final, que comparte
+las características generales de este tipo (Greenberg 1963). Posee una alta marcación de casos
+77
+/e/ y/o/ son variantes alofónicas que ocurren delante o después de los sonidos postvelares /q/, /q/ y lq'/ (e.g.,
+golge 'dinero', qhelqey 'escribir'). También ocurren con la influencia de /j/ postvelar fricativa (ch'ojñi 'lagaña').
+78
+Excepcionalmente, se adoptan otras formas de representación que son especificadas en cada caso.

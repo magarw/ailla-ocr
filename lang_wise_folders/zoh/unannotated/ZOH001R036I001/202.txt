@@ -1,0 +1,81 @@
+\egl whole one month-STILL NEG CAUS-get
+\zoq 7inter tum xepenam ya yakp@ko 7interu n@nam.
+\fts Si tiene un mes no se muere (la mama*) esta* hecho agua todavia.
+\fte A whole month she doesn't get taken, it's still all water.
+\com
+\idx
+\ref ZOH001R036 951
+\_no 00934
+\tx HAJ: 7i para maxan 7une go7
+\mb HAJ 7i
+go7
+\sg1 HAJ: y para sagrado nin~o/a BNF
+\egl HAJ: and for sacred child BNF
+para maxan 7une7
+\zoq HAJ: 7i para_maxan 7une go7?
+\fts HAJ: Y para la criatura tierna?
+fte HAJ: And for infants?
+\com
+\idx
+\ref ZOH001R036 952
+\_no 00935
+\tx GSM: 7i para maxan
+\mb GSM 7i
+go7
+para maxan
+go7
+\sg1 GSM: y
+para sagrado nin~o/a BNF
+\eg1 GSM: and for sacred child
+BNF
+\zoq GSM: 7i para maxan 7une go7?
+\fts GSM: Y para criatura tierna?
+\fte GSM: And for infants?
+\com
+\idx
+\ref ZOH001R036 953
+\_no 00936
+\tx por 7ejemplo ti
+\mb por 7ejemplo ti
+\sg1 por ejemplo que
+\egl for example what
+\ref ZOH001R036 954
+\_no 00937
+ZOH001R0361001.txt
+\zoq Por 7ejemplo ti
+\fts Por ejemplo llora mucho.
+\fte For example what
+\com
+\idx
+\tx teji7aw@
+\mb teji
+7une
+7une7
+-
+\ref ZOH001R036 955
+\_no 00938
+\tx HAJ: ya
+n@mmo
+por 7ejemplo jakke j@ypa
+por 7ejemplo jakke jay
+por ejemplo mucho sonar -INC
+for example a_lot sound-INC
+-pa
+por 7ejemplo jakke j@ypa.
+-ANTIP-NINC whole water-STILL
+for example it cries a lot.
+-7a -w@
+pwes molestu bi 7une
+pwes molestu bi 7une7
+\sg] hay
+-VERS1-COM pues molesto DEF nin~o/a
+\egl there_is-VERS1-COM well bother DEF child
+\zoq Teji7aw@, pwes, molestu bi 7une.
+\fts Esta* muy molesto la criatura.
+\fte There's something, well, that bothers the child.
+\com
+\idx
+jejja
+-
+respirar
+Page 202

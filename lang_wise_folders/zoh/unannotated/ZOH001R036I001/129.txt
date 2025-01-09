@@ -1,0 +1,95 @@
+\_no 00591
+p@t@
+bi
+wayay 7i
+\tx ya pata
+\mb ya p@7t -A
+bi
+wayay7 7i
+\sg1 NEG pasar-nINC DEF frio y
+NEG pasar-nINC DEF tener_calentura
+\eg1 NEG pass -nINC DEF cold and NEG pass -nINC DEF have_fever
+\ref ZOH001R036 603
+\_no 00592
+\zoq Ya p@t@ bi wayay 7i ya p@t@ bi jipx@.
+fts No se quita el frio y no pasa la calentura.
+\fte The cold doesn't pass and the fever doesn't pass.
+\com
+\idx
+ZOH001R0361001.txt
+ya
+p@t@
+ya p@7t -A
+\tx 70 winnapa
+y n@kk@
+bi jipx@
+\mb 70 win -7a -pa 7@y nak -wa bi jipx@
+\sg] o
+CARA-VERS1-INC 3E irse-dINC DEF tener_calentura
+\egl or FACE-VERS1-INC 3E go -dINC DEF have_fever
+\zoq 70 winnapay n@kk@ bi jipx@.
+\fts A va adelante la calentura.
+\fte or the fever goes on getting stronger.
+\com
+\idx
+\ref ZOH001R036 604
+\_no 00593
+\tx p@7tpa
+\mb
+bi
+jipx@
+p@7t -pa bi jipx@
+minpa bi
+wayay
+min -ра bi wayay7
+\sg1 pasar-INC DEF tener_calentura DCT3-TMP venir-INC DEF frio
+\egl pass -INC DEF have_fever
+come -INC DEF cold
+DCT3-TMP
+kay
+ka -y
+\zoq P@7tpa bi jipx@ kay minpa bi
+\fts Pasa la calentura ahi* viene el
+wayay.
+frio.
+\fte The fever passes and now comes the cold.
+\com
+\idx
+\ref ZOH001R036 605
+\_no 00594
+\tx de7xe
+ded@
+\mb te -7xe te -da waykay
+\sg1 DCT2-SIM DCT2-DEM palodismo doler-NOM2
+\eg1 DCT2-SIM DCT2-DEM malaria
+hurt -NOM2
+\ref ZOH001R036 606
+\_no 00595
+\tx 7i ninhke jamajo
+\mb 7i ni-ke
+waykay toya
+toy -A7
+\zoq De7xe ded@ waykay toya.
+\fts Asi* es el paludismo.
+\fte That's the way that malaria is.
+\com
+\idx
+bi jipx@
+bi jipx@
+7@m n@kk@
+jama-jo7 7@m n@k -wa
+de tantu
+de tantu
+irse-COM de tanto
+wayay
+wayay7
+frio
+\sgly
+ni-que sol -LOC2 2E
+\egl and no-that sun -LOC2 2E go -COM of so_much cold
+\zoq 7i ninhke jamajo 7@m_n@kk@ de tantu waya.
+\fts Y nin que andas en el sol de tanto frio.
+\fte And not even if you go in the sun because of all that cold.
+\com
+\idx
+Page 129

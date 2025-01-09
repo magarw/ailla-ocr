@@ -1,0 +1,53 @@
+\ENG to pull aside
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT jup
+\RTGR P, (T3)
+\DSRC TK94
+\CMTS jukuut 7aka a la orilla de la lumbre
+\date 24/Jun/96
+\lex ju7px
+\_no 00960
+\LEX2
+\PSH
+\UND ju7px
+\MB
+\VAR
+\GRAM vt
+\PP
+\ARG
+\ROOT ju7px
+\RTGR T3
+\RTGL
+\USE
+\SPG recoger tela [Ger]; apretar cinturo*n [Ata]
+\1WS
+\ENG to gather cloth
+\1WE
+ZOH004R0011001.txt
+\EXU 1 7@y+ ju7px=yoj-w@
+\EXS
+\EXMB
+\XPSH 1 [7@y ju7pxyojja.]
+\XSP 1 Lo recogio* de nuevo.
+\XEN 1 She gathered it again.
+\EXU 2 7@y+ ju7p-witu'-w@
+\XPSH 2 [7@y ju7pwituw@.]
+\XSP 2 Lo regio* en todo.
+\XEN 2 She gathered it all around.
+\SYN
+\ABSTR 7@y+ $ \01GS \01GE \01x \01xs \01XE
+\VRS1 .7a $ \02GS \02GE \02X \02XS \02XE
+\VRS2 .7@y $ \03GS
+\03GS \03GE \03X \03XS \03XE
+\PROV .7@y $ \04GS \04GE \04X \04XS \04XE
+\PSVNOM .E $ \05GS \05GE \05X \05XS \05XE
+\PSPCP -w@ $ \06GS \06GE \06X \06XS \06XE
+\INSTR1 (>7oy).ku7y $ \07GS \07GE \07X \07xs \07XE
+\INSTR2 .0 $ \08GS \08GE \08X \08XS \08XE
+Page 419

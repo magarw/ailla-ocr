@@ -1,0 +1,63 @@
+\CMTS
+\date 03/Jan/80
+\lex jenen.e7
+\_no 00078
+\LG MIG
+\PHO [jenene7]
+\UND jenen. E7
+\MB deshacerse, NOM7
+\VAR
+\GRAM pcp
+\SPG desolvido
+\ENG dissolved
+\EX jenen.e7+k_tzoy7
+\XPSH [jenene7k tzoy7]
+\XSP remedio desolvido
+\XEN dissolved medicine
+\SYN
+\ROOT jenen
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex jep.e
+\_no 00079
+\LG MIG
+\PSH [jepe]
+\UND jep.E
+\MB trayar_maguey, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG maguey
+\ENG maguey
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT jep
+\RTGR T3
+LF:7okox
+\DSRC HAJ94
+\CMTS
+\date 06/Feb/96
+\lex jep.e nax
+\_no 00080
+\LG MIG
+\PSH [jepe nax]
+\UND jep.E nax
+\MB trayar_maguey, NOM7, tierra
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG magueyal
+\ENG field of maguey
+\EXU
+\XSP
+ZOH001R0611004.txt
+Page 33

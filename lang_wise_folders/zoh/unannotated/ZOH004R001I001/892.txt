@@ -1,0 +1,63 @@
+\XSP alguien que sabe mucho
+\XEN someone who knows a lot
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT mux
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex mux. 'oy-pa+a7k nu7
+\_no 02068
+LG MIG
+\PSH [muxxoba*7 nu7]
+\UND mux. 7oy-pa +P@7k nu7
+\MB saber, ANTIP, INC, REL, perro
+\VAR
+\GRAM agt1
+\SCI
+\USE
+SPG perro cazador
+\ENG hunting dog
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT mux
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex muy [1]
+\_no 02069
+\LG MIG
+\PSH
+\UND muy
+\MB
+\VAR
+\GRAM vt:act, vi:med
+\SCI
+\USE
+\SPG doblar(se)
+\ENG to dent
+\EXU 1 muy-w@ 7@n+ machete 7@y+ win
+\XPSH 1 [Muyy@n machetey win.]
+\XSP 1 se doblo* el filo de mi machete.
+\XEN 1 My machete dented.
+\EXU 2 7@y+ yak.muy-wa
+\XPSH 2 [7@y yakmuyy@.]
+ZOH004R0011001.txt
+\XSP 2 Lo apachurro*.
+\XEN 2 He dented it.
+\EXU 3 ti p@'.@+pi7t_7@m+ yak.muy-w@ 7@m+_n@'=jup.kuy7
+\XPSH_3_[Ti p@pi7t 7@m yakmuyy@m n@jupkuy7?]
+\XSP 3 ?Con que apachurraste tu cubeta?
+\XEN 3 what did you dent your bucket with?
+\SPL yak.muy
+\SLGR CAUS
+Page 892

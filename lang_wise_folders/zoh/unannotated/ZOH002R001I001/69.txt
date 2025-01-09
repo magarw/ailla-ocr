@@ -1,0 +1,48 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+I found only two exceptions to this rule in my corpus, shown in (3.19 i-ii).
+It should be noted that a /w/ occurring in the position in which this rule
+regularly applies is a rather subtle sound it is quite possible that I simply
+heard these examples wrong, or that the glide was the result of the emphasis
+sometimes employed in citation speech. The rule does not apply to /w/ in
+syllable-initial position4, as can be seen in example (3.19 iii).
+(3.19)
+(i)
+(iii)
+(3.20)
+(i)
+xowa'
+šowa?
+(iii)
+a type of bird
+'øy jowanpa
+?ən+ ho.wan-pa
+1E+ INTO.sing-INC
+'I'm reading.'
+There are four monomorphemic lexical items in the corpus that contain
+vowel sequences from between which a /w/ might have been deleted at an
+earlier stage of the language. Again, the second vowel in these words is
+strongly laryngealized.
+joa'
+hoa?
+'deep'
+(ii)
+poa'
+poa?
+a type of tree
+(ii)
+towa'
+toŋ.A?
+blister.NOM2
+'blister'
+(iv)
+noa'
+noa?
+'canyon'
+poe'
+poe?
+'sand'
+4
+There are no syllables in MIG Zoque with contiguous /y/ and /i/. There are verb roots
+that begin with /ye/, such as yem-, 'to fan', but none of these happen to appear in the corpus
+with the vowel-final prefixes ni- (PSE), ho- (INTO), or ko- (SOC).
+45

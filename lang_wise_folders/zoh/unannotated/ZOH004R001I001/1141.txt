@@ -1,0 +1,63 @@
+\UND pitz. E
+\MB cocer_mai*z_con_cal, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG nixtamal
+ENG corn cooked with lye
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pitz
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex pitz.i-ja7p
+\_no 02650
+\LG MIG
+\PSH [pitzija7p-]
+\UND pitz.E=ja7p
+\MB cocer_mai*z_con_cal, NOM7, moler
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG moler nixtamal
+\ENG to grind corn that was cooked with lye.
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 pitz
+\RTGR 1 T1
+\ROOT 2 ja7p
+\RTGR 2 T3
+ZOH004R0011001.txt
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex pitz.i=k@nh-ka'
+\_no 02651
+\LG MIG
+\PSH [pitzik@nhka-]
+\UND pitz. E k@nh=ka7
+\MB cocer_mai*z_con_cal, NOM7, recocer, X
+\VAR
+\GRAM s+vi
+\SCI
+\USE
+\SPG recocerse el mai*z; cocerse demasiado el nixtamal
+\ENG to recook the corn; to overcook the corn with lye
+\EXU
+\XSP
+\XEN
+Page 1141

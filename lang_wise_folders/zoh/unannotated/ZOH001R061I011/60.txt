@@ -1,0 +1,60 @@
+\EX
+\XSP
+\XEN
+\ROOT wi7t T2
+\CMTS
+\lex witz
+\_no 00309
+\SPG hacer alma*cigo
+\ENG to make a nursery
+\EX witz@7
+\XSP haz alma*cigo!
+\XEN make a nursery!
+\ROOT witz T3
+\CMTS antip witz. 7oy hacer alma*cigo
+\CMTS pass witz.7@m esta* hecho alma*cigo
+\CMTS prsv witz-ten-e esta* hecho alma*cigo
+\lex wix
+\_no 00310
+\SPG arrancar
+\ENG to pull up
+\EX wixxixneyy@ tza7
+\XSP esta* de punta la piedra
+\XEN
+\ROOT wix T3
+\CMTS antip wix. 7oy
+\CMTS no pass wix.7@m *
+\lex wo7i
+\_no 00311
+\SPG rodarse
+\ENG to roll
+\EX wo7iw@
+\EX wo7ipa
+\XSP rueda
+\XEN a wheel
+\ROOT wo7i 12, 11
+\CMTS caus yak.wo7i hacer rodar
+\CMTS get deriv's
+\lex woj
+\_no 00312
+\SPG hacer hoyo; agujerear
+\ENG to make a hole; to pierce
+\EX wojj@mm@ bi xuyu7
+\XSP se deshondo* la olla
+\XEN
+\EX tzat@k wojja
+\XSP hizo hoyo
+\XEN he made a cave
+ZOH001R0611011.txt
+\EX wojneyyow@
+\XSP cayo* de golpe o cayo* ra*pido
+\XEN she fell from a blow or she fell rapidly
+\ROOT woj T3
+\CMTS antip woj.7oy hacer hoyo
+\CMTS pass woj.7@m deshondarse
+\CMTS prsv woj-ten lo tiene agujereado
+\lex woj
+\_no 00313
+\SPG ladrar
+\ENG to bark
+Page 60

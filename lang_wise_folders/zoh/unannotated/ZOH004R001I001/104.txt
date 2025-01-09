@@ -1,0 +1,64 @@
+\date 11/Aug/94
+\lex 7ayud(a)=tz@k
+\_no 00243
+\LG MIG
+\PSH [7ayudatz@k-]
+\UND 7ayuda=tz@k
+\MB ayudar, HACER
+\VAR 7ayuud=tz@k
+\GRAM vt
+\SCI
+\USE
+\SPG ayudar
+\ENG to help
+\EXU
+\XSP
+\XEN
+\SYN ko.tzonh
+\SEMF
+ETYM ayudar
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-PH
+\date 09/Jan/96
+ok
+\lex 7ay' jay@7
+\_no 00244
+\LG MIG
+\PSH
+\UND 7ay7 jay@7
+\MB leaf, flower
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG albahaca
+\ENG a type of plant
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 09/Jan/96
+\lex 7ay'=jux
+\_no 00245
+\LG MIG
+LF:7okox
+\PSH [7ayjux-]
+\UND 7ay7=jux
+\MB hoja, asar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG asar o chamuscar la hoja
+\ENG to roast or char leaves
+ZOH004R0011001.txt
+Page 104

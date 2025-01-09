@@ -1,0 +1,45 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+There are some cases in which the argument added by the applicative
+suffix is opaque. (6.23 i) may mean 'He arrived to or for him, maybe'. There's a
+clearer usage of this kind shown in (ii). It's possible that the applicative in (iii) is
+referencing the locative phrase kocək+ho?, 'in the hills', along the lines of
+example (6.22 ii), above. Otherwise, it's quite mysterious: there are no other
+actors in this particular stretch of text4.
+(6.23)
+(i)
+(ii)
+(iii)
+?ummə
+ga yakku pøn bweno ne' ye'chayyám 'ummø
+ga.?
+yakku? pən bweno ne? 0 ye?c.hay-wǝ+?am
+DCT3.NOM1 poor man good also 3A arrive.APPL-COM+NOW maybe
+'That poor man, ok, now he's arrived too, maybe.'
+kwandum ye'chabám dedø mal
+kwandu ?əm+ ye?c.hay-pa+?am
+when
+de.də
+2E+ arrive.APPL-INC+NOW DCT2.DEM
+'When that illness is arriving (coming) at you'
+(ZOH001R024-240-1)
+mal
+bad
+(ZOH001 R036- 158)
+bi naka
+kotzøkjo nøkpan tzetzjayyø bi naka
+kocəǝk+ho? nək-pa ?ən+ cec.hay-wǝ
+hills+LOC2 go-INC 1E+ sand.APPL-COM DEF bark
+'I'll go scrape the bark in the hills.'
+(ZOH001 R036-037)
+6.2.3. Passive ?em
+In a passive construction the undergoer of a verb becomes the subject
+and the agent is suppressed. There are no passive constructions that allow the
+overt expression of an agent, in a postpositional phrase or otherwise. It is
+really most accurate to say that the passive suffix bleaches all the semantic
+4 Sr. Omobono Sánchez Miguel uses the applicative suffix a lot in this text, which is long
+interview with him about his healing practices (he is a curandero).
+everything that he talks about is done on behalf of someone else
+although he doesn't explicitly mention the patient in every clause.
+135
+Perhaps he uses it because
+the patient he is treating -

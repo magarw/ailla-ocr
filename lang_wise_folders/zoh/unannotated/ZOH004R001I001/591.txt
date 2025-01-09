@@ -1,0 +1,62 @@
+\XEN My knee is popping.
+\SYN
+\SEMF sound, body
+\ASP semelfactive
+\ARG
+\NOM kokx.i7, kopak-kokx.kuy7 kuy, kokx.naanh
+\SUB yuk. kokx
+ΕΤΥΜ
+\ETL
+\ROOT kokx
+\RTGR 12
+\DSRC HAJ94
+\CMTS CK-GR
+\CMTS caus yak.kokx hacer tronar [CK-PH] corrected: HAJ:96
+\CMTS vi means st like: joints crack in the morning when you get up
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex kokx.i7
+\_no 01355
+\LG MIG
+\PHO [kokxi7]
+\UND kokx. E7
+\MB tronar, NOM7
+\VAR
+\GRAM pcp
+\SPG el sonido en la forma que suena las coyunturas
+ENG the sound of joints cracking
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT kokx
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex kokx.naanh
+\_no 01356
+\LG MIG
+\PHO [kokxna*nh]
+\UND kokx.naanh
+\MB tronar, MED
+\VAR
+\GRAM meas
+SPG una tronada
+\ENG one crack of the joint
+\EX
+ZOH004R0011001.txt
+\XSP
+\XEN
+\SYN
+\ROOT kokx
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex ko.k@7t
+\_no 01357
+\LG MIG
+\PSH [kok@7t-]
+\UND ko.k@7t
+Page 591

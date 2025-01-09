@@ -1,0 +1,63 @@
+ZOH004R0011001.txt
+\ENG a special stick for stirring food in the huge pot
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT ju7t
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 09/Nov/94
+\lex jutzenh ponh
+\_no 00972
+\LG MIG
+\PSH
+\UND jutzenh ponh
+\MB cuantos, vez
+\VAR
+\GRAM int
+\SCI
+\USE
+\SPG cuantas veces
+\ENG how many times
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 14/Jun/95
+\lex jutzenh+jo7
+\_no 00973
+\LG MIG
+\PSH [jutzenhjo7]
+\UND jutzenh+jo7
+\MB cuantos, LOC2
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG cuanto es; cua*nto vale; cua*nto cuesta;
+\ENG how much is it
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+Page 426

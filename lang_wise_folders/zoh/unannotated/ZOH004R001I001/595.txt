@@ -1,0 +1,64 @@
+ZOH004R0011001.txt
+\XEN 4 Someone mended the shirt (the shirt was mended).
+\EXU 5 7@y+ kom.ten-w@ bi y@k.wij d@k (+'ay)
+\XPSH_5 [7@y komtenn@ bi y@kwij d@kka.]
+\XSP 5 Tiene remendado las camisas.
+\XEN 5 She's got the shirts mended.
+\SYN
+\SEMF break
+\ASP activity
+\ARG
+\NOM kom.e7, kom. kuy7, ni.kom
+\SUB 7anh.kom, kom.pu', nik.kom. '@y, yuk. kom
+\ETYM
+\ETL
+\ROOT kom
+\RTGR T3
+\DSRC HAJ94
+\CMTS also have a slip classifying this as T1
+\CMTS
+\date 03/Jan/80
+\lex koma7
+\_no 01364
+\LG MIG
+\PSH
+\UND koma7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG rodilla
+\ENG knee
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex koma.koma7
+\_no 01365
+LG MIG
+\PSH [komakoma7]
+\UND koma. koma 7
+\MB
+\VAR
+\GRAM SR
+\SCI
+\USE
+\SPG cachinaste; casa de comeje*n
+\ENG termite hill
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+LF: bugs
+Page 595

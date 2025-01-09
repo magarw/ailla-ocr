@@ -1,0 +1,61 @@
+\ENG to sprout
+\EX
+\XSP
+\XEN
+\ROOT nay 12
+\SEMF nature, plant
+\CAUS yak.nay hacer nacer
+\lex nek
+\_no 00179
+\SPG estivar, como len~a
+\ENG to stack, as firewood
+\EX 7@y nektenn@ k@pi
+\XSP tiene estivado la len~a
+\XEN she's got the firewood stacked
+\EX nekk@mm@ de kapi
+\XSP ya esta* estivado la len~a
+\ROOT nek P, (T3)
+\SEMF move,
+\PASS nek.7@m
+position
+\ANTI nek. 7oy estivar
+\ASSU nek.ney estar estivada (la len~a)
+\lex ne7k
+\_no 00180
+\SPG tapar una corriente - la echa para un lado
+\ENG to divert a stream of water
+ZOH001R0611010.txt
+\\EX_7@y_ne7kk@ pajak_7@y_p@w@ 7eyajo*nh
+\XSP tapo* el ri*o, lo echo* para un lado
+\XEN he diverted the river, he turned it to one side
+EX n@ ne7kk@
+\ROOT ne7k P, (T3)
+\SEMF water, move
+\PASS ne7k.7@m taparse
+\ANTI ne7k. 7oy tapar
+\ASSU ne7k.ney estar tapado
+\lex ne7kx
+\_no 00181
+\SPG ser pegajoso
+\ENG to be sticky
+\EX
+\XSP
+\XEN
+\ROOT ne7kx Ix
+SEMF condition
+\CMTS
+\lex nem
+\_no 00182
+\SPG flamear; echar 11amas
+\ENG to flame; to spark
+\EX jak nemm@
+\XSP flameo* mucho
+\XEN it flamed a lot
+\ROOT nem 12
+\SEMF fire
+\CAUS yak.nem hacer flamear
+\CMTS
+\lex nem
+\_no 00183
+\SPG cortar con tijeras; talonear
+Page 42

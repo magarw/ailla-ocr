@@ -1,0 +1,64 @@
+\ENG to fence with branches
+\EXU jom.7@m-w@+'am bi yuj.kuy7
+\XPSH [Jomm@mma*m bi yujkuy7.]
+\XSP Ya esta* cercado el desmonte.
+\XEN Now the field is fenced.
+\EXU 7@y+ jom.ten-w@ bi yuj.kuy7
+\XPSH [7@y jomtenn@ bi yujkuy7.]
+\XSP Lo tiene cercado su desmonte.
+\XEN He's got his field fenced.
+\SPL jom. 7oy
+\SLGR ANTIP
+\SLGL acercar // to fence
+\SPL jom.7@m
+\SLGR PASS
+\SLGL estar cercado // to be fenced
+\SPL jom.ney
+\SLGR ASSUM1
+\SLGL estar cercado (como un rama, tumbo* el norte, y se trencha) // to have a
+fence around it (like when the north wind
+blows a branch down)
+\SPL jom. ten
+\SLGR PRSV
+\SLGL tener cercado // to have something fenced
+\SYN
+\SEMF build
+\ASP activity
+\ARG
+\NOM jom.e, jom.kuy7
+\SUB 7anh.jom, jo.jom, ko.jom, nek-jom, ni.jom, nik.jom. '@y, win=jom
+\ETYM
+\ETL
+\ROOT jom
+\RTGR P, (T3)
+ZOH001R0611006.txt
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex jopx
+\_no 00039
+\LG MIG
+\PSH
+\UND jopx
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tomar a boca de plato
+\ENG to drink from the plate
+\SPL jopx. 7oy
+\SLGR ANTIP
+\SLGL tomar a boca de plato // to drink from the plate
+\SLGR NO PASS
+\EXU 7@y+ jopx-xuk-wa
+\XPSH [7@y jopxxukk@.]
+\XSP Tomaron a boca de plato.
+\XEN They drank from the plates.
+\SYN
+\SEMF eat
+\ASP activity
+\ARG
+\NOM
+\SUB
+Page 29

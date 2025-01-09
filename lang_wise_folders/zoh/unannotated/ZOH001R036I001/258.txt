@@ -1,0 +1,82 @@
+\ref ZOH001R036 999-217
+\_no 01198
+\tx 7ay
+\mb 7ay
+\sg1 hay
+\egl there are
+\com
+\idx
+\zoq 7ay 7otro tzoy.
+\fts hay otro remedio.
+\fte there's another medicine.
+7otro tzoy
+7otro tzoy7
+\tx 7ay
+\mb 7ay
+\sgl hay
+\egl there are
+otro
+remedio
+other medicine
+\ref ZOH001R036 999-218
+\_no 01199
+7otro tzoy ne7
+7otro tzoy ne7
+otro
+other jump also
+\ref ZOH001R036 999-219
+\_no 01200
+\com
+\idx
+\zoq 7ay 7otro tzoy ne7 para ney de7x.
+fts Hay otro remedio tambien para asi*.
+\fte There's another medicine for the same like that.
+\com
+\idx
+para ney
+para ney
+-7xe
+saltar tambien para mismo DCT2-SIM
+for self DCT2-SIM
+\tx ney de waku m
+de waku 7@m xox
+-ра
+\mb ney
+\sgl mismo de guaco 2E cocer-INC
+\egl self of guaco 2E cook -INC
+\_no_01201
+\tx 7@y 7ukpa
+\mb 7@y 7uk
+\sg1 3E
+-ра
+tomar-INC
+\egl 3E drink-INC
+\zoq Ney de wakum xoxpa.
+\fts El mismo guaco lo coces.
+\fte You cook the same guaco.
+\com
+\idx
+\ref ZOH001R036 999-220
+\zoq He drinks it
+\fts Lo toma
+\fte He drinks it
+ZOH001R0361001.txt
+хохра
+\ref ZOH001R036 999-221
+\_no 01202
+\tx pa pitz@mpa bi
+\mb para pitz@m-pa bi
+\sg1 para salir -INC DEF lombriz NPL
+\egl for leave -INC DEF worm
+NPL
+kumu
+kumu 7
+d@kka
+d@kkay
+de7x
+te
+\zoq pa pitz@mpa bi kumud@kka.
+\fts para que salga las lombrices.
+\fte so the worms come out.
+\com
+Page 258

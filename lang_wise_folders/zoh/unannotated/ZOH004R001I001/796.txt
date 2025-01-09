@@ -1,0 +1,64 @@
+\ENG to be four in number
+\SPL
+\SLGR
+\EXU ga d@k+7a maktax-'anh.7aH-xuk-w@
+\XPSH [Ga d@kka maktaxxanhaxukk@.]
+\XSP Ellas son cuatro.
+\XEN There are four of them.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 26/Jan/96
+\lex maktu-kum.kum7
+\_no 01843
+\LG MIG
+\PSH [maktukumkum7]
+\UND maktu-kum.kum7
+\MB
+\VAR
+\GRAM SR
+\SCI
+\USE
+\SPG tecolote
+\ENG OW]
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+LF: jon
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Nov/94
+\lex mak-tuk@-ji
+\_no 01844
+\LG MIG
+\PSH [maktuk@ji]
+\UND mak-tuk@-ji
+\MB
+\VAR
+ZOH004R0011001.txt
+\GRAM av
+\SCI
+\USE
+\SPG en cuatro di*as
+\ENG in four days
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+Page 796

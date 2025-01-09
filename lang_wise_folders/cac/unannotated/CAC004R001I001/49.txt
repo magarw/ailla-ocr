@@ -1,0 +1,81 @@
+tzoch inwejel
+tz-ø-och
+in-wejel
+pres-3B-entrar 1A-hambre
+Tengo sed.
+stak inti'
+s-tak
+in-ti'
+3A-seco 1A-boca
+100
+Tengo sueño.
+ay inwayan
+ay-ø
+in-wayan
+exist-3B 1A-sueño
+tzkot inwayan
+tz-ø-kot
+in-wayan
+pres-3B-venir 1A-sueño
+Tengo flojera.
+te ch'an ink'o'ol
+te ch'an in-k'o'ol
+muy pereza 1A-estómago
+99. Tengo trabajo.
+ay inmunlajel
+ay-ø
+in-munlajel
+exist-3B 1A-trabajo
+100. Tengo pena.
+ay ink'ixwelal
+ay-ø
+in-k'ixwel-al
+exist-3B 1A-vergüenza-gen
+101. Soy penoso.
+tzink'ixwi
+tz-in-k'ixw-i
+pres-1B-vergüenza-vti
+aj k'ixawin
+Ø-aj k'ixaw-in
+3B-exist vergüenza-1B
+102. En la olla hay frijoles.
+ay anh tut t’a yol lu’um chen
+ay-ø anh tut t'a y-ol
+exist-3B Cvegetal frijol prep 3A-dentro Ctierra olla
+lu'um chen
+En la olla hay agua.
+t'a yol lum chen ay a' a'
+t'a y-ol
+lum
+chen ay-Ø a'
+a'
+prep 3A-dentro Ctierra olla exist-3B Cagua agua
+En la olla no hay frijoles.
+t’a yol lum chen malaj anh tut
+t'a y-ol
+lum chen malaj anh
+tut
+prep 3A-dentro Ctierra olla neg Cvegetal frijol
+En la olla no hay agua.
+t'a yol lum chen malaj a' a'
+t'a y-ol
+prep 3A-dentro Ctierra agua neg Cagua agua
+lum chen malaj a' a'
+103. ¿Hay frijoles en la olla?
+jay am anh tut t’a yol lum chen?
+am anh
+tut t'a y-ol lum chen
+ay-ø
+exist-3B dub Cvegetal frijol prep 3A-dentro Ctierra olla
+104. ¿No hay frijoles en la olla?
+¿tekan malaj anh tut t'a yol lum chen?
+tekan malaj anh
+lum chen
+tut t'a y-ol
+tal vez neg Cvegetal frijol prep 3A-dentro Ctierra olla
+105. Sí, hay frijoles.
+i, ay anh
+i' ay-ø
+anh
+sí, exist-3B Cvegetal
+101

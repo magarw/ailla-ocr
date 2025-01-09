@@ -1,0 +1,63 @@
+\EXU 7@y j@x.jat@t-wa toy-pa+a7k
+\XPSH [7@y jaxjat@tta toypa*7k.]
+\XSP Le saco* sobando su dolor.
+\XEN She massaged away his ache.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jatat
+\RTGR T3
+KEY
+\DSRC HAJ95
+\CMTS CK-GR of EX
+\date 10/Jan/96
+\lex j@x-j@7t
+\_no 01063
+\LG MIG
+\PSH [j@xj@7t-]
+\UND jax-j@7t
+\MB ATRAS, regar_ri*o
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG sacar algo (el ri*o) para afuera
+\ENG for the river to rise and push something outside
+\SPL
+\SLGR
+\EXU jax.j@7t-wa na'+joonh
+\XPSH [J@xj@7tt@ najo*nh.]
+\XSP Saco* algo el ri*o para afuera.
+\XEN The river pushed it out.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT j@7t
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex j@x-kam
+\_no 01064
+ZOH004R0011001.txt
+\LG MIG
+\PSH [j@xkam-]
+\UND jax-kam
+\MB ATRAS, trabarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG salir en donde estaba prensado
+\ENG for something to get out from where it was pressed in
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN 7ok. kam. '@y
+\SEMF
+\ETYM
+Page 466

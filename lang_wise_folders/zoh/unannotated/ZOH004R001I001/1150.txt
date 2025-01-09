@@ -1,0 +1,63 @@
+\USE
+\SPG la mera puntita de la cola de gallina
+\ENG Pope's nose (the tip of the tail of the chicken)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzix
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex piyu' 7@y+ tzokoy7
+\_no 02671
+\LG MIG
+\PSH [piyuy tzokoy7]
+\UND piyu7 7@y+ tzokoy7
+\MB gallina, 3Erg, corazo*n
+\VAR
+\GRAM sps
+\SCI
+\USE
+\SPG corazo*n de gallina
+\ENG chicken heart
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex piyu' 7@y+ yo7k
+\_no 02672
+\LG MIG
+\PSH [piyuy yo7k]
+\UND piyu7 7@y+ yo7k
+\MB gallina, 3Erg, pescuezo
+\VAR
+\GRAM sps
+\SCI
+\USE
+\SPG pescuezo de pollo
+\ENG chicken neck
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+Page 1150

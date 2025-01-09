@@ -1,0 +1,63 @@
+\XSP 2 Me falta mi casa ontal mi mama*.
+\XEN 2 I miss my home where my mom is.
+\SYN
+\SEMF cognitive
+\ASP state
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT tzo7tz
+\RTGR IX
+\DSRC HAJ95
+\CMTS Germa*n rejects EXU 2. (It's from Filogonia.)
+\date 03/Jan/80
+\lex tzoy
+\_no 03412
+\LG MIG
+\PSH
+\UND tzoy
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG saltar
+\ENG to jump
+\SPL yak.tzoy
+\SLGR CAUS
+\SLGL hacer saltar
+\EXU 1 d@ tzoy-pa
+\XPSH 1 [D@ tzoypa.]
+\XSP 1 voy a saltar.
+\XEN 1 I'm going to jump.
+\EXU 2 7@y+ yak.tzoy-w@
+\XPSH 2 [7@y yaktzoyy@.]
+\XSP 2 Lo hizo saltar.
+\XEN 2 She made him jump.
+\SYN
+\SEMF move
+\ASP semelfactive
+\ARG
+\NOM tzoy.naanh
+\SUB
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT tzoy
+\RTGR 11
+\DSRC HAJ94
+\CMTS the same as kek-, just a bigger motion
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex tzoy7
+\_no 03413
+\LG MIG
+\PSH
+\UND tzoy7
+\MB
+\VAR
+\GRAM S
+\SCI
+Page 1468

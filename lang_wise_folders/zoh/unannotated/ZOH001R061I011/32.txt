@@ -1,0 +1,62 @@
+\EX_n@k-w@
+\XSP se fue*
+\EX n@kko7 impv
+\XSP vete!
+\EX n@ki7
+\XSP vamos!
+\EX _ n@ki_k@xxoda*nh
+\XSP vamos a comer!
+\EX n@ki*am
+\XSP vamonos!
+\EX 7@y yakn@kk@ j@xjonanh
+\XSP lo hizo ir para atra*s
+\EX n@kk@y witi
+\ROOT n@k Ix
+\CMTS caus yak.n@k dejar ir
+\lex pa
+\_no 00157
+\SPG colar
+\ENG to sift
+\EX
+\XSP
+\XEN
+\ROOT pa T3
+\CMTS antip pa. 7oy
+\CMTS pass pa.7@m colarse
+\CMTS prsv pa-ten lo tiene colado
+\lex paj
+\_no 00158
+\SPG clavar; sembrar poste, estaca en el suelo
+\ENG to nail; to set a post or stake in the ground
+\EX tzin pajja
+\XSP rajo* ocote
+\XEN he stripped pine
+\EX 7@y pajxukk@ neajo7
+\XSP esta* clavado en la pared
+XEN they nailed it in the wall
+\EX kuy pajja
+\XSP sembro* el poste
+\XEN he set a post
+\ROOT paj P, (T3)
+\CMTS antip paj.7oy
+\lex pak
+\_no 00159
+\CMTS pass paj.7@m sembrarse
+\CMTS assumi paj.ney estar sembrado
+\CMTS prsv paj.ten tener sembrado
+\SPG regar; tirar
+\ENG
+se fue* caminar / andar
+\EX
+\XSP
+\XEN
+ZOH001R0611011.txt
+\ROOT pak T3
+\CMTS no antip pak. 7oy *
+\CMTS no pass pak.7@m*
+\CMTS CK-GR
+\lex pak
+\_no 00160
+\CMTS doesn't accept the regar/tirar glosses today: see 7ok.pak.7@y
+\CMTS can't get any gloss for this form, just the vi 'apretarse' and 7ok. pak
+Page 32

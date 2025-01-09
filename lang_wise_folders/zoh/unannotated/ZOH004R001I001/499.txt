@@ -1,0 +1,64 @@
+\_no 01143
+\LG MIG
+\PSH
+\UND kajwe
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG cafe*
+\ENG coffee
+\EXU
+\XSP
+\XEN
+\SYN jok=n@7
+\SEMF EB
+ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH of SYN sounds ok, HAJ:96; OK/TK
+\date 24/Jun/96
+\lex kajwe 7okox
+\_no 01144
+\LG MIG
+\PSH
+LF: kuy
+\UND kajwe 7okox
+\MB cafe*, mata
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG 1 mata de cafe*
+\SPG 2 cafetal
+\ENG 1 coffee plant
+\ENG 2 coffee plantation
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM cafe*
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex kajwe 7oro
+\_no 01145
+\LG MIG
+\PSH
+\UND kajwe 7oro
+\MB
+\VAR
+\GRAM SS
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG cafe en oro; cafe en grano
+\ENG ground coffee
+\EXU
+\XSP
+Page 499

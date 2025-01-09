@@ -1,0 +1,63 @@
+\lex nuk
+\_no 00204
+\SPG agarrar
+\ENG to grasp, to grab
+\SEMF hand, carry
+\ASP achievement
+\ARG
+\NOM nuk.i7, koke-nuk. kuy7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex nu7kx
+\_no 00205
+\SPG tener abrazado con una mano; arrullar
+\ENG to hug or hold someone with one arm; to cuddle
+\SEMF hand, touch
+\ASP state, activity
+\ARG instrument
+\NOM nu7kx.kuy7
+\RTGR T3
+\POS d@ nu7kx@ me tuvo abrazadito
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex num
+\_no 00206
+\SPG robar
+\ENG to rob
+\SEMF trade
+\ASP achievement
+\ARG
+\NOM 7anh.num, num.i7, num=tz@k.kuy7
+\RTGR T1
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\lex nutz
+\_no 00207
+\SPG 1 estar caliente (comida, cafe*..., por el fuego o el sol)
+\SPG 2 quemarse
+\ENG 1 to be hot (food, coffee,
+from the fire or the sun)
+\ENG 2 to burn oneself
+\SEMF temp, cook, body
+\ASP state, achievement
+\ARG
+\NOM
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex nutz.tz@
+"
+Page 51

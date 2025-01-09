@@ -1,0 +1,79 @@
+\zoq N@kk@ 7@y metze 7@y mama.
+\fts Fue* a buscar su mama*.
+\fte He went to look for his mother.
+\ref ZOH001R026 132
+\_no 00118
+\tx 7@y pa7tt@
+\mb 7@y pa7t
+\sg1 3E
+\egl 3E find
+\zoq 7@y pa7tt@ 7@y mama.
+\fts Encontro* su mama*
+\fte He found his mother.
+7@y mama
+-wa 7@y mama
+mama*
+mother
+encontrar-COM 3E
+-COM 3E
+\ref ZOH001R026 133
+\_no 00119
+\tx 7@y n@mjayy@
+dey
+d@ wituwa*m
+-w@ - 7am
+\mb 7@y nam -jay -w@ te -y d@ witu7
+\sgl 3E decir-APPL-COM DCT2-TMP 1A regresar-COM-YA
+\egl 3E say -APPL-COM DCT2-TMP 1A return -COM-NOW
+\ref ZOH001R026 134
+\_no 00120
+\tx mae7
+\mb mae7
+\zoq 7@y_n@mjayy@, "Dey d@ wituwa*m.
+\fts Le dijo, "Ahora ya regreso*.
+\fte He said, "Now I have come back.
+\sg1 REM
+\eg1 REM
+ZOH001R0261001.txt
+■
+\tx mix n@mjayy@*7
+tzame
+y@kt@7@y
+ya n
+\mb mix n@m -jay -wa -v7k tzam -E7 ya 7@n yak
+\sg1 2>1 decir-APPL-COM-REL platicar-NOM3 NEG 1E
+\egl 2>1 say -APPL-COM-REL converse-NOM3 NEG 1E
+te -y
+\zoq Mix n@mjayy@*7 tzame yan yakt@7@y mae7.
+\fts La palabra que me dijistes no me creia yo.
+\fte The words you told me I didn't believe.
+\ref ZOH001R026 136
+\_no 00121
+\tx 7i dey
+ke n
+p@7tjayya*m
+y@da
+\mb 7i
+\sg] y
+ke 7@n p@7t -jay -w@ -7am ya -da
+DCT2-TMP que 1E pasar-APPL-COM-YA
+DCT1-DEM
+\egl and DCT2-TMP that 1E pass -APPL-COM-NOW DCT1-DEM
+\zoq 7i dey ken p@7tjayya*m_y@da,
+\fts y ahora que ya me sucedio*
+\fte and now that this has happened to me,
+\ref ZOH001R026 137
+\_no 00122
+\tx dey
+ke n
+p@7tjayya*m
+\mb te -y
+ke 7@n p@7t -jay -w@ -7am
+\sg1 DCT2-TMP que 1E pasar-APPL-COM-YA
+\eg1 DCT2-TMP that 1E pass -APPL-COM-NOW
+\zoq dey ken p@7tjayya*m,
+Page 25
+-t@
+-7@y-A
+INSTR2-querer-SUF-nINC
+INSTR2-want -SUF-NINC

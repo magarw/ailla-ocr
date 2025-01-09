@@ -1,0 +1,63 @@
+\UND tzun.tzun.ney
+\MB gotear, gotear, REDUP1
+\VAR
+\GRAM VİR
+\SCI
+\USE
+\SPG gotear; estar cayendo por gotas
+\ENG to drip; to be falling drop by drop
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzun
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 20/Oct/94
+\lex tzunu7
+\_no 03442
+\LG MIG
+\PSH
+\UND tzunu7
+\MB
+\VAR
+\GRAM s; med
+\SCI
+\USE
+\SPG 1 bolsa
+\SPG 2 gajo de naranja
+\ENG 1 bag
+\ENG 2 orange segment
+\EXU tum tzūnu7
+\XSP un gajo de naranja
+\XEN a segment of orange
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jun/96
+\lex tzunu' koya7
+\_no 03443
+\LG MIG
+\PSH
+\UND tzunu7 koya7
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG tomate de bolsillo; tomatillo
+\ENG a type of very small tomatoes
+\EXU
+\XSP
+\XEN
+\SYN yuchi koya7
+Page 1481

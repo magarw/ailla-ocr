@@ -1,0 +1,62 @@
+\DSRC HAJ95
+\CMTS
+\date 27/Jan/96
+\lex nik.kop. '@y
+\_no 02304
+\LG MIG
+\PSH [nikkopp@y-]
+\UND nik.kop.7@y
+\MB SUP, cachar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pasarle
+\ENG to toss something to someone
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kop
+\RTGR T3
+\DSRC HAJ95
+\CMTS es como decir "aqui esta*", y tu lo caches
+\date 18/Jul/95
+\lex nik.kuj. '@y
+\_no 02305
+\LG MIG
+\PSH [nikkujj@y-]
+\UND nik.kuj.7@y
+\MB SUP, empujar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG empuja*rselo
+\ENG to push something at someone
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kuj
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 27/Jan/96
+\lex nik.kum. '@y
+\_no 02306
+\LG MIG
+ZOH004R0011001.txt
+\PSH [nikkumm@y-]
+\UND nik.kum.7@y
+Page 993

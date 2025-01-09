@@ -1,0 +1,86 @@
+\zoq Ya toyya*m.
+\fts Ya no duele.
+\fte Now it doesn't hurt.
+\com
+\idx
+\ref ZOH001R036 367
+\_no 00362
+\tx kay
+y@ji
+minna*m
+7@m 7ukpa*m
+7@m 7uk
+pwes kay
+\mb ka -y
+ya ji7 min -w@ -7am pwes ka -y
+\sg1 DCT3-TMP DCT1-LOC1 venir-COM-YA pues DCT3-TMP 2E
+\eg1 DCT3-TMP DCT1-LOC1 come -COM-NOW well DCT3-TMP 2E
+\tx rremedyu
+\mb
+rremedyu
+\sg1 remedio
+\egl medicine
+\ref ZOH001R036 368
+\_no 00363
+\zoq Kay y@ji minna*m, pwes, kay 7@m 7ukpa*m bi rremedyu.
+\fts Aqui* ya venistes,
+pues, ahora ya vas a tomar el remedio.
+\fte Now here you come, well, now you're going to drink the medicine.
+\com
+\idx
+\tx pwes y@ji
+\mb
+tejiam
+mas
+-7am mas
+pwes ya -ji7 teji
+\sg1 pues DCT1-LOC1 hay
+-YA mas
+\egl well DCT1-LOC1 there_is-NOW more
+\zoq Pwes, y@ji tejiam mas.
+\fts Pues, aqui* hay mas.
+\fte well, here there is more.
+\com
+\idx
+\ref ZOH001R036 369
+\_no 00364
+ZOH001R0361001.txt
+\tx pwes gaja
+\mb
+kuyjo
+pwes ka -ja7
+kuy-jo
+\sgl pues DCT3-LOC1 palo-EN
+\egl well DCT3-LOC1 tree-INTO different
+diferente
+diferente
+diferente
+\ref ZOH001R036 370
+\_no 00365
+\tx 7i 7otro pitzenhjo
+\mb 7i 7otro pitzenhjo7
+\sg] y
+otro por eso
+\egl and other because
+\zoq Pwes, gaja kuyjo diferente.
+\fts Pues, alla* en el monte es diferente.
+\fte well, there in the hills it's different.
+\com
+\idx
+jente d@kkay
+-xuk-pa jente d@kkay
+decir-3PL-INC gente
+NPL
+say -3PL-INC people NPL
+n@mxukpa
+n@m
+\zoq 71 7otro pitzenhjo n@mxukpa jented@kkay.
+\fts Y otro por eso dice la gente.
+\fte And another that's why people say.
+\com
+\idx
+bi
+-pa -7am bi
+tomar-INC-YA DEF
+drink-INC-NOW DEF
+Page 79

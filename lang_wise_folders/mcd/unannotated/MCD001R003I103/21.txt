@@ -1,0 +1,50 @@
+218 cohuarasitanama
+cohua-rasi-tana-ma-a
+brûler-nombreux-pénétrer-CAUS-ACC
+il t'a brûlé l'intérieur de la tête
+219 //uhuun isca fananu//
+uhuun isca-a fana-nu
+1POSS AUX.INTR2-ACC chant-ERG
+ainsi est mon chant
+220 uhuun yohuu fananu
+uhuun yohuu fana-nu
+1POSS sorcier chant-ERG
+mon chant de sorcier
+221 uhuun fana yohuunu
+uhuun fana yohuu-nu
+1POSS chant sorcier-ERG
+mon chant de sorcier
+222 tsoan ano raoma
+223 miqui baduhuaishon
+min-qui badu-huain-shon
+2PERS-DIR verser-aller-ACT.ANT
+ils t'ont rempli (le corps)
+224 miqui badupacushon
+103
+min-qui badu-pacu-shon
+2PERS-DIR verser-tomber-ACT.ANT
+ils l'ont déversé en toi
+225 bia ahuahuucai
+bia a-huahuun-cai
+2PERS.A AUX.TR-PL.ERG-MIR
+ainsi t'ont-ils fait
+226 arasihuahuucai
+a-rasi-huahuun-cai
+3PERS-nombreux-PL.ERG-MIR
+nombreux
+227 uhuun yohuuhuahuucai
+uhuun yohuu-huahuun-cai
+1POSS sorcier-PL.ERG-MIR
+mes sorciers
+D-EXPULSION
+103
+228 bia fudu yoracai
+bia fudu yora-cai
+2PERS.A homme corps-MIR
+ton corps d'homme
+229 //bia afo rapuhuai//
+bia afo rapu-hua-i
+2PERS 3PERS.PL enlever-faire-PROG
+ils te les ont retiré
+yohuu = ifo dans ce contexte ; à rapprocher des chants marubo.
+109

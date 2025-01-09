@@ -1,0 +1,73 @@
+\_no 00811
+\tx kontentu
+\mb kontentu
+\sg1 contento
+\egl content
+\zoq kontentu.
+\fts contento.
+\fte content.
+\com
+\idx
+\ref ZOH001R036 827
+\_no 00812
+\tx ya molestz@ka*m
+\mb ya
+\sg1 NEG molestar-hacer-nINC-YA
+\egl NEG bother -do
+molestar-tz@k -A -7am
+\zoq Ya molestz@ka*m.
+\fts Ya no te molesta.
+\fte Now it doesn't bother (you).
+\com
+\idx
+\ref ZOH001R036 828
+\_no 00813
+\tx pitz@mma*m
+\mb pitz@m-w@ -7am
+-nINC-NOW
+gag@
+ka -g@
+\zoq Pitz@mma*m gag@ fyelda*.
+fts Ya salio* esa fieldad.
+\fte Now that chill has gone.
+\com
+\idx
+ZOH001R0361001.txt
+\sgl salir -COM-YA
+DCT3-DEM
+\egl leave -COM-NOW DCT3-DEM illness
+\ref ZOH001R036 830
+\_no 00815
+fyelda*
+fieldad
+fieldad
+\ref ZOH001R036 829
+\_no 00814
+\tx HAJ: 7i bi toya
+jay 7une
+7@yti
+\mb HAJ 7i bi toy -A7 jaya 7une7 7@yti7
+\sg1 HAJ: y DEF doler-NOM2 macho nin~o/a 3PSN
+Veg1 HAJ: and DEF hurt -NOM2 male child
+3PSN
+\zoq HAJ: 7i bi toy jay7une7@yti?
+\fts HAJ: Y la enfermedad de muchacho?
+\fte HAJ: And diseases of boys?
+\com ridiculous!
+\idx
+\tx GSM: por 7ejemplo bi
+7une
+dak
+7@yti
+\mb GSM por 7ejemplo bi 7une7 d@kkay 7@yti7
+\sg1 GSM: por ejemplo DEF nin~o/a NPL
+\eg1 GSM: for example DEF child
+NPL
+\zoq GSM: Por 7ejemplo, bi 7uned@k7@yti?
+\fts GSM: Por ejemplo, de las criaturas?
+\fte GSM: For example, of the children?
+\com
+\idx
+3PSN
+3PSN
+Page 176

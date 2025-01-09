@@ -1,0 +1,63 @@
+\USE
+\SPG atarantarse, marearse
+\ENG to become dizzy
+\SPL yak. jonh
+\SLGR CAUS
+\SLGL atorar, atarantar // to make dizzy
+\EXU 7ichinh jonh-w@
+\XPSH [7ichinh jonhnh@.]
+\XSP Esta* medio atarantado.
+\XEN She's a little dizzy.
+\EXU da jonh-pa
+\XPSH [D@ jonhpa.]
+\XSP Me ataranto.
+\XEN I'm getting dizzy.
+\SYN
+\SEMF cognitive
+\ASP state, achievement
+\ARG
+\NOM jow.e, jonh.kuy7, jonh=nuk
+\SUB 7ok.jonh. '@y, ka.n@k=jonh. '@y, nakx=jonh, ni.jonh, win-jonh,
+\SUB yuk. jonh
+\ETYM
+\ETL
+\ROOT jonh
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 14/Aug/02
+\lex jonh+jo7
+\_no 00873
+\LG MIG
+\PSH [jonhjo7]
+\UND jonh+jo7
+\MB
+\USE locative
+\GRAM av
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG adentro
+\ENG inside
+\EXU ya.da tam teji.7a-wa ya.da xuyu7+jonh+jo7
+\XPSH [Y@da tam teji7awa y@da xuyujonhjo7.]
+\XSP Esta fruta esta* dentro de la olla.
+\XEN This fruit is in this pot.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\DATE 03/Jan/1980
+\lex jonhjoliinh
+\_no 00874
+\LG MIG
+\PSH
+\UND jonhjoliinh
+\MB
+\VAR
+Page 380

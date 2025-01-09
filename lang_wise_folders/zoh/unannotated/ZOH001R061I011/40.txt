@@ -1,0 +1,62 @@
+\SPG destejer; desbaratar; deshilar
+\ENG to unweave; to come apart; to unravel
+\EX
+\XSP
+\XEN
+\ROOT pujum T3
+\CMTS antip pujum.7oy
+\CMTS pass pujum.7@m
+\lex pukx
+\_no 00199
+\SPG abundar; rendirse; hacerse bastante (trata de animales que esta*
+criando, como ganado)
+\ENG to be abundant; to make abundant (speaks of animals that you're
+raising, like cattle)
+\EX_7@y yakpukxam 7@y wakax
+\XSP ya se hizo bastante su ganado
+\XEN he built up his herd of cattle
+\ROOT pukx 12
+\CMTS caus yak.pukx hacer abundar
+\lex pu7kx
+\_no 00200
+\SPG dar cornadas; cachar
+\ENG to gore; to catch with the horns
+\EX bi pan yakpu7kxoyy@ bi_wakax
+\XSP el hombre lo cacho* el toro
+\XEN the man caught the bull by the horns
+\EX pu7kxm@tz@xukpa wakax dakka
+\XSP se esta*n agarrando de cornada los ganado
+\XEN_the_cattle are play-fighting with their horns
+\ROOT pu7kx T3
+\CMTS antip pu7kx. 7oy cornear to butt with the horns
+\CMTS no pass pu7kx.7@m *
+\lex pun
+\_no 00201
+\SPG echar goma; estilarse; sacar leche
+\ENG to ooze gum
+\EX punn@ kuy
+\XSP echo* goma el palo
+\XEN the tree gave gum
+ZOH001R0611011.txt
+\ROOT pun 12
+\CMTS caus yak.pun hacer echar goma
+\lex punh
+\_no 00202
+\SPG regar
+\ENG to spread
+\EX 7@y punhnh@ pun@7
+\XSP rego* la goma
+\XEN she spread the gum
+\ROOT punh T3
+\CMTS antip punh.7oy
+\CMTS pass punh.7@m regarse
+\lex pup
+\_no 00203
+\SPG sacudir; remenear;
+\ENG to shake
+\EX
+\XSP
+\XEN
+"I
+remen~ar"
+Page 40

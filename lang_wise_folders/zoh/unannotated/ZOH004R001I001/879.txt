@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [moontzaj@7]
+\UND mon.E tza7 +j@7
+\MB envolver, NOM7, stone, LOC1
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG Moneza
+\ENG Moneza
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS a place near SMC; CK-PH - ok, HAJ:96/TK fixed PH
+\date 25/Jun/96
+\lex mudu
+\_no 02039
+LG MIG
+\PSH
+\UND mudu
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG tartamudo
+\ENG stutterer
+\EXU
+\XSP
+\XEN
+\SYN ya (jak) n@m-7o<y-V> 7@y+ 7otonh-w@+@7k
+\SEMF
+\ETYM
+\ETL Sp mudo
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH =ok; CK-SYN/OK: TK
+\date 25/Jun/96
+ZOH004R0011001.txt
+\lex mu.17
+\_no 02040
+\LG MIG
+\PHO [mui7]
+\UND muy. E7
+\MB doblarse, NOM7
+\VAR
+\GRAM pcp
+\SPG apachurrado, doblado
+\ENG dented, bent
+\EXU t@nh.kuy' muy.i7
+\XPSH [t@nhkuy mui7]
+\XSP fierro doblado
+\XEN bent iron
+\SYN
+Page 879

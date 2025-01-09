@@ -1,0 +1,89 @@
+\mb_ ka -y
+ya 7@m_p@m
+\sg1 DCT3-TMP NEG 2E
+\eg1 DCT3-TMP NEG 2E bear
+ZOH001R0361001.txt
+-A -7am yuk-yum
+7@m tzek
+aguantar-nINC-YA ARR-hervir(se)-INC 2E
+barriga
+-nINC-NOW UP -boil
+belly
+-INC 2E
+\zoq Kay yam p@mam yukyumpa 7@m tzek.
+\fts ya no aguantas empieza grun~ar tu barriga.
+\fte Now you can't bear it your belly starts to boil.
+\com
+\idx
+\ref ZOH001R036 841
+\_no 00826
+\tx 7onde bi w@titzay
+\mb
+d@kkay teji7aw@
+donde bi w@ti7 -tzay7 d@kkay teji -7a -w@
+\sg] donde DEF grande-vena NPL
+\eg1 where DEF large -vein NPL
+hay
+\zoq 7onde bi w@titzayd@kkay teji7aw@ mal
+\fts Donde las cuerdas grandes esta*n malo
+\fte where the big muscles are bad
+\com
+\idx
+\ref ZOH001R036 842
+\_no 00827
+\tx de tantu
+\mb de tantu
+\sg1 de tanto
+\egl of so much get_tired-COM-NOW
+potztza*m
+potz
+-w@ - 7am
+cansarse -COM-YA
+\zoq de tantu potztza*m.
+fts de tanto cansancio.
+\fte from too much exhaustion.
+\com
+\idx
+mal
+mal
+-VERS1-COM mal
+there_is-VERS1-COM bad
+\ref ZOH001R036 843
+\_no 00828
+\tx 7anto
+gay
+yakmatzpam
+7@y win
+\mb 7entonses ka -y yak -matz -pa -7am 7@y win
+\sg1 entonces DCT3-TMP CAUS-sobar-INC-YA
+\egl then
+3E
+DCT3-TMP CAUS-rub -INC-NOW 3E
+\ref ZOH001R036 845
+\_no 00829
+GSM: 7i ti
+\tx
+\mb GSM 7i ti
+\zoq 7anto gay yakmatzpam 7@y win jemji7ok.
+\fts Entonces ya te mandas a sobar en todo.
+\fte Then then now he sends to get massaged all over.
+\com
+\idx
+jananh 7am matzpa
+jananh 7@m matz -pa
+2E sobar-INC
+\eg1 GSM: and what ACC 2E rub -INC
+\sg1 GSM: y
+que AC
+\zoq GSM: 7i tij@nanh 7@m matzpa?
+\fts GSM: Y con que lo sobas?
+\fte GSM: And what do you massage with?
+\com
+\idx
+\ref ZOH001R036 846
+-pa
+Page 179
+jemji7ok
+jemji7ok
+REFL por todo
+REFL all over

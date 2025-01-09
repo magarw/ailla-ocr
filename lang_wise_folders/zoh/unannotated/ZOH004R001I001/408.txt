@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 jup
+\RTGR 1 P, (T3)
+\ROOT 2 tzik
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 25/Sep/94
+\lex jup.kuy7
+\_no 00934
+\LG MIG
+\PSH [jupkuy7]
+\UND jup.kuy7
+\MB jalar, INSTR1
+\VAR
+\GRAM instrl
+\SCI
+\USE
+\SPG asa (donde se agarra una cubeta)
+\ENG handle of a bucket
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jup
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 17/Jul/95
+\lex jup-k@.manh. '@y
+\_no 00935
+\LG MIG
+\PSH [jupk@manhnh@y-]
+\UND jup-k@.manh.7@y
+\MB jalar, AFUERA, *pisar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG subir jala*ndolo
+\ENG to raise something by pulling it
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 jup
+\RTGR 1 P, (T3)
+\ROOT 2 *mạnh
+\RTGR 2 P
+\DSRC HAJ94
+Page 408

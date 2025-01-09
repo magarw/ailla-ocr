@@ -1,0 +1,66 @@
+\UND tzawi7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG mono; chango
+\ENG monkey
+\SPL mukuy tzawi7
+\SLGR zarahuato
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\lex tzaxx@
+\_no 03294
+\ROOT
+\DSRC HAJ94
+\CMTS mukuy tzawi7 - biggest of the monkeys, it carries people away
+\date 10/Feb/96
+LG MIG
+\PSH
+\UND tzaxx@
+\MB
+LF: 7anmal
+\VAR_tza7xx@ DENIED:GSM
+\GRAM vi
+\SCI
+\USE
+\SPG tener verguenza; ruborizarse; apenarse
+\ENG to feel shame; to blush
+\SPL yak.tzaxx@
+\SLGR CAUS
+\SLGL avergonzar
+\EXU tzaxx@-wa
+\XPSH [Tzaxx@w@.]
+\XSP Tuvo verguenza.
+\XEN I was ashamed.
+\SYN
+\SEMF cognitive
+\ASP state
+\ARG
+\NOM tzaxx@.kuy7, tzaxx@.i
+\SUB ko.tzaxx@
+\ETYM pSoke *tza7aj
+\ETL
+\ROOT tzaxx@
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\lex tzaxx@.i
+\_no 03295
+\CMTS CK-PH
+2 sylls, ok
+\CMTS MAR has tza7aj vi, tza7a7 sv; COP has tza7aj vi
+\date 03/Jan/80
+ZOH004R0011001.txt
+\LG MIG
+\PHO [tzaxx@i]
+\UND tzaxx@.E
+\MB tener_verguenza,
+\VAR
+\GRAM pcp
+NOM7
+Page 1416

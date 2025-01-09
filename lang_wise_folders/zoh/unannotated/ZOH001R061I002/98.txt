@@ -1,0 +1,60 @@
+\CLZ
+\CMTS
+\lex xek
+\_no 00397
+\SPG regar terreno con agua
+\ENG to spread water; to irrigate
+\SEMF water, farm
+\ASP process
+\ARG
+\NOM xek.e
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex xem
+\_no 00398
+\SPG tocar
+\ENG to play music
+\SEMF sound
+\ASP process
+\ARG patient
+\NOM xem.e7
+\RTGR T1
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex xe7px
+\_no 00399
+\SPG hacer mecate
+\ENG to make rope
+\SEMF build
+\ASP process
+\ARG patient
+\NOM xe7px.e7
+\RTGR T1
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex xe7t
+\_no 00400
+\SPG frei*r; tostar
+\ENG to fry; to toast
+\SEMF cook
+\ASP process
+\ARG
+\NOM xe't.e7, xe7t=t@tz.i7
+\RTGR T1
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+Page 98

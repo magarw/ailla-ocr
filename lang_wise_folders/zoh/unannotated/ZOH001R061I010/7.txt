@@ -1,0 +1,60 @@
+\SEMF speak, cog
+\CMTS ya no usa, pero puede entenderlo
+\CMTS 7unnawe //7un.7a-w@// se engan~o*
+\lex 7u7px
+\_no 00024
+\SPG levantar nubes; nublarse
+\ENG for clouds to rise up; to get cloudy
+\EX 7u7px7in@ / jinin 7in@7
+\XSP nube espeso
+\XEN thick cloud
+\ROOT 7u7px 12
+\SEMF nature
+\CMTS
+\lex 7utz
+\_no 00025
+\SPG medir
+\ENG to measure
+\EX 7@y+ 7utz-ten-w@ 7@y mok
+\XSP lo tiene medido su mai z
+\XEN he's got his corn measured
+\EX 7@y_winjo y 7utztz@
+\XSP delante de e*1, lo midio*
+\XEN he measured it in front of him
+\ROOT 7utz T3
+\SEMF trade
+\PASS 7utz.7@m
+\ANTI 7utz.7oy
+\PRSV 7utz.ten
+\CMTS term tuk 'acabar de medir'
+\lex 7@j
+\_no 00026
+\SPG pujar
+\ENG to grunt
+\EX
+\XSP
+\XEN
+\ROOT 7@j Ix
+\SEMF speak
+\CMTS
+\CAUS yak.7@j
+ZOH001R0611010.txt
+\lex 7@jaj
+\_no 00027
+\SPG quejarse
+\ENG to complain
+\EX 7@j@jpa
+\XSP se esta* quejando
+\XEN he's complaining
+\EX j@xt@kjonh_7@j@jpa
+\XSP atras de la casa esta* quejandose
+\XEN he's complaining behind the house
+\ROOT 7@jaj Il
+\SEMF speak
+\CMTS MAR also has //7@j@j//
+\lex 7@kx
+\_no 00028
+\SPG desgranar (mai*z)
+\ENG to shell (corn)
+\EX mok 7@kx@
+Page 7

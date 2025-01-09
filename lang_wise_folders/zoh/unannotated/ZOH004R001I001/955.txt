@@ -1,0 +1,63 @@
+\DATE 03/Jan/1980
+\lex nenh.nenh.ney
+\_no 02216
+\LG MIG
+\PSH [nenhnenhney-]
+\UND nenh.nenh.ney
+\MB olear, olear, REDUP1
+\VAR
+\GRAM VİR
+\SPG moverse las olas
+\ENG washing back and forth
+\SPL
+\SLGR
+\EXU
+\XPSH
+\XSP
+\XEN
+\SYN
+\SEMF
+\ROOT nenh
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date
+\lex ne7tz.ne7tz.ney
+\_no 02217
+\LG MIG
+\PSH [ne7tzne7tzney-]
+\UND ne7tz.ne7tz.ney
+\MB X, X, REDUP1
+\VAR
+\GRAM VİRF
+\SCI
+\USE
+\SPG mascando
+\ENG the sound of chewing
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 31/Mar/95
+\lex ney 7i-w@7
+\_no 02218
+ZOH004R0011001.txt
+water
+\LG MIG
+\PSH [ney 7iw@7]
+\UND ney 7i-w@7
+\MB mismo, QUIEN, PRN2
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG alguien
+\ENG someone
+\EXU ney 7i-w@7 +j@nanh d@+ tukxi'. 'aH=t@-pa
+Page 955

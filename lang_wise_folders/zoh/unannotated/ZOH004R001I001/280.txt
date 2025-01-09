@@ -1,0 +1,63 @@
+\lex jama=xam
+\_no 00654
+\LG MIG
+\PSH [jamaxam]
+\UND jama=xam
+\MB sol, calentarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG calentarse en el sol porque tiene fri*o
+\ENG to warm oneself in the sun
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xam
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 13/Jun/95
+\lex jam-ponh.kuy7
+\_no 00655
+\LG MIG
+\PSH [jamponhkuy7]
+\UND jam-ponh.kuy7
+\MB cal, quemar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG horno de cal
+\ENG lime oven
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT ponh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+\lex jam=tza7
+\_no 00656
+\LG MIG
+\PSH [jamtza7]
+\UND jam=tza7
+\MB cal, piedra
+\VAR
+\GRAM SS
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG piedra de cal
+\ENG limestone
+\EXU
+Page 280

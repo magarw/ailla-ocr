@@ -1,0 +1,63 @@
+\_no 00087
+\SPG comprar
+\ENG to buy
+\EX 7@n juyy@ paja7k wayay n@7
+\XSP compre* un refresco
+\XEN I bought a soda
+\EX da juyyoyy@
+\XSP compre*
+\XEN I shopped
+\EX tijja n juyyoe7
+\XSP fui* a comprar
+\XEN I went shopping
+\EX 7@y juytenn@ bi tzoy
+\XSP lo tiene comprado su remedio
+\XEN she's got the medicine bought
+\ROOT juy T3
+\SEMF trade
+\PASS juy.7@m ser comprado
+\ANTI juy.7oy comprar
+\PRSV juy.ten tener comprado
+\CMTS
+\lex j@7kx
+\_no 00088
+\SPG apurarse
+\ENG to hurry
+\EX j@7kxpa
+\XSP ra*pido; veloz
+\XEN rapid; swift
+\EX j@7kxpa y n@kk@
+\XSP va apurado; va ra*pido
+\XEN he goes hurrying
+\ROOT ja7kx Il
+SEMF motion
+\CAUS yak.j@7kx apurar
+\CMTS
+\lex jam
+\_no 00089
+\SPG tallar; mecer
+ZOH001R0611010.txt
+\ENG to scrape/rub clean/clear; to swing
+\EX 7@y jamm@ kajtzayjo7
+\XSP 10 mecio* en la hamaca
+\XEN he swang in a hammock
+\EX 7@y jamm@ 7@y machete
+\XSP lo afilo* la machete
+\XEN he sharpened his machete
+\ROOT jam T1
+\SEMF affect, motion
+se confunde con 'esta* meciendo'
+\PASS NONE
+\ANTI jam. 7oy
+\CMTS refers to the back & forth motion.
+\lex jan
+\_no 00090
+\SPG tener ganas de ir a baile o bar pero no ir (en alguna parte)
+\ENG to be in the mood to go dancing or to a bar - but not go anywhere
+\EX
+\XSP
+\XEN
+\ROOT jan Ix
+\SEMF cog
+\CAUS yak.jan hacerle ganas de ir a alguna parte, pero ya no fueron
+Page 22

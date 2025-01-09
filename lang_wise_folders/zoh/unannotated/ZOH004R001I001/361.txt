@@ -1,0 +1,63 @@
+\XEN Have you scrubbed the pot?
+\SYN jo.j@m
+\SEMF
+\ETYM
+\ETL
+\ROOT jin
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jun/96
+\lex jo.ji7p
+\_no 00829
+\LG MIG
+\PSH [joji7p-]
+\UND jo.ji7p
+\MB EN, mover_con_palo
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG mover con la trompa
+\ENG to push with the snout
+\SPL
+\SLGR
+\EXU 7@y+ jo.ji7p-w@ bi yoya popo'=n@7_7@y+_kin@k+pi7t
+\XPSH [7@y joji7pp@ bi yoya popon@y kin@kpi7t.]
+\XSP Esta* trompeando su agua de masa con su trompa.
+\XEN The pig is rooting through it's corn water with its snout.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT ji7p
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 24/Jun/96
+\lex jo.jix
+\_no 00830
+ZOH004R0011001.txt
+\LG MIG
+\PSH [jojix-]
+\UND jo.jix
+\MB EN, remojar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG limpiar todo lo que esta* adentro (de una olla, ..)
+\ENG to wipe out the inside of something (like a pot)
+\SPL
+\SLGR
+\EXU 7@y+ jo.jix-w@ sarteen
+\XPSH [7@y jojixx@ sarte*n.]
+\XSP Limpio* todo su sarten.
+\XEN She wiped out her frying pan.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jix
+\RTGR T3
+Page 361

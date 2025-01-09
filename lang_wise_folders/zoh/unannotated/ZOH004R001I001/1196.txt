@@ -1,0 +1,64 @@
+\ROOT 2 tax
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 16/Oct/94
+\lex pujuj
+\_no 02779
+\LG MIG
+\PSH
+\UND pujuj
+\MB
+\VAR
+\GRAM vi: med
+\SCI
+\USE
+\SPG derretirse; deshacerse
+aceite
+\ENG to dissolve; to go rancid - oil
+\SPL yak.pujuj
+\SLGR CAUS
+\SLGL derretir // to melt; to dissolve
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pujuj
+pujuj
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 19/Jun/95
+\lex puju7k
+\_no 02780
+\LG MIG
+\PSH
+\UND puju7k
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG tripas
+\ENG intestines
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 16/Oct/94
+ZOH004R0011001.txt
+\lex pujum
+\_no 02781
+\LG MIG
+\PSH
+\UND pujum
+Page 1196

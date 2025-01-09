@@ -1,0 +1,87 @@
+ZOH001R0551001.txt
+\_no 00023
+\tx kwandu naxe 7@y sentz@kk@
+bi
+7okyanhke
+\mb kwandu naxe 7@y sentir-tz@k -w@ bi 7oko
+\sg1 cuando verdad 3E sentir-hacer-COM DEF vieja
+\eg1 when
+ke
+-yanhke7 ke
+-gringo que
+truth 3E feel -do -COM DEF old_woman-yankee that
+\tx ye7tztza*m
+\mb
+jerma*n
+ye7tz -w@ -7am
+jerma*n
+\sg1 11egar-COM-YA
+Germa*n
+\egl arrive-COM-NOW Germa*n
+\zoq Kwandu naxe 7@y sentz@kk@ bi 7okyanhke ke ye7tztza*m Jerma*n.
+\fts Cuando de verdad sintio* la gringa que ya llego* Germa*n.
+gringa felt that now Germa*n had come.
+\fte when in fact the
+\com
+\idx
+\ref ZOH001R055 023
+\_no 00024
+\tx n@mpa
+\mb n@m
+d@ minna m
+d@
+-w@ - 7am
+\sg1 decir-INC 1Prn 1A venir-COM-YA
+\egl say -INC 1Prn 1A come -COM-NOW
+d@x
+-pa d@x da min
+\zoq Nampa d@x, "D@ minna*m.
+fts Dice, "Yo ya vine.
+\fte She said, 'Now I'm here.
+\com
+\idx
+\ref ZOH001R055 024
+\_no 00025
+ke
+\tx minn@
+\mb min
+ke
+-pa - 7am
+\sg1 venir-COM 1>2 decir-APPL-dCOM que 1A trabajar-empezar-1/2 PL-INC-YA
+\egl come -COM 1>2 say -APPL-dCOM that 1A work -begin -1/2PL-INC-NOW
+mix n@mjay
+-wa mix n@m -jay -E
+\ref ZOH001R055 025
+\_no 00026
+d@ yox7okmanhtampa*m
+da yox
+\zoq Minn@ mix n@mjay ke d@ yox7okmanhtampa*m.
+\fts Te vine a decir que ya vamos a empezar a trabajar.
+\fte I came to tell you that now we're going to start to work.
+\com
+\idx aux_p2
+joji
+\tx 7asyeske da n@ktampa
+\mb
+7asyeske
+da n@k -tam -pa joji7
+\sg] asi_es_que 1A irse-1/2PL-INC man~ana
+\egl so
+1A go -1/2PL-INC morning
+\zoq 7asyeske da n@ktampa joji."
+\fts Asi* es que nos vamos man~ana."
+"I
+\fte so, we go tomorrow.
+\com
+\idx
+-7okmanh-tam
+\ref ZOH001R055 026
+\_no 00027
+\tx pero ju
+ti de7
+da n@kpa
+joji
+\mb pero ju7 ti te -7 da nak -pa joji7
+\sg1 pero donde que DCT2-NOM1 1A irse-INC man~ana
+\egl but where what DCT2-NOM1 1A go -INC morning
+Page 6

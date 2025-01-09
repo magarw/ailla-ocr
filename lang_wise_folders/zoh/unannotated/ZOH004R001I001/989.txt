@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT kekx
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 27/Jan/96
+\lex nik.kek. '@y
+\_no 02295
+\LG MIG
+\PSH [nikkekk@y-]
+\UND nik.kek.7@y
+\MB SUP, brincar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG brincarle
+\ENG to jump over someone
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kek
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 19/Jun/96
+\lex nik.keo.7@y
+\_no 02296
+\LG MIG
+\PSH [nikke707@y-]
+\UND nik.keYOH.7@y
+\MB SUP, brillar, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG darle el reflejo
+\ENG to reflect light from something shiny onto something else
+\SPL
+\SLGR
+ZOH004R0011001.txt
+\EXU_7@y+ yak.nik.keo.7@y-w@ ga7 keo-pa+a7k
+\XPSH [7@y yaknikkeo7@yy@ ga_keoba*7.]
+\XSP Le dio el reflejo aquella cosa que brilla.
+\XEN The shiny thing reflected the light on something.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT keyOH
+\RTGR 12
+\DSRC HAJ95
+\CMTS CK-PH/GR - I think it's vi, HAJ:96
+\date 25/Jun/96
+Page 989

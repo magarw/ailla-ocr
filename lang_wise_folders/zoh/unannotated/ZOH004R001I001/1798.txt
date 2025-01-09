@@ -1,0 +1,64 @@
+\SYN
+\SEMF
+\ETYM cuina
+\ETL Sp
+\ROOT
+\DSRC TK94
+\CMTS CK-GR/OK: TK
+\date 26/Jun/96
+\lex yoya m@tz.i
+\_no 04184
+\LG MIG
+\PHO [yoya m@tzi]
+\UND yoya m@tz.E
+\MB marrano, *jugar, NOM7
+\VAR
+\GRAM smpcp
+\SPG animal que vive en un hoyo
+\ENG an animal that lives in a hole
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT m@tz
+*
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex yoya_tzajin
+\_no 04185
+\LG MIG
+\PSH
+\UND yoya tzajin
+\MB marrano, culebra
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG culebra de marrano viene siendo como la iguana
+\ENG a type of snake
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+LF:tzajin
+\ROOT
+\DSRC TK94
+\CMTS
+\date 11/Feb/96
+\lex yoya tzitza7
+\_no 04186
+\LG MIG
+\PSH
+\UND yoya tzitza7
+\MB
+ZOH004R0011001.txt
+\VAR yoy tzitza7
+\GRAM s (m) s
+\SCI
+\USE
+\SPG chicharro*n
+Page 1798

@@ -1,0 +1,73 @@
+\sg] trabajar-1/2PL-dINC
+\egl work -1/2PL-DINC
+\zoq Porke y@7 kompromisuwa*m ke n@kpan yoxtamm@."
+\fts Porque este ya es compromiso que vamos a trabajar.
+fte Because now it's arranged that we're going to work.'
+\com
+\idx aux_p1
+\ref ZOH001R055 067
+\_no 00068
+\tx naxe y
+\mb naxe
+7onhtze7kk@yy@
+jut@nh
+tzakk@mpa
+bi karru
+tzak -7@m -pa bi karru
+7@y 7anh -tze7k-7@y-wa jut@@nh
+\sg1 verdad 3E BOCA -pedir-SUF-COM por donde dejar-PAS -INC DEF camio*n
+\egl truth 3E MOUTH-ask -SUF-COM where
+leave-PASS-INC DEF bus
+\zoq Naxey 7anhtze7kk@yy@, "Jut@nh tzakk@mpa bi karru?"
+\fts De verdad, pregunto*, "Por donde queda el carro?"
+\fte In fact, he asked, "Where is the bus?"
+\com
+\idx
+\ref ZOH001R055 068
+\_no 00069
+ZOH001R0551001.txt
+n@mjaxukk@
+jut@*nh
+\tx 7iy
+\mb 71 -7@y nam -jay -xuk-w@ jut@@nh
+\sg] y -3E decir-APPL-3PL-COM por donde
+\eg1 and-3E say -APPL-3PL-COM where
+\ref ZOH001R055 069
+\_no 00070
+\tx minn@
+para katemako
+\mb min -w@ para katemako
+\sg] venir-COM para Catemaco
+\egl come -COM for Catemaco
+\zoq Minn@ para Katemako.
+\fts se vino para Catemaco.
+\fte He came to Catemaco.
+\com
+\idx
+\zoq 7iy n@mjaxukk@ jut@*nh 7@y p@kk@ bi karru.
+\fts y le dijeron por donde agarro* el carro.
+\fte And they told him where he could catch the bus.
+\com
+\idx
+\ref ZOH001R055 070
+\_no 00071
+\tx ye7tztz@ katemako termina*1
+\mb ye7tz -wa katemako termina* 1
+\sg1 11egar-COM Catemaco terminal
+\egl arrive-COM Catemaco terminal
+\zoq Ye7tztz@ Katemako termina*l.
+\fts Llego* en Catemaco terminal.
+\fte He arrived in the Catemaco terminal.
+\com
+\idx
+\ref ZOH001R055 071
+\_no 00072
+bi karru
+7@y pakka
+7@y p@k -w@ bi karru
+3E agarrar-COM DEF camio*n
+-COM DEF bus
+3E
+"I
+get
+Page 16

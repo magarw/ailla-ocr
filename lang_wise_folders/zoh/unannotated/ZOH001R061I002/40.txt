@@ -1,0 +1,63 @@
+\ARG
+\NOM mi7tz.naanh, mi'tz.i
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex mokok
+\_no 00160
+\SPG doler "por poquito le duele", viene y sale
+\ENG to hurt a little, it comes and goes
+\SEMF body
+\ASP
+\ARG
+\NOM *kuy7
+\RTGR IX
+\POS N
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex mokoy
+\_no 00161
+-
+\SPG emborracharse
+\ENG to get drunk
+\SEMF body, cognitive
+\ASP achievement
+\ARG
+\NOM moko.e, * kuy7
+\RTGR 12
+\POS 7ojo d@ yakmokoyy@
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex mo7k
+\_no 00162
+ZOH001R0611002.txt
+\SEMF carry
+\ASP activity
+\ARG
+\NOM
+\RTGR P, (TX)
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\SPG abrazar
+\ENG to hold in the crook of the arm
+\lex mo7kx
+\_no 00163
+\SPG agarrar huevos
+\ENG to grab someone's balls
+\SEMF touch, body
+\ASP achievement
+\ARG
+\NOM
+\RTGR TX
+el aguardiente me emborracho*
+Page 40

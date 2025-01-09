@@ -1,0 +1,64 @@
+\LG MIG
+\PSH
+\UND YOX
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG trabajar
+\ENG to work
+\SPL yak.yoj
+\SLGR CAUS
+\SLGL hacer trabajar // to make work
+\SPL yox. ten
+\SLGR PRSV
+\SLGL tener trabajado // to have worked
+\EXU 1 yox-w@ pa jamatin. '@y-wa
+\XPSH 1 [YOxx@ pa jamatinn@yy@.]
+\XSP 1 Trabajo para que tuvo dinero.
+\XEN 1 She worked to have money.
+\EXU 2 7@y+ yox-w@ 7@y+ yox.kuy7
+\XPSH 2 [7@y yoxx@y yoxkuy7.]
+\XSP 2 Trabajo* su trabajo.
+\XEN 2 He did his job.
+\SYN
+\SEMF build
+\ASP process
+\ARG
+\NOM yox.kuy7, yox.e7
+\SUB k@.yox, yox-ko.tzonh
+\ETYM
+\ETL
+\ROOT yox
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex yox.e de kuy
+\_no 04173
+\LG MIG
+\PSH [yoxe de kuy]
+\UND yox. E de kuy
+\MB trabajar, NOM7, de, palo
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG hecho de madera
+\ENG made of wood
+\EXU
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yox
+\RTGR T1
+\DSRC HAJ94
+\CMTS Germa*n really doesn't like this one, but can't think of a good
+alternative today it must be a Gelasio-ism; NO/TK, GSM
+\date 26/Jun/96
+Page 1793

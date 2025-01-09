@@ -1,0 +1,55 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(vii) jakke dø kuytøngpa
+hakke dǝ+ kuy=təŋ-pa
+very 1A+ tree=cut_w_machete-INC
+'I'm going to cut a lot of trees.'
+(viii) wenu dø kuytønhnhø
+wenu də+ kuy=təŋ-wǝ
+very 1A+ tree=cut_w_machete -COM
+'I cut a lot of trees.'
+4.10. Subordinators
+Subordinators mark subordinate clauses, which are discussed in detail in
+chapter 11. A list of these forms is shown in table 4.7. The relativizers +V?k
+(REL) and +hi? (LOC_REL) are included in this class even though they are clitics,
+not words, because (a) they share the function of subordinating clauses, and (b)
+they alternate with Spanish subordinators (que, 'that', and donde, 'where',
+respectively) like the other members of this class.
+Zoque
++V?k
++hi?
+Pora
+bi?t
+goo?
+Poŋke
+porke
+kom kwando
+English
+relativizer
+locative relative
+temporal relative
+if
+for; in order to
+even though
+because
+as if
+Spanish
+relativizador
+relativizador
+locativo
+relativizador
+temporal
+si
+85
+para
+aunque
+porque
+como cuando
+Table 4.7. Subordinators
+Gloss code
+REL
+LOC_REL
+TEM_REL
+IF
+PURP
+Spanish subordinators have been freely borrowed into MIG Zoque, as is
+the case in many MesoAmerican languages (Thompson and Longacre, 1985).

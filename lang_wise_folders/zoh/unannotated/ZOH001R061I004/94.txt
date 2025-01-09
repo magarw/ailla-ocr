@@ -1,0 +1,63 @@
+\_no 00231
+\LG MIG
+\PHO [numtuni7]
+\UND_num=tun.E7
+\MB robar, devisar, NOM7
+\VAR
+\GRAM pcp
+\SPG alguien que deviso* a escondido
+\ENG someone that you saw from hiding
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT 1 num
+\RTGR 1 T1
+\ROOT 2 tun
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex_num=tunh7
+\_no 00232
+\LG MIG
+\PSH [numtunh7]
+\UND num=tunh.7
+\MB robar, camino, NOM1
+\VAR
+\GRAM as
+\SCI
+\USE
+\SPG vereda
+\ENG path
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT num
+\RTGR T1
+\DSRC HAJ94
+\CMTS CK-PH/OK:TK
+\date 25/Jun/96
+\lex nutz.@7
+\_no 00233
+-\LG MIG
+\PSH [nutz@7]
+\UND nutz.@7
+\MB estar_caliente, NOM2
+\VAR
+\GRAM SV
+\SPG sudor
+\ENG sweat
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH001R0611004.txt
+\ROOT nutz
+\RTGR 12
+\DSRC HAJ95
+Page 94

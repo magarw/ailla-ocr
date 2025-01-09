@@ -1,0 +1,78 @@
+\egl but where-DCT3-LOC1 2E shoot-INSTR1
+\zoq "Pe jugay 7@m tujkuy?
+\fts "Pero en donde esta*?
+\fte "But where is your weapon?
+\com
+\idx
+\ref ZOH001R011 059
+\_no 00060
+tujkuy7
+-7@n tuj -kuy7
+\sg1 no_hay
+-1E
+tirar-INSTR1
+\egl there isn't-1E shoot-INSTR1
+\tx n@ntin
+\mb n@nti
+\zoq N@ntin tujkuy7."
+\fts No tienes arma.
+\fte There's no weapon."
+\com
+\idx
+\ref ZOH001R011 060
+\_no 00061
+"I
+n
+yaja
+ya -ja7
+-j@7 7@n pak
+\tx de7
+\mb
+te -7
+\sg1 DCT2-NOM1 DCT1-LOC1 1E
+\eg1 DCT2-NOM1 DCT1-LOC1 1E
+\ref ZOH001R011 061
+\_no 00062
+p@kwitpa
+\zoq "De7 y@jan p@kwitpa."
+\fts "Aqui lo ando, mi teniente."
+\fte "I'm carrying it here."
+\com
+\idx
+ZOH001R0111001.txt
+-wit
+agarrar-andar-INC
+-walk -INC
+get
+\fte He pulled out his sling.
+\com
+\idx
+\tx 7ay jaxjupp@w@
+7@y tzajnakxkuy
+\mb 7@y jax -jup -p@7 -w@ 7@y tzaj -nakx
+\sg1 3E
+ATRAS-jalar-poner-COM 3E
+\egl 3E
+pegar-pegar_con_palo-INSTR1
+BACK -pull -put -COM 3E glue -hit_with_stick-INSTR1
+\zoq 7@y j@xjupp@w@ 7ay tzajnakxkuy.
+\fts Saco* su honda.
+\ref ZOH001R011 062
+\_no 00063
+\tx y
+p@jayya
+y tza7
+\mb 7@y p@7 -jay -wa 7@y tza7
+\sg1 3E poner-APPL-COM 3E piedra
+\egl 3E put -APPL-COM 3E rock
+\zoq Y p@jayy@y tza7.
+\fts Le echo* la piedra.
+\fte He put a rock in it.
+\com
+\idx
+\ref ZOH001R011 063
+\_no_00064
+\tx 7entonse mix tennanhwaktam@
+-ра
+Page 14
+-kuy7

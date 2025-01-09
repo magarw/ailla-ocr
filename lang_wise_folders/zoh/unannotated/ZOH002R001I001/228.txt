@@ -1,0 +1,35 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+were unsuccessful, although it is a plausible candidate for the auxiliary set,
+since other Zoquean languages have a 'walk' auxiliary (Himes, 1997).
+In this construction, the auxiliary follows the main verb. The main verb is
+directly inflected for aspect, while the auxiliary bears the dependent suffix. The
+main verb is marked for agreement with whichever set of markers is
+appropriate, absolutive or ergative, and an ergative marker appears between
+the two. The syntax follows this template:
+<Agreement marker> <V1-Infl> <Ergative marker>
+(8.10)
+(i)
+(ii)
+jemji 'øy pøkpay nøkkø
+hemhi ?əy+ pək-pa ?əy+ nək-wə
+all 3E+ get-INC 3E+ go-dINC
+'He goes around grabbing everyone.'
+jemji pø'tpa 'øy nøkkó'
+hemhi 0 pǝ?t-pa
+all
+?əy+ nək-wə+V?k
+3A pass-INC 3E+ go-dINC+REL
+'Everyone who goes passing by'
+<AuxV-deplnfl>
+202
+(ZOH001 R018-199)
+(ZOH001R018-034)
+Verbs in this construction have a clearly continuative aspectual force,
+whether they are in the incompletive or the completive. This construction
+means 'to go/come/walk around doing V1'. The meaning of nək-, 'to go', is
+somewhat bleached semantically, as can be seen in examples (8.11 i) and (ii).
+In (i), the little jaguar doesn't actually go anywhere until after he grows up. The
+semantic force of wit-, 'to walk', is very evident, however; it only appears in this
+construction when the VI event is something that can be done while walking
+around (iii-iv). The clear literalness of the motion of the action in these
+constructions perhaps explains why tih-, 'to go and return', doesn't appear in

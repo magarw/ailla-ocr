@@ -1,0 +1,66 @@
+\MB blanco, gavilan
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG gavilan blanco
+\ENG white hawk
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS CK-PH
+HAJ:96, sounds ok, almost [poi7] with a laryngealized i; these
+days German is giving [po:wi7]
+\date 25/Jun/96
+-
+\lex popo' yo't.e7
+\_no 02727
+LF: jon
+LG MIG
+\PSH [popo yote7]
+\UND popo7 yo7t. E7
+\MB blanco, tela
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG manta blanca
+\ENG white cloth
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex popo¹.7ан
+\_no 02728
+\LG MIG
+\PSH [popo7a-]
+\UND popo'.7aH
+\MB blanco, VERS1
+\VAR
+\SLGR
+\EXU
+\XSP
+\XEN
+\GRAM versl
+\SCI
+\USE
+\SPG hacerse blanco
+\ENG to become white
+\SPL
+\SYN
+\SEMF
+ZOH004R0011001.txt
+Page 1173

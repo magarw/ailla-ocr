@@ -1,0 +1,63 @@
+\ENG to make a hole; to pierce
+\SPL woj. 7oy
+\SLGR ANTIP
+\SLGL hacer hoyo // to make a hole
+\SPL woj.7@m
+\SLGR PASS
+\SLGL deshondarse // to be pierced
+\SPL woj-ten
+\SLGR PRSV
+\SLGL tener agujereado, tener hecho el hoyo // to have it pierced, to have
+a hole made
+\SPL woj.ney
+\SLGR ASSUM1
+\SLGL animal se embroca porque no quiere caminar, o animal muerte //
+\EXU 1 woj.7@m-w@ bi xuyu7
+\XPSH 1 [Wojj@mm@ bi xuyu7.]
+\XSP 1 se deshondo* la olla.
+XEN 1 The pot had a hole in it.
+\EXU 2 tza'=t@k woj-wa
+\XPSH 2 [Tzat@k wojj@.]
+\XSP 2 Hizo hoyo.
+\XEN 2 He dug a hole.
+\EXU 3 woj.na yo'-w@
+\XPSH 3 [Wojna yow@.]
+\XSP 3 Cayo* de golpe; Cayo* ra*pido.
+\XEN 3 She fell down from the blow; She fell swiftly.
+\SYN
+\SEMF cut
+\ASP achievement
+\ARG
+\NOM woj.e7, toto'=woj. kuy7
+\SUB manh-woj
+\ETYM
+\ETL
+\ROOT woj
+\RTGR T3
+ZOH004R0011001.txt
+\DSRC TK94
+\CMTS
+\CMTS CK-EX3 HAJ:96, was ney (wrong) now is na
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex woj.e7 [1]
+\_no 03784
+\LG MIG
+\PHO [woje7]
+\UND woj. E7
+\MB ladrar, NOM7
+\VAR
+\GRAM_pcp
+\SPG ladrido
+\ENG bark
+\EXU 7@n+ matonh-w@ tum nu' 7@y+ woj.e7
+\XPSH [7@n matonhnh@ tum nuy woje7.]
+\XSP Escuche* un ladrido de perro.
+\XEN I heard the bark of a dog.
+\SYN
+\ROOT woj
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+Page 1626

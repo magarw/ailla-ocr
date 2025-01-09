@@ -1,0 +1,62 @@
+\id C:\SHOUT\VROOT2.TXT
+\lex 7amma
+\_no 00001
+\SPG mirar; ver
+\ENG to look; to see
+\EX 7amma tzap+j@nanh
+\XSP !mira pa(ra) arriba!
+\XEN look up!
+\EX 7@n 7ammaw@ pa tzapj@nanh
+\XSP vi para arriba
+\XEN I looked up
+\EX d@ 7ammapa y@j@*nh kaja*nh
+\XSP estoy viendo pa aca* y por alla*
+\XEN I'm looking here and there
+\EX 7@y yakkammaw@
+\XSP lo esta* dando de ver
+\XEN
+\ROOT 7amma T1
+\SEMF percep
+\CAUS yak.7amma hacer ver
+\CMTS prob. derived
+28/Oct/04
+\lex 7an
+\_no 00002
+\SPG calentarse cerca de la lumbre
+\ENG to warm oneself near a fire
+\EX d@ 7ann@
+\XSP me calento*
+\XEN I warmed myself
+\EX d@ 7anpa
+\XSP voy a calentar
+\XEN I'm going to warm myself
+ZOH001R0611010.txt
+\EX 7anjayya y jax
+\XSP esta* calientando la espalda
+\XEN he's warming his back
+\ROOT 7an I2
+\SEMF temp
+\lex 7anhnit
+\_no 00003
+\SPG tener
+\CAUS yak.7an calentar
+\CMTS human or animal subject
+\CMTS when his wife is standing near the horno making tortillas, 7@y 7ann@
+\CMTS This is 12 no impv or vol, can't do it on purpose. ΤΟ
+\CMTS deliberately warm yourself is xam-
+\ENG to have
+\EX y@ji mix 7anhnitpa
+\XSP aqui me tienes
+\XEN here you have me
+\ROOT 7anh-=nit T3
+\SEMF possess
+\PASS NONE
+\ANTI 7anh.7it.7oy
+\CMTS rejected [7anh7itpa]
+\lex 7apx
+\_no 00004
+\SPG pizcar mazorca - no con todo y pico; dejar totomoste como si tuviera
+todavi*a la mazorca
+\ENG to pick corn, but just a little, stealing it; to fool somebody who comes to
+steal
+Page 1

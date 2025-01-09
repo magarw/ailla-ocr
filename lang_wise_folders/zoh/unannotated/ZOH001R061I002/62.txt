@@ -1,0 +1,63 @@
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex pun
+\_no 00249
+\SPG echar goma; estilarse; sacar leche
+\ENG to emit gum; to give milk
+\SEMF emit, nature
+\ASP activity
+\ARG
+\NOM pun. @7
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex punh
+\_no 00250
+\SPG regar
+\ENG to spread
+\SEMF spread
+\ASP activity
+\ARG
+\NOM
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex pup
+\_no 00251
+\SPG sacudir; remenear; regar (arena, maiz, arroz)
+\ENG to shake; to stir; to spread (sand, corn, rice)
+\SEMF move
+\ASP activity
+\ARG
+\NOM
+\RTGR P (T3)
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex putz
+\_no 00252
+\SPG pudrirse
+\ENG to rot
+ZOH001R0611002.txt
+\SEMF nature, body
+\ASP accomplishment
+\ARG
+\NOM putz.i, putz.@7, putz.putz
+\NOM kuy,
+*
+naanh
+\RTGR 12
+\POS N
+\MID
+\UN
+Page 62

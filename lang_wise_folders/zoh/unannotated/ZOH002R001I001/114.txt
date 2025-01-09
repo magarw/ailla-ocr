@@ -1,0 +1,40 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+4.12. Discourse markers
+This class contains the words that are often labelled particles in other
+grammars. Since I agree with Zwicky (1985) that the term particle is of no
+analytical value, and since I find these little words to appear as structuring
+elements in texts, I believe it is more useful to group them together in this
+super-syntactic category.
+Conversation words, such as hə?, 'yes', and nə?tti, 'no', belong in this
+class (4.36 i). Words that indicate summation or reflection on a preceding
+passage, like picenjo?, 'therefore', and naše, 'truth', are also included (ii). The
+deictic time words dey 'now', and kay 'then' are commonly used to structure
+narratives, as are some related expressions like de gahi, 'from there', shown in
+(iii). There are also several Spanish imports in the set of discourse markers,
+such as bweno (bueno, 'good; ok'), pwes, (pues, 'well), and ?entonses (entonces,
+'then') (iv).
+(4.36)
+(i)
+(ii)
+(iii)
+nø'tti tenyente døx tejin tujkuy'
+nə?tti tenyente dəš tehi
+?ən+ tuh.kuy?
+lieutenant 1 Prn there is 1E+ shoot.INSTR1
+""No, lieutenant, I have my weapon.'
+no
+pitzengjo døxjá' møjmø kaxtigo 'øn pø'ttampa
+piceŋho? dəšhaa? məhmə kaštigo ?ən+ pə?t-tam-pa
+thus
+we
+a_lot grief 1E+ pass-1/2PL-INC
+'That's why we have so much grief.'
+de gaji nømpa benigno yøjixtá' wanaktáng
+de
+(ZOH001R011–057)
+89
+(ZOH001R013-015)
+ga.hi? 0 nəm-pa benigno yǝ.hi?+štaa?
+wanak-taan
+from DCT3.LOC13A say-INC benigno DCT1.LOC1+ONLY go_down-HORT
+'Then Benigno says, "Let's get down right here." (ZOH001R010-272)

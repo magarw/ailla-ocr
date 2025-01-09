@@ -1,0 +1,62 @@
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex kin@k
+\_no 01248
+\LG MIG
+\PSH
+\UND kin@k
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG nariz; trompa
+\ENG nose; snout
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 01/Oct/94
+\lex kin@k=jo7px
+\_no 01249
+\LG MIG
+\PSH [kin@kjo7px-]
+\UND kin@k=jo7px
+\MB nariz, poner_bozal
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG poner bozal en la trompa
+\ENG to muzzle an animal's snout
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jo7px
+\RTGR TX
+\DSRC TK94
+\CMTS get deriv's
+\date 24/Jun/96
+\lex kin@k=jo7px.@7
+\_no 01250
+\LG MIG
+\PSH [kin@kjo7px@7]
+\UND kin@k=jo7px.A7
+\MB nariz, poner_bozal_a*, NOM2
+\VAR
+\GRAM sms v
+\SCI
+\USE
+ZOH004R0011001.txt
+Page 545

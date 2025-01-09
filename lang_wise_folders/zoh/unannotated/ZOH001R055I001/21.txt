@@ -1,0 +1,80 @@
+\tx sentz@ktukxukk@
+\mb senar-tz@k -tuk
+\sg1 cenar-hacer-terminarse-3PL-COM
+\egl dine - do -finish
+\tx yom
+yanhke pwes
+\mb yom@7 yanhke7 pwes
+\sg] hembra gringo
+pues
+\egl female yankee well
+\tx kay
+ye7tztza*m
+toma*s tum yanhkej@nanh tum chik
+\mb ka -y ye7tz -w@ -7am toma*s tum yanhke7-j@nanh tum chik
+\sg1 DCT3-TMP 11egar-COM-YA Toma*s uno gringo -AC uno chico
+yanhke
+yanhke7
+gringo
+\eg1 DCT3-TMP arrive-COM-NOW Thomas one yankee -ACC one little yankee
+\com
+\idx
+\zog Sentz@ktukxukk@ kwando naxe mas tzujiam kay ye7tztza*m Toma*s tum
+yanhkej@nanh, tum chikyanhke, yomyanhke, pwes.
+\fts Acabaron de senar cuando de verdad mas noche ya llego* Toma*s con una
+gringa, una chica gringa, una gringa, pues.
+fte They had just finished dining when in fact, later that night now Toma*s
+arrived with a gringa, a little gringa, a gringa, that is.
+\ref ZOH001R055 090
+\_no 00091
+\tx
+\mb
+7entonses n@mpa
+7entonses n@m
+ZOH001R0551001.txt
+kwando naxe mas tzujiam
+kwando naxe mas tzu7 -ji7 - 7am
+cuando verdad mas noche-LOC1-YA
+-3PL-COM when truth more night-LOC1-NOW
+7ana kay
+-pa 7ana ka -Y
+ye7tztza*m
+toma*s
+ye7tz -w@ -7am toma*s
+11egar-COM-YA Toma*s
+say -INC Anna DCT3-TMP arrive-COM-NOW Thomas
+\ref ZOH001R055 091
+\_no 00092
+\tx n@ki
+\mb n@k -i
+-xuk-w@
+\sg1 entonces decir-INC Ana DCT3-TMP
+\egl then
+\zoq 7entonses n@mpa 7ana, "Kay ye7tztza*m Toma*s.
+\fts Entonces dice Ana, "Ya llego* Toma*s.
+\fte So Anna says, "Now Toma*s has arrived.
+\com
+\idx
+tzonhta*nh
+tzonh-taanh
+\sg] irse-IMPV3 unir -HORT
+\egl go -IMPV3 join -HORT
+\zoq N@ki tzonhta*nh."
+\fts vamos a toparlo.'
+\fte Let's go meet him"
+\com
+\idx vseq
+"I
+\ref ZOH001R055 092
+\_no 00093
+naxe tijja 7@n tzonhtame
+\tx
+\mb naxe tij-w@ 7@n tzonh-tam -E
+\sg1 verdad ir -COM 1E unir -1/2PL-dCOM
+\egl truth go -COM 1E join -1/2PL-dCOM
+\zoq Naxe, tijj@n tzonhtame.
+\fts De verdad, fuimos a toparlo.
+\fte In fact, we went to meet him
+\com
+\idx
+Page 21

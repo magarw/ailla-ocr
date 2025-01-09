@@ -1,0 +1,63 @@
+XPSH [D@_w@7ttodampa.]
+\XSP Hachiamos.
+\XEN We cut down trees.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {7uwi7}
+\_no 04395
+\LG MIG
+\PSH
+\UND 7uwi 7
+\MB
+\VAR
+\GRAM part
+\SCI
+\USE
+\SPG _no
+\ENG no
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 02/Nov/94
+\lex {7u}
+\_no 04396
+\LG MIG
+\PSH
+\UND
+\MB NEGimpv
+\VAR
+\GRAM part
+\SCI
+\USE negative imperative
+\SPG no
+\ENG no
+\SPL
+\SLGR
+\EXU 1 7u n+ ko.tzaxx@-dam-wa
+\XPSH 1 [7un kotzaxx@damm@.]
+\XSP 1 No tengamos vergu"enza.
+\XEN 1 Let's not be ashamed.
+ZOH004R0011001.txt
+\EXU 2 pa 7u y+ t@k.7@y-w@ +goo7 g@ mok +jo7
+\XPSH 2 [pa 7uy t@kk@yy@ go7_g@ mokjo7]
+\XSP 2 para que no entre en la milpa
+\XEN 2 so they don't get into the corn
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+Page 1887

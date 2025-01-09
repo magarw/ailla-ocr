@@ -1,0 +1,54 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+As a plural-marker, +haa? applies to pronouns (9.19 i, iii, and iv), noun
+phrases (ii and iii), and predicative adjectives (iv and v). Examples (vi and vii)
+are included in this set to show the contrast between the use of +haa? and
++dǝkkay, the third person plural marker.
+(9.19)
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+(vi)
+døxhá' do yangkehá'
+dəš+haa?
+də+ yaŋke+haa?
+1 Prn+NPL2 1A+ yankee+NPL2
+'We're gringos.'
+'um nømtammø ke yam 'angpøn pønhá'
+?um ?əm+ nəm-tam-wə
+ke ya
+?əm+ ?aŋpən pən+haa?
+NEGimpv 2E+ say-1/2PL-COM that NEG 2A+ zoque man+NPL2
+'Don't say that you're not people who speak Zoque.'
+(ZOH001 R057-041)
+mixhá' kumkuypønjá' me'tztamø
+miš+haa? kumkuy? pən+haa? me?c-tam-A?
+2Prn+NPL2 town
+bi xeme pøndøkkay
+bi šem.E pən+dəkkay
+man+NPL2 look_for-1/2PL-IMPV
+DEF play.NOM3 men+NPL
+'You townspeople look for the musicians.'
+neywin ban tzuwayhá'
+neywin bayun cuway+haa?
+foolish+NPL2
+we
+very
+'We are very foolish.'
+(ZOH001R017-026)
+døšhá' komo dø naxmangkuyhá' dø naxnøktampa
+dəš+haa? komo də+ naš=maŋkuy?+haa? də+ naš=nək-tam-pa
+1 Prn+NPL2 since 1A+ earth=foot+NPL2
+1A+ earth=go-1/2PL-INC
+'We, since we were on foot, we were walking.'
+(ZOH001 R015-028)
+jejanømpa ban cuway ney jente
+0 heh-Anəm-pa bayun cuway ney hente
+3A live-INDEF-INC very
+foolish IE people
+'Our people lived very foolishly.'
+243
+(ZOH001 R018-187)
+(ZOH001R016-110)
+(ZOH001R003-040)

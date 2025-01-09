@@ -1,0 +1,63 @@
+\ROOT 1 t@nh
+\RTGR 1 T3
+\ROOT 2 tzonh
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+\lex t@nh-wanak
+\_no 03178
+\LG MIG
+\PSH [t@nhwanak-]
+\UND t@nh-wanak
+\MB cortar_con_fierro, bajar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG bajarse (ri*o, agua)
+\ENG for water or the river to go down
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 t@nh
+\RTGR 1 T3
+ROOT 2 wanak
+\RTGR 2 11
+\DSRC HAJ95
+\CMTS
+\date 09/Feb/96
+\lex t@nh-yu7p.yu7p.w@y
+\_no 03179
+ZOH004R0011001.txt
+\LG MIG
+\PSH [t@nhyu7pyu7pw@y-]
+\UND t@nh-yu7p.yu7p.w@y
+\MB cortar_con_fierro, picar, picar, DEPOS
+\VAR
+\GRAM vt: depos
+\SCI
+\USE
+\SPG picar en pedazos
+\ENG to chop in pieces
+\EXU 1 7@y+ t@nh-yu7p.yu7p.w@y-wa
+\XPSH 1 [7@y t@nhyu7pyu7pw@yy@.]
+\XSP 1 Lo pico* bien.
+\XEN 1 She chopped it finely.
+\EXU 2 7@y+ t@nh=yu7p.yu7p.w@y-w@ kuy machet(e)+j@nanh
+\XPSH 2 [7@y t@nhyu7pyu7pw@yy@ kuy machetj@nanh.]
+\XSP 2 Pico el palo por pedazo con el machete.
+\XEN 2 He chopped the wood into pieces with a machete.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 t@nh
+\RTGR 1 T3
+Page 1367

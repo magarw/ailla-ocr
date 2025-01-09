@@ -1,0 +1,60 @@
+\ENG to get behind; to get stuck
+\EX
+\XSP
+\XEN
+\ROOT tz@y 12
+\SEMF motion
+\CAUS yak.tz@y hacer trabar; trabar; detener
+\CMTS
+\lex wa7k
+\_no 00332
+\SPG rebanar; partir fruta, como sandi*a o melo*n (con cuchillo)
+\ENG to slice; to halve fruit, like watermelon or canteloupe (with a knife)
+\EX wa7k@mm@ bi 7anaxa
+\XSP se partio* la naranja
+\XEN the orange was cut in half
+\EX 7anax woxe*7 ma77@ba wake*7
+\XSP venden naranjas pelada partida
+\XEN they sell peeled & cut oranges
+\ROOT wa7k T3
+\SEMF cut, instr
+\PASS NONE wa7k.7@m *
+\ANTI wa7k. 7oy
+\CMTS PASS or NONE ?
+\lex wa7kx
+\_no 00333
+\SPG (en) terciar bulto de mai*z, naranja
+\ENG
+\EX
+\XSP
+\XEN
+\ROOT wa7kx P, (T3)
+SEMF move
+\PASS NONE wa7kx.7@m *
+\ANTI wa7kx.7oy
+\CMTS
+\lex wan
+\_no 00334
+\SPG cantar
+\ENG to sing
+\EX
+ZOH001R0611010.txt
+\XSP
+\XEN
+\ROOT wan T1
+\SEMF speak, music
+\CMTS
+\lex wanak
+\_no 00335
+\SPG bajarse
+\ENG to go down
+\EX
+\XSP
+\XEN
+\ROOT wanak Il
+\SEMF motion
+\CAUS p@k=wanak bajar
+\CAUS yak.wanak bajar
+\CMTS
+\lex wanhka
+Page 75

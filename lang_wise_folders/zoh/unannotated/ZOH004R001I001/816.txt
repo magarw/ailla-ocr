@@ -1,0 +1,66 @@
+\UND mateyanu
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG Huave
+de San Mateo
+\ENG Huave a person from San Mateo
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+-
+\CMTS CK-PH ok/OK: TK
+\CMTS es chistoso
+\date 25/Jun/96
+\lex matonh
+\_no 01893
+\LG MIG
+\PSH
+\UND matonh
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG escuchar; oir
+ENG to listen; to hear
+\EXU 1 matonh.7@m-w@ bi m@y@ kwando 7anh.j@y-wa
+\XPSH 1 [Matonhnh@mm@ bi maya kwando 7anhj@yy@.]
+\XSP 1 Se escucho* el rayo cuando sono*.
+\XEN 1 They heard the thunder when it rumbled.
+\EXU 2 7@n+ matonh.w@ tum tzam.e
+ZOH004R0011001.txt
+\XPSH 2 [7@n matonhnh@ tum tzame.]
+\XSP 2 Escuche* un cuento.
+\XEN 2 I heard a story.
+\EXU 3 da matonh. 'oy-pa
+\XPSH 3 [D@ matonhnhoba.]
+\XSP 3 Estoy escuchando.
+\XEN 3 I'm listening.
+\EXU 4 7@n+ matonh-w@ tzam-pa+v7k rroberto
+\XPSH 4 [7@n matonhnh@ tzampa* Rroberto.]
+\XSP 4 Escuche* a Roberto, estaba platicando.
+\XEN 4 I listened to Roberto talking.
+\EXU 5_7@n+ matonh-w@ n@m-xuk-pa ke min-pa rroberto joji
+\XPSH 5 [7@n matonhnh@ n@mxukpa ke minpa Rroberto joji.]
+\XSP 5 Escuche* que dicen que Roberto viene man~ana.
+\XEN 5 I heard that Roberto is coming tomorrow.
+\SYN
+\SEMF perception
+\ASP activity
+\ARG
+\NOM matonh.kuy7, matonh.naanh
+\SUB k@.matonh. '@y, yuk.matonh
+\ETYM
+\ETL
+\ROOT matonh
+\RTGR T3
+Page 816

@@ -1,0 +1,63 @@
+\lex tax. @7
+\_no 00293
+\LG MIG
+\PSH [tax@*7]
+\UND tax.A7
+\MB 11enarse, NOM2
+\VAR tax@7k
+\GRAM SV
+\SPG 11eno
+\ENG full
+\EXU 1 xuyu' tax. A7
+\XPSH 1 [xuyu tax@*7]
+\XSP 1 olla llena
+\XEN 1 a full jug
+\EXU 2 tax. A7+@7k xuyu'
+\XPSH 2 [tax@7k xuyu7]
+\XSP 2 olla llena
+\XEN 2 a full jug
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 19/Jun/96
+\lex ta'k.e7
+\_no 00294
+\LG MIG
+\PHO [take7]
+\UND ta7k. E7
+\MB remojar, NOM7
+\VAR
+\GRAM pcp
+\SPG remojada
+\ENG dunked
+\EXU ta'k.e7+k 7an.e k@x.i+jo7
+\XPSH [take7k 7ane k@xijo7]
+\XSP tortilla remojada en comida
+\XEN a tortilla dunked in some food
+\SYN
+\ROOT ta7k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tem.a7
+\_no 00295
+\LG MIG
+\PSH [tema7]
+\UND tem.A7
+\MB relampaguear, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG rela*mpago
+\ENG lightning
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH001R0611004.txt
+\SEMF
+\ETYM
+Page 118

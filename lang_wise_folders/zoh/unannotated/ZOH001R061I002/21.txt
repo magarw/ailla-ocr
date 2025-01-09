@@ -1,0 +1,62 @@
+ZOH001R0611002.txt
+\SPG hacer ruido; hacer trueno;
+hacer sonar; retumbar; zumbar
+\ENG to make noise; to thunder; to make a sound; to rumble; to buzz
+\SEMF sound
+\ASP activity
+\ARG
+\NOM
+\lex juk
+\_no 00083
+\SPG 1 fumar
+\SPG 2 ahumar (como comida)
+\ENG 1 to smoke (like tobacco)
+\ENG 2 to smoke (like food)
+\SEMF eat, cook
+\ASP activity
+\ARG
+\NOM juk.i
+\RTGR T1
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex jukuk
+\_no 00084
+\SPG molestar
+\ENG to bother
+\SEMF body
+\ASP state
+\ARG location
+\NOM * kuy7
+\RTGR 12
+\POS N
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex ju7k
+\_no 00085
+\SPG tragar
+ENG to swallow up, to gulp
+\SEMF eat
+\ASP transition
+\ARG
+\NOM
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex jum
+\_no 00086
+\SPG derrumbar(se) (casa, tierra, lado de algo)
+\ENG to tear down or tumble down (house, earth, the side of something)
+\SEMF build
+\ASP accomplishment
+\ARG
+\NOM jum.i7, jum.@7
+\RTGR T2
+Page 21

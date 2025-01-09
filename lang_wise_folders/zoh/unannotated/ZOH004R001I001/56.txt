@@ -1,0 +1,62 @@
+ZOH004R0011001.txt
+\SPG dormir cuidando algo adentro
+\ENG to sleep in front of the door or house so no one enters
+\EXU 7@y+ 7anh-mon-w@ t@k_7@y+ 7anh=tunh
+\XPSH [7@y 7anhmonhnh@ t@k 7@y 7anhtunh.]
+\XSP Esta* durmiendo en la puerta de la casa.
+\XEN He is sleeping in the doorway of the house.
+\SYN
+ROOT monh
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 22/Jun/96
+\lex 7anh-muj
+\_no 00130
+\LG MIG
+\PSH [7anhmuj-]
+\UND 7anh-muj
+\MB BOCA, mojarse
+\VAR
+\GRAM vi
+\SPG estar mojadito en la entrada/orilla
+\ENG to be wet at the entrace or on the edges
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT muj
+\RTGR 12
+\DSRC HAJ95
+\CMTS como su chaqueta. por no decir '7aka mujja'
+\CMTS fixed SPG/TK
+\date 24/Jun/96
+\lex 7anh-mux
+\_no 00131
+\LG MIG
+\PSH [7anhmux-]
+\UND 7anh-mux
+\MB BOCA, saber
+\VAR
+\GRAM vt
+\SPG acostumbrarse
+\ENG to get used to
+\EXU 7@m+ 7anh-mux-w@ t@k=7anhj@7
+\XPSH [7@m 7anhmuxx@ t@k7anhj@7?]
+\XSP Te acomstumbraste en San Miguel?]
+\XEN Have you gotten used to San Miguel?
+\SYN yak.t@'
+\ROOT mux
+\RTGR T3
+\DSRC HAJ95
+\CMTS fixed XPSH, XSP/TK
+\date 24/Jun/96
+\lex 7anh-muy
+\_no 00132
+\LG MIG
+\PSH [7anhmuy-]
+\UND 7anh-muy
+\MB BOCA, tener_en_boca
+\VAR
+\GRAM vi
+Page 56

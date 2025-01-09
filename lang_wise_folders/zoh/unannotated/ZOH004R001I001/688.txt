@@ -1,0 +1,65 @@
+\VAR
+\GRAM smsms
+\SCI
+\USE
+\SPG ocelote; leoncillo; onza
+\ENG a type of big cat
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Nov/94
+LF:7anmal
+\lex kuy 7u7pxi7
+\_no 01586
+\LG MIG
+\PSH
+\UND kuy 7u7pxi7
+\MB
+\VAR tzawi' kuy 7u7pxi7
+\GRAM
+\SCI
+\USE
+\SPG mico de noche; marta
+\ENG a type of animal
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 07/Feb/96
+\GRAM sps
+\SCI
+LF:7anmal
+\lex kuy 7@y+ kopak
+\_no 01587
+\LG MIG
+\PSH [kuy 7@y kopak]
+\UND kuy 7@y+ kopak
+\MB palo, 3Erg, cabeza
+\VAR
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\USE
+\SPG cabeza de la madera
+\ENG the heart of the wood
+\EXU
+\XSP
+\XEN
+ZOH004R0011001.txt
+Page 688

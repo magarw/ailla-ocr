@@ -1,0 +1,63 @@
+\DATE 03/Jan/80
+\lex witz
+\_no 00196
+\LG MIG
+\PSH
+\UND witz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer alma*cigo
+\ENG to make a nursery; to nurture plants
+\SPL witz.7oy
+\SLGR ANTIP
+\SLGL hacer alma*cigo // to start plants
+\SPL witz.7@m
+\SLGR PASS
+\SLGL estar hecho alma*cigo // for plants to be started
+\SPL witz.ten
+\SLGR PRSV
+\SLGL estar hecho alma*cigo // to have your plants started
+\EXU 1 witz-@7
+\XPSH 1 [witz@7!]
+\XSP 1 Haz alma*cigo!
+\XEN 1 Start those plants!
+\EXU 2 mumu+jo' 7@y+ witz-wa
+\XPSH 2 [Mumujo 7@y witztz@.]
+\XSP 2 En abono hizo alma*cigo.
+\XEN 2 He started the plants in manure.
+\EXU 3 7@y+ witz.ten-w@
+\XPSH 3 [7@y witztenn@.]
+\XSP 3 Lo preparo* a tiempo.
+\XEN 3 She started the plants ahead of time.
+\SYN
+\SEMF plant
+\ASP process
+\ARG
+\NOM witz.i
+\SUB nik.witz. '@y
+\ETYM
+\ETL
+\ROOT witz
+\RTGR T3
+ZOH001R0611006.txt
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex wix
+\_no 00197
+\LG MIG
+\PSH
+\UND wix
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG arrancar, con rai*z y todo
+\ENG to pull up, roots and all
+\SPL wix. 7oy
+\SLGR ANTIP
+Page 133

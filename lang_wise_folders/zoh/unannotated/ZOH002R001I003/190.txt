@@ -1,0 +1,47 @@
+(7.16)
+(i) xomneyyø
+(ii)
+(iii)
+(iv)
+(v)
+(vi)
+0 šom.ney-wə
+3A encerrar.ASSUM-COM
+'Está encerrado.'
+tømmawon mok 'axta 'apxneyyø
+?ən+mok ?asta 0 ?apš.ney-wa
+(ZOH001 R012-334)
+0 təm.?a-we
+3A fruta.VERS1-COM 1E+ maíz hasta 3A pizcar_maíz.ASSUM-COM
+'Se dió la mazorca hasta colgadito.'
+naxjo pe'tzneyyø
+naš +ho? 0 pe?c.ney-wa
+tierra+LOC1 3A draw_up_legs.ASSUM-COM
+'Está sentando en el suelo con sus pies recogidos.'
+gaji sol kopak patzneyyø
+ga.hi?
+solo kopak 0 pac.ney-wə
+DCT3.LOC1 solo cabeza 3A tirar.ASSUM-COM
+Hay pura cabeza tirado.'
+jupneyyø tum jupkuy nø'
+0 hup.ney-wə
+tum hup.kuy? nə?
+3A jalar.ASSUM-COM uno jalar.INSTR1 agua
+'Ahí estaba una cubeta de agua.'
+(ZOH001R018-167)
+(ZOH001 R018-310)
+nakxneyyø bi yote'
+0 nakš.ney-wa
+bi yote?
+3A pegar_c_palo.ASSUM-COM DEF ropa
+'Está colgado la ropa (por una estaca en la pared.'
+165
+(vii) kojneyyø de kuy yatigøxi
+0 koh.ney-wə
+de.?
+kuy yati?+gaši
+3A encajar.ASSUM-COM DCT2.NOM1 árbol anona+LOC4
+'Está encajado ese palo en la anona.'
+The assumptive suffix focusses on the current position of the object in
+question, without expressing how it got into that position. This lack of
+expressed agency distinguishes the assumptive from the perseverative (section

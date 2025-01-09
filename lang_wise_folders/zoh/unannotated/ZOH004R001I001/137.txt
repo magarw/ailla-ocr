@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG echar algo (a un lado), rascandolo con la mano
+\ENG to push something to one side by scraping it with your hand
+\SPL
+\SLGR
+\EXU 7@y+ 7ok.jen. '@y-w@ poe7 7eya+joonh
+\XPSH [7@y 7okjenn@yy@ poe 7eyajo*nh.]
+\XSP Echo* la arena por otro lado.
+\XEN He scraped the sand to the side.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jen
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 09/Jan/96
+\lex 7ok.jepx. '@y
+\_no 00318
+\LG MIG
+\PSH [7okjepx@y-]
+\UND 7ok.jepx.7@y
+\MB ABAJO, agarrar_con_ji*cara, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar algo con ji*cara y tirarlo
+\ENG to scoop something out and throw it away
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT jepx
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 09/Jan/96
+\lex 7ok.jep. '@y
+\_no 00319
+ZOH004R0011001.txt
+\LG MIG
+\PSH [7okjepp@y-]
+\UND 7ok.jep.7@y
+\MB ABAJO, trayar_maguey, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG trayar maguey
+\ENG to strip maguey fibers
+\SPL
+\SLGR
+\EXU
+\XSP
+Page 137

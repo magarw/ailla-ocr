@@ -1,0 +1,63 @@
+\PSH [traxtetze-]
+\UND traxte=tze7
+\MB traste, lavar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG lavar trastes
+\ENG to wash dishes
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM traste
+\ETL Sp
+\ROOT tze7
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tronhko kuy
+\_no 03057
+\LG MIG
+\PSH
+\UND tronhko kuy
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG tronco del a*rbol
+\ENG tree trunk
+\EXU
+\XSP
+\XEN
+\SYN paj.tzetu7, which is better, real zoque
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-GR - HAJ:96 ok
+\date 26/Jun/96
+\lex troo7y
+\_no 03058
+\LG MIG
+\PSH
+\UND troo7y
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG el sonido de orutar
+\ENG sound of burping
+\SPL
+\SLGR
+\EXU
+ZOH004R0011001.txt
+\XSP
+\XEN
+Page 1316

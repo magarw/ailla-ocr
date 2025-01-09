@@ -1,0 +1,63 @@
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tz@k=ko.tzonh
+\_no 03480
+\LG MIG
+\PSH [tz@kkotzonh-]
+\UND tz@k=ko.tzonh
+\MB hacer, OTRO, unir
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG ayudar a hacer
+\ENG to help to do
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tz@k
+\RTGR 1 T3
+\ROOT 2 tzonh
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 13/Nov/94
+\lex_tz@k=mux
+\_no 03481
+\LG MIG
+\PSH [tz@kmux-]
+\UND tz@k=mux
+\MB hacer, saber
+\VAR
+GRAM vt
+\SCI
+\USE
+\SPG lograr hacer
+\ENG to succeed in doing
+\EXU d@+ yo'=m@k=me7tz-w@ peru ya 7@n+ tz@k=mux-w@
+\XPSH [D@ yom@kme7tztz@ peru yan_tz@kmuxx@.]
+\XSP Intente* de formar una tamale pero no pude hacerlo.
+\XEN I tried to make a tamale but I couldn't do it.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tz@k
+\RTGR 1 T3
+\ROOT 2 mux
+\RTGR 2 T3
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\DATE 09/Aug/02
+Page 1497

@@ -1,0 +1,62 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT n@m
+\RTGR 11
+\DSRC TK94
+\CMTS
+\date 27/Jan/96
+\lex n@m. 'o<y-e>
+\_no 02448
+\LG MIG
+\PSH [n@mmo]
+\UND n@m. 'o<y-e>
+\MB DO, ANTIP, X
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG poder
+\ENG to be able to
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT *n@m
+\DSRC TK96
+\CMTS
+\lex nanti jama=tin
+\_no 02449
+\LG MIG
+\PSH [n@nti jamatin]
+\UND nanti jama=tin
+\MB no_hay, di*a, mierda
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG sin dinero
+\ENG without money
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 27/Jan/96
+\lex n@nti* junaanh
+\_no 02450
+\LG MIG
+\PSH [n@nti* juna*nh]
+ZOH004R0011001.txt
+Page 1056

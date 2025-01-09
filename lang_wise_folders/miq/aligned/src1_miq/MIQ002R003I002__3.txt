@@ -1,0 +1,30 @@
+bara baha-ra
+ba
+CONN there-LOC DET
+'bueno ahí'
+'well there'
+ba sihkru-ra ba lika
+organize become-IMPF DET sihkru-LOC DET be
+'donde se reúnen pero en sihkru'
+'where they meet but in the sihkru'
+that DET binational call AUX.3.NPST
+'a eso se le llaman un encuentro binacional'
+'that is called a bi-national encounter'
+Honduras
+'la gente de honduras'
+Miskitu group-DEF and then
+'los miskitu de Honduras y de Nicaragua'
+'the Miskitus of Honduras and Nicaragua'
+CONN that-LOC DET dance PL DET AUX
+'bueno ahí la danza es'
+take-IMPF get dance play-IMPF ?
+'lo retoman para la expresión del baile'
+'it has been taken for an expressive dance'
+long.ago DET dance-IMPF ?
+'antes se bailaban'
+'long ago they would dance'
+community inside-LOC
+'dentro de las comunidades'
+'within the communities'
+be.3.PERF
+DET

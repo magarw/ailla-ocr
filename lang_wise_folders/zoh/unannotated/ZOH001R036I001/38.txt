@@ -1,0 +1,67 @@
+\ref ZOH001R036 172
+\_no 00173
+\tx donde kumi
+bi 7alma
+\mb donde kum
+-E
+bi 7alma
+\sg1 donde enterrar(se) -NOM3 DEF alma
+\egl where bury
+-NOM3 DEF soul
+\zoq donde kumi bi 7alma.
+\fts donde esta* enterrado el finado.
+\fte where the deceased is buried.
+\com
+\idx
+\ref ZOH001R036 173
+\_no 00174
+\tx
+\mb GSM
+GSM: pantyo*nh
+pantyonh
+\sg1 GSM: panteo*n
+\eg1 GSM: cemetery
+\zoq GSM: Pantyo*nh.
+\fts GSM: Panteo*n.
+\fte GSM: Cemetery.
+\com
+\idx
+\ref ZOH001R036 174
+\_no 00175
+\tx
+\mb OSM
+OSM: pantyo*nh
+pantyonh
+\sg1 OSM: panteo*n
+\egl OSM: cemetery
+\zoq OSM: Pantyo*nh.
+\fts OSM: Panteo*n.
+\fte OSM: Cemetery.
+\com
+\idx
+\ref ZOH001R036 175
+\_no 00176
+\tx de gaji
+\mb de ka -ji7
+\sg1 de DCT3-Loc1 irse-INC
+\egl of DCT3-LOC1 go -INC
+n@kpa
+nak -pa
+\zoq De gaji n@kpa.
+\fts De ahi* va.
+\fte From there he goes.
+\com
+\idx
+ZOH001R0361001.txt
+\ref ZOH001R036 176
+\_no 00177
+\tx da p@kn@kxukpa
+\mb da pak
+-n@k -xuk-pa
+\sg] 1A agarrar-irse-3PL-INC
+\egl 1A get
+-go -3PL-INC
+\zoq D@ p@kn@kpxukpa
+\fts Me llevan
+\fte They bring me
+Page 38

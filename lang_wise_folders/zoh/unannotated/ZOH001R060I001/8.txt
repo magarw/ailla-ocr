@@ -1,0 +1,78 @@
+\egl clothes-spread_out-INSTR1-LOC2
+\fts esta toalla esta* tendido en el mecate tender ropa
+\fte this towel is stretched on the clothesline
+\com
+\idx
+ZOH001R0601001.txt
+\cmts picture of two towels on a clothesline, one has a hole in it
+\ref 025
+\_no 00026
+\tx yad@
+yote7anhxuy7
+-A7
+7@y 7anhnitpa tum w@t@7
+\mb ya -d@
+y@
+yote7 -7anhxuy7 7@y 7anhnit-pa tum w@t
+\sg1 DCT1-DEM ropa -cobija 3E tener -INC uno romper-NOM2
+\eg1 DCT1-DEM clothes-blanket 3E have -INC one tear -NOM2
+\fts esta toalla esta* roto
+\fte this towel has a tear
+\com
+\idx
+\cmts same as 024
+\ref 026
+\_no 00027
+\tx yada
+yote7anhxuy7
+w@tt@mm@
+\mb ya -d@
+-d@ yote7 -7anhxuy7 wat -7@m -w@
+\sg1 DCT1-DEM ropa -cobija
+\eg1 DCT1-DEM clothes-blanket
+romper-PAS -COM
+tear -PASS-COM
+\fts esta toalla se rompio*
+\fte this towel was torn
+\com
+\idx
+\cmts same as 024
+\ref 027
+\_no 00028
+\tx y@d@
+mansana teji7aw@
+\mb ya -d@
+mansana teji
+y@
+\sg1 DCT1-DEM manzana hay
+\eg1 DCT1-DEM apple
+-7a
+7ajtanh y@kk@xkuyjo7
+7ajtanh7 y@k -k@x -kuy7 -jo7
+INSTR2-Comer-INSTR1-LOC2
+-wa
+-VERS1-COM ancho
+there_is-VERS1-COM wide
+\fts esta manzana esta* sobre de un plato ancho
+\fte this apple is on a wide plate
+\com
+\idx
+\cmts picture of an apple on a plate
+\ref 028
+\_no 00029
+\tx y@d@
+\mb ya
+manhkuy
+-da manh -kuy7 kon
+\sg1 DCT1-DEM pisar-INSTR1 con
+\eg1 DCT1-DEM step -INSTR1 with
+\fts este pie con su zapato
+kon 7@y y@kk@p
+7@y yak
+3E
+3E
+-k@p
+INSTR2-***
+INSTR2-***
+Page 8
+INSTR2-eat -INSTR1-LOC2

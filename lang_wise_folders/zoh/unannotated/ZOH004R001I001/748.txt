@@ -1,0 +1,62 @@
+\XEN cigarrette butt
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 k@nh
+\RTGR 1 12
+ROOT 2 tzak
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/96
+\lex k@.paj
+\_no 01729
+\LG MIG
+\PSH [k@paj]
+\UND k@.paj.0
+\MB FUERA, clavar, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG paral para casa
+\ENG a fence around a house
+\EXU tak 7@y+ k@.paj.
+\XPSH [t@k 7@y k@paj]
+\XSP paral para la casa
+\XEN the house's fence
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT paj
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 25/Jun/96
+\lex k@.pak
+\_no 01730
+\LG MIG
+\PSH [k@pak]
+\UND kapak
+\MB FUERA, hueso
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG frente
+\ENG forehead
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+ZOH004R0011001.txt
+Page 748

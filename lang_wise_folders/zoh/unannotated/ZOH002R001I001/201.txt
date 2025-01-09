@@ -1,0 +1,56 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+new instrumental using -kuy?. It frequently appears attached to stems with the
+antipassive suffix -7oy, reasonably, since there's no need to be specific about
+objects when identifying a tool. There are also examples of this suffix with
+prefixed stems, compounded stems, and even stems with an incorporated
+noun. The meaning of words formed with -kuy? are usually instrumental,
+sometimes locative, and sometimes purely idiosyncratic. The gloss for this
+morpheme is INSTR1.
+(7.26) Simple forms
+(i)
+'ukkuy'
+?uk.kuy?
+drink.INSTR1
+'drunkenness'
+(iii)
+(v)
+jaykuy'
+hay.kuy?
+write.INSTRI
+'pen'
+(ix)
+kumkuy'
+kum.kuy?
+X.INSTRI
+'town'
+(vii) mangkuy'
+maŋ.kuy?
+*step.INSTR1
+'foot'
+'ammakuy'
+?amma.kuy?
+look.INSTRI
+'vision; the eyes'
+176
+(ii)
+'utzkuy'
+.kuy?
+(vi)
+measure.INSTR1
+'measure'
+(iv) jununkuy'
+hunun.kuy?
+tickle.INSTR1
+'ticklish'
+køngkuy'
+kəŋ.kuy?
+paint.INSTRI
+'color'
+(viii) tzangkuy'
+caŋ.kuy?
+hit_w_fist.INSTRI
+'hand'
+(x) 'angje'kkuy'
+?aŋhe?k.kuy?
+be_afraid.INSTRI
+'fear'

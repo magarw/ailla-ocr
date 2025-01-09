@@ -1,0 +1,64 @@
+\UND ji7p
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\DLG
+\SPG 1 mover (con un palito)
+\SPG 2 menear
+\SPG 3 revolver
+\SPG 4 trompear
+\ENG 1 to move (with a little stick)
+\ENG 2 to stir
+\ENG 3 to mix up
+\ENG 4 to root
+\EXU 1 yoya ji7p. 'oy-pa 7@y+ wit-wa
+\XPSH 1 [Yoya ji7ppobay witt@.]
+\XSP 1 Anduvo trompeando el marrano.
+\XEN 1 The pig walked along rooting.
+\EXU 2 7@y+ ji7p-witu-w@ kax.E7
+\XPSH 2 [7@y ji7pwituwa k@xi7]
+\XSP 2 Removio* la comida.
+\XEN 2 She stirred the food around.
+\EXU 3 7@y+ ji7p.ten-w@ bi natz
+\XPSH 3 [7@y ji7ptenn@ bi n@tz.]
+\XSP 3 Tiene estacado el armadillo (en su hueco).
+\XEN 3 He's got the armadillo pinned (in its hole).
+\SYN
+\SEMF cook, move
+\ASP activity
+\ARG instrument
+ZOH001R0611006.txt
+\NOM ji7p.kuy7
+\SUB 7anh.ji7p, 7ok.ji7p. '@y, ji7p=p@k, ji7p='anh.kuk.'aн, jo.ji7p,
+\SUB j@x=ji7p, ko.ji7p, ni.ji7p, nik.ji7p. '@y, yuk.ji7p
+\ETYM
+\ETL
+\ROOT ji7p
+\RTGR P, (T3)
+\SPL ji7p.7oy
+\SLGR ANTIP
+\SLGL menear; revolver // to stir
+\SPL ji7p.7@m
+\SLGR PASS
+\SLGL moverse // to be stirred
+\SPL ji7p.ney
+\SLGR ASSUM1
+\SLGL estar amontonado // to be heaped up
+\SPL ji7p.ten
+\SLGR PRSV
+\SLGL tener estacado // to have pinned with a stake
+\DSRC TK94
+\CMTS Camilo rejects the ASSUM1
+\CMTS the basic meaning is to manipulate something with a stick
+\date 03/Jan/80
+\lex ji7t
+\_no 00035
+\LG MIG
+\PSH
+\UND ji7t
+\MB
+\VAR
+\GRAM vt
+Page 26

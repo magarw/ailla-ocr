@@ -1,0 +1,62 @@
+\CMTS
+\date 03/Jan/80
+\lex pen=nuk
+\_no 02595
+\LG MIG
+\PSH [pennuk-]
+\UND pen=nuk
+\MB apretar_con_mano, agarrar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG apretar con los dedos
+\ENG to squeeze between two fingers
+\EXU 7@y+ pen=nuk-w@ t@tz@7
+\XPSH [7@y pennukk@ t@tz@7.]
+\XSP Agarro de apreto*n la iguana.
+\XEN He grabbed the iguana with his fingers.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 pen
+\RTGR 1 T3
+\ROOT 2 nuk
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex pen.pak
+\_no 02596
+\LG MIG
+\PSH [penpak-]
+\UND pen.pak
+\MB apretar, FUERTE
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG apretar con la mano (duro)
+ENG to squeeze hard with the hand
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pen
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 15/Jun/95
+ZOH004R0011001.txt
+\lex pen=tu7p
+\_no 02597
+\LG MIG
+\PSH [pentu7p-]
+\UND pen=tu7p
+\MB apretar_con_mano, desmoronar
+\VAR
+Page 1117

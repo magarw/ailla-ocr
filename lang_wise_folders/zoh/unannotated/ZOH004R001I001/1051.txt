@@ -1,0 +1,66 @@
+\XSP 4 Vamos!
+\XEN 4 Let's go!
+\EXU 5 n@k-E' +7am
+\XPSH 5 [N@ki7am!]
+\XSP 5 vamonos!
+\XEN 5 Let's go!
+\EXU 6 _7@y+ yāk.n@k-w@ _j@x+jonanh
+\XPSH 6 [7@y yakn@kk@ jaxjonanh.]
+\XSP 6 Lo hizo ir para atra*s.
+\XEN 6 She made him go outside.
+\EXU 7 ya yak.n@k-wa
+\XPSH 7 [Ya yakn@kk@.]
+\XSP 7 No le dejo* ir;
+le sostuvo.
+\XEN 7 She wouldn't let him leave; she held him.
+\SYN
+\SEMF move
+\ASP activity
+\ARG
+\NOM
+\SUB 7ok.n@k. '@y, jup-n@k, nak-(@)-ta', pa'-n@k, p@k=n@k, tz@m=n@k,
+\SUB win-n@k-kep. '@y, win=n@k, win=n@k='amma, win-n@k='ix. '@y,
+\SUB win=n@k-ten. '@y
+\ETYM
+\ETL
+\ROOT nak
+\RTGR IX
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex nak [2]
+\_no 02438
+\LG MIG
+\PSH
+\UND n@k
+\MB irse
+\VAR
+\USE auxiliary verb that can appear either before or after the inflected
+main verb, in a dependent verb construction
+\GRAM aux
+\SPG irse
+\ENG to go
+ZOH004R0011001.txt
+\SPL
+\SLGR
+\EXU 1 n@k-E' k@x. 'oy-taanh
+\XPSH 1 [N@ki k@xxoda*nh!]
+\XSP 1 vamos a comer!
+\XEN 1 Let's go eat!
+\EXU 2 n@k-w@ 7@y+ wit-E
+\XPSH_2 [N@kk@y witi.]
+\XSP 2 se fue* caminar.
+\XEN 2 She went walking.
+\EXU 3
+n@k-tam-pa ya.j@7 7@n+ yox.tam-w@
+\XPSH 3 [N@ktampa yaj@ 7an yoxtamm@.]
+\XSP 3 Nos vamos lejos a trabajar.
+\XEN 3 we're going far away to work.
+\EXU 4 wat. '@y-wa 7@y+ n@k. E bi chik tzikin kajanh
+\XPSH 4 [w@tt@yy@y naki bi chik tzikin kajanh.]
+\XSP 4 Crecio* por creciendo el tigrillo pinto.
+\XEN 4 The little spotted tiger went on growing up.
+\SYN
+\SEMF
+\ROOT n@k
+Page 1051

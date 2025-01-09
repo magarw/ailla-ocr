@@ -1,0 +1,63 @@
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG agarrar juelgo, respirar
+\ENG to catch one's breath, to breathe
+\EXU ya n@m.7oy-A_7@n+ je'=p@k-wa
+\XPSH [Ya n@mmon je:p@kk@.]
+\XSP No puedo respirar.
+\XEN I can't breathe.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pak
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\lex je'=xuk
+\_no 00758
+LG MIG
+\PSH [jexuk-]
+\UND je7=xuk
+\MB aliento, acabarse
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG 1 jadear
+\SPG 2 sofocarse
+\ENG 1 to pant
+\ENG 2 to suffocate
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xuk
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\lex ji7i
+\_no 00759
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+\UND ji77i ?
+\MB
+\VAR
+\GRAM vi
+\SCI
+\SPG grun-ir perro
+\ENG for a dog to grow]
+\SPL yak.ji7i
+\SLGR CAUS
+\SLGL hacer grun-ir // to make grow]
+\EXU ji7i-pa bi chik nu7
+\XPSH [Ji7kpa bi chik nu7.]
+Page 328

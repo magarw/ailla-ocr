@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [tzekwat-]
+\UND tzek=wat
+\MB barriga, amarrar
+\VAR
+\GRAM vt:incorp
+\SCI
+\USE
+\SPG amarrar la barriga
+\ENG to bind the stomach; to tighten the belt
+\EXU 7@y+ tzek-wat-w@ bi 7une7
+\XPSH [7@y tzekwatt@ bi 7une7.]
+\XSP Amarro* la barriga del nin~o.
+\XEN She bound the tummy of the child.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wat
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS CK-PH: should be tzek=wat. HAJ:96, corrected
+\date 20/Jun/96
+\lex tzek-yum
+\_no 03326
+\LG MIG
+\PHO [tzekyum-]
+\UND tzek-yum
+\MB barriga, hervir
+\VAR
+\GRAM vi
+\SPG grun~ir la barriga
+\ENG for the tummy to growl
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT yum
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tze7k
+\_no 03327
+LG MIG
+ZOH004R0011001.txt
+\PSH
+\UND tze7k
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pedir
+\ENG to ask
+\SPL tze7k. 7oy
+\SLGR ANTIP
+\SLGL pedir // to ask
+\SPL tze7k.7@m
+\SLGR PASS
+SLGL "se pidio* a una mujer; le fue* pedido la mano // to be spoken
+for (of a woman)
+Page 1429

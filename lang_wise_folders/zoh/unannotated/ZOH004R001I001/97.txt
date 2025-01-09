@@ -1,0 +1,64 @@
+XEN 4 My hand hurts.
+\EXU 5 d@ 7a7tz-w@ weni
+\XPSH 5 [D@ 7a7tztz@ weni.]
+\XSP 5 Me pico* la avispa.
+\XEN 5 The wasp stung me.
+\SYN
+\SPL yak.7a7tz
+\SLGR CAUS
+\SLGL hacer arder //
+// to cause to burn
+\SEMF temp, body, nature
+\ASP state
+\ARG
+\NOM 7a7tz.@7
+\SUB ni.7a7tz, wej='a7tz, win='a7tz
+\ETYM
+\ETL
+\ROOT 7a7tz
+\RTGR 12
+\DSRC HAJ94
+\CMTS * d@ 7a7tzpa
+\date 03/Jan/80
+\lex 7a7tz [jama
+\_no 00227
+\LG MIG
+\PSH
+\UND 7a7tz jama
+\MB arder, sol
+\VAR
+\GRAM vi + subj
+\SCI
+\USE
+\SPG estar muy fuerte el sol
+\ENG for the sun to be very hot
+\EXU jak 7a7tz-pa jama
+\XPSH [Jak 7a7tzpa jama.]
+\XSP Esta* muy fuerte el sol.
+\XEN It's very hot.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7a7tz
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+ZOH004R0011001.txt
+\lex 7a7tz.@7
+\_no 00228
+LG MIG
+\PSH [7atz@7]
+\UND 7a7tz.A7
+\MB arder, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG fuego
+\ENG fire
+\EXU
+\XSP
+\XEN
+Page 97

@@ -1,0 +1,63 @@
+\_no 00115
+\LG MIG
+\PSH [7anhk@y-]
+\UND 7anh-k@y
+\MB BOCA, X
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tomar cafe* o atol por cucharada
+\ENG to drink coffee or atole by the spoonful
+\EXU 7@y+ 7anh.k@y-pa pa 7@y+ 7uk-pa
+\XPSH [7@y 7anhk@ypa pay 7ukpa.]
+\XSP Le esta* dando en la mano para que lo tome.
+\XEN She's giving him to drink from her hand.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\lex 7anh-k@y=num [1]
+\_no 00116
+\LG MIG
+\PSH [7anhk@ynum-]
+\UND 7anh-k@y=num
+\MB BOCA, 11evar_en_mano, robar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG medio cerrar; entrecerrar
+\ENG to half-close
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 k@y
+\RTGR 1 T3
+\ROOT 2 num
+\RTGR 2 T1
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex 7anh-k@y=num [2]
+\_no 00117
+\LG MIG
+\PSH [7anhk@ynum]
+\UND 7anh-k@y=num.0
+\MB BOCA, 11evar_en_mano, robar, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG entrecerrado
+\ENG half-closed
+\SPL
+Page 50

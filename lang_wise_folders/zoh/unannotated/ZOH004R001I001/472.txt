@@ -1,0 +1,63 @@
+\SLGR
+\EXU 7@n+ j@x.kuj-tam-pa 7ak(a)+jonanh
+\XPSH [7@n_j@xkujtampa 7akajonanh.]
+\XSP Le sacamos para la orilla.
+\XEN we pushed them to the edge.
+\SYN
+SEMF
+ETYM
+\ETL
+\ROOT kuj
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 11/Jan/96
+\lex j@x-kum
+\_no 01077
+\LG MIG
+\PSH [j@xkum-]
+\UND j@x-kum
+\MB ATRAS, enterrar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG desenterrar
+\ENG to dig up
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT kum
+\RTGR T2
+\DSRC HAJ95
+\CMTS
+\date 11/Jan/96
+\lex j@x-k@7t
+\_no 01078
+\LG MIG
+\PSH [j@xk@7t-]
+\UND jax-k@7t
+\MB ATRAS, moler
+ZOH004R0011001.txt
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 remoler
+\SPG 2 sacar molido
+\ENG 1 to regrind
+\ENG 2 to get out by grinding
+\EXU 1 wa.E=j@x.k@7t-wa (vi:incorp)
+\XPSH 1 [wae j@xk@7tt@.]
+\XSP 1 Remolio* la masa.
+\XEN 1 She reground the corn.
+\EXU 2 j@x.k@7t.7@m-w@ bi way7
+\XPSH 2 [J@xk@7tt@mm@ bi way7.]
+\XSP 2 Ya esta* repasando la masa.
+Page 472

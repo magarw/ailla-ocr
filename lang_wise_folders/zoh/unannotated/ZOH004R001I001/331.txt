@@ -1,0 +1,64 @@
+\_no 00764
+\LG MIG
+\PSH [ji7kxtinin]
+\UND ji7kx=tinin
+\MB tener_olor, X
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG olor fuerte que no se aguanta
+\ENG a strong, unbearable odor
+\SPL yak.ji7kx=tinin
+\SLGR CAUS
+\SLGL hacerlo ma*s fuerte (el olor malo) // to make the bad smell worse
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ji7kx
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 18/Jun/96
+\lex jim
+\_no 00765
+\LG Mig
+\PSH
+\UND jim
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 rozar
+\SPG 2 tocar al pasar
+ZOH004R0011001.txt
+\ENG 1 to graze
+\ENG 2 to touch in passing
+\EXU 1 7@y+ jim.jay. 'oyy@ yanh.ti7
+\XPSH 1 [7@y jimja7oyya yanhti7.]
+\XSP 1 TOCO* algo de la gente al pasar.
+\XEN 1 She touched something of someone else's in passing.
+\EXU 2 7@n+ jim-w@ 7@n+_n@k-E
+\XPSH 2 [7@n jimm@n n@ki.]
+\XSP 2 Anduvo tocandolo al pasar (como en una vereda muy angosta).
+\XEN 2 He went along touching things in passing (like on a narrow path).
+\EXU 3 7@y+ jim-w@ bi tzamm@7 d@k+('ay)
+\XPSH 3 [7@y jimm@ bi tzamm@7 d@kka.]
+\XSP 3 Lo fue* tocando los montes.
+\XEN 3 She went along touching the leaves of the shrubbery.
+\SYN
+\SEMF touch, hand
+\ASP activity, achievement
+\ARG
+\NOM jim.naanh
+\SUB 7ok.jim.'@y, k@.jim. '@y, ni.jim
+\ETYM
+\ETL
+\ROOT jim
+\RTGR T3
+Page 331

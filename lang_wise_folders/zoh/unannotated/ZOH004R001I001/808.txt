@@ -1,0 +1,64 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT * manh
+\RTGR P
+\DSRC HAJ94
+\CMTS
+\date 17/Jun/95
+\lex manh.kuy' 7an@7
+\_no 01873
+\LG MIG
+\PSH [manhkuy 7an@7]
+\UND manh.kuy' 7an@7
+\MB *pisar, INSTR1, X
+\VAR
+\GRAM s(m)s
+\SCI
+\USE
+\SPG planta del pie
+\ENG sole of foot
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * manh
+\RTGR P
+\DSRC HAJ94
+\CMTS what is /7an@7/? can't figure it out: TK, but the PH is correct
+\date 25/Jun/96
+\lex manh.kuy' pak
+\_no 01874
+\LG MIG
+\PSH [manhkuy_pak]
+\UND manh.kuy7 pak
+\MB *pisar, INSTR1, hueso
+\VAR kania manh.kuy7
+\GRAM sms
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG canilla
+\ENG shin
+\EXU manh.kuy' pak win+jo+7k kanh+p@7 ??
+\XPSH [manhkuy pak winjo (7k) kanhp@7]
+\XSP canilla
+\XEN shinbone
+\SYN
+el hueso de aqui* adelante
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC TK94
+\CMTS CK-PH
+ok; CK-EX, sounds good HAJ:96; analysis unclear: TK
+\CMTS winjo7 kanhp@7 'adelante'
+\date 25/Jun/96
+\lex manh.kuy' tzay7
+\_no 01875
+\LG MIG
+Page 808

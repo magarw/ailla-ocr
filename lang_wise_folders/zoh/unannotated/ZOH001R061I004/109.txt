@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [pukx@7]
+\UND pukx.A7
+\MB abundar, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG monte; yerba
+\ENG brush
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pukx
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 08/Feb/96
+\lex pun. @7
+\_no 00271
+\LG MIG
+\PSH [pun@7]
+\UND pun.A7
+\MB echar_goma, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG goma
+\ENG gum; sap
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT pun
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 08/Feb/96
+\lex putz.i
+\_no 00272
+\LG MIG
+\PSH [putzi]
+\UND putz.E
+\MB pudrirse, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG grano
+\ENG pimple
+\EXU
+ZOH001R0611004.txt
+Page 109

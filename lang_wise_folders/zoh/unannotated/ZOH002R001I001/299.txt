@@ -1,0 +1,49 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(iii)
+(11.9)
+(i)
+11.1.2. Relative clauses with bi
+Another type of relative clause is marked only by the definite article bi,
+without the final clitic. The matrix clause in this case is always an existential
+clause, and the head noun is always a pronoun, a deictic or the interrogative ti,
+'what'. The general form here is Pronoun (is) bi SREL, 'That is the one that S...'.
+(ii)
+(iii)
+(iv)
+'øy kompo:ntzøkpa jemji lo ke 'øy tze'ktzongxukpa
+?əy+ komponer=cək-pa hemhi lo ke ?ǝy+ ce?k=con-šuk-pa
+3E+ fix=do-INC
+all it that 3E+ ask=join-3PL-INC
+'She cured everything that they asked for.'
+(v)
+de bin 'angje'kpa døx
+de.?
+bi ?ǝn+ ?aŋhe?k-pa dǝš
+DCT2.NOM1 DEF 1E+ be_afraid-INC 1Prn
+'That's what I'm afraid of.'
+de'x de' biy tøpa
+de.?še de.?
+bi ?əy+ tə?-pa
+DCT2.SIM DCT2.NOM1 DEF want-INC
+'That is how he wants it.'
+døx bin sufritzøkkø
+dəš bi ?ən+ sufrir=cək-wə
+1 Prn DEF 1E+ suffer=do-COM
+'I'm the one that suffered.'
+ga'xe bi 'okmangngø
+ga.?še
+bi 0 ?ok.maŋ-wə
+(ZOH001R032-057)
+yakkøy 'ixxukkam gadøkka ti biy tzøkxukpa
+yakkə ?əy+ ?iš-šuk-wə+?am
+VOL 3E+ see-3PL-COM+NOW that+NPL what DEF 3E+
+'Now let them see what it is that they will do.' (ZOH001R011-111)
+DCT3.SIM DEF 3A DOWN.*step-COM
+'That's how it began."
+(ZOH001R025-200)
+272
+(ZOH001 R018-313)
+(ZOH001 R014-043)
+ga?+dǝkkay ti bi ?ǝy+cək-šuk-pa
+do-INC
+(ZOH001 RO10-229)

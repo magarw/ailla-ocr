@@ -1,0 +1,82 @@
+ZOH001R0361001.txt
+\fte He himself receives all the evil spirit that he put on his child.
+\com
+\idx
+\ref ZOH001R036 213
+\_no 00213
+\tx GSM: por 7ejemplo tum golpe p@kk@*7
+\mb GSM por 7ejemplo tum golpe p@k
+\sg1 GSM: por ejemplo uno golpe
+\eg1 GSM: for example one blow get
+\zoq GSM: Por 7ejemplo, tum golpe p@kk@*7, tum ney 7iw@ pwes?
+\fts GSM: Por ejemplo, una persona que se golpio*, aver quien, pues?
+\fte GSM: For example, one who gets a blow, well, who then?
+\com
+\idx
+\ref ZOH001R036 214
+\_no 00214
+\tx ti tzoy
+\mb ti tzoy
+7@m tz@kjaba
+7@m tz@k -jay -pa
+\sgl que saltar 2E hacer-APPL-INC
+\egl what jump 2E do -APPL-INC
+\zoq Ti tzoy 7@m tz@kjaba?
+fts Que remedio le haces?
+\fte what remedy do you make for that?
+\com
+\idx
+\ref ZOH001R036 215
+\_no 00215
+\tx
+OSM: 7entons de 7el ke
+\mb OSM entonces de 7el ke
+\sg1 OSM: entonces de e*l que
+\egl OSM: then
+tum ney
+7iw@ pwes
+-w@ -v7k tum ney 7iw@ pwes
+agarrar-COM-REL uno mismo quien pues
+-COM-REL one self who well
+\ref ZOH001R036 216
+\_no 00216
+\zoq OSM: 7entons de 7el ke p@kpa golpe,
+\fts OSM: Entonces el que lleva golpe,
+\fte OSM: Then of him who gets a blow,
+\com
+\idx
+\zoq si joypi7t x@nhkejan@mpa,
+\fts si el otro di*a amanece,
+\fte if the next day dawns,
+\com
+\idx
+\ref ZOH001R036 217
+\_no 00217
+of he that get
+toyjaypa
+\tx si joypi7t
+x@nhkejan@mpa
+\mb si joypi7t
+x@nh -kej -An@m -pa
+\sgl si otro_di*a fiesta -verse -INDEF-INC
+\eg1 if next day festival-appear-INDEF-INC
+p@kpa
+p@k
+golpe
+-pa golpe
+agarrar-INC golpe
+-INC blow
+\tx
+\mb toy -jay -pa 70 7@y pak
+\sgl doler-APPL-INC o 3E
+\egl hurt -APPL-INC or 3E
+70 7@y paktukpa
+grab
+7@y manhkuy
+7@y manh -kuy7
+pisar-INSTR1
+step -INSTR1
+-tuk -pa
+apretarse-cortar-INC 3E
+- cut -INC 3E
+Page 47

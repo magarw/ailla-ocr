@@ -1,0 +1,101 @@
+\tx para ke 7@y 7oknukk@ba
+\mb para ke 7@y 7ok -nuk
+\sg1 para que 3E ABAJO-agarrar-SUF-INC
+\egl for that 3E DOWN -grab
+\com
+\idx
+\ref ZOH001R036 908
+\_no 00891
+\tx jemji
+\mb
+\sg1 todo
+\egl all
+\zoq para ke 7@y 7oknukk@ba bi
+\fts para que lo suelte la gripa.
+fte so that the
+the cold lets go.
+\ref ZOH001R036 909
+\_no 00892
+ZOH001R0361001.txt
+ded@
+wayay 7anhtennampa
+-An@m -pa
+jemji7 te -da wayay7 7anh -ten
+DCT2-DEM frio
+BOCA -pararse-INDEF-INC 2E
+DCT2-DEM cold MOUTH-stand -INDEF-INC 2E
+\zoq 7@m yaknutztz@ba sin fin,
+\fts Te hace sudar bastante,
+\ref ZOH001R036 910
+\_no 00893
+\tx
+\mb
+\zoq Jemji ded@ wayay 7anhtennampa 7@m j@xp@kpa.
+fts Todo eso que tiene fieldad lo sacas.
+\fte You get rid of all of that that's got the chill.
+\com
+\idx
+\tx 7@m yaknutztz@ba
+\mb 7@m yak -nutz
+\sg1 2E CAUS-estar_caliente-SUF-INC
+\egl 2E CAUS-be_hot
+-7@y-pa bi
+\sg1 nochecita si 2E
+\egl evening if 2E
+DEF
+-SUF-INC DEF
+\fte It makes you sweat without end,
+\com
+\idx
+\ref ZOH001R036 911
+\_no 00894
+\tx ya
+\mb ya
+\sg1 NEG
+\eg1 NEG
+bi xitko7.
+7anhtzaji si 7@m p@jaba
+7anhtzaji si 7am p@7 -jay -pa
+poner-APPL-INC
+put -APPL-INC
+bi - bi xitko7
+bi xitko7
+DEF catarro
+DEF phlegm
+\zoq Ya yam p@ja kukjama.
+\fts No te echas de di*a.
+\fte Don't
+\com
+\idx
+-
+sin
+-7@y-pa sin
+sin
+-SUF-INC without
+\zoq 7anhtzaji si 7@m p@jaba.
+fts de nochecita si le echas.
+\fte in the evening if you put it on.
+\com
+\idx
+ya m
+p@ja
+ya 7@m p@7 -jay -A
+NEG 2E poner-APPL-nINC
+NEG 2E
+kukjama
+kuk
+fin
+fin
+fin
+end
+-jama
+centro-dia
+put -APPL-NINC center-day
+don't put it on during the day.
+7@m j@xp@kpa
+7@m jax -p@k
+ATRAS-agarrar-INC
+BACK -get
+Page 193
+-pa
+- INC

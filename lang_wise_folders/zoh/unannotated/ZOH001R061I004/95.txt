@@ -1,0 +1,62 @@
+\CMTS OK: TK
+\date 03/Jan/80
+\lex n@ji.7aH
+\_no 00234
+\LG MIG
+\PSH [n@ji7a-]
+\UND n@ji.7aH
+\MB nombre, VERS1
+\VAR
+\GRAM vt: vers1
+\SCI
+\USE
+\SPG 11amarse
+\ENG to be called (a name)
+\EXU 7@y+ n@ji.7aH-pa Maria
+\XPSH [7@y n@ji7apa Maria.]
+\XSP va a ser su nombre Maria.
+\XEN She named her Maria.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS to say me llamo Ana' it's just /7@n+ n@ji 7ana/
+\date 27/Jan/96
+\lex n@ji.7@y
+\_no 00235
+\LG MIG
+\PSH [n@ji7@y-]
+\UND naji.7@y
+\MB nombre, VERS2
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG ponerle su nombre
+\ENG to give someone a name
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 27/Jan/96
+\lex n@ji-p@'.jay
+\_no 00236
+\LG MIG
+\PSH [n@jip@jay-]
+\UND n@ji-p@7.jay
+\MB nombre, poner, APPL
+\VAR
+\GRAM vt:indir
+ZOH001R0611004.txt
+\SCI
+\USE
+\SPG poner nombre a
+Page 95

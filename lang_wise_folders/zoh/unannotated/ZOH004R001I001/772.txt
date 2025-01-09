@@ -1,0 +1,62 @@
+\lex k@.yox
+\_no 01784
+\LG MIG
+\PSH [k@yox-]
+\UND k@.yox
+\MB FUERA, trabajar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 trabajar por alguien
+\SPG 2 trabajar mucho
+ENG 1 to work for someone.
+\ENG 2 to work a lot
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yox
+\RTGR T1
+\DSRC TK94
+\CMTS
+\date 21/Jun/95
+\lex k@.yuj
+\_no 01785
+\LG MIG
+\PSH [k@yuj-]
+\UND k@.yuj
+\MB FUERA, rozar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG limpiar (con coa)
+\ENG to clear (with a hoe)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yuj
+\RTGR T1
+\DSRC TK94
+\CMTS
+\date 21/Jun/95
+\lex k@'-kuma7
+\_no 01786
+\LG MIG
+\PSH [k@kuma7]
+\UND k@7-kuma7
+\MB mano, coyol
+\VAR
+\GRAM SS
+\SCI
+\USE
+ZOH004R0011001.txt
+Page 772

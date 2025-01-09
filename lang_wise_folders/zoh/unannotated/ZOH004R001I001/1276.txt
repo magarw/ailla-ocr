@@ -1,0 +1,63 @@
+\MB DEM1, LOC1, CON OTRO
+\VAR
+\GRAM Vi
+\SCI
+\USE
+\SPG existir; estar tambien
+\ENG to exist; to also be
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 09/Feb/96
+\lex te.ji+'am 7amint@
+\_no 02966
+\LG MIG
+\PSH [tejiam_7amint@]
+\UND te.ji +7am 7amint@
+\MB DEM1, LOC1, YA, an~o
+\VAR
+\GRAM ya
+\SCI
+\USE
+\SPG hace an~os
+\ENG some years ago
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 09/Feb/96
+\lex te.j(i).7aH
+\_no 02967
+\LG MIG
+\PSH [teji7a-]
+\UND te.ji.7aH ??
+\MB DEM1, LOC1, VERS1
+\VAR teej.7aH
+\GRAM vers1
+\SCI
+\USE
+\SPG estar
+ENG to be
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+ZOH004R0011001.txt
+Page 1276

@@ -1,0 +1,39 @@
+The vast majority of overt object NPs appear after the verb (83.8%), as
+shown in table 14.5. This supports the idea that the post-verbal slot is the
+preferred position for introducing new information (or re-newed information,
+as I believe is the case in examples 14.9 (ii) and (v), above).
+(14.10)
+(i)
+OV
+VO
+Total
+(ii)
+Number
+21
+109
+130
+Percentag
+e
+16.2
+83.8
+100
+The only case of an overt object preceding the verb in 'The Two-Legged
+One' occurs on line 134; notably, this object is a relative clause a heavy NP.
+Similarly, in 'The Appearance of Santa Juanita', only clausal object NPs precede
+the verb (14.10 ii).
+Table 14.5: Transitive clauses with only an overt object NP
+mix nømjayyó' tzame yan yøktø'øy
+miš+ nəm.hay-wǝ+V?k
+cam.E
+ya ?ən+ yək.tə?.?ǝy-A
+2>1+decir.APPL-COM+REL platicar.NOM3 NEG 1E+ INSTR2.querer.SUF-nINC
+'The words you told me, I didn't believe.'
+(ZOH001R026-134)
+jemji dedø grande milagro 'øy 'angnitpá' dø tzipa
+hemhi dedə grande milagro ?əy+ ?aŋnit-pa+V?k də+ ci?-pa
+todo ese grande milagro 3E+ tener-INC+REL 1A+ dar-INC
+'All that great miracle that she has, she gives to me.'
+(ZOH001R032-092-3)
+Sr. Sánchez places the object NP before the verb for rhetorical effect, in
+two sets of parallel clauses. The first (14.11 i) is the narrator's account of the
+384

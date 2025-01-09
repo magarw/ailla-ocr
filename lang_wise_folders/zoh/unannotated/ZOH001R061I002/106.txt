@@ -1,0 +1,61 @@
+\_no 00430
+\SPG 11egar
+\ENG to arrive
+\SEMF move_self
+\ASP transition
+\ARG direction
+\NOM ye7tz.kuy7
+\RTGR I1
+\POS ye7tzjayy@ (le llego* como un regalo, su correo
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex yoj
+\_no 00431
+\SPG pagar
+\ENG to pay
+SEMF trade
+\ASP transition
+\ARG
+\NOM 7anh.yoj, yoj.a
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex yon
+\_no 00432
+\SPG zafarse; salirse
+\ENG to slip away; to get out
+\SEMF move_self
+\ASP transition
+\ARG manner
+\NOM
+\RTGR IX
+\POS NO
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex yox
+\_no 00433
+\SPG trabajar
+\ENG to work
+\SEMF build
+\ASP process
+\ARG
+\NOM yox.kuy7, yox.e7
+\RTGR T1
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\lex yo'
+\_no 00434
+\SPG caerse
+\ENG to fall
+Page 106

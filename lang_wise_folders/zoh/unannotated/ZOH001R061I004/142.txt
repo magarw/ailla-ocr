@@ -1,0 +1,64 @@
+\USE
+\SPG huele de noche
+\ENG a type of tree or shrub
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT waj
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 11/Feb/96
+\lex tzu'tz.i7
+\_no 00356
+\LG MIG
+\PSH [tzutzi7]
+\UND tzu7tz.E7
+\MB mamar, NOM 7
+\VAR
+\GRAM SV
+\SCI
+\USE
+LF: kuy mata
+\SPG chiche; "pecho"
+\ENG nipple
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzu7tz
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex tz@k.i
+\_no 00357
+\LG MIG
+\PSH [tz@ki]
+\UND tz@k.E +P@7k
+\MB hacer, NOM7, REL
+\VAR tz@ki7k tz@ki*7 REL
+\GRAM SV
+\SCI
+\USE
+\SPG cosa hecha
+\ENG a thing that was made
+\EXU 1 tz@k. E+'am+p@7k k@x.E d@+ tzi'-w@
+\XPSH_1 [Tz@kiyamp@7k_k@xi d@ tziw@.]
+\XSP 1 Una comida hecha me dio*.
+ZOH001R0611004.txt
+\XEN 1 She gave me a prepared dish.
+\EXU 2 tz@k. E+'am
+\XPSH 2 [tz@kiam]
+\XSP 2 una cosa hecha
+\XEN 2 a thing that was made
+\SYN
+\SEMF
+Page 142

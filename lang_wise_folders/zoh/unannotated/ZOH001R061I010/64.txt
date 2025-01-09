@@ -1,0 +1,60 @@
+\XEN I picked the orange with my hand
+\ROOT tuk T3
+\SEMF cut
+\PASS tuk.7@m reventar; reventarse y caerse
+\ANTI tuk.7oy
+\PRSV tuk.ten lo tiene cortado (como fruta)
+\CMTS
+\lex tun
+\_no 00280
+\SPG devisar alguien
+\ENG to peek at someone
+\EX 7@y numtunn@
+\XSP 1o deviso* escondido
+\XEN she spied on someone from hiding
+\ROOT tun T3
+\SEMF percep
+\PASS tun.7@m ver (??)
+\ANTI tun. 7oy devisar
+\CMTS
+\lex tunun
+\_no 00281
+SPG
+\ENG
+\EX
+\XSP
+\XEN
+\ROOT tunun Ix
+\SEMF sex
+\CMTS get GL, prob. sexual
+\lex tu7p
+\_no 00282
+\SPG desmoronar; hacer pedazosn; despedazar
+\ENG to crumble; to make pieces;
+\EX
+\XSP
+\XEN
+\ROOT tu7p T3
+\SEMF break
+\PASS tu7p.7@m
+\ANTI tu7p.7oy
+\CMTS
+ZOH001R0611010.txt
+\lex tux
+\_no 00283
+\SPG picar (una vi*bora); pellizcar; piquete de vi*bora, o gallina
+\ENG to bite (a snake); to pinch; a bite of a snake or chicken
+\EX yaktuxxoyy@ tzajin
+\XSP le pico* la vi bora
+\XEN the snake bit someone
+\ROOT tux T3
+\SEMF bite
+PASS NONE tux.7@m *
+\ANTI tux.7oy
+\CMTS
+\lex t@
+\_no 00284
+\SPG querer; aceptar
+\ENG to love; accept as fiancee
+\EX mixx@n t@pa
+Page 64

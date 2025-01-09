@@ -1,0 +1,25 @@
+ano baya-ca-shon-ra
+LOC << faire tourner »>-F1
+là, ils l'ont fait tourner
+<< faire tourner »-commencer-F3
+ils ont commencé à le faire tourner
+rohuu tsico udu-cai
+ce liquide du derrière de métal
+= ce jus de cannes à sucre du trapiche
+anocamu ponoma
+LOC-EXIST3 couler-CAUS-ACC
+LOC couler-CAUS- ?-ASS
+rohuu tsico udu-cai
+métal tsico eau-MIR
+le liquide du derrière de métal
+= le jus de canne à sucre du trapiche
+ahuun huacosh pau-ra
+3POSS mousse puissant-ASS
+remplir-monter-DIR-OST1
+AUX.INTR-nombreux-F3
+33 tsoan ano rihuima
+34 asca ano rihuima
+35 // un nusca ahuaquin //
+36 tsoan ano raoma
+3PERS-nombreux remplir-PROG
+en grande quantité ils remplissent

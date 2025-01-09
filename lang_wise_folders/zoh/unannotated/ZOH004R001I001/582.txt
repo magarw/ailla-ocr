@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT jay
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 17/Jul/95
+\lex ko.kam
+\_no 01333
+\LG MIG
+\PSH [kokam-]
+\UND ko.kam
+\MB OTRO, trabarse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG trabarse por algo
+\ENG to get stuck because of something
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kam
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 17/Jul/95
+\lex ko.kax
+\_no 01334
+LG MIG
+\PSH [kokax-]
+\UND ko.kax
+\MB OTRO, dar pasos
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG pasar algo con los pies
+\ENG to step over something
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN ni.kax
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT kax
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 17/Jul/95
+Page 582

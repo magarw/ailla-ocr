@@ -1,0 +1,77 @@
+\ref ZOH001R036 498
+\_no 00489
+\tx tza
+g@xi
+\mb tza7 g@xi
+\sg1 piedra Loc4
+\egl rock LOC4
+\zoq tzag@xi.
+\fts en el metate.
+\fte in the metate.
+\com
+\idx
+\ref ZOH001R036 499
+\_no 00490
+\tx ya ke tukkam
+\mb__ya ke tuk
+-w@ -7am
+\sg] ya que terminarse-COM-YA
+\egl now that finish
+\zoq Ya ke tukkam gag@ pote,
+\fts ya que acabo* ese polvo,
+\fte Now that that powder is done,
+\com
+\idx
+\ref ZOH001R036 500
+\_no 00491
+\tx yuchi yuchi 7@y tz@kpa
+yuchi7 7@y tz@k -pa
+\mb yuchi7
+\sg1 fino
+fino 3E hacer-INC
+\egl fine fine 3E do -INC
+pote
+gag@
+ka -g@
+-g@ po7t -E
+DCT3-DEM moler-NOM3
+-COM-NOW DCT3-DEM grind-NOM3
+\zoq yuchi, yuchi 7@y tz@kpa.
+\fts finito, finito lo dejas.
+\fte he makes it fine, fine.
+\com
+\idx
+\ref ZOH001R036 501
+\_no 00492
+minpam
+y p@jayy@
+\tx gay
+\mb ka
+-Y
+min -pa -7am 7@y p@7 -jay -w@
+\sg1 DCT3-TMP venir-INC-YA 3E
+poner-APPL-dINC por todo
+\eg1 DCT3-TMP come -INC-NOW 3E put -APPL-dINC all over
+\zoq Gay_minpam y p@jayy@ jemji7ok.
+\fts Ya le viene a echar en toda.
+\ref ZOH001R036 502
+\_no 00493
+\fte Then you come and put it all over.
+\com
+\idx
+\tx 7@y yakt@tzpa
+\mb 7@y yak -t@tz
+\sg1 3E
+\egl 3E
+ZOH001R0361001.txt
+-pa
+CAUS-secarse-INC
+CAUS-dry
+- INC
+\zoq 7@y yakt@tzpa.
+\fts Lo seca (la herida).
+\fte one dries it (the wound).
+\com
+Page 107
+jemji7ok
+jemji7ok

@@ -1,0 +1,73 @@
+i
+P
+MP
+PS
+SS
+G
+E
+P
+MP
+PS
+SS
+G
+E
+P
+MP
+PS
+SS
+G
+KENYAMAN
+E
+SALON
+íčamom ha té?él #234 rá "ol hák' yét'ok #²3.
+£23 →
+?íčam-om-Ø ha-té?-el áh ?ol-h-?ák'
+SP
+NP
+PP
+VP
+Main
+Subj.
+big-*-it your-height-*
+you are tall
+Pre-Adv
+here hold-stay-*
+hold on here!
+Main.
+PP
+Intro
+tik yámkaníh #12_ → p'atin sáy sáy Čáp'ok koy #231
+p'at-hin-sáy sáy čá?p'-ok k-oy
+tik yám-kan-ih
+NP
+VP
+VP
+still
+then
+237
+ah
+NP
+Intro
+Main
+* future-you-do it-accompany-*
+you will handle it
+Main
+to ká te ?óy kák'kanoč t'atik
+toh káh te? ?óy k-?ák¹-kan-oč t'ah tik
+VP
+go-I-seek
+I go to seek
+y-?ét'-ok
+NP
+Main
+Post-Adv.
+NP
+two-about our-props
+a couple of props
+NP
+Obj.
+Post-Adv
+Topic
+wooden prop we-do-stay-enter to here
+a wooden prop we leave in
+here

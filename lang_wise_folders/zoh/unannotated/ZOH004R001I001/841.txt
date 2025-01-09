@@ -1,0 +1,64 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 02/Nov/94
+\lex metz-po'
+\_no 01951
+\LG MIG
+\PSH [metzpo-]
+\UND metz-po7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG nacer juntos/dos
+\ENG to be born together, as two
+\EXU 1 metz-po' -xuk-w@
+\XPSH 1 [Metzpoxukk@.]
+\XSP 1 Nacieron juntos.
+\XEN 1 They were born together.
+\EXU 2 metz-po' -w@+@7
+\XPSH 2 [metzpow@*7]
+\XSP 2 que nacieron junto gemelos
+\XEN 2 twins
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT po'
+\RTGR 12
+\DSRC TK94
+\CMTS probably metzanh; NO: /metz/ occurs as a prepound
+\date 25/Jun/96
+\lex metz-tu7tz
+\_no 01952
+\LG MIG
+\PSH [metztu7tz]
+\UND metz=tu7tz
+\MB dos, cola ("double-tail")
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG tijerilla
+\ENG earwig
+\SPL
+ZOH004R0011001.txt
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM EZ
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 26/Jan/96
+LF:bugs
+Page 841

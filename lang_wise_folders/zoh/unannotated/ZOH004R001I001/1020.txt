@@ -1,0 +1,63 @@
+\USE
+\SPG echar brujeri*a a alguien
+\ENG to use witchcraft on someone
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 21/Jun/95
+\lex ni.tz@m
+\_no 02368
+\LG MIG
+\PSH [nitz@m]
+\UND ni.tz@m.0
+\MB PURP, cargar, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG resistidor
+\ENG pad under a load
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@m
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 27/Jan/96
+\lex ni.tz@n
+\_no 02369
+\LG MIG
+\PSH [nitz@n]
+\UND ni.tz@n.0
+\MB PURP, estar_sentado, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG asentadera
+\ENG seat
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@n
+Page 1020

@@ -1,0 +1,70 @@
+\sg1 1A venir-COM pueblo
+\egl 1A come -COM town
+\com
+\idx
+\fts vine del otro lado del pueblo
+fte I'm coming from the other side of town
+\ref 123
+\_no 00124
+\tx d@ minn@
+\mb d@ min
+-wa
+yaj@*nh
+yaj@7-j@nh
+\sgl 1A venir-COM lejos-11 ano
+\egl 1A come -COM far -plain
+\fts vine de lejos
+\fte I came from far away
+\com
+\idx
+\ref 124
+\_no 00125
+\tx d@ minn@
+\mb da
+d@
+min
+-w@
+\sg] 1A venir-COM cerca-DIR4
+\egl 1A come -COM near -DIR4
+\fts vine de cerca
+\fte I came from nearby
+\com
+\idx
+\ref 125
+\_no 00126
+\tx d@ minn@
+\mb d@ min -w@
+DCT3-DIR1
+DCT3-DIR1
+tomejo*nh
+tome7-joonh
+\ref 126
+\_no 00127
+maxanht@k
+maxan
+\fts vine de cerca de la iglesia
+\fte I came from near the church
+\com
+\idx
+-t@k
+\sgl 1A venir-COM
+sagrado-casa
+\egl 1A come -COM sacred -house near
+\ref 127
+\_no 00128
+ZOH001R0601001.txt
+\tx d@ minn@
+\mb d@ min
+-w@
+wajakjo*nh
+wajaka-joonh
+\sgl 1A venir-COM oaxaca-DIR4
+\egl 1A come -COM oaxaca-DIR4
+\fts vine de Oaxaca
+\fte I came from Oaxaca
+\com
+\idx
+7anhtome7
+7anhtome7
+cerca_de
+Page 30

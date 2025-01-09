@@ -1,0 +1,62 @@
+\_no 00167
+\SPG 11oviznar; brisar
+\ENG to drizzle
+\EX tuj xi7kx@
+\XSP 11ovizno*
+XEN it drizzled
+\ROOT xi7kx I1, Ix
+\SEMF nature
+\CAUS NONE
+no puede
+\CMTS not regar, porque el agua debe venir del cielo
+\lex xinh
+\_no 00168
+\SPG hincharse; hinchada
+\ENG to swell; a swelling
+\EX m@jm@ xinh@
+\XSP esta* hinchado bastante
+XEN it swelled up a lot
+\ROOT xinh I2
+\SEMF body, condition
+\CAUS NONE
+\CMTS
+\lex xix
+\_no 00169
+\SPG encogerse; encogerse carne seca*ndose
+\ENG to shrink up; for meat to shrink up while drying
+\EX
+\XSP
+\XEN
+\ROOT xix 12
+\SEMF condition
+\CAUS yak.xix hacer encoger
+\CMTS
+\lex xoy
+\_no 00170
+\SPG pasar de tiempo
+\ENG to be overripe - yam, yucca; to harm if eaten
+\EX m@n xoyy@
+\XSP se paso* de tiempo el camote
+\XEN the yam is overripe
+\ROOT xoy Ix
+\SEMF condition
+\CAUS NONE
+\CMTS
+\lex xuk
+\_no 00171
+\SPG acabarse; desaparecer
+ENG to finish up; to disappear
+\EX xukka*m
+\XSP ya se acabo*
+\XEN it's finished
+ZOH001R0611007.txt
+camote yuca; hace dan~o para comer
+\EX xukpa*m
+\XSP ya esta* acabandose
+\ROOT xuk 12
+\SEMF aspect
+\CAUS yak.xuk acabar
+\CMTS
+\lex xukuk
+\_no 00172
+Page 40

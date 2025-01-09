@@ -1,0 +1,85 @@
+\idx
+\ref ZOH001R036 999-300
+\_no 01279
+\tx kay
+\mb ka
+-Y
+\sg1 DCT3-TMP ATRAS-agarrar-INC-YA
+\eg1 DCT3-TMP BACK -get
+j@xp@kpa*m
+jax -pak
+\ref ZOH001R036 999-301
+\_no 01280
+\zoq Kay j@xp@kpa*m gag@ n@pin kotzamm@d@kka.
+\fts Ya saca esa sangre cuajada.
+fte Then now she gets out that old blood.
+\com
+\idx
+poyjowakka*m
+-jo
+jemji
+poy
+\tx ya ke
+\mb ya ke
+-wak -w@ -7am jemji7
+\sg] ya que juirse-EN -vaciar-COM-YA todo
+\egl now that flee -INTO-empty -COM-NOW all
+\ref ZOH001R036 999-302
+\_no 01281
+\zoq Ya ke poyjowakka*m jemji,
+\fts ya que salio* todo,
+\fte Now that it has all come out,
+\com
+\idx
+d@kka
+gag@ n@pin kotzamm@
+ka -g@ n@pin7 ko -tzam
+d@kkay
+DCT3-DEM sangre SOC-sazonarse-COM NPL
+-INC-NOW DCT3-DEM blood SOC-mature -COM NPL
+-pa -7am
+\tx
+7a los 7ocho dia kina*nh
+\mb 7a los 7ocho dia kinaanh
+\sg1 a los ocho dia limite
+\egl at the eight day limit
+k@
+\zoq 7a los 7ocho dia kina*nh,
+\fts a los ocho dias,
+\fte at about the eighth day,
+\com
+\idx
+ZOH001R0361001.txt
+\ref ZOH001R036 999-303
+\_no 01282
+k@monhnh@yya*m
+p@7tta*m
+\tx 7i
+\mb 7i
+\sgl y
+pasar-COM-YA
+\egl and AWAY -sleep -SUF-COM-NOW pass -COM-NOW
+-monh -7@y-wa -7am p@7t -w@ -7am
+AFUERA-dormir-SUF-COM-YA
+\ref ZOH001R036 999-304
+\_no 01283
+\tx ya n@pin7aa*m
+\mb ya n@pin7-7a
+\zoq 7i k@monḥnh@yya*m, p@7tta*m gag@ n@pin.
+\fts ya se cuido* esos dias, ya paso* esa sangre.
+\fte and she waits those days out, now that blood has passed.
+\com
+\idx
+\zoq Ya n@pin7aa*m.
+\fts Ya no sangra.
+-A
+\sg1 NEG sangre-VERS1-nINC-YA
+\egl NEG blood -VERS1-nINC-NOW
+- 7am
+gag@
+n@pin
+ka -g@ n@pin7
+DCT3-DEM sangre
+DCT3-DEM blood
+Page 275
+-w@

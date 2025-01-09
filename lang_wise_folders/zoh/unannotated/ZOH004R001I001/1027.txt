@@ -1,0 +1,62 @@
+\date 27/Jan/96
+\lex ni.xuy
+\_no 02384
+\LG MIG
+\PSH [nixuy-]
+\UND ni.xuy
+\MB PURP, X
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG cobijar; tapar
+\ENG to cover (with a blanket)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * xuy (%xuy7 ?)
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 27/Jan/96
+\lex ni.xuy7
+\_no 02385
+\LG MIG
+\PSH [nixuy7]
+\UND ni.xuy7.0
+\MB PURP, X, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG cobija; sa*bana; ropa de cama; chamarra
+\ENG blanket; sheet; any kind of bedclothes; jacket
+\EXU
+\XSP
+\XEN
+\SYN jerga
+\SEMF
+\ETYM
+\ETL
+\ROOT * xuy (%xuy7 ?)
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex ni.ya.anh.koj. '@y
+\_no 02386
+ZOH004R0011001.txt
+\LG MIG
+\PSH [niiyanhkojj@y-]
+\UND ni.yak.7anh.koj.7@y
+\MB PURP, CAUS, BOCĂ, encajar, SUF
+\VAR
+\GRAM vt:incorp
+\SCI
+\USE
+\SPG culpar; echar la culpa
+Page 1027

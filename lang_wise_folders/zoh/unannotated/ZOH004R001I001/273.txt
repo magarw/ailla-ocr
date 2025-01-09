@@ -1,0 +1,63 @@
+\ENG 2 there is a lot of fruit
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 13/Jun/95
+\lex jakx
+\_no 00638
+\LG MIG
+\PSH
+\UND jakx
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG sacar algo de la boca
+\ENG to hawk a gob
+\SPL yak.jakx
+\SLGR CAUS
+\SLGL hacer sacar algo de la boca // to make someone spit out something
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF body, eat
+\ASP achievement
+\ARG
+\NOM jakx.kuy7, jakx.i7, jakx.e7+k xit
+\SUB 7ok.jakx. '@y, jakx.jakx.ney, j@x-jakx, nik.jakx. '@y
+\ETYM
+\ETL
+\ROOT jakx
+\RTGR 11
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex jakx.i7
+\_no 00639
+\LG MIG
+\PSH [jakxi7]
+\UND jakx.E7
+\MB sacar_de_boca, NOM7
+\VAR
+ZOH004R0011001.txt
+\GRAM SV
+\SPG la cosa que sacamos de la boca
+\ENG what we spit out
+\SPL
+\SLGR
+\EXU
+\XPSH
+\XSP
+\XEN
+\SYN
+\SEMF
+Page 273

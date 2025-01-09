@@ -1,0 +1,63 @@
+\LG MIG
+\PSH
+\UND moradu
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG morado
+\ENG purple
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 31/Mar/95
+\lex moriu
+\_no 02028
+\LG MIG
+\PSH
+\UND moriyu
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG morillo
+\ENG cross-pole in a ceiling
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH/fixed: TK
+\date 25/Jun/96
+\lex moso
+\_no 02029
+\LG MIG
+\PSH
+\UND moso
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG bonito
+\ENG beautiful
+\EXU
+\XSP
+\XEN
+\SYN jak tuk-w@
+\SEMF
+ZOH004R0011001.txt
+Page 874

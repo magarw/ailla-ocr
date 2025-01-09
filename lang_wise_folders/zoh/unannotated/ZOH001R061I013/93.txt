@@ -1,0 +1,54 @@
+\lex kunya
+\_no 01158
+\SPG cun*a
+\ENG
+\lex kunya w
+\_no 01159
+SPG cun~ado de hombre
+\ENG brother-in-law of
+\lex kunh
+\_no 01160
+\SPG colgar
+\ENG hang
+\lex kupi7
+\_no 01161
+\SPG flojo
+\ENG lazy
+\lex kuptuku7
+\_no 01162
+\SPG espalda
+\ENG back
+\lex kura
+\_no 01163
+\SPG cura
+\ENG priest
+\lex kuradina
+\_no 01164
+\SPG curadina
+\ENG ***
+\lex kuranderu
+\_no 01165
+\SPG curandero
+\ENG healer
+\lex kura*r
+\_no 01166
+\SPG curar
+\ENG heal
+\lex kurba
+\_no 01167
+\SPG curva
+\ENG curve
+\lex kuru7
+\_no 01168
+\SPG ardilla
+\ENG squirrel
+\lex kusineru
+\_no 01169
+\SPG cocinero
+\ENG cook
+\lex kut
+\_no 01170
+\SPG andar_a_rodilla
+man
+ZOH001R0611013.txt
+Page 93

@@ -1,0 +1,61 @@
+\XSP lo corto* con sierra
+\XEN he cut it with a saw
+\ROOT wotz T1
+\CMTS med wotz.7@m
+\lex wox
+\_no 00319
+\SPG pelar
+naranja
+\ENG to peel an orange
+\EX woxtene anax d@kka
+\XSP tiene pelado las naranjas
+\XEN the oranges are peeled
+\ROOT wOX T3
+\CMTS antip wox. 7oy pelar
+\CMTS pass wox.7@m pelarse
+\CMTS prsv wox-ten-e lo tiene pelado
+\lex wox
+\_no 00320
+\SPG sacar puntas
+\ENG to sharpen
+\EX woxpunta7aw@
+\XSP lo saco* puntas
+\XEN she sharpened it
+\ROOT wOX T3
+\CMTS antip wox. 7oy
+\CMTS no pass wox.7@m *
+\CMTS won't accept the bare root today
+\lex woy
+\_no 00321
+\SPG enrollar; recoger; enroscar
+\ENG to roll up; to pick up
+\EX
+\XSP
+-
+\XEN
+\ROOT woy P, (T3)
+\CMTS antip woy.7oy
+\CMTS pass woy.7@m
+\lex w@m
+\_no 00322
+\SPG
+\ENG
+\EX
+\XSP
+\XEN
+ZOH001R0611011.txt
+\ROOT w@m Tx
+\CMTS get gloss, prob. sexual
+\lex w@nh
+\_no 00323
+\SPG sumirse en - traste de agua, ri*o; hundirse
+\ENG to be submerged in a dish of water, the river
+\EX w@nhnh@ traste d@kka_n@jo7
+\XSP se sumio* los traste en el ri*o
+\lex w@tz
+\_no 00324
+\SPG gotear
+\XEN the dishes were submerged in the river
+\ROOT w@nh Ix
+\CMTS caus yak.w@nh sumir
+Page 62

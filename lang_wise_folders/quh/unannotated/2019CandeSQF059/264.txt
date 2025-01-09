@@ -1,0 +1,44 @@
+264
+mejor visibilizada según una transcripción en líneas. 309 Los rasgos que separan las diferentes
+líneas entre sí pueden ser: pausas (como la línea n.1), cierre de frase mediante cadencia o
+descenso tonal (como en la línea n.3) o intervalos de duda o hesitación (como en la línea n.4).
+La línea en la transcripción coincide, en general y salvo en los casos en que sucede
+enumeración estilística (líneas 5 y 19), con la unidad prosódica de "frase entonacional" (e.i.,
+puede abarcar varias frases fonológicas y siempre es menor a una emisión o U).
+Varias "líneas" componen una "sección" de unidad temática. En varios casos, el inicio
+de una sección se señala con la presencia de un conector que posee un contorno entonacional
+ascendente y que recurre, en algunos casos, al alargamiento vocálico. Su aparición sostiene la
+retención del turno de habla y señala continuidad tópica. El cierre de la sección se marca con
+una variación del tono en el sentido contrario (desciende o posee variación en la cadencia
+rítmica).
+La unidad prosódica de emisión posee, por un lado, un claro paralelo con la dimensión
+temática (es decir, con lo que nombro como "sección") y, por otro lado, posee una correlación
+particular con la dimensión pragmática del discurso identificándose una vinculación (parcial)
+entre U y Acto de Habla. En los casos en que hay más de una emisión integrando un acto de
+habla, las segunda emisión implica reforzamiento o reformulación, a través de reiteraciones o
+aclaraciones, de lo que la emisión inicial (aquella que abre el acto de habla) refiere o "hace"
+(e.g., tercera y sexta sección).
+Las cadencias o el descenso del tono, en general, coinciden con el cierre de la frase
+entonacional, que, en varias oportunidades (de forma previsible según la teoría de la estructura
+prosódica, ver capítulo V) también coincide con el cierre de la emisión o utterance (e.g. línea
+3, 8, etc.).
+En relación con los límites de los constituyentes prosódicos, si adoptamos la teoría de
+jerarquía prosódica (Selkirk 1986; Nespor y Vogel 1986; Hayes 1989), no se observa en el
+texto presentado "violaciones" a la hipótesis de niveles específicos (strict layer hipótesis 3¹0)
+ya que es posible organizar los constituyentes jerárquicamente en una relación prolija de
+implicación.
+Cada uno de los constituyentes prosódicos tiende a correlacionarse con algún
+fenómeno perceptible:
+U: Acto de habla y unidad temática (sección). Prosódicamente identificable
+porque se limita con pausas más extensas que el resto del fragmento discursivo;
+I: línea melódica o contorno entonacional con pico en una sílaba acentuada que
+además se ubica en una palabra prominente temáticamente ya que aporta, en general,
+información nueva (e.g., línea 3);
+309
+El análisis rítmico fue especialmente tratado en el capítulo 5 ya que, más allá de la extensión de su uso como
+estrategia discursiva, considero al ritmo un rasgo clave de conformación comunalizante que trasciende las
+fronteras de los códigos lingüísticos y es adquirido por los jóvenes durante la socialización. Siendo las unidades
+prosódicas las menos accesibles a la conciencia se superponen al contenido referencial, organizando el discurso y
+la comunicación en congruencia con una base cultural de tradición oral.
+310 Hipótesis que inhibe el "encorchetamiento impropio", la "recursividad" y la "no-exhaustividad” en la
+implicación de constituyentes entre niveles prosódicos (U; I; Þ; @).

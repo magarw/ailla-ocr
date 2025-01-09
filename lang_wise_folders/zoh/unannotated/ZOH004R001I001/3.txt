@@ -1,0 +1,64 @@
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG abono
+\ENG
+\EXU
+\XSP
+\XEN
+fertilizer
+\SYN
+\SEMF
+\ETYM abono
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Aug/94
+\lex 7abon(o).7@y
+\_no 00007
+\LG MIG
+\PSH [7abon7@y-] I DOUBT THIS (checked by HAJ 6/96, OK now)
+\UND 7abono.7@y
+\MB abonar, VERS2
+\VAR 7aboon.7@y
+\GRAM vt
+\SCI
+\USE
+\DLG
+\SPG abonar; echarle abono
+\ENG to fertilize; to put fertilizer on
+\EXU 7@n+ 7abono.7@y-wa
+\XPSH [7@n 7abono7@yy@.]
+\XSP Lo abone*.
+\XEN I fertilized it.
+SYN
+\SEMF
+\ETYM abono
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH both ok; TK: /00/
+\date 02/Oct/96
+\lex 7abon(o)=p@¹.jay
+\_no 00008
+\LG MIG
+\PSH [7abonop@jay-]
+\UND 7abono-p@7.jay
+\MB abonar, poner, APPL
+\VAR 7aboon=p@¹.jay
+\GRAM indir
+\SCI
+\USE
+\SPG abonar
+\ENG to fertilize
+\EXU 7@n+ 7abon (o)=p@'.jay-wa
+\XPSH [7@n 7abonop@jayy@.]
+ZOH004R0011001.txt
+\XSP Lo abone*.
+\XEN I fertilized it.
+\SYN 7abon (o).7@y
+\SEMF
+Page 3

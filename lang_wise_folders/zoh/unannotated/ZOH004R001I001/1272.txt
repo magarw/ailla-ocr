@@ -1,0 +1,64 @@
+\SLGL 11enar // to fill
+\EXU 1 7@y+ yak.tax-w@ tum. 7anh
+\XPSH 1 [7@y yaktaxx@ tummanh.]
+\XSP 1 Lo arraso*.
+\XEN 1 He filled it level.
+\EXU 2 tax-w@+ 'am
+\XPSH 2 [Taxxa*m.]
+\XSP 2 Esta* lleno, satisfecho.
+\XEN 2 She's full.
+\SYN
+\SEMF arrange
+\ASP activity, achievement
+\ARG
+\NOM
+\SUB jay=tax, puj-jo.tax, puj=tax
+\ETYM
+\ETL
+\ROOT tax
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex taxi7
+\_no 02956
+\LG MIG
+\PSH
+\UND taxi7
+\MB
+\VAR taxi7 jay@7
+\GRAM
+\SCI
+\USE
+\SPG flor de diyabigu*
+\ENG a type of plant
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 21/Jun/96
+\lex tax.@7
+\_no 02957
+\LG MIG
+\PSH [tax@*7]
+\UND tax. A7
+LF:7okox
+\MB 11enarse, NOM2
+\VAR tax@7k
+\GRAM SV
+\SPG 11eno
+\ENG full
+\EXU 1 xuyu' tax. A7
+\XPSH 1 [xuyu tax@*7]
+\XSP 1 olla llena
+\XEN 1 a full jug
+\EXU 2 tax.A7+@7k xuyu'
+\XPSH 2 [tax@7k xuyu7]
+ZOH004R0011001.txt
+Page 1272

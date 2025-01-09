@@ -1,0 +1,86 @@
+\fts De ahi* ya le vienes echando azucar.
+\fte Then you come put in sugar.
+\com
+\idx
+\ref ZOH001R036 536
+\_no 00527
+\tx 7@m p@pa
+\mb 7@m p@7 -ра
+poner-INC
+\zoq 7@m p@pa gad@ 7asukar.
+\fts Le echas esa azucar.
+\fte You put that sugar.
+\com
+\idx
+\sg1 2E
+DCT3-DEM
+azucar
+\egl 2E put -INC DCT3-DEM sugar
+\ref ZOH001R036 537
+\_no 00528
+\tx 7ay
+7@m p@w@
+\mb 7adyo min
+-pa -7am 7@m p@7 -w@
+\sg1 luego venir-INC-YA 2E
+\egl later come -INC-NOW 2E
+minpam
+\ref ZOH001R036 538
+\_no 00529
+gada
+ka -d@
+\zoq 7ay minpam 7@m p@w@ pur gota.
+\fts De ahi
+\tx tzunnenhja*7
+\mb
+tzun
+\fte Then you come put it in by the drop.
+\com
+\idx
+ya vienes echando por gota.
+ZOH001R0361001.txt
+7asukar
+7asukar
+\zoq Tzunnenhja*7 wankapa*m.
+\fts Por gota viene cayendo.
+\ref ZOH001R036 539
+\_no 00530
+\tx tzunnenhja*
+\mb
+tzun
+-neenh-jaa7
+-pa -7am
+\sg1 gotear-MED -NPL2
+bajarse-INC-YA
+\egl drop -MEAS -NPL2 go_down-INC-NOW
+pur gota
+por gota
+poner-dINC por gota
+put -dINC by drop
+\fte By drops now it goes down.
+\com
+\idx
+\ref ZOH001R036 540
+\_no 00531
+wanakpa*m
+wanak
+\tx jakke waxpa
+\mb
+jakke wax
+yopa
+-neenh-jaa7
+m wit@mjo
+yo7 -ра 7@m wit@m-jo7
+caerse-INC 2E
+\sg1 gotear-MED -NPL2
+ojo -Loc2
+\egl drop -MEAS -NPL2 fall -INC 2E eye -LOC2
+-ра
+\sg1 mucho morder-INC
+\egl a lot bite -INC
+\zoq Tzunnenhja* yopam wit@mjo.
+\fts Por gota cae en tus ojos.
+\fte By drops it falls in your eyes.
+\com
+\idx
+Page 115

@@ -1,0 +1,63 @@
+\lex win-n@k='amma
+\_no 03717
+\LG MIG
+\PSH [winn@kkamma-]
+\UND win-n@k=7amma
+\MB CARA, irse, mirar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG estar viendo la cara una al otro
+\ENG to be looking into each other's eyes
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 n@k
+\RTGR 1 11
+\ROOT 2 7amma
+\RTGR 2 T1
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+\lex win=n@k='ix. '@y
+\_no 03718
+\LG MIG
+\PSH [winn@kkixx@y-]
+\UND win-n@k=7ix.7@y
+\MB CARA, irse, ver, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG devisar
+\ENG to spy; to espy
+\SPL
+ZOH004R0011001.txt
+\SLGR
+\EXU 7@y+ win=n@k='ix. '@y-w@ kada ratu
+\XPSH [7@y winn@kkixx@yy@ kada ratu.]
+\XSP Lo miro* cada ratito.
+\XEN She looked at him over and over again.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 n@k
+\RTGR 1 11
+\ROOT 2 7ix
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS
+\date 16/Jun/95
+\DATE 14/Aug/02
+\lex win=pak=tzonh
+\_no 03719
+\LG MIG
+Page 1597

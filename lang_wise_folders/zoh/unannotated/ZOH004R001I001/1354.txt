@@ -1,0 +1,63 @@
+\SPG pato de casa
+\ENG domestic duck
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 09/Feb/96
+\lex t@k+jo' 7an(i)maal d@k+7ay
+\_no 03148
+\LG MIG
+\PSH [t@kjo 7anmaal d@kka]
+\UND tak +jo7 7animaal T@k_+7ay
+\MB casa, Loc2, animal, NP1
+\VAR
+\GRAM ams+pl
+\SCI
+\SEMF
+\ETYM
+\ETL
+LF: jon
+\USE
+\SPG animales de la casa; animales dome*sticos
+\ENG house pets; domestic animals
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex t@k=ko.jap
+\_no 03149
+\LG MIG
+\PSH [t@kkojap]
+\UND tak-ko.jap.0
+\MB casa, CAB, X, NOM6
+\VAR
+\GRAM s (m) sv0
+\SCI
+\USE
+\SPG techo de una casa
+\ENG roof of a house
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT ko.jap
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+Page 1354

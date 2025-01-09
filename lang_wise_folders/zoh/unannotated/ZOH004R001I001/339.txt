@@ -1,0 +1,62 @@
+\date 03/Jan/80
+\DATE 29/Jan/2000
+\lex jipx.@7 [2]
+\_no 00781
+\LG MIG
+\PHO [jipx@7]
+\UND jipx.A7
+\MB quemarse, NOM2
+\VAR
+\GRAM SV
+\SPG quemado
+\ENG burned, overcooked
+\EX X@k jipx.@7
+\XPSH [xak jipx@*7]
+\XSP frijoles quemados
+\XEN burned beans
+\EX jipx.@7+k_x@k
+\XPSH [jipx@7k_x@k]
+\XSP frijoles quemados
+\XEN burned beans
+\SYN
+\ROOT jipx
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex jipx-@H
+\_no 00782
+\LG MIG
+\PSH [jipx@-]
+\UND jipx-AH
+\MB quemarse, X
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG tener calentura
+\ENG to have a fever
+\SLGR NO CAUS
+\EXU d@+ jipx-@H-pa
+\XPSH [D@ jipx@pa.]
+\XSP Tengo calentura.
+\XEN I have a fever.
+\SYN
+\SEMF body, temp
+\ASP state
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT jipx
+\RTGR 12
+\DSRC HAJ94
+\CMTS no caus no tiene caso
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex ji7p
+\_no 00783
+\LG MIG
+ZOH004R0011001.txt
+Page 339

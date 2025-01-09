@@ -1,0 +1,63 @@
+\SPG suelo
+\ENG ground
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex nax=kum
+\_no 02172
+\LG MIG
+\PSH [naxkum-]
+\UND nax-kum
+\MB tierra, enterrar
+\VAR
+\GRAM incorp: vt
+\SCI
+\USE
+\SPG ensuciar
+\ENG to dirty
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kum
+\RTGR T2
+\DSRC HAJ94
+\CMTS
+\date 27/Mar/95
+\lex nax=manh. kuy7+jaa7
+\_no 02173
+\LG MIG
+\PSH [naxmanhkuyja*7]
+\UND nax-manh.kuy7 +jaTE7
+\MB tierra, *pisar, INSTR1, X
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG (ir) al pie
+\ENG (to go) on foot
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * mạnh
+\RTGR P
+\DSRC HAJ95
+ZOH004R0011001.txt
+Page 936

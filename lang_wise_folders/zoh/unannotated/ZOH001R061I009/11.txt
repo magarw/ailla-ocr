@@ -1,0 +1,60 @@
+\EX 7@y juytenn@ bi tzoy
+\XSP lo tiene comprado su remedio
+\XEN she's got the medicine bought
+\ROOT juy T3
+\SEMF trade
+\PASS juy.7@m ser comprado
+\ANTI juy.7oy comprar
+\PRSV juy.ten tener comprado
+\CMTS
+\lex jat@t
+\_no 00038
+\SPG sobar
+\ENG to massage
+\EX
+\XSP
+\XEN
+\ROOT jatat T3
+\SEMF care
+\PASS jat@t.7@m ya esta* sobado
+\ANTI jat@t.7oy sobar alguien
+\CMTS
+\lex kap
+\_no 00039
+\SPG traer cargando en el hombro; echar algo en el hombro
+\ENG to carry on the shoulder; to throw something over the shoulder
+\EX
+\XSP
+\XEN
+\ROOT kap P (T3)
+\SEMF move, position.
+\PASS kap.7@m
+\ANTI kap. 7oy
+\lex kat
+\_no 00040
+\SPG lamber, como perro, gato
+\ENG to lap, like a dog or a cat
+\EX bi nu7 7@y katt@ bi n@7
+\XSP el perro lambio* el agua
+\XEN the dog lapped the water
+\ROOT kat T3
+\SEMF eat, animal
+\PASS kat.7@m ya esta* lambido
+\ANTI kat. 7oy lamber
+\CMTS
+ZOH001R0611009.txt
+\lex kekx
+\_no 00041
+\SPG despeltrar; desestillarse, como madera, olla
+\ENG to chip; to splinter, like wood or a pot
+\EX
+\XSP
+\XEN
+\ROOT kekx T3
+\SEMF break
+\PASS kekx.7@m astillarse
+\ANTI kekx. 7oy
+\CMTS
+\lex kep
+\_no 00042
+Page 11

@@ -1,0 +1,60 @@
+\_no 00081
+\SPG meter el dedo
+\ENG to put the finger in something
+\EX 7@y ki7tt@ bi kaxi
+\XSP metio* el dedo en la comida
+XEN she put her finger in the food
+\ROOT ki7t T3
+\CMTS antip ki7t.7oy
+\CMTS no pass ki7t.7@m *
+\CMTS prsv ki7t.ten 'tener puesto el dedo' (chistoso, un poco)
+\lex kitz
+\_no 00082
+\SPG enrollar; remangar pantalo*n, camisa
+\ENG to roll up sleeves or cuffs
+\EX
+\XSP
+\XEN
+\ROOT kitz T3
+\CMTS antip kitz. 7oy enrollar; remangar
+\CMTS pass kitz.7@m enrollarse
+\CMTS prsv kitz-ten lo tiene enrollado (las mangas)
+\lex kix
+\_no 00083
+\SPG enfadarse
+\ENG to grow tired or bored
+\EX
+\XSP
+\XEN
+ZOH001R0611011.txt
+\ROOT kix Ix
+\CMTS caus yak.kix hacer a que se enfadara
+\CMTS get tired of doing some work, and don't want to keep doing it
+\lex koj
+\_no 00084
+\SPG encajar
+\ENG to punch a hole in something
+\EX
+\XSP
+\XEN
+\ROOT koj T3
+\CMTS antip koj.7oy encajar
+\CMTS yak.koj.7oy encajarlo
+\CMTS pass koj.7@m encajarse
+\CMTS get deriv's
+\lex kokx
+\_no 00085
+\SPG tronar
+\ENG for joints to crack
+\EX
+\XSP
+\XEN
+\ROOT kokx 12
+\CMTS CK-GR
+\CMTS caus yak.kokx@ hacer tronar
+\CMTS vi means st like: joints crack in the morning when you get up
+\lex ko7kx
+\_no 00086
+\SPG roncar
+\ENG to snore
+Page 18

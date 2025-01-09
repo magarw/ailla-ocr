@@ -1,0 +1,61 @@
+\XSP ya va a sazonandose
+\XEN now it's ripening
+\ROOT tzam 12
+\SEMF nature, condition
+\ASP process
+\CAUS yak.tzam dejar sazonar
+\CMTS doesn't like just plain tzam-w@, it's confusable with 'monte'
+\date 03/Jan/80
+\lex tzaxx@
+\_no 00128
+\SPG tener verguenza; ruborizarse; apenarse
+\ENG to feel shame
+\EX n@nti m tzaxx@.kuy7
+\XSP no tienes verguenza; sin verguenza
+\XEN you haven't any shame; shameless
+\ROOT tzaxx@ 12
+\SEMF body, cog
+\ASP state
+\CAUS yak.tzaxx@ avergonzar
+\CMTS
+\date 03/Jan/80
+\lex tzenh
+\_no 00129
+\SPG estar de lado
+\ENG to be on one side
+\EX
+\XSP
+\XEN
+\ROOT tzenh IX, P
+\SEMF position
+\ASP state
+\CAUS yak.tzenh ponerse de lado
+\CMTS
+\date 03/Jan/80
+\lex tzi7kx
+\_no 00130
+\SPG dar comezo*n
+\ENG to itch
+\EX tzi7kx@ wenu
+\XSP le dio* mucha comezo*n
+\XEN he itched a lot
+\EX tzi7kxwayy@
+\XSP ya no le dio* comezo*n
+\XEN
+ZOH001R0611007.txt
+\EX ya tzi7kxa*m
+\XSP ya no le da comezo*n
+\XEN now it doesn't itch
+\EX yuktzikx@ 7@y kuptuku
+\XSP le dio* comezo*n su espalda
+\XEN her back itched
+\EX tzi7kxja: ba
+\XSP tiene comezo*n
+\XEN it itches
+\ROOT tzi7kx Ix
+\SEMF body
+\ASP state
+\CAUS NONE
+\CMTS
+\date 03/Jan/80
+Page 31

@@ -1,0 +1,56 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(4.3) T1 unergative transitive
+(4.4)
+(i)
+(ii)
+(iii)
+(iv)
+?amma-
+ha?c-
+num-
+cam-
+'to look at; to see'
+'to go into debt'
+'to steal'
+'to chat; to talk'
+'øn 'ammawø pa tzapjønang
+?ən+ ?amma-w? para cap+hənaŋ
+1E+ look-COM for
+up +DIR1
+'I looked up (at something.'
+tim tzøkpa yø jama? dø xe'pxpa
+ti
+?əm+ cək-pa yǝ.?
+Puk-
+kek-
+dø 'ammapa yøjø? ng kajáng
+də+ 7amma-pa yə.həəŋ
+ka.haan
+1 A+ look-INC DCT1.DIR1 DCT3.DIR1
+'I'm looking here and there (all around).'
+pen-
+wan-
+'øy xe'pxø xatzkuyjønang
+?ǝy+ še?pš-wə
+šac.kuy?.hənaŋ
+3E+ make_rope-INC twist.INSTR1 +ACC
+'He twisted the rope with a screw.'
+50
+'to drink'
+'to hop'
+'to plant'
+'to sing'
+(lexicon)
+hama də+ še?pš-pa
+what 2E+ do-INC DCT1.NOM1 day 1 A+ make_rope-INC
+'What are you doing today? I'm making rope.'
+(lexicon)
+(lexicon)
+(lexicon)
+T2 verbs can also appear with only one argument without any
+detransitivizing suffix. These roots generally indicate things that can happen
+naturally (like a mud house crumbling down of old age) but that can also be
+done by human agents. They correspond to intransitive verbs of natural
+processes (like puc-, 'to rot'), but they can appear with ergative subject
+agreement markers without being transitivized by the causative prefix. There
+are very few T2 verbs, all of which are presented in the data shown below in

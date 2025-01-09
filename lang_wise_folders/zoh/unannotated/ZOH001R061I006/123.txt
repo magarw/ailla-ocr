@@ -1,0 +1,64 @@
+XPSH_2 [T@mtzi7oyy@.]
+\XSP 2 Dio* fruta.
+\XEN 2 It bore fruit.
+\EXU 3 7@y+ tzi'-w@ jemji7
+\XPSH 3 [7@y tziwa jemji7.]
+\XSP 3 Repartio* para todos.
+\XEN 3 He shared it with everyone.
+\EXU 4 7@y+ tzi'-w@ jemji7
+\XPSH 4 [7@y tziwa jemji7.]
+\XSP 4 Le dio* todo.
+\XEN 4 She gave him all of it.
+\SYN
+\SEMF trade
+\ASP achievement
+\ARG
+\NOM
+\SUB 7ok.tzi7.'@y, j@x=tzi', tzi'=tzem
+\ETYM
+\ETL
+\ROOT tzi7
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\CMTS CK-EX3 HAJ:96, cf Ex 4; fixed: TK
+\date 03/Jan/80
+\lex tzonh
+\_no 00182
+\LG MIG
+\PSH
+\UND tzonh
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG unir; topar
+\ENG to unite; to join
+\SPL tzonh.7oy
+\SLGR ANTIP
+ZOH001R0611006.txt
+\SLGL topar alguien // to meet someone
+\SPL tzonh.7@m
+\SLGR PASS
+\SLGL toparse; empatarse (mecate) // to be joined; to be tied (rope)
+\SLGR NO ASSUM1
+\EXU 1 7@y+ tzonh-pa 7anh.paj
+\XPSH 1 [7@y tzonhpa 7anhpaj.]
+\XSP 1 Topa el cerco.
+\XPSH 1 The fence joins up.
+\EXU 2 7@y+ tzonh-w@ p@n
+\XPSH 2 [7@y tzonhnh@ pan.]
+\XSP 2 Topo* el hombre.
+\XEN 2 She met the man.
+\EXU 3 7@y+ tzonh.ten-w@ bi 7anh.paj
+\XPSH 3 [7@y tzonhtenn@ bi_7anhpaj.]
+\XSP 3 volvio* a empatar el cerco.
+\XEN 3 He joined the fence up again.
+\EXU 4 tzonh. '@m-w@
+\XPSH 4 [Tzonhnh@mm@.]
+\XSP 4 cuando una cosa se reventa y se empata.
+\XEN 4 when something breaks and is joined together again.
+\SYN
+\SEMF arrange
+Page 123

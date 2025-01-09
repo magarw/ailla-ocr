@@ -1,0 +1,64 @@
+\lex j@nh-koya7
+\_no 01005
+\LG MIG
+\PSH [j@nhkoya7]
+\UND_janh-koya7
+\MB 11ano, conejo
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG conejo
+\ENG rabbit
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 06/Feb/96
+\lex jap
+\_no 01006
+LG MIG
+\PSH
+\UND jap
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG boca
+\ENG mouth
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Aug/94
+\lex japa7k
+\_no 01007
+LF:7anmal
+\LG MIG
+\PSH
+\UND japa7k
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG olote
+\ENG corncob
+\EXU
+\XSP
+\XEN
+ZOH004R0011001.txt
+Page 441

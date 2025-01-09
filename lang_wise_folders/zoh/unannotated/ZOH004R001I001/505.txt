@@ -1,0 +1,63 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS no verb ka7kx*
+\lex kalambrea=tz@k
+\_no 01159
+\LG MIG
+\PSH [kalambreatz@k-]
+\UND kalambreya=tz@k
+\MB calambre, HACER
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG calambrear; acalambrarse
+\ENG to cramp; to get a cramp
+\EXU
+\XSP
+\XEN
+\SYN 7ex=nem
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex kam
+\_no 01160
+LG MIG
+\PSH
+\UND kam
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG trabarse
+\ENG to get stuck
+\SPL yak.kam
+\SLGR CAUS
+\SLGL trabar
+ZOH004R0011001.txt
+\SPL kam.ney
+\SLGR ASSUM1
+\SLGL estar atascado // to be stuck
+\EXU 1 tzoko'+jo' d@ kam-w@
+\XPSH 1 [Tzokojo d@ kamm@.]
+\XSP 1 Me atasque* en el lodo.
+\XEN 1 I got stuck in the mud.
+\EXU 2 ga.y kam.ney-w@ bi burro tzoko'+jo7
+\XPSH 2 [Gay kamneyy@ bi burro tzokojo7.]
+\XSP 2 Ya esta* atascado el burro en el lodo.
+\XEN 2 Now the burro is stuck in the mud.
+\SYN
+Page 505

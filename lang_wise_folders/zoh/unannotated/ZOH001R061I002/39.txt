@@ -1,0 +1,63 @@
+\NOM
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex me7tz
+\_no 00156
+\SPG buscar
+ENG to look for
+\SEMF perception
+\ASP activity
+\ARG
+\NOM * kuy7, me7tz.naanh
+\RTGR T3
+\POS rroberto d@ me7tztz@
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\SEMF hand, sound
+\ASP activity
+\ARG
+\NOM mi7kx.naanh
+\RTGR P, (T3)
+\POS
+\lex mi7kx
+\_no 00157
+\SPG agarrar en el pun~o algo pequen~o que no se ve, agarrar algo con fuerza
+entre el dedo pulgar y los dos dedos primeros
+\ENG to hold something small in your closed fist so it isn't visible, to hold
+something
+tightly between the thumb and the first two fingers
+veel
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex min [1]
+\_no 00158
+\SPG venir
+\ENG to come
+\SEMF move_self
+\ASP activity
+\ARG direction
+\NOM
+ZOH001R0611002.txt
+roberto me busco*
+\CLZ
+\CMTS
+\RTGR IX
+\POS da minjayy@ 7an jaytz@yy@ y n@ji
+\POS se me vino anote su nombre (for something to come into the mind)
+\MID
+\UNDO
+\lex mi7tz
+\_no 00159
+\SPG agarrar con el pun*o algo pequen~o que no se ve
+\ENG to hold something small in the closed fist so it isn't visible
+\SEMF hand, carry
+\ASP activity
+Page 39

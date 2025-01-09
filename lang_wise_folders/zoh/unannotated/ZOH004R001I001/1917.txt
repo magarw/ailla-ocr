@@ -1,0 +1,64 @@
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU mix+7@m tz@n='anh.kam-pa y@.'=jama
+\XPSH [Mixx@m tz@nnanhkampa y@jama.
+13:3
+\XSP Tu vas a cubrirme hoy.
+XEN You're going to cover for me today.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {mix+7@n}
+\_no 04464
+ZOH004R0011001.txt
+LG MIG
+\PSH [mixx@n]
+\UND mix +7@n
+\MB 2Prn, 1E
+\VAR
+\USE 1>2. appears where 'mix' (1>2; 2>1) could be used alone,
+presumably to disambiguate subject and object
+GRAM pron
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU mix+7@n tzi-pa bi jama=tin joji
+\XPSH [Mixx@n_tzipa bi jamatin joji.]
+\XSP Te doy el dinero man~ana.
+\XEN I'll give you the money tomorrow.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {mi-x+jaa7}
+\_no 04465
+\LG MIG
+\PSH [mixja*7]
+\UND mi-x +jaTE7
+\MB 2, PLPRN
+\VAR
+\GRAM pron
+\SCI
+\USE second person plural pronoun
+\SPG Ustedes
+\ENG you
+\SPL
+\SLGR
+\EXU mi.x+jaa7 kum.kuy'=p@n+jaa7 me7tz-tam-A bi xem-E7 p@n
+d@k+7a (y)
+\XPSH [Mixja*7 kumkuyp@nja*7 me7tztam@ bi xeme p@n d@kka.]
+\XSP Uds. gente del pueblo busquen los mu*sicos.
+\XEN You townspeople look for the musicians.
+\SYN
+\SEMF
+Page 1917

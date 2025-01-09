@@ -1,0 +1,78 @@
+\zoq 7@y 7ixxam ke kekwituw@ bi kajanh.
+\fts vio* que brinco* el tigre.
+\fte He saw that the jaguar turned and jumped.
+\ref ZOH001R026 122
+\_no 00108
+\tx
+\mb bi
+\sg1 DEF dos
+\eg1 DEF two
+bi metzanh manhkuyp@7k
+metza*nh
+\tx tujkuy
+\mb
+tuj -kuy7
+\sg1 tirar-INSTR1
+\egl shoot-INSTR1
+\ref ZOH001R026 123
+\_no 00109
+\tx 7@y tujj@
+\mb 7@y tuj
+\sg1 3E
+\egl 3E
+\zoq Bi metzaṇh manhkuyp@7k 7@y jupwanakk@ 7@y tujkuy.
+\fts El dos pies descolgo* su arma.
+\fte The two-legged one pulled down his gun.
+-w@
+tirar-COM
+shoot-COM
+\zoq 7@y tujja.
+\fts Le disparo*.
+\fte He shot him.
+\ref ZOH001R026 124
+\_no 00110
+mạnh -kuy7 -p@7k_7@y
+pisar-INSTR1-REL2 3E
+step -INSTR1-REL2 3E pull -go_down-COM 3E
+ZOH001R0261001.txt
+p@k
+-7oy -w@ bi
+\tx p@kkoyy@
+\mb
+\sg] agarrar-ANTIP-COM DEF pinto
+\egl get
+\zoq P@kkoyy@ bi tzikin kajanh.
+\fts Llevo el tigrillo pinto.
+\fte He got the spotted jaguar.
+bi tzikin kajanh
+tzikin kajanh
+tigre
+-ANTIP-COM DEF spotted jaguar
+\ref ZOH001R026 125
+\_no 00111
+7@y jupwanakk@
+\tx n@mpaxta*m
+\mb n@m
+7@y
+jup —wanak -w@ 7@y
+jalar-bajarse-COM 3E
+bi tzikin kajanh
+-pa -xtaa7 bi tzikin kajanh
+tigre
+\sg1 decir-INC-NOMAS DEF pinto
+\egl say -INC-ONLY DEF spotted jaguar
+\zoq N@mpaxta*m bi tzikin kajanh,
+\fts Deci*a no mas el tigrillo pinto,
+\fte The spotted tiger just says,
+\ref ZOH001R026 126
+\_no 00112
+n
+nijaminn@yya*m
+7@n mama
+\tx dey
+\mb te -y 7@n ni -jamin -7@y-w@ -7am 7@n mama
+\sg1 DCT2-TMP 1E PSE-(mente)-3E -COM-YA 1E mama*
+Page 23
+da namjayy@*7
+da nam -jay -w@ -v7k
+1A decir-APPL-COM-REL

@@ -1,0 +1,63 @@
+\ETYM
+\ETL
+\ROOT 1 * jam
+\ROOT 2 min
+\RTGR 2 IX
+\DSRC HAJ94
+\CMTS CK-all- HAJ:96, added example, PHO is fine, can't analyze jamin-; PHO
+wasn't fine, TK fixed it.
+\date 25/Jun/96
+\lex ni.ja7p.kuy7 tza7
+\_no 02249
+\LG MIG
+\PSH [nija7pkuy7_tza7]
+\UND ni.ja7p.kuy7 tza7
+\MB PURP, moler, INSTR1, piedra
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG el metate donde muelen el mai*z
+\ENG the metate where you grind corn
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ja7p
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 26/Jan/96
+\lex ni.jaway
+\_no 02250
+\LG MIG
+\PSH [nijaway-]
+\UND ni.jaway
+\MB PURP, arder
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar a arder
+\ENG to start to ache
+\SPL
+\SLGR
+\EXU ni.jaway 7@y+ kuptuku7
+\XPSH [Nijawayy@y kuptuku7.]
+\XSP Empezo arder su espalda.
+\XEN His back started aching.
+\SYN k@.jaway. '@y
+\SYN jo.jaway
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT jaway
+\RTGR 12
+\DSRC HAJ95
+Page 969

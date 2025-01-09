@@ -1,0 +1,88 @@
+\fts GSM: Lo tomas.
+\fte GSM: You drink it.
+\com
+\idx
+\ref ZOH001R036 999-266
+\_no 01246
+\tx OSM: 7@y xoxxukpa
+\mb
+7@y xox
+-xuk-pa
+OSM
+\sg1 OSM: 3E
+cocer-3PL-INC
+\eg1 OSM: 3E cook -3PL-INC
+\zoq OSM: 7@y xoxxukpa.
+\fts OSM: Lo cocen.
+\fte OSM: They cook it.
+\com
+\idx
+\ref ZOH001R036 999-267
+\_no 01247
+\tx y@p@
+pa n@kpa
+\mb ya -p@7
+y 7aber
+para n@k -pa 7@y 7aber
+\sg1 DCT1-poner para irse-INC 3E
+\eg1 DCT1-put for
+or go
+aver
+-INC 3E let's see there_is-VERS1-COM inflamation
+\tx jonhjo
+\mb
+jonh
+-jo7
+\sg1 adentro-Loc2
+\egl inside -LOC2
+ZOH001R0361001.txt
+\zoq Y@p@ pa n@kpay 7aber teji7aw@ 7inflamada jonhjo.
+fts Esto es para que vaiga a ver si esta* inflammado adentro.
+\fte This is so he goes, let's see if there is an inflamation inside.
+\com
+\idx
+\ref ZOH001R036 999-268
+\_no 01248
+\tx 7@y tz@nnanhkamjaba
+\mb
+7@y tz@n
+-7anh -kam
+-jay -pa
+\sg1 3E estar_sentado-BOCA -trabarse -APPL-INC IPSN
+\egl 3E sit
+-MOUTH-get_stuck-APPL-INC IPSN
+\zoq 7@y tz@nnanhkamjaba neyti putzputz.
+\fts Lo tapa alguna basura.
+\fte He sat on some garbage.
+\com
+\idx
+\ref ZOH001R036 999-269
+\_no 01249
+\txn@ 7@n 7uktampa
+\mb n@7 7@n 7uk
+teji7aw@
+teji
+hay
+kajwe kwenta
+kwenta
+cuenta
+\sgl agua 1E tomar-1/2PL-INC cafe
+\egl water 1E drink-1/2PL-INC coffee account
+-tam -pa kajwe
+kajwe
+\zoq N@ 7@n 7uktampa kajwe kwenta.
+\fts Tomamos el agua cuenta de cafe*.
+\fte we drink water instead of coffee.
+\com (en vez de cafe*)
+\idx
+\ref ZOH001R036 999-270
+7inflamada
+-7a -wa 7inflamada
+-VERS1-COM inflamada
+Page 268
+neyti putzputz
+neyti7 putz
+-putz
+pudrirse-pudrirse
+- rot
+rot

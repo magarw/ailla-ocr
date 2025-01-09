@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT 7ek
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 13/Jul/95
+\lex 7eksis=tz@k
+\_no 00250
+\LG MIG
+\PSH [7eksistz@k-]
+\UND 7eksis=tz@k
+\MB existir, HACER
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG existir
+\ENG to exist
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 24/Jun/96
+\lex 7eksiij=tz@k
+\_no 00251
+\LG MIG
+\PSH [7eksiijtz@k-]
+\UND 7eksiij=tz@k
+\MB exigir, HACER
+\VAR 7eksiis-tz@k [maybe]
+\GRAM vt
+\SCI
+\USE
+\SPG exigir
+\ENG to demand
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+ETYM exigir
+\ETL Sp
+\ROOT
+\DSRC TK96
+\CMTS
+\date 24/Jun/96
+\lex 7e7k
+\_no 00252
+ZOH004R0011001.txt
+Page 107

@@ -1,0 +1,64 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\lex jo.kum
+\_no 00852
+\LG MIG
+\PSH [jokum-]
+\UND jo.kum
+\MB EN, enterrar
+\VAR
+\GRAM dir+vt
+\SCI
+\USE
+\SPG rellenar (una cosa que esta* desbarrancada)
+\ENG to refill
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kum
+\RTGR T2
+\DSRC HAJ94
+\CMTS
+\date 03/Feb/96
+\lex jo.k@nh
+\_no 00853
+\LG MIG
+\PSH [jok@nh-]
+\UND jo.k@nh
+\MB EN, quemarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG chamuscarse; quemarse
+\ENG to scorch; to burn
+\EXU 1 jo.k@nh-pa
+\XPSH 1 [jok@nhpa]
+\XSP 1 incendio
+\XEN 1 fire
+\EXU 2 jo.k@nh-w@ bị ko.tz@k
+\XPSH 2 [Jok@nnh@ bi kotz@k.]
+ZOH004R0011001.txt
+como si estuviera ardiendo todavia un fuego
+\XSP 2 Se quemo* el cerro.
+\XEN 2 The hillside burned.
+\EXU 3 jo.k@nh-w@+@7
+\XPSH 3 [jok@nhnh@*7]
+\XSP 3 una parte que se requemo*
+\XEN 3 a place that was burned again
+\SYN win.k@nh
+\SYN ni.k@nh
+Page 371

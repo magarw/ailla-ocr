@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT p@n
+\RTGR 12
+\DSRC TK94
+\CMTS caus2 yak+ p@n poner
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex p@n [2]
+\_no 02846
+\LG MIG
+\PSH
+\UND p@n
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG 1 hombre
+\SPG 2 querido
+\ENG 1 man
+\SPG 2 woman's lover
+\EXU chik p@n
+\XSP gente pequen~o
+\XEN little people
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex p@n.kuy7
+\_no 02847
+\LG MIG
+\PHO [p@nkuy7]
+\UND pan.kuy7
+\MB estar_puesto, INSTR1
+\VAR
+\GRAM instr1
+\SPG un lugar para poner algo
+\ENG a shelf
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT p@n
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex p@n=tz@k.i
+\_no 02848
+\LG MIG
+\PSH [p@ntz@ki]
+\UND pan=tz@k. E
+\MB hombre, hacer, NOM7
+\VAR
+\GRAM s (m) sv
+ZOH004R0011001.txt
+Page 1226

@@ -1,0 +1,65 @@
+\lex x@j
+\_no 04033
+\LG MIG
+\PSH
+\UND x@j
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+to end
+\SPG pasar el agua
+\ENG for the rain
+\EXU 1 x@j-w@+'am tuj
+\XPSH 1 [X@jja*m tuj.]
+\XSP 1 Ya paso* el
+agua.
+\XEN 1 Now the rain has ended.
+\CMTS 2 7@y+ 7ix-tuk-w@ yak(k@) x@j-w@ bi tuj
+\XPSH 2 [7@y 7ixtukk@ yakx@jja bi tuj.]
+\XSP 2 Espero* que pasa el agua.
+XPSH 2 I hope the rain ends.
+\EXU 3 x@j.ney-w@('am) tuj
+\XPSH 3 [X@jneyya*m_tuj.]
+\XSP 3 (Ya) paso* el agua.
+XEN 3 (Now) the rain has stopped.
+\SYN
+\SEMF nature
+\ASP transition
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT X@j
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+ZOH004R0011001.txt
+\lex x@j.ney
+\_no 04034
+\LG MIG
+\PSH [x@jney-]
+\UND x@j.ney
+\MB X, ASSUM1
+\VAR
+\GRAM assum1
+\SCI
+\USE
+\SPG estar divertiendo
+\ENG to be having fun
+\EXU X@j.ney-pa
+\XPSH [X@jneypa.]
+\XSP Se ve bien por todos lados esta* divirtie*ndose.
+\XEN People are having fun all over the place.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS get more deriv's; CK-GL ok, sort of; CKed: TK
+\date 26/Jun/96
+Page 1735

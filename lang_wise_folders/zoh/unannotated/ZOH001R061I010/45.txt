@@ -1,0 +1,64 @@
+\SEMF trade, social
+\CMTS
+\lex nutz
+\_no 00193
+\SPG estar caliente (comida, cafe*. por el fuego o el sol); quemarse
+\ENG to be hot; to burn oneself
+\EX d@ nutztz@
+\XSP me queme*
+\XEN I burned myself
+\EX 7@n yaknutztz@ k@xi
+\XSP calente* la comida
+\XEN I heated up the food
+\EX d@ nutztz@ k@xi_j@nanh
+\XSP me queme* con la comida
+\XEN I burned myself with the food
+\ROOT nutz 12
+\SEMF temp
+\CAUS yak.nutz calentar; quemar
+\lex n@k
+\_no 00194
+\SPG irse
+\ENG to go
+\EX_n@k-pa
+\XSP se va
+\EX_n@k-w@
+\XSP se fue*
+\EX_n@kko7 impv
+\XSP vete!
+\EX n@ki7
+\XSP vamos!
+\EX n@ki k@xxoda*nh
+\XSP vamos a comer!
+\EX n@ki*am
+\XSP vamonos!
+\EX 7@y yakn@kk@ jaxjonanh
+\XSP lo hizo ir para atra*s
+\EX n@kk@y witi
+\ROOT n@k Ix
+\SEMF motion
+\CAUS yak.n@k dejar ir
+\CMTS
+\lex n@7kx
+\_no 00195
+\SPG esquivar
+\ENG to stack
+\EX tza n@7kx@
+\XSP estivo* piedra
+\XEN she stacked rocks
+~
+\lex n@m
+\_no 00196
+\SPG decir
+ZOH001R0611010.txt
+\ROOT n@7kx P, (T3)
+\SEMF move, position
+\PASS n@7kx.7@m
+\ANTI n@7kx.7oy
+\CMTS
+estivar (piedra) (blok)
+\ENG to say
+\EX ya jak n@mmo 7@y 7otonh@*7
+\XSP tartamudo
+se fue* caminar / andar
+Page 45

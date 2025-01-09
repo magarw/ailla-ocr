@@ -1,0 +1,64 @@
+\SPG levantarse de donde estaba sentado
+\ENG to get up from a sitting position
+\EXU d@+ tz@n=yuk. konh-pa
+\XPSH [D@ tz@nyukkonhpa.]
+\XSP Me levanto.
+\XEN I'm getting up.
+SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tz@n
+\RTGR 1 P (12)
+\ROOT 2 konh
+\RTGR 2 P (11)
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex tz@p@7
+\_no 03510
+\LG MIG
+\PSH
+\UND tz@p@7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG yerbamora; huilache tiene espina
+\ENG a type of spiny plant
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+LF:7okox tzamm@7
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+ZOH004R0011001.txt
+\lex tz@.tz@
+\_no 03511
+\LG MIG
+\PSH [tz@tz@]
+\UND tz@tz@+7pv
+\MB
+\VAR tz@tz@7 ??
+\GRAM SR
+\SCI
+\USE
+\SPG ti*a; ti*a grande; hermana mayor
+\ENG aunt; older woman; older sister
+\EXU 1 7@n+ tz@.tz@
+\XPSH 1 [7@n tz@tz@]
+\XSP 1 mi ti*a
+\XEN 1 my aunt
+\EXU 2 ga.7 tz@.tz@+7pv
+\XPSH 2 [Ga7 tz@tz@*7.]
+\XSP 2 Ella es la mayor.
+\XEN 2 She is the older one.
+\EXU 3 7iw@ tz@.tz@+7pv
+Page 1510

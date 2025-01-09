@@ -1,0 +1,64 @@
+\ROOT
+\DSRC TK96
+\CMTS
+\lex pak [1]
+\_no 02510
+\LG MIG
+\PSH
+\UND pak
+\MB
+\VAR
+\GRAM vi: med
+\SCI
+\USE
+\SPG apretarse
+\ENG to tighten
+\SPL yak.pak
+\SLGR CAUS
+\SLGL apretar // to tighten
+\EXU 1 pak-w@ xotz-pak. E
+\XPSH 1 [Pakk@ xotzpake.]
+\XSP 1 se apreto* un nudo.
+\XEN 1 The knot tightened.
+\EXU 2 7@y+ yak.pak-wa
+\XPSH_2 [7@y yakpakk@.]
+\XSP 2 Esta* muy apretado (una cosa).
+\XEN 2 It's very tight.
+\SYN
+\SEMF arrange
+\ASP achievement
+\ARG
+\NOM
+\SUB jup-pak, xotz-pak, wat=pak, pen=pak, win-pak-tzonh, wi7t=pak
+\ETYM
+\ETL
+\ROOT pak
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\CMTS NEG: estar flojo
+\CMTS CK-PH of EX
+\date 03/Jan/80
+\lex pak [2]
+\_no 02511
+\LG MIG
+\PSH
+\UND pak
+\MB
+ZOH004R0011001.txt
+\VAR
+\GRAM vt
+HAJ:96 ok
+\SCI
+\USE
+\SPG regar; tirar
+ENG to spread; to throw
+\SLGR NO ANTIP
+\SLGR NO PASS
+\EXU 1 n@'-pak-w@ (tzima'+j@nanh)
+\XPSH 1 [N@pakk@ (tzimaj@nanh).]
+\XSP 1 Rego* agua (con ji*cara.)
+\XEN 1 She threw water (with a dipper).
+\EXU 2 7@n+ pak-w@ n@7
+\XPSH 2 [7@n pakk@ n@7.]
+Page 1081

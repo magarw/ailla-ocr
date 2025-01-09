@@ -1,0 +1,63 @@
+\XSP 3 Lluvio*.
+\XEN 3 It rained.
+\SYN
+\SEMF nature
+\ASP activity
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT tak
+\RTGR 11
+\DSRC TK94
+\CMTS CK-PH of EX1 HAJ:96 ok
+\date 03/Jan/80
+\lex tak [2]
+\_no 02918
+\LG MIG
+\PSH
+\UND tak
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tejer
+\ENG to weave
+\SPL tak. 7oy
+\SLGR ANTIP
+\SLGL tejer // to weave
+\SLGR NO PASS
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF build
+\ASP activity
+\ARG
+\NOM
+\SUB y@k.jo.tak. '@y
+\ETYM
+\ETL
+\ROOT tak
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex taka7
+\_no 02919
+\LG MIG
+\PSH
+\UND taka7
+\MB
+\VAR
+\GRAM s/a
+\SCI
+\USE
+\SPG pelo*n
+\ENG bald
+\EXU
+\XSP
+ZOH004R0011001.txt
+Page 1256

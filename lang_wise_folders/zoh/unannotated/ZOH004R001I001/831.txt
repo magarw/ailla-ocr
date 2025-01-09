@@ -1,0 +1,62 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 25/Jun/96
+\lex mea+jo7+k mo7kxi7
+\_no 01927
+\LG MIG
+\PSH [meajo7k mo7kxi7]
+\UND meya +jo7 +P@7k mo7kxi7
+\MB mar, LOC2, REL, camaro*n
+\VAR meyajo7k mo7kxi7
+\GRAM sms
+\SCI
+\USE
+\SPG camaro*n de mar
+\ENG sea shrimp
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+LF:mo7kxi7
+\CMTS
+\date 25/Jun/96
+\lex mea+jo7+k yom@' 7une7
+\_no 01928
+\LG MIG
+\PSH [meajo7k yom@ 7une7]
+\UND meya +jo7 +P@7k yom@7 7une7
+\MB mar, LOC2, REL, hembra, nin~o/a
+\VAR n@jo7k yom@ 7une7
+\GRAM
+\SCI
+\USE
+\SPG sirena
+\ENG mermaid; nixie
+\EXU
+\XSP
+\XEN
+\SYN n@'+jo7+k yom@ 7une7
+\SEMF
+\ETYM
+\ETL
+\ROOT
+ZOH004R0011001.txt
+\DSRC TK94
+\CMTS tiene cuerpo de cristiana arriba; abajo tiene cola de pescado
+\date 25/Jun/96
+\lex mea+jo+07k jente d@k+7ay
+\LG MIG
+\PSH [meajo*7k jente d@kkay]
+\UND meya +jo7 +P@7k jente t@k +7ay
+\MB mar, LOC2, REL, gente, NP1
+Page 831

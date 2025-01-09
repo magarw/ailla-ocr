@@ -1,0 +1,91 @@
+\tx
+\_no 01164
+kom junanh 7@m tz@kk@ tum@ 7i
+ney
+\mb komo junanh 7@m tz@k -w@ tum@ 7i
+ney
+\sg1 como como 2E hacer-COM uno y mismo
+\egl like how
+\ref ZOH001R036 999-183
+\_no 01165
+2E do -COM one and self DCT3-SIM 2E do
+\zoq Kom junanh 7@m tz@kk@ tum@ 7i ney ga7xem tz@kke7tpa.
+fts Como hice el otro y asi* mismo lo vuelves a hacer.
+\fte Like how the other did it and the same way you do it again.
+\com
+\idx
+\tx jakke waj@7apa
+\mb jakke waja -7a
+\sg1 mucho bueno-VERS1-INC
+\egl a lot good -VERS1-INC
+\zoq Jakke w@j@7apa.
+\fts Mucho sana.
+\fte It gets a lot better.
+\com
+\idx
+-pa
+ZOH001R0361001.txt
+\ref ZOH001R036 999-184
+\_no 01166
+\tx
+tentz@ypa
+\mb
+ten
+-tz@y
+-pa
+\sg1 pararse-atorarse -INC DCT3-DEM
+\egl stand -get_stuck-INC DCT3-DEM
+\zoq Tentz@ypa gag@ wayjuni.
+fts Para esa caido de pelo.
+\fte For that hair falling out.
+\com
+\idx
+\ref ZOH001R036 999-186
+\_no 01168
+gag@
+ka -g@
+\com
+\idx
+\ref ZOH001R036 999-185
+\_no 01167
+\tx
+kopak
+GSM: tum persona jonhpa*7
+\mb GSM tum persona jonh
+\sg1 GSM: uno persona atarantarse-INC-REL cabeza
+\eg1 GSM: one person get_dizzy -INC-REL head
+-pa -v7k kopak
+ti
+7@y muk -pa ti
+way juni
+way 7-jun
+pelo-caer_pelo-NOM3
+hair-lose_hair-NOM3
+\tx 7@y mukpa
+\mb
+\sg1 3E
+caerse-INC que saltar 2E dar -INC
+\egl 3E fall -INC what jump 2E give-INC
+ga7xe m tz@kke7tpa
+ka -7xe 7@m tz@k -ke7t -pa
+DCT3-SIM 2E hacer-REPET-INC
+-REPET-INC
+tzoy 7@m tzipa
+tzoy
+\zoq GSM: Tum persona jonhpa*7? Kopak jonhpa* 7?
+\fts GSM: Una persona que se marea? Se marea de la cabeza?
+\fte GSM: A person who's dizzy? Dizzy in the head?
+\com
+\idx
+7@m tzi7-pa
+\zoq 7@y mukpa ti tzoy 7@m tzipa?
+\fts se cae
+que remedio le das?
+\fte He falls what medicine do you give him?
+Page 251
+-E7
+jonhpa*7
+jonh
+-pa -v7k
+atarantarse-INC-REL
+get_dizzy -INC-REL

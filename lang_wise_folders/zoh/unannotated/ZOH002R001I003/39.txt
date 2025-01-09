@@ -1,0 +1,22 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(ii) bi metzang mangkuypø'k 'øy jupwanakkø 'øy tujkuy'
+bi mecaŋ maŋ.kuy?+pǝ?k ?ǝy+ hup=wanak-wǝ ?ǝy+ tuh.kuy?
+DEF dos pisar.INSTR1.REL 3E+ jalar=bajar-COM 3E+ tirar.INSTRI
+'El dos pies descolgó su arma.'
+A maximal MIG Zoque verbal complex would consist of one member from
+each of the position classes. Although the corpus does not contain any word in
+which all the position slots are filled, there is no reason in principle why such a
+word could not exist; indeed, there are surprisingly few co-occurence
+restrictions among the classes or among specific members of the classes. One
+of the most complete examples in the corpus is given below. In addition to the
+obligatory person agreement marker (?əy+, position 2) and inflectional suffix (-
+wǝ,10), this verb complex has a causative (yak-, 3), a directional prefix (win-,
+4), compounded verb roots (ten=cəy, 5), the antipassive suffix (-7oy, 6), and a
+post-inflectional clitic (+7am, 11).
+(2.3) bi pøndøkkay yakwintentzøyyoyyám
+(ZOH001R026-122)
+bi pən+dəkkay ?əy+ yak.win.ten=coy.?oy-wǝ+?am
+DEF hombre+NPL 3E+ CAUS.CARA.pararse=atorarse.ANTIP-COM.NOW
+'Los hombres ya lo atajaron.'
+15
+(ZOH001 R006-021)

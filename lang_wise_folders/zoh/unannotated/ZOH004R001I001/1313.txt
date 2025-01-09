@@ -1,0 +1,63 @@
+\EXU niwi' toy-pa+a7k
+\XPSH [niwi toypa*7k]
+\XSP chile que pica mucho
+\XEN very hot chili
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT toy
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 09/Feb/96
+\lex toy-way.jay
+\_no 03049
+\LG MIG
+\PSH [toywayjay-]
+\UND toy-way.jay
+\MB doler, X, APPL
+\VAR
+\GRAM vi:indir
+\SCI
+\USE
+\SPG aliviarle de dolor; calmar el dolor
+\ENG to relieve a pain; to calm a pain
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT toy
+\RTGR 12
+\DSRC HAJ94
+\CMTS CK-PH - ok/OK: TK
+\date 26/Jun/96
+\lex toy-@H
+\_no 03050
+\LG MIG
+\PSH [toy@-]
+\UND toy-@H
+\MB doler, X
+\VAR
+\GRAM vi: med
+\SCI
+\USE
+\SPG enfermarse
+\ENG to get sick
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT
+\DSRC TK96
+\CMTS
+Page 1313

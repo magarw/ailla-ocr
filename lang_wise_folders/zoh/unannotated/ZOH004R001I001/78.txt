@@ -1,0 +1,63 @@
+\lex 7anh-wit=tzonh
+\_no 00183
+\LG MIG
+\PSH [7anhwittzonh-]
+\UND 7anh-wit-tzonh
+\MB BOCA, andar, unir
+\VAR
+GRAM vt+dir
+\SCI
+\USE
+\SPG visitar
+ENG to visit
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 wit
+\RTGR 1 11
+\ROOT 2 tzonh
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 09/Jan/96
+\lex 7anh-wi7t
+\_no 00184
+\LG MIG
+\PSH [7anhwi7t-]
+\UND 7anh=wi7t
+\MB BOCA, torcer
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG cerrar puerta con llave
+\ENG to lock the door with a key
+\EXU t@k=7anh=wi7t-w@
+\XPSH [T@kkanhwi7tt@.]
+\XSP Cerro* la casa con llave.
+\XEN He locked up the house.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wi7t
+\RTGR T2
+\DSRC TK94
+\CMTS
+\date 09/Jan/96
+\lex 7anh-wi7t.i7 (1)
+\_no 00185
+\LG MIG
+\PSH [7anhwiti]
+\UND 7anh-wi7t.i7
+\MB BOCA, torcer, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+ZOH004R0011001.txt
+Page 78

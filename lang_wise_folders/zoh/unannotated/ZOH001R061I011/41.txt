@@ -1,0 +1,62 @@
+\ROOT pup P, T3
+\CMTS antip pup.7oy
+\CMTS no pass pup.7oy
+\lex putz
+\_no 00204
+\lex pu7tz
+\_no 00205
+\SPG pudrirse
+\ENG to rot
+\EX putzamp@
+\XSP podrido
+\XEN rotten
+\ROOT putz 12
+\CMTS caus yak.putz dejar podrirse
+\SPG ponerse amarillo
+\ENG to turn yellow
+\lex pux
+\_no 00206
+\EX pu7tzpa 7@y nakk@
+\XSP va amarilla*ndose (para entrar a maduro - naranja, mango)
+\XEN it's turning yellow (because it's getting ripe orange, mango)
+\ROOT pu7tz Ix
+\CMTS
+*
+\SPG deshacer algo de barro no bien "cocido"; desboronar
+\ENG for something of clay to crumble because it's not well "cooked"
+\EX puxxoyy@*7
+\XSP el que lo desborono*
+\XEN the one who made it crumble
+\lex puy
+\_no 00207
+ZOH001R0611011.txt
+\ROOT pux T3
+\CMTS antip pux. 7oy desboronar
+\CMTS pass pux.7@m desboronarse
+\CMTS puxx@ is when bits of an adobe building crumble off the edges
+\SPG doblarse
+\ENG to bend
+\EX
+\XSP
+\XEN
+\lex taj
+\_no 00208
+\SPG escarbar
+\ENG to dig
+\EX
+\XSP
+\XEN
+\ROOT taj T3
+\CMTS antip taj.7oy
+\ROOT puy P, I1
+Il
+\CMTS assumi puy.ney estar acurrucado; en culuquilla
+\CMTS pass taj.7@m
+\CMTS prsv taj-ten lo tiene escarbado
+\lex ta7k
+\_no 00209
+\SPG remojar algo en la comida
+\ENG to dunk something in food
+\EX tak@7
+- impv
+Page 41

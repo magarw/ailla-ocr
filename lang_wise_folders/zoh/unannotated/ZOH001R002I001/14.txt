@@ -1,0 +1,91 @@
+\ref ZOH001R002 059
+\_no_00060
+\tx bi ponji,
+\mb
+bi ponji
+\sg1 DEF despacio despacio DEF venir-COM 3E
+maestro-3PL-INC
+\eg1 DEF slowly slowly DEF come -COM 3E teacher-3PL-INC
+\tx 7anhmayxukpa,
+\mb 7anh -may
+-xuk
+\sg1 BOCA -contar-acabarse-INC
+\eg1 MOUTH-count -finish -INC
+ponji, bi minn@ 7@y maistroxukpa,
+ponji bi min -wa 7@y maistro-xuk-pa
+\zoq bi ponji, ponji, bi minn@ 7@y maistroxukpa, 7anhmayxukpa,
+\fts despacio, despacio, vinieron hacerse maestro, van a aprender,
+\fte slowly, slowly, the ones that came to become teachers, to learn,
+\not
+\idx aux_p1, unmrk_rel
+\ref ZOH001R002 060
+\_no 00061
+7@y boratz@kxuki
+\tx pa minn@
+\mb para min
+para min -w@ 7@y borrar-tz@k -xuk-E
+\sg1 para venir-COM 3E
+\egl for come -COM 3E
+\ref ZOH001R002 061
+\_no 00062
+\tx 7i porke
+\mb 7i porke
+\sg] y
+porque
+\egl and because
+-pa
+\zoq pa minn@ 7@y boratz@kxuki bi 7anhp@n.
+\fts para que vinieron a borrar la idioma.
+\fte so that they came to erase the language.
+\not
+\idx aux_p1
+ZOH001R0021001.txt
+\mb yakki7
+\sgl nadie
+\egl nobody
+\ref ZOH001R002 062
+\_no 00063
+\tx yakki7, yakki7 ya
+bi 7anhp@n.
+bi 7anh -p@n
+borrar-hacer-3PL-dCOM DEF BOCA -hombre
+erase - do -3PL-dCOM DEF MOUTH-man
+yakki7 7iw@ ya
+yakki7 7iwa ya
+-pa -v7k
+nadie quien NEG Castellano-INC-REL
+nobody who NEG Spanish
+\zoq 7i porke yakki7 7iw@ ya kastiba*7.
+\fts Porque nadie hablan espan~ol.
+\fte Because nobody spoke Spanish.
+\not
+\idx exis
+\ref ZOH001R002 063
+\_no 00064
+kastiba*7,
+kastiya
+yakki7 ya
+-pa -v7k
+nadie NEG Castellano-INC-REL
+nobody NEG Spanish -INC-REL
+kastiba*7.
+kastiya
+\zoq Yakki7, yakki7 ya kastiba*7,
+\fts Nadie, nadie hablan espan~ol,
+\fte Nobody, nobody, spoke Spanish,
+\not
+\idx exis
+\tx purro 7anhp@n
+\mb purro 7anh -p@n
+\sg] puro
+\egl only MOUTH-man be_wide
+tanh
+tanh
+BOCA -hombre estar_ancho
+-INC-REL
+kom gaja7,
+komo ka - jaz
+-ja7
+como DCT3-LOC1
+like DCT3-LOC1
+Page 14

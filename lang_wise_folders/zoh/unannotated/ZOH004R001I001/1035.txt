@@ -1,0 +1,63 @@
+\USE
+\SPG novillo
+\ENG young bull
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 31/Mar/95
+\lex nuk
+\_no 02402
+\LG MIG
+\PSH
+\UND nuk
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG agarrar
+\ENG to grasp, to grab
+\SPL nuk. 7oy
+\SLGR ANTIP
+\SLGL agarrar // to grasp
+\SPL nuk.7@m
+\SLGR PASS
+\EXU 1 7@n+ nuk. pak-pa
+\XPSH 1 [7@n nukpakpa.]
+\XSP 1 Lo agarro fuerte.
+\XEN 1 I grasp it firmly.
+\EXU 2 nuk. '@m-w@ bi koke
+\XPSH 2 [Nukk@mm@ bi koke.]
+\XSP 2 Agarraron el pescado.
+\XEN 2 They grabbed the fish.
+\EXU 3 7@y+ nuk.ten-w@ bi koke
+\XPSH 3 [7@y nuktenn@ bi koke.]
+\XSP 3 Tiene agarrado el pescado.
+ZOH004R0011001.txt
+\XEN 3 He's got the fish caught in his hand.
+\SYN
+\SEMF hand, carry
+\ASP achievement
+\ARG
+\NOM nuk.i7, koke=nuk. kuy7
+\SUB 7in-win-nuk, 7ix=7ok.poy=nuk, 7ok.nuk-tzak. '@y, 7ok.nuk. '@y,
+\SUB 7ok.poy=nuk, jonh-nuk, ko.jup=nuk, ko.nuk. 'oy, ma7tz=nuk,
+\SUB mi7tz=nuk, nem=nuk, nuk.pak, pen=nuk, po7tz=nuk,
+\SUB_ti7kx=7ok. poy=nuk
+\ETYM
+\ETL
+\ROOT nuk
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex nuk.17
+Page 1035

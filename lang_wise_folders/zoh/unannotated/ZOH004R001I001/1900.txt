@@ -1,0 +1,63 @@
+\XSP Pasamos ese ri*o en el puente.
+\XEN We crossed that river on the bridge.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {ga.ja7}
+\_no 04424
+\LG MIG
+\PSH [gaja]
+\UND ka.jV7
+\MB DCT3, LOC1
+\VAR
+\USE distal locative deictic. There appears to be no effective difference
+between
+this and 'gaji'
+\GRAM av
+\SPG alla*
+\ENG there
+\SPL
+\SLGR
+\EXU kwandu d@+ ye7tz-pa ga.ja
+\XPSH [Kwandu @ ye7tzpa gaja...]
+\XSP Cuando llegue alla*
+\XEN when I arrive there..
+\SYN ga.ji
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS farther away than deji/ahi*, but some overlap
+\date
+\lex {ga.ja.anh}
+\_no 04425
+LG MIG
+\PSH [gaja*nh]
+\UND ka.jv.vnh
+\MB DCT3, DIR1
+\VAR
+\USE directional adverb
+\GRAM av
+\SCI
+\USE
+\SPG por alla*; de un lado
+\ENG over there; from one side
+\EXU
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Feb/96
+\lex {ga.jananh}
+\_no 04426
+Page 1900

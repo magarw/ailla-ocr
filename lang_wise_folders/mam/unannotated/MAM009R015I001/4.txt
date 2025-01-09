@@ -1,0 +1,39 @@
+From the analysis it is clear that the enclitics have at
+least two functions, that of excluding second person and
+that of marking presence of second person, and it is probable
+that they also distinguish singular and plural. A comparison
+with other dialects of Mam shows that some of these dialects
+have non-homophonous enclitis to distinguish person (Kaufman,
+Froman and Mendoza, 1970 - 1973; Canger, 1969), and it seems
+probable that they have become homophonous in Ixtahuacan
+through various phonological processes which do not operate
+in all dialects. The absence of an enclitic with a parti-
+cular prefix indicates the opposite of the enclitic. 3
+Example of a noun with prefixes and enclitics:
+n-ja: -ya
+t-ja: -ya
+t-ja:
+q-ja: -ya
+q-ja:
+ky-ja: -ya
+ky-ja:
+We now have:
+Prefixes
++1sg
+B. -1sg
+C. +1pl
+D. -1pl
+-5-
+A.
+my house (but not yours)
+your (sg.) house
+his/her house
+our house (but not yours)
+our house (everyone)
+your (pl.) house
+their house
+Enclitics
+A. -2sg
+B. +2sg
+C. -2pl
+D. +2pl

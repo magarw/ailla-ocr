@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT pen
+\RTGR T3
+\DSRC TK94
+\CMTS
+\CMTS CK-PH of EX HAJ:96, ok, don't know what kon- is
+\date 03/Jan/80
+\lex pen.e
+\_no 02590
+\LG MIG
+\PSH [pene]
+\UND pen. E
+\MB plantar, NOM7
+\VAR
+\GRAM PCP
+\SCI
+\USE
+\SPG sembrado; transplantado
+\ENG planted; transplanted
+\EXU ya w@t-w@ bi 7okox pen. E
+\XPSH [Ya w@tt@ bi 7okox pene*7.]
+\XSP No crecio* la mata transplantada
+\XEN The transplanted shrub didn't grow.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pen
+\RTGR T1
+\DSRC HAJ94
+\CMTS CK-PH ok/OK: TK
+\CMTS
+\date 25/Jun/96
+\lex pen-m@tz
+\_no 02591
+LG MIG
+\PSH [penm@tz-]
+\UND pen-m@tz
+\MB sembrar, X
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG transplantar
+\ENG to transplant
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT pen
+\RTGR T1
+\DSRC TK94
+\CMTS call this inflexional; CK-PH/OK: TK
+\date 25/Jun/96
+\lex pen=m@tz.i
+\_no 02592
+Page 1115

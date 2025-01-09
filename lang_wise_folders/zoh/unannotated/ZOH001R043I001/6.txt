@@ -1,0 +1,78 @@
+\com
+\idx
+\ref ZOH001R043 021
+\_no 00022
+\tx 7entonses y@7
+\mb 7entonses y@ -7
+\sg1 entonces
+\egl then
+del
+PRI mas
+jente
+mas
+mas jente
+del PRI mas
+DCT1-NOM1 del PRI mas mas gente
+DCT1-NOM1 of the PRI more more people
+\zoq 7entonses y@7 del PRI, mas mas jente.
+\fts Entonces este es del PRI, mas bastante.
+\fte Then this of the PRI, much more people.
+\com
+\idx
+\ref ZOH001R043 022
+\_no 00023
+\tx mas m@jm@ 7awin
+7awin7
+\mb mas m@jm@
+\sg1 mas
+\egl more a_lot
+\com
+\idx
+\zoq Mas m@jm@ 7awin7.
+\fts Mas bastante compan~eros.
+\fte Many more companions.
+bastante hermano/a
+sibling
+\ref ZOH001R043 023
+\_no 00024
+\tx ye7tztz@ 7anhnamtzu 7ixxo
+\mb ye7tz -w@ 7anhnamtzu7 7ix-7oy -A
+\sg1 11egar-COM man~ana
+\egl arrive-COM morning
+ZOH001R0431001.txt
+\com
+\idx
+7awin
+7awin7
+\tx limonesp@ porbeni*r bista 7ermosa, kwautemok xokijo*7
+\mb limones-p@7 porbenir bista 7ermosa kwautemok xoki7
+\sg1 limones-poner Porvenir vista hermosa
+cuauhtemoc Las_Conchas-Loc2
+\egl limones-put Porvenir vista hermosa cuauhtemoc Las_Conchas -LOC2
+ver-ANTIP-nINC hermano/a NPL
+see-ANTIP-nINC sibling NPL
+\ref ZOH001R043 024
+\_no 00025
+\tx 7entonses ye7chukk@
+\mb
+7entonses ye7tz -xuk-w@
+\sg1 entonces 11egar-3PL-COM
+\egl then
+arrive-3PL-COM
+\zoq 7entonses ye7tzxukk@.
+\fts Entonces llegaron.
+\fte Then they arrived.
+\com
+\idx
+d@kka los
+d@kkay los
+los
+the
+\zoq Ye7tztz@ 7anhnamtzu7 7ixxo 7awind@kkay Los Limonesp@7, Porbeni*r, Bista
+7ermosa, Kwautemok, Xokijo*7.
+\fts Llego* muy de man~ana compan~eros de Los Limones, Porvenir, Vista
+Hermosa, Cuauhtemoc, Las Conchas.
+\fte Early in the morning companions came to see from Los Limones, Porvenir,
+Vista Hermosa, Cuauhtemoc, and Las Conchas.
+-jo7
+Page 6

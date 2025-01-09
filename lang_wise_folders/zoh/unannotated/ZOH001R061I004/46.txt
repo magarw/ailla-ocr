@@ -1,0 +1,64 @@
+\UND j@m-tzik. E7
+\MB tallar, pelar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG tropellar algo para que se pelara
+\ENG to bang into something so that it scrapes off some skin
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 jam
+\RTGR 1 T1
+\ROOT 2 tzik
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/96
+\lex j@tz.i
+\_no 00111
+\LG MIG
+\PSH [j@tzi]
+\UND jatz. E
+\MB hacer_masa, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG la masa para pollito
+\ENG corn mush for chickens
+\EXU piyu' 7@y+ jatz. E
+\XPSH [piyuy jatzi]
+\XSP masa para pollos
+\XEN chicken's corn mush
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jatz
+\RTGR 11
+\DSRC HAJ94
+\CMTS CK-PH
+could be j@tz.i7, he drops his pitch so much it's hard to
+tell; it's /j@tzi/:TK
+\date 26/Jun/96
+\lex j@x='@7tz.i7
+\_no 00112
+\LG MIG
+\PHO [j@xx@7tzi7]
+\UND jax=7@7tz.E7
+\MB ATRAS, gomitar, NOM7
+\VAR
+ZOH001R0611004.txt
+\GRAM pcp
+\SPG gomitado
+\ENG vomited
+\EX k@x.i j@x= '@7tz.17
+\XPSH [k@xi j@xx@7tzi7]
+\XSP comida gomitada
+Page 46

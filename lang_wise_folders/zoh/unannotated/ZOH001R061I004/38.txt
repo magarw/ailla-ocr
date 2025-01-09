@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG ahumado
+\ENG smoked
+\EXU jok.e7+k nea7
+\XPSH [joke7k nea7]
+\XSP pared ahumado
+XEN smoky wall
+\EXU nea7 jok.e*7
+\XPSH [nea7 joke*7]
+\XSP pared ahumado
+\XEN smoky wall
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jok
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex jo.k@w.@7
+\_no 00091
+\LG MIG
+\PSH [jok@w@7]
+\UND jo.k@nh.A7
+\MB EN, quemarse, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG requemado; chamuscado
+\ENG reburned; scorched
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT k@nh
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 06/Feb/96
+\lex jok. (a') n@7
+\_no 00092
+\LG MIG
+\PSH [joka n@7]
+\UND jok.A7 n@7
+\MB ahumarse, NOM2, agua
+\VAR jook n@7
+\GRAM ams
+\SCI
+\USE
+\SPG agua negro, cafe*
+\ENG black water, coffee
+\EXU
+\XSP
+\XEN
+\SYN jok-wa+@7_n@7
+ZOH001R0611004.txt
+Page 38

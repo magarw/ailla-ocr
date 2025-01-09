@@ -1,0 +1,70 @@
+\egl 1E fire -stack -burn
+\zoq 7@n_jukutnekk@nhnh@ypa.
+\fts Me levanto ajunto la lumbre.
+\fte I stack up the fire.
+\com habitual
+\idx incorp_nom
+\ord vincorp
+\ref ZOH001R053 004
+\_no 00005
+\fte I wash my corn.
+\com habitual
+\idx
+\ord v
+\tx 7@n tzepa
+n pitzi
+\mb 7@n tze7 -pa 7@n pitz
+\sgl 1E lavar-INC 1E
+poner_maiz_en_cal-NOM3
+\egl 1E wash -INC 1E put_corn_in_lime -NOM3
+\zoq 7@n tzepan pitzi.
+\fts Lavo mi nixtamal.
+\ref ZOH001R053 005
+\_no 00006
+\tx da nakpa
+\mb da nak -pa
+molinu
+molino
+\sgl 1A irse-INC molino
+\egl 1A go -INC miller
+\zoq Da nakpa_molinu.
+fts voy a molino.
+\fte I go to the miller.
+\com
+\idx
+\ord V AV
+\ref ZOH001R053 006
+\_no 00007
+\tx d@ minpa
+d@ min -pa
+\mb d@ min
+gaja*nh
+ka -jaanh
+\sg1 1A venir-INC DCT3-DIR1
+\egl 1A come -INC DCT3-DIR1
+\zoq D@ minpa gaj*nh.
+fts Vengo de alla*.
+\fte I come from over there.
+\com
+\idx
+\ord v Av
+\ref ZOH001R053 007
+\_no 00008
+\tx 7@n tzakpa
+n
+way
+\mb 7@n tzak -pa 7@n way
+\sgl 1E
+\egl 1E
+-E
+dejar-INC 1E moler-NOM3
+leave-INC 1E grind-NOM3
+ZOH001R0531001.txt
+\zoq 7@n tzakpan way.
+\fts Dejo mi masa.
+\fte I leave my corn meal.
+\com
+\idx
+-SUF-INC
+-E7
+Page 2

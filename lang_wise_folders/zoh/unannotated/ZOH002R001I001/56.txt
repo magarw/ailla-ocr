@@ -1,0 +1,31 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+3.3.2. Vowel harmony
+There are five vowel-initial suffixes in MIG Zoque:
+1.
+result noun -a/-ə (~ -a?/-ə?);
+2.
+participle -i/-e (~ -i?/-e?);
+3.
+indefinite -anəm/-ənəm;
+4.
+imperative -a?/-ǝ?;
+5.
+reciprocal -ǝ/-a.
+Each has two basic alternations, in which the choice of vowel depends on
+the height of the preceding vowel. // must be classified as a high vowel for
+this system, although phonetically it is a mid vowel. The 'sixth vowel' in the
+other Mixe-Zoquean languages is the high central vowel /ü/; the MIG Zoque
+vowel harmony system conforms with that inventory. So, the set of high vowels
+for these rules is {/i/, /u/, /ə/}. The mid vowels are {/e/, /o/}. The set of non-
+mid vowels is {/i/, /u/, /ə/, /a/}.
+There are two rules:
+(1) ə
+(2) e-
+-> a / V[mid] C __
+-> i i
+/ V[high] C __.
+The morpheme breakdowns in data examples use the symbol A to
+indicate a vowel that appears on the surface as /a/ or /ə/; the underlying vowel
+is /ǝ/. For example, the imperative is represented as -A?. The following
+examples illustrate the operation of rule (1).
+32

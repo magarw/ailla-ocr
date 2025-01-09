@@ -1,0 +1,62 @@
+\ROOT
+\DSRC HAJ94
+\CMTS cf. ga.ja.anh
+\date 12/Feb/96
+\lex {de.ji.inh}
+\_no 04412
+\LG MIG
+\PSH [deji*nh]
+\UND te.ji.Vnh
+\MB DCT2. DIR1
+\VAR
+\GRAM av
+\SPG de ahi*
+\ENG from there; thence
+\SPL
+\SLGR
+\EXU de.ji.inh 7ok.wak-w@ de.d@ toy.A7 7@y-ti7
+\XPSH [Deji*nh 7okwakk@ ded@ toya 7@yti7.]
+\XSP De ahi* termino* de esa enfermedad.
+\XEN From there, that illness will end.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\DATE 03/Jan/1980
+ZOH004R0011001.txt
+\lex {de.ji}
+\_no 04413
+\LG MIG
+\PSH [deji]
+\UND te.ji
+\MB DCT2, LOC1
+\VAR
+\GRAM av
+\SCI
+\USE neutral deictic, may be closer than or similar to DCT3
+\SPG ahi*
+\ENG here; there
+\EXU ti 7@m+ me7tz-pa de.ji
+\XPSH [Tim me7tzpa deji?]
+\XSP ?Que buscas aqui?
+\XEN What are you looking for here?
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS nearer the hearer; visible(?); closer than gaji/alla*
+\date 12/Feb/96
+\lex {de.7xe}
+\_no 04414
+\LG MIG
+\PSH [de7xe]
+\UND de.7xe
+\MB DCT2, SIM
+\VAR
+\USE similitive, "as"
+Page 1895

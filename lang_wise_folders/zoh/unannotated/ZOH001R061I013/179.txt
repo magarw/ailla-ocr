@@ -1,0 +1,53 @@
+\_no 02240
+\SPG Tino
+\ENG Tino
+\lex tinwoyewoye7
+\_no 02241
+\SPG ruedacaca
+\ENG insect
+\lex tio fila
+\_no 02242
+\SPG tio*fila
+\ENG tio fila
+\lex tito
+\_no 02243
+\SPG Tito
+ENG Tito
+\lex tiyanhja*7
+\_no 02244
+\SPG cosas
+\ENG things
+\lex tiyanhjaa7
+\_no 02245
+\SPG que todo
+\ENG what_all
+\lex tiyanhti7
+\_no 02246
+\SPG ***
+\ENG ***
+\lex tiyati
+\_no 02247
+\SPG algo
+\ENG thisnthat
+\lex tiinh
+\_no 02248
+\SPG DIR4
+\ENG DIR4
+\lex todabia
+\_no 02249
+\SPG todavi*a
+\ENG still
+\lex todavia
+\_no 02250
+\SPG todavia
+\ENG still
+\lex todo
+\_no 02251
+\SPG todo
+\ENG all
+\lex todos
+\_no 02252
+\SPG todos
+\ENG all
+ZOH001R0611013.txt
+Page 179

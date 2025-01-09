@@ -1,0 +1,63 @@
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\DATE 03/Jan/1980
+\lex 7eya+p@7
+\_no 00271
+\LG MIG
+\PSH [7eyaap@7]
+\UND 7eya+p@7
+\MB otro, REL2
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG otra persona
+\ENG another person
+\EXU n@k-pa 7@m+ yox-w@ Tomas+j@nanh? n@7tti,
+7eyap@7+j@nanh
+[NČkpam yoxx@ Tomas +j@nanh? N@7tti, 7eyap@j@nanh.]
+\XSP vas a trabajar con Toma*s? No, con otro.
+\XPSH
+\XEN Are you going to work with Toma*s? No, with someone else.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-GLOSS ok, HAJ: 96
+\date 29/Jan/96
+\DATE 03/Jan/1980
+\lex 7i
+\_no 00272
+LG MIG
+\PSH
+\UND 71
+\MB
+\VAR
+\GRAM conj
+\SCI
+\USE joins clauses and noun phrases
+\SPG y
+\ENG and
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT
+\DSRC TK96
+\CMTS CK-SYNTAX ok, HAJ: 96
+\date 07/Feb/96
+\lex 7ichiinh
+\_no 00273
+\LG MIG
+\PSH [ichi*nh]
+\UND 7ichiinh
+Page 117

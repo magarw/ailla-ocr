@@ -1,0 +1,62 @@
+\DSRC HAJ98
+\CMTS
+\date
+\lex {.A7}
+\_no 04552
+\LG MIG
+\PSH [.a7]; [.@7]
+\UND A7
+\MB NOM2
+\VAR
+\USE verbal suffix that produces a noun or an adjective
+\GRAM suf
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU 1 wiki' tzonh.a7
+\XPSH 1 [wiki tzowa7]
+\XSP 1 nudillo
+\XEN 1 knuckle
+\EXU 2 ho.k@nh.@7
+\XPSH 2 [jok@w@7]
+\XSP 2 requemado
+\XEN 2 re-burned
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {.E7}
+\_no 04553
+\LG MIG
+\PSH [.e7]; [.i7]
+\UND E7
+\MB NOM7
+\VAR
+\USE verbal suffix that produces a noun or an adjective
+\GRAM suf
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU 1 7oj.e7
+\XPSH 1 [7oje7]
+\XSP 1 tos
+\XEN 1 cough
+\EXU 2 7anh-wit.i7
+\XPSH 2 [7anhwiti7]
+\XEN 2 visitador
+\XSP 2 visitor
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {-A7} [1]
+Page 1955

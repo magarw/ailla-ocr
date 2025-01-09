@@ -1,0 +1,16 @@
+classification code in parentheses. The underlying form of the lexeme comes
+last, written between //.
+t@nh vt cortar, con una machete o fierro // to cut, with a machete or
+iron tool. Ex: 7@y+ t@nh.ten-W@. [7@y t@nhtenn@]. Lo tiene
+cortado. // He had it all cut. Sup: 1 t@nh.7oy %t@nh (T3). Underlying
+form: //t@nh//.
+The semantic field (SEMF) may also be of interest for searches. Entries for
+the names of plants and animals use this field to indicate the ethno-biological
+group to which the lexeme belongs, such as ?okoš, 'shrub', for short leafy
+plants. These items can be found by entering EZ or EB in the semantic field
+box. I have also used the SEMF field to make a rough lexical categorization of
+verb roots. The categories are listed in table A.4. Some roots may belong to
+more than one category; for example, caŋ-, 'to hit with the fist', is categorized
+as both hit and hand. ?aŋ-, 'to warm by the fire', belongs to all of the
+categories fire, temp, cook, and body.
+408

@@ -1,0 +1,62 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 12/Jun/95
+\lex 7anh-wit
+\_no 00181
+\LG MIG
+\PSH [7anhwit-]
+\UND 7anh-wit
+\MB BOCA, andar
+\VAR
+\GRAM Vi
+\SCI
+\USE
+\SPG andar visitando
+ENG to visit
+\EXU 7@n+ 7anh-wit.tam-pa
+\XPSH [7@n 7anhwittampa.]
+\XSP Visitamos.
+\XEN We visit someone.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT wit
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 09/Jan/96
+\lex 7anh-wit. 17 (2)
+\_no 00182
+\LG MIG
+\PSH [7anhwiti]
+\UND 7anh=wit.i7
+\MB BOCA, andar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG alguien que me paso* visitar
+\ENG someone who came to visit
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wit
+\RTGR 11
+\DSRC TK94
+\CMTS
+\date 09/Jan/96
+ZOH004R0011001.txt
+Page 77

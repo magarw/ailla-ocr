@@ -1,0 +1,77 @@
+\zoq Kay g@ 7@n tzo7tt@ g@ we7k.
+\fts Ahora estoy arrancando el tule.
+\fte Then I pulled up the reeds.
+\com
+\idx
+\ref ZOH001R033 005
+\_no 00005
+\tx kay
+\mb ka
+d@n kotu7pp@;
+-y d@n ko -tu7p
+\sg1 DCT3-TMP XE soc-desmoronar-COM
+\eg1 DCT3-TMP XE SOC-crumble -COM
+\ref ZOH001R033 006
+\_no 00006
+\zoq Kay d@n kotu7pp@.
+\fts Ya estoy cortando (la hoja del tule).
+\fte Then I broke it into pieces.
+\com
+\idx
+7@n k@tukjaypa;
+-tuk
+\tx
+\mb 7@n k@
+-jay -pa
+\sgl 1E AFUERA-Cortar-APPL-INC
+\egl 1E AWAY -cut
+\zoq 7@n k@tukjaypa.
+\fts Lo rasuro.
+\fte I shave it.
+\com
+\idx
+-APPL-INC
+\ref ZOH001R033 007
+\_no 00007
+\tx 7@n kotzikjaba
+\mb 7@n ko -tzik -jay -pa
+ZOH001R0331001.txt
+-wa
+\ref ZOH001R033 008
+\_no 00008
+7@y manhkuy;
+7@y manh -kuy7
+\sg] 1E SOC-pelar-APPL-INC 3E pisar-INSTR1
+\egl 1E SOC-skin -APPL-INC 3E step -INSTR1
+\zoq 7@n kotzikjaypa 7@y manhkuy7.
+\fts Limpio su pie (zapato).
+\fte I clean its feet (bottom of the plant.)
+\com
+\idx
+n yepp@
+\tx despwes n@kpa
+\mb despwe*s n@k -pa 7@n yep
+\sg1 despues irse-INC 1E
+\egl after
+go -INC 1E
+tender
+\ref ZOH001R033 009
+\_no 00009
+\tx kotz@kjo
+n
+yeppa;
+\mb ko -tz@k -jo7 7@n yep
+\sg1 soc-hacer-LOC2 1E tender
+kotz@kjo
+kotz@kjo;
+-w@ ko -tz@k -jo7 ko -tz@k -jo7
+-DINC SOC-hacer-Loc2 Soc-hacer-Loc2
+spread_out-dINC SOC-do -LOC2 SOC-do -LOC2
+\zoq Despwes n@kpa 7@n yepp@ kotz@kjo7, kotz@kjo7.
+\fts Despues voy a tenderlo en el cerro, en el cerro.
+\fte Later I'm going to stretch it out in the hills, in the hills.
+\com
+\idx
+-ра
+-INC
+Page 2

@@ -1,0 +1,86 @@
+\zoq N@mm@n maytamm@ makkanh kaxna*nh.
+\fts Estamos contando diez pasos.
+\fte we're counting ten paces.
+\ref ZOH001R026 112
+\_no 00098
+\tx g@ 7ora d@ nitenwitudamapa
+\mb g@ 7ora d@ ni -ten
+-witu7
+- tam -A -pa
+n@mm@
+bi metzanh
+n@m -w@ bi metza*nh
+decir-COM DEF dos
+\sg] DEM ahora 1A PSE-pararse-regresar-1/2PL-RCP-INC
+\eg1 DEM now 1A PSE-stand -return -1/2PL-RCP-INC say -COM DEF two
+\tx manhkuyp@7k
+\mb manh -kuy7 -p@7k
+\sg] pisar-INSTR1-REL2
+\egl step -INSTR1-REL2
+\zoq G@ 7ora d@ nitenwitudamapa, n@mm@ bi metzanh manhkuyp@7k.
+\fts Esa hora nos volteamos," dijo el dos pie.
+\fte At that time we turn and stand," said the two-legged one.
+\ref ZOH001R026 113
+\_no 00099
+\tx 7@y 7aseptz@kk@
+\mb
+bi tzikin
+tzikin
+aceptar-hacer-COM DEF pinto
+7@y aceptar-tz@k -w@ bi
+\sg1 3E
+\egl 3E accept-do
+ZOH001R0261001.txt
+\ref ZOH001R026 114
+\_no 00100
+\zoq 7@y 7aseptz@kk@ bi tzikin kajanh.
+\fts Acepto* el tigrillo.
+\fte The spotted jaguar accepted.
+\tx tunhnhaw@
+\mb tunh
+\sg1 camino-VERS1-COM diez
+\egl road -VERS1-COM ten
+-COM DEF spotted jaguar
+\ref ZOH001R026 115
+\_no 00101
+makkanh kaxnanh
+-7a -w@ makkanh kax
+bi
+-naanh bi
+dar_pasos-MED DEF
+kajanh
+kajanh
+tigre
+step
+\zoq Tunhnhaw@ makkanh kaxnaṇh bi kajanh
+\fts Camino* diez pasos el tigre
+\fte The jaguar walked ten paces
+kajanh
+kajanh
+tigre
+-MEAS DEF jaguar
+\tx 7i makkanh bi metzanh manhkuyp@7k
+\mb 7i makkanh bi metza*nh mạnh -kuy7
+\sg] y
+diez
+\egl and ten
+DEF dos
+DEF two
+\zoq 7i makkanh bi metzanh manhkuyp@7k.
+\fts y diez el dos pies.
+\fte and ten the two-legged one.
+-p@7k
+pisar-INSTR1-REL2
+step -INSTR1-REL2
+\ref ZOH001R026 116
+\_no 00102
+\tx 7@y mayxukk@
+tum@ metza*nh tuwa*nh maktaxxanh moxxanh tujta*nh
+tum@7 metza*nh tuwa*nh maktaxxanh moxxanh tujta*nh
+\sgl 3E contar-3PL-COM uno dos
+cinco seis
+\mb 7@y may
+-xuk-w@
+cuatro
+tres
+Page 21

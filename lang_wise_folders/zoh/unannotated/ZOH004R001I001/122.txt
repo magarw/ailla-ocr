@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [7iti7]
+\UND 7it.17
+\MB
+\VAR
+\GRAM a/s
+\SCI
+\USE
+\SPG dichoso
+\ENG happy, lucky
+\EXU 7ay 7it.i7 = 7iti' de mix
+\XPSH [7ay 7iti7]
+\XSP dichoso de ti
+\XEN lucky for you
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7it
+\DSRC TK94
+\CMTS CK-GLOSS - is this the same as the word for 'pueblo'? he says no
+\date 25/Jun/96
+\lex 7iti'= INCORP
+\_no 00284
+\LG MIG
+\PSH
+\UND 7iti7
+\MB
+\VAR
+\GRAM S
+\SPG pueblo
+\ENG town
+\EXU n@k-pa 7@n+ 7iti'=wit-w@
+\XPSH [N@kpan 7itiwitt@.]
+\XSP voy a andar en el pueblo.
+\XEN I'm going to go walking in town.
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS very restricted use: only in this 'walking around_town' form.
+\CMTS does not mean 'pueblo' in general; that's 'kumkuy7'
+\date 24/Jun/96
+\lex 7it.i'.7aH
+\_no 00285
+ZOH004R0011001.txt
+LG MIG
+\PSH [7iti7a-]
+\UND 7it.i7.7aH
+\MB
+\VAR
+\GRAM versl
+\SCI
+\USE
+\SPG hacerse dichoso; dichoso de ti
+\ENG to become happy; lucky for you
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+Page 122

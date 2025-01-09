@@ -1,0 +1,63 @@
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG grasa; sebo
+\ENG fat; tallow
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp sebo
+\ROOT
+\DSRC TK94
+\CMTS
+\date 07/Apr/95
+\lex xepx.xepx.ney
+\_no 03913
+\LG MIG
+\PSH [xepxxepxney-]
+\UND xepx.xepx.ney
+\MB
+\VAR
+\GRAM VİR
+\SCI
+\USE
+\SPG andar amarqueandose
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-GL; GMS denies
+\date 26/Jun/96
+\1ex xe7px
+\_no 03914
+\LG MIG
+\PSH
+\UND xe7px
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG hacer mecate
+ZOH004R0011001.txt
+\ENG to make rope
+\SPL xe7px. 7oy
+\SLGR ANTIP
+\SLGL hacer mecate // to make rope
+\SPL xe7px.ten
+\SLGR PRSV
+\SLGL tener hecho el mecate // to have the rope made
+\SLGR NO ASSUM1
+\EXU 1 laxu=xe7px-w@
+\XPSH 1 [Laxuxe7px@.]
+Page 1683

@@ -1,0 +1,88 @@
+ochenta
+chanh winak
+cuatro veinte
+noventa
+lajun yo' winak
+lajun y-o'
+winak
+diez 3A-cinco veinte
+cien
+224
+winak
+cinco veinte
+547. Tengo un caballo.
+ay jun inchej
+ay-ø
+jun in-chej
+exist-3B uno 1A-caballo
+548. Tengo dos caballos negros.
+ay chab'wan inchej k'ik' k'ik'
+ay-ø
+chab'-wan in-chej
+exist-3B dos-CNum 1A-caballo negro negro
+549. Fui a su casa una vez.
+junel xit'inek' t'a spat winh
+jun_el_xit'-in-ek'
+k'ik' k'ik'
+t'a
+s-pat winh
+una_vez ir-1A-DIR.pasar prep 3A-casa él
+xit'inek' t'a spat winh junel
+xit'-in-ek'
+t'a
+s-pat winh jun_el
+ir-1A-DIR.pasar prep 3A-casa él
+una_vez
+Fui a su casa dos veces.
+chab'elxo inxitek' t'a spat winh
+chab'-el-xo in-xit-ek'
+s-pat winh
+dos-vez-adv 1B-ir-DIR.pasar prep 3A-casa él
+t'a
+Fui a su casa tres veces.
+oxelxo inxit'ek' t'a spat winh
+ox-el-xo in-xit'-ek'
+tres-vez-adv 1B-ir-DIR.pasar prep 3A-casa él
+t'a s-pat winh
+550. Los hombres salieron de la casa uno por uno.
+a eb' winh winak ixelta' eb' winh t'a te' pat jun junal
+a
+eb' winh winak ix-ø-el-ta'
+top pl Cmasc hombre pas-3B-salir-adv pl Cmasc prep Cmadera
+pat jun jun-al
+casa uno uno-nmlz
+f
+eb' winh t'a te'
+eb' winh winak jun junal ixelta' eb' winh t'a te' pat
+eb' winh winak jun jun-al
+ix-ø-el-ta'
+eb' winh t'a
+pl Cmasc hombre uno uno-nmlz pas-3B-salir-adv pl Cmasc prep
+te'
+pat
+Cmadera casa
+eb' winh winak jun junal ixaj yelta' eb' winh t'a yol te' pat
+eb' winh winak jun jun-al
+ix-ø-aj y-el-ta' eb'
+pl Cmasc hombre uno uno-nmlz pas-3B-exist 3A-salir-adv pl
+winh t'a y-ol
+te'
+pat
+Cmasc prep 3A-dentro Cmadera casa
+Los hombres salieron de la casa de dos en dos.
+eb' winh winak chab'takwan ixelta' eb' winh t'a te' pat
+eb' winh winak chab'-tak-wan ix-ø-el-ta'
+pl Cmasc hombre dos-pl-CNum pas-3B-salir-adv pl Cmasc prep
+te'
+pat
+Cmadera casa
+pat
+Cmadera casa
+eb' winh t'a
+Los hombres salieron de la casa de tres en tres.
+eb' winh winak oxtakwan ixelta' eb' winh t'a te' pat
+eb' winh winak ox-tak-wan ix-ø-el-ta'
+eb' winh t'a
+pl Cmasc hombre tres-pl-CNum pas-3B-salir-adv pl Cmasc prep
+te'
+225

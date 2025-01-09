@@ -1,0 +1,60 @@
+\lex way
+\_no 00162
+\SPG tener tin~a, manchas
+\ENG
+\EX w@ypa
+\XSP tiene tin~a
+\XEN
+\ROOT way Ix
+\SEMF cog
+\CAUS yak.w@y hacer tener tin~a
+\CMTS
+\1ex xa7kx
+\_no 00163
+\SPG tirar salpicando
+\ENG
+\EX xa7kx-pa n@pin7
+\XSP tira sangre
+\XEN
+\ROOT xa7kx Ix
+\SEMF body, sickness
+\CAUS yak.xa7kx hacer salpicara
+\CMTS
+\lex xam
+\_no 00164
+\SPG calentarse porque tiene fri*o
+\ENG to warm up because you're cold
+\EX
+\XSP
+\XEN
+\ROOT xam Il
+\SEMF temp, body
+\CAUS yak.xam calentar
+\CMTS agent is human or animal
+\CMTS means to deliberately move close to a source of warmth.
+\CMTS cf 7an- 12, to get warm because you happen to be near a fire
+\lex xex
+\_no 00165
+\SPG mudar piel; sheshar mai*z
+\ENG to shed skin; to husk corn
+\EX xexx@ 7@y naka
+\XSP mudo* su piel
+\XEN it shed its skin
+\ROOT xex Ix
+\SEMF body, condition
+\CAUS yak.xex dejar que se mudara
+\CMTS
+\lex xik
+\_no 00166
+\SPG reirse
+\ENG to laugh
+\EX
+ZOH001R0611007.txt
+\XSP
+\XEN
+\ROOT xik Il
+\SEMF speak
+\CAUS yak.xik hacer de reir
+\CMTS
+\lex xi7kx
+Page 39

@@ -1,0 +1,62 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-SPG donde se levanta esos porros
+\CMTS HAJ:96, I still don't get it
+\date 26/Jun/96
+\lex win-monh
+\_no 03707
+\LG MIG
+\PSH [winmonh-]
+\UND win-monh
+\MB CARA, dormir
+\VAR
+\GRAM vt
+\SPG 1 dormir con alguien
+\SPG 2 hacer dormir
+\ENG 1 to sleep with someone
+\ENG 2 to put to sleep
+\EXU 7@y win-monh-w@ 7une7
+\XPSH [7@y winmonhnh@ 7une7.]
+\XSP Estaba durmiendo con el nene.
+\XEN She was sleeping with the baby.
+\SYN
+\ROOT monh
+\RTGR 12
+\DSRC HAJ95
+\CMTS fixed PH: TK
+\date 26/Jun/96
+\lex win-muj
+\_no 03708
+LG MIG
+\PSH [winmuj-]
+\UND win-muj
+\MB CARA, mojarse
+\VAR
+\GRAM vi
+\SPG estar medio-mojadito
+\ENG to be little wet
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT muj
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 22/Jun/96
+ZOH004R0011001.txt
+\lex win-muy
+\_no 03709
+\LG MIG
+\PSH [winmuy-]
+\UND win-muy
+\MB CARA, doblarse
+\VAR
+Page 1593

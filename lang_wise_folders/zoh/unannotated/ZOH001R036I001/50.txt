@@ -1,0 +1,77 @@
+\zoq 7i ded@ xoj naka.
+\fts y esa ca*scara de encino.
+\fte and that bark of encino.
+\com
+\idx
+\ref ZOH001R036 227
+\_no 00227
+\tx 7@y p@kn@kpa
+\mb
+7@y p@k
+\sg1 3E
+\egl 3E
+-n@k -pa
+agarrar-irse-INC
+por ga*7
+por ka
+-7
+7erida
+7erida
+por DCT3-NOM1 herida
+-go -INC for DCT3-NOM1 wound
+get
+\zoq 7@y pakn@kpa por ga*7 7erida
+\fts Lleva por esa herida
+\fte He brings it for that wound
+\com
+\idx
+\ref ZOH001R036 228
+\_no 00228
+\tx 7onde y paktukk@
+\mb
+donde 7@y pak
+\sg1 donde 3E
+\eg1 where 3E
+-tuk -w@
+apretarse-cortar-COM
+- cut
+grab
+\zoq 7ondey paktukk@.
+\fts donde saco* de trompezo*n.
+\fte where he stubbed it out.
+\com
+\idx
+\ref ZOH001R036 229
+\_no 00229
+ZOH001R0361001.txt
+\tx GSM: 7onde pitz@mm@ 7@y k@tzux
+\mb GSM donde pitz@m-w@ 7ay
+\sg1 GSM: donde salir -COM 3E
+\eg1 GSM: where leave -COM 3E
+k@tzux
+\ref ZOH001R036 230
+\_no 00230
+-COM
+\zoq GSM: 7onde pitz@mm@ 7@y k@tzux.
+\fts GSM: Donde salio* la un~a.
+\fte GSM: where his nail came out.
+\com
+\idx
+un~a
+nail
+\ref ZOH001R036 231
+\_no 00231
+\tx 7esde gay
+\mb 7esde ka -y
+\tx OSM: 7elwego 7elwego 7@y yaktzokpa
+\mb OSM el -luego el -luego 7@y yak -tzok -pa
+\sg1 OSM: el -luego el -luego 3E CAUS-sanar-INC
+\egl OSM: the-later the-later 3E CAUS-cure -INC
+\zoq OSM: 7elwego 7elwego 7@y yaktzokpa.
+\fts OSM: El luego el luego lo sana.
+\fte OSM: Later later it heals.
+\com
+\idx
+si golpe bi7t 7@y p@kka
+si golpe bi7t 7@y pak -wa
+Page 50

@@ -1,0 +1,60 @@
+XEN it's biting me
+\EX pixxoba 7@y kuptuku
+\XSP algo le pica en su espalda
+\XEN something is biting his back
+\ROOT pix Ix
+SEMF bite
+\CAUS yak.pix. 7oy darle comezo*n
+\CMTS doesn't like it like this: gives yuk.tzi7kx or pix.7oy instead
+\lex po
+\_no 00219
+\SPG nacer animales, gente
+\ENG to be born animals, people
+\EX pow@ 7une7
+\XSP nacio* la criatura
+\XEN the baby was born
+\ROOT po 12
+SEMF life
+\CAUS yak.po tener cria
+\lex po
+\_no 00220
+\SPG rajar
+\ENG to split
+\EX 7@y pow@ k@pi
+\XSP rajar len~a
+\XEN she split firewood
+\ROOT po T3
+\SEMF cut, break
+\PASS po.7@m rajarse
+\ANTI po.7oy
+\CMTS
+\lex poj
+\_no 00221
+\SPG descolorar; despintarse; quitarse de color
+\ENG to fade; to bleach; to lose color
+\EX pojja 7ay k@wi7
+\XSP se despinto*
+\XEN his color faded
+\ROOT poj IX
+\SEMF condition
+\CAUS yak.poj desten~ir
+\CMTS
+\lex pojoj
+\_no 00222
+\SPG estar destorciendo el mecate
+\ENG for the rope to be untwisted
+\EX
+\XSP
+\XEN
+\ROOT pojoj Ix
+\SEMF condition
+ZOH001R0611010.txt
+\CAUS yak.pojoj hacer destorcer
+\CMTS
+\lex po7kx
+\_no 00223
+\SPG calmarse (una persona)
+\ENG to calm down
+\EX 7@y yakj@ypo7kx@
+\XSP hizo calmar alguien (nin~o que esta* 11orando)
+Page 51

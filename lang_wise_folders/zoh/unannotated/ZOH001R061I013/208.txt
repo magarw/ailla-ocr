@@ -1,0 +1,53 @@
+\lex xeenh
+\_no 02605
+\SPG MED
+\ENG MEAS
+\lex xi7
+\_no 02606
+\SPG culo
+\ENG ass
+\lex xik
+\_no 02607
+\SPG reirse
+\ENG laugh
+\lex xi7kx
+\_no 02608
+\SPG 11oviznar; brisar
+\ENG
+\lex xinh
+\_no 02609
+\SPG hincharse
+\ENG swell
+\lex xipx
+\_no 02610
+\SPG estacar; encajar
+\ENG stake; stab
+\lex xit
+\_no 02611
+\SPG moco
+\ENG phlegm
+\lex xitko7
+\_no 02612
+\SPG catarro
+\ENG phlegm
+\lex xi7t
+\_no 02613
+\SPG lazar
+\ENG lasso
+\lex xitzi7
+\_no 02614
+\SPG can~a de azucar
+\ENG sugar cane
+ZOH001R0611013.txt
+\lex xiwonhko7
+\_no 02615
+\SPG (palo de) guarrumbo; chancarro
+\ENG
+\lex xix
+\_no 02616
+\SPG encogerse; encogerse carne seca*ndose
+\ENG shrink up; for meat to shrink up while drying
+\lex xix
+\_no 02617
+\SPG carne
+Page 208

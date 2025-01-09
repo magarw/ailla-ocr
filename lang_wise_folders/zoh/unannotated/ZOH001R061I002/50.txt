@@ -1,0 +1,62 @@
+ZOH001R0611002.txt
+\SPG apretar cosa blandita
+\ENG to spring back into shape, like a ball or a tit
+\SEMF arrange
+\ASP achievement
+\ARG
+\NOM nonh-w@+@7
+\NOM nonh.naanh
+\NOM * kuy
+\RTGR P (T2)
+\POS da nonhjayy@n kaj@t@nh
+\MID
+y@n
+\UNDO nonhpuw@
+\CLZ
+\CMTS
+\lex no7px
+\_no 00201
+\SPG tener chupado la cara
+\ENG for the cheeks to be sucked in
+\SEMF body
+\ASP state
+\ARG
+\NOM
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex no7tz
+\_no 00202
+\SPG arar; quebrar; surquear; partir
+\ENG to plow; to break the earth; to cultivate
+\SEMF break
+\ASP activity
+\ARG
+\NOM nax=no7tz.pa'.kuy7, no'tz.e7, no'tz.o7
+\RTGR P, (T3)
+\POS d@ no7tzjayy@ de 7une 7@n y@kk@x
+\POS me rompio* mi plato ese chamaco
+\MID
+\UNDO
+\CLZ
+\CMTS* naxno7tzpakuy 7@y no7tztz@ nax
+\CMTS need the oxen and everything
+\CMTS
+\lex nox
+\_no 00203
+\SPG ban~arse sin jabo*n
+\ENG to bathe without soap
+\SEMF clean, body
+\ASP
+\ARG
+\NOM
+\RTGR 11
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+Page 50

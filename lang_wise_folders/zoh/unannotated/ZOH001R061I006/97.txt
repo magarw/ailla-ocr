@@ -1,0 +1,63 @@
+\SLGL inflar // to inflate
+SLGR NO PASS
+\SPL puj.ten
+\SLGR PRSV
+\SLGL tener puesto lo con que lo santigua // to have in place that with
+which you're going to bless something
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ASP
+\ARG
+\NOM puj.kuy7
+\SUB 7ok.puj.'@y, puj-jo.tax, puj.ki7px, puj=tax, puj.puj.ney
+\ETYM
+\ETL
+\ROOT puj
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex puj-jo. tax
+\_no 00142
+\LG MIG
+\PSH [pujjotax-]
+\UND puj-jo. tax
+\MB inflar, EN, llenar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG inflar
+\ENG to inflate
+\SPL puj-jo.tax.7@m
+\SLGR PASS
+\SLGL esponjarse // to puff up
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 puj
+\RTGR 1 T3
+\ROOT 2 tax
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS analysis?
+\date 03/Apr/95
+\lex pujum
+\_no 00143
+ZOH001R0611006.txt
+\LG MIG
+\PSH
+\UND pujum
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+Page 97

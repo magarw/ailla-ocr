@@ -1,0 +1,66 @@
+\PSH
+\UND po7
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG rajar
+\ENG to split
+\SPL po7.7oy
+\SLGR ANTIP
+\SLGL rajar // to split something
+\SPL po7.7@m
+\SLGR PASS
+\SLGL rajarse
+\SPL po'.ten
+\SLGR PRSV
+\SLGL tener rajado // to have split
+\EXU 7@y+ po-w@ kapi
+\XPSH [7@y pow@ k@pi.]
+\XSP Rajo* len~a.
+\XEN She split firewood.
+\SYN
+\SEMF cut
+\ASP achievement
+\ARG
+\NOM po.e7, k@pi=po'.kuy7
+\SUB kuk.po'
+\ETYM
+\ETL
+\ROOT po7
+\RTGR T3
+\DSRC HAJ94
+\CMTS xix-pak-po7, split a carcass, meat and bone
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex po' [2]
+\_no 02764
+\LG MIG
+\PSH
+\UND po7
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG nacer de gente o animales
+\ENG to be born
+\SPL yak.po'
+\SLGR CAUS
+-
+\SLGL tener cri*a
+\EXU po'-w@ 7une7
+\XPSH [Pow@ 7une7.]
+\SEMF nature
+\ASP achievement
+\ARG
+\NOM
+\XSP Nacio* la criatura.
+\XEN The baby was born.
+\SYN
+ZOH004R0011001.txt
+of people or animals
+\ETYM
+\SUB_tzam=tzokoy'=po'
+Page 1189

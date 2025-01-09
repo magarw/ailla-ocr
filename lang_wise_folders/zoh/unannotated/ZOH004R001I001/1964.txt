@@ -1,0 +1,63 @@
+\lex {%utz}
+\_no 04573
+\LG MIG
+\PHO
+\UND
+\MB
+\VAR
+\GRAM
+\SPG encogerse; ser jorabado
+\ENG to hunch oneself up; to be hunchbacked
+\EX
+\XSP
+\XEN
+\SYN
+\SEMF arrange, body
+\ASP
+\ARG
+\NOM
+\SUB 7utz.ney, 7utz.7utz.na wit-
+\ROOT * utz
+\RTGR P
+\DSRC HAJ95
+\CMTS those are the only two forms GSM
+\date 03/Jan/80
+\lex {%wak}
+\_no 04574
+\LG MIG
+\PHO
+\UND
+\MB
+\VAR
+\GRAM
+\SPG vaciar
+\ENG to empty
+\EX
+\XSP
+\XEN
+\SYN
+\SEMF arrange
+\ASP
+\ARG
+\NOM wi7t='anh.wak.'oy.kuy7
+\SUB anh.wak, 7anh.'ek=wak, 7anh.'uk=wak, 7a7p= 'anh.wak,
+\SUB manh=wak.p@', 7@nh=ko.wak, 7@7p=7anh.wak, jap='anh.wak,
+\SUB jo.7om-wak, jo.wak, jo.jetz-wak, ko.wak, kanh-ko.wak, k@.wak,
+\SUB manh-wak-p@', ni.707tz-wak, ni.p@k=wak, ni.tuk=wak, ni.wak,
+\SUB_ten='anh.wak, t@tz-ni.kitz-wak, win='om-wak, win-k@nh=wak,
+\SUB win=wak, wit='anh.wak, wi7t='anh.wak, xanh='anh .wak
+\ROOT wak
+\RTGR
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+ZOH004R0011001.txt
+\lex {%xakx}
+\_no 04575
+\LG MIG
+\PHO
+\UND
+\MB
+\VAR
+\GRAM
+Page 1964

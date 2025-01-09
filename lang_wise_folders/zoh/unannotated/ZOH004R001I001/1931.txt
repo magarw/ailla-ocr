@@ -1,0 +1,62 @@
+\date 03/Jan/80
+\lex {-tayu7}
+\_no 04496
+\LG MIG
+\PSH
+\UND tayu7
+\MB EXP
+\VAR
+\USE nominal postpound meaning "expert at"
+\GRAM pre
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU rroma*nh jak(ke) tukxi'-tayu7
+\XPSH [Rroma*nh jak tukxitayu7]
+\XSP Roma*n le gusta pelear
+\XEN Roma*n likes to fight (he's good at it)
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {-taanh}
+\_no 04497
+\LG MIG
+\PSH [-ta*nh]
+\UND taanh
+\MB HORT
+\VAR
+\USE inflectional verbal suffix: hortative
+\GRAM suf
+SPG
+\ENG
+\SPL
+ZOH004R0011001.txt
+\SLGR
+\EXU 1 7anh-may-taanh ney Zawin' d@k+'a(y) bi_ney 7anh-p@n
+\XPSH 1 [7anhmayta*nh ney 7awin d@kka bi ney 7anhp@n.]
+\XSP 1 Ensen~emos nuestra idioma a* nuestros hermanos.
+\XEN 1 Let's teach our language to our brothers.
+\EXU 2 yox-taanh
+\XPSH 2 [Yoxta*nh!]
+\XSP 2! Trabajemos!
+\XEN 2 Let's work!
+SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {te.7}
+\_no 04498
+\LG MIG
+\PSH [te7]
+\UND te.7
+\MB DCT2
+\VAR
+Page 1931

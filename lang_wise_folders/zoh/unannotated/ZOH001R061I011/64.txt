@@ -1,0 +1,59 @@
+\CMTS get deriv's; explore semantics
+\CMTS makes a rolling/rubbing motion with hands, like for rope-making
+\lex xek
+\_no 00330
+\SPG regar (con) agua
+\ENG to sprinkle (with) water; to irrigate
+\EX 7@y xekk@ 7@n mok bi n@7
+\XSP le paso* ri*o mi mazorca
+\XEN the river irrigated my corn
+\ROOT xek T3
+\CMTS antip xek. 7oy
+\CMTS no pass xek.7@m *
+\CMTS se trata de un regadillo
+\CMTS get sv or pcp
+\CMTS cuando el ri*o se honda, y entra en la sembradura
+\CMTS when the river gets deep, it rises and flows over the milpa
+\lex xem
+\_no 00331
+\SPG tocar
+\ENG to play music
+\EX
+\XSP
+\XEN
+\ROOT xem 11
+\CMTS
+\1ex xe7px
+\_no 00332
+\SPG hacer mecate
+\ENG to make rope
+\EX laxu xe7px@
+\XSP hizo mecate
+\XEN he made rope
+ZOH001R0611011.txt
+\ROOT xe7px T1
+\CMTS get more deriv's
+\lex xe7t
+\_no 00333
+\SPG frei*r
+\ENG to fry
+\EX mok xe7tt@ 7ekenjo7
+\XSP tosto* el mai*z en el comal
+\XEN she fried the corn on the comal
+\EX kafwe xe7tpa
+\XSP tosta el cafe*
+\XEN he toasted the coffee
+\ROOT xe7t T1
+\CMTS no pass xe7t.7@m *
+\lex xex
+\_no 00334
+\SPG mudar piel; sheshar mai*z
+\ENG to shed skin; to husk corn
+\EX xexx@ 7@y naka
+\XSP mudo* su piel
+\XEN it shed its skin
+\ROOT xex Ix
+\CMTS get deriv's
+\CMTS caus yak.xex dejar que se mudara
+\lex xik
+Page 64

@@ -1,0 +1,99 @@
+\_no 00006
+\tx d@ yote
+\mb d@ yote7
+\sgl 1Abs ropa
+\egl 1Abs clothes mend
+\fts remendi* ropa
+\fte I mended
+\com
+\idx incorp
+\ref 007
+\_no 00007
+\tx da
+yote
+\mb d@ yote7
+\ref 008
+\_no 00008
+\tx d@
+\mb d@
+clothes
+komm@
+kom
+\ref 009
+\_no 00009
+\tx da yote
+\mb d@ yote7
+\ref 010
+\_no 00010
+\tx
+\mb
+\sgl 1Abs ropa
+remendar-COM 1Erg hijo/a
+\egl 1Abs clothes mend -COM 1Erg child
+\fts remendi* ropa de mi hijo
+\fte I mended clothes of my son
+\com
+\idx incorp
+\sgl
+\egl
+remendar-COM
+yote
+yote7
+komm@
+kom
+\fts remendi* ropa usada
+\fte I mended used clothes
+\com
+\idx incorp
+peka*7
+-w@ peka*7
+remendar-COM viejo
+\sgl 1Abs ropa
+\egl 1Abs clothes mend -COM used
+\ref 011
+\_no 00011
+\tx ? da
+\mb
+-w@
+komm@
+kom
+-COM
+w@tt@mm@*7
+-7@m -w@ -v7k
+romper-PASS-COM-REL1
+\egl 1Abs clothes mend -COM tear -PASS-COM-REL1
+\sgl 1Abs ropa
+remendar-COM
+\fts remendi* ropa que rompio*
+\fte I mended clothes that had torn
+\com
+\idx incorp
+7@n manak 7@yti
+-w@ 7@n manak 7@yti7
+3POSSn
+3 POSSn
+komm@
+kom
+ZOH001R0611001.txt
+w@tt@
+komm@
+da
+yote
+da yote7 w@t -wa kom
+1Abs ropa
+romper-COM remendar-COM
+1Abs clothes tear -COM mend
+\fts* remendi* ropa rota
+\fte * I mended torn clothes
+\com
+\idx incorp
+-w@ w@t
+yote
+w@tt@mm@
+da yote7 wat -7@m -w@
+-wa
+-COM
+7@n komm@
+7@n kom
+Page 2
+-wa

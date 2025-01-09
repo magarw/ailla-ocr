@@ -1,0 +1,62 @@
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 06/Feb/96
+\lex jup-jitzi
+\_no 00929
+\LG MIG
+\PSH [jupjitzi-]
+\UND jup=jitzi
+\MB jalar, arrastrar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG arrastrar jalandolo
+\ENG to drag something by pulling it
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 jitzi
+\RTGR 1 IX
+\ROOT 2 jup
+\RTGR 2 P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 08/Nov/94
+\lex jup-jitzi+i7k kuy
+\_no 00930
+\LG MIG
+\PSH [jupjitzi7k kuy]
+\UND jup=jitzi+P@7k kuy
+\MB jalar, arrastrar, REL, palo
+\VAR
+\GRAM svms
+\SPG una madera que lo arrastro*
+\ENG a log that has been dragged
+\SPL
+\SLGR
+\EXU
+\XPSH
+\XSP
+\XEN
+\SYN
+\SEMF
+\ROOT 1 jup
+\RTGR 1 P, (T3)
+\ROOT 2 jitzi
+\RTGR 2 Ix
+\DSRC HAJ96
+\CMTS
+\date
+ZOH004R0011001.txt
+\lex jup.jup.ney
+\_no 00931
+\LG MIG
+\PSH [jupjupney-]
+\UND jup.jup.ney
+Page 406

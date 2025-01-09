@@ -1,0 +1,78 @@
+\ref ZOH001R036 912
+\_no 00895
+\tx GSM: 7anhtzaji
+\mb GSM 7anhtzaji
+\sg1 GSM: nochecita
+\eg1 GSM: evening
+\zoq GSM: 7anhtzaji.
+\fts GSM: De nochecita.
+\fte GSM: In the evening.
+\com
+\idx
+\ref ZOH001R036 913
+\_no 00896
+\tx <break>
+\mb
+\sg1
+\egl
+\fts <break>
+\ref ZOH001R036 914
+\_no 00897
+\tx OSM: para tum yoma*
+\mb_ OSM para tum yomaa7
+\sg1 OSM: para uno mujer
+\egl OSM: for one woman
+\tx y
+7une
+\mb 7@y 7une7
+\sg1 3E
+\egl 3E child
+nin~o/a
+\ref ZOH001R036 915
+\_no 00898
+\zoq OSM: Para tum yoma* jommoyy@* si yakwanakt@pay 7une,
+\fts OSM: Para una mujer embarazada si quiere albortar el nin~o,
+\fte OSM: For a woman that is pregnant if she wants to abort the baby,
+\com
+\idx
+\com
+\idx
+mas 7une
+bi7t
+\tx ya y t@7am
+\mb__ya 7@y t@7 -A -7am mas 7une7 bi7t
+\sg1 NEG 3E
+querer-nINC-YA mas nin~o/a SI
+\eg1 NEG 3E want -NINC-NOW more child
+IF
+\zoq yay t@7am mas 7une bi7t,
+\fts si ya no quiere mas criatura,
+\fte if now she doesn't want more children,
+\ref ZOH001R036 916
+\_no 00899
+\tx yum@
+\mb
+yum
+\sg1
+\egl boil
+ZOH001R0361001.txt
+jommoyy@*
+si yakwanakt@pa
+jom - 7oy -w@ -v7k si yak -wanak -t@7
+cercar-ANTIP-COM-REL si CAUS-bajarse-querer-INC
+fence -ANTIP-COM-REL if CAUS-go_down-want -INC
+ded@
+-A7 te -d@
+\tx tum pedasu
+\mb tum pedasu
+\sg1 uno pedazo
+\egl one piece
+waku m t@nhtukpa
+-d@ waku 7@m t@nh
+-pa
+-tuk
+hervir(se)-IMPV DCT2-DEM guaco 2E cortar_con_machete-terminarse-INC
+-IMPV DCT2-DEM guaco 2E cut_with_machete -finish
+Page 194
+-pa
+-INC

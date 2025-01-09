@@ -1,0 +1,63 @@
+\XSP
+\XEN
+\SYN
+\ROOT w@nh
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex wat
+\_no 03839
+\LG MIG
+\PSH
+\UND wat
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG romper, como tela o papel
+\ENG to tear, like cloth or paper
+\SPL w@t.7oy
+\SLGR ANTIP
+\SLGL romper // to tear
+\SPL w@t.7@m
+\SLGR PASS
+\SLGL romperse // to be torn
+\EXU 7@n+ w@t-w@ 7@n+ y@k.wij
+\XPSH [7@n w@tt@n y@kwij.]
+\XSP Rompi* mi camisa.
+\XEN I tore my shirt.
+\EXU rroberto da wat.jay-w@ 7@n+ y@k.wij
+\XPSH [rroberto da w@tjayy@n y@kwij.]
+\XSP Roberto me rompio* mi camisa.
+\XEN Roberto tore my shirt.
+\EXU kuy 7@y+ 7anh.kax d@ w@t.jay-w@ 7@n+ y@k.wij
+\XPSH [Kuy 7ay 7anhkax d@ watjayy@n y@kwij.]
+\XSP La rama del arbol me rompio* mi camisa.]
+\XEN The branch tore my shirt.
+\EXU w@t.7@m-w@ 7@n+ y@k.wij
+\XPSH [w@tt@mm@n y@kwij.]
+\XSP se rompio* mi camisa.
+\XEN My shirt tore.
+\SYN
+\SEMF break
+\ASP transition
+\ARG patient
+\NOM w@t.i7
+\SUB jo.w@t
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT wat
+\RTGR T3
+\DSRC HAJ94
+\CMTS can't say * w@tt@n y@kwij, have to use PASS
+\CMTS v/w@t (1)
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex w@t.i7 [1]
+\_no 03840
+\LG MIG
+\PHO [w@ti7]
+Page 1651

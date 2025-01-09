@@ -1,0 +1,63 @@
+\DSRC HAJ94
+\CMTS
+\date 20/Oct/94
+\lex t@tz@7
+\_no 03210
+\LG MIG
+\PSH
+\UND t@tz@7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG iguana
+\ENG iguana
+\EXU jay(a) t@tz@7
+\XSP iguana macho
+\XEN male iguana
+\EXU yak t@tz@7
+\XSP iguana negra
+\XEN black iguana
+\EXU tzux t@tz@7
+\XSP iguana verde
+\XEN green iguana
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK <n@toki> and make entry for it
+\date 09/Feb/96
+LF:4 pies
+\lex t@tz-@n@m
+\_no 03211
+\LG MIG
+\PSH [t@tz@n@m-]
+\UND t@tz-An@m
+\MB secarse, INDEF
+\VAR
+\GRAM indef
+\XSP
+\XEN
+\SYN
+\SEMF
+\SCI
+\USE
+\SPG haber sequi*a
+\ENG to have a drought; to be in a state of drought
+\EXU
+\ETYM
+\ETL
+\ROOT t@tz
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+ZOH004R0011001.txt
+\lex t@tz@' tu7tz paxte7
+\_no 03212
+\LG MIG
+\PSH [t@tz@ tu7tz paxte7]
+Page 1381

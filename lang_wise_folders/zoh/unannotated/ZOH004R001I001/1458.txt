@@ -1,0 +1,63 @@
+\NOM
+\SUB 7ok.tzi7. '@y, j@x-tzi', tzi'=tzem
+\ETYM
+\ETL
+\ROOT tzi7
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\CMTS CK-EX3 HAJ:96, cf Ex 4; fixed: TK
+\date 03/Jan/80
+\lex tzi' lugar
+\_no 03390
+\LG MIG
+\PSH [tzi- lugar]
+\UND tzi7 lugar
+\MB dar, lugar
+\VAR
+\GRAM vt+obj
+\SCI
+\USE
+\SPG concederle permiso
+\ENG to give permission
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM lugar
+\ETL Sp
+\ROOT tzi7
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tzi' tum wej.e
+\_no 03391
+LG MIG
+\PSH [tzi- tum weje]
+\UND tzi7 tum wej. E
+\MB dar, uno, gritar, NOM7
+\VAR
+\GRAM vt +obj
+\SCI
+\USE
+\SPG pegar un grito
+\ENG to shout
+\EXU 7@y+ tzi'-w@ tum wej. E
+\XPSH [7@y tziw@ tum weje.]
+\XSP Le pego* un grito.
+\XEN She shouted.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 tzi7
+\RTGR 1 T3
+\ROOT 2 wej
+\RTGR 2 T1
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS CK-all HAJ: 96
+\date 20/Jun/96
+Page 1458

@@ -1,0 +1,63 @@
+\XSP 1 Lo compuso; lo desapachurro*.
+\XEN 1 It sprang back into shape.
+\EXU 2 nonh-wa bi kajat@nh
+\XPSH 2 [Nonhnh@ bi k@j@t@nh.]
+\XSP 2 Esta* apachado la almohada.
+XEN 2 The pillow is dented.
+\EXU 3 7@n+ nonh-w@ bị k@j@t@nh
+\XPSH 3 [7@n nonhnh@ bi kj@t@nh.]
+\XSP 3 Apachurre* la almohada.
+\XEN 3 I dented the pillow.
+\SYN
+\SEMF arrange
+\ASP achievement
+\ARG
+\NOM nonh-w@+@7, nonh.naanh
+\SUB tz@n=nonh, pen=nonh
+\ETYM
+\ETL
+\ROOT nonh
+\RTGR P (T2)
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex nonh.naanh
+\_no 02394
+\LG MIG
+\PHO [nonhna*nh]
+\UND nonh.naanh
+\MB apuchurarse, MED
+\VAR
+\GRAM meas
+\SPG una apachurada
+\ENG a dent
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT nonh
+\RTGR P (T2)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex no7px
+\_no 02395
+\LG MIG
+\PSH
+\UND no7px
+\MB
+ZOH004R0011001.txt
+\VAR
+\GRAM vi
+\SPG tener chupado la cara
+\ENG for the cheeks to be sucked in
+\EXU 1 no7px-w@-'am de7 7apu
+\XPSH 1 [No7pxa*m de 7apu.]
+\XSP 1 Ya esta* chupada la cara del viejito.
+\XEN 1 Now the old man's face is fallen in.
+\EXU 2 7@m+ yak.no7px-w@ de7 7apu
+\XPSH 2 [7@m yakno7px@ de 7apu.]
+\XSP 2 Ya lo agotastes ese viejo.
+\XEN 2 You've worn out this old man.
+Page 1031

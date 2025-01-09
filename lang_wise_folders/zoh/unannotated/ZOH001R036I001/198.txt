@@ -1,0 +1,82 @@
+\ref ZOH001R036 931
+\_no 00914
+\tx 7entonse gay
+\mb entonces ka -y
+\sg1 entonces DCT3-TMP
+\egl then
+\com
+\idx
+\zoq 7entonse gay_7ukpa*m.
+\fts Entonces ya lo toma.
+\fte Then then now she drinks it.
+7ukpa*m
+7uk
+-pa - 7am
+tomar-INC-YA
+DCT3-TMP drink-INC-NOW
+\ref ZOH001R036 932
+\_no 00915
+\tx ga
+\mb ka -7
+ZOH001R0361001.txt
+n@mm@ y 7ukk@
+7uk
+tomar-dINC DCT3-NOM1 dia
+\eg1 DCT3-NOM1 PROG 3E drink-dINC DCT3-NOM1 day
+n@mm@ 7@y
+ga
+-wa ka -7
+jama
+Jama
+\sg1 DCT3-NOM1 PROG 3E
+\zoq Ga_n@mm@y 7ukk@ gajama.
+fts Esto lo esta* tomando ese di*a.
+\fte That one she's drinking that day.
+\com
+\idx
+\ref ZOH001R036 933
+\_no 00916
+\tx ya ke
+7apurtz@kk@ba*m
+\mb ya ke 7apurar-tz@k -7@y-pa -7am
+\sg] ya que apurar -hacer-SUF-INC-YA
+\egl now that hurry -do -SUF-INC-NOW
+\zoq Ya ke 7apurtz@kk@ba*m.
+\fts ya lo esta* apurando.
+\fte Now that she's hurrying.
+\com
+\idx
+\ref ZOH001R036 934
+\_no 00917
+\tx si yopa
+kukjama
+70 yopa
+kuk -jama 70 yo7
+-pa
+tzujiam
+-pa tzuji7-7am
+centro-dia O caerse-INC noche -YA
+\egl if fall -INC center-day or fall -INC night -NOW
+\mb
+si yo7
+\sgl si caerse-INC
+\zoq Si yopa kukjama 70 yopa tzujiam,
+\fts Si cae de di*a o cae de tarde,
+\ref ZOH001R036 935
+\_no 00918
+\fte If it falls in the middle of the day or it falls at night,
+\com
+\idx
+\tx
+\mb
+\sg1 pero DCT2-NOM1 3E
+CAUS-bajarse-INC
+\egl but DCT2-NOM1 3E CAUS-go_down - INC
+peru de
+7@y yakwanakpa
+peru te -7 7@y yak-wanak -ра
+\zoq peru de 7@y yakwanakpa.
+\fts pero eso lo tiene que albortar.
+\fte but that she aborts.
+\com
+Page 198

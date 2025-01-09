@@ -1,0 +1,62 @@
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex xoj+jo7
+\_no 03966
+\LG MIG
+\PSH [xojjo7]
+\UND xoj +jo7
+\MB
+\VAR
+\GRAM s+loc
+\SCI
+\USE
+\SPG alla* en el encinal
+\ENG down there where the encino trees grow
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex xojo7k
+\_no 03967
+\LG MIG
+\PSH
+\UND Xojo7k
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG zacate; pasto
+\ENG grass; pasturage
+\EXU mok xojo7k
+\XSP zacate de milpa
+\XEN grass that grows in the cornfield
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+\lex xojo7k=tzi'
+\_no 03968
+ZOH004R0011001.txt
+\LG MIG
+\PSH [xojo7ktzi-]
+\UND Xojo7k=tzi7
+\MB zacate, dar
+\VAR
+\GRAM vt:incorp
+\SCI
+\USE
+\SPG dar zacate a* (un animal)
+Page 1706

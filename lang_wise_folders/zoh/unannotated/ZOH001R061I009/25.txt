@@ -1,0 +1,62 @@
+\ENG to put on a shroud
+\EX 7@y pitt@ bi kaw@*7
+\XSP puso la mortaja a un muerto
+\XEN she wrapped the corpse in a shroud
+\EX piti*am de kaw@7
+\XSP ya esta* con su mortaja el muerto
+\XEN now the corpse is shrouded
+\EX pittoyy@*7
+\XSP aquel que dio* la mortaja
+\XEN the one who put on the shroud
+\EX pitt@mma*m
+\XSP ya tiene la mortaja
+\XEN the corpse has been shrouded
+\ROOT pit T3
+\SEMF wrap
+\PASS pit.7@m
+\ANTI pit. 7oy poner la mortaja
+\CMTS tambien trata de puros - pitt@mma*m 7@y juki 'ya enrollo* su cigarro'
+\lex pi7t
+\_no 00101
+\SPG trenzar
+ENG to braid
+\EX way pi7tt@
+\XSP trenzo* el cabello
+\XEN she braided her hair
+\EX 7@y pittene 7@y way
+\XSP tiene trenzado su cabello
+\ROOT pi7t P, (T3)
+\SEMF care
+\PASS pi7t.7@m estar trenzada
+\ANTI pi7t.7oy trenzar
+\ASSU pi7t.ney estar trenzada
+\PRSV pi7t=ten lo tiene trenzada
+\lex po
+\_no 00102
+\SPG rajar
+\ENG to split
+\EX 7@y pow@ k@pi
+\XSP rajar len~a
+\XEN she split firewood
+\ROOT po T3
+\SEMF cut, break
+\PASS po.7@m rajarse
+\ANTI po.7oy
+\CMTS
+\lex ponh
+\_no 00103
+\SPG quemar
+\ENG to burn
+ZOH001R0611009.txt
+\EX 7@y ponhnha*m
+\XSP ya esta* quemado
+\XEN it has burned
+\EX 7@n ponhnh@ 7@n tzanhkuy7
+\XSP queme* mi mano
+\XEN I burned my hand
+\ROOT ponh T3
+\SEMF fire
+\PASS ponh.7@m
+\ANTI ponh.7oy
+\CMTS
+Page 25

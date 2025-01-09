@@ -1,0 +1,79 @@
+564. No va solo porque tiene miedo.
+max b'at laj winh sch'ok'ojil yuj to sxiwi
+ma-x
+ø-b'at laj winh s-ch'ok'ojil y_uj_to tz-Ø-xiw-i
+neg-pres 3B-ir neg él 3A-soledad porque pres-3B-temer-vti
+565. Juan estaba durmiendo cuando llegaste.
+winhaj Xun waynak winh yik ak'ochi
+winhaj Xun way-nak-ø
+winh y-ik a-k'och-i
+Cmasc Juan dormir-p.rem-3B Cmasc 3A-SR 2A-llegar-vti
+winhaj Xun wan sway winh yik ak'ochi
+winhaj Xun wan s-way
+winh y-ik a-k'och-i
+Cmasc Juan prog 3A-dormir Cmasc 3A-SR 2A-llegar-vti
+566. Juan estuvo durmiendo desde que llegaste.
+winhaj Xun waynakxo winh yikta' tzachk'ochi
+winhaj Xun way-nak-ø-xo
+winh y-ik-ta'
+Cmasc Juan dormir-p.rem-3B-adv Cmasc 3A-SR-adv
+tz-ach-k'och-i
+pres-2B-llegar-vti
+228
+567. Juan estuvo durmiendo hasta que llegaste.
+winhaj Xun waynakxo winh ixtoachk'ochi
+winhaj Xun way-nak-ø-xo
+winh ix-to-ach-k'och-i
+Cmasc Juan dormir-p.rem-3B-adv Cmasc pas-adv-2B-llegar-vti
+Se le fue el sueño.
+ixel swayan winh
+ix-ø-el
+s-wayan winh
+pas-3B-salir 3A-sueño él
+Se despertó.
+ixpitzwi winh
+ix-ø-pitzw-i
+pas-3B-despertar-vti él
+winh
+568. Juan estuvo durmiendo antes de que llegaras
+winhaj Xun waynakxo winh yik man tzachk'och laj
+winhaj Xun way-nak-ø-xo
+winh y-ik man tz-ach-k'och laj
+Cmasc Juan dormir-p.rem-3B-adv Cmasc 3A-SR neg pres-2B-llegar neg
+569. Juan va a dormir cuando llegues.
+winhaj Xun olway winh yik olachk'ochok
+winhaj Xun ol-ø-way
+winh y-ik ol-ach-k'och-ok
+Cmasc Juan fut-3B-dormir Cmasc 3A-SR fut-2B-llegar-IRR
+570. Juan va a dormir hasta que llegues.
+a to olachk'ochok olel swayan winhaj Xun
+a
+to ol-ach-k'och-ok ol-ø-el
+s-wayan winhaj Xun
+top nex fut-2B-llegar-IRR fut-3B-salir 3A-sueño Сmasc Juan
+571. Juan va a dormir en cuanto llegues.
+waj Xun olway winh a yik olachk'ochok
+waj
+Xun ol-ø-way
+winh a y-ik ol-ach-k'och-ok
+Cmasc Juan fut-3B-dormir Cmasc top 3A-SR fut-2A-llegar-IRR
+572. No me molestes cuando estoy comiendo.
+man inatzuntzok ta to wan inwa'i
+man in-a-tzuntz-ok
+ta_to wan in-wa'-i
+neg 1B-2A-molestar-IRR cond prog 1A-comer-vti
+573. No me molestes cuando como.
+man inatzuntzok yik tzinwa'i
+man in-a-tzuntz-ok
+y-ik_tz-in-wa’-i
+neg 1B-2A-molestar-IRR 3A-SR pres-1B-vti
+574. Si quieren irse ustedes váyanse.
+ta to enab'en tzexb'ayi exik'ek
+ta_to e-nab'en tz-ex-b'at-i
+ex-ik'-ek
+cond 2A-querer pres-2B-ir-vti 2B-portar-exh
+Si quieren irse ellos que se vayan.
+ta to snab'en eb' sb'ati b'atokab' eb'
+ta_to s-nab'en eb' tz-ø-b'at-i b'at-ok-ab' eb'
+cond 3A-querer pl pres-3B-ir-vti ir-IRR-cuot pl
+229

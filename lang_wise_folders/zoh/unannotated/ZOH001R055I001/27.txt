@@ -1,0 +1,67 @@
+\mb te -y
+yox
+n@mm@ 7@n
+\sg1 DCT2-TMP PROG 1E
+\eg1 DCT2-TMP PROG 1E work
+\ref ZOH001R055 115
+\_no 00116
+\zoq Tey n@mm@n_yoxtamma*m.
+\fts Ahora ya estamos trabajando.
+\fte Now we're working.
+\com
+\idx
+\ref ZOH001R055 116
+\_no 00117
+\tx
+\mb
+\tx syempre d@ kontentuja*7 porke da x@j@damma*m
+\mb syempre da kontentu-jaa7 porke da x@ja7
+\sg1 siempre 1A contento-NPL2 porque
+- tam -w@ - 7am
+1A bastante-1/2PL-COM-YA
+\egl always 1A content -NPL2 because 1A a_lot -1/2 PL-COM-NOW
+\zoq Syempre d@ kontentuja*7 porke d@ x@j@damma*m.
+\fts siempre estamos contentos porque ya somos bastante.
+\fte we're always content because now there are a lot of us.
+\com
+\idx
+pitzenhjo7 dey
+pitzenhjo7 te -y d@ teji
+\tx jemji d@xja*7
+\mb
+\sg1 todo
+\egl all
+jemji7 d@x -jaa7
+- tam
+trabajar-1/2PL-dINC-YA
+y@ji
+komo 7awin
+-tam -wa
+ya
+ya -ji7 komo 7awin7
+-1/2 PL-COM DCT1-LOC1 como hermano/a
+\sg1 por_eso DCT2-TMP 1A hay
+\eg1 because DCT2-TMP 1A there_is-1/2PL-COM DCT1-LOC1 like sibling
+1Prn-NPL2
+1Prn-NPL2
+ZOH001R0551001.txt
+-wa - 7am
+\ref ZOH001R055 117
+\_no 00118
+\com
+\idx
+-1/2PL-DINC-NOW
+\tx 7eso 7es todo
+\mb 7eso 7es todo
+\sg1 eso ser todo
+\egl that be all
+\zoq 7eso es todo.
+\fts Eso es todo.
+\fte That's all.
+\zoq Pitzenhjo7 dey d@ tejidamm@ yaji komo 7awin jemji d@xja*7.
+\fts Por eso ahora estamos aqui como hermanos.
+\fte That's why now we're here like we're all brothers.
+\com
+\idx
+d@ tejidamm@
+Page 27

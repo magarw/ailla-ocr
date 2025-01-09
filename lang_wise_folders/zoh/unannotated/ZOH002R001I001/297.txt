@@ -1,0 +1,44 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(11.6)
+(i)
+(ii)
+(11.7)
+(i)
+'øn me'tzpa bi tzajønang 'øn no'tztzó' bi limeta
+?ən+ me?c-pa
+(ii)
+bi ca?+hənaŋ ?ən+ no?c-wǝ+V?k
+bi limeta
+1E+ look_for-INC DEF rock+ACC 1E+ break-COM+REL DEF bottle
+'I'm looking for the rock that I broke the bottle with."
+(elicited)
+'øn me'tzpa bi tza' 'øn no'tzkuytzøkkó'
+?ən+ me?c-pa
+bi ca? ?ǝn+ no?c.kuy?=cək-wə+V?k
+1E+ look_for-INC DEF rock 1E+ break.INSTR1=do-COM+REL
+'I'm looking for the rock that I used as a breaking tool.'
+Relative clauses whose head nouns are the agents of a transitive verb are
+very common, but they tend to be treated simply as noun phrases; that is, they
+can be pluralized with the clitic +dəkkay, and they often appear as modifiers of
+another noun (most commonly pǝn, 'man'). Many of these clauses are
+lexicalized, especially those that identify some occupation, such as mayor,
+teacher, or fisherman. The first examples in (11.7) are of this kind. The line
+between stable lexicalization and productive morphology is impossible to draw
+in a language like this one some examples that are probably not lexicalized
+are shown in the later examples.
+dø ye'tztammø bi 'angmayyobá'k yomá'anghi'
+bi ?aŋ.may.7oy-pa+V?k
+də+ ye?c-tam-wǝ
+1 A+ arrive-1/2PL-COM DEF MOUTH.count.ANTIP-INC-REL
+'We arrived at the woman teacher's house."
+(elicited)
+270
+yomaa?+ ?aŋhi?
+woman+LOC3
+(ZOH001 RO10-195)
+gø 'ora toto ye'tzpa bi 'angkimmobá'
+7ora toto? 0 ye?c-pa
+bi ?aŋ.kim.?oy-pa+V?k
+gə
+that hour paper 3A arrive-INC DEF MOUTH.go_up.ANTIP-INC+REL
+'At that hour, a letter came for the commander.' (ZOH001R024-039)

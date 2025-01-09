@@ -1,0 +1,52 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(3.1) (i) hukutək
+'fire'
+(v)
+(iii)
+cikwít
+'basket'
+nəktəpám
+2
+0_nək-tə?-pa+?am
+3A go.want-INC+NOW
+'He wants to go now.'
+3.2.2. Syllable structure
+bi
+tək
+(ii)
+(iv)
+(i)
+CV
+(ii)
+CVC
+(iii) CVPC (where C = /p,t,k,c/)
+(iv) CVCš (where C = /p.k/)
+(v) CV?Cš (where C
+=
+ho?pš-
+/p,k/)
+(vi) CVC? (where C = /m,n,ŋ,y/) ?awin?
+ha?p-
+?ǝkš-
+The following syllable shapes are allowed in MIG Zoque:
+?anmál
+'animal'
+šu?knáŋ
+šu?k.naaŋ
+kiss. MEAS
+'kiss'
+'the'
+'house'
+'to crush'
+'to shell corn'
+'to muzzle'
+'brother'
+In general, syllables are required to begin with a consonant, as in the
+other Mixe-Zoquean languages (Kaufman, p.c.). There are only a small number
+of inflectional morphemes that are vowel-initial, such as the reciprocal suffix -
+A-. These will acquire an onset from the coda of the preceding syllable. The
+vast majority of MIG Zoque syllables are CV or CVC.
+Note that the 'glottal rimes' in (iii) and (vi) are in complementary
+distrubution². The effect of the glottal stop on the pronunciation of the
+I am grateful to Anthony Woodbury for pointing this out to me.
+29

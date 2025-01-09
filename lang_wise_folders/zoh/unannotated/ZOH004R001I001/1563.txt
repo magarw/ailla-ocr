@@ -1,0 +1,64 @@
+\GRAM vt
+\SCI
+\USE
+\SPG despertar por gritos
+\ENG to wake by shouting
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wej
+\RTGR T1
+\ROOT konh
+\RTGR P (11)
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex wej='anh.tzonh
+\_no 03637
+\LG MIG
+\PSH [wejjanhtzonh-]
+\UND wej=7anh. tzonh
+\MB gritar, BOCA, unir
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 hacer eco
+\SPG 2 responder
+\ENG 1 to echo
+\ENG 2 for one person to shout and the other to shout back
+\EXU 7@y+ wej='anh.tzonh-w@
+\XPSH [7@y wejjanhtzonhnh@.]
+\XSP Le grito
+y le respondio*
+\XEN He shouted and she shouted back.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 wej
+\RTGR 2 T1
+\ROOT 2 tzonh
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS usted me grita y yo respondo
+\date 28/Jan/96
+\lex wej='a7tz
+\_no 03638
+ZOH004R0011001.txt
+\LG MIG
+\PSH [wejja7tz-]
+\UND wej=7a7tz
+\MB gritar, arder
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG gritar fuerte o recio
+\ENG to shout loudly
+\EXU
+Page 1563

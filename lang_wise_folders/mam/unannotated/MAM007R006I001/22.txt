@@ -1,0 +1,80 @@
+(266) 0-chi-tzan 0=q'uun-j
+B3s-decir-pues B3s-decir-PAS
+'dijo.'
+(267) N=0=tzaaj=tzan
+xoo-'n.
+INC=B3s-DIR=pues tirar-SD
+'Lo tiró.'
+t-tzaaj t-uj
+cabal AFEC:ajustado A3s-venir A3s-SR:en
+t-u'n
+(268) Kabaal jap
+tiiya koneej,
+conejo
+'Bien ajustado cayó en su boca por tío conejo,'
+t-wi'
+A3s-SR:AGT tío
+(269) b'i'x-tzan
+de.una.vez-pues
+tiiy koneej.
+tío conejo
+'y de una vez lo mató el tío conejo.'
+(270) Nti'-0-ta
+(271) nti'=0
+NEG=B3s=3sENF tío
+'El tío coyote no sabía,'
+NEG=B3s
+'no sabía'
+(274) n=0=loo-n
+0=eel
+ja'la t-u'n
+B3s-salir A3s-cabeza ahora A3s-SR:AGT
+tiiya (kayoot) b'a'n t-u'n,
+coyote
+tiiya
+INC=B3s comer-AP tío
+'que comió el tío conejo.'
+t-ok-leen
+(275) Aax
+(272) qa tz-uul
+xoo-'n
+t-uj
+t-tzii'
+jun a'laj
+chulal,
+si B3s-DIR tirar-SD A3s-SR:en A3s-boca un verde zapote
+'que lo iba a tirar en su boca un zapote verde,'
+(273) komo
+q'an=0=taq
+como
+verde=B3s=IMPF
+'como era verde el zapote'
+(276) Nti'=0=ta
+b'a'n t-u'n
+bueno A3s-SR:AGT
+(277) t-u'n
+0=chi=la.
+cierto A3s-entrar-ABST B3s-decir=MIR
+'Está bien, dijo.'
+NEG=B3s=3sENF tío
+'El tío coyote no sabía'
+chulal
+zapote
+qa t-u'n
+A3s-SR:COMP si A3s-SR
+bueno A3s-SR: AGT
+koneej t-i’j
+conejo A3s-SR:PAC
+tiiya kayoot b'a'n
+coyote bueno
+t-tzii=q'a
+A3s-boca-CL
+tiiya koneej.
+tío conejo
+'que le iba a matar el tío conejo.'
+t-eel
+t-wi'
+A3s-salir A3s-cabeza
+t-u'n
+A3s-SR:AGT
+23

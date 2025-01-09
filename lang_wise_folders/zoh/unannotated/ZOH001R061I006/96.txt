@@ -1,0 +1,63 @@
+\ROOT potz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex po' [1]
+\_no 00140
+\LG MIG
+\PSH
+\UND po7
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG rajar
+\ENG to split
+\SPL po7.7oy
+\SLGR ANTIP
+\SLGL rajar // to split something
+SPL po7.7@m
+\SLGR PASS
+\SLGL rajarse
+\SPL po'.ten
+\SLGR PRSV
+\SLGL tener rajado // to have split
+\EXU 7@y+ po-w@ k@pi
+\XPSH [7@y pow@ k@pi.]
+\XSP Rajo* len~a.
+\XEN She split firewood.
+\SYN
+\SEMF cut
+\ASP achievement
+\ARG
+\NOM po.e7, k@pi=po'.kuy7
+\SUB kuk.po'
+\ETYM
+\ETL
+\ROOT po7
+\RTGR T3
+\DSRC HAJ94
+\CMTS xix-pak-po7, split a carcass, meat and bone
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex puj [1]
+\_no 00141
+\LG MIG
+\PSH
+\UND puj
+\MB
+\VAR
+GRAM vt
+\SCI
+\USE
+ZOH001R0611006.txt
+\SPG 1 inflar; soplar
+\SPG 2 hacer sonar el clarinete
+ENG 1 to inflate; to blow
+\ENG 2 to play the clarinet
+\SPL puj.7oy
+\SLGR ANTIP
+Page 96

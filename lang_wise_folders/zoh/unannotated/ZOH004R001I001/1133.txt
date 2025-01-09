@@ -1,0 +1,62 @@
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex pinh.naanh
+\_no 02632
+\LG MIG
+\PHO [pinhna*nh]
+\UND pinh.naanh
+\MB pepenar, MED
+\VAR
+\GRAM meas
+\SPG una sola vez recogio* algo, una sola cosa
+\ENG you picked something up just once, just one thing
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT pinh
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex pinh.pinh.ney
+\_no 02633
+\LG MIG
+\PSH [pinhpinhney-]
+\UND pinh.pinh.ney
+\MB
+\VAR
+\GRAM assum1
+\SCI
+\USE
+\SPG hacer sonido de campana
+\ENG to make the sound of a bell
+\EXU pinh.pinh.ney-pa t@nh.kuy7
+\XPSH [pinhpinhneypa t@nhkuy7]
+\XSP es la campana
+\XEN the bell sound
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex pinh='anh=kuk.'aH
+\_no 02634
+ZOH004R0011001.txt
+\LG MIG
+\PSH [pinhnhanhkukka-]
+\UND pinh=7anh=kuk.7aH
+\MB recoger, BOCA, centro, VERS1
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG ajuntar
+\ENG to gather together
+\EXU 7@y+ pinh='anh=kuk.'aH-xuk-pa
+\XPSH [7@y pinhnhanhkukkaxukpa.]
+Page 1133

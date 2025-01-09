@@ -1,0 +1,64 @@
+\CMTS
+\date 11/Feb/96
+\lex tzinu
+\_no 03375
+\LG MIG
+\PSH
+\UND tzinu
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG miel
+\ENG honey
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+LF:bugs
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex tzinu weni7
+\_no 03376
+\LG MIG
+\PSH
+\UND tzinu weni7
+\MB miel, avispa
+\VAR tzinu 7@y weni7
+\GRAM
+\SCI
+\USE
+\SPG avispa que tiene miel; abeja
+\ENG honey bee
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 16/Jun/95
+LF:weni7
+\lex tzinu=mu7k-pa+a7k
+\_no 03377
+\LG MIG
+\PSH [tzinumu7kpa*7k]
+\UND tzinu-mu7k-pa +P@7k
+\MB miel, chupar, INC, REL
+\VAR tzinu-mu7k.pa+a7k 7aanmaal
+\GRAM agt1: incorp
+\SCI
+ZOH004R0011001.txt
+\USE
+\SPG chupamiel; uno que esta* sacando mie* 1
+\ENG an animal that gathers honey
+Page 1451

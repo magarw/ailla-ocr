@@ -1,0 +1,44 @@
+Attempts to construct sentences adding the passive suffix to roots from
+the no-passives groups generally produced scowls and odd explanations that
+seemed to pick up on a more abstract sense of the verb. For example, Sr.
+Sánchez said that the sentence in (6.26 iii) was unacceptable because people
+would understand it to mean that the rock was also broken (giving an
+accompaniment interpretation for +pi?t.) The unacceptability of (iv) was said to
+be due to the fact that the boy couldn't be doubled over a chair. This seems to
+be picking out a very deep, abstract, connotation of nakš-, along the lines of 'to
+be forked like a stick'. I've only seen one other usage of this root that picks up
+that connotation, shown for convenience in example (v)5.
+(6.26)
+(i)
+(ii)
+(iii)
+(iv)
+jepxømmø bi nø tzimapi't
+0 hepš.?am-wə
+bi nə? cima?+pi?t
+3A agarrar_c_jícara.PAS-COM DEF agua jícara+INSTR
+'Se agarró el agua con jícara.'
+no'tztzømmø bi limeta
+0 no?c.?ǝm-wə
+bi limeta
+3A quebrar.PAS-COM DEF botella
+'Se quebró la botella.'
+* no'tztzømmø bi limeta tzapi't
+0 no?c.?ǝm-wə
+bi limeta ca?+pi?t
+3A quebrar.PAS-COM DEF botella piedra +INSTR
+'Se rompió la botella con una piedra.'
+* nakxømmøy manak
+0 nakš.?əm-wə
+?əy+ manak
+3A pegar_c_palo. PAS-COM 3E+ hijo
+'Se pegó su hijo con un palito.'
+(lexicón)
+139
+(elicitado)
+(elicitado)
+(elicitado)
+5 The context for this sentence is a story in which a boy falls off a short cliff onto the head of a
+deer and lies spread out across the deer's antlers. The story was told from the picture book,
+'Frog, Where Are You?' Sr. Camilo Miguel Sánchez invented the story on the fly, as an
+interpretation of the pictures in the book.

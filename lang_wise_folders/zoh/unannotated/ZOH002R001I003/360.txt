@@ -1,0 +1,36 @@
+(13.19)
+(i) yøngyøngneyba
+(ii)
+(iv)
+0 yəŋ.yəŋ.ney-pa
+3A temblar.temblar.ITER1 -INC
+'Empezó a temblar.'
+nemnemneba
+0 nem.nem.ney-pa
+3A flamear.flamear-ITER1-INC
+'Flamea mucho.'
+tzuntzunneba
+0 cun.cun.ney-pa
+3A gotear.gotear.ITER1-INC
+'Está cayendo de gotas.'
+(ZOH001R024-178)
+(iii) tzamtzamneba
+(v)
+0 cam.cam.ney-pa
+3A platicar.platicar.ITER1-INC
+'No platica en serio.'
+yumyumneba
+0 yum.yum.ney-pa
+3A hervir.hervir.ITER1-INC
+'Está herviendo mucho.'
+root that contributes the central
+In the -way constructions, the verb
+meaning of the complex is followed by a second, reduplicated, root. This
+second root is most commonly one that means something like 'to cut', but 'to
+get' and others also appear5. I don't know what the criteria for choosing one
+of these roots over another might be; perhaps it's a function of assonance or
+some subtle semantic feature.
+5 Note that in example (13.19 iii), only the second syllable of the emphasizing root is repeated.
+There are very few two-syllable verb roots in this language, and no others that mean a kind of
+forceful action, so I can't conclusively state that this conforms to a reduplication rule or not.
+349

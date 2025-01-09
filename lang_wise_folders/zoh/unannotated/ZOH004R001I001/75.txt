@@ -1,0 +1,63 @@
+\lex 7anh-tzonh
+\_no 00176
+\LG MIG
+\PSH [7anhtzonh-]
+\UND 7anh-tzonh
+\MB BOCA, unir
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 contestar
+\SPG 2 responder a* (hablando)
+\ENG 1 to answer
+\ENG 2 to respond to (speaking)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzonh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 12/Jun/95
+\lex 7anh-tzu'=w@7kx
+\_no 00177
+\LG MIG
+\PSH [7anhtzuw@7kx-]
+\UND 7anh-tzu7=w@7kx
+\MB BOCA, noche, X
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG hacer eco la voz de uno
+\ENG for someone's voice to echo
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT %w@7kx
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex 7anh-wak
+\_no 00178
+\LG MIG
+\PSH [7anhwak-]
+\UND 7anh-wak
+\MB BOCA, *vaciar
+\VAR
+\GRAM vi
+\SCI
+\USE
+ZOH004R0011001.txt
+Page 75

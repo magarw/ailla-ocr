@@ -1,0 +1,45 @@
+154 uquiquimu corona
+un-qui-qui-mu coro-na-a
+1PERS.N-DIR-DIR-EXIST1 << devenir ocre >>-REC-ACC
+devant moi, elles se sont couvertes d'ocre
+155 coro coronaino
+coro coro-na-aino
+<< devenir ocre » « devenir ocre »-REC-ACT.SIM
+elles se sont couvertes d'ocre, couvertes d'ocre
+156 //nai sabo bishtitsi//
+nai sabo bishti-tsi
+ciel abeille petit-EMPH
+les petites abeilles célestes ?
+157 //caca udu ficadi//
+caca udu fi-ca-di
+ananas eau apporter-PL-PASL
+elles apportèrent le jus de l'ananas sauvage
+158 nai ari corohuui
+nai ari coro-huu-i
+ciel LOC << devenir ocre »-devenir-PROG
+là haut elles ont fait devenir le ciel ocre
+159 ari sabo corohuui
+ari sabo coro-huu-i
+LOC abeille << devenir ocre »-devenir-PROG
+là haut les abeilles l'ont fait devenir ocre
+160 coro coronaino
+coro coro-na-aino
+<< devenir ocre » « devenir ocre »-REC-ACT.SIM
+elles se sont couvertes d'ocre, couvertes d'ocre
+161 ifofoquian
+ifo-fo-quian
+maître-PL-OST2
+les maîtres
+162 //da ifofoquian//
+da ifo-fo-quian
+DEM maître-PL-OST2
+ces maîtres-là
+163 ///cudu ifofoquian///
+cudu ifo-fo-quian
+dessin maître-PL-OST2
+les maîtres aux dessins
+164 uayari iquihuui
+ua-ya-ri i-qui-huu-i
+1PERS.A-COM-ITE AUX.INTR-Ø-venir-PROG
+ils viennent à nouveau à moi
+34

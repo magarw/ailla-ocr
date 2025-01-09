@@ -1,0 +1,62 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pak
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 02/Nov/94
+\lex yuk.p@nh
+\_no 04310
+\LG MIG
+\PSH [yukp@nh-]
+\UND yuk.p@nh
+\MB ARR, *flotar
+\VAR
+\GRAM dir+vi
+\SCI
+\USE
+\SPG flotar
+ENG to float
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT p@nh
+\DSRC HAJ94
+\CMTS get deriv's
+\date 03/Apr/95
+\lex yuk.p@nh [n@'+jo7
+\_no 04311
+LG MIG
+\PSH [yukp@nh- n@jo7]
+\UND yuk.p@nh n@7+jo7
+\MB ARR, *flotar, agua, LOC2
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG flotar en el ri*o
+\ENG to float in the river
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT p@nh
+\DSRC TK94
+\CMTS
+\date 29/Jan/96
+\lex yuk.ta7kx
+\_no 04312
+\LG MIG
+ZOH004R0011001.txt
+Page 1851

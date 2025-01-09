@@ -1,0 +1,107 @@
+¿ixab'el am kastilla?
+ix-ø-Ø-ab'-el
+144
+am kastilla
+pas-3B-2A-oír-DIR.afuera dub español
+¿ixak'ayb'ej kastilla?
+ix-ø-a-k'ayb'-ej
+kastilla
+pas-3B-2A-enseñar-vtd español
+¿tom ixak'ayb'ej kastilla?
+tom ix-ø-a-k'ayb'-ej
+kastilla
+int pas-3B-2A-enseñar-vtd español
+Yo aprendí español.
+a in tik ixwab'el kastilla
+in tik ix-Ø-w-ab'-el
+kastilla
+a
+top 1B dem pas-3B-1A-oír-DIR.afuera español
+227. Mi abuela me enseñó a cantar.
+a ix inun chichim ixinsk'ayb'ej ix t'a b'it
+a
+ix
+top Cfem 1A-mamá vieja
+in-nun chichim ix-in-s-k'ayb'-ej
+ix t'a b'it
+pas-1B-3A-enseñar-vtd Cfem prep cantar
+a ix inun chichim ixink'ayb'an t'a b'it
+a
+ix
+top Cfem 1A-mamá vieja pas-1B-enseñar-EA prep cantar
+in-nun chichim ix-in-k'ayb’-an t'a b'it
+a ix inun chichim ixink'ayb'an inb'itani
+a
+ix
+top Cfem 1A-mamá vieja
+in-nun chichim ix-in-k'ayb'-an
+b'it
+prep cantar
+pas-1A-enseñar-EA
+in-b'it-an-i
+1B-cantar-sub-vti
+Mi abuela no me enseñó a cantar.
+a ix inun chichim maj insk'ayb'ej laj ix t'a b'it
+a
+ix in-nun chichim ma-j
+laj ix
+top Cfem 1A-mamá vieja neg-pas 1B-3A-enseñar-vtd neg Cfem
+t'a
+in-s-k'ayb'-ej
+a ix inun chichim maj insk'ayb'ej laj ix inb'tani
+a
+ix
+in-nun
+chichim ma-jin-s-k’ay'b'-ej
+laj ix
+top Cfem 1A-mamá vieja neg-pas 1B-3A-enseñar-vtd neg Cfem
+in-b'it-an-i
+1B-cantar-sub-vti
+228. Mi padre me enseñó a no robar.
+a winh inmam ixinsk'ayb'ej winh t'a junok b'aj max onhelk'ani
+winh in-mam ix-in-s-k'ayb'-ej
+t'a jun-ok
+a
+winh
+top Cmasc 1A-papá pas-1B-3A-enseñar-vtd Cmasc prep uno-IRR
+b'aj ma-x onh-elk'-an-i
+dónde neg-pres 1B-robar-sub-vti
+a winh inmam ixch'oxan wila yik max inelk'ani
+w-il-a
+in-mam ix-ø-ch'ox-an
+a
+y-ik
+ma-x
+winh
+top Cmasc 1A-papá pas-3B-mostrar-EA 1A-ver-vtt 3A-SR neg-pres
+in-elk'-an-i
+1B-robar-sub-vti
+a winh inmam ixch'oxan wila yik max inb'at elk'al
+a
+winh
+in-mam ix-ø-ch'ox-an
+w-il-a
+y-ik
+top Cmasc 1A-papá pas-3B-mostrar-EA 1A-ver-vtt 3A-SR
+ma-x
+in-b'at elk'-al
+neg-pres 1B-AUX robar-nmlz
+a winh inmam ixch'oxan wila yik max inelk'ok laj
+a
+in-mam ix-Ø-ch'ox-an
+w-il-a
+y-ik
+winh
+top Cmasc 1A-papá pas-3B-mostrar-EA 1A-ver-vtt 3A-SR
+ma-x
+in-elk'-ok laj
+neg-pres 1B-robar-IRR neg
+229. ¡Enséñame el camino!
+ch'ox b'e t'ay in
+ch'ox-ø b'e t'ay in
+mostrar-3B camino prep 1B
+ch'oxin t'a b'e
+ch'ox-in
+t'a b'e
+mostrar-1B prep camino
+145

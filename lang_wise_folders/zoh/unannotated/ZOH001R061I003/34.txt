@@ -1,0 +1,62 @@
+\GRAM meas
+SPG una amarrada
+\ENG a tie
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT xotz
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex xu7k.naanh
+\_no 00098
+\LG MIG
+\PSH [xu7kna*nh]
+\UND xu7k.naanh
+\MB besar, MED1
+\VAR
+\GRAM SV
+\SCI
+\USE
+SPG beso
+\ENG kiss
+\EXU tum xu7k.naanh tzi-A7 bi yom (a) 7une7
+\XPSH [Tum xu7kna*nh tzi@7 bi yoom7une7!]
+\XSP !Dale un beso a la muchacha!
+\XEN Give the girl a kiss!
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT xu7k
+\RTGR T3
+\DSRC TK94
+\CMTS CK-PH; get deriv's
+\CMTS HAJ:96 said it twice with final stress and twice without; stressed
+when phrase-final, unstressed when phrase-medial
+\date 03/Jan/80
+\lex yem.naanh
+\_no 00099
+\LG MIG
+\PHO [yemna*nh]
+\UND yem.naanh
+\MB soplar, MED
+\VAR
+\GRAM meas
+\SPG una soplada
+\ENG one stroke of the fan
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT yem
+\RTGR T3
+ZOH001R0611003.txt
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex yep.naanh
+\_no 00100
+Page 34

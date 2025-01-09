@@ -1,0 +1,62 @@
+\CLZ
+\CMTS
+\lex tuk [1]
+\_no 00295
+\SPG cortar
+\ENG to cut
+\SEMF cut, pick
+\ASP achievement
+\ARG instrument
+\NOM tuk.u7, tuk.i7
+\NOM * tuk.naanh (no encuentro la palabra en que parte es)
+\RTGR T3
+\POS Y lexicon example
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tuk [2]
+\_no 00296
+\SPG terminarse; acabarse
+\ENG to come to an end; to be finished
+\SEMF aspect
+\ASP achievement
+\ARG
+\NOM tuk.kuy7, win-jup-tuk.kuy7, win-ten-tuk, win=tzam=tuk
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tun [1]
+\_no 00297
+\SPG divisar ("devisar") a alguien
+\ENG to peek at or catch sight of someone
+\SEMF perception, cognitive
+\ASP activity
+\ARG
+\NOM tum.naanh, num=tun.kuy7
+\RTGR T3
+\POS rroberto d@ tunn@
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex tu7p
+\_no 00298
+ZOH001R0611002.txt
+\ASP accomplishment
+\ARG
+\SPG desmoronar; hacer pedazos; despedazar
+\ENG to crumble; to break into pieces
+\SEMF break
+\NOM tu'p.i7
+\NOM kuy7,
+\NOM tu7p.naanh un pedacito
+\RTGR T3
+\POS 7@n mama d@ tu7pjayy@n kexu
+\MID Y - lexicon
+\UNDO
+me deviso*
+Page 73

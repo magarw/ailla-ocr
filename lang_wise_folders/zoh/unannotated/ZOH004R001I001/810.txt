@@ -1,0 +1,63 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * manh
+\RTGR P
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex manh=naka7tz
+\_no 01878
+\LG MIG
+\PSH [manhnaka7tz-]
+\UND manh-naka7tz
+\MB *pisar, machucar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacerlo pedazos con el pie
+\ENG to crush to pieces with the foot
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 * mạnh
+\RTGR 1 P
+\ROOT 2 naka7tz
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 13/Jun/95
+\lex manh.ney
+\_no 01879
+\LG MIG
+\PSH [manhney-]
+\UND manh.ney
+\MB *pisar, ASSUM1
+\VAR
+\GRAM assum1
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG pararse; estar parando
+\ENG to be standing
+\SPL yak+ manh.ney
+\SLGR CAUS2
+\SLGL hacerlo parar // to make someone stand up
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * mạnh
+\RTGR P
+\DSRC TK94
+Page 810

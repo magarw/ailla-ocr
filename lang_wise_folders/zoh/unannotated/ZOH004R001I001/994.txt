@@ -1,0 +1,64 @@
+\MB SUP, enterrar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG enterrar a alguien
+\ENG to bury someone
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+ΧΕΝ
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kum
+\RTGR T2
+\DSRC HAJ95
+\CMTS
+\date 19/Jun/96
+\lex nik.kunh. '@y
+\_no 02307
+\LG MIG
+\PSH [nikkunhnh@y-]
+\UND nik.kunh.7@y
+\MB SUP, colgar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG colgar algo alrededor del cuello de alguien
+\ENG to hang something around someone's neck
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kunh
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 19/Jun/96
+\lex nik.k@y. '@y
+\_no 02308
+ZOH004R0011001.txt
+\LG MIG
+\PSH [nikk@yy@y-]
+\UND nik.k@y.7@y
+\MB SUP, 11evar_en_mano, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG darle algo en la mano
+\ENG to hand something to someone
+\SPL
+\SLGR
+Page 994

@@ -1,0 +1,60 @@
+\ASSU wij.ney estar zambutido
+\CMTS
+\lex wikx
+\_no 00346
+\SPG chiflar
+ENG to whistle
+\EX
+\XSP
+\XEN
+\ROOT wikx Ix
+\SEMF speak
+\CAUS yak.wikx hacer chiflar
+\CMTS
+\lex wi7kx
+\_no 00347
+\SPG falsearse; ensartarse pie; desconsartarse pie
+\ENG
+\EX wi7kx@ 7@y manhkuy7
+\XSP se falseo* su pie
+\XEN
+\ROOT wi7kx 12, IX
+\SEMF motion
+\CAUS yak.wi7kx falsear
+\CMTS
+\lex wit
+\_no 00348
+\SPG andar; caminar
+\ENG to walk
+\EX witpa 7itijo7
+\XSP anda en el pueblo/en la calle/ de vago
+\XEN go walking in the town
+\ROOT wit Il
+\SEMF motion
+\CAUS yak.wit hacer andar
+\CMTS
+\lex witu
+\_no 00349
+\SPG regresar
+\ENG to return
+ZOH001R0611010.txt
+\EX 7@y yakwituw@ 7@y 7oktze7kk@
+\XSP le volvio* la cosa que le dio* prestado
+\XEN she sent it back, she borrowed it
+\EX wituwa*m
+\XSP ya regreso*
+\XEN he's come back
+\ROOT witu Il
+\SEMF motion
+\CAUS yak.witu regresar; devolver; dar vuelta (carreta, buey)
+\CMTS
+\lex wi7t
+\_no 00350
+\SPG torcerse; torcer mecate
+\ENG to be twisted; to twist rope
+\EX
+\XSP
+\XEN
+\ROOT wilt T2
+\SEMF motion, create
+Page 78

@@ -1,0 +1,65 @@
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex jukut (@)=jipx.@7
+\_no 00908
+\LG MIG
+\PSH [jukuutjipx@7]
+\UND jukut@=jipx.A7
+\MB lumbre, quemarse, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG fiebre
+\ENG fever
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jipx
+\RTGR 12
+\DSRC HAJ94
+\CMTS CK-PH
+ok; check again. ok
+has [u:]: TK
+\date 24/Jun/96
+\lex ju7k
+\_no 00909
+\LG MIG
+\PSH
+\UND ju7k
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tragar
+\ENG to swallow up, to gulp
+\SPL ju7k. 7oy
+\SLGR ANTIP
+\SLGL tragar // to swallow
+\SPL ju7k.7@m
+\SLGR PASS
+ZOH004R0011001.txt
+\SLGL tragarse // to be swallowed up
+\EXU 1 jama 7@y+ ju7k-xuk-pa
+\XPSH 1 [jamay ju7kxukpa]
+\XSP 1 eclipse del sol
+\XEN 1 eclipse of the sun
+\EXU 2xepe' 7@y+ ju7k-xuk-pa
+\XPSH 2 [xepe y ju7kxukpa]
+\XSP 2 eclipse de la luna
+\XEN 2 eclipse of the moon
+\EXU 3 ju7k.7@m-w@ bi 7an.e
+\XPSH 3 [Ju7kk@mm@ bi 7ane.]
+\XSP 3 Se trago* la tortilla.
+\XEN 3 The tortilla was gulped down.
+HAJ:96, it does have a final 7; it also
+Page 396

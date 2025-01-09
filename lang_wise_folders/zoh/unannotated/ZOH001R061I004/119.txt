@@ -1,0 +1,63 @@
+\ETL
+\ROOT tem
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex tet.e7
+\_no 00296
+\LG MIG
+\PHO [tete7]
+\UND tet. E7
+\MB rajarse, NOM7
+\VAR
+\GRAM pcp
+\SPG rajado
+\ENG split
+\EXU tet.e7+k 7ok-mantza7
+\XPSH [tete7k 7okmantza7]
+\XSP talo*n rajado
+\XEN split claw
+\SYN
+\ROOT tet
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tin-wo.e'.wo.e7
+\_no 00297
+\LG MIG
+\PSH [tinwoewoe7]
+\UND tin-woy.E7.woy.E7
+\MB cagar, enrollar, NOM7, enrollar, NOM7
+\VAR tinwoywoye7
+\GRAM
+\SCI
+\USE
+\SPG ruedacaca; ronro*n
+\ENG a type of beetle
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+LF:bugs
+\ROOT
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex toko.e7
+\_no 00298
+\LG MIG
+\PHO [tokoe7]
+\UND tokoy. E7
+\MB perderse, NOM7
+\VAR
+\GRAM pcp
+\SPG perdido
+\ENG lost
+\EX
+ZOH001R0611004.txt
+Page 119

@@ -1,0 +1,63 @@
+\lex konhfes(a)=tz@k
+\_no 01410
+\LG MIG
+\PSH [konhfesatz@k-]
+\UND konhfes (a)=tz@k
+\MB confesar, HACER
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG confesar
+ENG to confess
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN yak.konhfes (a)=tz@k
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC TK96
+\CMTS
+\lex konhki7
+\_no 01411
+\LG MIG
+\PSH
+\UND konhki7
+\MB
+\VAR
+\GRAM med
+\SCI
+\USE
+\SPG racimo o gajo de pla*tano o de uvas
+ENG bunch of bananas or grapes
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS analysis?
+\date 14/Jun/95
+\lex konh.naanh
+\_no 01412
+\LG MIG
+\PHO [konhna*nh]
+\UND konh.naanh
+\MB gatear, MED
+\VAR
+ZOH004R0011001.txt
+\GRAM meas
+\SPG una agachada
+\ENG a crawl
+\EXU 1 tum konh.naanh+g@xi 7@n+ tzi'-w@ ya.' surko
+\XPSH 1 [Tum konhna*nhg@xi 7an tziwa ya surko.]
+\XSP 1 En una agachada di* este surco.
+Page 614

@@ -1,0 +1,62 @@
+\ENG to challenge; to provoke a fight; to hit
+\SEMF cognitive
+\ASP achievement
+\ARG
+\NOM
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tzem (2)
+\_no 00320
+\SPG orinar
+\ENG to urinate
+\SEMF body
+\ASP activity
+\ARG
+\NOM
+\RTGR IX
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tzenh
+\_no 00321
+\SPG estar de lado
+\ENG to be on one side
+\SEMF position
+\ASP state
+\ARG
+\NOM
+\RTGR P (IX)
+\POS N
+\MID
+\UNDO N
+\CLZ
+\CMTS
+naanh, * kuy7
+\lex tzetz
+\_no 00322
+\SPG labrar
+\ENG to work (stone, wood, etc.)
+\SEMF build
+\ASP activity
+\ARG
+\NOM tzetz.e7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tze'
+\_no 00323
+\SPG lavar
+ZOH001R0611002.txt
+\ENG to wash
+\SEMF clean
+\ASP activity
+Page 79

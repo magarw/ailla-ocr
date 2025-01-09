@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT way
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+\lex wa.e-jey
+\_no 00363
+\LG MIG
+\PSH [waejey-]
+\UND way.E=jey
+\MB moler, NOM7, batir
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG deshacer masa en agua
+\ENG to dissolve cornmeal in water
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jey
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 21/Oct/94
+\lex wa.e-j@x.k@7t
+\_no 00364
+\LG MIG
+\PSH [waej@xk@7t-]
+\UND way. E-j@x.k@7t
+\MB moler, NOM7, ATRAS, moler
+\VAR way=j@x.k@7t
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG sacar masa remolido; repasar masa
+\ENG to get reground cornmeal; to regrind cornmeal
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT k@7t
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+ZOH001R0611004.txt
+\lex wakxinh'+p@7
+\_no 00365
+\LG MIG
+\PSH [wakxinhp@7]
+\UND wakxinh' +p@7
+Page 145

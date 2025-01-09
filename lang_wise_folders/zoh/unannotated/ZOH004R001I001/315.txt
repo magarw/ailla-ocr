@@ -1,0 +1,63 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 18/Jun/96
+\lex jemji7
+\_no 00732
+\LG MIG
+\PSH
+\UND jemji7
+\MB
+\VAR
+\GRAM quant
+\SCI
+\USE
+\SPG todo
+\ENG all
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS ?analysis
+\date 06/Feb/96
+\lex jen
+\_no 00733
+\LG MIG
+\PSH
+\UND jen
+\MB
+\VAR
+\GRAM vt
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG rascar (con la mano o un herramiento)
+\ENG to scrape (with the hand or a tool)
+\EXU 1 7@y+ jen-w@ nax
+\XPSH 1 [7@y jenn@ nax.]
+\XSP 1 Rasco* la tierra.
+\XEN He scraped the dirt.
+\EXU 2 7@y+ jen-w@ tzanh.kuy'+j@nanh
+\XPSH 2 [7@y jenn@ tzanhkuyj@nanh.]
+\XSP 2 Lo rasco* con la mano.
+\XEN 2 She scraped it with her hand.
+\EXU 3 j@x.jen.7@m-w@ bi nax
+\XPSH 3 [J@xjenn@mm@ bi nax.]
+\XSP 3 Se saco* rascando la tierra.
+\XEN 3 The dirt was scraped out.
+\EXU 4 jen.ney-w@ bi nax
+\XPSH 4 [Jenneyy@ bi nax.]
+\XSP 4 Esta* rascado la tierra (cuando escarba y cae la tierra).
+\XEN 4 The dirt is scraped down (when you're digging and the dirt falls
+down).
+Page 315

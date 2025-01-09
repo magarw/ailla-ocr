@@ -1,0 +1,64 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kej
+\RTGR 12
+\DSRC HAJ94
+\CMTS gloss was ponerse colorado, but cf tzapatz tuk
+\date 19/Jun/96
+\lex n@pin'-ketz
+\_no 02458
+\LG MIG
+\PSH [n@pinketz-]
+\UND n@pin7=ketz
+\MB sangre, regar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG chorrear/regar sangre
+\ENG "I flow with (respect to) blood"
+\EXU d@+ n@pin'-ketz-wa
+\XPSH [D@ n@pinketztz@.]
+\XSP Regue* mi sangre.
+\XEN My blood flowed.
+\SYN
+\SEMF
+ETYM
+\ETL
+\ROOT ketz
+\RTGR T1
+\DSRC HAJ94
+\CMTS 1 subj OK
+\date 25/Jun/96
+\lex n@toki
+\_no 02459
+LG MIG
+\PSH
+\UND n@toki
+\MB
+\VAR
+\GRAM S
+\SPG guela, un tipo de iguana verde, de cola ancha
+\ENG gulea, a type of green iguana with a wide tail
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ROOT
+\DSRC HAJ95
+\CMTS otro tipo de iguana
+\date 26/Jun/96
+ZOH004R0011001.txt
+— — —
+\lex n@tz
+\_no 02460
+\LG MIG
+\PSH
+\UND n@tz
+\MB
+\VAR
+LF:4 pies
+Page 1060

@@ -1,0 +1,64 @@
+\MB chitogui*, 3Erg, nido
+\VAR
+\GRAM sps
+\SCI
+\USE
+\SPG nido de chitogui*
+\ENG nest of a type of bird
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+ΧΕΝ
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS CK-all - ok HAJ:96/Cked: TK
+\date 24/Jun/96
+\lex cho7k
+\_no 00597
+\LG MIG
+\PSH
+\UND cho7k
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG sonar "haciendo pendejadas"
+\ENG to make a slurping sound fucking
+\EXU cho7k-pa 7@y+ chona
+\XPSH [Cho7kpay chona.]
+\XSP
+\XEN
+\SYN
+\SEMF sex
+\ASP activity
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT cho7k
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex desbel(a)=tz@k
+\_no 00598
+\LG MIG
+\PSH [desbelatz@k-]
+\UND desbela=tz@k
+\MB desvelar, hacer
+\VAR desbeel=tz@k
+\GRAM vi
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG desvelarse
+\ENG to stay awake
+Page 256

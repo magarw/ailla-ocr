@@ -1,0 +1,61 @@
+\ARG
+\NOM naanh, * kuy7
+\RTGR 12
+\POS da yaktaxjayy@n xuyu
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex tem
+\_no 00275
+\SPG relampaguear
+\ENG to lightning
+\SEMF nature
+\ASP semelfactive
+\ARG
+\NOM tem.a7
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex ten
+\_no 00276
+\SPG 1 pararse; pararse la gente
+\ENG 1 to stand up; for people to stand
+\SEMF position
+\ASP achievement, state
+\ARG
+\NOM * naanh, kuy7 (puede ser los pies)
+\RTGR I1
+\POS N
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex tepx
+\_no 00277
+\SPG tirar pedo aguado - mujer
+\ENG for a woman to cut a watery fart
+\SEMF body
+\ASP semelfactive
+\ARG
+\NOM
+\RTGR IX
+\POS
+\MID
+\UNDO
+ZOH001R0611002.txt
+\CLZ
+\CMTS
+\lex tet
+\_no 00278
+\SPG rajarse; estar rajado
+\ENG to split; to be split
+\SEMF break
+\ASP achievement
+\ARG
+\NOM tet.e7
+\RTGR IX
+Page 68

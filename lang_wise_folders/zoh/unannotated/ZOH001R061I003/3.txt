@@ -1,0 +1,63 @@
+\lex 7utz.kuy7
+\_no 00006
+\LG MIG
+\PSH [7utzkuy7]
+\UND 7utz.kuy7
+\MB medir, INSTR1
+\VAR
+GRAM instrl
+\SCI
+\USE
+\SPG medida
+\ENG measure
+\EXU 1 7utz.kuy' tan.nenh
+\XPSH 1 [7utzkuy tannenh.]
+\XSP 1 medida completa
+\XEN 1 complete measure
+\EXU 2 7@y+ mok 7utz.kuy7
+\XPSH 2 [7@y mok 7utzkuy7]
+\XSP 2 el traste con que miden mai*z
+ENG 2 dish for measuring corn
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7utz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 09/Jan/96
+\lex 7uy.naanh
+\_no 00007
+\LG MIG
+\PHO [7uyna*nh]
+\UND 7uy.naanh
+\MB doblar, MED
+\VAR
+\GRAM meas
+\SPG una doblada de una mata (para cultivar)
+\ENG a bent-over branch of a shrub (for cultivating)
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT 7uy
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+ZOH001R0611003.txt
+\lex jatikx.naanh
+\_no 00008
+\LG MIG
+\PHO [jatikxna*nh]
+\UND jatikx.naanh
+\MB estornudar, MED
+\VAR
+\GRAM meas
+\SPG destornudar una vez
+\ENG sneeze once
+\EX
+\XSP
+\XEN
+Page 3

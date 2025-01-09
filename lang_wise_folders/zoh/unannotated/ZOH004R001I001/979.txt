@@ -1,0 +1,62 @@
+\ROOT jakx
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 27/Jan/96
+\lex nik.ja7p. '@y
+\_no 02272
+\LG MIG
+\PSH [nikja7pp@y-]
+\UND nik. ja7p.7@y
+\MB SUP, moler, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG dar a alguien lo que esta* moliendo
+\ENG to give someone some of what you're grinding
+\SPL
+\SLGR
+\EXU 7@y+ nik.ja7p. '@y-w@ ney 7i-wa
+\XPSH [7@y nikja7pp@yy@ ney 7iw@.]
+\XSP Le dio* de lo que estaba sacando moliendo a alguien.
+\XEN She gave a little of what she was grinding to someone.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ja7p
+\RTGR T3
+\DSRC HAJ95
+\CMTS the corn comes out the back of the metate while you're grinding it,
+\CMTS and someone is standing there with a bowl to catch the ground corn.
+\date 27/Jan/96
+\lex nik.jatikx. '@y
+\_no 02273
+\LG MIG
+\PSH [nikjatikx@y-]
+\UND nik.jatikx.7@y
+\MB SUP, estornudar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG estornudar encima de alguien
+\ENG to sneeze all over someone
+\SPL
+\SLGR
+\EXU
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT jatikx
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 27/Jan/96
+\lex nik.jax. '@y
+Page 979

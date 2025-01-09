@@ -1,0 +1,62 @@
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex pojo7k
+\_no 02693
+\LG MIG
+\PSH
+\UND pojo7k
+\MB huevo
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG 1 huevo
+\SPG 2 huevo de gente/hombre
+\ENG 1 egg
+\ENG 2 ballock
+\EXU
+\XSP
+\XEN
+\SYN [2] puj
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94; TK94
+\CMTS
+\date 28/Jan/96
+\lex pojo7k 7@y+ klara
+\_no 02694
+\LG MIG
+\PSH [pojo7k 7@y klara]
+\UND pojo7k 7@y+ klara
+\MB huevo, 3Erg, clara
+\VAR
+\GRAM sps
+\SCI
+\USE
+\SPG clara del huevo
+\ENG egg white
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM clara
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH - HAJ:96, sounds ok/TK deleted final /7/
+\date 25/Jun/96
+\lex pojo7k 7@y+ tzokoy7
+\_no 02695
+\LG MIG
+\PSH [pojo7k 7@y tzokoy7]
+\UND pojo7k 7@y+ tzokoy7
+\MB huevo, 3Erg, corazo*n
+\VAR
+ZOH004R0011001.txt
+\GRAM sps
+\SCI
+Page 1159

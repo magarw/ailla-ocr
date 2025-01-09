@@ -1,0 +1,33 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+3.3.9. Syllable deletion
+The final vowel of short words is optionally deleted in compounds or
+incorporation constructions. This happens most often with adjectives, which
+tend to have the shape CVCV(?). (A final glottal stop is deleted by the normal
+process.) In these cases, the initial vowel retains the length of a vowel in a
+stressed, open syllable, even though one might expect the word to be re-
+syllabified, taking the onset of the deleted syllable for the coda of the
+remaining one, and thus shortening the vowel to the normal closed-syllable
+length.
+I will mark these long vowels in the example data with a following ':' to
+make it easier to read the transcriptions as they are pronounced, and as a
+reminder that a syllable has been omitted. The same convention applies to
+entries and example sentences in the lexicon. This lengthening is not,
+however, in any way contrastive, and there are no prefixes or verb roots that
+might be confused with these shortened adjectives.
+(3.15)
+(i)
+(ii)
+dø wo:jpitzømjayyø
+də+ wəhə-picəm.hay-wǝ
+1 A+ good-leave.APPL-COM
+'Things turned out well for me."
+'øy ne:ntzøkkøy win
+?əy+ nena?=cək-wǝ +?ǝy win
+3E+ bad do-COM +3E REFL
+'She took her clothes off.'
+(lexicon)
+42
+(lexicon)
+3.3.10. Glide deletion
+There are no underlying sequences of vowels in MIG Zoque (nor in any of
+the Mixe-Zoquean languages generally.) However, under certain circumstances

@@ -1,0 +1,63 @@
+\lex petz
+\_no 02611
+\LG MIG
+\PSH
+\UND petz
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG varilla de madera
+\ENG thin wooden bar or rod
+\EXU t@nh.kuy' petz
+\XPSH [t@nhkuy petz]
+\XSP varilla de fierro
+\XEN iron rod
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex petzko7
+\_no 02612
+\LG MIG
+\PSH
+\UND petzko7
+\MB
+\VAR petzko7 7ay7
+\GRAM S
+\SCI
+\USE
+\SPG verdolaga
+\ENG purslane
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+ETYM
+LF: poj
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/96
+\lex petz=t@k
+\_no 02613
+ZOH004R0011001.txt
+\LG MIG
+\PSH [petzt@k]
+\UND petz=t@k
+\MB varilla, casa
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG casa de varilla
+\ENG a house built of wooden poles
+\EXU
+Page 1124

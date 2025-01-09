@@ -1,0 +1,64 @@
+\SUB
+\ROOT pe7tz
+\RTGR P, (T3)
+\SPL pe7tz.ney
+\SLGR ASSUM1
+\SLGL estar_recogido los pies // for the legs to be crossed
+\SPL pe7tz.7oy
+\SLGR ANTIP
+\SLGL recoger los pies // to cross the legs
+\SPL pe7tz.7@m
+\SLGR PASS
+\SLGL recogerse los pies // for the legs to be crossed
+\SPL pe7tz.ten
+\SLGR PRSV
+\SLGL tener recogido los pies // to have the legs crossed
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex pex.ney
+\_no 02616
+\LG MIG
+\PSH [pexney-]
+\UND pex.ney
+\MB
+\VAR
+\GRAM assum1
+\SCI
+\USE
+\SPG sentarse en el suelo como criatura
+\ENG to sit cross-legged on the floor, like a baby
+\EXU pex.ney-w@ nax+jo7
+\XPSH [Pexneyy@ naxjo7.]
+\XSP Se sento* en el suelo.
+ZOH004R0011001.txt
+\XEN He sat cross-legged on the floor.
+\SYN pe7tz.ney
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS get deriv's
+\date 18/Jun/96
+рех р
+\XSP
+\XEN
+\lex pey.ney
+\_no 02617
+\LG MIG
+\PSH [peyney-]
+\UND pey.ney
+\MB X, ASSUM1
+\VAR
+\GRAM assum1
+\SPG estar tendido en el suelo el bejuco
+\ENG for a vine or rope to be lying stretched out on the ground
+\EXU
+\SYN
+\ROOT * pey
+\DSRC HAJ95
+\CMTS NEW ROOT
+\CMTS couldn't get any other forms. it refers to vines, ropes, extension
+\CMTS cords...
+Page 1126

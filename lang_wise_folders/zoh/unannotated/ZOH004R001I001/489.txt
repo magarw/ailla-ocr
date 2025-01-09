@@ -1,0 +1,64 @@
+\SPG flor amarilla
+\ENG a type of plant
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS CK-PH/OK: TK
+\date 26/Jun/96
+\lex j@ytij@7
+\_no 01118
+\LG MIG
+\PHO [j@ytij@7]
+\UND jay@7-tij.x
+\MB flor, ir_regresar, X
+\VAR
+\GRAM S
+\SPG Juchita*n
+\ENG Juchita*n
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex j@y-yuk.konh
+\_no 01119
+\XEN
+\SYN
+LF:7okox
+\LG MIG
+\PSH [j@yyukkonh-]
+\UND jay-yuk.konh
+\MB 11orar, ARR, gatear
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG despertar por llorar
+\ENG to wake by crying
+\EXU
+\XSP
+\SEMF
+\ETYM
+\ETL
+\ROOT jay
+\RTGR 11
+\ROOT konh
+\RTGR P (11)
+\DSRC HAJ02
+tzamm@7
+\CMTS
+\DATE 14/Aug/02
+\lex jay@7
+\_no 01120
+\LG MIG
+ZOH004R0011001.txt
+Page 489

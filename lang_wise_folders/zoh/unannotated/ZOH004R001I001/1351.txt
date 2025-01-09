@@ -1,0 +1,62 @@
+\DSRC TK96
+\CMTS
+\lex tuunjuwi weni7
+\_no 03140
+\LG MIG
+\PSH
+\UND tunjui weni7
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG avispa "horcadora"
+\ENG a type of wasp
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH - HAJ:96, now it sounds like -juwi; Cked: TK
+\date 26/Jun/96
+\lex t@ja7k
+\_no 03141
+\LG MIG
+\PSH
+\UND taja7k
+\MB
+\VAR taj@7k
+\GRAM av: temp
+\SCI
+\USE
+\SPG ayer
+\ENG yesterday
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex t@k
+\_no 03142
+\LG MIG
+ZOH004R0011001.txt
+\PSH
+\UND tak
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG casa
+\ENG house
+Page 1351

@@ -1,0 +1,74 @@
+\zoq N@nti yakti.
+\fts No hay nada.
+\fte There wasn't anything.
+\com
+\idx
+\ref ZOH001R005 004
+\_no 00005
+mok;
+\tx pero komo dyos es grande 7@y yaknippokmanhxukk@
+\mb
+pero komo dyos es grande 7ay yak -nip -7ok -manh -xuk-w@ mok
+\sg1 pero como Dios es grande 3E
+\egl but how God is great 3E CAUS-SOW
+\ref ZOH001R005 005
+\_no 00006
+\zoq Pero komo Dyos es grande, 7@y yaknippokmanhxukk@ mok.
+\fts Pero como Dios es grande, empezaron a sembrar el maiz.
+\fte But since God is great, he made them begin to sow corn.
+\com
+\idx
+ZOH001R0051001.txt
+\tx mok 7@y nipxukpa
+\mb mok 7@y nip
+\sg1 mai*z 3E sembrar-3PL-INC DCT3-DEM gente NPL
+\egl corn 3E SOW -3PL-INC DCT3-DEM people NPL
+\ref ZOH001R005 006
+\_no 00007
+CAUS-sembrar-ABAJO-pisar-3PL-COM mai*z
+-DOWN -step -3PL-COM corn
+\zoq Mok 7@y nipxukpa gad@ jented@kkay.
+\fts Maiz sembraron esa gente.
+\fte Those people were sowing corn.
+\com
+\idx
+minpa
+min
+\tx 7i ti
+y tz@kk@mm@;
+\mb 7i ti
+\sg] y
+-pa 7@y tz@k -7@m -w@
+venir-INC 3E hacer-PAS -COM
+\egl and what come -INC 3E do -PASS-COM
+que
+\ref ZOH001R005 007
+\_no 00008
+\tx tum jama g@ jon
+\mb tum jama g@
+\sg1 uno dia
+jon
+gad@ jente d@kka;
+-xuk-pa ka -d@ jente d@kkay
+\zoq 7i ti minpay tz@kk@mm@.
+\fts Que es lo que paso*.
+\fte And that is what came to happen.
+\com
+\idx
+\ref ZOH001R005 008
+\_no 00009
+\tx 7@y wixpa;
+\mb 7@y wix
+-pa
+\sgl 3E arrancar -INC
+n@m 7@y wixx@;
+n@m 7@y wix
+DEM pa*jaro DO 3E arrancar-COM
+\egl one day DEM bird DO 3E pull_up -COM
+-wa
+\zoq Tum jama g@ jon n@mm@ 7@y wixx@.
+\fts Un di*a el zanate lo estaba arrancando.
+\fte One day that bird was pulling up (plants.)
+\com
+\idx
+Page 2

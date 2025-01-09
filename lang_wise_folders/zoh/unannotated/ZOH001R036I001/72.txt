@@ -1,0 +1,81 @@
+ZOH001R0361001.txt
+\sg1 de DCT3-LOC1 como DCT3-NOM1 palo-EN
+pues labrar-IMPV DCT2-DEM
+\egl of DCT3-LOC1 like DCT3-NOM1 tree-INTO well work - IMPV DCT2-DEM
+\tx pake
+\mb pake
+\sg1 palo_colorado
+\egl red_tree
+\zoq De gaji kom ga kuyjo, pwes, tzetza ded@ pake naka.
+\fts De ahi* como es en el monte, pues, raspe la ca*scara del palo colorado.
+\fte Then since it's in the mountains, well, scrape that red tree bark.
+\com
+\idx
+\ref ZOH001R036 334
+\_no 00331
+\tx 7i m
+71
+\mb 7i 7@m tzij
+-naka7tz -ka7tz -w@y -pa 7i
+\sgl y
+tirar_piedra-aplastar-machucar-ITER2-INC y
+\eg1 and 2E throw_rock -flatten -chew
+2E
+tzijnaka7tzka7tzw@ypa
+naka
+naka
+cuero
+skin
+\zoq 7im tzijnaka7tzka7tzw@ypa 7i tum tzima n@7.
+\fts Y lo machucas bien machucado y uno ji*cara de agua.
+\fte And you crush it really well-crushed and one gourd of water.
+\com
+\idx
+\ref ZOH001R036 336
+\_no 00332
+naka
+\tx minnam
+\mb min
+-w@ -7am
+jeyy@ m jeyy@ gad@
+jey -wa 7@m jey -wa ka -da naka
+\sg1 venir-COM-YA batir-COM 2E batir-COM DCT3-DEM cuero
+\egl come -COM-NOW beat -COM 2E beat -COM DCT3-DEM skin
+\ref ZOH001R036 337
+\_no 00333
+\zoq Minnam jeyy@m j@yy@ gad@ naka.
+\fts venga a batir a batir esa ca*scara.
+\fte Now you came you stir you stirred that bark.
+\com
+\idx
+\tx 7i m
+\mb 7i 7@m 7uk
+7ukpa
+tum tzima n@7
+tum tzima7 n@7
+uno ji*cara agua
+-ITER2-INC and one dipper water
+-ра
+\sg] y
+2E tomar-INC
+\eg1 and 2E drink-INC
+\zoq 7im 7ukpa.
+\fts Y lo tomas.
+\fte And you drink it.
+\com
+\idx
+\ref ZOH001R036 338
+\_no 00334
+\tx 7i si m n@kk@ bi7t 7@m p@kn@kka*m
+\mb 7i si 7@m n@k -w@ bi7t 7am p@k
+\sg] y
+si 2E irse-COM SI 2E
+\egl and if 2E go -COM IF 2E get
+manteka
+-n@k -w@ -7am manteka
+agarrar-irse-COM-YA manteka
+-go -COM-NOW lard
+\zoq 7i sim nakka bi7t 7@m_p@kn@kka*m manteka -
+\fts Y si te fuistes y si llevastes manteca
+\fte And if you went back and you've brought some lard
+Page 72

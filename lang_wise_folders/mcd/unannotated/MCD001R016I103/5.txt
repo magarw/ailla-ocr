@@ -1,0 +1,33 @@
+54 //ma uqui huuaquin//
+ma un-qui huu-a-quin
+déjà 1 PERS.N-DIR venir-ACC-OST1
+ils sont déjà venus à moi
+55 uayari iquihuui
+ua-ya-ri i-qui-huu-i
+1PERS.A-COM-ITE AUX.INTR-Ø-venir-PROG
+ils sont à nouveau venus à moi
+56 ////uqui huuainoquian////
+un-qui huu-aino-quian
+1PERS.N-DIR venir-ACT.SIM-OST2
+ils sont venus à moi
+57 ahuun ohui shinahuui
+ahuun ohui shina-huu-i
+3POSS voix penser-venir-PROG
+ils viennent en pensant leurs paroles
+58 shinahuodi ariquin
+shina-huo-di a-ri-quin
+penser-aller-PASL AUX.TR-ITE-OST1
+ils partent penser à nouveau
+59 ari nai badia
+ari nai badi-a
+LOC ciel << se regrouper »-ACC
+ils sont rassemblés dans le ciel lointain
+60 badiamucoinfo
+badi-a-mu-coin-fo
+<< se regrouper »>-ACC-EXIST1-APP-PL
+ils se sont rassemblés entre eux
+61 ///ifofoquian///
+ifo-fo-quian
+maître-PL-OST2
+ces maîtres-là
+45

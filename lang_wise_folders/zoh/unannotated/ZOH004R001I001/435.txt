@@ -1,0 +1,63 @@
+\GRAM s(m)s
+\SCI
+\USE
+\SPG fanega de sembradura; fanega de siembra
+\ENG a Spanish bushel of seed corn
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nip
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 06/Feb/96
+\lex ja7
+\_no 00992
+\LG MIG
+\PSH
+\UND ja7
+\MB
+\VAR
+\GRAM part
+\SCI
+\USE
+\SPG si*
+\ENG yes
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN jey
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 18/Jun/96
+\lex ja.b@@7
+\_no 00993
+\LG MIG
+\PSH [j@b@7]
+\UND ja.b@@7
+\MB si, DUBIT
+\VAR
+\GRAM part
+\SCI
+\USE
+\SPG si, no?
+\ENG isn't it?
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+Page 435

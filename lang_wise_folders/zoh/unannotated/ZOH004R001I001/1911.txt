@@ -1,0 +1,65 @@
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 12/Feb/96
+\lex {.ki7px}
+\_no 04450
+\LG MIG
+\PSH
+\UND ki7px
+\MB PRB
+\VAR
+\GRAM suf
+\SCI
+\USE verbal suffix: probative
+\SPG tratar de VERBO
+\ENG to try to VERB
+\SPL
+\SLGR
+\EXU 7@y+ 7uk.ki7px-w@ si paja7k bi kafe*
+\XPSH [7@y 7ukki7px@ si paja7k bi
+\XSP Lo probo* si
+kafe*.]
+esta* dulce el
+cafe*
+\XEN She tasted the coffee to see if it was sweet.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 03/Jan/80
+\lex {ko-} [2]
+\_no 04451
+\LG MIG
+\PSH
+\UND ko
+\MB_CAB
+\VAR
+\USE nominal prepound
+\GRAM pre
+\SPG cabeza
+\ENG head
+\SPL
+\SLGR
+\EXU ko-popo7
+\XPSH [kopopo7]
+\XSP cabeza de viejo
+\XEN a type of animal
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {ko.} [1]
+\_no 04452
+\LG MIG
+ZOH004R0011001.txt
+\PSH
+\UND ko
+\MB OTRO
+Page 1911

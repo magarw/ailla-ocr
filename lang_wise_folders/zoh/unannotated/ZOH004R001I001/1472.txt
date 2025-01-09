@@ -1,0 +1,63 @@
+\LG MIG
+\PSH
+\UND tzuj
+\MB
+\VAR
+\GRAM vi:absol
+\SCI
+\USE
+\SPG escupir
+\ENG to spit
+\EXU d@ tzuj-w@
+\XPSH [D@ tzujj@.]
+\XSP Escupi*.
+\XEN I spit.
+\SYN
+\SEMF body
+\ASP semelfactive
+\ARG
+\NOM tzuj.i7t
+\SUB nik.tzuj. '@y
+\ETYM
+\ETL
+\ROOT tzuj
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex tzuj.i7t
+\_no 03422
+\LG MIG
+\PSH [tzuji7t]
+\UND tzuj.i7t
+\MB escupir, X
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG saliva
+\ENG saliva
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzuj
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex tzujux
+\_no 03423
+\LG MIG
+\PSH
+\UND tzujux
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+ZOH004R0011001.txt
+Page 1472

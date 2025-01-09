@@ -1,0 +1,63 @@
+\CMTS
+\CMTS La hoja verde, lo raja con cuchillo, despues lo traye entre dos
+\CMTS palitos. Sale lo que es la ca*scara, ya se queda nada mas que el
+\CMTS puro maguey. // You cut the green leaf into sections and jerk
+them between two sticks or metal rods. This strips out the green
+pulp, leaving behind the cleaned maguey fibers.
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex jepx
+\_no 00028
+LG MIG
+\PSH
+\UND jepx
+\MB
+\VAR
+\GRAM vt
+ZOH001R0611006.txt
+\SCI
+\USE
+\SPG agarrar con j*icara o palo
+\ENG to scoop up with a dipper or bucket
+\SPL jepx. 7oy
+\SLGR ANTIP
+\SLGL agarrar con ji*cara // to scoop up
+\SPL jepx.7@m
+\SLGR PASS
+\SLGL agarrase con ji*cara // to be scooped up
+\SPL jepx.ney
+\SLGR ASSUM1
+SLGL estar amontonado (arena o grava); tener embutido la ji*cara
+dentro el agua // to be piled up (sand or gravel); to have the dipper
+positioned in the water, ready to scoop
+\SPL jepx.ten
+\SLGR PRSV
+\SLGL tener la ji*cara en el agua // to have the dipper placed in the water
+\EXU 1 7@y+ jepx-w@ bi n@' tzima' +j@nanh
+\XPSH 1 [7@y jepx@ bi n@ tzimaj@nanh.]
+\XSP 1 Agarro* el agua con ji*cara.
+\XEN 1 she dipped up the water with a dipper.
+\EXU 2 jepx.7@m-wa bi n@' tzima' +pi7t
+\XPSH 2 [Jepx@mm@ bi n@ tzimapi7t.]
+\XSP 2 Se agarro* el agua con ji*cara.
+\XEN 2 The water was scooped up with a dipper.
+\SYN
+\SEMF pick_up
+\ASP activity
+\ARG agent, patient
+\NOM jepx.kuy7, ni.jepx, y@k.jepx
+\SUB 7anh.jepx. '@y, 7ok.jepx. '@y, jo.jepx, j@x-jepx, ko.jepx,
+\SUB nik.jepx. '@y, yuk.jepx
+\ETYM
+\ETL
+\ROOT jepx
+\RTGR P (T3)
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex je7p
+\_no 00029
+\LG MIG
+\PSH
+\UND je7p
+Page 21

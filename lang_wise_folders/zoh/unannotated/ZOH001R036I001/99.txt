@@ -1,0 +1,96 @@
+\_no 00453
+\tx OSM: 7@y p@pa
+\mb OSM 7@y p@7
+-pa
+\sg1 OSM: 3E poner-INC
+\eg1 OSM: 3E put -INC banana
+\ref ZOH001R036 461
+\_no 00454
+\zoq OSM: 7@y p@pa patanux 7ay
+\fts OSM: Le pone hoja de pla*tano,
+\fte OSM: One puts in banana
+\com
+\idx
+\tx si m
+m@jma
+\mb si 7am m@jm@
+\ref ZOH001R036 462
+\_no 00455
+\tx
+\mb
+be_hot
+\zoq sim m@jm@ nutztz@ bilt.
+\fts y si se quemo* bastante.
+\fte if it's very burned.
+\com
+\idx
+7ay
+patanux
+patanux 7ay7
+pla*tano hoja
+leaf
+nutztz@
+nutz
+\sg1 si 2E bastante estar_caliente-COM SI
+\egl if 2E a_lot
+-COM IF
+patanux 7ay porke
+patanux 7ay7 porke
+\sgl pla*tano hoja porque
+\eg1 banana
+ZOH001R0361001.txt
+y p@pa
+bilt y tzajnukpa
+7@y p@7 -pa bi7t 7@y tzaj -nuk
+3E
+poner-INC SI
+3E
+pegar-agarrar-INC
+leaf because clothes 3E
+put -INC IF 3E glue -grab - INC
+\tx tzajnukpa
+tzaj -nuk
+\sg1 pegar-agarrar-INC
+\mb
+\egl glue -grab -INC
+-pa
+-wa
+yote
+yote7
+ropa
+\ref ZOH001R036 465
+\_no 00457
+\zoq Patanux 7ay porke yotey p@pa bi7t_y_tzajnukpa.
+\fts Hoja de pla*tano porque la ropa si lo pone se pega.
+\fte Banana leaf because if he puts cloth it sticks.
+\com
+\idx
+\ref ZOH001R036 464
+\_no 00456
+bweno bi
+\tx GSM: bweno bi patanux 7ay ga
+\mb GSM
+\sg1 GSM: bueno DEF pla*tano hoja DCT3-NOM1 para NEGimpv-3E
+\egl GSM: good DEF banana leaf DCT3-NOM1 for NEGimpv-3E
+patanux 7ay7 ka -7
+para 7uy
+para 7u
+-7@y
+bi7t
+bi7t
+\zoq GSM: Bweno, bi patanux 7ay ga para 7uy tzajnukpa.
+\fts GSM: Bueno, la hoja de platano es para que no se pegue.
+\fte GSM: Ok, the banana leaf that's so it doesn't stick.
+\com
+\idx
+\tx OSM: pa 7uy
+\mb OSM para 7u
+\sg1 OSM: para NEGimpv-3E
+\eg1 OSM: for NEGimpv-3E glue -grab
+tzajnukk@
+-7@y tzaj -nuk
+-w@
+pegar-agarrar-COM
+-COM
+Page 99
+-pa

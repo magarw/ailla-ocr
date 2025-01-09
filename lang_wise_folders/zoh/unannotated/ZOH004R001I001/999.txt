@@ -1,0 +1,63 @@
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT kom
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 27/Jan/96
+\lex ni.kop
+\_no 02319
+\LG MIG
+\PSH [nikop]
+\UND ni.kop.0
+\MB PURP, cachar, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG guante
+\ENG catcher's mitt
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN kop.kuy7
+\SEMF
+\ETYM
+\ETL
+\ROOT kop
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 27/Jan/96
+\lex ni.kopak
+\_no 02320
+\LG MIG
+\PSH [nikopak]
+\UND ni.kopak
+\MB PURP, cabeza
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG 1oma
+\ENG hill
+\EXU kotz@k ni.kopak
+\XSP punta de cerro
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+ZOH004R0011001.txt
+Page 999

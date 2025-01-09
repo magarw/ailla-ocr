@@ -1,0 +1,59 @@
+\CMTS caus yak.tax llenar
+\lex teji
+\_no 00215
+\SPG hay
+ENG there is
+\EX
+\XSP
+\XEN
+\ROOT * tej
+\CMTS
+\lex teke7t
+\_no 00216
+\SPG orin; meados
+\ENG urine
+\EX
+\XSP
+\XEN
+\ROOT * tek
+\CMTS
+\lex tem
+\_no 00217
+\SPG relampaguear
+\ENG to lightning
+\EX
+\XSP
+\XEN
+\ROOT tem 12
+\CMTS no caus
+\lex ten
+\_no 00218
+\SPG pararse; pararse la verga; pararse la gente
+\ENG to be standing; to get an erection; for people to stand
+\EX tenn@ y kan
+\XSP se le paro* la verga
+\XEN he got an erection
+\ROOT ten Il
+\CMTS caus yak.ten parar; hacer pararse
+\CMTS caus2 yak+ ten parar
+\lex tenp@j@y
+\_no 00219
+ZOH001R0611011.txt
+\SPG empinarse; (was reclinarse)
+\ENG to stand on tiptoe
+\EX
+\XSP
+\XEN
+\ROOT ten Il
+\CMTS
+\lex tepx
+\_no 00220
+\SPG tirar pedo aguado - mujer
+\ENG
+\EX
+\XSP
+\XEN
+\ROOT tepx Ix
+\CMTS cf topx; cf xopx
+\CMTS get deriv's
+Page 43

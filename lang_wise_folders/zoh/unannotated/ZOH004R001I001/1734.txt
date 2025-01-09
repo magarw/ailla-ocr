@@ -1,0 +1,62 @@
+\EXU 1 xui+jo7
+\XPSH 1 [xuwijo7]
+\XSP 1 en rede
+\XEN 1 in a net
+\EXU_2_xuwi+jo' te-ji.7a-w@
+\XPSH 2 [Xuwijo teji7aw@.]
+\XSP 2 Esta* dentro de la rede.
+XEN 2 It's in the net.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS cf MAR su7uy; he says it with /w/:TK
+\date 26/Jun/96
+\lex xu'k.17
+\_no 04031
+\LG MIG
+\PHO [xuki7]
+\UND xu7k.E7
+\MB besar, NOM7
+\VAR
+\GRAM pcp
+\SPG alguien que le besaron
+\ENG someone that's been kissed
+\EXU Xu'k.i7+k yom(a) 7une7
+\XPSH [xuki 7k yom7une7]
+\XSP una muchacha que le besaron
+\XEN a girl that's been kissed
+\SYN
+\ROOT xu7k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex xu't.i7
+\_no 04032
+\LG MIG
+\PSH [xuti7]
+\UND xu7t.E7
+\MB hacerse_angosto, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG angosto
+\ENG narrow
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xu7t
+\RTGR 12
+ZOH004R0011001.txt
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+Page 1734

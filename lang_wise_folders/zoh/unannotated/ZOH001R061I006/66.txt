@@ -1,0 +1,64 @@
+\USE
+\SPG molestar
+\ENG to bother
+\SPL moles=tz@k.7@m
+\SLGR PASS
+\SLGL molestarse // to be bothered
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 12/Nov/94
+\lex mon
+\_no 00097
+\LG MIG
+\PSH
+\UND mon
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG envolver
+\ENG to wrap, to roll up in something
+\SPL mon. 7oy
+\SLGR ANTIP
+\SLGL envolver // to wrap
+\SLGR NO PASS
+\SPL mon.ney
+\SLGR ASSUM1
+ZOH001R0611006.txt
+\SLGL estar envuelto // to be wrapped up
+\EXU 1 7@n+ mon-w@ 7an.e 7@n mon.kuy'+j@nanh
+\XPSH 1 [7@n monn@ 7anen monkuyj@nanh.]
+\XSP 1 Envolvio* tortillas con una sirvieta.
+\XEN 1 I wrapped the tortillas in a napkin.
+\EXU 2 7@y+ mon-w@ 7@y+ win bi yomaa7 7anh.xuy' +j@nanh
+\XPSH 2 [7@y monn@y win bi yoma*7 7anhxuyj@nanh.]
+\XSP 2 Se envolvio* la mujer con rebozo.
+\XEN 2 The woman wrapped herself in a shawl.
+\EXU 3 mon. ten-e bi 7an.e
+\XPSH 3 [Montene bi 7ane.]
+\XSP 3 Esta* envuelta la tortilla.
+\XEN 3 The tortilla is wrapped up.
+\SYN
+\SEMF cover
+\ASP accomplishment
+\ARG
+\NOM mon.e, mon.'oy.kuy7, mon.kuy7, y@k.mon
+\SUB 7anh.mon, 7ok.mon. '@y, jax-mon, ko.mon, k@.mon. '@y, mon=pu',
+\SUB ni.mon=tz@k, nik.mon. @y, yuk.mon
+\ETYM
+\ETL
+\ROOT mon
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS G doesn't like mon. ney-, he says mon.ten makes more sense.
+Page 66

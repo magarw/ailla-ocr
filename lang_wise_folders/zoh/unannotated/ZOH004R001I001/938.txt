@@ -1,0 +1,62 @@
+\USE
+\SPG ir a pie
+\ENG to go on foot
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT n@k
+\RTGR IX
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex nax=tok
+\_no 02177
+\LG MIG
+\PSH [naxtok-]
+\UND nax=tok
+\MB tierra, manchar
+\VAR
+\GRAM vt:incorp
+\SCI
+\USE
+\SPG manchar de tierra
+\ENG to spot with dirt
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tok
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 21/Jun/95
+\lex nax=xut. 'oy.kuy7
+\_no 02178
+\LG MIG
+\PHO [naxxuttokuy7]
+\UND nax=xut.7oy.kuy7
+\MB tierra, agujerar, ANTIP, INSTR1
+\VAR
+\GRAM instrl
+\SPG hoyo en la tierra
+ENG hole in the ground
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT xut
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+ZOH004R0011001.txt
+\lex nax. '@y
+\_no 02179
+Page 938

@@ -1,0 +1,62 @@
+ZOH004R0011001.txt
+\CMTS /wak/ is the area between the legs that corresponds (roughly) to the
+armpit the groin? not in my dictionary, either
+\CMTS CK-all
+\date 08/Feb/96
+\lex ni.jax
+\_no 02251
+\LG MIG
+\PSH [nijax-]
+\UND ni.jax.0
+\MB PURP, X, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG algo embrocado sobre otra cosa
+\ENG something that is face-down on something else
+\SPL
+\SLGR
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * jax
+\RTGR P
+\DSRC HAJ95
+\CMTS CK-EX HAJ:96, was hosed, now fixed
+\date 19/Jun/96
+\lex ni.jax.ney
+\_no 02252
+\LG MIG
+\PSH [nijaxney-]
+\UND ni.jax.ney
+\MB PURP, X, ASSUM1
+\VAR
+GRAM assum1
+\SCI
+\USE
+\SPG estar embrocado encima de otra cosa
+ENG to be face down on top of something
+\SPL
+\SLGR
+\EXU ni.jax.ney-w@ pama
+\XPSH [Nijaxneyy@ pama.]
+\XSP Esta* embrocado sobre de la cama.
+\XEN He's face down on the bed.
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * jax
+\RTGR P
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+\lex ni.jay
+\_no 02253
+\LG MIG
+Page 970

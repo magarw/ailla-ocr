@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [k@tuk-]
+\UND k@.tuk
+\MB FUERA, cortar
+\VAR
+\GRAM vt, vi
+\SCI
+\USE
+\SPG peluquearse, rasurar
+\ENG to barber, to shave
+\SPL k@.tuk.7oy
+SLGR ANTIP
+\SLGL rasurar // to shave
+\SPL k@.tuk.7@m
+\SLGR PASS
+\SLGL rasurarse // to be shaven
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tuk
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 21/Jun/95
+\lex k@.tuk.jay
+\_no 01742
+\LG MIG
+\PSH [k@tukjay-]
+\UND k@.tuk.jay
+\MB FUERA, cortar, APPL
+\VAR
+\GRAM indir
+\SCI
+\USE
+\SPG rasurarse
+\ENG to shave someone
+\EXU 1 7@y+ k@.tuk.jay-w@ 7@y+_way7
+\XPSH 1 [7@y k@tukjayy@y way7.]
+\XSP 1 Le rasuro* el pelo.
+\XEN 1 He shaved his hair.
+\EXU 2 7@y+ k@.tuk.jay-wa
+\XPSH 2 [7@y k@tukjayy@.]
+\XSP 2 Se lo rasuro*.
+\XEN 2 He shaved him.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tuk
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex k@.tuk. 'oy-pa+a7k
+\_no 01743
+ZOH004R0011001.txt
+\LG MIG
+\PSH [k@tukkoba*7]
+Page 753

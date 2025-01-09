@@ -1,0 +1,63 @@
+\SPG frijoles refrito en seco
+\ENG beans refried dry
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT 1 xe7t
+\RTGR 1 T1
+\ROOT 2 t@tz
+\RTGR 2 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex x@k xox='an.e7
+\_no 04043
+\LG MIG
+\PSH [x@k xoxxane7]
+\UND x@k xox=7an. E7
+\MB frijol, cocer, calentarse, NOM7
+\VAR
+\GRAM s(m)ss
+\SCI
+\USE
+\SPG tamalito de frijoles
+\ENG bean tamale
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 xox
+\RTGR 1 T3
+\ROOT 2 7an
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS ANALYSIS; OK:TK
+\date 26/Jun/96
+\lex x@k=ko.kit
+\_no 04044
+\LG MIG
+\PSH [x@kkokit-]
+\UND x@k=ko.kit
+\MB frijol, OTRO, quebrar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG quebrar frijol tierno para cocerlo
+\ENG to snap green beans for cooking
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT kit
+\RTGR T3
+\DSRC HAJ94
+Page 1739

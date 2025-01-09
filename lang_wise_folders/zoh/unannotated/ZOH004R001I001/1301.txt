@@ -1,0 +1,63 @@
+\ENG winnowed
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT ton
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tonelada
+\_no 03021
+\LG MIG
+\PSH
+\UND tonelada
+\MB
+\VAR
+\GRAM med
+\SCI
+\USE
+\SPG tonelada
+\ENG ton
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 18/Oct/94
+\lex tonon
+\_no 03022
+\LG MIG
+\PSH
+\UND tonon
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG alborotarse polvo, ahuate, avispa
+\ENG to burst out or swarm, like dust from a bag or wasps from a nest
+\SPL yak.tonon
+\SLGR CAUS
+ZOH004R0011001.txt
+\SLGL alborotar
+\EXU tonon-w@ nax ton.ton7
+\XPSH [Tononhnh@ nax tonton7.]
+\XSP Se alboroto* el polvo de tierra.
+\XEN The dust swirled up.
+\SYN
+\SEMF nature
+\ASP achievement, activity
+\ARG
+\NOM tonon.e7
+\SUB yuk.tonon
+\ETYM
+\ETL
+\ROOT tonon
+Page 1301

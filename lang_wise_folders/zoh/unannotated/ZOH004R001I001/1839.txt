@@ -1,0 +1,63 @@
+\SPG empezar a moler
+\ENG to start to grind
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT k@7t
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex yuk.k@x='ok.manh
+\_no 04281
+\LG MIG
+\PSH [yukk@xxokmanh-]
+\UND yuk.k@x=7ok.manh
+\MB ARR, comer, ABAJO, *pisar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG empezar a comer
+\ENG to start to eat
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT k@x
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex yuk.k@y
+\_no 04282
+\LG MIG
+\PSH [yukk@y-]
+\UND yuk.k@y
+\MB ARR, 1levar_en_mano
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG levantar algo (arriba) en la mano
+\ENG to raise something up with the hand
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+ZOH004R0011001.txt
+\SYN
+\SEMF
+Page 1839

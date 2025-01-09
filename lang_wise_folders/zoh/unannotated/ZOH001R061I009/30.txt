@@ -1,0 +1,61 @@
+\_no 00122
+\SPG pun~alear
+\ENG to stab
+\EX neywin 7@y totztz@
+\XSP se pun~aleo* e*l mismo
+\XEN he stabbed himself
+ROOT totz T3
+\SEMF hit, instr
+\PASS NONE
+\ANTI totz.7oy pun-alear
+\CMTS
+\lex tuk
+\_no 00123
+\SPG cortar
+\ENG to cut
+\EX tukk@mm@ 7@n k@ak 7@y naka
+\XSP se revento* la correa de mi huarache
+\XEN the strap of my huarache broke
+\EX 7@n tukk@ bi 7anaxa 7@n_tzanhkuypi7t
+\XSP corte* la naranja con la mano
+\XEN I picked the orange with my hand
+\ROOT tuk T3
+SEMF cut
+\PASS tuk.7@m reventar; reventarse y caerse
+\ANTI tuk.7oy
+\PRSV tuk.ten lo tiene cortado (como fruta)
+\CMTS
+\lex tun
+\_no 00124
+\SPG devisar alguien
+\ENG to peek at someone
+\EX 7@y numtunn@
+\XSP 1o deviso* escondido
+\XEN she spied on someone from hiding
+\ROOT tun T3
+\SEMF percep
+\PASS tun.7@m ver (??)
+\ANTI tun.7oy devisar
+\CMTS
+\lex tu7p
+\_no 00125
+ZOH001R0611009.txt
+\SPG desmoronar; hacer pedazosn; despedazar
+\ENG to crumble; to make pieces;
+\EX
+\XSP
+\XEN
+\ROOT tu7p T3
+\SEMF break
+\PASS tu7p.7@m
+\ANTI tu7p.7oy
+\CMTS
+\lex tux
+\_no 00126
+\SPG picar (una vi*bora); pellizcar; piquete de vi*bora, o gallina
+\ENG to bite (a snake); to pinch; a bite of a snake or chicken
+\EX yaktuxxoyy@ tzajin
+\XSP le pico* la vi*bora
+\XEN the snake bit someone
+\ROOT tux T3
+Page 30

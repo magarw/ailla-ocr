@@ -1,0 +1,22 @@
+xiv
+e.g., (p'at) melelok '(to go) rolling', ('el) melmonok '(to go down) rolling', from vpo root mel-.
+conj
+There are a few native conjunctions; the majority are drawn from Spanish.
+dem
+The demonstrative root ha' is also the pronoun base for ha'on 'I', ha'ach 'you',
+etc. Two common frames for noun phrases are ha' N tik 'this N' and ha' N chi' 'that N', e.g., ha
+winh tik 'this man', ha winh chi' 'that man'.
+exclamExclamations include greetings, calls (to animals and people) and exclamations of
+surprise, agreement, etc. Baby talk, words and phrases used by or to infants, is also marked as
+exclam. Noun phrases of the CVC-u Bodypart shape (insults) could be considered exclamations.
+A small class of roots appear to result from onomatopoeia. This class borders on
+paralanguage, and includes imitations of sounds from inanimate sources and animal noises.
+A Cautionary Note
+onom
+Lexical entries are marked with a grammatical classification based on my dissertation
+(Hopkins 1967). The the reader is advised that not all of them will be accurate. In many cases I
+did not elicit enough information to distinguish between overlapping categories, as discussed
+above under vin phrase and stv phrase. Where the data are sufficient to distinguish between the
+possibilities, these are marked as stv phrase or vin phrase. Where data are not sufficient, I have
+entered my best guess. Forms that were tested and found ungrammatical are marked with
+asterisk, e.g., *yachana'.

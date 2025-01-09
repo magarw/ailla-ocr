@@ -1,0 +1,63 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ROOT ka7
+\RTGR 12
+\DSRC HAJ94
+\CMTS get inflected forms
+\date 26/Jun/96
+\lex yak.ka'. 'oy
+\_no 04082
+\LG MIG
+\PSH [yakkoy-]
+\UND yak.ka7.7oy
+\MB CAUS, morirse, ANTIP
+\VAR
+\GRAM antip:caus1
+\SCI
+\USE
+\SPG matar
+\ENG to kill
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ka7
+\RTGR 12
+\DSRC TK96
+\CMTS
+\lex yakki' ya jej-w@+'am
+\_no 04083
+\LG MIG
+\PSH [yakki_ya jejja*m]
+\UND yak-717 ya jej-wa+'am
+\MB nadie, NEG, vivir, COM, YA
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG nadie ya no vive; despoblado
+\ENG now nobody lives there; uninhabited
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jej
+\RTGR 12
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS ANALYZE & FIX HAJ:96 ok; FIXED/TK
+\date 26/Jun/96
+-
+\lex yak.kon(o). kuj. '@y
+\_no 04084
+Page 1755

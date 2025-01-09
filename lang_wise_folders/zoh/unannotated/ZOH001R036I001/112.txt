@@ -1,0 +1,76 @@
+\idx
+\ref ZOH001R036 522
+\_no 00513
+\tx kon ded@ pajakjo
+ban
+teji
+\mb kon te
+-d@
+pajak-jo7 bayun teji
+\sg1 con DCT2-DEM ri*o -LOC2 mucho hay
+\eg1 with DCT2-DEM river-LOC2 a_lot there is of vine
+\zoq kon ded@ pajakjo ban teji de poj
+\fts alla* en el rio hay mucho bejuco
+\fte with that river there's a lot of vines
+\com
+\idx
+\ref ZOH001R036 523
+\_no 00514
+\tx pa wit@m go7
+\mb para wit@m go7
+\sg1 para ojo
+\egl for eye
+BNF
+BNF
+\zoq pa wit@m go7.
+\fts para el ojo.
+\fte for the eye.
+\com
+\idx
+\ref ZOH001R036 524
+\_no 00515
+\tx GSM: ti poj
+\mb GSM ti
+\sg1 GSM: que
+\egl GSM: what vine
+mo 7
+mo7
+poj
+bejuco IRR2
+IRR2
+\zoq GSM: Ti poj mo7?
+\fts GSM: Que bejuco sera*?
+\fte GSM: what vine might that be?
+\com
+\idx
+\ref ZOH001R036 525
+\_no 00516
+\tx OSM: de
+\mb OSM
+te -7
+7uba poj
+7uba poj
+\sg1 OSM: DCT2-NOM1 uva
+bejuco
+\egl OSM: DCT2-NOM1 grape vine
+ZOH001R0361001.txt
+\zoq OSM: De 7uba poj.
+\fts OSM: El bejuco de uvas.
+\fte OSM: That grape vine.
+\com
+\idx
+\ref ZOH001R036 526
+\_no 00517
+\tx
+GSM: 7a 7uba poj
+\mb
+GSM 7ay 7uba poj
+bejuco
+\sg1 GSM: ah uva
+\eg1 GSM: ah grape vine
+\zoq GSM: 7a, 7uba poj.
+\fts GSM: Ah, bejuco de uvas.
+de poj
+de poj
+de bejuco
+Page 112

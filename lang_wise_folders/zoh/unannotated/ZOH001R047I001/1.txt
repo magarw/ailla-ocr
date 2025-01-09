@@ -1,0 +1,86 @@
+\id C:\TEXTS\ZOH001R047.TXT
+\ref ZOH001R047 000
+\_no 00001
+\zoq Un suen~o
+\fts Un suen~o
+\fte A dream
+\com narrado por Filogonia Marti*nez Hernandez
+\com 12/4/95, en San Miguel Chimalapa, Oaxaca, Mexico
+\com grabado por GSM, transcrito por Heidi Anna Johnson,
+\com traducido al espan~ol por GSM,
+\com analisado y traducido al ingles por HAJ.
+\com
+\com
+\com 7
+\com narrated by Filogonia Marti*nez Herna*ndez
+\com 4/12/95, in San Miguel Chimalapa, Oaxaca, Mexico
+\com recorded by GSM, transcribed by Heidi Anna Johnson,
+\com translated into Spanish by GSM,
+\com analyzed and translated into English by HAJ.
+Ortografi*a
+Orthography
+\com @
+\com nh
+\com tz
+\com x
+\com j
+\com *
+\mb bweno
+\sg1 bueno
+\egl good
+pau*sula glotal
+vocal medio central
+nasal velar
+\ref ZOH001R047 001
+\_no 00002
+\tx bweno.
+\zoq Bweno.
+\fts Bueno.
+\fte OK.
+\com
+\idx
+(ng)
+africativo alveolar (ts)
+fricativo palatal (sh)
+glottal fricative (h)
+estre*s
+\ref ZOH001R047 002
+\_no 00003
+28/Oct/04
+\tx pwes d@x wen d@ m@n
+\mb pwes d@x wenu d@ m@n
+\sgl pues 1Prn mucho 1A camote
+\egl well 1pPrn a lot 1A yam
+ZOH001R0471001.txt
+\ref ZOH001R047 003
+\_no 00004
+wen
+d@ m@n
+\tx
+\mb wenu d@ m@n
+\sg1 mucho 1A camote
+\egl a lot 1A yam
+tajja.
+taj
+dig
+\zoq Pwes, d@x wenu da m@ntajja.
+\fts Pues, yo arranque* mucho camote.
+\fte well, I pulled up a lot of yams.
+\com
+\idx
+tajja.
+taj
+-w@
+escarbar-COM
+dig
+escarbar-COM
+-COM
+glottal stop
+mid central vowel
+velar nasal
+alveolar affricate
+palatal fricative
+stress
+-wa
+-COM
+Page 1

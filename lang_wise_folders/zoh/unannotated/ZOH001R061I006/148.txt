@@ -1,0 +1,63 @@
+\ROOT xe7t
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex xi7kx (2)
+\_no 00219
+\LG MIG
+\PSH
+\UND xi7kx
+\MB
+\VAR
+\GRAM vt
+\SPG regar unas gotitas de agua con los dedos, se usa la mano como ji*cara
+\ENG to sprinkle little drops of water with the fingers, you use the hand
+like a dipper
+\SLGR NO ANTIP
+\SLGR NO PASS
+\SLGR NO ASSUM1
+\SPL xi7kx.ten
+\SLGR PRSV
+\SLGL esta regando, repitiendolo // to be repeatedly sprinkling water
+from the fingertips
+\EXU 7@y+ xi7kx-w@ bi n@7
+\XPSH [7@y xi7kx@ bi n@7]
+\XSP Rego* el agua.
+\XEN She scattered the water.
+\SYN
+\SEMF water, hand
+\ASP activity
+\ARG
+\NOM xi7kx.naanh
+\SUB nik.xi7kx. '@y
+\ROOT xi7kx
+ZOH001R0611006.txt
+\RTGR TX
+\DSRC HAJ95
+\CMTS sprinkle a little with the fingers, like when you're ironing
+\CMTS ketz- is with the palm full of water, to get it really wet
+\CMTS have to have the Erg, but can't get ANTIP
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex xipx
+\_no 00220
+\LG MIG
+\PSH
+\UND xipx
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG estacar; encajar alguien con cuchillo o estaca
+\ENG to stake; to stab someone with a knife or a stake
+\SPL xipx.7oy
+\SLGR ANTIP
+\SLGL encajar // to stab
+\SPL xipx.7@m
+\SLGR PASS
+\SLGL encajarse // to be stabbed
+\SPL xipx.ten
+\SLGR PRSV
+Page 148

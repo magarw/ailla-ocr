@@ -1,0 +1,62 @@
+\DATE 03/Jan/1980
+\lex wat-pak
+\_no 03579
+\LG MIG
+\PSH [watpak-]
+\UND wat-pak
+\MB amarrar, apretarse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG apretar amarra*ndolo; amarrar bien
+\ENG to tighten by typing; to tie securely
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 wat
+\RTGR 1 P (T3)
+\ROOT 2 pak
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+\lex wat-pak 7@y+win
+\_no 03580
+\LG MIG
+\PSH [watpak- y win]
+\UND wat=pak 7@y+win
+\MB amarrar, apretar, 3Erg, REFL
+\VAR
+\GRAM vt: refl
+\SCI
+\USE
+\SPG amarrarse bien
+\ENG to be well-tied
+\EXU 7@y+ wat-pak-w@ 7@y+win
+\XPSH [7@y watpakk@y win.]
+\XSP Se amarro* bien.
+XEN She tied herself securely.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 wat
+\RTGR 1 P (T3)
+\ROOT 2 pak
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex wat-pak.e
+\_no 03581
+\LG MIG
+ZOH004R0011001.txt
+\PSH [watpake]
+\UND wat-pak. E
+\MB amarrar, apretarse, NOM7
+Page 1539

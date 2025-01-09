@@ -1,0 +1,61 @@
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tzi7tz
+\_no 00328
+\SPG 1 tener sarna
+\SPG 2 marchitarse; arrugarse
+ENG 1 to have mange
+ENG 2 to wilt; to wrinkle
+\SEMF body, plant
+\ASP state, achievement
+\ARG
+\NOM tzi'tz.i7
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tzix [1]
+\_no 00329
+\SPG picar, como chaya o mala mujer, o una avispa
+\ENG to prick, like a thorn, or to bite, like a wasp
+\SEMF bite
+\ASP semelfactive
+\ARG actor
+\NOM tzix.naanh
+\RTGR T3
+\POS Y lex
+\MID N
+\UNDO
+\CLZ
+\CMTS
+\lex tzix [2]
+\_no 00330
+\SPG tirar pedos
+\ENG to fart
+\SEMF body
+\ASP semelfactive
+\ARG
+\NOM tzix.i
+\RTGR IX
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tzi'
+\_no 00331
+\SPG 1 dar
+\SPG 2 pegar
+\ENG 1 to give
+\ENG 2 to hit
+\SEMF trade
+\ASP achievement
+ZOH001R0611002.txt
+\ARG
+\NOM
+Page 81

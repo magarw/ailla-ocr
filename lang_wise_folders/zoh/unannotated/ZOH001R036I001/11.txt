@@ -1,0 +1,82 @@
+ZOH001R0361001.txt
+\sg1 3E hacer_hoyo-INC 3E irse-dINC DEF IPrn diente
+\egl 3E make_hole -INC 3E go -dINC DEF IPrn teeth
+\zoq 7@y wojpay n@kk@ bi ney t@tz.
+\fts agujerea nuestro diente.
+fte it goes boring a hole in our tooth.
+\com
+\idx
+\ref ZOH001R036 047
+\_no 00048
+\tx gaji*nh
+\mb
+minpa
+7@m 7anhjomuypa
+ka -jiinh min -pa 7@m 7anh -jo -muy
+BOCA - EN
+MOUTH-INTO-dent
+\sg1 DCT3-DIR2
+venir-INC 2E
+\eg1 DCT3-DIR2 come -INC 2E
+\tx ponh
+\mb ponh
+\sg1 vez
+\egl time
+\zoq Gaji*nh minpa 7@m 7anhjomuypa metzanh, tuwanh ponh.
+\fts De ahi* vienes te enjuagas dos tres viajes.
+\fte Then you come soak it two three times.
+\com
+\idx
+\ref ZOH001R036 048
+\_no 00049
+\tx si putzi7@yy@
+m yo7k
+7@m yo7k
+\mb si putz
+-E
+-7@y -w@
+\sg1 si pudrirse-NOM3-VERS2-COM 2E cuello
+\egl if rot -NOM3-VERS2-COM 2E
+neck
+\zoq Si putzi7@yy@m yo7k,
+\fts Si tiene grano tu garganta,
+\fte If your throat has grains,
+\com
+\idx
+\ref ZOH001R036 049
+\_no 00050
+\tx
+7@m totz
+\mb 7@m totz
+\sg1 2E lengua
+\egl 2E tongue
+\zoq 7@m_totz,
+\fts tu lengua,
+\fte your tongue,
+\com
+\idx
+\ref ZOH001R036 050
+\_no 00051
+\tx 7@y yakkapa
+\mb
+7@y yak -ka7
+\sg1 3E
+\egl 3E
+ne7
+-pa ne7
+tambien
+-INC also
+CAUS-morirse-INC
+EN
+CAUS-die
+\zoq 7@y yakkapa ne7.
+\fts lo mata tambien.
+\fte it kills them too.
+-
+-doblar (se) -INC dos
+-INC two
+Page 11
+metzanh tuwanh
+metza*nh tuwa*nh
+tres
+three

@@ -1,0 +1,49 @@
+SKOLANKOMAATTING ON MALA
+Al
+P
+MP
+A
+A
+MP
+PS
+SS
+PS
+SS
+G how-* present-we-seek little-* our-money
+a little of our money
+A
+sif.
+A
+ihm
+how
+CI
+čáxtil sko sáy xáp'ok ko túmín #234
+cax-ti?l_c-ko-say xáp'-ok ko túmin
+we seek
+NP
+Obj.
+G
+E of course we already know
+216
+siempre kóxtakšo čaxtil sko sáy xáp'ok ko t
+siempreh k-?óx-tak-ø šoh čax-ti’l c-ko-sáy xáp'-ok
+NP (continues on next line)
+PP
+SP
+Pre-Adv
+Obj.
+always our-knowledge-be already
+Main
+MP y-?ól ko-k'ó?ol
+PS
+SS
+G
+yól ko k'ó?ó1 #234
+how-* present we-seek little-*
+how we seek a little
+(termination of the NP in the preceding line)
+(part of Obj)
+its-center our-bellies
+the filling of our bellies
+:
+······.......

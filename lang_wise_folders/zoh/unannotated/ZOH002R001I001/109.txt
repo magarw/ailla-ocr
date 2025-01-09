@@ -1,0 +1,51 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(vii) 'entonse bi matumu de tuwang jama 'antes
+?entonses bi matumu
+then
+(4.32)
+(i)
+(ii)
+de tuwan hama ?antes
+DEF mayordomo of three day before
+(v)
+'øy nuktzøyxukpa
+?əy+ nuk=cəy–šuk-pa
+4.9. Intensifiers
+There are three intensifiers in MIG Zoque: wenu (we:n), bayun (ban) and
+hakke (hak). These are frequently shortened to the forms given in parentheses.
+They all mean the same thing - 'very; a lot'. All three intensifiers can modify
+either verbs or adjectives. The corpus shows a preference for hakke with verbs
+and ban with adjectives; wenu is considerably rarer. The examples in (4.32)
+were taken from the lexicon or elicited.
+3E+ grab=get_stuck-3PL-INC
+'Then the mayordomos, three days before, they have sex.'
+ban toppa
+bayun 0 top-p
+very 3A be_hot-INC
+'It's very hot.'
+jakke 'angje'kkø
+hakke 0 ?aŋ.he?k-wǝ
+very 3A be_afraid-COM
+'He was very scared.'
+we:n jayyø
+wenu 0 hay-wə
+very 3A be_late-COM
+'She was very late.'
+(iii) bayun toya'
+bayun 0 toy.A?
+very 3A hurt. NOM2
+'very sick'
+(iv)
+very
+(ZOH001 R022-006)
+(vi)
+84
+jak jununkuy'
+hakke junun.kuy?
+tickle.INSTRI
+'very ticklish'
+wenum wittø
+wenu ?ǝm+ wit-wE
+walk-COM
+very 2A+
+'You walked a lot.'

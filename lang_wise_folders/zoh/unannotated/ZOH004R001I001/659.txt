@@ -1,0 +1,63 @@
+\PSH [kukjama]
+\UND kuk-jama
+\MB centro, di*a
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG de di*a
+\ENG during the day; daytime
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex kuk+jo7
+\_no 01518
+\LG MIG
+\PSH [kukjo7]
+\UND kuk+jo7
+\MB centro, LOC2
+\VAR
+\GRAM av
+\SCI
+\USE
+\SPG en medio; en el centro
+\ENG in the middle; in the center
+\EXU ya kandela_7@y+ p@7.jay-xuk-w@ tum way7=pi7t.kuy7 kuk+jo7
+\XPSH [Y@ kandela 7ay pajaxukk@ tum waypi7tkuy7 kukjo7.]
+\XSP Esta candela le pusieron un listo*n en medio.
+\XEN This candle has a ribbon in the middle.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Feb/96
+\DATE 03/Jan/1980
+\lex kuk+jo' tunh.7aH
+\_no 01519
+ZOH004R0011001.txt
+\LG MIG
+\PSH [kukjo_tunhnha-]
+\UND kuk+jo7 tunh.7aH
+\MB centro, LOC2, camino, VERS1
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG caminar (por) en medio
+\ENG to walk in the middle of the road
+\SPL
+\SLGR
+\EXU
+\XSP
+Page 659

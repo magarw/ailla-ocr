@@ -1,0 +1,66 @@
+\tx 7@y p@kk@
+\mb 7@y p@k
+7@y tunh
+-w@ 7@y tunh
+\sg1 3E agarrar-COM 3E camino
+\egl 3E get
+-COM 3E road
+\zoq 7@y p@kk@ 7@y tunh.
+\fts Agarro* su camino.
+\fte He took his road.
+\ref ZOH001R026 043
+\_no 00036
+\tx winjo*nh 7@y pa7tt@
+bi m@a7
+\mb win -joonh 7@y pa7t
+-wa bi m@a7
+\sg1 CARA-DIR4 3E encontrar-COM DEF venado
+\eg1 FACE-DIR4 3E find
+-COM DEF deer
+\zoq winjo*nh 7@y pa7tt@ bi m@a7.
+\fts Adelante encontro* un venado.
+\fte Up ahead he found a deer.
+\ref ZOH001R026 044
+\_no 00037
+\tx 7@y 7onhtzekk@yy@
+bi
+\mb 7@y 7onh -tze7k-7@y-w@ bi
+\sg1 3E BOCA -pedir-SUF-COM DEF
+\egl 3E MOUTH-ask -SUF-COM DEF
+\zoq 7@y 7onhtzekk@yy@ bi kajanh,
+\fts Le pregunto* el tigrillo,
+\fte The jaguar asked it,
+\ref ZOH001R026 045
+\_no 00038
+ZOH001R0261001.txt
+\tx manhkuyp@7k
+\mb manh -kuy7 -p@7k
+\sgl pisar-INSTR1-REL2
+\egl step -INSTR1-REL2
+bi
+m@a7
+\tx 7@y 7onhtzekk@yy@
+mix bi metzanh
+\mb 7@y 7onh -tze7k-7@y-w@ bi m@a7 mix bi metza*nh
+\sg1 3E BOCA -pedir-SUF-COM DEF venado 2Prn DEF dos
+\egl 3E MOUTH-ask -SUF-COM DEF deer
+2Prn DEF two
+kajanh
+kajanh
+tigre
+jaguar
+\ref ZOH001R026 047
+\_no 00039
+\zoq 7@y 7onhtzekk@yy@ bi m@a7, "Mix bi metzanh manhkuyp@7k?
+\fts le pregunto* al venado, "Tu eres el dos pies?
+\fte he asked the deer, "Are you the two-legged one?
+\tx mix mi n@mjaxukpa
+katzit7o*k
+\mb mix mi
+n@m -jay -xuk-pa katzit7ok
+\sg1_2prn_3>2 decir-APPL-3PL-INC cazador
+\egl 2prn 3>2 say -APPL-3PL-INC hunter
+\zoq Mix min@mjaxukpa katzit7o*k?"
+\fts Tu eres que te dicen el cazador?"
+\fte They call you the hunter?"
+Page 8

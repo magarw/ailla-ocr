@@ -1,0 +1,62 @@
+\CMTS
+\date 28/Jan/96
+\lex win='ix
+\_no 03744
+\LG MIG
+\PSH [winnix-]
+\UND win=7ix
+\MB CARA, ver
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 ver por delante
+\SPG 2 ver por un momento
+\ENG 1 to see ahead
+\ENG 2 to catch a glimpse of
+\EXU 7@y+ win='ix-w@
+\XPSH [7@y winnixx@]
+\XSP Lo vio* por delante.
+\XEN He saw her ahead of him.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7ix
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex win='okx
+\_no 03745
+\LG MIG
+\PSH [winnokx-]
+\UND win=7okx
+\MB CARA, apagarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG medio apagarse
+\ENG to be half put out
+\EXU win=7okx-wa jama
+\XPSH [win7okx@ jama.]
+\XSP Se medio apago* el sol.
+\XEN The sun was half-covered.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 70kx
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 08/Jan/96
+\lex win='07k
+\_no 03746
+\LG MIG
+\PSH [winno7k-]
+\UND win=707k
+\MB CARA, calmarse
+ZOH004R0011001.txt
+Page 1608

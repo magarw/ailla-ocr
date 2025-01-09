@@ -1,0 +1,61 @@
+ZOH001R0611011.txt
+\CMTS no caus yak.we7tz *
+\CMTS assum1 we7tz.ney estar sentado arrastrando
+\CMTS get deriv's
+\lex wij
+\_no 00303
+\SPG zambutirse
+\ENG
+\EX
+\XSP
+\XEN
+\ROOT wij P (IX)
+\CMTS caus yak.wij decir que se zambutiera
+\CMTS assum1 wij.ney estar zambutido
+\CMTS get deriv's
+\lex wikx
+\_no 00304
+\SPG chiflar
+\ENG to whistle
+\EX
+\XSP
+\XEN
+\ROOT wikx Ix
+\CMTS caus yak.wikx hacer chiflar
+\lex wi7kx
+\_no 00305
+\SPG falsearse; ensartarse pie; desconsartarse pie
+\ENG
+\EX wi7kx@ 7@y manhkuy7
+\XSP se falseo* su pie
+\XEN
+\ROOT wi7kx 12, Ix
+\CMTS caus yak.wi7kx falsear
+\lex wit
+\_no 00306
+\SPG andar; caminar
+\ENG to walk
+\EX witpa 7itijo7
+\XSP anda en el
+\XEN go walking in the town
+\ROOT wit Il
+\CMTS caus yak.wit hacer andar
+\lex witu
+\_no 00307
+\SPG regresar
+\ENG to return
+pueblo/en la calle/ de vago
+\EX 7@y yakwituw@ 7@y 7oktze7kk@
+\XSP le volvio* la cosa que le dio* prestado
+\XEN she sent it back, she borrowed it
+\EX wituwa*m
+\XSP ya regreso*
+\XEN he's
+come back
+\ROOT witu Il
+\CMTS caus yak.witu regresar; devolver; dar vuelta (carreta, buey)
+\lex wit
+\_no 00308
+\SPG torcerse; torcer mecate
+\ENG to be twisted; to twist rope
+Page 59

@@ -1,0 +1,62 @@
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Aug/94
+\lex jatonh bida
+\_no 00677
+\LG MIG
+\PSH
+\UND jatonh bida
+\MB
+\VAR
+\GRAM sms
+\SPG bisabuelo
+\ENG great-grandfather
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\lex jatonh maxan
+\_no 00678
+\LG MIG
+\PSH
+\UND jatonh maxan
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG 1 padre sagrado
+\SPG 2 abuelo, sen~or grande
+\ENG 1 holy father
+\ENG 2 grandfather, elderly gentleman
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-GR ok HAJ:96; Germa*n dice que nunca lo uso* y ya no se usa
+\date 24/Jun/96
+\lex jatonh mixa
+\_no 00679
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+\UND jatonh mixa
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG cura; sacerdote
+\ENG priest
+\EXU
+\XSP
+Page 290

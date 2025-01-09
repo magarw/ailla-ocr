@@ -1,0 +1,63 @@
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {-A} [1]
+\_no 04578
+\LG MIG
+\PSH [-a]; [-@]
+\UND A
+\MB PASSIVE
+\VAR
+\USE morphosyntactic verbal suffix: passive
+\GRAM suf
+\SCI
+\USE
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU k@y-@-w@ mex(a)+g@xi
+\XPSH [K@y@w@ me:xg@xi.]
+\XSP Pusieron (el plato) en la mesa.
+\XEN They set the table.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex {-E} [1]
+\_no 04579
+\LG MIG
+ZOH004R0011001.txt
+\PSH [-1]; [-e]
+\UND E
+\MB dCOM
+\VAR
+\USE inflectional verbal suffix: dependent completive
+\GRAM suf
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU 1 tij-w@ 7@y+ tzi'-E wan
+\XPSH 1 [Tijj@y tziwi wan.]
+\XSP 1 Juan fue* a ban~ar.
+\XEN 1 Juan went to bathe.
+\EXU 2 min-w@ mix+7@n tzi-tam-E ausilyo
+\XPSH 2 [Minn@ mixx@n tzidame ausilyo.]
+\XSP 2 Venimos a darte auxilio.
+\XEN 2 we came to give you some help.
+\EXU 3 7ok.manh-w@ wan 7@y+ tzanh. 'oy-E
+\XPSH 3 [7okmanhnh@ wan 7@y tzanhnhoy.]
+\XSP 3 Juan empezo* a rozar.
+\XEN 3 Juan began to clear brush (with a machete).
+\EXU 4 ja7kx@ 7@y+ yuk.p@k-E
+\XPSH_4 [J@7kx@y yukp@ki.]
+\XSP 4 Lo levanto* ra*pido.
+Page 1966

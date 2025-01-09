@@ -1,0 +1,36 @@
+Particle Roots
+Particle roots are distinct from other form classes in
+that they are not derived to form verb, noun, or positional
+stems, nor may they be inflected. Native particle roots are
+of the shape //CVC //, but many particles are Spanish in origin
+and have other shapes.
+77
+Onomatopoetic Roots
+A small class of infrequently derived roots appear to
+result from onomatopoeia. These roots have been grouped here
+with exclamations and calls to animals, in a class of roots
+which borders on paralanguage. Two main subdivisions of this
+class, each with two further subdivisions, are distinguished
+by derivational criteria. These sets are: (1) onomatopoetic
+roots, including (a) imitations of sounds from inanimate
+sources and (b) imitations of animal noises, and (2) calls
+and exclamations, including (a) calls to animals and (b) ex-
+clamations. The known inventory of these roots is small, and
+all known examples are listed below.
+Onomatopoetic imitation of sounds from inanimate
+1.a.
+sources:
+//pém // bang!
+//póN // exploding skyrocket
+//tít //
+car horn
+// cám // scythe cutting wheat,
+//cáw //
+scythe cutting wheat,
+//čís //
+hissing air
+//číN //
+ringing
+grease in a fire
+grease in a fire
+grease

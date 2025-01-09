@@ -1,0 +1,63 @@
+\ETYM
+\ETL
+\ROOT 1 jax
+\RTGR 1 T3
+\ROOT 2 p@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 06/Feb/96
+\lex jiya7
+\_no 00801
+\LG MIG
+\PSH
+\UND jiya7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG chicozapote
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Nov/94
+\lex ji'tz.i7
+\_no 00802
+\LG MIG
+\PSH [jitzi7]
+\UND ji7tz.E7
+\MB recoger, NOM7
+\VAR
+\GRAM SV
+LF: kuy
+\SCI
+\USE
+\SPG pliegue
+\ENG fold of drapes
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ji7tz
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 06/Feb/96
+\lex ji'tz.i7 [1]
+\_no 00803
+\LG MIG
+\PSH [jitzi7]
+ZOH004R0011001.txt
+Page 349

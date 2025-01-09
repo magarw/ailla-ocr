@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT t@nh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex xom.e7
+\_no 00431
+\LG MIG
+\PHO [xome7]
+\UND xom.E7
+\MB encerrar, NOM7
+\VAR
+\GRAM pcp
+\SPG encerrado
+\ENG enclosed
+\EXU wakax xom.e7
+\XPSH [wakax xome*7]
+\XSP ganado encerrado
+\XEN corralled cow
+\SYN
+\ROOT XOM
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex xo7px.e7
+\_no 00432
+\LG MIG
+\PHO [xo7pxe7]
+\UND xo7px. E7
+\MB tomar, NOM7
+\VAR
+\GRAM pcp
+\SPG tomado a boca de plato
+\ENG drunk from a bow]
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT xo7px
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex xotz.e7
+\_no 00433
+\LG MIG
+\PSH [xotze7]
+\UND xotz.E7
+\MB amarrar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG nudo
+\ENG knot
+\EXU
+\XSP
+ZOH001R0611004.txt
+Page 171

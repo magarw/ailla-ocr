@@ -1,0 +1,77 @@
+ZOH001R0361001.txt
+\zoq
+x@ja de7 chik jejed@kka per tum@xta*7 ga7 bi malu*7.
+\fts Bastante esos zancuditos pero uno no mas es el malo.
+\fte Lots of those little zancudos but just one is the bad one.
+\com
+\idx
+\ref ZOH001R036 641
+\_no 00629
+\tx
+ga
+7una bes ke mu7kk@
+segurito
+\mb ka -7 7una bes ke mu7k -w@ segurito
+\sg1 DCT3-NOM1 una ver que chupar-COM segurito
+\eg1 DCT3-NOM1 one see that suck -COM sure_enough malaria
+\zoq Ga 7una bes ke mu7kk@ segurito palodismo.
+\fts Eso una vez que te chupo* segurito paludismo.
+\fte That one one time it sucks and malaria sure enough.
+\com
+\idx
+\ref ZOH001R036 642
+\_no 00630
+\tx
+segurito de7
+waykay
+\mb segurito te -7 waykay
+\sg1 segurito
+DCT2-NOM1 palodismo
+\egl sure_enough DCT2-NOM1 malaria
+\zoq Segurito de7 waykay toya.
+\fts Segurito el paludismo.
+\fte Sure enough that malaria.
+\com
+\idx
+\ref ZOH001R036 643
+\_no 00631
+\tx deji
+t@kk@yy@
+\mb
+te -ji7 t@k -7@y-w@
+\sg1 DCT2-LOC1 casa -SUF-COM
+\eg1 DCT2-LOC1 house-SUF-COM
+\zoq Deji t@kk@yy@.
+\fts Ahi* entro*
+\fte There it entered.
+\com
+\idx
+\ref ZOH001R036 644
+\_no 00632
+\tx GSM: ded@
+\mb GSM
+\sg1 GSM: DCT2-DEM doler-NOM2
+\eg1 GSM: DCT2-DEM hurt -NOM2
+toya
+te -d@ toy -A7
+\zoq GSM: Ded@ toya.
+\fts GSM: Esa enfermedad.
+\fte GSM: That disease.
+\com
+\idx
+\ref ZOH001R036 645
+\_no 00633
+\tx
+\mb OSM
+\sg1 OSM: DCT2-DEM doler-NOM2
+toya
+te -d@ toy -A7
+OSM: ded@
+toya
+toy -A7
+doler-NOM2
+hurt -NOM2
+palodismo
+palodismo
+palodismo
+Page 137

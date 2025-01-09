@@ -1,0 +1,62 @@
+\ROOT kep
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 29/Jan/96
+\lex y@k.kop. '@y
+\_no 04360
+\LG MIG
+\PSH [y@kkopp@y-]
+\UND yak. kop.7@y
+\MB X, cachar_con_manos, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG cachar con un guante
+\ENG to catch with a mitt
+\SPL
+\SLGR
+\EXU kop.kuy' 7@y+ y@k.kop. '@y-wa
+\XPSH [Kopkuy 7@y_y@kkopp@yy@.]
+\XSP Cacho* con el guante.
+\XEN He caught it with a mitt.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kop
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex y@k.manh
+\_no 04361
+\LG MIG
+\PSH [y@kmanh]
+\UND y@k.manh.0
+\MB INSTR2, *pisar, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG calzones; pantalo*n
+ENG white cotton trousers; pants
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * mạnh
+\RTGR P
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+ZOH004R0011001.txt
+\lex y@k.manh.'@y
+\_no 04362
+\LG MIG
+\PSH [y@kmanhnh@y-]
+Page 1872

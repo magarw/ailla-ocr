@@ -1,0 +1,67 @@
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS CK-PH/OK: TK
+\date 25/Jun/96
+\lex poa7
+\_no 02681
+\LG MIG
+\PSH
+\UND poa7
+\MB
+\VAR powa7
+\GRAM S
+\SCI
+\USE
+\SPG jonote; algodoncillo
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF EB
+\lex po.anh
+\_no 02682
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS MAR has /po7aj/; *po7a is prob. original
+\date 08/Feb/96
+\LG MIG
+\PSH poanh
+\UND *po7.7anh
+\MB
+\VAR
+\GRAM sv: res ?
+\SCI
+\USE
+\SPG algo que trajo de nacimiento el nin~o, como una mancha
+\ENG birthmark,
+with a birthmark on forehead
+\EXU 7une' 7@y+ po.anh
+\XPSH [7une y poanh]
+\XSP
+\XEN
+\SYN
+LF: kuy
+\SEMF
+\ETYM
+\ETL
+\ROOT po7
+\RTGR 12
+\DSRC TK94
+\CMTS CK-GL
+\date 25/Jun/96
+\lex poe7 [1]
+\_no 02683
+LG MIG
+-
+\PSH
+\UND poe7
+\MB
+\VAR powe7
+ZOH004R0011001.txt
+ok.
+In 94 I had /poanh7/:TK
+Page 1154

@@ -1,0 +1,64 @@
+\lex tzaj.pu'
+\_no 03231
+\LG MIG
+\PSH [tzajpu-]
+\UND tzaj.pu7
+\MB
+\VAR
+\GRAM vt: revers
+\SCI
+\USE
+\SPG despegar
+\ENG to unglue; to unstick
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT tzaj
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tzak
+\_no 03232
+\LG MIG
+\PSH
+\UND tzak
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG dejar
+\ENG to leave
+\SPL tzak. 7oy
+\SLGR ANTIP
+\SLGL dejar // to leave
+\SPL tzak.7@m
+\SLGR PASS
+\SLGL quedarse
+\EXU jo.xanh' 7@y+ tzak-w@
+\XPSH [Joxanh 7@y tzakk@.]
+\XSP Lo dejo* vacio.
+\XEN She left it empty.
+SYN
+\SEMF move
+\ASP achievement
+\ARG
+\NOM tzak.e7
+\SUB poy-tzak, tz@k=tzak
+\ETYM
+\ETL
+\ROOT tzak
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\CMTS CK-EX
+\date 03/Jan/80
+-
+HAJ:96 ok
+ZOH004R0011001.txt
+Page 1390

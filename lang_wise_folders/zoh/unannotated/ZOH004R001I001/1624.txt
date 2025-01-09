@@ -1,0 +1,63 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT %wit
+\DSRC TK96
+\CMTS ANALYSIS?
+\date 26/Jun/96
+\lex wo7i
+\_no 03780
+\LG MIG
+\PSH
+\UND Wo7i
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG rodarse
+ENG to roll
+\SPL yak.wo7i
+\SLGR CAUS
+\SLGL hacer rodar // to cause to roll
+\SPL wo7i.ten.e
+\SLGR PRSV
+\SLGL una cosa enrollado, como mecate // a rolled-up thing, like rope
+\EXU 1 maktax-'anh wo7i-pa+a7k
+\XPSH 1 [maktaxxanh wo7ipa*7]
+\XSP 1 cuatro cosas que van a rodear; cuatro ruedas
+\XEN 1 four things they're going to roll; four wheels
+\EXU 2 wo7i-w@
+\XPSH 2 [Wo7iw@.]
+\XSP 2 Se rodo*
+\XEN 2 It rolled.
+\EXU 3 d@ wo7i-w@
+\XPSH 3 [D@ wo7iw@.]
+\XSP 3 Me rode*.
+\XEN 3 I rolled.
+\SYN
+\SEMF move
+\ASP process
+\ARG
+\NOM wo7i.naanh
+\SUB
+\ETYM
+\ETL
+\ROOT wo7i
+\RTGR 12, Il
+\DSRC HAJ94
+\CMTS
+\CMTS get deriv's
+\date 03/Jan/80
+ZOH004R0011001.txt
+\lex wo7i.naanh
+\_no 03781
+LG MIG
+\PHO [wo7ina*nh]
+\UND wo7i.naanh
+\MB rodarse, MED1
+\VAR
+Page 1624

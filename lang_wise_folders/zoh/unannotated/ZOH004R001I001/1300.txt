@@ -1,0 +1,64 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-all HAJ: 96
+\CMTS caus
+\date 26/Jun/96
+\lex ton
+\_no 03019
+\LG MIG
+\PSH
+\UND ton
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG limpiar soplando mai*z, frijol (de gorgojo, de broca, de bica, de
+basura) (se sopla con la boca o con el viento que hay)
+\ENG to winnow corn, beans (of nits, weevils, trash) (you blow with the
+mouth or use whatever breeze there is)
+\SPL ton. 7oy
+\SLGR ANTIP
+\SLGL soplar // to blow
+SPL ton.7@m
+\SLGR PASS
+\SLGL soplarse // to be winnowed
+\SPL ton.ten
+\SEMF clean
+\ASP activity
+\ARG
+\NOM ton.e7
+\SUB ko. ton
+\ETYM
+\ETL
+\ROOT ton
+\RTGR T3
+\DSRC TK94
+[7@y yaktomm@yy@]; fixed: TK
+SLGR PRSV
+\SLGL tener soplado // to have it winnowed.
+\EXU 7@y+ ton.ten-w@
+\XPSH [7@y tontenn@.]
+\XSP Lo tiene soplando.
+\XEN She has it winnowed.
+\SYN
+\CMTS
+\date 03/Jan/80
+\lex ton.e7
+\_no 03020
+\LG MIG
+\PHO [tone7]
+\UND ton. E7
+ZOH004R0011001.txt
+\MB limpiar_soplando, NOM 7
+\VAR
+\GRAM pcp
+\SPG soplado
+Page 1300

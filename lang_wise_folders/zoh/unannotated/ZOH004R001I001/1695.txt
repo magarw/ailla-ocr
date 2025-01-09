@@ -1,0 +1,63 @@
+\XSP Lo estaco* con cuchillo.
+\XEN She stabbed him with a knife.
+\SYN
+\SEMF cut
+\ASP semelfactive
+\ARG
+\NOM we7k=xipx. 'oy.kuy7, we7k=xipx.i
+SUB mok tzik.kuy' xipx.kuy7
+\ETYM
+\ETL
+\ROOT xipx
+\RTGR T3
+\DSRC TK94
+\CMTS
+\CMTS CK-EX HAJ:96 fixed
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex xipx.xipx.ney
+\_no 03939
+\LG MIG
+\PSH [xipxxipxney-]
+\UND xipx.xipx.ney
+\MB estacar, estacar, REDUP1
+\VAR
+\GRAM VİR
+\SCI
+\USE
+\SPG estar encajado con estaca
+\ENG to be pinned with a stake
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xipx
+\RTGR T3
+\DSRC TK96
+\CMTS
+\lex xit
+\_no 03940
+LG MIG
+\PSH
+\UND xit
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG moco
+\ENG snot
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+Page 1695

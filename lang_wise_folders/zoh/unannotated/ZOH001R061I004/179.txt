@@ -1,0 +1,63 @@
+\_no 00452
+\LG MIG
+\PSH [x@kkane7]
+\UND x@k 7an.E7
+\MB frijol, calentarse, NOM7
+\VAR
+\GRAM s (m)s
+\SCI
+\USE
+\SPG tortilla de frijol
+\ENG bean tortilla
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7an
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 26/Jun/96
+\lex x@n.@7
+\_no 00453
+\LG MIG
+\PSH [x@n@7]
+\UND x@n.A7
+\MB aguadar, NOM2
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG aguado
+\ENG moist
+\EXU dan x@n. @'-tz@k-pa de way para da yo-tz@k-tam-pa_go7
+\XPSH [D@n x@n@tz@kpa de way para da yotz@ktampa go7.]
+\XSP Lo hacemos aguado la masa para hacer tamales.
+\XEN We moisten the masa to make tamales.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT x@n
+\RTGR IX
+\DSRC HAJ94
+\CMTS ANALYZE
+\date 03/Jan/80
+ZOH001R0611004.txt
+\lex x@n.@'=tz@k
+\_no 00454
+\LG MIG
+\PSH [x@:n@tz@k-]
+\UND x@n.A7=tz@k
+\MB aguadar, NOM2, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer aguado
+\ENG to moisten
+\EXU 7@n+ x@n@'=tz@k-tam-pa bi way. E para d@+
+Page 179

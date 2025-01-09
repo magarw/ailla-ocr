@@ -1,0 +1,83 @@
+\zoq Ya ke taxxa*m bi latajo gag@ pakk@d@kka.
+\fts ya que esta* lleno en la lata esas ca*scaras.
+\fte Now that it's full in the can with that bark.
+\com
+\idx
+\ref ZOH001R036 783
+\_no 00769
+\tx 7@m p@pa*m
+\mb
+7@m p@7 -pa -7am
+\sg1 2E poner-INC-YA
+\egl 2E put -INC-NOW outside -LOC2
+\zoq 7@m_p@pa*m 7anhk@jo.
+\fts Ya lo pones afuera.
+\fte Now you put it outside.
+\com
+\idx
+7am p@7 -pa -7am
+poner-INC-YA
+\ref ZOH001R036 784
+\_no 00770
+\tx 7@m p@pa*m
+\mb
+\sg1 2E
+\egl 2E put -INC-NOW outside -LOC2 night
+\ref ZOH001R036 785
+\_no 00771
+\tx 7@y p@kpa*m
+\mb 7@y p@k
+7anhk@jo
+7anhk@7
+afuera_de-Loc2
+-jo7
+\zoq 7@m_p@pa*m 7anhk@jo tzuji.
+\fts Ya lo pones afuera en la noche.
+\fte Now you put it outside at night.
+\com
+\idx
+\sg1 3E
+\egl 3E get
+ZOH001R0361001.txt
+bi 7okoka
+-pa -7am bi 7okoka
+\ref ZOH001R036 786
+\_no 00772
+tzuji
+7anhk@jo
+7anhk@7 -jo7 tzuji7
+afuera_de-Loc2 noche
+agarrar-INC-YA DEF sereno
+-INC-NOW DEF ???
+\zoq 7@y pakpa*m bi 7okoka.
+\fts Agarra el sereno.
+\fte The sereno gets it.
+\com no idea what that is
+\idx
+\tx joypi7t 7anhnamtzu gaji
+\mb
+\sgl otro_di*a man~ana
+\egl next_day morning
+\ref ZOH001R036 787
+\_no 00773
+m
+joypi7t 7anhnamtzu7 ka -ji7 7@m
+DCT3-LOC1 2A
+DCT3-LOC1 2A bathe -INC-NOW
+tzinhpa*m
+tzinh
+\zoq Joypi7t 7anhnamtzu gajim tzinhpa*m.
+\fts Al otro dia en la man~ana ya te ban~as.
+\fte The next day in the morning there now you bathe.
+\com
+\idx
+\tx ya ke m
+tzinhnha*m
+gay
+\mb ya ke 7@m tzinh -w@ -7am ka
+-pa -7am
+ban*arse-INC-YA
+7@m sentz@kpam
+7@m sentir-tz@k -pa -7am
+-Y
+Page 167

@@ -1,0 +1,64 @@
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex junun.kuy7
+\_no 00920
+\LG MIG
+\PSH [jununkuy7]
+\UND junun.kuy7
+\MB hacerle_cosquillas, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG cosquilloso
+ENG ticklish
+\EXU jakke junun.kuy7
+\XPSH [jakke jununkuy7]
+\XSP muy cosquilloso
+\XEN very ticklish
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT junun
+\XPSH T3
+\DSRC HAJ94
+\CMTS CK-gloss
+\date 18/Jun/96
+-
+\ETYM
+\ETL
+\ROOT junun
+\RTGR T3
+\lex junun.kuy'.7@y
+\_no 00921
+\LG MIG
+\PSH [jununkuy7@y-]
+\UND junun. kuy7.7@y
+\MB hacerle_cosquillas, INSTR1, VERS2
+\VAR
+\GRAM vi: fact
+\SCI
+\USE
+SPG dar o tener cosquilla
+\ENG to tickle
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\DSRC HAJ95
+\CMTS CK-PH: OK
+\date 24/Jun/96
+ok, HAJ: 96
+\lex junun.naanh
+\_no 00922
+\LG MIG
+\PHO [jununna*nh]
+ZOH004R0011001.txt
+Page 402

@@ -1,0 +1,62 @@
+\SYN
+\ROOT tzukx
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tzukx.neenh
+\_no 03433
+\LG MIG
+\PSH [tzukxne*nh]
+\UND tzukx.neenh
+\MB pellizcar, MED1
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG pedacito; pedazo
+\ENG a piece; a pinch
+\EXU mix tzi'-A7 tum tzukx.neenh
+\XPSH [Mix tzi tum tzukxne*nh.]
+\XSP Me das una pedacita.
+\XEN Give me a little piece.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzukx
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex_tzukx=tzik.i
+\_no 03434
+\LG MIG
+\PSH [tzukxtziki]
+\UND_tzukx=tzik. E
+\MB pellizcar, pelar, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG pellizca
+\ENG pinch
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tzukx
+\RTGR 1 T3
+\ROOT 2 tzik
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tzum
+ZOH004R0011001.txt
+Page 1477

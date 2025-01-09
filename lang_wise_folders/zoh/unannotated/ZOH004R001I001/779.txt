@@ -1,0 +1,65 @@
+\MB
+\VAR
+\GRAM Vi
+\SCI
+\USE
+\SPG andar lenco
+duele en el pie
+\ENG to limp you can't step on your foot well because there's
+something sticking in it
+\EXU lenh-pa_7@y+ n@k-w@
+\XPSH [Lenhpay n@kk@.]
+\XSP va lenqueando
+\XEN She went limping along.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT lenh
+\RTGR IX
+\DSRC TK96
+\CMTS
+\lex lenh.lenh.ney
+\_no 01803
+\LG MIG
+\PSH
+\UND 1enh.lenh.ney
+——
+\XPSH
+\XSP
+\XEN
+\SYN
+\SEMF
+\ROOT lenh
+\RTGR IX
+\DSRC TK96
+\CMTS
+\date
+\MB andar_lenco, andar_lenco, REDUP1
+\VAR
+\GRAM VİR
+\SPG andar moviendo las caderas
+\ENG to walk wiggling the hips
+\SPL
+\SLGR
+\EXU
+\lex lepx.lepx.ney
+\_no 01804
+\LG MIG
+\PSH
+\UND 1epx.lepx.ney
+\MB X, X, REDUP1
+\VAR
+\GRAM VİR
+ZOH004R0011001.txt
+\XSP
+\XEN
+\SYN
+\SEMF
+el pie no pisa bien porque tiene algo/espina que le
+\SCI
+\USE
+\SPG la ubre aleatada de una perra
+\ENG flapping udder of a bitch
+\EXU
+Page 779

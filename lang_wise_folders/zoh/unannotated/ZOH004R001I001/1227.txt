@@ -1,0 +1,66 @@
+\SCI
+\USE
+\SPG 1 espantapa* jaro
+\SPG 2 estatua
+\ENG 1 scarecrow
+\ENG 2 statue
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-PH
+\date 03/Jan/80
+\VAR
+\GRAM assum1
+\lex p@nh-j@nh.ney
+\_no 02849
+\LG MIG
+\PSH [p@nhj@nhney-]
+\UND panh-j@nh.ney
+\MB
+\SCI
+\USE
+\SPG flotar
+\ENG to float
+\SEMF
+\ETYM
+\ETL
+\ROOT p@nh
+\DSRC HAJ94
+—
+\XPSH
+\EXU_p@nh=j@nh.ney-pa_n@7 7@y+_tzap-ji-7
+[P@nhj@nhneba_n@y tzapji7.]
+\XSP Flota encima del agua.
+\XEN It's floating on the water.
+\SYN
+\lex p@7t
+\_no 02850
+HAJ:96, ok/OK: TK
+\CMTS
+\date 28/Jan/96
+\LG MIG
+\PSH
+\UND p@7t
+\MB
+\VAR
+\GRAM vi:act
+\SCI
+\USE
+\SPG cruzar; pasar
+\ENG to cross; to pass
+\SPL yak.p@7t
+ZOH004R0011001.txt
+\SLGR CAUS
+\SLGL dejar pasar, copiar // to let pass, to copy
+\EXU 1 p@7t-w@+@7k tyempu
+\XPSH 1 [p@7tt@*7k tyempu]
+\XSP 1 tiempo pasado
+\XEN 1 past time
+Page 1227

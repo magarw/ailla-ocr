@@ -1,0 +1,63 @@
+\UND p@m.E.7aH
+\MB aguantar, NOM7, VERS1
+\VAR
+\GRAM vi:vers1
+\SCI
+\USE
+\SPG hacerse fuerte
+ENG to become strong
+\EXU mas p@m.E.7aH-wa
+\XPSH [Mas p@mi7aw@.]
+\XSP viene mas fuerte, o mas recio.
+\XEN It got stronger.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT p@m
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex p@m.kuy7
+\_no 02842
+\LG MIG
+\PHO [p@mkuy7]
+\UND p@m.kuy7
+\MB aguantar, INSTR1
+\VAR
+\GRAM instr1
+\SPG la resistencia para aguantar
+\ENG the strength to endure
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT p@m
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex p@n 7utz.7utz.na'=wit-pa+a7k
+\_no 02843
+ZOH004R0011001.txt
+\LG MIG
+\PSH [p@n 7utzutznawitpa*7]
+\UND pan 7utz.7utz.na7-wit-pa +P@7k
+\MB hombre, doblar, doblar, STAT, andar, INC, AGT2
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG un hombre que anda jorobado
+\ENG a man who walks doubled over, a hunchback
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+Page 1224

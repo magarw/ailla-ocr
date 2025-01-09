@@ -1,0 +1,32 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+labial alveolar
+b
+d
+f
+S
+palatal
+voiced stop
+fricative
+affricate
+liquid
+Table 3.3. Borrowed or derived consonants that appear in Zoque words
+1,r
+27
+»U
+velar
+g
+č
+The voiceless alveolar affricate /c/ (the sound at the beginning of the
+word 'tsunami', functions as part of the natural class of voiceless consonants,
+with respect to syllable structure (section 3.2.2).
+Voiced consonants appear (a) at the beginning of pronouns, deictics, and
+a few other function words, and (b) word-internally after the operation of a
+voicing rule. The affricate /č/ occurs as the result of a morphophonological
+process (section 3.3.6) and in some loan words. The fricatives /s/ and /f/ and
+the liquids // and /r/ appear in only a few odd words of unknown origin,
+affective (sound symbolism) verbs (section 4.1.4), and Spanish loan words.
+/ə/ in MIG Zoque is a mid back unrounded vowel. In the other MZ
+languages, including MAR Zoque, the "sixth vowel" is typically a high back
+unrounded vowel, /ü/. Lengthened vowels may result from syllable shape or
+from syllable deletion (section 3.3.9), but there is no underlying phonemic
+contrast in vowel length.

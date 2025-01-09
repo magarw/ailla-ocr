@@ -1,0 +1,63 @@
+\MB
+\VAR
+\GRAM VİRF
+\SCI
+\USE
+\SPG parpadeando
+\ENG
+\SPL tzim.tzim.ney (viRF)
+\SLGR parpadear
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex %tziwanh F
+\_no 04511
+\LG MIG
+\PSH
+\UND
+\MB
+\VAR
+\GRAM F
+\SCI
+\USE
+\SPG
+\ENG
+\SPL tziwanh.tziwanh.ney (ViRF)
+\SLGR brillar en el sol//to shimmer
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS actually means the way the light seems to waver and shine
+\date 11/Feb/96
+\lex {.tzo7tz}
+\_no 04512
+\LG MIG
+\PSH
+\UND tzo7tz
+\MB PRIM
+\VAR
+\USE verbal suffix: primero
+\GRAM suf
+ZOH004R0011001.txt
+\SPG primero
+\ENG first
+\SPL
+\SLGR
+\EXU
+\XPSH
+\XSP
+Page 1937

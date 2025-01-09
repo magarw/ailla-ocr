@@ -1,0 +1,33 @@
+We can see in the transitive constructions shown above that marking of
+the object is not transparent on the surface. The absolutive third person
+marker is 0, and thus not evident when any subject acts on a third person
+object (1>3, 2>3 and 3>3). We might expect to see both markers whenever
+the object is first or second person. This is exactly what we get when the
+subject is also a first or second person in MAR Zoque, Chiapas Zoque, and
+proto-Mixe-Zoque (Kaufman, 1996). But in MIG Zoque we have an innovation,
+the morpheme miš, which applies to both 1>2 and 2>1 situations.
+6.2.1. The ambiguity of miš
+miš is potentially ambiguous, and my consultants consistently rephrased
+my examples using this morpheme in elicitation sessions. They seemed to
+prefer the 2>1 reading where there was no disambiguating pronoun, but
+generally preferred to specify the actor argument with either the first or second
+person pronoun. The marker appears in texts without disambiguating
+pronouns and caused no conflicts in translation; presumably, the rich context
+of a narrative resolves the ambiguity completely, while the bare sentences that
+we worked with in elicitation sessions tended to highlight it.
+(6.11)
+(i)
+(ii)
+mix juyjadammø kajtzay
+miš+ huy.jay-tam-we
+kahcay
+2>1+ comprar.APPL-1/2PL-COM hamaca
+'Nos compraron Uds. una hamaca.'
+(elicitado)
+mix juyjayyø tum kajtzay pa døxjá'
+miš+ huy.hay—wa
+tum kahcay para dəš+haa?
+2>1+comprar.APPL-COM uno hamaca para 1Prn+NPL2
+'Nos compraron Uds. una hamaca.'
+120
+(elicitado)

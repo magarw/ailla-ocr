@@ -1,0 +1,62 @@
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex fija=tz@k
+\_no 00606
+\LG MIG
+\PSH [fijatz@k-]
+\UND fija=tz@k
+\MB fijar, HACER
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG darse cuenta
+ENG to notice
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM fijar
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex flecha
+\_no 00607
+\LG MIG
+\PSH
+\UND flecha
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG flecha
+\ENG arrow
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 24/Sep/94
+\lex fogoonh
+\_no 00608
+\LG MIG
+\PSH [fogo*nh]
+\UND fogoonh
+\MB
+\VAR
+\GRAM S
+ZOH004R0011001.txt
+Page 260

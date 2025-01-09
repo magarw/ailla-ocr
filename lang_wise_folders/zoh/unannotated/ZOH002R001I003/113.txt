@@ -1,0 +1,49 @@
+4.11. Modals
+Modals affect the mood or aspectual interpretation of the clause in which
+they appear. The complete set is shown in table 4.8. geta and mo? are used
+only in questions, and they are discussed further in chapter 12. They appear
+after the question word, but not necessarily immediately after, as shown in
+example (4.35 i). The other modals are discussed in chapter 13. bəšə and
+pinək exhibit considerable freedom with respect to position, often appearing at
+the beginning of the clause, as shown in example (ii).
+Form
+bə?
+bəše
+(ii)
+geta
+mo?
+pinək
+(4.35)
+(i)
+English
+"isn't it?"
+as if; seems like
+"the hell!"
+I wonder
+I wish; would that it were
+Spanish
+"¿no?"
+parece
+"¡onde!"
+será
+malaya
+Table 4.8. Modals
+jutzéng karro mo' pitzømpa joji
+huceeŋ karro mo? 0 picam-pa hohi
+cuanto bus IRR 3A salir-INC mañana
+'Cuantos carros será que salirían mañana?'
+ke malay pinøk 'øn 'angnittampa jemji ney tøkjo'
+ke malay pinək
+88
+Gloss code
+DUBIT
+SEEM
+DIS
+IRR
+CONFAC
+(elicitado)
+?ən+ Paŋnit-tam-pa
+hemhi ney tək+ho?
+que malaya CONFAC 1E+ tener-1/2PL-INC todo IERG casa+LOC2
+'Que malaya tuvieramos todo en la casa."
+(ZOH001 R013-090)

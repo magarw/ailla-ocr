@@ -1,0 +1,62 @@
+\date 09/Oct/96
+\lex 7anh='uk=wak
+\_no 00202
+\LG MIG
+\PSH [7anhnhukwak-]
+\UND 7anh=7uk-wak
+\MB BOCA, tomar, *vaciar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tomar un poquito de una cosa que esta* muy llena
+\ENG to drink a little from something that is very full
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7uk
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 09/Oct/96
+\lex 7anh='un= 'otonh
+\_no 00203
+\LG MIG
+\PSH [7anhnhunnotonh-]
+\UND 7anh=7un=7otonh
+\MB BOCA, engan~ar, hablar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG hablar de mentirita
+\ENG to tell a little lie
+\SPL
+\SLGR
+\EXU_7anh='un= 'otonh-w@
+\XPSH [7anhnhunnotonhnh@.]
+\XSP Hablo* de mentirita.
+\XEN She told a little lie.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7un
+\RTGR 1 TX
+\ROOT 2 7otonh
+\RTGR 2 Il
+\DSRC HAJ95
+\CMTS
+\date 09/Oct/96
+\1ex_7anh='un. 'oy.kuy7
+\_no 00204
+ZOH004R0011001.txt
+\LG MIG
+\PHO [7anhnhunnokuy7]
+Page 86

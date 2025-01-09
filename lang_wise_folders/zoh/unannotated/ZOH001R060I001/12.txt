@@ -1,0 +1,77 @@
+\idx
+\ref 040
+\_no 00041
+\tx 7@n t@k
+7@n t@k
+\mb
+jaytija
+-7a -wa jaytij@7
+-VERS1-COM Juchitan
+\egl 1E house there_is-VERS1-COM Juchitan
+\sgl 1E casa
+\fts mi casa esta* en Juchita*n
+\fte my house is in Juchitan
+\com
+\idx
+\ref 041
+\_no 00042
+\tx 7@n 7awin
+\mb
+\tx witpa
+\mb wit
+teji7aw@
+teji
+hay
+7@y t@k
+ney
+7adondjut@*nh
+da
+7@n 7awin7 7@y tak
+teji
+\sgl 1E hermano/a 3E casa hay
+-7a -wa ney 7adonde-jut@@nh da
+-VERS1-COM mismo adonde -por_donde 1A
+\egl 1E sibling 3E house there_is-VERS1-COM self where -where
+1A
+-ра
+\sg1 andar-INC
+\egl walk -INC
+ZOH001R0601001.txt
+\fts la casa de mi hermano esta* por donde camino
+\fte my brother's house is on my street
+\com
+\idx
+teji7aw@
+\ref 042
+\_no 00043
+\tx d@ tunhnhapan
+n@kk@
+n@y
+kuk
+\mb d@ tunh
+d@ tunh -7a -pa -7@n n@k -w@ n@7 -7@y kuk
+\sg] 1A camino-VERS1-INC-1E irse-dINC agua -3E centro
+\egl 1A road -VERS1-INC-1E go -dINC water-3E center
+\fts voy caminando en medio del ri*o
+\fte I'm going to walk through the river
+\com
+\idx
+\ref 044
+\_no 00045
+\tx
+\mb 7@n kuk
+\ref 043
+\_no_00044
+\tx da nakpa
+pajakgaja7kwintu7k
+\mb da nak -pa pajak-gaja7kwintu7k
+\sg1 1A irse-INC ri*o -al_otro lado
+\egl 1A go -INC river-across
+\fts me voy al otro lado del ri*o
+\fte I'm going to the other side of the river
+\com
+\idx
+7@n kukkaptukpa
+tunh
+-kap -tuk -ра tunh
+Page 12

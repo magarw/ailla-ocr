@@ -1,0 +1,65 @@
+\UND panh.w@y
+\MB X, DEPOS
+\VAR
+\GRAM vt: depos
+\SCI
+\USE
+\SPG arrimar a la pared
+\ENG to lean something against the wall
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * panh
+\RTGR P
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex papas
+\_no 02541
+\LG MIG
+\PSH
+\UND papas
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG papa
+\ENG potato
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex pa-piyu7
+\_no 02542
+LF:7okox - poj
+\LG MIG
+\PSH [papiyu7]
+\UND pa-piyu7
+\MB salvaje, pollo
+\VAR
+\GRAM
+\SEMF EZ
+\ETYM
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG perdiz; perdiz canela; gallina de monte
+\ENG a type of bird
+\EXU
+\XSP
+\XEN
+\SYN
+LF: jon
+Page 1094

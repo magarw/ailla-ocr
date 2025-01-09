@@ -1,0 +1,63 @@
+\lex ney-ti+jaa7
+\_no 02233
+\LG MIG
+\PSH [neytija*7]
+\UND ney-ti +jaTE7
+\MB mismo, QUE, PRN
+\VAR
+\GRAM pron
+\SCI
+\USE
+\SPG nuestro; de nosotros
+\ENG ours; of us
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex ney-win
+\_no 02234
+\LG MIG
+\PSH [neywin]
+\UND ney-win
+\MB mismo, CARA
+\VAR
+\USE inclusive first person pronoun
+\GRAM pron
+\SCI
+\USE
+\SPG nosotros
+\ENG we
+\EXU 1 ney-win 7awin' d@k+7@(y) yox-ta.anh
+\XPSH 1 [Neywin 7awin d@kka, yoxta*nh!]
+trabajemos!
+\XSP 1 !Nosotros compan~eros,
+\XEN 1 We comrades, let's work!
+\EXU 2 tz@k-ta.anh yakk@ 7@y+ 7amma-A7 +goo7 dyos ke
+ZOH004R0011001.txt
+ney-win d@+ yox-tam-pa
+\XPSH 2 [Tz@kta*nh, yakk@y 7amma go7 Dyos ke neywin da
+yoxtampa.]
+XSP 2 vamos a hacerlo, para que lo mire Dios que nosotros
+trabajamos
+\XEN 2 Let's do it, so God will see that we work.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex ney-win.'aH
+\_no 02235
+\LG MIG
+\PSH [neywinna-]
+\UND ney-win. 7aH
+Page 962

@@ -1,0 +1,66 @@
+\fts ni dolor de hueso ya no lo tienes.
+\fte nor that bone pain that isn't there.
+\com
+\idx
+\ref ZOH001R036 682
+\_no 00670
+\tx GSM: kon ded@
+\mb GSM
+kanelita p@7tpa
+kanelita p@7t -pa
+pasar-INC
+\sg1 GSM: con DCT2-DEM
+canel
+\eg1 GSM: with DCT2-DEM cinnamon pass -INC
+\com
+\idx
+kon te -d@
+\zoq GSM: Kon ded@ kanelita p@7tpa?
+\fts GSM: Con esa canelita pasa?
+\fte GSM: With that cinnamon it passes?
+\ref ZOH001R036 683
+\_no 00671
+\tx
+OSM: mhm
+mhm
+\mb OSM
+\sg1 OSM: mhm
+\egl OSM: mhm
+\zoq OSM: Mhmm.
+\fts OSM: Mhmm.
+\fte OSM: Mhmm.
+\com
+\idx
+ZOH001R0361001.txt
+\ref ZOH001R036 684
+\_no 00672
+7azma
+\tx GSM: por 7ejemplo y@da
+\mb GSM por 7ejemplo ya -da 7azma
+\sg1 GSM: por ejemplo DCT1-DEM asma
+\eg1 GSM: for example DCT1-DEM asthma
+\zoq GSM: Por 7ejemplo, y@d@_7azma,
+\fts GSM: Por ejemplo, para la asma,
+\fte GSM: For example, this asthma,
+\com
+\idx
+\ref ZOH001R036 685
+\_no 00673
+\tx junanh 7@m prepartz@kpa
+medisina para m yakp@7tpa?
+\mb junanh 7@m preparar-tz@k -pa medisina para 7@m yak -p@7t -pa
+\sg1 como 2E preparar-hacer-INC medicina para 2E CAUS-pasar-INC
+\egl how
+2E prepare -do -INC medicine for 2E CAUS-pass -INC
+\zoq junanh 7@m prepartz@kpa medisina param yakp@7tpa?
+\fts como preparas la medicina para que pases?
+\fte how do you prepare medicine to make that pass?
+\com
+\idx
+\ref ZOH001R036 686
+\_no 00674
+\tx 70 para 7azma
+\mb 70 para 7azma
+\sg1 o para asma
+\egl or for asthma
+Page 146

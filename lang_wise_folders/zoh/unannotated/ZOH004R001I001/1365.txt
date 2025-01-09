@@ -1,0 +1,62 @@
+\CMTS
+\DATE 03/Jan/1980
+\lex t@nh-muk
+\_no 03173
+\LG MIG
+\PSH [t@nhmuk-]
+\UND_t@nh-muk
+\MB cortar, caerse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tumbar a machetazos
+\ENG to fell with a machete
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 t@nh
+\RTGR 1 T3
+\ROOT 2 muk
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 20/Oct/94
+\lex t@nh.naanh
+\_no 03174
+\LG MIG
+\PHO [t@nhnanh]
+\UND t@nh.naanh
+\MB cortar_c_machete, MED
+\VAR
+\GRAM meas
+\SPG una machetazo
+\ENG one stroke of a machete
+\EX
+\XSP
+\XEN
+\SYN t@nh. 'oy.kuy7
+\ROOT t@nh
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex t@nh-tuk
+\_no 03175
+\LG MIG
+\PSH [t@nhtuk-]
+\UND t@nh=tuk
+\MB cortar, cortar
+\VAR
+ZOH004R0011001.txt
+\GRAM vt
+\SCI
+\USE
+\SPG trozar de un machetazo
+\ENG to break off with a machete blow
+\EXU
+Page 1365

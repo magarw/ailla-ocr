@@ -1,0 +1,63 @@
+\XPSH 4 [D@ jukukpa.]
+\XSP 4 Me molesta algo en la garganta.
+\XEN 4 Something is irritating my throat.
+\SYN
+\SEMF body
+\ASP state
+\ARG location
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT jukuk
+\RTGR 12
+\DSRC HAJ94
+\CMTS get deriv's
+\CMTS no hay que decir jukukk@, siempre dice jukukk@ yo7k
+\CMTS
+\date 03/Jan/80
+\lex jukut@k
+\_no 00906
+\LG MIG
+\PSH
+\UND jukut@k
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG lumbre
+\ENG fire
+\EXU donde-ju7 d@ jukut@k nek-k@nh.A.tam-pa
+\XPSH [dondju da jukut@k nekk@nhnhadampa]
+\XSP fogo n
+\XEN fireplace
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 09/Nov/94
+\lex jukut (@) 7aka
+\_no 00907
+LG MIG
+\PSH [jukut@ 7aka]
+\UND jukut@k 7aka
+\MB lumbre, orilla
+\VAR jukuut 7aka
+\GRAM
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG a la orilla de la lumbre
+\ENG at the edge of the fire
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+Page 395

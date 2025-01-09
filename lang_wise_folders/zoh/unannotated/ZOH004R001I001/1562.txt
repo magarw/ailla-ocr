@@ -1,0 +1,62 @@
+\lex wej-tzam
+\_no 03634
+\LG MIG
+\PSH [wejtzam-]
+\UND wej-tzam
+\MB gritar, platicar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG hablar recio
+\ENG to speak loudly
+\EXU d@+ wej=tzam-pa
+\XPSH [D@ wejtzampa.]
+\XSP Hablo recio.
+\XEN I am talking loudly.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT wej
+\RTGR T1
+\ROOT tzam
+\RTGR T1
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex wej=xik
+\_no 03635
+\LG MIG
+\PSH [wejxik-]
+\UND wej-xik
+\MB gritar, reirse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG rei*r a carcajadas; carcajear
+\ENG to laugh in peals; to laugh loudly
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT 1 wej
+\RTGR 1 T1
+\ROOT 2 xik
+\RTGR 2 11
+\DSRC HAJ94
+\CMTS laughing cry with clapping that women do
+\date 11/Feb/96
+\lex wej-yuk.konh
+\_no 03636
+LG MIG
+\PSH [wejyukkonh-]
+\UND wej-yuk.konh
+\MB gritar, ARR, gatear
+\VAR
+Page 1562

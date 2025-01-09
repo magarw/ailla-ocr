@@ -1,0 +1,63 @@
+\PSH [tumn@mjay-]
+\UND tum-n@m.jay
+\MB uno, decir, APPL
+\VAR
+\GRAM indir:incorp
+\SCI
+\USE
+\SPG decirle de una vez
+\ENG to tell someone all at once
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT n@m
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 09/Feb/96
+\lex tum-@
+\_no 03098
+\LG MIG
+\PSH [tum@]
+\UND tum-A
+\MB uno, NUM
+\VAR
+\GRAM num
+\SCI
+\USE
+\SPG uno
+\ENG one
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tum-@-k jama
+\_no 03099
+\LG MIG
+\PSH [tum@k jama]
+\UND tum-@-k jama
+\MB uno, X, X, di*a
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG todo el di*a
+\ENG all day
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ZOH004R0011001.txt
+Page 1333

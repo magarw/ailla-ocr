@@ -1,0 +1,62 @@
+\lex w@tz.17
+\_no 00407
+\LG MIG
+\PSH [w@tzi7]
+\UND w@tz.E7
+\MB peinar, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG peinado
+\ENG combed
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT w@tz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex xatz.e7
+\_no 00408
+\LG MIG
+\PHO [xatze7]
+\UND xatz.E7
+\MB torcer, NOM7
+\VAR
+\GRAM Pcp
+\SPG batido; torcido
+\ENG beaten; twisted
+\EXU 1 nitum 7uk.i' xatz.e7
+\XPSH 1 [nitum 7uku xatze*7]
+\XSP 1 chocolate batido
+\XEN 1 beaten chocolate
+\EXU 2 jojo xatz.e7
+\XPSH 2 [jojo xatze*7]
+\XSP 2 palma torcida
+\XEN 2 twisted palm
+\SYN
+\ROOT xatz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex xaw.a
+\_no 00409
+\LG MIG
+\PSH [xawa]
+\UND xanh.A
+\MB *aire, NOM2
+\VAR
+\GRAM S
+\SCI
+\USE
+ZOH001R0611004.txt
+Page 162

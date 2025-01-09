@@ -1,0 +1,90 @@
+\fts ella vino recogiendo frutas caidas
+\fte she came picking up fallen fruit
+\com
+\idx aux
+ZOH001R0611001.txt
+\ref 017
+\_no 00017
+\tx n@kk@
+bi jay
+7une
+tza7
+\mb nak wa Yay
+7@y
+-E7 bi jaya 7une tza7
+\sg1 irse-COM 3Erg UP -recoger-NOM7 DET macho nin~o/a piedra
+\egl go -COM 3Erg UP -pick -NOM7 DET male child
+rock
+yukpiwi
+yuk-pinh
+\fts el muchacho fue* a recoger unas piedras
+\fte the boy went to pick up some rocks
+\com
+\idx aux
+\ref 018
+\_no 00018
+\tx nakka
+y
+yukpiwi
+tza7
+\mb n@k -w@ bi jaya
+bi jay 7une
+jaya 7une 7@y yuk-pinh -E7 tza7
+\sg] irse-COM DET macho nin-o/a 3Erg UP -recoger-NOM7 piedra
+\egl go -COM DET male child 3Erg UP -pick
+-NOM7 rock
+\ref 019
+\_no 00019
+\tx n@kk@
+\fts el muchacho fue* a recoger unas piedras
+\fte the boy went to pick up some rocks
+\com
+\idx aux
+y
+tza
+yukpiwi
+bi jay 7une
+\mb n@k -wa bi jaya
+jaya 7une
+7@y tza7 yuk-pinh -E7
+\sg] irse-COM DET macho nin~o/a 3Erg piedra UP -recoger-NOM7
+\egl go -COM DET male child 3Erg rock UP -pick
+\fts el muchacho fue* a recoger unas piedras
+\fte the boy went to pick up some rocks
+\com
+\idx aux, incorp
+\ref 020
+\_no 00020
+\tx n@kk@
+bi jay 7une tza
+\mb nak -wa bi jaya
+jaya 7une tza7
+\sg] irse-COM DET macho nin~o/a piedra Pl
+\egl go -COM DET male child rock Pl
+d@kka y
+yukpiwi
+d@kkay 7ay yuk-pinh -E7
+3Erg UP -recoger-NOM7
+3Erg UP -pick
+\fts el muchacho fue* a recoger unas piedras
+\fte the boy went to pick up some rocks
+\com
+\idx aux, incorp
+-NOM7
+\ref 021
+\_no 00021
+\tx
+bi jay 7une
+yukpinhnh@
+y n@ki
+yuk-pinh -w@ 7@y nak -E
+\mb bi jaya 7une
+\sg1 DET macho nin~o/a UP -recoger-COM 3Erg irse-dCOM piedra
+\egl DET male child UP -pick -COM 3Erg go -dCOM rock
+\fts el muchacho fue* recogiendo piedras
+\fte the boy went along picking up rocks
+\com
+Page 4
+tza
+tza7
+-NOM 7

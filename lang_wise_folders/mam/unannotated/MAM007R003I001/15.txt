@@ -1,0 +1,72 @@
+(156) oo-t-tzan
+chi=tzakja
+meb'a-yi-l
+CPL-PERF=pues B3p=descomponerse huérfano-V-AGT A3s-SR:PAC
+'puesto que ya estaban inválidas las personas'
+t-ki-'n.
+A3s-mirar-SD
+(157) t-ok
+A3s-DIR
+'al mirar.'
+t-ii-'n
+kaab',
+entonces INC=B3s-DIR=pues A3s-traer-SD colmena
+'Entonces trajo la colmena,'
+(158) Toons nn=0=ul-tzan
+(159) ¿jaa
+(160) aa=wt
+sa
+dónde PROX.DEP+B2s+DIR
+'¿dónde lo trajiste, huérfano?"
+ch'in
+q-qo'
+leeq'a-l
+DEM=CF un.poco 1pENF-B1p lamer-INF
+jj=tzee'
+DEM=árbol
+dónde PROX.DEP+B2s+DIR
+'en dónde lo trajiste.'
+(162) Pwes qa_0=ky-aj=a
+pues
+'Pues, si quieren'
+(164) at=0
+'que fueramos nosotros un poco a lamer la superficie de ese palo'
+(161) jatuma sa
+t-ii-'n=iya.
+A3s-traer-SD=2s
+si B3s-A2p-querer=2s
+(163) ch=e'x-a,
+B2p=ir=2p
+‘ir,'
+EXIST=B3s
+'el palo está.'
+(165) 0-chi-tzan
+B3s-decir-pues
+'según dijo.'
+t-tzee'.
+A3s-árbol
+(166) N=ch=iky
+t-ii-ʼn=iya
+meeb'a?
+A3s-traer-SD=2s huérfano
+t-uuk'a
+INC=B3p=pasar A3s-SR:COM
+'Y los padrastros pasaron con él,'
+0=q'uun-j
+B3s-decir-PAS
+kyja'.
+así
+t-ee
+t-witz
+(167) asta_n-chi-ja-pa
+t-q'o-'n
+hastaINC=B3p=DIR=DIR A3s-dar-SD
+'hasta los subió en un palo,'
+t-wi'
+A3s-SR:superficie
+meb'a-yi-l
+huérfano-V-AGT A3s-SR:PAC
+16
+t-ee,
+jun tzee',
+A3s-SR:encima uno palo

@@ -1,0 +1,64 @@
+\GRAM Vi
+\SCI
+\USE
+\SPG caer; caerse cuando caminando
+\ENG to fall; to fall down while walking
+\SPL yak.t@7p
+\SLGR CAUS
+\SLGL dejar caer // to let fall
+\EXU 1 t@7p-w@_ga. p@n 7@y+ tunh. 'aH-pa 7ora
+\XPSH 1 [T@7рp@ ga p@n 7@y tunhnhapa 7ora.]
+\XSP 1 se cayo* aquel hombre la hora de caminar.
+\XEN 1 The man fell while he was walking.
+\EXU 2_7@y+ k@.n@k=kap.'@y-w@ tum kuy 7@y+ tunh.'aн-pa 7ora para ke 7@y+
+yak.t@7p-w@
+XPSH 2 [7@y k@n@kkapp@yy@ tum kuy 7@y tunhnhapa 7ora para key yakt@7pp@.]
+\XSP 2 Atraveso* un palo la hora de caminar para que lo hizo caer.
+\XEN 2 He stuck a branch out while she was walking to make her fall.
+\SYN
+\SEMF fall
+\ASP achievement
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT t@7p
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex t@7px
+\_no 03200
+\LG MIG
+\PSH
+\UND t@7px
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer mecate
+\ENG to make rope
+\SPL t@7px. 7oy
+\SLGR ANTIP
+ZOH004R0011001.txt
+\SLGL hacer mecate // to make rope
+\SLGR NO PASS
+\SPL t@7px.ten
+\SLGR PRSV
+\SLGL tenerlo hecho mecate // to have the rope made
+\EXU 7@y+ t@7px-w@ bi laxu
+\XPSH [7@y t@7px@ bi laxu.]
+\XSP Torcio* el mecate.
+\XEN He twisted the rope.
+\SYN
+\SEMF build
+\ASP activity
+\ARG
+\NOM t@7px.i7
+\SUB
+\ETYM
+\ETL
+\ROOT t@7px
+Page 1376

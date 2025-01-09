@@ -1,0 +1,64 @@
+\SCI
+\USE
+\SPG fogo*n
+\ENG fireplace
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 30/Apr/95
+\lex forma
+\_no 00609
+LG MIG
+\PSH
+\UND forma
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG forma
+\ENG form
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 24/Sep/94
+\lex framboyaanh
+\_no 00610
+\LG MIG
+\PSH [framboya*nh]
+\UND framboyaanh
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG flamboya*n
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 30/Apr/95
+LF: kuy
+ZOH004R0011001.txt
+Page 261

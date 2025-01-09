@@ -1,0 +1,63 @@
+ZOH004R0011001.txt
+\EXU 1 7@n+ ma7tz-pa 7@n+ way7_7@n+ tzanh.kuy' +j@nanh
+\XPSH 1 [7@n ma7tzpa 7@n way7 7@n tzanhkuyj@nanh.]
+\XSP 1 Amaso la masa con la mano.
+\XEN 1 I'm kneading the masa with my hand.
+\EXU 2 ma7tz.7@m-w@ bi way7
+\XPSH 2 [Matztz@mm@ bi way7.]
+\XSP 2 Esta* amasada la masa.
+\XEN 2 The dough is kneaded.
+\SYN
+\SEMF corn, cook
+\ASP activity
+\ARG
+\NOM
+\SUB 7ok.ma7tz. '@y, j@x=ma7tz, ma7tz=7anh.kam, ma7tz=nuk
+\ETYM
+\ETL
+\ROOT ma7tz
+\RTGR T3
+\DSRC HAJ94
+\CMTS amasar con la mano // knead with the hands
+\date 03/Jan/80
+\DATE 09/Aug/02
+\lex ma7tz=ne7kx
+\_no 01904
+\LG MIG
+\PSH [ma7tzne7kx-]
+\UND ma7tz=ne7kx
+\MB amasar, ser_pegajoso
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer pegajoso por amasarlo
+\ENG to knead sticky
+\EXU 7@y+ ma7tz=ne7kx-w@ 7@y+_way.e
+\XPSH [7@y ma7tzne7tkx@y wae.]
+\XSP Lo amaso* mas pegajoso.
+\XEN She kneaded her corn dough sticky.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ma7tz
+\RTGR T3
+\ROOT ne7kx
+\RTGR IX
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex ma7tz=nuk
+\_no 01905
+\LG MIG
+\PSH [ma7tznuk-]
+\UND_ma7tz=nuk
+\MB amasar, agarrar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG agarrar con la palma de la mano
+\ENG to hold something down with the palm of the hand
+Page 821

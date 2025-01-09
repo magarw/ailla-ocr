@@ -1,0 +1,78 @@
+\fts este libro esta* en esta bolsa
+\fte this book is in this purse
+\com
+\idx
+\cmts picture of a box? in a purse
+\ref 021
+\_no 00022
+\tx yad@
+\mb ya
+\sg1 DCT1-DEM casa 3E
+\eg1 DCT1-DEM house 3E MOUTH-nail -3PL-COM around
+da t@k 7@y 7anh -paj
+t@k 7@y 7anhpajxukk@
+tz@nkuy
+tz@n
+ZOH001R0601001.txt
+\sg1 DCT1-NOM1
+\eg1 DCT1-NOM1 sit
+\fts esta casa esta* cercado alrededor
+fte they fenced all around this house
+\com
+\idx
+\cmts picture of a house with a fence around it
+\ref 022
+\_no 00023
+\tx ya
+y@
+\mb y@ -7
+BOCA -clavar-3PL-COM alrededor
+estar_sentado-INSTR1
+kowiti*nh
+-xuk-w@ kowitiinh
+tum pelota
+-kuy7 k@j@7 teji
+abajo hay
+-7a -w@ tum pelota
+-VERS1-COM uno pelota
+-INSTR1 below there is-VERS1-COM one ball
+\tx yoteyepkuyjo7
+\mb yote7 -yep
+\sg1 ropa -tender
+\sg1 DCT1-DEM ropa
+\eg1 DCT1-DEM clothes-blanket
+\fts abajo de esta silla esta* una pelota
+\fte there's a ball under this chair
+\com
+\idx
+\cmts picture of a chair with a ball under it
+\ref 023
+\_no 00024
+\tx y@d@
+kotz@ktaka tum kuy7okoxxta* 7@y 7anhnitpa
+\mb ya -d@ kotz@k-taka7 tum kuy -7okox-xtaa7 7@y 7anhnit-pa
+\sg1 DCT1-DEM cerro -pelo*n uno palo-mata -NOMAS BE tener
+\eg1 DCT1-DEM hill -bald one tree-shrub-ONLY 3E have
+kaja7 teji7aw@
+\fts este cerro pelo*n tiene un arbol no mas
+\fte this bald hill has just one tree
+\com
+\idx
+\cmts picture of a hill with a single tree on the slope
+\ref 024
+\_no 00025
+\tx _y@d@
+yote7anhxuy7
+\mb ya -d@ yote7 -7anhxuy7 yep
+-cobija
+tender
+yepneyy@
+-kuy7 -jo7
+-INSTR1-LOC2
+y@
+-ney -wa y@ -7
+-ASSUM-COM DCT1-NOM1
+spread_out-ASSUM-COM DCT1-NOM1
+-INC
+- INC
+Page 7

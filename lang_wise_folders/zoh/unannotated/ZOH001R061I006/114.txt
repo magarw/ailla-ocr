@@ -1,0 +1,63 @@
+\ETYM
+\ETL
+\ROOT t@nh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex t@7px
+\_no 00168
+\LG MIG
+\PSH
+\UND t@7px
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer mecate
+\ENG to make rope
+\SPL t@7px. 7oy
+\SLGR ANTIP
+\SLGL hacer mecate // to make rope
+\SLGR NO PASS
+\SPL t@7px. ten
+\SLGR PRSV
+\SLGL tenerlo hecho mecate // to have the rope made
+\EXU 7@y+ t@7px-w@ bi_laxu
+\XPSH [7@y t@7px@ bi laxu.]
+\XSP Torcio* el mecate.
+\XEN He twisted the rope.
+\SYN
+\SEMF build
+\ASP activity
+\ARG
+\NOM t@7px.i7
+\SUB
+ETYM
+\ETL
+\ROOT t@7px
+\RTGR T3
+\DSRC HAJ94
+\CMTS the hand motion is one flat palm passing over the other
+\date 03/Jan/80
+\lex ta'
+\_no 00169
+\LG MIG
+\PSH
+\UND t@7
+ZOH001R0611006.txt
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 querer
+\SPG 2 aceptar
+ENG 1 to love; to want
+\ENG 2 accept as fiancee
+\SPL t@7.7oy
+\SLGR ANTIP
+\SLGL querer // to love, to want
+Page 114

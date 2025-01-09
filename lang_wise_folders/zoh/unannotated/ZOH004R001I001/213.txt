@@ -1,0 +1,63 @@
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Aug/94
+\lex 7um
+\_no 00496
+\LG MIG
+\PSH
+\UND 7um
+\MB
+\VAR
+\GRAM vt, vi:med
+\SCI
+\USE
+\SPG tirar un poco de algo (cafe*, frijol) del plato
+\ENG to spill a little something (coffee, beans) from a cup or plate
+\SPL 7um.7@m
+\SLGR PASS
+\SLGL tirarse // to be spilled
+\SLGR NO ANTIP
+\EXU 1 7@y+ 7um-w@ 7@y+ kafee
+\XPSH 1 [7@y 7umm@y kafe*.]
+\XSP 1 Tiro* su cafe*.
+\ENG 1 She spilled her coffee.
+\EXU 2 7um-w@
+\XPSH 2 [7umm@.
+\XSP 2 Se le tiro*.
+\XEN 2 It spilled.
+\EXU 3 ney 7um. '@m-w@ bi k@x.E
+\XPSH 3 [Ney 7umm@mm@ bi k@xi.]
+\XSP 3 Casi solo se tiro* la comida.
+\XEN 3 The food spilled by itself.
+\SYN
+\SEMF throw, food
+\ASP achievement
+\ARG
+\NOM 7um.i7
+\SUB 7ok. 'um. '@y, nik. 'um. '@y
+\ETYM
+\ETL
+\ROOT 7um
+\RTGR T2
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex 7um. 7um7
+\_no 00497
+\LG MIG
+\PSH [7um7um7]
+\UND 7um. 7um7
+\MB
+\VAR
+\GRAM SR
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG clase de mosca: chaquiste
+\ENG type of fly
+\EXU
+\XSP
+\XEN
+Page 213

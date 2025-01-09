@@ -1,0 +1,38 @@
+11.7. Temporal clauses
+Temporal clauses are most commonly constructed on the Spanish model,
+using the subordinators la 7ora ke (la hora que, '(at) the time when'), kwando
+(cuando, 'when') and myentras (mientras, 'while').
+(11.20)
+(i)
+(ii)
+(iii)
+la 'ora ke tayna nøkkø 'øy nipenwakkø 'øy machete
+la ora ke tay.na nək-wǝ ?ǝy+ ni.pen=wak-wǝ
+?ǝy+ mačete
+la hora que X.STAT ir-COM 3E+ PURP.apretar=*vaciar-COM 3E+ machete
+'La hora que se fue de espalda, le quitó de pescozón su machete.'
+(ZOH001 R018- 076)
+'øn ja:mtzøktampa kwando dø 'oktzamjadammø
+?ən+ hamV=cək-tam-pa
+kwando dǝ+ ?ok.cam.hay-tam-wǝ
+1E+ *mente=hacer-1/2PL-INC cuando 1A+ BAJO.platicar.APPL-1/2PL-COM
+'Lo recordamos cuando nos contó.'
+yakki ya pøtø myentras ke døš do teji'awo
+yakki ya 0 pǝlt-A
+myentras ke dəš də+ tehi.?a-wǝ
+nadie NEG 3A pasar-nINC mientras que 1Prn 1A+ hay.VERS1-COM
+'Nadie no pase mientras que yo esté.'
+(ZOH001 R018-052-3)
+(ZOH001R018-022)
+The Spanish word hora, 'hour', has also been borrowed as a MIG Zoque
+subordinator. It appears immediately after the verb complex, syntactically
+parallel to the relative and locative clitic subordinators. This one isn't a clitic,
+since if it were the initial syllable would contract with the final syllable of the
+preceding word. I believe this is the only case in MIG Zoque of a borrowed
+Spanish function word being used in accordance with the Zoque syntax, rather
+than importing the Spanish syntax along with the word 2.
+(11.21)
+(i) naxey yaknikpoyyoba 'ora 'øy tziwø 'axta gajáng
+2 Terrence Kaufman points out that the Zapotec of Juchitán also uses hora in this way, but it is a right-branching
+construction in that language.
+300

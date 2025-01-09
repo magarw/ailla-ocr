@@ -1,0 +1,63 @@
+\PSH [winkejke7t-]
+\UND win-kej.ke7t
+\MB CARA, verse, REPET
+\VAR
+\GRAM vi: repet
+\SCI
+\USE
+\SPG resultar
+\ENG to result
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kej
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex win-keo
+\_no 03693
+\LG MIG
+\PSH [winkeo-]
+\UND win-keYoH
+\MB CARA, brillar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG brillar
+\ENG to shine
+\SPL
+\SLGR
+\EXU win-keo-w@
+\XSP brillo*
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT keyOH
+\RTGR 12
+\DSRC HAJ95
+\CMTS no puede traducirlo; this must be a verb [TK]
+\date 26/Jun/96
+\lex win-ketz
+\_no 03694
+ZOH004R0011001.txt
+\LG MIG
+\PSH [winketz-]
+\UND win-ketz
+\MB CARA, regar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG regar (agua)
+\ENG to sprinkle water on something
+\EXU n@'-win-ketz-w@_patyu
+\XSP rego* agua en el patio
+Page 1587

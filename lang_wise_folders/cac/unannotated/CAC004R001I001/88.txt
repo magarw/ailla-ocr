@@ -1,0 +1,91 @@
+winhaj Xun jantak stzewaj winh
+winhaj Xun jantak tz-ø-tzewaj
+winh
+Cmasc Juan cuánto pres-3B-reírse Cmasc
+351. Juan se ríe de ti.
+a winhaj Xun tzachtzetzel winh
+a winhaj Xun tz-ach-s-tzetz-el
+winh
+top Cmasc Juan pres-2B-3A-reírse-DIR. afuera Cmasc
+352. A ese hombre lo mataron ayer.
+a jun winh winak chi' mak'naxcham winh ewi
+a jun winh winak chi' ø-Ø-mak'-nax-cham
+winh ewi
+top uno Cmasc hombre dem pas-3B-golpear-psv-morir Cmasc ayer
+353. Me cansé en la subida.
+178
+ixink'umwi ink'e t'a pak'an
+ix-in-k'umw-i
+in-k'e t'a pak'an
+pas-3B-cansarse-vti 1A-subir prep subida
+354. Ahora estoy cansado.
+a tik naik k'umwelal waji
+a
+tik_naik k’umw-el-al
+top ahora
+w-aj-i
+cansarse-DIR. afuera-nmlz 1A-exist-vti
+355. El caballo se cansó.
+ixk'umwi nok' chej
+ix-ø-k'umw-i
+nok'
+chej
+pas-3B-cansarse-vti Canimal caballo
+356. El caballo está cansado.
+k'umwelal yaj nok' chej
+k'umw-el-al
+y-aj nok' chej
+cansarse-DIR. afuera-nmlz 3A-exist Canimal caballo
+357. Él cansó al caballo.
+ixk'umwi nok' chej yuj jun winh chi'
+ix-ø-k'umw-i nok' chej y-uj jun winh chi'
+pas-3B-cansarse-vti Canimal caballo 3A-SR uno él
+dem
+358. María está durmiendo al nene.
+a ix Malin wan yak'an way winh nene ix
+a
+ix
+Malin wan ø-y-ak'-a
+way winh
+nene ix
+top Cfem María prog 3B-3A-dar-prog dormir Cmasc nene Cfem
+359. María se durmió.
+ixway ix Malin
+ix Malin
+ix-Ø-way
+pas-3B-dormir Cfem María
+360. María hizo dormir al nene.
+a ix Malin ixyak'an way winh nene ix
+a ix
+Malin ix-ø-y-ak'-an
+way winh nene ix
+top Cfem María pas-3B-3A-dar-psc dormir Cmasc nene Cfem
+ixyak' way winh nene ix Malin
+ix-ø-y-ak'
+way winh nene ix Malin
+pas-3B-3A-dar dormir Cmasc nene Cfem María
+361. Juan va a agrandar la casa.
+winhaj Xun olyak' niwanb'ok te' pat winh
+winhaj Xun ol-ø-y-ak'
+niwan-b'-ok
+te'
+pat winh
+Cmasc Juan fut-3B-3A-dar grande-vblz-IRR Cmadera casa Cmasc
+362. Juan va a achicar la casa.
+winh
+winhaj Xun yunexonhej olyutok te' pat
+winhaj Xun y-une-xo-nhej ol-ø-y-ut-ok
+Cmasc Juan 3A-hijo-adv-sólo fut-3B-3A-hacer-IRR Cmadera casa
+te'
+pat
+winh
+Cmasc
+363. Juan agranda la casa todos los años.
+winhaj Xun sniwanb'i te' pat winh jun jun ab’il
+winhaj Xun tz-Ø-s-niwan-b'-i
+te'
+pat winh
+Cmasc Juan pres-3B-3A-agrandar-vblz-vti Cmadera casa Cmasc
+jun jun ab'il
+uno uno año
+179

@@ -1,0 +1,49 @@
+(v)
+(vi)
+(6.7)
+(i)
+Non-core arguments include the direction, location, and time adverbs
+(example i, below), and the deictics when composed with one of the locative,
+directional or temporal suffixes. Noun phrases filling this sort of role will be
+marked by postpositions (ii), with the exception of location expressions,
+discussed above. Other non-core arguments that are marked by postpositions
+are instruments (iii) and accompaniments (iv).
+(ii)
+bi
+bi juxtixa 'øy yaktziwo bi pøn bi yomá' bi toto'
+bi huštiša ?əy+yak.ci?-wǝ
+рәп bi yomaa? bi toto?
+DEF autoridad 3E+ CAUS.dar-COM DEF hombre DEF mujer DEF papel
+'El presidente mandó al hombre que diera una carta a la mujer.'
+(elicitado)
+(iii)
+bi juxtixa bi pøn 'øy yaktzøkjayyø bi yomá' tum tøk
+bi
+huštiša
+bi pən
+?əy+yak.cək-hay-wǝ
+bi yomaa? tum tək
+DEF autoridad DEF hombre 3E+ CAUS.hacer.APPL-COM DEF mujer uno casa
+'El presidente mandó al hombre que construyera una casa para la mujer.'
+(elicitado)
+time adverbial
+yøjama byernes dø køxtzøktampa
+yə.hama byernes də+ kəš.E=cək-tam-pa
+DCT1.día viernes 1A+ comer.NOM3-hacer-1/2PL-INC
+Hoy, viernes, vamos a hacer comida.'
+directional NP
+dø pitzømdammø jǝytihóng
+də+ picəm-tam-wǝ
+həyti+həəŋ
+1A+ salir-1/2PL-COM juchitán+DIR1
+'Salimos de Juchitán.'
+instrument
+tum tzangkuypi'txtá' 'øn nukkø
+tum caŋkuy?+pi?t+štaa?
+?ǝn+ nuk-wə
+uno mano+INSTR+NOMAS 1E+ agarrar-COM
+'Con una mano no más lo agarré.'
+115
+(ZOH001R029- 065)
+(ZOH001R010- 248)
+(ZOH001R025-187)

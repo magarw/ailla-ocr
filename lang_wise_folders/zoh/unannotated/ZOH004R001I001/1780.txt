@@ -1,0 +1,64 @@
+ZOH004R0011001.txt
+\XSP Colgo* los papelitos en todo alrededor.
+\XEN She hung the paper decorations all around.
+\SYN ko.yep=wi tu'
+\SEMF
+\ETYM
+\ETL
+\ROOT yep
+\RTGR P (T3)
+\ROOT witu7
+\RTGR 11
+\DSRC HAJ02
+\CMTS
+\DATE 09/Aug/02
+\lex yerba
+\_no 04141
+\LG MIG
+\PSH
+\UND yerba
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG yerba; tara*ntula
+\ENG tarantula
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Nov/94
+LF:bugs
+\lex yerbawena
+\_no 04142
+\LG MIG
+\PSH
+\UND yerbawena
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG yerba buena
+\ENG a type of herb
+\EXU yerbabwena 7ay7
+\XSP hoja de yerba buena
+\SYN waja tzamm@7
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\lex ye7tz
+\_no 04143
+LF: 7okox = tzamm@7
+\DSRC TK94
+\CMTS
+\date 29/Jan/96
+Page 1780

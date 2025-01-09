@@ -1,0 +1,63 @@
+\SLGR CAUS
+\SLGL_cerrar // to close
+\EXU 7@y+ yak.'anh=kam-m@
+\XPSH [7@y yanhkamm@.]
+\XSP Lo cerro*
+\XEN She closed it.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7anh-kam
+\RTGR 12
+\DSRC HAJ94
+\date 09/Jan/96
+\lex 7anh-kax kuy
+\_no 00091
+\LG MIG
+\PSH [7anhkax kuy]
+\UND 7anh-kax kuy7
+\MB BOCA, dar_paso, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG puntal, gancho una vara como horqueta
+\ENG hook
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kax
+\RTGR P
+\DSRC HAJ94
+\CMTS CK-PH, CK-GR OK; NOW it's fixed: TK
+\date 24/Jun/96
+\lex 7anh-kax=tuk
+\_no 00092
+\LG MIG
+\PSH [7anhkaxtuk-]
+\UND 7anh-kax=tuk
+\MB BOCA, dar_paso, cortar
+\VAR
+\GRAM vt:incorp
+\SCI
+ZOH004R0011001.txt
+\USE
+\SPG desramar
+\ENG to prune
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 kax
+\RTGR 1 P
+\ROOT 2 tuk
+\RTGR 2 T3
+Page 40

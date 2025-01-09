@@ -1,0 +1,41 @@
+(25) mikhu-na-n-kama
+comer-NOM/DS-3S-TERM
+'esperaré hasta que coma'
+suya-saj
+esperar-FUT/1S
+(26) mikhu-na-n-paj
+o como -paj, "caso benefactivo", que da como resultado "oraciones de propósito"
+(según Cole 1983; Cerrón Palomino 1987; Lefebvre y Muysken 1988):
+waja-sha-ni
+llamar-PROGR-1S
+comer-NOM/DS-3S-BEN
+'lo estoy llamando para que coma'
+(27) cacha-ni Eloy-ta Potosi-man mama-y-ta
+visita-na-n-paj
+enviar-18 Eloy-AC Potosí-ALAT mamá-POS1-AC visitar (ESP.)-NOM/FUT/DS-3S-BEN
+'envié a Eloy a Potosí para que visite a mi madre'
+109
+Como fue mencionado, la terminación resultante “-na(n)paj” ha sido identificada en
+varias gramáticas del quechua (Berrios 1919; Lara 1978; Bravo 1984), e incluso en estudios
+sobre sistemas discursivos que han cobrado relevancia recientemente en lingüística (e.g.
+sistema de switch-reference) (Cole 1983), como una "terminación de subjuntivo".
+A primera vista, la interpretación modal sería semánticamente justificable en tanto la
+selección de esta combinatoria de sufijos involucra rasgos asociados a las formas subjuntivas
+en diversas lenguas: no implica factividad (en general, proyecta la realización futura de una
+acción como en el ejemplo 26) (Bybee y Terrell 1974); interviene la distinción entre
+solapamiento referencial y disjunción referencial (Kempchinsky 1986) (e.g. "mismo sujeto /
+sujeto diferente" ya que las formas con-na son preferidas cuando los sujetos son diferentes
+como se vio en el ejemplo 23 en contraste con 24¹34); es sensible a la distinción entre
+referencia definida vs. indefinida (Tsoulas 1995) (se desarrolla más adelante, ejemplos 43 y
+ss.); y, finalmente, parece distinguir primera persona de "otras" personas, es decir, una
+jerarquía de personas se muestra relevante a la selección de su forma (tal como lo señala Cole
+1983) (este aspecto será pertinente al análisis de la tercera construcción y se expone en el
+próximo apartado).
+4.2.3. Irrealis expresado mediante el par -spa/-jti-
+El tercer tipo de construcción que ingresa en la expresión del dominio de Irrealis,
+según mi propuesta, aparece con mucha frecuencia en el corpus. Sintácticamente, se sostiene
+sobre inter-ordinación de cláusulas. Los sufijos que introducen las lecturas de irrealis (en
+general, condicionales) son sufijos de flexión verbal a los que muchos autores identifican
+como "subordinadores" (Cerrón Palomino 1987; Lefebvre y Muysken 1988; entre otros). Si
+134
+Lo mismo analiza Cole (1983: 6) siguiendo otro contraste entre formas en el quechua Imbabura.

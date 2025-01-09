@@ -1,0 +1,80 @@
+6.
+7.
+8.
+68
+No, no es nueva.
+ma'ay ak'to laj te'
+ma'ay ak'to-ø laj te'
+neg
+ma'ay, man ak'tok laj te'
+ma'ay, man ak'to-ø-ok
+nuevo-3B neg Cmadera
+laj te'
+neg, neg nuevo-3B-IRR neg Cmadera
+Sí.
+i'
+afirm
+No.
+ma'ay
+neg
+Yo soy alto.
+a in tik cha'anh inte'el
+a in tik cha anh in-te-el
+top 1B dem alto
+1A-tamaño-gen
+Tú eres alto.
+a ach tik cha'anh ate'el
+a
+ach tik cha'anh a-te'-el
+top 2B dem alto 2A-tamaño-gen
+Él es alto.
+cha anh steel winh
+cha'anh s-te'-el
+alto 3A-tamaño-gen él
+Ella es alta.
+cha anh ste’el ix
+cha'anh s-te'-el
+alto
+winh
+ix
+3A-tamaño-gen ella
+Nosotros somos altos.
+a onh tik cha'anh kote'el
+a onh tik cha anh ko-te’-el
+top 1Bpl dem alto
+Ustedes son altos.
+a ex tik cha'anh ete'el
+a
+top 2Bpl dem alto
+ex tik cha'anh e-te'-el
+Soy chaparro.
+tzapan inte'el
+Ellos son altos.
+a eb’ chanh steel eb’ winh
+a
+eb’ chanh s-teel
+eb' (winh/ix)
+top
+ellos alto 3Apl-tamaño-gen ellos (él/ella)
+Eres chaparro.
+tzapan ate'el
+1Apl-tamaño-gen
+tzapan in-te'-el
+chaparro 1A-tamaño-gen
+Soy gordo.
+b'ak'echin
+b'ak'ech-in
+gordo-1B
+2Apl-tamaño-gen
+tzapan a-te'-el
+chaparro 2A-tamaño-gen
+Eres gordo.
+b'ak'echach
+b'ak'ech-ach
+gordo-2B
+Él es gordo.
+a winh b’ak’ech winh
+a winh b’ak’ech-ø winh
+top él
+gordo-3B Cmasc
+69

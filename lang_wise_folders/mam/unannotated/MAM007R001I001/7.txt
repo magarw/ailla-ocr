@@ -1,0 +1,66 @@
+(71) n=ch=iky
+INC=B3p=DIR A3s-llevar/traer-RES
+'llevó los coches,'
+(72) n=ch=e'x
+t-k'aa'ya-kj,
+INC=B3p-DIR A3s-vender-RES
+'los fue a vender,'
+(73) jaa'=la
+tuumal.
+dónde MIR dónde
+'quién sabe dónde.'
+(74) Jun-tzan 0=0=b'ant,
+uno pues
+'Tuvo una idea,'
+(75)_n=ch=el
+t-jee'
+kuch,
+INC=B3p=DIR A3s-llevar/traer-SD A3s-cola marrano
+'cortó las colas de los coches,'
+t-ii-’kj
+(76) b'ix at-0
+y
+'y había un gran charco'
+(77) n=chi
+CPL.DEP=B3s-hacer
+txqan
+t'al
+EXIST=B3s mucho líquido
+(78) Ma-tzan
+ku'=x t-tx'apo-'n
+INC=B3p _DIR=DIR A3s-insertar-SD
+'en lo cual metió las colas.'
+PROX=pues
+t-ii-'n
+(80) li ma=a'
+(79) patroon, 0-chi-tzan,
+patrón B3s-decir-pues
+'patrón, dijo,'
+patroon,
+patrón
+'Entonces Pedro se fue a contarlo al patrón,'
+(81) ¿tii kook-al
+(82) 0-chi-tzan.
+kuch,
+marrano
+B3s=decir-pues
+'dijo.'
+xooq'l
+lodo
+0-txi' Luuch q'am-al t-e
+B3s-ir Pedro contar-INF A3s-SR:PAC A3s-SR:COM
+t-uj.
+A3s-SR:en
+ch=e'x b'aj=kya
+INJ PROX=ENF B3p=DIR terminar-3pENF marrano
+t'al
+xooq'l,
+líquido lodo
+'híjole, los coches están metidos en el charco,'
+q-u'n?
+qué B3s-entrar-POT Alp-SR:AGT
+'¿qué vamos a hacer?'
+t-uk'
+kuch t-uj
+A3s-SR:en
+8

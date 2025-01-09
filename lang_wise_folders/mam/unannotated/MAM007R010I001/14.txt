@@ -1,0 +1,95 @@
+Abreviaturas
+Juego A
+absolutivo)
+ABST sustantivo abstracto
+ADJ
+derivación de adjetivo
+afirmativo
+AF
+A
+(A
+AFEC palabra afectiva
+AGT agente/agentivo
+AP antipasivo
+AT atenuativo
+ATR atributivo
+AUM
+aumentativo
+B Juego B
+BEN benefactivo
+CAUS causativo
+CL clasificador
+CF contrafáctica
+CNJ conjunción
+COM comitativo
+COMP complementante
+CPL completivo
+CPR comparativo
+DAT dativo
+DEM demostrativo
+DEP dependiente
+DER derivación
+DESP desplazamiento
+DIM diminutivo
+DIR direccional
+DIRC dirección cardinal
+DIST distributivo
+(E ergativo)
+ENCL enclítico
+ENF énfasis, enfático
+EVID evidencial
+EXCL exclusivo
+EXIST existencial
+FEM femenino
+GEN gentilicio
+IMP
+imperativo
+IMPF imperfecto
+INAL sustantivo inalienable
+INAN inanimado
+INC incompletivo
+IND
+indefinido
+INF
+infinitivo
+INJ interjección
+INST instrumento
+INT interrogativo
+INTNS intensificador
+IRR irreal
+MASC masculino
+MIR mirativo
+NEG negativo
+NOM nominalizador
+NUM sufijo numeral
+ordinal
+ORD
+p/PL plural
+P>I intransitivo de posicional
+P>T transitivo de posicional
+PAC paciente
+PART participio
+PAS pasivo
+PERF perfecto
+POS posesivo
+POT
+potencial
+PRON pronombre
+PROP propósito
+PROX próximo
+PSL predicado posicional
+ORD número ordinal
+RECIP recíproco
+REFL reflexivo
+RES
+resultativo
+S
+singular
+SD sufijo con direccional
+SPAC sustantivo pacientivo
+SR sustantivo relacional
+TERM terminación específica
+V verbo (derivación)
+VT
+verbo transitivo
+15

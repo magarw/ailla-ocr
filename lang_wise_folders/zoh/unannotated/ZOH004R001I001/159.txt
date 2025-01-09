@@ -1,0 +1,62 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS get deriv's [not clear if related to %motz or %mo7tz: TK
+\date 24/Jun/96
+\lex 7ok.muy. '@y
+\_no 00369
+\LG MIG
+\PSH [7okmuyy@y-]
+\UND 7ok.muy.7@y
+\MB ABAJO, tener_en_boca, SUF
+\VAR
+\GRAM vt
+\SPG sacar algo de la boca
+\ENG to get something out of one's mouth
+\EXU 7@n+ 7ok.muy. '@y-w@ bi n@7
+\XPSH [7@n 7okmuyy@yy@ bi n@7.]
+\XSP Saque* el agua de la boca.
+\XEN I Spit the water out of my mouth.
+\SYN
+\ROOT muy
+\RTGR T2, 12
+\DSRC HAJ95
+\CMTS
+\date 22/Jun/96
+\lex 7ok.m@k=tzak. '@y
+\_no 00370
+\LG MIG
+\PSH [7okm@ktzakk@y-]
+\UND 7ok.m@k=tzak.7@y
+\MB ABAJO, mezclar, dejar, SUF
+\VAR
+\GRAM vt
+\SPG dejar de envolver (tamal)
+\ENG to leave off wrapping (tamales)
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\ROOT 1 m@k
+\RTGR 1 P, (T3)
+\ROOT tzak
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 22/Jun/96
+\lex 7ok.m@x
+\_no 00371
+\LG MIG
+\PSH [7okm@x-]
+\UND 7ok.m@x
+\MB ABAJO, dar_asco
+\VAR
+\GRAM vt
+\SCI
+\USE
+Page 159

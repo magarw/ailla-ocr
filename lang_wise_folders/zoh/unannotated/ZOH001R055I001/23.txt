@@ -1,0 +1,98 @@
+ZOH001R0551001.txt
+"I
+\zoq 7@y n@mjaba Jerma*n, 7@y n@mjayy@ ke, "Y@jama d@ ye7tztz@."
+\fts Le dijo Germa*n, le dijo que "Hoy llegue*
+\fte German said to him, he said to him that "I arrived today."
+\com
+\idx
+\ref ZOH001R055 098
+\_no 00099
+da
+pwes joji7
+-7
+da
+\tx 7a bweno w@ja pwes joji
+\mb 7a bweno w@ja
+\sg1 ah bueno bueno pues man~ana DCT2-NOM1 1A
+\egl ah good good well morning DCT2-NOM1 1A
+\tx yox7okmanhtampa*m
+\mb
+yox
+-7okmanh-tam -pa -7am
+trabajar-empezar-1/2PL-INC-YA
+\sgl
+\egl work
+n@mpa
+bi 7ap
+n@m -ра bi 7apu
+decir-INC DEF viejo
+-begin -1/2 PL-INC-NOW say -INC DEF old
+\zoq "7a bweno, w@ja, pwes joji de7 d@ yoxokmanhtampa*m," n@mpa bi
+7aptoma*s.
+\ref ZOH001R055 099
+\_no 00100
+\tx bweno n@mpa
+\mb bweno n@m
+\fts "Ah, bueno, bueno, pues man~ana vamos a empezar a trabajar", dice el
+viejo Tomas.
+\fte "oh, good, good, well tomorrow we'll start work," said the old Toma*s.
+\com
+\idx
+\sg1 bueno decir-INC Germa*n
+\egl good say -INC Germa*n
+jerma*n
+-pa jerma*n
+\zoq "Bweno," n@mpa Jerma*n.
+\fts "Bueno' dice Germa*n.
+"I
+"
+\fte "OK", says Germa*n.
+\com
+\idx
+\ref ZOH001R055 100
+\_no 00101
+\tx _n@mpa
+\mb n@m
+de7
+te
+\tx ti
+naxe
+joypi7t
+x@nhkejan@mm@
+\mb ti
+naxe
+joypi7t x@nh -kej -An@m -w@
+\sgl que verdad otro_di*a fiesta -verse -INDEF-COM
+\egl what truth next day festival-appear-INDEF-COM
+\zoq Ti naxe joypi7t x@nhkejan@mm@.
+\fts De ahi* de verdad el otro di*a amanecio*.
+\fte Then, in fact, the next day dawned.
+\com
+\idx vseq_cmp
+\ref ZOH001R055 101
+\_no 00102
+ke
+-pa ke
+\sg1 decir-INC que
+\egl say -INC that
+\tx yox@
+\mb yox
+-A
+\sgl trabajar-nINC
+toma*s
+toma*s
+Toma*s
+Thomas
+- tam -A
+ya d@ yoxtam@
+70 sea
+ya da yox
+70 sea
+NEG 1A trabajar-1/2 PL-nINC o sea
+NEG 1A work
+mix ya 7@m
+mix ya
+7@m
+2Prn NEG 2A
+-1/2PL-nINC or may be 2Prn NEG 2A
+Page 23

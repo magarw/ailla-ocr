@@ -1,0 +1,63 @@
+\lex yoya
+\_no 04181
+\LG MIG
+\PSH
+\UND yoya
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG puerca; marrano
+\ENG pig
+\EXU chik yoya
+\XSP cochita
+\XEN little pig
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+LF:7anmal
+\lex yoya kin@k
+\_no 04182
+\LG MIG
+\PSH
+\UND yoya kin@k
+\MB marrano, trompa
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG trompa de marrano
+\ENG pig snout
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex yoya kwina
+\_no 04183
+\LG MIG
+\PSH
+\UND yoya kwina
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG marrana cuina
+\EXU
+\XSP
+\XEN
+ZOH004R0011001.txt
+Page 1797

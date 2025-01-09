@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG agarrar con el pun*o algo pequen~o que no se ve
+\ENG to hold something small in the closed fist so it isn't visible
+\SPL mi7tz.7oy
+\SLGR ANTIP
+\SLGL agarrar en pun~o // to hold in the closed fist
+\SLGR NO PASS
+\EXU
+\XSP
+\XEN
+\SYN mi7kx (casi lo mismo)
+\SEMF hand, carry
+\ASP activity
+\ARG
+\NOM mi7tz.naanh, mi'tz.i
+\SUB mi7tz=nuk, mi7tz=p@k
+\ETYM
+\ETL
+\ROOT mi7tz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex mi7tz.naanh
+\_no 01967
+\LG MIG
+\PSH [mi7tzna*nh]
+\UND mi7tz.naanh
+\MB agarrar_en_pun~o, MED1
+\VAR
+\GRAM med
+\SCI
+\USE
+\SPG manojito
+\ENG handful
+\SPL
+\SLGR
+\EXU tum mi7tz.naanh
+\XPSH [tum mi7tzna*nh]
+\XSP un manojito
+\XEN one handful
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT mi7tz
+\RTGR T3
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex mi7tz=nuk
+\_no 01968
+\LG MIG
+\PSH [mi7tznuk-]
+\UND mi7tz=nuk
+\MB agarrar_en_pun~o, agarrar
+\VAR
+\GRAM vt
+ZOH004R0011001.txt
+\SCI
+\USE
+Page 848

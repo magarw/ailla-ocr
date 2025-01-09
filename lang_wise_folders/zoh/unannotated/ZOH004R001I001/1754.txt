@@ -1,0 +1,63 @@
+\_no 04079
+\LG MIG
+\PSH [yajj@y-]
+\UND_yaj.7@y
+\MB lejos, VERS2
+\VAR
+\GRAM vers2
+\SCI
+\USE
+\SPG alejarse
+\ENG to withdraw from
+\SPL yak.yaj.7@y
+\SLGR CAUS
+\SLGL alejar // to remove to a distance
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS %yaj A2
+\date 28/Jan/96
+\lex yak+ manak. 'oy
+\_no 04080
+\LG MIG
+\PSH [yakmanakkoy-]
+\UND yak+ manak.7@y. 7oy
+\MB CAUS, hijo/a, SUF, ANTIP
+\VAR
+\GRAM antip
+\SCI
+\USE
+\SPG estar de partera
+\ENG to be a midwife
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\lex yak+ 'oy
+\_no 04081
+\LG MIG
+ZOH004R0011001.txt
+\PSH [yakkoy-]
+\UND yak.ka.7oy
+\MB CAUS, morirse, ANTIP
+\VAR
+\GRAM antip:caus1
+\SCI
+\USE
+\SPG matar
+\ENG to kill
+Page 1754

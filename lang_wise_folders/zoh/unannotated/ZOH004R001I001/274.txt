@@ -1,0 +1,62 @@
+\ROOT jakx
+\RTGR 11
+\DSRC
+\CMTS
+\date 03/Jan/80
+\lex jakx.jakx.ney
+\_no 00640
+\LG MIG
+\PSH [jakxjakxney-]
+\UND jakx.jakx.ney
+\MB
+\VAR
+\GRAM VIR
+\SCI
+\USE
+\SPG sacar el moco de la boca
+\ENG to spit out phlegm
+\EXU
+\XSP
+\XEN
+\SYN jakx
+\SEMF
+\ETYM
+\ETL
+\ROOT jakx
+\RTGR I1
+\DSRC HAJ94
+\CMTS casi lo mismo de jakx
+\date 13/Jun/95
+\lex jakx.kuy7
+\_no 00641
+\LG MIG
+\PSH [jakxkuy7]
+\UND jakx.kuy7
+\MB sacar_de_boca, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG tronco de la lengua
+\ENG root of the tongue
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jakx
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+\lex ja7k
+\_no 00642
+\LG MIG
+\PSH
+\UND ja7k
+ZOH004R0011001.txt
+Page 274

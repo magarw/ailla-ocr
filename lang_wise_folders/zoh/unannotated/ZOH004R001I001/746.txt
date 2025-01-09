@@ -1,0 +1,63 @@
+\ETYM
+\ETL
+\ROOT 1 k@nh
+\RTGR 1 12
+\ROOT 2 ka
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex k@nh-ko.p@7t
+\_no 01724
+\LG MIG
+\PSH [k@nhkop@7t-]
+\UND k@nh-ko.p@7t
+\MB madurarse, OTRO, cruzar
+\VAR
+\GRAM vi+dir
+\SCI
+\USE
+\SPG pasarse de maduro
+\ENG to get over-ripe
+\EXU k@nh-ko.p@7t-w@ t@m
+\XPSH [K@nhkop@7tt@ t@m.]
+\XSP Se paso* de maduro una fruta.
+\XEN A piece of fruit has become over-ripe.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 k@nh
+\RTGR 1 12
+\ROOT 2 p@7t
+\RTGR 2 11
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex k@nh-ko.wak
+\_no 01725
+\LG MIG
+\PSH [k@nhkowak-]
+\UND k@nh-ko.wak
+\MB pintar, OTRO, *vaciar
+\VAR
+\GRAM vi
+\SPG despintarse
+\ENG to lose color
+SPL
+\SLGR
+\EXU k@nh-ko.wak-wa
+\XPSH [K@nhkowakk@.]
+\XSP Se despinto* (la color que teni*a).
+\XEN It lost its color.
+\SYN
+\SEMF
+\ROOT 1 k@nh
+ZOH004R0011001.txt
+\RTGR 1 T3
+\RTGL 1 pintar
+\ROOT 2 wak
+\DSRC
+\CMTS
+\date
+Page 746

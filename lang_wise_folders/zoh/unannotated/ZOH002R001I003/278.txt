@@ -1,0 +1,49 @@
+The syntax of a phrase in which both possessor and possessee are
+referenced by nouns (rather than merely by agreement markers) is:
+(9.26)
+(i)
+(ii)
+(iii)
+(9.27)
+(i)
+Possessor Noun
+(ii)
+Ergative marker
+agreeing with Possessor
+bi kotzunu 'øy 'angkimpá'
+bi kocunu ?ǝy+ ?aŋkimpá?
+DEF soldado 3E+ líder
+'Él que manda los soldados'
+rrancho 'øy nøji kajang
+rrančo ?ǝy+ nəhi
+kahan
+rancho 3E+ nombre jaguar
+'el rancho que se llama Tigre'
+There are possessive pronouns for each of the three discourse persons:
+tənti?, 'mine', minti?, 'yours', and ?əyti?, 'hers/his/its/theirs'. They may be
+used redundantly with the possessive agreement marker, as seen in examples
+(9.26 ii and iii). A chain of possessive noun phrases is shown in example (vi).
+mixxøm tzøkø minti ne'
+miš ?əm+ cək-A?
+minti? ne?
+2 Prn 2E+ hacer-IMPV 2PosN también
+'Haz también tuyo.'
+Possessed Noun
+bi
+rromán bi ?oko-pən
+naxey pa'chukkø bi rromán bi 'okpøn 'øy tøkjo'
+naše ?ǝy+ pa?t-šuk-wǝ
+?əy+tək+ho?
+verdad 3E+ encontrar-3PL-COM DEF román DEF vieja-hombre 3E+ casa+LOC2
+'De verdad encontraron a Román en la casa de la viejita.'
+(ZOH001 R018-143)
+tøntin kopakjo 'øn 'angnitpa
+tənti? ?ən+ kopak+ho?
+Pən+ Paŋnit-pa
+1 PSN 1E+ cabeza+LOC2 1E+ tener-INC
+'Lo tengo en mi mente.'
+(ZOH001R024-034)
+252
+(ZOH001R018-106)
+(ZOH001R024-401)
+(ZOH001R032-119)

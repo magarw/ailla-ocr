@@ -1,0 +1,76 @@
+\fts pero siempre nosotros nos llevamos.
+\fte but we always get along.
+\com
+\idx
+\ref ZOH001R043 056
+\_no 00057
+\tx porke y@7
+\mb porke ya
+\tx 7anhkimmodame
+\mb 7anh -kim -7oy - tam -E
+\sg1 BOCA -subir-ANTIP-1/2PL-dCOM
+\eg1 MOUTH-mount-ANTIP-1/2PL-dCOM
+y@ji
+-7 ya -ji7 7@n min
+- tam -wa
+\sg1 porque DCT1-NOM1 DCT1-LOC1 1E venir-1/2PL-COM 1E
+\eg1 because DCT1-NOM1 DCT1-LOC1 1E come -1/2PL-COM 1E
+\ref ZOH001R043 057
+\_no 00058
+\tx ya mintamm@
+min
+\zoq Porke y@7 yaji7 7an mintamm@ 7@n 7anhkimmodame.
+\fts Porque aqui venimos a mandar.
+\fte Because we came here to lead.
+\com
+\idx
+ZOH001R0431001.txt
+\ref ZOH001R043 058
+\_no 00059
+\tx
+\mb
+n tukximetztame
+\mb__ya
+- tam -wa 7@n tukxi7-me7tz -tam -E
+\sg1 NEG venir-1/2PL-COM 1E pleito-buscar-1/2PL-dCOM
+\eg1 NEG come -1/2PL-COM 1E fight -look -1/2 PL-dCom
+\zoq Ya mintamm@n tukximetztame.
+\fts No venimos a buscar pleito.
+\fte we didn't come to look for a fight.
+\com
+\idx
+7@n mintamm@
+\ref ZOH001R043 059
+\_no 00060
+mix n@mjadampa
+tum@da*nh
+pitzenhjo dey
+pitzenhjo7 te -y mix n@m -jay -tam -ра tum@-7@y-taanh
+\sg1 por_eso DCT2-TMP 1>2 decir-APPL-1/2PL-INC uno -VERS2-HORT
+\eg1 because DCT2-TMP 1>2 say -APPL-1/2PL-INC one -VERS2-HORT
+\zoq Pitzenhjo7 dey mix n@mjadampa tum@da*nh.
+\fts Por eso ahora les digo, hagamonos uno.
+\fte That's why now I say to you, let's be as one.
+\tx 7un
+\mb 7u
+\zoq 7un kukp@ktuktamm@ kumkuy7,
+\fts No dividamos el pueblo,
+\fte Let's not divide the town,
+\com
+\idx
+kukp@ktuktamm@
+kumkuy
+kumkuy7
+-7@n kuk -p@k -tuk -tam -wa
+\sg1 NEGimpv-1E centro-agarrar-cortar-1/2PL-nIMPV pueblo
+\egl NEGimpv-1E center-get
+-cut
+-1/2PL-NIMPV town
+\ref ZOH001R043 060
+\_no 00061
+\tx para ke n@mmoba
+7@n
+7@n
+n tz@ktamm@
+Page 14
+neyti yoxkuy,

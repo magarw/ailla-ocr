@@ -1,0 +1,63 @@
+\LG MIG
+\PSH
+\UND way
+\MB DEPOS
+\VAR
+\USE verbal suffix: depositive
+\GRAM suf
+\SPG poner en la forma de VERBO
+\ENG to put in the form of VERB
+\SPL
+\SLGR
+\EXU win.n@k-ten.w@y-w@
+\XPSH [winn@ktenn@yy@.]
+\XSP Se paro* enfrente de ella.
+\XEN He stood in front of her.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {.w@y} [2]
+\_no 04518
+\LG MIG
+\PSH
+\UND way
+\MB ITER2
+\VAR
+\USE verbal suffix: iterative. There is always a reduplicated syllable
+between the event verb and the iterative suffix, usually -pak-,
+-tuk-, -tzanh-, or -t@nh-. -pak- means 'to tighten' and the other
+three mean basically 'to cut'.
+\GRAM suf
+\SPG VERBO mucho
+ENG to VERB a lot
+\SPL
+\SLGR
+\EXU 7@y+ me7kx.pak.pak.w@y-w@
+\XPSH [7@y me7kxpakpakw@yy@.]
+\XSP Le abrazo* fuertemente.
+\XEN She hugged him securely.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {-w@} [1]
+\_no 04519
+\LG MIG
+\PSH
+\UND wa
+\MB COM
+ZOH004R0011001.txt
+\VAR
+\USE inflectional verbal suffix: completive
+\GRAM suf
+\SPG
+\ENG
+\SPL
+Page 1940

@@ -1,0 +1,80 @@
+ZOH001R0361001.txt
+\_no 00993
+\tx 7adonde yakn@kpa
+7@y tzokoy 7@y n@mm@
+\mb 7adonde yak -n@k -pa 7@y tzokoy7 7@y n@m
+\sgl adonde CAUS-irse-INC 3E corazon 3E
+\egl where
+CAUS-go -INC 3E heart 3E
+\tx tzajja
+\mb
+tzaj -w@
+\sg1 pegar-co
+\egl glue -COM
+\zoq 7adonde yakn@kpa 7@y tzokoy 7@y n@mm@y kom kwandu tzajja.
+\fts como que va en su corazo*n como que se pego* mal.
+\fte where it makes it go in its heart, he said, and like when it's stuck.
+\com
+\idx
+\ref ZOH001R036 999-012
+\_no 00994
+\tx
+7@y tzokoyjo
+gag@ mal
+ka -g@ mal
+\mb tzak -7@m -w@ 7@y tzokoy7 -jo7
+\sg1 dejar-PAS -COM 3E corazo*n-LOC2 DCT3-DEM mal
+\egl leave-PASS-COM 3E heart -LOC2 DCT3-DEM bad
+tzakk@mm@
+\zoq Tzakk@mm@ 7@y tzokoyjo gag@ mal.
+\fts Esa enfermedad se quedo en su corazo*n.
+\fte That illness was left in his heart.
+\com
+\idx
+\ref ZOH001R036 999-013
+\_no 00995
+\tx
+\mb entonces bi mama
+\sg1 entonces DEF mama*
+\egl then
+7entonse bi mama 7@y j@xm@7kpa
+\ref ZOH001R036 999-014
+\_no 00996
+\tx
+\mb GSM
+bi
+7@y jax -m@7k -pa bi
+3E ATRAS-orden~ar-INC DEF pecho
+DEF mother 3E BACK -milk -INC DEF breast 3E
+\zoq 7entonse bi mama 7@y j@xm@7kpa bi tzutzi 7@y leche 7@y -
+\fts Entonces la mama* esprime su pecho la leche
+\fte Then the mother expresses her breast milk
+\com
+\idx
+GSM: tzutzi n@7
+tzutzi7 n@7
+y kom kwandu
+-w@ 7@y komo kwandu
+decir-COM 3E como cuando
+say -COM 3E how when
+agua
+\sg1 GSM: pecho
+\egl GSM: breast water
+\zoq GSM: Tzutzi n@7.
+\fts GSM: Agua de pecho.
+\fte GSM: Breast water.
+\com
+\idx
+\ref ZOH001R036 999-015
+\_no 00997
+\tx
+\mb OSM
+\sg1 OSM: pecho agua
+\eg1 OSM: breast water
+OSM: tzutzi n@7
+tzutzi7 n@7
+tzutzi 7@y leche 7@y
+tzutzi7 7@y leche 7@y
+3E leche 3E
+milk 3E
+Page 215

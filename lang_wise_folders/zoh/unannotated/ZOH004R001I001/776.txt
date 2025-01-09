@@ -1,0 +1,63 @@
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG laurel
+\ENG laurel
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex laxu
+\_no 01795
+\LG MIG
+\PSH
+\UND laxu
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG mecate
+\ENG rope
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM lazo
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex laxu-t@7px
+\_no 01796
+\LG MIG
+\PSH [laxut@7px-]
+\UND 1axu=t@7px
+\MB mecate, hacer_mecate
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG torcer mecate
+ENG to twist rope
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT t@7px
+\RTGR T3
+ZOH004R0011001.txt
+Page 776

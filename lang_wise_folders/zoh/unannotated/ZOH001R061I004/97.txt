@@ -1,0 +1,62 @@
+\lex paja7k+p@7
+\_no 00239
+\LG MIG
+\PSH [paja7kp@7]
+\UND paja7k +p@7
+\MB dulce, NOM5
+\VAR
+\GRAM a+R
+\SCI
+\USE
+\SPG dulce
+\ENG sweet
+\EXU
+\XSP
+\XEN
+\SYN paja7k
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 27/Jan/96
+\lex paj.e7
+\_no 00240
+\LG MIG
+\PHO [paje7]
+\UND paj. E7
+\MB clavar, NOM7
+\VAR
+\GRAM pcp
+\SPG rajado
+\ENG stripped
+\EXU paj.e7+k tzin
+\XPSH [paje7k_tzin]
+\XSP ocote rajado
+\XEN pine strips
+\SYN
+\ROOT paj
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex pak=tzo.e
+\_no 00241
+\LG MIG
+\PSH [paktzoe]
+\UND pak=tzonh. E
+\MB hueso, unir, NOM7
+\VAR paktzowe ?
+\GRAM SV
+\SCI
+\USE
+\SPG coyuntura
+\ENG joint
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ZOH001R0611004.txt
+Page 97

@@ -1,0 +1,63 @@
+\ETL
+\ROOT muk
+\RTGR 12
+\DSRC HAJ94
+\CMTS CK ok HAJ:96
+\CMTS le entro* la noche
+\date 24/Jun/96
+\lex kotz@k
+\_no 01467
+\LG MIG
+\PSH
+\UND kotz@k
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG cerro
+\ENG hill
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex kotz@k mu7k
+\_no 01468
+\LG MIG
+\PSH
+\UND kotz@k mu7k
+\MB cerro, zacate
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG zacate de cerro para enlodar casa
+\ENG wild grass for mudding houses
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+LF:mu7k
+\ROOT
+\DSRC TK94
+\CMTS
+\date 07/Feb/96
+ZOH004R0011001.txt
+\lex ko.tz@n
+\_no 01469
+\LG MIG
+\PSH [kotz@n-]
+\UND ko.tz@n
+\MB OTRO, sentarse
+\VAR
+Page 638

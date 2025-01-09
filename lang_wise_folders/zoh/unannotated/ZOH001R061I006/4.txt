@@ -1,0 +1,63 @@
+\XEN 1 The fruit is split open.
+\EXU 2 7a7p=7anh-wak.7@m-wa
+\XPSH 2 [7a7ppanhwakk@mm@.]
+\XSP 2 Se partio* (solo) la fruta.
+\XEN 2 The fruit split open (by itself).
+\SYN
+\SPL 7a7p.7oy
+\SLGR ANTIP
+\SPL 7a7p.7@m
+\SLGR PASS
+\SPL 7a7p.ney
+SLGR ASSUM1
+\SLGL estar abierto
+\SEMF break, hand
+\ASP achievement
+\ARG instrument
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT 7a7p
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS Camilo doesn't accept the ASSUM1 form
+\date 03/Jan/80
+\lex 7arrepen=tz@k
+\_no 00006
+\LG MIG
+\PSH [7arrepentz@k-]
+\UND 7arrepen=tz@k
+\MB arrepentir, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG arrepentirse
+\ENG to regret
+\EXU
+\XSP
+\XEN
+\SYN
+\SPL_7arrepen=tz@k.7@m
+\SLGR PASS
+\SLGL arrepentirse
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex 7ek
+\_no 00007
+\LG MIG
+ZOH001R0611006.txt
+\PSH
+\UND 7ek
+\MB
+\VAR
+\GRAM vt
+\SCI
+Page 4

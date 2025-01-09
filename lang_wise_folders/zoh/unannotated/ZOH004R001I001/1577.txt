@@ -1,0 +1,63 @@
+\MB
+\VAR
+\GRAM vi:act
+\SCI
+\USE
+\SPG chiflar
+ENG to whistle
+\SPL yak.wikx
+\SLGR CAUS
+\SLGL hacer chiflar // to make whistle
+\EXU 1 da wikx-pa
+\XPSH 1 [D@ wikxpa.]
+\XSP 1 Chiflo.
+\XEN 1 I'm whistling.
+\EXU 2 7@y+ wikx.jay-w@ 7@y+ wit=7awin7
+\XPSH 2 [7@y wikxjayy@y wit7awin7.]
+\XSP 2 chiflo* a* su compan~ero.
+\XEN 2 He whistled to his friend.
+\SYN
+SEMF sound
+\ASP process
+\ARG
+\NOM wikx.i7
+\SUB
+\ETYM
+\ETL
+\ROOT wikx
+\RTGR IX
+\DSRC TK94
+\CMTS whistling through the teeth or the fingers, not tunes,
+\CMTS to get someone's attention.
+\CMTS get deriv's
+\date 03/Jan/80
+\lex wikx.i7
+\_no 03669
+\LG MIG
+\PHO [wikxi7]
+\UND wikx.E7
+\MB chiflar, NOM7
+\VAR
+\GRAM pcp
+\SPG chiflido
+\ENG whistle
+\EXU tzi'-A7 tum wikx.i7
+\XPSH [Tzi7 tum wikxi7!]
+\XSP !Da un chiflido!
+\XEN Give a whistle!
+\SYN
+\ROOT xikx
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+ZOH004R0011001.txt
+\lex wikx.jay
+\_no 03670
+\LG MIG
+\PSH [wikxjay-]
+\UND wikx.jay
+\MB
+\VAR
+\GRAM vt: indir
+Page 1577

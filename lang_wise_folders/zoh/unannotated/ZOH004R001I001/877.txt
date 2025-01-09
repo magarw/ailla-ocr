@@ -1,0 +1,65 @@
+\UND motz
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG comer tortillas, sin carne
+\ENG to eat just tortillas, no meat
+\SLGR NO ANTIP
+\SPL motz.7@m
+\SLGR PASS
+\SLGL comerse // to be eaten
+\EXU 7ane-motz-w@
+\XPSH [7anemotztz@.]
+\XSP Comio* puro tortilla sin carne.
+\XEN She just ate tortillas, with no meat.
+\SYN
+\SEMF eat
+\ASP activity
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT motz
+\RTGR T1
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex mo7tz
+\_no 02035
+\LG MIG
+\PSH
+\UND mo7tz
+\MB
+ZOH004R0011001.txt
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG moler en molcajete; machucar, como tomate o chile
+\ENG to grind; to crush, like tomatoes or chili peppers.
+\SPL mo7tz.7oy
+\SLGR ANTIP
+\SLGL moler; machucar // to grind; to crush
+\SLGR NO PASS
+\SPL mo7tz.ten
+\SLGR PRSV
+\SLGL tenerlo molido // to have something ground
+\EXU 1 7@y+ mo7tz-w@ bi niwi' kon koya7 porke k@x(.i)=tz@k-pa
+\XPSH 1 [7@y mo7tztz@ bi niwi kon koya porke k@xtz@kpa.]
+\XSP 1 Molio* el chile con tomate porque hizo comida.
+\XEN 1 She ground the chile with tomato because she was fixing food.
+\EXU 2 mo7tz. '@m-w@ bi niwi7.
+\XSPH 2 [Mo7tztz@mm@ bi niwi7.]
+\XSP 2 se molio* el chile.
+\XEN 2 The chile was ground.
+\EXU 3 7@y+ mo7tz.ten-w@ bi
+niwi7 para k@x(.i) tz@k-pa
+\XPSH 3 [7@y mo7tztenn@ bi niwi7 para k@x tz@kpa.]
+\XSP 3 Molio* el chile para hacer comida.
+\XEN 3 She's got the chile ground to fix food.
+\SYN
+\SEMF break, cook
+Page 877

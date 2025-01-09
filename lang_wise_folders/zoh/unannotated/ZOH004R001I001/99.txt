@@ -1,0 +1,63 @@
+\_no 00231
+\LG MIG
+\PSH
+\UND 7awin7
+\MB
+\VAR
+\GRAM s(+poss)
+\SCI
+\USE
+\SPG hermano/a
+\ENG brother/sister
+\EXU 1 7@n+ jay(a) 7awin7
+\XPSH 1 [7@y jay 7awin7]
+\XSP 1 mi hermano
+\XEN 1 my brother
+\EXU 2 7@n+ yom (@) 7awin7
+\XPSH 2 [7@n yom 7awin7]
+\XSP 2 mi hermana
+\XEN 2 my sister
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS fixed spelling/TK
+\date 24/Jun/96
+\lex 7awin' 7atzi
+\_no 00232
+\LG MIG
+\PSH
+\UND 7awin7 7atzi
+\MB hermano/a, ti*o
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG hermano mayor
+\ENG older brother
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 24/Jun/96
+\lex 7awin' 7@y+ manak
+\_no 00233
+\LG MIG
+\PSH [7awin 7@y manak]
+\UND 7awin7 7@y+ manak
+\MB hermano/a, 3Erg, hijo/a
+\VAR
+\GRAM sps
+\SCI
+ZOH004R0011001.txt
+Page 99

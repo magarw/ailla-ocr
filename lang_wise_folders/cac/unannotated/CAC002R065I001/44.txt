@@ -1,0 +1,27 @@
+39
+stress. Syllables which take sentence stress also take high
+pitch. On the second syllable before open juncture, pitch is
+not predictable on the basis of stress phonemes, but syllables
+with weak stress usually take low pitch, and syllables with
+strong stress usually take either mid or high pitch. Pitch is
+likewise not predictable from stress on the final syllable be-
+fore open juncture, as syllables with strong stress usually
+take mid or high pitch, but weakly stressed syllables may take
+any pitch. Thus, pitch is contrastive only on the two sylla-
+bles preceding open juncture, and may be considered to be part
+of the contour. In the phonemic transcription of Chuj used
+here, the pitch levels of the two pre-junctural syllables are
+marked after the open juncture and before the arrow which rep-
+resents the pitch glide of the contour. Low, mid, and high
+pitch levels are marked //, /²/, and //, respectively. The
+following utterances illustrate the pitch phenomena associ-
+ated with contours:
+Pol.,Potš. ?i.šim. 'ka.vall.
+/# ?ol ?óč ?išim káwal #²3 ↑/ The corn
+个
+.Pol.,Potš.?i.šim. 'ka.van.
+/ # ?ol ?óč ?išim káwal #23+/
+The corn season will begin.
+The corn season will begin.
+•?ol.,Potš.?i•šim. 'ka.,vall.
+/# ?ol ?óč ?išim káwál #²3↓/ The corn season will begin.

@@ -1,0 +1,62 @@
+\XEN
+\SYN
+\SEMF
+\ETYM mixa
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex jat. @7
+\_no 00680
+\LG MIG
+\PSH [jat@7]
+\UND jat. @7
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG grueso
+\ENG thick
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT %jat A2
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\lex jat. @' kuy=wa7tz
+\_no 00681
+\LG MIG
+\PSH [jat@ kuywa7tz]
+\UND jat. @7 kuy=wa7tz
+\MB grueso, NOM2, palo, rai*z
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG rai*z grueso
+\ENG thick root
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\lex jat. @' wik.i7
+\_no 00682
+\LG MIG
+\PSH [jat@ wiki7]
+\UND jat. @7 wik.i7
+ZOH004R0011001.txt
+Page 291

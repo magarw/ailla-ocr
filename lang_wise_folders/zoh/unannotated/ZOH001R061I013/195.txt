@@ -1,0 +1,52 @@
+\ENG rat
+\lex tzuki
+\_no 02442
+\SPG tapir
+\ENG tapir
+\lex tzuki 7
+\_no 02443
+\SPG suegro
+\ENG father_in_law
+\lex tzukx
+\_no 02444
+\SPG pellizcar
+\ENG pinch
+\lex tzum
+\_no 02445
+\SPG hacerse_bastante
+\ENG increase
+\lex tzun
+\_no 02446
+\SPG gotear
+\ENG drop
+\lex tzun
+\_no 02447
+\SPG alegrarse
+\ENG be_happy
+\lex tzuni
+\_no 02448
+\SPG grillo
+\ENG
+\lex tzunu7
+\_no_02449
+\SPG bolsa
+\ENG sack
+\lex tzu7t
+\_no 02450
+\SPG _cortar_cafe*
+\ENG pick_coffee
+\lex tzutzi7
+\_no 02451
+\SPG pecho
+\ENG breast
+\lex tzutzu7
+\_no 02452
+\SPG guajilote
+\ENG tree
+\lex tzu7tz
+\_no 02453
+\SPG mamar
+\ENG nurse
+\lex tzuway7
+ZOH001R0611013.txt
+Page 195

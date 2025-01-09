@@ -1,0 +1,64 @@
+\SPG ojase*n
+\ENG a type of plant
+\EXU
+\XSP
+\XEN
+\SYN nax mupe7
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 13/Jun/95
+\lex 7oj.a' j@y@7
+\_no 00303
+\LG MIG
+\PSH [7oja jay@7]
+\UND 70j.A7 jay@7
+\MB toser, NOM2, flor
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG flor de ichache
+\ENG a type of tree
+\EXU
+\XSP
+\SYN
+\SEMF EB
+\ETYM hoja
+\ETL Sp
+\ROOT 7oj
+\RTGR 11
+\DSRC TK94
+\CMTS
+\date 18/Jun/96
+\lex 7oj.e7
+\_no 00304
+LF:7okox - poj
+\GRAM SV
+\SCI
+\USE
+\SPG tos
+\ENG cough
+\EXU
+\XSP
+\LG MIG
+\PSH [7oje7]
+\UND 7oj.E7
+\MB toser, NOM7
+\VAR
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 70j
+\RTGR 11
+LF: kuy
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+ZOH004R0011001.txt
+Page 131

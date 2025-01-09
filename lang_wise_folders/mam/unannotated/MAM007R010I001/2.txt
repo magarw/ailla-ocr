@@ -1,0 +1,72 @@
+t-wi'
+eky' q-u'n
+PROX.DEP+B3s=salir A3s-cabeza pollo Als-SR:AGT
+chi-chi-tzan=q'a
+(11) s=eel
+B3s-decir pues-CL:MASC
+'podemos meter pollo, pues así dijeron.'
+n=0=txak-eet
+(12) Pwes
+pues
+'Pues llamaron al cerro,"
+(13) pwesqapa jaka
+INC=B3s=llamat-PAS cerro A3p-SR:AGT=CL:MASC
+pues tal.vez se.puede
+tz'=e=tz
+chi-chi-tzan=q’a,
+B3s-DIR:afuera-DIR:acá
+q-pwaaq
+Alp-dinero B3p-decir-pues-CL:MASC
+'pues tal vez así nos puede dar el dinero decían'
+tz=ok
+(15) tzan=x=t-teen=ka.
+witzky-u'n=q’a
+(14) jaka
+q-q'o-'n
+t-chi'=ya
+eky' moo
+se.puede B3s=dir:adentro Alp-dar-SD A2s-carne=2s pollo o
+t-chi'=ya
+(18) n=ch=ok
+cómo siempre=A3s-estar-CNJ
+'(todo) lo que le gustaría.'
+tzeey' t-chi'=ya
+chooj
+A2s-carne=2s gallo A3s-carne=2s pavo
+'y podemos darle a usted (cerro) su carne de pollo, o de gallo, su carne de
+pavo'
+(16) Entoonse n=0=ku'
+entonces
+'Entonces empezaron a contemplar,’
+(17) pwees n=0=b'an=tzan
+pues
+'y enseguida lo hicieron,'
+ky-xii'ma-n=q'a
+INC=B3s=DIR:abajo A3p-pensar-SD=CL:MASC
+ky-u'n=q'a=jo,
+q'o-'n ch'iin-qa
+dar-SD
+poco=PL
+INC=B3s=hacerse-pues A3p-SR:AGT=CL:MASC=DEM
+teen=q'a
+estar CL:MASC
+poom-il.
+INC=B3p=DIR: adentro
+'a quemar copal (hacer ceremonia).'
+(19) N=che'=x=tzan=q'a
+INC-B3p-ir-pues-CL:MASC pues A3s-mitad noche A3s-SR:COM
+pwees t-miij
+aq'b'il t-uuk'
+hacer.ceremona-INF
+witz,
+cerro
+'Pues entonces fueron a medianoche con el cerro,'
+tzi
+2
+¿Es una equivocación? ¿segunda persona en vez de tercera?
+(20) asta maax_jatuma t=0=a'
+hasta hasta dónde EXIST=B3s=DESP A3s+SR:entrada
+'hasta donde está la puerta de la casa (del cerro),'
+3
+t-jaa=ya,
+A3s-casa=?²

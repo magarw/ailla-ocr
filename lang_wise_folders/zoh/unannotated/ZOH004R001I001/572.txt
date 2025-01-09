@@ -1,0 +1,63 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jep
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+\lex ko.jepx
+\_no 01310
+\LG MIG
+\PSH [kojepx-]
+\UND ko.jepx
+\MB OTRO, agarrar_con_ji*cara
+\VAR
+GRAM vt
+\SCI
+\USE
+\SPG echar de mas (con ji*cara)
+\ENG to scoop out a little more
+\SPL
+\SLGR
+\EXU 7@y+ ko.jepx-w@ 7@y+ xuyu7
+\XPSH 7@y kojepx@y xuyu7.]
+\XSP Echo* de mas de lo que puso en la olla.
+\XEN She scooped out a little more from her pot.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT jepx
+\RTGR P, (T3)
+\DSRC HÁJ95
+\CMTS
+\date 29/Jan/96
+\lex ko.jetz
+\_no 01311
+\LG MIG
+\PSH [kojetz-]
+\UND ko.jetz
+\MB OTRO, rascar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar a la raya todo
+\SPL
+ZOH004R0011001.txt
+\SLGR
+\EXU 7@y+ ko.jetz-w@ yuj.kuy7
+\XPSH [7@y kojetztz@ yujkuy7.]
+\XSP_Saco* a la raya todo su milpa.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jetz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+Page 572

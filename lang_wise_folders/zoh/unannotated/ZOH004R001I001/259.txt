@@ -1,0 +1,63 @@
+\GRAM versl
+\SCI
+\USE
+\SPG aflojarse
+\SPL yak. falsu. 7aH
+\SLGR CAUS
+\SLGL aflojar
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\lex familya
+\_no 00604
+\LG MIG
+\PSH
+\UND familya
+\MB
+\VAR
+\GRAM s(+poss)
+\SCI
+\USE
+\SPG familia
+\ENG family
+\EXU 7@n+ familya d@k+7a
+\XPSH [7@n familya d@kka]
+\XSP mis parientes
+\XEN my family
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\lex fideo kuy
+\_no 00605
+\LG MIG
+\PSH
+\UND fideo kuy
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG palo de fideo
+\ENG a type of tree
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+Page 259

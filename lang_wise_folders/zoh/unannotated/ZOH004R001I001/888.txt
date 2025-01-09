@@ -1,0 +1,63 @@
+\XSP Nacio* agua.
+\XEN water welled up from the ground.
+\SYN
+\SEMF body, water
+\ASP activity
+\ARG
+\NOM
+\SUB nik.mut
+\ETYM
+\ETL
+\ROOT mut
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex mut.mut.ney
+\_no 02059
+\LG MIG
+\PSH [mutmutney-]
+\UND mut.mut.ney
+\MB
+\VAR
+\GRAM VİRF
+\SCI
+\USE
+\SPG borbollo*n de agua; sonido de agua en donde esta* naciendo
+\ENG a fountain of water; the sound of burbling water
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 25/Jun/96
+\lex mutum7
+\_no 02060
+\LG MIG
+\PSH
+\UND mutum7
+ZOH004R0011001.txt
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG majagua del tule; viene de /we7k/
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+LF:
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+Page 888

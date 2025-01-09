@@ -1,0 +1,62 @@
+\CLZ
+\CMTS
+\lex topx
+\_no 00291
+\SPG mujer tirar pedos aguado
+\ENG for a woman to cut a watery fart
+\SEMF body
+\ASP semelfactive
+\ARG
+\NOM topx.kuy7 'pedo'
+\RTGR IX
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex totz [1]
+\_no 00292
+\SPG pun~alear (con cuchillo)
+\ENG to stab (with a knife)
+\SEMF stab
+\ASP achievement
+\ARG instrument
+\NOM totz.kuy7m totz.naanh
+\RTGR T3
+\POS NO d@ totzjayy@
+\POS d@ totztz@
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex toy
+\_no 00293
+\SPG 1 doler, "duele"
+\SPG 2 picar chile
+\ENG 1 to hurt
+\ENG 2 for chili to burn
+\SEMF body
+\ASP state
+\ARG
+\NOM toy.kuy7, toy.a7
+\RTGR 12
+\POS Y lexicon
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex tuj [1]
+\_no 00294
+\SPG disparar; tirar
+\ENG to fire; to shoot
+\SEMF hit
+ZOH001R0611002.txt
+\ASP semelfactive
+\ARG instrument
+\NOM tuj.kuy7
+\RTGR T1
+\POS
+\MID
+\UNDO
+me pun~aleo*
+Page 72

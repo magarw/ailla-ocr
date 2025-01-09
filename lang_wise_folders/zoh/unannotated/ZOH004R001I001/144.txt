@@ -1,0 +1,63 @@
+\GRAM vt
+\SCI
+\USE
+\SPG aventarse de algo que esta meciendo
+\ENG to fall out of something that is swinging
+\SPL
+\SLGR
+\EXU 7@y+ 7ok.j@m.'@y-w@ kajtzay'+j@nanh
+\XPSH [7@y 7okj@mm@yya kajtzayj@nanh.]
+\XSP Lo avento* con la hamaca la hora que estaba meciendose
+\XEN He fell with the hammock while it was swinging.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jam
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+ZOH004R0011001.txt
+\lex 7ok.j@y. '@y
+\_no 00334
+\LG MIG
+\PSH [7okj@yy@y-]
+\UND 7ok.jay.7@y
+\MB ABAJO, 11orar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 11orar por alguien que se iba
+\ENG to cry for someone who is going away
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jay
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 17/Jul/95
+\lex 7ok-ka7kka7
+\_no 00335
+\LG MIG
+\PSH [7okka7kka7]
+\UND 7ok-ka7kka7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG muela
+\ENG molar
+\EXU
+\XSP
+\XEN
+Page 144

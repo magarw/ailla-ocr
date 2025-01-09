@@ -1,0 +1,63 @@
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 27/Jan/96
+\1ex pak=jonh
+\_no 02514
+\LG MIG
+\PSH [pakjonh-]
+\UND pak=jonh
+\MB tirar, atarantarse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG golpear; hacerse atarantado
+\ENG to beat; to get dizzy
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 pak
+\RTGR 1 Tx
+\ROOT 2 jonh
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 15/Jun/95
+\lex pak=ka'
+\_no 02515
+\LG MIG
+\PSH [pakka-]
+\UND pak=ka7
+\MB tirar, morirse
+\VAR
+\GRAM vi
+\SCI
+\USE
+LF: kuy
+\EXU
+\XSP
+\SPG morirse: de porrazo, de trompezo*n, cayendo de arriba
+\ENG to die: of a blow or a fall
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 pak
+\RTGR 1 Tx
+\ROOT 2 ka7
+\RTGR 2 12
+\DSRC HAJ94
+ZOH004R0011001.txt
+\CMTS lo mato* de golpe, de su mato*n
+\date 27/Jan/96
+\lex pak-kek
+Page 1083

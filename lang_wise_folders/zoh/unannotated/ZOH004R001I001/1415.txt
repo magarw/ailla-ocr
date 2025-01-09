@@ -1,0 +1,63 @@
+\XPSH [7@n tzatztuktukk@yy@n toto7.]
+\XSP Hice mi papel en tiras.
+\XEN I tore my paper in strips.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tzatz
+\RTGR 1 T3
+\ROOT 2 tuk
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex tzawa7
+\_no 03291
+\LG MIG
+\PSH
+\UND tzawa7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG bagre
+\ENG a type of fish
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 10/Nov/94
+\lex tzaw.e7
+\_no 03292
+\LG MIG
+\PHO [tzawe7]
+\UND tzanh.E7
+\MB pegar_con_pu~no, NOM7
+\VAR
+LF: koke
+\GRAM pcp
+\SPG alguien que le pegaron
+\ENG someone who was hit
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT tzanh
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tzawi7
+\_no 03293
+\LG MIG
+\PSH
+ZOH004R0011001.txt
+Page 1415

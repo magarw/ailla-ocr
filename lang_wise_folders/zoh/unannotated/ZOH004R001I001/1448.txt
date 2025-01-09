@@ -1,0 +1,62 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tzin nax
+\_no 03368
+LG MIG
+\PSH
+\UND tzin nax
+\MB ocote, tierra
+\VAR
+\GRAM s (m)s
+\SCI
+\USE
+\SPG ocotal
+\ENG (commercial) pine forest
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+\lex tzin t@n.@7
+\_no 03369
+\LG MIG
+\PSH [tzin t@n@7]
+\UND tzin t@n.A7
+\MB ocote, echar_goma, NOM2
+\VAR t@n. @7
+\GRAM SV
+\SCI
+\USE
+\SPG trementina o goma del ocote
+\ENG pine pitch
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT t@n
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 11/Feb/96
+\lex tzin=7ay7
+\_no 03370
+\LG MIG
+\PSH [tzin7ay7]
+\UND tzin=7ay7
+ZOH004R0011001.txt
+Page 1448

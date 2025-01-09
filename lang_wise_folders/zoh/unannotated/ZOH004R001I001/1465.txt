@@ -1,0 +1,64 @@
+\GRAM vt
+\SCI
+\USE
+\SPG unir; topar
+\ENG to unite; to join
+\SPL tzonh.7oy
+\SLGR ANTIP
+\SLGL topar alguien // to meet someone
+\SPL tzonh.7@m
+\SLGR PASS
+\SLGL toparse; empatarse (mecate) // to be joined; to be tied (rope)
+SLGR NO ASSUM1
+\EXU 1 7@y+ tzonh-pa 7anh.paj
+\XPSH 1 [7@y tzonhpa 7anhpaj.]
+\XSP 1 Topa el cerco.
+\XPSH 1 The fence joins up.
+\EXU 2 7@y+ tzonh-w@ p@n
+\XPSH 2 [7@y tzonhnh@ p@n.]
+\XSP 2 Topo* el hombre.
+XEN 2 She met the man.
+\EXU 3 7@y+ tzonh.ten-w@ bi 7anh.paj
+\XPSH 3 [7@y tzonhtenn@ bi_7anhpaj.]
+\XSP 3 volvio* a empatar el cerco.
+\XEN 3 He joined the fence up again.
+\EXU 4 tzonh. '@m-w@
+\XPSH 4 [Tzonhnh@mm@.]
+ZOH004R0011001.txt
+\XSP 4 cuando una cosa se reventa y se empata.
+\XEN 4 when something breaks and is joined together again.
+\SYN
+\SEMF arrange
+\ASP achievement
+\ARG
+\NOM ko.tzonh.kuy7, tzow.e7, tzonh.naanh
+\SUB 7anh.tzonh, ko.tzonh, tzonh-pu', ni.wat=tzonh, ni.xotz=tzonh,
+\SUB p@k=tzonh, tzonh-pu', t@nh=tzonh, tz@k=ko.tzonh, tz@m=tzonh,
+\SUB wej='anh.tzonh, win=pak=tzonh, win=pa7t=tzonh, xotz='anh.tzonh,
+\SUB xotz-tzonh, yox-ko.tzonh
+\ETYM
+\ETL
+\ROOT tzonh
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex tzonh.naanh
+\_no 03407
+\LG MIG
+\PHO [tzonhna*nh]
+\UND tzonh.naanh
+\MB topar, MED
+\VAR
+\GRAM meas
+\SPG cerco; topo* un tramo
+\ENG fence; he set one rail
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT tzonh
+\RTGR T3
+\DSRC HAJ95
+Page 1465

@@ -1,0 +1,63 @@
+\lex jo.7om=wak
+\_no 00810
+\LG MIG
+\PSH [jo7omwak-]
+\UND jo.7om=wak
+\MB EN, echar_humo, *vaciar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG quitar al ahumarlo
+\ENG to smoke something out
+\SPL
+\SLGR
+\EXU 7@y+ jo.7om-wak-w@ 7@y+ t@k para y@k.jej.7@y-w@
+\XPSH [7@y jo7omwakk@y t@k para y@kjejj@yy@.]
+\XSP Ahumo* la casa para que se metio* a vivir.
+XEN He fumigated the house so he could live there.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 70m
+\RTGR 12
+\ROOT *wak
+\DSRC HAJ95
+\CMTS una casa cerrada hace tiempo, puede ser animales o cualquiera
+\date 18/Jun/96
+\lex jo.7uk
+\_no 00811
+\LG MIG
+\PSH [jo7uk-]
+\UND jo.7uk
+\MB EN, tomar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tomar todo hasta la u*ltima gotita
+\ENG to drink something down to the last drop
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT 7uk
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 03/Feb/96
+\lex jo.7utz
+\_no 00812
+\LG MIG
+\PSH [jo7utz-]
+\UND jo.7utz
+\MB EN, medir
+\VAR
+Page 353

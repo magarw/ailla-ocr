@@ -1,0 +1,63 @@
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 11/Feb/96
+\lex we7k=xipx.i
+\_no 03643
+\LG MIG
+\PHO [we7kxipxi]
+\UND we7k=xipx. E
+\MB tule, estacar, NOM7
+\VAR
+LF:7okox
+\GRAM pcp
+\SPG el tule esta para rajarlo
+\ENG the tule is ready to strip
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT xipx
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex we7k=xipx. 'oy.kuy7
+\_no 03644
+\LG MIG
+\PHO [we7kxipxokuy7]
+\UND we7k=xipx. 7oy.kuy7
+\MB tule, estacar, ANTIP, INSTR1
+\VAR
+\GRAM instr1
+\SPG hueso de venado para rajar tule; mi raja tule
+\ENG a bone for stripping tule; a strip of tule
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT xipx
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex wen
+\_no 03645
+\LG MIG
+\PSH
+\UND wen
+\MB
+\VAR
+\GRAM vt
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG partir con la mano
+\ENG to divide with the hands
+Page 1566

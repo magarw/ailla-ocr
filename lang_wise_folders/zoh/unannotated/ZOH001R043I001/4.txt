@@ -1,0 +1,88 @@
+\ref ZOH001R043 012
+\_no 00013
+\tx peru juna*nh
+\mb peru junanh
+\sg1 pero como
+\egl but how
+\ref ZOH001R043 013
+\_no 00014
+\tx si ney kumkuy y@7
+\mb si ney
+si ney kumkuy7 y@ -7
+\sgl si IPrn pueblo DCT1-NOM1
+\egl if IPrn town
+\com
+\idx
+m
+minpa*
+min -pa
+7@m p@7
+venir-INC 2E
+-tam -w@
+poner-1/2PL-COM hermano/a NPL
+come -INC 2E put -1/2PL-COM sibling NPL
+\zoq "Peru juna*nh minpam p@damm@, 7awind@kkay,
+\fts "Pero como vienen a ponerlo, compan~eros,
+\fte "But how will we come to place them, friends,
+\com
+\idx
+\ref ZOH001R043 014
+\_no 00015
+\tx ya n@mmo
+\zoq si ney kumkuy7 y@7 wakxi7?
+\fts si nuestro pueblo es pequen~o?
+\fte if our town is small?
+\com
+\idx
+ZOH001R0431001.txt
+\ref ZOH001R043 015
+\_no 00016
+p@damm@
+n
+p@damm@
+\mb__ya n@m-7oy -A
+7@n p@7 -tam -wa
+\sg1 NEG DO -ANTIP-NINC 1E poner-1/2PL-DINC dos
+\eg1 NEG DO -ANTIP-NINC 1E put -1/2PL-DINC two
+\zoq Ya n@mmon p@damm@ metzanh juxtixa.
+\fts No podemos poner dos presidente.
+\fte we can't elect two mayors.
+wakxi
+wakxi 7
+chico
+DCT1-NOM1 small
+\com
+\idx
+te
+\tx 7asyeske tum juxtixa de7
+\mb 7asyeske tum juxtixa
+-7
+\sg1 asi_es_que uno autoridad DCT2-NOM1
+\egl so
+one authority DCT2-NOM1
+\ref ZOH001R043 016
+\_no 00017
+\zoq 7asyeske tum juxtixa de7.
+\fts Asi* es que es un presidente.
+\fte It's that it's one mayor.
+\zoq Y@j@7 7el ke gantz@kk@,
+\fts Aqui e*1 que gana,
+\fte Here the one that won,
+\com
+7el ke
+\tx yaja
+\mb
+gantz@kk@
+ya -ja7 7el ke ganar-tz@k -w@
+\sg1 DCT1-LOC1 e*1 que ganar-hacer-COM
+\eg1 DCT1-LOC1 the that earn -do
+-COM
+7awin
+7awin7
+Page 4
+d@kka
+d@kkay
+metzanh juxtixa
+metza*nh juxtixa
+autoridad
+authority

@@ -1,0 +1,63 @@
+\USE
+\SPG quitar la cosa que teni*a envuelta
+\ENG to remove a wrapping
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ket
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex 7ok.ketz. '@y
+\_no 00341
+\LG MIG
+\PSH [7okketztz@y-]
+\UND 7ok.ketz.7@y
+\MB ABAJO, regar_agua, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tirar algo liquido en el suelo, como agua o atol
+\ENG to spill something liquid on the ground, like water or atole
+\SPL
+\SLGR
+\EXU n@'=7ok.ketz. '@y-w@ nax+jo7
+\XPSH [N@7okketztz@yy@ naxjo7.]
+\XSP Tiro* agua en el suelo.
+\XEN She spilled water on the ground.
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT ketz
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 09/Jan/96
+\lex 7ok.ke7tz. '@y
+\_no 00342
+\LG MIG
+\PSH [7okke7tztz@y-]
+\UND 7ok.ke7tz.7@y
+\MB ABAJO, masticar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar de lo que esta* masticando
+\ENG to spit out something that one is chewing
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+Page 147

@@ -1,0 +1,63 @@
+ZOH004R0011001.txt
+\SLGL ya esta* sobado // to be in a state of having been massaged
+\EXU 1 7aristea 7@y+ jat@t-wa ga yom@'=7une7
+\XPSH 1 [7aristea 7@yj@t@tt@ ga yo:m7une.]
+\XSP 1 Aristea sobo* a la muchacha.
+\XEN 1 Aristea massaged the girl.
+\EXU 2 7aristea da jat@t-wa.
+\XPSH 2 [7aristea da jat@tta.]
+\XSP 2 Aristea me sobo*.
+\XEN 2 Aristea massaged me.
+\SYN matz
+\SEMF body, touch
+\ASP activity
+\ARG
+\NOM jat@t.kuy7, j@t@t.naanh
+\SUB_j@x=j@t@t, yuk.j@t@t
+\ETYM
+\ETL
+\ROOT jat@t
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex j@t@t.kuy7
+\_no 01017
+\LG MIG
+\PSH [j@t@tkuy7]
+\UND jat@t.kuy7
+\MB sobar, INSTR1
+\VAR
+\GRAM instrl
+\SCI
+\USE
+\SPG sobada
+ENG oil or ointment for massages
+SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN matz.kuy7
+\SEMF
+\ETYM
+\ETL
+\ROOT jatat
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 17/Jul/95
+\lex jat@t.naanh
+\_no 01018
+\LG MIG
+\PHO [j@t@tna*nh]
+\UND jat@t.naanh
+\MB sobar, MED
+\VAR
+\GRAM meas
+\SPG una sobada
+\ENG a rub
+\EX
+\XSP
+Page 446

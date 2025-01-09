@@ -1,0 +1,79 @@
+-wa
+\mb ke mix acompanar-tz@k -tam
+\sg] que 2>1 acompanar-hacer-1/2 PL-COM
+\egl that 2>1 accompany-do -1/2PL-COM
+\zoq ke mix 7akompantz@ktamm@.
+\fts que mi acompan~astes.
+\fte that you accompanied us.
+\com
+\idx
+\ref ZOH001R011 091
+\_no 00092
+\tx 7i n
+\mb 7i
+p@n@ktampa
+dey
+de lo ke
+te -y de lo ke
+DCT2-TMP de lo que
+7@n p@7 -n@k -tam -ра
+1E poner-irse-1/2PL-INC
+7@n t@dampa
+7@n t@7 -tam -pa
+1E querer-1/2PL-INC
+\sg] y
+\eg1 and 1E put -go -1/2PL-INC DCT2-TMP of lo that 1E want -1/2PL-INC
+\tx d@xja*
+bi chik tzawi
+\mb d@x -ja*7 bi chik tzawi7
+\sgl 1Prn-LOC1 DEF chico mono
+\egl 1Prn-LOC1 DEF little monkey
+\zoq 7in p@n@ktampa dey de lo ke 7@n t@dampa d@xja*7, bi chik tzawi.
+\fts Y ahora llevamos de lo que queremos nosotros, los changitos.'
+\fte And now we're carrying what we wanted, the little monkeys.
+\com
+\idx
+\ref ZOH001R011 092
+\_no 00093
+ZOH001R0111001.txt
+d@x_n@kpa*m
+dax
+\tx bweno mi tenyente
+\mb bweno mi tenyente
+n@k -pa -7am
+\sg1 bueno 3>2 teniente 1Prn irse-INC-YA
+\egl good 3>2 lieutenant 1Prn go -INC-NOW
+\zoq "Bweno, mi tenyente, d@x n@kpa*m."
+\fts "Bueno, mi teniente, yo ya me voy.
+\fte "OK, my lieutenant, now I'm going.
+\com
+\idx sp
+\ref ZOH001R011 093
+\_no 00094
+\tx bweno satorninu p@k@
+y@7
+pa m rrefresko
+\mb bweno satornino p@k
+\sg] bueno Satornino agarrar-IMPV
+-A7 y@ -7 para 7@m rrefresko
+DCT1-NOM1 para 2E refresco
+\egl good Satornino get -IMPV DCT1-NOM1 for 2E soda
+\ref ZOH001R011 094
+\_no 00095
+\tx 7@y tziw@
+bi
+jamatin
+jamatin
+\mb 7@y tzi7-w@ bi
+\sg1 3E dar -COM DEF dinero
+\egl 3E give-COM DEF money
+"I
+\zoq "Bweno, Satornino, pak@ ya7 pam rrefresko."
+\fts "Bueno, Satornino, agarra esto para tu refresco."
+\fte "OK, Satornino, take this for your refreshment.
+\com
+\idx sp
+\zoq 7@y tziw@ bi jamatin.
+\fts Le dio* el dinero.
+Page 21
+"I

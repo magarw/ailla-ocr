@@ -1,0 +1,19 @@
+\ref 155
+\_no 00156
+\tx
+\mb
+\sgl lado
+\egl side -DIR1
+-DIR1
+7anhketzj@nanh
+7anhketz-j@nanh
+\fts abajo de la ladera
+\fte down from the slope
+\com arrives at the bottom
+\idx
+\ref 156
+\_no 00157
+\tx
+\fts
+ZOH001R0601001.txt
+Page 37

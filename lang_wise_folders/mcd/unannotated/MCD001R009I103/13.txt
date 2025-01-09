@@ -1,0 +1,49 @@
+125 //ahuun pau uhuacai//
+ahuun pau uhua-cai
+3POSS puissance grand-MIR
+sa grande puissance
+126 //min buuaforo//
+min buu-a-fo-ro
+2PERS.N goûter-ACC-PL-CONTR.EXP
+malgré toi, tu l'as goûtée
+127 arasi tsucunai
+a-rasi tsucu-na-i
+3PERS-nombreux enlever-REC-PROG
+elle jaillit en grande quantité
+128 da miqui tsucunai
+da min-qui tsucu-na-i
+DEM 2PERS-DIR enlever-REC-PROG
+elle jaillit vers toi
+129 tsucunatihuurana
+tsucu-nati-huuran-a
+enlever-finir-CP1a-ACC
+elle a fini de jaillir
+130 afi ahuahuucai
+afi a-huahuun-cai
+3PERS.PL AUX.TR-PL.ERG-MIR
+en grande quantité
+131 bia yora raquia
+bia yora raqui-a
+2PERS.A corps trembler-ACC
+ton corps a tremblé
+132 raquimafoana
+raqui-ma-foan-a
+trembler-CAUS-DIR-ACC
+elle t'a fait trembler
+133 bia yora chohuama
+bia yora chohua-ma-a
+2PERS.A corps trembler-CAUS-ACC
+elle t'a fait trembler très fortement le corps
+134 chohuamaidifoana
+chohua-ma-idi-foan-a
+trembler-CAUS-monter-DIR-ACC
+elle a commencé à te faire trembler très fortement
+135 min buuaforo
+min buu-a-fo-ro
+2PERS.N goûter-ACC-PL-CONTR.EXP
+tu l'as goûtée malgré toi
+136 buutauiaquian
+buu-taui-a-quian
+goûter-commencer-ACC-OST2
+tu as commencé à la goûter
+101

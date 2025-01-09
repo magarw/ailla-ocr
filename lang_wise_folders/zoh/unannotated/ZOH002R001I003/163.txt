@@ -1,0 +1,28 @@
+There are some intransitive verbs that accept the passive suffix, in which
+case we naturally get the middle voice reading.
+(6.25)
+tangngømmø de manggu 'okox ya jak pøjitukkø
+taŋ.?ǝm-wǝ
+de.?
+maŋgu ?okoš ya hakke pəhi?-tuk-wǝ
+estar_ancho.PAS-COM DCT2.NOM1 mango mata NEG muy grande=terminarse-COM
+'Se hizo ancho esta mata de mango, no creció más alta.' (lexicón)
+Many transitive verb roots do not allow the passive suffix, although I am
+unable to divine any feature common to them all that would explain this
+resistance. None of the 'hit' or 'cut' verbs, such as caŋ-, 'to hit with the fist',
+nakš-, 'to hit with a piece of wood', or nem-, 'to cut with a scissors', allow a
+passive, which at first suggested that it was the entailed instrument argument
+that was somehow blocking the passive. (Perhaps it is too agentlike?).
+However, other verbs that entail an instrument, such as hepš-, 'to scoop with a
+dipper', and hi?p-, 'to move with a little stick', do admit passivization, so that
+hypothesis went south. There are roots from all three classes (T1, T2, and T3)
+in the no-passives group. Judgements about passive forms were generally the
+most unstable of all the grammatical phenomena tested: one year (or week) my
+consultants would accept some root with a passive suffix, and the next time
+they would not. These forms appear very rarely in the corpus, other than in the
+idiomatic constructions shown in (6.27). Perhaps it's simply a marginal form,
+and we should not make too much of these inconsistencies. It is effectively a
+form of impersonal in MIG Zoque, and there are other ways of impersonalizing
+verbs (including the suffix -Anəm, IMPERS), so perhaps the passive is simply
+less preferred in most contexts.
+138

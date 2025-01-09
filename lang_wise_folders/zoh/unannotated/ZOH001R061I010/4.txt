@@ -1,0 +1,61 @@
+\ENG to pin
+\EX jay@ 7exx@
+\XSP tuvo un flor en el cabello
+\XEN she had a flower pinned in her hair
+\EX 7exx@mpa bi jay@
+\XSP se va a encajar la flor
+\XEN the flower is going to be pinned
+\ROOT 7ex P (T3)
+\SEMF instr, position
+\PASS 7ex.7@m esta* algo en el cabello
+\ANTI 7ex. 7oy tener algo en el cabello
+\ASSU 7ex.ney estar encajado
+\CMTS
+\lex 7in
+\_no 00012
+\SPG nublarse
+\ENG to get cloudy
+\EX
+\XSP
+\XEN
+\ROOT 7in Ix
+\SEMF nature
+\CAUS yak.7in hacer nublar
+\lex 7ix
+\_no 00013
+\SPG ver
+\ENG to see
+\EX 7@y ixx@ gaja*nh
+\XSP lo vio* por alla*
+XEN he saw it from there
+\EX 7@y yakkixx@ 7@y 7anhnitpa*7
+\XSP le ensen~o* lo que tiene
+\XEN he showed him what he has
+\EX d@ 7ixxoba
+\XSP voy a ver
+\XEN I'm going to see
+ZOH001R0611010.txt
+\EX d@ 7ixx@mm@ pan juyy@ 7an tak
+\XSP me forze* para que compre* mi casa
+\XEN
+\ROOT 7ix T3
+\SEMF percep
+\CAUS yak.7ix ensen~ar; mostrar
+\PASS 7ix.7@m verse
+ANTI 7ix.7oy ver
+\CMTS
+\lex 7oj
+\_no 00014
+\SPG toser
+\ENG to cough
+\EX
+\XSP
+\XEN
+\ROOT 7oj 11
+\SEMF body
+\CAUS yak. 7oj hacer toserse
+\CMTS
+\lex 7okx
+\_no 00015
+\SPG apagarse
+Page 4

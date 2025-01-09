@@ -1,0 +1,87 @@
+\ref ZOH001R043 078
+\_no_00079
+\tx 7okwakk@
+\mb 7ok
+y 7otowe
+-wak
+-w@ 7@y 7otonh-E
+\sg1 ABAJO-vaciar-COM 3E hablar-dCOM
+\eg1 DOWN -empty -COM 3E speak -dcom
+\zoq 7okwakk@y 7otowe.
+\fts Acabo* de hablar.
+\fte He finished speaking.
+\com
+\idx
+\ref ZOH001R043 079
+\_no 00080
+\tx_n@kk@
+\mb
+nak -w@
+jente dak
+jente d@kkay
+\sg1 irse-COM gente NPL
+\egl go -COM people NPL
+\zoq Nakk@ jented@kj@nanh.
+fts Se fue* con su gente.
+\fte He went with his people.
+\com
+\idx
+\tx t@kjo
+\mb
+\ref ZOH001R043 080
+\_no 00081
+\tx 7@y n@mjayy@
+jente d@kka 7awin
+d@kka dey
+\mb 7@y n@m
+7@n
+-jay -w@ jente d@kkay 7awin7 d@kkay te -Y
+7@n
+\sg1 3E decir-APPL-COM gente NPL hermano/a NPL DCT2-TMP 10 que 1E
+\egl 3E say -APPL-COM people NPL sibling NPL DCT2-TMP lo that 1E
+t@k
+tak -jo7
+\sg1 casa -Loc2
+\egl house-LOC2
+\tx t@pa
+mix 7okn@kk@damm@
+gajak
+wintuk 7@n
+\mb t@7 -ра mix 7ok -n@k -7@y-tam -wa ka -ja7 -k wintu7 7@n
+\sg1 querer-INC 2>1 ABAJO-irse-SUF-1/2PL-COPT DCT3-LOC1-NOM pescuezo 1E
+\egl want -INC 2>1 DOWN -go -SUF-1/2PL-COPT DCT3-LOC1-NOM neck 1E
+\com
+\idx
+ZOH001R0431001.txt
+j@nanh
+j@nanh
+AC
+ACC
+\ref ZOH001R043 081
+\_no 00082
+\zoq 7@y_n@mjayy@ jented@kkay, "7awind@kkay, dey lo ke 7@n t@pa mix
+7okn@kk@damm@ gaja7k wintuk 7an t@kjo7.
+\fts Le dijo la gente, "Compan~eros, ahora lo que quiero que me acompan~an
+al otro lado en mi casa.
+\tx 7abe*r
+\mb 7aber
+\fte He said to the people, "Brothers, now what I want is that you accompany
+me to the other side to my house,
+ti teji
+ti
+teji
+lo ke
+lo ke
+gaja
+ka -ja7
+yey
+y@ -y
+\sg1 aver
+DCT1-TMP DCT3-LOC1
+\eg1 let's see what there is DCT1-TMP DCT3-LOC1
+que hay
+\zoq 7abe*r ti teji yey gaja7."
+\fts aver que cosa hay alla*.'
+\fte let's see what there is there."
+\com
+Page 19

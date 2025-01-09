@@ -1,0 +1,60 @@
+\CMTS
+\lex tzu7tz
+\_no 00344
+\SPG mamar
+\ENG to suckle
+\SEMF eat
+\ASP activity
+\ARG
+\NOM tzu'tz.17
+\RTGR I1
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tzux
+\_no 00345
+\SPG estar verde; reverdecer
+\ENG to be green; to grow green again
+\SEMF color
+\ASP state, achievement
+\ARG
+\NOM tzux.i7 (chistoso, no gloss)
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tz@k
+\_no 00346
+\SPG hacer
+\ENG to do
+\SEMF build
+\ASP activity
+\ARG
+\NOM tz@k.i, tz@k.ja.e
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tz@m
+\_no 00347
+\SPG cargar
+\ENG to carry
+\SEMF carry
+\ASP activity
+\ARG location
+ZOH001R0611002.txt
+\NOM ni.tz@m, tz@m.i, tz@m. 'oy.kuy7, tz@m.kuy7, y@k.tz@m
+\RTGR P (T3)
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tz@n
+Page 85

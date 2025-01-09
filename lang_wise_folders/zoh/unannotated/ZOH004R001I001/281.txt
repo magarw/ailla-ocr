@@ -1,0 +1,62 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 30/Jan/96
+\lex jam(a) t@k.7<@y>-@n@m-w@+ ' am
+\_no 00657
+\LG MIG
+\PSH [jama t@kk@n@mma*m]
+\UND jama tak.7<@y>-An@m-w@+7am
+\MB sol, casa, SUF, INDEF, COM, YA
+\VAR jaam t@kk@n@mmaam
+\GRAM indef:ya
+\SCI
+\USE
+\SPG 1 tiempo de sequi*a
+\SPG 2 ya entro* la sequi*a
+\ENG 1 dry season
+\ENG 2 now the dry season has started
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 30/Jan/96
+\lex jam. '@y
+\_no 00658
+\LG MIG
+\PSH [jamm@y-]
+\UND jam. 7@y
+\MB cal, VERS2
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG encalar
+\ENG to whitewash
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS
+\date 08/Jan/96
+\lex jam(V)=7ok.tokoy
+\_no 00659
+Page 281

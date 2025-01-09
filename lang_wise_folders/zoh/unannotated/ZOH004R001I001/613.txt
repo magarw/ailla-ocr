@@ -1,0 +1,63 @@
+\PSH [konn@y-]
+\UND kon.7@y
+\MB corto, VERS2
+\VAR
+\GRAM vi:vers2
+\SCI
+\USE
+\SPG 1 hacerse corto
+\SPG 2 encortarse
+\ENG 1 to shorten
+\ENG 2 to get cut short
+\SPL yak.kon.7@y
+\SLGR CAUS
+\SLGL hacer ma*s corto
+\EXU
+\XSP
+\XEN
+\SYN konno'. 7aH
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\CMTS this is right phonologically
+\date 24/Jun/96
+\lex konh
+\_no 01409
+\LG MIG
+\PSH
+\UND konh
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG gatear, como criatura
+\ENG to crawl, like a baby
+\SPL yak.konh
+\SLGR CAUS
+\SLGL hacer gatear
+\SPL konh.ney
+\SLGR ASSUM1
+\SLGL agacharse // to stoop
+\EXU konh-pa 7@y+ wit-wa
+\XPSH [Konhpay witt@.]
+\XSP Gateo* la criatura.
+\XEN She came crawling.
+\SYN
+\SEMF move
+\ASP activity
+\ARG
+\NOM konh.naanh
+\SUB_j@x-konh, yuk.konh
+\ETYM
+\ETL
+\ROOT konh
+\RTGR P, (11)
+\DSRC HAJ94
+ZOH004R0011001.txt
+\CMTS
+\date 03/Jan/80
+Page 613

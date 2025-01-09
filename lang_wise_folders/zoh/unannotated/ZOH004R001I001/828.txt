@@ -1,0 +1,63 @@
+\SPG contar algo
+\ENG something for counting
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT may
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex mayu+7k j@y@7
+\_no 01920
+\LG MIG
+\PSH [mayu7k j@y@7]
+\UND mayu +P@7k_jay@7
+\MB mayo, REL, flor
+\VAR
+\GRAM Xms
+\SCI
+\USE
+\SPG flor de mayo
+\ENG a type of flower
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\lex ma'.7@y
+\_no 01921
+\LG MIG
+\PSH [ma7@y-]
+\UND ma7.7@y
+\MB venta, VERS2
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG vender
+\ENG to sell
+\EXU 1 ma7.7@y-A7
+\XPSH 1 [Ma7!]
+\XSP 1 ve*ndelo!
+\XEN 1 Sell it!
+\EXU 2 7@y+ ma7@y-w@
+\XPSH 2 [7@y ma7@yy@.]
+\XSP 2 Lo vendio*.
+\XEN 2 He sold it.
+\EXU 3 7@y+ ma7.7@y.jay-w@
+\XPSH 3 [7@y ma7@ujayy@]
+ZOH004R0011001.txt
+Page 828

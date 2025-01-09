@@ -1,0 +1,87 @@
+\sg1 DCT3-TMP que 2E tomar-COM-YA
+\eg1 DCT3-TMP that 2E drink-COM-NOW
+\zoq Kay kem_7ukka*m,
+\fts ya que lo tomastes,
+\fte Now that you've drunk it,
+\com
+\idx
+\ref ZOH001R036 094
+\_no 00095
+wanakpa m
+bi
+wanak -pa -7am bi
+\ref ZOH001R036 095
+\_no 00096
+\tx kay
+\mb ka
+-y
+\sg1 DCT3-TMP bajarse-INC-YA
+\eg1 DCT3-TMP go_down-INC-NOW DEF have_fever
+\tx ga
+\mb ka -7
+\zoq
+kay wanakpa*m bi jipx@y n@kk@.
+\fts ya viene bajando la calentura.
+\fte now then the fever goes down.
+\com
+\idx
+jukut@k witpa
+jukut@k wit -pa
+1umbre andar-INC
+\sg1 DCT3-NOM1 pasar-INC DCT3-DEM
+\eg1 DCT3-NOM1 pass -INC DCT3-DEM fire walk -INC inside -LOC2
+p@7tpa
+p@7t -pa
+\ref ZOH001R036 096
+\_no 00097
+\tx ded@
+\mb
+ZOH001R0361001.txt
+y n@kk@
+7@y nak -w@
+DEF tener_calentura 3E irse-dINC
+3E go -DINC
+jipx@
+jipx@
+\zoq Ga p@7tpa_gag@ jukut@k witpa jonhjo.
+\fts Pasa aquella calentura anda adentro (del cuerpo).
+\fte That
+that fire passes, it goes inside (the body).
+\com
+\idx
+\ref ZOH001R036 097
+\_no 00098
+gag@
+ka -ga
+\tx 7esde kay
+\mb 7esde ka
+jukutjipx@
+ban witpa
+-Y
+te -d@ jukut@k-jipx -A7 bayun wit -pa
+\sg1 DCT2-DEM lumbre -quemarse-NOM2 mucho andar-INC DCT2-TMP
+\eg1 DCT2-DEM fire -overcook-NOM2 a_lot walk -INC DCT2-TMP
+\ref ZOH001R036 098
+\_no 00099
+jonhjo
+jonh -jo7
+adentro-Loc2
+\zoq Ded@ jukutjipx@ ban witpa dey.
+\fts Esa calentura como fiebre anda pegando mucho ahora.
+\fte That fiery fever is going around a lot now.
+\com
+\idx
+geta tum@7k tzamm@ 7@y n@ji
+-y geta tum@-v7k tzamm@7 7@y naji
+xawa 7ay7
+xawa 7ay7
+\sg1 esde DCT3-TMP DES uno -REL hierba 3E nombre aire hoja
+\egl um DCT3-TMP DIS one -REL herb 3E name wind leaf
+dey
+te
+\zoq 7esde kay geta tum@7k_tzamm@, 7@y n@ji̟ xawa 7ay7.
+\fts Hay otra yierba, se llama hoja para aire
+\fte Um, now another herb, it's name is wind leaf
+\com don't know how to translate that 'geta' here
+\idx
+Page 21

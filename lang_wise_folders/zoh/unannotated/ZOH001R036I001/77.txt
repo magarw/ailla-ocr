@@ -1,0 +1,96 @@
+\mb 7ay
+\sg1 hay
+\egl there are DCT3-DEM
+ZOH001R0361001.txt
+ka -d@ puju7k d@kkay pedasu 7@m jax -p@k
+-pa -7am mix
+DCT3-DEM tripas NPL pedazo 2E ATRAS-agarrar-INC-YA 2Prn
+piece 2E BACK -get
+guts NPL
+-INC-NOW 2Prn
+p@7 -jay -pa
+adonde m
+adonde mi
+poner-APPL-INC adonde 3>2
+\sg1 2E
+\eg1 2E put -APPL-INC where 3>2 bite -COM
+\tx 7@m p@jaba
+\mb 7@m p@7
+7@m
+\zoq 7a gad@ puju7kd@kka pedasum j@xp@kpam mix 7@m p@jaba adondem waxx@.
+\fts Esos pedasos de tripa lo sacas tu le echas adonde te mordio*
+\fte You get out those guts in pieces and you put it where it bit you.
+\com
+\idx
+\ref ZOH001R036 358
+\_no 00353
+7@m nixatzpa
+\tx 7enteru ga7
+m win 7esde jemji7ok pwes
+\mb 7enteru ka -7 7@m ni -xatz -pa 7@m win 7esde jemji7ok pwes
+\sg1 entero DCT3-NOM1 2E PSE-torcer-INC 2E REFL esde por todo pues
+\egl whole
+DCT3-NOM1 2E PSE-twist -INC 2E REFL um all over well
+\zoq 7enteru ga7 7@m nixatzpam win, 7esde, jemji7ok, pwes.
+\fts Donde te mordio* lo bates en todo, pues.
+\ref ZOH001R036 359
+\_no 00354
+\tx
+\mb
+\fte All of that you spread it on yourself, um, well, all over.
+\com xatz is 'twist' like making rope, between two flat palms.
+\idx
+GSM: 7@m niji7tpa
+GSM
+7@m ni -ji7t
+\sg1 GSM: 2E
+\egl GSM: 2E
+\ref ZOH001R036 360
+\_no 00355
+\tx OSM: 7@m niji7tpa
+\mb OSM 7@m ni -ji7t
+\sg1 OSM: 2E
+\egl OSM: 2E
+-pa
+7@m win
+PSE-manchar-INC 2E REFL
+PSE-stain -INC 2E REFL
+\zoq GSM: 7@m niji7tpam win.
+\fts GSM: Te manchas tu mismo.
+\fte GSM: You smear it on yourself.
+\com
+\idx
+waxx@
+wax
+-wa
+morder-COM
+EN
+m win
+-pa
+\ref ZOH001R036 361
+\_no 00356
+\tx teji
+\mb teji
+7@m win
+7@m win
+PSE-manchar-INC 2E REFL
+PSE-stain -INC 2E REFL
+\zoq OSM: 7@m niji7tpa 7@m win.
+\fts OSM: Te manchas tu mismo.
+\fte OSM: You smear it on yourself.
+\com
+\idx
+jonhjo
+puju7k d@kkay 7i tin
+d@kkay
+jonh -jo7 puju7k d@kkay 7i ti -7@n d@kkay
+adentro-LOC2 tripas NPL y que -1E
+\egl there is inside -LOC2 guts
+\sg1 hay
+NPL
+and what-1E
+\zoq Teji jonhjo puju7kd@kkay 7i tind@kkay.
+\fts Esta* adentro de la tripa las mierda.
+Page 77
+NPL
+NPL

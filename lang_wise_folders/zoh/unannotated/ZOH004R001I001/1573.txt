@@ -1,0 +1,62 @@
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex we'ch.i7
+\_no 03658
+\LG MIG
+\PHO [wechi7]
+\UND we7ch.E7
+\MB encorvar, NOM7
+\VAR
+\GRAM pcp
+\SPG chueco
+\ENG crooked
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT we7ch
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex we'ch.@7
+\_no 03659
+\LG MIG
+\PHO [wech@7]
+\UND we7ch.A7
+\MB encorvar, NOM2
+\VAR
+\GRAM SV
+\SPG e*1 que esta* chueco
+\ENG someone who is crooked
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT we7ch
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex we'k.e7
+\_no 03660
+\LG MIG
+\PHO [weke7]
+\UND we7k.E7
+\MB envarillar, NOM7
+\VAR
+\GRAM pcp
+\SPG envarillado
+\ENG made of poles or wands
+\EXU 1 t@k we'k.e7
+\XPSH 1 [t@k weke7]
+\XSP 1 casa envarillada
+\XEN 2 poled house
+\EXU 2 tak we'k.e7+'am+p@7
+\XPSH 2 [t@k weke7amp@7]
+ZOH004R0011001.txt
+\XSP 2 casa que ya esta* envarillada
+\XEN 2 a house that now has its poles installed
+\SYN
+Page 1573

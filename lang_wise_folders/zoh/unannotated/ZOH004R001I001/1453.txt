@@ -1,0 +1,63 @@
+\GRAM instrl
+\SCI
+\USE
+\SPG ban~adero
+\ENG a place for bathing
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzinh
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex tzi7tz
+\_no 03380
+\LG MIG
+\PSH
+\UND tzi7tz
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG 1 tener sarna
+\SPG 2 marchitarse; arrugarse
+ENG 1 to have mange
+\ENG 2 to wilt; to wrinkle
+\SPL yak.tzi7tz
+\SLGR CAUS
+\SLGL dar sarna; arrugar; hacer marchitar // to cause mange; to wrinkle;
+to cause to wilt
+\EXU 1 tzi7tz-w@+'am bi jay@7
+\XPSH 1 [Tzi7tztza*m bi jay@7.]
+\XSP 1 Ya la flor esta* marchitado.
+\XEN 1 Now the flower has wilted.
+\EXU 2 d@ tzi7tz-pa
+\XPSH 2 [D@ tzi7tzpa.]
+\XSP 2 Tengo sarna.
+\XEN 2 I have mange.
+\EXU 3 tzi7tz-w@+ am 7@n+ naka
+\XPSH 3 [Tzi7tztza*m 7@n naka.]
+\XSP 3 Ya esta* arrugado mi piel.
+\XEN 3 Now my skin is wrinkled.
+\SYN
+\SEMF body, plant
+\ASP state, achievement
+\ARG
+\NOM tzi'tz.17
+\SUB
+\ETYM
+\ETL
+\ROOT tzi7tz
+ZOH004R0011001.txt
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex_tzi7tz=t@tz
+Page 1453

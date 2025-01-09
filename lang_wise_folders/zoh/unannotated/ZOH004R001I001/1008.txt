@@ -1,0 +1,63 @@
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG quejarse encima de alguien
+ENG to whine all over someone
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7@jaj
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 13/Jul/95
+\lex nik. '@7p. '@y
+\_no 02340
+\LG MIG
+\PSH [nikk@7pp@y-]
+\UND nik.7@7p.7@y
+\MB SUP, palanquear, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG arrima*rselo con espeque algo
+\ENG to push something aside with a lever
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ETYM
+\ETL
+\ROOT 7@7p
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 27/Jan/96
+\lex nik. '@7tz. '@y
+\_no 02341
+\LG MIG
+\PSH [nikk@7tztz@y-]
+\UND nik.7@7tz.7@y
+\MB SUP, vomitar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG gomitar encima de alguien
+\ENG to throw up on someone
+\SPL
+ZOH004R0011001.txt
+\SLGR
+\EXU
+Page 1008

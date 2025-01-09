@@ -1,0 +1,63 @@
+\ENG to stop itching
+\EXU_tzi7kx=way-w@
+\XPSH [Tzi7kxwayy@.]
+\XSP Ya no le dio* comezo*n; se calmo* la comezo*n.
+\XEN The itch went away.
+\SYN
+SEMF
+ETYM
+\ETL
+\ROOT tzi7kx
+\RTGR 12
+\DSRC TK96
+\CMTS
+\lex tzima7
+\_no 03363
+\LG MIG
+\PSH
+\UND tzima7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG ji*cara
+\ENG gourd; dipper
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex tzima7
+\_no 03364
+\LG MIG
+\PSH
+\UND tzima7
+\MB
+\VAR kuy tzima7
+\VAR tzima7 kuy
+\GRAM
+\SCI
+\USE
+\SPG morro
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+LF: kuy
+ZOH004R0011001.txt
+\DSRC TK94
+\CMTS
+\date 13/Nov/94
+Page 1446

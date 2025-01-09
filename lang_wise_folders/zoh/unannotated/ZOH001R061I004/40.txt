@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [jopoe7]
+\UND jo.ponh.E7
+\MB requemar, NOM7
+\VAR [jopoe*7]
+\GRAM SV
+\SCI
+\USE
+\SPG incendio; una cosa que ya esta* quemado
+\ENG fire; something that's burning
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ponh
+\RTGR T3
+\DSRC HAJ94
+\CMTS cf jo.k@nh-pa; now he doesn't like this one (twice he doesn't like it)
+\CMTS ok HAJ: 96
+\CMTS that final /e/ is laryngealized; it's /jopoe7/ TK
+\date 24/Jun/96
+\lex jow.e
+\_no 00096
+\LG MIG
+\PHO [jowe]
+\UND jonh. E
+\MB atarantarse, NOM7
+\VAR
+\GRAM pcp
+\SPG atarantamiento
+\ENG dizzyness
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT jonh
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex jo=xanh.7
+\_no 00097
+\LG MIG
+\PSH [joxanh7]
+\UND jo=xanh.7 or
+\UND jo.xanh7.0
+\MB EN, cortar, NOM6
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG vaci*o
+ZOH001R0611004.txt
+\ENG empty
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+Page 40

@@ -1,0 +1,63 @@
+\DSRC HAJ94
+\CMTS CK-PH - HAJ:96, PHO is correct, it appears a lot in texts too/fixed: TK
+\date 26/Jun/96
+\lex tzi7kx
+\_no 03361
+\LG MIG
+\PSH
+\UND tzi7kx
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG darle comezo*n
+\ENG to itch
+\SLGR NO CAUS
+\SLGR NO PCP
+\EXU 1 tzi7kx-w@ wenu
+\XPSH 1 [Tzi7kx@ wenu.]
+\XSP 1 Le dio* mucha comezo*n.
+\XEN 1 It itched a lot.
+\EXU 2 ya tzi7kx-w@+'am
+\XPSH 2 [Ya tzi7kxa*m.]
+\XSP 2 Ya no le da comezo*n.
+\XEN 2 Now it doesn't itch.
+\EXU 3 yuk.tzi7kx-w@ 7@y+ kuptuku7
+\XPSH 3 [Yuktzi7kx@y kuptuku7.]
+\XSP 3 Le dio* comezo*n su espalda.
+\XEN 3 Her back itched.
+\EXU 4 tzi7kx.jay-pa
+\XPSH 4 [Tzi7kxjaypa.]
+\XSP 4 Tiene comezo*n.
+\XEN 4 He itches.
+\EXU 5 tzi7kx-pa
+\XPSH 5 [Tzi7kxpa.]
+\XSP 5 Me da comezo*n.
+\XEN 5 I itch.
+\SYN
+\SEMF body
+\ASP
+\ARG
+\NOM
+\SUB_tzi7kx=way, yuk.tzi7kx
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT tzi7kx
+\RTGR 12
+\DSRC HAJ94
+\CMTS get deriv's; CK-EX2 HAJ:96, correct; fixed: TK
+\date 03/Jan/80
+\lex tzi7kx=way
+\_no 03362
+\LG MIG
+\PSH [tzi7kxway-]
+\UND tzi7kx=way
+\MB dar_comezo*n, X
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG calmarse comezo*n
+Page 1445

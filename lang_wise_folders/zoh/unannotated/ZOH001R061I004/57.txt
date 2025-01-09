@@ -1,0 +1,64 @@
+\PSH [koxuy7]
+\UND ko.xuy.7 or ko.xuy7.0
+\MB OTRO, cobijar, NOM1 or OTRO, cobijar, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG rebozo; toalla
+\ENG shawl; towel
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xuy
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex kuk.wen.e7
+\_no 00139
+\LG MIG
+\PSH [kukwene7]
+\UND kuk.wen.E7
+\MB centro, partir, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG partido por la mitad (como un pan o tortilla)
+\ENG parted in the middle (like bread or a tortilla)
+\EXU kuk.wen. E'
+7ane
+\XPSH [kukwene 7ane]
+\XSP una tortilla partida por la mitad
+\XEN a tortilla torn in half
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wen
+\RTGR TX
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+ZOH001R0611004.txt
+\lex kumbi=tz@k.i
+\_no 00140
+\LG MIG
+\PSH [kumbitz@ki]
+\UND kumbi=tz@k. E
+\MB X, HACER, NOM7
+\VAR
+\GRAM pcp
+\SPG esta* invitado
+\ENG someone who is invited to something
+\SPL
+\SLGR
+\EXU
+\XPSH
+\XSP
+Page 57

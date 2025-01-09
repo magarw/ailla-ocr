@@ -1,0 +1,39 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+4.7. Postpositions
+Postpositions are clitics that attach to a preceding noun. This constraint
+on their position formally distinguishes the postpositions from the spatial
+adverbs, which can appear independently from the noun phrase to which they
+are relevant. The two sets or lexemes perform the same function, of locating
+objects in space or directing the motion of an object through space.
+The postpositions appear at the end of a noun phrase, which may consist
+of a phrase or compound (4.24 i), a noun with the plural clitic (ii), or a
+possessive noun phrase (iii).
+(4.24)
+(i)
+(ii)
+(iii)
+komo ke ney 'iwøjønang dø tukxitøpa
+komo ke
+ney Piwǝ +hənaŋ də+ tukši=tə?-pa
+like what some who +ACC 1A+ fight-want-INC
+'As if I wanted to fight with someone.'
+tijtammøn yoxtame yødø yangkedøkjønang
+tih-tam-wə
+?ən+yoš-tam-E
+(ZOH001R018-282)
+yə.də
+yaŋke+dǝkkay+hənaan
+go&return-1/2PL-COM 1E+ work-1/2PL-dCOM DCT1.DEM yankee+NPL+ACC
+'We went to work with these gringos.'
+(ZOH001R018- 009)
+tək ?əy+ kohap+ho?
+yødø 'anmal makimaki witpa yødø tøk 'øy kojapjo'
+yə.də 7anmal makimaki 0 wit-pa yə.də
+DCT1.DEM animal spider
+'This animal the spider is walking on the ceiling of this house."
+3A walk-INC DCT1.DEM house 3E+ hat+LOC2
+(ZOH001 R0601001-012)
+All of the spatial terms (except the deictics) are listed together in a table
+in Appendix C, with both English and Spanish glosses. Postpositions are
+marked in the table with preceding +. Since the entries are listed
+71

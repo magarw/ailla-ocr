@@ -1,0 +1,62 @@
+\XEN He heard the gossip over there.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzam
+\RTGR T1
+\DSRC HAJ94
+\CMTS chisme no son verdades
+\date 09/Jan/96
+\lex 7anh-tzam. '@y
+\_no 00174
+\LG MIG
+\PSH [7anhtzamm@y-]
+\UND 7anh-tzam.7@y
+\MB BOCA, platicar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG platicarle
+\ENG to tell someone something
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzam
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 12/Jun/95
+\lex 7anh-tze7k. '@y
+\_no 00175
+\LG MIG
+\PSH [7anhtze7kk@y-]
+\UND 7anh-tze7k.7@y
+\MB BOCA, pedir, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG preguntar
+\ENG to ask
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tze7k
+\RTGR T3
+\DSRC HAJ95
+ZOH004R0011001.txt
+\CMTS
+\date 24/Jun/95
+Page 74

@@ -1,0 +1,64 @@
+(13) qa nti'=0
+tz'lom iiqa-n
+jun xjaal,
+si NEG=B3s tabla cargar-PART A3s-SR:AGT un persona
+'si una persona no llevaba tabla,'
+(14) jek
+txi' t-u'n
+t-pas
+AFEC:poner.carga.rápido A3s+ir A3s-SR:AGT A3s-sombrero
+t-qan=jal,
+A3s-pie-CL
+'¡Zas! lo levanta con sus garras,
+t-ee=x
+(15) tzojojo
+AFEC:colgado A3s-salir-DIR
+'colgando en el aire’
+(16) t-u'n
+txi'
+A3s-SR:para.que A3s+DIR
+t-jaa=jal.
+A3s-casa=CL
+‘para llevarlo hasta su cueva.'
+(18) t-u'n-tzan
+(19) Naq qit
+solo a.veces
+t-witz
+(17) Kyja'-tzan qa-ky-e
+xjaal
+así pues PL=A3p-SR gente antigua CPL.DEP=B3s=cargar-AP-pues
+ky-e
+tz'lom ky-u'n
+A3p-SR:PAC tabla A3p-SR:AGT
+'Así fue que la gente de antes cargaba sus tablas'
+(20) 0-chi-tzan.
+mii ky-xi' t-u'n
+t'iiw.
+A3s-SR:para.que-pues NEG A3p-ir A3s-SR:AGT águila
+'para que el águila no se les llevara.'
+B3s-decir pues
+'dijo.'
+(21) At=0=tzan
+t-u'n
+9
+jun el,
+EXIST=B3s-pues un vez
+'Había una vez,'
+(22) 0-chi-tzan,
+t-u'n=jal
+B3s-decir pues
+'dice,'
+A3s-SR:AGT=CL
+t-ii-’n=jal
+maax t-uj
+A3s-llevar-SD=CL hasta A3s-SR:en
+A3s-SR:sobre tabla
+'Sólo se resbalaban las garras del animal en la tabla,'
+ojtxa_0=0=iiqa-n=tzan
+t-jaaw
+skatpaj
+nimaal t-pas
+t-qan-jal
+A3s-DIR resbalarse AUM A3s-sombrero A3s-pie=CL
+tz’lom,
+3

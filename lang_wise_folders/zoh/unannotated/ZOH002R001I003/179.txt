@@ -1,0 +1,60 @@
+door is the mouth of a house. This prefix often occurs with verb roots that do
+not appear independently in the corpus.
+(7.3)
+(i) 'angkammø
+(iii)
+(v)
+0 Paŋ.kam-wə
+3A BOCA.trabarse-COM
+'Se cerró.
+'angwakkø
+0 ?aŋ.wak-wə
+3A BOCA. *vaciar-COM
+'Se abrió.'
+(7.4)
+(i)
+'øy 'angnekkø
+?əy+ ?aŋ.nek-wǝə
+3E+ BOCA.estivar-COM
+'Echó un palo tras la puerta
+para que nadie no entren.'
+(vii) 'angkimmoyyø
+0 ?aŋ.kim.?oy-wǝ
+3A BOCA.subir.ANTIP-COM
+'Gobernó.'
+(viii) 'angtzongngoyyø
+0 ?aŋ.coŋ.?oy-wǝ
+3A BOCA.unir.ANTIP-COM
+'Respondió.'
+(ii) 'angkøi
+?aŋ.kəy.E
+'øy 'angpakxø
+?ǝy+ ?aŋ.pakš-wə
+3E+ BOCA.doblar-COM
+'Le puso dobladillo.'
+BOCA.llevar_en_mano.NOM3
+(iv) 'øy 'angwi'ttø
+(ii)
+'puerta'
+?əy+ ?aŋ.wi?t-wə
+3E+ BOCA.torcer-COM
+'Cerró la casa con llave.'
+(vi) 'angnakx
+7an.nakx.0
+154
+BOCA.pegar_c_palo.NOM5
+'un palo puesto en el techo de palma
+para que no saque el aire'
+(vii) 'angmayyø
+0 Paŋ.may-wə
+3A BOCA.contar-COM
+'Enseñó.' o 'Aprendió.'
+(ix) 'angwittø
+There are many constructions with no clearly compositional meaning:
+0 ?aŋ.wit-we
+3A BOCA.caminar-COM
+'Anduvo visitando.'
+'øy 'angyojjø kakawjønang
+?əy+ ?aŋ.yoh-wə kakaw+hənaŋ
+3E+ BOCA.cambiar-COM cocoa+ACC
+'Lo cambió para cacao."

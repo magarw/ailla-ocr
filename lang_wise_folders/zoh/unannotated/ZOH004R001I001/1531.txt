@@ -1,0 +1,65 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS CK-PH HAJ:96 ok/OK:TK
+\date 26/Jun/96
+\lex wanak
+\_no 03561
+LG MIG
+LF: kuy
+\PSH
+\UND wanak
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG bajarse
+ENG to go down
+\SPL yak.wanak
+\SLGR CAUS
+\SLGL bajar // to lower; to cause to go down
+\EXU ya.ji +xtaa7 wanak-ta.anh
+\XPSH [Y@jixta*7 wanakṭa*nh.]
+\XSP Aqui
+no ma*s abajemos.
+\XEN Let's get off (the bus) right here.
+\SYN
+\SEMF move
+\ASP activity
+\ARG direction
+\NOM
+\SUB jup=wanak, p@k=wanak, t@nh-wanak
+\ETYM
+\ETL
+\ROOT wanak
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex wanak.kuy7
+\_no 03562
+\LG MIG
+\PHO [wanakkuy7]
+\UND wanak.kuy7
+\MB bajar, INSTR1
+\VAR
+ZOH004R0011001.txt
+\XEN
+\SYN
+\GRAM instr1
+\SPG la parte en donde se baja uno, como una escalera
+\ENG a place where you can go down, like a staircase
+\EX
+\XSP
+\ROOT wanak
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+Page 1531

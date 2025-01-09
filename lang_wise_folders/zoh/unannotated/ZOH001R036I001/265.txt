@@ -1,0 +1,69 @@
+dolo*r
+\mb para p@7t -pa ka -7
+\sg1 para pasar-INC DCT3-NOM1 dolor
+\egl for pass -INC DCT3-NOM1 pain
+\zoq pa p@7tpa ga dolo*r.
+\fts para que pase esa dolor.
+\fte so that pain passes.
+\com
+\idx
+\ref ZOH001R036 999-251
+\_no 01232
+\tx
+bi
+kwer bi kalambre
+\mb bi *** bi kalambre
+\sg1 DEF *** DEF calambre
+\egl DEF *** DEF cramp
+\zoq Bi kwer - bi kalambre.
+\fts El calambre.
+\fte The mus the cramp.
+\com
+\idx
+\ref ZOH001R036 999-252
+\_no 01233
+\tx 7asi
+\mb 7asi* se
+\sgl asi* se
+\egl thus one mends
+se compone
+compone
+compone
+\zoq 7asi se compone.
+\fts Asi* se compone.
+\fte So it mends.
+\com
+\idx
+\ref ZOH001R036 999-253
+\_no 01234
+\tx <break> ;
+\fts <break>;
+\ref ZOH001R036 999-254
+\_no 01235
+\tx GSM: 7i teke7t 7anhkame
+\mb GSM 71 teke7t 7anh -kam
+ZOH001R0361001.txt
+-E7
+\sg1 GSM: y
+orin
+BOCA -trabarse -NOM3
+\eg1 GSM: and urine MOUTH-get_stuck-NOM3
+\zoq GSM: 7i teke7t7anhkame?
+\fts GSM: Y para tapeadura de orin?
+\fte GSM: And blockage of urine?
+\com
+\idx
+\ref ZOH001R036 999-255
+\_no 01236
+\tx ti
+\mb ti
+tzoy
+m tziw@
+n@mmoba
+tzoy n@m-7oy -pa 7@m tzi7-w@
+saltar DO -ANTIP-INC 2E dar -dINC
+\egl what jump DO -ANTIP-INC 2E give-dINC
+\sg1 que
+\zoq Ti tzoy n@mmobam tziw@?
+\fts Que remedio le puedes dar?
+Page 265

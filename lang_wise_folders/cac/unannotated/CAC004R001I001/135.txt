@@ -1,0 +1,29 @@
+on.
+Suffixes from position +1 precede suffixes from position
++2, and so on. Only one affix from a given position may occur
+in any single verb phrase. Figure 6 shows the verbal prefixes
+in their relative positions; Figure 7 shows the verbal suffixes,
+excluding derivational suffixes, in their relative positions.
+130
+Inflection of Noun Stems
+Noun stems may be inflected for person and for number.
+The inflection of substantives and adjectives, specifiers, and
+numerals differs slightly. Since noun stem inflection is less
+complex than that of verb stems, involving fewer inflectional
+positions, the affixes will be discussed below according to
+the inflectional class of the stem rather than the relative
+order of the affixes.
+Inflection of Substantives
+and Adjectives
+Substantive and adjective noun stems may be inflected
+for person and for number. Personal inflection indicates the
+possessor of the object or feature specified by the noun stem.
+Inflection for number indicates singularity or plurality of
+either the possessor or the object or feature itself.
+Inflection of substantives and adjectives for person
+is identical to the inflection of transitive verb stems for
+personal subjects (see page 117). The inventory of person
+markers is the same as that for transitive verb subject mark-
+ers, and the same distributional restrictions occur with re-
+spect to the initial consonant of the stem. The selection of
+allomorphs of these person markers is discussed on page 65.

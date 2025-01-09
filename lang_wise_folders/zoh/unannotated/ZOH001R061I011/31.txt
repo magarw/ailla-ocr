@@ -1,0 +1,60 @@
+\lex nox
+\_no 00151
+\SPG ban~arse sin jabo*n
+\ENG to bathe without soap
+\EX
+\XSP
+\XEN
+\ROOT nox Il
+\CMTS caus yak.nox banar sin jabo*n
+\lex nuk
+\_no 00152
+\SPG agarrar
+\ENG to grasp; to grab
+\EX
+\XSP
+\XEN
+\ROOT nuk T3
+\CMTS antip nuk.7oy
+\CMTS pass nuk.7@m
+\lex num
+\_no 00153
+\SPG robar
+\ENG to rob
+\EX
+\XSP
+\XEN
+\ROOT num T1
+\CMTS
+\lex numpa7
+\_no 00154
+\SPG ladro*n
+\ENG thief
+\EX
+\XSP
+\XEN
+\ROOT num T1
+\CMTS
+ZOH001R0611011.txt
+\lex nutz
+\_no 00155
+\SPG estar caliente (comida, cafe* ..., por el fuego o el sol); quemarse
+\ENG to be hot; to burn oneself
+\EX d@ nutztz@
+\XSP me queme*
+\XEN I burned myself
+\EX 7@n yaknutztz@ k@xi
+\XSP calente* la comida
+\XEN I heated up the food
+\EX d@ nutztz@ k@xi_j@nanh
+\XSP me queme* con la comida
+\XEN I burned myself with the food
+\ROOT nutz 12
+\CMTS caus yak.nutz calentar; quemar
+\lex n@k
+\_no 00156
+\SPG irse
+\ENG to go
+\EX n@k-pa
+\XSP se va
+Page 31

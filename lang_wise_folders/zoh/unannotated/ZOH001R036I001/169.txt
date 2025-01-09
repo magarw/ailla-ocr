@@ -1,0 +1,69 @@
+\com
+\idx
+\ref ZOH001R036 792
+\_no 00778
+\tx HAJ: 7i 7eya*7k jipx@
+\mb HAJ
+7i 7eya -v7k jipx@
+\sg1 HAJ: y otro -REL
+\eg1 HAJ: and other-REL have_fever
+\zoq HAJ: 71 7eya*7k jipx@?
+\fts HAJ: y otra calentura?
+\fte HAJ: and other fevers?
+\com
+\idx
+\ref ZOH001R036 793
+\_no 00779
+\tx
+GSM: ya lo dije
+\mb GSM ya lo dije
+\sg1 GSM: ya lo dije
+\egl GSM: now lo said
+\zoq GSM: Ya lo dije.
+\fts GSM: Ya lo dije.
+\fte GSM: He's already said it.
+\com
+\idx
+\ref ZOH001R036 794
+\_no 00780
+\tx
+<break>
+\fts <break>
+\ref ZOH001R036 795
+\_no 00781
+\tx OSM: 7i joypi7t namtzu7
+\mb OSM 7i
+\sg1 OSM: y
+\egl OSM: and next_day morning
+\tx 7anhnamtzu
+\mb 7anhnamtzu7
+\sg1 man~ana
+\egl morning
+tener_calentura
+n@kpa*m
+joypi7t 7anhnamtzu7 n@k -pa -7am
+otro_di*a man~ana
+irse-INC-YA
+\ref ZOH001R036 796
+\_no 00782
+\tx n@7apa
+\mb n@7 -7a
+ZOH001R0361001.txt
+\zoq OSM: 7i joypi7t namtzu7_n@kpa*m_tzinhtamm@ 7anhnamtzu.
+\fts OSM: Y el otro di*a en la man~ana ya se va ban~ase de man~ana.
+\fte OSM: And the next day in the morning we go to bath in the morning.
+\com
+\idx
+ney kin@k
+-ра ney kin@k
+\sgl agua -VERS1-INC IPrn nariz
+\eg1 water-VERS1-INC IPrn nose
+\zoq N@7apa ney kin@k.
+\fts Sale agua en nuestra nariz.
+\fte water gets into our nose.
+\com
+tzinhtamm@
+tzinh - tam -w@
+ban*arse-1/2 PL-DINC
+go -INC-NOW bathe -1/2 PL-DINC
+Page 169

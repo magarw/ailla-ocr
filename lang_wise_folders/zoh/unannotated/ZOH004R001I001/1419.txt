@@ -1,0 +1,62 @@
+\lex tzayji.7aH
+\_no 03300
+\LG MIG
+\PSH [tzayji7a-]
+\UND tzayji.7aH
+\MB tarde, VERS1
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG hace*rsele tarde
+\ENG to be made late
+\EXU d@+ tzayji.7aH-w@
+\XPSH [D@ tzayji7aw@.]
+\XSP Se me hizo tarde.
+\XEN It made me late.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\lex tzayji'.7<aH>-An@m
+\_no 03301
+\LG MIG
+\PSH [tzayji7an@m-]
+\UND tzayji7.7aH-An@m
+\MB tarde, VERS1, INDEF
+\VAR
+\GRAM vi:indef
+\SCI
+\USE
+\SPG hacerse tarde
+\ENG to become late
+\EXU tzayji7.7aH-An@m-w@
+\XPSH [Tzayji7an@mm@.]
+\XSP Se hizo tarde.
+\XEN It got late.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-GR ok; CK again HAJ:96 ok again/OK: TK
+\date 26/Jun/96
+\lex tzay-j@7
+\_no 03302
+\LG MIG
+\PSH [tzayj@7]
+\UND tzay-j@7
+\MB tarde, LOC1
+\VAR tzayj@7k
+\GRAM av
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG anoche
+\ENG last night
+\EXU
+Page 1419

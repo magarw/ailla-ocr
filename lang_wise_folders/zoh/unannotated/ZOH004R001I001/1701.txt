@@ -1,0 +1,63 @@
+\lex xix-ponh
+\_no 03953
+\LG MIG
+\PSH [xixponh-]
+\UND xix-ponh
+\MB carne, quemar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG hornear carne
+\ENG to roast meat in the oven
+\SPL
+\SLGR
+\EXU xix-ponh-w@
+\XSP horneo* carne
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ponh
+\RTGR T3
+\DSRC HAJ95
+\CMTS CK-GR - HAJ:96 ok; OK: TK
+\date 26/Jun/96
+\lex xix-tu'p. u'=tz@k
+\_no 03954
+\LG MIG
+\PSH [xixtuuputz@k-]
+\UND xix-tu7p.u7=tz@k
+\MB carne, pedazo, HACER
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG picar carne
+\ENG to mince meat
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tu7p
+\RTGR 1 T3
+\ROOT 2 tz@k
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex xi' pak
+\_no 03955
+\LG MIG
+\PSH [xiipa*k]
+\UND xi7 pak
+\MB culo, hueso
+\VAR
+\GRAM sms
+\SCI
+ZOH004R0011001.txt
+Page 1701

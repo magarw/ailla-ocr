@@ -1,0 +1,47 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+morpheme-initial glottal stop fails to delete, it serves as evidence that the
+preceding morpheme does indeed end in a glottal stop. This is a useful
+diagnostic for determining the underlying shape of glottal stop-final verb roots,
+like tə?-, 'to want', whose final consonant generally disappears in context.
+(3.12)
+(i)
+(ii)
+(iii)
+(iv)
+'øn tødampa tamnø'
+?ən+ tə?-tam-pa tam?=nə?
+1E+ want-1/2PL-INC bitter=water
+'We want beer.'
+(3.13)
+(i)
+yotetzexukkø
+0 yote?=ce?-šuk-wǝ
+3A clothes-wash-3PL-COM
+'They washed clothes.'
+tø"mpá'k
+tə?.?əm-pa+V?k
+want.PASS-INC+REL
+'a serviceable thing'
+'øy mø"øyyø
+?əy+ mə?.?əy-wə
+3E
+'He got married.'
+wife.VERS2-COM
+tøki
+tə?k. E
+hiccup.NOM3
+'hiccup'
+40
+(elicited)
+The more interesting case appears when a vowel-initial suffix (see 3.3.2)
+attaches to a stem in the shape CV?C. The word is re-syllabified so that the
+final C of the stem's coda becomes the onset of the suffix syllable. This leaves
+the glottal stop in syllable-final position, from which it is deleted.
+(ii)
+(elicited)
+(lexicon)
+(lexicon)
+woke
+wo?k.E
+scrape.NOM3
+'scraped'

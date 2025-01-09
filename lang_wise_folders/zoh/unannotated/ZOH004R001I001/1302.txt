@@ -1,0 +1,62 @@
+\RTGR IX
+\DSRC TK94
+\CMTS clouds of powder swirling in the wind or wasps swarming
+\CMTS get deriv's
+\date 03/Jan/80
+\lex tonon.e7
+\_no 03023
+\LG MIG
+\PHO [tonone7]
+\UND tonon. E7
+\MB alborotarse, NOM7
+\VAR
+\GRAM pcp
+\SPG alborotado; una cosa alborotada
+\ENG swarming; something swarming
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT tonon
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex ton.ton7
+\_no 03024
+\LG MIG
+\PSH [tonton7]
+\UND ton.ton7
+\MB
+\VAR
+\GRAM SR
+\SCI
+\USE
+\SPG polvo
+\ENG powder
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+ZOH004R0011001.txt
+\lex tonh
+\_no 03025
+\LG MIG
+\PSH
+\UND tonh
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG "empollar"; ampollarse
+\ENG to blister
+\SPL yak.tonh
+Page 1302

@@ -1,0 +1,63 @@
+\lex jup=tu.i
+\_no 00105
+\LG MIG
+\PSH [juptuui]
+\UND jup-tuy. E
+\MB jalar, estirar, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG 1 estirado
+\SPG 2 una cosa estirada
+\ENG 1 stretched
+\ENG 2 something stretched out
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 jup
+\RTGR 1 P, (T3)
+\ROOT 2 tuy
+\RTGR 2 12
+\DSRC TK94
+\CMTS
+\date 06/Feb/96
+\lex jup-tzo't.e7
+\_no 00106
+\LG MIG
+\PHO [juptzote7]
+\UND jup-tzo7t. E7
+\MB jalar, arrancar, NOM7
+\VAR
+\GRAM pcp
+\SPG una cosa que se arranca sin rai*z
+\ENG something pulled up without the root
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT 1 jup
+\RTGR 1 P (T3)
+\ROOT 2 tzo7t
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex jutze' y+ yoj.a7
+\_no 00107
+\LG MIG
+\PSH [jutzey_yoja7]
+\UND jutze7 7@y+ yoj.A7
+\MB cuanto, 3Erg, pagar, NOM2
+\VAR
+\GRAM int
+ZOH001R0611004.txt
+\SCI
+\USE
+\SPG cuanto vale?
+\ENG how much is it?
+Page 44

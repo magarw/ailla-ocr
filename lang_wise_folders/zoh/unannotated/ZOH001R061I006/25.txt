@@ -1,0 +1,63 @@
+ZOH001R0611006.txt
+\SLGL tocar al pasar // to touch in passing
+\SPL jim.7@m
+\SLGR PASS
+\SLGL tocarse // to be touched
+\DSRC HAJ94
+\CMTS CK-EX ok, HAJ: 96
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex jin
+\_no 00033
+LG MIG
+\PSH
+\UND jin
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG refregarle
+\ENG to scrub someone
+\EXU 1 7@y+ jin.jay-w@ 7@y+ kup=tuku7
+\XPSH 1 [7@y jinjayy@y kuptuku7.]
+\XSP 1 Le refrego* la espalda.
+\XEN 1 He scrubbed her back.
+\EXU 2 7@n+ jin-pa 7@n+win
+\XPSH 2 [7@n jinpan win.]
+\XSP 2 Estoy refregando yo mismo.
+\XEN 2 I'm scrubbing myself.
+\EXU 3 7@y+ jin-xuk-w@+ 'am
+\XPSH 3 [7@y jinxukka*m.]
+\XSP 3 Ya esta* refregaron.
+\XEN 3 Now they're scrubbing someone.
+\EXU 4 yomaa7 d@kkay ney ko.jin-xuk-A-w@
+\XPSH 4 [Yoma d@kka ney kojinxuk@w@.]
+\XSP 4 Las mujeres se refregaron unos a los otros.
+\XEN 4 The women scrubbed each other.
+\SYN
+\SEMF body, clean, touch
+\ASP activity
+\ARG
+\NOM jin.kuy7, ni.jin, jin.naanh
+\SUB 7ok.jin.'@y, jo.jin, j@x-jin, ko.jin
+ETYM
+\ETL
+\ROOT jin
+\RTGR T3
+\SPL jin. 7oy
+\SLGR ANTIP
+\SLGL refregarle // to scrub for someone
+\SPL jin.7@m
+\SLGR PASS
+\SLGL refregarle (Camilo: pass:impers) // to be scrubbed
+\DSRC TK94
+\CMTS
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex ji7p
+\_no 00034
+\LG MIG
+\PSH
+Page 25

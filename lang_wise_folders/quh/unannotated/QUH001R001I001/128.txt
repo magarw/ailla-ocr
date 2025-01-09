@@ -1,0 +1,40 @@
+128
+El ejemplo (6), aunque excepcional en la lengua, muestra que el pie trocaico admite
+estar formado por una sola sílaba. Este "permiso" introduce en la lengua lo que se denomina,
+en la teoría métrica, “pie degenerado” (Hayes 1989, 1995). A partir de aquí, podemos predecir
+que el quechua boliviano avala la presencia de pies monosilábicos, aunque, probablemente,
+sólo si se encuentran en posición contigüa a uno de los límites de la palabra fonológica.
+Próximos datos avalan esta proyección. Además, podría ser que, en general, estos pies se
+conformen por sílabas "pesadas", es decir, por sílabas que posean 2 moras (µ) o que adquieran
+una por efecto de compensación. Si bien, en el caso de quechua boliviano se considera que se
+trata de una variedad "no sensible a la cantidad silábica" por contraste con otras variedades
+donde es muy marcada la tendencia a que la cantidad silábica sea relevante, es probable que en
+ciertos niveles este rasgo adquiera funcionalidad. Considero que se trata de un aspecto
+ignorado hasta el momento que precisa de una documentación particular. En nuestro caso, en
+el monosílabo (6), la sílaba, que posee naturalmente 2 µ por ser sílaba cerrada, coincide con el
+pie (f), la palabra fonológica (o) y la frase fonológica (o) y habilita pensar en la significación
+del peso silábico en su conformación fonológica.
+-palabras de tres sílabas
+(7)
+'wa.'si.pi
+(. X.)
+( X X.)
+(X.) w + <LOC> (división morfológica)
+93
+En palabras de tres o más sílabas el “encuentro" entre el acento frasal (principal),
+asignado de derecha a izquierda, y el ciclo de acentos métricos (secundarios), que, a partir del
+análisis de los datos, parece asignarse en la dirección contraria, deviene en lo que se llama
+"choque de acentos" o "clash". Este "encuentro" de acentos se produce en el sector medio de
+la palabra fonológica y encuentra soluciones sistemáticas.
+-palabras de cinco sílabas
+159
+'en casa'
+En ejemplos como (7), durante la sufijación, el acento "se traslada" dentro del mismo
+pie para "fortalecer al más fuerte", es decir, al acento frasal que domina toda la construcción
+prosódica; y "debilitar al más débil" (Hayes 1995: 36), es decir, al acento secundario que, si
+bien se ubicaría inicialmente en la primera sílaba, frente a la contigüidad del acento primario
+pierde prominencia (por contraste). De esta forma, la o fonológica conforma una zona de
+"conflicto" o de "tránsito" entre el fy la q. Allí q "gana" a f.
+159
+Este tipo de solución combinada es la que promueve que Stewart (1984) llame al sistema acentual del quechua
+"sistema híbrido". El autor explica la operación métrica en términos de sensibilidad a la cantidad silábica.

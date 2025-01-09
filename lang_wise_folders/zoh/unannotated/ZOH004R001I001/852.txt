@@ -1,0 +1,63 @@
+\lex mok 7@y+ januki7
+\_no 01976
+\LG MIG
+\PSH [mok 7@y januki7]
+\UND mok 7@y+ januki7
+\MB mai*z, 3Erg, ahuate
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG ahuate de mazorca
+\ENG prickles of the corn husk
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS it's a white powdery something on the outside of a corn husk
+\date 25/Jun/96
+\lex mok 7@y+ xojo7k
+\_no 01977
+\LG MIG
+\PSH [mok 7@y xojo7k]
+\UND mok 7@y+ xojo7k
+\MB mai*z, 3Erg, zacate
+\VAR
+\GRAM sps
+\SCI
+\USE
+\SPG zacate de la milpa
+\ENG grass that grows in the cornfield
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 21/Jun/95
+\lex mok pak
+\_no 01978
+\LG MIG
+\PSH
+\UND mok pak
+\MB mai*z, hueso
+\VAR
+ZOH004R0011001.txt
+\GRAM sms
+\SCI
+\USE
+\SPG mazorca
+\ENG (ear of) corn
+\EXU
+Page 852

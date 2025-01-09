@@ -1,0 +1,38 @@
+\lex {-A} [3]
+\_no 04582
+\LG MIG
+\PSH [-a]; [-@]
+\UND A
+\MB NINC
+\VAR
+\USE inflectional verbal suffix: negative incompletive
+\GRAM suf
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU 1 ya 7@n+ t@nh-w@
+\XPSH 1 [Yan t@w@.]
+\XSP 1 No lo corto.
+\XEN 1 I'm not cutting it.
+\EXU 2 ya 7@m+ matonh-tam-A
+\XPSH 2 [Yam matonhtam@.]
+\XSP 2 No oigan.
+\XEN 2 You're not hearing it.
+\EXU 3 ya wej-A
+\XPSH 3 [Ya weja.]
+\XSP 3 No grita.
+\XEN 3 He doesn't shout.
+\EXU 4 yakki' ya tuj-A
+\XPSH 4 [Yakki ya tuja.]
+\XSP 4 Nadie no dispara.
+\XEN 4 No one is shooting.
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+Page 1968

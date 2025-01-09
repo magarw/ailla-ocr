@@ -1,0 +1,65 @@
+\ENG seems
+\SPL
+\SLGR
+\EXU 1 te.y komo d@+ w@t(i). '@y-tam-w@+'am komo de b@xe
+ney jatonh ya 7@y+ p@7t-w@ trabajo
+\XPSH 1 [Tey komo da watt@damma*m komo de b@xe ney jatonh
+yay p@7tt@ trabajo.]
+\XSP 1 Ahora como ya estamos grande parece que nuestro padre no
+paso* trabajo.
+\XEN 1 Now that we've grown old it seems that our fathers didn't work
+hard.
+\EXU 2 7ay n@m-pa ye7tz-w@+'am b@xe 7@y+ 7ora
+\XPSH 2 [7ay n@mpa, "Ye7tztza*m b@xe 7@y 7ora."]
+ZOH004R0011001.txt
+\XSP 2 Luego dice, "Parece que ya llego* la hora."
+\XEN 2 Then he says, "It looks like the time has come.
+\EXU 3 pues n@m-pa d@x komo b@xe d@x ya 7@n+
+7ok.tz@k. '@y-A de.y
+\XPSH_3 ["Pues", n@mpa, "d@x, komo b@xe d@x yan 7oktz@kk@
+dey."]
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date 03/Jan/80
+\XSP 3 "Pues", dice, "yo, como que yo no tengo tiempo ahora.
+\XEN 3 "well", he says, "I, since now it looks like I don't have the time."
+\SYN
+\lex {de.7}
+\_no 04408
+\LG MIG
+\PSH [de7]
+\UND te7
+\MB DCT2
+\VAR
+\GRAM pron
+\SCI
+\USE neutral deictic
+\SPG e*1, ella; este, esta
+\ENG
+\EXU 7@m+ yox-tam-pa de.' +j@nanh y@.ji
+\XPSH [7@m yoxtampa dej@nanh y@ji.]
+\XSP Trabajan con el aqui.
+\XEN YOU'11 work with him here.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Feb/96
+"I
+\lex {de.d@}
+\_no 04409
+\LG MIG
+\PSH [ded@]
+\UND de.d@
+\MB DCT2, XDEM
+"I
+\VAR
+\USE neutral deictic. the meaning or function of the -d@ suffix is unknown.
+\GRAM av
+Page 1893

@@ -1,0 +1,61 @@
+\XEN he stabbed himself
+\ROOT totz T3
+\SEMF hit, instr
+\PASS NONE
+\ANTI totz.7oy pun-alear
+\CMTS
+\lex toy
+\_no 00276
+\SPG doler; picar chile; "duele"
+\ENG to hurt; for chile to burn; "it hurts"
+\EX
+\XSP
+\XEN
+\ROOT toy 12
+\SEMF body, sickness
+\CAUS yak.toy hacer doler "hablaron mal de uno y lo sinti*o"
+\CMTS
+\lex tuj
+\_no 00277
+\SPG disparar; tirar
+\ENG to fire; to shoot
+\EX
+\XSP
+\XEN
+\ROOT tuj T1
+\SEMF throw
+\PASS NONE
+\CMTS
+\lex tuk
+\_no 00278
+\SPG terminarse; acabarse
+\ENG to end; to finish
+\EX tukka*m
+\XSP ya terminado
+\XEN now it's ended
+\EX jak tukk@ de yom7une7
+\XSP muy bonita es esta muchacha
+\XEN that girl is very pretty
+\EX jak tukk@ tukk@
+ZOH001R0611010.txt
+\XSP se hizo muy bonito
+\XEN it turned out very pretty
+\EX ya tukk@
+\XSP no tiene sabor
+\XEN it has no flavor
+\EX jak tukk@ bi nax pam nippa
+\XSP esta* muy bonita la tierra para sembrar
+\ROOT tuk 12
+\SEMF aspect
+\CAUS yak.tuk terminar; acabar
+\CMTS
+\lex tuk
+\_no 00279
+\SPG cortar
+\ENG to cut
+\EX tukk@mm@ 7@n k@ak 7@y naka
+\XSP se revento* la correa de mi huarache
+\XEN the strap of my huarache broke
+\EX 7@n tukk@ bi 7anaxa 7@n_tzanhkuypi7t
+\XSP Corte* la naranja con la mano
+Page 63

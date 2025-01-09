@@ -1,0 +1,62 @@
+\lex ni'k.@7
+\_no 00226
+\LG MIG
+\PHO [nik@7]
+\UND ni7k.A7
+\MB medio_secarse, NOM2
+\VAR
+\GRAM SV
+\SPG medio seco
+\ENG half-dry
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT ni7k
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex no'tz.07
+\_no 00227
+\LG MIG
+\PSH [notzo7]
+\UND no7tz.07
+\MB arar, NOM
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG rajado; quebrado; roto; machucado; "rompido"
+\ENG broken; scratched; chewed-up; busted
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT no7tz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 27/Jan/96
+\lex nuk.17
+\_no 00228
+\LG MIG
+\PHO [nuki7]
+\UND nuk. E7
+\MB agarrar, NOM7
+\VAR
+\GRAM pcp
+\SPG agarrado por mano
+\ENG caught by hand
+\EXU nuk. 17+k koke
+\XPSH [nuki7k koke]
+\XSP pescado agarrado por mano
+\XEN fish caught by hand
+\SYN
+ZOH001R0611004.txt
+\ROOT nuk
+\RTGR T3
+Page 92

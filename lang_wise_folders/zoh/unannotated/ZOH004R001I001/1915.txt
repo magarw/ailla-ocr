@@ -1,0 +1,64 @@
+XEN 1 we were going to finish.
+\EXU 2 ga.ji teji.7aH-mot-w@ mae7 7@n+ n@m.jay-tam-w@
+rejidora de 7edukasyon
+\XPSH 2 [Gaji tejiamott@ mae7 7@n n@mjadamm@ 'Rejidora de
+7edukasyon'.]
+\XSP 2 Ahi
+estaba que le decimos 'Regidora de Educacio*n'.
+\XEN 2 She was there also, what we call the 'Minister of Education'.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {ma=}
+\_no 04459
+\LG MIG
+\PSH
+\UND
+\MB
+\VAR
+\GRAM pre
+\SCI
+\USE adverbial prepound
+\SPG mas antes
+\ENG earlier
+\SPL
+\SLGR
+\EXU ma=tuk@-ji-7
+\XPSH [matuk@ji7]
+\XSP tres di*as antes
+\XEN three days ago
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\lex {min-ti7}
+\_no 04460
+\LG MIG
+\PSH [minti7]
+\UND min-ti7
+\MB 2POSN
+\VAR
+\USE second person singular possessive noun
+\GRAM S
+\SPG tuyo
+\ENG yours
+\SPL
+\SLGR
+\EXU
+\XPSH
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+Page 1915

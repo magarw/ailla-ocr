@@ -1,0 +1,63 @@
+\GRAM Vi
+\SCI
+\USE
+\SPG ponerse blanquisco, como debe ser, como la calabaza
+\ENG to become white or pale, as it should be, like a squash
+\SPL yak.pot
+\SLGR CAUS
+\SLGL hacer blanquisco
+\EXU pot-w@ bi 7ukum
+\XPSH [Pott@ bi 7ukum.]
+\XSP Se puso blanquisco la calabaza.
+\XEN The squash turned white.
+\SYN
+\SEMF plant, color
+\ASP accomplishment
+\ARG
+\NOM pot.i7
+\SUB
+\ETYM
+\ETL
+\ROOT pot
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex pot.i7
+\_no 02737
+\LG MIG
+\PSH [poti7]
+\UND pot. E7
+\MB hacerse_blanco, NOM7
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG blanquisco
+\ENG off-white
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS get deriv's
+\date 15/Jun/95
+\lex pot.i'.7aH
+\_no 02738
+\LG MIG
+\PSH [poti7a-]
+\UND pot.E7.7aH
+\MB hacerse_blanco, NOM7, VERS1
+\VAR
+\GRAM vi:vers1
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG hacerse blanquisco
+\ENG to become pale
+\SPL
+Page 1177

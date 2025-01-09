@@ -1,0 +1,90 @@
+133. ¿De quién es esa canasta?
+¿mach yik jun te' mo'och chi'?
+mach y-ik jun te'
+mo'och chi'
+quién 3A-SR uno Cmadera canasta dem
+¿mach ay yik jun te' xuk chi'?
+mach ay-Ø
+y-ik jun te'
+xuk
+chi'
+quién exist-3B 3A-SR uno Cmadera canastón dem
+134. ¿Es tuya esa canasta?
+110
+¿ik am jun te' mo'och chi'?
+Ø-ik am jun te'
+mo'och chi'
+2A-SR dub uno Cmadera canasta dem
+¿tom ik jun te' xuk chi'?
+tom ø-ik jun te'
+xuk
+chi'
+int 2A-SR uno Cmadera canastón dem
+¿No es tuya esa canasta?
+¿man ikok jun te' xuk chi'?
+man ø-ik-ok
+jun te'
+xuk
+chỉ?
+neg 2A-SR-IRR uno Cmadera canastón dem
+135. ¿Esta canasta es la tuya?
+¿a jun te' mo'och tik ik am laj te'?
+a
+jun te'
+mo'och tik ø-ik am laj te'
+top uno Cmadera canasta dem 2A-SR dub neg Cmadera
+¿a jun te' xuk tik tom ik te'?
+a
+jun te'
+xuk
+tik tom ø-ik te'
+top uno Cmadera canastón dem int 2A-SR Cmadera
+136. ¿Éste es el camino?
+¿a am jun b'e tik?
+a
+am jun b'e
+tik
+top dub uno camino dem
+Éste es el camino.
+a ton b'e tik
+a
+ton b'e
+tik
+top enf camino dem
+137. Juan es de Yuxken.
+a waj Xun aj Uxken winh
+a
+waj
+Xun ø-aj
+Uxken winh
+top Cmasc Juan 3B-exist Yuxken Cmasc
+138. ¿De dónde es Juan?
+¿b'aj til aj waj Xun?
+b'aj_til ø-aj
+Xun
+waj
+dónde 3B-exist Cmasc Juan
+¿De qué aldea es él?
+¿b'aj k'alumal ay winh?
+b'aj
+k'alum-al ay-ø
+dónde aldea-abs exist-3B él
+¿De qué pueblo es?
+¿b'aj chonhab'il ay winh?
+b'aj chonhab'-il ay-Ø winh
+dónde pueblo-abs exist-3B él
+139. ¿De dónde eres?
+¿b'aj til ayach?
+b'aj_til ay-ach
+dónde exist-2B
+140. ¿Quién es de Yuxken?
+¿mach aj Uxken?
+mach ø-aj
+winh
+Uxken
+quién 3B-exist Yuxken
+141. Juan es un hombre bueno
+a winhaj Xun te wach' winh
+a winhaj Xun te wach' winh
+top Cmasc Juan muy bueno Cmasc
+111

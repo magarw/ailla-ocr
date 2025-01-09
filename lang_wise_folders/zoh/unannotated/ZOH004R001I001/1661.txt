@@ -1,0 +1,63 @@
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex w@y
+\_no 03862
+\LG MIG
+\PSH
+\UND way
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG tener tin~a o manchas
+\ENG to have spots or blotches
+\SPL yak.w@y
+\SLGR CAUS
+\SLGL hacer tener tin~a // to make something have spots
+\EXU 1 w@y-pa
+\XPSH 1 [w@ypa.]
+\XSP 1 Tiene tin~a.
+\XEN 1 She's got blotches.
+\EXU 2 da w@y-pa
+\XPSH 2 [D@ w@ypa.]
+\XSP 2 Tengo tin~a.
+\XEN 2 I've got skin blotches.
+\SYN
+\SEMF body
+\ASP state
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT way
+\RTGR IX
+\DSRC TK94
+\CMTS get deriv's
+\CMTS dos tipos, negro y blanco. negro es ma*s facil curar.
+\date 03/Jan/80
+\lex w@y-pa+a7k
+\_no 03863
+\LG MIG
+ZOH004R0011001.txt
+\PSH [w@ypa*7k]
+\UND w@y-pa +P@7k
+\MB tener_tin~a, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG e*1 que esta* pinto; aquel que le empieza salir la mancha
+\ENG one who is spotted; one who is beginning to show blotches on the
+skin
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+Page 1661

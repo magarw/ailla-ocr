@@ -1,0 +1,63 @@
+\XSP_2_Esta* rajado el talo*n de mi pie.
+\XEN 2 My toenail is split.
+\EXU 3 7@y+ yak. tet-w@ 7@y+ 7ok-mantza7
+\XPSH 3 [7@y yaktett@y 7okmantza7]
+\XSP 3 Lo hizo a que se rajara el talo*n.
+XEN 3 He split his toenail.
+\SYN
+SEMF break
+\ASP achievement
+\ARG
+\NOM tet.e7
+\SUB tet-no7tz
+\ETYM
+\ETL
+\ROOT tet
+\RTGR IX
+\DSRC TK94
+\CMTS
+\CMTS CK-GR, get deriv's; CK-PH/GR of EX HAJ:96; tet.e7 `rajado' TK
+\date 03/Jan/80
+\lex tet.e7
+\_no 02984
+\LG MIG
+\PHO [tete7]
+\UND tet. E7
+\MB rajarse, NOM7
+\VAR
+\GRAM pcp
+\SPG rajado
+\ENG split
+\EXU tet.e7+k 7ok-mantza7
+\XPSH [tete7k 7okmantza7]
+\XSP talo*n rajado
+\XEN split claw
+\SYN
+\ROOT tet
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tet-no7tz
+\_no 02985
+ZOH004R0011001.txt
+\LG MIG
+\PSH [tetno7tz-]
+\UND tet=no7tz
+\MB estar_rajado, quebrar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG cuartearse
+\ENG to quarter
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tet
+\RTGR 1 IX
+Page 1284

@@ -1,0 +1,63 @@
+\SPG dondequiera
+\ENG wherever
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex ney-pi*tz
+\_no 02231
+\LG MIG
+\PSH [neypi*tz]
+\UND ney-pi*tz
+\MB MISMO, X
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG lo mismo
+\ENG the same thing
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH; MAR_has /pitz/ (stressed when initial; unstressed [pi] when
+not); [ney pi*tz]: probably two words
+\date 25/Jun/96
+\lex ney-ti7
+\_no 02232
+\LG MIG
+\PSH [neyti7]
+\UND ney-ti7
+\MB IPOSN
+\VAR
+\USE inclusive first person possessive noun
+\GRAM S
+\SPG nuestro/a
+\ENG ours
+\SPL
+\SLGR
+\EXU
+\XPSH
+ZOH004R0011001.txt
+\XSP
+\XEN
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date 03/Jan/80
+Page 961

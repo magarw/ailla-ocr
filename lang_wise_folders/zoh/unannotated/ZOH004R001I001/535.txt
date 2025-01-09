@@ -1,0 +1,64 @@
+XEN 3 that which is reflecting light
+\SYN
+\SEMF light
+\ASP state
+\ARG
+\NOM keo-pa+a7k
+\SUB nik.keo.7@y, win-keo, yuk. keo
+ETYM
+\ETL
+\ROOT keyOH
+\RTGR 12
+\DSRC HAJ94
+\CMTS CK-PH ok; get deriv's: cf. K'iche' /koyopa7/ `trueno, rela*mpago'
+\CMTS
+\CMTS it's when the sun strikes a shiny object, keopa refers to the
+reflected light
+\date 03/Jan/80
+\lex kep
+\_no 01228
+\LG MIG
+\PSH
+\UND kep
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG patear
+\ENG to kick
+\SPL kep.7oy
+\SLGR ANTIP
+ZOH004R0011001.txt
+\SLGL patear atra*s (como caballo) // to kick behind (like a horse)
+\SPL kep.7@m
+\SLGR CAUS
+\SPL kep.ney
+SLGR ASSUM1
+\SLGL patalear
+\SPL kep.ten
+\SLGR PRSV
+\SLGL estar puesto el pie para patear // for the foot to be placed ready to
+kick
+\EXU 1 7@y+ kep-xuk-wa
+\XPSH 1 [7@y kepxukk@.]
+\XSP 1 Lo patearon.
+\XEN 1 They kicked it.
+\EXU 2 kep.kep.ney-w@
+\XPSH 2 [Kepkepneyy@.]
+\XSP 2 Lo pataleo*.
+\XEN 2 He kicked it and kicked it.
+\EXU 3 7@n+ kẹp-w@ manh.kuy' win+joonh
+\XPSH 3 [7@n kepp@ manhkuy winjo*nh.]
+\XSP 3 Le di* un puntapie.
+\XEN 3 She kicked it with her toes.
+\EXU 4 kep-7@m-pa bi nax
+\XPSH 4 [Kepp@mba bi nax.]
+\XSP 4 Esta* suelto la tierra para sembrar.
+\XEN 4 The earth is turned up (ready to sow).
+\EXU 5 7@y+ kep.ten-w@ bi pelota
+\XPSH 5 [7@y keptenn@ bi pelota.]
+\XSP 5 Esta* puesto el pie para patear la pelota.
+\XEN 5 His foot is placed ready to kick the ball.
+\SYN
+Page 535

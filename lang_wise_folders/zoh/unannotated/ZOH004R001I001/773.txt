@@ -1,0 +1,62 @@
+\SPG anillo
+\ENG ring
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Jan/96
+\lex k@'-m@n
+\_no 01787
+\LG MIG
+\PSH [k@m@n]
+\UND k@7-m@n
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG camote del pie; pantorrilla
+\ENG calf
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex k@'t.i7
+\_no 01788
+\LG MIG
+\PSH [k@ti7]
+\UND k@7t.E7
+\MB moler, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG molido
+\ENG ground
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT k@7t
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+ZOH004R0011001.txt
+Page 773

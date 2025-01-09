@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [k@n@kwijj@y-]
+\UND k@.n@k=wij.7@y
+\MB FUERA, irse, zambutirse, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG zambutirse
+\ENG to dive in to reach or see something
+\EXU k@.n@k=wij.'@y-w@_n@'+jo7
+\XPSH [K@n@kwijj@yya najo7.]
+\XSP se zambutio* en el agua para verlo alla* dentro del agua.
+\XEN She dived into the water to see it there in the water.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 n@k
+\RTGR 1 IX
+\ROOT 2 wij
+\RTGR 2 P, (IX)
+\DSRC HAJ95
+\CMTS
+\date 18/Jun/96
+\lex k@.n@k-xe7px. '@y
+\_no 01711
+ZOH004R0011001.txt
+\LG MIG
+\PSH [k@n@kxe7px@y-]
+\UND k@.n@k=xe7px.7@y
+\MB FUERA, irse, hacer_mecate, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG agarrar la honda y dar una vuelta
+\ENG to grab a bola and twirl it
+\EXU 7@y+ k@.n@k.xe7px. '@y-wa
+\XPSH [7@y k@n@kxe7px@yy@.]
+\XSP Agarro* su honda y le dio una vuelta.
+\XEN He grabbed his bola and twirled it around.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 n@k
+\RTGR 1 IX
+\ROOT 2 xe7px
+\RTGR 2 T1
+\DSRC HAJ95
+\CMTS
+\date 18/Jun/96
+\lex k@.n@k='ek. '@y
+\_no_01712
+\LG MIG
+\PSH [k@n@kkekk@y-]
+\UND ka.n@k=7ek.7@y
+\MB FUERA, irse, pizcar, SUF
+\VAR
+\GRAM vt
+\SCI
+Page 739

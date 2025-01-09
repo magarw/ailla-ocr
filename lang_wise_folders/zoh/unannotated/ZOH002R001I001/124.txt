@@ -1,0 +1,42 @@
+Johnson / A Grammar of San Miguel Chimapala Zoque
+5.2.3. Imperative mood
+The imperative suffix is -a?/-ə?, underlyingly -ǝ?, glossed as -A?. The
+alternation is due to the harmony rule described in section 3.3.2. It is used to
+express commands in the conventional fashion. This suffix also appears with
+the volitive mood (section 5.2.4).
+(5.8)
+(i)
+(ii)
+(iii)
+(iv)
+pøkø yo' pam refresko
+pək-A? yə.?
+para ?ǝm+ refresko
+grasp.IMPV DCT1.NOM1 for 2E+ soda
+'Take this for your soda.'
+mix tzeka tum naka de plomo
+miš ce?k-A? tum naka de plomo
+2Prn ask.IMPV one skin of lead
+'Ask for a skinful of lead.'
+minøm køxxoy 'ombre
+min-A?
+?əm+ kəš-?oy-wǝ ?ombre
+come-IMPV 2E+ eat.ANTIP-COM man
+'Come eat, man!'
+mix tzi' 'øn machete
+miš ci?-A?
+?ǝn+ mačete
+2Prn give.IMPV 1E+ machete
+'Give me my machete.'
+(ZOH001R011–093)
+(ZOH001R012- 345)
+(ZOH001R012- 301)
+(ZOH001R012-401)
+In the last example (iv), we see the complete reduction of the imperative
+vowel, a not uncommon phenomenon that makes these forms difficult to
+detect. The last example provides one of the few glimpses of a final glottal
+stop in a verb root; normally, these are deleted by the following context.
+-?o is an irregular form of the imperative that appears only with the verb
+roots nǝk- 'to go' and min- 'to come'. The underlying form is -?oy-a? (ANTIP-
+IMPV), which is reduced to -?o by the syllable contraction process discussed in
+99

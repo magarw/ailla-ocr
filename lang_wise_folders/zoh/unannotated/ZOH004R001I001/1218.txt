@@ -1,0 +1,63 @@
+\ENG 1 feather
+\ENG 2 hair
+\EXU 1 piyu' p@k
+\xSP 1 pluma de gallina
+\XEN 1 chicken feather
+\EXU 2 wakax p@k
+\XSP 2 pelo de ganado
+\XEN 2 cattle hair
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS get other glosses
+\date 19/Jun/96
+\lex p@k-kim
+\_no 02828
+\LG MIG
+\PSH [p@kkim-]
+\UND p@k-kim
+\MB agarrar, subir
+\VAR
+\GRAM vt+dir
+\SCI
+\USE
+\SPG subirse
+\ENG to be mounted
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 p@k
+\RTGR 1 T3
+\ROOT 2 kim
+\RTGR 2 T1
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex p@k-min
+\_no 02829
+\LG MIG
+\PSH [p@kmin-]
+\UND p@k-min
+\MB agarrar, venir
+\VAR
+\GRAM vt+dir
+\SCI
+\USE
+\SPG traer
+\ENG to bring
+\SPL yak.p@k=min
+\SLGR CAUS
+\SLGL mandar a traer
+\EXU
+\XSP
+ZOH004R0011001.txt
+Page 1218

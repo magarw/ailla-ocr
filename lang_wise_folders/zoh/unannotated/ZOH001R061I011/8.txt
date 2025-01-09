@@ -1,0 +1,64 @@
+\lex jipx
+\_no 00033
+\SPG quemarse demasiado cafe* pan,
+\ENG to overcook
+coffee, bread,
+\EX jipx@ y tz@ki
+\XSP se quemo* demasiado
+\XEN it was overcooked
+\ROOT jipx 12
+\CMTS caus yak.jipx hacer quemar
+\lex jipx@
+\_no 00034
+\CMTS jipx@*7 - una cosa quemada; jipx@7 una calentura
+\CMTS trata de algo que esta* cociendo
+\SPG tener calentura
+\ENG to have a fever
+\EX da jipx@pa
+\XSP tengo calentura
+\XEN I have a fever
+\ROOT jipx@ 12
+\CMTS no caus no tiene caso
+\lex ji7p
+\_no 00035
+"
+\SPG mover (coma una comida); menear; revolver; trompear
+\ENG to move (food); to stir; to mix; to root
+\EX yoya ji7ppoba y witt@
+\XSP anduvo trompeando el marrano
+\XEN_a pig_goes rooting around
+\EX 7@y ji7pwituwa k@xi7
+\xSP 10 removio* la comida
+\XEN she stirred the food around
+ZOH001R0611011.txt
+\ROOT ji7p P (T3)
+\CMTS antip ji7p.7oy menear (la comida); revolver
+\lex ji7t
+\_no 00036
+\SPG manchar
+\ENG to smear; to stain
+\EX bi 7une 7@y k@xi nenji7tt@
+\XSP la criatura se mancho*
+\CMTS pass ji7p.7@m moverse
+\CMTS assumi ji7p.ney estar amontonado
+\CMTS now rejects the ANTI
+de comida
+\XEN the baby smeared food on itself
+\ROOT ji7t T3
+\CMTS antip ji7t.7oy
+\lex jitzi
+\_no 00037
+\CMTS pass ji7t.7@m mancharse
+\CMTS now rejects both PASS and ANTI
+\CMTS always gives examples with nen+
+\SPG arrastrar; arrastrarse
+\ENG to drag
+\EX 7@y jupjitziw@
+\XSP 1o arrastro* rastrandolo
+\XEN he dragged it by pulling on it
+\EX tikjitziw@
+\XSP lo toco* pasando
+\XEN he touched it in passing
+\EX jitziwanakk@ bi kuy
+\XSP bajo* arrastrandose el palo
+Page 8

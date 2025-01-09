@@ -1,0 +1,68 @@
+\zoq 70 para 7azma,
+\fts o para asthma,
+\fte or for asthma,
+\com
+\idx
+\ref ZOH001R036 686-A
+\_no 00675
+\tx <break: end of side A, ZOH1R3611>
+\tx <start of side B, ZOH1R3612>
+\ref ZOH001R036 687
+\_no 00676
+\tx ti
+\mb ti
+tzoy 7@m tz@kjaba
+tzoy
+\sg1 que saltar 2E hacer-APPL-INC para CAUS-pasar-APPL-INC DCT3-DEM
+\egl what jump 2E do
+-APPL-INC for CAUS-pass -APPL-INC DCT3-DEM
+\tx toya
+\mb
+\sg1 doler-NOM2
+\egl hurt -NOM2
+toy -A7
+\ref ZOH001R036 688
+\_no 00677
+\tx
+OSM: 7azma
+\mb OSM
+7azma
+\sg1 OSM:
+asma
+\egl OSM: asthma
+\zoq OSM: 7azma.
+\fts OSM: Asthma.
+\fte OSM: Asthma.
+\com
+\idx
+para yakp@7tjaba
+7@m tz@k-jay -pa para yak-p@7t -jay -pa
+\zoq ti tzoy 7@m tz@kjaba para yakp@7tjaba gad@ toya?
+fts que remedio le haces para que le pase esa enfermedad?
+\fte what remedy do you make them so that illness passes them?
+\com
+\idx
+\ref ZOH001R036 689
+\_no 00678
+\tx n@mmoba
+\mb
+ZOH001R0361001.txt
+m tz@kk@
+7alko*1
+n@m-7oy -pa 7@m tz@k -w@ 7alko*1
+\sg1 DO -ANTIP-INC 2E hacer-dINC alcohol
+\eg1 DO -ANTIP-INC 2E do -dINC alcohol
+\zoq N@mmobam tz@kk@ 7alko*1,
+\fts Puedes hacer el alcohol,
+\fte You can make alcohol,
+\com
+\idx
+\ref ZOH001R036 690
+\_no 00679
+\tx tum kwartu 7alko*1
+\mb tum kwartu 7alko*1
+\sg1 uno cuarto alcohol
+\egl one room alcohol
+gada
+ka -d@
+Page 147

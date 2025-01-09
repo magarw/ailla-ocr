@@ -1,0 +1,62 @@
+\date
+\lex {win.} [1]
+\_no 04515
+\LG MIG
+\PSH
+\UND win
+\MB CARA
+\VAR
+\GRAM av
+\SCI
+\USE verbal lexical prefix. This also appears independently with one of
+the directional postpositions.
+\SPG por delante; con alguien
+\ENG in front of; with someone
+\SPL
+\SLGR
+\EXU 1 yak.win.ten-tuk. 7oy-w@
+\XPSH 1 [Yakwintentukkoyy@.]
+\XSP 1 Se paro* por delante.
+\XEN 1 He stopped himself right in front.
+\EXU 2 yakk@ 7@y+ p@-A7 tum kax.naanh win+jonh
+\XPSH 2 [Yakk@y pa tum kaxna*nh winjonh.]
+\XSP 2 Que ponga un paso asi* adelante.
+\XEN 2 Let him take a step forward.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 11/Feb/96
+\lex {win} [2]
+\_no 04516
+\LG MIG
+\PSH
+\UND win
+\MB REFL
+\VAR
+\GRAM reflexive pronoun
+\SCI
+\USE
+\SPG
+\ENG
+ZOH004R0011001.txt
+\SPL
+\SLGR
+\EXU 7@y+ win
+\XSP su mismo
+\XEN him/her-self
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\KEY
+\DSRC TK96
+\CMTS [win] is stressed, not the Erg marker
+\date 25/Jun/96
+\lex {.w@y} [1]
+\_no 04517
+Page 1939

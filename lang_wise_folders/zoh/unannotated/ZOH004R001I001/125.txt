@@ -1,0 +1,63 @@
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG verlo midiendo
+\ENG to see someone measuring
+\EXU 7@y+ 7ix=7utz-w@ x@k
+\XPSH [7@y 7ixutztz@ x@k.]
+\XSP Lo vio* midiendo frijol.
+\XEN She saw him measuring beans.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\RTGR
+\DSRC HAJ02
+\CMTS
+\DATE 08/Aug/02
+\lex 7ix-ko.xa'
+\_no 00290
+\LG MIG
+\PSH [7ixkoxa-]
+\UND 7ix-ko.xa7
+\MB ver, OTRO, X
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG estar divertiendose
+\ENG to be having fun
+\SPL
+\SLGR
+\EXU 1 7ix=ko.xa-pa y@.j.@nh ka.j.anh
+\XPSH 1 [7ixkoxapa y@ja*nh kaja*nh.]
+\XSP 1 Esta* viendo por todos lados.
+\XEN 1 He's looking here and there.
+\EXU 2 7ix-ko.xa-xuk-pa x@nh+jo7
+\XPSH 2 [7ixkoxaxukpa x@nhjo7.]
+\XSP 2 Se esta*n divertiendo en la fiesta.
+\XEN 2 They're having fun at the party.
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT 7ix
+\RTGR T3
+\DSRC HAJ95
+\CMTS seems to mean 'having fun by looking around'
+\date 18/Jun/96
+\lex 7ix-matz
+\_no 00291
+\LG MIG
+\PSH [7ixmatz-]
+\UND_7ix-matz
+\MB ver, sobar
+\VAR
+\GRAM vt
+\SCI
+\USE
+Page 125

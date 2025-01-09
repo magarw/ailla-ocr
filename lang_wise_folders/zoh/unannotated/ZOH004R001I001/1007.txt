@@ -1,0 +1,63 @@
+\lex nik. '07tz. '@y
+\_no 02337
+\LG MIG
+\PSH
+\UND nik. 707tz.7@y
+\MB SUP, doblar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG dobla*rselo encima
+\ENG to bend something over something
+\SPL
+\SLGR
+\EXU 7@y+ nik. 'o7tz. '@y-wa
+\XPSH [7@y nikko7tztz@yy@.]
+\XSP Se lo doblo* encima.
+XEN She bent it over the top.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 707tz
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 27/Jan/96
+\lex nik. 'um. '@y
+\_no 02338
+\LG MIG
+\PSH [nikkumm@y-]
+\UND nik. 7um.7@y
+\MB SUP, tirar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tirar algo a alguien
+\ENG to spill something on someone
+\SPL
+\SLGR
+\EXU rroberto d@ nik. 'um. '@y-w@ kahw@*
+\XPSH [Rroberto da nikkumm@yy@ kahwe*.]
+\XSP Roberto me tiro* su cafe*.
+ZOH004R0011001.txt
+\XEN Roberto spilled his coffee on me.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7um
+\RTGR T2
+\DSRC HAJ95
+\CMTS
+\date 13/Jul/95
+\DATE 03/Jan/1980
+\lex nik. '@jaj. '@y
+\_no 02339
+\LG MIG
+\PSH [nikk@j@jj@y-]
+\UND nik.7@jaj.7@y
+\MB SUP, quejarse, SUF
+Page 1007

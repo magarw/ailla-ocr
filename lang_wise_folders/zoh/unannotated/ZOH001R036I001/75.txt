@@ -1,0 +1,96 @@
+\sg1 DCT3-DEM sangre si 2E
+\eg1 DCT3-DEM blood if 2E
+\zoq Gaga n@pin sim tz@wi p@kn@kk@.
+\fts Esa sangre si llevastes tabaco.
+\fte That blood if you brought tobacco.
+\com
+\idx
+\ref ZOH001R036 349
+\_no 00344
+\tx waxe
+\mb wax
+tz@wi
+7ukt@kk@
+gag@
+n@7
+-A7
+tz@wi 7uk -t@k -A7 ka -ga n@7
+\sg1 morder-IMPV DCT3-NOM1 tabaco tomar-casa -IMPV DCT3-DEM agua
+\egl bite -IMPV DCT3-NOM1 tabacco drink-house-IMPV DCT3-DEM water
+ga
+ka -7
+tabaco
+tabacco get
+\zoq waxe ga tz@wi, 7ukt@kk@ gag@ n@7
+\fts Mastica ese tabaco, toma esa agua (del tabaco),
+\fte Chew that tobacco, drink in that water,
+\com
+\idx
+ZOH001R0361001.txt
+agarrar-irse-COM
+-go -COM
+\ref ZOH001R036 350
+\_no 00345
+7@m tzokoyjo
+gag@
+-7@y tak
+-7@y-wa
+\tx pa 7uy
+mal
+\mb para 7u
+7@m tzokoy7 -jo7 ka -g@ mal
+\sg1 para NEGimpv-3E casa -SUF-nIMPV 2E corazo*n-LOC2 DCT3-DEM mal
+\egl for NEGimpv-3E house-SUF-nIMPV 2E heart -LOC2 DCT3-DEM bad
+\ref ZOH001R036 351
+\_no 00346
+\tx ga
+\mb ka -7
+\zoq pa 7uy t@kk@yy@ 7am tzokoyjo gag@ mal.
+\fts para que no entre en tu corazon ese ponsonio.
+\fte so that that poison doesn't enter into your heart.
+\com
+\idx
+t@kk@yy@
+benenu 7@y p@w@*
+benenu 7@y p@7 -w@ -v7k bi
+-w@ -v7k bi
+gay
+ka -Y
+\sg1 DCT3-NOM1 veneno 3E
+poner-COM-REL DEF animal
+\eg1 DCT3-NOM1 venom 3E put -COM-REL DEF animal
+\zoq Ga benenu 7@y p@w@* bi 7anma*1.
+\fts Ese veneno que te puso el animal.
+\fte That venom that the animal put.
+\com
+\idx
+\ref ZOH001R036 352
+\_no 00347
+\tx ga
+\mb_ ka -7
+\sg1 DCT3-NOM1 DCT3-TMP
+\eg1 DCT3-NOM1 DCT3-TMP come -INC-NOW
+minpam
+min
+bi 7anma*1
+7anma*1
+-pa -7am
+venir-INC-YA
+n@mmoba*m
+7@m
+n@m-7oy -pa -7am 7@m
+DEF DO -ANTIP-INC-YA 2E
+DEF DO -ANTIP-INC-NOW 2E
+bi
+bi
+-
+\tx tunhnhaw@
+7@m minpa
+y@jananh
+\mb tunh -7a -wa 7@m min -pa ya -jananh
+\sg1 camino-VERS1-dINC 2E venir-INC DCT1-DIR1
+\egl road -VERS1-dINC 2E come -INC DCT1-DIR1
+\zoq Ga gay minpam - bi - n@mmoba*m 7am tunhnhaw@ 7@m minpa y@j@nanh.
+\fts Eso ya viene ya puedes caminar te vienes_par_aca*.
+\fte That now you come the now you can walk you come over here.
+Page 75

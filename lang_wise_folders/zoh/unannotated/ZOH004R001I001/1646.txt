@@ -1,0 +1,64 @@
+\MB cortar_c_cuchillo, MED
+\VAR
+\GRAM meas
+\SPG un pedazo (de lo que corte*)
+\ENG a piece (of whatever you cut)
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT wak
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex w@ku7
+\_no 03828
+\LG MIG
+\PSH
+\UND w@ku7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG pavo real; faisa*n
+\ENG a type of bird
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex w@kx
+\_no 03829
+\LG MIG
+LF: jon
+\PSH
+\UND W@kx
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG colgar en un clavo
+\ENG to hang on a nail
+\SLGR NO ANTIP
+ZOH004R0011001.txt
+\SPL w@kx.ney
+\SLGR ASSUM1
+\SLGL estar colgado en un clavo // to be hanging on a nail
+\SPL w@kx.ten
+\SLGR PRSV
+\SLGL levantar colgado; tener colgado (en un clavo) // to have something
+put away, hanging on a nail
+\EXU 7@n+ w@kx.7@y-wa 7@n+ y@k.wij
+\XPSH [7@n wakx@yyan y@kwij.]
+\XSP Colge* mi camisa en un clavo.
+\XEN I hung my shirt on a nail.
+Page 1646

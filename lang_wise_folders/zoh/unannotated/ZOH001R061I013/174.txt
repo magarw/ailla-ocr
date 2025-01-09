@@ -1,0 +1,53 @@
+\_no 02177
+\SPG Estanislao
+\ENG Estanislao
+\lex tanto
+\_no 02178
+\SPG tanto
+\ENG so much
+\lex tantu
+\_no 02179
+\SPG tanto
+\ENG so much
+\lex tanh
+\_no 02180
+\SPG estar_ancho
+\ENG be_wide
+\lex tapexku
+\_no 02181
+\SPG tapesco
+\ENG
+\lex tapu7
+\_no 02182
+\SPG mezquino
+\ENG wart
+\lex tarde
+\_no 02183
+\SPG tarde
+\ENG afternoon
+\lex tardes
+\_no 02184
+\SPG tardes
+\ENG afternoon
+\lex tarea
+\_no 02185
+\SPG tarea
+\ENG task
+\lex tareya
+\_no 02186
+\SPG tarea
+\ENG work
+\lex tasa
+\_no 02187
+\SPG taza
+\ENG Cup
+\lex tata
+\_no 02188
+\SPG tata
+\ENG grandfather
+\lex tatzu7
+\_no 02189
+\SPG "caco" [hicaco]
+\ENG
+ZOH001R0611013.txt
+Page 174

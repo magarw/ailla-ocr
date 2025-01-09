@@ -1,0 +1,62 @@
+\lex t@k+7anh+j@7
+\_no 03145
+\LG MIG
+\PSH [t@k7anhj@7]
+\UND t@k+7anh+j@7
+\MB casa, BOCA, LOC1
+\VAR
+\GRAM s+loc
+\SCI
+\USE
+\SPG San Miguel Chimalapa
+\ENG San Miguel Chimalapa
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 09/Feb/96
+\lex t@k=7ok.yoj-pa+a7k
+\_no 03146
+\LG MIG
+\PSH [t@k7okyojpa*7k]
+\UND t@k=7ok.yoj-pa +P@7k
+\MB casa, ABAJO, cambiar, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG alquilando casa
+\ENG renting a house
+\EXU 7@m+ t@k=7ok.yoj-pa+a7k?
+\XPSH [7@m t@k7okyojpa*7k?]
+\XSP Esta*s alquilando casa?
+\XEN Are you renting your house?
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yoj
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex t@k+jo+7k patu
+\_no 03147
+ZOH004R0011001.txt
+\LG MIG
+\PSH [t@kjo7k patu]
+\UND t@k+jo7 +P@7k patu
+\MB casa, LOC2, REL, pato
+\VAR
+\GRAM sms
+\SCI
+\USE
+Page 1353

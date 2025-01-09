@@ -1,0 +1,60 @@
+\EX
+\XSP
+\XEN
+\ROOT x@k@k Ix
+\SEMF speak
+\CAUS NONE
+\CMTS ya estaba dando las ultimas para morir
+\lex x@7kx
+\_no 00404
+\SPG ahogarse con algo que esta* comiendo
+ENG to choke on something that you're eating
+\EX 7@y x@7kx@ 7@y k@xi k@xxoba 7ora
+\XSP se ahogo* con la comida la hora que estaba comiendo
+\XEN he choked on his food when he was eating
+\ROOT x@7kx T1
+\SEMF body
+\PASS NONE * x@7kx.7@m
+\ANTI NONE * x@7kx.7oy
+\CMTS
+\1ex x@m
+\_no 00405
+\SPG (sonido) golpear (en la cabeza)
+\ENG to make (the sound of a) blow (on the head)
+\EX 7@y x@mm@ 7@y kopak
+\XSP golpio* su cabeza
+\XEN she hit her head
+\ROOT x@m T3
+\SEMF sound, hit
+\PASS x@m.7@m ya esta* golpeado
+\ANTI x@m. 7oy golpear
+\CMTS
+\lex x@n
+\_no 00406
+\SPG aguar
+\ENG
+\EX
+\XSP
+\XEN
+ZOH001R0611010.txt
+\ROOT x@n Ix
+\SEMF condition
+\CMTS ERROR? can't get this: no sale nada
+\lex yay
+\_no 00407
+\SPG marchitarse
+\ENG to wilt
+\EX
+\XSP
+\XEN
+\ROOT yay 12
+\SEMF condition
+\CAUS yak.yay hacer marchitar
+\CMTS
+\lex yem
+\_no 00408
+\SPG 11amar con la mano
+\ENG to call by waving
+\EX 7@y yemjayy@
+\xSP 10 11amo* con la mano
+Page 90

@@ -1,0 +1,63 @@
+\lex kana
+\_no 01168
+\LG MIG
+\PSH
+\UND kana
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG sal
+\ENG salt
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Aug/94
+\lex kana kuy
+\_no 01169
+\LG MIG
+\PSH
+\UND kana kuy
+\MB sal, palo
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG palo de sal
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 11/Jan/96
+\lex kana tza7
+\_no 01170
+\LG MIG
+\PSH
+LF: kuy
+\UND kana tza7
+\MB sal, piedra
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG granizo
+\ENG hail
+ZOH004R0011001.txt
+\EXU kana tza7 yo'-pa kwandu tak-pa tuj
+\XPSH [Kana tza7 yopa kwandu takpa tuj.]
+Page 509

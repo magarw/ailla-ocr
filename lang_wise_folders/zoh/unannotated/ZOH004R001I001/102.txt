@@ -1,0 +1,62 @@
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS CK-PH - no final stop; this has /7/ at end/TK
+\date 24/Jun/96
+\lex 7ax.kuy7
+\_no 00238
+\LG MIG
+\PSH [7axkuy7]
+\UND 7ax.kuy7
+\MB abrir_boca, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG boca
+\ENG mouth
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7ax
+\RTGR P (11)
+\DSRC HAJ95
+\CMTS
+\date 13/Jul/95
+\lex 7axta
+\_no 00239
+\LG MIG
+\PSH
+\UND hasta
+\MB
+\VAR
+\GRAM prep
+\SCI
+\USE
+\SPG hasta
+\ENG until, as far as
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\lex 7axux
+\_no 00240
+LG MIG
+\PSH
+\UND 7axux
+\MB
+\VAR
+Page 102

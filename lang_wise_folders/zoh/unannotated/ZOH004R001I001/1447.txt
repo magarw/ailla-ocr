@@ -1,0 +1,64 @@
+\lex tzima' jay@7
+\_no 03365
+\LG MIG
+\PSH [tzima jay@7]
+\UND_tzima7 jay@7
+\MB ji*cara, flor
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG flor de morro
+\ENG a type of flower
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex tzin
+\_no 03366
+LG MIG
+\PSH
+\UND tzin
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG ocote
+\ENG pine
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+LF: kuy
+\CMTS
+\date 11/Nov/94
+\lex tzin ko.tz@k
+\_no 03367
+LG MIG
+\PSH [tzin kotz@k]
+\UND tzin ko.tz@k
+\MB ocote, cerro
+\VAR
+\GRAM smsv0
+\SCI
+\USE
+\SPG cerro de ocote
+\ENG piney woods
+\EXU
+\XSP
+\XEN
+ZOH004R0011001.txt
+Page 1447

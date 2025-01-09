@@ -1,0 +1,62 @@
+\RTGR P
+\DSRC HAJ94
+\CMTS
+\date 15/Nov/94
+\lex y@k.jepx
+\_no 04350
+\LG MIG
+\PSH [y@kjepx]
+\UND yak.jepx.0
+\MB INSTRŽ, agarrar_con_ji*cara, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG 1 pala
+\SPG 2 algo para agarrar agua, como ji*cara
+\ENG 1 shovel
+\ENG 2 something for getting water, like a dipper
+\EXU y@k.jepx tzima7
+\XPSH [y@kjepx tzima7]
+\xSP ji*cara para agarrar algo
+\XEN dipper for scooping
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jepx
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex y@k=ji7t
+\_no 04351
+\LG MIG
+\PSH [y@kji7t]
+\UND y@k=ji7t
+\MB tizne, manchar
+\VAR
+\GRAM vt:incorp
+\SCI
+\USE
+\SPG tiznar
+\ENG to blacken with soot
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ji7t
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 02/Nov/94
+ZOH004R0011001.txt
+\lex y@k.jo.7ix. '@y
+\_no 04352
+\LG MIG
+\PSH [y@kjo7ixx@y-]
+\UND yak.jo.7ix.7@y
+Page 1868

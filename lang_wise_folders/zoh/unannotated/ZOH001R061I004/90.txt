@@ -1,0 +1,62 @@
+\lex ni.tz@n
+\_no 00221
+\LG MIG
+\PSH [nitz@n]
+\UND ni.tz@n.0
+\MB PURP, estar_sentado, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG asentadera
+\ENG seat
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT tz@n
+\RTGR P, (12)
+\DSRC HAJ94
+\CMTS
+\date 27/Jan/96
+\lex ni.way tza7
+\_no 00222
+\LG MIG
+\PSH [niway tza7]
+\UND ni.way.0 tza7
+\MB PURP, moler, NOM6, piedra
+\VAR
+\GRAM svOms
+\SCI
+\USE
+\SPG metate
+\ENG
+\EXU ni.way tza7 7@y+ tzanh.kuy7
+\XPSH [niway tza7 7@y tzanhkuy7]
+\XSP mano de metate
+\XEN handle of a metate
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT way
+\RTGR T1
+\DSRC TK94
+\CMTS
+\date 27/Jan/96
+\lex niwi' mo'tz.e7
+\_no 00223
+LG MIG
+\PSH [niwi motze7]
+\UND niwi7 mo7tz.E7
+\MB chili, machucar, NOM7
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG chilmol
+ZOH001R0611004.txt
+Page 90

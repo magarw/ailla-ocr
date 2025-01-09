@@ -1,0 +1,63 @@
+\UND y@k.manh.0.7@y
+\MB INSTR2, *pisar, NOM6, SUF
+\VAR
+\GRAM vt
+\SPG poner zapatos
+\ENG to put your shoes on
+\SPL
+\SLGR
+\EXU 7@y+ y@k.manh.0. '@y-wa
+\XPSH [7@y_y@kmanhnh@yy@.]
+\XSP Puso sus zapatos.
+\XEN He put his shoes on.
+\SYN
+\SEMF
+\ROOT *manh
+\RTGR P
+\DSRC HAJ98
+\CMTS
+\date
+\lex y@k.mon
+\_no 04363
+\LG MIG
+\PSH [y@kmon]
+\UND y@k.mon.0
+\MB INSTR2, envolver, NOM6
+\VAR
+\GRAM S
+\SPG una falda o panuelo especial para envolver la cara
+\ENG headscarf
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT mon
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS PH-OK: TK
+\date 26/Jun/96
+\lex y@k.monh
+\_no 04364
+\LG MIG
+\PSH [y@kmonh]
+\UND yak.monh.0
+\MB INSTR2, acostarse, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG cama
+\ENG bed
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT monh
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+Page 1873

@@ -1,0 +1,63 @@
+\NOM
+\SUB mo7k-min, mo7k-n@k
+\ETYM
+\ETL
+\ROOT mo7k
+\RTGR P, (TX)
+\DSRC TK96
+\CMTS
+\date 03/Jan/80
+\lex mo7k=min
+\_no 02000
+\LG MIG
+\PSH [mo7kmin-]
+\UND mo7k-min
+\MB
+\VAR
+\GRAM vt+dir
+\SCI
+\USE
+\SPG traer al lado
+\ENG to bring carried on one's side
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 mo7k
+\RTGR 1 P, (TX)
+ROOT 2 min
+\RTGR 2 11
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\lex mo7k=n@k
+\_no 02001
+ZOH004R0011001.txt
+\LG MIG
+\PSH [mo7kn@k-]
+\UND_mo7k=n@k
+\MB
+\VAR mo7k
+\GRAM vt
+\SCI
+\USE
+\SPG 11evar en el brazo en frente o al lado
+\ENG to carry in the arms curled in front of the body (curling palm up) or
+on the side
+\SPL mo7k=n@k. 7oy
+\SLGR ANTIP
+\SLGL 11evar al lado // to carry on the side
+\SPL mo7k=n@k. 7@m
+\SLGR PASS
+\SLGL paralizarse ya no puede caminar // to be paralized, unable to
+walk
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+Page 862

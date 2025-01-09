@@ -1,0 +1,80 @@
+\ref ZOH001R011 050
+\_no 00051
+tenyente
+\tx 7i pwes bi
+\mb 7i pwes bi tenyente
+\sg] y
+pues DEF teniente
+\egl and well DEF lieutenant
+\tx pa7chukka*m
+\mb pa7t
+7i
+-xuk-w@ -7am 7i
+encontrar-3PL-COM-YA
+\sg1
+\egl find
+\ref ZOH001R011 051
+\_no 00052
+nyay
+ni-ya -7@y
+y ni-NEG-3E
+-3PL-COM-NOW and no-NEG-3E
+\zoq 7i, pwes, bi tenyente, pwes, 7aflisyo*n, pwes, porke tzawi, pwes, 7@y
+pa7chukka*m 7i nyay tujxukk@.
+\fts Y, pues, el teniente, pues, se puso en aflicio*n, pues, porque chango,
+pues, ya lo encontraron y no le pegaron.
+fte And, well, the lieutenant, well, he's upset, well, because the monkeys,
+well, now they've found them but they didn't hit any.
+\com
+\idx sp
+\tx ya yakkaxukk@
+\mb ya yak -ka7
+\sg1 NEG CAUS-morirse-3PL-COM
+\eg1 NEG CAUS-die
+\zoq Ya yakkaxukk@.
+\fts No lo mataron.
+\ref ZOH001R011 052
+\_no 00053
+\tx
+\mb
+tujke7tt@
+\fte They didn't kill any.
+\com
+\idx
+tuj -ke7t -w@
+\sg1 tirar-REPET-COM
+\egl shoot-REPET-COM
+\zoq Tujke7tt@.
+\fts Tiro* de nuevo.
+\fte He fired again.
+\com
+\idx
+\ref ZOH001R011 053
+\_no 00054
+\tx nyakti
+\mb ni-yakti
+\sgl ni-nada
+\eg1 no-nothing
+\zoq Nyakti.
+\fts Y nada.
+\fte And nothing.
+\com
+\idx
+-xuk-w@
+\ref ZOH001R011 054
+\_no 00055
+ZOH001R0111001.txt
+pwes 7aflisyo*n pwes porke
+pwes 7aflisyo*n pwes porke
+pues aflicio*n
+pues porque mono
+well upset well because monkey well 3E
+tzawi pwes 7@y
+tzawi7 pwes 7@y
+pues 3E
+-3PL-COM
+tujxukk@
+tuj -xuk-w@
+tirar-3PL-nCOM
+shoot-3PL-nCOM
+Page 12

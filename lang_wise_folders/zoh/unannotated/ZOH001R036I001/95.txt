@@ -1,0 +1,86 @@
+\_no 00434
+\tx 7i kay
+ka
+\mb 7i
+\sg] y
+-y
+DCT3-TMP ATRAS-chupar-INC-YA
+\eg1 and DCT3-TMP BACK -suck -INC-NOW DEF poison
+\ref ZOH001R036 442
+\_no 00435
+\tx j@xmu7kpam
+\mb
+\zoq 7i kay j@xmu7kpa*m bi ponsonyo.
+\fts Y ya lo esta* chupando el ponsonio.
+\fte And now he's sucking out the poison.
+\com
+\idx
+j@xmu7kpa*m
+jax -mu7k
+\ref ZOH001R036 443
+\_no 00436
+\tx
+\mb
+jax -mu7k -pa -7am
+ponsonyo
+ponsonyo
+\sg1 ATRAS-chupar-INC-YA DCT3-DEM ponsonio
+\eg1 BACK -suck -INC-NOW DCT3-DEM poison
+\zoq J@xmu7kpam gag@ ponsonyo.
+\fts Ya lo esta* chupando la ponsonio.
+\fte Now he's sucking out that poison.
+\com
+\idx
+\tx yopa
+\mb yo7 -ра
+\sg1 caerse-INC
+\egl fall -INC
+ZOH001R0361001.txt
+bi
+-pa -7am bi
+gag@
+ka -g@
+kwandu 7@y j@xmu7kkoktukka*m
+kwandu 7@y jax -mu7k
+\sg1 cuando 3E ATRAS-chupar-ABAJO-terminarse-COM-YA
+\eg1 when
+3E BACK -suck -DOWN -finish
+\ref ZOH001R036 444
+\_no 00437
+GSM: ney
+\sg1 OSM: 3e
+\egl OSM: 3E
+-mu7k -7ok -tuk
+7oktzajj@mpa
+\tx
+\mb GSM
+ney
+7ok -tzaj -7@m -pa
+\sg1 GSM: solo ABAJO-pegar-PAS -INC
+\egl GSM: alone DOWN -glue -PASS-INC
+\zoq Kwandu 7@y_j@xmu7kkoktukka*m kay ney yopa.
+\fts Cuando ya lo acabo* de chupar todo solo se despega.
+\fte when now he's finished sucking it out now it falls off by itself.
+\com
+\idx
+\zoq GSM: Ney 7oktzajj@mpa.
+\fts GSM: Solo se despega.
+\fte GSM: By iself it's unstuck.
+\com
+\idx
+ponsonyo
+ponsonyo
+DEF ponsonio
+\ref ZOH001R036 445
+\_no 00438
+\tx OSM: 7@y 7oktzajj@mpa
+\mb OSM 7@y 7ok -tzaj -7@m -pa
+ABAJO-pegar-PAS -INC
+DOWN -glue -PASS-INC
+kay
+-w@ -7am ka -y
+ney
+ney
+DCT3-TMP solo
+-COM-NOW DCT3-TMP alone
+Page 95

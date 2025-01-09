@@ -1,0 +1,25 @@
+and the kinds of roles that are required by different verb classes is discussed in
+chapter 6. Adjectives (section 4.5) and intensifiers (section 4.9) appear in
+modifying positions in noun and verb phrases, respectively. Postpositions
+(section 4.7) are clitic forms that attach to the right edge of a noun phrase.
+Adverbs (section 4.8) indicate time, direction, or location, but are separate
+words that may appear in various places in the clause, which distinguishes
+these forms from postpositions. Subordinators (section 4.10) and modals
+(section 4.11) are function words with restrictions on their positions within the
+verb phrase. Discourse markers (section 4.12) are not morphosyntactically
+integral to the clauses in which they appear, serving instead to structure the
+discourse as a whole.
+4.1. Verbs
+Verbs are unambiguously classifiable as those roots that must appear
+with an aspect or mood suffix and an agreement marker. Verb roots may be
+grossly subclassified as intransitive or transitive, according to which set of
+pronominal agreement markers is used for the subject. Intransitive verbs
+appear with absolutive subject markers, and transitive verbs appear with
+ergative subject markers. Intransitive verbs are discussed in section 4.1.1.
+Transitive verbs can be further divided into three sub-classes. These are
+discussed in section 4.1.2.
+Two smaller classes of verbs can also be defined by formal criteria:
+positional verbs and affective verbs. The positional class consists of those verb
+roots that can take the assumptive suffix -ney. These are discussed in section
+4.1.3. Affective verbs, also known as sound symbolism verbs, take the
+47

@@ -1,0 +1,64 @@
+\UND pe7tz
+\MB
+\VAR
+\GRAM vt
+\SPG recoger los dos pies
+\ENG to draw up both legs (into a cross-legged position)
+\EXU 1 7@y+ pe7tz-w@ 7@y+ manh.kuy7
+\XPSH 1 [7@y pe7tztz@y manhkuy7.]
+\XSP 1 Recogio* sus pies.
+\XEN 1 She sat cross-legged.
+\EXU 2 pe7tz.yak.'oy-pa
+\XPSH 2 [Pe7tzyakkoba.]
+ZOH001R0611006.txt
+\XSP 2 Anda en el suelo con los pies recogidos.
+\XEN 2 He crawled on his crossed legs.
+\EXU 3 nax+jo' pe7tz.ney-w@
+\XPSH 3 [Naxjo pe7tzneyy@.]
+\XSP 3 Esta* sentado en el suelo con recogido su pie.
+XEN 3 She is sitting on the ground with legs crossed.
+\SYN
+\SEMF body, arrange
+\ASP achievement
+\ARG
+\NOM
+\SUB
+\ROOT pe7tz
+\RTGR P, (T3)
+\SPL pe7tz.ney
+\SLGR ASSUM1
+\SLGL estar_recogido los pies // for the legs to be crossed
+\SPL pe7tz.7oy
+\SLGR ANTIP
+\SLGL recoger los pies // to cross the legs
+\SPL pe7tz.7@m
+\SLGR PASS
+\SLGL recogerse los pies // for the legs to be crossed
+\SPL pe7tz.ten
+\SLGR PRSV
+\SLGL tener recogido los pies // to have the legs crossed
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex pikx
+\_no 00132
+\LG MIG
+\PSH
+\UND pikx
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tocar puerta; pegar con dedo pulgar y dedo primero
+\ENG to knock on the door; to flick with the thumb and forefinger
+\SPL pikx. 7oy
+\SLGR ANTIP
+\SLGL tocar puerta // to knock on the door
+\SPL pikx.7@m
+\SLGR PASS
+\SLGL despizcarse // to be be shelled
+\EXU pikx.7@m-wa bi kanika
+\XPSH [Pikx@mm@ bi kanika.]
+\XSP Tocaron la canica.
+Page 90

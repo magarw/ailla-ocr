@@ -1,0 +1,25 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+Chapter 13: Aspect and Mood
+The main indicators of aspect or mood in MIG Zoque are the mutually
+exclusive set of suffixes that may appear in position 10 of the verb complex, as
+shown in table 2.1. These suffixes offer two choices for aspect: completive
+(section 13.1.1) or incompletive (13.1.4). There are syntactic means for
+constructing perfects (13.1.2), a remote perfect (13.1.3.), and progessives
+(13.1.5). Satellite forms that contribute to the aspect of a particular expression
+include a small set of adverbial suffixes (13.1.6.1), two clitic morphemes
+(13.1.6.2), a small set of verbs used in compound verb constructions (13.1.6.3),
+and temporal adverbs, deictics and clauses (13.1.6.4). The position 10 suffixes
+offer four choices for mood (other than the declarative): imperative (13.2.1),
+negative imperative (13.2.2), hortative (13.2.3), or optative (13.2.4). There are
+also three modal morphemes expressing different degrees of possibility
+(13.2.5-6).
+MIG Zoque does not have a system of inflection for tense. Location of an
+event at a particular time is done by means of temporal adjuncts. This is typical
+of MesoAmerican languages, areally speaking (Campbell, et al. 1986).
+13.1. Aspect
+The aspectual system of MIG Zoque offers a choice of two viewpoints, the
+perfective and the imperfective. These are termed the completive and
+incompletive, respectively, in MesoAmerican linguistics, to avoid confusion with
+the terms 'perfective' and 'imperfective' used in the Spanish tense system (and
+others). The choice of one of these viewpoints is obligatory. Both the
+313

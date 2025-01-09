@@ -1,0 +1,62 @@
+\lex ney+jaa7
+\_no 02228
+\LG MIG
+\PSH [neyja*7]
+\UND ney+jaTE7
+\MB IERG, PLPRN
+\VAR
+\USE
+\GRAM pron
+\SPG nosotros
+\ENG we; us
+\SPL
+\SLGR
+\EXU yakku ney+jaa7 yuj.kuy'+jo7 d@+ yox-tam-pa+PV7k_m@jm@
+kaxtigu 7@n+ p@7t-tam-pa
+\XPSH [Yakku neyja*7 yujkuyjo7 d@ yoxtampa*7, m@jm@ kaxtigun
+p@7ttampa.]
+\XSP Pobre nosotros los campesinos, mucho castigo pasamos.
+\XEN We poor campesinos, we have a lot of grief.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date 03/Jan/80
+\lex ney-ju7
+\_no 02229
+\LG MIG
+\PSH [neyju7]
+\UND ney-ju7
+\MB mismo, donde
+\VAR
+\GRAM pron+av
+\SCI
+\USE locative
+\SPG en alguna parte
+\ENG somewhere
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex ney-ju.t@.@nh
+\_no 02230
+ZOH004R0011001.txt
+\LG MIG
+\PSH [neyjut@*nh]
+\UND ney-ju.t@.anh
+\MB mismo, donde, DIR4
+\VAR
+\GRAM pron+loc
+\SCI
+\USE
+Page 960

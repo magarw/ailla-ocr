@@ -1,0 +1,50 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+Patient.' NPs corresponding to these three roles are not distinguished by case-
+marking or postpositions, since they are all still core arguments.
+(6.16)
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+(vi)
+sim yaknukpam win
+si ?əm+ yak.nuk-pa ?ǝm+ win
+IF 2E+
+'If you let them grab you'
+CAUS.grab-INC 2E+ SELF
+minnøy yaktzøkxuki
+min-wə
+?əy+ yak.cək-šuk-E
+come-COM 3E+ CAUS.do-3PL-dCOM
+'They came to order it done.'
+(ZOH001R015-079)
+bi 'une' nøkpay yakjayxukkø
+bi ?une? nək-pa ?əy+ yak.hay-šuk-wə
+DEF child go-INC 3E+ CAUS.write-3PL-COM
+'He goes to make them record the babies (births).'
+(ZOH001R028- 095)
+'øy yakwøjø'awo bi jentedøkka
+?əy+ yak.wəhə.?a-wə
+bi hente+dəkkay
+3E+ CAUS.good.VERS1-COM DEF people+NPL
+'She cured the people."
+'aber ti yoxkuy 'øy yaktzøktøpay kumkuyjo'
+Paber
+ti yoš.kuy?
+?əy+yak.cək-tə?-pa
+?əy+ kumkuy?+ho?
+lets_see what work.INSTR1 3E+ CAUS.do-want-INC 3E+ pueblo+LOC2
+'Whatever work he wants to have done in his town.'
+(ZOH001R028- 151)
+127
+'øy yakjokumpay wittø
+?əy+ yak.ho.kum-pa
+?əy+ wit-wə
+3E+ CAUS.INTO.bury-INC 3E+ walk-dINC
+'They go around getting them filled in (the streets)'.
+(ZOH001 R028- 158)
+(ZOH001R028- 169)
+(ZOH001 RO32- 056)
+Incorporated adjectives or nouns may appear inside (to the right of) the
+causative prefix.

@@ -1,0 +1,63 @@
+\ROOT x@m
+\RTGR T3
+\DSRC TK94
+\CMTS could also be a table
+\date 03/Jan/80
+\lex yem (2)
+\_no 00230
+\LG MIG
+\PSH
+\UND yem
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG soplar con soplador
+\ENG to blow with a bellows
+\SPL yem.7oy
+\SLGR ANTIP
+\SLGL soplar // to blow
+\SPL yem.7@m
+\SLGR PASS
+\SLGL soplarse // to be blown.
+\SPL yem.ten
+\SLGR PRSV
+\SLGL tener soplandolo // to be blowing on something
+\EXU 7@y+ yem-w@ jukut@k yem.kuy'+j@nanh
+\XPSH [7@y yemm@ jukut@k yemkuyj@nanh.]
+\XSP Soplo* la lumbre con el soplador.
+\XEN He blew up the fire with a bellows.
+\SYN
+\SEMF nature
+\ASP process
+\ARG
+\NOM yem.kuy7
+\SUB
+\ETYM
+\ETL
+\ROOT yem
+\RTGR T3
+\DSRC TK94
+\CMTS FIX EX: NO ERG/FIXED:TK
+\CMTS
+\date 03/Jan/80
+\lex yen
+\_no 00231
+\LG MIG
+\PSH
+\UND yen
+\MB
+\VAR
+\GRAM vt
+ZOH001R0611006.txt
+\SCI
+\USE
+\SPG lamer; lambear; probar comida con el dedo
+\ENG to lick; to lap; to taste food with the finger
+\SPL yen. 7oy
+\SLGR ANTIP
+\SLGL lamer // to lick
+\SLGR NO PASS
+\SPL yen.ten
+Page 155

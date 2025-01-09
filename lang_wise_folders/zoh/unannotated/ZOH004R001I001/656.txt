@@ -1,0 +1,62 @@
+\ROOT 2 wij
+\RTGR 2 IX
+\DSRC HAJ95
+\CMTS
+\date 21/Jun/95
+\lex kuj=wit
+\_no 01510
+\LG MIG
+\PSH [kujwit-]
+\UND kuj=wit
+\MB empujar, andar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG andar empujando
+\ENG to go around pushing something
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 kuj
+\RTGR 1 T3
+\ROOT 2 wit
+\RTGR 2 Il
+\DSRC HAJ94
+\CMTS
+\date 01/Oct/94
+\lex kuj-w@nh
+\_no 01511
+\LG MIG
+\PSH [kujw@nh-]
+\UND kuj=w@nh
+\MB empujar, sumirse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hundir
+\ENG to submerge
+\EXU 7@y+ kuj=w@nh-w@ n@'+jo7
+\XPSH [7@y kujw@nhnh@_n@jo7.]
+\XSP Lo hundio* en el agua.
+\XEN She submerged it in the water.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 kuj
+\RTGR 1 T3
+\ROOT 2 w@nh
+\RTGR 2 IX
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS analysis??; CK SPG ok
+\date 18/Jun/96
+\lex kuj-yuk.konh
+\_no 01512
+Page 656

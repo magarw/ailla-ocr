@@ -1,0 +1,64 @@
+\USE
+\SPG empezar a caer pelo
+\ENG to start to lose hair
+\EXU yuk. jun-w@ 7@y+ way7
+\XPSH [Yukjunn@y way7.]
+\XSP Empezo
+a caer su cabello.
+\XEN His hair started to fall out.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jun
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex yuk. jup
+\_no 04251
+\LG MIG
+\PSH [yukjup-]
+\UND yuk.jup
+\MB ARR, jalar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG levantar algo que esta en el suelo
+\ENG to raise up something that is on the floor
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jup
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 17/Jul/95
+\lex yuk.juy
+\_no 04252
+\LG MIG
+\PSH [yukjuy-]
+\UND yuk.juy
+\MB ARR, comprar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG empezar a comprar
+\ENG to start to buy
+\SPL
+ZOH004R0011001.txt
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+Page 1826

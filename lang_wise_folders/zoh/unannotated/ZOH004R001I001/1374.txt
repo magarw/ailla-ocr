@@ -1,0 +1,63 @@
+\MB coser, hacer_angosto
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG coser para reducir
+\ENG to take in a garment
+\EXU 7@y+ yak.t@p-xu7t.x@y-wa
+\XPSH [7@y yakt@pxu7tt@yy@.]
+\XSP Lo cosio* para reducirlo.
+\XEN She took it in. (of a garment)
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT t@p
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex t@p@7p
+\_no 03195
+\LG MIG
+\PSH
+\UND t@p@7p
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG tibio
+\ENG luke-warm
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 07/Apr/95
+\lex t@p@7p_n@7
+\_no 03196
+\LG MIG
+\PSH
+\UND t@p@7p n@7
+\MB tibio, agua
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG agua tibio
+\ENG tepid water
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+Page 1374

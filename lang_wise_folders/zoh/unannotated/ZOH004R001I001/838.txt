@@ -1,0 +1,64 @@
+\GRAM
+\SCI
+\USE
+\SPG fruta de melito*n (verde)
+\ENG a type of fruit
+\SPL
+\SLGR
+EXU melitonh t@m k@nh-w@+@7k
+\XPSH [melitonh tam k@nhnh@*7k]
+\XSP fruta de melito*n maduro
+\XEN ripe melito*n fruit
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 07/Feb/96
+\lex melitonh wa7tz
+\_no 01944
+LG MIG
+\PSH
+\UND melitonh wa7tz
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG raiz de melito*n
+\ENG root of melito*n
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 30/Jun/95
+\lex meloonh
+\_no 01945
+\LG MIG
+\PSH [melo*nh]
+\UND meloonh
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG melo*n
+\ENG cantaloupe
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+LF:t@m
+ZOH004R0011001.txt
+Page 838

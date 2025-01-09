@@ -1,0 +1,64 @@
+ZOH004R0011001.txt
+\EXU d@ n@k-pa+7am maxan=t@k_7anh=tome 7
+\XPSH [D@ nakpa*m maxant@k 7anhtome7.]
+\XSP Ya me voy cerca de la iglesia.
+\XEN NOW I'm going over near the church.
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex 7anh-tox
+\_no 00167
+\LG MIG
+\PSH [7anhtox-]
+\UND 7anh-tox
+\MB BOCA, X
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 dar con cuchara
+\SPG 2 dar de comer en la boca
+\SPG 3 dar por cucharada
+ENG 1 to give from a spoon
+\ENG 2 to put food in someone's mouth
+\ENG 3 to give by
+spoonfuls
+\EXU 7@y+ 7anh-tox-w@ 7une7
+\XPSH [7@y 7anhtoxx@ 7une.]
+\XSP Esta dando por cucharada el nin~o.
+\XEN She's feeding the child with a spoon.
+\SPL 7anh-tox. 7oy
+\SLGR ANTIP
+\SPL 7anh-tox.7@m
+\SLGR PASS
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7anh=tox
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-PH EX [7une7] (checked - ok HAJ:96), OK/TK
+\date 24/Jun/96
+\lex 7anh-tuk
+\_no 00168
+LG MIG
+\PSH [7anhtuk-]
+\UND 7anh-tuk
+\MB BOCA, cortar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG darle algo de comer en la boca, por pedazo
+\ENG to put a little piece of something to eat in someone's mouth
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+Page 71

@@ -1,0 +1,63 @@
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex ma=t(u)k@-ji-7
+\_no 01897
+\LG MIG
+\PSH [matuk@ji7]
+\UND ma=tuk@-ji-7
+\MB
+\VAR maatk@ji7
+\GRAM
+\SCI
+\USE
+\SPG tres dias antes; tras antier
+\ENG three days ago
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\lex matz
+\_no 01898
+\LG MIG
+\PSH
+\UND matz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sobar
+\ENG to rub; to massage
+\SPL matz.7oy
+\SLGR ANTIP
+\SLGL sobar // to rub, to massage
+ZOH004R0011001.txt
+\SLGR NO PASS
+\EXU 1 7@y+ matz. 'oy-pa 'aristea
+\XPSH 1 [7@y matztzoba 7Aristea.]
+\XSP 1 Soba Aristea.
+\XEN 1 Aristea is massaging.
+\EXU 2 7@y+ matz.ten-w@ 7@y+ manh.kuy7
+\XPSH 2 [7@y matztenn@y manh.kuy7.]
+\XSP 2 Tiene sobado su pie. // Tiene puesto la mano para sobar.
+\XEN 2 He's got his foot massaged. // He's got his hands placed ready to
+give a massage.
+\SYN jat@t
+\SEMF touch, hand
+\ASP activity
+\ARG
+\NOM matz.kuy7
+\SUB 7ix=matz, jo.matz, j@x-matz, ko.matz, matz-pak.p@', yuk.matz
+Page 818

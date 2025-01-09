@@ -1,0 +1,81 @@
+\egl GSM: DCT3-NOM1 bad
+\zoq GSM: Ga nena* 7.
+\fts GSM: Aquel mal aire.
+\fte GSM: That evil spirit.
+\com
+\idx
+\ref ZOH001R036 123
+\_no 00124
+gay
+da
+\tx OSM: de gaji
+nena*7 gay
+7@n_t@7kxpa*m
+\mb OSM de ka -ji7 nena7 ka -y
+7@n t@7kx
+-pa -7am ka -y
+da
+\sg1 OSM: de DCT3-LOC1 malo DCT3-TMP 1E destripar-INC-YA DCT3-TMP 1A
+\egl OSM: of DCT3-LOC1 bad DCT3-TMP 1E
+-INC-NOW DCT3-TMP 1A
+\tx_tukka*m
+\mb tuk
+-w@ -7am
+\sgl terminarse-COM-YA
+\egl finish
+j@b@*7
+j@7-b@7
+si*-DUBIT
+-COM-NOW yes-DUBIT
+\ref ZOH001R036 124
+\_no 00125
+\tx 7@m winnomwakka*m
+\mb 7@m win -70m
+\zoq OSM: De gaji nena*7 gay 7@n t@7kxpa*m gay d@ tukka*m, j@b@*7?
+\fts OSM: De ahi* el mal aire ya lo quebro ya acabe*, verdad?
+\fte OSM: Then the evil spirit now I break it and I finish it, right?
+\com
+\idx
+\ref ZOH001R036 125
+\_no 00126
+\tx 7@y pojo7k 7@n
+no7tzpa
+-ра
+\mb 7@y pojo7k 7@n no7tz
+\sg1 3E huevo 1E
+quebrar-INC
+\egl 3E egg 1E break - INC
+\com
+\idx
+ZOH001R0361001.txt
+\sg1 2E CARA-echar_humo-vaciar-COM-YA
+\egl 2E FACE-emit_smoke-empty -COM-NOW there 1E
+\zoq 7@y pojo7k 7@n no7tzpa.
+\fts Quebro el huevo.
+\fte I break his egg.
+7ay
+-wak -w@ -7am 7ahi
+\zoq 7@m_winnomwakka*m 7ay 7@n no7tzpa bi pojo7k.
+\fts Ya lo ahumastes ahi* quebro el huevo.
+\fte Now you've censed there I break the egg.
+\com
+\idx
+\ref ZOH001R036 126
+\_no 00127
+shell
+\tx 7@n 7ixpa bi platujo7
+\mb__7@n 7ix-pa bi
+platu-jo7
+\sgl 1E ver-INC DEF plato-LOC2
+see-INC DEF dish -LOC2
+\egl 1E
+7@n no7tzpa
+bi pojo7k
+7@n no7tz -pa bi pojo7k
+ahi* 1E quebrar-INC DEF huevo
+break -INC DEF egg
+\zoq 7@n 7ixpa bi platujo7.
+\fts Lo veo en el plato.
+\fte I look in the plate.
+\com
+Page 27

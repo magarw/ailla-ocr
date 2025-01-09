@@ -1,0 +1,63 @@
+\USE
+\SPG agua fria; refresco
+\ENG cold water; soft drink
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex wayay' n@'+jo7
+\_no 03601
+\LG MIG
+\PSH [wayay n@jo7]
+\UND wayay
+n@¹ +jo7
+\MB frio, agua, LOC2
+\VAR
+\GRAM top
+\SPG Agua Fria
+\ENG Agua Fria
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS the place where Camilo's story about the devil takes place
+\date 20/Jun/96
+\lex wayay' tyempu
+\_no 03602
+\LG MIG
+\PSH [wayay tyempu]
+\UND wayay7 tyempu
+\MB frio, tiempo
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG tiempo de frio
+\ENG cold season
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM tiempo
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex wayay' tzonh.kuy7
+\_no 03603
+ZOH004R0011001.txt
+\LG MIG
+\PSH [wayay tzonhkuy7]
+\UND wayay7 tzonh.kuy7
+Page 1548

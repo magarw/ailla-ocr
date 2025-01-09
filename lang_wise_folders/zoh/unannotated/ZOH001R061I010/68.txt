@@ -1,0 +1,62 @@
+\lex tzatz
+\_no 00299
+\SPG rajar (como papel)
+\ENG to tear (like paper)
+\EX 7@n tzatztuktukw@yy@ n toto
+\XSP hice mi papel en tiras
+\XEN I tore my paper in strips
+\EX xanh tzatztz@ patanux 7ay
+\XSP el aire rompio* la hoja de platano
+\XEN the wind tore the banana leaves
+\ROOT tzatz T3
+\SEMF break
+\PASS tzatz.7@m rajarse; romperse
+\ANTI tzatz.7oy estar rompiendo
+\CMTS
+\lex tzaxx@
+\_no 00300
+\SPG tener verguenza; ruborizarse; apenarse
+\ENG to feel shame
+\EX n@nti m tzaxx@.kuy7
+\XSP no tienes verguenza; sin verguenza
+\XEN you haven't any shame; shameless
+\ROOT tzaxx@ 12
+\SEMF body, cog
+\CAUS yak.tzaxx@ avergonzar
+\CMTS
+\lex tze
+\_no 00301
+\SPG lavar
+\ENG to wash
+\EX tzea7
+\XSP
+\ANTI tze7.7oy lavar
+\CMTS
+\lex tze7k
+\_no 00302
+\SPG pedir
+\ENG to ask
+\EX
+ZOH001R0611010.txt
+tze7
+\XEN
+\ROOT tze T3
+\SEMF clean
+\PASS NONE tze.7@m would be 'se lavo* solo'
+\XSP
+\XEN
+impv
+\XSP
+\XEN
+\ROOT tzem T3
+\ROOT tze7k T3
+\SEMF speak
+\PASS tze7k.7@m "se pidio*" a una mujer; le fue* pedido la mano
+\ANTI tze7k.7oy
+\CMTS
+\lex tzem
+\_no 00303
+\SPG desafiar; provocar; atropellar para pelear; pegar
+\ENG to challenge; to provoke a fight
+\EX
+Page 68

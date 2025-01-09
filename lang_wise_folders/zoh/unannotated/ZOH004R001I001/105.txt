@@ -1,0 +1,64 @@
+\EXU 7ay' jux-w@ para yo7=m@k-pa
+\XPSH [7@y juxx@ para yom@k-pa.]
+\XSP Aso* hoja para tamalear.
+\XEN He roasted leaves to make tamales.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jux
+\RTGR T3
+\DSRC TK94
+\CMTS get deriv's - jux is one HAJ: 96
+\CMTS not jax- that would burn it too much
+\date 09/Jan/96
+\lex 7eji7
+\_no 00246
+\LG MIG
+\PSH
+\UND 7eji7
+\MB
+\VAR 7eje7
+\GRAM S
+\SCI
+\USE
+\SPG eje
+\ENG axis
+\EXU karreta' 7@y+ 7eji7
+\XSP eje de carreta
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 25/Jun/96
+\lex 7ek
+\_no 00247
+\LG MIG
+\PSH
+\UND 7ek
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pizcar mazorca
+\ENG to harvest corn
+ZOH004R0011001.txt
+\SPL 7ek. 7oy
+\SLGR ANTIP
+\SLGL pizcar //
+SPL 7ek.7@m
+// to harvest
+\SLGR PASS
+\SLGL pizcarse (ya esta* podrido el palito, cae solo) // to rot & fall to the
+ground
+\SPL 7ek. ten
+\SLGR PRSV
+\SLGL tener pizcado // to have it harvested
+\EXU 1 mok=7ek-w@
+\XPSH 1 [Mok 7ekk@.]
+Page 105

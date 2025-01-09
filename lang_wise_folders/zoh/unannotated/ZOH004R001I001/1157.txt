@@ -1,0 +1,64 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex poj [1]
+\_no 02689
+LG MIG
+\PSH
+\UND poj
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG descolorar; despintarse; quitarse de color
+\ENG to lose color; to fade
+\SPL yak.poj
+\SLGR CAUS
+\SLGL destin~ir // to discolor
+\EXU 1 poj-w@ 7@y+ k@w.i7
+\XPSH 1 [Pojj@y k@wi7.]
+\XSP 1 Se despinto*
+\XEN 1 The color faded.
+\EXU 2 7@n+ yak.poj-w@ 7@n+ y@k.wij
+\XPSH_2 [7@n yakpojjan y@kwij.]
+\XSP 2 Despinte* mi camisa.
+\XEN 2 I bleached my shirt.
+\SYN
+\SEMF clean, change
+\ASP accomplishment
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+LF:tzajin
+\ROOT poj
+\RTGR 12
+\DSRC HAJ94
+\CMTS caus2 yak+ poj desten~ir
+\date 03/Jan/80
+\lex poj [2]
+\_no 02690
+\LG MIG
+\PSH
+\UND poj
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG bejuco
+\ENG vine
+ZOH004R0011001.txt
+\EXU popo' poj
+\XSP bejuco blanco
+Page 1157

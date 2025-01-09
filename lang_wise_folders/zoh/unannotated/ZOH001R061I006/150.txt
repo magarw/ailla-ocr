@@ -1,0 +1,64 @@
+\SCI
+\USE
+\SPG encerrar
+\ENG to enclose; to jail
+\SPL xom. 7oy
+\SLGR ANTIP
+SLGL encerrar // to enclose
+\SLGR NO PASS
+\SPL xom.ney
+\SLGR ASSUM1
+\SLGL estar encerrado // to be enclosed
+\SPL xom.ten
+\SLGR PRSV
+\SLGL tener encerrado // to have enclosed
+\EXU 1 7@y+ xom-xuk-w@ bi moko.e
+\XPSH 1 [7@y xomxukk@ bi mokoe.]
+\XSP 1 Encerraron el borracho.
+XEN 1 They jailed the drunk.
+\EXU 2 xom. ney-w@ bi wakax
+\XPSH 2 [Xomneyy@ bi wakax.
+\XSP 2 Esta* encerrado el ganado.
+\XEN 2 The cow is corralled.
+\SYN
+\SEMF arrange
+\ASP process
+\ARG
+\NOM xom.e7, xom. kuy7, xom.naanh
+\SUB xom.pu
+\ETYM
+\ETL
+\ROOT XOM
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+\1ex xo7px
+\_no 00223
+\LG MIG
+\PSH
+\UND xo7px
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tomar a boca de plato hondo
+\ENG to drink from a bowl
+\SPL xo7px. 7oy
+ZOH001R0611006.txt
+\SLGR ANTIP
+\SLGL tomar // to drink
+\SPL xo7px.7@m
+\SLGR PASS
+\SLGL tomar // to drink
+\SPL xo7px. ten
+\SLGR PRSV
+\SLGL tener el plato en su boca, para tomar // to have the bowl at your
+lips, ready to drink
+\EXU 7@y+ xo7px-w@ 7@y+ tzan.tzan7
+\XPSH [7@y xo7px@y tzantzan7.]
+\XSP Tomo* a boca de plato su caldo.
+\XEN She drank her soup from the bowl.
+Page 150

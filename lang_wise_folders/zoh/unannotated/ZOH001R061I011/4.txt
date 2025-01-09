@@ -1,0 +1,61 @@
+\lex jay
+\_no 00016
+\SPG dilatar; demorarse
+\ENG to delay
+\EX wen=jay
+\XSP tardarse mucho
+\XEN to delay a lot
+\ROOT jay 12
+\CMTS caus yak.jay hacer dilatar
+\lex jej
+\_no 00017
+\SPG vivir
+\ENG to live
+\EX
+\XSP
+\XEN
+\ROOT jej 12
+\CMTS caus yak.jej dar vida (Dios)
+\lex jek
+\_no 00018
+\SPG derrumbarse cosa; una cosa que esta* estivada, amontonada, derrumbada
+\ENG to crumble
+something stacked up, piled up,
+\EX jekk@ nax
+\XSP se derrumbo* la tierra
+\XEN the earth crumbled
+\ROOT jek Ix
+\CMTS caus yak.jek hacer que se derrumbada
+\lex jeken
+\_no 00019
+\SPG enrollar mecate, alambre, bejuco...
+\ENG to coil - rope, wire, vine...
+\EX 7@y jekentenn@
+\XSP lo tiene enrollado
+\XEN he's got it rolled up
+\EX jekenn@mm@ tzajin
+\XSP se enrosco* la vi*bora
+\XEN the snake coiled itself (was coiled)
+\ROOT jeken P (T3)
+\CMTS antip jeken.7oy enrollar
+ZOH001R0611011.txt
+\CMTS pass jeken.7@m enroscarse (vi*bora); enrollar
+\CMTS prsv jeken=ten lo tiene enrollado
+\CMTS assum1 jeken.ney estar enrollado
+\CMTS term tuk
+\lex je7k
+\_no 00020
+\SPG limpiar con coa
+\ENG to clean with an axe
+\EX
+\XSP
+\XEN
+\ROOT je7k T3
+\CMTS antip je7k. 7oy limpiar
+\CMTS no pass je7k.7@m *
+\CMTS no assum1
+\CMTS no prsv: van a entender que esta* puesto la coa todavia
+\CMTS term tuk
+\lex jen
+\_no 00021
+Page 4

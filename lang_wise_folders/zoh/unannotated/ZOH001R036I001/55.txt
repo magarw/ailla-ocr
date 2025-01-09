@@ -1,0 +1,82 @@
+\fte with what do you prepare it?
+\com
+\idx
+\ref ZOH001R036 251
+\_no 00251
+\tx ti tzoy
+\mb ti tzoy
+\sg1 que saltar
+\egl what jump
+\com
+\idx
+\zoq Ti tzoyj@nanh?
+\fts Con que remedio?
+\fte with what medicine?
+jananh
+jananh
+AC
+ACC
+\com
+\idx
+\ref ZOH001R036 252
+\_no 00252
+OSM: 7onde p@kn@kpa
+7esde panela
+\tx
+\mb OSM
+\sg1 OSM: donde agarrar-irse-INC esde panela
+donde pak
+-n@k -pa 7esde panela
+\egl OSM: where
+get -go -INC um
+sugar
+\zoq OSM: 7onde p@kn@kpa, 7esde, panela,
+\fts OSM: Donde lleva panela,
+\fte OSM: where it brings um, sugar,
+\ref ZOH001R036 253
+\_no 00253
+\tx kukwene
+de panela m tz@kpa
+\mb kuk
+-wen
+-E de panela 7@m tz@k -pa
+\sg1 centro-partir-NOM3 de panela 2E hacer-INC
+\eg1 center-part -NOM3 of sugar 2E
+do
+- INC
+\zoq kukwene de panelam tz@kpa.
+\fts la mitad de panela lo hace.
+\fte you make it half of sugar.
+\com
+\idx
+\ref ZOH001R036 254
+\_no 00254
+\com
+\idx
+ZOH001R0361001.txt
+\tx 7entonse gag@
+\mb entonces ka
+-g@
+\sg1 entonces DCT3-DEM
+\egl then
+kukwene
+kuk -wen
+de panela
+-E de panela
+centro-partir-NOM3 de panela
+DCT3-DEM center-part -NOM3 of sugar
+\zoq 7entonse gag@ kukwene de panela.
+\fts Entonces esa mitad de panela.
+\fte Then that half of sugar.
+\ref ZOH001R036 255
+\_no 00255
+\tx p@kn@kpa
+\mb
+p@k
+kanela
+-n@k -pa
+kanela
+\sgl agarrar-irse-INC canela
+\egl get
+-go -INC cinnamon
+Page 55

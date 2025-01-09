@@ -1,0 +1,64 @@
+ZOH004R0011001.txt
+XEN 2 He's got the beans pulled up to winnow them.
+\SYN
+\SEMF plant, cut
+\ASP achievement
+\ARG
+\NOM wix.naanh
+\SUB ko.wix
+ETYM
+\ETL
+\ROOT wix
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex wixi7
+\_no 03775
+\LG MIG
+\PSH
+\UND wixi 7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG zopilote
+\ENG buzzard
+\EXU jaya wixi7
+\XSP Zopilote barraco
+\XEN male buzzard
+\SYN
+LF: jon
+\SEMF EX
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex wixix.ney
+\_no 03776
+\LG MIG
+\PSH [wixixney-]
+\UND wixix.ney
+\MB X, ASSUM1
+\VAR
+\GRAM assum:-pa, -w@
+\SCI
+\USE
+\SPG estar de punta
+\ENG to be standing on end
+\SPL
+\SLGR
+\EXU wixix.ney-w@ tza7
+\XPSH [wixixneyy@ tza7.]
+\XSP Esta* de punta la piedra.
+\XEN The rock is standing on end.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+Page 1622

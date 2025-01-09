@@ -1,0 +1,62 @@
+\ENG to blame
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT koj
+\RTGR TX
+\DSRC HAJ94
+\CMTS analysis???
+\date 08/Feb/96
+\lex ni'k.@7
+\_no 02387
+\LG MIG
+\PHO [nik@7]
+\UND ni7k.A7
+\MB medio_secarse, NOM2
+\VAR
+\GRAM SV
+\SPG medio seco
+\ENG half-dry
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT ni7k
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex noa7
+\_no 02388
+\LG MIG
+\PSH
+\UND noa7
+\MB
+\VAR maybe nowa7
+\GRAM S
+\SCI
+\USE
+\SPG arroyo
+\ENG arroyo
+\EXU y@7 t@tz-w@-v7k noa7 jakke tza7
+\XPSH [Y@7 t@tztz@7k noạ7 jakke tza7.]
+\XSP Este arroyo seco tiene mucha piedra.
+\XEN This dry canyon is very rocky.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-EX HAJ:96, fixed it
+\date 19/Jun/96
+\lex nok.nok.ney
+\_no 02389
+ZOH004R0011001.txt
+\LG MIG
+\PSH [noknokney-]
+Page 1028

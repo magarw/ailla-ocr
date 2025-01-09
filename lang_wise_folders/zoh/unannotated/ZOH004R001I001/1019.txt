@@ -1,0 +1,63 @@
+\SPG ponerse a*spero
+\ENG to become rough
+\SPL yak.nitz
+\SLGR CAUS
+\SLGL hacer a*spero // to make rough
+\EXU 1 nitz-pa
+\XPSH 1 [Nitzpa.]
+\XSP 1 Se esta* poniendo a*spero.
+\XEN 1 It's becoming rough.
+\EXU 2 7@y+ yak.nitz-w@ bi kuy.
+\XPSH 2 [7@y yaknitztz@ bi kuy.]
+\XSP 2 Hizo a*spero la madera.
+\XEN 2 He roughened the wood.
+\SYN
+\SEMF condition
+\ASP achievement
+\ARG
+\NOM nitz.i7
+\SUB
+ETYM
+\ETL
+\ROOT nitz
+\RTGR IX
+\DSRC TK94
+\CMTS
+\CMTS get deriv's
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex nitz.i7
+\_no 02366
+\LG MIG
+\PSH [nitzi7]
+\UND nitz.E7
+\MB ponerse_a*spero, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG a*spero
+\ENG rough
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nitz
+\RTGR IX
+\DSRC HAJ94
+\CMTS
+\date 27/Jan/96
+ZOH004R0011001.txt
+\lex ni.tz@k.'@y
+\_no 02367
+\LG MIG
+\PSH [nitz@kk@y-]
+\UND ni.tz@k.7@y
+\MB PURP, hacer, SUF
+\VAR
+\GRAM vt
+\SCI
+Page 1019

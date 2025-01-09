@@ -1,0 +1,64 @@
+\lex pup
+\_no 02799
+\LG MIG
+\PSH
+\UND pup
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacudir; remenear; regar (arena, maiz, arroz)
+\ENG to shake; to stir; to spread (sand, corn, rice)
+\SPL pup.7oy
+\SLGR ANTIP
+\SLGL sacudir // to shake
+\SLGR NO PASS
+\SPL pup.ney
+\SLGR ASSUM1
+\SLGL amontonarse; regarse // to be piled up; to be scattered
+\SPL pup.ten
+\SLGR PRSV
+\SLGL tener regado // to have spread
+\EXU 7@y+ pup.ten-w@
+\XPSH [7@y puptenn@.]
+\XSP Lo tiene regado amontonado (y ya no lo quiere vender).
+\XEN She's got it spread out in little piles (and now doesn't want to sell
+it).
+\SYN
+\SEMF move
+\ASP activity
+\ARG
+\NOM
+\SUB 7ok.pup. '@y, ko.pup
+\ETYM
+\ETL
+\ROOT pup
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex pupu
+\_no 02800
+\LG MIG
+ZOH004R0011001.txt
+\PSH
+\UND pupu
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG pescadito mas biushito del ri*o
+\ENG the tiniest fish in the river
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+LF: koke
+Page 1205

@@ -1,0 +1,64 @@
+\PSH [w@i7]
+\UND way. E7
+\MB tener_tin~a, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG (mal de) pinto; tin~a
+\ENG discolored; a blotch
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT way
+\RTGR IX
+\DSRC TK94
+\CMTS PH-fixed: TK
+\date 26/Jun/96
+\lex waj
+\_no 03817
+\LG MIG
+\PSH
+\UND waj
+\MB
+\VAR
+\GRAM vi: med
+\SCI
+\USE
+\SPG apestar; tener olor
+\ENG to stink; to have an odor
+\SPL yak.w@j
+\SLGR CAUS
+\SLGL hacer apestar // to cause to stink
+\EXU 1 nen(a')=w@j-w@
+\XPSH 1 [Neenw@jj@.]
+\XSP 1 Apesto*.
+\XEN 1 It smelled bad.
+\EXU 2
+d@ waj-pa
+\EXU 3 paja7k_w@j-pa
+\XPSH 3 [Paja7k w@jpa.]
+\XSP 3 Tiene olor bonito.
+\XEN 3 It has a nice smell.
+\SYN
+\SEMF nature
+\ASP state
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT waj
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+ZOH004R0011001.txt
+\lex waja
+\_no 03818
+\LG MIG
+Page 1641

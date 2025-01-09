@@ -1,0 +1,60 @@
+\CMTS
+\lex witz
+\_no 00351
+\SPG hacer alma*cigo
+ENG to make a nursery
+\EX witz@7
+\XSP haz alma*cigo!
+\XEN make a nursery!
+\ROOT witz T3
+\SEMF farm
+\PASS witz.7@m esta* hecho alma*cigo
+\ANTI witz.7oy hacer alma*cigo
+\PRSV witz-ten-e esta* hecho alma*cigo
+\CMTS
+\lex wix
+\_no 00352
+\SPG arrancar
+\ENG to pull up
+\EX wixxixneyy@ tza7
+\XSP esta* de punta la piedra
+\XEN
+\ROOT wix T3
+\SEMF move, break
+\PASS NONE wix.7@m*
+\ANTI wix. 7oy
+\CMTS
+\lex wo7i
+\_no 00353
+\SPG rodarse
+\ENG to roll
+\EX wo7iw@
+\EX wo7ipa
+\XSP rueda
+\XEN a wheel
+\ROOT wo7i Ix
+\SEMF motion
+\CAUS yak.wo7i hacer rodar
+\CMTS
+\lex woj
+\_no 00354
+\SPG ladrar
+\ENG to bark
+\EX wojpa nu7
+\XSP ladra el perro
+\XEN_the dog barks
+\EX 7@y wojjayy@
+\XSP le ladro*
+\XEN it barked at someone
+\EX 7@y wojjayy@ 7@y win
+\XSP se ladro* e*1 mismo
+\XEN it barked at itself
+\ROOT woj Il
+\SEMF speak-animal
+\CAUS ??
+\PASS woj.7@m aullado
+\CMTS
+ZOH001R0611010.txt
+\lex woj
+\_no 00355
+Page 79

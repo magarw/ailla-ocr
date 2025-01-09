@@ -1,0 +1,52 @@
+\lex ju7t
+\_no 00844
+\SPG remover
+\ENG stir
+\lex jutzenh
+\_no 00845
+\SPG cuanto
+\ENG how much
+\lex jutzeti
+\_no 00846
+\SPG cuantos
+\ENG how many
+\lex ju7tz
+\_no 00847
+\SPG encajar
+\ENG stab
+\lex juwi7
+\_no 00848
+\SPG brasa
+\ENG coal
+\lex jux
+\_no 00849
+\SPG asar
+\ENG roast
+\lex juxtixa
+\_no 00850
+\SPG autoridad
+\ENG authority
+\lex juy
+\_no 00851
+\SPG comprar
+\ENG buy
+\lex juy@n@
+\_no 00852
+\SPG tepezcuintle
+\ENG animal
+\lex jwanega
+\_no 00853
+\SPG fanega
+\ENG
+\lex jwin
+\_no 00854
+\SPG jwin
+\ENG jwin
+\lex ja7
+\_no 00855
+\SPG si*
+\ENG yes
+\lex j@7
+\_no 00856
+ZOH001R0611013.txt
+Page 68

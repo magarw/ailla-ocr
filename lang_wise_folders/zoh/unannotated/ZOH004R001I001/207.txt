@@ -1,0 +1,63 @@
+\lex 7uk.i-muj.i
+\_no 00481
+\LG MIG
+\PSH [7ukimuji]
+\UND 7uk. E=muj. E
+\MB tomar, NOM7, mojarse, NOM7
+\VAR
+\GRAM nom:incorp
+\SCI
+\USE
+\SPG atol de "tisiawal"
+\ENG a type of corn drink
+\EXU
+\XSP
+\XEN
+\SYN 7uk.i n@n@7
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7uk
+\RTGR 1 T1
+\ROOT 2 muj
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex 7uk.i=nutz.i7
+\_no 00482
+\LG MIG
+\PSH [7ukinutzi7]
+\UND 7uk. E=nutz.E7
+\MB tomar, NOM7, estar_caliente, NOM7
+\VAR
+\GRAM nom: incorp
+\SCI
+\USE
+\SPG atol de masa de molino
+\ENG a type of corn drink
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7uk
+\RTGR 1 T1
+\ROOT 2 nutz
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+ZOH004R0011001.txt
+\lex 7uk.jay
+\_no 00483
+\LG MIG
+\PSH [7ukjay-]
+\UND 7uk.jay
+\MB tomar, APPL
+\VAR
+\GRAM vt:indir
+\SCI
+Page 207

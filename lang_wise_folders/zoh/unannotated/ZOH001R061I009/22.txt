@@ -1,0 +1,63 @@
+\SPG agarrar
+\ENG to grasp; to grab
+\EX
+\XSP
+\XEN
+\ROOT nuk T3
+\SEMF pick_up, hand
+PASS nuk.7@m
+\ANTI nuk. 7oy
+\CMTS basic meaning seems to be to catch with the hands
+\lex n@7kx
+\_no 00088
+\SPG esquivar ~ estivar (piedra) (blok)
+\ENG to stack
+\EX tza n@7kx@
+\XSP estivo* piedra
+XEN she stacked rocks
+\ROOT n@7kx P, (T3)
+\SEMF move, position
+\PASS n@7kx.7@m
+VANTI n@7kx.7oy
+\CMTS
+\lex pa
+\_no 00089
+\SPG colar
+\ENG to sift
+\EX
+\XSP
+\XEN
+\ROOT pa T3
+\SEMF move, affect
+\PASS pa.7@m colarse
+\ANTI pa. 7oy
+\PRSV pa=ten lo tiene colado
+\CMTS
+\lex paj
+\_no 00090
+ZOH001R0611009.txt
+\SPG clavar; sembrar poste, estaca en el suelo
+\ENG to nail; to set a post or stake in the ground
+\EX tzin pajja
+\XSP rajo* ocote
+\XEN he stripped pine
+\EX 7@y pajxukk@ neajo7
+\XSP esta* clavado en la pared
+\XEN they nailed it in the wall
+\EX 7@y pajtenn@ bi kuy
+\XSP sembro* el poste (en donde lo necesita)
+\XEN he set a post (where he needed it)
+\EX_pajneyy@nam bi tak 7@y kojom
+\XSP esta
+sembrado todavia el
+\PASS paj.7@m sembrarse
+\ANTI paj.7oy
+\ASSU paj.ney estar sembrado
+\PRSV paj.ten tener sembrado
+\CMTS
+\lex pak
+horco*n de la casa
+\XEN the house beam is still standing
+\ROOT paj P, (T3)
+\SEMF move, position.
+Page 22

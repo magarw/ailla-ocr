@@ -1,0 +1,63 @@
+\ROOT 2 yu7p
+\RTGR 2 P (T3)
+\DSRC HAJ95
+\CMTS
+\date 09/Feb/96
+\lex t@nh. 'oy.kuy7
+\_no 03180
+\LG MIG
+\PHO [t@nhnhokuy7]
+\UND t@nh.7oy.kuy7
+\MB cortar_c_machete, ANTIP,
+ANTIP, INSTR1
+\VAR
+\GRAM instr1
+\SPG una machetazo
+\ENG one stroke of a machete
+\EX
+\XSP
+\XEN
+\SYN t@nh.naanh
+\ROOT t@nh
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex tap
+\_no 03181
+\LG MIG
+\PSH
+\UND tap
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG costurar; bordar; ensartar
+\ENG to sew; to embroider
+\EXU 1 mix t@p.jay-w@ bi y@k.wij
+\XPSH 1 [Mix t@pjayy@ bi y@kwij.]
+\XSP 1 Costure* tu camisa.
+\XEN 1 I sewed you the shirt.
+\EXU 2_7@n+ t@p=yoj.ke7t-w@ 7@n+_tzepe7
+\XPSH 2 [7@n t@pyojke7tt@n tzepe7.]
+\XSP 2 volvi* a coser mi nagua.
+\XEN 2 I sewed my skirt again.
+\SYN
+ZOH004R0011001.txt
+\SEMF build
+\ASP activity
+\ARG
+\NOM t@p.kuy7, t@p.i, y@k.t@p
+\SUB 7ok.t@p.'@y, t@p-max, t@p.pu', t@p=p@7t, t@p-xu7t
+\ETYM
+\ETL
+\ROOT tap
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 14/Aug/02
+\lex t@p=7anh=kam
+\_no 03182
+Page 1368

@@ -1,0 +1,64 @@
+\_no 00025
+\SPG pescar con manta
+\ENG to fish with a cloth
+\EX tijj@ 7@y je: pe
+\XSP fue* a pescar con manta
+XEN he went to fish with a cloth
+\EX 7@y je7ppa koke
+\XSP pesca con manta
+\XEN he fishes with a cloth
+\EX je7ppa
+\XSP esta* pescando
+\XEN she's fishing
+\ROOT je7p P (T3)
+\CMTS fishing with a manta, like a sheet,
+that you tie around your neck and
+\CMTS then spread with the hands, leaning forward to scoop up some water
+\CMTS and fish
+\CMTS antip je7p.7oy pescar
+\CMTS no pass
+je7p.7@m
+\CMTS prsv je7p-ten tiene la manta dentro del agua
+\CMTS assum1 je7p.ney estar adentro del agua la manta
+\CMTS v class: uncertain. now rejects ASSU and PRSV, saying it doesn't make
+\CMTS sense. Reason: this is an activity, you don't just stand there with
+\CMTS the cloth in the water, you scoop and spread
+\CMTS probably a T1. OBJ is always redundant
+\lex jetz
+\_no 00026
+\SPG rascar
+\ENG to scratch
+\EX 7@y jetztz@ y kuptuku7
+\XSP rasco* su espalda
+\XEN she scratched her back
+\EX 7@y jetzjayy@
+\XSP se lo rasco*
+\XEN he scratched her
+\EX da jetztz@
+\XSP me rasco*
+\XEN someone scratched me
+\ROOT jetz Tx
+\CMTS no antip jetz.7oy
+\CMTS no pass jetz.7@m*
+\CMTS term tuk
+\CMTS has to be ergative marker
+\lex jey
+\_no 00027
+ZOH001R0611011.txt
+\SPG batir (masa)
+\ENG to beat (masa)
+\EX way jeyy@
+\XSP batio* la masa
+\XEN she kneaded the masa
+\EX 7@y jeytenn@ bi way para bi_k@xi
+\XSP tiene batido la masa para la comida
+\XEN she's got the masa beaten for the food
+\ROOT jey P (T3)
+\CMTS antip jey.7oy batir
+\CMTS pass jey.7@m batirse
+\CMTS assum1 jey.ney estar batido
+\CMTS prsv jey-ten lo tiene batido
+\lex ji7i
+\_no 00028
+\SPG grun-ir
+Page 6

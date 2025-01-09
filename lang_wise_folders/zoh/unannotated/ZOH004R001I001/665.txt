@@ -1,0 +1,63 @@
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 23/Jun/96
+\lex kuk.t@nh-tuk
+\_no 01532
+\LG MIG
+\PSH [kukt@nhtuk-]
+\UND kuk-t@nh-tuk
+\MB centro, cortar, terminarse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG cortar por la mitad
+\ENG to cut in half
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 t@nh
+\RTGR 1 T3
+\ROOT 2 tuk
+\RTGR 2 12
+\DSRC HAJ95
+\CMTS cf. kuk=t@nh
+\date 11/Jan/96
+\lex kuku7
+\_no 01533
+\LG MIG
+\PSH
+\UND kuku7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG tortolita; paloma mas chica
+\ENG turtledove; smallest dove
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+LF: jon
+\CMTS
+\date 10/Nov/94
+\lex kuku' +y jarak
+\_no 01534
+\LG MIG
+\PSH [kukuy jarak]
+\UND kuku7 +7@y jarak
+ZOH004R0011001.txt
+Page 665

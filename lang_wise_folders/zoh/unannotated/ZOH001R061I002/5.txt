@@ -1,0 +1,64 @@
+\UNDO
+\CLZ
+\CMTS
+\lex 707k
+\_no 00017
+\SPG calmar(se) (como el viento, no de gente)
+\ENG to calm down (like wind, not people)
+\SEMF nature
+\ASP achievement
+\ARG
+\NOM 70'k.a7, *kuy7, *naanh
+\RTGR 12
+\POS N
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\1ex 70m
+\_no 00018
+\SPG echar humo
+\ENG to emit smoke
+\SEMF emit, nature
+\ASP activity
+\ARG
+\NOM 7om.a7, 7om. 'oy.kuy7, 7om.naanh
+\RTGR 12
+\POS d@ 7omm@
+\POS da 7omjayy@n 7une
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex 7on
+\_no 00019
+\SPG 1 desarreglar
+\SPG 2 amontonar
+\ENG 1 to mess up
+ENG 2 to bundle in a heap
+\SEMF arrange
+\ASP activity, achievement
+\ARG
+\NOM 7on.neenh
+\UNDO
+\CLZ
+\CMTS
+\NOM 7on. kuy7
+\RTGR P (TX)
+\POS rroberto d@ yakkonjayy@n way7 roberto me hizo aracha
+\MID
+\lex 70px
+\_no 00020
+ZOH001R0611002.txt
+\SPG espumar
+\ENG to foam
+\SEMF emit, nature
+\ASP activity
+\ARG
+\NOM 7anh. 'opx.a, 70px.a7, *kuy7,
+\RTGR 12
+\POS N
+me ahumo*
+me lo ahumo* mi nin~o
+* naanh
+Page 5

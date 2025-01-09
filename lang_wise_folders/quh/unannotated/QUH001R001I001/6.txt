@@ -1,0 +1,99 @@
+ÍNDICE DE MAPAS
+1- República de Bolivia, con marcación de zonas de habla quechua (Q) y área de donde proviene
+la mayoría de la población quechua-hablante con la que trabajé….
+.44
+2-
+Trayectoras de migración más frecuentes..
+45
+3- Zonas de Buenos Aires relevadas donde se asienta y trabaja población
+boliviana....
+.48
+4- Vista parcial del Barrio Lambertuchi, zona de quintas fruti-hortícolas donde trabaja población
+hablante
+quechua boliviano (Partido de Escobar, Buenos Aires,
+de
+Argentina)......
+...223
+En glosas analíticas:
+1=primera persona
+2=segunda persona
+3-tercera persona
+S=sujeto
+O=objeto
+PL=plural
+PL.INCL=plural inclusivo
+PL.EXCL=plural exclusivo
+PRON=pronombre
+CONJ=conjunción
+ADV=adverbio
+POS=posesivo
+REC=recíproco
+REFL=reflexivo
+NOM=nominativo
+AC acusativo
+GEN-genitivo
+DAT=dativo
+ALAT=alativo
+ABL ablativo
+PROX=proximal
+OBV=obviativo
+INSTR=instrumental
+CIA=compañía
+BEN=benefactivo
+LIM=limitativo
+INTEN/AFEC-intensificador / afectivo
+TERM=terminativo
+OBLIG-obligativo
+DES=desiderativo
+INC-incoativo
+CAU=causativo
+CONCR=concretizador
+EX=verbo existencial
+DIR=direccional
+LOC=locativo
+INDUCT-inductivo
+EDUC=eductivo
+LISTA DE ABREVIATURAS
+TRANSLOC=translocativo
+APROX=aproximante
+PRES=presente
+PAS=pasado
+FUT=futuro
+NARR=pasado narrativo
+DUR O PROGR=aspectual durativo o progresivo
+HAB=aspectual habitual
+SIM simultáneo
+SEQ=secuencial
+DEM=demostrativo
+NUM=numeral
+NOM nominalizador
+INF=nominalizador de infinitivo
+SS=sigue mismo sujeto
+DS=sigue diferente sujeto
+APEL=apelativo
+AF=afirmativo
+INT-interrogativo
+NEG=negativo
+IMP-imperativo
+POT=potencial
+SUB=subordinador adverbial
+COND=condicional
+CONTR=contrastivo
+COM comparativo
+ADIT=aditivo
+ENF-enfático
+TOP=tópico
+FOC-foco
+VAL-validativo
+EVID=evidencial
+IRR=irrealis
+ESP=español
+Constituyentes fonológicos:
+U emision
+6
+I=frase entonacional
+p=frase fonológica
+@=palabra fonológica
+f-pie
+o=sílaba
+u mora

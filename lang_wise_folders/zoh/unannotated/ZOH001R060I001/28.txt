@@ -1,0 +1,73 @@
+\fts me voy para alla*
+\fte I'm going over there
+\com (the other side of the garden)
+\idx
+\ref 113
+\_no 00114
+\tx da n@kpa
+\mb da nak -pa
+\sgl 1A irse-INC
+yaj@ de yaji
+yaj@7 de ya -ji7
+lejos de DCT1-Loc1
+\egl 1A go -INC far of DCT1-LOC1
+\fts me voy lejos de aqui
+\fte I'm going far away from here
+\com
+\idx
+\ref 114
+\_no 00115
+\tx da nakpa
+tomejo7
+\mb da nak -pa
+tome7-jo7
+\sg] 1A irse-INC cerca-LOC2
+\egl 1A go -INC near -LOC2
+\fts me voy cerquita
+\fte I'm going nearby
+\com
+\idx
+\ref 115
+\_no 00116
+\tx da n@kpa
+\mb da nak -pa
+\sgl 1A irse-INC
+\egl 1A go -INC sacred -house near
+\ref 116
+\_no 00117
+\tx n@kpan
+\mb
+\sgl irse-INC-1E
+\egl go
+nak -pa -7@n
+\fts me voy cerca de la iglesia
+\fte I'm going near the church
+\com
+\idx
+ZOH001R0601001.txt
+maxant@k
+maxan -t@k
+7anhtome7
+7anhtome7
+sagrado-casa cerca_de
+\ref 117
+\_no 00118
+dejenanh
+te -j@nanh
+DCT2-DIR1
+-INC-1E walk -dINC DCT2-DIR1
+witt@
+wit -w@
+andar-dINC
+\fts voy a caminar por ahi*
+\fte I'm going to walk over there
+\com
+\idx
+\tx d@ minn@
+\mb d@ min
+t@kjo*nh
+t@k -joonh
+-w@
+\sg] 1A venir-COM casa -DIR4
+\egl 1A come -COM house-DIR4
+Page 28

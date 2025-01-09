@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [j@xpinh-]
+\UND j@x=pinh
+\MB ATRAS, recoger
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar
+\ENG to get rid of
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pinh
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 11/Jan/96
+\lex j@x+pi7t
+\_no 01092
+\LG MIG
+\PSH [j@xpi7t]
+\UND jax +pi7t
+\MB ATRAS, INSTR
+\VAR
+\GRAM av
+\SCI
+\USE
+\SPG al reve*s
+\ENG backwards, inside out
+\EXU tunh. 'aH-w@ 7@y+ n@k-i j@x+pi7t
+\XPSH [Tunhnhaw@y n@ki j@xpi7t.]
+\XSP Fue* caminando para atra*s.
+\XEN He walked backwards.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT n@k
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex j@x-p@k
+\_no 01093
+\LG MIG
+\PSH [j@xp@k-]
+\UND jax-p@k
+\MB ATRAS, agarrar
+\VAR
+\GRAM dir+vt
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG sacar
+\ENG to get something out
+Page 478

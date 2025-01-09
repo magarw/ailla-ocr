@@ -1,0 +1,38 @@
+wala bali-ka
+other come-DEF thing-DEF?
+'el otro es sobre la bebida'
+'the other one is about drinks'
+that DET saman laia
+'ese es el saman laia'
+'that is the saman laia'
+?
+'hasta que femente'
+'until it ferments'
+mebe kati kum
+ba
+jab-an
+fermented.drink DET put-3.PERF maybe month one DET put-3.PERF
+'la chicha tal vez se deja por un mes'
+'the fermented drink is left for about one month'
+wi-bia
+tem baha laia ba brih
+become-3.PERF when that liquid DET have
+'cuando sale lo toman y lo lavan muy bien'
+'when it is ready they take it and wash it well'
+take.out-IMPF do-IMPF clean do-IMPF
+'lo sacan y luego lo limpian'
+'they take it out and clean it'
+among DET-LOC
+'dentro de ellos'
+baha rum laik-i
+that rum pour-IMPF
+'a eso le hechan hasta guaro, mucho guaro'
+'they pour in liquor, a lot of liquor'
+CONN
+chicha
+mun-i sikbi pain
+rum rum rum laik-i
+that DET put-IMPF person PL DET immediately drink group
+'las personas que hechan algunos comienzan a tomarlo'
+‘the people who put in [the liquor] immediately begin to drink it’
+AUX.3.NPST

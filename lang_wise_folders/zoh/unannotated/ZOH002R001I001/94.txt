@@ -1,0 +1,40 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(vi) po'ttammø gadø nøho' pweteho' pwes
+(də) pə?t-tam-wə
+ga.də
+nə?+ho?
+(1A) pass-1/2PL-COM DCT3.DEM water+LOC2
+'Well, we passed on that river on the bridge.'
+There is a limited sort of vowel harmony operating in the LOC1 and DIR1
+sets of alternate forms, such that the vowel of the suffix is matched to the
+vowel of the deictic root. This can be seen in the set of forms using the DIR1
+postposition: yəhəəŋ, deheeŋ, gahaaŋ. There is also some redundancy among
+the forms, with variant ways of saying the basic things: yəhə, yəhi? here'; gaha,
+gahi? 'there'; yə?, yədə 'this', etc.
+The initial consonants of the neutral de- and distal ga- are undoubtedly
+underlyingly voiceless, given the phoneme inventory of this language (section
+3.1), although they rarely appear unvoiced in the corpus. There are a few such
+cases, however, usually at the beginning of an utterance. The distal temporal
+form usually appears as kay instead of as gay. A distal directional also appears
+in a common idiom with a voiceless initial consonant, as shown in example
+(4.23 iii).
+(4.23)
+(i)
+(ii)
+pwente+ho? pwes
+bridge+LOC2 well
+(ZOH001 R010-269)
+yøji nømmøn tzammø familyajønang
+nəmm? ?ən+ cam-wə
+familya+hənaŋ
+yə.hi?
+DCT1.LOC1 PROG 1E+ chat-COM family+ACC
+'I'm here chatting with the family."
+69
+(ZOH001RO010-018)
+yøjøng jejpa tum tal lewteryo ga'
+yə.hǝəŋ
+0 heh-pa tum tal lewteryo ga.?
+DCT1.DIR1 3A live-INC one such leuterio DCT3.NOM 1
+'That fellow Eleuterio lives over here.'
+(ZOH001 RO10-273)

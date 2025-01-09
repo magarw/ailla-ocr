@@ -1,0 +1,64 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-all - HAJ:96 ok/fixed: TK
+\date 26/Jun/96
+\lex wakxi '=tuk
+\_no 03547
+\LG MIG
+\PSH [wakxituk-]
+\UND wakxi7=tuk
+\MB chico, terminarse
+\VAR wakxinh=tuk
+\GRAM vi
+\SCI
+\USE
+\SPG hacerse chiquito
+ENG to become small
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tuk
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-PH HAJ:96 both VARS ok/OK: TK
+\date 26/Jun/96
+\lex wakxi'=tz@k
+\_no 03548
+-
+\LG MIG
+\PSH [wakxitz@k-]
+\UND wakxi 7=tz@k
+\MB chico, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer chiquito
+\ENG to make small
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+Page 1525

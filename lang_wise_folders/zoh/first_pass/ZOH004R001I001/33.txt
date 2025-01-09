@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG limpiar la boca de alguien
+\ENG to wipe a bit of food from someone's mouth
+\SPL
+\SLGR
+\EXU 7@y+ 7anh=jix-w@_7@y+ j@p
+\XPSH [7@y 7anhjix@y jap.]
+\XSP Limpio* su boca.
+\XEN She wiped her mouth.
+\SYN ko.matz
+\SEMF
+\ETYM
+\ETL
+\ROOT jix
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 08/Jan/96
+\lex 7anh-jok
+\_no 00075
+\LG MIG
+\PSH [7anhjok-]
+\UND 7anh-jok
+\MB BOCA, ahumarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG estar medio ahumado
+\ENG to be half-smoked
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN win.jok
+\SEMF
+\ETYM
+\ETL
+\ROOT jok
+\RTGR 12
+ZOH004R0011001.txt
+\DSRC HAJ95
+\CMTS win-jok is not very certain: OK/TK
+\date 24/Jun/96
+\1ex 7anh=jom
+\_no 00076
+\LG MIG
+\PSH [7anhjom-]
+\UND 7anh=jom
+\MB BOCA, cercar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG cercar con rama
+\ENG to fence with branches
+\SPL
+\SLGR
+\EXU 7@y+ 7anh=jom-w@_dond +ju t@k.7@y-w@ wakax
+\XPSH [7@y 7anhjomm@ dondju t@kk@yy@ wakax.]
+Page 33

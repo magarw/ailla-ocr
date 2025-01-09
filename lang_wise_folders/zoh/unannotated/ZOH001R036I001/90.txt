@@ -1,0 +1,80 @@
+\_no 00411
+\tx kay
+\mb ka -y bi
+bi jukut@k_n@kpa
+sigidu
+jukut@k nak -pa sigidu
+\sg1 DCT3-TMP DEF lumbre irse-INC seguido
+\eg1 DCT3-TMP DEF fire
+go -INC next
+\com
+\idx
+\zoq kay bi jukut@k n@kpa sigidu.
+\fts Luego la lumbre lo va (atizando) seguido.
+\fte Then the fire goes next.
+\ref ZOH001R036 418
+\_no 00412
+sigidu
+\tx jukut@k_n@kpa
+\mb jukut@k nak -pa
+\sg1 lumbre irse-INC seguido
+\egl fire
+sigidu
+go -INC next
+\zoq Jukut@k n@kpa sigidu.
+\fts La lumbre lo sigue atizando.
+\fte The fire goes next.
+\com
+\idx
+\ref ZOH001R036 419
+\_no 00413
+\tx 7esde nenw@jpa*m
+\mb 7esde nena7-w@j
+-pa -7am
+\sg1 esde malo -apestar-INC-YA
+\egl um
+\ref ZOH001R036 420
+\_no 00414
+k@nhpa*m
+bi pak
+k@nh -pa -7am bi
+pak
+cocerse-INC-YA DEF hueso
+bad -stink -INC-NOW inside -LOC2 cook -INC-NOW DEF bone
+\zoq 7esde, nenw@jpa*m jonhjo k@nhpa*m bi pak.
+\fts Ya apesta adentro ya se esta* cociendo el hueso.
+\fte Um, now it smells bad inside, now he's cooking the bone.
+\com
+\idx
+\tx ya ke k@nhnha*m
+k@nh
+\mb ya
+ke
+\sg] ya que
+\egl now that cook -COM-NOW
+ZOH001R0361001.txt
+-w@ - 7am
+cocerse-COM-YA
+\zoq Ya ke k@nhnha*m.
+\fts Ya que ya esta* cocido.
+\fte Now that it's cooked.
+\com
+\idx
+\com
+\idx
+jonhjo
+jonh -jo7
+adentro-LOC2
+\ref ZOH001R036 421
+\_no 00415
+\tx gay
+\mb ka
+ka -y negru witu7
+-w@ - 7am
+\sg1 DCT3-TMP negro regresar-COM-YA
+\eg1 DCT3-TMP black return -COM-NOW
+negru wituwa*m
+\zoq Gay negru wituwa*m.
+\fts Ya se volvio* negro.
+\fte Now it's turned black.
+Page 90

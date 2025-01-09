@@ -1,0 +1,64 @@
+\SYN
+\SEMF corn, cook
+\ASP activity
+\ARG benefactor
+\NOM j@tz.i
+\SUB
+\ETYM
+\ETL
+\ROOT jatz
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex j@tz.i
+\_no 01023
+\LG MIG
+\PSH [j@tzi]
+\UND jatz. E
+\MB hacer_masa, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG la masa para pollito
+\ENG corn mush for chickens
+\EXU piyu' 7@y+ j@tz. E
+\XPSH [piyuy jatzi]
+\XSP masa para pollos
+\XEN chicken's corn mush
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jatz
+\RTGR I1
+\DSRC HAJ94
+\CMTS CK-PH
+could be j@tz.i7, he drops his pitch so much it's hard to
+tell; it's /j@tzi/:TK
+\date 26/Jun/96
+\lex j@tz.jay
+\_no 01024
+ZOH004R0011001.txt
+\LG MIG
+\PSH [j@tzjay-]
+\UND jatz.jay
+\MB hacer_masa, APPL
+\VAR
+\GRAM indir
+\SCI
+\USE
+\SPG hacer masa para pollo
+\ENG to make corn mush for chickens
+\EXU 7@y+ jatz.jay-wa piyu7
+\XPSH [7@y jatzjayy@ piyu7.]
+\XSP Hizo masa para pollo.
+\XEN She made corn mush for the chickens.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jatz
+\RTGR 11
+Page 449

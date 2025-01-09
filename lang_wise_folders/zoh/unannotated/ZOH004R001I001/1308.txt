@@ -1,0 +1,65 @@
+XPSH 2 [7@y_totztenn@_bi p@n bi kuy.]
+\XSP 2 El palo tiene el hombre encajado.
+\XEN 2 The tree has the man staked.
+\SYN ju7tz
+\SEMF cut
+\ASP achievement
+\ARG instrument
+\NOM
+\SUB totz-ka'
+\ETYM
+\ETL
+\ROOT totz
+\RTGR T3
+\DSRC TK94
+\CMTS patient
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex totz [2]
+\_no 03037
+\LG MIG
+\PSH
+\UND totz
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG lengua
+\ENG tongue
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex totz-ka'
+\_no 03038
+\LG MIG
+\PSH [totzka-]
+\UND totz-ka7
+=
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT 1 totz
+\RTGR 1 T3
+\MB pun-alear, morirse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG matar apun~ala*ndolo o de pun~alada
+\ENG to stab to death
+\EXU
+\XSP
+\XEN
+fruta, carne, persona, animal,
+Page 1308

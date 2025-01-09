@@ -1,0 +1,63 @@
+\USE
+\SPG atol de maiz tostado
+\ENG atole made from toasted corn
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 25/Jun/96
+\1ex mok-yuj.kuy7
+\_no 01991
+\LG MIG
+\PSH [mokyujkuy7]
+\UND mok-yuj.kuy7
+\MB mai*z, rozar, INSTR1
+\VAR
+GRAM instr1
+\SCI
+\USE
+\SPG milpa
+\ENG cornfield
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yuj
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 12/Nov/94
+\lex mok='ek
+\_no 01992
+\LG MIG
+\PSH [mokkek-]
+\UND mok-7ek
+\MB mai*z, pizcar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG pizcar mazorca
+\ENG to harvest corn
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7ek
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+ZOH004R0011001.txt
+Page 858

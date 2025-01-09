@@ -1,0 +1,63 @@
+\PSH [yu7anhp@7t-]
+\UND yu7=7anh.p@7t
+\MB hambre, BOCA, pasar
+\VAR yuwanhp@7t
+\GRAM vi
+\SCI
+\USE
+\SPG pasarle su hambre
+\ENG for your hunger to pass
+\EXU yu'=7anh.p@7t-w@
+\XPSH [Yu7anhp@7tt@.]
+\XSP Le paso* su hambre, o, la hora de comer.
+\XEN Her hunger passed, or, the dinner hour.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT p@7t
+\RTGR 11
+\DSRC HAJ94
+\CMTS [7] ~ [0]??/no [7]: GSM
+\date 26/Jun/96
+\lex yu'-ka
+\_no 04338
+\LG MIG
+\PSH [yuka-]
+\UND yu7=ka7
+\MB hambre, morirse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG tener hambre
+\ENG to be hungry
+\SPL yak.yu'=ka'
+SLGR CAUS
+\SLGL hacer tener hambre // to make hungry
+\EXU yu'=ka7-pa+'am
+\XPSH [Yukapa*m.]
+\XSP Ya tiene hambre.
+\XEN Now he's hungry.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 yu7
+\RTGR 1 S
+\ROOT 2 ka7
+\RTGR 2 12
+\DSRC TK94
+\CMTS caus
+\date 11/Feb/96
+ZOH004R0011001.txt
+\lex yu'p.i
+\_no 04339
+\LG MIG
+\PSH [yupi]
+\UND yu7p. E
+\MB picar, NOM7
+\VAR
+\GRAM pcp
+\SPG (estar) picado
+Page 1863

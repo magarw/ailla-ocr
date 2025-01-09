@@ -1,0 +1,52 @@
+\SPG tapanco
+\ENG corn_crib
+\lex xem
+\_no 02593
+\SPG tocar
+\ENG play music
+\lex xemana
+\_no 02594
+\SPG semana
+\ENG week
+\lex xenh
+\_no 02595
+\SPG tanto
+\ENG amount
+\lex xepe7
+\_no 02596
+\SPG luna; mes
+\ENG moon; month
+\lex xepu
+\_no 02597
+\SPG grasa; sebo
+\ENG
+\1ex xe7px
+\_no 02598
+\SPG hacer_mecate
+\ENG make_rope
+\lex xeta
+\_no 02599
+\SPG labio
+\ENG lips
+\lex xe7t
+\_no 02600
+\SPG frei*r
+\ENG fry
+\lex xewa7
+\_no 02601
+\SPG bofe
+\ENG lung
+\1ex xewa7
+\_no 02602
+\SPG ligero; liviano; que no pesa; bojo
+\ENG lightweight
+\lex xex
+\_no 02603
+\SPG mudar piel; sheshar mai*z
+\ENG
+\lex xeymana
+\_no 02604
+ZOH001R0611013.txt
+\SPG semana
+\ENG week
+Page 207

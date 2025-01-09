@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kap
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 27/Jan/96
+\lex ni.ket.e
+\_no 00209
+\LG MIG
+\PSH [nikete]
+\UND ni.ket.E
+\MB PURP, tapar, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG envuelto
+\ENG wrapped-up
+\SPL
+\SLGR
+\EXU ni.ket.e 7une7
+\XPSH [Nikete 7une7.]
+\XSP Esta* envuelto el nin~o.
+\XEN The baby is wrapped up.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT ket
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS CK for ni.ket vt HAJ:96 got it
+\date 19/Jun/96
+\lex ni.kom
+\_no 00210
+\LG MIG
+\PSH [nikom]
+\UND ni.kom.0
+\MB PURP, remendar, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG parche
+\ENG patch
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH001R0611004.txt
+\ROOT kom
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+Page 85

@@ -1,0 +1,62 @@
+\CMTS
+\date 08/Feb/96
+\DATE 03/Jan/1980
+\lex nem.a7
+\_no 02196
+\LG MIG
+\PSH [nema7]
+\UND nem.A7
+\MB flamear, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG 11ama
+\ENG spark
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nem
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\lex nem.e7
+\_no 02197
+\LG MIG
+\PHO [neme7]
+\UND nem.E7
+\MB cortar_con_tijeras, NOM7
+\VAR
+\GRAM pcp
+\SPG cortada
+\ENG cut
+\EXU nem.e7+k yo't.e7
+\XPSH [neme7k yote7]
+\XSP tela cortada
+\XEN cut cloth
+\SYN
+\ROOT nem
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex nem.kuy7
+\_no 02198
+\LG MIG
+\PHO [nemkuy7]
+\UND nem.kuy7
+\MB cortar_con_tijeras, INSTR1
+\VAR
+\GRAM instrl
+\SPG tijeras
+\ENG scissors
+\EX
+\XSP
+\XEN
+ZOH004R0011001.txt
+Page 947

@@ -1,0 +1,63 @@
+\PSH [tz@mtzonh-]
+\UND tz@m=tzonh
+\MB cargar, topar
+\VAR
+\GRAM vt+dir
+\SCI
+\USE
+\SPG resistir
+\ENG to resist
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tz@m
+\RTGR 1 P (T3)
+\ROOT 2 tzonh
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 20/Jun/95
+\lex tz@m='anh.kuk.'aH
+\_no 03499
+LG MIG
+\PSH [tz@mmanhkukka-]
+\UND tz@m=7anh.kuk.7aH
+\MB cargar, BOCA, centro, VERS1
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG acarrear
+\ENG to cart; to transport
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@m
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tz@n
+\_no 03500
+\LG MIG
+\PSH
+\UND tz@n
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG estar sentado
+\ENG to be seated
+\SPL yak.tz@n
+\SLGR CAUS
+ZOH004R0011001.txt
+Page 1505

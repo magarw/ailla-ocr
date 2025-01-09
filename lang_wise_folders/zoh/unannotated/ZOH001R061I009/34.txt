@@ -1,0 +1,63 @@
+\EX 7@n tzijj@ n manhkuy kuypi7t
+\XSP machuque* mi pie con palo
+\XEN I crushed my foot with a stick
+\ROOT tzij T3
+\SEMF hit, instr
+\PASS NONE tzij.7@m
+\ANTI tzij.7oy
+\CMTS puede ser palo, pero es mas con piedra
+\CMTS
+\lex tzik
+\_no 00140
+\SPG pelar; quitar o pelar cuero a un animal; chollar bajar el cuero
+\ENG to skin; to skin an animal; to shear
+\EX 7@y nakatzikk@
+\XSP lo quito* el cuero de un animal
+\XEN he skinned it
+\ROOT tzik T3
+\SEMF hunt, affect, cut
+\PASS tzik.7@m pelarse
+\PASS NONE tzik.7@m * seri*a: "se pela so*lo"
+\ANTI tzik. 7oy pelar
+\CMTS which PASS?
+\lex tzix
+\_no 00141
+\SPG picar - chaya
+\ENG to prick
+\EX yaktzixxoyy@
+\XSP le pico*
+\XEN it pricked
+\XEN
+\ROOT tzix T3
+ZOH001R0611009.txt
+\lex tzonh
+\_no 00142
+\SPG unir; topar
+=
+SEMF hit, bite
+\PASS NONE
+\ANTI tzix. 7oy
+\CMTS wouldn't confirm this root/gloss by itself, gave me the caus:antip
+\ENG to join
+\EX 7@y tzonhpa 7anhpaj
+\XSP topa el cerco
+\XEN he joined the fence
+\EX 7@y tzonhnh@ p@n
+\XSP topo* el hombre
+\XEN she met the man
+\ROOT tzonh T3
+mala mujer avispa
+\ROOT tzo7t T3
+\SEMF move, break
+\SEMF move
+\PASS tzonh.7@m toparse; empatarse (mecate)
+\ANTI tzonh.7oy topar alguien
+\CMTS
+\lex tzo7t
+\_no 00143
+\SPG arrancar (sin la rai*z)
+\ENG to pull up (without the root)
+\EX 7@y jaxtzo7tt@
+\XSP 1o arranco* sin la rai*z
+\XEN she pulled it up
+Page 34

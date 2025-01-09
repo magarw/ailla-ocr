@@ -1,0 +1,37 @@
+Johnson / A Grammar of San Miguel Chimapala Zoque
+5.6. Marking of dependent verbs in auxiliary verb constructions
+The second verb in an auxiliary + verb construction is referred to as the
+dependent verb. In these constructions, the auxiliary appears first, inflected for
+aspect but not preceded by the expected person agreement markers. These
+appear between the auxiliary and the dependent verb, which is then marked
+with -we, (dINC) for the incompletive, or with -E (dCOM) for the completive.
+The dependent incompletive suffix is also used with the imperative, volitive,
+and exhortative moods. Dependent verb constructions are discussed further in
+chapter 8.
+(5.18)
+(i)
+(ii)
+(iii)
+(iv)
+pitzengjo dey minnø mix 'ixtame
+piceŋho? de.y
+min-wə miš+ ?iš-tam-E
+por_eso DCT2.TMP venir-COM 2>1+ ver-1/2PL-dCOM
+'Por eso ahora te venimos a ver.'
+nøkkøy tziwi
+nək-wə ?əy+ cin-E
+ir-COM 3E+ bañar-dCOM
+'Se fue a bañar.'
+nøkpay nøtznukkø
+nək-pa ?əy+ nəc=nuk-wə
+ir-INC 3E+ armadillo=agarrar-dINC
+'Va a agarrar armadillo.'
+(ZOH001 R010-031)
+107
+(ZOH001 R010- 282)
+(ZOH001R003- 007)
+'i tigó ya nøki 'øn møme'tztammø
+?i ti+goo? ya nək-i ?ən+ mə?=me?c-tam-we
+y que+BNF NEG ir-IMPV 1E+ mujer=esposa-1/2PL-dINC
+'Y porqué no vamos a buscar mujeres?'
+(ZOH001 R012-014)

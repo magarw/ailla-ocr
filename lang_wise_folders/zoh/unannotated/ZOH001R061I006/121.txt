@@ -1,0 +1,64 @@
+ZOH001R0611006.txt
+\NOM jon=tzij.kuy7
+\SUB ko.tzij, tzij-jonh, tzij-yuk.poy, tzij=ka', tzij.tzij.ney
+\ETYM
+\ETL
+\ROOT tzij
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex tzik
+\_no 00179
+\LG MIG
+\PSH
+\UND tzik
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pelar; quitar o pelar cuero a un animal, chollar - bajar el cuero
+\ENG to skin an animal
+\SPL tzik.7oy
+\SLGR ANTIP
+\SLGL pelar // to skin
+\SPL tzik.7@m
+\SLGR PASS
+\SLGL pelarse // to be skinned
+\EXU 1 7@y+ naka-tzik-w@
+\XPSH 1 [7@y nakatzikk@.]
+\XSP 1 Quito* el cuero de un animal.
+XEN 1 She skinned it.
+marrano.
+VEXU 2 7@y+ tzik-w@ bi yoya
+\XPSH 2 [7@y tzikk@ bi yoya.]
+\XSP 2 Quito* el cuero del
+\XEN 2 He skinned the pig.
+\EXU 3 7@y+ tzik. ten-wa bi yoya.
+\XPSH 3 [7@y tziktenn@ bi yoya.
+\XSP 3 Pelo* el marrano a tiempo.
+\XEN 3 He skinned the pig ahead of time.
+\SYN
+\SEMF animal, hunt, clean
+\ASP activity
+\ARG
+\NOM tzik.i7, mok tzik.kuy' xipx.kuy7
+\SUB_jetz=tzik, jup-ko.tzik, jup-tzik, j@m=tzik.i7, ko.tzik,
+\SUB manh-tzik.tzik.w@y, tuj-tzik, wax=tzik.i7
+\ETYM
+\ETL
+\ROOT tzik
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\CMTS no pass tzik.7@m * seri*a: "se pela so*lo" (don't know about this
+\CMTS this time he thought tzik.7@m was fine
+\date 03/Jan/80
+\lex tzix [1]
+\_no 00180
+\LG MIG
+\PSH
+\UND tzix
+\MB
+Page 121

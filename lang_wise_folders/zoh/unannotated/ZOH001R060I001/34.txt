@@ -1,0 +1,79 @@
+ZOH001R0601001.txt
+kowiti*nh de g@ 7iti7aka
+kowitiinh de g@ 7iti7 -7aka
+\sg1 ARR-juirse-INC alrededor de DEM pueblo-orilla
+\egl UP -flee -INC around
+\tx yukpoypa
+\mb yuk-poy
+of DEM town -edge
+\fts van a correr alrededor del pueblo
+\fte they're going to run around the edge of the town
+\com
+\idx
+\ref 142
+\_no 00143
+\tx yukpoypa
+\mb yuk-poy
+-pa
+-kowitiinh
+\sg1 ARR-juirse-INC sagrado-casa -alrededor
+\eg1 UP -flee -INC sacred -house-around
+\ref 143
+\_no 00144
+\tx yukpoypa
+\mb yuk-poy
+maxant@kkowiti*nh
+maxan -t@k
+-ра
+\fts van a correr alrededor de la iglesia
+\fte they're going to run around the church
+\com
+\idx
+parke
+parke kuk
+-pa parke
+\sg1 ARR-juirse-INC parque
+\eg1 UP -flee -INC park
+kukjo7
+maxan
+-jo7
+centro-Loc2
+center-LOC2
+\fts van a correr entre / en medio del parke
+\fte they're going to run through the park
+\com
+\idx
+\ref 144
+\_no 00145
+\tx yukpoypa
+\mb
+kotz@kjo7
+yuk-poy
+-pa kotz@k-jo7
+\sg1 ARR-juirse-INC cerro -Loc2
+\eg1 UP -flee -INC hill -LOC2
+fts van a correr en el cerro
+\fte they're going to run in the hills
+\com
+\idx
+\ref 145
+\_no 00146
+\tx ya
+\mb ya -7
+chik
+chik jay7uned@kka
+jaya -7une7
+\sg1 DCT1-NOM1 chico macho-nin~o/a-NPL
+\eg1 DCT1-NOM1 little male -child -NPL
+\tx maxant@kjonhjo7
+\mb
+-t@k -jonh -jo7
+\sgl sagrado-casa -adentro-Loc2
+\egl sacred -house-inside -LOC2
+-d@kkay
+witt@
+yukpoypay
+yuk-poy -pa -7@y wit -w@
+ARR-juirse-INC-3E andar-dINC
+UP - flee -INC-3E walk -dINC
+Page 34

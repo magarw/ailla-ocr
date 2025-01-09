@@ -1,0 +1,82 @@
+\com
+\idx
+\ref ZOH001R036 177
+\_no 00178
+tzujiam
+70 y@
+tzuji7-7am 70 y@ -7
+\tx 7u
+\mb 7u
+\sg1 NEGimpv noche -YA
+egl NEGimpv night -NOW or
+\tx dispontz@kpa
+\mb disponer-tz@k -pa
+\sg1 disponer-hacer-INC
+\egl use -do
+7ora* segu*n
+7ora bi
+7ora segu*n
+7ora bi
+O DCT1-NOM1 ahora segu*n
+que
+ahora DEF
+DCT1-NOM1 now according to what now DEF
+- INC
+ZOH001R0361001.txt
+\zoq 7u tzujiam 70 y@ 7ora* segu*n ti 7ora bi dispontz@kpa.
+\fts o en la noche o de esta hora aver que horas lo dispone.
+fte eiter at night or at the hour whenever they want.
+\com
+\idx
+\not (esta hora: de di*a, cuando platicabamos);
+\ref ZOH001R036 178
+\_no 00179
+\tx si tzuji tambye*n d@ n@ktampa
+\mb si tzuji7
+\sg1 si noche
+\egl if night
+\ref ZOH001R036 179
+\_no 00180
+tambyen da nak -tam -ра
+tambien 1A irse-1/2PL-INC
+also
+1A go
+-1/2PL-INC
+\zoq Si tzuji, tambye*n d@ n@ktampa,
+fts si de noche, tambien vamos,
+\fte If at night, I'll go also,
+\com
+\idx
+\ref ZOH001R036 180
+\_no 00181
+kobratz@kpa
+doble
+\tx pe tzuji si n
+\mb
+pero tzuji7 si 7@n cobrar-tz@k -pa doble
+\sg1 pero noche si 1E cobrar-hacer-INC doble
+\egl but night if 1E charge-do -INC double
+\zoq pe tzuji sin kobratz@kpa doble,
+\fts pero de noche cobro doble,
+\fte but at night I charge double,
+\com
+\idx
+\tx 70 sea ke m@jm@ n
+ke
+kobratz@kpa
+\mb 70 sea
+m@jma 7@n cobrar-tz@k -pa
+\sg1 o
+que
+bastante 1E cobrar-hacer-INC
+\egl or may be that a_lot 1E charge-do - INC
+sea
+\zoq 70 sea ke m@jm@n kobratz@kpa.
+\fts o sea bastante le cobra.
+\fte or it may be that I charge a lot.
+\com
+\idx
+\ref ZOH001R036 181
+ti
+ti
+Page 39

@@ -1,0 +1,65 @@
+\GRAM
+\SCI
+\USE
+\SPG comadreja
+\ENG a type of animal
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 10/Nov/94
+\LG MIG
+\PSH
+\lex kuy tzi7k.tzi7k
+\_no 01599
+— — —
+\UND kuy tzi7k.tzi7k
+\MB palo, X, X
+\VAR
+\GRAM s (m) SR
+\SCI
+\USE
+\SPG astilla del a*rbol
+\ENG splinter
+\EXU
+\XSP
+\XEN
+\SYN
+LF:7anmal
+SEMF
+\ETYM
+\ETL
+\ROOT tzi7k
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/96
+\lex kuy wa7tz
+\_no 01600
+\LG MIG
+\PSH
+\UND kuy wa7tz
+\MB palo, rai*z
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG rai*z del a*rbol
+\ENG tree root
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+ZOH004R0011001.txt
+Page 693

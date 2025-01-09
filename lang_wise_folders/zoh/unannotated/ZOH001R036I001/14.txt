@@ -1,0 +1,85 @@
+\idx
+\ref ZOH001R036 060
+\_no 00061
+\tx 7i n@kpa*m
+\mb 7i n@k -pa -7am
+\sg] y
+irse-INC-YA
+\egl and go -INC-NOW
+\tx 7anhmoa7
+\mb 7anh -monh -A7
+\sg1 BOCA -dormir-NOM2
+tzuji7t
+tzuji7t
+saliba
+\eg1 MOUTH-sleep -NOM2 saliva
+\ref ZOH001R036 061
+\_no 00062
+\zoq 7i n@kpa*m jonhjo 7@y tzakk@mm@ bi tzokoy g@xi g@ 7anhmoa7 tzuji7t,
+\fts y ya se va quedar alla* adentro en el corazo*n saliba del otro di*a,
+\fte and now it gets left inside on the heart that saliva from overnight,
+\com
+\idx
+\not (swallow instead of spitting, saliva that collects over night);
+jonhjo
+jonh -jo7
+adentro-LoC2 3E
+inside -LOC2 3E
+\ref ZOH001R036 062
+\_no 00063
+\tx 7an j@xp@kpa
+\mb
+7an jax -pak
+\sg1 1E
+\egl 1E BACK -get
+\tx para 7uy
+\mb para 7u
+-jay -tam -wa
+descolorar-APPL-1/2PL-nIMPV
+\sg1 para NEGimpv-3E 1E
+\egl for NEGimpv-3E 1E lose_color-APPL-1/2PL-nIMPV ulcer
+-7@y 7@n poj
+\zoq 7@n j@xp@kpa.
+\fts Lo saco.
+\zoq para 7uy 7@n pojjadamm@ 7u*lsera.
+\fts para que no nos nasca u*lcera.
+\fte so that we don't get ulcers forming.
+\com
+\idx
+7@n pojjadamm@
+\com
+\idx
+ZOH001R0361001.txt
+ATRAS-agarrar-INC
+bi
+7@y tzakk@mm@
+tzokoy g@xi_g@
+7@y tzak -7@m -w@ bi tzokoy7 g@xi g@
+dejar-PAS -dINC DEF corazo*n LOC4 DEM
+leave-PASS-dINC DEF heart LOC4 DEM
+-pa
+\fte I take it out.
+\com
+\idx
+\ref ZOH001R036 063
+\_no_00064
+\tx 7@n limpyatz@kpa
+jonhjo
+\mb 7@n limpiar-tz@k -pa jonh
+\ref ZOH001R036 064
+\_no 00065
+\tx 7ay beses ded@
+-INC
+\zoq 7an limpyatz@kpa jonhjo.
+\fts Limpio adentro.
+\fte I clean inside.
+-jo7
+\sgl 1E limpiar-hacer-INC adentro-Loc2
+\egl 1E clean - do
+-INC inside -LOC2
+7u*lsera n@mjapa
+Page 14
+7u*1sera
+7u*lsera
+ulcera
+witpa

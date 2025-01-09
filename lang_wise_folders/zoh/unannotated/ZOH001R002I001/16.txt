@@ -1,0 +1,92 @@
+\ref ZOH001R002 068
+\_no 00069
+komaxan
+bi
+bi ko -maxan
+\tx porke Pa7okj@7 ga
+\mb porke Pa7okj@7 ka -7
+\sg1 porque Niltepec DCT3-NOM1 DEF SOC-sagrado NPL
+\egl because Niltepec DCT3-NOM1 DEF SOC-sacred NPL
+\tx Santiagu.
+\mb santiagu.
+\sgl Santiago.
+\egl Santiago.
+\ref ZOH001R002 069
+\_no 00070
+ZOH001R0021001.txt
+\zoq Porke Pa7okj@7 ga bi komaxand@kka bi Santu bi Santiagu.
+\fts Porque en Niltepec tienen sus santos que es el Santo Santiago.
+\fte Because in Niltepec those saints are Saint Santiago.
+\not
+\idx
+\tx ga7
+bi
+n@kpa
+7@y bisitz@kxukk@.
+bi n@k -pa
+\mb ka -7
+7@y visitar-tz@k -xuk-w@
+\sg1 DCT3-NOM1 DEF irse-INC 3E visitar-hacer-3PL-COM
+\eg1 DCT3-NOM1 DEF go -INC 3E visit -do -3PL-COM
+\zoq Ga7 bi n@kpa 7@y bisitz@kxukk@.
+fts A e*1 van a visitar.
+\fte He's the one they're going to go and visit.
+\not
+\idx unmrk_rel, aux_p1
+\ref ZOH001R002 070
+\_no 00071
+\tx 7@y p@kminxukpa
+\mb 7@y p@k
+\sg1 3E
+\eg1 3E
+get
+agarrar-venir-3PL-INC mamey
+- come -3PL-INC fruit
+kawak, patanux, 7api7, m@n,
+-min -xuk-pa kawak patanux 7api7 m@n
+d@kka bi
+d@kkay bi
+\ref ZOH001R002 071
+\_no 00072
+\tx para 7@y k@xxukpa
+ga
+\mb para 7@y k@x -xuk-pa
+-xuk-pa ka -7
+\sg1 para 3E comer-3PL-INC DCT3-NOM1 gente
+NPL
+\egl for 3E eat -3PL-INC DCT3-NOM1 people NPL
+\zoq para 7@y k@xxukpa ga jented@kka.
+\fts para que coma esa gente.
+\fte so that those people could eat.
+\not
+\idx
+Santu bi
+Santu bi
+DEF Santo DEF
+DEF Saint DEF
+pla*tano chayote camote
+banana chayote yam
+\zoq 7@y p@kminxukpą kawak, patanux,
+7api7, m@n, malanhka,
+\fts Traen mamey, platano, chayote, camote, y malanca,
+\fte They bring mamey, bananas, chayote, yams, and malanca,
+\not
+\idx
+jente d@kka.
+d@kkay
+jente
+\ref ZOH001R002 072
+\_no 00073
+\tx 7@y koke
+7anhyojpa,
+wetze,
+\mb 7@y koke
+7anh -yoj -pa wetze
+\sg1 3E pescado BOCA -pagar-INC camaro*n sal
+Page 16
+kana,
+kana
+malanhka,
+malanhka
+malanca
+***

@@ -1,0 +1,63 @@
+\DSRC HAJ95
+\CMTS CK-GR HAJ:96, this is vi
+\date 19/Jun/96
+\lex nik. 'ex. '@y
+\_no 02333
+\LG MIG
+\PSH [nikkexx@y-]
+\UND nik. 7ex.7@y
+\MB SUP, encajar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG encajar algo en el enfrente de la ropa de alguien, como una flor
+\ENG to pin something on the front of someone's garment, like a flower
+\SPL
+\SLGR
+\EXU 7@y+ nik. 'ex. '@y-wa jaya' 7@y+ yak.wij +g@xi
+\XPSH [7@y nikkexx@yya jayay yakwij gaxi.]
+\XSP Le puso la flor en la camisa encajado.
+\XEN He pinned a flower on the front of her shirt.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7ex
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 19/Jun/96
+ZOH004R0011001.txt
+\lex nik. 'ix. '@y
+\_no 02334
+\LG MIG
+\PSH [nik7ixx@y-]
+\UND nik.7ix.7@y
+\MB SUP, ver, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG fijarse
+\ENG to keep an eye on
+\SPL
+\SLGR
+\EXU 1 nik. 'ix. '@y-A7
+\XPSH 1 [Nikkix@7!]
+\XSP 1 !Fijate!
+\XEN 1 Pay attention!
+VEXU 2 nik. 'ix-@7 de.' nu7 pok jak kitzitz.ney-pa
+\XPSH 2 [Nikkix@7 de nu7, pok jak kitzitzneba.]
+\XSP 2 cuidado ese perro, porque te va a pelar los dientes.
+\XEN 2 Beware of that dog, because it's going to bare its teeth at you.
+\EXU 3 nik. 'ix-@7 7@m+ toto7 junanh+jaa7_7@m+ jay-pa
+\XPSH 3 [Nikkix@m toto7, junanhja*7 7@m jaypa.
+\XSP 3 Fijate de tu papel, que modo vas a escribir.
+\XEN 3 watch you're paper, how you're going to write.
+\EXU 4 mix nik.'ix.jay-@' 7an+ tak da n@k-pa 7an juy. 'oy-w@
+\XPSH 4 [Mix nikkixjan t@k, da n@kpan juyyoyy@.]
+\XSP 4 Fijate de mi casa, voy a comprar algo.
+\XEN 4 watch my house, I'm going shopping.
+\EXU 5 7@n+ nik. 'ix. '@y-wa
+Page 1005

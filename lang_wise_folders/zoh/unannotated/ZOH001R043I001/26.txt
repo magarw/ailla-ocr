@@ -1,0 +1,76 @@
+\com
+\idx
+\ref ZOH001R043 110
+\_no 00111
+ke
+\tx 7i tum@7k partidu n@mpa
+\mb 7i tum@-v7k partidu n@m -ра ke
+\sg] y
+uno -REL partido decir-INC que
+\egl and one -REL party say -INC that
+\tx 7anhnhunnoxukpa
+\mb
+7anh -7un
+-7oy -xuk-pa
+\sg1 BOCA -engan~ar-ANTIP-3PL-INC
+\eg1 MOUTH-deceive -ANTIP-3PL-INC
+\ref ZOH001R043 111
+\_no 00112
+\tx ney mekpa
+mek
+\mb ney
+\sgl mismo
+\egl self lie
+\zoq 7i tum@7k partidu n@mpa ke de7 puro 7anhnhunnoxukpa.
+\fts Y el otro partido dice que ellos puro esta*n engan~ando.
+\fte And the other party says that he just purely deceived.
+\com
+\idx
+-pa
+mentir-INC
+- INC
+\zoq Ney mekpa.
+\fts Esta* mintiendo.
+\fte He's lying.
+\com
+\idx
+\ref ZOH001R043 112
+\_no 00113
+\com
+\idx
+\zoq Peru ya naxe 7anhnhunno.
+\fts Pero no es cierto que engan~a.
+\fte But it's not true that he deceived.
+ZOH001R0431001.txt
+\tx
+peru ya naxe
+7anhnhunno
+7anh -7un
+-7oy -A
+\mb peru ya naxe
+\sg1 pero NEG verdad BOCA -engan~ar-ANTIP-nINC
+\egl but NEG truth MOUTH-deceive -ANTIP-NINC
+\ref ZOH001R043 113
+\_no 00114
+-A
+\tx ya naxe meka
+\mb ya naxe mek
+\sg1 NEG verdad mentir-nINC
+\eg1 NEG truth lie
+-nINC
+\zoq Ya naxe meka.
+\fts No es cierto que miente.
+\fte It's not true he's lying.
+\com
+\idx
+de7
+te
+\ref ZOH001R043 114
+\_no 00115
+\tx porke yampa n 7ixtamm@
+pur
+puro
+-7
+DCT2-NOM1 puro
+DCT2-NOM1 only
+Page 26

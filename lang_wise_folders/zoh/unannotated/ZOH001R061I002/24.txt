@@ -1,0 +1,61 @@
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex j@7kx [1]
+\_no 00095
+\SPG apurarse
+\ENG to hurry
+\SEMF move_self
+\ASP activity
+\ARG manner
+\NOM
+\RTGR 11
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex jam
+\_no 00096
+\SPG tallar
+\ENG to scrape or rub clean
+\SEMF clean, scrape
+\ASP activity
+\ARG
+\NOM
+\RTGR T1
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex jat
+\_no 00097
+\SPG rebajar
+\ENG to lose weight
+\SEMF body
+\ASP achievement
+\ARG
+\NOM * kuy7, * naanh
+\RTGR 12
+\POS N
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex jat@
+\_no 00098
+ZOH001R0611002.txt
+\SPG resbalarse; rodarse resbalando
+\ENG to slip; to slip and roll
+\SEMF move
+ASP achievement, activity
+\ARG
+\NOM
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+Page 24

@@ -1,0 +1,28 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+=
++
+inflectional affix
+derivational affix
+compound root
+clitic (on the side of the element to which it belongs syntactically)
+If an example was elicited, the word 'elicited' appears in parentheses to
+the right of the translation. If the example comes from a text, the number of
+the source text and the line number are given in parentheses at the right of the
+translation line. Texts are labelled with the Archive of the Idigenous Languages
+of Latin America (AILLA) resource identifier (ZOH001R006) and the line number
+(-001). If not otherwise specified, the example comes from the lexicon
+(ZOH004R001). The texts and lexicon are publically accessible through AILLA.
+1.5. Organization of the book
+An overview of MIG Zoque grammar and a sketch of the theoretical
+perspective adopted in this work are presented in chapter 2. A sketch of the
+phonology is given in chapter 3. The word classes of MIG Zoque, including the
+sub-classification of verbs, are defined and discussed in chapter 4. This
+section includes the complete descriptions of pronouns and deictics.
+Discussion of morphology is divided into two chapters: verbal inflectional
+morphology is presented in chapter 5, and all derivational morphology in
+chapter 7. (Only verbs have any inflectional morphology.) Chapter 6 contains a
+description of the basic clause, which means single, declarative clauses. This
+chapter includes discussion of verbal arguments, agreement, word order,
+predicate and existential clauses. The valency-changing suffixes and their
+effects on argument structure are also discussed here. Dependent verb
+8

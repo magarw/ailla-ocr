@@ -1,0 +1,82 @@
+-WGUDA PASITAFSILITA
+P #
+MP
+R
+PS
+SS
+□ A
+E
+A
+# bwénoh
+SS
+bwénoh
+1
+S
+1
+NP
+Intro
+well
+Well,
+S
+NP
+NP
+1
+Obj
+12
+#³1↓
+431
+NP
+NP
+199
+Analysis
+por ?éxémploh #32
+por éxémploh
+P
+NP
+Intro
+for example
+for example,
+NP
+P xún wétčóNap' t'ay plásah #³1 → ?išin lólon yét' win #2
+MP xún w-ét-čóN-ap' t'ay plásah
+?iš-hin-lo-0
+#23
+?iš-hin-ló?-C₁-on y-ét' WIN
+1
+R
+n
+tv
+P
+iv
+sp
+PS
+S
+S
+Post-Adv.
+→ ?iš wíl xún wíN
+Piš-w-?il xún win
+|
+.
+tv n
+sp
+VP
+Main
+I saw a man,
+past-I-see one male
+Main
+tv
+NP
+VP
+S
+Obj
+(Obj)
+(Post-Adv)
+(ANDRIA
+VP
+S=NP
+Post-Adv.
+(S)
+G one my-with-town in plaza past-I-chat he-with male
+E a fellow townsman, in the market. I chatted with him.
+NP
+MAURITAN

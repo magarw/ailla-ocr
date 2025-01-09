@@ -1,0 +1,86 @@
+ZOH001R0111001.txt
+\zoq 7entonse n@mpa tenyente, "Ke bwen soldadu pin@k mix,
+\fts Entonces dice el teniente, "Que buen soldado fueras tu,
+\fte Then the lieutenant says, "what a good soldier you would be,
+\com
+\idx sp
+\ref ZOH001R011 073
+\_no 00074
+\tx ke
+\mb ke
+si n
+n@kmotpa
+d@xja* jananh
+si 7@n n@k -mot -pa d@x -ja*7 j@nanh
+irse-CON -INC 1Prn-LOC1 ACC
+go -WITH-INC 1Prn-LOC1 ACC
+\sgl que si 1E
+\egl that if lE
+\zoq ke sin_n@kmotpa d@xja*j@nanh."
+\fts si te fueras con nosotros.
+\fte if you go along with us.
+\com
+\idx sp
+\ref ZOH001R011 074
+\_no 00075
+te
+mix 7anhnitpa d@x
+\tx
+no si d@x, d@x pa
+d@ tanpa
+\mb no si d@x d@x para d@ tan -pa de-ji7 mix 7anhnit-pa d@x
+\sg1 no si 1Prn 1Prn para 1A pegar-INC de-LOC1 2>1 tener -INC 1Prn
+\egl no if 1prn 1Prn for 1A hit -INC of-LOC1 2>1 have
+-INC 1Prn
+\ref ZOH001R011 075
+\_no 00076
+\zoq "No si dax, dax pa d@ tanpa, te mix 7anhnitpa d@x.
+fts "No si yo, yo para pegar aqui me tienes a mi.
+\fte "No if I, for me to shoot something, you have me here.
+\com (if you want me to shoot something for you, you can find me here."
+\idx sp
+\tx neyti tujkuy
+\mb neyti7 tuj -kuy7
+\sg1 IPSN
+\eg] IPSN
+tirar-INSTR1 ACC
+shoot-INSTR1 ACC
+\tx d@ tzajnakxkuy
+\mb d@
+tzaj
+d@ tzaj -nakx
+"I
+"I
+\ref ZOH001R011 076
+\_no 00077
+j@nanh, neyti mas seguri y@j@nanh
+jananh neyti7 mas
+\zoq "Bweno, da n@ktam@."
+"I
+\fts "Bueno, vamonos.
+\fte "OK, let's go.
+\com
+-kuy7
+\sg1 1A pegar-pegar_con_palo-INSTR1 ACC
+\egl 1A glue -hit_with_stick-INSTR1 ACC
+"I
+d@x jon
+seguri ya -j@nanh dax jon
+IPSN mas seguro DCT1-ACC
+1prn pa*jaro
+IPSN more sure DCT1-ACC 1Prn bird
+\zoq Neyti tujkuyj@nanh, neyti mas seguri y@j@nanh d@x, jon- d@
+tzajnakxkuyj@nanh.
+\fts Yo con arma o con cualquiera soy igual, yo mas seguro con esto, yo con
+mi honda."
+\tx bweno, d@ n@ktam@
+\mb bweno
+bweno da n@k -tam -A7
+\sg1 bueno 1A irse-1/2PL-IMPV
+\egl good 1A go -1/2PL-IMPV
+\fte with whatever weapon, with this I'm more sure, I with my sling."
+\com
+\idx sp
+jananh
+jananh
+Page 17

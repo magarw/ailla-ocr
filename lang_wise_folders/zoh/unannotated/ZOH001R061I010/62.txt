@@ -1,0 +1,61 @@
+\ROOT ton T3
+\SEMF clean
+\PASS ton.7@m soplarse
+\ANTI ton. 7oy soplar
+\PRSV ton-ten-e tener soplado
+\CMTS
+\lex tonon
+\_no 00271
+\SPG alborotarse - polvo, ahuate, avispa
+\ENG
+\EX
+\XSP
+\XEN
+\ROOT tonon Ix
+\SEMF
+\CAUS yak.tonon alborotar
+\CMTS get deriv's
+\lex tonh
+\_no 00272
+\SPG "empollar"; ampollarse
+\ENG to blister
+\EX
+\XSP
+\XEN
+\ROOT tonh 12
+\SEMF sickness, body
+\CAUS yak.tonh empollar
+\CMTS indir: caus yak.tonh.jay
+\lex top
+\_no 00273
+\SPG hacer calor; tener calor
+\ENG to be hot; to feel hot
+\EX ban toppa
+\XSP hacer mucho calor
+\XEN to be very hot
+\EX topann@mm@
+\XSP hace calor
+\XEN it was very hot
+\ROOT top 12
+\SEMF temp
+\CAUS yak.top hacer sentir calor (sol)
+\CMTS
+\lex topx
+\_no 00274
+ZOH001R0611010.txt
+//top.an@m-w@//
+\SPG mujer tirar pedos aguado
+\ENG for a woman to cut a watery fart
+\EX
+\XSP
+\XEN
+\lex totz
+\_no 00275
+\SPG pun~alear
+\ENG to stab
+\ROOT topx Ix
+\SEMF body
+\CMTS cf tepx, cf xopx; get deriv's
+\EX neywin 7@y totztz@
+\XSP se pun~aleo* e*l mismo
+Page 62

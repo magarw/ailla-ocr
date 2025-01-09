@@ -1,0 +1,64 @@
+\SCI
+\USE
+\SPG pa*jaro
+\ENG bird
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Aug/94
+\lex jon tzi7k.tzi7k
+\_no 00868
+\LG MIG
+\PSH [jon tzi7ktzi7k]
+\UND jon tzi7ktzi 7k
+\MB
+\VAR tzi7ktzi7k jon
+\GRAM
+\SCI
+\USE
+\SPG golondrina; pajaritos biushitos
+\EXU swallow; tiny birds
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\lex jo.nenh7
+\_no 00869
+\LG MIG
+\ROOT
+\DSRC TK94
+\CMTS CK-all - ok, HAJ:96
+\CMTS es el pajarito que anda por pun~o cuando paso* el agua
+\date 18/Jun/96
+LF: jon
+\PSH [jonenh7]
+\UND jo. nenh7
+\MB EN, X
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG nido
+\ENG nest
+\EXU jon 7@y+ jo.nenh7
+\XPSH [jon 7@y jonenh7]
+\XSP nido de pa*jaro
+\XEN bird's nest
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT
+\DSRC HAJ94
+\CMTS
+Page 378

@@ -1,0 +1,53 @@
+(6.17)
+(i)
+(ii)
+(iii)
+(6.18)
+(i)
+(ii)
+ga biy yakpaja'kwøjpa gø way'
+ga.?
+bi ?ǝy+yak.paha?k=wəh-pa
+DCT3.NOM1 DEF 3E+ CAUS.dulce=smell-INC
+'Ese le da olor dulce el cabello.'
+(iii)
+bi kae 'øy yakwø:tzøkpa
+bi kae ?əy+ yak.wəhə-cək-pa
+DEF calle 3E+ CAUS.bueno-hacer-INC
+'Mandan arreglar las calles."
+The causative in MIG Zoque is for the most part quite straightforward.
+One common usage involves the pairing of the causative with the antipassive.
+It is easy to understand the function of this pairing in the case of an intransitive
+verb that has been made transitive by adding the causative; if one then wishes
+to suppress the object, the antipassive must be used.
+bi juxtixa 'øy yaktamnøpøkkø bi pøn
+bi huštiša ?əy+yak.tam nə?-pøk-wa
+bi pən
+DEF autoridad 3E+ CAUS.agrio=agua=agarrar-COM DEF hombre
+'El presidente mandó al hombre que traiga cerveza.'
+?əm+yak.?aŋ.wak.?oy-wa
+gǝ way?
+DEM hair
+naxe yakwintentukkoyyø
+naše
+(ZOH001R003- 034)
+(ZOH001R028-168)
+minpám yangwakkoy yøjama
+min-pa
+yə=hama
+venir-INC 2E+ CAUS.BOCA.*vaciar.ANTIP-COM DCT1=día
+'Ya viene Ud. a abrir hoy."
+(ZOH001R028- 266)
+nømpa yaknømmoyyo tungjo'
+0 nəm-pa 0 yak.nəm.?oy-wǝ
+3A decir-INC 3A CAUS.decir.ANTIP-COM
+'Dice que le dijo en el camino.'
+128
+0 yak.win.ten-tuk.?oy-we
+verdad 3A CAUS.FACE.pararse=terminarse.ANTIP-COM
+'De verdad, se paró por delante."
+(elicitado)
+(ZOH001 R018- 049)
+tun+ho?
+camino+LOC2
+(ZOH001R018- 025)

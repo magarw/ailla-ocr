@@ -1,0 +1,61 @@
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex jitzi
+\_no 00070
+\SPG arrastrarse
+\ENG to drag oneself
+\SEMF move_self
+\ASP activity
+\ARG manner
+\NOM nik.jitzi. 'oy.kuy7,
+\RTGR IX
+\POS jitzi7@mm@ 'salio* arrastrando'
+\POS j@mtzikk@ 'se pelo* arrastrando'
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex ji7tz [2]
+\_no 00071
+\SPG arrugarse
+\ENG to wrinkle
+\SEMF body, condition
+\ASP accomplishment
+\ARG patient
+\NOM ji'tz.i7
+\RTGR 12
+\POS N
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex ji7tz [1]
+\_no 00072
+\SPG recoger (tela) con un hilo suelto
+\ENG to gather (fabric) with a pulled thread
+\SEMF sew, arrange
+\ASP activity, accomplishment
+\ARG
+\NOM ji'tz.i7
+\NOM ji7tz.naanh
+\NOM * kuy7
+ZOH001R0611002.txt
+\RTGR P, (T3)
+\POS 7@n mama d@ t@pji7tzjayy@n_y@kwij
+\POS mi mama me costuro* mi camisa con un pliegue
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex jix
+\_no 00073
+\SPG remojar la tortilla en la comida
+\ENG to scoop a tortilla in food
+\SEMF eat, move
+\ASP activity
+\ARG instrument
+\NOM
+\RTGR T3
+Page 18

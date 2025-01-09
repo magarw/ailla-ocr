@@ -1,0 +1,61 @@
+\UNDO
+\CLZ
+\CMTS
+\lex nek
+\_no 00188
+\SPG estivar, len~a, piedras, etc.
+\ENG tostack, wood, rocks etc.
+\SEMF build
+\ASP activity, accomplishment
+\ARG patient
+\NOM nek.e
+\RTGR P, (T3)
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex ne7k
+\_no 00189
+\SPG tapar una corriente la echa para un lado
+\ENG to divert a stream of water
+\SEMF water, arrange
+\ASP accomplishment
+\ARG patient
+\NOM ne7k. 'oy.kuy7, ne7k.naanh
+\RTGR P, (T3)
+\POS da ne7kjayy@n n@7
+\MID
+\UNDO 7@n ne7kpuw@
+\CLZ
+\CMTS
+\lex ne7kx
+\_no 00190
+\SPG ser pegajoso; pegarse con el sudor de uno
+\ENG to be sticky; to be sticky with sweat
+\SEMF body, nature
+\ASP state
+\ARG
+\NOM ne7kx-pa+a7k, ne7kx.kuy7
+\RTGR IX
+\POS N
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex nem [1]
+\_no 00191
+\SPG flamear; echar llamas
+\ENG to flame; to emit sparks
+\SEMF light
+ZOH001R0611002.txt
+\ASP activity
+\ARG
+\NOM nem.a7
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+Page 47

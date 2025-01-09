@@ -1,0 +1,63 @@
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS CK-PH - HAJ:96, ok
+\date 19/Jun/96
+\lex papx
+\_no 02543
+\LG MIG
+\PSH
+\UND papx
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG romperse o estrellarse vidrio, por la lumbre
+\ENG for glass to break or crack, from the fire
+\SPL yak.papx
+\SLGR CAUS
+\SLGL romper vidrio
+\EXU 1 papx-w@ jukut+j@nanh
+\XPSH 1 [Papx@ jukutj@nanh.]
+\XSP 1 se rompio* con la lumbre.
+\XEN 1 The fire broke it.
+\EXU 2 7@y+ yak.papx-w@
+\XPSH 2 [7@y yakpapx@.]
+\XSP 2 Lo dejo* que se rompiera.
+\XEN 2 She let it get broken.
+\EXU 3 papx-w@ bi ta7kx.@' p@n.kuy7
+\XPSH 3 [Papx@ bi ta7kx@ p@nkuy7.]
+\XSP 3 Se estrello* el vaso de la veladora.
+\XEN 3 The candle glass broke.
+\SYN
+\SEMF break
+\ASP achievement
+\ARG
+\NOM
+\SUB papx=no7tz
+\ETYM
+\ETL
+\ROOT papx
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex parte
+\_no 02544
+\LG MIG
+\PSH
+\UND parte
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG parte
+\ENG part
+\EXU
+\XSP
+\XEN
+\SYN
+Page 1095

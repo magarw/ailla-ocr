@@ -1,0 +1,63 @@
+\SPG amansar
+\ENG to tame
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH - HAJ:96 ok
+\date 20/Jun/96
+\lex yak.nen(a')=tzak
+\_no 04092
+\LG MIG
+\PSH [yaknenatzak-]
+\UND yak.nena=tzak 7@y win
+\MB CAUS, malo, dejar, Ẹrg, REFL
+\VAR yak.neen=tzak 7@y+win
+\GRAM caus2+refl
+\SCI
+\USE
+\SPG hacer desnudarse
+\ENG to cause to undress
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzak
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yak.ni.jek. 'oy
+\_no 04093
+\LG MIG
+\PSH [yakni jekkoy-]
+\UND yak.ni.jek.7oy
+\MB CAUS, SOC, derrumbarse, ANTIP
+\VAR
+\GRAM caus: antip
+\SCI
+ZOH004R0011001.txt
+\USE
+\SPG desprenderse algo encima de alguien
+\ENG to dust or pick something off someone
+\SPL
+\SLGR
+\EXU yak.ni.jek. 'oy-w@ 7anh.ketz
+\XPSH [Yaknijekkoyy@ 7anhketz.]
+\XSP Se desprendio el padero*n encima de e*l.
+\XEN He dusted the dust off her.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jek
+\RTGR 12
+Page 1759

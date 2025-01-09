@@ -1,0 +1,62 @@
+\lex y@k.i' p@n
+\_no 00493
+\LG MIG
+\PSH [y@ki p@n]
+\UND y@k. E7 p@n
+\MB tizne, NOM7, hombre
+\VAR y@k.i ??
+\GRAM sms
+\SCI
+\USE
+\SPG ladino
+\ENG non-Indian Mexican man
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH - HAJ:96
+\date 20/Jun/96
+\lex y@k.jap
+\_no 00494
+\LG MIG
+\PSH [y@kjap]
+\UND yak.jap.0
+\MB INSTR2, X, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG sombrero
+\ENG hat
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT * jap
+\RTGR P
+\DSRC HAJ94
+\CMTS
+\date 15/Nov/94
+\lex y@k.jepx
+\_no 00495
+\LG MIG
+\PSH [y@kjepx]
+\UND yak.jepx.0
+ZOH001R0611004.txt
+\MB INSTR2, agarrar_con_ji*cara, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG 1 pala
+\SPG 2 algo para agarrar agua, como ji*cara
+\ENG 1 shovel
+Page 195

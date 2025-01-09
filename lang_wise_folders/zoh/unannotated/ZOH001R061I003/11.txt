@@ -1,0 +1,63 @@
+\lex ko7tz.naanh
+\_no 00029
+\LG MIG
+\PHO [ko7tzna*nh]
+\UND ko7tz.naanh
+\MB tentar_c_mano, MED
+\VAR
+GRAM meas
+\SPG el tanto que se puede agarrar entre las manos (barro, masa,
+\ENG the amount you can pick up with both hands (clay, dough, ...)
+\EXU tum ko7tz.naanh wa.e
+\XPSH [tum ko7tznanh wae]
+\XSP una bola de masa
+\XEN a ball of corn dough
+\SYN
+\ROOT ko7tz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex kuj.naanh
+\_no 00030
+\LG MIG
+\PHO [kujna*nh]
+\UND kuj.naanh
+\MB empujar, MED
+\VAR
+\GRAM meas
+\SPG un empujo*n
+\ENG a push
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT kuj
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex kum.kuy' 7utz.kuy7
+\_no 00031
+\LG MIG
+\PSH [kumkuy 7utzkuy7]
+\UND kum.kuy7 7utz.kuy7
+\MB enterrar, INSTR1, medir, INSTR1
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG arco iris
+\ENG rainbow
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH001R0611003.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 kum
+\RTGR 1 T2
+\ROOT 2 7utz
+Page 11

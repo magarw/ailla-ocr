@@ -1,0 +1,63 @@
+\CLZ
+\CMTS
+\lex muy [2]
+\_no 00176
+\SPG tener algo en la boca
+\ENG to have something in the mouth
+\SEMF body, water
+\ASP state
+\ARG location
+\NOM mu.i, muy.naanh
+\RTGR T2, 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex m@k
+\_no 00177
+\SPG 1 mezclar
+\SPG 2 formar en un molde
+\SPG 3 hacer tamalito
+ENG 1 to mix
+\ENG 2 to form in a mold
+\ENG 3 to make tamales
+\SEMF cook, arrange
+\ASP activity
+\ARG
+\NOM m@k.i, y@k.m@k, m@k.naanh, yo'=m@k. 'oy.kuy7
+\RTGR P (T3)
+\POS da m@kjayy@n yo7
+\MID
+\UNDO yom@kpuw@
+\CLZ
+\CMTS
+\lex m@7k [1]
+\_no 00178
+ZOH001R0611002.txt
+\SPG 1 exprimir (como queso)
+\SPG 2 orden~ar
+\SEMF farm, clean
+\ASP activity
+\ARG
+\NOM m@'k.i7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+desenvolvi*
+\lex m@nh
+\_no 00179
+\SPG cojear
+\ENG to limp
+\SEMF move_self
+\ASP activity
+\ARG manner
+\NOM
+\RTGR IX
+\ENG 1 to wring or express (like cheese)
+\ENG 2 to milk
+me envolvio* mi tamal
+Page 44

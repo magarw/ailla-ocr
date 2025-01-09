@@ -1,0 +1,63 @@
+\MB FUERA, limpiar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG limpiar con coa
+\ENG to clean with a hoe
+\SPL
+\SLGR
+\EXU 7@y+ k@.je7k-pa 7@y+_t@k
+\XPSH [7@y k@je7kpay t@k.]
+\XSP Esta* limpiando alrededor de su casa.
+\XEN He's clearing weeds from around his house with a hoe.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT je7k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 12/Jan/96
+\lex k@.je7p-yo't.e7
+\_no 01664
+\LG MIG
+\PSH [k@je7pyo7te7]
+\UND k@.je7p=yo7t. E7
+\MB FUERA, pescar_con_manta, ropa
+\VAR ni.je7p=yote7
+\GRAM
+\SCI
+\USE
+\SPG la ropa que ocupan para pescar
+\ENG the cloth you use for fishing
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT je7p
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 07/Feb/96
+ZOH004R0011001.txt
+\lex k@ji7
+\_no 01665
+\LG MIG
+\PSH [k@ji7]
+\UND k@ji7
+\MB
+\VAR
+\USE directional
+\GRAM av
+\SCI
+\USE
+\SPG abajito
+\ENG down a little ways
+Page 719

@@ -1,0 +1,28 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(xiii) 'øy wo:jtzøkjaba jongjo bi toypá'
+?əy+ wəhə-cək.hay-pa hoŋho? bi toy-pa+V?k
+3E+ good=do.APPL-INC inside DEF be_sick-INC+REL
+'He cleanses what hurts him inside.'
+(ZOH001R036-031)
+The applicative also induces a phenomenon known as external
+possession (Payne and Barshi, 1999) or possessor ascension (Aissen, 1987).
+Generally, external possession occurs when the undergoer of a clause is
+possessed by a first or second person and the actor of the clause is a third
+person. The person hierarchy again comes into play, requiring that the more
+prominent entity be marked on the verb in preference to the lowly possessed
+object. So, we get the first person absolutive agreement marker də or the 3>2
+marker mi instead of the expected third person ergative marker ?ǝy.
+In example (6.22 i), the first-person possessor of the shirt outranks the
+third person agent of the tearing event; hence it is marked with the first person
+absolutive marker. Examples (ii - iv) are included to illustrate the limits of this
+phenomenon. If I tear my own shirt (ii), the first person agent is of equal rank
+with the first person recipient, and so the agreement marker is first person
+ergative. (iii) shows that the applicative construction is not obligatory: I can
+simply say that my shirt was torn, using the passive form of the verb. Oddly, I
+can also say 'my shirt was torn for me', as in (iv), in which both the applicative
+and the passive suffixes appear. This is the only circumstance under which two
+of the valency-changing suffixes can appear together. Another example of this
+type is shown in (v). Example (vi) shows the limits of the possessor-raising: the
+shirt belongs to the father that is mine, evidently not sufficiently close to
+warrant the external possession construction.
+133

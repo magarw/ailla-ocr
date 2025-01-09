@@ -1,0 +1,44 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+We also find causatives and antipassives in a complex formed with a
+transitive verb root. Sometimes there is a subtle shift in the meaning of the
+verb, as in example (6.19 i) where the causative added to the verb kəš- 'to eat'
+yields an expression meaning 'to feed' (and 'to eat' is regularly rendered with
+the verb root and the antipassive, since kəš- is a T3 verb root that requires the
+antipassive in order to appear without an expressed object).
+Most commonly, the antipassive is used to suppress the verb root's
+normal object and then the causative is used to make this objectless form
+transitive. This highlights the causing of the event, discarding the patient as
+relatively unimportant.
+(6.19)
+(i)
+(ii)
+(iii)
+(iv)
+gaji de tzdøkka kom kwano ney 'wø yaktzøkkoyyø
+ga.hi?
+de.?
+ca?+dǝkkay kom kwando ney ?iwe 0 yak.cək.?oy-wǝ
+DCT3.LOC1 DCT2.NOM1 rock +NPL as when some who 3A CAUS.do.ANTIP-COM
+'There are those rocks as if someone made (them).'
+(ZOH001 R015-111)
+kom kwando ney 'iwø yakkukpøktukkoyyø
+kom kwando ney Piwǝ 0 yak.kuk.pək-tuk.?oy-wə
+as
+when some who 3A CAUS.center.get=cut.ANTIP-COM
+'As if someone cut (it) in half.'
+pa nøkpay yakkotzonhnhoxukkø
+para
+nək-pa ?əy+ yak.ko.com.?oy-šuk-wǝ
+so_that go-INC 3E+ CAUS.SOC.join.ANTIP-3PL-COM
+'So that they could go help.'
+yey yakkixtukkoxukpa yøjø
+ye.y
+O yak.?iš=tuk.?oy-šuk-pa
+DCT1.TMP 3A CAUS.see-finish.ANTIP-3PL-INC
+'Now they'll wait here.'
+(ZOH001R015-118)
+129
+(ZOH001R024-016)
+yə.hə?
+DCT1.LOC1
+(ZOH001R024-226)

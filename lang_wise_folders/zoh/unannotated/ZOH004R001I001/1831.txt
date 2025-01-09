@@ -1,0 +1,62 @@
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex yuk.kek
+\_no 04262
+\LG MIG
+\PSH [yukkek-]
+\UND yuk. kek
+\MB ARR, brincar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG 1 volar
+\SPG 2 brincar
+\ENG 1 to fly
+ENG 2 to hop
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kek
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex yuk. kekx
+\_no 04263
+\LG MIG
+\PSH [yukkekx-]
+\UND yuk. kekx
+\MB ARR, despeltrarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar a despeltrarse
+\ENG to start to chip
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kekx
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex yuk. keo
+\_no 04264
+ZOH004R0011001.txt
+Page 1831

@@ -1,0 +1,52 @@
+RE!
+P čék'anoč wẤN t'a xun ?íčam ténam čí? #13¢
+čék'-an-?oč-Ø wẤN t'ah xun 'íčam ténam čí?
+MP
+SP
+NP
+PS
+SS
+G
+CI
+G
+E
+Main
+CI
+leaning-*-enter-he male
+he was leaning
+Subj
+P to láNan sp'át ásún #234
+MP toh láN-an c-ó-p'át ?ásun
+PS
+SS
+PP
+232
+VP
+Main
+NP
+Pre-Adv
+Subj.
+still swirling-* present-he-go cloud
+still went swirling
+clouds
+NP
+VP
+Post-Adv.
+on one large boulder there
+a large boulder there
+P
+MP
+PS
+SS Pre-Adv
+G still swirling-* present-he-go cloud to its-back stone
+still went swirling
+over the stone
+to láNan sp'át ásun t'a spátik k'en
+toh láN-an c-ø-p'át ?ásun t'ah s-pátik k'e?n
+PP
+NP
+Subj
+Main
+NP
+Post-Adv.
+clouds

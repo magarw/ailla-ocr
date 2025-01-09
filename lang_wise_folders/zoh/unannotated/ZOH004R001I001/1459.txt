@@ -1,0 +1,64 @@
+\lex tzi'-t@'
+\_no 03392
+\LG MIG
+\PSH [tzit@-]
+\UND tzi7-A-t@7
+\MB dar, X, querer
+\VAR
+\GRAM vt: desid
+\SCI
+\USE
+\SPG 1 querer dar
+\SPG 2 querer pegar
+\ENG 1 to want to give
+\ENG 2 to want to hit
+\EXU 7@y+ tzi'=t@-w@ tum toto
+\XPSH [7@y tzit@w@ tum toto.]
+\XSP Le quiso dar un papel.
+\XEN She wanted to give him a piece of paper.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tzi7
+\RTGR 1 T3
+\ROOT 2 t@
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS CK-PH
+\date 20/Jun/96
+-
+\lex tzi'=tzem
+\_no 03393
+HAJ:96 ok. can't say [7@y tzi7at@w@]
+\LG MIG
+\PHO [tzitzem-]
+ZOH004R0011001.txt
+\UND_tzi'=tzem
+\MB dar, desafiar
+\VAR
+\GRAM vt
+\SPG pedir/querer ma*s
+\ENG to ask for/want more
+\EXU 7@y+ tzi'-tzem-w@
+\XPSH [7@y tzitzemm@.]
+\XSP Quiso ma*s.
+\XEN She wanted more.
+\SYN
+\ROOT 1 tzi'
+\RTGR 1 T3
+\ROOT 2 tzem
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS like a child who has her plate of food, but it's not full and she
+\CMTS wants more
+\date 03/Jan/80
+\lex tzi'tz.i7
+\_no 03394
+\LG MIG
+\PSH tzitzi7]
+\UND tzi7tz.E7
+\MB tener_sarna, NOM7
+\VAR
+\GRAM SV
+Page 1459

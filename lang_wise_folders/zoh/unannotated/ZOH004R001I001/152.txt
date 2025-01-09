@@ -1,0 +1,62 @@
+\lex 7ok. kunh. '@y
+\_no 00352
+\LG MIG
+\PSH [7okkunhnh@y-]
+\UND 7ok. kunh. 7@y
+\MB ABAJO, colgar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 bajar
+\SPG 2 desatar algo que estaba colgando
+\ENG 1 to lower
+ENG 2 to untie something that was hanging up
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT kunh
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex 7ok. kux. '@y
+\_no 00353
+\LG MIG
+\PSH [7okkuxx@y-]
+\UND 7ok. kux.7@y
+\MB ABAJO, recoger_pie, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG desencogio* su pie
+\ENG to straighten the leg, when it was bent while sitting down
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT kux
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex 7ok-k@7
+\_no 00354
+\LG MIG
+\PSH [7okk@7]
+\UND 7ok-k@7
+\MB ABAJO, MANO
+Page 152

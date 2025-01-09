@@ -1,0 +1,94 @@
+106. No hay (frijoles).
+ma’ay, malaj anh
+ma’ay, malaj anh
+neg, neg Cvegetal
+107. ¿Hay venados en el monte?
+¿ay am no' tzakchej t'a kaltak te'?
+ay-ø
+tzak_chej t'a kaltak te’
+am no'
+exist-3B dub Canimal venado
+¿En el monte no hay venados?
+¿t'a kaltak te' tom may nok' k'ultakil chej?
+t'a
+kaltak te'
+108. En la casa hay gente.
+t'a te' pat ay anima'
+t'a te'
+102
+tom m-ay-Ø
+prep monte Cmadera int neg-exist-3B Canimal venado
+pat ay-ø anima'
+prep Cmadera casa exist-3B gente
+En la casa no hay gente.
+t'a te' pat malaj anima’
+t'a te'
+prep monte Cmadera
+pat malaj anima’
+prep Cmadera casa neg gente
+109. En la casa no había gente.
+t'a b’aj ay pat malaj taxon anima’
+t'a b'aj ay-ø
+t'a te' pat malaj taxon anima'
+t'a
+te'
+nok' k'ultak-il chej
+pat malaj taxon anima’
+prep dónde exist-3B casa neg antes gente
+pat malaj taxon anima'
+prep Cmadera casa neg antes gente
+110. Aquí hay cuatro tortillas.
+t'a tik ay chanhe wa'il
+t'a tik ay-ø chanh-e
+wa'il
+prep dem exist-3B cuatro-CNum tortilla
+t'a tik ayek' chanhe ixim wa'il
+t'a tik ay-ø-ek'
+chanh-e
+ixim wa'il'
+prep dem exist-3B-DIR.pasar cuatro-CNum Cmaíz tortilla
+Aquí había cuatro tortillas.
+t'a tik aytaxonek' chanhe' ixim wa'il
+t'a tik ay-Ø-taxon-ek'
+chanh-e
+ixim wa'il
+prep dem exist-3B-antes-DIR.pasar cuatro-CNum Cmaíz tortilla
+Aquí no hay cuatro tortillas.
+t'a tik malaj chanhe' ixim wa’il
+t'a
+tik malaj chanh-e'
+ixim wa'il
+prep dem neg cuatro-CNum Cmaíz tortilla
+Aquí no había tortillas.
+t'a tik malaj taxon ixim wa'il
+t'a
+tik malaj taxon ixim
+wa'il
+prep dem neg antes Cmaíz tortilla
+111. Aquí hay una tortilla.
+t'a tik ay jun wa’il
+tik ay-Ø
+jun wa'il
+t'a
+prep dem exist-3B uno tortilla
+112. Aquí hay agua.
+t'a tik ay a' a'
+t'a
+a'
+a'
+tik ay-ø
+prep dem exist-3B Cagua agua
+Aquí sobra agua.
+t'a tik tzyak' smansat a' a'
+t'a
+tik tz-ø-y-ak'
+s-mansat a'
+a'
+prep dem pres-3B-3A-dar 3A-sobra Cagua agua
+Allá hay árboles.
+t'a chi' ay te' te'
+t'a chi' ay-ø
+te'
+te'
+prep dem exist-3B Cmadera árbol
+103

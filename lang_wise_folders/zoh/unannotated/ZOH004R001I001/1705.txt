@@ -1,0 +1,64 @@
+\SCI
+\USE
+\SPG moler can~a
+\ENG to grind cane
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT k@7t
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex xi'tz.i'=t@nh
+\_no 03964
+\LG MIG
+\PSH [xitzit@nh-]
+\UND xi7tz. E7=t@nh
+\MB X, NOM7, cortar_con_machete
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG cortar can~a
+\ENG to cut cane
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT t@nh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex xoj
+\_no 03965
+\LG MIG
+\PSH
+\UND Xoj
+\MB
+\VAR xoj kuy
+\GRAM S
+\SCI
+\USE
+\SPG palo de encino
+\ENG a type of tree
+\EXU popo' xoj
+\XSP encino blanco
+\EXU y@k=xoj
+\XSP encino prieto
+\SYN
+LF: kuy
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+ZOH004R0011001.txt
+Page 1705

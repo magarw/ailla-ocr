@@ -1,0 +1,63 @@
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {y@k.}
+\_no 04548
+\LG MIG
+\PSH
+\UND yak
+\MB INSTR2
+\VAR
+\GRAM pre
+\SCI
+\USE lexical verbal prefix: instrument
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU 1 y@k.jap
+\XPSH 1 [y@kjap]
+\XSP 1 sombrero
+\XEN 1 hat
+\EXU 2 y@k.monh
+\XPSH 2 [y@kmonh]
+\XSP 2 cama
+\XEN 2 bed
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 11/Feb/96
+\lex {y@k.VERB.7@y}
+\_no 04549
+LG MIG
+\PSH
+\UND y@k. VERB. 7@y
+\MB INSTR2, VERB, SUF
+\VAR
+\GRAM
+\SCI
+\USE lexical verb circumfixoidal desinence
+SPG
+\ENG
+\SPL
+ZOH004R0011001.txt
+\SLGR
+\EXU 1 y@k.p@k.'@y
+\XPSH 1 [y@kp@kk@y-]
+\XSP 1 meter; echar
+\XEN 1 to put in; to throw in
+\EXU 2 wakax teke7t_y@k.manh. '@y-pa 7@m+ n@k-wa
+\XPSH 2 [wakax teke7t y@kmanhnh@bam n@kk@.]
+\XSP 2 orin de ganado te vas pisando.
+\XEN 2 You're walking around in cow piss.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+Page 1953

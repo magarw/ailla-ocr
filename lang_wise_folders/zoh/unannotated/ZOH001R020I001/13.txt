@@ -1,0 +1,67 @@
+\egl for well live -INC DCT1-DEM man
+\zoq para byen jejpa y@d@ _p@n.
+\fts para que viva bien este hombre.
+\fte so this man can live well.
+\com
+\idx
+\not
+\idx
+\ref ZOH001R020 048
+\_no 00049
+\tx
+\mb
+7enton yaktzi7oyy@
+metzanh chik
+entonces yak -tzi7-7oy -w@ metza*nh chik
+\sg1 entonces CAUS-dar -ANTIP-COM dos
+\egl then
+CAUS-give-ANTIP-COM two
+\zoq 7enton yaktzi7oyy@ metzanh chik kajita,
+\fts Entonces le dio* dos cajitas,
+\fte Then he gave him two little boxes,
+\com
+\idx
+\ref ZOH001R020 049
+\_no 00050
+\tx tum popo*7 7i tum y@ky@kp@7
+\mb tum popo7 7i
+7i tum yak -y@k -p@7k
+\sg1 uno blanco y uno tizne-tizne-REL 2
+\egl one white and one soot -soot -REL 2
+\zoq tum popo*7 7i tum y@ky@kp@7.
+\fts un blanco y un negro.
+\fte a white one and a black one.
+\com
+\idx
+\not
+\idx
+\ref ZOH001R020 050
+\_no 00051
+\tx 7@y p@kminn@
+\mb
+ZOH001R0201001.txt
+7@y p@k -min -wa
+\sg1 3E agarrar-venir-COM
+\egl 3E get
+-come -COM
+\not
+\idx
+\zoq 7@y p@kminn@.
+\fts Lo trajo.
+\fte He brought it.
+\com
+\idx
+chico
+little
+\ref ZOH001R020 051
+\_no 00052
+\tx yukp@kk@
+7@y kaxajo
+\mb yuk-p@k -wa 7@y kaja-jo7
+\sg1 ARR-agarrar-COM 3E caja-Loc2
+\eg1 UP -get -COM 3E box -LOC2
+Page 13
+kajita
+kajita
+cajita
+boxlet

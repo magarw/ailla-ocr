@@ -1,0 +1,61 @@
+\lex kax
+\_no 00107
+\SPG pegar un paso; dar pasos; abrir los pies (como para dar un paso)
+\ENG to take a step or steps; to open the legs (as if to step)
+\SEMF move_self
+\ASP semelfactive
+\ARG manner
+\NOM kax. naanh, kax.e, kax.kuy7
+\RTGR P, (11)
+\POS NO
+\MID NO
+\UNDO NO
+\CLZ
+\CMTS
+\lex ka'
+\_no 00108
+\SPG morirse
+\ENG to die
+\SEMF body
+\ASP achievement
+\ARG
+\NOM ka'-w@+@7k, ka'.kuy7
+\RTGR 12
+\POS N
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex kej
+\_no 00109
+\SPG verse
+\ENG to appear
+\SEMF perception
+\ASP achievement
+\ARG
+\NOM kuy7, kej.naanh
+\RTGR 12
+\POS N
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex kek
+\_no 00110
+\SPG 1 brincar
+\SPG 2 saltar
+\SPG 3 volar
+\ENG 1 to hop
+\ENG 2 to jump
+\ENG 3 to fly
+\SEMF move_self
+\ASP semelfactive, activity
+\ARG manner
+\NOM kek.naanh
+\RTGR T1
+\POS
+\MID NO
+ZOH001R0611002.txt
+\UNDO NO
+\CLZ
+Page 27

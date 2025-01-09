@@ -1,0 +1,63 @@
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS CK-PH- HAJ:96 ok
+\date 19/Jun/96
+\lex rrespet (a)=tz@k
+\_no 02871
+\LG MIG
+\PSH [rrespetatz@k-]
+\UND respeta=tz@k
+\MB respetar, HACER
+\VAR respeet=tz@k
+\GRAM vt
+\SCI
+\USE
+—
+\SPG respetar
+\ENG to respect
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM respetar
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS CK-PH
+\date 25/Jun/96
+\lex rresyu
+\_no 02872
+\LG MIG
+\PSH
+\UND rresyu
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG recio
+\ENG strong; forceful
+\EXU
+\XSP
+\XEN
+\SYN p@mi7
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 20/Jun/95
+\lex rres (a)=tz@k
+\_no 02873
+\LG MIG
+\PSH [rresatz@k-]
+\UND resa=tz@k
+ZOH004R0011001.txt
+Page 1237

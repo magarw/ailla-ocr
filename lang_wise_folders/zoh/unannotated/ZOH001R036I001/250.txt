@@ -1,0 +1,83 @@
+\mb GSM ten
+-tz@y
+-pa
+\sg1 GSM: pararse-atorarse -INC
+\egl GSM: stand -get_stuck-INC
+\zoq GSM: Tentz@ypa.
+\fts GSM: Para.
+\fte GSM: It stops.
+\com
+\idx
+\ref ZOH001R036 999-178
+\_no 01160
+\tx ga7xe p@jaba
+y n@kk@
+yom
+7une
+way 7
+p@7 -jay -pa 7@y nak -w@
+\mb ka -7xe
+yom@7 7une7 7@y way7
+\sg1 DCT3-SIM poner-APPL-INC 3E irse-dINC hembra nin~o/a 3E pelo
+\eg1 DCT3-SIM put -APPL-INC 3E go -dINC female child
+hair
+3E
+\zoq Ga7xe_p@jabay n@kk@ yom7uney way7.
+\fts Asi* le va poniendo el cabello de la muchacha.
+\fte That's how girls go putting on their hair.
+\com
+\idx
+\ref ZOH001R036 999-179
+\_no 01161
+\tx
+OSM: 7i
+\mb OSM
+7i
+-y
+\sg1 OSM: y
+-y
+DCT3-TMP DCT3-LOC1 DCT3-TMP
+\egl OSM: and DCT3-TMP DCT3-LOC1 DCT3-TMP come -REPET-INC
+gay
+ka
+gaji
+ka -ji7
+\ref ZOH001R036 999-180
+\_no 01162
+\tx 7esde mansaniya
+\mb 7esde mansaniya
+\sg1 esde manzanilla
+\egl um chamomile
+\zoq 7esde, mansaniya.
+\fts Manzanilla.
+\fte Um, chamomile.
+\com
+\idx
+ZOH001R0361001.txt
+\zoq OSM: 7i gay gaji gay minge7tpa.
+fts OSM: Y de ahi ya viene de vuelta.
+\fte OSM: And then there then it comes again.
+\com
+\idx
+\ref ZOH001R036 999-181
+\_no 01163
+\tx mansaniyu xapu mansaniya
+\mb
+mansaniyu хари
+\sg1 mansanilla jabo*n
+\egl chamomile soap
+mansaniya
+manzanilla
+chamomile
+\zoq Mansaniyu, xapu mansaniya.
+\fts Jabo*n de manzanilla.
+\fte Chamomile, chamomile soap.
+\com
+\idx
+\ref ZOH001R036 999-182
+gay
+ka
+minge7tpa
+min -ke7t -pa
+venir-REPET-INC
+Page 250

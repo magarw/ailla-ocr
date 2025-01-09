@@ -1,0 +1,78 @@
+\eg1 GSM: 2E do -COM
+\zoq GSM: 7@m tz@kk@.
+\fts GSM: Le hicistes.
+\fte GSM: You make it.
+\com
+\idx
+\ref ZOH001R036 719
+\_no 00708
+\tx OSM: 7@m tz@kpa*7k
+\mb OSM 7@m tz@k -pa -v7k
+\sg1 OSM: 2E hacer-INC-REL remedio
+\egl OSM: 2E do -INC-REL medicine
+rremedyu
+rremedyu
+\zoq OSM: 7@m tz@kpa*7k rremedyu.
+\fts OSM: El remedio que haces.
+\fte OSM: The medicine that you make.
+\com
+\idx
+\ref ZOH001R036 720
+\_no 00709
+\tx ga
+\mb
+pitz@mpa 7algo
+ka -7 pitz@m-pa 7algo
+\sg1 DCT3-NOM1 salir -INC algo
+\eg1 DCT3-NOM1 leave -INC something two
+\ref ZOH001R036 721
+\_no 00710
+\zoq Ga pitz@mpa 7algo, metzanh boteyajo.
+\fts Eso sale bastante como dos botellas.
+\fte That leaves a lot, in two bottles.
+\com
+\idx
+ZOH001R0361001.txt
+\zoq Gam yakxukpa ga7.
+\fts Eso lo acabas.
+\fte You finish that.
+\com
+\idx
+\tx
+ga
+m yakxukpa
+7@m yak -xuk
+ga7
+\mb ka -7
+-pa ka -7
+\sg1 DCT3-NOM1 2E CAUS-acabarse-INC DCT3-NOM1
+\eg1 DCT3-NOM1 2E CAUS-finish -INC DCT3-NOM1
+\ref ZOH001R036 722
+\_no 00711
+\tx pake
+\mb pake
+\sg1 palo_colorado DCT3-TMP 2E
+\egl red_tree
+gay
+7@m p@kpam
+ka -y 7@m p@k
+metzanh boteyajo
+metza*nh boteya -jo7
+dos
+botella-LOC2
+bottle -LOC2
+DCT3-TMP 2E get
+\ref ZOH001R036 723
+\_no 00712
+\tx GSM: 7@m tzokpa
+\zoq Pake gay 7@m p@kpam 7alibyu.
+\fts Para que te vaigas mejorandote.
+\fte so that now you get relief.
+\com
+\idx
+agarrar-INC-YA
+7alibyu
+-pa -7am 7alibyu
+alivio
+-INC-NOW relief
+Page 154

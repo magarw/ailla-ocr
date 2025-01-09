@@ -1,0 +1,63 @@
+\GRAM S
+\SCI
+\USE
+\SPG yugo
+\ENG yoke
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ETYM yugo
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 02/Nov/94
+\lex yubu.7@y
+\_no 04197
+\LG MIG
+\PSH [yubu7@y-]
+\UND yubu.7@y
+\MB yugo, VERS2
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG uncir; ponerle yugo
+\ENG to yoke
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 02/Nov/94
+\lex yuchi' kumu7
+\_no 04198
+\LG MIG
+\PSH [yuchi kumu7]
+\UND yuchi7 kumu7
+\MB delgado, gusano
+\VAR yuchchi kumu7
+\GRAM ams
+\SCI
+\USE
+\SPG gusano chico/biushito
+\ENG tiny worm
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH HAJ:96, stress on 1st syll of kumu7/OK: TK
+Page 1803

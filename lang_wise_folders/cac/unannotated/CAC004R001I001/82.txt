@@ -1,0 +1,83 @@
+tik naik olinyamoch awal
+tik_naik ol-ø-in-yamoch
+awal
+ahora fut-3B-1A-empezar milpa
+292. Ayer empecé a sembrar.
+a ewi inyamoch wawalwi
+a ewi ø-Ø-in-yamoch
+w-awalw-i
+top ayer pas-3B-1A-empezar 1A-sembrar-vti
+ewi inyamoch awal
+ewi 0-0-in-yamoch awal
+ayer pas-3B-1A-empezar milpa
+ewi inyamoch wawi
+ewi ø-Ø-in-yamoch w-aw-i
+ayer pas-3B-1A-empezar 1A-sembrar-vti
+293. Mañana voy a empezar a sembrar.
+a k'ik'an tzinyamoch wawalwi
+a
+166
+k'ik'an tz-ø-in-yamoch
+w-awalw-i
+top mañana pres-3B-1A-empezar 1A-sembrar-vti
+k'ik'an tzinyamoch awal
+k'ik'an tz-ø-in-yamoch
+awal
+mañana pres-3B-1A-empezar milpa
+294. Hoy empieza la fiesta del pueblo.
+a tik naik olochkan k'in t'a chonhab'
+a tik_naik ol-ø-och-kan
+top ahora
+k'in t'a chonhab'
+fut-3B-entrar-DIR. quedarse fiesta prep pueblo
+tik naik olsyamoch k'in t'a chonhab'
+tik_naik ol-ø-s-yamoch
+ahora fut-3B-3A-empezar fiesta prep pueblo
+295. Hoy acabo de sembrar.
+a tik naik olajwok wawalwi
+a tik_naik ol-ø-lajw-ok
+top ahora
+k'in t'a chonhab'
+w-awalw-i
+fut-3B-acabar-IRR 1A-sembrar-vti
+296. Ayer acabé de sembrar.
+ewi lajwi wawalwi
+ewi ø-ø-lajw-i
+w-awalw-i
+ayer pas-3B-terminar-vti 1A-sembrar-vti
+ewi ochaj wawal
+ewi ø-Ø-och-chaj
+w-awal
+ayer pas-3B-entrar-psv 1A-milpa
+297. Mañana voy a acabar de sembrar.
+a k'ik'an slajwikanoch wawal
+a
+k'ik'an tz-ø-lajw-i-kan-och
+w-awal
+top mañana pres-3B-terminar-vti-DIR. quedarse-DIR.abajo 1A-milpa
+k'ik'an slajwi wawalwi
+k'ik'an tz-ø-lajw-i
+w-awalw-i
+mañana pres-3B-terminar-vti 1A-sembar-vti
+k'ik'an tzochaj wawal
+k'ik'an tz-ø-och-chaj
+w-awal
+mañana pres-3B-entrar-psv 1A-milpa
+298. Hoy voy a seguir sembrando.
+a in anheja olinawalwok
+a
+in anheja ol-ø-in-awalw-ok
+top 1B siempre fut-3B-1A-sembrar-IRR
+299. Ayer seguí sembrando.
+a ewi wak' seguir wawalwi
+a
+ewi 0-0-w-ak'
+seguir w-awalw-i
+top ayer pas-3B-1A-dar seguir 1A-sembrar-vti
+ewi anheja wawalwi yem k'u
+ewi anheja ø-Ø-w-awalw-i
+y-em k'u
+ayer siempre pas-3B-1A-sembrar-vti 3A-bajar día
+300. ¡Siga el camino!
+ochanh ijan t'a b'e
+167

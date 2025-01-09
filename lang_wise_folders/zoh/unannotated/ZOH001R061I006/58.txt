@@ -1,0 +1,63 @@
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\CMTS CK-EX ok, HAJ: 96; IS EX 1 word or 2?
+\date 03/Jan/80
+\lex k@y
+\_no 00084
+\LG MIG
+\PSH
+\UND kay
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 11evar en la mano
+\ENG to carry in the hand
+\SPL k@y.7oy
+\SLGR ANTIP
+\SLGL 11evar // to carry
+\SPL k@y.7@m
+\SLGR PASS
+\EXU 1 7@y+ k@y=n@k-wa
+\XPSH 1 [7@y k@yn@kk@.]
+\XSP 1 Lo llevo* en la mano.
+\XEN 1 She carried it in her hand.
+\EXU 2 k@y.7@m-w@ 7uk. E d@k+7a
+\XPSH 2 [K@yy@mm@ 7uki d@kka.]
+\XSP 2 Llevaron los atoles.
+ZOH001R0611006.txt
+\XEN 2 She carried the atoles in her hand.
+\EXU 3 k@y-@-w@ meex+g@xi
+\XPSH 3 [K@y@w@ mexg@xi.]
+\XSP 3 Pusieron (el plato) en la mesa.
+\XEN 3 The plate was put on the table.
+\EXU 4 7@y+ k@y.ten-w@ yak.k@x
+\XPSH 4 [7@y k@ytenn@ y@kk@x.]
+\XSP 4 Tiene en la mano el plato.
+\XEN 4 She has the plate in her hand.
+\SYN
+\SEMF hand, carry
+\ASP activity
+\ARG
+\NOM 7anh.k@.i, 7anh.k@y.kuy7, k@y.naanh
+\SUB 7anh.k@y, 7anh.k@y-num, 7ok.k@y. '@y, jax-k@y, nik.k@y. '@y, yuk.k@y
+\ETYM
+\ETL
+\ROOT k@y
+\RTGR T3
+\DSRC TK94
+\CMTS
+\CMTS ya no se mienta 'mano', no ma*s que lo llevo*
+\CMTS the gesture is one hand, holding something like a plate
+\CMTS Camilo says both hands, like the way they carry a little plate
+\CMTS with a cup of chocolate and a piece of bread on it
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex maj
+\_no 00085
+\LG MIG
+\PSH
+\UND maj
+Page 58

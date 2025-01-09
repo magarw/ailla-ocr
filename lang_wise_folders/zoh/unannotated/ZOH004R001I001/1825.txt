@@ -1,0 +1,63 @@
+\1ex yuk.ju7k
+\_no 04248
+\LG MIG
+\PSH [yukju7k-]
+\UND yuk. ju7k
+\MB ARR, tragar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG empezar a tragar
+\ENG to start to gulp
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ju7k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 17/Jul/95
+\lex yuk. jum
+\_no 04249
+\LG MIG
+\PSH [yukjum-]
+\UND yuk.jum
+\MB ARR, derrumbarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar a derrumbarse
+ENG to start to crumble
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jum
+\RTGR T2
+\DSRC HAJ95
+\CMTS
+\date 17/Jul/95
+\lex yuk. jun
+\_no 04250
+\LG MIG
+\PSH [yukjun-]
+\UND yuk. jun
+\MB ARR, caer_pelo
+\VAR
+\GRAM vi
+\SCI
+ZOH004R0011001.txt
+Page 1825

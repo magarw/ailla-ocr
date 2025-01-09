@@ -1,0 +1,83 @@
+\mb ka -g@ xaj -pak
+\sg1 DCT3-DEM sobaco-hueso
+\eg1 DCT3-DEM armpit-bone
+\zoq Gag@ xajpak.
+\fts Eso pedazo de paleta.
+\fte That leg-bone.
+\com
+\idx
+\ref ZOH001R036 395
+\_no 00389
+\tx 7entonse gay
+\mb entonces ka -Y
+\sg1 entonces DCT3-TMP
+\egl then
+\tx kom kyera
+\mb
+7@y p@w@
+minpam
+min -pa -7am 7@y p@7 -wa
+venir-INC-YA 3E
+DCT3-TMP come -INC-NOW 3E
+komo kyera
+\sg1 como quiera
+\egl how one likes that
+\com
+\idx
+\ref ZOH001R036 396
+\_no 00390
+\zoq 7entonse gay minpam 7@y p@w@ latajo 7o xuyujo kom kyera 7ake*1
+preparasyo*n.
+\fts Entonces ya lo viene echar en la lata o en la olla como quiera aquella
+preparacio*n.
+\fte Then he comes to put it in the can or pot how he likes, that
+preparation.
+\tx 7@y yumpa*m
+\mb 7@y yum
+\sg1 3E
+\egl 3E boil
+-pa -7am
+hervir(se)-INC-YA
+7ake*1 preparasyo*n
+7ake*1 preparasyo*n
+aquel preparacio*n
+preparation
+\zoq 7@y_yumpa*m.
+\fts ya lo esta* herviendo.
+\ref ZOH001R036 397
+\_no 00391
+\tx 7@y xoxpa
+\mb 7@y xox
+-pa
+\sg1 3E cocer-INC
+\egl 3E cook -INC
+\com
+\idx
+\fte Now he's boiling it.
+\com
+\idx
+\zoq 7@y xoxpa.
+\fts Lo cosen.
+\fte He cooks it.
+ZOH001R0361001.txt
+-INC-NOW
+\ref ZOH001R036 398
+\_no 00392
+latajo
+lata-jo7
+70 xuyujo
+70 xuyu7-jo7
+poner-dINC lata-Loc2 o olla -Loc2
+put -dINC can -LOC2 or pot -LOC2
+\tx 7@y p@jaba
+7ay jay@
+7ay7
+jay@7
+\mb 7@y p@7 -jay -pa 7ay7 jay@7
+\sg1 3E poner-APPL-INC hoja flor
+\egl 3E put -APPL-INC leaf flower
+pedaso
+pedaso
+pedaso
+piece
+Page 85

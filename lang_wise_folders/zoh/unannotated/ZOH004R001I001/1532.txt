@@ -1,0 +1,62 @@
+\DATE 03/Jan/1980
+\lex wanak.@7
+\_no 03563
+\LG MIG
+\PSH [wanak@7]
+\UND wanak.A7
+\MB bajarse, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG bajada
+\ENG down-grade
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wanak
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex wanak. 'oy
+\_no 03564
+\LG MIG
+\PSH [wanakkoy-]
+\UND wanak. 7oy
+\MB bajarse, ANTIP
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG disminuir
+\ENG to diminish
+\SPL yak.wanak. 7oy
+\SLGR CAUS
+\SLGL bajarse el precio, rebajar // to bargain, to lower the price
+\EXU 1 wanak. 'oy-w@ de bi yoj. kuy7
+\XPSH 1 [wanakkoyy@ de bi yojkuy7.]
+\XSP 1 Bajo* de precio algo.
+\XEN 1 She lowered the price on something.
+\EXU 2 wanak. 'oy-w@ 7@y+ yoj.a7
+\XPSH_2 [wanakkoyy@y yoja7.]
+\XSP 2 Bajo* de precio.
+\XEN 2 He lowered the price.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wanak
+ZOH004R0011001.txt
+\RTGR 11
+\DSRC HAJ94
+\CMTS caus2 yak.wanak. 7oy bajarse el precio; rebajar to bargain; lower the
+price
+\CMTS CK-GR, CK-PH ok; OK: TK
+\date 26/Jun/96
+\lex wan.e7
+Page 1532

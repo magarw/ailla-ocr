@@ -1,0 +1,63 @@
+\lex 7ok.kekx. '@y
+\_no 00338
+\LG MIG
+\PSH [7okkekx@y-]
+\UND 7ok.kekx.7@y
+\MB ABAJO, despeltrar, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG despeltrarse
+\ENG to get chipped
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kekx
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 09/Jan/96
+\lex 7ok.kep. '@y
+\_no 00339
+\LG MIG
+\PSH [7okkepp@y-]
+\UND 7ok.kep.7@y
+\MB ABAJO, patear, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG patear
+\ENG to kick
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kep
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex 7ok.ket.'@y
+\_no 00340
+\LG MIG
+\PSH [7okkett@y-]
+\UND 7ok.ket.7@y
+\MB ABAJO, tapar, SUF
+\VAR
+\GRAM vt
+\SCI
+ZOH004R0011001.txt
+Page 146

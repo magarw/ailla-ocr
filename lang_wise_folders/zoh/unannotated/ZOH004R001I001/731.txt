@@ -1,0 +1,63 @@
+\GRAM SV
+\SCI
+\USE
+\SPG rozadura
+\ENG clearing
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nakx
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex k@.nay
+\_no 01693
+\LG MIG
+\PSH [k@nay-]
+\UND k@.nay
+\MB FUERA, brotar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG nacer un diente fuera del lugar
+\ENG for a tooth to come in out of place
+\EXU k@.nay-w@ tum t@tz
+\XPSH [K@nayy@ tum t@tz.]
+\XSP Un diente nacio* fuera del lugar.
+\XEN A tooth came in out of place.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nay
+\RTGR 12
+ZOH004R0011001.txt
+\DSRC TK94
+\CMTS the verb refers only to teeth - just one that grows out of place
+\date 12/Jan/96
+\lex k@.n@k=ja7k. '@y
+\_no 01694
+\LG MIG
+\PSH [k@n@kja7kk@y-]
+\UND k@.n@k=ja7k.7@y
+\MB FUERA, irse, ahogarse, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG ahogarse todos
+\ENG for everyone to choke or drown
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+Page 731

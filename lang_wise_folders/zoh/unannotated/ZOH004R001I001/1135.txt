@@ -1,0 +1,64 @@
+\lex pit
+\_no 02637
+\LG MIG
+\PSH
+\UND pit
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 poner la mortaja
+\SPG 2 enrollar cigarro
+\ENG 1 to wrap a corpse in a shroud
+\ENG 2 to roll a cigar
+\SPL pit.7oy
+\SLGR ANTIP
+\SLGL poner la mortaja // to put on a shroud
+\SPL pit.7@m
+\SLGR PASS
+\SLGL ponerse la mortaja // to be wrapped in a shroud
+\SPL pit.ten
+\SLGR PRSV
+\SLGL levantarlo envuelto // to put something up wrapped up
+\EXU 1 7@y+ pit-w@ bi ka-w@+@7k
+\XPSH 1 [7@y pitt@ bi kaw@*7k.]
+\XSP 1 Puso la mortaja a un muerto.
+\XEN 1 She wrapped the corpse in a shroud.
+\EXU 2 pit. E+'am de ka-w@+@7k
+\XPSH 2 [Pitia*m de kaw@*7k.]
+\XSP 2 Ya esta* con su mortaja el muerto.
+\XEN 2 Now the corpse is wrapped in its shroud.
+\EXU 3 pit. 7oy-w@+@7k
+ZOH004R0011001.txt
+\XPSH 3 [pittoyy@*7k]
+\XSP 3 aquel que dio* la mortaja
+\XEN 3 the one who puts on the shroud
+\EXU 4 pit.7@m-w@+ 'am
+\XPSH 4 [Pitt@mm@*m.]
+\XSP 4 Ya tiene la mortaja.
+\XEN 4 Now the shroud is on.
+\EXU 5 pit.7@m-w@+'am 7@y+ juk. E
+\XPSH_5 [Pitt@mm@*m 7@y juki.]
+\XSP 5 Ya enrollo* su cigarro.
+\XEN 5 Now his cigar is rolled.
+\SYN
+\SEMF arrange
+\ASP activity
+\ARG
+\NOM pit.17, pit.kuy7
+\SUB ko.pit, k@.pit-witu'
+\ETYM
+\ETL
+\ROOT pit
+\RTGR T3
+\KEY vr
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex pitaya7
+\_no 02638
+\LG MIG
+\PSH
+Page 1135

@@ -1,0 +1,47 @@
+(46) allin-ta
+parla-chu-n pai Jose-wan
+bueno-AC hablar-IMP-3S 3S José-CIA
+'es bueno que él hable con José' (es una orden) (lit.: 'que hable bien/correcto con José')
+(47) pipis kacha-ta parla-man Jose-wan
+también bueno-AC hablar-ALAT José-CIA
+'es bueno que alguien (que uno) hable con José' (alguien indefinido, puede involucrar a la primera persona)
+4.2.5. Algunas observaciones sobre el contraste entre la construcción con -
+na frente a -jti
+Los siguientes enunciados representan pares contrastivos (48 frente a 49) entre los dos
+últimos tipos de construcción analizados que codifican el dominio de irrealis en quechua. Se
+incluye en la última línea la interpretación que brinda uno de los hablantes.
+(48) kan qhawa-na-yki-kama
+pay-kuna puri-n-ku
+2S observar-NOM-2S/30-TERM 3S-PL
+116
+caminar-3S-REFL
+'(hasta que) Mientras tú los observas, ellos caminan (-na: pierde su valor futuro)
+'si los observas, ellos caminan
+("lo hacen todo el tiempo que tú los observas, mientras los controlas, mientras tenés poder sobre ellos")
+(49) kan qhawa-sha-jti-yki
+2S
+observar-PROGR-SUB/DS-2S 3-PL
+caminar-INC-3S-REFL
+ellos caminan mientras tú los observas (o mientras son observados por tí)'
+'si los observas, ellos caminan
+(se pierde la idea de control por parte del sujeto)
+pai-kuna puri-ri-n-ku
+Otro consultante ofreció una interpretación alternativa: “en (49) se observa de lejos,
+mientras que en (48) se observa de cerca". Según este comentario, las formas estarían
+distinguiendo "distancia", la que se "incrementaría" cuando el hablante opta por la
+construcción de cláusulas interdependientes. ¹43 Este alejamiento podría referir tanto el tipo de
+conexión conceptualizada entre las acciones -deixis intratextual- como el grado de inclusión
+de las personas participantes en la situación de habla, en relación con el control sobre la acción
+de los terceros. Por ahora, los datos son muy escasos para afirmarlo.
+144
+Finalmente, y desde una mera comparación formal entre las dos construcciones
+(nominalización frente a cláusulas interdependientes), es llamativo que las marcas de
+concordancia personal que se añaden a continuación del sufijo -jti corresponden al paradigma
+de flexión nominal (y no al verbal). Cole (1983:5) explica este hecho en los siguientes
+términos: "This is presumably a consequence of the fact that many Quechua subordinating
+suffixes are nominalizers". El hecho de que las cláusulas adverbiales recurran a la
+143
+En diverso grado, de “subordinación" formal.
+144
+Esto recuerda el contraste entre 'mientras los observes, caminan' (control del observador) y mientras los
+obervas, caminan' (simplemente correlación temporal entre los dos eventos).

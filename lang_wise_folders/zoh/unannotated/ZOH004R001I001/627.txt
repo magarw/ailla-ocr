@@ -1,0 +1,63 @@
+\CMTS CK-PH of EX
+\date 18/Jun/96
+\lex ko.p@¹
+\_no 01441
+\LG MIG
+\PSH [kop@-]
+\UND ko.p@7
+\MB OTRO, poner
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG echar de ma*s
+\ENG to throw on a little more
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT p@7
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex koraliu
+\_no 01442
+\LG MIG
+\PSH
+\UND koraliyu
+\MB
+\VAR koraliya tzajin
+\VAR koral tzajin
+\VAR korales tzajin
+\GRAM S
+\SCI
+\USE
+\SPG coralillo/a
+\ENG coral snake
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\lex korral
+\_no 01443
+\LG MIG
+LF:tzajin
+\CMTS CK-PH ok HAJ:96; TK fixed it
+\date 24/Jun/96
+\PSH
+\UND korral
+\MB
+\VAR
+\GRAM S
+\SCI
+ZOH004R0011001.txt
+Page 627

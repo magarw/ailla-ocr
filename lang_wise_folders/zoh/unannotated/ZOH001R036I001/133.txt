@@ -1,0 +1,78 @@
+\zoq 7adyo da nikk@yy@yy@, 7@n 7ukk@.
+\fts Luego me lo dio
+para que lo tomara
+\fte Later she gave it to me, I drank it
+\com
+\idx
+\ref ZOH001R036 622
+\_no 00611
+\tx
+7@n 7ukxukk@
+\mb 7@n 7uk -xuk-w@
+\sgl 1E
+tomar-3PL-COM
+\egl 1E drink-3PL-COM
+\zoq 7@n 7ukxukk@.
+\fts lo acabe* de tomar.
+\fte I finished drinking it.
+\com
+\idx
+\ref ZOH001R036 623
+\_no 00612
+\tx
+tum jeyg@xixta*7
+\mb tum jey -g@xi-xtaa7 7@n
+\sg1 uno batir-LOC4-NOMAS 1E
+\egl one beat -LOC4-ONLY 1E
+\ref ZOH001R036 624
+\_no 00613
+\zoq Tum jeyg@xixta*7 7@n tziw@ porke jak wajwa.
+\fts Un solo huelgo le di* porque esta* muy salado.
+\fte I gave it only one swallow because it's very salty.
+\com
+\idx
+\com (he chugged it)
+ZOH001R0361001.txt
+7@n tziw@ porke
+tzi7-w@ porke
+dar -COM porque
+give-COM because very salty
+muy
+\ref ZOH001R036 625
+\_no 00614
+\tx joypi7t ya
+d@ tziwa m
+gag@
+ka -g@
+toya
+toy -A7
+DCT3-DEM doler-NOM2
+\egl next day NEG 1A hit -COM-NOW DCT3-DEM hurt -NOM2
+\mb joypi7t ya d@ tzi7 -w@ -7am
+\sg] otro_di*a NEG 1A pegar-COM-YA
+\zoq Joypi7t ya d@ tziwa*m
+gag@ toya.
+\fts El otro di*a ya no me pego* esa enfermedad.
+\fte The next day that disease wasn't hitting me.
+\com
+\idx
+\tx GSM: ya
+m tziwa*m
+\mb GSM ya 7@m tzi7-w@ - 7am
+\sg1 GSM: NEG 2E
+dar -COM-YA
+\eg1 GSM: NEG 2E give-COM-NOW
+\ref ZOH001R036 626
+\_no 00615
+\tx OSM: ya d@ tziwa m
+\zoq GSM: Yam tziwa*m.
+\fts GSM: Ya no te dio*.
+\fte GSM: Now it wasn't hitting you.
+\com
+\idx
+jak wajwa
+jakke wajwa
+salado
+bi
+wayay
+Page 133

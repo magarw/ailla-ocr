@@ -1,0 +1,65 @@
+\LG MIG
+\PSH
+\UND 7inanu patanux
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG pla*tano enano
+\ENG a type of banana
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 20/Jun/95
+\lex 7indyu p@n (d@k+7ay)
+\_no 00279
+\LG MIG
+\PSH [7indyu p@n d@kkay]
+\UND 7indyu p@n (d@k+7ay)
+\MB indio, hombre, NPL
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG gente indi*gena
+\ENG indigenous people
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM indio
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS /nh7/
+\date 24/Jun/96
+=
+\lex 7in-win=nuk
+\_no 00280
+\LG MIG
+\PSH [7inwinnuk-]
+\UND 7in-win=nuk
+\MB nublarse, CARA, agarrar
+\VAR
+\GRAM vi
+\SLGR
+\EXU
+[nhn] - stress [what is THIS doing here?]
+\SCI
+\USE
+\SPG ponerse nublado
+\ENG to turn cloudy
+\SPL
+\XSP
+\XEN
+ZOH004R0011001.txt
+Page 120

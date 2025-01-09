@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex popo'=n@7
+\_no 02729
+\LG MIG
+\PSH [popon@7]
+\UND popo7=n@7
+\MB blanco, agua
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG agua de masa para el marrano
+\ENG watery corn mush for feeding pigs
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex popo'=tz@k
+\_no 02730
+\LG MIG
+\PSH [popotz@k-]
+\UND popo7=tz@k
+\MB blanco, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer blanco
+\ENG to make white; to whiten
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+ZOH004R0011001.txt
+\lex pop(o') 7ay7
+\_no 02731
+\LG MIG
+Page 1174

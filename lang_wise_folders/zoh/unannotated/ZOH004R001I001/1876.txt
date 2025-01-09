@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [y@kt@7@y-]
+\UND yak.t@7.7@y
+\MB X, querer, SUF
+\VAR
+\GRAM vt, vi
+\SCI
+\USE
+\SPG entender; acostumbrar; hallarse
+\ENG to understand; to get used to; to get along
+\EXU 7@y+ y@k.t@'.7@y-wa
+\XPSH [7@y y@kt@7@yy@.]
+\XSP Lo acostumbro*.
+\XEN He got used to it.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT t@7
+\RTGR T3
+\DSRC TK94
+\CMTS CK-EX for ERG HAJ:96 fixed
+\date 20/Jun/96
+\lex y@k.tzinh
+\_no 04371
+\LG MIG
+\PSH [y@ktzinh]
+\UND y@k.tzinh.0
+\MB INSTR2, ban~arse, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG donde se ban~a uno; sala de ban*o; algo para ban~ar
+\ENG place where you bathe; bathing room; something you use while
+bathing
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT tzinh
+ZOH004R0011001.txt
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex y@k.tz@m
+\_no 04372
+\LG MIG
+\PSH [y@ktz@m]
+\UND yak.tz@m.0
+\MB INSTR2, cargar, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG mecapal
+\ENG a headband used to carry things on your back
+\EXU
+Page 1876

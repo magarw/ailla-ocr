@@ -1,0 +1,63 @@
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 06/Feb/96
+\lex jek. @7
+\_no 00725
+\LG MIG
+\PHO [jek@7]
+\UND jek.A7
+\MB derrumbarse, NOM2
+\VAR
+\GRAM SV
+\SPG derrumbada
+\ENG tumbled-down
+\EX jek.@7+k_nax
+\XPSH [jek@7k nax]
+\XSP tierra derrumbada
+\XEN tumbled-down dirt pile
+\SYN
+\ROOT jek
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex je7k
+\_no 00726
+\LG MIG
+\PSH
+\UND je7k
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG limpiar con coa
+\ENG to clean with a hoe
+\EXU 1 7@y+ je7k-w@ bi yuj.kuy7
+\XPSH 1 [7@y je7kk@ bi yujkuy.]
+\XSP 1 Limpio* el rastrojo.
+\XEN 1 He cleaned the field with a hoe.
+\EXU_2_7@y+ je7k.ten-w@ bi yuj.kuy7
+\XPSH_2 [7@y je7ktenn@ bi_yujkuy.1
+\XSP 2 Limpio* a tiempo el rastrojo.
+\XEN 2 He got the field cleaned in time.
+\SYN win-je7k
+\SEMF cut, farm
+\ASP activity
+\ARG instrument
+ZOH004R0011001.txt
+\NOM je7k.kuy7, je'k.e7
+\SUB 7ok.je7k.'@y, j@x=je7k, ko.je7k, k@.je7k, ni.je7k, nik.je7k.'@y,
+\SUB win-je7k, yuk.je7p
+\ETYM
+\ETL
+\ROOT je7k
+\RTGR T3
+\SPL je7k.7oy
+\SLGR ANTIP
+\SLGL limpiar con coa // to clean with a hoe
+\SLGR NO PASS
+\SLGR NO ASSUM1
+\SPL je7k.ten
+Page 312

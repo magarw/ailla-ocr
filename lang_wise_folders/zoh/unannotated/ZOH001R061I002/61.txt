@@ -1,0 +1,61 @@
+ZOH001R0611002.txt
+\POS d@ pojayy@n k@pi me rajo* mi len~a
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex po' [2]
+\_no 00245
+\SPG nacer de gente o animales
+\ENG to be born of people or animals
+\SEMF nature
+\ASP achievement
+\ARG
+\NOM
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex pujum
+\_no 00246
+\SPG destejer; desbaratar; deshilar
+\ENG to unravel; to come apart
+\SEMF arrange
+\ASP accomplishment
+\ARG
+\NOM pujum.i7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex pukx
+\_no 00247
+\SPG abundar; rendirse; hacerse bastante (trata de animales que esta*
+criando, como ganado)
+\ENG to yield; to thrive; to reproduce abundantly (of animals that you are
+raising)
+\SEMF animal, farm
+\ASP activity
+\ARG
+\NOM
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex pu7kx
+\_no 00248
+\SPG dar cornadas; cachar
+\ENG to gore; to catch on the horns
+\SEMF hit
+\ASP achievement
+\ARG
+\NOM
+\RTGR T3
+\POS
+Page 61

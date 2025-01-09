@@ -1,0 +1,63 @@
+\SEMF hand, build
+\ASP process
+\ARG
+\NOM xatz.e7, xatz.kuy7
+\SUB ko.xatz
+\ETYM
+\ETL
+\ROOT xatz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\CMTS makes a rolling/rubbing motion with hands, like for rope-making
+\date 03/Jan/80
+\lex xek
+\_no 00216
+\LG MIG
+\PSH
+\UND xek
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG regar terreno con agua
+\ENG to spread water; to irrigate
+\SPL xek. 7oy
+\SLGR ANTIP
+\SLGL regar (agua) // to spread (water); to irrigate
+\SLGR NO PASS
+EXU 1 7@y+ xek-w@ 7@n+ mok bi n@7
+XPSH 1 [7@y xekk@n mok bi n@7.]
+\XSP 1 Le paso* ri*o mi mazorca.
+\XEN 1 The river irrigated my cornfield.
+\EXU 2_n@mm@ 7@y+ xek-w@ bi yuj.kuy7
+\XPSH 2 [N@mm@y xekk@ bi yujkuy7.]
+\XSP 2 Esta* regando su milpa.
+\XEN 2 He's irrigating his cornfield.
+\SYN
+SEMF water, farm
+\ASP process
+\ARG
+\NOM xek.e
+ZOH001R0611006.txt
+\SUB xek-tunh-poy
+\ETYM
+\ETL
+\ROOT xek
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\CMTS se trata de un regadillo
+\CMTS get sv or pcp
+\CMTS cuando el ri*o se honda, y entra en la sembradura
+\CMTS when the river gets deep, it rises and flows over the milpa
+\date 03/Jan/80
+\lex xem
+\_no 00217
+LG MIG
+\PSH
+\UND xem
+\MB
+\VAR
+Page 146

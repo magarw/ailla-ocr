@@ -1,0 +1,64 @@
+\SPG encajar
+\ENG to punch a hole in something
+\SEMF cut
+\ASP achievement
+\ARG
+\NOM koj. kuy7
+\NOM
+naanh
+\RTGR T3
+\POS rroberto d@ kojjayy@n toto
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex kokx
+\_no 00124
+\SPG tronar
+\ENG for joints to crack
+\SEMF sound, body
+\ASP semelfactive
+\ARG
+\NOM kokx.i7, kopak-kokx. kuy7, kokx.naanh
+\RTGR 12
+\POS N
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex ko7kx
+\_no 00125
+\SPG roncar
+\ENG to snore
+\SEMF sound, body
+\ASP activity
+\ARG
+\NOM * kuy7
+\RTGR 11
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex kom
+\_no 00126
+\SPG remendar, como casa, ropa
+\ENG to mend, like a house or clothes
+\SEMF break
+\ASP activity
+\ARG
+\NOM kom.e7, kom. kuy7, ni.kom
+\RTGR T3
+\POS da komjayy@n y@kwij
+\MID
+\UNDO 7@n kompuw@ n molinu
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\lex konh
+\_no 00127
+\SPG gatear, como criatura
+\ENG to crawl, like a baby
+me remendo* mi camisa
+desarme* mi molino
+Page 31

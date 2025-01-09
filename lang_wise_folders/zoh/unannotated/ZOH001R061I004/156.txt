@@ -1,0 +1,63 @@
+\SPG (hecho) alma*cigo
+\ENG nursery
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT witz
+\RTGR T3
+\DSRC HAJ95
+\CMTS CK-PH
+\date 26/Jun/96
+\lex woj.e7 [1]
+\_no 00392
+\LG MIG
+\PHO [woje7]
+\UND_woj.E7
+\MB ladrar, NOM7
+\VAR
+\SYN
+\ROOT Woj
+\RTGR 11
+\GRAM_pcp
+\SPG ladrido
+\ENG bark
+\EXU 7@n+ matonh-w@ tum nu' 7@y+ woj.e7
+\XPSH [7@n matonhnh@ tum nuy woje7.]
+\XSP Escuche* un ladrido de perro.
+\XEN I heard the bark of a dog.
+HAJ:96 ok; GMS wont give a simple pcp/sv here:TK
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex woj.e7 [2]
+\_no 00393
+\LG MIG
+\PHO [woje7]
+\UND woj. E7
+\MB hacer_hoyo, NOM7
+\VAR
+\GRAM pcp
+\SPG hoyo
+\ENG hole
+\EXU woj.e7+k tza'=t@k
+\XPSH [woje7k tzat@k]
+\XSP un hoyo hecho
+\XEN a made hole
+\SYN
+\ROOT Woj
+\RTGR T3
+ZOH001R0611004.txt
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex woko.e7
+\_no 00394
+\LG MIG
+\PHO [wokoe7]
+Page 156

@@ -1,0 +1,63 @@
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex kuy pika7
+\_no 01596
+\LG MIG
+\PSH
+\UND kuy pika7
+\MB
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG pie de venado
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF EB
+LF: kuy
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex kuy pote7
+\_no 01597
+\LG MIG
+\PSH
+\UND kuy pote7
+\MB
+\VAR kuy-pote' kuy
+\GRAM s (m) sv
+\SCI
+\USE
+\SPG arbol: guapinol
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SPL kuy=pote' t@m
+\SLGR fruta de guapinol
+\SEMF EB LF: kuy
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS pote7 is `pimole'
+\date 25/Jun/96
+\lex kuy tziji7
+\_no 01598
+\LG MIG
+\PSH
+\UND kuy tziji7
+\MB
+\VAR
+ZOH004R0011001.txt
+Page 692

@@ -1,0 +1,63 @@
+\SLGL apachurrar // to dent
+\SYN
+\SEMF arrange
+\ASP achievement
+\ARG
+\NOM mu. 17
+\SUB_j@x-muy, win-muy
+\ETYM
+\ETL
+\ROOT muy
+\RTGR T2
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex muy [2]
+\_no 02070
+\LG MIG
+\PSH
+\UND muy
+\MB
+\VAR
+\GRAM vt:act; vi:med
+\SCI
+\USE
+\SPG tener algo en la boca
+\ENG to have something in the mouth
+\EXU 1 7@n+ muy-w@
+\XPSH 1 [7@n muyy@.]
+\XSP 1 Tuve algo en la boca.
+\XEN 1 I had something in my mouth.
+\EXU 2 7@y+ muy.ten-wa bi n@7
+\XPSH 2 [7@y muytenn@ bi n@7.]
+\XSP 2 Tiene agua en la boca.
+\XEN 2 she has water in her mouth.
+\EXU 3 muy-w@ 7@n+ 7ene
+\XPSH 3 [Muyy@n 7ene.]
+\XSP 3 Sufro diarrea.
+ZOH004R0011001.txt
+\XEN 3 I have diarrhea.
+\SPL muy.ten
+\SLGR PRSV
+\SLGL tener en la boca // to have in the mouth
+\SLGR NO ASSUM1
+\SYN
+\SEMF body, water
+\ASP state
+\ARG location
+\NOM mu.i, muy.naanh
+\SUB 7anh.muy, 7ok.muy. '@y, muy=p@k, nik.muy. '@y, yuk.muy
+\ETYM
+\ETL
+\ROOT muy
+\RTGR T2, 12
+\DSRC HAJ95
+\CMTS 7@n_muyy@ bi n@7 (porque el agua no puede doblar)
+\CMTS I couldn't get clear on whether this is really transitive or not.
+\CMTS He likes '7an muyy@', but not with an expressed object.
+\date 03/Jan/80
+\lex muy.i=p@n
+\_no 02071
+\LG MIG
+\PSH [muip@n]
+Page 893

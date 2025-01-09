@@ -1,0 +1,77 @@
+ZOH001R0431001.txt
+\zoq 7entonses ya kwando xukpa*m bi 7amint@7 7enh 7el nobentay sinko,
+\fts Entonces ya fui* en este an~o en el noventa y cinco,
+\fte Then now when the year in the ninety-five had ended,
+\com
+\idx
+\ref ZOH001R043 003
+\_no 00004
+\tx 7awin
+\mb 7awin7
+\sg1 hermano/a NPL
+Tegl sibling NPL
+d@kka 7@y mayme7tztz@
+d@kkay 7@y may
+3E
+\zoq 7awind@kkay 7@y mayme7tztz@ 7iw@ n@kpa komo juxtixa.
+\fts los compan~eros buscaron quien va como presidente.
+\fte the people looked for who they would go elect as mayor.
+\com
+\idx
+\ref ZOH001R043 004
+\_no 00005
+\tx 7iw@ yaktz@nxukpa
+\mb 7iw@ yak -tz@n
+\sg1 quien
+\egl who
+7iw@ n@kpa komo juxtixa
+-me7tz -w@ 7iw@ n@k -pa komo juxtixa
+contar-buscar-COM quien irse-INC como autoridad
+3E count -look -COM who go -INC like authority
+\ref ZOH001R043 005
+\_no 00006
+\tx p@n
+\mb p@n
+\sgl hombre
+\egl man
+CAUS-estar_sentado-3PL-INC
+CAUS-sit
+\zoq 7iwa yaktz@nxukpa komo juxtixa.
+\fts Quien va a sentarse como autoridad.
+\fte who they will seat as governor.
+\com
+\idx
+komo juxtixa
+komo juxtixa
+como autoridad
+-3PL-INC like authority
+-xuk-pa
+\tx 7entonse naxe 7@y pa7chukk@
+\mb 7entonses naxe 7@y pa7t
+tum 7anhmayyoba*7k
+tum 7anh -may
+-7oy -pa -v7k
+\sg1 entonces verdad 3E encontrar-3PL-COM uno BOCA -contar-ANTIP-INC-REL
+\egl then
+truth 3E find
+-3PL-COM one MOUTH-count -ANTIP-INC-REL
+\ref ZOH001R043 006
+\_no 00007
+\tx ga7
+\mb ka -7
+\zoq 7entonses naxe 7@y pa7txukk@ tum 7anhmayyoba*7k p@n.
+\fts Entonces de verdad encontraron un maestro.
+\fte Then in fact they found a teacher.
+\com
+\idx
+\ref ZOH001R043 007
+\_no 00008
+-xuk-w@
+7@y jente pwes g@ pri.
+7@y jente pwes g@ pri.
+\sg1 DCT3-NOM1 3E gente pues DEM PRI.
+\eg1 DCT3-NOM1 3E people well DEM PRI.
+\zoq Ga7 7@y jente, pwes, g@ PRI.
+\fts E*1 su gente, pues, es el PRI.
+\fte His people, well, they're the PRI.
+Page 2

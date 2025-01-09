@@ -1,0 +1,63 @@
+\PSH [yuk7utzi]
+\UND yuk. 7utz. E
+\MB ARR, medir, NOM7
+\VAR
+\GRAM PCP
+\SCI
+\USE
+\SPG medido; una cosa medida y levantada
+\ENG measured; a measured and put-away thing
+\EXU yuk. 'utz.i 7@y+ yuk.p@k-w@
+\XPSH [Yukkutziy yukp@kk@.]
+\XSP Medido lo levanto*.
+\XEN She put it away measured.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7utz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 26/Jun/96
+\lex yuk.nek.e
+\_no 00486
+\LG MIG
+\PSH [yukneke]
+\UND yuk.nek. E
+\MB ARR, estivar, NOM7
+\VAR
+\GRAM sv/pcp
+\SCI
+\USE
+\SPG monto*n; estar estivado
+\ENG pile; be piled up
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nek
+\RTGR TX
+\DSRC HAJ94
+\CMTS CK for yuk.nek vt
+\CMTS see also nek.e
+\date 29/Jan/96
+\lex yuk.ponh 7an.e
+\_no 00487
+\LG MIG
+\PSH [yukponh- 7ane]
+\UND yuk. ponh 7an. E
+\MB ARR, quemar, calentarse, NOM7
+\VAR
+\GRAM vi
+ZOH001R0611004.txt
+\SCI
+\USE
+\SPG esponjarse la tortilla
+\ENG for a tortilla to puff up
+\EXU yuk.ponh-w@+@7k 7an. E
+\XPSH [yukponhnh@*7k 7ane]
+Page 192

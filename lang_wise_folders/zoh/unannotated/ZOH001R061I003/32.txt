@@ -1,0 +1,62 @@
+\PHO [w@nhna*nh]
+\UND w@nh.naanh
+\MB hundirse, MED
+\VAR
+\GRAM meas
+\SPG una hundida
+ENG a dunk
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT w@nh
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex w@t.naanh
+\_no 00092
+\LG MIG
+\PHO [w@tna*nh]
+\UND w@t.naanh
+\MB romperse, MED
+\VAR
+\GRAM meas
+\SPG pedazo de ropa rota
+\ENG a piece of torn cloth
+\EXU mix tzi7-A7 tum w@k.naanh
+\XPSH [Mix tzi7 tum w@kna*nh.]
+\XSP Deme un pedacito de tu ropa.
+\XEN Give me a scrap of your clothes.
+\SYN
+\ROOT wat
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex w@tz.naanh
+\_no 00093
+\LG MIG
+\PHO [w@tzna*nh]
+\UND w@tz.naanh
+\MB peinar, MED
+\VAR
+\GRAM meas
+\SPG una peinada
+\ENG a stroke of the comb
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT w@tz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+ZOH001R0611003.txt
+\lex xi7kx.naanh
+\_no 00094
+\LG MIG
+\PHO [xi7kxna*nh]
+\UND xi7kx.naanh
+Page 32

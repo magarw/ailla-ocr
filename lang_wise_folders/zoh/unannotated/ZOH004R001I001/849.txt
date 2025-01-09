@@ -1,0 +1,64 @@
+\SPG agarrar en la mano cerrada
+\ENG to catch in the fist
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 mi7tz
+\RTGR 1 T3
+ROOT 2 nuk
+\RTGR 2 T3
+\DSRC TK96
+\CMTS
+\lex mi7tz=p@k
+\_no 01969
+\LG MIG
+\PSH [mi7tzp@k-]
+\UND mi7tz=p@k
+\MB agarrar_en_pun~o, agarrar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG agarrar un pun~ito
+\ENG to grab a fistful
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 mi7tz
+\RTGR 1 T3
+\ROOT 2 p@k
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 21/Jun/95
+\lex mixtu7
+\_no 01970
+\LG MIG
+\PSH
+\UND mixtu7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG gato
+\ENG cat
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+LF:7anmal
+ZOH004R0011001.txt
+Page 849

@@ -1,0 +1,62 @@
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\1ex mu7k=k@x
+\_no 02049
+\LG MIG
+\PSH [mu7kk@x-]
+\UND mu7k-k@x
+\MB zacate, comer
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG comer pasto
+\ENG to eat grass
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT k@x
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\lex mula
+\_no 02050
+\LG MIG
+\PSH
+\UND mula
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG mula
+\ENG mule
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 03/Oct/94
+\lex muliniu
+\_no 02051
+\LG MIG
+\PSH [muuliniiu]
+\UND muliniyu
+\MB
+\VAR mulniu, moliniyuj
+\GRAM S
+\SCI
+\USE
+ZOH004R0011001.txt
+Page 884

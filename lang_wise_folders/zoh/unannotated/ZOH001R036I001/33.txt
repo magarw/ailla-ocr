@@ -1,0 +1,83 @@
+\com
+\idx
+\ref ZOH001R036 150
+\_no 00151
+\tx tzujiam
+\mb tzuji7-7am
+\sg1 noche -YA
+\eg1 night -NOW
+\zoq Tzujiam.
+\fts De noche.
+\fte At night.
+\com
+\idx
+\ref ZOH001R036 151
+\_no 00152
+\tx tzujiam
+da n@kpa
+\mb tzuji7-7am d@ n@k -pa
+\sg1 noche -YA
+1A irse-INC
+\egl night -NOW 1A go -INC
+\zoq Tzujiam da n@kpa.
+\fts De noche voy.
+\fte At night I'm going.
+\com
+\idx
+\ref ZOH001R036 152
+\_no 00153
+\tx n@kpa
+n 7ixx@
+\mb n@k -pa 7@n 7ix-w@
+\sgl irse-INC 1E
+\egl go -INC 1E
+\tx ne7
+\mb
+ne7
+\sg1 tambien
+\egl also
+ZOH001R0361001.txt
+tum 7ap
+-A7
+p@n toya7
+tum 7apu p@n toy
+ver-dINC uno viejo hombre doler-NOM2
+see-dINC one old
+man
+\ref ZOH001R036 154
+\_no 00155
+\tx 7i yey
+\zoq N@kpan 7ixx@ tum 7app@n toya7 pa7tt@mpa ne7.
+\fts voy a ver un viejito que se encuentra enfermo tambien.
+\fte I'm going to see an old man who finds himself ill also.
+\com
+\idx
+\zoq 7i n@kpan 7ixx@ yey kwand tzumukn@mpa.
+\fts Y voy a verlo ahora cuando entre la noche.
+\fte And I'm going to see him now when night falls.
+\com
+\idx
+pa7tt@mpa
+pa7t
+hurt -NOM2 find
+\ref ZOH001R036 153
+\_no 00154
+\tx 7i n@kpa n 7ixx@
+kwand tzumukn@mpa
+7@n 7ix-w@ y@ -y kwando tzu7 -muk
+yey
+\mb 7i
+n@k -pa
+irse-INC 1E
+-An@m -pa
+ver-dINC DCT1-TMP cuando noche-caerse-INDEF-INC
+\egl and go -INC 1E see-dINC DCT1-TMP when night-fall -INDEF-INC
+\sg] y
+7otro 7eya*7k toya
+-7@m -pa
+encontrar-PAS -INC
+-PASS-INC
+ney
+Page 33
+7el mismo toya
+pwes

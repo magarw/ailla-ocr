@@ -1,0 +1,61 @@
+\lex xex
+\_no 00401
+\SPG mudar piel; sheshar mai*z
+\ENG for skin to peel; for corn to lose its outer skin
+\SEMF corn, body
+\ASP process
+\ARG
+\NOM xex.i7
+\RTGR IX
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex xik
+\_no 00402
+\SPG reirse
+\ENG to laugh
+\SEMF sound
+\ASP process
+\ARG
+\NOM xik.i7
+\RTGR 11
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex xi7kx (2)
+\_no 00403
+\SPG regar unas gotitas de agua con los dedos
+\ENG to sprinkle little drops of water with the fingers
+\SEMF water, hand
+\ASP activity
+\ARG
+\NOM xi7kx.naanh
+\RTGR TX
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex xinh
+\_no 00404
+\SPG hincharse; hinchada
+\ENG to swell up; swollen
+\SEMF body
+\ASP process
+\ARG
+\NOM xiw.17
+\RTGR 12
+ZOH001R0611002.txt
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex xipx
+\_no 00405
+\SPG estacar; encajar alguien con cuchillo o estaca
+Page 99

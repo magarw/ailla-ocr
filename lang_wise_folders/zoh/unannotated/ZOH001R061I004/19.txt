@@ -1,0 +1,62 @@
+\lex 7uk.i-ji7p
+\_no 00044
+\LG MIG
+\PSH [7ukiji7p-]
+\UND 7uk. E=ji7p
+\MB tomar, NOM7, mover_con_palo
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG revolver, mover atole con palo
+\ENG to stir atole with a stick
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 7uk
+\RTGR 1 T1
+\ROOT 2 ji7p
+\RTGR 2 P (T3)
+\DSRC TK94
+\CMTS get deriv's
+\date 11/Feb/96
+\lex 7uk.i-ju7t.kuy7
+\_no 00045
+LG MIG
+\PSH [7ukiju7tkuy7]
+\UND 7uk. E-ju7t.kuy7
+\MB tomar, NOM7, remover, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG el palo con que mueve el atole
+\ENG a stick for stirring atole
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7uk
+\RTGR 1 T1
+\ROOT 2 ju7t
+\RTGR 2 Tx
+\DSRC TK94
+\CMTS
+\date 11/Feb/96
+ZOH001R0611004.txt
+\lex 7uk.i-muj.i
+\_no 00046
+\LG MIG
+\PSH [7ukimuji]
+\UND 7uk. E=muj. E
+\MB tomar, NOM7, mojarse, NOM7
+\VAR
+\GRAM nom: incorp
+Page 19

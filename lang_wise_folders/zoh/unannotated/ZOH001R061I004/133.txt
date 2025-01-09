@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT t@7k
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex tzaj.e7
+\_no 00332
+\LG MIG
+\PHO [tzaje7]
+\UND tzaj.E7
+\MB pegar, NOM7
+\VAR
+\GRAM pcp
+\SPG pegado
+\ENG glued
+\EXU toto' tzaj.e7
+\XPSH [toto tzaje*7]
+\XSP papel pegado
+\XEN glued paper
+\SYN
+\ROOT tzaj
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tzajin yoj.a7
+\_no 00333
+\LG MIG
+\PSH [tzajin yoja7]
+\UND tzajin yoj.A7
+\MB culebra, cambiar, NOM2
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG muda de culebra
+\ENG snakeskin
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tzak.e7
+\_no 00334
+\LG MIG
+\PHO [tzake7]
+\UND tzak. E7
+\MB dejar, NOM7
+\VAR
+\GRAM PCP
+\SPG dejada, una cosa dejada
+ZOH001R0611004.txt
+Page 133

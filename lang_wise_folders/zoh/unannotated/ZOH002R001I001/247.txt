@@ -1,0 +1,36 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+8.3.2.4. V2 is a transitive verb
+At the highest level of the Foley & Olson hierarchy (the least-common,
+cross-linguistically), V2 is a transitive verb. In MIG Zoque, transitive verbs can
+appear as either V1, or V2, or both, performing a variety of functions.
+The most common of these functions is manner modification, in which V1
+denotes the manner in which V2 is performed or happens. The simplest
+function is to amplify the action: V1 and V2 mean essentially the same thing.
+(8.28)
+(i)
+'øy pongkøngxukpa dondju xangngoxukkø
+?ǝy+ poŋ=kəŋ-šuk-pa
+donde hu?
+3E+ burn=burn-3PL-INC where where 3A cut_w_machete.ANTIP-3PL-COM
+'They're burning (the fields) where they cleared.' (ZOH001R060-012)
+(iii)
+(ii) bi pajak 'øy yakjøtjummø bi tøk
+bi pahak ?əy+ yak.hət-hum-wə
+bi tək
+DEF river 3E+ CAUS.reduce=crumble-COM DEF house
+'The river tumbled down the house."
+'øy jupnukkø møyø
+?əy+ hup-nuk-wə
+məyə
+3E+ pull-grab-COM thunder
+'He grabbed a lightning bolt.'
+šaŋ.?oy-šuk-wə
+221
+(ZOH001R060-079)
+(ZOH001R025-215)
+Another form of manner modification exploits the instrument entailed by
+many of the verb roots in MIG Zoque. All of the verbs of cutting specify a
+particular instrument, for example: nəm- 'to cut with scissors', wək-, 'to cut
+with a knife', təŋ-, 'to cut with a machete', etc. Compounds formed with these
+verbs as the first component mean 'to V2 by V1-ing', with an emphasis on the
+instrument employed.

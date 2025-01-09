@@ -1,0 +1,37 @@
+4.7. Postpositions
+Postpositions are clitics that attach to a preceding noun. This constraint
+on their position formally distinguishes the postpositions from the spatial
+adverbs, which can appear independently from the noun phrase to which they
+are relevant. The two sets or lexemes perform the same function, of locating
+objects in space or directing the motion of an object through space.
+The postpositions appear at the end of a noun phrase, which may consist
+of a phrase or compound (4.24 i), a noun with the plural clitic (ii), or a
+possessive noun phrase (iii).
+(4.24)
+(i)
+(ii)
+(iii)
+komo ke ney 'iwøjønang dø tukxitøpa
+komo ke
+ney ?iwǝ +hənaŋ də+ tukši=tə?-pa
+como que alguna=quien+AC 1A+ pleito=querer-INC
+'Como que quería pelear con alguien .'
+tijtammøn yoxtame yødø yang kedøkjønang
+tih-tam-wə
+?ən+yoš-tam-E
+(ZOH001 R018-282)
+yə.də
+yaŋke+dǝkkay+hənaaŋ
+ir&regresar-1/2PL-COM 1E +trabajar-1/2PL-dCOM DCT1.DEM gringo +NPL+AC
+'Fuimos a trabajar con estos gringos con estos gringos.'
+(ZOH001 R018- 009)
+yødø 'anmal makimaki witpa yødø tøk 'øy kojapjo'
+yə.də Panmal makimaki 0 wit-pa
+DCT1.DEM animal araña 3A caminar-INC DCT.DEM casa 3E+ sombrero+LOC2
+'Este animal la araña camina sobre el techo de la casa."
+yə.də tək əy+ kohap+ho?
+(ZOH001 R0601001-012)
+All of the spatial terms (except the deictics) are listed together in a table
+in Appendix C, with both English and Spanish glosses. Postpositions are
+marked in the table with preceding +. Since the entries are listed
+71

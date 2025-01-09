@@ -1,0 +1,64 @@
+\ETL
+\ROOT paj
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 25/Jun/96
+\lex k@.tu7tz [2]
+\_no 00158
+\LG MIG
+\PSH [k@tu7tz]
+\UND k@.tu7tz.0
+\MB FUERA, X, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG palo para atrancar; atrancador; puntal
+\ENG a stick used as a bar; a bar; a prop
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * tu7tz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex k@.t@k.@7
+\_no 00159
+\LG MIG
+\PSH [k@t@k@7]
+\UND k@.t@k.@7
+\MB FUERA, casa,
+\VAR
+\GRAM SV
+casa, NOM2
+\SCI
+\USE
+\SPG 1 afuera de la casa pegado a la pared
+\SPG 2 alla* atra*s de la casa
+\SPG 3 orilla de la casa, donde esta* pasillo
+\ENG 1 outside the house against the wall
+\ENG 2 over there across from the house
+ZOH001R0611004.txt
+house, by the path
+\EXU nek-A7 de7 k@pi k@.t@k.@7+jo7 para 7uy+muj-w@
+\ENG 3 at the edge of the
+SEMF
+\ETYM
+\ETL
+\XPSH [Neka7 de k@pi k@t@k@jo7 pa 7uy mujj@!]
+\XSP !Arrima la len~a ahi* pegado a la pared para que no se enmoje!
+\XEN Pile the firewood up here close to the wall so it doesn't get wet!
+\SYN
+\ROOT
+\DSRC HAJ94
+\CMTS analysis
+\date 25/Jun/96
+\lex k@7t tuwa.'anh=poonh
+\_no 00160
+Page 65

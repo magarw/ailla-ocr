@@ -1,0 +1,62 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex wiki' tzoa7
+\_no 03666
+\LG MIG
+\PSH [wiki tzoa7]
+\UND wiki7 tzonh.A7
+\MB dedo, unir, NOM2
+\VAR
+\GRAM s (m)s
+\SCI
+\USE
+\SPG nudillo
+\ENG knuckles
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzonh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex wiki' yema
+\_no 03667
+\LG MIG
+\PSH [wiki yema]
+\UND wiki7 yema
+\MB dedo, yema
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG yema del dedo
+\ENG tip of finger
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex wikx
+\_no 03668
+\LG MIG
+\PSH
+\UND wikx
+ZOH004R0011001.txt
+Page 1576

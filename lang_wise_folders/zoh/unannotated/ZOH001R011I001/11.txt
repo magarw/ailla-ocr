@@ -1,0 +1,75 @@
+\_no 00046
+\tx
+nyay
+tanxukk@
+\mb ni-ya -7@y tan -xuk-w@
+\sg1 ni-NEG-3E
+pegar-3PL-COM
+\eg1 no-NEG-3E hit -3PL-COM
+\zoq Nyay tanxukk@.
+\fts No le pegaron.
+\fte They didn't hit them.
+\com
+\idx
+\ref ZOH001R011 046
+\_no 00047
+tenyente d@x toktz@kke7tpa
+\tx n@mpa
+\mb n@m
+-y
+-pa tenyente d@x tocar-tz@k -ke7t -pa
+\sg1 decir-INC teniente 1Prn tocar-hacer-REPET-INC DCT2-TMP
+\egl say -INC lieutenant 1Prn touch-do -REPET-INC DCT2-TMP
+\zoq Nampa tenyente, "D@x toktz@kke7tpa dey."
+\fts Dice el teniente, "Ahora me toco a mi.
+\fte The lieutenant says, "Now I tap myself.'
+\com
+\idx sp
+\ref ZOH001R011 047
+\_no 00048
+\tx pakk@
+\mb p@k
+tenyente y
+tujkuy7
+-wa
+tenyente 7@y tuj -kuy7
+\sgl agarrar-COM teniente 3E
+\egl get
+-COM lieutenant 3E
+\_no_00049
+\tx 7@y tujpa
+\mb 7@y tuj -pa
+\zoq Pakk@ tenyentey tujkuy7.
+\fts Agarro* teniente su arma.
+\fte The lieutenant grabbed his rifle.
+\com
+\idx sp
+\ref ZOH001R011 048
+\sg1 3E
+tirar-INC
+\egl 3E shoot-INC
+\zoq 7@y tujpa!
+\fts Y le tiro*!
+\fte He shoots!
+\com
+\idx
+ZOH001R0111001.txt
+\ref ZOH001R011 049
+\_no 00050
+\tx 7i nyay
+tann@
+\mb 7i ni-ya -7@y tan -w@
+\sg] y
+ni-NEG-3E
+pegar-nCOM
+\egl and no-NEG-3E hit -nCOM
+\zoq 7i nyay tann@.
+\fts Y no le pego*.
+\fte And he didn't hit them.
+\com
+\idx
+tirar-INSTR1
+shoot-INSTR1
+Page 11
+dey
+te

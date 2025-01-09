@@ -1,0 +1,76 @@
+\fts si salio* esta un~a,
+\fte if this nail came out,
+\com
+\idx
+\ref ZOH001R036 222
+\_no 00222
+\tx xinhnha*m
+\mb
+xinh
+-w@ -7am
+\sgl hincharse-COM-YA
+\egl swell
+-COM-NOW all
+\ref ZOH001R036 223
+\_no 00223
+\tx
+\mb
+\zoq xinhnha*m jemji
+\fts ya esta* hinchado todo.
+\fte now it's all swollen.
+\com
+\idx
+n@pin7 awa*m
+n@pin7-7a
+jemji
+jemji7
+todo
+-w@ - 7am
+\zoq N@pin7awa*m.
+\fts Ya sangro*.
+\fte Now it's bloody.
+\com
+\idx
+\sgl sangre-VERS1-COM-YA
+\egl blood -VERS1-COM-NOW
+\ref ZOH001R036 224
+\_no 00224
+\tx 7entonse teji
+\mb
+entonces teji
+\sg1 entonces hay
+\egl then
+ded@
+tampitz 7ay
+te -d@ tampitz 7ay7
+DCT2-DEM a*rnica hoja
+there is DCT2-DEM herb leaf
+\zoq 7entonse teji ded@ tampitz 7ay,
+\fts Entonces hay esa hoja de arnica,
+\fte Then there's that leaf of arnica,
+\com
+\idx
+\ref ZOH001R036 225
+\_no 00225
+\tx ded@
+jepe
+paxte 7ay
+\mb te
+te -d@ jepe paxte7 7ay7
+\sg1 DCT2-DEM maguey espina hoja
+\eg1 DCT2-DEM maguey thorn leaf
+\ref ZOH001R036 226
+\_no 00226
+ZOH001R0361001.txt
+\zoq ded@ jepe paxte 7ay,
+\fts esa hoja de maguey que tiene espina,
+\fte that thorny maguey leaf,
+\com
+\idx
+\tx 7i ded@
+xoj naka
+\mb 7i te -da хој naka
+\sg] y
+DCT2-DEM palo cuero
+\eg1 and DCT2-DEM tree skin
+Page 49

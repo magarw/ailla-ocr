@@ -1,0 +1,62 @@
+\ENG stutterer; mute
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 7otonh
+\RTGR 11
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex yaga7
+\_no 04072
+\LG MIG
+\PSH
+\UND yaga7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG algun herida
+\ENG some wound or injury
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM 11aga
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH; no reconoce yaga7 = nuez, gave me algun herida
+\date 26/Jun/96
+\lex yaja7
+\_no 04073
+\LG MIG
+\PSH
+\UND yaja7
+\MB
+\VAR
+\GRAM av
+\SCI
+\USE
+\SPG antes
+\ENG before
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+Page 1751

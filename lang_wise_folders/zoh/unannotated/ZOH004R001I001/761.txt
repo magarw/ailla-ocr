@@ -1,0 +1,63 @@
+ZOH004R0011001.txt
+\XPSH 2 [7@y yakk@wakk@y jaatz@]
+\XSP 2 Desquito* su deudo (ya lo pago*, con su trabajo)
+\XEN 2 she paid off her debt.
+\EXU 3_7@n+yak.k@.wak-w@ 7@n+ yox.kuy7
+\XPSH 3 [7@n yakk@wakk@n yoxkuy.]
+\XSP 3 Ya me desocupe* de mi trabajo. (ya lo acabe*; ya estoy libre)
+\XEN 3 I finished my job.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * wak
+\DSRC TK94
+\CMTS rejects the 'repartir para todos' gloss; offers an example under tzi7
+\date 18/Jun/96
+\lex k@.way
+\_no 01759
+\LG MIG
+\PSH [k@way-]
+\UND k@.way
+\MB FUERA, moler
+\VAR
+\GRAM vt, vi
+\SCI
+\USE
+\SPG moler de otro
+\ENG to grind someone else's corn
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT way
+\RTGR T1
+\DSRC TK94
+\CMTS
+\date 02/Nov/94
+\lex k@.way tza7
+\_no 01760
+\LG MIG
+\PSH [k@way tza7]
+\UND k@.way tza7
+\MB FUERA, moler, piedra
+\VAR k@.way=tza7 REJECTED: TK
+\GRAM
+\SCI
+\USE
+\SPG metate
+\ENG grinding stone
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT way
+\RTGR T1
+\DSRC TK94
+Page 761

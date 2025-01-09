@@ -1,0 +1,63 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tzam
+\RTGR 1 T1
+\ROOT 2 tuk
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex win=tz@n
+\_no 03737
+\LG MIG
+\PSH [wintz@n-]
+\UND win-tz@n
+\MB CARA, sentarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG sentarse con alguien
+ENG to sit with someone
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@n
+\RTGR P (12)
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex win-wak
+\_no 03738
+\LG MIG
+\PSH [winwak-]
+\UND win-wak
+\MB CARA, *vaciar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG estar despejado; aclarar(se)
+\ENG to be clear; to clear up
+\EXU win-wak-w@+¹ am
+\XPSH [winwakka*m.]
+\XSP Se despejo*.
+\XEN It cleared up.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * wak
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+ZOH004R0011001.txt
+Page 1605

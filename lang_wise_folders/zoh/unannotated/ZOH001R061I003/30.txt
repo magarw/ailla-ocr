@@ -1,0 +1,61 @@
+\DATE 03/Jan/80
+\lex wix.naanh
+\_no 00085
+\LG MIG
+\PHO [wixna*nh]
+\UND wix.naanh
+MB arrancar, MED
+\VAR
+\GRAM meas
+\SPG un manazo de la mata que arranco*
+ENG a handful of the plant that you pulled up
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT wix
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex wo7i.naanh
+\_no 00086
+\LG MIG
+\PHO [wo7ina*nh]
+\UND wo7i.naanh
+\MB rodarse, MED1
+\VAR
+\GRAM meas
+\SPG un redondo
+\ENG one rotation
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT wo7i
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex wotz.naanh
+\_no 00087
+\LG MIG
+\PHO [wotzna*nh]
+\UND wotz.naanh
+\MB cortar_c_sierra, MED
+\VAR
+\GRAM meas
+\SPG una serradita
+\ENG a single stroke of a saw
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT wotz
+\RTGR T3
+\DSRC HAJ95
+ZOH001R0611003.txt
+\CMTS
+\DATE 03/Jan/80
+\lex wox.naanh
+Page 30

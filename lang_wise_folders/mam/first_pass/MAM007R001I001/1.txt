@@ -1,0 +1,72 @@
+Mam - 1
+(1) t-i'j
+'Sobre Pedro.'
+(2) Juun xjaal=0
+(3)
+Luuch
+A3s-SR:sobre Pedro
+(4)
+ojtxa Luuch-0
+t-b'ii,
+A3s-nombre
+una persona=B3s antes Pedro=B3s
+'Había una vez una persona que se llamaba Pedro,'
+t-witz
+b'ix nim o=0=beet
+y
+mucho CPL=B3s=caminar
+'y caminaba mucho en el campo."
+At=0=tzan
+juun q'iij
+EXIST=B3s-pues un día
+'Pues, un día'
+t-witz
+t-miij
+(5) n=ch=ok nooj txqan aryeeral
+INC=B3p=DIR llenar grupo arriero A3s-SR:sobre A3s-medio
+b'ee,
+camino
+'encontró un grupo de arrieros en medio del camino,'
+n=0=loqa-n
+(6) b'ix luu
+(9)
+(7) per nti'=0
+y
+allá
+'y allá se estaba herviendo su jarro'
+(8) t-jon-aal=x
+t=xaar
+INC=B3s-hervir-AP A3s-jarro
+pero NEG=B3s leña y-o
+'pero no había leña ni fuego para (hacerlo),'
+sii' b'ix-mo
+Tza'n 0=teen
+cómo B2s-estar 2sPRON
+'Cómo estás, Pedro,'
+(10) walaan=0=ta
+tx'otx'
+A3s-SR:sobre tierra
+xaar n=0=loqa-n
+weena
+A3s-uno-ABST=solo jarro INC=B3s-hervir-AP mucho
+'el jarro se estaba hirviendo mucho por sí solo.'
+tee'
+excelente=B3s=3sENF
+'tu jarro es excelente,'
+(11) chi-chi=tzan
+(12) 0=0=ok
+xjaal,
+B3p-decir-pues persona
+'dijo la gente,'
+q'aaq' t-i'j,
+fuego A3s-SR:para
+Luuch,
+Pedro
+t-xaar,
+A2s-jarro
+ky-q'ama-'n
+CPL.DEP=B3s=DIR A3p-decir-SD
+'le dijeron a él.”
+t-ee.
+A3s-SR:DAT
+2

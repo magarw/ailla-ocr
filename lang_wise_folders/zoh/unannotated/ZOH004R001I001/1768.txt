@@ -1,0 +1,63 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS OTHER'S, THING
+\date 29/Jan/96
+\lex yanh-t@k+jo7
+\_no 04114
+\LG MIG
+\PSH [yanht@kjo7]
+\UND yanh-t@k+jo7
+\MB OTRO, casa, LOC2
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG casa de otro gente
+\ENG other people's house
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 29/Jan/96
+\lex yati7
+\_no 04115
+\LG MIG
+\PSH
+\UND yati7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG anona
+\ENG a type of fruit tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Nov/94
+LF:kuy
+\lex yati' nax
+\_no 04116
+\LG MIG
+\PSH [yati nax]
+\UND yati7 nax
+ZOH004R0011001.txt
+Page 1768

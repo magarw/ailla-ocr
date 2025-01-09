@@ -1,0 +1,63 @@
+\date
+\lex 7@nh-muk
+\_no 00533
+\LG MIG
+\PSH [7@nhmuk-]
+\UND 7@nh-muk
+\MB caerse de arriba, caer
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG cabecear
+\ENG to nod (falling asleep)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7@nh
+\RTGR 1 12
+\ROOT 2 muk
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 15/Oct/94
+\lex 7@7p
+\_no 00534
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+\UND 7@7p
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 palanquear
+\SPG 2 mover con espeque
+\ENG 1 to use a lever on
+\ENG 2 to move by prying up
+\EXU 1 7@y+ 7@7p-xuk-wa
+\XPSH 1 [7@y_7@7pxukk@.]
+\XSP 1 Lo palanquearon.
+\XEN 1 They pried it up.
+\EXU 2 7@7p.7@m-w@ bi kuy
+\XPSH_2 [7@7pp@mm@ bi_kuy.]
+\XSP 2 Se palanqueo* la madera.
+\XEN 2 The board was pried up.
+\EXU 3_7@y+ 7@7p.ten-w@ bi kuy
+\XPSH 3 [7@y 7@7ptenn@ bi kuy.]
+\XSP 3 Tiene espequeado la madera.
+\XEN 3 He's got the board pried up on the lever.
+\SYN
+\SEMF move
+\ASP achievement
+\ARG
+\NOM 7@7p.kuy7
+\SUB 7ok. '@7p. '@y, 7@7p=7anh.wak, j@x='@7p, nik. '@7p. '@y, yuk.7@7p
+\ETYM
+\ETL
+Page 230

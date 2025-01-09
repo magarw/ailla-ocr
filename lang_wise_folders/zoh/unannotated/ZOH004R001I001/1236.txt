@@ -1,0 +1,64 @@
+\PSH
+\UND rredondo
+\MB
+\VAR
+\GRAM med
+\SCI
+\USE
+\SPG circulo
+\ENG circle
+\SPL
+\SLGR
+\EXU tum rredondo
+\XSP un ci*rculo
+\XEN one circle
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\lex rremu
+\_no 02869
+\LG MIG
+\PSH
+\UND rremu
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG remo
+\ENG paddle
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH/OK:TK
+\date 25/Jun/96
+\lex rrepoyo
+\_no 02870
+\LG MIG
+\PSH
+\UND rrepoyo
+\MB
+\VAR rrepoyu
+\GRAM
+\SCI
+\USE
+\SPG repollo
+\ENG cabbage
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+LF:7okox
+ZOH004R0011001.txt
+Page 1236

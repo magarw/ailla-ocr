@@ -1,0 +1,62 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\lex mak-'anh
+\_no 01848
+\LG MIG
+\PSH [makkanh]
+\UND mak-7anh
+\MB
+\VAR
+\GRAM num
+\SCI
+\USE
+\SPG diez
+\ENG ten
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\lex mak-'anh-ji7
+\_no 01849
+\LG MIG
+\PSH [makkanhji7]
+\UND mak-7anh-ji7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG los diez
+\ENG the ten
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\lex ma7k
+\_no 01850
+\LG MIG
+\PSH
+\UND ma7k
+ZOH004R0011001.txt
+Page 798

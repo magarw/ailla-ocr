@@ -1,0 +1,62 @@
+XPSH [Ney_7iw@j@nanh d@ tukxit@pa.]
+\XSP Con alguien quiero pelear.
+\XEN I want to fight with someone.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH: prob. no final [7]; YES it has one: TK
+\date 03/Jan/80
+\lex ney kayna7
+\_no 02219
+\LG MIG
+\PSH
+\UND ney kayna7
+\MB
+\VAR
+\GRAM av
+\SCI
+\USE
+\SPG "andenante", hace rato
+\ENG a long time ago
+\EXU
+\XSP
+\XEN
+\SYN kayna7
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS WHAT is /kayna7/?
+\date 25/Jun/96
+\lex ney k@x. 'oy
+\_no 02220
+\LG MIG
+\PSH [ney k@xxoy-]
+\UND ney k@x.7oy
+\MB RECIP, comer, ANTIP
+\VAR
+\GRAM recip: antip
+\SCI
+\USE
+\SPG comer sin pagar
+\ENG to eat without paying
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT k@x
+\RTGR T3
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS
+\date 12/Nov/94
+\lex ney tum-@
+\_no 02221
+Page 956

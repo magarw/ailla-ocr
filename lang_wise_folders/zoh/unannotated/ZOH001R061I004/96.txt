@@ -1,0 +1,63 @@
+\ENG to put a name on someone or thing
+\EXU
+\XSP
+\XEN
+\SYN n@ji.7@y
+\SEMF
+\ETYM
+\ETL
+\ROOT p@7
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 27/Jan/96
+\lex n@m.i
+\_no 00237
+\LG MIG
+\PSH [n@mi]
+\UND n@m. E
+\MB decir, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG dicho
+\ENG saying
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT n@m
+\RTGR 11
+\DSRC HAJ94
+\CMTS TK changed PH
+\date 25/Jun/96
+\lex n@'-yum.i
+\_no 00238
+\LG MIG
+\PSH [n@: yumi]
+\UND n@7-yum. E
+\MB agua, hervir, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG remolino de agua; borbollo*n de agua
+\ENG fountain of water
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH001R0611004.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT yum
+\RTGR T2
+\DSRC HAJ94
+\CMTS for 'agua hervida', see examples under yum-
+\date 08/Feb/96
+Page 96

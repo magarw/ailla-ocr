@@ -1,0 +1,62 @@
+\XSP Cae_granizo cuando llueve.
+\XEN Hail falls when it rains.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 11/Jan/96
+\lex kandela7
+\_no 01171
+\LG MIG
+\PSH
+\UND kandela
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG vela
+\ENG candle
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH - ok; fixed it: TK
+\date 24/Jun/96
+\lex kandela' k@nh-w@+'am kuk+kina.anh
+\_no 01172
+\LG MIG
+\PSH [kandela k@nhnham kukkina*nh]
+\UND kandela7 k@nh-w@+7am kuk+kin@.7anh
+\MB vela, quemarse, COM, YA, centro, X, X
+\VAR
+\GRAM f
+\SCI
+\USE
+\SPG cabo de la vela
+\ENG candle wick
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+SEMF
+\ETYM
+\ETL
+\ROOT k@nh
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 24/Jun/96
+\lex kandel (a')=kabu
+Page 510

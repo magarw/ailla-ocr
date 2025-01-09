@@ -1,0 +1,63 @@
+\GRAM pron
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU tij-tam-w@ 7@n+ yox-tam-E y@.d@ yanhke d@k+7a(y)
++j@nanh
+\XPSH [Tijtamm@n yoxtame y@d@ yanhke dakj@nanh.]
+\XSP Fuimos a trabajar con estos gringos.
+\XEN we came to work with these gringos.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {y@.ji.inh}
+\_no 04541
+\LG MIG
+\PSH [y@ji*nh]
+\UND ya.ji.inh
+\MB DCT1, X
+\VAR
+\USE
+\GRAM av
+\SPG de aqui*, a este punto no ma*s
+\ENG to this point, no farther
+\SPL
+\SLGR
+\EXU
+\XPSH
+\XSP
+\XEN
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {y@.ji}
+\_no 04542
+\LG MIG
+\PSH [y@ji]
+\UND ya.ji
+\MB DCT1, LOC1
+\VAR yaja
+\USE proximal deictic
+\GRAM av
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG aqui*
+\ENG here
+\EXU y@.ji n@m 7@n+ tzam-w@ familya +j@nanh
+\XPSH [Y@ji n@mm@n tzamm@ familyaj@nanh.]
+\XSP Aqui estoy platicando con la familia.
+\XEN I'm here chatting with my family.
+\SYN
+\SEMF
+\ETYM
+Page 1950

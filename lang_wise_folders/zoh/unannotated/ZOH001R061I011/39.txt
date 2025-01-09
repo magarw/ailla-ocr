@@ -1,0 +1,60 @@
+\CMTS pass potz.7@m
+\lex poy
+\_no 00193
+\SPG juirse (animal o cristiano); irse con hombre (mujer); ir en otro lugar
+(animal); cambiarse de lugar (animal)
+\ENG to flee
+(animal or person); for a woman to go with a man; to go
+elsewhere (animal); to change places (animal)
+\EX poyy@ yom7une
+\XSP se juyo* la muchaca
+\XEN the girl ran_away
+\EX 7@y yakpoyy@ 7eyajonanh
+\XSP lo mando* arriar a un lado
+\XEN he herded them elsewhere
+\ROOT poy Il
+\CMTS caus yak.poy otro mandar que lo arriera (como un animal)
+\lex pu
+\_no 00194
+\SPG salir pus
+\ENG to ooze pus
+\EX
+\XSP
+\XEN
+\ROOT pu 12
+\CMTS caus yak.pu
+ZOH001R0611011.txt
+\lex pu
+\_no 00195
+\SPG deshilar; desatar
+\ENG to unravel; to untie
+\EX
+\XSP
+\XEN
+\ROOT pu P
+\CMTS pass pu.7@m deshacerse; deshilarse
+\CMTS antip pu.7oy deshilar; desatar
+\CMTS assum1 pu.ney estar deshilado
+\CMTS for desatar I got wat=pu also
+\lex puj
+\_no 00196
+\SPG inflar; soplar; hacer sonar el clarinete
+\ENG to inflate; to blow; to play a clarinet
+\EX
+\XSP
+\XEN
+\ROOT puj T3
+\CMTS antip puj.7oy
+\CMTS no pass puj.7@m *
+\lex pujuj
+\_no 00197
+\SPG derretirse; deshacerse aceite
+ENG to go rancid - oil
+\EX
+\XSP
+\XEN
+\ROOT pujuj 12
+\CMTS caus yak.pujuj derretir
+\lex pujum
+\_no 00198
+Page 39

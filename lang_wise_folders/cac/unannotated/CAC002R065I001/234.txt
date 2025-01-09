@@ -1,0 +1,54 @@
+VANITATI
+G
+A
+P
+he p'át wíl wíN ?án čí? #234
+MP heh p'át--w-?íl wíN ?án čí?
+PS
+PP
+SS
+Intro
+CI
+P
+MP
+PS
+SS
+WESTES!
+ឆ
+A
+VP
+int
+Main
+NP
+PP
+Pre-Adv
+Obj
+Clitic?
+yes go-it-I-see male * there
+well I go to see him there
+229
+Subj.
+G he-go-stay one horn sheep there
+he left
+that sheep
+#12.
+p'át kan xun č'ák kálnel čí? #¹2_
+Ø-p'át-kan xun č'ák kálnel čí?
+VP
+NP
+Main
+PP?
+entónse ščá?ankan p'e nok' ?ókés #22
+MP ?entónseh s-čá?-an-kan p'eh nok' ókes
+PS
+SS
+G
+E
+VP
+Main
+NP
+Obj
+NP
+Subj.
+then he-find-*-stay road animal coyote
+then the coyote took the road

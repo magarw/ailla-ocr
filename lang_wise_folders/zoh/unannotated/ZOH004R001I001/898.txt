@@ -1,0 +1,63 @@
+\lex m@jm@ 7amint@7
+\_no 02081
+\LG MIG
+\PSH
+\UND m@jm@ 7amint@7
+\MB mucho, an~o
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG varios o bastantes an~os
+ENG many years
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH - HAJ:96, added final 7 to 7amint@
+\date 19/Jun/96
+\lex m@jm@ kajwe 7okox
+\_no 02082
+LG MIG
+\PSH
+\UND m@jma kajwe 7okox
+\MB mucho, cafe*, mata
+\VAR
+\GRAM amsms
+\SCI
+\USE
+\SPG cafetal
+\ENG coffee plantation
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex m@jma k@x.kuy7
+\_no 02083
+\LG MIG
+\PSH [m@jma k@xkuy7]
+\UND m@jma k@x.kuy7
+\MB mucho, comer, INSTR1
+\VAR
+\GRAM instrl
+\SCI
+\USE
+\SPG bastimento
+\ENG provisions
+\EXU
+ZOH004R0011001.txt
+\XSP
+\XEN
+Page 898

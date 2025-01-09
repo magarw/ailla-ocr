@@ -1,0 +1,63 @@
+\lex 7anh=pakx
+\_no 00150
+\LG MIG
+\PSH [7anhpakx-]
+\UND 7anh-pakx
+\MB BOCA, doblar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG ponerle dobladillo
+ENG to hem
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pakx
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 08/Jan/96
+\lex 7anh-pakx.e
+\_no 00151
+\LG MIG
+\PSH [7anhpakxe]
+\UND 7anh-pakx. E
+\MB BOCA, doblar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG 1 pliegue
+\SPG 1 dobladillo
+\ENG 2 pleat
+\ENG 2 hem
+\EXU 7anh-pakx.e yot.e7
+\XPSH_[7anhpakxe yote7]
+\XSP [se puso] dobladillo en la ropa
+\XEN hem of clothing
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pakx
+\RTGR P, (T3)
+\DSRC TK94
+\CMTS
+\date 24/Jun/96
+\lex 7anh=panh
+\_no 00152
+\LG MIG
+ZOH004R0011001.txt
+\PSH [7anhpanh-]
+\UND 7anh=panh
+\MB BOCA, X
+\VAR
+\GRAM vt
+Page 64

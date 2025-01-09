@@ -1,0 +1,63 @@
+\USE
+\SPG 1 engan~ar
+\SPG 2 chismear
+\SPG 3 mentir
+\ENG 1 to deceive
+\ENG 2 to gossip
+\ENG 3 to lie
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT mek
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 20/Jun/95
+\lex 7anh-me7kx
+\_no 00125
+LG MIG
+\PSH [7anhme7kx-]
+\UND 7anh-me7kx
+\MB BOCA, abrazar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tener_abrazado, cuando despidimos o saludamos
+ENG to hold in a hug, when we say goodbye or we greet each other
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT me7kx
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 08/Jan/96
+\lex 7anh-me7kx=n@k
+\_no 00126
+\LG MIG
+\PSH [7anhme7kxn@k-]
+\UND 7anh-me7kx=n@k
+\MB BOCA, abrazar, irse
+\VAR
+\GRAM vt+aux
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG 11evar abrazado; irse abrazado
+\ENG to walk arm in arm
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+Page 54

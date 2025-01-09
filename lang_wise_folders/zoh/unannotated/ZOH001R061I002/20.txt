@@ -1,0 +1,63 @@
+\lex jopx
+\_no 00078
+\SPG tomar a boca de plato
+\ENG to drink from the plate
+\SEMF eat
+\ASP activity
+\ARG
+\NOM
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex jo7px
+\_no 00079
+\SPG poner bozal a*
+\ENG to muzzle
+\SEMF animal
+\ASP achievement
+\ARG
+\NOM jo7px.kuy7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex jot
+\_no 00080
+\SPG cortar fruta de cafe* parejo, maduro con verde
+\ENG to pick
+both ripe and green coffee beans together
+\SEMF pick, hand
+\ASP activity
+\ARG instrument
+\NOM * kuy7,
+\NOM jot.naanh
+\RTGR T3
+\POS da jotjayy@ kajwe
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex jox
+\_no 00081
+\SPG amasar
+\ENG to knead masa
+\SEMF cook, corn
+\ASP activity
+\ARG
+\NOM
+\RTGR T1
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\lex ju7u
+\_no 00082
+me corto* mi cafe*
+Page 20

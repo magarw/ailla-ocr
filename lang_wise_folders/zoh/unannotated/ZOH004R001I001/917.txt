@@ -1,0 +1,62 @@
+\CMTS mango, naranja, fruta
+\CMTS frozen prefix na.
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex naka=xem.pe'=xem-pa+a7k
+\_no 02126
+\LG MIG
+\PSH [nakaxempexempa*7k]
+\UND naka=xem.pe7=xem-pā+ P@7k
+\MB cuero, tocar, X, tocar, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG tamborero
+\ENG drummer
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT xem
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex naka'tz.e7
+\_no 02127
+\LG MIG
+\PHO [nakatze7]
+\UND naka7tz.E7
+\MB planchar, NOM7
+\VAR
+\GRAM pcp
+\SPG planchada, machucada
+\ENG ironed, crushed
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT naka7tz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex nakx
+\_no 02128
+\LG MIG
+\PSH
+\UND nakx
+\MB
+\VAR
+ZOH004R0011001.txt
+\GRAM vt
+\SCI
+\USE
+\SPG pegar, majar (con palo)
+\ENG to hit, to pound (with a piece of wood)
+\SPL nakx.7oy
+Page 917

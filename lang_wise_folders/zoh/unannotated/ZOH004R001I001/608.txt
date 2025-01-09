@@ -1,0 +1,62 @@
+\ETL
+\ROOT nem
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex ko. nem [2]
+\_no 01396
+\LG MIG
+\PSH [konem]
+\UND ko.nem.0
+\MB OTRO, talonear, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG tijera
+\ENG scissors
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nem
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 11/Feb/96
+\lex ko.nip
+\_no 01397
+\LG MIG
+\PSH [konip-]
+\UND ko.nip
+\MB OTRO, sembrar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG resembrar
+\ENG to resow
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nip
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 01/Oct/94
+\lex ko.nuk. 'oy
+\_no 01398
+\LG MIG
+\PSH [konukkoy-]
+\UND ko.nuk. 7oy
+\MB OTRO, agarrar, ANTIP
+ZOH004R0011001.txt
+Page 608

@@ -1,0 +1,63 @@
+\lex jep
+\_no 00050
+\SPG trayar (maguey)
+\ENG
+\EX jeppa
+\XSP esta* trayando maguey
+\XEN
+\ROOT jep T3
+\SEMF obj, affect
+\PASS jep.7@m trayarse
+\ANTI jep.7oy trayar
+\CMTS won't accept any with ergative pronouns today
+\lex jepx
+\_no 00051
+\SPG agarrar con jicara
+\ENG to scoop up
+\EX 7@y jepx@ bi n@7 tzimaj@nanh
+\XSP agarro* el agua con ji*cara
+\XEN she dipped up the water with a dipper
+\EX jepx@mm@ bi na tzimapi7t
+\XSP se agarro* el agua con ji*cara
+\XEN the water was scooped up with a dipper
+\ROOT jepx P (T3)
+\SEMF pick_up, instr
+\PASS jepx.7@m agarrarse
+\ANTI jepx. 7oy agarrar
+\ASSU jepx.ney estar montonado (arena_o grava)
+\PRSV jepx=ten lo tiene (el agua) en la ji*cara
+\CMTS ASSU: tiene embutido la ji*cara dentro el agua
+\CMTS term tuk
+\lex je7p
+\_no 00052
+\SPG pescar con manta
+\ENG to fish with a cloth
+\EX tijj@ 7@y je: pe
+\XSP fue* a pescar con manta
+\XEN he went to fish with a cloth
+ZOH001R0611010.txt
+\EX 7@y je7ppa koke
+\XSP pesca con manta
+\XEN he fishes with a cloth
+\EX je7ppa
+\XSP esta
+pescando
+\XEN she's fishing
+\ROOT je7p P (T3)
+\SEMF hunt, instr
+\CMTS fishing with a manta, like a sheet, that you tie around your neck and
+\CMTS then spread with the hands, leaning forward to scoop up some water
+\CMTS and fish
+\PASS NONE
+\ANTI je7p. 7oy pescar
+\PRSV je7p=ten tiene la manta dentro del agua
+\ASSU je7p.ney estar adentro del agua la manta
+\CMTS v class: uncertain. now rejects ASSU and PRSV, saying it doesn't make
+\CMTS sense. Reason: this is an activity, you don't just stand there with
+\CMTS the cloth in the water, you scoop and spread
+\CMTS probably a T1. OBJ is always redundant
+\lex jetz
+\_no 00053
+\SPG rascar
+\ENG to scratch
+Page 13

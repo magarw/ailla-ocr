@@ -1,0 +1,78 @@
+ZOH001R0361001.txt
+\sg] y
+DCT2-DEM hoja 3E nombre epazote hoja
+\egl and DCT2-DEM leaf 3E name
+epazote leaf
+7ay.
+\zoq 7i ded@ 7ay 7@y_n@ji kixawa
+\fts Y esa hoja se llama hoja de epazote.
+fte And that leaf is called epazote.
+\com
+\idx
+\ref ZOH001R036 999-208
+\_no 01189
+\tx kixawa 7ay
+\mb kixawa 7ay7
+\sg1 epazote hoja
+\egl epazote leaf
+\zoq Kixawa 7ay.
+\fts Hoja de epazote.
+\fte Epazote leaf.
+\com
+\idx
+\ref ZOH001R036 999-209
+\_no 01190
+\tx 7@m yumpa
+\mb
+7@m yum
+yakk@ y
+7uk@
+-pa yakk@ 7@y 7uk
+-A7
+hervir(se)-INC VOL 3E tomar-iOPT
+-INC VOL 3E drink-iOPT
+\sg1 2E
+\egl 2E boil
+\zoq 7@m yumpa yakk@y 7uk@,
+\fts Lo hierves que lo tome,
+\fte You boil it so he can drink it,
+\com
+\idx
+\ref ZOH001R036 999-210
+\_no 01191
+kumu
+d@kka
+\tx pa pitz@mpa gag@
+para pitz@m-pa
+\mb
+ka -g@ kumu7 d@kkay
+\sg1 para salir -INC DCT3-DEM lombriz NPL
+\eg1 for leave -INC DCT3-DEM worm
+NPL
+\zoq pa pitz@mpa_gag@ kumud@kka.
+\fts para que salga esas lombrices.
+\fte so that those worms leave.
+\com
+\idx
+\ref ZOH001R036 999-211
+\_no 01192
+\tx toykuy
+7@m xoxpa
+para y
+\mb toykuy7 7@m xox -pa para 7@y
+\sgl algo
+2E cocer-INC para 3E
+\egl something 2E cook -INC for 3E
+7ukpa
+7uk
+-pa
+tomar -INC
+drink-INC
+\zoq Toykuy 7@m xoxpa paray 7ukpa.
+\fts Bastante coces para que lo tome.
+\fte You cook a lot so that he drinks it.
+\com
+\idx
+\ref ZOH001R036 999-212
+\_no 01193
+Page 256

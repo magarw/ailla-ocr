@@ -1,0 +1,62 @@
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date
+\lex yoya m@tz.i
+\_no 00480
+\LG MIG
+\PHO [yoya m@tzi]
+\UND yoya m@tz. E
+\MB marrano, *jugar, NOM7
+\VAR
+\GRAM smpcp
+\SPG animal que vive en un hoyo
+\ENG an animal that lives in a hole
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT * m@tz
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex yo't.e7
+\_no 00481
+\LG MIG
+\PSH [yote7]
+\UND yo7t.E7
+\MB X, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG ropa
+\ENG clothes
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT %yo7t
+\DSRC TK94
+\CMTS cf. MAR yo7te
+\date 29/Jan/96
+\lex yo't.e'=nem.kuy7
+\_no 00482
+ZOH001R0611004.txt
+\LG MIG
+\PSH [yote nemkuy7]
+\UND yo7t.E7=nem.kuy7
+\MB X, NOM7, cortar_con_tijeras, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG tijeras
+\ENG scissors
+\EXU
+\XSP
+\XEN
+Page 190

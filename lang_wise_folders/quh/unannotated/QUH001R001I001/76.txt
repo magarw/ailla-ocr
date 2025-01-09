@@ -1,0 +1,50 @@
+76
+meramente referencial (o "reflexionista", según Silverstein 1976), es decir, en tanto señalaría
+"realidades" externas al lenguaje. Austin muestra e indaga cómo el lenguaje no se utiliza
+solamente para describir cosas, sino para realizar acciones. Así construye un aparato analítico,
+la Teoría de los Actos de Habla, como herramienta de acceso para analizar los enunciados en
+tanto actos sociales. Su unidad de análisis la constituye el acto de habla, unidad en la que
+quedan relacionados los aspectos lingüísticos-discursivos con las regulaciones de la praxis
+social. Según Austin, cada acto tiene condicionamientos "contextuales" fuertes que lo
+presuponen. En este sentido, el contexto es entendido como situacional y reglado
+(culturalmente). Funcionaría al modo de un set de convenciones que le proveen al acto
+lingüístico la infraestructura a través de la cual las expresiones adquieren su fuerza
+ilocucionaria e interpretabilidad. En una especie de ceremonial
+una especie de ceremonial social quedan así
+convencionalizados lugares, participantes, fórmulas lingüísticas, según sea el caso. Dentro de
+la teoría, es la “adecuación contextual" la que determina la "felicidad" de las acciones, y, por
+lo tanto, interviene en su significación respaldando los significados. Austin todavía va más
+allá. Él define una noción fundamental para una teoría de la interpretación: la de
+"performatividad”. Se trata de la propiedad de los actos lingüísticos de realizar acciones que
+afectan al contexto que los rodea (siempre todavía en tanto "fondo" de la comunicación:
+medio ambiente y medio social). Es decir, el interés de Austin por el contexto trasciende la
+idea de que las descripciones concuerden con el mundo, o que las acciones se adecuen a un
+contexto externo sino que introduce en la noción de contexto los efectos que las acciones de
+los hablantes tienen en tanto buscan también que el mundo se adapte a sus deseos y
+necesidades. Sin embargo, mantiene el carácter presuposicional del contexto. Para él, el
+concepto de contexto incluye elementos no lingüísticos (situacionales, corporales, gestuales,
+etc.) y lingüísticos (los intercambios realizados con anterioridad y/o posterioridad al acto
+como también las rutinizaciones de los "rituales" sociales que cada acto presupone, su
+"intertextualidad”).
+Estos avances, y los formulados por Searle, sobretodo en sus análisis de las
+regulaciones del habla, ponen en cuestión la delimitación tradicional entre el campo de la
+semántica y el de la pragmática
+agmática y amplían el concepto de contexto y de significación. Pero es
+Grice quien formula como marco regulador de los significados el Principio de Cooperación
+(que contiene, siguiendo la lógica kantiana, cuatro máximas) que, según él, guían la actividad
+lingüística y conversacional en tanto postulado fáctico o acuerdo a priori que los hablantes
+emplean para comunicarse "eficazmente". De su funcionamiento conversacional deriva el
+concepto de "implicatura” utilizada en la teoría de los Actos de Habla para explicar cómo los
+oyentes llegan al significado de un enunciado no sólo por la comprensión semántica
+referencial sino por procesos de inferencias basados en patrones culturales de interacción. El
+procedimiento sería el siguiente: cada vez que el receptor no encuentra adecuada la
+contribución del locutor desencadena un procedimiento de inferencia a partir de formular
+hipótesis que concilian nuevamente la cooperación entre las personas. Ésta se constituiría en
+una especie de "guía" para la comunicación. La conciliación del vacío o de la transgresión del
+acuerdo es lo que Grice analiza como "proceso de implicitación" o de formación de
+implicaturas, intentando dar cuenta de cómo se genera significado en contexto. Su propuesta
+trasciende las evaluaciones semánticas en términos de verdad/falsedad de los enunciados pero
+no alcanza a explorar el valor de la interacción en la definición misma del contexto.
+La máxima de relación o pertinencia de Austin será reformulada luego por Sperber y
+Wilson (1986) quienes proponen el concepto de "relevancia" como el principio más
+importante en el proceso de interpretación. Ellos consideran el contexto como un conjunto de

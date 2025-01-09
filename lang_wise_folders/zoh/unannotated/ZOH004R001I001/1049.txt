@@ -1,0 +1,63 @@
+\_no 02433
+\LG MIG
+\PSH
+\UND n@ji
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG nombre
+\ENG name
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Aug/94
+\lex n@ji. 7aH
+\_no 02434
+\LG MIG
+\PSH [n@ji7a-]
+\UND n@ji.7aH
+\MB nombre, VERS1
+\VAR
+\GRAM vt: vers1
+\SCI
+\USE
+\SPG 11amarse
+\ENG to be called (a name)
+\EXU 7@y+ n@ji.7aн-pa Maria
+\XPSH [7@y n@ji7apa Maria.]
+\XSP va a ser su nombre Maria.
+\XEN She named her Maria.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS to say me llamo Ana' it's just /7@n+ n@ji 7ana/
+\date 27/Jan/96
+\lex n@ji.7@y
+\_no 02435
+\LG MIG
+\PSH [n@ji7@y-]
+\UND naji.7@y
+\MB nombre, VERS2
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG ponerle su nombre
+\ENG to give someone a name
+\EXU
+ZOH004R0011001.txt
+\XSP
+\XEN
+Page 1049

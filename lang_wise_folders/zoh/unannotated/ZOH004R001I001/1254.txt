@@ -1,0 +1,63 @@
+\USE
+\SPG escarbar
+\ENG to dig
+\SPL taj.7oy
+\SLGR ANTIP
+\SLGL escarbar // to dig
+\SPL taj.7@m
+\SLGR PASS
+\SLGL escarbarse // to be dug
+\SPL taj.ten
+\SLGR PRSV
+\SLGL tener escarbado // to have something dug
+\EXU 1 7@y+ taj-w@ bi nax
+\XPSH 1 [7@y tajj@ bi nax.]
+\XSP 1 Escarbo* la tierra.
+\XEN 1 He dug the ground.
+\EXU 2 7@y+ taj.ten-w@ bi nax
+\XPSH 2 [7@y tajtenn@ bi nax.]
+\XSP 2 Tiene escarbado la tierra.
+\XEN 2 He's got the dirt dug.
+\SYN
+SEMF build
+\ASP activity
+\ARG
+\NOM taj.e7
+\SUB taj=tum.'anh.'aH
+\ETYM
+\ETL
+\ROOT taj
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex taj.e7
+\_no 02914
+\LG MIG
+\PHO [taje7]
+\UND taj. E7
+\MB escarbar, NOM7
+\VAR
+\GRAM pcp
+\SPG escarbada
+\ENG dug
+\EXU nax taj.e7
+\XPSH [nax taje7]
+\xSP tierra escarbada
+\XEN dug earth
+\SYN
+\ROOT taj
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+ZOH004R0011001.txt
+\lex taj=tum.'anh. 'aH
+\_no 02915
+\LG MIG
+\PSH [tajtummanhnha-]
+\UND taj-tum. 7anh.7aH
+\MB escarbar, uno, X, VERS1
+\VAR
+\GRAM versl
+Page 1254

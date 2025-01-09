@@ -1,0 +1,32 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+completive and incompletive inflectional suffixes can be used with any type of
+verb. There are also two syntactic constructions for forming the perfect and the
+progressive.
+13.1.1. Completive
+Completive aspect "present[s] a situation as a single whole" (Smith,
+1991:103), including both endpoints of a situation. Verbs with completive
+aspect are consistently translated with the Spanish preterite tense. The
+completive is the most usual choice in narrative texts; since it presents the
+endpoint of a situation, it is used to move the events of the story forward in
+time.
+(13.1)
+(i)
+(ii)
+tum pong nøkkøy koyoxe tum rrancho
+tum poŋ nǝk-wə
+əy+ ko.yoš-E
+tum rrančo
+one time go-COM 3E+ SOC.work-dCOM one ranch
+'Once he went to seek work on a ranch.'
+kwando ye'tztzø sena 'ora
+kwando 0 ye?c-wǝ
+sena Pora
+when 3A arrive-COM dinner hour
+tijjø 'øy yakse:ntzøki
+tih-wə
+(ZOH001 R018-023)
+?əy+ yak.senar=cək-E
+go&return-COM 3E+ CAUS.dine-do-dCOM
+'When dinner time came, she went to give him his dinner.'
+314
+(ZOH001R012-248-50)

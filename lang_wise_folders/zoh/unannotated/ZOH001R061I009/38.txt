@@ -1,0 +1,63 @@
+\SPG aran*ar; rasgun~ar
+\ENG to rake; to scratch
+\EX
+\XSP
+\XEN
+\ROOT wo7kx T3
+\SEMF affect
+PASS NONE wo7kx.7@m *
+\ANTI wo7kx.7oy
+\CMTS
+\lex won
+\_no 00158
+\SPG sacar majagua
+\ENG
+\EX tzaywonn@
+\XSP saco* majagua
+\XEN
+\ROOT won P, (T3)
+\SEMF obj
+\PASS won.7@m sacarse la majagua
+\ANTI won. 7oy sacar majagua
+\ASSU wonneyy@ ya se saco* la majagua
+\CMTS
+\lex wox
+\_no 00159
+\SPG pelar naranja
+\ENG to peel
+\EX woxtene anax d@kka
+\XSP tiene pelado las naranjas
+\XEN the oranges are peeled
+\ROOT wOX T3
+\lex wox
+\_no 00160
+-
+\SEMF cut, affect
+\PASS wox.7@m pelarse
+\ANTI wox. 7oy pelar
+\PRSV wox=ten-e lo tiene pelado
+\CMTS
+an orange
+\SPG sacar puntas
+\ENG to sharpen
+\EX woxpunta7aw@
+\XSP lo saco* puntas
+\XEN she sharpened it
+\ROOT wOX T3
+\SEMF affect, cut
+\lex woy
+\_no 00161
+\PASS NONE wox.7@m *
+\ANTI WOX.7oy
+\CMTS won't accept the bare root today
+\SPG enrollar; recoger; enroscar
+\ENG to roll up; to pick up
+\EX
+\XSP
+\XEN
+\PASS woy.7@m
+\ANTI woy.7oy
+ZOH001R0611009.txt
+\ROOT woy P, (T3)
+\SEMF pick_up, position
+Page 38

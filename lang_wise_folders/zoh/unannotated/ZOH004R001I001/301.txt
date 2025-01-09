@@ -1,0 +1,63 @@
+\SPG 1 casarse
+\SPG 2 tener marido
+\ENG 1 to get married
+\ENG 2 to have a husband
+\SPL yak.jaya.7@y
+\SLGR CAUS
+\SLGL dejar casarse // to allow to marry
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 13/Jun/95
+\lex jay.jay
+\_no 00701
+\LG MIG
+\PSH [jayjay-]
+\UND jay.jay
+\MB escribir, APPL
+\VAR
+\GRAM vt:indir
+\SCI
+\USE
+\SPG escribir a* alguien
+\ENG to write to someone
+\EXU 7@y+ jay.jay-w@ ney_7iw@
+\XPSH [7@y jayjayy@ ney 7iw@.]
+\XSP Escribio* a alguien.
+\XEN She wrote to someone.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jay
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\lex jay.kuy7
+\_no 00702
+\LG MIG
+\PSH [jaykuy7]
+\UND jay.kuy7
+\MB escribir, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG 1 lapiz
+\SPG 2 e*1 con que escribe
+\ENG 1 pencil
+\ENG 2 writing instrument
+\EXU
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+Page 301

@@ -1,0 +1,86 @@
+\fte I went to carry fish.
+\com
+\idx
+\ref ZOH001R047 013
+\_no 00014
+\tx 7entonse n@mpa
+\mb 7entonses n@m
+\sg1 entonces
+\egl then
+\ref ZOH001R047 014
+\_no 00015
+\tx 7aha7n.
+\zoq 7ah7n.
+\fts Mmmm.
+\fte Uhuh.
+-pa bi
+decir-INC DEF XE
+say -INC DEF XE
+\zoq 7entonses n@mpa bi dan jaya ke "Tz@k@ tum kaldu."
+\fts Entonces dice mi marido que "Haz un caldo.'
+\fte Then my husband says that "Make a stew."
+\ref ZOH001R047 015
+\_no 00016
+\tx
+7entonse bin
+7entonses bi -7@n
+\mb
+\sg1 entonces DEF-1E nuera
+\egl then
+DEF-1E
+bi dan jaya ke tz@ka
+tum kaldu.
+dan jaya ke tz@k -A7 tum kaldu.
+macho que
+hacer-IMPV uno caldo.
+male that do -IMPV one stew
+\ref ZOH001R047 016
+\_no 00017
+\tx 7aha7n si.
+\zoq 7aha7n, si.
+\fts Aha, si*.
+\fte Uhuh, yes.
+\tx k@xxoyy@
+bi dan jaya.
+\mb k@x -7oy -wa bi dan jaya
+\sg1 comer-ANTIP-COM DEF XE
+esposo
+\egl eat -ANTIP-COM DEF XE husband
+\ref ZOH001R047 017
+\_no 00018
+\tx
+\mb
+ZOH001R0471001.txt
+jaxake
+jaxake7
+\zoq 7entonses bin jaxake7 7@y tz@kk@ bi kaldu, para k@xxoyy@ bi dan jaya.
+\fts Entonces mi nuera hizo el caldo, para que comio* mi marido.
+\fte Then my daughter-in-law made the stew, so my husband could eat.
+\com
+\idx
+3E
+daughter_in_law 3E
+7entonse pwes gay
+7entonses pwes ka -Y
+7@y tz@kk@
+bi kaldu, para
+7@y tz@k -w@ bi
+bi kaldu. para
+hacer-COM DEF caldo. para
+do -COM DEF stew. for
+"I
+\zoq 7entonses pwes, gay k@xxoyy@ gad@kkay.
+\fts Entonces pues, comieron ellos.
+\fte well then, they ate.
+\com
+\idx
+\ref ZOH001R047 018
+k@xxoyy@
+k@x -7oy -wa ka -7
+ga
+\sg1 entonces pues DCT3-TMP comer-ANTIP-COM DCT3-NOM1 NPL
+\egl then
+well DCT3-TMP eat -ANTIP-COM DCT3-NOM1 NPL
+Page 4
+d@kk@.
+d@kkay

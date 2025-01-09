@@ -1,0 +1,63 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\1ex_tzaj-nakx.kuy7
+\_no 03229
+\LG MIG
+\PSH [tzajnakxkuy7]
+\UND tzaj=nakx.kuy7
+\MB pegar_con_pegamento, pegar_con_palo, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG honda
+\ENG bola; slingshot
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tzaj
+\RTGR 1 P (T3)
+ROOT 2 nakx
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS
+\date 16/Jun/95
+\lex tzaj-nakx.tum7
+\_no 03230
+\LG MIG
+\PSH [tzajnakxtum7]
+\UND tzaj-nakx=tum7
+\MB pegar_con_pegamento, pegar_con_palo, x
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG honda
+\ENG bola; slingshot
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+SEMF
+\ETYM
+\ETL
+\ROOT 1 tzaj
+\RTGR 1 P (T3)
+\ROOT 2 nakx
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS ANALYSIS; tum7 doesn't occur alone
+\date 26/Jun/96
+Page 1389

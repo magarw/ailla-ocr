@@ -1,0 +1,64 @@
+\lex j@p=watzi7
+\_no 01010
+\LG MIG
+\PSH [j@pwatzi7]
+\UND jap=watzi7
+\MB boca, pelos
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG bigote
+\ENG moustache
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 10/Jan/96
+\lex j@p-xoa7
+\_no 01011
+LG MIG
+\PSH [j@pxoa7]
+\UND jap-xowa7
+\MB boca, X
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG 1 boca de "shawi"
+\SPG 2 hablador
+\SPG 3 muy hablanti*n
+\ENG 1 mouth of the xawi
+\ENG 2 talker
+\ENG 3 very talkative
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-GR, CK-PH etc.
+\date 24/Jun/96
+\lex j@p-xux.kuy7
+\_no 01012
+\LG MIG
+\PSH [j@pxuxkuy7]
+\UND jap-xux.kuy7
+\MB boca, chiflar, INSTR1
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG boca de la "chona"
+\ENG opening of the vagina
+\SPL
+\SLGR
+ZOH004R0011001.txt
+ok HAJ:96; no [w]: TK
+Page 443

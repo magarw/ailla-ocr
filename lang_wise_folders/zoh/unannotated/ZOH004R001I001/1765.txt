@@ -1,0 +1,63 @@
+\VAR
+\GRAM caus2
+\SCI
+\USE
+\SPG ponerse una trampa; hacerle enredar
+\ENG to set a trap; to cause to be snared
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * xi7tz
+\DSRC HAJ94
+\CMTS CK-PH, CK-GR, CK-GL ok/OK: TK
+\date 26/Jun/96
+\lex yak.yuk.jej
+\_no 04107
+\LG MIG
+\PSH [yakyukjej-]
+\UND yak.yuk.jej
+\MB CAUS, ARR, vivir
+\VAR
+\GRAM caus2
+\SCI
+\USE
+\SPG revivir; resucitar
+\ENG to revive; to resuscitate
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jej
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+\lex yak.yuk.konh
+\_no 04108
+\LG MIG
+\PSH [yakyukkonh-]
+\UND yak.yuk.konh
+\MB CAUS, ARR, gatear
+\VAR
+\GRAM caus2
+\SCI
+\USE
+\SPG levantar
+ENG to raise
+\EXU
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT konh
+Page 1765

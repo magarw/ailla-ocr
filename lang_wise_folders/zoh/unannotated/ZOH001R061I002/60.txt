@@ -1,0 +1,61 @@
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex potz [1]
+\_no 00241
+\SPG 1 embarrar
+\SPG 2 hacer pared; enlodar casa
+\ENG 1 to smear mud
+\ENG 2 to make a wall; to mud a house
+\SEMF build
+\ASP activity
+\ARG
+\NOM potz.e7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex potz [2]
+\_no 00242
+\SPG cansarse; aburrirse
+\ENG to get tired; to be bored
+\SEMF cognitive, body
+\ASP
+\ARG
+\NOM potz.e7, potz.kuy7
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex po7tz
+\_no 00243
+\SPG poner la mano en forma ma*s o menos plana
+\ENG to put the more or less flat hand down on something
+\SEMF hand
+\ASP state, achievement
+\ARG
+\NOM Y
+\RTGR TX
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex po' [1]
+\_no 00244
+ZOH001R0611002.txt
+\SPG rajar
+\ENG to split
+\SEMF cut
+\ASP achievement
+\ARG patient
+\NOM po.e7
+\NOM po'.kuy7
+\NOM naanh
+\RTGR T3
+Page 60

@@ -1,0 +1,29 @@
+CONN sihkru DET Honduras-LOC make-IMPF AUX.3.NPST and sometime DET Nicaragua-LOC
+'después el sihkru se realiza en honduras y a veces en Nicaragua'
+'the sihkru takes place in Honduras and sometimes in Nicaragua'
+king Pulanka
+'el king pulanka'
+'the King Pulanka'
+mayo an
+DET Nicaragua inside-LOC make-IMPF AUX.3.NPST here
+'ese lo están realizando en Nicaragua'
+'they are implementing this in Nicaragua'
+'en mayo y en febrero'
+'in May and February
+CONN community PL.DIST DET community small
+'entonces cada comunidad de las comunidades mas pequeñas'
+play-IMPF come-IMPF ?
+'vienen danzando'
+baha ba urali bawina tambaku
+that DET Urali then tambaku
+'the Urali and then the Tambaku'
+bawina naha usus mairin
+then this vulture female
+'y también el usus mairin que es un poco de'
+'and also the usus mairin which is kind of"
+PL.DIST
+ba
+DET
+big AUX.3.NPST fact be.3.PERF DET AUX vulture female DET AUX vulture
+‘el significado es muy grande porque existe muchos zopilotes'
+'the meaning is very great because there are many vultures'

@@ -1,0 +1,62 @@
+\SPL jim.7oy
+\SLGR ANTIP
+\SLGL tocar al pasar // to touch in passing
+\SPL jim.7@m
+\SLGR PASS
+\SLGL tocarse // to be touched
+\DSRC HAJ94
+\CMTS CK-EX ok, HAJ:96
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex jim.jim.ney
+\_no 00766
+\LG MIG
+\PSH [jimjimney-]
+\UND jim.jim.ney
+\MB
+\VAR
+\GRAM VİR
+\SCI
+\USE
+\SPG pedir bastante que le da algo
+\ENG to ask persistently that you be given something
+\SPL
+\SLGR
+\EXU 1 7@m+ ko.jim.jim.ney-pa yox.kuy7
+\XPSH 1 [7@m kojimjimneba yoxkuy7.]
+\XSP 1 Esta*s pidiendo que te de* trabajo.
+ZOH004R0011001.txt
+\XEN 1 You're pestering them for work.
+\EXU 2_7@n+ ko.jim.jim.ney-w@ pitzenh+jo7 d@ tzi-xuk-wa
+\XPSH_2 [7@n kojimjimneyy@ pitzenhjo d@ tzixukk@.]
+\XSP 2 Estuve "pegado"; por eso me lo dieron.
+\XEN 2 I was persistent so they gave it to me.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jim
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 24/Jun/96
+\lex jim.naanh
+\_no 00767
+\LG MIG
+\PHO [jimna*nh]
+\UND jim.naanh
+\MB rozar, MED
+\VAR
+\GRAM meas
+\SPG una tocada al pasar
+\ENG a touch in passing
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT jim
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+Page 332

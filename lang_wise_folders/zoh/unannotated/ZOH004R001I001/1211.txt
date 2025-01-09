@@ -1,0 +1,63 @@
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex pux
+\_no 02813
+\LG MIG
+\PSH
+\UND pux
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG deshacer algo de barro no bien "cocido"; desboronar
+\ENG to break up a badly-fired clay object; to crumble
+\SPL pux. 7oy
+\SLGR ANTIP
+\SLGL desboronar // to crumble
+\SPL pux.7@m
+\SLGR PASS
+\SLGL desboronarse // to crumble
+\EXU 1 pux. 'oy-w@+@7k
+\XPSH 1 [puxxoyy@*7k]
+\XSP 1 el que lo desborono*
+\XEN 1 the one who made it crumble
+\EXU 2 7@y+ pux-w@ bi nea7
+\XPSH 2 [7@y puxx@ bi nea7.]
+\XSP 2 Le quito* un pedazo de lodo la pared.
+\XEN 2 A piece of mud fell off the wall.
+\SYN
+\SEMF break
+\ASP semelfactive, activity
+\ARG
+\NOM
+\SUB
+ZOH004R0011001.txt
+\ETYM
+\ETL
+\ROOT pux
+\RTGR T3
+\DSRC TK94
+\CMTS
+\CMTS puxx@ is when bits of an adobe building crumble off the edges
+\date 03/Jan/80
+\lex puy [1]
+\_no 02814
+\LG MIG
+\PSH
+\UND puy
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG doblarse porque no resiste la carga
+\ENG to bend under a weight
+\SPL puy.ney
+\SLGR ASSUM1
+\SLGL estar acurrucado, en "culuquilla" // to be huddled up, to be
+Page 1211

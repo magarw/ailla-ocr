@@ -1,0 +1,64 @@
+\MB CARA, abrazar, dormir
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG acostarse abrazando viendose en la cara
+\ENG to sleep arm in arm and face to face
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+ΧΕΝ
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 me7kx
+\RTGR 1 T3
+\ROOT 2 monh
+\RTGR 2 12
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex win-min
+\_no 03705
+\LG MIG
+\PSH [winmin-]
+\UND win-min
+\MB CARA, venir
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG venir sin nada
+\ENG to come with nothing; to come empty-handed
+SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT min
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex win-mok
+\_no 03706
+ZOH004R0011001.txt
+\LG MIG
+\PSH [winmok]
+\UND win-mok
+\MB CARA, mai*z
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG barro de la cara
+\ENG pimple on the face
+Page 1592

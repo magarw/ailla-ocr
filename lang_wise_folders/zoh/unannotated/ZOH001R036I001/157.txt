@@ -1,0 +1,84 @@
+\zoq OSM: N@7tti.
+\fts OSM: No.
+\fte OSM: No.
+\com
+\idx
+\ref ZOH001R036 733
+\_no 00722
+\tx y@d@
+\mb ya
+tuni
+-d@ tuni7
+\sg1 DCT1-DEM ciruelo
+\eg1 DCT1-DEM plum
+\zoq Yad@ tuni.
+\fts Este cirjuelo (de la casa).
+\fte This plum (of the house).
+\com
+\idx
+\ref ZOH001R036 734
+\_no 00723
+\tx gag@
+ka
+\mb
+ka -ga
+-g@
+\sg1 DCT3-DEM cuero 2E
+\eg1 DCT3-DEM skin 2E
+7@m_p@pa
+naka
+naka 7@m p@7 -pa
+\ref ZOH001R036 735
+\_no 00724
+\tx yumpa
+\mb yum
+\zoq Gag@ naka 7@m_p@pa xuyujo.
+\fts Esa ca*scara lo pones en la olla.
+\fte You put that bark in the pot.
+\com
+\idx
+-ра yum
+\ref ZOH001R036 736
+\_no 00725
+\tx ga
+\mb ka -7
+\tx 7axta moso
+\mb 7axta moso
+\sg1 hasta bonito
+\egl until beautiful
+\sg1 DCT3-NOM1
+\eg1 DCT3-NOM1
+ZOH001R0361001.txt
+yumpa
+poner-INC olla -Loc2
+put -INC pot -LOC2
+\sg] hervir(se)-INC hervir(se)-INC
+\egl boil
+-INC boil
+\zoq Yumpa, yumpa, yumpa.
+\fts Hierve, hierve, hierve.
+\fte It boils, it boils, it boils.
+\com
+\idx
+xuyujo
+xuyu7-jo7
+-pa yum
+yumpa
+-ра
+hervir(se)-INC
+-INC boil
+-INC
+tzapatz bi n@7
+7ax de7xe
+kom gay
+7axta te -7xe tzapatz bi n@7 komo ka -Y
+hasta DCT2-SIM rojo
+until DCT2-SIM red
+DEF agua como DCT3-TMP
+DEF water like DCT3-TMP
+\zoq 7axta moso 7ax de7xe_tzapatz_bi n@7 kom gay ga.
+\fts Hasta bonito asi* colorado el agua como esto.
+\fte Until it's beautiful, until the water is red like that now.
+\com <points at red light on recorder>
+\idx
+Page 157

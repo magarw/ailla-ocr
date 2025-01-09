@@ -1,0 +1,63 @@
+\LG MIG
+\PHO [wotzna*nh]
+\UND wotz.naanh
+\MB cortar_c_sierra, MED
+\VAR
+\GRAM meas
+SPG una serradita
+\ENG a single stroke of a saw
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT wotz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex wowo
+\_no 03806
+\LG MIG
+\PSH
+\UND WOWO
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG agujero
+\ENG hole
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex wowo-tz@k
+\_no 03807
+\LG MIG
+\PSH [wowotz@k-]
+\UND WOWO-tz@k
+\MB hoyo, HACER
+\VAR
+\GRAM vt: incorp
+\SCI
+ZOH004R0011001.txt
+\USE
+\SPG hacer agujero, ahuecar (de tierra o madera)
+\ENG to punch a hole, to make a little hole (in the earth or in wood)
+\EXU 1 7@y+ wowo-tz@k.jay-wa kuy
+\XPSH 1 [7@y wowotz@kjayy@ kuy.]
+\XSP 1 Lo hizo agujero de la madera.
+\XEN 1 He made a little hole in the wood.
+\EXU 2 wowo-tz@k-w@ nax+jo7
+\XPSH 2 [wowotz@kk@ naxjo7.]
+\XSP 2 Hizo hoyo en la tierra.
+\XEN 2 She made holes in the ground.
+\SYN
+Page 1636

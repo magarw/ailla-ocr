@@ -1,0 +1,9 @@
+61 afo yabu ihuodi
+afo yabu i-huo-di
+3PERS.PL nuit AUX.INTR-aller-PASL
+ils partirent dans la nuit
+62 ihuodimuquian
+i-huo-di-mu-quian
+AUX.INTR-aller-PASL-EXIST1-OST2
+ils partirent
+52

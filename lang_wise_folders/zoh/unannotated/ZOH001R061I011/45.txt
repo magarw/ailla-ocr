@@ -1,0 +1,59 @@
+\CMTS get deriv's
+\CMTS tiene que ser 'ti7kx@ n@7', not just 'ti7kx@'
+\lex toj
+\_no 00226
+\SPG
+\ENG
+\EX
+\XSP
+\XEN
+\ROOT toj Tx
+\CMTS CK-GR, CK-GL prob. sexual
+\lex tok
+\_no 00227
+\SPG manchar; batir
+\ENG to stain; to beat
+\EX
+\XSP
+\XEN
+\ROOT tok T3
+\CMTS antip tok. 7oy
+\CMTS pass tok.7@m mancharse
+\lex tokoy
+\_no 00228
+\SPG perderse
+\ENG to get lost
+\EX
+\XSP
+\XEN
+\ROOT tokoy Ix
+\CMTS caus2 yak+ tokoy perder
+\CMTS CK-GR
+\lex tokx
+\_no 00229
+\SPG pelarse mai*z que le echaron cal
+\ENG to wash corn that you've soaked in lime
+\EX tokx@ pitzi
+\XSP se pelo* el mai*z …..
+\XEN she washed the corn
+\ROOT tokx Ix
+ZOH001R0611011.txt
+\CMTS caus_yak.tokx pelar mai*z
+\CMTS the lime makes the outer layer of the kernel peel off
+\lex to7k
+\_no 00230
+\SPG tender; extender (petate) en cama o suelo
+\ENG to stretch; to lay out (a mat) on the bed or floor
+\EX
+\XSP
+\XEN
+\ROOT to7k P, (T3)
+\CMTS antip to7k. 7oy
+\CMTS pass to7k.7@m tenderse
+\lex to7kx
+\_no 00231
+\SPG dar palmada
+\ENG to slap; to spank
+\EX 7@y 7ene to7kx@
+\XSP 1o pego* la palmada en la nalga
+Page 45

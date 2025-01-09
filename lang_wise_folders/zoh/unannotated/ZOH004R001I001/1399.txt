@@ -1,0 +1,64 @@
+\SYN
+\SEMF hit
+\ASP achievement
+\ARG agent, patient
+\NOM tzanh.kuy7,
+\SUB 7an@k.tzanh.7@y, k@.tzanh-kap, tzanh-tuk. tuk.w@y, tzanh=wanh=ka'
+\ETYM
+\ETL
+\ROOT tzanh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex tzanh.kuy7
+\_no 03252
+\LG MIG
+\PSH [tzanhkuy7]
+\UND tzanh.kuy7
+\MB golpear, INSTR1
+\VAR
+\GRAM instrl
+\SCI
+\USE
+\SPG mano
+\ENG hand
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzanh
+\RTGR T3
+\DSRC HAJ94
+\CMTS lit. "slapp.er"
+\date 04/Apr/95
+\lex tzanh.kuy7 munyeka
+\_no 03253
+\LG MIG
+\PSH [tzanhkuy7 munyeka]
+\UND tzanh.kuy7 munyeka
+tzanh.naanh, tzaw.e7
+\MB golpear, INSTR1, mun~eca
+\VAR tzanhkuy muunyeka7
+\GRAM sms
+\SCI
+\USE
+\SPG antebrazo
+\ENG forearm
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM mun~eca
+ZOH004R0011001.txt
+\ETL Sp
+\ROOT tzanh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 20/Jun/95
+Page 1399

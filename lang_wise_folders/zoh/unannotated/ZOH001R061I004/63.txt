@@ -1,0 +1,63 @@
+\lex
+\_no 00153
+\LG MIG
+\PSH [k@:manhnh@7]
+\UND k@.manh. '@y.A7
+\MB FUERA, *pisar, SUF, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG subida
+\ENG upward slope
+\EXU
+\XSP
+\XEN
+\SYN
+k@.manh.'@<y.@>7
+SEMF
+\ETYM
+\ETL
+\ROOT %manh
+\RTGR P
+\DSRC HAJ94
+\CMTS
+\date 25/Jun/96
+\lex k@.nakx.e
+\_no 00154
+\LG MIG
+\PSH [k@nakxe]
+\UND k@.nakx. E
+\MB FUERA, pegar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG rozadura
+\ENG clearing
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nakx
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex k@.n@k-p@m.i'.7@y
+\_no 00155
+\SCI
+\USE
+\LG MIG
+\PSH [k@n@kp@mi7@y-]
+\UND k@.n@k=p@m.E7.7@y
+\MB FUERA, irse, aguantar, NOM7, SUF
+\VAR
+\GRAM vt
+ZOH001R0611004.txt
+\SPG exigir
+\ENG to exhort, to demand
+Page 63

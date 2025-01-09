@@ -1,0 +1,64 @@
+\lex pu' [2]
+\_no 00257
+\SPG salir pus
+\ENG for pus to ooze out
+\SEMF nature, emit
+\ASP state
+\ARG patient
+\NOM pu.@7
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex p@k (1)
+\_no 00258
+\SPG agarrar
+\ENG to grasp; to grab
+\SEMF hold,
+hand
+\ASP achievement
+\ARG
+\NOM
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex p@m
+\_no 00259
+\SPG aguantar
+\ENG to endure
+\SEMF body, cognitive
+\ASP activity
+\ARG
+\NOM p@m.i, p@m.kuy7
+\RTGR T1
+\POS N
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex p@n [1]
+\_no 00260
+\SPG estar puesto; ponerse
+agua, olla
+\ENG to be placed, like water or a jar
+\SEMF arrange
+\ASP state
+\ARG
+\NOM
+\RTGR 12
+\POS N
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex p@7t
+\_no 00261
+\SPG cruzar; pasar
+ZOH001R0611002.txt
+-
+Page 64

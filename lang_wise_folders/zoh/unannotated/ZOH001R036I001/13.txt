@@ -1,0 +1,79 @@
+\fts Para nuestro corazo*n lo compone,
+\fte For our heart it improves it,
+\com
+\idx
+\ref ZOH001R036 056
+\_no 00057
+\tx
+\mb kwando da toy
+\sg1 cuando 1A doler-RCP-1/2PL-INC porque
+\eg1 when
+kwando d@ toyy@dampa
+\tx yada
+\mb
+porke
+d@ -A - tam -pa porke
+mal
+ya -d@ mal
+\sg1 DCT1-DEM mal
+\eg1 DCT1-DEM bad
+\ref ZOH001R036 057
+\_no 00058
+\tx
+\mb
+DCT1-Loc1 hay
+1A hurt -RCP-1/2 PL-INC because DCT1-LOC1 there_is-VERS1-COM
+\zoq kwando d@ toyy@dampa porke y@ji teji7aw@ yada mal.
+\fts cuando nos enfermamos porque aqui* esta* ese mal.
+\fte when we get sick because we have this sickness here.
+\com
+\idx
+tzumukn@mpa
+tzu7 -muk
+ZOH001R0361001.txt
+\tx 7@y n@kk@
+\mb 7@y n@k -w@
+gay
+ka -y
+\sg1 3E irse-COM DCT3-TMP
+\egl 3E go -COM DCT3-TMP
+joypi7t kwandu x@nhkejan@mpa*m
+-An@m -pa joypi7t kwandu x@nh -kej -An@m -pa -7am
+\sg1 noche-caerse-INDEF-INC otro_di*a cuando fiesta -verse -INDEF-INC-YA
+\eg1 night-fall -INDEF-INC next day when festival-appear-INDEF-INC-NOW
+\ref ZOH001R036 058
+\_no 00059
+\tx 7@m 7ukt@kk@ba
+bi tzuji7t
+\mb 7@m 7uk-t@k -7@y -ра bi tzuji7t
+tomar-casa -VERS2-INC DEF saliba
+\zoq Tzumukn@mpa, joypi7t kwandu x@nhkejan@mpa*m 7@y nakk@ gay
+\fts Anochece y al otro di*a cuando ya viene amaneciendo
+\fte Night falls, the next day when it's dawning then
+\sg1 2E
+\egl 2E drink-house-VERS2-INC DEF saliva
+\zoq 7@m 7ukt@kk@ba bi tzuji7t.
+\fts tomas la saliba.
+\fte you drink the saliva.
+\com
+\idx
+y@ji
+ya -ji7
+\ref ZOH001R036 059
+\_no 00060
+\tx kay
+\mb ka
+kem
+7ukt@kk@yya*m
+ka -y ke -7@m 7uk -tak -7@y-w@ -7am
+tomar-casa -VERS2-COM-YA
+teji7aw@
+teji -7a -wa
+-VERS1-COM
+\zoq kay kem_7ukt@kk@yya*m,
+\fts ya que lo tomastes,
+\fte Now that you've drunk it,
+\com
+\sg1 DCT3-TMP que -2E
+\eg1 DCT3-TMP that-2E drink-house-VERS2-COM-NOW
+Page 13

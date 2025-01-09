@@ -1,0 +1,85 @@
+\mb GSM pa
+\sg1 GSM: salvaje-flor
+\eg1 GSM: wild
+\com
+\idx
+\zoq GSM: Pataxi.
+\fts GSM: Diavigo barraco.
+\fte GSM: wild ???
+-taxi 7
+\ref ZOH001R036 999-068
+\_no 01051
+flower
+\tx OSM: 7@m yak7anpa
+\mb OSM 7@m yak -7an
+\sg1 OSM: 2E CAUS-calentarse-INC
+\egl OSM: 2E CAUS-warm
+\zoq OSM: 7@m yak7anpa.
+\fts OSM: Lo calientas.
+\fte OSM: You heat it.
+\com
+\idx
+\tx ne7
+\mb ne7
+\sg1 tambien
+\egl also
+\ref ZOH001R036 999-069
+\_no 01052
+\tx 70 kom 7@m yakyumpa
+si m
+\mb 70 komo 7@m yak -yum
+si 7@m
+\sglo
+como 2E
+CAUS-hervir(se)-INC si 2E
+\egl or like 2E
+-INC if 2E
+CAUS-boil
+\com
+\idx
+-ра
+-INC
+\zoq 7@m_tzejaba 7@y kopak.
+\fts Le lavas su cabeza.
+\fte You wash their head.
+ZOH001R0361001.txt
+-pa
+\ref ZOH001R036 999-070
+\_no 01053
+\tx 7@m tzejaba
+\mb
+7@y kopak
+7@m tze7 -jay -pa 7@y kopak
+\sg1 2E lavar-APPL-INC 3E cabeza
+\egl 2E wash -APPL-INC 3E head
+\zoq 70 kom 7@m yakyumpa sim xoxt@pa n@mmoba ne7.
+\fts o como que lo hierves si lo quieres cocer se puedes tambien.
+\fte or like you boil it, if you want to cook it you can (do that) too.
+\com
+\idx
+n@mmoba
+-t@7 -pa
+n@m-7oy -pa
+cocer-querer-INC DO -ANTIP-INC
+cook -want -INC DO -ANTIP-INC
+xoxt@pa
+xox
+\ref ZOH001R036 999-071
+\_no 01054
+m
+tzejaba
+bese toypa
+\tx
+\mb 7@m tze7 -jay -pa 7@y kopak
+\sg1 2E lavar-APPL-INC 3E
+7@y kopak 7ay
+7ay
+cabeza hay
+jonhjo
+jonh -jo7
+veces doler-INC adentro-Loc2
+\egl 2E wash -APPL-INC 3E head there are times hurt -INC inside -LOC2
+beses toy -pa
+\zoq M tzejaba 7@y kopak, 7ay bese toypa jonhjo.
+\fts Le lavas su cabeza, hay veces duele adentro.
+Page 227

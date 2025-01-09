@@ -1,0 +1,63 @@
+\CMTS
+\DATE 03/Jan/1980
+\lex tzonh-pu'
+\_no 03408
+\LG MIG
+\PSH [tzonhpu-]
+\UND tzonh-pu7
+\MB unir, RVS
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG despegar
+\ENG to untie; to undo
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzonh
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+\lex tzot
+\_no 03409
+\LG MIG
+\PSH
+\UND tzot
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG salir sol o luna o estrella
+\ENG for the sun or moon or star to go down
+\SPL yak.tzot
+ZOH004R0011001.txt
+\SLGR CAUS
+\SLGL hacer salir (Dios) // (for God) to cause the sun or moon to go
+down
+\EXU 1 tzot-w@+'am jama
+\XPSH 1 [Tzotta*m jama.]
+\XSP 1 Ya salio* el sol.
+\XEN 1 Now the sun has gone.
+\EXU 2 tzot-w@+'am xepe7
+\XPSH 2 [Tzotta*m_xepe7.]
+\XSP 2 Ya salio* la luna.
+\XEN 2 Now the moon has gone down.
+\SYN
+\SEMF nature
+\ASP achievement
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT tzot
+\RTGR IX
+\DSRC TK94
+\CMTS get deriv's
+Page 1466

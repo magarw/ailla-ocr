@@ -1,0 +1,65 @@
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG gas
+\ENG gas
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Aug/94
+\lex gayitu m@tz.i7
+\_no 00622
+\LG MIG
+\PSH [gayitu m@tzi7]
+\UND gayitu m@tz.E7
+\MB gallito, *jugar, NOM7
+\VAR gayu m@tz.17
+\GRAM s (m) s
+\SCI
+\USE
+\SPG juguete de gallito
+\ENG air plant on telephone wires
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 13/Jun/95
+\lex granada7
+\_no 00623
+\LG MIG
+\PSH
+\UND granada7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG granada
+\ENG pomegranate
+\EXU
+\XSP
+\XEN
+LF:
+\SYN
+\SEMF EB
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+LF: kuy
+ZOH004R0011001.txt
+Page 266

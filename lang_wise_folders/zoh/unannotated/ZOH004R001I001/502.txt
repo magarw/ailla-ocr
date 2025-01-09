@@ -1,0 +1,62 @@
+\CMTS
+\date 11/Jan/96
+\lex kajwe=po7t
+\_no 01151
+\LG MIG
+\PSH [kajwepo7t-]
+\UND kajwe=po7t
+\MB cafe*, moler
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG moler cafe*
+\ENG to grind coffee
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT po7t
+\RTGR T1
+\DSRC TK94
+\CMTS
+\date 07/Feb/96
+\lex kajwe=tze7.e7
+\_no 01152
+\LG MIG
+\PSH [kajwe tze7e*7k]
+\UND kajwe=tze7.E7 +P@7k
+\MB cafe, lavar, NOM7, REL
+\VAR tze7e+7k kajwe
+\GRAM nom:incorp
+\SCI
+\USE
+\SPG cafe* lavado; cafe* limpio
+\ENG washed coffee beans; clean coffee beans
+\EXU kajwe puj tze7.e7
+\XPSH [kajwe puj tze7e*7]
+\XSP_cafe* despulpado, ya lavado
+\XEN husked coffee, washed
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT tze7
+\RTGR T3
+\DSRC HAJ94
+ZOH004R0011001.txt
+\CMTS CK-PH PHO ok, HAJ:96/Checked: TK
+\date 24/Jun/96
+\lex kajwe=tzu7t
+\_no 01153
+\LG MIG
+\PSH [kajwetzu7t-]
+\UND kajwe=tzu7t
+\MB cafe*, cortar
+\VAR vt:incorp
+\GRAM
+\SCI
+Page 502

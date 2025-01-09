@@ -1,0 +1,32 @@
+Fonema
+1. Posición inicial de palabra. 2. Posición interna de palabra. 3. Posición
+final de palabra.
+/p/
+/t/
+FONEMAS¹
+/k/
+Ejemplos
+1. pat
+2. tzapan
+3. pop
+1. ti'
+2. tzijtum
+3. tut
+FONOLOGÍA
+1. kuch
+2. okes
+3. ok
+Traducción
+casa
+corto
+petate
+boca
+mucho
+frijol
+cargar
+coyote
+pie
+¹ El alfabeto que uso es el estandarizado para las lenguas mayas donde /x/ corresponde
+a la fricativa, palatal sorda; /j/ a la fricativa, velar, sorda; // es el cierre glotal; /nh/ es la
+nasal, velar, sonora.
+27

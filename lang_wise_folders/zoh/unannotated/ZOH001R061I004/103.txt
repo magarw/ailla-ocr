@@ -1,0 +1,63 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 pitz
+\RTGR 1 T1
+\ROOT 2 way
+\RTGR 2 T1
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex piw.i
+\_no 00255
+\LG MIG
+\PSH [piwi]
+\UND pinh. E
+\MB recoger, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG recogido
+\ENG picked-up
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pinh
+\RTGR T3
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex piw.i+i7k
+\_no 00256
+\LG MIG
+\PSH [piwi*7]
+\UND pinh. E +P@7k
+\MB recoger, NOM7, REL
+\VAR
+ZOH001R0611004.txt
+\GRAM pcp
+\SCI
+\USE
+\SPG una cosa recogida
+\ENG something that has been picked up
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pinh
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+Page 103

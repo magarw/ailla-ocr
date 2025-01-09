@@ -1,0 +1,65 @@
+\SCI
+\USE
+\SPG encajar
+\ENG to pin
+\EXU 1 jay@'-7 ex-wa
+\XPSH 1 [J@y@7exx@.]
+\XSP 1 Tuvo un flor en el cabello.
+XEN 1 She had a flower pinned in her hair.
+\EXU 2 7ex.7@m-pa bi j@y@7
+\XPSH 2 [7exx@mpa bi j@y@7.]
+\XSP 2 Se va a encajar la flor.
+\XEN 2 The flower is going to be pinned.
+\EXU 3 ka.ji7+xtaa7 7@n+ 7ex. '@y-wa
+\XPSH 3 [Gajixta*n 7exx@yy@.]
+\XSP 3 Ahi no mas lo encaje*
+\XEN 3 I pinned it right there.
+\EXU 4 7@n+ way7 7@n+ 7ex.ten-pa
+\XPSH 4 [7@n way 7@n 7extenpa.]
+\XSP 4 Tengo encajado mi cabello.
+\XEN 4 I've got my hair pinned up.
+\EXU 5 da j@y@=7ex-pa 7@n+_way7
+\XPSH 5 [D@ ja:y7expan way7.]
+\XSP 5 Encaje* flores en mi cabello.
+\XEN 5 I pinned flowers in my hair.
+\SYN
+\SPL 7ex. 7oy
+\SLGR ANTIP
+\SLGL tener algo en el cabello // to have something pinned in the hair
+\SPL 7ex.7@m
+\SLGR PASS
+\SLGL estar algo en el cabello // for there to be something pinned in the
+hair
+ZOH004R0011001.txt
+\SPL 7ex.ney
+\SLGR ASSUM1
+\SLGL estar encajado // to be pinned
+\SEMF cut
+\ROOT 7ex
+\RTGR P (T3)
+■
+\ASP achievement
+\ARG instrument
+\NOM ni.7ex.kuy7
+\SUB 7anh,'ex, 7ex=nem, 7ok.'ex.'@y, jo.7ex, j@x='ex, ko.7ex=witu',
+\SUB nik. 'ex. '@y, yuk. 7ex
+\ETYM
+\ETL
+\lex 7ex=nem
+\_no 00268
+\LG MIG
+\PSH [7exnem-]
+\UND 7ex=nem
+\DSRC HAJ95
+\CMTS Camilo's example is sticking a pencil through something on the wall
+\date 03/Jan/80
+\DATE 09/Aug/02
+\MB encajar, talonear
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG calambrear
+\ENG to cramp
+\SPL
+Page 115

@@ -1,0 +1,63 @@
+\SPL
+\SLGR
+\EXU ke malay pin@k 7@n+ 7anh.7it-tam-pa jemji ney t@k+jo7
+\XPSH [Ke malay pin@k 7@n 7anhnittampa jemji ney t@kjo7.]
+\XSP Que malaya tuvieramos todo en la casa.
+XEN That hopefully we'd have everything in our house.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex ney [2]
+\_no 02224
+\LG MIG
+\PSH
+\UND ney
+\MB alguno
+\VAR
+\GRAM pron
+\SPG alguno/a
+\ENG some; something
+\SPL
+\SLGR
+\EXU 1 y@7tz-w@ ka.ji' ney g@ 7entrada
+\XPSH 1 [Y@7tztz@ gaji ney g@ 7entrada.]
+\XSP 1 LĨego* ahi* en alguna entrada.
+\XEN 1 He arrived at some entrance there.
+\EXU 2 ney w@ja 7@m+ yak.ka-w@
+\XPSH 2 [Ney w@jam yakaw@.]
+\xSP 2 Que bueno que lo mataste.
+\XEN 2 How good that you killed him.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+ZOH004R0011001.txt
+\lex ney [3]
+\_no 02225
+\LG MIG
+\PSH
+\UND ney
+\MB mismo
+\VAR
+\GRAM av/pron
+\SPG mismo
+\ENG same; self
+\SPL
+\SLGR
+\EXU 1 tz@kta.anh porke ney de.7xe de.7 tz@k.7@m-pa dexde
+yaja7+jaa7
+\XPSH 1 [Tz@kta*nh porke ney de7xe de7 tz@kk@mmpa dexde
+yajakja*7.]
+\XSP 1 Hagamos, porque asi* mismo siempre se hace desde ma*s
+antes.
+\XEN 1 Let's do it, because just like that this has been done since long
+ago.
+\EXU 2 ya.d@ p@n ney komo n@m-pa mix+ juxtixa
+Page 958

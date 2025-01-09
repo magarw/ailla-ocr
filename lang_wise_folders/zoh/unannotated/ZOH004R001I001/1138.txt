@@ -1,0 +1,64 @@
+\ROOT
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex pi7t [1]
+\_no 02643
+\LG MIG
+\PSH
+\UND pi7t
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG trenzar
+\ENG to braid
+\SPL pi7t.7oy
+\SLGR ANTIP
+\SLGL trenzar // to braid
+\SPL pi7t.7@m
+\SLGR PASS
+\SLGL estar trenzada // to be braided
+\SPL pi7t.ney
+\SLGR ASSUM1
+\SLGL estar trenzada // to be braided
+\SPL pi7t.ten
+\SLGR PRSV
+\SLGL tener trenzada // to have braided
+\EXU 1 way=pi7t-w@
+\XPSH 1 [waypi7tt@.]
+\XSP 1 Trenzo* el cabello.
+\XEN 1 She braided her hair.
+\EXU 2 7@y+ pi7t.ten-e 7@y+ way7
+\XPSH 2 [7@y pi7tteney way7.]
+\XSP 2 Tiene trenzado su cabello.
+\XPSH 2 She's got her hair braided.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pi7t
+\RTGR P, (T3)
+\DSRC HÁJ94
+\CMTS
+\date 03/Jan/80
+ZOH004R0011001.txt
+\lex pi7t=max
+\_no 02644
+\LG MIG
+\PSH [pi7tmax-]
+\UND pi7t=max
+\MB trenzar, descomponer
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG trenzar mal
+\ENG to braid badly
+\EXU 7@n+ pi7t-max-w@ 7@n+ way7
+\XPSH [7@n pi7tmaxx@n way7.]
+\XSP Trenze* mal mi
+cabello.
+\XEN I braided my hair badly.
+Page 1138

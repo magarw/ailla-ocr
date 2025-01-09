@@ -1,0 +1,63 @@
+\UND ya
+\MB NEG
+\VAR
+\GRAM part
+\SCI
+\USE
+\SPG no
+\ENG not
+\SPL
+\SLGR
+\EXU te.y ya d@+ ye7tz-tam-A +7am jemji
+\XPSH [Tey ya da ye7tztama*m jemji.]
+\XSP Ahora ya no llegamos todos.
+\XEN Now not all of us have arrived.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 12/Feb/96
+\lex {ye.7xe}
+\_no 04534
+\LG MIG
+\PSH [ye7xe]
+\UND y@.7xe
+\MB DCT1, SIM
+\VAR
+\USE proximal similitive.
+\GRAM av
+\SPG asi*
+ENG thus; so
+\SPL
+\SLGR
+\EXU tum-@ 7@y+ n@ji ye.7xe tum-@_7@y+ naji ga.7xe
+\XPSH [Tum@ 7@y naji ye7xe, tum@ 7ay n@ji ga7xe.]
+\XSP Uno se llama asi* y otro se llama asi*.
+\XEN One was named this way and the other named that way.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {yey+nam7}
+\_no 04535
+ZOH004R0011001.txt
+\LG MIG
+\PSH [yeynam7]
+\UND y@.y +nam7
+\MB DCT1, TEMP, TOD
+\VAR
+\GRAM av
+\SCI
+\USE
+\SPG al rato; despues
+\ENG in a while; later
+\EXU
+\XSP
+\XEN
+Page 1947

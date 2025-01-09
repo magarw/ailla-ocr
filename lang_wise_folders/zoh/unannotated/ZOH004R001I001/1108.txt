@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 16/Oct/94
+\lex peka [1]
+\_no 02574
+\LG MIG
+\PSH
+\UND peka
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG 1 viejo (solamente cosas, no gente)
+\SPG 2 usado
+\ENG 1 old (only things, not people)
+\ENG 2 used
+ENG 3 liver spots
+\EXU 1 peka+'am
+\XPSH 1[Peka*m.]
+\XSP 1 Ya es viejo.
+\XEN 1 Now it's old.
+\EXU 2 peka yote7
+\XSP 2 ropa vieja/usada
+\XEN 2 old or used clothes
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS se trata solamente de cosas, no de gente
+\date 25/Jun/96
+\lex peka [2]
+\_no 02575
+\LG MIG
+\PSH
+\UND peka
+\MB
+\VAR
+ZOH004R0011001.txt
+\GRAM
+\SCI
+\USE
+\SPG pan~o, "peca"
+\ENG freckle, splotch on skin
+\EXU win-nak (a) peka
+\XPSH [winnaka peka]
+\XSP peca de la cara
+\XEN freckle on the face
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC TK94
+\CMTS
+\date 11/Feb/96
+Page 1108

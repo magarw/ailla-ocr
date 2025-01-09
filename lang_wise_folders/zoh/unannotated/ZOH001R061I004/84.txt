@@ -1,0 +1,65 @@
+\SCI
+\USE
+\SPG cuchara de morro; cuchara de peltre
+ENG clay spoon
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN jepx.kuy7
+\SEMF
+ETYM
+\ETL
+\ROOT jepx
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 26/Jan/96
+\lex ni.jin
+\_no 00207
+\LG MIG
+\PSH [nijin-]
+\UND ni.jin.0
+\MB PURP, refregarse, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG bagazo con que se refriega cuando esta*
+refregarse
+\ENG a bundle of leaves you use for bathing;
+yourself with
+EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jin
+\RTGR TX
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex ni.kap
+\_no 00208
+\LG MIG
+\PSH [nikap]
+\UND ni.kap.0
+\MB PURP, cargar_en_hombro, NOM6
+\VAR
+\GRAM SVO
+ZOH001R0611004.txt
+\SCI
+\USE
+\SPG resistidor
+\ENG shoulder pad (for padding a load)
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+ban~ando; cosa para
+something you scrub
+Page 84

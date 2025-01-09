@@ -1,0 +1,64 @@
+\SLGR PASS
+\SLGL recogerse
+\EXU 1 7@y+ pinh-w@ bị tza7
+\XPSH 1 [7@y pinhnh@ bi tza7.]
+\XSP 1 Recogio* la piedra.
+XEN 1 She picked up the rock.
+\EXU 2_7@y+ pinh.ten-w@ bi tza7
+\XPSH 2 [7@y pinhtenn@ bi tza7.]
+\XSP 2 Lo recogio* antes.
+\XEN 2 She picked it up earlier.
+\SYN
+\SEMF pick_up, hand
+\ASP activity
+\ARG
+\NOM piw.i, pinh.naanh
+\SUB jo.pinh, j@x=pinh, pinh='anh.kuk.'aH, yuk.pinh
+ETYM
+\ETL
+\ROOT pinh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex pit
+\_no 00135
+\LG MIG
+\PSH
+\UND pit
+ZOH001R0611006.txt
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 poner la mortaja
+\SPG 2 enrollar cigarro
+\ENG 1 to wrap a corpse in a shroud
+\ENG 2 to roll a cigar
+\SPL pit. 7oy
+\SLGR ANTIP
+\SLGL poner la mortaja // to put on a shroud
+\SPL pit.7@m
+\SLGR PASS
+\SLGL ponerse la mortaja // to be wrapped in a shroud
+\SPL pit.ten
+\SLGR PRSV
+\SLGL levantarlo envuelto // to put something up wrapped up
+\EXU 1 7@y+ pit-w@ bi ka-w@+@7k
+\XPSH 1 [7@y pitt@ bi kaw@*7k.]
+\XSP 1 Puso la mortaja a un muerto.
+\XEN 1 She wrapped the corpse in a shroud.
+\EXU 2 pit. E+'am de ka-w@+@7k
+\XPSH 2 [Pitia*m de kaw@*7k.]
+\XSP 2 Ya esta* con su mortaja el muerto.
+\XEN 2 Now the corpse is wrapped in its shroud.
+\EXU 3 pit.7oy-w@+@7k
+\XPSH 3 [pittoyy@*7k]
+\XSP 3 aquel que dio* la mortaja
+\XEN 3 the one who puts on the shroud
+\EXU 4 pit.7@m-w@+ 'am
+\XPSH 4 [Pitt@mm@*m.]
+\XSP 4 Ya tiene la mortaja.
+Page 92

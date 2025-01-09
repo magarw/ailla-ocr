@@ -1,0 +1,64 @@
+\MB CARA, DIR1
+\VAR
+\GRAM av
+\SCI
+\USE directional
+\SPG por delante; de frente
+\ENG ahead; from in front
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Feb/96
+\DATE 03/Jan/1980
+\lex win+jo'=n@k
+\_no 03688
+\LG MIG
+\PSH [winjon@k-]
+\UND win+jo7=n@k
+\MB adelante, LOC2, irse
+LOC2,
+\VAR
+\GRAM av+vi
+\SCI
+\USE
+\SPG irse adelante
+\ENG to go ahead
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT n@k
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex win+jo'=pitz@m
+\_no 03689
+\LG MIG
+\PSH [winjopitz@m-]
+\UND win+jo7=pitz@m
+\MB adelante, LOC2, salir
+\VAR
+\GRAM av+vi
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG salir adelante; salir primero
+\ENG to go ahead; to go first
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+Page 1585

@@ -1,0 +1,62 @@
+\lex tinta n@7
+\_no 03001
+\LG MIG
+\PSH
+\UND tinta n@7
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG agua de tinta
+\ENG ink
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 03/Apr/95
+\lex tin-tuku7
+\_no 03002
+\LG MIG
+\PSH [tintuku7]
+\UND tin-tuku7
+\MB mierda, ropa
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG pan~al
+\ENG diaper
+\SPL
+SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+ZOH004R0011001.txt
+\lex tin=wo.e'.wo.e7
+\_no 03003
+\LG MIG
+\PSH [tinwoewoe7]
+\UND tin-woy. E7.woy. E7
+\MB cagar, enrollar, NOM7, enrollar, NOM7
+\VAR tinwoywoye7
+\GRAM
+\SCI
+\USE
+\SPG ruedacaca; ronro*n
+\ENG a type of beetle
+Page 1292

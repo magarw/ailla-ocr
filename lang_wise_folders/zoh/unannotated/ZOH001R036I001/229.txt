@@ -1,0 +1,79 @@
+\tx ta7kxpa
+\mb ta7kx-pa
+\sg1 arder-INC
+\egl burn -INC
+\zoq Minpam juxyayy@ jukut@kjo kom tey@* ta7kxpa.
+\fts vienes a chamuscarlo en la lumbre como esto* que esta* ardiendo.
+\fte You come to singe it in the fire like this that's burning.
+\com
+\idx
+\ref ZOH001R036 999-077
+\_no 01060
+\tx
+7@m yakt@p@7p7apa
+jemji7ok
+\mb 7@m yak -t@p@7p -7a -pa jemji7ok
+CAUS-tibio
+\sg1 2E
+\egl 2E
+-VERS1-INC por todo
+CAUS-luke_warm-VERS1-INC all over
+\zoq 7am yakt@p@7p7apa jemji7ok.
+\fts Lo medio calientas en todo.
+\fte You warm it up all over.
+\com
+\idx
+\ref ZOH001R036 999-078
+\_no 01061
+\tx ya ke
+\mb__ya ke
+\sg] ya que
+\egl now that be_hot
+nutzpa*m
+nutz
+\zoq Ya ke nutzpa*m,
+\fts ya que esta* caliente,
+\fte Now that it's warm,
+\com
+\idx
+estar_caliente-INC-YA
+\ref ZOH001R036 999-079
+\_no 01062
+ZOH001R0361001.txt
+\zoq Min@m p@jayy@m tatz@k.
+fts Ven a echarle tu oido.
+-pa - 7am
+\tx min@
+\mb min
+m p@jayy@
+-A7 7@m p@7 -jay -wa
+\sg1 venir-IMPV 2E poner-APPL-dINC 2E
+\egl come -IMPV 2E put -APPL-DINC 2E ear
+m tatz@k
+7@m tatz@k
+oreja
+\ref ZOH001R036 999-080
+\_no 01063
+\tx 7anhpixx@
+\mb 7anh -pix
+-INC-NOW
+\fte You come put it in your ear.
+\com
+\idx
+-A7
+\sg1 BOCA -sentir_picazo*n-IMPV
+\eg1 MOUTH-feel_bite
+EN
+7@m tatz@k jonhjo
+7@m tatz@k jonh
+-jo7
+2E oreja
+oreja adentro-Loc2
+inside -LOC2
+-IMPV 2E ear
+\zoq 7anhpix@ 7@m tatz@k jonhjo.
+\fts Tapa el hueco de tu oido.
+\fte stop up the inside of your ear.
+\com
+\idx
+Page 229

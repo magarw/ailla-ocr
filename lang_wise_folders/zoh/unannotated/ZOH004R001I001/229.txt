@@ -1,0 +1,64 @@
+\MB
+\VAR
+\GRAM Vi
+\SCI
+\USE
+\SPG caerse de arriba, como fruta
+\ENG to fall from above, like fruit
+\SLGR NO CAUS
+\EXU 1 7@nh-w@ tam
+\XPSH 1 [7@nhnh@ t@m.]
+\XSP 1 Cayo* la fruta.
+\XEN 1 The fruit fell.
+\EXU 2 7@nhw@
+\XPSH 2 [7@nhnh@.]
+\XSP 2 Cayo* solo del arbol.
+\XEN 2 It fell.
+\EX 3 n@mm@ 7@y+ 7@nh-w@ t@m
+\XPSH 3 [N@mm@y 7@nhnh@ t@m.]
+\XSP 3 Esta* cayendo fruta.
+\XEN 3 Fruit is falling.
+\EXU 4 de t@m 7@nh-w@ 7@n+ kopak+jo7
+\XPSH 4 [De t@m 7@nhnh@n kopakjo7.]
+\XSP 4 La fruta cayo* en mi cabeza.
+\XEN 4 The fruit fell on my head.
+\SYN
+\SEMF fall
+\ASP achievement
+\ARG
+\NOM 7@w.i
+\SUB 7ok.'@nh.'@y, 7@nh=ko.wak, 7@nh=muk, yuk.'anh
+\ETYM
+\ETL
+\ROOT 7@nh
+ZOH004R0011001.txt
+\RTGR 12
+\DSRC HAJ94
+\CMTS does not apply to people *d@ 7@nhnh@
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex 7@nh-ko.wak
+\_no 00532
+\LG MIG
+\PSH [7@nhkowak-]
+\UND 7@nh-ko.wak
+\MB caerse, OTRO, *vaciar
+\VAR
+\GRAM vi
+\SPG acabar de caer fruta
+\ENG for fruit to be finished falling
+\SPL
+\SLGR
+\EXU 7@nh-ko.wak-wa ya7 7okox 7@y+ t@m
+\XPSH [7@nh kowakk@ y@ 7okox 7@y t@m.]
+\XSP Acabo* de caer la fruta desde a*rbol
+\XEN This tree's fruit is through falling.
+\SYN
+\SEMF
+\ROOT 1 7@nh
+\RTGR 1 12
+\RTGL 1 caerse de arriba
+\ROOT 2 *wak
+\DSRC HAJ: 97
+\CMTS extracted from examples for ko.wak-
+Page 229

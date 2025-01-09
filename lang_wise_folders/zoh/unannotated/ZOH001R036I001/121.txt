@@ -1,0 +1,86 @@
+ZOH001R0361001.txt
+ded@
+\_no 00554
+\tx gaji*nh
+\mb ka -jiinh
+\sg1 DCT3-DIR2
+xoj naka 7el mismo xoj naka pa
+ded@
+te -d@ XO] naka 7el mismo xoj
+naka para te -d@
+DCT2-DEM palo cuero el mismo palo cuero para DCT2-DEM
+\eg1 DCT3-DIR2 DCT2-DEM tree skin the same tree skin for DCT2-DEM
+\tx toya
+\mb toy
+-A7
+\sg1 doler-NOM2
+\egl hurt -NOM2
+\zoq Gaji*nh ded@ xoj naka, 7el mismo xoj naka pa ded@ toya.
+\fts De ahi* esa ca*scara de encino, el mismo ca*scara de encino para esa
+enfermedad.
+\fte Then that encino bark, the same encino bark for that illness.
+\com
+\idx
+\ref ZOH001R036 564
+\_no 00555
+\tx
+\mb GSM
+\sg1 GSM: donde-que
+xoj naka y@k
+XOJ naka
+y@k
+palo cuero
+\eg1 GSM: where-what tree skin
+GSM: juti
+ju7 -ti
+\zoq GSM: Juti xoj naka - y@kxoj 7o popxoj?
+\fts GSM: Cual de ca*scara de encino - el encino negro o el encino blanco?
+\fte GSM: which encino bark the black encino or the white encino?
+\com
+\idx
+\ref ZOH001R036 565
+\_no 00556
+\tx
+\mb OSM
+\sg1 OSM: DCT2-NOM1 tizne palo
+\eg1 OSM: DCT2-NOM1 soot tree
+\com
+\idx
+y@k
+хој
+te -7 y@k XO]
+OSM: de
+\zoq OSM: De y@kxoj.
+\fts OSM: El encino negro (prietu).
+\fte OSM: The black encino.
+\ref ZOH001R036 566
+\_no 00557
+\tx yak
+\mb yak
+\sgl tizne palo
+\egl soot tree
+хој
+Χ07
+хој
+хој
+хој
+tizne palo o blanco
+70 pop
+70 popo7
+xoj
+palo
+10
+soot tree or white tree
+\zoq Y@kxoj.
+\fts Encino negro.
+\fte Black encino.
+\com
+\idx
+\ref ZOH001R036 567
+\_no 00558
+gaji
+\tx metzi t@kk@ba
+\mb metzi t@k -7@y -pa ka -ji7
+\sg1 los_dos casa -VERS2-INC DCT3-Loc1
+\egl the two house-VERS2-INC DCT3-LOC1
+Page 121

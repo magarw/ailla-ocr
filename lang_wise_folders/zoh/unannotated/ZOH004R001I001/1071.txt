@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT t@7
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 27/Jan/96
+\lex n@'-tzani7
+\_no 02486
+\LG MIG
+\PSH [n@tzani7]
+\UND_n@7-tzani7
+\MB agua, bagazo
+\VAR
+\GRAM SX
+\SCI
+\USE
+\SPG lama; lama de ri*o; lama del agua
+\ENG moss; river moss
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 08/Feb/96
+\lex n@'-tzani '.7@y
+\_no 02487
+\LG MIG
+\PSH [n@tzani7@y-]
+\UND n@7-tzani 7.7@y
+\MB agua, bagazo, VERS2
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG tener musgo; tener lama
+\ENG to have moss
+\EXU n@'=tzani '.7@y-wa
+\XPSH [N@tzani 7@yy@.]
+\XSP Tiene musgo o tiene lama.
+\XEN It has moss.
+ZOH004R0011001.txt
+SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS present tense glosses fr COM
+\date 08/Feb/96
+\lex n@'-tz@wi
+\_no 02488
+\LG MIG
+\PSH [n@tzawi]
+\UND _n@7=tz@wi
+\MB agua, tobaco
+Page 1071

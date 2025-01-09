@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG divisar ("devisar") a alguien
+\ENG to peek at or catch sight of someone
+\SPL tun. 7oy
+\SLGR ANTIP
+\SLGL divisar // to catch sight of, to peek
+\SPL tun.7@m
+\SLGR PASS
+\SLGL ver // to see
+\SPL tun. ten
+\SLGR PRSV
+\SLGL tener visto // to have in sight
+\EXU 1 7@y+ num-tun-wa
+\XPSH 1 [7@y numtunn@.]
+\XSP 1 Lo diviso* escondido.
+\XEN 1 She peeked at him secretly.
+\EXU 2 7@n+ tun-w@ rroberto
+\XPSH 2 [7@n tunn@ Rroberto.]
+\XSP 2 Devise* a Roberto.
+\XEN 2 I caught sight of Robert.]
+\SYN
+\SEMF perception, cognitive
+\ASP activity
+\ARG
+\NOM tun.naanh, num=tun.kuy7
+\SUB num-tun
+\ETYM
+\ETL
+\ROOT tun
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex tun [2]
+\_no 03105
+LG MIG
+\PSH
+\UND tun
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG porra de la can~a
+\ENG cane stalk
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex tuna
+\_no 03106
+\LG MIG
+Page 1336

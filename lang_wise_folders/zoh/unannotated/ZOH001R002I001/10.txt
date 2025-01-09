@@ -1,0 +1,94 @@
+\zoq numtunh, n@mxukk@ 'numtunh'.
+\fts era una vereda, dicen 'vereda'.
+\fte there was a path, they said 'path'.
+\not
+\idx
+\ref ZOH001R002 041
+\_no 00042
+\tx yakki7 ya
+\mb
+yakki7 ya
+\sgl nadie NEG ver-nINC
+\egl nobody NEG see-nINC
+7ix@.
+7ix-A
+\zoq Yakki7 ya 7ix@.
+\fts Nadie no lo conoce.
+\fte Nobody knew of it.
+\not
+\idx
+\ref ZOH001R002 042
+\_no 00043
+\tx 7i ded@
+kumkuy7 d@kka ded@
+ya
+kumkuy7 de7
+\mb 7i te -d@ kumkuy7 d@kkay te -d@ ya kumkuy7 te
+\sg] y
+DCT2-DEM pueblo NPL
+\egl and DCT2-DEM town
+DCT2-DEM NEG pueblo
+DCT2-DEM NEG town
+NPL
+ZOH001R0021001.txt
+\zoq 7i ded@ kumkuy7d@kka, ded@ ya kumkuy7 de7 tyempu.
+\fts Y esos pueblos, no era pueblo en ese tiempo.
+\fte And those towns, those weren't towns in that time.
+\not
+\idx exis
+\ref ZOH001R002 043
+\_no 00044
+\tx de la benta, pa7okj@, de7
+\mb de la benta Pa7okj@ te -7
+\sg1 de la Venta Niltepec DCT2-NOM1 nuevo-pueblo
+\egl of the Venta Niltepec DCT2-NOM1 new - town
+\ref ZOH001R002 044
+\_no 00045
+\zoq De La Benta, Pa7okj@, de7 jomkumkuy7d@kka,
+\fts En La Venta, en Niltepec, son pueblos nuevos,
+\fte La Venta, Niltepec, those are new towns,
+\not
+\idx
+\tx sino Jaytija 7i
+J@ytij@7 7i
+\tx 7apu kumkuy7 d@kka pa daja.
+\mb 7apu kumkuy7 d@kkay pa
+\sg1 viejo pueblo NPL
+\egl old
+CEL ***
+CEL **
+town
+NPL
+\mb sino
+Potz@kj@7 71
+Potz@kj@7 71
+Ixtaltepec y
+Kanhkuttz@kj@7,
+Kanhkuttz@kja7
+Tehuantepec
+\sgl sino
+Juchita*ny
+\eg1 except Juchita*n and Ixtaltepec and Tehuantepec
+***
+towns.
+\not what is pa daja
+tyempu.
+-7
+tyempu
+DCT2-NOM1 tiempo
+DCT2-NOM1 time
+jomkumkuy7
+d@kka,
+jome7-kumkuy7 d@kkay
+NPL
+NPL
+Page 10
+\sino Jaytij@ 7i Potz@kj@7 7i Kanhkuttz@kj@7, ga7 si 7apukumkuy7d@kka.
+\fts Sino Juchitan y en Ixtaltepec y Tehuantepec, esos si* son pueblos viejos.
+\fte But Juchitan and Ixtaltepec and Tehuantepec, those are indeed old
+si 7i
+si 7i
+ga7
+ka -7
+DCT3-NOM1 si y
+DCT3-NOM1 if and

@@ -1,0 +1,55 @@
+\SPG 2 pegar
+\ENG 1 to give
+\ENG 2 to hit
+\RTGR T3
+\lex tzukx
+\_no 00051
+\SPG pellizcar
+\ENG to pinch
+\RTGR T3
+\lex wa7k
+\_no 00052
+\SPG rebanar; partir fruta, como sandi*a o melo*n (con cuchillo)
+\ENG to slice; to cut up fruit, like watermelon or cantaloupe (with a
+knife)
+\RTGR P (T3)
+\lex wa7kx
+\_no 00053
+\SPG (en) terciar bulto de mai*z, naranja, etc. en una rede
+\ENG to make loads of corn, oranges, etc. in a net
+\RTGR P (T3)
+\lex wax
+\_no 00054
+\SPG morder; mascar
+\ENG to bite; to chew
+\RTGR T3
+\lex wix
+\_no 00055
+\SPG arrancar, con rai*z y todo
+\ENG to pull up, roots and all
+\RTGR T3
+\lex wo7k
+\_no 00056
+\SPG raspar
+\ENG to scrape; to sand
+\RTGR T3
+\lex wo7kx
+\_no 00057
+\SPG aran~ar; rasgun~ar
+\ENG to scratch
+\RTGR T3
+ZOH001R0611005.txt
+\lex wox
+\_no 00058
+\SPG sacar puntas; raspar
+\ENG to sharpen points; to scrape
+\RTGR T3
+\lex wak
+\_no 00059
+\SPG cortar con cuchillo
+\ENG to cut with a knife
+\RTGR T3
+\lex w@nh
+\_no 00060
+\SPG hundirse; sumirse en, como un traste de agua o ri*o
+Page 6

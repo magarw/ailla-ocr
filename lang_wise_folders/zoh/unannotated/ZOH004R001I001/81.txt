@@ -1,0 +1,63 @@
+\UND 7anh-xuku7k=tz@k
+\MB BOCA, X, HACER
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG hacer sombra
+ENG to make shade
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 20/Jun/95
+\lex 7anh-xutu7
+\_no 00191
+\LG MIG
+\PSH [7anhxutu7]
+\UND 7anh-xutu7
+\MB BOCA, X
+\VAR
+\GRAM S:sq
+\SCI
+\USE
+\SPG lipo, tecomate
+\ENG water gourd
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS [xutu7] narrow? w/ hole? YES (96) see new entry xutu7
+\date 24/Jun/96
+\lex 7anh-xuy7
+\_no 00192
+\LG MIG
+\PSH 7anhxuy7]
+\UND 7anh-xuy7
+\MB BOCA, tapar, NOM6
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG 1 rebozo
+\SPG 2 toalla
+\ENG 1 shaw]
+\ENG 2 towel
+\EXU
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+Page 81

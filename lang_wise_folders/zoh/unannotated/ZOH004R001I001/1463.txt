@@ -1,0 +1,63 @@
+\PSH
+\UND tzokoy7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG corazo*n; esto*mago; pecho
+\ENG heart; stomach; chest
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Aug/94
+\lex tzokoy' pak
+\_no 03402
+\LG MIG
+\PSH [tzokoy pak]
+\UND tzokoy7 pak
+\MB corazo*n, hueso
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG hueso del pecho
+\ENG breast-bone
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex tzokoy'=toy
+\_no 03403
+\LG MIG
+\PSH [tzokoytoy-]
+\UND tzokoy7=toy
+\MB corazo*n, doler
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE incorporated ABS subject
+\SPG doler el corazo*n o el estomago
+\ENG for the heart or the stomach to hurt
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+Page 1463

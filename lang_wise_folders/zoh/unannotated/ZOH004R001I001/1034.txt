@@ -1,0 +1,63 @@
+\date 27/Jan/96
+\lex no'tz.07
+\_no 02399
+\LG MIG
+\PSH [notzo7]
+\UND no7tz.07
+\MB arar, NOM
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG rajado; quebrado; roto; machucado; "rompido"
+\ENG broken; scratched; chewed-up; busted
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT no7tz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 27/Jan/96
+\lex nu7
+\_no 02400
+\LG MIG
+\PSH
+\UND nu7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG perro
+\ENG dog
+\EXU chik jay(a) nu7
+\XSP perrito
+\XEN puppy (male)
+\EXU yom@7 nu7
+\XSP perra
+\XEN bitch
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+LF:7anmal
+\CMTS MAR has /nu7u/
+\date 08/Feb/96
+\lex nubiu
+\_no_02401
+\LG MIG
+\PSH
+\UND nubiyu
+\MB
+\VAR
+\GRAM S
+\SCI
+ZOH004R0011001.txt
+Page 1034

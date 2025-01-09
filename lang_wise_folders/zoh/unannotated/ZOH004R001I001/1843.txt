@@ -1,0 +1,63 @@
+\ENG to start to fall apart
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT max
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex yuk.may='ok.manh
+\_no 04290
+\LG MIG
+\PSH [yukmayyokmanh-]
+\UND yuk.may=7ok.manh
+\MB ARR, contar, ABAJO, *pisar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG empezar a contar
+\ENG to start to count
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT may
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex yuk.mek
+\_no 04291
+\LG MIG
+\PSH [yukmek-]
+\UND yuk.mek
+\MB ARR, mentir
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar a mentir
+\ENG to start to lie
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+Page 1843

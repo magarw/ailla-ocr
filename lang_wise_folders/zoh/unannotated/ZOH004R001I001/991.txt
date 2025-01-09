@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG echar agua con la mano
+\ENG to throw water on something with the open hand
+\SPL
+\SLGR
+\EXU n@'-nik.ketz. '@y-wa
+\XPSH [N@nikketztz@yy@.]
+\XSP Le echo* agua con la mano.
+\XEN He threw water on it with his hand.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ketz
+\RTGR T1
+\DSRC HAJ95
+\CMTS the gesture is: hand open, palm up, throwing water towards someone
+\date 27/Jan/96
+\lex nik.ke7tz. '@y
+\_no 02300
+\LG MIG
+\PSH [nikke7tztz@y-]
+\UND nik.ke7tz.7@y
+\MB SUP, masticar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG quitar algo en la boca que estaba masticando
+\ENG to spit out something you were chewing
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ke7tz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+ZOH004R0011001.txt
+\lex nik.ki7t. '@y
+\_no 02301
+\LG MIG
+\PSH [nikki7tt@y-]
+\UND nik.ki7t.7@y
+\MB SUP, meter_dedo, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 sacar algo con el dedo
+\SPG 2 dar un poquito de algo a alguien con el dedo
+\ENG 1 to scoop out something with the finger
+\ENG 2 to give someone a little smidge of something with your finger
+\SPL
+\SLGR
+Page 991

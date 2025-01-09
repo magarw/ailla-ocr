@@ -1,0 +1,64 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT XOY
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex xoy.e7
+\_no 03994
+\LG MIG
+\PHO [xoye7]
+\UND xoy. E7
+\MB pasar_tiempo, NOM7
+\VAR xoe7
+\GRAM pcp
+\SPG pasado su tiempo
+\ENG overripe
+\EXU m@n xoy.e7
+\XPSH [m@n xoye*7]
+\XSP un camote que ya paso* su tiempo
+\XEN an overripe yam
+\SYN
+\ROOT XOY
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex xoy-w@+7k_m@n
+\_no 03995
+LG MIG
+\PSH [xoyy@*7k_m@n]
+\UND Xoy-w@+7pv m@n
+\MB pasar_su_tiempo, COM, REL, camote
+\VAR xoy-y@-7k m@n
+\GRAM ams
+\SCI
+\USE
+\SPG camote que ya no esta* bueno, ya paso* su tiempo
+\ENG a yam that's overripe, now you can't eat it
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT XOY
+\RTGR 12
+\DSRC HAJ94
+\CMTS CK-all
+\date 26/Jun/96
+ZOH004R0011001.txt
+\lex xu.17
+\_no 03996
+-
+HAJ:96 now he only allows this as the IMPV; FIXED: TK
+\LG MIG
+\PHO [xui7]
+\UND xuy.E7
+\MB pescar, NOM7
+Page 1718

@@ -1,0 +1,78 @@
+\egl what jump 2E do -APPL-INC
+\zoq ti tzoy 7@m tz@kjaba?
+\fts que remedio le haces?
+\fte what medicine do you make for that?
+\com
+\idx
+\ref ZOH001R036 999-063
+\_no 01046
+\tx ti
+m tz@kjaba
+p@7tpa
+para ke
+para ke
+7@y tatz@k toe7?
+\mb ti 7@m tz@k -jay -pa
+p@7t -pa 7@y tatz@k toy
+\sg] que 2E hacer-APPL-INC para que
+pasar-INC 3E oreja doler-NOM3
+\egl what 2E do -APPL-INC for that pass -INC 3E ear hurt -NOM3
+-E7
+\zoq Tim tz@kjaba para ke p@7tpa 7@y tatz@k toe7?
+\fts Que le haces para que pase su dolor de oido?
+\fte what do you make for them so that their earache passes?
+\com
+\idx
+\ref ZOH001R036 999-064
+\_no 01047
+\tx OSM: de tatz@k toe7
+\mb
+OSM de tatz@k toy -E7
+\sg1 OSM: de oreja
+\eg1 OSM: of ear
+doler-NOM3
+hurt -NOM3
+\zoq OSM: De tatz@k toe7,
+\fts OSM: De dolor de oido,
+\fte OSM: of earache,
+\com
+\idx
+\ref ZOH001R036 999-065
+\_no 01048
+\tx
+pa
+\mb pa
+\sg] pa
+\egl wild
+\com
+\idx
+-
+· pataxi
+· pa
+wild
+\zoq Pa - pataxi.
+\fts Diavigo barraco.
+\fte wild
+wild ???
+\tx pataxi
+\mb
+pa
+salvaje-flor
+\ref ZOH001R036 999-066
+\_no 01049
+\com
+\idx
+-taxi7
+- flower
+-taxi 7
+\sgl salvaje-flor
+\egl wild
+-flower
+ZOH001R0361001.txt
+\zoq Pataxi.
+\fts Diavigo de monte barraco.
+\fte wild mountain ???
+\ref ZOH001R036 999-067
+\_no 01050
+\tx GSM: pataxi
+Page 226

@@ -1,0 +1,62 @@
+\lex yem (2)
+\_no 00426
+\SPG soplar con soplador
+\ENG to blow with a bellows
+\SEMF nature
+\ASP process
+\ARG
+\NOM yem.kuy7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex yen
+\_no 00427
+\SPG lamer; lambear; probar comida con el dedo
+\ENG to lick; to lap; to taste food with the finger
+\SEMF eat
+\ASP process
+\ARG
+\NOM
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex yenh
+\_no 00428
+\SPG 1 engordarse
+\SPG 2 ser gordo
+\ENG 1 to get fat
+\ENG 2 to be fat
+\SEMF body
+\ASP transition
+\ARG
+\NOM yew.e7
+\RTGR IX
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\lex yep
+\_no 00429
+\SPG (ex) tender; tender (ropa)
+\ENG to stretch; to hang (clothes)
+\SEMF arrange
+\ASP process
+\ARG
+\NOM yep.e7, yote7-yep.kuy7, yep.naanh
+\RTGR P (T3)
+\POS rroberto d@ yepjayy@n yote7
+\MID
+\UNDO 7@n yeppuw@n yote7
+\CLZ
+\CMTS
+\lex ye7tz
+descolgue* mi ropa
+Page 105

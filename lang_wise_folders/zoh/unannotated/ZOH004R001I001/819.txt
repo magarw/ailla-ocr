@@ -1,0 +1,63 @@
+\ETYM
+\ETL
+\ROOT matz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex matza7
+\_no 01899
+\LG MIG
+\PSH
+\UND matza7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG estrella
+\ENG star
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex matza' xojo7k
+\_no_01900
+\LG MIG
+\PSH
+\UND matza7 xojo7k
+\MB estrella, zacate
+\VAR
+\GRAM SS
+\SCI
+\USE
+SPG zacate de estrella
+\ENG a type of grass
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+LF: xojo7k
+\CMTS
+\date 26/Jan/96
+\lex matz.kuy7
+\_no_01901
+\LG MIG
+\PSH [matzkuy7]
+\UND matz.kuy7
+ZOH004R0011001.txt
+Page 819

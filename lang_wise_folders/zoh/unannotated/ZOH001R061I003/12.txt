@@ -1,0 +1,62 @@
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex kux.naanh
+\_no 00032
+\LG MIG
+\PHO [kuxna*nh]
+\UND kux.naanh
+\MB recoger_pie, MED
+\VAR
+\GRAM meas
+\SPG un pie recogido
+\ENG one foot bent back
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT kux
+\RTGR P (TX)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex kuy-w@7tz.naanh
+\_no 00033
+\LG MIG
+\PHO [kuyw@7tzna*nh]
+\UND kuy-w@7tz.naanh
+\MB palo, rechinar, MED
+\VAR
+\GRAM meas
+\SPG una rechinada de palo
+\ENG one squeak of wood
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT w@7tz
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex_k@.n@k='utz. '@y
+\_no 00034
+\LG MIG
+\PSH [k@n@kkutztz@y-]
+\UND k@.n@k. 7utz.7@y
+\MB FUERA, irse, medir, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG medir todo
+\ENG to measure everything
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH001R0611003.txt
+Page 12

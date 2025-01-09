@@ -1,0 +1,78 @@
+1
+PS
+SS
+P
+?iš sk'ánp'an wíN t'áyin keh ‡ to tás yúx ?áyinek!
+MP ?iš-s-k'an-p'-an w≤N t'ay hin keh toh tás y-?ú?x ?áy-in-ek'
+1
+|
+R
+tv
+sp
+P
+S
+P
+P
+25
+NP
+NP
+PP PP
+P
+MP
+R
+PS
+SS
+JELEN
+A
+VP
+Main Subj
+(S)
+G to
+to here
+herë.
+R.
+NP
+Post-Adv.
+200
+ន
+S----
+G past-he-ask-*-* male to I that yet what its-cause be-I-wander
+E He asked me
+why I was around
+?iš-w-?ál-an-ih
+tv
+VP
+|
+Main.
+1
+S---
+past-I-say-*-*
+Post-Adv. Intro Intro Pre-Adv Main
+PP
+S
+t'átik #23↓ ?iš wálanih #12. ke háhintík tóNex
+t'ah tik
+keh
+há? hin tík tóh Nex
+1 1
+P p
+Intro
+Ló
+S
+p
+NP NP
+NP
+I said that me, I'm just
+--S
+st
+1
+S
+SP
+S
+(Post-Adv)
+bed
+NP
+Topic Pre-Adv
+PP
+that I here still only
+(S)

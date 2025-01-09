@@ -1,0 +1,63 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 25/Jun/96
+\lex ta7kx.i'=tz@k
+\_no 02929
+\LG MIG
+\PSH [ta7kxitz@k-]
+\UND ta7kx.E7=tz@k
+\MB X, NOM7, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pulir, hacer liso
+ENG to polish, to make smooth
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-PH HAJ:96 ok
+\date 19/Jun/96
+\lex ta7kx.@7
+\_no 02930
+\LG MIG
+\PSH [ta7kx@7]
+\UND ta7kx.A7
+\MB alumbrarse, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG luz
+\ENG light
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+-
+\ETL
+\ROOT ta7kx
+\RTGR 12
+\DSRC HAJ94
+\CMTS PH-OK: TK
+\date 25/Jun/96
+\lex ta7kx.@'=7anh.num.7
+\_no 02931
+\LG MIG
+\PSH [ta7kx@7anhnum7]
+\UND ta7kx.A7=7anh.num.7
+ZOH004R0011001.txt
+Page 1261

@@ -1,0 +1,86 @@
+\id C:\TEXTS\ZOH001R005.TXT
+\ref ZOH001R005 000
+\_no 00001
+\zoq La Historia del Maiz
+\fts La Historia del Maiz
+\fte The History of Corn
+\com narrado por Gelasio Sa*nchez Morales
+\com 6/4/94, en San Miguel Chimalapa, Oaxaca, Mexico
+\com grabado por Benigno Robles Reyes, transcrito por HAJ,
+\com traducido al espan~ol por GSM,
+\com analisado y traducido al ingles por HAJ.
+\com narrated by Gelasio Sa*nchez Morales
+\com 4/6/94, in San Miguel Chimalapa, Oaxaca, Mexico
+\com
+\com
+\com 7
+\com recorded by Benigno Robles Reyes, transcribed by HAJ,
+\com translated into Spanish by GSM,
+\com analyzed and translated into English by HAJ.w@
+Ortografi*a
+orthography
+glottal stop
+mid central vowel
+velar nasal
+\com @
+\com nh
+\com tz
+\com x
+\com j
+\com *
+pau*sula glotal
+vocal medio central
+nasal velar
+(ng)
+africativo alveolar (ts)
+fricativo palatal
+(sh)
+glottal fricative (h)
+estre*s
+ZOH001R0051001.txt
+\ref ZOH001R005 002
+\_no 00003
+\tx n@nti
+\mb n@nti
+28/Oct/04
+\ref ZOH001R005 001
+\_no 00002
+\tx yajakja*7 kwandu jente d@kka jejjokmanhxukk@
+y@ji;
+\mb yaja7 -jaa7 kwandu jente d@kkay jej -7ok -manh -xuk-w@ ya -ji7
+\sg1 antes -NPL2 cuando gente NPL vivir-ABAJO-pisar-3PL-COM DCT1-LOC1
+\egl before-NPL2 when people NPL live -DOWN -step -3PL-COM DCT1-LOC1
+\zoq Yaja7ja*7, kwandu jented@kkay jejjokmanhxukk@ y@ji7,
+\fts Antes antes, cuando la gente empezaron a vivir aqui,
+\fte Long ago, when people started to live here,
+\com
+\idx
+ti7
+ti
+nipxukk@;
+nip
+\sg1 no_hay
+que
+\egl there isn't what sow
+\ref ZOH001R005 003
+\_no 00004
+\tx n@nti
+\mb n@nti
+\sg1 no_hay
+\egl there isn't
+-xuk-w@
+sembrar-3PL-COM
+\zoq nanti ti nipxukk@.
+\fts no tienen nada para sembrar.
+\fte they didn't have anything to sow.
+\com
+\idx
+yakti;
+yakti
+nada
+nothing
+alveolar affricate
+palatal fricative
+stress
+-3PL-COM
+Page 1

@@ -1,0 +1,64 @@
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH HAJ:96 ok/OK: TK
+\date 25/Jun/96
+\lex tampitz
+\_no 02934
+\LG MIG
+\PSH
+\UND tampitz
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+—
+\SPG a*rnica
+\ENG a type of plant
+\XSP
+\XEN
+\SYN
+SEMF EB
+LF:7okox
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 12/Jun/95
+\lex tam'-n@7
+\_no 02935
+\LG MIG
+\PHO [tamn@7]
+\UND tam7-n@7
+\MB amargo, agua
+\VAR
+\GRAM as
+\SPG cerveza
+\ENG beer
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tam'=tz@k
+\_no 02936
+\LG MIG
+\PSH [tamtz@k-]
+\UND tam7=tz@k
+\MB amargo, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer amargo
+\ENG to make bitter
+\SPL
+\SLGR
+ZOH004R0011001.txt
+Page 1263

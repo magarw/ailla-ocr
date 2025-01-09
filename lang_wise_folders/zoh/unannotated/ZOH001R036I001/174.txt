@@ -1,0 +1,93 @@
+\egl NEGimpv-2A cough-nIMPV
+\zoq 7@m k@watpam payu y@j@nanh 7@m wintu7 pa 7um 7ojj@.
+\fts te amarras con un pan~uelo tu pescuezo para que no tosees.
+\fte now you bind your neck with this kerchief so you don't cough.
+\com
+\idx
+\ref ZOH001R036 817
+\_no 00802
+\tx pa
+\mb para 7u
+7um
+-7@m
+-wa
+\sg1 para NEGimpv-2A
+toser-nIMPV PURP
+\egl for NEGimpv-2A cough-nIMPV PURP
+\zoq Pa 7um 7ojj@ go7.
+\fts Para que no tosees.
+\fte so you don't cough.
+\com
+\idx
+gay
+ka
+\ref ZOH001R036 818
+\_no 00803
+\tx gay
+\mb ka
+-y
+-y
+-Y
+\sg1 DCT3-TMP DCT3-TMP DCT3-TMP 2E
+\eg1 DCT3-TMP DCT3-TMP DCT3-TMP 2E
+7ojja
+70j
+\ref ZOH001R036 819
+\_no 00804
+\tx
+7@m monhkuyjo
+pwes
+\mb 7@m monh -kuy7 -jo7 pwes
+\sg1 2E dormir-INSTR1-LOC2 pues
+\egl 2E sleep -INSTR1-LOC2 well
+gay
+ka
+wrap
+\zoq Gay gay gay 7@m monpam 7@m win jergajo,
+\fts Te cubres con tu cobija,
+\zoq 7@m monhkuyjo, pwes.
+\fts en tu cama, pues.
+\fte well, in your bed.
+\com
+\idx
+\ref ZOH001R036 820
+\_no 00805
+\tx gad@
+\mb ka -d@ nutz
+nutz@7
+ZOH001R0361001.txt
+\fte Then then then you cover yourself in a blanket,
+\com
+\idx
+\ref ZOH001R036 821
+\_no 00806
+\tx pitz@mpa*m
+go7
+go7
+-A7
+7@m monpa
+7@m mon
+\sg1 DCT3-DEM estar_caliente-NOM2
+\eg1 DCT3-DEM be_hot
+\zoq Gad@ nutz@7 pitz@mpa*m.
+\fts Ese sudor ya va saliendo.
+\fte Now that sweat comes out.
+\com
+\idx
+-pa
+pitz@mpa*m
+pitz@m-pa - 7am
+salir -INC-YA
+-NOM2 leave -INC-NOW
+m 7@m win jergajo
+7@m 7@m win jerga -jo7
+REFL jerga
+REFL blanket-LOC2
+-LOC2
+2E
+2E
+envolver-INC 2E
+-INC 2E
+EN
+kom kwandu tijj@ m tziwi*7
+Page 174

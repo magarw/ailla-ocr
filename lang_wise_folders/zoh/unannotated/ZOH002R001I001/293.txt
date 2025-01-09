@@ -1,0 +1,39 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+Zoque forms and the Spanish forms. It is common to find them both together
+in single clause, with the Spanish morphemes on the left and the Zoque ones on
+the right. The infiltration of Spanish function words is a characteristic of many
+Mesoamerican languages (Thompson & Longacre, 1985; Kaufman & Thomason,
+1988).
+(11.2)
+(i)
+(ii)
+(iii)
+jemji de lo ken pøkwitpá'
+hemhi de lo ke ?ǝn+ pək-wit-pa
+all
+of it that 1E+ get=walk-INC+REL
+'Everything that I carry'
+pa 'awindøkka gó' pø'tpám
+para
+?awin?+dǝkkay goo? 0 pǝ?t-pa+?am
+so_that brother+NPL BNF 3A pass-INC+NOW
+'so that our fellows can pass (there) now.'
+si 'ø'kxiam bi't 'øn pøknøkpa
+si ?ǝ?kš.E+?am
+bi?t ?ǝn+ pək=nək-pa
+if shell.NOM3+NOW IF 1E+ get=go-INC
+'If it's shelled, I'll take it.'
+(ZOH001 RO10-133)
+(ZOH001R018-089)
+(ZOH001R027-053)
+11.1 Relative clauses
+Relative clauses are ubiquitous in MIG Zoque narratives, bearing most of
+the burden of description or elaboration of discourse entities. For convenience,
+I'll refer to the relative clause as SREL, and use the term head noun to refer to the
+noun phrase being modified by SREL. When I need to distinguish the head noun
+in its capacity as an argument of the SREL, I'll call it the NPREL (following Keenan,
+1985). There are two ways to form a relative clause, by attaching a clitic marker
+to the end of the SREL verb complex (section 11.1.1.), or by simply heading the
+SREL with the definite article bi (section 11.1.2). The second method is used only
+for clauses of the general form Pronoun (is) bi Srel (That is the one that S...).
+266

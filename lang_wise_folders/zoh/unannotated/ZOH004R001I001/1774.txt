@@ -1,0 +1,64 @@
+\ASP transition
+\ARG
+\NOM
+\SUB ponh-yay
+\ETYM
+\ETL
+\ROOT yay
+\RTGR 12
+\DSRC HAJ94
+\CMTS caus
+\date 03/Jan/80
+\lex yem (1)
+\_no 04129
+LG MIG
+\PSH
+\UND yem
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE alloseme of /yem/ `abanicar'
+\SPG abanicar con la mano; 11amar con la mano
+\ENG to wave the hand; to call with the hand
+\SPL yem. 7oy
+\SLGR ANTIP
+\SLGL abanicar con la mano // to wave the hand
+\SPL yem. ten
+\SLGR PRSV
+\SLGL estar soplando algo con la mano // to be fanning something with
+the hand
+\SPL yak.yem
+\SLGR CAUS
+\SLGL hacer abanicar con la mano // to make wave the hand
+\EXU 1 7@y+ yem-pa 7@y+ win
+\XPSH 1 [7@y yempay win.]
+\XSP 1 Se esta* soplando con la mano.
+ZOH004R0011001.txt
+XEN 1 She's fanning herself with her hand.
+\EXU 2 jukut@k=yem-pa
+\XPSH 2 [Jukut@k yempa.]
+\XSP 2 Esta* soplando la lumbre.
+\XEN 2 He's fanning the fire with his hand.
+\EXU 3 7@y+ yem.jay-wa yak.min-A7
+\XPSH 3 [7@y_yemjayy@ yakmin@.]
+\XSP 3 3 Lo 11amo* con la mano que venga.
+\XEN She waved him over.
+\SYN
+\SEMF speak, hand
+\ASP process
+\ARG
+\NOM yem.kuy7, yem.naanh
+\SUB
+\ETYM
+\ETL
+\ROOT yem
+\RTGR T3
+\DSRC TK94
+\CMTS FIX/CK-GR HAJ: 96
+\CMTS caus
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex yem (2)
+not a vi:act at all
+Page 1774

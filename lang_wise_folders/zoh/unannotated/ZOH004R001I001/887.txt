@@ -1,0 +1,64 @@
+\LG MIG
+\PSH [munkuy7]
+\UND mun.kuy7
+\MB X, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG estaca
+\ENG stake
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT mun
+\DSRC HAJ94
+\CMTS not derived from any known verb? NO:TK96
+\date 25/Jun/96
+\lex mupe7
+\_no 02057
+\LG MIG
+\PSH
+\UND mupe7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG capuli*n
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex mut
+\_no 02058
+\LG MIG
+\PSH
+\UND mut
+LF: kuy
+\MB
+\VAR
+\GRAM vi
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG 1 salir agua de la tierra donde nace
+\SPG 2 orinarse/chorrearse porque no puedes alcanzar el ban~o
+ENG 1 for a spring to come out of the ground
+\ENG 2 to piss yourself because you can't make it to the bathroom
+\SLGR NO CAUS
+\EXU n@'-mut-w@
+\XPSH [N@mutt@.]
+Page 887

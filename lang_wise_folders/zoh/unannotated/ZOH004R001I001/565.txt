@@ -1,0 +1,65 @@
+\USE
+\SPG limpiarse
+\ENG to get clean
+\EXU 1 ko.ak-w@ yote7
+\XPSH 1 [Koakk@ yote7.]
+\XSP 1 se limpio* la ropa.
+\XEN 1 The clothes got clean.
+\EXU 2 7@y tze'-ko.ak-w@
+\XPSH 2 [7@y tzekoakk@.]
+\XSP 2 Lo limpio* lavando.
+\XEN 2 She cleaned it by washing it.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT koak
+\RTGR IX
+\SPL yak. ko.ak
+\SLGR CAUS
+\SLGL limpiar
+\DSRC HAJ94
+\CMTS CK-GR, CK-PH, get deriv's
+\date 18/Jun/96
+\lex ko.beel=tz@k
+\_no 01295
+\LG MIG
+\PSH [kobeeltz@k-]
+\UND ko.beel=tz@k
+\MB OTRO, vela, hacer
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG velar
+\ENG to watch over, in a ritual sense
+\EXU 1 7@y+ ko.beel-tz@k-w@ bi ko.maxan
+\XPSH 1 [7@y kobeeltz@kk@ bi komaxan.]
+\XSP 1 Velo* el santo.
+\XEN 1 She watched over the saint all night.
+\SYN
+SEMF
+\ETYM velar
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-PH
+\date 24/Jun/96
+-
+\GRAM vt
+\SCI
+\USE
+ZOH004R0011001.txt
+ok, HAJ:96; OK/TK
+\lex kobra=tz@k
+\_no 01296
+\LG MIG
+\PSH [kobratz@k-]
+\UND kobra=tz@k
+\MB cobrar, HACER
+\VAR
+\SPG cobrar
+\ENG to collect (money)
+\EXU
+Page 565

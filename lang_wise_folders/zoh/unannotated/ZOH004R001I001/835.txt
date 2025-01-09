@@ -1,0 +1,63 @@
+\UND mekx.kuy7
+\MB medio-cerrar_ojos, INSTR1
+\VAR
+\GRAM instr1
+\SPG la accio*n de medio-cerrar los ojos
+\ENG the act of half-closing the eyes
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT mekx
+\RTGR P (T1)
+\DSRC HAJ95
+\CMTS he demonstrated the meaning of this word by half-winking each
+\CMTS eye in turn
+\DATE 03/Jan/1980
+\lex mekx.mekx.ney
+\_no 01937
+\LG MIG
+\PSH [mekxmekxney-]
+\UND mekx.mekx.ney
+\MB
+\VAR
+\GRAM VİR
+\SPG abrir y cerrar_ra*pido los ojos
+\ENG to blink rapidly
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT mekx
+\RTGR P, (T1)
+\DSRC HAJ95
+\CMTS
+\date 19/Jun/96
+\1ex me7kx
+\_no 01938
+\LG MIG
+\PSH
+\UND me7kx
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG abrazar
+\ENG to hug
+\SPL me7kx.7oy
+\SLGR ANTIP
+\SLGL abrazar // to hug
+SLGR NO PASS
+\EXU 1 ney me7kx-xuk-@-w@ [RR]
+\XPSH 1 [Ney me7kxuk@w@.]
+\XSP 1 Se abrazaron.
+ZOH004R0011001.txt
+\XEN 1 They hugged each other.
+\EXU 2 7@y+ me7kx.ten.e
+\XPSH 2 [7@y me7kxtene.]
+\XSP 2 Lo tiene abrazado.
+\XEN 2 She has it hugged to her.
+\SYN
+\SEMF carry
+Page 835

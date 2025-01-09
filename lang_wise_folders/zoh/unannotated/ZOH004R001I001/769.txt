@@ -1,0 +1,64 @@
+\lex_k@x=xa'.xa'.7a
+\_no 01777
+\LG MIG
+\PSH [k@xxaxa7a-]
+\UND k@x-xa'.xa'.7a
+\MB comer, X, X, VERS1
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG ponerse gordo por tanto comer
+\ENG to make yourself fat by eating
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT k@x
+\RTGR T3
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex k@x@nanh
+\_no 01778
+\LG MIG
+\PHO
+\UND
+\MB
+\USE locative
+\GRAM av
+\SPG para arriba
+\ENG up there
+\EXU 7@n+ t@k
+\XPSH [7@n t@k teji7aw@ k@x@nanh.]
+\XSP Mi casa esta* alla* arriba.
+\XEN My house is up there.
+teji.7a-w@_k@x@nanh
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex k@x@nanh+p@7k
+\_no 01779
+ZOH004R0011001.txt
+\LG MIG
+\PSH [k@x@nanhp@7k]
+\UND k@x@nanh +p@7k
+\MB ??k@x `on' +j@nanh, +p@7k REL
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG arriben~o; aquellos que viven alla* arriba; es de alla* arriba
+\ENG highlander; those people who live up there; someone from up there
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+Page 769

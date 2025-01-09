@@ -1,0 +1,63 @@
+\USE
+\SPG aguantar
+\ENG to endure
+\EXU 1 ya 7@n+ p@m-w@+ 'am
+\XPSH 1 [Yan p@mma*m.]
+\XSP 1 Ya no aguante*/soporte*.
+\XEN 1 Now I couldn't bear it.
+\EXU 2 7@y+ p@m-w@ bi tzij.'oy.kuy7
+\XPSH 2 [7@y p@mm@ bi tzijjokuy7.1
+\XSP 2 Aguanto* la pedrada.
+\XEN 2 He endured the stoning.
+\EXU* da p@m-w@
+\EXU* p@m-w@
+\SYN
+\SEMF body, cognitive
+\ASP activity
+\ARG
+\NOM p@m.i, p@m.kuy7
+\SUB
+ETYM
+\ETL
+\ROOT p@m
+\RTGR T1
+\DSRC HAJ94
+\CMTS this must have ergative markers.
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex p@m.i
+\_no 02840
+\LG MIG
+\PSH [p@mi]
+\UND p@m. E
+\MB aguantar, NOM7
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG recio (agua)
+\ENG forceful (water)
+\EXU p@m. E tuj
+\XPSH [P@mi tuj.]
+\XSP Esta* recio el agua.
+\XEN The water is forceful.
+\SYN
+\SEMF
+\ASP
+\ARG
+\NOM
+\SUB k@.n@k-p@m.i.'@y
+\ETYM
+\ETL
+\ROOT p@m
+\RTGR T1
+ZOH004R0011001.txt
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex p@m.i.7aH
+\_no 02841
+\LG MIG
+\PSH [p@mi7a-]
+Page 1223

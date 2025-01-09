@@ -1,0 +1,62 @@
+\DSRC HAJ98
+\CMTS
+\date
+\lex {jey} [2]
+\_no 04435
+\LG MIG
+\PSH
+\UND jey
+\MB si
+\VAR
+\GRAM part
+\SCI
+\USE
+\SPG si*
+\ENG yes
+\EXU
+\XSP
+\XEN
+\SYN ja7
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Feb/96
+\lex {+ji7}
+\_no 04436
+LG MIG
+\PHO
+\UND ji7
+\MB LOC1
+\VAR used only with deictics
+\GRAM av
+\SPG aqui*; aca*; alla*
+\ENG here; there
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex {+ji}
+\_no 04437
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+\UND ji
+\MB LOCREL
+\VAR
+\GRAM rel
+\SPG donde
+\ENG where
+\SPL
+\SLGR
+\EXU 1 7@n+ tzaj-tzonh-pa 7@n+ toto' 7@y+ w@t.7@m-pa+ji
+\XPSH 1 [7@n tzajtzonhpan toto 7@y w@t@mbaji.]
+\XSP 1 voy a pegar mi papel en la parte que se esta* rompiendo.
+\XEN 1 I'm going to paste my paper where it's tearing.
+Page 1905

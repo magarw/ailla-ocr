@@ -1,0 +1,63 @@
+\USE
+\SPG empezar a escuchar
+ENG to start to listen
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT matonh
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex yuk.matz
+\_no 04288
+\LG MIG
+\PSH [yukmatz-]
+\UND yuk.matz
+\MB ARR, sobar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 subir sobandolo
+\SPG 2 empezar a sobar
+\ENG 1 to mount something while rubbing it
+\ENG 2 to start to rub
+\SPL
+\SLGR
+\EXU 1 7@y+ yuk.matz.jay-w@ 7@y+ tzek=mama
+\XPSH 1 [7@y yukmatzjayy@y tzekmama.]
+\XSP 1 Le subio* sobandolo su matriz.
+\XEN 1 He mounted rubbing her womb.
+\EXU 2 yuk.matz=7ok.manh. 7oy-w@
+\XPSH 2 [Yukmatztzokmanhnhoyy@.]
+\XSP 2 Empezo* a sobar.
+\XEN 2 She started massaging.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT matz
+\RTGR T3
+\DSRC HAJ95
+\CMTS CK-GR, CK-EX
+\date 20/Jun/96
+\lex yuk.max
+\_no 04289
+ZOH004R0011001.txt
+\LG MIG
+\PSH [yukmax-]
+\UND yuk.max
+\MB ARR, descomponerse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar a descomponerse
+Page 1842

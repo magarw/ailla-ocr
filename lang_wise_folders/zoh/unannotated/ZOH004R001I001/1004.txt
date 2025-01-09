@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT k@x
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex nik. 'an. '@y
+\_no 02331
+\LG MIG
+\PSH [nikkann@y-]
+\UND nik.7an.7@y
+\MB SUP, calentarse, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG sentir caliente, porque estar pasando cerca de la lumbre
+\ENG to feel warm, because you're passing by the fire
+\SPL
+\SLGR
+\EXU d@+ nik. 'an. '@y-w@
+\XPSH [D@ nikkann@yy@.]
+\XSP Me 11ego* lo caliente de la lumbre.
+\XEN The heat of the fire warmed me up.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7an
+\RTGR 12
+\DSRC HAJ95
+ZOH004R0011001.txt
+\CMTS CK-GR HAJ:96, it's vi like the root
+\date 25/Jun/96
+\lex nik. 'ax. '@y
+\_no 02332
+\LG MIG
+\PSH [nikkaxx@y-]
+\UND nik.7ax.7@y
+\MB SUP, abrir_boca, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG 1 abrir la boca por delante, con otra persona, boca por boca
+\SPG 2 jugar morder con alguien
+\ENG 1 to snap the mouth open at someone
+\ENG 2 to play-bite with someone
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7ax
+\RTGR P (11)
+Page 1004

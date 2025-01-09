@@ -1,0 +1,64 @@
+\ETYM
+\ETL
+\ROOT jopx
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex jo7px
+\_no 00040
+\LG MIG
+\PSH
+\UND jo7px
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG poner bozal a*
+\ENG to muzzle
+\SPL jo7px.7oy
+\SLGR ANTIP
+\SLGL poner bozal // to muzzle
+\SPL jo7px.7@m
+\SLGR PASS
+\SLGL ya tiene su bozal // to be muzzled
+\EXU kin@k=jo7px-w@
+\XPSH [Kin@k jo7px@.
+\XSP Le puso un bozal en la trompa.
+\XEN He put a muzzle on its snout.
+\SYN 7anh-jo7px
+SEMF animal
+\ASP achievement
+\ARG
+\NOM jo7px.kuy7
+\SUB 7anh.jo7px, j@x-jo7px
+\ETYM
+\ETL
+\ROOT jo7px
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex jot
+\_no 00041
+LG MIG
+ZOH001R0611006.txt
+\PSH
+\UND jot
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG cortar fruta de cafe* parejo, maduro con verde
+both ripe and green coffee beans together
+\ENG to pick
+\SPL jot.7oy
+\SLGR ANTIP
+\SLGL cortar cafe* // to pick coffee beans
+\SPL jot.7@m
+\SLGR PASS
+\SLGL cortarse cafe* // the coffee was picked
+\EXU 1 kajwe=jot-wa
+Page 30

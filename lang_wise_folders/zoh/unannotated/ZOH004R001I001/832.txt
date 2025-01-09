@@ -1,0 +1,65 @@
+\VAR
+\GRAM EN
+\SCI
+\USE
+\SPG gente maren~a Huaves de San Mateo del Mar
+\ENG sea people - the Huaves of San Mateo del Mar
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex mejkenenh7
+\_no 01930
+\LG MIG
+\PSH
+\UND mejkenenh7
+\MB
+\VAR mejkenenh7 kuy
+\GRAM
+\SCI
+\USE
+\SPG palo de mangle
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\lex mek
+\_no 01931
+\LG MIG
+\PSH
+\UND mek
+\MB
+\VAR
+\GRAM vi:act
+\SCI
+LF: kuy
+-
+ZOH004R0011001.txt
+\USE
+\SPG mentir; engan*ar; chismear
+\ENG to lie; to deceive; to gossip
+\EXU 1 jakke mek-
+\XSP 1 engan~ar mucho
+\XEN 1 to lie a lot
+\EXU 2 mux-pa 7@n+ mek-w@
+\XPSH 2 [Muxpan mekk@.]
+\XSP 2 Se engan~ar.
+\XEN 2 I know how to deceive.
+Page 832

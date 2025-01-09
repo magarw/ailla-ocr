@@ -1,0 +1,62 @@
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Nov/94
+\lex mon.pu'
+\_no 02018
+\LG MIG
+\PSH [monpu-]
+\UND mon. pu7
+\MB envolver, RVS
+\VAR
+\GRAM vt: revers
+\SCI
+\USE
+\SPG destapar; desenvolver
+\ENG to uncover; to unwrap
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 mon
+\RTGR 2 P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex montonadu
+\_no 02019
+\LG MIG
+\PSH
+\UND montonadu
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG monto*n; amontonado
+\ENG pile; heap; piled up
+EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex monton=tz@k
+\_no 02020
+\LG MIG
+\PSH [montontz@k-]
+\UND monton=tz@k
+\MB amontonar, HACER
+\VAR
+\GRAM vt
+\SCI
+ZOH004R0011001.txt
+Page 870

@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG debajo de
+\ENG under
+\EXU 1 ga.ja ka.j@7
+\XPSH 1 [gaja kaj@7]
+\XSP 1 alla* abajo
+XEN 1 there below
+\EXU 2 7@y+ p@-pa k@.j@7
+\XPSH 2 [7@y papa kaj@7.]
+\XSP 2 Lo echo* abajo.
+\XEN 2 He's throwing him down under.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS ANALYZE: cf. k@.ji7, k@.ji'.jo7
+\date 25/Jun/96
+\DATE 03/Jan/1980
+\lex k@.j@nanh
+\_no 01673
+\LG MIG
+\PHO [k@jananh]
+\UND ka.jananh
+\MB
+\VAR
+\USE directional
+\GRAM av
+\SPG para alla* abajo
+\ENG down there
+\EXU 1 7@n+ t@k teji.7a-w@ k@.j@nanh
+\XPSH 1 [7@n t@k teji7aw@ k@j@nanh.]
+\XSP 1 Mi casa esta* alla* abajo.
+\XEN 1 My house is down there.
+\EXU 2_d@_n@k-pa ga.ja 7ichiinh k@.j@nanh
+\XPSH 2 [D@ nakpa gaja 7ichi*nh k@j@nanh.]
+\XSP 2 Me voy para alla* abajito.
+\XEN 2 I'm going down a little way over there.
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex kaj@t@nh7
+\_no 01674
+\LG MIG
+\PSH
+\UND k@j@t@nh7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG almohada
+\ENG pillow
+\EXU
+\XSP
+\XEN
+\SYN
+Page 723

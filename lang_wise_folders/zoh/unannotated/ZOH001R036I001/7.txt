@@ -1,0 +1,82 @@
+\_no 00028
+\tx 7@y 7ukpa
+\mb 7@y 7uk
+\sgl 3E
+\egl 3E drink-INC
+\zoq 7@y 7ukpa.
+\fts Lo toma.
+\fte You drink it.
+\com
+\idx
+-pa
+tomar -INC
+\ref ZOH001R036 028
+\_no 00029
+\tx si ya
+y
+7uk@
+\mb si ya 7@y 7uk -A
+\sgl si NEG 3E
+tomar-NOM2
+\egl if NEG 3E drink-NOM2
+\zoq si yay_7uk@,
+\fts Si no lo toma,
+\fte If you don't drink it,
+\com
+\idx
+\ref ZOH001R036 029
+\_no 00030
+\tx n@mmoba
+y pakk@
+\mb n@m-7oy -ра 7@y pak
+\sg1 DO -ANTIP-INC 3E
+\eg1 DO -ANTIP-INC 3E
+get
+\zoq n@mmobay p@kk@ ne7.
+fts puede agarrar lo tambien.
+\fte you can get it too.
+\com
+\idx
+\tx
+\mb
+-wa
+agarrar-dINC
+\ref ZOH001R036 031
+\_no 00032
+\zoq N@mmobay tzew@ 7@y win,
+\fts se puede agarrar la batiba,
+\fte You can wash yourself,
+\com
+\idx
+ZOH001R0361001.txt
+\ref ZOH001R036 030
+\_no 00031
+\tx n@mmoba
+\mb n@m-7oy -pa 7@y
+7@y win
+7@y win
+\sg1 DO -ANTIP-INC 3E lavar-dINC 3E REFL
+\eg1 DO -ANTIP-INC 3E wash -dINC 3E REFL
+y tzew@
+tze7 -w@
+\com
+\idx
+ne7
+ne7
+-dINC also
+tambien
+para 7@y w@jtz@kjaba
+bi
+jonhjo
+para 7ay waja -tz@k -jay -pa jonh -jo7 bi
+\sg1 para 3E bueno-hacer-APPL-INC adentro-Loc2 DEF
+\egl for 3E
+toypa*7
+toy
+-pa -v7k
+doler-INC-REL
+good - do -APPL-INC inside -LOC2 DEF hurt -INC-REL
+\zoq para 7@y w@jtz@kjaba jonhjo bi toypa*7.
+\fts para que limpia todo de lo que le duele adentro.
+\fte so that he cleanses what ails him inside.
+Page 7

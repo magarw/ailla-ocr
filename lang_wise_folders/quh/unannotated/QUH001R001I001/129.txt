@@ -1,0 +1,75 @@
+(8)
+(9)
+(10)
+'ma.ma-y.ki.-mán.-taj
+mamá-POS2-ALAT-ENF
+(.
+X
+(X 1
+X
+(X . )( X )(X . ) f
+■
+160
+■
+160
+El ejemplo (8) vuelve a fortalecer la hipótesis de la doble dirección en la asignación de
+acentos: en primer término, de izquierda a derecha en el nivel del pie (o nivel métrico); en
+segundo término, el acento principal se asigna en el nivel de la frase, en la dirección contraria.
+El "encuentro" entre ambos "trenes" de asignación acentual (el del pie y el de la frase)
+produce la formación de "pies degenerados" en el centro de lo que interpretamos, por lo
+menos hasta aquí, como “una” palabra prosódica. Su presencia se observa en el lugar donde
+comienza la sufijación de la base. Por fuerza métrica, la consecuencia fonológica esperada,
+será la compensación moraica de la sílaba afectada (aspecto que, como se dijo previamente,
+necesita un análisis especial). En el nivel de la palabra prosódica, el límite entre base y sufijos
+refuerza la reproducción de un acento por sector, con lo que se constituiría un tercer nivel que
+afecta la prominencia relativa de los acentos o "grado de acento": el nivel de la palabra
+prosódica donde parece incidir la información morfológica.
+161
+La pregunta que surge, a esta altura del análisis, es si la palabra morfológica sufijada se
+compone de una o de dos palabras fonológicas, es decir, si la sufijación se integra
+fonológicamente o forma palabra fonológica independiente. Según lo que sucede en la
+superficie, la segunda opción parece ser una explicación más satisfactoria y es a la que acuden
+de forma dominante los estudios tipológicos. Sin embargo, el ejemplo (8) manifiesta un
+problema: el límite de palabra divide al sufijo pronominal (-yki) que está silabificado con la
+palabra fonológica primera y, al mismo tiempo, aporta la primera sílaba a la segunda
+sección. ¹62 Más allá de esto (que puede ser una peculiaridad de los sufijos funcionales como
+los pronominales, tal como lo señala Adelaar 1984), la presencia de un pie degenerado entre
+secciones favorece el argumento de que estamos frente a una palabra morfológica compuesta
+por dos palabras fonológicas, es decir, que la sufijación tiende a formar un constituyente
+independiente en el nivel prosódico. El análisis queda reformulado como sigue:
+) 4
+) w
+'chi.ri. ]-mu.-shá-n.-taj
+frío-TRANSLOC-ASP-3S-ENF
+(.
+X
+X
+(X . )(
+(X . )( X )(X
+■
+■
+) 4
+.)w
+.) f
+'wa.ñu.]-pu.-llá-y.-taj
+morir-BEN-LIM-IMP-ENF
+X
+(.
+(X.)(. X
+(X . ) ( X )(X
+.) ❤
+4
+) w
+'a tu mamá'
+. ) f
+129
+'me está viniendo el frío / tengo frío'
+'vas a morir/ morirás'
+Tendencia en un contexto textual: (. X. X. ) o pero "raro" si tomamos la palabra aislada (por
+elicitación, e.g.)
+161
+Los tres niveles quedan representados en la grilla por el número de las X en las diferentes columnas. Acento
+principal: 3 X, acento(s) secundario(s): 2 X; acento(s) terciario(s): 1 X.
+162
+Los sufijos pronominales tienen comportamientos acentuales diferenciales al resto de los sufijos en varios
+aspectos que es necesario analizar en particular.

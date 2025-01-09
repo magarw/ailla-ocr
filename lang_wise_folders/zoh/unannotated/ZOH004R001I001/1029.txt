@@ -1,0 +1,63 @@
+\UND nok.nok.ney
+\MB
+\VAR
+\GRAM VİRF
+\SCI
+\USE
+\SPG andar troteando perro
+\ENG for a dog to go trotting along
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 21/Jun/95
+\lex noko7
+\_no 02390
+\LG MIG
+\PSH
+\UND noko7
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG currioso
+\ENG hardy
+\EXU noko¹ xix
+\XPSH [noko xix]
+\XSP carne dura
+\XEN tough meat
+\EXU noko' p@n
+\XPSH [noko p@n]
+\XSP hombre que se aguanta mucho
+\XEN a man who bears a lot
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS currioso: se aguanta mucho, no se cansa
+\date 19/Jun/96
+\lex noko'.7aH
+\_no 02391
+\LG MIG
+\PSH [noko7a-]
+\UND noko7.7aH
+\MB currioso, VERS1
+\VAR
+\GRAM versl
+\SCI
+\USE
+\SPG hacerse currioso
+\ENG to become hardy
+\SPL
+\SLGR
+Page 1029

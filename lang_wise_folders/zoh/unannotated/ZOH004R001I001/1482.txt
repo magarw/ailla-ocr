@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS tomates muy pequen~os; "ojo de venado"
+\date 28/Jan/96
+\lex tzun=xik
+\_no 03444
+\LG MIG
+\PSH [tzunxik-]
+\UND tzun=xik
+\MB ser_alegre, reirse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG ser alegre y reirse
+\ENG to be happy and laugh
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzun
+\RTGR 12
+\ROOT xik
+\RTGR 11
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex tzun-yo'
+\_no 03445
+\LG MIG
+\PSH [tzunyo-]
+\UND tzun=y07
+\MB gotear, caerse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG caer gotas; gotear
+\ENG for drops to fall; to drip
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tzun
+\RTGR 1 11
+\ROOT 2 yo7
+\RTGR 2 12
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tzun'.tzun7
+Page 1482

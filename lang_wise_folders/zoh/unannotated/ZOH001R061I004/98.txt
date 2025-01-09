@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT tzonh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 27/Jan/96
+\lex pakx.e
+\_no 00242
+\LG MIG
+\PHO [pakxe]
+\UND pakx.E
+\MB doblar, NOM7
+\VAR
+\GRAM Pcp
+\SPG doblado
+ENG folded
+\EXU pakx.e bi yo't.e7 // yo't.e' pakx.e
+\XPSH [pakxe biyote7] 77 [yote pakxe]
+\XSP ropa doblada
+\XEN folded clothes
+\SYN
+\ROOT pakx
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex pa't.e7
+\_no 00243
+\LG MIG
+\PHO [pate7]
+\UND pa7t.E7
+\MB encontrar, NOM7
+\VAR
+\GRAM pcp
+\SPG una cosa que encontro*
+\ENG something found
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT pa7t
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex pelot(a) m@tz.i7
+\_no 00244
+\LG MIG
+\PSH [pelota m@tzi7]
+\UND pelota m@tz. E7
+\MB pelota, *jugar, NOM7
+\VAR peloot matz.i7
+\GRAM s (m) sv
+\SCI
+\USE
+\SPG juego de pelota
+\ENG ball game
+ZOH001R0611004.txt
+\EXU
+\XSP
+Page 98

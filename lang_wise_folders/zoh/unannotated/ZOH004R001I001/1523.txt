@@ -1,0 +1,64 @@
+\MB chico, tigre
+\VAR
+\GRAM as
+\SCI
+\USE
+\SPG tigre pequen~o
+\ENG a type of big cat
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS NRM 17.3 - 4
+\date 28/Jan/96
+\lex wakxi' pen.e
+\_no 03542
+\LG MIG
+\PSH [wakxi pene]
+\UND wakxi7 pen. E
+\MB chico, transplantar, NOM7
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG planta pequen*a
+\ENG small plant
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+LF:7anmal
+\CMTS
+\date 28/Jan/96
+\lex wakxi' t@k
+\_no 03543
+\LG MIG
+\PSH [wakxi t@k]
+\UND wakxi7 t@k
+\MB chico, casa
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG casa mediana o chiquita
+\ENG medium or small house
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+ZOH004R0011001.txt
+Page 1523

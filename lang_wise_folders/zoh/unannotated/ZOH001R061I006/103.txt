@@ -1,0 +1,64 @@
+\GRAM vt
+\SCI
+\USE
+\SPG poner
+\ENG to put
+\SPL p@.7oy
+\SLGR ANTIP
+\SLGL poner // to put
+\SPL p@.7@m
+\SLGR PASS
+\SLGL
+\EXU 1 p@7-A7
+\XPSH 1 [P@7!]
+\XSP 1 ! Ponlo!
+\XEN 1 Put it there!
+\EXU 2 dax da pa'-7oy-w@
+\XPSH 2 [D@x da p@7oyy@.]
+\XSP 2 Yo crei*.
+\XEN 2 I believed it.
+\EXU 3 7@y+ p@-w@ primer ponh
+\XPSH 3 [7@y p@w@ primer ponh.]
+\XSP 3 Lo estreno*
+\XEN 3 He debuted it.
+\EXU 4 7@y+ pa-w@ 7@y+ t@nh.kuy7
+\XPSH 4 [7@y p@w@y t@nhkuy.]
+\XSP 4 Lo marco* con su fierro.
+\XEN 4 He branded it.
+\SYN
+\SEMF arrange
+\ASP achievement
+\ARG
+\NOM p@'.'oy.kuy7
+\SUB 7ok.yoj-p@¹, jo.p@', ko.p@', k@.win.p@'.7@y, manh=wak=p@',
+\SUB num=p@, pa¹ =nak
+\ETYM
+\ETL
+\ROOT p@
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\CMTS CK-all EX HAJ:96, corrected all
+\date 03/Jan/80
+\lex taj
+\_no 00152
+\LG MIG
+\PSH
+\UND taj
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG escarbar
+\ENG to dig
+\SPL taj.7oy
+\SLGR ANTIP
+ZOH001R0611006.txt
+\SLGL escarbar // to dig
+\SPL taj.7@m
+\SLGR PASS
+\SLGL escarbarse // to be dug
+\SPL taj.ten
+\SLGR PRSV
+Page 103

@@ -1,0 +1,63 @@
+ZOH001R0611006.txt
+\CMTS puxx@ is when bits of an adobe building crumble off the edges
+\date 03/Jan/80
+\lex pu' [1]
+\_no 00148
+\LG MIG
+\PSH
+\UND pu7
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG deshilar; desatar
+\ENG to unravel; to untie
+\SPL pu.7oy
+\SLGR ANTIP
+\SLGL deshilar, desatar // to unravel, to untie
+\SPL pu.7@m
+\SLGR PASS
+\SLGL deshacerse, deshilarse // to be dissolved, to be unravelled
+\SPL pu.ney
+\SLGR ASSUM
+\SLGL estar deshilado // to be unravelled
+\EXU
+\XSP
+\XEN
+\SYN wat=pu
+\SEMF arrange
+\ASP accomplishment
+\ARG
+\NOM
+\SUB ko.pu', wat=pu'
+\ETYM
+\ETL
+\ROOT pu
+\RTGR P (T3)
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex p@k (1)
+\_no 00149
+\LG MIG
+\PSH
+\UND pak
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG agarrar
+\ENG to grasp; to grab
+\SPL p@k. 7oy
+\SLGR ANTIP
+\SLGL agarrar // to grab
+\SPL p@k.7@m
+\SLGR PASS
+\SLGL agarrarse // to be grabbed
+\EXU
+\XSP
+\XEN
+\SYN
+Page 101

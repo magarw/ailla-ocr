@@ -1,0 +1,98 @@
+\id C:\TEXTS\ZOH001R026.TXT
+\ref ZOH001R026 000
+\_no 00001
+\zoq Bi Metzanh Manhkuyp@7k
+\fts El Dos Pie
+\fte The Two-Legged One
+\com narrado por Camilo Miguel Sanchez
+\com 8/10/95, en San Miguel Chimalapa, Oaxaca, Mexico
+\com grabado por CMS, transcrito por HAJ,
+\com traducido al espan~ol por CMS,
+\com analisado y traducido al ingles por HAJ.
+\com
+\com
+\com 7
+\com narrated by Camilo Miguel Sa*nchez
+\com 10/8/95, in San Miguel Chimalapa,
+\com recorded by CMS, transcribed by HAJ,
+\com translated into Spanish by CMS,
+\com analyzed and translated into English by HAJ.
+Ortografi*a
+Orthography
+\com @
+\com nh
+\com tz
+\com x
+\com j
+\com *
+pau*sula glotal
+vocal medio central
+nasal velar
+ZOH001R0261001.txt
+\tx 7oktzamjaxukk@*7
+\mb
+7ok -tzam
+28/Oct/04
+(ng)
+africativo alveolar (ts)
+fricativo palatal
+glottal fricative (h)
+estre*s
+(sh)
+\ref ZOH001R026 001
+\_no 00002
+\tx mix tzamjaba
+da
+\mb mix tzam
+-E7 da
+\sgl 1>2 platicar-APPL-INC DCT1-DEM platicar-NOM3 1A
+\egl 1>2 converse-APPL-INC DCT1-DEM converse-NOM3 1A
+-jay -xuk-w@ -v7k
+\sg1 BAJO-platicar-APPL-3PL-COM-REL
+\eg1 DOWN-converse-APPL-3PL-COM-REL
+\ref ZOH001R026 002
+\_no 00003
+79
+Oaxaca, Mexico
+y@da
+tzame
+-jay -pa ya
+ya -da tzam
+\ref ZOH001R026 003
+\_no 00004
+\mb 7i
+glottal stop
+mid central vowel
+velar nasal
+\zoq Mix tzamjaba y@d@ tzame d@ 7oktzamjaxukk@*7.
+\fts Te voy a contar un cuento que me lo contaron.
+\fte I'm going to tell you this story that they told to me.
+alveolar affricate
+palatal fricative
+stress
+\tx yada
+tzame
+7@y n@ji
+\mb ya -d@ tzam -E7 7@y n@ji
+\sg1 DCT1-DEM platicar-NOM3 3E nombre dos
+\eg1 DCT1-DEM converse-NOM3 3E name
+two
+metzanh manhkuyp@7k
+metza*nh manh -kuy7
+\zoq yad@ tzame 7@y n@ji Metzanh Manhkuyp@7k P@n,
+\fts Esta pla*tica se llama El Dos Pies,
+\fte This tale's name is The Two-legged One,
+\tx 7i komo de kostumbre 7@n n@mjadampa
+komo de kostumbre 7@n
+como de costumbre 1E
+\egl and like of custom 1E
+\sg] y
+p@n
+-p@7k p@n
+pisar-INSTR1-REL2 hombre
+step -INSTR1-REL2 man
+katzit7ok
+nam -jay -tam -pa katzit7ok
+decir-APPL-1/2PL-INC cazador
+say -APPL-1/2PL-INC hunter
+Page 1

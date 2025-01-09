@@ -1,0 +1,70 @@
+\fte You take the hard fruit - lime.
+\com
+\idx
+\not (not ripe, very small, right after the flower falls)
+\ref ZOH001R036 013
+\_no 00014
+\tx HAJ: komo se prepare ese remedio
+\mb HAJ komo se prepare ese remedio
+\sg1 HAJ: Como se prepare ese remedio
+\egl HAJ: how one prepares that remedy
+\zoq HAJ: Komo se prepare ese remedio?
+\fts HAJ: Como se prepare ese remedio?
+\fte HAJ: How do they make that cure?
+\com
+\idx
+\ref ZOH001R036 014
+\_no 00015
+\tx
+\mb
+\sg1 GSM: cosas
+\eg1 GSM: things
+GSM: tiyanhja*7 7@m 7okuptz@kpa
+GSM tiyanhja*7 7@m 7okup -tz@k -pa
+2E ocupar-hacer-INC
+2E use - do
+\zoq GSM: Tiyanhja*7 7@m 7okuptz@kpa?
+\fts GSM: Que todo ocupas?
+\fte GSM: What all do you use?
+\com
+\idx
+\ref ZOH001R036 015
+\_no 00016
+\tx OSM: nax
+\mb OSM
+nax
+\sg1 OSM: tierra
+chapuli*n
+\eg1 OSM: earth chapuli*n
+\zoq OSM: Nax mupe,
+\fts OSM: Rayanita,
+\fte OSM: (some plant),
+\com
+\idx
+mupe
+mupe7
+\ref ZOH001R036 016
+\_no 00017
+\tx 7ay jaya
+\mb
+7ay7 jay@7
+\sg1 hoja flor
+\egl leaf flower
+ZOH001R0361001.txt
+\com
+\idx
+\zoq 7ay jaya,
+\fts hoja de albaca,
+\fte (some kind of leaf),
+\ref ZOH001R036 017
+\_no 00018
+\tx de
+\mb te -7
+\sg1 DCT2-NOM1
+-INC
+d@kka bi
+d@kkay bi p@k
+-n@k -pa -v7k
+NPL DEF agarrar-irse-INC-REL
+p@kn@kpa*7
+Page 4

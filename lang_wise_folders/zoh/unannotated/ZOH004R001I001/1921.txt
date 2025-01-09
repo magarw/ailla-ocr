@@ -1,0 +1,63 @@
+\_no 04472
+\LG MIG
+\PSH
+\UND nam7
+\MB TOD
+\VAR
+\GRAM clitic
+\SCI
+\USE postverbal adverbial clitic
+\SPG todavi*a
+ENG still, yet
+\SPL
+\SLGR
+\EXU 1 da nip=7ok.manh-pa +nam7 joji
+\XPSH 1 [D@ nippokmanhpanam joji.]
+\XSP 1 voy a empezar a sembrar man~ana todavi*a.
+\XEN 1 I'm still going to start to sow tomorrow.
+\EXU 2 si ya poy-tak-Ã+nam7 7@n+ 7ix-tuk-tam-pa 7axta kwan (du)
+tak-pa
+\XPSH_2 [Si ya poytak@nam, 7@n 7ixtuktampa 7axta kwan takpa.]
+\XSP 2 Si no llueve todavi*a, esperamos hasta que llueve el agua.
+\XEN 2 If it still hasn't rained, we wait until it rains.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\lex {.na}
+\_no 04473
+\LG MIG
+\PSH
+\UND na
+\MB STAT
+\VAR
+\USE verbal suffix: stative
+\GRAM suf
+\SPG estar en la forma de VERBO
+\ENG to be in the form of VERB
+\SPL
+\SLGR
+\EXU jap.na yo-w@
+\XPSH [Japna yow@.]
+\XSP Se cayo* boca abajo.
+\XEN He fell face down.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+ZOH004R0011001.txt
+\lex {.naanh}
+\_no 04474
+\LG MIG
+\PSH [na*nh]
+\UND naanh
+\MB MED1
+\VAR
+\USE nominalizing verbal suffix
+Page 1921

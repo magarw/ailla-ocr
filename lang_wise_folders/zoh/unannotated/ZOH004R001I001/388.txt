@@ -1,0 +1,63 @@
+\ENG to empty
+\SPL yak.jo'.wak
+\SLGR CAUS
+\SLGL vaciar // to empty
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * wak
+\DSRC TK94
+\CMTS
+\date 03/Feb/96
+\lex jo.wan
+\_no 00891
+\LG MIG
+\PSH [jowan-]
+\UND jo.wan
+\MB EN, contar
+\VAR
+\GRAM dir+vt
+\SCI
+\USE
+\SPG 1 leer
+\SPG 2 estudiar
+\ENG 1 to read
+\ENG 2 to study
+\SPL wan. 7oy
+\SLGR ANTIP
+\SLGL leer // to read
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wan
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/96
+\lex jow.e
+\_no 00892
+\LG MIG
+\PHO [jowe]
+\UND jonh. E
+\MB atarantarse, NOM7
+\VAR
+\GRAM pcp
+\SPG atarantamiento
+\ENG dizzyness
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT jonh
+\RTGR 12
+\DSRC HAJ95
+ZOH004R0011001.txt
+Page 388

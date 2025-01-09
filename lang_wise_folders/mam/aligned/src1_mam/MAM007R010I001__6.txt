@@ -1,0 +1,40 @@
+(50) dyaa iika
+aax=ka ky-wi'=q'a.
+de.ahí
+mismo=? A3p-cabeza-CL:MASC
+'de ahí sus mismas cabezas (llegaron con el cerro).'
+mismo=PL=CL:MASC PROX.DEP+B3s=salir
+witz,
+A3s-SR:AGT cerro
+'Ellos mismos fueron matados por el cerro,"
+xhi
+kyim.
+hastamismo=PL-CL:MASC PROX.DEP+B3p morir
+'hasta ellos mismos se murieron.'
+pwees
+entonces
+PROX B3s-A3p-querer-CL:MASC pues
+'Entonces ellos quisieron pues'
+(54) t-u'n
+ky-b'ib'ii'xa-n tzluu' t-witz
+tx'otx'
+B3s-SR:PROP A3p-vivir?-AP aquí A3s-SR:sobre tierra
+t-pwaaq
+noq t-u'n
+witz
+solo A3s-SR:PROP A3s-dinero cerro
+'vivir en este mundo nomás por el dinero del cerro'
+A3s-SR:PAC
+'Pues esto es un mío y lo he escuchado'
+0-0'
+un Alp-SR:POS=1s=DEM CPL-ENF
+A3p-SR:AGT=CL:MASC
+A3s-SR:PROP A3s-salir=DIR:acá
+xjaal
+t-i’j
+t-wi'
+chi-chi-tzan=q'a,
+A3s-SR:por A3s-cabeza gente
+B3p-decir-pues-CL:MASC
+'que iban a sacar por el valor de la cabeza de la gente, según dijeron,'
+tz'=ok

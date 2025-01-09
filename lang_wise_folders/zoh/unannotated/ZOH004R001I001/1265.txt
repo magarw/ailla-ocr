@@ -1,0 +1,63 @@
+\SYN
+\SEMF aspect
+\ASP achievement
+\ARG
+\NOM tan.neenh
+\SUB
+\ETYM
+\ETL
+\ROOT tan
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\CMTS FIX EX1 HAJ:96 ok
+\date 03/Jan/80
+\lex tan [2]
+\_no 02939
+\LG MIG
+\PSH
+\UND tan
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG (tirarle y) pegarle
+\ENG (to throw and) to hit something
+\SPL tan.7oy (only get this in INC)
+\SLGR ANTIP
+\SLGL pegar // to hit
+\SLGR NO PASS
+\EXU 7@y+ tan-w@ bi p@n bi m@a7
+\XPSH [7@y tann@ bi p@n bi m@a7.]
+\XSP El hombre pego* el venado.
+\XEN The man shot the deer.
+\SYN
+\SEMF hit
+\ASP achievement
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT tan
+\RTGR T3
+\DSRC TK94
+\CMTS tirar: una pistola o una piedra. le pego* por tirar algo
+\date 03/Jan/80
+\lex tana7tti7
+\_no 02940
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+\UND tana7tti7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG tenate
+\ENG bag
+\EXU
+\XSP
+Page 1265

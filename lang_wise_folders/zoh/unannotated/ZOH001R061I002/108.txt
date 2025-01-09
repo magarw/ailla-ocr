@@ -1,0 +1,61 @@
+ZOH001R0611002.txt
+\NOM yunkuy7 (could mean the arms, since that's what you swim with)
+\RTGR 11
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex yu7p
+\_no 00439
+\SPG picar (madera, cebolla, carne...)
+\ENG to chop or mince (wood, onion, meat)
+\SEMF cut
+\ASP process
+\ARG
+\NOM yu'p.i7
+\NUM yu7p.naanh tuj
+\NOM kuy7
+\RTGR P (T3)
+\POS Y
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex yu7tz
+\_no 00440
+\SPG agarrar un pun~o y ponerlo ahi*; dejar un pun~o (frijol, mai*z)
+\ENG to grab a fistful of something and put it over there; to leave a
+handful of something (beans, corn)
+\SEMF hand
+\ASP process
+\ARG
+\NOM yu7tz.naanh
+\RTGR T1
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex y@7kx
+\_no 00441
+\SPG mover(se); aflojarse
+\ENG to move (oneself); to float
+\SEMF move_self
+\ASP process
+\ARG
+\NOM
+\ASP
+\ARG
+\NOM
+\RTGR IX, Il
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex y@7t
+\_no 00442
+\SPG deshebrar carne para freirla; deshilar; desplumar
+\ENG to shred meat for frying; to pull out threads; to pluck feathers
+Page 108

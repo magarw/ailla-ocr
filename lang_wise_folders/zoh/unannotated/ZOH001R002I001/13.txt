@@ -1,0 +1,72 @@
+ZOH001R0021001.txt
+de7.
+te -7
+-pa
+-ji7
+DCT2-NOM1
+\sg1 decir-INC DCT2-LOC1 venir-INC
+\egl say -INC DCT2-LOC1 come -INC DCT2-NOM1
+\tx n@mpa
+\mb n@m
+deji
+te
+\zoq n@mpa deji minpa de7.
+\fts dice ahi* viene e*1.
+\fte they say here he comes.
+\not
+\idx
+\ref ZOH001R002 055
+\_no 00056
+\tx 7@y 7anhje7kxukpa.
+\mb 7@y 7anhje7k
+\sgl 3E
+tener_miedo-3PL-INC
+\egl 3E be afraid -3PL-INC
+\zoq 7@y 7anhje7kxukpa.
+\fts Le tienen miedo.
+\ref ZOH001R002 056
+\_no 00057
+\tx ya n@mmo
+\fte They're afraid of him.
+\not
+\idx
+minpa
+min -pa
+-xuk-pa
+\ref ZOH001R002 057
+\_no 00058
+\mb__ya n@m-7oy -A 7anh -tzonh-xuk-w@
+\sg1 NEG DO -ANTIP-NINC BOCA -unir -3PL-COM
+\eg1 NEG DO -ANTIP-NINC MOUTH-join -3PL-COM
+\zoq Ya n@mmo 7anhtzonhxukk@.
+\fts No pueden contestarle.
+\fte They can't answer him.
+\not
+\idx aux_p1
+7anhtzonhxukk@.
+\tx 7@y 7anhje7kxukpa.
+\mb 7@y 7anhje7k
+\sg1 3E
+\egl 3E be_afraid -3PL-INC
+\ref ZOH001R002 058
+\_no 00059
+\tx ga7xe gag@
+\mb
+ka
+\zoq 7@y 7anhje7kxukpa.
+fts Le tienen miedo.
+\fte They're afraid.
+\not
+\idx
+-xuk-pa
+tener_miedo-3PL-INC
+tyempu,
+-7xe ka -g@ tyempu
+\zoq Ga7xe gag@ tyempu,
+\fts Asi* en ese tiempo,
+\fte So, in that time,
+\not
+\idx
+\sg1 DCT3-SIM DCT3-DEM tiempo
+\eg1 DCT3-SIM DCT3-DEM time
+Page 13

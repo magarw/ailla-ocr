@@ -1,0 +1,76 @@
+\ref ZOH001R036 384
+\_no 00379
+bi
+\tx bi xajpak
+\mb bi
+хај
+bi tzanhkuy
+tzanh-kuy7
+-pak bi
+pak 7@y 7anhnitpa*7
+pak 7@y 7anhnit-pa -v7k bi
+\sg1 DEF sobaco-hueso DEF pegar-INSTR1 hueso 3E tener -INC-REL DEF
+\eg1 DEF wing -bone DEF hit -INSTR1 bone 3E have -INC-REL DEF
+\tx metzi ladu
+\mb metzi
+ladu
+\sg1 los_dos lado
+\egl the_two side
+\zoq Bi xajpak bi tzanhkuy pak 7ay 7anhnitpa*7 bi metzi ladu.
+\fts El hueso de la res que tiene los dos lados.
+\fte The armbone the legbone that it has on both sides.
+\com
+\idx
+\ref ZOH001R036 385
+\_no 00380
+\tx
+GSM: bi tzowa*7
+\mb GSM
+bi tzonh-A7
+\sg1 GSM: DEF unir -NOM2
+\eg1 GSM: DEF join -NOM2
+\zoq GSM: Bi tzowa*7?
+\fts GSM: En donde se topan?
+\fte GSM: The part where they join?
+\com (the shoulder blade)
+\idx
+\ref ZOH001R036 386
+\_no 00381
+ZOH001R0361001.txt
+\tx
+OSM: y@
+ney хај
+ney xaj
+\mb OSM y@ -7
+\sg1 OSM: DCT1-NOM1 mismo sobaco
+\egl OSM: DCT1-NOM1 self armpit
+\zoq OSM: Y@ ney xaj.
+\fts OSM: Este tambien es su pata.
+\fte OSM: That's also it's leg.
+\com
+\idx
+\ref ZOH001R036 387
+\_no 00382
+\tx ga
+\mb ka -7
+n@kpa
+y yakjuyy@
+n@k -pa 7@y yak -juy
+\sg1 DCT3-NOM1 irse-INC 3E CAUS-comprar-dINC
+\eg1 DCT3-NOM1 go -INC 3E
+\zoq Ga nakpay yakjuyy@.
+\fts Eso lo manda comprar.
+\fte He goes to have that bought.
+\com
+\idx
+\ref ZOH001R036 388
+\_no 00383
+\tx ga
+\mb ka -7
+CAUS-buy
+ya ра 7@y k@x@
+ya para 7@y k@x@
+\sg1 DCT3-NOM1 NEG para 3E arriba
+-wa
+-DINC
+Page 83

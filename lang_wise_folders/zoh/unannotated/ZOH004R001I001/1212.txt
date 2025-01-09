@@ -1,0 +1,63 @@
+kneeling
+\SPL yak.puy
+\SLGR CAUS
+\SLGL hacer doblar // to make bend
+\EXU 1 puy-pa bi moriu
+\XPSH 1 Puypa bi moriu.
+\XSP 1 Se doblo* el morillo.
+XEN 1 The horse bent to its knees.
+\EXU 2 7@y+ yak.puy-pa bi kuy porke jeme7tz 7@y+ 7anh.nit-pa tzap+ji7
+\XPSH 2 [7@y yakpuypa bi kuy porke jeme7tz 7@y 7anhniṭpa tzapji7.]
+\XSP 2 Hace doblar el palo por el pesor que tiene encima.
+\XEN 2 The weight on top of it made the branch bend.
+\EXU 3 puy.ney-w@ bi p@n
+\XPSH 3 [Puyneyy@ bi p@n.]
+\XSP 3 El hombre se sento* en cuclillas.
+\XEN 3 The man squatted.
+\EXU 4 puy-w@ bi kuy porke waniņ' Zi tzujux
+\XPSH 4 [Puyy@ bi kuy porke wanin 7i tzujux.]
+\XSP 4 Se doblo* el palo porque esta* delgado y verde.
+\XEN 4 The branch bent because it was thin and green.
+\SYN
+\SEMF arrange
+\ASP state, activity
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT puy
+\RTGR P (11)
+\DSRC HAJ95
+\CMTS NEW ROOT
+\CMTS mainly used about wood
+\date 03/Jan/80
+\lex puy [2]
+\_no 02815
+\LG MIG
+\PSH
+\UND puy
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG pierna; muslo
+\ENG thigh
+\EXU puy=putz.i (a:sq)
+\XPSH [puyputzi]
+\XSP con/que tiene grano en la pierna
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex pu' [1]
+\_no 02816
+\LG MIG
+\PSH
+Page 1212

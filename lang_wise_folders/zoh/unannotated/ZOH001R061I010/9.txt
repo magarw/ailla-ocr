@@ -1,0 +1,60 @@
+XEN the chicken clucked
+\ROOT chekek Il
+\SEMF speak-animal
+\CMTS
+\lex cho7k
+\_no 00033
+\SPG sonar "haciendo pendejadas"
+\ENG to make a slurping sound fucking
+\EX cho7k-pa y+chona
+\XSP
+\XEN
+\ROOT cho7k Ix
+\SEMF sex
+\CMTS
+\lex jaj
+\_no 00034
+\SPG arder el cuerpo (en el sol, cuando esta* caminando mucho...)
+\ENG for the body to get warm (in the sun, from walking a lot...)
+\EX ni: jajja
+\XSP ardio* el cuerpo
+\XEN his body warmed up
+\ROOT jaj IX
+\SEMF temp
+\CAUS 7@y yakjajj@ 'algo me ardio*'
+\lex jakx
+\_no 00035
+\SPG sacar algo de la boca
+\ENG to hawk a gob
+\EX
+\XSP
+\XEN
+\ROOT jakx I1
+\SEMF body
+\CAUS yak.jakx hacer sacar
+\lex ja7k
+\_no 00036
+ZOH001R0611010.txt
+\SPG ahogarse
+\ENG to choke; to drown
+\EX ja7kk@ kwandu k@xxoba
+\XSP se ahogo* cuando estaba comiendo
+\XEN he choked when eating
+\EX 7@y yakja7kk@ najo7
+\XSP 1o ahogo* en el ri*o
+\XEN he drowned it in river
+\ROOT ja7k 12
+\SEMF body
+\CAUS yak.ja7k ahogar (choke someone, or drown in the river...)
+\CMTS
+\lex ja7p
+\_no 00037
+\SPG moler; quebrajar (maiz, arroz)
+\ENG to grind; to crush (corn, rice)
+\EX ja7pp@mm@ bi mok
+\XSP se quebrajo* el maiz
+\XEN the corn was ground
+\ROOT ja7p T3
+\SEMF cook, corn
+\PASS ja7p.7@m molerse
+Page 9

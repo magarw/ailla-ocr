@@ -1,0 +1,63 @@
+\PSH [xiitzin@*7]
+\UND xi7tz. E7 n@7
+\MB X, NOM7, agua
+\VAR xitzn@*7
+\GRAM sms
+\SCI
+\USE
+\SPG jugo de_la__can~a
+\ENG juice of the sugar cane
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex xi'tz.i'=k@7t
+\_no 00429
+\LG MIG
+\PSH [xitzik@7t-]
+\UND xi7tz. E7=k@7t
+\MB X, NOM7, moler
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG moler can~a
+\ENG to grind cane
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT k@7t
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex xi'tz.i'=t@nh
+\_no 00430
+\LG MIG
+\PSH [xitzit@nh-]
+\UND xi7tz. E7=t@nh
+\MB X, NOM7, cortar_con_machete
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG cortar can~a
+\ENG to cut cane
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ZOH001R0611004.txt
+Page 170

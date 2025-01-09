@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [kotomm@y-]
+\UND ko.tom.7@y
+\MB OTRO, cerca, VERS2
+\VAR
+\GRAM vt: vers2
+\SCI
+\USE
+\SPG acercarse junto a e*1
+\ENG to get closer to someone
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 14/Jun/95
+\lex ko. ton
+\_no 01451
+\LG MIG
+\PSH [koton-]
+\UND ko. ton
+\MB OTRO, limpiar_soplando
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG estar soplando frijol
+\ENG to winnow beans
+\EXU X@k=ko.ton-w@
+\XPSH [x@kkotonn@.]
+\XSP Estuvo soplando frijol.
+\XEN She was blowing chaff out of the beans.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ton
+\RTGR TX
+\DSRC TK94
+\CMTS get deriv's
+\date 29/Jan/96
+\lex kotox
+\_no 01452
+\LG MIG
+\PSH
+\UND kotox
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG cresta de ave
+ZOH004R0011001.txt
+\ENG crest of a bird
+\EXU jaya piyu' 7@y+ kotox
+\XPSH [jaya piyuy kotox]
+\XSP la cresta del gallo
+Page 631

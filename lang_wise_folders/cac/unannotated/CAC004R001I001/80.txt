@@ -1,0 +1,87 @@
+280. No me gusta que te vayas.
+max yal ink'o'ol tzachb'ati
+ma-x
+ø-yal
+tz-ach-b'at-i
+in-k'o'ol
+neg-pres 3B-poder 1A-estómago pres-2B-ir-vti
+max yal laj ink'o'ol to tzachb'ati
+ma-x
+Ø-yal laj in-k'o'ol to tz-ach-b'at-i
+neg-pres 3B-poder neg 1A-estómago nex pres-2B-ir-vti
+162
+malaj ingana tzachb’ati
+malaj in-gana tz-ach-b'at-i
+neg 1A-gana pres-2B-ir-vti
+max intak' laj to tzachb'ati
+ma-x
+Ø-in-tak'
+laj to tz-ach-b'at-i
+neg-pres 3B-1A-aceptar neg nex pres-2B-ir-vti
+281. Acuérdate que tenemos que trabajar.
+na’koti to yowalil olonhmunlajok
+na'-kot-i
+to y_owal_il ol-onh-munlaj-ok
+pensar-DIR.acá-vti nex m.deónt fut-1B-trabajar-IRR
+na'koti to olonhmunlajok
+na'-kot-i
+to ol-onh-munlaj-ok
+pensar-DIR.acá-vti nex fut-1B-trabajar-IRR
+Me acuerdo que tenemos que trabajar.
+ixina'koti yowalil olonhmunlajok
+ix-ø-in-na'-kot-i
+282. No me gusta esa gente.
+y_owal_il ol-onh-munlaj-ok
+fut-1B-trabajar-IRR
+pas-3B-1A-pensar-DIR.acá-vti m.deónt
+max yal laj ink'o'ol juntzan anima' chi'
+ma-x
+Ø-yal laj in-k'o'ol juntzan anima' chi'
+neg-pres 3B-poder neg 1A-estómago alguna gente dem
+No me gusta esa comida.
+max scha' laj ink'o'ol jun tek chi'
+ma-x Ø-s-cha'
+laj in-k'o'ol
+chi'
+jun tek
+neg-pres 3B-3A-recibir neg 1A-estómago uno comida dem
+283. Acuérdate de barrer la casa
+na'koti to olachmeswok yol pat
+na'-kot-i
+to ol-ach-mesw-ok y-ol pat
+pensar-DIR.acá-vti nex fut-2B-barrer-IRR 3A-dentro casa
+tzana'kot amesan yol pat
+tz-Ø-a-na'-kot
+a-mes-an
+y-ol pat
+pres-3B-2A-pensar-DIR.acá 2A-barrer-sub 3A-dentro casa
+284. Me preguntó qué quería yo.
+xsk'anwej t'ay in tas ingana
+ix-ø-s-k'anw-ej
+t'ay in tas in-gana
+pas-3B-3A-preguntar-vtd prep 1B qué 1A-gana
+xsk'anwej t'ay in tas sk'an ink'o'ol
+ix-ø-s-k'anw-ej
+t'ay in tas s-k'an in-k'o'ol
+pas-3B-3A-preguntar-vtd prep 1B qué 3A-pedir 1A-estómago
+285. Siempre pienso en mi familia.
+swak' ink'olal yuj eb' wuninal
+tz-Ø-w-ak'
+y-uj eb' w-unin-al
+pres-3B-1A-dar 1A-estómago-gen 3A-SR pl 1A-hijo-gen
+in-k'ol-al
+anheja tzina' inpamilia
+anheja tz-ø-in-na’
+in-pamilia
+siempre pres-3B-1A-pensar 1A-familia
+286. Mañana pienso salir temprano.
+a k'ik'an a'walto weli
+a
+k'ik'an a'walto
+w-el-i
+top mañana temprano 1A-salir-vti
+k'ik'an ijan spet ineli
+k'ik'an ijan spet
+in-el-i
+mañana casi rápido 1B-salir-vti
+163

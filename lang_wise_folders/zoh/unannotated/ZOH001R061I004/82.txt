@@ -1,0 +1,63 @@
+\MB costurar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG costura [se deci*a antes]
+\ENG seam
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT na7k
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-PH - ok/OK: TK
+\date 25/Jun/96
+\lex nek.e
+\_no 00202
+\LG MIG
+\PSH [neke]
+\UND nek. E
+\MB estivar, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG estiva
+\ENG stack
+\SPL
+\SLGR
+\EXU k@pi nek.e7
+\XPSH_ [k@pi neke7]
+\XSP len~a estivada, una estivada de len~a
+\XEN stacked firewood, a stack of firewood
+\SYN
+\SEMF
+ETYM
+\ETL
+\ROOT nek
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS CK-GR, CK-GL HAJ: 96 ok/OK: TK
+\date 03/Jan/80
+\lex nem.a7
+\_no 00203
+LG MIG
+\PSH [nema7]
+\UND nem. A7
+\MB flamear, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG 11ama
+ZOH001R0611004.txt
+\ENG spark
+\EXU
+\XSP
+\XEN
+Page 82

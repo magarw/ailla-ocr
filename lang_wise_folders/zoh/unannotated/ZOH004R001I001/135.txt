@@ -1,0 +1,64 @@
+\SLGL darle que descansara //
+SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jej
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex 7ok.jej.pa+a7k
+\_no 00313
+\LG MIG
+\PSH [7okjejpa*7k]
+\UND 7ok.jej-pa+ P@7k
+\MB ABAJO, vivir, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG e*1 que esta* descando
+\ENG one who is resting
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jej
+\RTGR 12
+\DSRC HAJ94
+\CMTS CK-PH ok
+\date 09/Jan/96
+\lex 7ok.jeken. '@y
+\_no 00314
+-
+LG MIG
+\PSH [7okjekenn@y-]
+\UND 7ok.jeken. 7@y
+\MB ABAJO, enrollar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG desenrollar
+\ENG to unroll
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jeken
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+ZOH004R0011001.txt
+to let someone rest
+Page 135

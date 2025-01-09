@@ -1,0 +1,63 @@
+\ETYM
+\ETL
+\ROOT 1 paj
+\RTGR P, (T3)
+\ROOT 2 tuk
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS two preverbal prefixes!
+\date 11/Jan/96
+\lex ko.7ax
+\_no 01281
+\LG MIG
+\PSH [ko7ax-]
+\UND ko.7ax
+\MB OTRO, abrir_boca
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG estar abriendo la boca
+\ENG for the mouth to be open
+\SPL
+\SLGR
+\EXU ti 7@m+ ko.7ax-pa de.ji
+\XPSH [Tim ko7axpa deji?]
+\XSP ? Porque* esta*s abriendo la boca ahi*?
+\XEN why are you standing there with your mouth hanging open?
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 7ax
+\RTGR P (11)
+\DSRC HAJ95
+\CMTS
+\date 07/Feb/96
+\lex ko.7e7k
+\_no 01282
+\LG MIG
+\PSH [ko7e7k-]
+\UND ko.7e7k
+\MB OTRO, despizcar_frijol
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG despizcar
+\ENG to shell
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT 7e7k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+Page 559

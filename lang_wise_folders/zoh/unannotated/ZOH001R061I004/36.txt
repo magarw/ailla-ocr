@@ -1,0 +1,62 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ji7tz
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 06/Feb/96
+\lex ji'tz.i7 [1]
+\_no 00086
+\LG MIG
+\PSH [jitzi7]
+\UND ji7tz. E
+\MB arrugarse, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG arruga (cara, ropa, cualquiera)
+\ENG wrinkle (face, clothes, whatever)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ji7tz
+\RTGR 12, T2
+\DSRC TK94
+\CMTS
+\date 20/Jun/96
+\lex ji'tz.i.7@y-w@
+\_no 00087
+\LG MIG
+\PSH [jitzi7@yy@*]
+\UND ji7tz.E7.7@y-wa+ P@7k
+\MB recoger, NOM7, VERS2, COM, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG que tiene pliegue
+\ENG something that has pleats
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH001R0611004.txt
+SEMF
+\ETYM
+\ETL
+\ROOT ji7tz
+\RTGR P, (T3)
+\DSRC TK96
+\CMTS
+\lex ji'tz.i'.7@y
+\_no 00088
+Page 36

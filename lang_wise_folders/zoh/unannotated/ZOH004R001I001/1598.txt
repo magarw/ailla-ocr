@@ -1,0 +1,63 @@
+\PSH [winpaktzonh-]
+\UND win-pak=tzonh
+\MB CARA, apretarse, unir
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG dar topada con alguien a
+\EXU win-pak-tzonh-w@
+\XPSH [winpaktzonhnh@.]
+\XSP Se dio* de topada.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 pak
+\RTGR 1 12
+\ROOT 2 tzonh
+\RTGR 2 T3
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex win-pama
+\_no 03720
+\LG MIG
+\PSH [winpama]
+\UND win-pama
+\MB CARA, cama
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG tapanco (donde se guarda la mazorca)
+\ENG storage area for corn
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-GR, CK-PH ok/OK: TK
+\date 26/Jun/96
+\lex win=pa7t=tzonh
+\_no 03721
+\LG MIG
+\PSH [winpa7ttzonh-]
+\UND win-pa7t=tzonh
+\MB CARA, encontrar, unir
+\VAR
+\GRAM vt+dir
+\SCI
+\USE
+\SPG toparse
+\ENG to meet by chance
+\EXU
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+Page 1598

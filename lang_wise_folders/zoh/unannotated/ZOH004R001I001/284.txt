@@ -1,0 +1,67 @@
+\PSH
+\UND januki 7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG aguate
+\ENG prickles
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\lex janh.janh.ney
+\_no 00664
+\LG MIG
+\PSH [janhjanhney-]
+\UND janh.janh.ney
+\MB
+\VAR
+\GRAM VİR
+\SCI
+\USE
+\SPG ladrar un perro no ma*s
+\ENG for a dog to only bark
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT %janh F
+\DSRC HAJ94
+otate, can~a, milpa, zacate
+cane, cornfield, grass
+\CMTS
+\date 10/Jan/96
+\lex jap.na' monh
+\_no 00665
+\LG MIG
+\PSH [japnamonh-]
+\UND jap.na7 monh
+\MB X, STAT, dormir
+\VAR
+\GRAM stat+vi
+\SCI
+\USE
+\SPG acostarse boca abajo
+\ENG to lie face down
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ZOH004R0011001.txt
+no muerde
+not bite
+Page 284

@@ -1,0 +1,64 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 09/Jan/96
+\lex 7estreya xojo7k
+\_no 00259
+\LG MIG
+\PSH
+\UND 7estreya xojo7k
+\MB estrella, zacate
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+SPG zacate estrella
+\ENG a typeof grass
+\EXU
+\XSP
+\XEN
+\SYN matza' xojo7k
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 09/Jan/96
+\lex 7estropaju
+\_no 00260
+LG MIG
+LF:xojo7k
+\PSH
+\UND 7estropaju
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG estropajo
+\EXU a type of plant
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\lex 7etz
+\_no 00261
+LF:7okox - poj
+\ROOT
+\DSRC TK94
+\CMTS
+\date 18/Jun/95
+\LG MIG
+\PSH
+\UND 7etz
+\MB
+\VAR
+\GRAM vt, vi:act
+ZOH004R0011001.txt
+Page 111

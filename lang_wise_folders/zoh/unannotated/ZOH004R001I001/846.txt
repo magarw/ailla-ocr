@@ -1,0 +1,64 @@
+\lex min tzap-ji7
+\_no 01962
+\LG MIG
+\PSH [min- tzapji7]
+\UND min tzap-ji7
+\MB
+\VAR
+GRAM vi+loc
+\SCI
+\USE
+\SPG venir encima
+\ENG to come up on top of something
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT min
+\RTGR IX
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex min [1]
+\_no 01963
+\LG MIG
+\PSH
+\UND min
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG venir
+\ENG to come
+\EXU 1 ya n@m. 'o<y-e> 7@y+ min-w@ ni kamilo
+\XPSH 1 [Ya n@mmoy minn@ ni Kamilo.]
+\XSP 1 No puede venir ni Camilo.
+\XEN 1 Camilo can't come either.
+ZOH004R0011001.txt
+\EXU 2 d@.x+jaa7 min-tam-w@ mandao mix +j@nanh
+\XPSH_2 [D@xja*7 mintamm@_mandao mixj@nanh.]
+\XSP 2 Nosotros venimos al mandado contigo.
+\XEN 2 we came on an errand with you.
+\SYN
+\SEMF move
+\ASP activity
+\ARG
+\NOM
+\SUB 7ok.min. '@y, ko.min, ni.jamv=min, p@k=min, tz@m-min, win-min,
+\SUB yuk.min='ok.manh
+\ETYM
+\ETL
+\ROOT min
+\RTGR IX
+\DSRC HAJ94
+\CMTS caus2
+\CMTS probably yakk@ minn@
+\date 03/Jan/80
+yak+ min dejar venir
+\lex min [2]
+\_no 01964
+Page 846

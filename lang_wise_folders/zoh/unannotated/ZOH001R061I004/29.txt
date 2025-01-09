@@ -1,0 +1,63 @@
+\PSH [jat@kuywa7tz]
+\UND jat. @7 kuy=wa7tz
+\MB grueso, NOM2, palo, rai*z
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG rai*z grueso
+\ENG thick root
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\lex jawa.i
+\_no 00069
+\LG MIG
+\PHO [jawai]
+\UND jaway. E
+\MB arder, NOM7
+\VAR
+\GRAM pcp
+\SPG ardor
+\ENG ache, pain
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT jaway
+\RTGR 12
+\RTGL arder / to burn
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex jax.e7
+\_no 00070
+\LG MIG
+\PSH [jaxe7]
+\UND jax. E7
+\MB asar, NOM7
+\VAR jax.e'+7k ..
+\GRAM ps-pcp
+\SCI
+\USE
+\SPG 1 tostado
+\SPG 2 asado
+ZOH001R0611004.txt
+\ENG 3 una cosa tostado
+\ENG 1 toasted
+\ENG 2 roasted
+\ENG 3 something toasted or roasted
+\EXU 1 xix=jax. E7
+\XPSH 1 [xixjaxe7]
+\XSP 1 carne asada
+\XEN 1 roasted meat
+\EXU 2 jax. E' +7k xix
+Page 29

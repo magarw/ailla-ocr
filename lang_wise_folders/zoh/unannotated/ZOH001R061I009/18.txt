@@ -1,0 +1,60 @@
+\SEMF touch, hand, pick_up
+\PASS mi7kx.7@m
+\ANTI mi7kx. 7oy
+\CMTS
+\lex mi7tz
+\_no 00069
+\SPG agarrar con el pun*o algo pequen~o que no se vea
+\ENG to hold something small in the closed fist so it isn't visible
+\EX
+\XSP
+\XEN
+\ROOT mi7tz T3
+\SEMF touch, hand, pick_up
+\PASS NONE mi7tz.7@m
+\ANTI mi7tz.7oy
+\CMTS
+\lex mon
+\_no 00070
+\SPG envolver
+\ENG to wrap
+\EX
+\XSP
+\XEN
+\ROOT mon P, (T3)
+\SEMF wrap, affect
+\PASS NONE mon.7@m *
+\ANTI mon.7oy
+\CMTS
+\lex mot
+\_no 00071
+\SPG revolver; mezclar
+\ENG to mix
+\EX mot-ten
+\XSP tener revolvido
+\XEN
+ROOT mot T3
+\SEMF move
+\PASS mot.7@m revolverse
+\ANTI mot.7oy
+\CMTS
+\lex mo7tz
+\_no 00072
+\SPG moler en molcajete; machucar, como tomate o chile
+\ENG to grind in the blender; to pulverize, like tomato or chile
+\EX_mo7tz-ten-e
+\XSP lo tiene molido
+\XEN ground up
+\ROOT mo7tz T3
+\SEMF cook
+\PASS NONE mo7tz.7@m *
+\ANTI mo7tz.7oy
+\CMTS
+ZOH001R0611009.txt
+\lex mu7k
+\_no 00073
+\SPG chupar
+\ENG to suck
+\EX
+\XSP
+Page 18

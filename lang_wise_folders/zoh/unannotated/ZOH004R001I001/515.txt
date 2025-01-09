@@ -1,0 +1,64 @@
+\ETYM
+\ETL
+\ROOT wat
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex kanhkuttz@k+j@*7
+\_no 01183
+\LG MIG
+\PSH [kanhkutztz@kj@*7]
+\UND ka(ja) nh=ko.tz@k-j@7 (prob. [TK])
+\MB jaguar, cerro, Loci
+LOC1
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG de Tehuantepec
+\ENG from Tehuantepec
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS CK-all PHO/SPG ok, HAJ:96
+\date 18/Jun/96
+\lex kanhkutz@k+j@7
+\_no 01184
+\LG MIG
+\PSH kanhkutz@k+j@7
+\UND
+\MB jaguar, cerro, LOC1
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG Tehuantepec
+ENG Tehuantepec
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\KEY
+ZOH004R0011001.txt
+ka(ja)nh-ko.tz@k-j@7 (prob. [TK])
+\DSRC HAJ95
+\CMTS CK-all PHO/SPG ok, HAJ:96; fixed PH: TK
+\date 24/Jun/96
+\lex kap
+\_no 01185
+Page 515

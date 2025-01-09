@@ -1,0 +1,30 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+Appendix F: Word order examples
+All of the examples in this appendix were created by me and judged
+grammatical by my Zoque consultants.
+1. Intransitive verb with Subject NP
+bi nu' mongpa parkejo'
+bi nu? 0 moŋ-pa parke+ho?
+DEF dog 3A sleep-INC park+LOC2
+'The dog is sleeping in the park.'
+bi nu? moŋpa parkeho?
+moŋpa parkeho? bi nu?
+moŋpa bi nu? parkeho?
+2. Transitive verb with both Subject and Object NPs
+When the patient is inanimate, and thus not a plausible candidate for the
+subject of the verb, the NPs can appear in any order, as shown in the (a) set of
+examples. When both NPs are equally plausible as actors, the actor NP must
+precede the patient NP, as shown in the (b) examples.
+(a)
+bi pøn 'øy tøngngø bi kuy
+bi pən ?əy+ təŋ-wə
+bi kuy
+DEF man 3E+ cut_w_machete-COM DEF wood
+'The man cut the wood (with a machete).'
+bi pən ?əy təŋŋə bi kuy
+bi kuy ?əy təŋŋə bi pən
+bi pən bi kuy ?ǝy təŋŋə
+bi kuy bi pən ?əy təŋŋə
+?əy təŋŋə bi pən bi kuy
+?əy təŋŋə bi kuy bi pən
+395

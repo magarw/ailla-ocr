@@ -1,0 +1,63 @@
+ZOH001R0611006.txt
+\NOM ko.tzaj.kuy7, tzaj=nakx.kuy7, tzaj=nakx.tum7, tzaj.e7
+\SUB ko.tzaj, tzaj.pu'
+\ETYM
+\ETL
+\ROOT tzaj
+\RTGR P (T3)
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex tzak
+\_no 00171
+\LG MIG
+\PSH
+\UND tzak
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG dejar
+\ENG to leave
+\SPL tzak.7oy
+\SLGR ANTIP
+\SLGL dejar // to leave
+\SPL tzak.7@m
+\SLGR PASS
+\SLGL quedarse
+\EXU jo.xanh' 7@y+ tzak-w@
+\XPSH [Joxanh 7@y tzakk@.]
+\XSP Lo dejo* vacio.
+\XEN She left it empty.
+\SYN
+\SEMF move
+\ASP achievement
+\ARG
+\NOM tzak.e7
+\SUB poy=tzak, tz@k=tzak
+\ETYM
+\ETL
+\ROOT tzak
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\CMTS CK-EX HAJ:96 ok
+\date 03/Jan/80
+\lex tzanh
+\_no 00172
+\LG MIG
+\PSH
+\UND tzanh
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pegar con el pun~o; golpear
+\ENG to hit with the fist
+\SPL tzanh. 7oy
+\SLGR ANTIP
+\SLGL golpear // to hit
+\SLGR NO PASS
+Page 116

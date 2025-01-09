@@ -1,0 +1,64 @@
+irse-IMPV3
+\sg] y
+\egl and go - IMPV3
+\zoq 7i n@ki."
+\fts y vamos.
+\fte and let's go."
+\com
+\idx
+\not
+\idx
+\ref ZOH001R020 040
+\_no 00041
+\tx 7i
+naxe
+7animtz@kk@
+p@n
+\mb
+7i naxe
+animar
+bi
+-tz@k -w@ bi p@n
+-hacer-COM DEF hombre
+\sg] y verdad animar
+\egl and truth take_courage-do -COM DEF man
+\zoq 7i naxe 7animtz@kk@ bi pan.
+\fts Y asi* se animo* el hombre..
+\fte And in fact the man took courage
+\com
+\idx
+\not
+\idx
+\ref ZOH001R020 041
+\_no_00042
+\tx_n@kw@
+gaja7kwintu7k
+\mb__n@k -w@ gaja7kwintu7k
+\sg1 irse-COM al otro lado
+\egl go -COM across
+\zoq N@kw@ gaja7kwintu7k.
+\fts Paso* al otro lado.
+\fte He went to the other side.
+\com
+\idx
+\not
+\idx
+\ref ZOH001R020 042
+\_no 00043
+\tx gaji
+ye7tztz@
+\mb ka -ji7 ye7tz -wa
+\sg1 DCT3-LOC1 11egar-COM
+\eg1 DCT3-LOC1 arrive-COM
+ZOH001R0201001.txt
+\zoq Gaji7 ye7tztz@.
+\fts Ahi* 11ego*.
+\fte He arrived over there.
+\com
+\idx
+\not
+\idx
+\ref ZOH001R020 043
+\_no_00044
+\tx kwandu 7@y 7entregtz@kxukk@
+Page 11

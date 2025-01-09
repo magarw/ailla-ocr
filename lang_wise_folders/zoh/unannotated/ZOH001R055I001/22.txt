@@ -1,0 +1,87 @@
+\ref ZOH001R055 093
+\_no 00094
+\tx de gaji
+7@n tzanhkuy
+juptamm@
+\mb de ka -ji7 7@n tzanh-kuy7 jup -tam -wa
+\sg1 de DCT3-LOC1 1E pegar-INSTR1 jalar-1/2PL-COM
+\egl of DCT3-LOC1 1E hit -INSTR1 pull -1/2 PL-COM
+\zoq De gaji, 7@n tzanhkuyjuptamm@.
+\fts De ahi*, nos dimos la mano.
+\fte Then, we shook hands.
+\com
+\idx incorp
+\ref ZOH001R055 094
+\_no 00095
+\tx n@mm@
+7ap
+\mb n@m -w@ 7apu
+\sg1 decir-COM viejo
+toma*s n@mpa
+toma*s n@m
+-pa
+Toma*s decir-INC 2A
+\egl say -COM old Thomas say -INC 2A come -COM-NOW
+\com
+\idx
+ZOH001R0551001.txt
+\zoq Namm@ 7aptoma*s, n@mpa, "7@m minna*m?"
+\fts Dijo el viejo Toma*s, dice, "Ya vinistes?"
+\fte
+\ref ZOH001R055 095
+\_no 00096
+\tx ja
+da minna*m
+n@mpa
+n@m -ра jerma*n
+jerma*n
+\mb ja7 da min -w@ -7am
+\sgl si* 1A venir-COM-YA decir-INC Germa*n
+\egl yes 1A come -COM-NOW say -INC Germa*n
+\zoq "Ja, da minna*m," n@mpa Jerma*n.
+\fts "Si*, ya vine", dice Germa*n.
+\fte "Yes, I've come", says Germa*n.
+\com
+\idx
+\ref ZOH001R055 096
+\_no 00097
+\tx
+\mb
+\sg1 cuando 2A
+\egl when
+7@m minna*m
+7@m min -w@ - 7am
+venir-COM-YA
+jutiya m ye7tztz@ n@mpa
+7ap
+jutiya7 7@m ye7tz -w@ n@m -pa 7apu
+llegar-COM decir-INC viejo
+2A arrive-COM say -INC old
+\ref ZOH001R055 097
+\_no 00098
+\zoq "Jutiyam_ye7tztz@?" n@mpa 7aptoma*s.
+\fts "Cuando llegastes?", dice el viejo Toma*s.
+\fte "when did you get here?", says the old Toma*s.
+\com
+\idx
+\tx ye7tztz@
+\mb
+ye7tz -wa
+\sg1 11egar-COM
+\egl arrive-COM
+toma*s
+toma*s
+Toma*s
+Thomas
+\tx 7@y n@mjaba
+ke
+jerma*n 7@y n@mjayy@
+\mb 7@y nam -jay -pa jerma*n 7@y nam -jay -w@ ke
+\sg1 3E decir-APPL-INC Germa*n 3E decir-APPL-COM que
+\egl 3E say -APPL-INC Germa*n 3E
+say -APPL-COM that
+Page 22
+y@jama da
+ya -jama da
+DCT1-dia 1A
+DCT1-day 1A

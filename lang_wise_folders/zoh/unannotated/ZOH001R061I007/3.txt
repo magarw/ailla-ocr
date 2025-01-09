@@ -1,0 +1,61 @@
+\ROOT 70m 12
+\SEMF smoke
+\ASP process, state
+\CAUS yak. 7om hacer echar humo
+\date 03/Jan/80
+\lex 70px
+\_no 00009
+\SPG echar espuma; espumar
+\ENG to emit foam; to foam
+\EX 7@y yakkopx@
+\XSP hizo que echar espuma
+\XEN to make something foam
+\ROOT 70px 12
+\SEMF nature
+\ASP process, state
+\CAUS yak. 7opx hacer espuma
+\CMTS
+\date 03/Jan/80
+\lex 7otonh
+\_no 00010
+\SPG hablar
+\ENG to speak
+\EX ya n@mmo 7@y 7otonhnh@*7
+\XSP tartamudo
+\XEN stutterer
+\EX jaxjonh 7otonhnh@
+\XSP hablo* por atras
+\XEN he spoke backwards (or behind him)
+\ROOT 7otonh Il
+\SEMF speak
+\ASP activity
+\CAUS yak. 7otonh hacer hablar
+\CMTS no .jay indir form, see 7otonh.7@y
+\date 03/Jan/80
+\lex 7u7px
+\_no 00011
+\SPG levantar nubes; nublarse
+\ENG for clouds to rise up; to get cloudy
+\EX 7u7px7in@ / jinin 7in@7
+\XSP nube espeso
+\XEN thick cloud
+\ROOT 7u7px 12
+\SEMF nature
+\ASP process, transition
+\CMTS
+\date 03/Jan/80
+\lex 7@j
+\_no 00012
+\SPG pujar
+\ENG to grunt
+\EX
+\XSP
+\XEN
+ZOH001R0611007.txt
+\ROOT 7@j IX
+\SEMF speak
+\ASP momentaneous, activity
+\CMTS
+\CAUS yak.7@j
+\date 03/Jan/80
+Page 3

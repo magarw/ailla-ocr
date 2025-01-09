@@ -1,0 +1,63 @@
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN win. 7ex
+\SEMF
+\ETYM
+\ETL
+\ROOT 7ex
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 09/Oct/96
+\lex 7anh='07k
+\_no 00198
+\LG MIG
+\PSH [7anhnho7k-]
+\UND 7anh=707k
+\MB BOCA, calmarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG caerse sereno
+\ENG to become calm or still
+\SPL
+\SLGR
+\EXU 7anh='o7k-w@ bi chik mok
+\XPSH [7anhnho7kk@ bi chik mok.]
+\XSP Se le cayo* serenita a la milpita.
+\XEN The little cornfield became very still.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 707k
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 09/Oct/96
+ZOH004R0011001.txt
+\lex 7anh='om
+\_no 00199
+\LG MIG
+\PSH [7anhnhom-]
+\UND 7anh=7om
+\MB BOCA, echar_humo
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG echar un poco de humo
+\ENG to emit a little bit of smoke or steam
+\EXU 1 7anh='om-w@ 7ichiinh
+\XPSH 1 [7anhnhomm@ 7ichi*nh.]
+\XSP 1 Echo* un poquito de humo.
+\XEN 1 It put out a little smoke.
+\EXU 2 nutz-pa kafe* 7axta 7anh='om-pa
+\XPSH 2 [Nutzpa_kafe* 7axta_7anhnhompa.]
+\XSP 2 Esta* caliente el cafe*, saca hasta humito.
+\XEN 2 The coffee is so hot it steams.
+\SYN
+Page 84

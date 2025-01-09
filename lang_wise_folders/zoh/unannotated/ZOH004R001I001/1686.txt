@@ -1,0 +1,65 @@
+\SYN
+\SEMF cook
+\ASP process
+\ARG
+\NOM xe't.e7, xe7t-t@tz.i7
+\SUB xe7t-jax
+\ETYM
+\ETL
+\ROOT xe7t
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex xe7t=jax
+\_no 03919
+\LG MIG
+\PSH [xe7tjax-]
+\UND xe7t=jax
+\MB freir, tostar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tostar
+cafe*, mai*z
+\ENG to toast coffee, corn
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 xe7t
+\RTGR 1 T1
+\ROOT 2 jax
+\RTGR 2 T1
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex xewa7
+\_no 03920
+\LG MIG
+\PSH xe*wa7
+\UND xewa7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG bofe
+\ENG lung
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+-
+\ROOT
+\DSRC HAJ94
+\CMTS
+ZOH004R0011001.txt
+Page 1686

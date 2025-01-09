@@ -1,0 +1,53 @@
+\lex 7almendra
+\_no 00051
+\SPG almendra
+\ENG almond
+\lex 7almu
+\_no 00052
+\SPG almud
+\ENG almud
+\lex 7almwerso
+\_no 00053
+\SPG almuerzo
+\ENG lunch
+\lex 7altar
+\_no 00054
+\SPG altar
+\ENG altar
+\lex 7am
+\_no 00055
+SPG YA
+ENG NOW
+\lex 7amariyu7
+\_no 00056
+\SPG amarillo
+\ENG yellow
+\lex 7amigo
+\_no 00057
+\SPG amigo
+\ENG friend
+\lex 7amigu
+\_no 00058
+\SPG amigo
+\ENG friend
+\lex 7amin
+\_no 00059
+\SPG finado
+\ENG late
+\lex 7amint@7
+\_no 00060
+\SPG an~o
+\ENG year
+\lex 7amint@7k
+\_no 00061
+\LG MIG
+\SPG an~o_pasado
+\ENG last year
+\lex 7amma
+\_no 00062
+\SPG mirar ; ver
+\ENG look ; see
+\lex 7an
+\_no 00063
+ZOH001R0611013.txt
+Page 5

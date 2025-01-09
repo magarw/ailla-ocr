@@ -1,0 +1,71 @@
+\zoq OSM: Pa 7uy tzajnukk@.
+\fts OSM: Para que no se pegue.
+\fte OSM: So it doesn't stick.
+\com
+\idx
+\ref ZOH001R036 466
+\_no 00458
+kuratz@kpa
+para yaktzokpa
+\tx GSM: peru para y
+\mb GSM peru para 7@y curar-tz@k -pa
+\sg1 GSM: pero para 3E
+para yak -tzok -pa
+curar-hacer-INC para CAUS-sanar -INC
+\eg1 GSM: but for 3E cure -do -INC for CAUS-cure -INC
+\zoq GSM: Peru paray kuratz@kpa para yaktzokpa.
+\fts GSM: Pero para que lo cura para que lo sane.
+\fte GSM: But to cure it, so it heals.
+\com
+\idx
+\ref ZOH001R036 467
+\_no 00459
+\tx ti
+tzoy mas 7@m p@jaba
+\mb ti tzoy mas 7@m p@7 -jay -pa
+\sg1 que saltar mas 2E poner-APPL-INC
+\egl what jump more 2E put -APPL-INC
+\zoq Ti tzoy mas 7@m p@jaba?
+\fts Que remedio mas le echas?
+\fte what other medicine do you put in?
+\com
+\idx
+\ref ZOH001R036
+\_no 00460
+468
+\tx si piyu
+\mb si piyu7
+\sgl si gallina
+\egl if chicken lard
+\sg1 OSM: no
+\eg1 OSM: no
+ZOH001R0361001.txt
+mas
+mantekaxta*7 70 70tro kosa
+manteka-xtaa7 7o 7otro kosa
+mas
+manteka-NOMAS O otro cosa mas
+-ONLY or other thing more
+\zoq si piyu mantekaxta*7 70 7otro kosa mas?
+\fts si la manteca de gallina nada mas o otro cosa mas?
+\fte If it's just chicken fat or another thing more?
+\com
+\idx
+\ref ZOH001R036 470
+\_no 00461
+\tx OSM: n@7tti
+\mb OSM
+n@7tti
+\com
+\idx
+\zoq OSM: N@7tti.
+\fts OSM: NO.
+\fte OSM: No.
+\ref ZOH001R036 471
+\_no 00462
+\tx ga
+\mb ka -7
+7eya*
+7eya -v7k
+\sg1 DCT3-NOM1 otro -REL
+Page 100

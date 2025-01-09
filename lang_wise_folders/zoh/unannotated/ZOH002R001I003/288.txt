@@ -1,0 +1,36 @@
+When the verb complex has three arguments, whether because the root is
+bivalent (like ci?-, 'to give') or because affixation has increased its valency, the
+third argument is typically a human recipient or benefactor. If the patient
+argument is incorporated, the complex remains transitive. The recipient (or
+benefactor, etc.) argument can not be incorporated, so you can't say, for
+example, "He girl-gave flowers." This type of NI resembles Mithun's type II
+(1984:856-859), in that the presence of the third argument allows the
+incorporating verb complex to remain transitive.
+(10.11)
+(i)
+(ii)
+(iii)
+(iv)
+'øn tzønkuytzixukkø 'i tzønxukkø
+?ən+ cən.kuy?=ci?-šuk-wǝ
+?i O cən-šuk-we
+1E+ sentarse. INSTR1=dar-3PL-COM y 3A sentarse-3PL-COM
+'Les di asiento y se sentaron.'
+dey chanitu ya nømmo mix 'anetzidammám
+dey čanitu ya nəm.?oy-A
+miš+?ane=ci?-tam-wǝ+?am
+ahora chanito NEG DO.ANTIP-nINC 1>2+tortilla-dar-1/2PL-dINC+YA
+'Ahora, Chanito, ya no te podemos dar tortilla.'
+peru syempre yakkø dø yoxkuytzi'
+peru syempre yakkə də+ yoškuy?=ci?-A?
+pero siempre VOL 1A+ trabajar=dar-iOPT
+'Pero siempre que me da trabajo.'
+tigó' mix mangkuykønøkkeppøba
+ti+goo? miš+ maŋkuy?=kə.nək-kep.?əy-pa
+que+BNF 2>1+pie=FUERA.ir=patear.SUF-INC
+'Porque me metes el pie?'
+(ZOH001 R010-023-4)
+275
+(ZOH001R027-007)
+(ZOH001R014-053)
+(ZOH001R018-323)

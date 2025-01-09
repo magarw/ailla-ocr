@@ -1,0 +1,64 @@
+\ETYM
+\ETL
+\ROOT tzu7tz
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex tzu'.tzu7
+\_no 03473
+\LG MIG
+\PSH [tzutzu7]
+\UND tzu7.tzu7 ??
+\MB
+\VAR
+\GRAM SR
+\SCI
+\USE
+\SPG guajilote fruta
+\ENG a type of tree
+\EXU tzu¹.tzu' t@m
+\xSP fruta de guajilote
+\XEN fruit of the guajilote tree
+\SYN
+LF: kuy
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex tz@jan koke
+\_no 03474
+LG MIG
+\PSH
+\UND tz@jan koke
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG mojarra/pescado grande
+\ENG a type of fish
+\EXU kom(.i') tz@jan koke
+\XSP mojarra grande
+\SYN
+LF: koke
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tz@k
+\_no 03475
+\LG MIG
+\PSH
+\UND tz@k
+\MB
+\VAR
+\GRAM vt
+ZOH004R0011001.txt
+Page 1494

@@ -1,0 +1,63 @@
+\SLGR PRSV
+\SLGL tenerlo encajado // to have something on the point of a stake
+\SPL koj.ney
+\SLGL ASSUM1
+\SLGR estar encajado // to be stuck through by something
+\EXU 1 7@n+ koj-w@ de.' yati7
+\XPSH 1 [7@n kojj@ de yati7.]
+\XSP 1 Encaje* esa anona.
+\XEN 1 I punched a hole in this fruit.
+\EXU 2 koj.7@m-w@ de.' yati7
+\XPSH 2 [Kojj@mm@ de yati7.]
+\XSP 2 Se encajo* la anona.
+\XEN 2 The anona was pierced.
+\EXU 3 koj.ney-w@ de.' kuy yati'+g@xi
+ZOH001R0611006.txt
+\XPSH 3 [Kojneyy@ de kuy yatig@xi.]
+\XSP 3 Esta* encajado ese palo en la anona.
+\XEN 3 That stick is stuck through the anona.
+\SYN
+\SEMF cut
+\ASP achievement
+\ARG
+\NOM koj. kuy7
+\SUB 7ok.koj.'@y, koj=woj, koj=nuk, ya.anh.koj.'@y, nik.koj.'@y,
+\SUB yuk.koj
+\ETYM
+\ETL
+\ROOT koj
+\RTGR T3
+\DSRC TK94
+\CMTS Camilo doesn't accept the ASSUM1 form, ex is from GSM
+\CMTS get deriv's
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex ko.jap [1]
+\_no 00063
+\LG MIG
+\PSH [kojap-]
+\UND ko.jap
+\MB OTRO, X
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tapar
+\ENG to cover
+\SPL ko.jap.7oy
+\SLGR ANTIP
+\SPL ko.jap.7@m
+\SLGR PASS
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ko.jap
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+Page 45

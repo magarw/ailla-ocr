@@ -1,0 +1,73 @@
+\tx tabakiyu
+\mb tabakiyu
+\sgl tabaquillo
+\egl tabaco
+\zoq tabakiyu.
+\fts tabiquillo.
+fte tabaco.
+\com
+\idx
+\ref ZOH001R036 316
+\_no 00313
+\tx de7
+pa tzitzi
+para tzi7tz
+go7
+\mb te -7
+-E go7
+\sg1 DCT2-NOM1 para tener_sarna-NOM3 BNF
+\eg1 DCT2-NOM1 for have_mange -NOM3 BNF
+\zoq De7 pa tzitzi go7.
+\fts Ese es para sarna.
+\fte That is for mange.
+\com
+\idx
+\ref ZOH001R036 317
+\_no 00314
+\tx si ban
+7@m tzanhkuy ban tzi7kxpa
+\mb si bayun
+-w@ 7@m tzanh-kuy7 bayun tzi7kx
+\sgl si mucho tener_sarna-COM 2E pegar-INSTR1 mucho dar_comezo*n-INC
+\egl if a lot have_mange -COM 2E hit -INSTR1 a_lot itch
+tzitztz@
+tzi7tz
+ZOH001R0361001.txt
+\zoq sị bạn tzitztz@ 7@m tzanhkuy ban tzi7kxpa.
+\fts Si tiene mucha sarna tu mano mucho da comezo*n.
+\fte If your hand has a lot of mange it itches a lot.
+\com
+\idx
+\ref ZOH001R036 318
+\_no 00315
+\tx ga j@nanhxta*7_ tzujux tzujux tukk@
+-j@nanh-xtaa7 tzujux tzujux tuk -wa
+\sg1 DCT3-ACC -NOMAS crudo crudo
+\eg1 DCT3-ACC -ONLY raw
+\mb ka
+cortar-COM
+raw
+\ref ZOH001R036 319
+\_no 00316
+\zoq Gaj@nanhxta*7 tzujux tzujux tukk@.
+fts Con ese no mas cortalo verde.
+\fte with just that cut it green green.
+\com
+\idx
+\tx nakatz@
+7@m kwerpujo
+\mb naka7tz -A7 7@m kwerpu-jo7
+cut
+jemji7ok
+jemji7ok
+\sg] aplastar-IMPV 2E cuerpo-LOC2 por todo
+\egl flatten -IMPV 2E body -LOC2 all_over
+\zoq Nakatz@ 7@m kwerpujo jemji7ok.
+\fts Deshagalo en tu cuerpo en todo.
+\fte Crush it all over your body.
+\com
+\idx
+-COM
+Page 68
+-pa
+- INC

@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT wit
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 25/Jun/96
+\lex nen(a')=ji7t
+\_no 02209
+\LG MIG
+\PSH [nenaji7t-]
+\UND nena7=ji7t
+\MB malo, manchar
+\VAR neen=ji7t
+\GRAM vt:incorp
+\SCI
+\USE
+\SPG manchar
+\ENG to spot; to stain
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ji7t
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 25/Jun/96
+\lex nen(a')=kum
+\_no 02210
+\LG MIG
+\PSH [nenakum-]
+\UND nena-kum
+\MB malo, enterrar
+\VAR neen=kum
+\GRAM incorp: vt
+\SCI
+\USE
+\SPG manchar
+\ENG to dirty
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kum
+\RTGR T2
+\DSRC HAJ94
+\CMTS
+\date 25/Jun/96
+\lex nen(a')=tzak 7@y+ win
+\_no 02211
+\LG MIG
+\PSH [neentzak- y win]
+ZOH004R0011001.txt
+Page 952

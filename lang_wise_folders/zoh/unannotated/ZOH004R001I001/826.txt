@@ -1,0 +1,63 @@
+\1ex_maxan=n@7
+\_no 01915
+\LG MIG
+\PSH [maxann@7]
+\UND maxan n@7
+\MB sagrado, agua
+\VAR maxan n@7
+\GRAM as
+\SCI
+\USE
+\SPG agua bendita
+\ENG holy water
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH ok HAJ:96. stress on penultimate; TK: maxan=n@7 and maxan n@7
+both OK
+\date 25/Jun/96
+\lex maxu7
+\_no 01916
+\LG MIG
+\PSH
+\UND maxu7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG camaroncito
+\ENG a type of shrimp
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+LF:mo7kxi7
+\CMTS
+\date 10/Nov/94
+\lex max.@7
+\_no 01917
+\LG MIG
+\PHO [max@7]
+\UND max.A7
+ZOH004R0011001.txt
+\MB descomponerse, NOM2
+\VAR
+\GRAM SV
+\SPG descompuesto
+\ENG broken
+\EXU max.@7+k k@x.i // k@x.i max.@7
+\XPSH [max@7k k@xi] // [k@xi max@*7]
+\XSP comida descompuesta
+Page 826

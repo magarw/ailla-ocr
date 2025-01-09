@@ -1,0 +1,50 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+Undergoers may be patients or themes. There are very few examples of
+clauses whose verbs have non-animate subjects in the texts, although the
+lexicon contains many intransitive verb roots whose subjects must be inanimate
+entities, such as puc-, 'rot'. Recipients are not undergoers in MIG Zoque, rather
+they map to the third argument, discussed below. There are no examples of
+sources as unmarked arguments.
+(6.3) examples of undergoers
+(i)
+patient
+(ii)
+(iii)
+(iv)
+(v)
+'øy pongpa gay nippam bi 'api'
+?ǝy+ poŋ-pa ga.y
+?əy+ nip-pa+?am
+bi ?api?
+3E+ burn-INC DCT3.TMP 3E+ sow-INC+NOW DEF chayote
+'He burns it (the field) then, now he sows the chayote.'
+theme
+'øn pødampa xuyujo' bi xix
+?ən+ pø?-tam-pa
+šuyu?+ho? bi šiš
+1E+ put-1/2PL-INC pot+LOC2 DEF meat
+'We put the meat in the pot.'
+location
+'øn tzedampa bi xuyu'
+?ǝn+ ce?-tam-pa
+bi šuyu?
+1E+ wash-1/2PL-INC DEF pot
+'We'll wash it (the meat) in the pot.'
+benefactor
+døxxøn manakdøkka 'øn 'ixtukpa
+dəš ?ən+ manak+dǝkkay ?ən+ ?iš=tuk-pa
+1 Prn 1E+ child+NPL
+1E+ see finish-INC
+'I'll wait for my children'
+patient, subject of intransitive
+kapa de xiki bi sato
+0 ka?-pa de šik.E
+bi sato
+3A die-INC of laugh.NOM3 DEF satornino
+'Sato is dying of laughter."
+111
+(ZOH001R053-015)
+(ZOH001R029-080)
+(ZOH001R029- 078)
+(ZOH001R053 - 026)
+(ZOH001R025-130)

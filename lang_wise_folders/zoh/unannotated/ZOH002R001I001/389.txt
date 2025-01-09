@@ -1,0 +1,40 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+O arguments
+Subject only
+Object only
+Subject & Object
+Dative (third
+(14.8)
+(i)
+argument)
+Imperative w/Object
+Total
+Number
+94
+21
+130
+18
+3
+4
+440
+361
+Percenta
+ge
+21.4
+4.8
+29.5
+4.1
+0.7
+Table 14.4: Transitive clauses
+0.9
+The most frequent type of clause includes an overt object NP (29.5%);
+subjects are infrequently mentioned (4.8%). This makes sense, given that there
+tend to be few characters in these stories, and the principal characters are
+usually introduced with an intransitive (motion) verb. Objects provide the
+details of a story: props, weapons, opponents, etc.
+100
+'entonse yø' soldaodøkka ye'chukkø
+?entonse yǝ? soldado+dəkkay 0 ye?c-šuk-wə
+then this soldier+NPL 3A arrive-3PL-COM
+'Then these soldiers arrived.'
+(ZOH001R011–004)

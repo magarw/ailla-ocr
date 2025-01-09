@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT ponh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yuk.poy
+\_no 04305
+\LG MIG
+\PSH [yukpoy-]
+\UND yuk.poy
+\MB ARR, huir
+\VAR
+\GRAM dir+vi
+\SCI
+\USE
+\SPG correr
+\ENG to run
+\SPL yak.yuk.poy
+\SLGR CAUS
+\SLGL correr // to chase
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT poy
+\RTGR 11
+\DSRC TK94
+\CMTS
+\date 03/Apr/95
+\lex yuk.poy.naanh
+\_no 04306
+LG MIG
+\PHO [yukpoyna*nh]
+\UND yuk.poy.naanh
+\MB ARR, huirse, MEAS
+\VAR
+\GRAM meas
+\SPG corrida
+\ENG race
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT poy
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex yuk.poy. An@m
+\_no 04307
+\LG MIG
+\PSH [yukpoyan@m-]
+\UND yuk.poy. An@m
+\MB ARR, juirse, INDEF
+\VAR
+ZOH004R0011001.txt
+Page 1849

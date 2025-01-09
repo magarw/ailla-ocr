@@ -1,0 +1,80 @@
+ZOH001R0361001.txt
+\fte And then from there now it was left, the cold got in.
+\com
+\idx
+\ref ZOH001R036 802
+\_no 00788
+\tx ya n@mmobam
+\mb ya n@m-7oy
+pwes 7@m tz@kjaba*m
+rremedyu 7@m win
+pwes 7@m tz@k -jay -pa -7am rremedyu 7@m win
+pues 2E hacer-APPL-INC-YA remedio 2E REFL
+\egl NEG DO -ANTIP-INC-NOW well 2E do -APPL-INC-NOW medicine 2E
+-pa -7am
+\sg1 NEG DO -ANTIP-INC-YA
+REFL
+\zoq Ya n@mmobam, pwes, 7@m tz@kjaba*m rremedyu_7@m win.
+\fts Ya no se puede, pues, ya le te haces remedio.
+\fte Now you can't, well, you make yourself some medicine.
+\com
+\idx
+\ref ZOH001R036 803
+\_no 00789
+\tx
+\mb
+peru ya poypitz@m@
+peru ya poy
+\sg1 pero NEG juirse-salir -nINC
+\egl but NEG flee -leave -nINC
+-pitz@m-A
+\zoq Peru ya poypitz@m@.
+\fts Pero no sale ra*pido.
+\fte But it doesn't go away quickly.
+\com
+\idx
+\ref ZOH001R036 804
+\_no 00790
+\tx kom kwand
+kwand tzajj@
+tzajja gag@
+\mb komo kwando tzaj -wa
+tzaj -w@
+tzaj -w@
+\sg1 como cuando pegar-COM pegar-COM DCT3-DEM frio
+\egl like when glue -COM glue -COM DCT3-DEM cold
+wayay xitko
+jananh
+ka -g@ wayay7 xitko7 j@nanh
+catarro AC
+phlegm ACC
+\ref ZOH001R036 805
+\_no 00791
+\tx kwando gay
+\mb kwando ka -y
+\zoq Kom kwand tzajj@ tzajj@ gag@ wayay xịtkoj@nanh.
+\fts Como que estuviera pegado esta* pegado con esa gripa con fieldad.
+\fte As if it were stuck, stuck, that cold with a chill.
+\com
+\idx
+7@m tz@kjaba*m
+7@m win
+7@m tz@k -jay -pa -7am 7@m win
+\sg1 cuando DCT3-TMP 2E hacer-APPL-INC-YA 2E REFL
+\egl when DCT3-TMP 2E do -APPL-INC-NOW 2E REFL
+\zoq kwando gay 7am tz@kjaba*m 7@m win.
+\fts Cuando ya te haces (remedio).
+\fte when then now you make it for yourself (the medicine).
+\com
+\idx
+\ref ZOH001R036 806
+\_no 00792
+\tx 7@m 7@m p@kpa
+\mb
+\sg1 2E 2E
+agarrar-INC DCT2-DEM vaporo
+\egl 2E 2E get -INC DCT2-DEM vapor_rub
+Page 171
+ded@
+baporu*
+7@m 7@m p@k -pa te -d@ baporu*

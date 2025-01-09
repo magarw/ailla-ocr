@@ -1,0 +1,62 @@
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 06/Feb/96
+\lex jo.7ex
+\_no 00808
+\LG MIG
+\PSH [jo7ex-]
+\UND jo.7ex
+\MB EN, encajar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG ir a levantar encajado (en otro lugar)
+\ENG to go pin something up in another place
+\SPL
+\SLGR
+\EXU 7@y+ jo.7ex-w@ 7eya+a7k t@k+jo7
+\XPSH [7@y jo7exx@ 7eya*7k t@kjo7.]
+\XSP Lo fue* a levantar encajado en otra casa.
+\XEN He went to pin it up in another house.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7ex
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS CK-PH of EX ok HAJ:96
+\date 18/Jun/96
+\lex jo.7ix
+\_no 00809
+\LG MIG
+\PSH [jo7ix-]
+\UND jo.7ix
+\MB EN, ver
+\VAR
+\GRAM dir+vt
+\SCI
+\USE
+\SPG 1 registrar
+\SPG 2 examinar
+\SPG 3 ver que todo tiene algo
+\ENG 1 to inspect
+\ENG 2 to examine
+ZOH004R0011001.txt
+\ENG 3 to see what all is in something
+\EXU 7@y+ jo.7ix-wa tak
+\XPSH [7@y jo7ixx@ tak.]
+\XSP Juzgo* todo la casa que es lo que tiene.
+\XEN She inspected the house.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 7ix
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/96
+Page 352

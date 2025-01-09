@@ -1,0 +1,63 @@
+\XSP 1 Pizco* mazorca.
+\XEN 1 He harvested corn.
+\EXU 2 7ek.7@m-wa taja7k bi mok
+\XPSH 2 [7ekk@mm@_t@j@7k bi mok.]
+\XSP 2 Se pizco* la mazorca ayer.
+\XEN 2 The corn was harvested yesterday.
+\SYN
+\SEMF corn, pick
+\ASP activity
+\ARG patient
+\NOM 7ek.kuy7
+\SUB 7anh. 'ek=wak, 7anh. 'ek. '@y, j@x='ek, k@.n@k=7ek. '@y
+\ETYM
+\ETL
+\ROOT 7ek
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex 7eken
+\_no 00248
+LG MIG
+\PSH
+\UND 7eken
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG comal
+\ENG griddle
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM WSOK *7eke7n
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex 7ek.kuy7
+\_no 00249
+\LG MIG
+\PSH [7ekkuy7]
+\UND 7ek. kuy7
+\MB pizcar, INSTR1
+\VAR
+\GRAM instrl
+\SCI
+\USE
+\SPG pizco
+\ENG harvest
+\SPL
+ZOH004R0011001.txt
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+Page 106

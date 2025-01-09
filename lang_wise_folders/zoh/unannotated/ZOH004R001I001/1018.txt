@@ -1,0 +1,63 @@
+\_no 02363
+\LG MIG
+\PSH [nit@n-]
+\UND ni.t@n
+\MB PURP, echar_goma
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG oxidarse
+\ENG to rust
+\SPL yak.t@n
+\SLGR CAUS
+\SLGL hacer oxidar // to cause to rust
+\EXU ni.t@n-w@+ 'am
+\XPSH [Nit@nna*m.]
+\XSP Ya esta* oxidado.
+\XEN Now it's rusted.
+\SYN
+\SEMF nature
+\ASP accomplishment
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT nit@n
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\CMTS cf t@n@7 'aguado'
+\date 03/Jan/80
+\lex ni.t@n.@7
+\_no 02364
+\LG MIG
+\PHO [nit@n@7]
+\UND ni.t@n.A7
+\MB PURP, oxidarse, NOM2
+\VAR
+\GRAM SV
+\SPG oxidado
+\ENG rusted
+\EXU t@nh.kuy7 ni.t@n.A7
+\XPSH [t@nhkúy nit@n@7]
+\XSP saro el fierro
+\XEN rusted machete
+\SYN
+\ROOT ni.t@n
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex nitz
+\_no 02365
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+\UND nitz
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+Page 1018

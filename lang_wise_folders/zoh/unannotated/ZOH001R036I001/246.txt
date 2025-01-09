@@ -1,0 +1,87 @@
+\fts Esa arnica.
+\fte That arnica leaf.
+\com
+\idx
+\ref ZOH001R036 999-159
+\_no 01141
+de7x
+blanku xapu
+\tx 7i хари
+\mb 7i хари
+\sg] y
+te -7xe blanku xapu
+DCT2-SIM blanco jabo*n
+\egl and soap DCT2-SIM white soap
+jabo*n
+\ref ZOH001R036 999-160
+\_no 01142
+\tx
+GSM: pop
+хари
+\mb
+GSM popo7 хари
+\sg1 GSM: blanco jabo*n
+\eg1 GSM: white soap
+popo xapu, pwes.
+\zoq 7i xapu de7x, blanku xapu
+\fts Y jabo*n asi*, jabo*n blanco jabo*n blanco, pues.
+\fte And soap like this, white soap
+well, white soap.
+\com
+\idx
+\zoq GSM: Popxapu.
+\fts GSM: Jabo*n blanco.
+\fte GSM: white soap.
+\com
+\idx
+\ref ZOH001R036 999-162
+\_no 01144
+\tx 7i yuchi yuchi
+\mb 7i yuchi7 yuchi7
+fino
+fine
+\ref ZOH001R036 999-161
+\_no 01143
+\tx
+OSM: ga
+\mb OSM
+-tuk -w@y -pa
+\sgl OSM:
+cortar-cortar-cortar-ITER2-INC
+\eg1 OSM: DCT3-NOM1 DEF soap 2E cut -cut - cut
+bi
+хари 7@m w@ktuktukw@ba
+ka -7
+bi хари 7@m w@k -tuk
+DCT3-NOM1 DEF jabo*n 2E
+fino
+\sg] y
+\egl and fine
+ZOH001R0361001.txt
+-
+\zoq OSM: Ga bi xapu 7@m w@ktuktukw@ba.
+\fts OSM: Ese jabo*n lo cortas por pedazo.
+\fte OSM: You mince that soap up really well.
+\com
+\idx
+\zoq 7i yuchi yuchi.
+\fts Y muy pedasito.
+\fte And really fine.
+\com
+\idx
+\ref ZOH001R036 999-163
+\_no 01145
+popo хари pwes
+popo7 xapu pwes
+blanco jabo*n pues
+white soap
+well
+\tx yuchi yuchi 7@m tz@kpa
+\mb yuchi7 yuchi7 7@m tz@k -pa
+\sg1 fino
+\egl fine
+fino 2E hacer-INC
+fine 2E do
+- INC
+Page 246
+-ITER2-INC

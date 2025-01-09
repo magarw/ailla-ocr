@@ -1,0 +1,62 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS German laughed, and said "Jarocho verga mocho"
+\date 25/Jun/96
+\lex kan=naji
+\_no 01176
+LG MIG
+\PSH
+\UND kan=naji
+\MB pene, cera
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG grasa del pene
+\ENG dick cheese
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 11/Jan/96
+\lex kan=ten
+\_no 01177
+LG MIG
+\PSH [kanten]
+\UND kan ten
+\MB pene, pararse
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG pararse la verga
+\ENG to have an erection
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+ZOH004R0011001.txt
+\lex kan=xopx
+\_no 01178
+Page 512

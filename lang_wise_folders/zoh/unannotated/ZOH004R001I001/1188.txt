@@ -1,0 +1,62 @@
+\ROOT tz@y
+\RTGR 12
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex poy=yuk.poy. 'oy
+\_no 02761
+\LG MIG
+\PSH [poyyukpoyyoy-]
+\UND poy=yuk.poy.7oy
+\MB huir, ARR, huir, ANTIP
+\VAR
+\GRAM antip
+\SCI
+\USE
+\SPG corretear
+ENG to chase
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT poy
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\1ex poy='ix=tuk
+\_no 02762
+\LG MIG
+\PSH [poyyixtuk-]
+\UND poy=7ix=tuk
+\MB huir, ver, terminarse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG esperar mientras
+\ENG to wait a while
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 poy
+\RTGR 1 11
+\ROOT 2 7ix
+\RTGR 2 T3
+\ROOT 3 tuk
+\RTGR 3 12
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex po' [1]
+\_no 02763
+\LG MIG
+ZOH004R0011001.txt
+Page 1188

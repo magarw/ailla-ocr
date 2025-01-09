@@ -1,0 +1,62 @@
+\USE
+\SPG abuela
+\ENG grandmother
+\EXU
+\XSP
+\XEN
+\SYN bisabuela7, bisabuela
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex mam(a)=bida
+\_no 01858
+\LG MIG
+\PSH [maambida]
+\UND mama-bida
+\MB
+\VAR
+\GRAM
+\SPG bisabuela
+\ENG great-grandmother
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 25/Jun/96
+\lex manak
+\_no 01859
+\LG MIG
+\PSH
+\UND manak
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG hijo/a
+\ENG son/daughter
+\EXU yom (@') manak
+\XPSH [yoom manak]
+\XSP hija
+\XEN daughter
+\EXU jay (a) manak
+\XSP hijo
+\XEN son
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+ZOH004R0011001.txt
+\CMTS other M-S 1gs point to *man@k
+\date 07/Feb/96
+\lex manak.'@y
+Page 802

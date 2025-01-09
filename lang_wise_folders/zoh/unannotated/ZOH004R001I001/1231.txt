@@ -1,0 +1,63 @@
+XPSH 3 [7@y p@kk@ tum p@ynanh_juki.]
+\XSP 3 Agarro* un chupete de cigaro.
+\XEN 3 He took a drag off the cigarette.
+\SYN
+\SEMF eat
+\ASP semelfactive
+\ARG
+\NOM
+\SUB p@y.p@y.ney
+\ROOT p@y
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex p@y.p@y.ney
+\_no 02857
+\LG MIG
+\PSH [p@yp@yney-]
+\UND p@y.p@y.ney
+\MB agarrar_chupete, agarrar_chupete, REDUP1
+\VAR
+\GRAM VİRF
+\SCI
+\USE
+\SPG agarrar chupetes de un cigarro
+\ENG to puff a cigarette
+\EXU juk-pa 7@y+ pay.p@y.ney-wa
+\XPSH [Jukpay p@yp@yneyy@.]
+\XSP_Esta* fumando sin sacar el cigarro de la boca.
+\XEN She's puffing on a cigarette without removing it from her mouth.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT p@y
+\RTGR T3
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS get deriv's; CK-PH of EX ok
+\date 25/Jun/96
+\lex p@' [1]
+\_no 02858
+\LG MIG
+\PSH
+\UND p@7
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG poner
+\ENG to put
+\SPL p@.7oy
+\SLGR ANTIP
+\SLGL poner // to put
+\SPL p@.7@m
+\SLGR PASS
+\SLGL
+\EXU 1 p@7-A7
+\XPSH 1 [P@7!]
+\XSP 1!Ponlo!
+\XEN 1 Put it there!
+Page 1231

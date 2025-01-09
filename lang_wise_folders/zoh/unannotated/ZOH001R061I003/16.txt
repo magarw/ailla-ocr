@@ -1,0 +1,62 @@
+\UND m@k.naanh
+\MB formar, MED
+\VAR
+\GRAM meas
+\SPG una hoyita (de tamal), un trastecito para una cena no ma*s
+\ENG a little leaf (of tamale), a little dish for just one dinner
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT mak
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex nanh.naanh
+\_no 00044
+\LG MIG
+\PHO [nanhna*nh]
+\UND nanh.naanh
+\MB regar, MED
+\VAR
+\GRAM meas
+\SPG una regadita
+\ENG a toss of whatever you're spreading on the ground
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT nanh
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex ne7k.naanh
+\_no 00045
+LG MIG
+\PHO [ne7kna*nh]
+\UND ne7k.naanh
+\MB tapar_corriente, MED
+\VAR
+\GRAM meas
+\SPG una tapada del corriente
+\ENG a diverted stream of water
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT ne7k
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+ZOH001R0611003.txt
+\lex nem. naanh
+\_no_00046
+LG MIG
+\PHO [nemna*nh]
+\UND nem. naanh
+\MB cortar_con_tijeras, MED
+\VAR
+Page 16

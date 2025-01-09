@@ -1,0 +1,63 @@
+\POS da je7kjayy@
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex jen
+\_no 00054
+\SPG rascar (con la mano o un herramiento)
+\ENG to scrape (with the hand or a tool)
+\SEMF scrape
+\ASP activity
+\ARG
+\NOM
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex jenen
+\_no 00055
+\SPG deshacer(se)
+\ENG to dissolve
+\SEMF break
+\ASP accomplishment, achievement
+\ARG
+\NOM jenen.e7
+\RTGR T3
+\POS jenenjayy@ y tzoy7 le desolvio* su remedio
+\MID Y
+\UNDO
+\CLZ
+\CMTS n@ 7@y jenenn@ bi tzoy7
+\CMTS
+\lex jep
+\_no 00056
+\SPG trayar maguey
+\ENG to strip maguey fibers
+\SEMF cut
+\ASP activity
+\ARG patient
+\NOM jep.e, jep.kuy7
+\NOM jep.naanh
+\RTGR T3
+\POS da jepjayy@ Agosti*n
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex jepx
+\_no 00057
+ZOH001R0611002.txt
+me lo limpio*
+\ASP activity
+\ARG agent, patient
+\SPG agarrar con j*icara o palo
+\ENG to scoop up with a dipper or bucket
+\SEMF pick_up
+\NOM jepx.kuy7, ni.jepx, y@k.jepx
+\RTGR P (T3)
+\POS
+Agosti*n me trayo*
+Page 14

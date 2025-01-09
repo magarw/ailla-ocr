@@ -1,0 +1,63 @@
+\UND n@m.jay
+\MB decir, APPL
+\VAR
+\GRAM vi:indir
+\SCI
+\USE
+\SPG decirle
+\ENG to say to
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT n@m
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex n@m.jay=tzak
+\_no 02446
+\LG MIG
+\PSH [n@mjaytzak-]
+\UND n@m.jay=tzak
+\MB decir, APPL, dejar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG dejar dicho
+\ENG to leave word
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 n@m
+\RTGR 1 11
+\ROOT 2 tzak
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 27/Jan/96
+\lex n@m-@H
+\_no_02447
+\LG MIG
+\PSH [n@m@-]
+\UND n@m-@H
+\MB decir, x
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG decirse
+\ENG to be said
+\EXU
+\XSP
+\XEN
+ZOH004R0011001.txt
+Page 1055

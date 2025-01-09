@@ -1,0 +1,82 @@
+\com
+\idx
+\ref ZOH001R055 110
+\_no 00111
+\tx ney tum@ pwes tzakk@mpa
+jerma*n
+jerma*n
+uno pues dejar-PAS -INC Germa*n
+\mb ney
+\sg1 solo
+\egl alone one well leave-PASS-INC Germa*n
+tum@ pwes tzak -7@m -pa
+ZOH001R0551001.txt
+\zoq Ney tum@, pwes, tzakk@mpa Jerma*n.
+\fts solo pues quedo* Germa*n.
+\fte well, Germa*n stayed alone.
+\com
+\idx
+\ref ZOH001R055 111
+\_no 00112
+\tx malay 7iw@ pin@k ye7tzpa*m para wit7awin7apa
+\mb
+ye7tz -pa -7am para wit -7awin7 -7a
+\sg] CONFAC quien CONFAC 11egar-INC-YA para andar-hermano/a-VERS1-INC
+\eg1 CONFAC who
+malaya 7iwa
+pin@k
+CONFAC arrive-INC-NOW for walk -sibling -VERS1-INC
+\zoq Malay 7iw@ pin@k_ye7tzpa*m para wit7awin7apa.
+\fts Malaya quien ya llegara para que pasee con el.
+\fte I wonder who will arrive so I can go around with him.
+\com
+\idx
+\ref ZOH001R055 112
+\_no 00113
+\tx jayy@
+\mb
+para ye7tztz@ 7@y 7awin
+jay -w@ para ye7tz -w@ 7@y 7awin7
+\sg] dilatar-COM para llegar-COM 3E hermano/a NPL
+\egl delay
+delay -COM for arrive-COM 3E sibling NPL
+\zoq Jayy@ para yetztz@ 7@y 7awind@kka.
+\fts Tardo* para que llego* sus compan~eros.
+\fte It was a while before his companions came.
+\com
+\idx
+\ref ZOH001R055 113
+\_no 00114
+\tx tey
+pwes x@ja
+\mb te -y pwes x@j@7
+\sg1 DCT2-TMP pues bastante
+\eg1 DCT2-TMP well a_lot
+\tx playa cristal
+\mb playa Krista*l
+\sg1 Playa Krista*l
+\egl Playa Kristal
+\ref ZOH001R055 114
+\_no 00115
+\tx tey
+tejidamm@
+teji
+hay
+d@kka
+d@kkay
+7oteljo7
+7otel-jo7
+-1/2PL-COM DCT1-LOC1 DCT1-DEM hotel-Loc2
+there_is-1/2PL-COM DCT1-LOC1 DCT1-DEM hotel-LOC2
+n@mm@ 7@n yoxtamma*m
+y@ji
+y@da
+-tam -wa ya -ji7 ya -da
+\zoq Tey pwes x@j@ tejidamm@ y@ji y@d@ 7oteljo7 Playa_Krista*l.
+\fts Ahora pues bastante estamos aqui en este hotel
+\fte well, now there are a lot of us here in this Hotel Playa Cristal.
+\com
+Playa_Cristal.
+\idx
+-pa
+Page 26

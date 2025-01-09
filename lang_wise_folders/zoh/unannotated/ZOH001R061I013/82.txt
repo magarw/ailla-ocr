@@ -1,0 +1,53 @@
+\_no 01020
+\SPG quince
+\ENG fifteen
+\lex kinta*1
+\_no 01021
+\SPG quintal
+\ENG
+\lex kin@k
+\_no 01022
+\SPG nariz; trompa
+\ENG nose; snout
+\lex kinh
+\_no 01023
+\SPG odiar
+ENG hate
+\lex kinhka7
+\_no 01024
+\SPG enojarse
+\ENG get_mad
+\lex ki7px
+\_no 01025
+\LG MIG
+\SPG PRB
+\ENG PRB
+\lex kiryada
+\_no 01026
+\SPG criada
+\ENG maid
+\lex kisa*s
+\_no 01027
+\SPG quizas
+\ENG maybe
+\lex kit
+\_no 01028
+\SPG quebrar
+\ENG break
+\lex ki7t
+\_no 01029
+\SPG meter_dedo
+\ENG put_finger
+\lex kitz
+\_no 01030
+\SPG enrollar
+\ENG roll
+\lex kitza
+\_no 01031
+\SPG flaco
+\ENG thin
+\lex kix
+\_no 01032
+\SPG enfadarse
+ZOH001R0611013.txt
+Page 82

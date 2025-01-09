@@ -1,0 +1,63 @@
+\lex kaxti (ya). 7aH-pa+a7k
+\_no 01213
+\LG MIG
+\PSH [kaxtiyaba*7]
+\UND kaxtiya. 7aH-pa +P@7k
+\MB castilla, VERS1, INC, REL
+\VAR [kaxtiba*7]; [kaxtipa*7]
+\GRAM agt1
+\SCI
+\USE
+\SPG e*1 que habla castellano/espan~ol; ladino
+\ENG one who speaks Spanish; a non-Indian Mexican
+\EXU tzam-pa kaxtiya+jo7
+\XPSH [Tzampa kaxtiyajo7.]
+\XSP Habla en castellano.
+\XEN He is speaking Spanish.
+\SYN
+SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-all both vars ok, HAJ:96
+\date 24/Jun/96
+\lex kayna7
+\_no 01214
+\LG MIG
+\PSH
+\UND kayna7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG andenante; hace rato
+\ENG a long time ago
+\SPL
+SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+ZOH004R0011001.txt
+\lex ka'
+\_no 01215
+\LG MIG
+\PSH
+\UND ka7
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG morirse
+\ENG to die
+\SPL yak.ka'
+Page 528

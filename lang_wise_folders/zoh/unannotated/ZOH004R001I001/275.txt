@@ -1,0 +1,63 @@
+\MB
+\VAR
+\GRAM Vi
+\SCI
+\USE
+\SPG ahogarse
+\ENG to choke
+\SPL yak. ja7k
+\SLGR CAUS
+\SLGL ahogar // to choke someone; to drown
+\EXU 1 ja7k-wa kwandu k@x. 'oy-pa
+\XPSH 1 [Ja7kk@ kwandu k@xxoba.]
+\XSP 1 Se ahogo* cuando estaba comiendo.
+\XEN 1 She choked while eating.
+\EXU 2_7@y+ yak.ja7k-wa na'+jo7
+\XPSH 2 [7@y yakja7kk@ n@jo7.]
+\XSP 2 Lo ahogo* en el ri*o.
+\XEN 2 He drowned it in the river.
+\EXU 3 da ja7k-pa n@'+jo7
+\XPSH 3 [D@ ja7kpa najo7.]
+\XSP 3 Estoy ahogando en el ri*o.
+\XEN 3 I'm drowning in the river.
+\SYN
+\SEMF die
+\ASP activity, achievement
+\ARG
+\NOM
+\SUB k@.n@k-ja7k. '@y, yuk.ja7k
+\ETYM
+\ETL
+\ROOT ja7k
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex jam
+\_no 00643
+LG MIG
+\PSH
+\UND jam
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG cal
+\ENG lime
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+ZOH004R0011001.txt
+\CMTS
+\date 10/Aug/94
+\lex jam 7iki kuy
+\_no 00644
+\LG MIG
+Page 275

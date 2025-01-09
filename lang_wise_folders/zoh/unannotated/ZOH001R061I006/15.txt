@@ -1,0 +1,66 @@
+\SCI
+\USE
+\SPG 1 moler
+\SPG 2 quebrajar
+\ENG 1 to grind
+\ENG 2 to crush
+\EXU 1 7@y+ ja7p-w@ bi pitz.E tza7 +g@xi
+\XPSH 1 [7@y ja7pp@ bi pitzi tzag@xi.]
+\XSP 1 Molio* el nixtamal en el metate.
+\XEN 1 She ground the corn in the metate.
+\EXU 2 ja7p.7@m-w@ bi pitz. E
+\XPSH 2 [ja7pp@mm@ bi pitzi.]
+\XSP 2 Se quebrajo* el nixtamal.
+\XEN 2 The corn was crushed.
+\SYN
+\SEMF corn, break
+\ASP activity
+\ARG agent, patient
+\NOM ja'p.e7,
+\SUB 7anh.ja7p.'@y,
+\SUB ko.ja7p, k@.ja7p. '@y, nik.ja7p.¹@y, win-ja7p
+\ETYM
+\ETL
+\ROOT ja7p
+\RTGR T3
+\SPL ja7p.7oy
+\SLGR ANTIP
+ni.ja7p.kuy7
+\SLGL moler; quebrajar // to grind; to crush
+\SPL ja7p.7@m
+\SLGR PASS
+\SLGL molerse; quebrajarse // to be ground; to be crushed
+\SPL ja7p.ten
+\SLGR PRSV
+\lex jax
+\_no 00021
+ZOH001R0611006.txt
+7anh.n@k.ja7p.'@y, 7ok.ja7p.'@7, jo.ja7p, j@x=ja7p,
+\SLGL tener molido // to have ground
+\DSRC HAJ94
+\LG MIG
+\PSH
+\UND jax
+\MB
+\VAR
+\CMTS to crush/grind something in the metate
+\date 03/Jan/80
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG 1 asar (carne)
+\SPG 2 tostar (totopo)
+\SPG 3 tostarse
+\ENG 1 to roast (meat)
+\ENG 2 to bake (totopo)
+\ENG 3 to be baked
+\SPL jax-E
+\SLGR PCP
+\SPL yak.jax
+\SLGR CAUS
+\SLGL hacer tostar // to cause to bake or roast
+\SLGL_asado // roasted
+\SPL jax. 7oy
+\SLGR ANTIP
+\SLGL asar // to roast
+Page 15

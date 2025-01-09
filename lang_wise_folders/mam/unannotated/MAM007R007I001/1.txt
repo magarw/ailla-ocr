@@ -1,0 +1,68 @@
+Mam - 7
+El Águila
+(1) 0-chi-tzan
+(2)
+(3)
+B3s-decir-pues
+'Antes dijeron así.'
+At=0
+jun
+EXIST=B3s un
+'Hay una historia'
+0=0=ook
+(4) t-i'j
+n-b'i-'n=a
+CPL.DEP-B3s=DIR A2s-oir-SD=1s
+'que escuché de la gente grande,'
+(5) aj
+(9)
+jun txkup o=0=teen
+A3s-SR:tema un animal CPL=B3s=estar
+'sobre un animal que hay'
+nn=0=ook
+(6) Chi-chi-tzan
+t'iiw.
+DEM INC=B3s=entrar águila
+'que se llamaba águila.'
+tij
+xjaal
+B3p-decir-pues grande gente
+'Dijeron los viejitos,'
+(7) ajaj
+kyja-luu' ojtxa.
+así aquí antes
+t-pokb'aal
+A3s-noticia
+ok
+ky-ee=x
+DEM.PL cuándo A3p-salir-DIR
+'cuando iban a trabajar,'
+(8) iiqa-n=0
+tz'lom ky-u'n
+cargar-PART=B3s tabla A3p-SR:AGT
+'cargaron tablas'
+t-u'n=tzan
+(10) 0-chi-tzan
+B3s-decir pues
+'dice'
+mii ky-xi' q’i-ʼn
+txkup.
+A3s-SR:para.que-pues NEG A3p-DIR llevar-SD A3s-SR:AGT animal
+'para que el animal no se los llevara.'
+(11) qa kyee 0-liipa-n-jal.
+si que B3s=volar-AP=CL
+'que el animal volaba.'
+(12) Ok-tzan
+ky-u'n=qa
+tij xjaal
+A3p-SR:AGT=PL grande gente
+t-tzaaj jal
+cuándo pues A3s-venir-CL
+'Cuándo venía en el aire,'
+aq'naa-l
+trabajar-INF
+t-u'n
+2
+t-witz
+kya'j,
+A3s:SR:sobre cielo

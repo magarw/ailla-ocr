@@ -1,0 +1,63 @@
+\GRAM vt
+\SCI
+\USE
+\SPG hacer largo
+\ENG to make long
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 08/Feb/96
+\lex p@m.i
+\_no 00281
+LG MIG
+\PSH [p@mi]
+\UND p@m. E
+\MB aguantar, NOM7
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG recio (agua)
+\ENG forceful (water)
+\EXU p@m. E tuj
+\XPSH [P@mi tuj.]
+\XSP Esta* recio el agua.
+\XEN The water is forceful.
+\SYN
+\SEMF
+\ASP
+\ARG
+\NOM
+\SUB k@.n@k-p@m.i.'@y
+\ETYM
+\ETL
+\ROOT p@m
+\RTGR T1
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex p@m.i.7aH
+\_no 00282
+\LG MIG
+\PSH [p@mi7a-]
+\UND p@m.E.7aH
+\MB aguantar, NOM7, VERS1
+\VAR
+\GRAM vi:vers1
+\SCI
+\USE
+\SPG hacerse fuerte
+\ENG to become strong
+\EXU mas p@m. E. 7aH-wa
+ZOH001R0611004.txt
+Page 113

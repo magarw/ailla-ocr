@@ -1,0 +1,63 @@
+\_no 00143
+\LG MIG
+\PSH [kuy wotze]
+\UND kuy wotz. E
+\MB madera, aserrar, NOM7
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG una madera asserada
+\ENG a sawed board
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wotz
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex kuy+jo+7k kabaitu m@tz.i7
+\_no 00144
+\LG MIG
+\PSH [kuyjo7k kabaitu m@tzi7]
+\UND kuy+jo+7k kabaitu m@tz.E7
+\MB palo, LOC2, REL, caballito, X, NOM7
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG juguete de caballito de monte
+\ENG a type of animal
+SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS CK-all - sounds ok HAJ:96; OK to me, too: TK
+\CMTS es un animal
+\date 24/Jun/96
+\lex kuy=putz.i7
+\_no 00145
+\LG MIG
+\PSH [kuyputzi7]
+\UND kuy pu7tz.E7
+ZOH001R0611004.txt
+\MB palo, pudrirse, NOM7
+\VAR putz.i' kuy
+\GRAM s (m) sv
+\SCI
+\USE
+\SPG palo podrido
+\ENG rotten log
+Page 59

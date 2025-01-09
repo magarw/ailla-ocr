@@ -1,0 +1,92 @@
+\not (the sick one steps over the grave);
+\ref ZOH001R036 204
+\_no 00204
+\tx 7@n yakni kkokaxpa
+\mb 7@n yak -nik -7ok -kax
+\sgl 1E CAUS-SUP -ABAJO-dar_pasos-INC
+\egl 1E
+CAUS-SURF-DOWN -Step
+\ref ZOH001R036 205
+\_no 00205
+ZOH001R0361001.txt
+\zoq 7@n yaknikkokaxpa bi monhnh@*.
+\fts Lo hago a que pase unos pasos e*] que esta* acostado.
+\fte I make him take steps over the sleeping one.
+\com
+\idx
+monhnh@
+\tx 7i de7x
+monhnh@
+7@y nikkaxp@7tpa
+monh -w@ 7@y nik -kax
+-p@7t -pa
+\mb 7i te -7xe
+\sgly
+DCT2-SIM dormir-COM 3E SUP -dar_pasos-pasar-INC
+\eg1 and DCT2-SIM sleep -COM 3E SURF-step
+-pass -INC
+bi
+-pa bi monh
+\zoq 7i de7x monhnh@, 7@y nikkaxp@7tpa.
+\fts Asi* esta* acostado, lo pasa unos pasos.
+\fte And that way he's sleeping, he takes a few steps.
+\com
+\idx
+\tx n@7
+\mb
+n@7
+-w@ -v7k
+DEF dormir-COM-REL
+-INC DEF sleep -COM-REL
+\ref ZOH001R036 206
+\_no 00206
+7axta ke
+\tx 7@y nikkaxp@7tke7tpa
+\mb 7@y nik -kax
+-p@7t -ke7t -pa 7axta ke
+\sg1 3E SUP -dar_pasos-pasar-REPET-INC hasta que
+\egl 3E SURF-step -pass -REPET-INC until that
+\sgl agua
+\egl water
+\zoq 7@y nikkaxp@7tke7tpa 7axta ke 7okwakpa.
+\fts Lo vuelve a pasar hasta que termine.
+\fte He steps over again until it's done.
+\com (until the curandero says stop)
+\idx
+\ref ZOH001R036 208
+\_no 00208
+\tx
+kay
+wintzewakpa*m
+\mb ka -y win -tze7 -wak
+\ref ZOH001R036 207
+\_no 00207
+7okwakka*m
+kay
+\tx despwes ke
+\mb
+despwe*s ke
+7ok -wak -w@ -7am ka -Y
+\sg] despues que ABAJO-vaciar-COM-YA
+\egl after
+DCT3-TMP
+that DOWN -empty -COM-NOW DCT3-TMP get
+\zoq Despwes ke 7okwakka*m kay p@kn@kpa_tum bi n@7.
+\fts Despues que ya termino* ya lleva el agua.
+\fte After it's over now he brings the water.
+\com
+\idx
+7okwakpa
+7ok
+7@y win
+-pa -7am 7@y win
+Page 45
+-wak
+ABAJO-vaciar-INC
+DOWN -empty -INC
+-pa
+p@kn@kpa
+tum bi
+pak -n@k -pa tum bi
+agarrar-irse-INC uno DEF
+-go -INC one DEF

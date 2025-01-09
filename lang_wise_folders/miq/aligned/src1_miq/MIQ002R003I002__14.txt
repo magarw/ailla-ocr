@@ -1,0 +1,30 @@
+pura mit
+CONN 3.POSS up ?
+'bueno, levantan sus voces'
+'well, they raise their voices'
+food PL DET more
+'bueno esta alimentación es más fuerte'
+'well this nutrition is stronger'
+traditional.drink.2
+'comen y beben el lukluk con más fuerza'
+'they eat and drink lukluk more aggressively'
+bara baku tem ba lilia tara
+'después se hace una celebración muy grande'
+'then a big celebration is had'
+sihkru ba lika
+sihkru DET be
+'lo que es el sihkru realizan el foro'
+king pulanka ba sihkru-ra ba bara sa
+'el king pulanka y en el sihkru hay'
+'in the king pulanka and the sihkru there is
+speak-IMPF AUX.3.NPST
+DET more drink AUX.3.NPST
+'y economía se habla'
+'and about economy they talk about'
+strong
+education thing there AUX.3.NPST health thing
+'de educación, de salud,'
+'about education, about health,’
+style make-IMPF ?
+'hay otros tipos de temas que también se realizan con estas actividades'
+'other topics also take place in these activities'

@@ -1,0 +1,62 @@
+ZOH004R0011001.txt
+\CMTS extracted from text: Entrevista sobre la medicina tradicional
+\date
+\lex y@k.w@tz
+\_no 04380
+\LG MIG
+\PSH [y@kw@tz]
+\UND yak.w@tz.0
+\MB INSTR2, peinar, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG peine
+\ENG comb
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT w@tz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex y@k.yum
+\_no 04381
+\LG MIG
+\PSH [y@kyum]
+\UND y@k.yum.0
+\MB INSTR2, hervirse, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG perol de cobre; olla
+\ENG copper pan; pot
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yum
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex y@k.y@k
+\_no 04382
+\LG MIG
+\PSH [y@ky@k]
+\UND y@k.y@k
+\MB tizne, tizne
+\VAR
+\GRAM AR
+\SCI
+\USE
+Page 1880

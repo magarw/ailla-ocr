@@ -1,0 +1,62 @@
+\DATE 03/Jan/1980
+\lex yu7tz
+\_no 04335
+\LG MIG
+\PSH
+\UND yu7tz
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG agarrar un pun~o y ponerlo ahi*; dejar un pun~o (frijol, mai*z)
+\ENG to grab a fistful of something and put it over there; to leave a
+handful of something (beans, corn)
+\SLGR NO ANTIP
+\SLGR NO PASS
+\EXU 7@y+ yu7tz-p@k-wa
+\XPSH [7@y yu7tzp@kk@.]
+\XSP Lo agarro* por pun~o.
+\XEN She grabbed it by the handful.
+\SYN
+\SEMF hand
+\ASP process
+\ARG
+\NOM yu7tz.naanh
+\SUB
+\ETYM
+\ETL
+\ROOT yu7tz
+\RTGR T1
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex yu7tz.naanh
+\_no 04336
+\LG MIG
+\PSH [yu7tzna*nh]
+\UND yu7tz.naanh
+\MB agarrar_en_pun~o, MED1
+\VAR
+\GRAM med
+\SCI
+\USE
+\SPG pun~o
+\ENG handful
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yu7tz
+\RTGR T1
+\DSRC HAJ94
+ZOH004R0011001.txt
+\CMTS
+\date 03/Jan/80
+\lex yu'=7anh.p@7t
+\_no 04337
+\LG MIG
+Page 1862

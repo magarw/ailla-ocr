@@ -1,0 +1,33 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(iv)
+(v)
+(3.3)
+(i)
+'øy tzukxø
+?əy+ cukš-wə
+3E+ pellizcar-COM
+'Lo pellizcó.'
+(ii)
+bejcha tzømmoba
+behča 0 cǝəm.?oy-pa
+caballo 3A cargar.ANTIP-INC
+'Los caballos lo cargan."
+There are many tokens in the corpus showing that the depositive suffix
+way does not always have this effect; that is, the /w/ is clearly audible. There
+are also tokens from several consultants (particularly older men) in which a /?/
+fails to induce gemination, particularly after /ŋ/, and sometimes also after /y/
+and /k/. There are no exceptions to the gemination induced by the completive
+suffix -wə.
+'øy tzatztuktukwøyyø
+?əy+ cac=tuk.tuk.wəy-wə
+3E+ rajar=cortar.cortar.DEPOS-COM
+'Lo rajó en pedacitos."
+'øy 'otong'oyyø
+?ǝy+ ?otoŋ.?oy-wǝ
+3E+ hablar.ANTIP-COM
+'Habló.'
+(lexicon)
+31
+(ZOH001R024-090)
+(lexicon)
+(lexicon)

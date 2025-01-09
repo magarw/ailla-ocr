@@ -1,0 +1,63 @@
+VAR katzu n@@n=7uk.i
+\GRAM a (m) s (m) s
+\SCI
+\USE
+\SPG atole de tisiawal agrio
+ENG a type of corn drink
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7uk
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-PH - both ok, HAJ:96
+\date 18/Jun/96
+\lex kax.e
+\_no 00121
+\LG MIG
+\PSH [kaxe]
+\UND kax. E
+\MB dar_pasos, NOM7
+\VAR
+\GRAM med
+\SCI
+\USE
+\SPG paso
+\ENG step
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kax
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex ket.a de toto7
+\_no 00122
+\LG MIG
+\PSH [keta de toto7]
+\UND ket.A de toto7
+\MB tapar, NOM2, de, papel
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG forro de libro (le puso forro al libro)
+\ENG book wrapper
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH001R0611004.txt
+\SEMF
+\ETYM
+\ETL
+Page 50

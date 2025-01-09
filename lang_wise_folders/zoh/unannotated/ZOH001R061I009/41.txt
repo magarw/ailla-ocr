@@ -1,0 +1,60 @@
+\XEN I untangle it so I can roll it up
+\ROOT xi7t T3
+\SEMF move, instr
+\PASS xi7t.7@m
+ANTI xi7t.7oy
+\CMTS
+\lex xom
+\_no 00171
+\SPG encerrar
+\ENG to close in; to jail
+\EX
+\XSP
+\XEN
+\ROOT xom P, (T3)
+\SEMF affect, position
+\PASS NONE
+\ANTI xom.7oy
+\CMTS
+\lex xo7px
+\_no 00172
+\SPG tomar a boca de plato hondo
+ENG to drink from a bowl
+\EX
+\XSP
+\XEN
+\ROOT xo7px T3
+\SEMF eat
+\PASS xo7px.7@m tomar
+\ANTI xo7px.7oy tomar
+\PRSV xo7px=-ten-e lo tiene el plato en su boca, para tomar
+\CMTS
+\lex xox
+\_no 00173
+\SPG cocer
+\ENG to cook
+\EX xoxx@mm@
+\XSP se cocio*
+\XEN it was cooked
+\ROOT XOX T3
+\SEMF cook
+\PASS xox.7@m cocerse solo; cocer
+\ANTI XOX.7oy
+\PRSV_xox=ten lo tiene cocido
+\CMTS
+\lex xuj
+\_no 00174
+\SPG soplar
+\ENG to blow
+\EX
+\XSP
+\XEN
+\ROOT xuj T3
+\SEMF body
+ZOH001R0611009.txt
+\PASS xuj.7@m
+\ANTI xuj.7oy
+\CMTS
+\lex xu7k
+\_no 00175
+Page 41

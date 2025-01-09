@@ -1,0 +1,63 @@
+\XSP 1 un di*a
+\XEN 1 one day
+\EXU 2 kada tuwa-'nh jama
+\XPSH 2 [kada tuwanh jama]
+\XSP 2 cada tres di*as
+XEN 2 every three days
+\EXU_3_tu=dujta-'nh jama
+\XPSH 3 [tudujtanh jama]
+\XSP 3 ocho di*as
+\XEN 3 eight days
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 30/Jan/96
+\lex jama 7@y+ manak
+\_no 00647
+\LG MIG
+\PSH [jamay manak]
+\UND jama 7@y+ manak
+\MB di*a, 3Erg, hijo/a
+\VAR
+\GRAM sps
+\SCI
+\USE
+\SPG albino; hijo del sol
+\ENG albino
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex jama mok
+\_no 00648
+\LG MIG
+\PSH
+\UND jama mok
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG milpa de chahuite
+\ENG spring corn planting
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+ZOH004R0011001.txt
+Page 277

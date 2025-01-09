@@ -1,0 +1,41 @@
+The orthography used in the lexicons is different from that employed in
+this grammar. We used an ASCII-compatible orthography to simplify data entry
+and to provide the speaker communities with orthographies that can be used
+on typewriters as well. The table below shows the symbols used for the non-
+ASCII characters in the MALDP orthography, the IPA, and the standard
+orthography for Zoque languages.
+@ represents the 'sixth vowel' in the lexical databases. This is a high mid
+vowel in the other MZ languages, but a mid mid vowel in MIG Zoque. So,
+although I use for this vowel in the grammar, it will appear as ü in the pretty-
+printed lexical entries retrieved by the search.
+MALDP
+@
+7
+nh
+X
+j
+ch
+tz
+IPA
+Ә
+?
+ŋ
+sk
+Š
+h
+>U
+с
+Standard
+Orthography
+I
+ng
+X
+j
+ch
+tz
+Table A.2: MALDP orthographic conventions
+Lexical entries are written in their underlying forms; that is, the
+morpheme breaks are indicated by the appropriate morpheme break symbol.
+For example, the entry for ?aŋkimmobá?, 'leader', is 7anh-kim.'oy.pa+a7k,
+essentially the morpheme breakdown of the word. The character ' is used to
+405

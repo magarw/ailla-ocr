@@ -1,0 +1,64 @@
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pelar, como una naranja; quitar la ca*scara de madera
+\ENG to peel, like an orange; strip the bark from wood
+\SPL wox. 7oy
+\SLGR ANTIP
+\SLGL pelar // to peel
+\SPL wox.7@m
+\SLGR PASS
+\SLGL pelarse // to be peeled
+SLGR NO ASSUM1
+\SPL wox.ten
+\SLGR PRSV
+\SLGL tener pelado // to have peeled
+\EXU 7@y+ wox. ten-w@ 7anax (a) d@k+7a
+\XPSH [7@y woxtenn@ 7anaxa d@kka.]
+\XSP Tiene pelado las naranjas.
+\XEN He's got the oranges peeled.
+\SYN
+SEMF cut
+\ASP process
+\ARG
+\NOM wox.naanh, wox. 'oy.kuy7
+\SUB
+\ETYM
+\ETL
+\ROOT WOX
+\RTGR T3
+\DSRC TK94
+\CMTS
+\CMTS CK-EX HAJ:96 fixed
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex woy
+\_no 00206
+ZOH001R0611006.txt
+\LG MIG
+\PSH
+\UND WOY
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG enrollar; recoger; enroscar
+\ENG to roll up; to pick up; to coil
+\SPL woy.7oy
+\SLGR ANTIP
+\SLGL enrollar, recoger, enroscar // to roll up, to pick up, to coil
+SPL woy.7@m
+\SLGR PASS
+\SLGL estar enrollado // to be rolled up
+\SPL woy. ney
+\SLGR ASSUM1
+\SLGL enrollarse, enroscarse // to be rolled up, to be coiled
+\SPL woy.ten
+\SLGR PRSV
+\SLGL tener enrollado // to have rolled up
+\EXU woy.ney-w@ tzajin (ps-pcp)
+\XPSH [Woyneyy@ tzajin.]
+Page 139

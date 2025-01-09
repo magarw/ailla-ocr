@@ -1,0 +1,63 @@
+\_no 04278
+\LG MIG
+\PSH [yukk@nh-]
+\UND yuk.k@nh
+\MB ARR, quemarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar a quemarse
+\ENG to start to get burned
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT k@nh
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+\lex yuk.k@nh [2]
+\_no 04279
+\LG MIG
+\PSH [yukk@nh-]
+\UND yuk.k@nh
+\MB ARR, pintar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG empezar a pintar
+\ENG to start to paint
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT k@nh
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+\lex yuk.k@7t
+\_no 04280
+\LG MIG
+\PSH [yukk@7t-]
+\UND yuk.k@7t
+\MB ARR, moler
+\VAR
+\GRAM vt
+\SCI
+\USE
+ZOH004R0011001.txt
+Page 1838

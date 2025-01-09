@@ -1,0 +1,97 @@
+a in tik anheja ink'anan woch t'ay ach
+a in tik anheja Ø-in-k'an-an
+w-och
+t'ay ach
+top 1B dem siempre 3B-1A-pedir-sec 1A-tortilla prep 2B
+a in tik anheja tzink'an woch t'ay ach
+a in tik anheja tz-ø-in-k'an
+130
+w-och t'ay ach
+top 1B dem siempre pres-3B-1A-pedir 1A-tortilla 2B
+prep
+Ella siempre me pide tortillas.
+a ix anheja sk'an yoch ix t'ay in
+a ix anheja tz-ø-s-k'an
+y-och ix t'ay in
+top ella siempre pres-3B-3A-pedir 3A-tortilla Cfem prep 1B
+Ella siempre te pide tortillas.
+a ix anheja sk'an yoch ix t'ay ach
+a ix anheja tz-ø-s-k'an
+y-och ix t'ay ach
+top ella siempre pres-3B-3A-pedir 3A-tortilla Cfem prep 2B
+193. Ella me pidió tortillas para su madre.
+a ix xk'an ixim wa'il ix t'ay in yoj ix nun
+ix ix-ø-s-k'an
+ixim wa’il
+a
+wa'il ix t'ay in y-oj ix
+top ella pas-3B-3A-pedir Cmaíz tortilla Cfem prep 1B 3A-SR Cfem
+nun
+madre
+a ix xk'an yoch ix snun ix t'ay in
+a
+ix ix-Ø-s-k'an
+s-nun ix t'ay in
+top ella pas-3B-3A-pedir 3A-tortilla Cfem 3A-madre ella prep 1B
+y-och ix
+Él te pidió tortillas para mí.
+a winh xk’an ixim wail winh t’ay ach wuuj
+a winh ix-ø-s-k'an
+top él
+194. ¿Ella te pidió tortillas?
+ixim wa'il
+wa'il winh t'ay ach w-u'uj
+pas-3B-3A-pedir Cmaíz tortilla Cmasc prep 2B 1A-SR
+¿a ix xk'an ix ixim wa'il ix t'ay ach?
+a ix ix-Ø-s-k'an
+top ella
+ix ixim wa'il
+wa'il ix t'ay ach
+pas-3B-3A-pedir Cfem Cmaíz tortilla Cfem prep 2B
+¿a ix tom xk'an yoch ix t'ay ach?
+a
+ix
+tom ix-ø-s-k'an
+ix
+y-och
+t'ay ach
+top ella int pas-3B-3A-pedir 3A-tortilla Cfem prep 2B
+Ella tal vez te pidió tortillas.
+a ix xk'an am laj ixim wa'il ix t'ay ach
+a
+ix ix-ø-s-k'an
+am laj ixim wa'il ix t'ay ach
+top ella pas-3B-3A-pedir dub neg Cmaíz tortilla Cfem prep 2B
+195. Sí, ella me pidió tortillas.
+i', xk'an ixim ix t'ay in
+i', ix-ø-s-k'an
+ixim ix t'ay in
+sí, pas-3B-3A-pedir Cmaíz Cfem prep 1B
+i', xk'an yoch ix t'ay in
+i', ix-ø-s-k'an
+ix
+y-och
+t'ay in
+sí, pas-3B-3A-pedir 3A-tortilla Cfem prep 1B
+196. ¿Quién te pidió tortillas?
+¿mach ixj’anan ixim wa'il t'ay ach?
+mach ix-ø-k'an-an
+ixim wa'il t'ay ach
+quién pas-3B-pedir-EA Cmaíz tortilla prep 2B
+¿mach xk'an yoch t'ay ach?
+mach ix-ø-s-k'an
+y-och
+t'ay ach
+quién pas-3B-3A-pedir 3A-tortilla prep 2B
+¿mach xk'anan yoch t'ay ach?
+mach ix-ø-k'an-an
+y-och t'ay ach
+quién pas-3B-pedir-EA 3A-tortilla prep 2B
+¿Quiénes te pidieron tortillas?
+¿machtak ixk'anan yoch t'ay ach?
+mach-tak ix-ø-k'an-an
+y-och t'ay ach
+quién-pl pas-3B-pedir-EA 3A-tortilla prep 2B
+197. ¿Qué te pidió ella?
+¿tas xk'an ix t'ay ach?
+131

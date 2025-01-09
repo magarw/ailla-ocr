@@ -1,0 +1,65 @@
+ZOH004R0011001.txt
+\USE
+\SPG abrir los ojos de ropente, como cuando estaba durmiendo
+\ENG to suddenly open your eyes, like when you were sleeping
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7amma
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex yuk.7enh
+\_no 04209
+\LG MIG
+\PSH [yuk7enh-]
+\UND yuk. 7enh
+\MB ARR, X
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG levantarse la costra, la herida
+\ENG to peel the
+scab off a wound
+\SPL yak.yuk. 7enh
+\SLGR CAUS
+\SLGL dejar levantar una costra // to allow the scab to peel off
+\EXU yuk. 'enh-w@ 7@y+ putz. E
+\XPSH
+[Yukkenhnh@y putzi.]
+\xSP se levanto* la costra del grano.
+\XEN She peeled the scab off a pimple.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7enh
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex yuk. 7etz
+\_no 04210
+\LG MIG
+\PSH [yuk7etz-]
+\UND yuk. 7etz
+\MB ARR, bailar
+\VAR
+GRAM vi
+\SCI
+\USE
+\SPG empezar a bailar
+\ENG to start to dance
+\EXU
+\XSP
+\XEN
+\SYN
+Page 1808

@@ -1,0 +1,62 @@
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+\lex yak.nuk-ten
+\_no 04094
+\LG MIG
+\PSH [yaknukten-]
+\UND yak.nuk-ten
+\MB CAUS, agarrar, pararse
+\VAR
+GRAM caus2
+\SCI
+\USE
+\SPG hacer agarrar
+\ENG to make grab
+\EXU 7@y+ yak. nuk-ten-wa
+\XPSH [7@y yaknuktenn@.]
+\XSP Lo hizo a que lo agarre.
+\XEN He made her grab it.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 nuk
+\RTGR 1 T3
+\ROOT 2 ten
+\RTGR 2 11
+\DSRC HAJ94
+\CMTS CK-GR
+\date 20/Jun/96
+\lex yak.p@k
+\_no 04095
+\LG MIG
+\PSH [yakp@k-]
+\UND yak.p@k
+\MB CAUS, agarrar
+\VAR
+\GRAM caus
+\SCI
+\USE
+\SPG dejar que se casen
+\ENG to allow to marry
+\SPL ya yak.p@k
+\SLGR NEG
+\SLGL impedir; no dejar que se casen // to prohibit from marrying
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT p@k
+\RTGR T3
+\DSRC TK96
+\CMTS
+\lex yak.p@7t.jay
+\_no 04096
+ZOH004R0011001.txt
+\LG MIG
+\PSH [yakp@7tjay-]
+Page 1760

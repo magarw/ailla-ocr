@@ -1,0 +1,65 @@
+\not
+\idx
+\ref ZOH001R002 027
+\_no 00028
+\tx minpa
+\mb min
+7@y 7okjejxukk@,
+-pa 7@y 7ok -jej -xuk-w@
+\sg1 venir-INC 3E ABAJO-vivir-3PL-COM
+\egl come -INC 3E DOWN -live -3PL-COM
+\zoq minpa 7@y 7okjejxukk@,
+\fts viene a descansar,
+\fte they come to rest,
+\not
+\idx aux_p1
+\ref ZOH001R002 028
+\_no 00029
+\tx para n@kxukpa
+Man@j@7.
+\mb para n@k -xuk-pa M@n@ja7
+\sg1 para irse-3PL-INC Santa Maria
+\egl for go -3PL-INC Santa_Maria
+\zoq para n@kxukpa M@n@j@7.
+\fts que vaigan para Santa Maria.
+\fte so they could go on to Santa Maria.
+\not
+\idx
+\ref ZOH001R002 029
+\_no 00030
+\tx n@kpa
+7@y matz@kxukk@.
+\mb n@k -pa 7@y ma7 -tz@k -xuk-wa
+\sgl irse-INC 3E venta-hacer-3PL-COM
+\egl go -INC 3E sale -do -3PL-COM
+\zoq N@kpa 7@y matz@kxukk@.
+fts van a vender.
+ZOH001R0021001.txt
+\fte They would go to market.
+\not
+\idx aux_p1
+\ref ZOH001R002 030
+\_no 00031
+\tx n@kpa
+7@y matz@kxukk@.
+\mb n@k -pa 7@y ma7 -tz@k -xuk-wa
+\sgl irse-INC 3E
+venta-hacer-3PL-COM
+\egl go -INC 3E sale -do -3PL-COM
+\zoq N@kpa 7@y matz@kxukk@.
+\fts van a vender.
+\fte They would go to market.
+\not
+\idx aux_p1
+\ref ZOH001R002 031
+\_no 00032
+gad@
+tyempu tukxixukk@
+jampa*.
+\tx pero ya ke
+\mb pero ya ke
+ka -d@ tyempu tukxi7-xuk-w@ jampa*
+\sg1 pero ya que DCT3-DEM tiempo pleito-3PL-COM tal_vez
+\egl but now that DCT3-DEM time fight -3PL-COM perhaps
+\zoq Pero ya ke gad@ tyempu tukxixukk@ jampa*.
+Page 7

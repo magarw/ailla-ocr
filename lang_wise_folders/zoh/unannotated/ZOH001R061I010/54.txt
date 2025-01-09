@@ -1,0 +1,62 @@
+\SPG derretirse; deshacerse
+\ENG to go rancid - oil
+\EX
+\XSP
+\XEN
+\ROOT pujuj 12
+\SEMF condition
+\CAUS yak.pujuj derretir
+\CMTS
+\lex pujum
+\_no 00234
+\XEN
+\ROOT pujum T3
+\SEMF break
+\SPG destejer; desbaratar; deshilar
+\ENG to unweave; to come apart; to unravel
+\EX
+\XSP
+\PASS pujum.7@m
+\ANTI pujum.7oy
+\CMTS
+SEMF farm, condition, life
+\CAUS yak.pukx hacer abundar
+\CMTS
+\lex pukx
+\_no 00235
+\SPG abundar; rendirse; hacerse bastante (trata de animales que esta*
+criando, como ganado)
+\ENG to be abundant; to make abundant (speaks of animals that you're
+raising, like cattle)
+\EX 7@y yakpukxam 7@y wakax
+\XSP ya se hizo bastante su ganado
+XEN he built up his herd of cattle
+\ROOT pukx 12
+\1ex pu7kx
+\_no 00236
+ZOH001R0611010.txt
+aceite
+\SPG dar cornadas; cachar
+\ENG to gore; to catch with the horns
+\EX bi pan yakpu7kxoyy@ bi wakax
+\XSP el hombre lo cacho* el toro
+\XEN the man caught the bull by the horns
+\EX pu7kxm@tz@xukpa wakax d@kka
+\XSP se esta*n agarrando de cornada los ganado
+\XEN the cattle are play-fighting with their horns
+\ROOT pu7kx T3
+\SEMF hit, animal
+\PASS NONE pu7kx.7@m *
+\ANTI pu7kx. 7oy cornear to butt with the horns
+\CMTS
+\EX punn@ kuy
+\XSP echo* goma el palo
+\XEN the tree gave gum
+\lex pun
+\_no 00237
+\SPG echar goma; estilarse; sacar leche
+\ENG to ooze gum
+\ROOT pun 12
+\SEMF nature
+\CAUS yak.pun hacer echar goma
+Page 54

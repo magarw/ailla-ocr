@@ -1,0 +1,90 @@
+\zoq "N@7tti," 7anhtzonhnhoyy@ bi tz@njon.
+\fts "No," contesto* la pava.
+\fte "No," answered the bird.
+\ref ZOH001R026 069
+\_no 00060
+\tx
+n@7tti d@x ya n
+\mb n@7tti d@x ya 7@n
+\sg1 no
+\eg1 no
+\zoq "N@7tti, d@x yan k@tomm@ ga7.
+\fts "No, yo no me acerco de e*1.
+\fte "No, I don't get near that one.
+\ref ZOH001R026 070
+\_no 00061
+7@n k@yukpoyy@ba
+\tx
+\mb 7@n k@
+-yuk-poy
+\sgl 1E
+AFUERA-ARR-juirse-SUF-INC
+\egl 1E AWAY -UP -flee
+\zoq "7@n k@yukpoyy@ba,
+\fts "Me corro de e*1,
+\fte "I run away from him,
+\ref ZOH001R026 071
+\_no 00062
+\tx pork
+\mb porke
+-tome7-7@y-A
+1Prn NEG 1E AFUERA-cerca-SUF-nINC
+DCT3-NOM1
+1Prn NEG 1E AWAY -near -SUF-nINC DCT3-NOM1
+k@tomm@
+k@
+ga7
+ka
+\ref ZOH001R026 072
+\_no 00063
+\tx kajanh
+\mb kajanh
+ZOH001R0261001.txt
+\sg1 tigre
+\egl jaguar
+-7@y-pa
+mas
+mas
+-7
+2Prn
+\sg1 porque DCT3-NOM1 mas bueno que
+\eg1 because DCT3-NOM1 more good that 2Prn
+-SUF-INC
+\zoq pork ga7 mas waja ke mix."
+fts porque aquel es mas bueno que tu.'
+\fte because he is better than you.
+"I
+\ref ZOH001R026 073
+\_no 00064
+waja
+waja ke
+ke mix
+mix
+\tx mer
+ga7
+\mb meru
+d@x bi n 7ixt@pa
+ka -7 d@x bi 7@n 7ix-t@7 -ра
+\sg1 mero DCT3-NOM1 1Prn DEF 1E
+\egl exactly DCT3-NOM1 1Prn DEF 1E
+\tx ya m t@77@m@
+\mb ya 7@m t@7 -7@m -A 7@y
+\sg1 NEG 2A
+\eg1 NEG 2A
+querer-PAS -nINC 3E
+want -PASS-NINC 3E
+ga7
+ka -7
+\zoq "Mer ga7 d@x bin 7ixt@pa," n@mm@ bi tzikin kajanh.
+\fts "Aquel es lo que quiero ver, dijo el tigrillo pinto.
+"I
+\fte "That's just the one that I want to see, said the spotted jaguar.
+n@mm@ bi tzikin
+n@m -w@ bi tzikin
+ver-querer-INC decir-COM DEF pinto
+see-want -INC say -COM DEF spotted
+7@y n@mjayy@
+nam -jay -w@
+decir-APPL-COM
+say -APPL-COM
+Page 13

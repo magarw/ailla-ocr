@@ -1,0 +1,66 @@
+\PSH
+\UND yak koke
+\MB tizne, pescado
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG mojarra negra
+\ENG a type of fish
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 10/Nov/94
+\lex y@k powi 7
+\_no 04343
+\LG MIG
+\PSH
+\UND yak powi 7
+\MB tizne, gavila*n
+\VAR
+LF: koke
+\GRAM s (m) s
+\SCI
+\USE
+\SPG gavila*n_negro
+\ENG a type of hawk
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF EZ
+\ETYM
+\ETL
+LF: jon
+\ROOT
+\DSRC TK94
+\CMTS CK-PH HAJ:96 same as the rest
+\date 20/Jun/96
+\lex y@k tzajin
+\_no 04344
+\LG MIG
+\PSH
+\UND y@k tzajin
+\MB tizne, culebra
+\VAR
+\GRAM sms
+\SEMF EZ
+\ETYM
+\SCI
+\USE
+\SPG culebra/vi*bora negra
+\ENG a type of snake
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+LF:tzajin
+Page 1865

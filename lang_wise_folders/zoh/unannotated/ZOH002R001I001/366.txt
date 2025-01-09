@@ -1,0 +1,35 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+13.1.6.4. Temporal adverbs, deictics, and clauses
+These elements have all been discussed in other places adverbs and
+deictics in chapter 4, and temporal subordinate clauses in chapter 11.
+Appendix B contains a list of words pertaining to time in MIG Zoque (parts of
+the day, etc.). This section will just provide some examples of the way they are
+used to sequence narrative events and locate events in time.
+Since MIG Zoque lacks tense, temporal adjuncts are used to specify the
+time of events. In examples (13.26 i-ii), the events are located at exact times
+with respect to the time of speaking. In (iii), the temporal adjunct specifies the
+sequence of events in the narrative, indicating the passage of time in the story
+itself. In (iv-v), the temporal clauses sequence link events in the world of the
+narrative: when(ever) the serpent comes burbling out, you run away; the farmer
+always burns the field after he clears it.
+(13.26)
+(i)
+(ii)
+yøja:m byernes dø køxtzøktampa
+yə.hama
+byernes dǝ+ kəš.E=cək-tam-pa
+DCT1.day friday 1A+ eat. NOM3-do-1/2PL-INC
+'Today, Friday, we're going to make food."
+'amintø'k dø tijtammø 'øn yoxtame fortín
+?amintǝ?k də+ tij-tam-we
+(ZOH001 RO29-065)
+?ən+ yoš-tam-E
+fortín
+last_year_1A+7 go&return-1/2PL-COM 1E+ work-1/2PL-dCOM fortín
+'Last year we went to work in Fortín.'
+(ZOH001R018-004)
+7 I don't know why this extra agreement marker is here. There are not quite enough of these
+examples in the corpus to declare it a sub-pattern of agreement, but they do appear in texts
+from many speakers. It could be that the speaker started to just say "we went" and then
+decided in mid-utterance to make it an auxiliary phrase.
+338

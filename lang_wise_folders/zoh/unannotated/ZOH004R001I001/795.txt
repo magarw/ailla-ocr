@@ -1,0 +1,63 @@
+\date 26/Jan/96
+\lex maktax-'anh tzuxu7
+\_no 01840
+\LG MIG
+\PSH [maktaxxanh tzuxu7]
+\UND maktax-7anh tzuxu7
+\MB cuatro, X, esquina
+\VAR
+\GRAM num+s
+\SCI
+\USE
+\SPG una cosa que tiene cuatro esquina
+\ENG a square, a thing with four corners
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN kwadradu
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 26/Jan/96
+\lex maktax-'anh-ji7
+\_no 01841
+\LG MIG
+\PSH [maktaxxanhji7]
+\UND maktax-'anh-ji7
+\MB cuatro, X, LOC1
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG los cuatro
+\ENG the four
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\lex maktax-'anh.'aH
+\_no 01842
+\LG MIG
+\PSH [maktaxxanhnha-]
+\UND maktax-7anh. 7aH
+\MB cuatro, VERS1
+\VAR
+\GRAM versl
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG ser cuatro
+que es cuadrado
+Page 795

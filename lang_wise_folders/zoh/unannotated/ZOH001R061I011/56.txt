@@ -1,0 +1,59 @@
+\XSP el agua lo hizo reverdecer
+\XEN the rain made it green
+\ROOT tzux 12
+\CMTS caus yak.tzux hacer reverdecer
+\CMTS analyze gloss it means to *be* green, not to *turn* green
+\lex tz@k
+\_no 00286
+\SPG hacer
+\ENG to do
+\EX
+\XSP
+\XEN
+\ROOT tz@k T3
+\CMTS antip tz@k. 7oy
+\CMTS pass ney tz@k.7@m hacerse
+\lex tz@m
+\_no 00287
+\SPG cargar
+\ENG to carry
+\EX
+\XSP
+\XEN
+\ROOT tz@m P, T3
+\CMTS antip tz@m. 7oy
+\CMTS pass tz@m.7@m ser acarreado
+\lex tz@n
+\_no 00288
+SPG estar sentado
+\ENG to sit
+\EX wintz@*na7
+\XSP sentarse con e*1!
+\XEN sit with him!
+ZOH001R0611011.txt
+\ROOT tz@n P (12)
+\CMTS caus yak.tz@n asentar; hacer sentar
+\lex tz@y
+\_no 00289
+\SPG atorarse; entrancarse; trabarse
+\ENG to get behind; to get stuck
+\EX
+\XSP
+\XEN
+\ROOT tz@y 12
+\CMTS caus yak.tz@y hacer trabar; trabar; detener
+\lex wa7k
+\_no 00290
+\SPG rebanar; partir fruta, como sandi*a o melo*n (con cuchillo)
+\ENG to slice; to halve fruit, like watermelon or canteloupe (with a knife)
+\EX
+\XSP
+\XEN
+\ROOT wa7k T3
+\CMTS antip wa7k. 7oy
+\CMTS no pass wa7k.7@m *
+\lex wa7kx
+\_no 00291
+\SPG (en) terciar bulto de mai*z, naranja
+\ENG
+Page 56

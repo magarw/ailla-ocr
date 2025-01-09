@@ -1,0 +1,61 @@
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex 7otonh
+\_no 00021
+\SPG hablar
+\ENG to speak
+\SEMF speak
+\ASP activity
+\ARG
+\NOM 7otow.e
+\RTGR 11
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex 707tz
+\_no 00022
+\SPG doblar (como fierro)
+\ENG to bend (like an iron bar)
+\SEMF arrange
+\ASP achievement
+\ARG
+\NOM *kuy7, *naanh
+\RTGR P (T3)
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex 7uk
+\_no 00023
+\SPG tomar
+\ENG to drink
+\SEMF eat
+\ASP activity
+\ARG
+\NOM 7uk.i, 7uk.kuy7, yuk. 7uk.kuy7
+\RTGR T1
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\1ex 7um
+\_no 00024
+\SPG tirar un poco de algo (cafe*, frijol) del plato
+\ENG to spill a little something (coffee, beans) from a cup or plate
+\ENG 1 She spilled her coffee.
+\SEMF throw, food
+\ASP achievement
+\ARG
+\NOM 7um.i7, * 7um.naanh
+\RTGR T2
+\POS N
+\MID
+\UNDO
+Page 6

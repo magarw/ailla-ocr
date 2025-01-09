@@ -1,0 +1,47 @@
+\XSP_Tapo* con rama el portillo donde entro* el ganado.
+\XEN He built a branch fence where the cattle entered.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jom
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 09/Jan/96
+\_no 00077
+\PSH [7anhjo7px-]
+\MB BOCA, poner_bozal
+\GRAM vt
+\SCI
+\SPG poner bozal a*
+\ENG to put a muzzle on
+\EXU
+\XSP
+\SYN jo7px
+\SYN win=jo7px
+\SYN ko.jo7px
+\SYN ni.jo7px
+\SEMF
+\ROOT jo7px
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 24/Jun/96
+\_no 00078
+\PSH [7anhjox-]
+\UND 7anh-jox
+\MB BOCA, amasar
+\VAR
+\GRAM vt
+\USE
+\ENG to re-knead the masa
+\SPL
+\SLGR
+\EXU
+\XSP
+\SYN win-jox
+\SYN ko.jox
+\SYN ni.jox
+\ETYM
+ZOH004R0011001.txt

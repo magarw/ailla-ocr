@@ -1,0 +1,53 @@
+\_no 02303
+\SPG anguila
+\ENG eel
+\lex tujta*nh
+\_no 02304
+\SPG seis
+\ENG six
+\lex tuk
+\_no 02305
+\SPG terminarse
+\ENG finish
+\lex tuk
+\_no 02306
+\SPG cortar
+\ENG cut
+\lex tuka7
+\_no 02307
+\SPG tocayo
+\ENG namesake
+\lex tuki
+\_no 02308
+\SPG tortuga
+\ENG turtle
+\lex tukj@r
+\_no 02309
+\SPG pa*jaro carpintero
+\ENG woodpecker
+\lex tuku7
+\_no 02310
+\SPG pedazo
+\ENG scrap
+\lex tukun
+\_no 02311
+\SPG arete
+\ENG
+\lex tukxi7
+\_no 02312
+\SPG pleito
+\ENG fight
+\lex tukxiya7
+\_no 02313
+\SPG pelea
+\ENG fight
+\lex tuk@
+\_no 02314
+\SPG ***
+\ENG ***
+\lex tuk@ji
+\_no 02315
+\SPG dentro de tres dias
+\ENG in three days
+ZOH001R0611013.txt
+Page 184

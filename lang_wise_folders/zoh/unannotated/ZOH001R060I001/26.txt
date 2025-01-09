@@ -1,0 +1,71 @@
+\ref 103
+\_no 00104
+\tx da n@kpa
+\mb_ d@_n@k -pa
+\sgl 1A irse-INC
+j@ytij@nanh
+j@ytij@7-j@nanh
+Juchitan-ĎIR1
+\egl 1A go -INC Juchitan-DIR1
+\fts me voy para Juchita*n
+\fte I'm going to Juchita*n
+\com
+\idx
+\ref 104
+\_no 00105
+\tx da n@kpa
+\mb da nak -pa
+\sgl 1A irse-INC
+autoridad DIR6
+\egl 1A go -INC authority DIR6
+juxtixa
+juxtixa
+\fts me voy ontal presidencia
+\fte I'm going over to the mayor's office
+\com
+\idx
+\ref 106
+\_no 00107
+7anhj@nanh
+7anhj@nanh
+\ref 105
+\_no 00106
+\tx d@ tunhnhapa
+y@da
+nip@7t
+\mb d@ tunh
+-7a -pa ya -da ni -p@7t
+\sgl 1A camino-VERS1-INC DCT1-DEM INSTR3-pasar
+\egl 1A road -VERS1-INC DCT1-DEM INSTR3-pass below
+debajo
+ZOH001R0601001.txt
+\fts voy a caminar debajo del puento
+\fte I'm going to walk under this bridge
+\com
+\idx
+\tx d@ n@kpa*m
+\mb da nak -pa -7am
+\sg1 1A irse-INC-YA
+\egl 1A go -INC-NOW sacred -house near
+maxant@k
+maxan -t@k
+7anhtome
+7anhtome7
+sagrado-casa cerca_de
+\ref 107
+\_no 00108
+\tx da nakpa*m
+parke
+\mb da nak -pa -7am parke
+\sg] 1A irse-INC-YA
+parque
+\egl 1A go -INC-NOW park
+\fts ya me voy cerca de la iglesia
+\fte now I'm going over near the church
+\com
+\idx
+\fts ya me voy al parque
+\fte now I'm going to the park
+Page 26
+k@j@*nh
+k@j@@nh

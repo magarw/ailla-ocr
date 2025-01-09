@@ -1,0 +1,34 @@
+X
+Hopkins 1968) are hin, I; ha, you; s, he/she/it/they; ko, we; he, y'all. Stems beginning in glottal
+stop lose the glottal stop and take the prefixes w-, I; h-, you; y-, he/she/it/they; k- we; hey-, y'all
+(or, as possessives, my, your, his, etc.).
+As preclitic subjects of intransitive verb stems and objects of transitives, subject/patient
+pers markers (generally known as Set B pronouns) are hin, I; hach, you; ø, he'she/it/they;
+honh, we, hex, y'all. Stems beginning in glottal stop take the same prefixes, e.g., tzin 'achanwih,
+I'm bathing < tz-hin 'achanwih. (See below for Set B suffixes on stative stems.)
+stv or stv phrases, many of which are derived from vpo, are inflected as non-verbal
+predicates, i.e., they do not take tense/aspect markers and are inflected for subject with suffixed
+(Set B) person markers. The Set B suffixes are in, I; ach, you; ø, he/she/it/they; onh, we; ex, y'all.
+Ex: kolan-in, I'm unoccupied.
+vex, the existential verb 'ay, appears to be similar to stv on the surface, but has a distinct
+underlying structure: e.g., 'ayin che'ej, 'I have grinding to do' < 'ay hin-che'ej 'there exists my
+grinding'.
+Note that statives are often difficult to gloss in English. Consequently they are often
+characterized by a list of appropriate uses rather than an attempted translation.
+vtr pas or vin (vtr pas) Passive forms of transitive verbs are of course inflected like
+intransitive verbs (for subject only, no expressed object). In a recent study, Buenrostro (2000;
+orthography regularized here) argues that ch-aj-ih (which she takes to be -chaj-ih) is the most
+common passive derivation, and that both agent and patient may be stated in following noun
+phrases: 'ix-o-say-chaj nok' chi'ich 'fue buscado el conejo'. (The rabbit was sought.) niw-an 'ixim
+wa'-il tz-o-mol-ch-aj-ih 'muchas tortillas se juntaron'. (Many tortillas were gathered.) Likewise,
+aj-ih passives have an "impersonal reading," expression of the agent is optional, and the patient
+may be focussed in a preverbal Topic position: 'ix-hin-ø-'elk'-aj-ih 'me robaron', (I was robbed.)
+ha nok' k'ultakil chej ø-'il-ji-nak 'el-tah 'el venado fue visto'. (The deer was sighted.) She also
+notes that passives in -j-ih cannot take an expressed agent: tz-o-choj-j-ih 'se muele el maíz'. (The
+corn is ground.) Finally, n-aj-ih passives may take expressed patients that are high in the
+hierarchy of animacy (e.g., people): lan y-ik'-n-aj p'at winh chi' 'lo están llevando'. (They are
+carrying him [but literally, 'That man is being carried'.]) y-uj chi', ma-j-ø-cha'-n-aj winh y-uj hep'
+winh chonhap' tík 'por eso, no fue recibido por la gente del pueblo'. (So, he was not received by
+the people of the village.) Caveat lector: Not all these forms of passive are so marked in this
+dictionary; many are marked as vin, since they inflect as intransitives.
+vtr-dir and vin-dir Transitive and intransitive verb stems may be derived and/or inflected for

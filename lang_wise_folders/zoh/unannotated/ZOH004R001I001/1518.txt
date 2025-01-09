@@ -1,0 +1,63 @@
+\PSH [wakax manhkuy7]
+\UND wakax manh.kuy7
+\MB vaca, *pisar, INSTR1
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG pata de res
+\ENG Cow's hoof
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM vaca
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex wakax naka
+\_no 03529
+\LG MIG
+\PSH
+\UND wakax naka
+\MB vaca, cuero
+\VAR wakax 7@y+ naka
+\GRAM sms
+\SCI
+\USE
+\SPG cuero de vaca
+\ENG Cow skin
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex wakax xom.kuy7
+\_no 03530
+\LG MIG
+\PHO [wakax xomkuy
+\UND wakax xom.kuy7
+\MB ganado, encerrar, INSTR1
+\VAR
+\GRAM instr1
+\SPG coral
+\ENG corral
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT XOM
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+ZOH004R0011001.txt
+Page 1518

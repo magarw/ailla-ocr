@@ -1,0 +1,80 @@
+ZOH001R0111001.txt
+\fts "Pues si es asi*, voy a traer mi arma.
+\fte "Well if it's like that, I'll go get my weapon.
+\com
+\idx sp
+\ref ZOH001R011 018
+\_no 00019
+\tx
+7entonse yey
+d@ witupa
+d@ witu7
+\mb entonces y@ -y
+-ра
+\sg1 entonces DCT1-TMP 1A regresar-INC decir-COM
+\egl then
+satornino
+satornino
+Satornino
+DCT1-TMP 1A return -INC say -COM Satornino
+\zoq 7entonse, yey d@ witupa," n@mm@ Satornino.
+\fts Entonces, ahorita regreso," dijo Satornino.
+\fte Then, I'll be right back, said Satornino.
+\com
+\idx sp
+\ref ZOH001R011 019
+\_no 00020
+\tx n@kwit
+\mb nak -wit -wa t@k
+t@kjonanh
+-jonanh
+\sgl irse-andar-COM casa -DIR3
+\egl go -walk -COM house-DIR3
+\zoq N@kwit t@kjonanh.
+\fts se fue* para su casa.
+\fte He went walking home.
+\com
+\idx
+\ref ZOH001R011 020
+\_no 00021
+\tx 7anto
+ye7tztz@
+\mb 7entonses ye7tz -w@
+\sg1 entonces 11egar-COM
+\egl then
+arrive-COM
+\zoq 7anto ye7tztz@.
+\fts Entonces llego*.
+\fte Then he arrived.
+\com
+\idx sp
+\ref ZOH001R011 021
+\_no 00022
+\tx witupa
+\mb witu7
+n@mm@
+n@m -wa
+pwes bi
+satorninu
+-ра pwes bi
+satornino
+\sg1 regresar-INC pues DEF Satornino
+\egl return -INC well DEF Satornino
+\zoq witupa pwes bi Satornino.
+\fts Regreso* pues Satornino.
+\fte well, that Satornino comes back.
+\com
+\idx sp
+\ref ZOH001R011 022
+\_no 00023
+\tx 7@y p@kminna*m
+bi chik
+\mb 7@y p@k -min -w@ -7am bi chik
+\sg1 3E agarrar-venir-COM-YA DEF chico
+\egl 3E get -come -COM-NOW DEF little bag
+Page 5
+morra*1 7i bi tujkuy
+71
+morra*l 7i bi tuj -kuy7 7i
+moral y DEF tirar-INSTR1 y
+and DEF shoot-INSTR1 and

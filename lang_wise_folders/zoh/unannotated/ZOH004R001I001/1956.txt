@@ -1,0 +1,65 @@
+\_no_04554
+\LG MIG
+\PSH [-a7]; [-@7]
+\UND A7
+\MB IMPV
+\VAR
+\USE inflectional verbal suffix: imperative
+GRAM suf
+\SPG
+\ENG
+\SPL
+\SLGR
+1
+\XPSH 1 [T@kk@dam@ jonhjo7.]
+\XSP 1 Entren adentro.
+\XEN 1 Come inside.
+\EXU 2 mix+ tze7k-A7 tum naka de plomo
+\XPSH 2 [Mix tzeka tum naka de plomo.]
+\XSP 2 Pida un cuero de plomo.
+\XEN 2 Ask for a skinful of lead.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {-A7} [2]
+\_no 04555
+\LG MIG
+\PSH [-a7]; [-@7]
+\UND A7
+\MB iOPT
+\SPG
+\ENG
+\SPL
+-
+ZOH004R0011001.txt
+\VAR
+\USE inflectional verbal suffix: incompletive optative
+\GRAM suf
+\lex {+'am}
+\_no 04556
+\LG MIG
+-
+\PSH
+\UND 7am
+\MB YA
+\SLGR
+\EXU 1 7@y+ n@m.jay-w@ yakka yoj-A7
+\XPSH 1 [7@y n@mjayy@ yakka yoja7.]
+\XSP 1 Les dijo que paguen.
+\XEN 1 She told them to pay.
+\EXU 2_7@y+n@m.jay-w@ yakk@ 7@y+_nuk-A7
+\XPSH 2 [7@y n@mjayya yakk@y nuk@7.]
+\XSP 2 Les dijo que lo agarren.
+\XEN 2 He told them to grab it.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+Page 1956

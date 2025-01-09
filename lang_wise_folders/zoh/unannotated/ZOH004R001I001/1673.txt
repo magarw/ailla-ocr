@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT xatz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\CMTS makes a rolling/rubbing motion with hands, like for rope-making
+\date 03/Jan/80
+\lex xatz.e7
+\_no 03889
+LG MIG
+\PHO [xatze7]
+\UND xatz.E7
+\MB torcer, NOM7
+\VAR
+\GRAM PCP
+\SPG batido; torcido
+\ENG beaten; twisted
+\EXU 1 nitum 7uk.i' xatz.e7
+\XPSH 1 [nitum 7uku xatze*7]
+\XSP 1 chocolate batido
+\XEN 1 beaten chocolate
+\EXU 2 jojo xatz.e7
+\XPSH 2 [jojo xatze*7]
+\XSP 2 palma torcida
+\XEN 2 twisted palm
+\SYN
+\ROOT xatz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex xatz.kuy7
+\_no 03890
+\LG MIG
+\PSH [xatzkuy7]
+\UND xatz.kuy7
+\MB fregar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG batidor
+\ENG beater
+\SPL
+\SLGR
+\EXU waj@ 7uk. E xatz.kuy7
+\XPSH [w@ja 7uki xatzkuy7]
+\XSP batidor de chocolate
+\XEN chocolate beater
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT xatz
+ZOH004R0011001.txt
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\1ex xatz-wanin'. 7a
+Page 1673

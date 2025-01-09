@@ -1,0 +1,62 @@
+\date 10/Jan/96
+\lex ja'p.e7
+\_no 00710
+\LG MIG
+\PSH [jape7]
+\UND ja7p.E7
+\MB moler, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG quebrajado
+\ENG crushed
+\EXU 1 pitz. (E)=ja'p.e7
+\XPSH 1 [pitzi_jape7]
+\XSP 1 nixtamal_quebrajado
+\XEN 1 crushed 1ye-soaked corn
+\EXU 2 ja'p.E'+7k pitz. E
+\XPSH 2 [jape7k pitzi]
+\XSP 2 nixtamal quebrajado, mai*z que se quebrajo*
+\XEN 2 crushed 1ye-soaked corn
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ja7p
+\RTGR T3
+\DSRC TK94
+\CMTS get deriv's
+\date 24/Jun/96
+\lex ja'tz.@
+\_no 00711
+\LG MIG
+\PSH [jaatz@]
+\UND_ja7tz.A
+\MB fiar, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG fiado; deuda
+\ENG loan; debt
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ja7tz
+\RTGR T1
+\DSRC TK94
+\CMTS
+\date 18/Jun/96
+ZOH004R0011001.txt
+\lex ja'tz.@=tzi'
+\_no 00712
+\LG MiIG
+\PSH [jatz@tzi-]
+\UND_ja7tz.A=tzi7
+\MB fiar, NOM2, dar
+Page 305

@@ -1,0 +1,82 @@
+n@77@y@
+\tx OSM: ya y
+\mb OSM
+ya 7@y n@7 -7@y -A
+\sg1 OSM: NEG 3E agua -VERS2-nINC
+\egl OSM: NEG 3E water-VERS2-nINC
+\zoq OSM: Yay n@77@ya.
+\fts OSM: No le eche agua.
+\fte OSM: It doesn't have water.
+\com
+\idx
+\ref ZOH001R036 409
+\_no 00403
+\tx
+puru mantekaxta*7
+\mb puru manteka-xtaa7
+\sg] puro manteka-NOMAS
+\egl cigar lard -ONLY
+\zoq Puru mantekaxta*7.
+\fts Pura manteca no mas.
+\fte Just lard, nothing more.
+\com
+\idx
+\ref ZOH001R036 410
+\_no 00404
+\tx 7axta ke
+\mb 7axta ke
+\sg1 hasta que
+\egl until that boil
+\tx 7anhnitpa*7
+\mb 7anhnit-pa -v7k
+\sg1 tener -INC-REL
+\egl have -INC-REL
+\tx
+\mb
+gay
+ka -y
+yumt@tztza*m
+bi
+-t@tz -w@ -7am bi
+hervir(se)-secarse-COM-YA DEF
+-dry -COM-NOW DEF lard
+\ref ZOH001R036 411
+\_no 00405
+yum
+\zoq 7axta ke yumt@tztza*m, bi manteka jonhjo 7@y 7anhnitpa*7.
+\fts Hasta que se seco* de hervir, la manteca lo que tiene adentro.
+\fte Until it's boiled dry, the lard that it has i̇nside.
+\com
+\idx
+\tx xuyu7
+\mb
+xuyu7
+\sgl olla
+\egl pot
+ZOH001R0361001.txt
+sigidu 7@y ka
+\sg1 DCT3-TMP seguido 3E
+\eg1 DCT3-TMP next
+3E
+sigidu 7@y k@n@knekk@ba
+\ref ZOH001R036 412
+\_no 00406
+\tx 7axta ke
+manteka jonhjo
+7@y
+manteka jonh -jo7 7@y
+manteka adentro-Loc2 3E
+inside -LOC2 3E
+y
+n@kk@ bi
+-n@k -nek -7@y-pa 7@y nak -wa bi
+AFUERA-irse-estivar-SUF-INC 3E irse-dINC DEF
+AWAY -go -stack -SUF-INC BE
+go -DINC DEF
+yakjipxpa
+\zoq Gay sigidu 7@y k@n@knekk@bay n@kka bi xuyu7.
+\fts De ahi* seguido lo va atizando la olla.
+\fte Then next he goes and stirs up the fire (under) the pot.
+\com
+\idx
+Page 88

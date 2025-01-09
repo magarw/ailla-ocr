@@ -1,0 +1,62 @@
+\lex wit@m xujun
+\_no 03762
+\LG MIG
+\PSH
+\UND wit@m xujun
+\MB ojo, amarillito
+\VAR
+\GRAM smx
+\SCI
+\USE
+\SPG ojo zarco o claro
+\ENG light-blue or pale eye
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 14/Nov/94
+\lex wit@m. '@y
+\_no 03763
+\LG MIG
+\PSH [wit@mm@y-]
+\UND wit@m.7@y
+\MB ojo, VERS2
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG echar ojo
+\ENG to greet by just raising the eyebrows
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+\lex wit='anh.may
+\_no 03764
+\LG MIG
+\PSH [wittanhmay-]
+\UND wit=7anh.may
+\MB andar, BOCA, contar
+\VAR
+\GRAM vi
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG pegar los primeros pasos
+\ENG to take one's first steps
+\SPL
+\SLGR
+Page 1616

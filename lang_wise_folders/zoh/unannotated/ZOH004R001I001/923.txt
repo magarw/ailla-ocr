@@ -1,0 +1,65 @@
+\lex nantzin
+\_no 02140
+\LG MIG
+\PSH
+\UND nantzin
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG nanche
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL Nawa
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex nanh
+\_no 02141
+LG MIG
+\PSH
+\UND nanh
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+LF: kuy
+\SPG regar, como semilla, arena, tierra
+\ENG to spread, as seed, sand, dirt
+\SPL nanh.7oy
+\SLGR ANTIP
+\SLGL regar // to spread
+\SPL nanh.7@m
+\SLGR PASS
+\SLGL regarse
+\SPL nanh.ney
+\SLGR ASSUM1
+\SLGL estar regado // to be spread
+\EXU nanh.7@m-w@ bi mok
+\XPSH [Nanhnh@mm@ bi mok.]
+\XSP Se rego* el mai*z.
+\XEN The corn seed was spread.
+\SYN
+\SEMF spread
+ZOH004R0011001.txt
+\ETL
+\ROOT nanh
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\ASP activity
+\ARG
+\NOM naw.e7, nanh.naanh, nanh.'oy.kuy7
+\SUB 7ok.nanh.'@y
+ETYM
+\date 03/Jan/80
+\DATE 03/Jan/1980
+Page 923

@@ -1,0 +1,63 @@
+\XEN 2 I lost weight and I got thin.
+\SYN
+\SEMF body
+\ASP achievement
+\ARG
+\NOM
+\SUB 7anh.j@t, ni.j@t, yuk.j@t='ok.manh
+\ETYM
+\ETL
+\ROOT jat
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex jat@
+\_no 01015
+\LG MIG
+\PSH
+\UND jat@
+\MB
+\VAR
+\GRAM vi
+\SPG resbalarse; rodarse resbalando
+\ENG to slip; to slip and roll
+\SPL yak. jata
+\SLGR CAUS
+\SLGL hacer rodar // to make slip and roll; to make slide down a slippery
+slope
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF move
+ASP achievement, activity
+\ARG
+\NOM
+\SUB
+\ROOT jata
+\RTGR 12
+\DSRC HAJ95
+\CMTS NEW ROOT cf jutu-
+\CMTS caus
+\CMTS
+\date 03/Jan/80
+\lex jat@t
+\_no 01016
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+\UND jat@t
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sobar a una persona
+\ENG to massage a person
+\SPL jat@t.7oy
+\SLGR ANTIP
+\SLGL sobar alguien // to massage someone
+\SPL j@t@t.7@m
+\SLGR PASS
+Page 445

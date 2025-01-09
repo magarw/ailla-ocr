@@ -1,0 +1,95 @@
+\fte OSM: Now you drink a cup.
+\com
+\idx
+\ref ZOH001R036 709
+\_no 00698
+\tx
+\mb
+7anhnamtzu m 7ukpa
+-ра
+7anhnamtzu7 7@m 7uk
+2E tomar-INC
+2E drink-INC
+\sg1 man~ana
+\egl morning
+\zoq 7anhnamtzum 7ukpa.
+\fts En la man~ana lo tomas.
+\fte In the morning you drink it.
+\com
+\idx
+\ref ZOH001R036 710
+\_no 00699
+\tx 7ora y
+\mb 7ora 7@y
+\sg1 ahora 3E
+\egl now 3E
+\zoq 7oray tann@7k 7@m 7ukpa.
+\fts A las doce lo tomas.
+\fte At noon you drink it.
+\com
+\idx
+tann@7k
+7@m 7ukpa
+tan
+-w@ -v7k 7@m 7uk
+completar (se) -COM-REL 2E
+finish
+-COM-REL 2E
+ZOH001R0361001.txt
+\ref ZOH001R036 711
+\_no 00700
+\tx 7i
+\mb 7i
+\sgl y
+\egl and DCT3-TMP PROG 2E hurry -do -DINC IF
+gay
+n@mm@ m
+7apurtz@kk@
+ka -y n@mm@ 7@m apurar-tz@k -w@
+DCT3-TMP PROG 2E apurar-hacer-dINC SI
+\zoq 7i gay n@mm@m 7apurtz@kk@ bi7t bi mal,
+\fts Y si te esta* apurando ese mal,
+\fte And if that illness is hurrying you,
+\com
+\idx
+\tx
+\mb
+-pa
+tomar-INC
+drink-INC
+\ref ZOH001R036 712
+\_no 00701
+\tx
+n@mm@ m 7ukpam
+n@mm@ 7@m 7uk
+n@kk@
+\mb ga
+ka -7
+-pa -7am n@k -w@
+\sg1 DCT3-NOM1 PROG 2E tomar-INC-YA irse-dINC
+\eg1 DCT3-NOM1 PROG 2E drink-INC-NOW go -dINC each half day
+\zoq ga n@mm@m 7ukpam n@kk@ kada medyo dia.
+\fts eso lo vas tomando cada medio dia.
+\fte you'll go drinking that every noon.
+\com
+\idx
+\ref ZOH001R036 713
+\_no 00702
+\sg1 man~ana
+\egl morning
+7anhnamtzu 7ora y tann@7k
+7anhnamtzu7 7ora 7@y tan
+bi7t bi
+mal
+bi7t bi mal
+DEF mal
+DEF bad
+Page 152
+kada medyo dia
+kada medyo dia
+cada medio dia
+tzujiam
+-w@ -v7k tzuji7-7am
+ahora 3E completar (se)-COM-REL noche -YA
+now 3E finish
+-COM-REL night -NOW

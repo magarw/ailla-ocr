@@ -1,0 +1,64 @@
+\SPG 2 hacer pared; enlodar casa
+\ENG 1 to smear mud
+\ENG 2 to make a wall; to mud a house
+\SPL potz.7oy
+\SLGR ANTIP
+\SLGL embarrar // to smear mud
+\SPL potz.7@m
+\SLGR PASS
+\SLGL embarrarse // to be smeared with mud
+\EXU 1 t@k=potz-w@
+\XPSH 1 [Tak potztz@.]
+\XSP 1 Embarro* la casa.
+\XEN 1 He mudded the house.
+\EXU 2 7@y+ potz.ten-w@ 7@y+_t@k
+\XPSH 2 [7@y potztenn@y tak.]
+\XSP 2 Tiene enlodado su casa. (ya esta* listo)
+\XEN 2 He's got his house mudded. (now it's ready)
+\SYN
+\SEMF build
+\ASP activity
+\ARG
+\NOM potz.e7, potz.kuy7
+\SUB
+\ETYM
+\ETL
+\ROOT potz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex potz [2]
+\_no 02743
+LG MIG
+\PSH
+\UND potz
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+SPG cansarse; aburrirse
+\ENG to get tired; to be bored
+\SPL yak.potz
+\SLGR CAUS
+\SLGL cansar // to tire
+\EXU potz-w@+ 'am
+\XPSH [Potztza*m.]
+ZOH004R0011001.txt
+\XSP Ya esta* cansado o aburrido.
+\XEN Now she has gotten tired or bored.
+\SYN
+\SEMF cognitive, body
+\ASP
+\ARG
+\NOM potz.e7, potz.kuy7
+\SUB potz-tuk. tuk.w@y, wit=potz
+\ETYM
+\ETL
+\ROOT potz
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+Page 1180

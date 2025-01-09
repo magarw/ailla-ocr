@@ -1,0 +1,65 @@
+\ENG to give grass to (an animal)
+\EXU 7@y+ xojo7k-tzi '-w@
+\XPSH [7@y xojo7ktziw@.]
+\XSP Le dio* zacate.
+\XEN He gave it some grass.
+\SYN
+SEMF
+ETYM
+\ETL
+\ROOT tzi7
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex xoki7
+\_no 03969
+\LG MIG
+\PSH
+\UND xoki7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG caracol
+\ENG snail
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex xoko
+\_no 03970
+\LG MIG
+\PSH
+\UND xoko
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG troja
+\ENG granary; corn-crib
+\EXU mok xoko
+\XSP troja de mazorca
+\XEN corn-crib
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH
+/7/:TK
+\date 26/Jun/96
+-
+ZOH004R0011001.txt
+I (HAJ) think it's got the final 7; MAR has soko; no final
+Page 1707

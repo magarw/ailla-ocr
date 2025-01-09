@@ -1,0 +1,61 @@
+\CAUS NONE
+\CMTS
+\date 03/Jan/80
+\lex ni7k
+\_no 00074
+\SPG medio secarse; dar que medio se segue orollar / "orear"
+\ENG to halfway dry
+\EX
+\XSP
+\XEN
+\ROOT ni7k Ix
+\SEMF condition
+\ASP process, state
+\CAUS yak.ni/k
+\CMTS
+\date 03/Jan/80
+\lex nitz
+\_no 00075
+\SPG ponerse a*spero
+\ENG to become bitter
+\EX
+\XSP
+\XEN
+\ROOT nitz Ix
+\SEMF condition
+\ASP transition, process, state
+\CAUS yak.nitz lo puso a*spero
+\date 03/Jan/80
+\lex nox
+\_no 00076
+\SPG ban~arse sin jabo*n
+\ENG to bathe without soap
+\EX
+\XSP
+\XEN
+\ROOT nox Il
+\SEMF care
+\ASP activity
+\CAUS yak.nox banar sin jabo*n
+\CMTS
+\date 03/Jan/80
+ZOH001R0611007.txt
+\lex nutz
+\_no 00077
+\SPG estar caliente (comida, cafe*..., por el fuego o el sol); quemarse
+\ENG to be hot; to burn oneself
+\EX d@ nutztz@
+\XSP me queme*
+\XEN I burned myself
+\EX 7@n yaknutztz@ k@xi
+\XSP calente* la comida
+\XEN I heated up the food
+\EX d@ nutztz@ k@xi_j@nanh
+\XSP me queme* con la comida
+\XEN I burned myself with the food
+\ROOT nutz 12
+\SEMF temp
+\ASP state, process
+\CAUS yak.nutz calentar; quemar
+\date 03/Jan/80
+Page 18

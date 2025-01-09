@@ -1,0 +1,60 @@
+\XSP se paso* de tiempo el camote
+\XEN the yam is overripe
+\ROOT XOY Ix
+\SEMF condition
+\CAUS NONE
+\CMTS
+\lex xuj
+\_no 00394
+\SPG soplar
+\ENG to blow
+\EX
+\XSP
+\XEN
+\ROOT xuj T3
+\SEMF body
+\PASS xuj.7@m
+\ANTI xuj.7oy
+\CMTS
+\lex xuk
+\_no 00395
+\SPG acabarse; desaparecer
+\ENG to finish up; to disappear
+\EX xukka*m
+\XSP ya se acabo*
+\XEN it's finished
+\EX xukpa*m
+\XSP ya esta* acabandose
+\ROOT xuk 12
+\SEMF aspect
+\CAUS yak.xuk acabar
+\CMTS
+\1ex xukuk
+\_no 00396
+\SPG
+\ENG
+\EX
+\XSP
+\XEN
+\ROOT xukuk Ix
+\SEMF sex
+\CMTS get gloss, prob. sexual
+\1ex xu7k
+\_no 00397
+\SPG oler; olfatear; hueler algo; besar
+\ENG to smell; to kiss
+\EX ney xu7kxuk@pa
+\XSP se esta*n besando
+\XEN they're kissing each other
+\ROOT xu7k T3
+\SEMF percep
+\ANTI xu7k.oy
+\CMTS
+ZOH001R0611010.txt
+\lex xut
+\_no 00398
+\SPG agujerar; hacer hueco
+\ENG to pierce; to make a hole
+\EX
+\XSP
+Page 88

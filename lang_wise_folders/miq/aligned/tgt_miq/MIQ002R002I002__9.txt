@@ -1,0 +1,49 @@
+bal-an
+ba wal sika
+come-3.PST DET COM AUX
+'vinieron'
+'they came'
+ais-an-ka
+theme-DEF DET AUX little long-LOC 'el tema de autonomia es muy amplio'
+'the theme of autonomy is very extensive'bara autonomia ba tawan
+bila ba
+CONN autonomy DET community inside DET
+'la autonomia dentro de las comunidades'
+'the autonomy within communities'
+speak-3.PST-DEF
+'esta dicho'
+'it is said'
+sat-ka juhmpa
+style-DEF three
+'son tres estilos'
+'three styles'
+bara sa
+there be.3.NPST
+autonomia multietnico wi
+autonomy multi-ethnic call
+'a multi-ethnic autonomy'
+sa be.3.NPST
+autonomia bara baha ba indian nani
+autonomy CONN that DET indian PL
+'la autonomía indígena que así le llaman'
+'indigenous autonomy as it is called'
+kuna dia autonomia-ka dahkra
+but
+what autonomy-DEF history
+'pero de que autonoma están hablando?'
+'but what autonomy are they talking about?'
+ais-i
+selp ai bander-ka naurka
+bri
+self 3.POSS flag-DEF DEF.DIST have
+'tienen sus propias banderas que ahí están'
+'they have their own flags there'
+kat sika
+until AUX
+autonomía-ka kum wi sa
+autonomy-DEF one call be.3.NPST
+sa
+want? sa
+want be.3.NPST
+sa
+apeak-IMPF be.3.NPST

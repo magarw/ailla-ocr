@@ -1,0 +1,63 @@
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex xix pak
+\_no 03946
+\LG MIG
+\PSH
+\UND xix pak
+\MB carne, hueso
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG hueso de carne
+ENG meat bone
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+LF: kuy
+\lex xix tumin
+\_no 03947
+\LG MIG
+\PSH
+\UND xix tumin
+\MB carne, X
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG tasajo de carne
+\ENG strips of meat
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 07/Apr/95
+\lex xix [1]
+\_no 03948
+\LG MIG
+\PSH
+ZOH004R0011001.txt
+Page 1698

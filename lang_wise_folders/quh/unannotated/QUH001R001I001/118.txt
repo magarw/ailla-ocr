@@ -1,0 +1,64 @@
+DOMINIO SEMÁNTICO
+Realis
+|
+CONTINUUM EPISTÉMICO
++cercano al hablante (deixis espacial/temporal/personal)
++accesibilidad I
++definido
++preterición
++perfectivo
++certeza
+I
+presente
+-MAN -NA(-ta/-man/-kama)
+I
++Posibilidad (acercándose)
+1
+VALOR DISCURSIVO
++ Referencial
+>intensidad en la relación de los eventos
+>cohesión
+I
+-SPA -JTI
+CONTINUUM EMPATÍA DEL HABLANTE-OYENTE
++compromiso
++control
+-NA(-paj)
+ICONICIDAD FORMAL
+una cláusula con sus argumentos
+(a menor distancia / menor explicitación)
+-JTI(qa)
+Irrealis
++distante
+-accesibilidad
+-definido
++futuridad
+pasado / futuro próximo futuro (no a la vista) / pasado (no a la vista)
++imperfectivo
++incertidumbre
++Hipoteticidad/
++Contrafactualidad
+(alejándose)
+-compromiso
+-control
+118
++ Pragmático
+<intensidad en la relación de los eventos
+<cohesión
+dos cláusulas interordinadas
+(a mayor distancia / más
+material lingüístico)
+El continuum involucra distinciones morfológicas y sintácticas por lo que las
+diferentes formas no pueden considerarse partes de un único sistema. Las distinciones modales
+se infieren (sistemáticamente) en la interacción verbal a partir del uso de las formas
+particulares analizadas. Desde esta perspectiva, los afijos mencionados por la bibliografía
+como formando parte de la conjugación “subjuntiva" en quechua (Berrios 1919; Lara 1978;
+Cole 1983; Bravo 1984), sí se relacionan con significados transmitidos a través de ese modo
+gramatical en algunas lenguas (e.g. español) en tanto introducen mundos posibles relativos a
+individuos (“anclaje intensional", según Farkas 1992) pero no constituyen un modo
+gramaticalizado en quechua.
+4.4. Nuevas líneas de indagación
+Desde un primer acercamiento a los datos, podemos concluir que, si bien la distinción
+modal entre indicativo/subjuntivo que utilizan ciertas gramáticas del quechua no es operativa
+en la categorización de las formas de la lengua, las formas identificadas como "subjuntivas"
+en ciertas gramáticas, "-na(n)paj" y las compuestas por "jti", son las formas que más

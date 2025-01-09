@@ -1,0 +1,86 @@
+\egl truth find
+\zoq Naxe, pa7tt@.
+Ye7tztz@ y@7 7otel.
+\fts De verdad, lo encontro*. Llego* en este hotel.
+\fte In fact, he found it. He arrived in this hotel.
+\com
+\idx
+\ref ZOH001R055 076
+\_no 00077
+\tx 7ay n@mjayy@
+\mb
+7@y nam -jay -wa
+\sg1 3E decir-APPL-COM DCT3-LOC1
+\egl 3E say -APPL-COM DCT3-LOC1
+\tx 7ana jaidi
+\mb
+7ana jaidi
+Heidi
+\sg1 Ana
+\egl Anna Heidi
+ZOH001R0551001.txt
+-COM arrive-COM DCT1-NOM1 hotel
+\ref ZOH001R055 078
+\_no 00079
+\tx 7@y wejjayxukk@
+\mb
+7@y wej
+\zoq 7entonses n@mxukk@ ke ja.
+\fts Entonces dijeron que si*.
+\fte so they said yes.
+\com
+\idx
+gaji
+ka -ji7
+-ji7
+\zoq 7@y n@mjayy@ gaji tejiw@*7 si teji7aw@ 7ana Jaidi.
+fts Le dijo el que estaba ahi* si esta* Ana Heidi.
+\fte He told the man who was there is Anna Heidi was there.
+\com
+\idx
+\ref ZOH001R055 077
+\_no 00078
+\tx
+7entonses n@mxukk@
+ke
+ja
+\mb 7entonses n@m -xuk-w@ ke j@7
+\sg1 entonces decir-3PL-COM que
+si*
+\egl then
+say -3PL-COM that yes
+-jay -xuk-w@
+gritar-APPL-3PL-COM
+\zoq 7@y wejjayxukk@.
+\fts Lo llamaron.
+\sg1 3E
+\egl 3E shout -APPL-3PL-COM
+\fte They called her.
+\com
+\idx
+\ref ZOH001R055 079
+\_no 00080
+\tx de gaji
+\mb
+tejiw@*7
+teji
+hay
+wanakk@
+wanak
+-w@ -v7k si teji
+-COM-REL si hay
+there_is-COM-REL if there_is-VERS1-COM
+\zoq De gaji, naxe wanakk@.
+\fts De ahi*, de verdad, abajo*.
+\fte Then, in fact, she came down.
+\com
+naxe
+de ka -ji7 naxe
+- wa
+\sg1 de DCT3-Loc1 verdad
+bajarse-COM
+\egl of DCT3-LOC1 truth go_down-COM
+si teji7aw@
+Page 18
+-7a -wa
+-VERS1-COM

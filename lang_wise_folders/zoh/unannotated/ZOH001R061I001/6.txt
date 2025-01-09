@@ -1,0 +1,106 @@
+\_no 00027
+\tx t@k tz@kpa
+\mb t@k
+\sg1 casa
+\egl house do -INC palm do
+\fts hace casa
+fte he builds
+\ref 028
+\_no 00028
+\tx
+ga
+\mb ka -7
+\com
+\idx incorp
+jojo tz@kk@*7
+jojo tz@k -wa-V7
+hacer-INC palma hacer-COM-REL1
+-COM-REL1
+tz@k -pa
+\ref 030
+\_no 00030
+\tx *
+\mb
+wakxi 7
+wakxi 7
+\sg1 DCT3-NOM1 casa hacer-INC chico
+\eg1 DCT3-NOM1 house do -INC small
+\ref 029
+\_no 00029
+\tx ga
+\mb ka -7
+\sg1 DCT3-NOM1
+\eg1 DCT3-NOM1 small
+\sgl
+\egl
+hecho de palma
+houses made of palm
+t@k
+tak
+\fts e*1 hace casas pequen~as
+\fte that one builds little houses
+\com
+\idx incorp
+tz@kpa
+tz@k -pa
+\fts e*1 hace casas pequen~as
+\fte he makes small houses
+ga
+ka -7
+ZOH001R0611001.txt
+wakxinhp@7k t@k
+wakxinh -p@7k t@k
+pequen~0-***
+\com this might not be incorporated, just sov
+\idx incorp
+\ref 032
+\_no 00032
+\tx ga
+\mb ka -7
+t@k
+t@k
+DCT3-NOM1 casa
+DCT3-NOM1 house do
+casa
+_*** house do
+tz@kpa
+tz@k -pa
+hacer-INC
+- INC
+tz@kpa
+jumpa*7
+tz@k -pa
+jum
+-pa -v7k
+hacer-INC derrumbar (se) -INC-REL1
+-INC crumble
+-INC-REL1
+\fts * e*1 hace casas que se derrumban
+\fte
+that one makes houses that fall down
+\com GSM says "we don't know that they'll fall down"
+\idx incorp
+n@kpa
+n@k -pa
+koke
+\ref 031
+\_no 00031
+\tx ga7
+n@kpa y
+nate*
+ma7@yy@
+\mb ka -7
+n@k -pa 7@y koke nat -E7
+ma7 -7@y -wa
+\sg1 DCT3-NOM1 irse-INC 3Erg pescado salar-NOM7 venta-VERS2-COM
+\eg1 DCT3-NOM1 go -INC 3Erg fish salt -NOM7 sale -VERS2-COM
+\fts ella va a vender pescado salado
+\fte that one is going to sell salt fish
+\com
+\idx incorp
+koke ma7@yy@
+ma7 -7@y -w@ nat -E7
+nate*7
+Page 6
+Yay koke
+7@y

@@ -1,0 +1,52 @@
+NESMEN
+"
+P
+MP
+PS
+SS
+G
+طع
+P
+MP
+E there is
+PS
+SS
+G
+A
+CI
+ne
+MP
+háta? ?áy wíN #23↓
+há? ta? ?áy-6 wíN
+SP
+NP
+PS
+SS
+G
+E
+NP
+Pre-Adv Main Subj
+*there be-he male to its-base one wooden large-* pine
+at the foot of a large pine tree
+he
+háta? ?ayek' wẤN
+hả? ta? ?áy--ek' wiN
+NP
+SP
+NP
+Pre-Adv
+Subj
+Main
+227
+t'a yíč xun te níwan táx #13
+t'ah y-?íč xun te? níw-an táx
+there he is
+NP
+* there be-he-around male
+Post-Adv.
+P_ t'a p'áxay xun k'en ténam čí? #13↓
+t'ah p'áx ?áy-Ø xun k'e'n ténam čí?
+NP
+Post-Adv.
+to where be-it one stone boulder there
+where there is a boulder

@@ -1,0 +1,63 @@
+\VAR
+\GRAM ssms
+\SCI
+\USE
+\SPG mejilla
+\ENG cheekbone
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 08/Jan/96
+\lex 7anh-naka xix
+\_no 00136
+\LG MIG
+\PSH [7anhnaka xix]
+\UND 7anh-naka xix
+\MB BOCA, cuero, carne
+\VAR
+\GRAM ssms
+\SCI
+\USE
+\SPG 1 cachete
+\SPG 2 la carne de la cara
+\ENG 1 cheek
+\ENG 2 the flesh of the face
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 08/Jan/96
+\lex 7anh-naka=tzi7tz
+\_no 00137
+\LG MIG
+\PSH [7anhnakatzi7tz-]
+\UND 7anh-naka=tzi7tz
+\MB BOCA, cuero, arrugarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG arrugarse la cara
+\ENG for the face to get wrinkled
+\EXU 7anh-naka=tzi7tz-w@+7am
+\XPSH [7anhnakatzi7tztza*m.]
+\XSP Ya tiene arrugas.
+\XEN Now she has wrinkles.
+\SYN
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+Page 58

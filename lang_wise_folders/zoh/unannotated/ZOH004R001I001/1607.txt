@@ -1,0 +1,63 @@
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN win='a7tz
+\SEMF
+\ETYM
+\ETL
+\ROOT 7an
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+\lex win='a7tz
+\_no 03742
+\LG MIG
+\PSH [winna7tz-]
+\UND win=7a7tz
+\MB CARA, arder
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG estar calentando por delante
+\ENG to be warming the front of something
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN win='an
+SEMF
+\ETYM
+\ETL
+\ROOT 7a7tz
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 08/Jan/96
+\lex win. 'aH
+\_no 03743
+\LG MIG
+\PSH [winna-]
+\UND win. 7aH
+\MB CARA, VERS1
+\VAR
+\GRAM versl
+\SCI
+\USE
+\SPG adelantarse
+ZOH004R0011001.txt
+\ENG to get ahead
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+Page 1607

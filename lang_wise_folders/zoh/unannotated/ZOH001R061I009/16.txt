@@ -1,0 +1,60 @@
+\XSP 11evaron los atole
+\ROOT kay T3
+\SEMF move, hand
+\PASS k@y.7@m
+\ANTI k@y.7oy llevar
+\CMTS ya no se mienta 'mano', no ma*s que 'lo llevo*'
+\CMTS the gesture is one hand, holding something like a plate
+\lex maj
+\_no 00060
+\SPG 11enar (de agua, aceite); regar (una planta)
+\ENG to fill something with water; to sprinkle
+\EX 7@y majtaxx@ majkuy7 de n@7
+\XSP 10 11eno* del agua el ca*ntaro
+\XEN he filled the pitcher with water
+\ROOT maj T3
+\SEMF affect, water
+\PASS maj.7@m llenarse; regarse
+\ANTI maj.7oy llenar; regar
+\CMTS
+\lex mak
+\_no 00061
+\SPG pescar con atarraya
+\ENG to fish with a net
+\EX koke makk@
+\XSP agarro* pescado con atarraya
+\XEN she caught fish with a net
+\ROOT mak T3
+\SEMF hunt, instr
+\PASS mak.7@m
+\ANTI mak. 7oy
+\lex matonh
+\_no 00062
+\SPG escuchar; oir
+\ENG to listen; to hear
+\EX
+\XSP
+\XEN
+\ROOT matonh T3
+\SEMF percep
+\PASS matonh.7@m escucharse
+\ANTI matonh.7oy escuchar
+\CMTS maybe ma. 7otonh ?
+\lex matz
+\_no 00063
+\SPG sobar
+\ENG to rub
+\EX 7@y 7anhnaka matztz@
+\XSP le sobo* la cara
+\XEN he rubbed his face
+ZOH001R0611009.txt
+\ROOT matz T3
+\SEMF touch, care
+\PASS NONE matz.7@m *
+\ANTI matz.7oy
+\CMTS
+\lex ma7tz
+\_no_00064
+\SPG amasar
+\ENG to knead
+Page 16

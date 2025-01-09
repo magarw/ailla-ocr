@@ -1,0 +1,66 @@
+\XEN female goat
+\SYN
+\SEMF EZ
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Nov/94
+\lex chicharra
+\_no 00569
+\LG MIG
+\PSH
+\UND chicharra
+LF:7anmal
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG chicharra
+\ENG cicada
+\EXU koom (i) chicharra
+\XSP chicharra grande
+\XEN big cicada
+\EXU pu7tz.pu7tz chicharra
+\XSP chicharra amarilla
+\XEN yellow cicada
+\EXU tzux chicharra
+\XSP chicharra verde
+\XEN green cicada
+\EXU chik pu7tz.pu7tz chicharra d@k+7a
+\XSP cicharra amarillita
+\XEN yellow cicada
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 24/Jun/96
+LF:bugs
+\lex chichoonh
+\_no 00570
+\LG MIG
+\PSH [chicho*nh]
+\UND chichoonh
+\MB
+\VAR chichoonh kuy
+\GRAM
+\XEN
+\SYN
+\SCI
+\USE
+\SPG chicho*n
+\ENG a type of tree
+\EXU chicho*nh tam
+\XSP
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+ZOH004R0011001.txt
+LF: kuy
+Page 245

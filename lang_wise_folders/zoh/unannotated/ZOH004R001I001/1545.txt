@@ -1,0 +1,63 @@
+\EXU 1 wax=tzik.i7k_t@m
+\XPSH 1 [waxtziki7k t@m]
+\XSP 1 la fruta que le han pegado un bocado
+\XEN 1 fruit that's had a bite taken out of it
+\EXU 2 t@m wax=tzik.i7
+\XPSH 2 [t@m waxtziki*7]
+\XSP 2 la fruta que le han pegado un bocado
+\XEN 2 a fruit that's had a bite taken out of it
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 wax
+\RTGR 1 T3
+\ROOT 2 tzik
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS le quito* un pedazo de algo - ca*scara, o fruta
+\CMTS CK-EX - HAJ:96 ok; PH-OK: TK
+\date 26/Jun/96
+\lex wax. 'oy.kuy7
+\_no 03594
+\LG MIG
+\PSH [waxxokuy7]
+\UND wax. 7oy.kuy7
+\MB morder, ANTIP, INSTR1
+\VAR
+\GRAM instrl
+\SCI
+\USE
+\SPG mordida; mordedura
+\ENG bite
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT wax
+\RTGR T3
+\DSRC HAJ94
+\CMTS bite of a dog or other animal
+\date 28/Jan/96
+\lex way
+\_no 03595
+\LG MIG
+\PSH
+\UND way
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG moler mai*z, para tortilla
+\ENG to grind corn, for tortillas
+\EXU 1 way-pa
+\XPSH 1 [waypa.]
+\XSP 1 Esta* moliendo
+\XEN 1 She's grinding.
+\EXU 1 way-pa+a7k yomaa7
+Page 1545

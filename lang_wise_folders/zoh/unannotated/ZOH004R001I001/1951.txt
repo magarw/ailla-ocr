@@ -1,0 +1,63 @@
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS I get [y@ji]: TK CHECK/NO /7/:TK
+\date 26/Jun/96
+\lex {y@+j@nanh}
+\_no 04543
+\LG MIG
+\PSH [y@j@nanh]
+\UND y@+j@nanh
+\MB DCT1, DIR2
+\VAR y@+ja@nh
+\GRAM av
+\SCI
+\USE
+\SPG por aca*/aqui*
+ENG towards here
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Feb/96
+\lex {y@.j@.nh ka.ja.nh} n@k
+\_no 04544
+\LG MIG
+\PSH [y@janh kaja*nh n@k-]
+\UND ya.ja. @nh ka.ja.anh n@k
+\MB DCT1, DIR2, DCT3, DIR2, irse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG culebrear
+\ENG to snake
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT n@k
+\RTGR IX
+\DSRC HAJ94
+\CMTS CK-PH
+\date 12/Feb/96
+\lex {y@.j@.@nh ka.ja.anh}
+\_no 04545
+\LG MIG
+\PSH [y@j@*nh kaja*nh]
+\UND ya.ja. @nh
+\MB DCT1, DIR2, DCT3, DIR2
+\VAR
+\GRAM av
+ZOH004R0011001.txt
+ga.ja.anh
+Page 1951

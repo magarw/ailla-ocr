@@ -1,0 +1,97 @@
+527. La pared de ladrillos es más fuerte que la de adobe.
+a lum pared ladrillo te mas satz lum yichanh lum xan
+a
+lum
+pared ladrillo te
+mas satz lum
+y-ichanh lum
+xan
+top Ctierra pared ladrillo muy más fuerte Ctierra 3A-SR Ctierra adobe
+528. Él es más alto que yo.
+a winh te mas chan ste'el winh t'a wichanh
+a
+top él
+winh te
+216
+mas chan s-te'-el
+winh t'a
+w-ichanh
+muy más alto 3A-altura-nmlz Cmasc prep 1A-SR
+a winh te mas chan ste'el winh t'ay in
+winh te
+a
+mas chan s-te'-el
+top él
+winh t'ay in
+muy más alto 3A-altura-gen Cmasc prep 1B
+529. Él es tan alto como yo.
+a winh te chan ste'el winh ichok in tik
+a
+winh te chan s-te'-el
+top él
+winh ich-ok in tik
+muy alto 3A-altura-gen Cmasc como-IRR 1B dem
+Somos de la misma estatura.
+a in yet' winh te lajan wal kote'el
+a in y-et' winh te lajan wal ko-te'-el
+top 1B 3A-SR él
+muy igual enf 1A-altura-gen
+Somos de la misma edad.
+a in yet' winh te lajan wal kab'ilal
+a in y-et' winh te lajan wal k-ab'-il-al
+top 1B 3A-SR él
+muy igual enf 1A-año-nmlz
+Somos del mismo peso.
+a in yet' winh te lajan wal kalil
+a
+in y-et' winh te lajan wal k-al-il
+top 1B 3A-SR él
+muy igual enf 1A-peso-nmlz
+530. Él vino antes que yo.
+ixwab'laja' winh t'a wichanh
+ix-ø-wab'laj-ja'
+pas-3B-antes-venir él
+winh t'a w-ichanh
+prep 1A-SR
+ixwab'laja' winh wu'uj
+ix-ø-wab'laj-ja' winh w-u'uj
+pas-3B-antes-venir él
+1A-SR
+Yo vine antes que tú.
+ixinwab'laja' t'a ichanh
+ix-in-wab'laj-ja t'a
+Ø-ichanh
+pas-1B-antes-venir prep 2A-SR
+ixinwab'laja' u'uj
+ix-in-wab'laj-ja'
+Ø-u’uj
+pas-1B-antes-venir 2A-SR
+Él vino antes que tu hijo.
+ixwab'laja' winh yuj winh unin
+ix-ø-wab'laj-ja'
+winh y-uj
+winh Ø-unin
+pas-3B-antes-venir él 3A-SR Cmasc 2A-hijo
+ixwab’laja’ winh t’a yichanh winh unin
+ix-ø-wab'laj-ja'
+pas-3B-antes-venir él
+winh t’ay-ichanh winh ø-unin
+prep 3A-SR Cmasc 2A-hijo
+b'ab'el winh yuj winh unin
+b'ab'el winh y-uj winh Ø-unin
+primero él 3A-SR Cmasc 2A-hijo
+531. Él vino después que yo.
+a winh tz ak’anto ixja’ winh wuuj
+winh tz'ak'an_to ix-Ø-ja'
+winh w-u'uj
+a
+top él después pas-3B-venir Cmasc 1A-SR
+Yo vine después que tú.
+tz'ak'an ixinja' u'uj
+tz'ak'an_to ix-in-ja'
+después
+Ø-u’uj
+pas-1B-venir 2A-SR
+Él vino después que tu hijo.
+tz'ak'anto ixja' winh yuj winh unin
+217

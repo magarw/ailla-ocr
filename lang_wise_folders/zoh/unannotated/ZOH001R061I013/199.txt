@@ -1,0 +1,54 @@
+\lex wat
+\_no 02492
+\SPG amarrar ; ganar
+\ENG bind; earn
+\lex wate7
+\_no 02493
+\LG
+MIG
+\SPG manojo
+\ENG handful
+\com new word
+\lex watzi7
+\_no 02494
+\SPG pelos
+\ENG body_hair
+\lex wa7tz
+\_no 02495
+\SPG rai*z
+\ENG root
+\lex wax
+\_no 02496
+\SPG morder
+\ENG bite
+\lex way
+\_no 02497
+\SPG moler
+\ENG grind
+\lex way7
+\_no 02498
+SPG VIV
+\ENG INH
+\lex way7
+\_no 02499
+\SPG pelo
+\ENG hair
+\lex wayabera
+\_no 02500
+\SPG guayabera
+\ENG guayabera
+\lex wayaka*nh
+\_no 02501
+\SPG guayaca*n
+\ENG
+\lex wayay7
+\_no 02502
+\SPG frio
+\ENG cold
+\lex wayka7
+\_no 02503
+\SPG tener_frio
+\ENG be_cold
+\lex waykay
+ZOH001R0611013.txt
+Page 199

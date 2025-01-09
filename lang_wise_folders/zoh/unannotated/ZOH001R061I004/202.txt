@@ -1,0 +1,62 @@
+ZOH001R0611004.txt
+\DSRC HAJ94
+\CMTS CK-PH - HAJ:96, no final j, now ok/YES /j/:TK
+\date 26/Jun/96
+\lex y@k.wij ji'tz.i.7@y-wa+@7k
+\_no 00511
+\LG MIG
+\PSH [y@kwij jitzi7@yy@*7]
+\UND yak.wij.0 ji7tz.E.7@y-w@ +P@7k
+\MB INSTR2, zambutirse, NOM6, ponerse_dobladillo, NOM7,
+VERS2, COM, REL
+\VAR
+\GRAM agt2
+\SCI
+\USE
+\SPG camisa plegada
+\ENG pleated shirt
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 wij
+\RTGR 1 IX
+\ROOT 2 ji7tz
+\RTGR 2 P (T3)
+\DSRC HAJ94
+\CMTS CK-all - HAJ:96 ok
+\date 20/Jun/96
+\lex y@k.wij. '@y
+\_no 00512
+LG MIG
+\PSH y@kwijj@yya
+\UND yak.wij.0.7@y
+\MB INSTR2, zambutirse, NOM6, VERS2
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG poner una camisa o playera
+\ENG to put on a shirt or t-shirt
+\EXU 7@y+ y@k.wij.0.'@y-w@ 7@y+ yak.wij.0
+\XPSH [7@y y@kwijj@yyay y@kwij.]
+\XSP Se puso su camisa.
+\XEN He put on his shirt.
+SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wij
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 18/Jun/96
+\lex y@k.w@tz
+\_no 00513
+\LG MIG
+\PSH [y@kw@tz]
+\UND yak.w@tz.0
+Page 202

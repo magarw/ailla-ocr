@@ -1,0 +1,63 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ko.pe7t
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 16/Oct/94
+\lex ko.pit
+\_no 00069
+\LG MIG
+\PSH [kopit-]
+\UND ko.pit
+\MB OTRO, envolver
+\VAR
+GRAM vt
+\SCI
+\USE
+\SPG envolver; enrollar
+\ENG to wrap; to roll up
+\SPL ko.pit.7oy
+\SLGR ANTIP
+\SLGL estar envolviendo // to be wrapped
+\SLGR NO PASS
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pit
+\RTGR TX, T3
+\DSRC HAJ94
+\CMTS
+\CMTS GSM is bothered by similarity w/ pit ponerle mortaja
+\date 24/Jun/96
+\lex ko.p@x
+\_no 00070
+\LG MIG
+\PSH [kop@x-]
+\UND ko.p@x
+\MB OTRO, X
+\VAR
+\GRAM vt
+\SCI
+\USE
+ZOH001R0611006.txt
+\SPG_despļumar la gallina
+\ENG to pluck a chicken
+\SPL ko.p@x.7oy
+\SLGR ANTIP
+\SLGL desplumar la gallina // to pluck a chicken
+\SPL ko.p@x.7@m
+\SLGR PASS
+\SLGL desplumarse // to be plucked
+\SYN
+\SEMF
+\ETYM
+\ETL
+Page 49

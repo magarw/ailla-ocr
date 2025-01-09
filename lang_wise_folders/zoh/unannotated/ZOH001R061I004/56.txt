@@ -1,0 +1,62 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ROOT nu7kx
+\RTGR T3
+\DSRC TK
+\CMTS
+\date
+\lex kopak-xex.i7
+\_no 00136
+\LG MIG
+\PSH [kopakxexi7]
+\UND kopak-xex. E7
+\MB cabeza, mudar_piel, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG caspa
+\ENG dandruff
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xex
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 22/Oct/94
+\lex ko=tzam.@7
+\_no 00137
+\LG MIG
+\PSH [kotzam@7]
+\UND ko7=tzam.A7
+\MB CAB, sazonarse, NOM2
+\VAR kopak kotzam@7
+\GRAM S
+\SCI
+\USE
+\SPG seso
+\ENG brain
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzam
+\RTGR 12
+\DSRC HAJ94
+\CMTS analysis?
+\date 07/Feb/96
+\lex ko.xuy.7
+\_no 00138
+\LG MIG
+ZOH001R0611004.txt
+Page 56

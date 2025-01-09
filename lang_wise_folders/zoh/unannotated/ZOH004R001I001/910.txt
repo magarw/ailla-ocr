@@ -1,0 +1,63 @@
+\GRAM vt
+\SCI
+\USE
+\SPG tener asco
+\ENG to be nauseated by something
+\SPL m@x. 7oy
+\SLGR ANTIP
+\SLGL tener asco // to be nauseated by something
+\SLGR NO PASS
+\EXU 1 7ok.m@@x.iin
+\XPSH 1 [7okm@xi*n.]
+\XSP 1 Da asco.
+\XEN 1 It's nauseating.
+\EXU 2 7@y+ m@x-w@ bi p@n bi putz.i=w@j-w@+@7
+\XPSH 2 [7@y maxx@ bi pan bi putziw@jja.]
+\XSP 2 El hombre le tuvo asco la cosa podrida.
+\XEN 2 The man was nauseated by the smelly garbage.
+\SYN
+\SEMF body
+\ASP state
+\ARG
+\NOM 7ok.m@x.kuy7
+\SUB 7ok.m@x
+\ETYM
+\ETL
+\ROOT m@x
+\RTGR T3
+\DSRC TK94
+\CMTS
+\CMTS CK-EX
+\date 03/Jan/80
+\lex m@y@
+\_no 02110
+\LG MIG
+\PSH
+\UND m@y@
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG rayo
+\ENG lightning; thunder
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+ZOH004R0011001.txt
+\lex ma'.7@y
+\_no 02111
+\LG MIG
+\PSH [m@77@y-]
+\UND m@7.7@y
+\MB esposa, VERS2
+\VAR
+Page 910

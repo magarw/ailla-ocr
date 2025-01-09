@@ -1,0 +1,49 @@
+if the agent in these cases were anything other than a third person entity, a
+different marker would necessarily be chosen. Inverse role-marking only
+occurs with transitive (or ditransitive) verbs in the Zoquean languages, never
+with passives of bivalent verbs or derived intransitives as in Olutec Mixe (Zavala,
+2000).
+(6.12)
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+(vi)
+jemji neywin dø salbatzøktammø
+hemhi neywin də+ salbar=cək-tam-wə
+todo IPrn
+'Todos nosotros nos salvó.'
+1A+ salvar-hacer-1/2PL-COM
+døx gadø pa:pøn 'øy sekretu do tziwo
+dəš ga.də
+pa=pən
+?əy+ sekretu dǝ+ ci?-wə
+1 Prn DCT3.DEM salvaje-hombre 3E+ secreto 1A+ dar-COM
+'Aquel diablo me dió su secreto.'
+(ZOH001R018-286)
+dø 'oktzamjadammø
+də+ ?ok.cam.hay-tam-we
+1 A+ BAJO.platicar.APPL-1/2PL-COM
+'Nos contó (un cuento).'
+gay mi wejxukpám
+ga.y
+mi+ weh-šuk-pa+?am
+DCT3.TMP 3>2+ gritar-3PL-INC+YA
+'Esa hora te van a llamar.'
+mi tzixukpám bweltu
+mi+ ci?=šuk-pa+?am bweltu
+3>2+ dar-3PL-INC+YA dinero
+'Ya te van a dar tu dinero.'
+(ZOH001 R018-224)
+123
+(ZOH001 R018-022)
+(ZOH001R029-120)
+(ZOH001R029-121)
+de yoxkuy mi tzipan jatong
+de.?
+yoš.kuy?
+mi+ ci?-pa ?ǝn+hatonŋ
+DCT2.NOM1 trabajar.INSTR1 3>2+ dar-INC 1E+ padre
+'Mi papá te da ese trabajo.'
+(ZOH001 R012-256)

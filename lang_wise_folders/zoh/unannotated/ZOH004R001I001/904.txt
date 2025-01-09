@@ -1,0 +1,64 @@
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex m@m
+\_no 02095
+\LG MIG
+\PHO
+\UND m@m
+\MB
+\VAR
+\GRAM vi
+\SPG empezar a madurar solo de frutas
+\ENG to begin to ripen - only of fruit
+\SLGR NO CAUS
+\EXU 1 m@m-pa+'am
+\XPSH 1 [M@mpa*m.]
+\XSP 1 una fruta que ya esta* empezando a madurar.
+\XEN 1 a fruit that is now beginning to ripen.
+\EXU 2 m@m-w@+'am bi t@m
+\XPSH 2 [M@mma*m bi t@m.]
+\XSP 2 Ya empieza a madurar la fruta.
+\XEN 2 Now the fruit is beginning to ripen.
+\EXU 3 tuk-w@ 7@n+ mangu, 7@n+ mon-w@ bi 7ay' +pi7t, m@m-pa bi mangu
+\XPSH_3_[Tukk@n_mangu, 7@n monn@ bi 7aypi7t, m@mpa bi mangu.]
+\XSP 3 Corte* mi
+mangos, los envolvio* con la hoja, se madura los mangos.
+\XEN 3 I pick my mangos, I wrap them with leaves, the mangos ripen.
+\SYN
+\ROOT m@m
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\DATE 09/Aug/02
+\lex m@n
+\_no 02096
+\LG MIG
+\PSH
+\UND m@n
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG camote
+\ENG yam
+\EXU popo' m@n
+\XSP blanco
+\EXU moradu m@n
+\XSP morado
+\EXU pu7tz.pu7tz m@n
+\XSP amarillito
+\SYN
+\SEMF EB
+ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+ZOH004R0011001.txt
+LF:poj
+\CMTS
+\date 26/Jan/96
+\lex m@n xoy.a7
+Page 904

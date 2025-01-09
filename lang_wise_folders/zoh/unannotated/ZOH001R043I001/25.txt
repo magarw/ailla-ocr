@@ -1,0 +1,82 @@
+\ref ZOH001R043 105
+\_no 00106
+\tx yakk@ w@jtz@kk@
+\mb yakk@ waja -tzak -w@
+\sg1 VOL
+bueno-hacer-COPT
+\eg1 VOL good - do -COPT
+\zoq Yakk@ w@jtz@kka.
+\fts Que lo arregle.
+\fte That he should clean it up.
+\com
+\idx
+\ref ZOH001R043 106
+\_no 00107
+\tx si kyera
+\mb
+si kyera
+ke
+ke
+\ref ZOH001R043 107
+\_no 00108
+\sgl si quiera
+que
+bueno
+\egl if one likes that good CAUS-get
+waja yakp@ktzonhnho
+waja yak -p@k
+\zoq si kyera ke waja yakp@ktzonhnho.
+\fts Si quiera que reciba bien.
+\fte If he wants to be well received.
+\com
+\idx
+\ref ZOH001R043 108
+\_no 00109
+\tx
+ZOH001R0431001.txt
+\tx 7i
+de 7
+bi
+7ideya para y w@jtz@kpa
+\mb 7i te -7 bi 7ideya para 7@y waja -tzak -pa
+\sgly
+DCT2-NOM1 DEF idea
+para 3E
+bueno-hacer-INC
+\eg1 and DCT2-NOM1 DEF idea for 3E
+good - do -INC
+\zoq 7i de7 bi 7ideya paray w@jtz@kpa.
+\fts Y ese es la idea para que lo arregle.
+\fte And that is the idea of how he should arrange it.
+\com
+\idx
+para y
+mejortz@kpa
+\mb__para_7@y mejor-tz@k -pa
+\sg1 para 3E mejor-hacer-INC
+\egl for 3E best - do
+-tzonh-7oy -A7
+CAUS-agarrar-unir -ANTIP-OPT
+-join -ANTIP-iOPT
+- INC
+\zoq Paray mejortz@kpa.
+\fts Para que lo mejore.
+\fte so that he does better.
+\com
+\idx
+pitzenhjo7 te -y
+\ref ZOH001R043 109
+\_no 00110
+\tx pitzenhjo dey
+\mb
+\sg1 por_eso
+DCT2-TMP DCT2-SIM hay
+\egl because DCT2-TMP DCT2-SIM there_is-1/2PL-COM
+de7xe
+tejidamm@
+te -7xe teji -tam -w@
+-1/2PL-COM
+\zoq Pitzenhjo7 dey de7xe tejidamm@.
+\fts Por eso ahora asi* estamos.
+\fte That's why now we're like this.
+Page 25

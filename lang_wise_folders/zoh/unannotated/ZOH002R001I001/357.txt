@@ -1,0 +1,29 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+13.1.6. Temporal modifiers
+Modifiers that serve to focus the aspectual viewpoint or temporal
+reference of a clause are found at every level of the grammar: verbal affixes,
+clitics, verb roots in compound constructions, words such as deictics and
+temporal adverbs, and temporal subordinate clauses.
+13.1.6.1. Adverbial suffixes
+There are five verbal affixes that affect aspect: the prefix yuk- 'to begin
+V-ing'; the suffix -ke?t, 'to V once again'; the complex suffix -(pak)pə, 'to V
+rapidly; all at once'; and the iterative suffixes -way and -ney, 'to V repeatedly;
+with force'.
+yuk- is a verbal prefix that can indicate an upward direction with verb
+roots that involve motion, holding, or carrying, as illustrated in examples
+(13.16 i-ii). It can also appear with any kind of verb root to mean 'to begin V-
+ing' (iii). This prefix is also discussed in section 7.1.1.10.
+(13.16)
+(i)
+(ii)
+'angnamtzu yuktenpa
+?aŋnamcu? 0 yuk.ten-pa
+morning 3A UP.stand-INC
+'He gets up early in the morning.'
+(ZOH001R053-002)
+'øy yukpøkkø tum jøkang tumø tum jøkang
+?əy+ yuk.pək-wə tum həkaŋ tumə? tum həkaŋ
+3E+ UP.get-COM one side one one side
+'One lifted up one side and the other the other side.'"
+329
+(ZOH001R025-093)

@@ -1,0 +1,63 @@
+\GRAM vt
+\SCI
+\USE
+\SPG parecerse a alguien
+\ENG to look like someone
+\EXU 1 7@y+ kop@k-w@ 7@y+ 7atzi7
+\XPSH 1 [7@y kop@kk@y 7atzi7.]
+\XSP 1 Se parece mucho a su ti*o.
+\XEN 1 He looks a lot like his uncle.
+\EXU 2 jakke 7@y ko.p@k-wa ga7
+\XPSH_2 [Jakkey kop@kk@ ga7.]
+\XSP 2 Se parece mucho a e*1.
+\XEN 2 He looks a lot like him.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT p@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-GR of EX2 now it's ok, HAJ:96
+\date 18/Jun/96
+\lex ko.p@n
+\_no 01437
+\LG MIG
+\PSH [kop@n]
+\UND ko.p@n
+\MB OTRO, hombre
+\VAR mok 7@y+ ko.p@n
+\GRAM S
+\SCI
+\USE
+\SPG broca de mai*z; gorgojo
+\ENG corn weevil
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS in many languages infesters or denizens are called `people'
+\date 29/Jan/96
+\lex ko.p@t
+\_no 01438
+ZOH004R0011001.txt
+\LG MIG
+\PSH [kop@t-]
+\UND ko.p@t
+\MB OTRO, X
+\VAR
+GRAM vt
+\SCI
+\USE
+\SPG desplumar gallina
+\ENG to pluck a chicken
+\EXU 7@y+ yak. kuj@yy@ bi piyu' nutz-pa n@'+jo' 7@y+ ko.p@t-wa
+\XPSH [7@y_y@kkujj@yy@ bi piyu nutzpa_n@joy kop@tt@.]
+\XSP Metio* en el agua caliente la gallina y la desplumo*.
+\XEN She put the chicken in the hot water and plucked it.
+Page 625

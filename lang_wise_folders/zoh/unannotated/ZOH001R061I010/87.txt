@@ -1,0 +1,63 @@
+\XEN
+\ROOT xix I2
+\SEMF condition
+\CAUS yak.xix hacer encoger
+\CMTS
+\lex xom
+\_no 00389
+\SPG encerrar
+\ENG to close in; to jail
+\EX
+\XSP
+\XEN
+\ROOT xom P, (T3)
+\SEMF affect, position
+\PASS NONE
+\ANTI xom. 7oy
+\CMTS
+\lex xopx
+\_no 00390
+\SPG sacudir la verga
+\ENG to shake the dick
+\EX
+\XSP
+\XEN
+\ROOT xopx Tx
+\SEMF sex
+\CMTS get deriv's (aluso sexual)
+\1ex xo7px
+\_no 00391
+\SPG tomar a boca de plato hondo
+\ENG to drink from a bowl
+\EX
+\XSP
+\XEN
+\ROOT xo7px T3
+\SEMF eat
+\PASS xo7px.7@m tomar
+\ANTI xo7px.7oy tomar
+\PRSV xo7px-ten-e lo tiene el plato en su boca, para tomar
+\CMTS
+\lex xox
+\_no 00392
+\SPG cocer
+\ENG to cook
+\EX xoxx@mm@
+\XSP se cocio*
+\XEN it was cooked
+\ROOT XOX T3
+\SEMF cook
+\PASS xox.7@m cocerse solo; cocer
+\ANTI XOX.7oy
+\PRSV xox=ten lo tiene cocido
+\CMTS
+ZOH001R0611010.txt
+\lex xoy
+\_no 00393
+\SPG pasar de tiempo
+camote
+\ENG to be overripe - yam, yucca; to harm if eaten
+\EX m@n xoyy@
+Page 87
+-
+yuca; hace dan~o para comer

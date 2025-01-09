@@ -1,0 +1,63 @@
+\ENG to go and return
+\SPL
+\SLGR
+\EXU d@x 7@n+ p@k=tij-xuk-w@_ +¹am
+\XPSH [D@x 7@n p@ktijxukka*m]
+\XSP Yo ya los lleve*.
+\XEN NOW I have brought them there and back again.
+\SYN
+\SEMF
+\ROOT tij
+\RTGR IX
+\DSRC HAJ98
+\CMTS
+\date
+\lex {ti}
+\_no 04504
+\LG MIG
+\PSH
+\UND ti
+\MB QUE
+\VAR
+\GRAM int
+\SPG que
+\ENG what
+\SPL
+\SLGR
+\EXU 1 ti tij-w@ 7@y+ yak.p@k-E bi juxtixa bi p@n: tam'-n@7 70
+paja7k=n@7
+\XPSH 1 [Ti tijj@y yakp@ki bi juxtixa bi p@n: tamn@7 70
+paja7kn@7?]
+XSP 1 ?Que mando* traer el presidente al hombre: cerveza o
+refrescos?
+\XEN 1 what did the mayor tell the man to bring: beer or soft drinks?
+\EXU 2 ti no7tz.7@m-w@
+\XPSH 2 [Ti no7tztz@mm@?]
+\XSP 2 ?Que se rompio*?
+XEN 2 what broke?
+ZOH004R0011001.txt
+\EXU 3 ti tzatz-w@ patanux 7ay7
+\XPSH 3 [Ti tzatztz@ patanux 7ay7?]
+\XSP 3 ?Que rompio* la hoja de pla*tano?
+\XEN 3 what tore the banana leaves?
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {=tuku7}
+\_no 04505
+\LG MIG
+\PSH
+\UND
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE noun postpound
+\SPG tela, trapo
+\ENG cloth, rag
+\SPL
+Page 1934

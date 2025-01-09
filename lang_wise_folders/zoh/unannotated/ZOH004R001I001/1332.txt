@@ -1,0 +1,63 @@
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Nov/94
+\lex tum nig@ji
+\_no 03095
+LF:7okox
+\LG MIG
+\PSH
+\UND tum nig@ji
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG de una vez
+\ENG all at once
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS CK-PH -HAJ:96 ok/OK: TK
+\date 26/Jun/96
+\lex tum t@nh.kuy' xutu7 dond +ju pitz@m-pa 7om.a7
+\_no 03096
+\LG MIG
+\PSH [tum t@nhkuy xutu7 dondju pitz@mpa 7oma7]
+\UND tum t@nh.kuy' xutu7 dond +ju pitz@m-pa 7om.A7
+\MB uno, cortar_con_fierro, INSTR1, hoyo, donde, donde, salir, INC,
+echar_humo, NOM2
+\XEN
+\SYN
+\VAR
+\GRAM pms
+\SCI
+\USE
+\SPG la chiminea ("un hoyo de fierro donde sale el humo")
+\ENG chimney ("a metal hole where the smoke goes out")
+\SPL
+\SLGR
+\EXU
+\XSP
+\SEMF
+\ETYM
+\ETL
+\ROOT t@nh
+\RTGR T3
+\DSRC HAJ95
+ZOH004R0011001.txt
+\CMTS
+\date 28/Jan/96
+\lex tum-n@m.jay
+\_no 03097
+\LG MIG
+Page 1332

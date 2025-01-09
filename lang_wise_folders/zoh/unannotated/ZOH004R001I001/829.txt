@@ -1,0 +1,62 @@
+\XSP 3 Se lo vendio*.
+\ENG 3 She sold it to him.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS CK-EX HAJ:96, ex is correct; so it is (TK)
+\date 25/Jun/96
+\lex ma'=tz@k
+\_no 01922
+\LG MIG
+\PSH [matz@k-]
+\UND ma7=tz@k
+\MB venta, HACER
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG vender
+ENG to sell
+\EXU ma7=tz@k-w@
+\XPSH [Matz@kk@.]
+\XSP Vendio*.
+\XEN She sold.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 19/Jun/96
+\lex ma'=tz@k-pa+a7k
+\_no 01923
+\LG MIG
+\PSH [matz@kpa*7k]
+\UND ma7=tz@k-pa +P@7k
+\MB venta, HACER, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG comerciante; vendedor
+\ENG merchant; vender
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+ZOH004R0011001.txt
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex mea
+Page 829

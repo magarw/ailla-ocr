@@ -1,0 +1,63 @@
+\XSP Le ensen~o el camino.
+\XEN He showed her the way.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7ix
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tunh=ya.'anh=kam-pa+a7k jon
+\_no 03117
+\LG MIG
+\PSH [tunhyanhkampa*7 jon]
+\UND tunh-yak. 7anh-kam-pa +P@7k jon
+\MB camino, CAUS, BOCA, trabarse, INC, REL, pa*jaro
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG pa*jaro: tapacamino
+ENG a type of bird
+\EXU
+\XSP
+\XEN
+\SYN tunh=7anh.tz@n-pa+7k jon
+\SEMF
+\ETYM
+\ETL
+\ROOT kam
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 09/Feb/96
+\1ex_tunh='anh.tz@n-pa+a7k jon
+\_no 03118
+\LG MIG
+\PSH [tunhnhanhtz@npa* 7k jon]
+\UND tunh=7anh.tz@n-pa +P@7k jon
+\MB camino, BOCA, sentarse, INC, REL, pa*jaro
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG pa*jaro tapacamino
+\ENG a type of bird
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+ZOH004R0011001.txt
+LF: jon
+\DSRC TK94
+\CMTS
+\date 09/Feb/96
+\lex tunh.'aH
+\_no 03119
+Page 1341

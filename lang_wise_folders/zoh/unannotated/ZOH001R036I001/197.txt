@@ -1,0 +1,76 @@
+\tx ya y ta
+\mb ya 7@y t@7 -A
+\sg1 NEG 3E querer-nINC nin~o/a SI
+\eg1 NEG 3E want -nINC child IF
+\zoq yay t@ 7une bi7t,
+\fts si ya no quiere criatura,
+\fte if she doesn't want a baby,
+\com
+\idx
+\ref ZOH001R036 928
+\_no 00911
+\tx GSM: 7@y yakwanakpa
+\mb GSM
+\sg1 GSM: 3E
+\eg1 GSM: 3E
+7une
+bi7t
+7une7 bi7t
+\ref ZOH001R036 927
+\_no 00910
+\tx 7@y yakwanakt@pa
+\mb 7@y yak -wanak
+\sg1 3E
+-t@7
+CAUS-bajarse-querer-INC
+\egl 3E CAUS-go_down-want -INC IF
+SI
+\zoq 7@y_yakwanakt@pa bi7t.
+\fts si lo quiere albortar.
+\fte if she wants to abort.
+\com
+\idx
+-pa
+\zoq GSM: 7@y yakwanakpa 7une.
+\fts GSM: Alborta criatura.
+ZOH001R0361001.txt
+7une
+7@y yak-wanak -ра 7une7
+CAUS-bajarse-INC nin~o/a
+CAUS-go_down-INC child
+\fte GSM: She aborts the baby.
+\com
+\idx
+\ref ZOH001R036 929
+\_no 00912
+\tx OSM: pe tum xepe n@kpa
+\mb OSM pero tum xepe7 n@k -pa
+\sg1 OSM: pero uno mes irse-INC
+\egl OSM: but one month go -INC
+\ref ZOH001R036 930
+\_no 00913
+\tx bi 7une
+ya y
+\mb bi 7une7 ya 7@y
+\sg1 DEF nin~o/a NEG 3E
+\egl DEF child NEG 3E
+\zoq OSM: Pe tum xepe n@kpa.
+\fts OSM: Pero que tenga un mes.
+\fte OSM: But a month goes by.
+\com
+\idx
+bi7t
+bi7t
+7@y toya
+7ixxa*m
+bi7t
+7ix-w@
+-7am 7@y toy -A7 bi7t
+ver-nCOM-YA 3E doler-NOM2 SI
+see-nCOM-NOW 3E hurt -NOM2 IF
+\zoq Bi 7une yay 7ixxa*m 7@y toya bi7t.
+\fts Si la mujer ya no vi su regla.
+\fte If the child didn't see her illness (period).
+\com
+\idx
+Page 197

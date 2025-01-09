@@ -1,0 +1,60 @@
+\CMTS
+\lex punh
+\_no 00238
+\SPG regar
+\ENG to spread
+\EX 7@y punhnh@ pun@7
+\XSP rego* la goma
+\XEN she spread the gum
+\ROOT punh T3
+\SEMF move
+\PASS punh.7@m regarse
+\ANTI punh.7oy
+\CMTS
+\lex pup
+\_no 00239
+\SPG sacudir; remenear; "remen~ar"
+ENG to shake
+\EX
+\XSP
+\XEN
+\ROOT pup P, T3
+SEMF move
+\PASS NONE pup.7oy *
+\ANTI pup.7oy
+\CMTS
+\lex putz
+\_no 00240
+\SPG pudrirse
+\ENG to rot
+\EX putzamp@7
+\XSP podrido
+\XEN rotten
+\ROOT putz I2
+\SEMF condition
+\CAUS yak.putz dejar podrirse
+\CMTS
+\lex pu7tz
+\_no 00241
+\SPG ponerse amarillo
+\ENG to turn yellow
+ZOH001R0611010.txt
+\EX pu7tzpa 7@y nakk@
+\XSP va amarilla*ndose (para entrar a maduro naranja, mango)
+\XEN it's turning yellow (because it's getting ripe - orange, mango)
+\ROOT pu7tz Ix
+\SEMF condition
+\CMTS
+\lex pux
+\_no 00242
+\SPG deshacer algo de barro no bien "cocido"; desboronar
+\ENG for something of clay to crumble because it's not well "cooked"
+\EX puxxoyy@*7
+\XSP el que lo desborono*
+\XEN the one who made it crumble
+\ROOT pux T3
+\SEMF break
+\PASS pux.7@m desboronarse
+\ANTI pux. 7oy desboronar
+\CMTS puxx@ is when bits of an adobe building crumble off the edges
+Page 55

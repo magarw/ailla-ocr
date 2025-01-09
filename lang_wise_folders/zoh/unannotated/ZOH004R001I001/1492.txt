@@ -1,0 +1,62 @@
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 20/Jun/95
+\1ex_tzux-witu'
+\_no 03468
+\LG MIG
+\PSH [tzuxwitu-]
+\UND tzux-witu7
+\MB verde, regresar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG enverdecerse
+\ENG to turn green
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tzux
+\RTGR 1 12
+\ROOT 2 witu7
+\RTGR 2 11
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex tzu'-ji-7
+\_no 03469
+\LG MIG
+\PSH [tzuji7]
+\UND tzu7-ji-7
+\MB noche, LOC1, NOM1
+\VAR
+\GRAM s+loc
+\SCI
+\USE
+\SPG de noche
+\ENG at night
+\EXU tzu'-ji'+'am
+\XPSH [Tzujiam.]
+\XSP Ya es noche; ya es tarde.
+\XEN Now it's nighttime; now it's late.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+\lex tzu'-ji-' paja7k=w@j-pa+a7k
+\_no 03470
+ZOH004R0011001.txt
+\LG MIG
+\PSH [tzuji paja7kw@jpa*7k]
+Page 1492

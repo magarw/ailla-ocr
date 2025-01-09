@@ -1,0 +1,51 @@
+nəm- is the root that's used for reporting speech, and it is ubiquitous in
+the corpus. The preferred syntax is: nəm- Speaker Speech. If it is introducing
+dialog (iii-iv), no connective or special marker is used. The Spanish
+complementizer ke (que, 'that') is used to present indirect quotes (v-vi).
+(11.23)
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+(vi)
+jøxjóng 'otongngø
+həšhoon 0 ?otoŋ-wǝ
+de_atrás 3A hablar-COM
+'Habló por atrás.'
+'øn tzampa tum tzame
+?ən+ cam-pa
+tum cam.E
+1E+ platicar-INC uno platicar.NOM3
+'Voy a platicar un cuento.'
+nømmø benigno 'iwø mix me'cha tumø
+nəm-wə
+'øy nømjaxukkø minnø mixxøn tzidame 'awsilyo
+?əy+ nəm.hay-šuk-wǝ
+min-wə miš ?ǝn+ ci?-tam-E
+?awsilyo
+3E+ decir.APPL-3PL-COM venir-COM 1>2 1E+ dar-1/2PL-dCOM auxilio
+'Les dijeron, "Venimos a darte auxilio."
+(ZOH001R024-030)
+benigno ?iwǝ miš me?c.hay-A?
+decir-COM benigno quien 2>1 buscar.APPL-IMPV
+'Dijo Benigno, "Quien? Busquenme uno."
+(lexicon)
+(lexicon)
+nømxukpa ke numpay wichukkø
+0 nəm-šuk-pa
+ke num-pa ?ǝy+ wit-šuk-wə
+3A decir-3PL-INC que robar-INC 3E+ andar-3PL-COM
+'Dicen que andan robando.'
+303
+tumə
+uno
+(ZOH001R010-007)
+(ZOH001R024-012)
+?əm+ nəm-wə
+'um nømmø mix ke yakki ya mi nømjayyø
+?u
+miš ke yakki ya mi nəm.hay-wə
+NEGimpv 2A+ decir-COM 2Prn que nadie NEG 3>2 decir.APPL-nCOM
+'No digas tu que nadie no te dijo.'
+(ZOH001 R018-040)

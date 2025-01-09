@@ -1,0 +1,61 @@
+\ENG to put the finger in something
+\EX 7@y ki7tt@ bi k@xi
+\XSP metio* el dedo en la comida
+\XEN she put her finger in the food
+\ROOT ki7t T3
+\SEMF touch, hand
+\PASS NONE ki7t.7@m *
+\ANTI ki7t.7oy
+\PRSV ki7t.ten 'tener puesto el dedo' (chistoso, un poco)
+\lex kitz
+\_no 00047
+\SPG enrollar; remangar pantalo*n, camisa
+ENG to roll up - sleeves or cuffs
+\EX
+\XSP
+\XEN
+\ROOT kitz T3
+\SEMF roll, affect
+\PASS kitz.7@m enrollarse
+VANTI kitz.7oy enrollar; remangar
+\PRSV kitz=ten lo tiene enrollado (las mangas)
+\lex koj
+\_no 00048
+\SPG encajar
+\ENG to punch a hole in something
+\EX
+\XSP
+\XEN
+\ROOT koj T3
+\SEMF cut, break
+\CAUS yak.koj. 7oy encajarlo
+\PASS koj.7@m encajarse
+\ANTI koj.7oy encajar
+\CMTS
+ZOH001R0611009.txt
+\lex kom
+\_no 00049
+\SPG remendar, como casa, ropa
+\ENG to mend, like a house or clothes
+\EX t@k komma
+\XSP remendo* la casa
+\XEN she fixed the house
+\EX yote komm@
+\XSP remendo* ropa
+\XEN she mended clothes
+\ROOT kom T3
+\SEMF create, break
+\PASS kom.7@m estar remendado
+\ANTI kom. 7oy remendar
+\PRSV kom=ten lo tiene remendado
+\lex kop
+\_no 00050
+\SPG cachar con las manos
+\ENG to catch with the hands
+\EX
+\XSP
+\XEN
+\ROOT kop T3
+\SEMF pick_up, hand
+\PASS kop.7@m
+Page 13

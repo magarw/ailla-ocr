@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [kujyukkonh-]
+\UND kuj=yak.yuk.konh
+\MB empujar, CAUS, ARR, gatear
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG despertar al moverlo
+\ENG to shake awake
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kuj
+\RTGR T3
+\ROOT konh
+\RTGR P (11)
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex kuk
+\_no 01513
+\LG MIG
+\PSH
+\UND kuk
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG centro
+\ENG center
+\EXU 7@n+ 7awin7 7@y+ t@k teji.7a-w@ 7iti7 kuk
+\XPSH [7@n 7awin 7@y t@k teji7aw@ 7iti kuk.]
+\XSP La casa de mi hermano esta* en el centro del pueblo.
+\XEN My brother's house is in the center of town.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\DATE 03/Jan/1980
+\lex kuk 7awin
+\_no 01514
+\LG MIG
+\PSH
+\UND kuk 7awin
+\MB centro, hermano/a
+\VAR
+\GRAM s (m) s
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG sobrino/a
+ENG niece or nephew
+Page 657

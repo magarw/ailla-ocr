@@ -1,0 +1,63 @@
+\UND xaj pak
+\MB sobaco, hueso
+\VAR xaj-pak
+\GRAM s (m) s
+\SCI
+\USE
+\SPG hueso del brazo
+\ENG shoulder joint
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS CK-PH [xa*jpak] citation form stress is nearly equal; CK-PH again
+\date 26/Jun/96
+\lex xaj tzanh.kuy7
+\_no 03867
+\LG MIG
+\PSH [xaj tzanhkuy7]
+\UND xaj tzanh.kuy7
+\MB sobaco, pegar_con_mano, INSTR1
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG brazo
+\ENG arm
+\EXU 7@n+ xaj tzanh.kuy7
+\XPSH [7@n xaj tzanhkuy7]
+\XSP mi brazo
+\XEN my arm
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzanh
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-GR; DONE/TK
+\date 26/Jun/96
+\lex xaja
+\_no 03868
+\LG MIG
+\PSH
+\UND xaja
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG corriente del agua
+ZOH004R0011001.txt
+\ENG current of water
+\EXU n@'=xaja
+\XPSH [n@xaja]
+\XSP corriente del ri*o
+\XEN river current
+\SYN
+Page 1663

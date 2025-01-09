@@ -1,0 +1,76 @@
+\com
+\idx
+\ref 108
+\_no 00109
+\tx da p@7tpa
+t@k
+7@y 7anhtunh
+\mb d@ p@7t -pa t@k 7@y 7anh -tunh
+\sgl 1A pasar-INC casa 3E BOCA -camino
+\egl 1A pass -INC house 3E MOUTH-road
+\ref 109
+\_no 00110
+\fts paso por adelante de la puerta de la casa
+\fte I'm passing in front of the door of the house
+\com
+\idx
+\tx d@ n@kpa
+\mb
+7axta gaja
+7axta ka -ja7
+da nak -pa
+tzapj@7
+tzap -j@7
+encima-Loc1
+\sg1 1A irse-INC hasta DCT3-LOC1
+\egl 1A go -INC until DCT3-LOC1 on_top-LOC1
+\fts me voy hasta alla* arriba
+\fte I'm going over to up there
+\com
+\idx
+ZOH001R0601001.txt
+7axta gaja
+7axta ka -ja7
+-ja7
+\ref 110
+\_no 00111
+\tx da nakpa
+\mb da nak -pa
+\sg] 1A irse-INC
+hasta DCT3-LOC1 ABAJO-DIR3
+\egl 1A go -INC until DCT3-LOC1 DOWN -DIR3
+\fts me voy hasta alla* abajo
+\fte I'm going over to down there
+\com
+\idx
+winjo7
+win -jo7
+CARA-LOC2
+FACE-LOC2
+\ref 111
+\_no 00112
+\tx da n@kpa
+\mb da nak -pa
+7axta gaja
+-ja7
+7axta ka
+\sg1 1A irse-INC hasta DCT3-LOC1 abajo
+\egl 1A go -INC until DCT3-LOC1 below
+\fts me voy hasta alla* abajo
+\fte I'm going over to down there
+\com
+\idx
+\ref 112
+\_no 00113
+\tx da n@kpa
+\mb da nak -pa
+\sg1 1A irse-INC
+gajananh
+ka -jananh
+DCT3-DIR1
+\egl 1A go -INC DCT3-DIR1
+7okjonanh
+7ok -jonanh
+kaja
+kaja7
+Page 27

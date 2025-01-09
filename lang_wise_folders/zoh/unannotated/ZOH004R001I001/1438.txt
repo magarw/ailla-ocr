@@ -1,0 +1,63 @@
+\GRAM vt
+\SCI
+\USE
+\SPG atarantar de pedradas
+\ENG to knock someone or something out with a rock
+\EXU 7@y tzij-jonh-w@ pa 7@y+ nuk-wa
+\XPSH [7@y tzijjonhnh@ pay nukk@.]
+\XSP Ataranto* de pedrada para que lo agarro*.
+\XEN He knocked it out with a rock so he could grab it.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tzij
+\RTGR 1 T3
+\ROOT 2 jonh
+\RTGR 2 12
+\DSRC HAJ95
+\CMTS
+\date 10/Feb/96
+\lex tzij-ka'
+\_no 03345
+\LG MIG
+\PSH [tzijka-]
+\UND tzij-ka7
+\MB pegar_con_piedra, morirse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG matar a pedrazos
+\ENG to stone to death
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tzij
+\RTGR 1 T3
+\ROOT 2 ka7
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tzij.tzij.ney
+\_no 03346
+ZOH004R0011001.txt
+LG MIG
+\PSH [tzijtzijney-]
+\UND tzij.tzij.ney
+\MB pegar_con_piedra, pegar_con_piedra, REDUP1
+\VAR
+\GRAM VİR
+\SCI
+\USE
+\SPG es como si tuviera pegando algo por golpe
+\ENG the sound of pounding something
+\EXU
+\XSP
+\XEN
+Page 1438

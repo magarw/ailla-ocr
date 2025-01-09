@@ -1,0 +1,60 @@
+\_no 00341
+\SPG encerrar
+\ENG to close in; to jail
+\EX
+\XSP
+\XEN
+\ROOT xom P, (T3)
+\CMTS antip xom. 7oy
+\CMTS no pass xom.7@m *
+\1ex xopx
+\_no 00342
+\SPG sacudir la verga
+\ENG to shake the dick
+\EX
+\XSP
+\XEN
+\ROOT xopx Tx
+\CMTS get deriv's (aluso sexual)
+\lex xo7px
+\_no 00343
+\SPG tomar a boca de plato hondo
+ENG to drink from a bowl
+\EX
+\XSP
+\XEN
+\ROOT xo7px T3
+\CMTS antip xo7px. 7oy tomar
+\CMTS pass xo7px.7@m tomar
+\CMTS prsv xo7px-ten-e lo tiene el plato en su boca, para tomar
+\lex xotz
+\_no 00344
+\SPG amarrar
+\ENG to tie up
+\EX xotzeam
+\XSP ya esta amarrado
+\XEN now it's tied up
+\ROOT xotz P
+ZOH001R0611011.txt
+\CMTS antip xotz. 7oy amarrar
+\CMTS pass xotz.7@m amarrarse
+\CMTS prsv xotz.ten lo tiene amarrado
+\CMTS assum1 xotz.ney estar amarrado
+\lex xox
+\_no 00345
+\SPG cocer
+\ENG to cook
+\EX xoxx@mm@
+\XSP se cocio*
+\XEN it was cooked
+\ROOT XOX T3
+\CMTS antip xox.7oy
+\CMTS pass xox.7@m cocerse solo; cocer
+\CMTS prsv xox-ten lo tiene cocido
+\lex xoy
+\_no 00346
+\SPG pasar de tiempo camote - yuca; hace dan~o para comer
+\ENG to be overripe - yam, yucca; to harm if eaten
+\EX m@n xoyy@
+\XSP se paso* de tiempo el camote
+Page 66

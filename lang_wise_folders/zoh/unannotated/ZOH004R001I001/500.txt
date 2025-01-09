@@ -1,0 +1,62 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-GR
+\date 18/Jun/96
+\lex kajwe bola
+\_no 01146
+\LG MIG
+\PSH
+\UND kajwe bola
+\MB
+\VAR kaj bola
+\GRAM s (m) s
+\SCI
+\USE
+\SPG cafe en bola
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-VAR ok, HAJ:96; I fixed VAR: TK
+\date 24/Jun/96
+\lex kajwe kuy
+\_no 01147
+\LG MIG
+\PSH
+\UND kajwe kuy
+\MB cafe*, palo
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG palo de cafecillo
+\ENG coffee plant
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS CK-PH; elsewhere /kafwe/. HAJ:96, you get both: kajwe and kafwe
+\date 18/Jun/96
+\lex kajwe tzu't.17
+\_no 01148
+\LG MIG
+\PHO [kajwe tzuti*7]
+Page 500

@@ -1,0 +1,63 @@
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG suegro de hombre
+\ENG father-in-law of a man
+EXU 1 7@n+ tzuki7
+\XPSH 1 [7@n tzuki7]
+\XSP 1 mi suegro (dice la mujer) suegro de la nuera
+\XEN 1 my father-in-law (says the wife) father-in-law of the
+daughter-in-law
+\EXU 2 7@n+ mu7t
+\XPSH 2 [7@n mu7t]
+\XSP 2 mi suegro o el yerno (dice el hombre)
+\XEN 2 my father-in-law or son-in-law (says the husband)
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 30/Jan/96
+\lex jatikx
+\_no 00673
+\LG MIG
+\PSH
+\UND jatikx
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG estornudar
+\ENG to sneeze
+\SPL yak.jatikx
+SLGR CAUS
+\SLGL hacer estornudar // to make sneeze
+\EXU 1 d@+ yak.jatikx-w@ niwi7
+\XPSH 1 [D@ yakjatikx@ niwi7.]
+\XSP 1 Me hizo estornudar el chile.
+\XEN 1 The chili made me sneeze.
+\EXU 2 da jatikx-pa
+\XPSH 2 [D@ jatikxpa.]
+\XSP 2 voy a estornudar.
+\XEN 2 I'm going to sneeze.
+\SYN
+\SEMF body
+\ASP semelfactive
+ZOH004R0011001.txt
+\ARG
+\NOM jatikx.i, jatikx.naanh
+\SUB nik.jatikx. '@y, yuk.jatikx
+\ETYM
+\ETL
+\ROOT jatikx
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+Page 288

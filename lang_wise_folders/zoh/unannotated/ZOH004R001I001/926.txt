@@ -1,0 +1,65 @@
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS CK-PH
+\date 25/Jun/96
+\lex nat
+\_no 02148
+\LG MIG
+\PSH
+\UND nat
+\MB
+\VAR
+\GRAM vt
+—
+\SCI
+\USE
+\SPG salar
+\ENG to salt
+\SPL nat.7oy
+\SLGR ANTIP
+\SLGL salar // to salt
+\SLGR NO PASS
+\SPL nat.ten
+HAJ:96, now he doesn't recognize it/FIXED: TK
+\SLGR PRSV
+\SLGL tener salado // to have salted
+\EXU 1 7@y+ nat-w@ bi xix
+\XPSH 1 [7@y natt@ bi xix.]
+\XSP 1 Salo* la carne.
+\XEN 1 He salted the meat.
+\EXU 2 nat.7@m-w@ bi xix
+\XPSH 2 [Natt@mm@ bi xix.]
+\XSP_2 Esta* salado la carne.
+\XEN 2 The meat is salted.
+\EXU 3 7@y+ nat.ten-w@ bi xix.
+\XPSH 3 [7@y nattenn@ bi xix.]
+\XSP 3 Tiene salado la carne.
+\XEN 3 She's got the meat salted.
+\EXU 4 7@y+ nat=max-w@
+\XPSH 4 [7@y_natmaxx@.]
+\XSP 4 Lo salo* mal.
+\XEN 4 She salted it badly.
+\SYN
+\SEMF cook
+\ASP activity
+\ARG
+\NOM nat. e7
+\SUB
+\ETYM
+\ETL
+\ROOT nat
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+ZOH004R0011001.txt
+\date 03/Jan/80
+\DATE 09/Aug/02
+Page 926

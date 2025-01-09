@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 26/Jun/96
+\lex way'=p@j.i7
+\_no 03623
+\LG MIG
+\PSH [wayp@ji7]
+\UND way7=p@j.E7
+\MB pelo, largo, NOM7
+\VAR
+\GRAM a:sq (BA-ed)
+\SCI
+\USE
+\SPG cabelludo; peludo
+\ENG long-haired
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex way'=tuk-pa+a7k p@n
+\_no 03624
+\LG MIG
+\PSH [waytukpa*7k p@n]
+\UND way7-tuk-pa +P@7k p@n
+\MB pelo, cortar, INC, REL, hombre
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG peluquero
+\ENG barber
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tuk
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+ZOH004R0011001.txt
+\lex way'=w@tz
+\_no 03625
+\LG MIG
+\PSH [wayw@tz-]
+\UND way7=w@tz
+\MB pelo, peinar
+Page 1557

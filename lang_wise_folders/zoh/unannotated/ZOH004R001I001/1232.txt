@@ -1,0 +1,64 @@
+\EXU 2 dax da pa'-7oy-wa
+\XPSH 2 [D@x da p@7oyy@.]
+\XSP 2 Yo crei*.
+\XEN 2 I believed it.
+\EXU 3 7@y+ p@-w@ primer ponh
+\XPSH 3 [7@y p@w@ primer ponh.]
+\XSP 3 Lo estreno*
+\XEN 3 He debuted it.
+\EXU 4 7@y+ pa-wa 7@y+ t@nh. ku
+\XPSH 4 [7@y p@way t@nhkuy.]
+\XSP 4 Lo marco* con su fierro.
+\XEN 4 He branded it.
+\SYN
+\SEMF arrange
+\ASP achievement
+\ARG
+\NOM p@'. 'oy.kuy7
+\SUB 7ok.yoj-p@¹, jo.p@', ko.p@', k@.win.p@¹.7@y, manh=wak=p@',
+\SUB_num=p@¹, pa'-nak
+ETYM
+\ETL
+\ROOT pa
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\CMTS CK-all EX HAJ:96, corrected all
+\date 03/Jan/80
+\lex p@¹.7oy.kuy7
+\_no 02859
+\LG MIG
+\PSH [p@7okuy7]
+\UND p@7.7oy.kuy7
+\MB poner, ANTIP, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG traste
+\ENG dish
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT p@
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex p@¹.jay
+\_no 02860
+\LG MIG
+\PSH [p@jay-]
+\UND p@7.jay
+\MB poner INDIR
+ZOH004R0011001.txt
+"
+\VAR
+\GRAM vt: indir
+Page 1232

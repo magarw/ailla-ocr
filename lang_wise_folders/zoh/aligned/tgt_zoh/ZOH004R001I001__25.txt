@@ -1,0 +1,54 @@
+\PSH [7anhnit-]
+\UND 7anh=7it\MB
+\VAR\GRAM vt [vt3]
+\SCI\USE
+\SPG tener
+\ENG to have
+\EXU ya.ji mix 7anh=7it-pa
+\XPSH [Yaji mix 7anhnitpa.]\XSP Aqui me tienes.
+\XEN Here you have me.
+\SYN
+\SEMF
+\SPL 7anh=7it.7oy
+\SLGR ANTIP
+\SLGL tener // to have
+\SPL 7anh.7it.7@m\SLGR NO PASS
+\ETYM
+\ETL
+\ROOT * 7it
+\RTGR IX
+\DSRC HAJ94
+\CMTS /nh7/ = [nhn]/_ stress (TK)
+\CMTS rejected [7anh7itpa] (HAJ)
+\date 09/Oct/96\lex 7anh=7@
+\_no 00057
+\LG MIG
+\PSH [7anh7@-]
+\UND 7anh=7@
+\MB BOCA, X
+\VAR
+\GRAM
+\SCI
+\USE
+\FLG\SPG "orutar"
+\ENG to burp
+\EXU 1 7anh=7@.A7
+\XPSH 1 [7anh7@@7!]
+\XSP 1 !Orute!
+\XEN 1 Burp!
+\EXU_2_7anh=7@.pa+v7k
+\XPSH 2 [7anh7@ba*7]
+\XSP 2 e*1 que oruta
+\XEN 2 one who burps
+\EXU 3 7anh=7@-pa
+\XPSH 3 [7anh7@pa.]
+\XSP 3 Oruta.
+\XEN 3 She is burping.
+\SYN\SEMF
+\ETYMZOH004R0011001.txt\ETL
+\ROOT 7@
+\RTGR 12
+\DSRC HAJ95
+\CMTS GRAM unclear; get inflected forms
+\CMTS wrong one was: /7anh=7@w@/. now see EX. corrected to 7anh-7@ HAJ:96
+Page 25

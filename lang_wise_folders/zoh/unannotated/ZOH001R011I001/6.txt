@@ -1,0 +1,69 @@
+\tx bi kartuchu d@kka
+\mb bi kartuchu d@kkay
+\sg1 DEF cartucho NPL
+\eg1 DEF cartridge NPL
+\zoq 7@y p@kminna*m bi chik morra*1 7i bi tujkuy 7i bi kartuchud@kka.
+\fts Trajo su morralito, trajo su arma y los cartuchos.
+\fte He has come carrying his little bag and the weapon and the cartridges.
+\com
+\idx sp
+\ref ZOH001R011 023
+\_no 00024
+\tx tujkuy
+ga7
+bi
+\mb tuj -kuy7 ka -7 bi jon
+jontzijkuy7
+-tzij
+\sg] tirar-INSTR1 DCT3-NOM1 DEF pa*jaro-tirar_piedra-INSTR1
+\egl shoot-INSTR1 DCT3-NOM1 DEF bird
+-throw_rock -INSTR1
+\tx
+\mb
+tzajnakxkuy7
+tzaj -nakx
+\sg1
+pegar-pegar_con_palo-INSTR1
+\egl glue -hit_with_stick-INSTR1
+\zoq Tujkuy ga7 bi jontzi kuy7 tzajnakxkuy7 -
+\fts La arma es la honda -
+\fte That weapon is the birdshooter sling -
+\com
+\idx
+ZOH001R0111001.txt
+\ref ZOH001R011 024
+\_no 00025
+\tx 7i bi kartuchu pwes bi tza7
+\mb
+7i bi kartuchu
+pwes bi tza7
+\sgl y DEF cartucho pues DEF piedra
+\egl and DEF cartridge well DEF rock
+\ref ZOH001R011 025
+\_no 00026
+\tx n@kki
+da
+\mb n@k -E7 d@
+\sg1 irse-IMPV 1A
+\egl go -IMPV 1A
+-kuy7
+\zoq 7i bi kartuchu, pwes, bi tza7.
+\fts y los cartuchos, pues, la piedra.
+\fte and the cartridges, well, they're rocks.
+\com
+\idx sp
+\zoq "N@kki d@."
+\fts "Vamos pues.
+"I
+\fte "Let's go.
+\com
+\idx
+"I
+\ref ZOH001R011 026
+\_no 00027
+\tx n@kxukk@
+\mb n@k -xuk-w@
+\sgl irse-3PL-COM
+\egl go -3PL-COM
+Page 6
+-kuy7

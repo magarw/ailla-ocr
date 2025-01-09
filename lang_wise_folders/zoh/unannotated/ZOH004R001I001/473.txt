@@ -1,0 +1,62 @@
+\XEN 2 Now the masa has been reground.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT k@7t
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex j@x=k@y
+\_no 01079
+\LG MIG
+\PSH [j@xk@y-]
+\UND jax-k@y
+\MB ATRAS, 1levar_en_mano
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar algo de la mano
+\ENG to take somebody out by the hand
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT k@y
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 11/Jan/96
+\lex j@x=mak
+\_no 01080
+\LG MIG
+\PSH [j@xmak-]
+\UND j@x-mak
+\MB ATRAS, pescar_con_atarraya
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG salir pescandolo
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT mak
+ZOH004R0011001.txt
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 11/Jan/96
+\lex j@x-matz
+Page 473

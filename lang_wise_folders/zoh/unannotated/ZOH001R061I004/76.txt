@@ -1,0 +1,63 @@
+\ENG sucked-in; sucked dry
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT mu7k
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\lex mu'k.i+i7k
+\_no 00186
+\LG MIG
+\PSH [muki*7k]
+\UND mu7k. E7 +P@7k
+\MB chupar, NOM7, REL
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG una cosa chupada
+\ENG a sucked-in thing
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT mu7k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 26/Jan/96
+\lex m@jm@ tzu'-ji-7
+\_no 00187
+\LG MIG
+\PSH [m@jm@ tzuji7]
+\UND m@jma tzu7-ji-7
+\MB mucho, noche, X, NOM1
+\VAR
+\GRAM av
+\SCI
+\USE
+\SPG muy de noche
+\ENG very late at night
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+ZOH001R0611004.txt
+Page 76

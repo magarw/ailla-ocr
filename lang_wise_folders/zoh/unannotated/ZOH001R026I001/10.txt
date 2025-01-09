@@ -1,0 +1,69 @@
+\mb ya 7@m t@7 -7@m -A
+\sg1 NEG 2A querer-PAS -NINC
+\eg1 NEG 2A want -PASS-NINC
+\zoq "Yam t@77@m@.
+\fts "No sirves.'
+\fte "You're not wanted."
+"I
+\ref ZOH001R026 054
+\_no 00046
+"I
+\tx 7anto*
+lo ke
+\mb 7entonses lo ke
+\sg1 entonces
+\egl then
+lo que 3E
+lo that 3E
+\zoq 7@y k@xx@.
+\fts Lo comio*.
+\fte He ate it.
+\tx tzanhkaw@
+bi m@a7
+\mb tzanh-ka7
+bi m@a7
+\sg1 pegar-morirse-COM DEF venado
+\egl hit -die -COM DEF deer
+-w@
+\tx 7@y k@xx@
+\mb 7@y k@x
+\sgl 3E comer-COM
+\egl 3E eat -COM
+-wa
+\ref ZOH001R026 056
+\_no 00047
+\zoq 7anto* lo ke 7@y tz@kk@ bi tzikin kajanh, 7@y tzanhkaw@ bi m@a7.
+\fts Entonces lo que hizo el tigrillo pinto, lo mato* de un manazo el
+venado.
+\fte Then what the spotted jaguar did, he killed the deer with a blow.
+\ref ZOH001R026 057
+\_no 00048
+bi
+7@y tz@kk@
+7@y tz@k -w@ bi
+\tx 7@y p@kk@
+\mb 7@y p@k
+\sg1 3E agarrar-COM 3E
+camino
+\egl 3E get -COM 3E road
+tzikin kajanh 7@y
+tzikin kajanh 7@y
+hacer-COM DEF pinto tigre 3E
+do -COM DEF spotted jaguar 3E
+7@y tunh
+-wa 7@y tunh
+\zoq 7@y p@kk@ 7@y tunh.
+\fts Agarro* su camino.
+\fte He took his road.
+\ref ZOH001R026 058
+\_no 00049
+\tx n@kke7tt@
+\mb
+n@k -ke7t -w@
+\sg1 irse-REPET-COM
+\egl go -REPET-COM
+ZOH001R0261001.txt
+\zoq N@kke7tt@.
+\fts Siguio* caminando.
+\fte He went off again.
+Page 10

@@ -1,0 +1,62 @@
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex potz.e7 [1]
+\_no 02744
+\LG MIG
+\PHO [potze7]
+\UND potz.E7
+\MB enlodar, NOM7
+\VAR
+\GRAM PCP
+\SPG enlodado
+\ENG mudded
+\EXU potz.e7+k t@k
+\XPSH [potze7k t@k]
+\XSP casa embarrada
+\XEN mudded house
+\SYN
+\ROOT potz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex potz.e7 [2]
+\_no 02745
+\LG MIG
+\PHO [potze7]
+\UND potz.E7
+\MB cansarse, NOM7
+\VAR
+\GRAM pcp
+\SPG cansancia
+\ENG tiredness
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT potz
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex potz.kuy7 [1]
+\_no 02746
+LG MIG
+\PHO [potzkuy7]
+\UND potz.kuy7
+\MB enlodar, INSTR1
+\VAR
+\GRAM instrl
+\SPG el lodo con que se embarra la casa
+\ENG the mud used for mudding houses
+\EXU t@k-potz.kuy7
+\XPSH [t@kpotzkuy7]
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\ROOT potz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+Page 1181

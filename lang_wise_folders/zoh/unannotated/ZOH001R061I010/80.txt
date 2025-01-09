@@ -1,0 +1,61 @@
+\SPG hacer hoyo; agujerear
+\ENG to make a hole; to pierce
+\EX wojj@mm@ bi xuyu7
+\XSP se deshondo* 1a olla
+\XEN
+\EX tzat@k wojja
+\XSP hizo hoyo
+\XEN he made a cave
+\EX wojneyyow@
+\XSP cayo* de golpe o cayo* rapido
+\XEN she fell from a blow or she fell rapidly
+\ROOT woj T3
+\SEMF create, move, cut
+\PASS woj.7@m deshondarse
+\ANTI woj.7oy hacer hoyo
+\PRSV woj=ten lo tiene agujereado
+\CMTS
+\lex woko
+\_no 00356
+\SPG arrastrarse
+\ENG to drag oneself
+\EX
+\XSP
+\XEN
+\ROOT woko Ix
+\SEMF motion
+\CAUS yak.woko arrastrar
+\CMTS
+\lex wo7k
+\_no 00357
+\SPG raspar
+\ENG to scrape
+\EX
+\XSP
+\XEN
+\ROOT WO7k T3
+\SEMF move, touch
+\PASS NONE wo7k.7@m *
+\ANTI WO7k. 7oy
+\CMTS
+\lex wo7kx
+\_no 00358
+\SPG aran*ar; rasgun~ar
+\ENG to rake; to scratch
+\EX
+\XSP
+\XEN
+\ROOT wo7kx T3
+\SEMF affect
+\PASS NONE wo7kx.7@m *
+\ANTI wo7kx.7oy
+\CMTS
+\lex won
+\_no 00359
+\SPG sacar majagua
+\ENG
+ZOH001R0611010.txt
+\EX tzaywonn@
+\XSP saco* majagua
+\XEN
+Page 80

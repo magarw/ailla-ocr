@@ -1,0 +1,62 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH ok/OK: TK
+\date 24/Jun/96
+\lex 7ok. kam. '@y
+\_no 00336
+\LG MIG
+\PSH [7okkamm@y-]
+\UND 7ok. kam.7@y
+\MB ABAJO, trabarse, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG salir en donde estaba prensado
+\ENG for something to get out from where it was pressed in
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN j@x=kam
+\SEMF
+\ETYM
+\ETL
+\ROOT kam
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 17/Jul/95
+\lex 7ok.kap. '@y
+\_no 00337
+LG MIG
+\PSH [7okkapp@y-]
+\UND 7ok.kap.7@y
+\MB ABAJO, cargar_en_hombro, SUF
+\VAR
+ZOH004R0011001.txt
+\GRAM vt
+\SCI
+\USE
+\SPG bajar del hombro
+\ENG to lower something from one's shoulder
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kap
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 17/Jul/95
+Page 145

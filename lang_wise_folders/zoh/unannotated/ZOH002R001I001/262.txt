@@ -1,0 +1,39 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(v)
+(9.10)
+(i)
+'axux poj
+Pašuš poh
+'garlic vine'
+It can be difficult to determine if a compound is actually one word or two.
+Stress is the only clue, and if both parts have more than one syllable, it will not
+be a definite guide. Some compounds are formed from nouns that no longer
+appear independently in the language; these can be safely assumed to be one
+word.
+(9.11)
+papon
+pa=pən
+wild-man
+'devil'
+(vi)
+jamatin
+hama=tin
+day=shit
+'money'
+kotzøk mu'k
+kocək mu?k
+'hill grass'
+(ii)
+In the following example, primary stress falls on the penultimate syllable
+of the compound, indicating that it is a single phonological word. (This is the
+only example with this stress pattern in the corpus.)
+235
+'angway'
+?aŋ=way?
+mouth-hair
+'beard'
+In the next set of examples, stress falls on the penultimate syllable of
+each part of the compound, or, in the case of a one-syllable component, on
+that single syllable. The primary, strongest, stress for the whole is the primary
+stress of the second component. This is the normal case for compounds with
+components of more than one syllable.

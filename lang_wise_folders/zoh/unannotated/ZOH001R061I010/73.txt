@@ -1,0 +1,60 @@
+\SPG pellizcar
+\ENG to pinch
+\EX
+\XSP
+\XEN
+\ROOT tzukx T3
+\SEMF touch, hand
+PASS NONE tzukx.7@m *
+\ANTI tzukx.7oy
+\CMTS
+\lex tzum
+\_no 00322
+\SPG hacerse bastante; (a)juntarse
+\ENG to increase; to collect
+\EX 7@y yaktzumm@ 7@y tzi:xuk@*7
+\XSP aguardo* algo que le dieron
+XEN he collected what they gave him
+\ROOT tzum 12
+SEMF condition
+\CAUS yak.tzum juntar; ahorrar
+\CMTS doesn't accept the juntarse gloss now
+\lex tzun
+\_no 00323
+\SPG gotear
+\ENG to drip
+\EX
+\XSP
+\XEN
+\ROOT tzun Ix
+\SEMF water
+\CAUS yak.tzun dejar caer por gotas
+\lex tzun
+\_no 00324
+\SPG alegrarse; estar alegre; estar contento
+\ENG to be glad
+\EX_tzunpa
+\XSP se alegre
+\XEN she is happy
+\ROOT tzun I2
+\SEMF cog
+\CAUS yak.tzun alegrar
+\CMTS
+\lex tzu7t
+\_no 00325
+\SPG cortar (cafe*) sin pico
+\ENG to pick coffee
+ZOH001R0611010.txt
+\EX kajwe=tzu7tt@
+\XSP 1o corto* cafe* sin pico
+\XEN
+\EX j@xtzu7tt@mm@ 7@y t@tz
+\XSP se arranco* su diente
+\ROOT tzu7t T3
+\SEMF farm, cut, obj
+\PASS tzu7t.7@m cortarse
+\ANTI tzu7t.7oy cortar cafe* sin pico
+\CMTS
+\lex tzu7tz
+\_no 00326
+Page 73

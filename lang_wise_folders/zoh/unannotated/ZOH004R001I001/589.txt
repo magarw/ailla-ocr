@@ -1,0 +1,63 @@
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS CK-all - ex is corrected, HAJ:96
+\date 18/Jun/96
+\lex ko.kix
+\_no 01350
+\LG MIG
+\PSH [kokix-]
+\UND ko.kix
+\MB OTRO, enfadarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG enfadarse
+\ENG to get fed up
+\SPL
+\SLGR
+\EXU ko.kix-w@+ 'am
+\XPSH [Kokixxa*m.]
+\XSP Ya se enfado*
+\XEN Now she is fed up.
+\SYN k@.kix
+\SEMF
+\ETYM
+\ETL
+\ROOT kix
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex kokka7
+\_no 01351
+\LG MIG
+\PSH
+\UND kokka7
+\MB
+\VAR kokka' kuy
+\GRAM
+\SCI
+\USE
+\SPG hormiguillo
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 07/Feb/96
+\lex koko
+\_no 01352
+\LG MIG
+\PSH
+ZOH004R0011001.txt
+LF: kuy
+Page 589

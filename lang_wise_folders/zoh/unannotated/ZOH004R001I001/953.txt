@@ -1,0 +1,64 @@
+\UND_nena7=tzak 7@y+ win
+\MB malo, dejar, 3Erg, REFL
+\VAR _neen=tzak 7@y+ win
+\GRAM vt: reflex
+\SCI
+\USE
+\SPG desnudarse
+ENG to take your clothes off
+\EXU 7@y+ nena=tzak-w@ 7@y+ win
+\XPSH [7@y nenatzakk@y win.]
+\XSP Se desnudo*
+XEN She took her clothes off.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzak
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-GL
+\date 25/Jun/96
+\lex nen(a')=w@j
+\_no 02212
+\LG MIG
+\PSH [nenaw@j-]
+\UND nena7=w@j
+\MB malo, apestar
+\VAR neen=w@j
+\GRAM vi
+ok
+\SCI
+\USE
+\SPG tener mal olor; apestar
+\ENG to have a bad smell; to stink
+\EXU 1 jak 7@m+ nen(a)=w@j-pa
+\XPSH 1 [Jak 7@m nenaw@jpa.]
+\XSP 1 Eres muy apestoso.
+XEN 1 You stink.
+\EXU 2 nen(a)=w@j-pa
+\XPSH 2 [Neenw@jpa.]
+\XSP 2 Huele.
+\XEN 2 It stinks.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT waj
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 25/Jun/96
+\lex nenh
+\_no 02213
+LG MIG
+\PSH
+\UND nenh
+\MB
+\VAR
+\GRAM Vi
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG olear (ri*o)
+Page 953

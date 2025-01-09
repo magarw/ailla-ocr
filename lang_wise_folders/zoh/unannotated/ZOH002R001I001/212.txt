@@ -1,0 +1,38 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+cək- often combines with deverbal nouns, to yield a verb with much the
+same meaning as the original, underived root, but with the focus on perhaps
+some particular part of the event. This is a fine example of the stylistic range
+available to the Zoque speaker.
+(7.37)
+(i)
+(ii)
+(iii)
+(iv)
+'øm mongkuytzøkpa
+?ǝm+ moŋ.kuy?=cək-pa
+2E+
+'You go to bed.'
+topatzəkkə
+sleep.INSTR1=do-INC
+0 top.A=cək-wə
+3A be_hot.NOM2=do-COM
+'It's hot.'
+toyatzøkjayyo
+0 toy.A=cək.hay-wə
+3A be_sick.NOM2=do.APPL-COM
+'He got sick.'
+'øy yujkuytzøkkø
+?əy+ yuh.kuy?=cək-wə
+3E+
+'He cleared a field.'
+clear_field.INSTR1=do-COM
+(ZOH001R036-076)
+7.3.2. Versive -?a
+This versive (VERS1) most commonly appears with adjectives with the
+general meaning 'to become or be X' (examples 7.38 i and ii). It is also used to
+form verbs from demonstratives, numbers, and other function morphemes
+(examples iii-v). It verbalizes nouns, with the general meaning 'to have or do X'
+(examples vi-viii). It also combines with the irregular stem tehi- to produce a
+stem meaning 'to exist' or 'to be located' (example ix), and nənti?, 'there isn't'
+(example x).
+187

@@ -1,0 +1,64 @@
+\UND j@x+jo7=ye7tz
+\MB ATRAS, LOC2, llegar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG atrasarse
+ENG to get behind, to fall back
+\EXU da+ jaxjo'=ye7tz-wa
+\XPSH [D@ j@xjo ye7tztz@.]
+\XSP Llegue* atra*s.
+\XEN I arrived late.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ye7tz
+\RTGR 12
+\DSRC HAJ94
+\CMTS CK-PH
+\date 26/Jun/96
+\lex j@x+joonh
+\_no 01054
+\LG MIG
+\PSH [j@xjo*nh]
+\UND jax +joonh
+\MB ATRAS, DIR1
+\USE directional
+\GRAM av
+ok/OK: TK
+\SCI
+\USE
+\SPG atra*s; por atra*s
+\ENG behind; from behind
+\SPL yak.n@k j@xjoonh
+\SLGR CAUS
+\SLGL hacer ir para atra*s
+\EXU 7@m+ nuk-pa j@x+joonh
+\XPSH [7@m nukpa j@xjo*nh.]
+SEMF
+\ETYM
+\ETL
+\XSP La agarras por detra*s (cogiendo).
+\XEN You grab her from behind (fucking).
+\SYN
+\ROOT
+\DSRC HAJ94
+\CMTS
+\CMTS CK-PH/OK: TK
+\date 26/Jun/96
+\DATE 03/Jan/1980
+\lex j@x-ju7u
+\_no 01055
+\LG MIG
+\PSH [j@xju7u-]
+\UND jax=ju7u
+\MB ATRAS, sonar
+\VAR
+\GRAM Vi
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG salir retumbando
+Page 462

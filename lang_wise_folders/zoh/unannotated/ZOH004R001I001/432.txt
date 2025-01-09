@@ -1,0 +1,63 @@
+\UND juy=7utz
+\MB comprar, medir
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG medir para comprar (terreno)
+\ENG to measure for buying (land)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT juy
+\RTGR T1
+\ROOT 7utz
+\RTGR T3
+\DSRC HAJ02
+\CMTS a buyer has the land measured
+\DATE 14/Aug/02
+\lex juy.kuy7
+\_no 00985
+\LG MIG
+\PSH [juykuy7]
+\UND juy.kuy7
+\MB comprar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG dinero
+\ENG money
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN jama=tin
+\SEMF
+\ETYM
+\ETL
+\ROOT juy
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex juy-tzi'
+\_no 00986
+\LG MIG
+\PSH [juytzi-]
+\UND juy-tzi7
+\MB comprar, dar
+\VAR
+\GRAM vt
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG venderselo
+\ENG to sell something to someone
+\EXU
+Page 432

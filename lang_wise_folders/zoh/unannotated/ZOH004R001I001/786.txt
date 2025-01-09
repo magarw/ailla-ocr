@@ -1,0 +1,62 @@
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 21/Jun/95
+\lex ma7
+\_no 01820
+\LG MIG
+\PSH
+\UND ma7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG negocio; venta
+\ENG business; sale
+\EXU jak ma7
+\XSP tiene muchas cosas que vender
+\XEN having a lot of stuff to sell
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 25/Jun/96
+\lex ma=7ix
+\_no 01821
+\LG MIG
+\PSH [ma7ix-]
+\UND ma=7ix
+\MB X, see
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG son~ar
+\ENG to dream
+\SPL yak.ma.7ix
+\SLGR CAUS
+\SLGL hacerlo son~ar
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7ix
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex ma=axt@k-ji-7
+\_no 01822
+ZOH004R0011001.txt
+\LG MIG
+\PSH [maaxt@kji7]
+\UND ma-w@xt@k-ji-7
+Page 786

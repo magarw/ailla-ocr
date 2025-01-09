@@ -1,0 +1,63 @@
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pasa*rselo con su trompa
+\ENG to move something over with your snout
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ji7p
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 27/Jan/96
+\lex nik.jitzi.7oy.kuy7
+\_no 02284
+\LG MIG
+\PSH [nikjiitzi7okuy7]
+\UND nik.jitzi.7oy.kuy7
+\MB PURP, arrastrase, ANTIP, INSTR1
+\VAR
+\GRAM instrl
+\SCI
+\USE
+\SPG resbaladi*a
+\ENG a slide
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jitzi
+\RTGR IX
+\DSRC HAJ95
+\CMTS CK-GL HAJ:96, ok
+\date 25/Jun/96
+\lex nik. jix. '@y
+\_no 02285
+\LG MIG
+\PSH [nikjixx@y-]
+\UND nik.jix.7@y
+ZOH004R0011001.txt
+\MB PURP, remojar_tortilla, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG agarrar algo con tortilla y tirarlo a alguien
+\ENG to scoop something up with your tortilla and toss it at someone
+\SPL
+\SLGR
+\EXU 7@y+ nik.jix. '@y-w@ k@x.E
+Page 984

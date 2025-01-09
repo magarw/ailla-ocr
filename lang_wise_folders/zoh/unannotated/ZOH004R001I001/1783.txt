@@ -1,0 +1,63 @@
+\XPSH 1 [7@n yojja*m 7@n jatz@7.]
+\XSP 1 Abone* mi deuda.
+\XEN 1 I paid off my debt.
+\EXU 2 yoj.7@m-pa
+\XPSH 2 [Yojj@mpa.]
+\XSP 2 se paga.
+\XEN 3. It is paid.
+\SYN
+\SEMF trade
+\ASP transition
+\ARG
+\NOM 7anh.yoj, yoj.a
+\SUB 7anh.yoj, 7ok.yoj-j@m, 7ok.yoj-p@', jo.may=yoj, jup-yoj, yoj=tzi',
+\SUB
+\ETYM
+\ETL
+\ROOT yoj
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex yoj.7oy-pa+a7k
+\_no 04148
+\LG MIG
+\PSH [yojjoba*7]
+\UND yoj.7oy-pa +P@7k
+\MB pagar, ANTIP, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG patro*n
+\ENG boss
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yoj
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yoj.a
+\_no 04149
+\LG MIG
+\PSH [yoja]
+\UND yoj. A
+\MB pagar, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE jake yoj.a `caresti*a'
+\SPG costo; precio; valor
+\ENG cost; price; value
+\EXU jakke yoj.a
+\XSP caresti*a
+ZOH004R0011001.txt
+\XEN high price
+\SYN
+Page 1783

@@ -1,0 +1,63 @@
+\USE
+\SPG amontonar
+\ENG to pile up
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-PH, CK-GL ok/FIXED: TK
+\date 25/Jun/96
+\lex montoonh
+\_no 02021
+\LG MIG
+\PSH [monto*nh]
+\UND montoonh
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG monto*n
+\ENG pile
+\EXU putz.putz montoonh
+\XSP monto*n de basura
+\XEN garbage pile
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex mon. 'oy.kuy7
+\_no 02022
+\LG MIG
+\PSH [monnookuy7]
+\UND mon. 7oy.kuy7
+\MB envolver, ANTIP, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG envoltura
+\ENG wrapping
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT mon
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+ZOH004R0011001.txt
+Page 871

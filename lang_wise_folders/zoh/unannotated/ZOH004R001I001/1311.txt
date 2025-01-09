@@ -1,0 +1,65 @@
+\date 28/Jan/96
+\lex toy.a' te.j(i). 7aH
+\_no 03044
+\LG MIG
+\PSH [toya teji7a-]
+\UND toy.A7 te.ji.7aH
+\MB doler, NOM2, DEM1, LOC1, VERS1
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG estar enfermo
+\ENG to be sick
+\EXU toy.A7 te.ji.7aH-w@
+\XPSH [Toya teji7aw@.]
+\XSP Esta* enfermo.
+XEN He's sick.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT toy
+\RTGR 12
+\DSRC HAJ94
+\CMTS CK-all HAJ:96, this is fine but it's
+\CMTS 1st gloss included: enfermarse. now he
+\CMTS toyy@:w@ 'se enfermo*' [HAJ]; toyy@: pa
+enfermate!' [TK]
+\CMTS analysis of [toyy@-] unclear TK
+\date 26/Jun/96
+\lex toy.a'=tz@k.jay
+\_no 03045
+\LG MIG
+\PSH [toyatz@kjay-]
+\UND toy.A7=tz@k.jay
+\MB doler, NOM2, hacer, APPL
+\VAR
+\GRAM indir:incorp
+\SCI
+\USE
+\SPG hacerle enfermedad
+\ENG to make someone sick
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 toy
+\RTGR 1 12
+\ROOT 2 tz@k
+\RTGR 2 T3
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS
+\date 09/Feb/96
+\lex toy.jay
+\_no 03046
+\LG MIG
+\PSH [toyjay-]
+just a sentence, not a lex
+gives me:
+se enferma', toyy@7
+Page 1311

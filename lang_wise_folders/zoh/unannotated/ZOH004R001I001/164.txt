@@ -1,0 +1,63 @@
+\PSH [7okpakk@y-]
+\UND 7ok. pak.7@y
+\MB ABAJO, regar, SUF
+\VAR
+\GRAM dir+vt
+\SCI
+\USE
+\SPG tirar cualquiera cosa
+\ENG to throw down anything
+\EXU 1 7@y+ 7ok.pak. '@y-wa na7
+\XPSH 1 [7@y 7okpakk@yy@ n@7.]
+\XSP 1 Tiro* el agua.
+\XEN 1 He threw down the water.
+\EXU 2 7@y+ 7ok. pak. '@y-w@ mok-puj
+\XPSH 2 [7@y 7okpakk@yy@ mokpuj.]
+\XSP 2 Rego* la semilla de maiz
+\XEN 2 He spread the seed corn.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT pak
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex 7ok.patz. '@y
+\_no 00382
+\LG MIG
+\PSH [7okpatztz@y-]
+\UND 7ok.patz.7@y
+\MB ABAJO, tirar, SUF
+\VAR
+\GRAM dir+vt
+\SCI
+\USE
+\SPG aventar, tirar
+\ENG to throw away
+\EXU 7@y+ 7ok.patz. '@y-w@ putz.putz+jo7
+\XPSH [7@y 7okpatztz@yy@ putzputzjo7.]
+\XSP Lo tiro* en la basura.
+\XEN She threw it in the garbage.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT patz
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex 7ok.pekx. '@y
+\_no 00383
+\LG MIG
+\PSH [7okpekx@y-]
+\UND 7ok.pekx.7@y
+ZOH004R0011001.txt
+\MB ABAJO, pegar_con_ala, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+Page 164

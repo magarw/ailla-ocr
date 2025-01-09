@@ -1,0 +1,62 @@
+\XEN
+\SYN
+\SEMF
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ96
+\CMTS
+\date
+\lex kuy 7anh.kax
+\_no 00141
+\LG MIG
+\PSH [kuy 7anhkax]
+\UND kuy 7anh.kax.0
+\MB palo, BOCA, dar_paso, NOM6
+\VAR
+\GRAM smss
+\SCI
+\USE
+\DLG
+\SPG 1 rama del a*rbol
+\SPG 2 una vara que se usa como gancho
+\ENG 1 a tree branch
+ENG 2 a little branch that you use as a hook
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kax
+\RTGR P
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/96
+\lex kuy 7anh.nakx
+\_no 00142
+\LG MIG
+\PSH [kuy_7anhnakx]
+\UND kuy 7anh.nakx.0
+\MB palo, BOCA, pegar, NOM6
+\VAR
+\GRAM s(m)ss
+\SCI
+\USE
+\SPG solera, palo o madera para prensar en el techo
+\ENG a piece of wood for holding the roof down
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH001R0611004.txt
+SEMF
+\ETYM
+\ETL
+\ROOT nakx
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex kuy wotz.e
+Page 58

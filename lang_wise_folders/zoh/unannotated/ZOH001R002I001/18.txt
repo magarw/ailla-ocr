@@ -1,0 +1,79 @@
+\mb ni-yakki7 ya mux -7oy -A
+ZOH001R0021001.txt
+ti kosa jodidu
+jodido
+\sgl ni-nadie NEG saber-ANTIP-nINC que cosa
+\eg1 no-nobody NEG know -ANTIP-nINC what thing foolish
+\zoq Nyakki7 ya muxxo ti kosa, jodidu.
+\fts Nadie no saben alguna cosa,
+\fte Nobody knows anything, foolish.
+jodido.
+\not
+\idx
+\ref ZOH001R002 078
+\_no 00079
+tyempu kumpay 7@y tz@kxukpa,
+tyempu kumpay 7@y tz@k -xuk-pa
+tiempo compadre 3E hacer-3PL-INC
+\egl because of time compadre 3E do -3PL-INC
+\tx pitzko7
+\mb pitzko7
+\sg1 por_eso
+\zoq Pitzko7 tyempu kumpay 7@y tz@kxukpa,
+\fts Por eso en ese tiempo se hicieron compadre,
+\fte So, in that time, they became compadres,
+\not
+\idx
+\ref ZOH001R002 079
+\_no 00080
+\tx
+para ga
+\mb para ka -7
+d@k kumpay bi yakp@ktunhnhoba.
+kumpay bi yak -pak
+compadre DEF CAUS-agarrar-camino-ANTIP-INC
+compadre DEF CAUS-get
+-tunh -7oy -pa
+-road -ANTIP-INC
+d@kkay
+\sg1 para DCT3-NOM1 NPL
+\egl for DCT3-NOM1 NPL
+\zoq para gad@k kumpay bi yakp@ktunhnhoba.
+\fts para que ese compadre lo guia.
+\fte so those compadres could guide them.
+\not
+\idx det_pron, vseq_cmp
+\ref ZOH001R002 080
+\_no 00081
+\tx ga
+d@k
+kumane, puro tonta
+yoma7 d@kka.
+\mb ka -7
+\sg1 DCT3-NOM1 NPL
+d@kkay kumane puro tonta
+yomaa7 d@kkay
+commadre puro tonta mujer NPL
+\eg1 DCT3-NOM1 NPL commadre only foolish woman
+NPL
+\zoq Gad@k kumane, puro tonta yoma7d@kka.
+\fts Y aquella comadre, pura mujer tonta.
+\fte And those comadres, were just silly women.
+\not
+\idx
+\ref ZOH001R002 081
+\_no 00082
+\tx de7xe gada
+\mb te -7xe ka -d@
+tyempo bi
+tyempo bi
+tijja.
+tij-w@
+\sg1 DCT2-SIM DCT3-DEM tiempo DEF ir -COM
+\eg1 DCT2-SIM DCT3-DEM time DEF go -COM
+\zoq De7xe gad@ tyempo bi tijja.
+\fts Asi* fue* en ese tiempo.
+\fte So it was in that time that was.
+\not
+\idx unmrk_rel, exis_past
+Page 18

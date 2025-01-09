@@ -1,0 +1,60 @@
+\ROOT pikx T3
+\CMTS antip pikx.7oy
+\CMTS pass pikx.7@m despizcarse
+\lex pin
+\_no 00171
+\SPG tentar
+\ENG to touch lightly with the fingers
+\EX
+\XSP
+\XEN
+\ROOT pin T3
+\CMTS antip pin. 7oy
+\CMTS no pass pin.7@m *
+\lex pinh
+\_no 00172
+\SPG pepenar; recoger
+\ENG to pick up
+\EX
+\XSP
+\XEN
+\ROOT pinh T1
+\CMTS pass pinh.7@m recogerse
+\lex pit
+\_no 00173
+\SPG poner la mortaja
+\ENG to put on a shroud
+\EX 7@y pitt@ bi kaw@*7
+\XSP puso la mortaja a un muerto
+\XEN she wrapped the corpse in a shroud
+\EX piti*am de kaw@7
+\XSP ya esta* con su mortaja el muerto
+\XEN now the corpse is shrouded
+ZOH001R0611011.txt
+\EX pittoyy@*7
+\XSP aquel que dio* la mortaja
+\XEN the one who put on the shroud
+\EX pitt@mma*m
+\XSP ya tiene la mortaja
+\XEN the corpse has been shrouded
+\ROOT pit T3
+\CMTS antip pit.7oy poner la mortaja
+\CMTS pass pit.7@m
+\CMTS tambien trata de puros pitt@mma*m 7@y juki 'ya enrollo* su cigarro'
+\lex pitikx
+\_no 00174
+\SPG sacar/echar chispa, lumbre/len~a
+\ENG to spark
+\EX pitikx@ juwi
+\XSP saco* chispa la brasa
+\XEN the coal threw off sparks
+\EX pitikx@ jukut@k
+\XSP saco chispa la lumbre
+\ROOT pitikx Ix
+\CMTS caus yak.pitikx hacer que le sacara chispa
+\lex pi7t
+\_no 00175
+\SPG trenzar
+\ENG to braid
+\EX way pi7tt@
+Page 35

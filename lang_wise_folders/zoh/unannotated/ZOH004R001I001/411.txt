@@ -1,0 +1,63 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 jup
+\RTGR 1 P, (T3)
+\ROOT 2 tuy
+\RTGR 2 12
+\DSRC TK94
+\CMTS
+\date 06/Feb/96
+\lex jup=tuk
+\_no 00941
+\LG MIG
+\PSH [juptuk-]
+\UND jup-tuk
+\MB jalar, cortar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG reventar jala*ndolo
+\ENG to break something by pulling on it
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 jup
+\RTGR 1 P, (T3)
+\ROOT 2 tuk
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 14/Jun/95
+\lex jup-tuk.tuk.w@y
+\_no 00942
+\LG MIG
+\PSH [juptuktukw@y-]
+\UND _jup-tuk.tuk.w@y
+\MB jalar, cortar, cortar, DEPOS
+\VAR
+\GRAM deposR
+\SCI
+\USE
+\SPG sacudir jala*ndolo
+\ENG to shake something by pulling on it
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 jup
+\RTGR 1 P, (T3)
+\ROOT 2 tuk
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+Page 411

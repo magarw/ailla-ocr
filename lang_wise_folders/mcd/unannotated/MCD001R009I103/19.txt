@@ -1,0 +1,49 @@
+195 bapo forimaquin
+bapo fori-ma-quin
+tête « bouger rythmiquement »>-CAUS-OST1
+elles t'ont fait balancer la tête
+196 bapo fotuimaquin
+bapo fotui-ma-quin
+tête bouger-CAUS-OST1
+elles t'ont fait bouger la tête
+197 ahuun diso yoshihuu
+ahuun diso yoshi-huu
+3POSS convulsion yoshi-GEN
+ses visions convulsives
+198 //bia imahuurana//
+bia i-ma-huuran-a
+2PERS.A AUX.INTR-CAUS-CP1a-ACC
+elles t'ont fait être ainsi
+199 min buuaquian
+min buu-a-quian
+2PERS.A goûter-ACC-OST2
+tu les as ressenties
+200 arasifoquian
+a-rasi-fo-quian
+3PERS-nombreux-PL-OST2
+nombreuses
+201 ahuun yoshifoquian
+ahuun yoshi-fo-quian
+3POSS yoshi-PL-OST2
+ses visions
+202 ahuun diso yoshihua
+ahuun diso yoshi-hua
+3POSS convulsion yoshi-AUGM
+ses grandes visions convulsives
+203 biacamuquian
+bia-camu-quian
+2PERS.A-EXIST3-OST2
+toi-même
+204 bia raquimaquin
+bia raqui-ma-quin
+2PERS.A trembler-CAUS-OST1
+elles t'ont fait trembler
+205 bia imatanacai
+bia i-ma-ta-na-a-cai
+2PERS.A AUX.INTR-CAUS-après-REC-ACC-MIR
+elles t'ont fait être ainsi
+206 //ahuun batsi uhuacai//
+ahuun batsi uhua-cai
+3POSS froid grand-MIR
+son grand froid
+107

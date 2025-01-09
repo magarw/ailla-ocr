@@ -1,0 +1,64 @@
+\CMTS
+\date 03/Jan/80
+\lex {7@m+} [1]
+\_no 04397
+\LG MIG
+\PSH
+\UND 7@m
+\MB 2E; 2A
+\VAR
+\GRAM pron
+\SCI
+\USE second person ergative or absolutive proclitic agreement marker.
+subject of transitive verb or intransitive verb; possessor of noun
+\SPG tu; de ti
+\ENG you; yours
+\SPL
+\SLGR
+\EXU 1 ju' 7@m+ n@k-pa
+\XPSH 1 [Jum n@kpa?]
+ZOH004R0011001.txt
+\XSP 1 ?En donde vas?
+\XEN 1 where are you going?
+\EXU 2 7@m+ yak.ka-w@ de.d@ pa-p@n
+\XPSH 2 [7@m yakkaw@ ded@ pap@n.]
+\XSP 2 Mataste ese diablo.
+\XEN 2 You killed that devil.
+\EXU 3 7@m+ wat.7oy-pa 7@m+ k@x.kuy' monh.kuy' jemji
+\XPSH 3 [7@m wattobam k@xkuy, monhkuy, jemji.]
+\XSP 3 Ganas tu
+comida, dormitorio, todo.
+\XEN 3 You'll earn your food, lodging, everything.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+\lex {.7@m} [2]
+\_no 04398
+\LG MIG
+\PSH
+\UND 7@m
+\MB PASS
+\VAR
+\USE morphosyntactic verbal suffix: passive
+\GRAM suf
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU 1 7aber si n@m. 'oy-pa 7@n+ 7arregla=tz@k.7@m-w@
+\XPSH 1 [7aber si n@mmoban 7arreglatz@kk@mm@.]
+\XSP 1 Aver si podemos arreglarnos.
+\XEN 1 Let's see if we can arrange something.
+\EXU 2 n@k.E 7ix-taanh de 7una bes pa(ra) temprano +goo7
+tz@k.7@m-pa
+\XPSH 2 [N@ki 7ixta*nh de 7una bes pa tempran go7 tz@kk@mpa.]
+\XSP 2 vamos a ver de una vez para que temprano se hagan.
+\XEN 2 Let's go see at once so it'll be done early.
+\SYN
+\SEMF
+Page 1888

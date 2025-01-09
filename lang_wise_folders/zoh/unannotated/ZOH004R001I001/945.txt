@@ -1,0 +1,63 @@
+\ROOT 2 tz@y
+\RTGR 2 12
+\DSRC TK94
+\CMTS get deriv's/OK:TK
+\date 25/Jun/96
+\lex ne7k. 'oy.kuy7
+\_no 02192
+\LG MIG
+\PHO [ne7kkokuy7]
+\UND ne7k. 7oy.kuy7
+\MB tapar_corriente, ANTIP, INSTR1
+\VAR
+\GRAM instr1
+\SPG algo para tapar un corriente
+ramas, piedras,
+\ENG something for diverting a stream branches, rocks,
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT ne7k
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex nem [1]
+\_no 02193
+\LG MIG
+\PSH
+\UND nem
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG flamear; echar llamas
+\ENG to flame; to emit sparks
+\SPL yak.nem
+\SLGR CAUS
+\SLGL hacer flamear
+\EXU jak nem-w@
+\XPSH [Jak nemm@.]
+\XSP Flameo* mucho.
+\XEN It flared up a lot.
+\SYN
+\SEMF light
+\ASP activity
+\ARG
+ZOH004R0011001.txt
+\NOM nem.a7
+\SUB ko.nem, nem. nem.ney, nik.nem. '@y, yuk.nem
+\ETYM
+\ETL
+\ROOT nem
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex nem [2]
+\_no 02194
+\LG MIG
+\PSH
+Page 945

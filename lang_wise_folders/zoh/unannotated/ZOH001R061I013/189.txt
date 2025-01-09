@@ -1,0 +1,53 @@
+\_no 02366
+\SPG piedra
+\ENG rock
+\lex tzafoy
+\_no 02367
+\SPG sapho
+\ENG sapho
+\lex tzaj
+\_no 02368
+\SPG pegar
+\ENG glue
+\lex tzajax
+\_no 02369
+\SPG chacal - tiene tenaza
+\ENG
+\lex tzajin
+\_no 02370
+\SPG culebra
+\ENG snake
+\lex tzak
+\_no 02371
+\SPG dejar
+\ENG leave
+\lex tzakx
+\_no 02372
+\SPG sacar mazorca, pla*tano; medio caer
+\ENG
+\lex tzakx
+\_no 02373
+\SPG ciempie*s
+\ENG centipede
+\lex tzam
+\_no 02374
+\SPG sazonarse
+\ENG mature
+\lex tzam
+\_no 02375
+\SPG platicar
+\ENG converse
+\lex tzamkuy7
+\_no 02376
+\SPG montan~a
+\ENG mountains
+\lex tzamm@
+\_no 02377
+\SPG monte
+\ENG bush
+ZOH001R0611013.txt
+\lex tzamm@7
+\_no 02378
+\SPG hierba
+\ENG herb
+Page 189

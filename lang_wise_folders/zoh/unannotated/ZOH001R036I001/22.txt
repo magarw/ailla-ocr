@@ -1,0 +1,76 @@
+\tx gad@
+xawa 7ay
+kwandu m
+\mb ka -da xawa 7ay7 kwandu 7@m win -pak
+\sg1 DCT3-DEM aire hoja cuando 2E
+\eg1 DCT3-DEM wind leaf when 2E FACE-grab
+\zoq Gad@ xawa 7ay, kwandum winpaktzonhpa nena*7,
+\fts Esa hoja para aire cuando topas mal aire,
+\fte That wind leaf, when you encounter a bad spirit,
+\com
+\idx
+\ref ZOH001R036 099
+\_no 00100
+\tx gad@
+nena* kwandu gay
+mi molestz@kpa*m
+ka
+\mb ka -d@ nena7 kwandu ka -y mi molestar-tz@k -pa -7am
+\sg1 DCT3-DEM malo cuando DCT3-TMP 3>2 molestar-hacer-INC-YA
+\eg1 DCT3-DEM bad when DCT3-TMP 3>2 bother -do -INC-NOW
+\ref ZOH001R036 100
+\_no 00101
+\tx 7@m jetzpa*m
+\mb 7@m
+\sgl 2E
+\egl 2E
+\zoq gad@ nena* kwandu gay mi molestz@kpa*m,
+fts ese mal
+aire cuando ya te esta* molestando,
+\fte that evil when it's been bothering you,
+\com
+\idx
+7@m win
+jetz -pa -7am 7@m win
+rascar -INC-YA 2E REFL
+scratch-INC-NOW 2E REFL
+\zoq 7@m jetzpa*m 7@m win.
+\fts te rascas (tu cuerpo).
+\fte you scratch yourself.
+\com
+\idx
+ZOH001R0361001.txt
+winpaktzonhpa
+\ref ZOH001R036 101
+\_no 00102
+7@m win
+\tx 7@m tz@kjaba
+\mb 7@m tz@k -jay -pa 7@m win
+\sg1 2E hacer-APPL-INC 2E REFL
+\egl 2E do -APPL-INC 2E REFL
+\zoq 7@m tz@kjaba 7@m win.
+fts Le haces tu cuerpo.
+\fte You hurt yourself.
+\com
+\idx
+nena*7
+-tzonh-pa nena7
+CARA-apretarse-unir -INC malo
+-join -INC bad
+\ref ZOH001R036 102
+\_no 00103
+\tx 7@m matonhpa
+\mb 7@m matonh -pa
+\sg1 2E escuchar -INC
+\egl 2E hear
+\zoq 7@m matonhpa gad@ tzame.
+\fts Escuchas aquella habladeria.
+\fte You hear that talking.
+\com
+\idx
+gada tzame
+ka -da tzam
+-E7
+DCT3-DEM platicar-NOM3
+-INC DCT3-DEM converse-NOM3
+Page 22

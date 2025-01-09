@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [wajatz@k-]
+\UND waja7=tz@k
+\MB duro, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer duro
+\ENG to make hard
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+\lex waj.wa
+\_no 03522
+\LG MIG
+\PSH [wajwa]
+\UND waj.wa
+\MB
+\VAR
+\GRAM AR
+\SCI
+\USE
+\SPG salado
+\ENG salty
+\EXU jak waj.wa
+\XPSH [jak wajwa]
+\XSP muy salado
+\XEN very salty
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH - ok/fixed: TK
+\date 26/Jun/96
+\lex waj.wa. 7aH
+\_no 03523
+\LG MIG
+\PSH [wajwa7a-]
+\UND waj.wa. 7aH
+\MB salado, VERS1
+\VAR
+\GRAM versl
+\SCI
+\USE
+\SPG hacerse salado
+\ENG to become salty
+\SPL
+ZOH004R0011001.txt
+Page 1515

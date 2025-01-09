@@ -1,0 +1,62 @@
+\ETL
+\ROOT tzam
+\RTGR 12
+\DSRC TK94
+\CMTS ANALYSIS
+\date 26/Jun/96
+\lex tzam.tzam.ney
+\_no 03245
+\LG MIG
+\PSH [tzamtzamney-]
+\UND tzam.tzam.ney
+\MB platicar, platicar, REDUP1
+\VAR
+\GRAM VIR
+\SCI
+\USE
+\SPG no platicar serio
+\ENG to talk foolishness
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzam
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+\lex tzam=tzokoy' =p@'
+\_no 03246
+\LG MIG
+\PSH [tzamtzokoyp@-]
+\UND tzam=tzokoy7=p@7
+\MB platicar, corazon, poner
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG consolar
+\ENG to console
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tzam
+\RTGR 1 T1
+\ROOT 2 p@7
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex tzam-w@
+\_no 03247
+\LG MIG
+\PSH [tzamm@]
+ZOH004R0011001.txt
+Page 1396

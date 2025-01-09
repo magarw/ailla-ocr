@@ -1,0 +1,64 @@
+ZOH001R0611006.txt
+\SLGL agarrar en pun~o // to hold in the closed fist
+\SLGR NO PASS
+\EXU
+\XSP
+\XEN
+\SYN mi7kx (casi lo mismo)
+\SEMF hand, carry
+\ASP activity
+\ARG
+\NOM mi7tz.naanh, mi'tz.i
+\SUB mi7tz=nuk, mi7tz-p@k
+\ETYM
+\ETL
+\ROOT mi7tz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex mo7k=n@k
+\_no 00095
+\LG MIG
+\PSH [mo7kn@k-]
+\UND mo7k=n@k
+\MB
+\VAR mo7k
+\GRAM vt
+\SCI
+\USE
+\SPG 11evar en el brazo en frente o al lado
+\ENG to carry in the arms curled in front of the body (curling palm up) or
+on the side
+\SPL mo7k=n@k. 7oy
+\SLGR ANTIP
+\SLGL 11evar al lado // to carry on the side
+\SPL_mo7k=n@k.7@m
+\SLGR PASS
+\SLGL paralizarse
+walk
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 mo7k
+\RTGR 1 P, (TX)
+\ROOT 2 nak
+\RTGR 2 IX
+\DSRC TK94
+\CMTS
+\date 19/Jun/96
+\lex moles=tz@k
+\_no 00096
+\LG MIG
+\PSH [molestz@k-]
+\UND moles=tz@k
+\MB molestar, HACER
+\VAR
+\GRAM vt
+\SCI
+ya no puede caminar // to be paralized, unable to
+Page 65

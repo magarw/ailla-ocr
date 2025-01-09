@@ -1,0 +1,63 @@
+\SPG 1 dar asco
+\SPG 2 tenerle asco
+\ENG 1 to nauseate
+\ENG 2 to be nauseated
+\EXU jak 7ok.m@x-'oy-pa
+\XPSH [Jak 7okm@xxoba.]
+\XSP Da asco.
+XEN It makes her sick.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT m@x
+\RTGR TX
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex 7ok.m@x.kuy7
+\_no 00372
+\LG MIG
+\PSH [7okm@xkuy7]
+\UND 7ok.m@x.kuy7
+\MB ABAJO, dar_asco, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG mierda, por no decir 'tin'
+\ENG shit, so as not to say 'tin'
+\EXU
+\XSP
+\XEN
+\SYN tin
+\SEMF
+\ETYM
+\ETL
+\ROOT m@x
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 21/Jun/95
+\lex 7ok+nanh+p@7
+\_no 00373
+\LG MIG
+\PSH [7oknanhp@7]
+\UND 7ok+nanh +p@7
+\MB ABAJO, X, REL
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG abajen~o
+\ENG lowlander
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nanh
+ZOH004R0011001.txt
+Page 160

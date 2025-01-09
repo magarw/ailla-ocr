@@ -1,0 +1,63 @@
+\ETL
+\ROOT 1 7ix
+\RTGR 1 T3
+\ROOT 2 tuk
+\RTGR 2 12
+\DSRC TK94
+\CMTS
+\date 18/Jun/96
+\lex 7ix-'ok.poy=nuk
+\_no 00296
+\LG MIG
+\PSH [7ixokpoynuk-]
+\UND 7ix=7ok.poy=nuk
+\MB ver, BAJA, huir, agarrar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 alcanzar la vista
+\SPG 2 devisar
+\ENG 1 to catch sight of
+\ENG 2 to espy
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7ix
+\RTGR 1 T3
+\ROOT 2 poy
+\RTGR 2 12
+\ROOT 3 nuk
+\RTGR 3 T3
+\DSRC HAJ94
+\CMTS
+\date 30/Apr/95
+\lex 7ix. 'oy.kuy7
+\_no 00297
+\LG MIG
+\PSH [7ixxokuy7]
+\UND 7ix. 7oy.kuy7
+\MB ver, ANTIP, INSTR1
+\VAR
+\GRAM instr
+\SCI
+\USE
+\SPG para ver: el ojo
+\ENG to see with: the eye
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7ix
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+ZOH004R0011001.txt
+Page 128

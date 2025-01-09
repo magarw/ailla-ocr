@@ -1,0 +1,61 @@
+\lex puy
+\_no 00243
+\SPG doblarse
+\ENG to bend
+\EX
+\XSP
+\XEN
+\ROOT puy P, I1
+\SEMF position
+\ASSU puy.ney estar acurrucado; en culuquilla
+\CMTS
+\lex p@
+\_no 00244
+\SPG poner
+\ENG to put
+\EX p@7
+\XSP !ponlo!
+\XEN put it (somewhere)!
+\EX dax tap@7oyy@
+\XSP yo crei*
+\XEN I believed it
+\EX 7@y p@w@ primer ponh
+\XSP 1o estreno*
+\XEN
+\EX 7@y p@w@ 7@y t@nhkuy7
+\XSP 1o marco* con su fierro
+\XEN he branded it
+\ROOT p@ T3
+\SEMF move
+\PASS p@.7@m
+\ANTI p@.7oy
+\CMTS
+\lex p@k
+\_no 00245
+\SPG agarrar
+\ENG to get; to grab
+\EX
+\XSP
+\XEN
+\ROOT p@k T3
+\SEMF pick_up
+\PASS p@k.7@m
+\ANTI p@k. 7oy
+\CMTS
+\lex p@m
+\_no 00246
+\SPG aguantar
+\ENG to endure
+\EX ya n p@mma*m
+\XSP ya no aguante*
+\XEN she couldn't endure it
+\ROOT p@m T1
+\SEMF body, cog
+\CMTS
+\lex p@n
+\_no 00247
+ZOH001R0611010.txt
+\SPG estar puesto; ponerse
+\ENG to be placed
+agua, olla
+Page 56

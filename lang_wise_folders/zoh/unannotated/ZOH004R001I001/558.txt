@@ -1,0 +1,63 @@
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ETYM
+\ETL
+\ROOT 7an
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 11/Jan/96
+\lex ko.7an=t@tz
+\_no 01279
+\LG MIG
+\PSH [ko7ant@tz-]
+\UND ko.7an=t@tz
+\MB OTRO, calentarse, secarse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG estar seca*ndolo
+\ENG to be drying something
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 7an
+\RTGR 1 12
+\ROOT 2 t@tz
+\RTGR 2 12
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex ko.7anh.paj-tuk. '@y
+\_no 01280
+\LG MIG
+\PSH [ko7anhpajtukk@y-]
+\UND ko.7anh-paj-tuk.7@y
+\MB OTRO, BOCA, clavar, acabar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 circular
+\SPG 2 cercar
+\ENG 1 to enclose
+ZOH004R0011001.txt
+\ENG 2 to fence
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+Page 558

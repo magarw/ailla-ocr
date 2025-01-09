@@ -1,0 +1,64 @@
+\lex
+\_no 03150
+\LG MIG
+\PSH [t@kkukjo7]
+\UND tak +kuk +jo7
+\MB casa, centro, LOC2
+\VAR
+GRAM ss+loc
+\SCI
+\USE
+\SPG en medio de la casa
+\ENG in the middle of the house
+\EXU
+\XSP
+t@k+kuk+jo7
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex t@k-k@.paj
+\_no 03151
+LG MIG
+\PSH [t@kk@paj]
+\UND tak-k@.paj.0
+\MB casa, AFUERA, cercar, NOM6
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG paral de la casa
+\ENG fence around the house
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex t@k-potz
+\_no 03152
+\LG MIG
+\PSH [t@kpotz-]
+\UND t@k-potz
+\MB casa, embarrar
+\VAR
+\GRAM vi:incorp
+\SCI
+\XSP
+\XEN
+ZOH004R0011001.txt
+\USE
+\SPG formar o hacer pared; enlodar casa
+\ENG to make a wall; to mud a house
+\EXU
+Page 1355

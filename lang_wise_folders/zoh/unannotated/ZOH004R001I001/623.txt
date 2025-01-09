@@ -1,0 +1,63 @@
+\SPG remoler (tercera vez)
+\ENG to regrind (for the third time)
+\EXU 7@n+ ko.po7t=yoj-w@ 7@n+ kajwe
+\XPSH [7@n kopo7tyojj@n kajwe.]
+\XSP volvi* a moler mi cafe*.
+\XEN I reground my coffee.
+SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT po7t
+\RTGR T3
+\ROOT yoj
+\RTGR T3
+\DSRC HAJ02
+\CMTS po7t-, ko.po7t-, ko.po7t=yoj: moler tres veces y ya termino*
+\CMTS you grind it three times and it's done.
+\DATE 09/Aug/02
+\lex ko.pujum
+\_no 01432
+\LG MIG
+\PSH [kopujum-]
+\UND ko.pujum
+\MB OTRO, destejer
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG destejer; desbaratar
+\ENG to unravel; to ruin
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pujum
+\RTGR T3
+\DSRC HAJ94
+\CMTS like a hammock unraveling
+\date 14/Jun/95
+\lex ko.pup
+\_no 01433
+\LG MIG
+\PSH [kopup-]
+\UND ko.pup
+\MB OTRO, sacudir
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacudir
+\ENG to shake
+\EXU
+ZOH004R0011001.txt
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+Page 623

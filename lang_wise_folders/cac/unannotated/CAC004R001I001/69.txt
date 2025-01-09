@@ -1,0 +1,76 @@
+man wojtakok laj inb'o'an jab'ok tas
+man w-ojtak-ok
+laj in-b'o'-an
+jab'-ok tas
+neg 1A-saber-IRR neg 1A-hacer-sub poco-IRR qué
+217. Yo no sé nada.
+140
+a in tik malaj tas wojtak
+a in tik malaj tas w-ojtak
+top 1B dem neg qué 1A-saber
+malaj tas wojtak
+malaj tas w-ojtak
+neg qué 1A-saber
+¿Sabes algo?
+¿ay jaj tas ojtak?
+ay-ø
+jaj tas Ø-ojtak
+exist-3B algo qué 2A-saber
+218. ¿Sabes nadar?
+¿syal anoxwi?
+tz-ø-yal
+a-noxw-i
+pres-3B-poder 2A-nadar-vti
+¿ojtak tzachachanwi?
+Ø-ojtak_tz-ach-achan-wi
+2A-saber pres-2B-bañarse-VM
+¿tom ojtak tzachachanwi?
+tom ø-ojtak tz-ach-achan-wi
+int 2A-saber pres-2B-bañarse-VM
+¿tom ojtak tzanox a' a'?
+tom ø-ojtak tz-Ø-a-nox
+a' a'
+int 2A-saber pres-3B-2A-nadar Cagua agua
+Vamos a bañarnos.
+konh achanwel
+konh achan-w-el
+Vamos bañarse-VM-DIR. afuera
+Sé nadar.
+syal inoxwi
+tz-ø-yal
+in-noxw-i
+pres-3B-poder 1A-nadar-vti
+Nadé ayer.
+noxwi'in ewi
+noxw-i-in
+ewi
+nadar-vti-1B ayer
+Estoy nadando.
+lan inoxwi
+lan in-noxw-i
+prog 1A-nadar-vti
+Fui a nadar.
+ixinxit'ek' noxwel
+ix-in-xit'-ek'
+noxw-el
+pas-1B-ir-DIR.pasar nadar-DIR. afuera
+ixinxit'ek' mixnajel
+ix-in-xit'-ek'
+mixnajel
+pas-1B-ir-DIR.pasar nadar
+219. Juan sólo sabe hablar español.
+a winhaj Xun anhej kastilla syojtak winh
+a
+winhaj Xun anhej kastilla tz-ø-y-ojtak
+winh
+top Cmasc Juan sólo español pres-3B-3A-saber Cmasc
+winhaj Xun anhej kastilla yojtak winh syala'
+winhaj Xun anhej kastilla ø-y-ojtak
+Cmasc Juan sólo español 3B-3A-saber Cmasc pres-3B-3A-decir-vtt
+220. ¿Sabes español?
+¿ojtak kastilla?
+Ø-ø-ojtak
+kastilla
+3B-2A-saber español
+winh tz-ø-y-al-a'
+141

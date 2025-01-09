@@ -1,0 +1,64 @@
+\EXU 4 7@y+ ju7k-w@ bi nu7 bi 7an.e
+\XPSH 4 [7@y ju7kk@ bi nu7 bi 7ane.]
+\XSP 4 El perro trago* la tortilla.
+\XEN 4 The dog gulped down the tortilla
+\EXU 5 min. 'oy-e 7@y+ ju7k.'oy-wa
+\XPSH_5 [Minnoy ju7koyy@!]
+\XSP 5!Ven a comer! (dice a los nin~os)
+\XEN 5 Come eat! (they say to children)
+\SYN
+\SEMF eat
+\ASP transition
+\ARG
+\NOM
+\SUB yuk. ju7k
+\ETYM
+\ETL
+\ROOT ju7k
+\RTGR T3
+\DSRC TK94
+\CMTS
+\CMTS = MAR wu7k
+\date 03/Jan/80
+\lex jum
+\_no 00910
+\LG MIG
+\PSH
+\UND jum
+\MB
+\VAR
+\GRAM vt, vi:med
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG derrumbar(se) (casa, tierra, lado de algo)
+\ENG to tear down or tumble down (house, earth, the side of something)
+\SPL yak.jum
+\SLGR CAUS
+\SLGL desbaratar(se); deshacer; borrar; derrumbar
+\SLGL to fall to pieces; to dissolve; to tear down
+\EXU 1 7@y+ tum yak.jum-w@
+\XPSH 1 [7@y tum yakjumm@.]
+\XSP 1 Lo desbarato* de una vez, lo derrumbo* todo.
+\XEN 1 They knocked it down at once, they knocked it all down.
+\EXU 2 tak 7@y+ jum-xuk-pa
+\XPSH 2 [T@k 7@y jumxukpa.]
+\XSP 2 Esta*n desbaratando la casa.
+\XEN 2 They're tearing down the house.
+\EXU 3 ney jum-w@ bi tak
+\XPSH 3 [Ney jumm@ bi t@k.]
+\XSP 3 Se derrumbo* solo la casa.
+\XEN 3 The house fell down by itself.
+\EXU 4 jum-w@ 7@n peinadu
+\XPSH 4 [Jumm@n peinadu.]
+\XSP 4 Se desbarato* mi peinado.
+\XEN 4 My hairdo fell apart.
+\SYN
+\SEMF build
+\ASP accomplishment
+\ARG
+\NOM jum.17, jum.@7
+\SUB 7ok.jum. @y, nik.jum. '@y, yuk.jum
+\ETYM
+\ETL
+Page 397

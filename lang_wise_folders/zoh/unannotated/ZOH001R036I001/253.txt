@@ -1,0 +1,88 @@
+\com
+\idx
+\ref ZOH001R036 999-192
+\_no 01174
+\tx 7@m kotukjaypa
+\mb 7@m ko -tuk
+\sg1 2E
+\egl 2E SOC-cut
+-jay -pa
+SOC-cortar-APPL-INC
+\zoq 7@m kotukjaypa 70 si ney ga7xe, pwes, kon ney 7ay.
+\fts Le cortas o si no asi* mismo, pues, con todo de la hoja.
+\fte You cut it for him, or if not just like that, well, with the leaves.
+\com
+\idx
+\ref ZOH001R036 999-193
+\_no 01175
+70 si ney
+70 si ney
+o si mismo
+ga7xe
+pwes kon
+ney
+ka -7xe pwes kon ney
+DCT3-SIM pues con
+7ay
+7ay7
+solo hoja
+-APPL-INC or if self DCT3-SIM well with alone leaf
+\tx minpa
+m tzijnaka7tzjayy@
+bi wa7tz
+\mb min -pa 7@m tzij
+-naka7tz -jay -w@ bi wa7tz
+\sg1 venir-INC 2E tirar_piedra-aplastar-APPL-dINC DEF rai*z
+\egl come -INC 2E throw_rock -flatten -APPL-dINC DEF root
+\zoq Minpam tzijnaka7tzjayy@ bi wa7tz.
+\fts vienes a machucarlo la raiz.
+\fte You come mash up the root.
+\com
+\idx
+\ref ZOH001R036 999-194
+\_no 01176
+\tx
+tzijnaka7tzpa
+\mb
+tzij
+-naka7tz -pa
+jemji7ok pwes
+jemji7ok pwes
+\sg]
+tirar_piedra-aplastar-INC
+por todo pues
+\egl throw_rock -flatten -INC all over well
+ZOH001R0361001.txt
+\zoq Tzijnaka7tzpa jemji7ok, pwes.
+\fts Lo machucas en todo, pues.
+\fte well, you crush it up all over.
+\com
+\idx
+\ref ZOH001R036 999-195
+\_no 01177
+\tx 7am y@kp@kk@ba
+\mb 7@m y@k
+-p@k -7@y-pa
+\sg1 2E INSTR2-agarrar-SUF-INC
+\egl 2E INSTR2-get
+\zoq 7am y@kp@kk@ba n@jo.
+\fts Lo echas en el agua.
+\fte You get it in the water.
+\com
+\idx
+\ref ZOH001R036 999-196
+\_no 01178
+\tx 7@m yumpa
+7@m yum
+\mb
+\sg1 2E
+\egl 2E boil
+\zoq 7@m yumpa.
+-pa
+hervir(se) - INC
+- INC
+n@jo
+n@7 -jo7
+agua -Loc2
+-SUF-INC water-LOC2
+Page 253

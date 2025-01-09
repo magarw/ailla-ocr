@@ -1,0 +1,72 @@
+\fts La hora de abrir,
+\fte when he's opening it,
+\com
+\idx
+\not
+\idx aspect, aux_p1
+\ref ZOH001R020 068
+\_no 00069
+\tx 7apu de 7aputukxukk@
+\mb
+7apu de 7apu -tuk
+\sg1 viejo de viejo-terminarse-3PL-COM
+\egl old
+of old -finish
+\not
+\idx
+\ref ZOH001R020 069
+\_no 00070
+\zoq 7apu de 7aputukxukk@.
+\fts viejo si de viejo se hicieron.
+fte old but old they became.
+\com
+\idx
+\tx
+\mb
+\sg1 viejo-terminarse-3PL-COM
+\egl old -finish
+7aputukxukk@
+7apu -tuk
+\not
+\idx
+-xuk-w@
+\zoq 7aputukxukk@.
+\fts viejo se hicieron.
+\fte They became old.
+\com
+\idx
+-3PL-COM
+\ref ZOH001R020 071
+\_no 00072
+\tx tzakk@mm@
+ZOH001R0201001.txt
+\zoq De gaji7 jomkaxukk@.
+\fts De ahi* se murieron.
+\fte Then they died.
+\com
+\idx
+-xuk-w@
+\ref ZOH001R020 070
+\_no 00071
+\tx de gaji
+\mb de ka -ji7 jom
+jomkaxukk@
+-ka7
+\sg1 de DCT3-Loc1 cercar-morirse-3PL-COM
+\egl of DCT3-LOC1 fence -die
+-3PL-COM
+bi
+\mb tzak -7@m -w@ bi
+-xuk-w@
+-3PL-COM
+jamatin bi
+wakax bi
+jamatin bi wakax bi
+lancha kanoa
+lancha kanoa
+\sg1 dejar-PAS -COM DEF dinero DEF vaca DEF lancha canoa
+\egl leave-PASS-COM DEF money DEF COW DEF boat canoe
+\zoq Tzakk@mm@ bi jamatin, bi wakax, bi lancha, kanoa.
+\fts Quedo* el dinero, el ganado, la lancha, canoa
+\fte The money remained, and the cattle, and the boat, and the canoe
+Page 18

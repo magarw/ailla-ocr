@@ -1,0 +1,63 @@
+\GRAM vt
+\SCI
+\USE
+\SPG dar la mano
+\ENG to shake hands
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tzanh
+\RTGR 1 T3
+\ROOT 2 jup
+\RTGR 2 P (T3)
+\DSRC HAJ94
+\CMTS
+\date 10/Feb/96
+\lex tzanh.kuy'=to7kx
+\_no 03262
+\LG MIG
+\PSH [tzanhkuyto7kx-]
+\UND tzanh.kuy7=to7kx
+\MB golpear, INSTR1, dar_palmada
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG aplaudir
+\ENG to applaud
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tzanh
+\RTGR 1 T3
+\ROOT 2 to7kx
+\RTGR 2 T2
+\DSRC HAJ94
+\CMTS
+\date 20/Jun/95
+\lex tzanh.kuy'=to7kx. jay
+\_no 03263
+\LG MIG
+\PSH [tzanhkuyto7kxjay-]
+\UND tzanh.kuy7 to7kx.jay
+\MB golpear, INSTR1, dar_palmada, APPL
+\VAR
+\GRAM indir:vt:incorp
+\SCI
+\USE
+\SPG aplaudirle
+\ENG to applaud (someone)
+\EXU
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+Page 1403

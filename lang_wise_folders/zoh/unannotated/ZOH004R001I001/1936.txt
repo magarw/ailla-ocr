@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 11/Feb/96
+\lex {t@n-ti7}
+\_no 04508
+\LG MIG
+\PSH [t@nti7]
+\UND t@n-ti7
+\MB 1POSN
+\VAR
+\USE first person singular possessive noun
+\GRAM S
+\SPG mi*o/a
+\ENG mine
+\SPL
+\SLGR
+\EXU
+\XPSH
+\XSP
+\XEN
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date 03/Jan/80
+\lex {t@n-ti-jaa7}
+\_no 04509
+\LG MIG
+\PSH [t@ntija*7]
+\UND t@n-ti-jaa7
+\MB XPOSN
+\VAR
+\USE exclusive first person plural possessive noun
+\GRAM S
+\SPG nuestro/a
+\ENG ours
+\SPL
+\SLGR
+\EXU
+\XPSH
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date 03/Jan/80
+\lex %tzim F
+\_no 04510
+\LG MIG
+\PSH
+\UND
+Page 1936

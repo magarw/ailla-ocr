@@ -1,0 +1,60 @@
+\lex po7t
+\_no 00104
+\SPG moler cafe*, maiz tostado, pinol,
+\ENG to grind coffee, toasted corn
+\EX
+\XSP
+\XEN
+\ROOT po7t T3
+\SEMF cook
+\PASS po7t.7@m
+\ANTI po7t.7oy
+\CMTS
+\lex potz
+\_no 00105
+\SPG embarrar; hacer pared; enlodar casa
+\ENG to smear; to make a wall
+\EX t@kpotztz@
+\XSP 1o embarro* la casa
+\XEN he mudded the house
+\ROOT potz T3
+SEMF create
+\PASS potz.7@m
+\ANTI potz.7oy
+\CMTS
+\lex puj
+\_no 00106
+\SPG inflar; soplar; hacer sonar el clarinete
+\ENG to inflate; to blow; to play a clarinet
+\EX
+\XSP
+\XEN
+\ROOT puj T3
+\SEMF body, music
+\PASS NONE puj.7@m *
+\ANTI puj.7oy
+\CMTS
+\lex pujum
+\_no 00107
+ZOH001R0611009.txt
+\SPG destejer; desbaratar; deshilar
+\ENG to unweave; to come apart; to unravel
+\EX
+\XSP
+\XEN
+\ROOT pujum T3
+\SEMF break
+\PASS pujum.7@m
+\ANTI pujum.7oy
+\CMTS
+\lex pu7kx
+\_no 00108
+\SPG dar cornadas; cachar
+\ENG to gore; to catch with the horns
+\EX bi pan yakpu7kxoyy@ bi_wakax
+\XSP el hombre lo cacho* el toro
+\XEN the man caught the bull by the horns
+\EX_ pu7kxm@tz@xukpa wakax d@kka
+\XSP se esta*n agarrando de cornada los ganado
+\XEN the cattle are play-fighting with their horns
+Page 26

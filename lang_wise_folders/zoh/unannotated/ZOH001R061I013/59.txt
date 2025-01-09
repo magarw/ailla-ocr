@@ -1,0 +1,52 @@
+\SPG hombre ; de_hombre
+\ENG man; of_a_man
+\lex jatikx
+\_no 00731
+\SPG estornudar
+\ENG sneeze
+\lex jatonh
+\_no 00732
+\SPG papa*
+\ENG father
+\lex jat@7
+\_no 00733
+\SPG gruesa
+\ENG thick
+\lex ja7tz
+\_no 00734
+\SPG fiar
+\ENG buy_w_credit
+\lex jaway
+\_no 00735
+\SPG arder
+\ENG burn
+\lex jax
+\_no 00736
+\SPG asar
+\ENG roast
+\lex jaxake7
+\_no 00737
+\SPG nuera
+\ENG daughter_in_law
+\lex jay
+\_no 00738
+\SPG APPL
+\ENG APPL
+\lex jay
+\_no 00739
+\SPG escribir
+\ENG write
+\lex jay
+\_no 00740
+\SPG dilatar
+\ENG delay
+\lex jaya
+\_no 00741
+\SPG macho; esposo
+\ENG male ; husband
+\lex jaa
+\_no 00742
+\SPG jaa
+\ENG haa
+ZOH001R0611013.txt
+Page 59

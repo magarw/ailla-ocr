@@ -1,0 +1,52 @@
+\SPG agua
+\ENG water
+\lex n@ji
+\_no 01650
+\SPG nombre
+\ENG name
+\lex n@k
+\_no 01651
+\SPG irse
+\ENG go
+\lex n@7kx
+\_no 01652
+\SPG estivar
+\ENG stack
+\lex n@m
+\_no 01653
+\SPG DO
+\ENG DO
+\lex n@m
+\_no 01654
+\SPG decir
+\ENG say
+\lex n@mmo
+\_no 01655
+\SPG poder
+\ENG be_able_to
+\lex n@mm@
+\_no 01656
+\SPG PROG
+\ENG PROG
+\lex n@niwa
+\_no 01657
+\SPG hongo
+\ENG fungus
+\lex n@nti
+\_no 01658
+\SPG no_hay
+\ENG there isn't
+\lex n@ntiya7
+\_no 01659
+\SPG no_hay
+\ENG there isn't
+\lex n@nh7@win
+\_no 01660
+\SPG pasarri*o
+\ENG
+\lex n@pin7
+\_no 01661
+\SPG sangre
+\ENG blood
+ZOH001R0611013.txt
+Page 132

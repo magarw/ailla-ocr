@@ -1,0 +1,63 @@
+\_no 00180
+\LG MIG
+\PHO [mui7]
+\UND muy. E7
+\MB doblarse, NOM7
+\VAR
+\GRAM pcp
+\SPG apachurrado, doblado
+\ENG dented, bent
+\EXU t@nh.kuy' muy.i7
+\XPSH [t@nhkuy mui7]
+\XSP fierro doblado
+\XEN bent iron
+\SYN
+\ROOT muy
+\RTGR T2
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex muj.i 7uk.i
+\_no 00181
+\LG MIG
+\PSH [muji 7uki]
+\UND muj. E 7uk.E
+\MB mojarse, NOM7, tomar, NOM7
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG atol de "tiziawal"
+\ENG a type of corn drink
+\EXU
+\XSP
+\XEN
+\SYN 7uk.in@n@7
+\SEMF
+\ETYM
+\ETL
+\ROOT muj
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex muj.@7
+\_no 00182
+\LG MIG
+\PHO [muj@7]
+\UND muj.A7
+\MB mojarse, NOM2
+\VAR
+\GRAM SV
+\SPG mojado
+\ENG wet
+ZOH001R0611004.txt
+\EXU yo't.e muj.@7 // muj.@7+k yo't.e
+\XPSH [yote muj@7] // [muj@7k yote]
+\XSP ropa mojada
+\XEN wet clothes.
+\SYN
+\ROOT muj
+\RTGR 12
+\DSRC HAJ95
+Page 74

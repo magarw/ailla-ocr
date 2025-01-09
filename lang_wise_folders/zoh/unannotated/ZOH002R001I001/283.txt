@@ -1,0 +1,42 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(v)
+(10.3)
+(i)
+(ii)
+As mentioned in chapter 8, when NI occurs inside a dependent verb
+construction, the agreement marker is ergative, even though the construction
+as a whole is intransitive. This is the result of the ergative shift that occurs in
+these dependent constructions.
+(iii)
+tzøwijuyxukpa
+0 cawi?=huy-šuk-pa
+3A tobacco-buy-3PL-INC
+'They buy tobacco.'
+(10.4)
+(i)
+minnø 'øy koyoxkuymetze
+min-wə
+?əy+ ko.yoš.kuy?=me?c-E
+come-COM 3E+ SOC.work.INSTR1 = look_for-dCOM
+'He came to look for a job.'
+nømmøn kajwetzøktammø
+nəmmə ?ən+ kahwe=cək-tam-wə
+PROG 1E+ coffee-do-1/2PL-COM
+'We were making coffee.'
+nøkpay xox'anetzakjayxukkø
+nək-pa ?əy+ šoš=?ane-cak.hay-šuk-wə
+go-INC 3E+ bean=tortilla=leave.APPL-3PL-DINC
+'They go to leave bean tamales for him.'
+(ZOH001 R017-008)
+nøkkøy jentepøki
+nək-wə
+əy+ hente=pək-E
+go-COM 3E+ people-get-dCOM
+'He went to get some people."
+256
+(ZOH001R018-206)
+It is possible to incorporate patient arguments that refer to human
+entities, although most patients tend to be non-human.
+(ZOH001 R007-017)
+(ZOH001R022-026)
+(ZOH001R024-643)

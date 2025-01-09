@@ -1,0 +1,62 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 12/Feb/96
+\lex {d@k (+7a(y))}
+\_no 04417
+\LG MIG
+\PSH [d@kkay]
+\UND d@k +7a(y)
+\MB NPL
+\VAR [d@kka]
+\GRAM postposed noun pluralizer
+\SCI
+\USE
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU de.' d@k +7a(y) bi p@k-n@k-pa-v7k
+\XPSH [Ded@kka_bi p@kn@kpa*7.]
+\XSP Esos son las cosas que lleva.
+\XEN Those are the things that she carries.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 11/Feb/96
+\lex {d@n}
+\_no 04418
+\LG MIG
+\PSH
+\UND_t@n+
+\MB XERG
+\VAR
+\USE exclusive first person agreement marker, now rarely used
+\GRAM pron
+\SPG nosotros
+\ENG we
+SPL
+\SLGR
+\EXU
+ZOH004R0011001.txt
+\XPSH
+\XSP
+\XEN
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {d@.x+jaa7}
+Page 1897

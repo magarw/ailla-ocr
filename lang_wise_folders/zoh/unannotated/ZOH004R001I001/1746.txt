@@ -1,0 +1,62 @@
+\lex x@n. @7
+\_no 04059
+\LG MIG
+\PSH [x@n@7]
+\UND x@n.A7
+\MB aguadar, NOM2
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG aguado
+\ENG moist
+\EXU dan _x@n.@'=tz@k-pa de way para d@ yo=tz@k-tam-pa_go7
+\XPSH [D@n x@n@tz@kpa de way para d@ yotz@ktampa go7.]
+\XSP Lo hacemos aguado la masa para hacer tamales.
+\XEN We moisten the masa to make tamales.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT X@n
+\RTGR IX
+\DSRC HAJ94
+\CMTS ANALYZE
+\date 03/Jan/80
+\lex x@n.@'=tz@k
+\_no 04060
+\LG MIG
+\PSH [x@:n@tz@k-]
+\UND x@n.A7=tz@k
+\MB aguadar, NOM2, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer aguado
+ENG to moisten
+\EXU 7@n+ x@n@'=tz@k-tam-pa bi way. E para d@+
+yo'=tz@k-tam-pa+goo7
+XPSH [7@n x@:n@tz@ktampa bi wae para d@ yo:tz@ktampago*7.]
+\XSP Estamos aguadando la masa para hacer los tamales.
+\XEN we're moistening the cornmeal to make tamales.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT x@n
+\RTGR IX
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+ZOH004R0011001.txt
+\lex x@n. (@'). 7aH
+\_no 04061
+\LG MIG
+\PSH [x@n@7a-]
+\UND x@n.A'.7aH
+\MB aguadar, NOM2, VERS1
+\VAR X@@n.7aH
+\GRAM
+\SCI
+Page 1746

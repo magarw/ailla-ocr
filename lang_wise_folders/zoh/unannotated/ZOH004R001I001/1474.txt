@@ -1,0 +1,62 @@
+\CMTS
+\date 11/Feb/96
+\lex tzujux mok
+\_no 03426
+\LG MIG
+\PSH
+\UND tzujux mok
+\MB verde, mai*z
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG maiz fresco
+\ENG fresh corn
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex tzujux niwi7
+\_no 03427
+\LG MIG
+\PSH
+\UND tzujux niwi7
+\MB verde, chile
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG chile verde
+\ENG green chili
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 05/Oct/94
+\lex tzuk
+\_no 03428
+\LG MIG
+\PSH
+\UND tzuk
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG rata, rato*n
+\ENG rat, mouse
+ZOH004R0011001.txt
+Page 1474

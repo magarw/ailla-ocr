@@ -1,0 +1,64 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS < *7us.7@ was reanalyzed
+\date 24/Jun/96
+\lex 7ux(u') Zoko
+\_no 00519
+\LG MIG
+\PSH [7uxu 7oko]
+\UND 7uxu7 7oko
+\MB
+\VAR 7uux 7oko
+\GRAM s (m) s
+\SCI
+\USE
+\SPG escorpio*n
+\ENG a type of animal
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 09/Jan/96
+\lex 7ux(u') ko.p@n
+\_no 00520
+LF:4 pies
+\LG MIG
+\PSH [7uxu kop@n]
+\UND 7uxu7 ko.p@n
+\MB
+\VAR 7uux kop@n
+\GRAM
+\XEN
+\SYN
+\SCI
+\USE
+\SPG bica (que sale en el frijol)
+\EXU a type of bug that gets into the beans
+\XSP
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+LF:bugs
+\DSRC TK94
+\CMTS
+\date 29/Jan/96
+\lex 7ux(u') weni7
+\_no 00521
+ZOH004R0011001.txt
+\LG MIG
+\PSH [7uxu weni7]
+\UND 7uxu7 weni7
+\MB
+Page 223

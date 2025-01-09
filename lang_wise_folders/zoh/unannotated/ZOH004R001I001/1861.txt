@@ -1,0 +1,64 @@
+\LG MIG
+\PSH
+\UND yu7p
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG picar (madera, cebolla, carne...)
+\ENG to chop or mince (wood, onion, meat)
+\SPL yu7p.7oy
+\SLGR ANTIP
+\SLGL picar // to chop
+\SPL yu7p.7@m
+\SLGR PASS
+\SLGL picarse // to be chopped
+\SPL yu7p.ney
+\SLGR ASSUM1
+\SLGL estar picado // to be chopped
+\SPL yu7p.ten
+\SLGR PRSV
+\SLGL tener picado // to have chopped
+\EXU 1 yu7p-w@ tuj
+\XPSH 1 [Yu7pp@ tuj.]
+\XSP 1 Cayo* una rociadita.
+\XEN 1 There was a cloudburst.
+\EXU 2 7@y+ yu7p-w@ bi xix
+\XPSH 2 [7@y yu7pp@ bi xix.]
+\XSP 2 Pico* la carne.
+\XEN 2 She minced the meat.
+\SYN
+\SEMF cut
+\ASP process
+\ARG
+\NOM yu'p.i7, yu7p.naanh tuj
+\SUB
+\ETYM
+\ETL
+\ROOT yu7p
+\RTGR P (T3)
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex yu7p.naanh tuj
+\_no 04334
+\LG MIG
+\PHO [yu7pnanh tuj]
+\UND yu7p.naanh tuj
+\MB picar, MED, 11uvia
+\VAR
+ZOH004R0011001.txt
+\GRAM meas
+\SPG unas gotitas de agua que cae
+\ENG little raindrops
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT yu7p
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+Page 1861

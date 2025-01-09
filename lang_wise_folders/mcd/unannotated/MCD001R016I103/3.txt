@@ -1,0 +1,52 @@
+34 cudu basocayari
+cudu ba-so-caya²5-ri
+dessin tête-LOC-EXIST2-ITE
+les dessins à nouveau sur leur tête
+35 cudu ohua choruma
+cudu ohua choru-ma-a
+dessin fleur défaire-CAUS-ACC
+les dessins de fleurs ont été dispersés
+36 choru chorumanafo
+choru choru-ma-na-fo
+défaire défaire-CAUS-REC-PL
+ils ont été dispersés, dispersés
+37 ///manafomu ifofo///
+ma-na-fo-mu ifo-fo
+CAUS-REC-PL-EXIST1 maître-PL
+par les maîtres
+38 fanaimu ifofo
+fana-i-mu ifo-fo
+chanter-PROG-EXIST1 maître-PL
+les maîtres chantent
+39 ua cudu daquima
+ua cudu daqui-ma-a
+1PERS.A dessin « être dessus »-CAUS-ACC
+<<
+ils m'ont couvert de dessins
+40 ua cudu daquimanaino
+ua cudu daqui-ma-na-aino
+1PERS.A dessin « être dessus »-CAUS-REC-ACT-SIM
+ils m'ont couvert de dessins
+41 atoyamu idiquin
+26
+ato-ya-mu i-di-quin
+3PERS.PL-COM-EXIST1 AUX.INTR-PASL-OST1
+je fus couvert en même temps qu'eux
+42 ari mana adiquin
+ari mana a-di-quin
+LOC plateau AUX.TR-PASL-OST1
+sur le lointain plateau, je fus couvert de dessins
+43 ari mana arishon
+ari mana a-ri-shon
+LOC plateau AUX.TR-ITE-ACT.ANT
+sur le lointain plateau, je fus à nouveau couvert de dessins
+25
+On retrouvera cette série de morphème dans les coshoiti ; ils font partie de formules difficiles à décomposer:
+si l'on peut toujours identifier le préfixe (ici /ba-/ de bapo, « tête ») et si le morphème (verbal ?) /-so/, qui n'est
+pas indépendant, est utilisé dans la langue quotidienne pour attirer l'attention sur une partie du corps, l'infixe /-
+caya-/, lui, semble très étrange pour tous les locuteurs sharanahua ; il nous a semblé avoir une valeur existentielle
+- il s'agit toutefois là d'une hypothèse; en shipibo, le suffixe /-kaya/ semble avoir une valeur de contre-
+expectatif dans le langage courant (Valenzuela 2005).
+26
+Les dessins ont ici la valeur de pétales.
+43

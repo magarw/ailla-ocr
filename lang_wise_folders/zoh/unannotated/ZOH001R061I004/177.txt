@@ -1,0 +1,64 @@
+\lex
+\_no 00447
+\LG MIG
+x@k=ko.xe't.e7
+\PSH [x@kkoxete7]
+\UND x@k-ko.xe7t. E7
+\MB frijol, OTRO, frei*r, NOM7
+\VAR
+\GRAM nom: incorp
+\SCI
+\USE
+\SPG frijol refrito
+\ENG refried beans
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xe7t
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex x@k-k@'t.i7
+\_no 00448
+\LG MIG
+\PSH [x@kk@ti7]
+\UND x@k-k@7t.E7
+\MB frijol, moler, NOM7
+\VAR
+\GRAM nom: incorp
+\SCI
+\USE
+\SPG frijoles molidos
+\ENG ground beans
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT k@7t
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex x@k=pux.i7
+\_no 00449
+\LG MIG
+\PSH [x@kpuxi7]
+\UND_x@k-pux. E7
+\MB frijol, desboronar, NOM7
+\VAR
+\GRAM nom:incorp
+\SCI
+\USE
+\SPG tamal de frijol
+\ENG bean tamale
+\EXU
+ZOH001R0611004.txt
+Page 177

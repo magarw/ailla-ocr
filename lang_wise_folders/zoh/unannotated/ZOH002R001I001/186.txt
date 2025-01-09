@@ -1,0 +1,37 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+7.1.1.8. nik
+This morpheme means 'VERB on the surface of X', hence the gloss code
+SURF(ace). It especially applies to verbs of spraying, spreading, or splattering,
+and particularly applies to VERBing on someone's body. Productive use of this
+prefix by the unwary may cause embarassment, since it apparently is used in a
+number of off-color terms. nik- always co-occurs with the suffix -?ǝy.
+(7.13)
+(i)
+(iii)
+(iv)
+(v)
+nikkojjøyyø
+O nik.?oh.?ǝy-wə
+3A SURF.cough.SUF-COM
+'He coughed on her.'
+(ii)
+niktzujjøyyø
+?əy+ nik.cuh.?ǝy-wə
+3E+ SURF.spit.SUF-COM
+'She spit at him.'
+'øy nikje'kkøyyø
+?əy+ nik.he?k.?əy-wə
+3E+ SURF.hoe.SUF-COM
+'He picked it up with a hoe and threw it on top of something.'
+nønikketztzøyyø
+0 nə?=nik.kec.?ǝy-wə
+3A water=SURF.sprinkle_w_hand.SUF-COM
+'She threw water on it (with her open hand).'
+161
+'øy yaknikpoyyøba 'ora 'øy tziwø 'asta gajá
+?əy+yak.nik.poy.?ǝy-pal
+Pora ?əy+ci?-wǝ
+Pasta ga.haaŋ
+3E+ CAUS.SURF.flee.SUF-INC TEMREL 3E+ give-COM until DCT3+DIR 1
+'When he jumped on top of him he knocked him over there."
+(ZOH001R018-333)

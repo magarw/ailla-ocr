@@ -1,0 +1,64 @@
+\ETYM
+\ETL
+\ROOT tzij
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex tziji7
+\_no 03342
+\LG MIG
+\PSH
+\UND tziji7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG tlacuache
+\ENG possum
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+LF: 7anmal
+\lex tziji' paxte7
+\_no 03343
+LG MIG
+\PSH
+\UND tziji7 paxte7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG puerco espi*n
+\ENG porcupine
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+LF:7anmal
+\ROOT
+\DSRC TK94
+\CMTS CK-all - HAJ:96 ok/OK: TK
+\date 26/Jun/96
+\lex tzij-jonh
+\_no 03344
+\LG MIG
+\PSH [tzijjonh-]
+\UND tzij-jonh
+\MB pegar_con_piedra, atarantarse
+\VAR
+ZOH004R0011001.txt
+Page 1437

@@ -1,0 +1,63 @@
+\lex m@tz.'@y
+\_no 02107
+\LG MIG
+\PSH [m@tztz@y-]
+\UND m@tz.7@y
+\MB *jugar, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG jugar
+\ENG to play
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * m@tz
+\DSRC TK94
+\CMTS CK-PH - ok/OK: TK
+\date 25/Jun/96
+\lex m@7tz
+\_no 02108
+\LG MIG
+\PSH
+\UND m@7tz
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG rechinar
+\ENG to squeak
+\SPL yak.m@7tz
+\SLGR CAUS
+\SLGL hacer rechinar // to make something squeak
+\EXU
+\XSP
+\XEN
+\SYN w@7tz
+\SEMF sound
+\ASP activity
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT m@7tz
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex m@x
+\_no 02109
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+\UND m@x
+\MB
+\VAR
+Page 909

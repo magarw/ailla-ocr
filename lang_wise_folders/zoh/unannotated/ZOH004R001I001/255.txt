@@ -1,0 +1,62 @@
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 24/Jun/96
+\lex chirinh m@tz.17
+\_no 00594
+\LG MIG
+\PSH [chirinh m@tzi7]
+\UND chirinh m@tz.E7
+\MB sonaja, *jugar, NOM7
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG sonaja
+\ENG baby rattle
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT m@tz
+\DSRC TK96
+\CMTS
+\date 03/Jan/80
+\lex chitugii7
+\_no 00595
+\LG MIG
+\PSH [chitugi*7]
+\UND chitugii7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG chitogui*
+\ENG a type of bird
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF pa*jaro
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 26/Jun/96
+\lex chitugii7 7@y+ jo.nenh7
+\_no 00596
+\LG MIG
+\PSH [chitugi*7_7@y_jonenh7]
+\UND chitugii7 7@y+ jo. nenh7
+ZOH004R0011001.txt
+Page 255

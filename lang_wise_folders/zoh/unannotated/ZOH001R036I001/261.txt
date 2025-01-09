@@ -1,0 +1,81 @@
+\zoq 7@m_tz@kjaba*m 7@y rremedyu
+\fts ya le haces su remedio
+\fte Now you make his medicine.
+\com
+\idx
+\ref ZOH001R036 999-232
+\_no 01213
+\tx
+pa pitz@mpa
+\mb para pitz@m-pa
+\sg1 para salir -INC
+\egl for leave -INC
+\zoq pa pitz@mpa.
+\fts para que salga.
+\fte so it leaves.
+\com
+\idx
+\ref ZOH001R036 999-233
+\_no 01214
+\tx ya n jamtz@k@
+\mb ya 7@n jam -tz@k -A
+\sg1 NEG 1E cal -hacer-nINC que
+\egl NEG 1E lime-do
+\ref ZOH001R036 999-234
+\_no 01215
+\tx 7@y j@xp@kpa
+\mb 7@y jax -pak
+\sg1 3E
+\eg1 3E
+ATRAS-agarrar
+BACK -get
+\zoq 7@y j@xp@kpa.
+\fts lo saca.
+\fte he gets it.
+\com
+\idx
+\zoq Yan jamtz@k@ ti 7ay naxe ga7, peru
+\fts No recuerdo que hoja de verdad es, pero
+\fte I don't remember which leaf it is, really, that one, but,
+\com
+\idx
+\ref ZOH001R036 999-235
+\_no 01216
+\tx 7@y j@xp@kpa
+\mb
+7@y jax -pak
+\sg1 3E
+\egl 3E BACK -get
+\zoq 7@y j@xp@kpa.
+\fts Lo saca.
+\fte He gets it out.
+\com
+\idx
+-pa
+-INC
+- INC
+ATRAS-agarrar-INC
+7ay naxe
+7ay7 naxe
+hoja verdad
+-nINC what leaf truth
+\tx ya min@
+\mb__ ya
+min
+-A
+\sg1 NEG venir-nINC
+-pa
+\ref ZOH001R036 999-236
+\_no 01217
+ti
+ti
+-INC
+ZOH001R0361001.txt
+ga7
+ka
+Page 261
+peru
+peru
+-7
+DCT3-NOM1 pero
+DCT3-NOM1 but

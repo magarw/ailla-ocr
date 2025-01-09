@@ -1,0 +1,63 @@
+\SLGR CAUS ANTIP
+\SLGL dejar comer // to allow to eat
+\EXU
+\XPSH
+\XSP
+\XEN
+\SYN
+\SEMF eat
+\ASP activity
+\ARG
+\NOM k@x.kuy7, k@x.i, k@x=tuku7, k@x-tup.u7, k@x.7@m-pa+a7k,
+\NOM ni.k@x, yak.k@x
+\SUB jo.k@x, ko.k@x, win-k@x, k@x.ki7px, k@x-(@)=t@', k@x=tzak,
+\SUB win=k@x, yuk.k@x='ok.manh
+\ETYM
+\ETL
+\ROOT k@x
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\CMTS
+\date 03/Jan/80
+\DATE 14/Aug/02
+\lex k@x.7@m-pa+a7k
+\_no 01766
+\LG MIG
+\PSH [k@xx@mba*7]
+\UND k@x.7@m-pa+ P@7k
+\MB comer, PASS, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG viveres; cosa que se come
+\ENG food; provisions
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT k@x
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex k@.xanh
+\_no 01767
+\LG MIG
+\PSH [k@xanh-]
+\UND k@.xanh
+ZOH004R0011001.txt
+\MB FUERA, machetear
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG limpiar milpa
+\ENG to clear a cornfield
+\EXU mok=k@.xanh-w@
+\XPSH [Mokk@xanhnh@.]
+Page 764

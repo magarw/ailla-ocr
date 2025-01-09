@@ -1,0 +1,62 @@
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex w@tz.naanh
+\_no 03857
+\LG MIG
+\PHO [w@tzna*nh]
+\UND w@tz.naanh
+\MB peinar, MED
+\VAR
+\GRAM meas
+\SPG una peinada
+\ENG a stroke of the comb
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT w@tz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex w@7tz
+\_no 03858
+LG MIG
+\PSH
+\UND w@7tz
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG rechinar (como huaraches, una silla en una pared de tejas, el cuero
+de los piernas en una silla de pla*stico)
+\ENG to squeak (like huaraches, a chair slid across tile floor, bare flesh
+of the back of the thighs on a plastic chair)
+\SPL yak.w@7tz
+\SLGR CAUS
+\SLGL hacer rechinar // to make squeak
+\EXU w@7tz-w@ k@ak
+\XPSH [w@7tztz@ k@ak.]
+\XSP Rechino* el huaracho.
+XEN The sandal squeaked.
+\SYN
+\SEMF sound
+\ASP process
+\ARG
+\NOM kuy=w@7tz.naanh
+\SUB
+\ETYM
+\ETL
+\ROOT w@7tz
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\CMTS cf. m@7tz 12 'rechinar'
+ZOH004R0011001.txt
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex w@x-tujta-'anh
+\_no 03859
+Page 1659

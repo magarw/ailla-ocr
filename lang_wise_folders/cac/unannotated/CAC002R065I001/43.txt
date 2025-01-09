@@ -1,0 +1,34 @@
+38
+Pitch and Contour Allophones
+No phonemes of pitch or of contour are postulated on a
+lexical level, as no two lexical items differ in pitch or
+contour alone. However, the distribution of pitches and
+pitch contours over a string of morphemes cannot be predicted
+on phonological grounds. Phonemic pitches and contours have
+thus been established.
+The three phonemic contours occur only in connection with
+open juncture and are manifested phonetically as rising, level,
+and falling pitch line over the pre-junctural syllable.
+Rising
+contour is marked //, level contour is marked //, and falling
+contour is marked //. The following transcriptions of the
+phrases /# lum čóNáp' # / the town and /# lum píNkah # / the
+plantation illustrate the phonetic manifestations of the three
+contours.
+lum. ,tšo. 'Nap
+lum.,tšo. 'Nap.
+.lum. ,tšo. 'Nap.
+•lum.'piN.kaa.
+.lum. 'piN.kaa.
+4231/
+/# lum čóNáp¹ #23
+/ # lum čóNáp' #23→/
+/ # lum čóNáp #22↑/
+/#lum píNkah #31/
+/# lum píNkah #³1→/
+31
+P
+Except for the last two syllables before open juncture and
+syllables which are marked with sentence stress, pitch levels
+can be predicted from stress phonemes--the low pitch always
+occurs with weak stress and the mid pitch occurs with strong

@@ -1,0 +1,63 @@
+\SPG naranja
+\ENG orange
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Nov/94
+\lex 7anaxa nax
+\_no 00038
+\LG MIG
+\PSH
+\UND 7anaxa nax
+\MB naranja, tierra
+\VAR 7anaax nax
+\GRAM sms
+\SCI
+\USE
+\SPG naranjal
+\ENG orange grove
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+LF:kuy
+\CMTS
+\date 24/Jun/96
+\lex 7anaxa n@7
+\_no 00039
+\LG MIG
+\PSH
+\UND 7anaxa n@7
+\MB naranja, agua
+\VAR 7anaax n@7, 7anaxa 7@y+n@7
+\GRAM sms
+\SCI
+\USE
+\SPG jugo de naranja
+\ENG orange juice
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 24/Jun/96
+\lex 7anax (a) lima
+ZOH004R0011001.txt
+Page 17

@@ -1,0 +1,63 @@
+\SPG gorra (para nin*os); cachucha
+\ENG bonnet (for children)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex ko=tzu7px
+\_no 01465
+\LG MIG
+\PSH [kotzu7px-]
+\UND ko7=tzu7px
+\MB CAB, X
+\VAR
+\GRAM vt:incorp
+\SCI
+\USE
+\SPG chupar cabeza
+\ENG to suck a head
+\SPL_ko=tzu7px.7oy
+\SLGR ANTIP
+\SLGR NO PASS
+\EXU 7@y+ ko=tzu7px-w@ koke kopak
+\XPSH [7@y kotzu7px@ koke kopak.]
+\XSP chupo* la cabeza del pescado.
+\XEN She sucked the fish head.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzu7px
+\RTGR T3
+\DSRC TK94
+\CMTS
+\CMTS inflect EX
+\date 18/Jun/96
+\lex ko.tzu'=muk. '@y
+\_no 01466
+\LG MIG
+\PSH [kotzumukk@y-]
+\UND ko.tzu7=muk. 7@y
+\MB OTRO, noche, caerse, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE incorporated ABS subject
+\SPG entrarse la noche
+ZOH004R0011001.txt
+\ENG for night to fall
+\EXU ko.tzu'-muk. '@y-wa
+\XPSH [Kotzumukk@yy@.]
+\XSP Entro* la noche.
+\XEN Night fell.
+\SYN
+\SEMF
+\ETYM
+Page 637

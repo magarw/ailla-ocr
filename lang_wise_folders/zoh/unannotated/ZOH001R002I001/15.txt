@@ -1,0 +1,76 @@
+\zoq purro 7anhp@n, tanh kom gaja7,
+\fts pura idioma alla*,
+\fte only zoque, just like there,
+\not
+\idx
+\ref ZOH001R002 064
+\_no 00065
+\tx 7i
+tanh
+\mb 7i tanh
+\sgl y
+\egl and be_wide
+besinuja*7.
+besinu -jaa7
+estar_ancho como DCT1-Loc1 y porque vecino -NPL2
+like DCT1-LOC1 and because neigbor-NPL2
+\ref ZOH001R002 065
+\_no 00066
+\zoq 7i tanh kom y@ji7, 7i porke besinuja*7.
+\fts y aqui, y porque somos vecinos.
+\fte and just like here, and because we're neighbors.
+\not
+\idx
+\tx y@ji7
+\mb
+ya -ji7
+\sg1 DCT1-Loc1
+\eg1 DCT1-LOC1
+kom y@ji7, 71
+komo ya ji7 7i
+\tx pitzko7 ga
+jente d@kka, kwand minxukpa
+p@7txukpa
+\mb pitzko7 ka -7 jente d@kkay kwando min -xuk-pa p@7t -xuk-pa
+\sg1 por_eso
+DCT3-NOM1 gente NPL cuando venir-3PL-INC pasar-3PL-INC
+\eg1 because_of DCT3-NOM1 people NPL when come -3PL-INC pass -3PL-INC
+ZOH001R0021001.txt
+\ref ZOH001R002 066
+\_no 00067
+\tx ра n@kxukpa
+\mb_para_n@k -xuk-pa
+\sg1 para irse-3PL-INC Niltepec
+\egl for go
+go -3PL-INC Niltepec
+\zoq Pitzko7 ga jented@kka, kwand minxukpa p@7txukpa y@ji7
+fts Por eso aquella gente, cuando vienen pasan aqui
+\fte so, those people, when they came, they passed here
+\not
+\idx aux_p1
+\ref ZOH001R002 067
+\_no 00068
+\tx n@kpa
+\mb n@k -pa
+Pa7okj@7,
+Pa7okj@7
+\zoq pa n@kxukpa Pa7okj@7.
+\fts porque vaigan para Niltepec.
+\fte because they were going to Niltepec.
+\not
+\idx
+porke
+porke
+7@y x@nhnhaxukk@.
+7@y_x@nh
+-7a
+-xuk-w@
+fiesta -VERS1-3PL-DINC
+\zoq N@kpa 7@y x@nhnhaxukk@.
+\fts van a la fiesta.
+\sgl irse-INC 3E
+\egl go -INC 3E festival-VERS1-3PL-DINC
+\fte They were going to the festival.
+\not
+\idx aux_p1
+Page 15

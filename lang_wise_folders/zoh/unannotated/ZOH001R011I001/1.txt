@@ -1,0 +1,87 @@
+\id C:\TEXTS\ZOH001R011.TXT
+\ref ZOH001R011 000
+\_no 00001
+\zoq Satornino 7i Soldao7@yti
+\fts Satornino y los Soldados
+\fte satornino and the Soldiers
+\com narrado por Germa*n Sa*nchez_Morales
+\com 7/23/94, en Forti*n de las Flores, Veracruz, Mexico
+\com grabado por GSM, transcrito por HAJ
+\com traducido al espan~ol por GSM,
+\com analisado y traducido al ingles por HAJ.
+\com narrated by Germa*n Sa*nchez Morales
+\com 7/23/94, in Forti*n de las Flores, Veracruz, Mexico
+\com
+\com
+\com 7
+\com recorded by GSM, transcribed by HAJ
+\com translated into Spanish by GSM,
+\com analyzed and translated into English by HAJ.
+Ortografi*a
+Orthography
+\com @
+\com nh
+\com tz
+\com x
+\com j
+\com *
+ZOH001R0111001.txt
+pau*sula glotal
+vocal medio central
+nasal velar
+28/Oct/04
+\ref ZOH001R011 001
+\_no 00002
+\tx 7@n tzampa
+\mb 7@n tzam
+(ng)
+africativo alveolar (ts)
+fricativo palatal (sh)
+glottal fricative (h)
+estre*s
+\ref ZOH001R011 002
+\_no 00003
+\tx
+\mb 7entonses te
+7entonse deji
+tum kwento soldao 7@yti 7i
+-pa tum kwento soldado 7@yti7 71
+satornino
+satornino
+platicar-INC uno cuento soldado 3PSN y
+Satornino
+\sgl 1E
+\egl 1E converse-INC one story soldier 3PSN and Satornino
+glottal stop
+mid central vowel
+velar nasal
+\zoq 7@n tzampa tum kwento Soldao7@yti 7i Satornino.
+\fte voy a platicar un cuento del soldados y Satornino.
+\fts I'm going to tell a story about Satornino and the Soldiers.
+\com
+\idx sp
+alveolar affricate
+palatal fricative
+stress
+\zoq 7entonse de ye7tztz@ soldaod@kka.
+\fts Entonces llego* los soldados.
+\fte Once upon a time soldiers arrived.
+\com
+\idx sp
+ye7tztz@
+soldao d@kka
+soldado d@kkay
+-ji7 ye7tz -w@
+\sg1 entonces DCT2-LOC1 11egar-COM soldado NPL
+\egl then
+DCT2-LOC1 arrive-COM soldier NPL
+\ref ZOH001R011 003
+\_no 00004
+t@k7anhj@7 juxtix
+\tx ye7chukk@
+\mb ye7tz -xuk-w@ t@k7anhj@7 juxtixa
+\sgl 11egar-3PL-COM San_Miguel autoridad LOC3
+\egl arrive-3PL-COM San_Miguel authority LOC3
+Page 1
+7anhji7
+7anhji7

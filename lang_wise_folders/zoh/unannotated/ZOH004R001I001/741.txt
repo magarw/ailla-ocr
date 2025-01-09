@@ -1,0 +1,63 @@
+\XSP Se apago* toda las luces.
+\XEN All the lights went out.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 n@k
+\RTGR 1 IX
+\ROOT 2 7okx
+\RTGR 2 12
+\DSRC HAJ95
+\CMTS
+\date 26/Jan/96
+\lex k@.n@k='opx. '@y
+\_no 01715
+\LG MIG
+\PSH [k@n@kkopx@y-]
+\UND k@.n@k. 7opx.7@y
+\MB FUERA, irse, echar_espuma, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG sacar espuma todo
+\ENG to get foam all over something
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 n@k
+\RTGR IX
+\ROOT 2 70px
+\RTGR 2 12
+\DSRC HAJ95
+\CMTS
+\date 12/Jan/96
+\lex k@.n@k='07tz. '@y
+\_no 01716
+\LG MIG
+\PSH [k@n@kko7tztz@y-]
+\UND k@.n@k=707tz.7@y
+\MB FUERA, irse, doblar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG doblar todo
+\ENG to bend everything
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+Page 741

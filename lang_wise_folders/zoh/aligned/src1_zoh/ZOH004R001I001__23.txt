@@ -1,0 +1,63 @@
+\USE
+\SPG hacer sen~ales de meter el dedo
+\ENG to make the movements of finger-fucking
+\EXU 7an@k.matz@.matz@.ney-pa
+\XPSH [7an@kmatz@matz@neba.]
+\XSP "Lo mete y lo saca -- como con el dedo."
+\XEN "He put it in and pulled it out
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT matz?
+\RTGL sobar
+\DSRC TK96
+\CMTS
+\date 02/Oct/96
+\lex 7an@k.to7kx. '@y
+\_no 00052
+\LG MIG
+\PSH [7an@kto7kx@y-]
+\UND 7an@k.to7kx.7@y
+\MB X, dar_palmada, SUF
+\VAR
+\GRAM Vi
+\SCI
+\USE
+\SPG cachetear, abofetear, dar palmada
+\ENG to slap (on) the face.
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT to7kx
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 02/Oct/96
+\lex 7an@k.tzanh. '@y
+\_no 00053
+ZOH004R0011001.txt
+\LG MIG
+\PSH [7an@ktzanhnh@y]
+\UND 7an@k.tzanh.7@y
+\MB X, golpear, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\EXU
+\XSP
+\XEN
+\SYN
+\SPG 1 abofetear
+\SPG 2 pegarle un golpe en la boca con el pun~o
+\ENG 1 to slap
+ENG 2 to hit in the mouth with the fist
+\SEMF
+\ETYM
+\ETL
+Page 23

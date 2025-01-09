@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex tzan.tzan7
+\_no 03250
+\LG MIG
+\PSH [tzantzan7]
+\UND tzan.tzan7
+\MB
+\VAR
+\GRAM AR
+\SCI
+\USE
+\SPG 1 sabroso; una comida sabrosa
+\SPG 2 caldo
+\ENG 1 delicious; tasty food
+\ENG 2 stew
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS not of smells
+\date 19/Jun/96
+\lex tzanh
+\_no 03251
+\LG MIG
+\PSH
+\UND tzanh
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pegar con el pun~o; golpear
+\ENG to hit with the fist
+\SPL tzanh.7oy
+\SLGR ANTIP
+\SLGL golpear // to hit
+\SLGR NO PASS
+ZOH004R0011001.txt
+\EXU 1 7@y+ win.jonh-w@ 7@y+ tzanh-wa
+\XPSH 1 [7@y winjonhnh@y tzanhnh@.]
+\XSP 1 Le pego* por delante.
+\XEN 1 He hit him in front.
+\EXU 2_7an(e)=tzanh-xuk-pa
+\XPSH 2 [7anetzanhxukpa.]
+\XSP 2 Esta*n torteando (como en una ayuda).
+\ENG 2 They're making tortillas (like at a big party).
+\EXU 3 7@y+ tzanh.ten-w@ bi 7an.e
+\XPSH 3 [7@y tzanhtenn@ bi 7ane.]
+\XSP 3 Tiene la tortilla en la mano (nada mas).
+\XEN 3 She has the tortilla in her hand (not doing anything).
+Page 1398

@@ -1,0 +1,76 @@
+tzoqpaj Xpi'xh lo-1
+INC=B3s=DIR_escaparse Xpi'xh ver-INF dos
+'y se fue Xpi'xh a buscar unas sus semillas.'
+(132) nn=0=el
+Xpi'xh,
+PROX=B3s=encontrar-AP Xpi'xh
+'Cuándo llegó Xpi'xh,'
+(133) Ma=0=kaana-n
+(134) tii noq ni=mu'p=0=ta
+qué sólo DIM-polvo=B3s=3sENF
+'sólo era el polvo de maíz,'
+(135) at=0
+EXIST=B3s dos
+kab' ni=t-witz
+DIM-A3s-grano maíz
+'pero había unos granos de maíz entre el polvo.'
+(136) Aax=tzan
+jaʼla ax
+njaa'-yiin axi'n q-uuk'al,
+lo.mismo pues ahora también
+NEG=AT maíz Alp-SR:COM
+'Se puede notar ahora que no hay suficiente maíz con nosotros,'
+(137) at 0
+pera chmuutz'=yiin
+EXIST=B3s pero granos.pequeños-AT
+'hay, pero con los granos muy pequeños,'
+t-b'an-al
+(138) nyaa'=0
+tx'otx'=yiin
+NEG=B3s A3s-bueno-ABST tierra=AT
+'quizás porque la tierra no es tan fértil.'
+ky-ee
+axi’n t-uj.
+A3s-SR:en
+0=kan-eet
+(140) noq mu'p_0=kan-eet
+kab' t-iiyaj.
+(139) Toons a=tzan
+Chna',
+b'an
+ax
+entonces DEM=pues A3p-SR:ATR Tutuapa bueno también
+miy=x-sn-ti't-jo
+(143) meenos, njaa'
+menos NEG
+'es menos, no se da nada'
+A3s-semilla
+ch'in-nee',
+un.poco-pequeño
+sólo polvo B3s=encontrar-PAS
+'sólo un poquito de polvo de maíz encontraron,”
+q'i-'n
+t-u'n
+ni=t-witz,
+DIM-A3s-grano
+joraat.
+rápido
+NEG=siempre=pues=?=DEM B3s-encontrar-PAS
+'Entonces los de Concepción Tutuapa, con ellos totalmente no encontraron
+nada,'
+wee'na
+mucho
+(141) noq mu'p_0=tza
+ky-xe'chal Chna'.
+sólo polvo B3s=DIR_traer-SD A3s-SR:AGT A3p-ancestro Tutuapa
+'sólo el polvo de maíz trajeron los primeros padres de Concepción
+Tutuapa.'
+(142) Ax
+njaa'=yiin=tzan t-ee
+axi'n ky-uk'a
+Chna',
+por.eso NEG=AT=pues A3s-SR maíz A3p-SR:COM Tutuapa
+'Por eso no hay tanto maíz con los de Concepción Tutuapa,'
+nn=0=eel
+INC=B3s-salir
+13

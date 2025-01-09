@@ -1,0 +1,64 @@
+\SCI
+\USE
+\SPG tener
+\ENG to have
+\EXU ya.ji mix 7anh=7it-pa
+\XPSH [Yaji mix 7anhnitpa.]
+\XSP Aqui me tienes.
+XEN Here you have me.
+\SYN
+\SEMF
+\SPL 7anh=7it.7oy
+\SLGR ANTIP
+\SLGL tener // to have
+\SPL 7anh.7it.7@m
+\SLGR NO PASS
+\ETYM
+\ETL
+\ROOT * 7it
+\RTGR IX
+\DSRC HAJ94
+\CMTS /nh7/ = [nhn]/_ stress (TK)
+\CMTS rejected [7anh7itpa] (HAJ)
+\date 09/Oct/96
+\lex 7anh-tox
+\_no 00003
+\LG MIG
+\PSH [7anhtox-]
+\UND 7anh-tox
+\MB BOCA, X
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 dar con cuchara
+\SPG 2 dar de comer en la boca
+\SPG 3 dar por cucharada
+ENG 1 to give from a spoon
+ZOH001R0611006.txt
+\ENG 2 to put food in someone's mouth
+\ENG 3 to give by
+spoonfuls
+\EXU 7@y+ 7anh-tox-w@ 7une7
+\XPSH [7@y 7anhtoxx@ 7une.]
+\XSP Esta dando por cucharada el nin~o.
+\XEN She's feeding the child with a spoon.
+\SPL 7anh-tox. 7oy
+\SLGR ANTIP
+\SPL 7anh-tox. 7@m
+\SLGR PASS
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7anh=tox
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-PH EX [7une7] (checked ok HAJ:96), OK/TK
+\date 24/Jun/96
+\lex 7apx
+\_no 00004
+\LG MIG
+\PSH
+\UND 7apx
+Page 2

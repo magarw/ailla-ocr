@@ -1,0 +1,62 @@
+\CMTS
+\date 03/Jan/80
+\lex ko.xa'
+\_no 01481
+\LG MIG
+\PSH [koxa-]
+\UND ko.xa7
+\MB OTRO, X
+\VAR
+\GRAM vi
+SCI
+\USE
+\SPG despertarse
+\ENG to wake up
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xa7
+\RTGR IX (only with {ko.})
+\SPL yak.ko.xa7
+\SLGR CAUS
+\SLGL despertar // to waken
+\KEY
+\DSRC HAJ94
+\CMTS caus2 yak+ ko.xa' despertar
+\CMTS get deriv's; CK-GR [forms OK: TK]
+\CMTS %xa7
+\date 24/Jun/96
+\lex ko.xex
+\_no 01482
+\LG MIG
+\PSH [koxex-]
+\UND ko.xex
+\MB OTRO, mudar_piel
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG levantarse escama en el pellejo
+\ENG for scales to appear on the skin
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xex
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 18/Jun/96
+ZOH004R0011001.txt
+\lex ko.xik
+\_no 01483
+\LG MIG
+\PSH [koxik-]
+Page 644

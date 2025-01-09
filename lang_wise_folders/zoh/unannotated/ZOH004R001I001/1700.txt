@@ -1,0 +1,63 @@
+\VAR
+\GRAM nom: incorp
+\SCI
+\USE
+\SPG carne asada
+\ENG roasted meat
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jax
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex xix-ma'.7@y
+\_no 03951
+\LG MIG
+\PSH [xixma7@y-]
+\UND xix-ma7.7@y
+\MB carne, venta, SUF
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG vender carne
+\ENG to sell meat
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex xix-po.e7
+\_no 03952
+\LG MIG
+\PSH [xixpoe7]; [xix-powe*7]
+\UND xix-ponh. E7
+\MB carne,
+\VAR powe7k xix
+\GRAM S
+quemar, NOM7
+\SPG carne horneada
+\ENG roasted meat
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT ponh
+\RTGR T3
+\DSRC HAJ95
+\CMTS fixed: TK
+\date 26/Jun/96
+ZOH004R0011001.txt
+Page 1700

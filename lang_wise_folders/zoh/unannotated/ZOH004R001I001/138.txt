@@ -1,0 +1,63 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jep
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+\lex 7ok.jetz. '@y
+\_no 00320
+\LG MIG
+\PSH [7okjetztz@y-]
+\UND 7ok.jetz.7@y
+\MB ABAJO, rascar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tirar algo con la mano
+\ENG to throw something with the hand
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT jetz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+\lex 7ok.jim. '@y
+\_no 00321
+ZOH004R0011001.txt
+\LG MIG
+\PSH [7okjimm@y-]
+\UND 7ok.jim.7@y
+\MB ABAJO, tocar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tocar al pasar, no con la mano pero con el hombro o lado
+\ENG to touch something in passing, not with the hand but with the
+shoulder or side
+\SPL
+\SLGR
+\EXU 7@y+ 7ok.jim.'@y-pa 7@y+ p@7t-pa 7ora
+\XPSH [7@y 7okjimm@bay p@7tpa 7ora.]
+\XSP Lo toco* al pasar.
+\XEN She touched it as she passed by.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jim
+\RTGR T3
+Page 138

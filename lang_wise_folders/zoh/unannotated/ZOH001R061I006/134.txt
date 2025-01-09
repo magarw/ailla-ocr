@@ -1,0 +1,64 @@
+\SLGL arrancar // to pull up
+\SLGR NO PASS
+\SLGR NO ASSUM1
+\SPL wix.ten
+\SLGR PRSV
+\SLGL tener arrancado // to have something pulled up
+\EXU 1 wix. '@m-w@
+\XPSH 1 [wixx@mm@.]
+\XSP 1 se arranco* solito (como con el norte).
+\XEN 1 It was pulled up by the roots (like from the north wind).
+\EXU 2 7@y+ wix.ten-w@ bi x@k pa(ra) 7@y+ nakx-pa
+\XPSH 2 [7@y wixtenn@ bi x@k pay nakxpa.]
+\XSP 2 Tiene arrancado el frijol para porriarlo.
+\XEN 2 He's got the beans pulled up to winnow them.
+\SYN
+\SEMF plant, cut
+\ASP achievement
+\ARG
+\NOM wix.naanh
+\SUB ko.wix
+\ETYM
+\ETL
+\ROOT wix
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex woj (1)
+\_no 00198
+\LG MIG
+\PSH
+\UND Woj
+\MB
+\VAR
+\GRAM vi: act
+\SCI
+\USE
+\SPG ladrar
+\ENG to bark
+\SPL woj.7@m
+\SLGR PASS
+\SLGL aullado // howled
+\EXU 1 woj-pa nu7
+\XPSH 1 [Wojpa_nu7.]
+\XSP 1 Ladra el perro.
+\XEN 1 The dog is barking.
+\EXU 2 7@y+ woj.jay-wa
+\XPSH 2 [7@y wojjayy@.]
+\XSP 2 Le ladro*.
+ZOH001R0611006.txt
+\XEN 2 The dog barked at someone.
+\SYN
+\SEMF animal, sound
+\ASP process
+\ARG
+\NOM woj.e7
+\SUB
+\ETYM
+\ETL
+\ROOT woj
+\RTGR 11
+\DSRC HAJ94
+Page 134

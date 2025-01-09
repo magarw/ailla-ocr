@@ -1,0 +1,62 @@
+ZOH001R0611007.txt
+\XEN it's turning yellow (because it's getting ripe orange, mango)
+\ROOT pu7tz Ix
+\SEMF condition
+\ASP process
+\CMTS
+\date 03/Jan/80
+\lex puy
+\_no 00099
+\SPG doblarse
+\ENG to bend
+\EX
+\XSP
+\XEN
+\ROOT puy P, Il
+\SEMF position
+\ASP transition
+\ASSU puy.ney estar acurrucado; en culuquilla
+\CMTS
+\date 03/Jan/80
+\lex pan
+\_no 00100
+\SPG estar puesto; ponerse
+\ENG to be placed
+\EX p@n-w@
+\XSP (esta*) puesto
+\XEN
+\EX 7@y p@w@ deji
+\XSP 1o puso ahi*
+\XEN she put it there
+\EX p@nn@xta*7
+\XSP esta* puesto no ma*s
+\XEN it's just placed
+\ROOT p@n I2
+\SEMF position
+\ASP state
+\CAUS yak.p@n poner
+\CMTS
+\date 03/Jan/80
+\lex p@7t
+\_no 00101
+\SPG cruzar; pasar
+\ENG to cross; to pass
+\EX p@7t@7k tyempu
+\XSP tiempo pasado
+\XEN time gone by
+\EX p@7tt@ 7@y tyempu
+\XSP paso* su tiempo
+\XEN it's passed its time
+\XSP tim p@7tjaba?
+\XSP que te pasa?
+\XEN what happened to you?
+\ROOT p@7t Il
+\SEMF motion
+agua, olla
+\ASP activity, transition
+\CAUS yak.p@7t dejar pasar; copiar
+\CMTS
+\date 03/Jan/80
+\lex ta7kx
+\_no 00102
+Page 24

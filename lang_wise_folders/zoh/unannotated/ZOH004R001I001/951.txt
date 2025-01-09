@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [nena p@n]
+\UND nena7 p@n
+\MB malo, hombre
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG envidioso; persona mala
+\ENG envious one; bad person
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 25/Jun/96
+\lex nena'-=tok
+\_no 02207
+\LG MIG
+\PSH [nenatok-]
+\UND_ nena7=tok
+\MB malo, manchar
+\VAR
+\GRAM vt:incorp
+\SCI
+\USE
+\SPG manchar
+\ENG to spot; to stain
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tok
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 25/Jun/96
+\lex nena'=wit
+\_no 02208
+\LG MIG
+\PSH [nenawit-]
+\UND nena7=wit
+\MB malo, andar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG andar desnudo
+\ENG to walk around naked
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+Page 951

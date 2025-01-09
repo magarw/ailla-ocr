@@ -1,0 +1,61 @@
+\XEN
+\ROOT ji7tz P (T3)
+\SEMF sew
+\PASS ji7tz.7@m estar en pliegues
+\ANTI ji7tz.7oy poner pliegue
+\ASSU ji7tz.ney esta* plegado
+\lex jix
+\_no 00026
+\SPG remojar (la tortilla en la comida)
+\ENG to scoop up (food with a tortilla)
+\Ex 7@y_j@xjixpa totoj@nanh bi nax tonton
+\XSP 10 saca con papel la tierra hecho polvo
+XEN she scoops up the dust with a paper
+\ROOT jix T3
+\SEMF eat, pick_up, instr
+\PASS jix.7@m
+\ANTI jix.7oy
+\PRSV jix.ten 'tener puesto en la comida la tortilla'
+\lex jom
+\_no 00027
+\SPG cercar con rama
+\ENG to fence with branches
+\EX 7@y 7anhjomm@ kuy 7anhkaxj@nanh
+\XSP 1o cerco* con rama
+\XEN he fenced it with branches
+\EX jomm@mma*m bi yujkuy
+\XSP ya esta* cercado el desmonte
+\XEN now the field has been fenced
+\ROOT jom P (T3)
+\SEMF create, obj
+\PASS jom.7@m ya esta* cercado
+\ANTI jom. 7oy acercar * now can't get this
+\ASSU jom.ney estar cercado* now rejects this
+\PRSV NONE
+\CMTS
+\lex jopx
+\_no 00028
+\SPG tomar a boca de plato
+\ENG to drink from the dish
+ZOH001R0611009.txt
+\EX 7@y jopxxukk@
+\XSP tomaron a boca de plato
+\XEN they drank from the plate
+\ROOT jopx T3
+\SEMF eat
+\PASS NONE jopx.7@m *
+\ANTI jopx.7oy
+\PRSV NONE too silly
+\CMTS v class: has to have ergative markers, but now rejects ANTI
+\lex jo7px
+\_no 00029
+\SPG poner bozal a*
+\ENG to put a muzzle on
+\EX kin@k jo7px@
+\XSP le puso un bozal en la trompa
+\XEN he put a muzzle on the snout
+\ROOT jo7px T3
+\SEMF affect, animal
+\PASS jo7px.7@m ya tiene su bozal
+\ANTI jo7px. 7oy poner bozal
+Page 8

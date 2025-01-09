@@ -1,0 +1,63 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 07/Feb/96
+\lex m@n@.way7
+\_no 02100
+\LG MIG
+\PSH [m@n@way7]
+\UND man@.way7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG persona de Santa Mari*a Chimalapa
+ENG a person from Santa Mari*a Chimalapa
+\EXU m@n@.way' d@k+7a(y)
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\lex m@nh
+\_no 02101
+\LG MIG
+\PSH
+\UND m@nh
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG cojear
+\ENG to limp
+\SPL yak.m@nh
+\SLGR CAUS
+\SLGL hacerlo andar mankiyando // to cause someone to limp
+\EXU m@nh-pa wakax
+\XPSH [M@nhpa wakax.]
+\XSP Cojea el ganado.
+\XEN The cow is limping.
+\SYN
+ZOH004R0011001.txt
+\SEMF move
+\ASP activity
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT m@nh
+Page 906

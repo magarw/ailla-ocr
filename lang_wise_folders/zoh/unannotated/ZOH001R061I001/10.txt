@@ -1,0 +1,108 @@
+\_no 00048
+\tx yote
+\mb yote7
+\sg] ropa
+\egl clothes mend
+\ref 049
+\_no 00049
+\fts remendio* la ropa que le trajeron la gente
+\fte she mended clothes that people brought to her
+\com
+\idx incorp
+\tx yote
+\mb yote7
+\sg] ropa
+\egl clothes mend
+\ref 050
+\_no 00050
+komm@
+kom
+7@y p@kminjaw@*7
+bi jente
+-wa 7@y p@k -min -jay -w@ -v7k bi jente
+remendar-COM 3Erg agarrar-venir-APPL-COM-REL1 DET gente
+-COM 3Erg get -come -APPL-COM-REL1 DET people
+\ref 051
+\_no 00051
+\tx * da
+\mb
+kompa
+kom
+yaki yay
+-pa yakki7 ya +7@y
+remendar-INC nadie NEG+3Erg
+\tx yote
+\mb yote7
+\sg] ropa
+\egl clothes mend
+\fts remenda ropa que nadie no logra de remendar
+\fte she mends clothes that nobody was able to mend
+\com
+\idx incorp
+\ref 052
+\_no 00052
+komm@
+kom
+ga
+7@yti
+7@yti7
+-wa ka -7
+remendar-COM DCT3-NOM1 3POSSN
+-COM DCT3-NOM1 3POSSN
+\fts remendio* la ropa de ella
+\fte she mended clothes of that one
+\com
+\idx incorp
+yote
+da yote7
+\ref 053
+\_no 00053
+ZOH001R0611001.txt
+-INC nobody NEG+3Erg mend
+\sgl
+1Abs ropa
+\egl 1Abs clothes mend
+komm@
+kom
+\fts * remendi* esa ropa
+\fte I mended these clothes
+\com
+\idx incorp
+y@da
+-wa ya -da
+remendar-COM DCT1-XDEM
+-COM DCT1-XDEM
+\tx 7@y tziw@
+\mb 7@y tzi -w@
+bi mok,
+-w@ -7am bi mok
+kommuxx@*7
+kom
+\tx t@tztza*m
+\mb t@tz
+\sg1 secarse-COM-YA DET mazorca DCT2-TMP mazorca
+\eg1 dry -COM-NOW DET corn
+DCT2-TMP corn
+-mux -w@ -v7k
+remendar-saber-COM-REL1
+-know -COM-REL1
+dey
+mok
+te -Y mok
+bi mok bi p@n
+bi mok bi p@n
+shell
+\fts ya esta* seco la mazorca, ahora lo esta*n desgranando
+\fte the corn has dried, now they're shelling the corn
+\com
+\idx incorp
+7@kxukpa
+7@kx
+-xuk-pa
+desgranar-3P1-INC
+-3P1-INC
+bi yoma*7 para 7@y ja7pp@
+bi yoma*7 para 7@y ja7p -w@
+Page 10
+go7
+go7

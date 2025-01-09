@@ -1,0 +1,62 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 wi7t
+\RTGR 1 T2
+\ROOT 2 pak
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex wi7t='anh.kam
+\_no 03769
+\LG MIG
+\PSH [wi7ttanhkam-]
+\UND wi7t=7anh.kam
+\MB torcerse, BOCA, trabarse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG cerrar con llave
+\ENG to lock with a key
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 wi7t
+\RTGR 1 T2
+\ROOT 2 kam
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex wi7t='anh.wak
+\_no 03770
+ZOH004R0011001.txt
+\LG MIG
+\PSH [wi7ttanhwak-]
+\UND wi7t=7anh.wak
+\MB torcerse, BOCA, *vaciar
+\VAR
+\GRAM vt
+\SPG abrir con llave
+\ENG to open with a key
+\EXU 7@y+ wi7t='anh.wak-w@ bi 7anh.tunh kon bi
+wi7t='anh.wak.kuy7+pi7t
+\XPSH [7@y wi7ttanhwakk@_bi_7anhtunh kon bi wi7ttanhwakkuypi7t.]
+\XSP Abrio* la casa con la llave.
+\XEN He opened the house with the key.
+\SYN
+\ROOT 1 wi7t
+\RTGR 1 T2
+\ROOT 2 *wak
+\DSRC HAJ95
+\CMTS
+\date 20/Jun/96
+\lex wi7t='anh.wak. 'oy.kuy7
+Page 1619

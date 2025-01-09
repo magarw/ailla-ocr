@@ -1,0 +1,62 @@
+\lex ko7tz
+\_no 00124
+\SPG tentar con la mano (como si fuera carna o masa)
+\ENG to touch with the hand (as if it were meat or masa)
+\EX
+\XSP
+\XEN
+ROOT ko7tz T3
+\SEMF touch, hand
+\ANTI ko7tz.7oy (aluso sexual)
+\CMTS touch something hanging in a tree?
+\lex kuj
+\_no 00125
+\SPG empujar
+\ENG to push
+\EX kujtenn@
+\xSP lo tiene empujado
+\XEN he's got it pushed
+\ROOT kuj Ť3
+\SEMF move
+\PASS NONE kuj.7@m
+\ANTI kuj.7oy
+\PRSV kujtenn@
+\lex kum
+\_no 00126
+\SPG enterrar(se)
+\ENG to bury
+\EX 7@y kumm@
+\XSP lo enterro*
+\XEN he buried someone
+\EX kumm@
+\XSP se enterro*
+\XEN it was buried
+\EX d@ kumm@
+\XSP me enterro*
+\XEN he buried me
+\EX kumm@w@
+\XSP lo enterraron
+ZOH001R0611010.txt
+\XEN
+\EX kumm@mma*m bi kaw@*7
+\XSP ya se enterro* e*l que murio*
+\XEN now the corpse was buried
+\ROOT kum T2
+SEMF affect
+\PASS enterrarse
+\CMTS
+\lex kunh
+\_no 00127
+\SPG colgar (como una hamaca)
+\ENG to hang (like a hammock)
+\EX 7@y kunhnh@ kajtzay
+\XSP colgo la hamaca
+\XEN she hung the hammock
+\EX 7anhkjonh 7@y kunhnh@ / 7@y j@xkunhnh@
+\XSP lo colgo* afuera
+\XEN he hung it outside
+\ROOT kunh P (T3)
+\SEMF affect, position
+\PASS kunh.7@m colgarse
+\ANTI kunh.7oy colgar
+Page 30

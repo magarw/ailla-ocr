@@ -1,0 +1,63 @@
+\zoq GSM: 7une jakke tzektoypa, n@mjaba,
+\fts GSM: El nin~o que tiene mucho dolor de barriga,
+\fte GSM: A child's belly hurts a lot, they say,
+\com
+\idx
+\ref ZOH001R036 999-203
+\_no 01184
+\tx jakke kumu7
+\mb jakke kumu7
+\sg1 mucho lombriz
+\egl a lot worm
+\zoq jakke kumu7.
+\fts mucho lombriz.
+\fte a lot of worms.
+\com
+\idx
+\ref ZOH001R036 999-204
+\_no 01185
+7@m tzipa
+tzoy 7@m tzi7-pa
+dar -INC
+\sgl que saltar 2E
+\egl what jump 2E give-INC
+\tx ti tzoy
+\mb ti
+\zoq Ti tzoy 7@m tzipa?
+\fts Que remedio le das?
+\fte what medicine do you give him?
+\com
+\idx
+\ref ZOH001R036 999-205
+\_no 01186
+\tx OSM: pwes de 7xe7k
+7une
+\mb OSM pwes te -7xe-v7k 7une7
+\sg1 OSM: pues DCT2-SIM-REL nin~o/a
+\egl OSM: well DCT2-SIM-REL child
+\zoq OSM: Pwes, de7xe7k 7une,
+\fts OSM: Pues, esa clase de criatura,
+\fte OSM: Well, such a child,
+\com
+\idx
+\ref ZOH001R036 999-206
+\_no 01187
+ZOH001R0361001.txt
+\tx tzektoypa*7
+\mb tzek
+-toy -pa -v7k
+\sgl barriga-doler-INC-REL
+\eg1 belly -hurt -INC-REL
+\zoq tzektoypa*7.
+\fts que le duele su barriga.
+\fte who's stomach hurts.
+\com
+\idx
+\ref ZOH001R036 999-207
+\_no 01188
+\tx 7i ded@
+7ay 7@y n@ji
+\mb 7i te -d@ 7ay7 7@y n@ji
+kixawa 7ay
+kixawa 7ay7
+Page 255

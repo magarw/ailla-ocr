@@ -1,0 +1,54 @@
+Johnson / A Grammar of San Miguel Chimapala Zoque
+1s
+2s
+3s
+1p
+2p
+3p
+X
+I
+RCP
+Absolutive
+(intransitive
+subject)
+də
+7ǝm (m)
+0
+də
+7ǝm (m)
+0
+Absolutive
+(transitive object)
+də 3>1
+miš 2>1
+miš 1>2
+miš +?ən 1>2
+mi 3>2
+0
+də
+miš X>2
+0
+Ergative
+(transitive
+subject;
+also possessive)
+Pən (n)
+7ǝm (m)
+92
+?ǝy (y)
+7ǝn (n)
+7ǝm (m)
+?ǝy (y)
+dən
+tən
+ney
+ney
+Table 5.1. Pronouns and person agreement markers.
+In the second column Absolutive (transitive object) the first and
+second person forms are followed by an indication of which grammatical person
+is acting on the object. For example, if a third person agent is acting on a
+second person patient, the agreement marker is mi (3>2). If a first or second
+person agent is acting on a second or first person patient, respectively, the
+agreement marker will be miš (1>2; 2>1). A more detailed discussion of
+agreement marking is given in chapter 6. Examples that clarify this compact
+notation are given in the paradigms in examples 5.1 and 5.2.

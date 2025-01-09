@@ -1,0 +1,63 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT 7etz
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex yuk. 7ew.17
+\_no 04211
+\LG MIG
+\PSH [yuk7ewi7]
+\UND yuk. 7ew.17
+\MB
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG costra levantada, cosa descostrado
+\ENG a peeled-off scab
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7enh
+\DSRC TK94
+\CMTS didn't recognize yuk7ewi7 this time; OK: TK
+\date 26/Jun/96
+\1ex yuk. 7ex
+\_no 04212
+\LG MIG
+\PSH [yuk7ex-]
+\UND yuk. 7ex
+\MB ARR, encajar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG levantar encajado
+\ENG to pick up something by sticking it with something
+\SPL yuk. 7ex.7oy
+\SLGR ANTIP
+\SLGL levantar encajado // to lift up on the point of something
+\SPL yuk. 7ex.7@m
+\SLGR PASS
+\EXU 7@n+ yuk. 7ex-pa 7@n+ way7
+\XPSH [7@n yukkexpan way7.]
+\XSP
+ZOH004R0011001.txt
+\XEN I put up my hair.
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7ex
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+Page 1809

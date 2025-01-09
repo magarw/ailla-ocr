@@ -1,0 +1,64 @@
+\SCI
+\USE
+\SPG flor de calabaza
+\ENG squash flower
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 08/Nov/94
+\lex 7ukum nax
+\_no 00489
+LG MIG
+\PSH
+\UND 7ukum nax
+\MB calabaza, tierra
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG calabazal
+\ENG squash field
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex 7ukum puj
+\_no 00490
+LG MIG
+\PSH
+\UND 7ukum puj
+\MB calabaza, semilla
+\VAR 7ukum pujkuy
+\GRAM sms
+\SCI
+\USE
+\SPG pepita o semilla de calabaza
+\ENG squash seed
+\EXU 7ukum puj kuy
+\XSP pin-on
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+LF: kuy
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS
+\date 12/Jun/95
+Page 210

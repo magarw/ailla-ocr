@@ -1,0 +1,53 @@
+\lex yep
+\_no 00180
+\SPG (ex) tender; tender (ropa)
+\ENG to stretch; to hang (clothes)
+\EX 7@y yepp@ yote7
+\XSP tendio* la ropa
+\XEN she hung out the clothes.
+\ROOT yep P, (T3)
+\SEMF move, position
+\PASS yep.7@m extenderse
+\ANTI yep.7oy
+\CMTS
+\lex yoj
+\_no 00181
+\SPG pagar
+\ENG to pay
+\EX
+\XSP
+\XEN
+\ROOT yoj T3
+SEMF trade
+PASS NONE yoj.7@m*
+\ANTI yoj.7oy
+\CMTS
+\lex yu7p
+\_no 00182
+\SPG picar (madera, cebolla, carne...)
+\ENG to mince; to chop; (wood, onion, meat)
+\EX
+\XSP
+\XEN
+\ROOT yu7p P, (T3)
+\SEMF cut
+\PASS yu7p.7@m picarse
+\ANTI yu7p.7oy picar
+\ASSU yu7p.ney estar picado
+\PRSV yu7p=ten lo tiene picado
+\CMTS
+ZOH001R0611009.txt
+\lex y@7t
+\_no 00183
+\SPG deshebrar carne para freirla
+\ENG
+\EX 7@y y@7tt@ xix para que xe7tt@
+\XSP deshebro* carne para freirla
+\XEN
+\ROOT y@7t T3
+\SEMF cut, obj
+\PASS y@7t.7@m deshebrarse
+\ANTI y@7t.7oy deshebrar
+\PRSV y@7t=ten lo tiene deshebrado (7@y y@7ttenn@)
+\CMTS
+Page 43

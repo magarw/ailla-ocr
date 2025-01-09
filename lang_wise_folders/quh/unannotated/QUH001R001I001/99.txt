@@ -1,0 +1,46 @@
+99
+dominio del irrealis mediante construcciones propias que ponen en evidencia que a los
+hablantes les toma tiempo asimilar una nueva información dentro del cuerpo de conocimientos
+asumido como válido (es decir, dentro del dominio del realis).
+Las variables conceptuales de hipoteticidad y posibilidad intervienen en el
+ordenamiento gradual del mundo del irrealis según varios estudios (Givón 1994; Akatsuka
+1985). Desde una perspectiva tipológica (Comrie 1981), ambas variables operan de forma
+proporcionalmente inversa en la distribución de las formas: a mayor hipoteticidad, menor
+posibilidad y, por lo tanto, nos adentramos en el dominio del irrealis; en contraste, el realis se
+organiza según el sentido contrario.
+111
+Finalmente, como antecedente en el ámbito de las investigaciones sobre lenguas
+amerindias, el vínculo entre el dominio del irrealis y su expresión mediante referencias
+deícticas espaciales fue señalado por Vidal y Klein (1998) para la lengua toba y para la lengua
+pilagá respectivamente. Las autoras concluyen que el sufijo "distanciador" (compartido entre
+ambas lenguas por cognados) es interpretado como irrealis por los hablantes mediante
+operaciones de inferencia convencionalizada y sistemática.
+En general, todos los autores están de acuerdo en que el fenómeno abarca diferentes
+construcciones sintácticas e involucra nociones como la de temporalidad, causalidad,
+finalidad, etc. pero sobretodo señalan que refiere contraste.
+4.1.1. Desde la semántica modal o de "mundos posibles"
+Según Payne (1997:245), las construcciones que participan del dominio de Irrealis
+refieren eventos o situaciones que son presentadas como dependientes de mundos
+contingentes. En este mismo sentido, la lógica modal desarrolló extensamente lo que Kratzer
+(1991) llama “análisis estándar" de la modalidad a partir de la "semántica de mundos
+posibles". Esta perspectiva entiende que los operadores modales funcionan en un cierto nivel
+de la forma lógica de las expresiones y que son regulados por relaciones de accesibilidad de
+mundos. Desde esta perspectiva se identifica, entonces, a la "proposición" con el conjunto de
+111
+Desde una perspectiva radicalmente diferente, Cinque (1999:88) define el irrealis desde una aproximación
+generativista como aquel componente que expresa que “el hablante no sabe si la proposición es verdadera y
+piensa que el oyente tampoco lo sabe". Él propone que la modalidad irrealis no está determinada por un orden
+semántico ajeno a la sintaxis sino que es parte de una propiedad del componente computacional de la "gramática
+universal". Cinque considera, a partir del análisis de un extenso corpus de lenguas, que toda cláusula responde a
+una estructura universal, fija y ordenada, de proyecciones funcionales distintivas (su apuesta teórica) que se
+encuentran ordenadas jerárquicamente. El autor analiza la periferia izquierda de la FV y postula que, en dicho
+orden, habría diferentes nodos funcionales distintivos ordenados jerárquicamente. El orden relativo de aparición
+de los nodos queda establecido de la siguiente forma (en base a las posiciones adverbiales): M1 (modo Acto de
+Habla) > M2 (Modo Evaluativo) > M3 (Modo Evidencial) > M4 (Modo Epistémico) > T1 (Tiempo Deíctico) >
+M5 (Modo Irrealis) > M6 (Modalidad Alética) > M7 (Modalidad orientada al Sujeto) > A1 (Aspecto habitual)
+> A2 (Aspecto repetitivo/frecuentativo) > A3 (Aspecto Celerativo) > T2 (Tiempo anterior). El nodo Irrealis
+queda así topográficamente predeterminado en un lugar subsecuente (i.e., inferior en jerarquía) a la forma que
+expresa tiempo deíctico, el que a su vez sigue a la forma que expresa valor epistémico (por ejemplo, a través del
+adverbio "probablemente") del cual el irrealis se diferencia. Esto quiere decir que el modo irrealis aparece -o
+debería estar- codificado de manera más interna en la cláusula (i.e., más cercano a la raíz verbal) que la referencia
+deíctica temporal y que el nodo funcional epistémico ya que es subdominado por ambos nodos.

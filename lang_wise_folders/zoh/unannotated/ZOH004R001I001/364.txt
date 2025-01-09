@@ -1,0 +1,63 @@
+\_no 00836
+\LG MIG
+\PSH [jojoy tzokoy7]
+\UND jojo 7@y+ tzokoy7
+\MB palma, 3Erg, corazo*n
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG el corazo*n de palma que se come
+\ENG heart of palm
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 13/Jun/95
+\lex jo.jom
+\_no 00837
+\LG MIG
+\PSH [jojom-]
+\UND jo. jom
+\MB EN, cercar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG reforzar cerco; echar ramas por encima de otras
+\ENG to reinforce a fence; to put branches on top of other branches of a
+fence
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN win. jom
+\SYN ni.jom
+\SYN ko.jom
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT jom
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS synonyms are all "casi lo mismo"
+\date 06/Feb/96
+\lex jojo-pe7t
+\_no 00838
+\LG MIG
+\PSH [jojope7t-]
+\UND jojo-pe7t
+\MB palma, tejer
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+Page 364

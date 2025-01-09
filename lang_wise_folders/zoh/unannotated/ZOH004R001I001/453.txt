@@ -1,0 +1,62 @@
+\ROOT je7k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex j@x-jen
+\_no 01032
+\LG MIG
+\PSH [j@xjen-]
+\UND jax-jen
+\MB ATRAS, rascar_con_mano
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar algo con la mano (de un hueco, algo asi)
+\ENG to scrape something out with the hand (like from a hole)
+\SPL
+\SLGR
+\EXU j@x.jen=' anh.wak.wak.w@y-wa
+\XPSH [J@xjennanhwakwakw@yy@.]
+\XSP Saco* todo rascandolo lo estaba adentro.
+XEN He scooped everything in there out.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jen
+\RTGR T3
+\DSRC HAJ95
+\CMTS CK-GR of EX
+\date 06/Feb/96
+\lex j@x-jenen
+\_no 01033
+\LG MIG
+\PSH [j@xjenen-]
+\UND jax-jenen
+\MB ATRAS, deshacer
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG salir disolvie*ndose
+\ENG to end up being dissolved
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+\ETL
+\ROOT jenen
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex j@x-jepx
+\_no 01034
+Page 453

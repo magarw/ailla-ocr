@@ -1,0 +1,34 @@
+xi
+directional motion. The suffixes involved are drawn from the free intransitive verbs of
+directional motion. 'go', 'come', etc., and are placed in two adjacent suffix positions
+The position closest to the verb modifies the manner of the action. This set includes the
+following, recruited from the set of intransitive verbs of directional motion but in several
+instances altered in phonological shape from the original: -ek' 'around', -em 'down', -el 'out', -uch
+'in', -kan 'stable', -kut 'nearing', -p'at 'leaving', -k'e' 'rising', -k'och 'arriving', and -hul 'coming'. Ex:
+nitz-ek'-ih 'to move something to the side'. nitz-uch-ih 'to move something flush against
+something else'. nitz-kut-ih 'to move something towards a goal'.
+The second position reports the direction or location of movement in carrying out the
+action of the verb. This set includes the verbs in their normal shapes: 'ek' 'to pass by', 'em 'to go
+down', 'el 'to leave', 'och 'to enter', kan 'to stay', kut 'to draw near', p'at 'to go (away)', k'e' 'to rise',
+koch 'to arrive', and hul 'to come'. Ex: way-kan 'em-ih 'to stay sleeping down somewhere'. payej
+'el-ih 'to extract something by heating (to heat something out)'. 'awan 'och-ih 'to plant something
+inside (holes)'. kuchan kot-ih 'to carry something towards a goal'.
+A position further from the verb may contain a suffix that expresses that the action is
+carried out towards the speaker: -tah 'towards the speaker' (versus the normal ih if the movement
+is away from the speaker). Ex: 'ik'-k'e'-tah 'to transport something upwards towards the speaker'
+(vs. 'ik'-k'e'-ih, to do so away from the speaker).
+vin [phrase] (vtr + incorporated object) This lengthy marking accompanies verbal
+constructions that are in effect a kind of antipassive. The transitive verb is suffixed w-ih and the
+nominal object of the verbal action is stated, but in an inert form, i.e., it cannot be inflected (for
+possession, number, etc.). It is incorporated into the verb word. The construction is inflected for
+subject as an intransitive verb phrase. Phonologically, the incorporated noun is unstressed, a
+phonetic clue that has been missed by some observers. Ex: stukwi ch'al winh, He pull apart
+fibers, or He fiber-pulls, where the noun ch'al 'fiber' is unstressed: [stúk.wi.ch'al.wính.] < tz-ø-
+tuk-w-ih ch'al winh.
+vin phrase This marking is used for verbal expressions that include more than one lexical
+item. Inflection on these constructions is on the intransitive verb stem. NB: When the
+constructions involve a directional verb, there may be some confusion of this category with stv
+phrase, where the inflection is on the stative stem, since the two constructions are nearly
+identical in their surface forms. Only in non-third person inflections is there a clear contrast, and
+most elicitation recorded only third-person forms. In the case of CVC-an forms accompanied by
+directional notation, there are two possibilities: (1) the construction could be a stative phrase,

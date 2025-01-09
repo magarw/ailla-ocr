@@ -1,0 +1,75 @@
+\mb tum jama martes ye7tz -wa ya -ji7
+katemako
+\sg1 uno dia martes
+llegar-COM DCT1-LOC1 Catemaco
+\egl one day
+one day Tuesday arrive-COM DCT1-LOC1 Catemaco
+\zoq Tum jama Martes ye7tztz@ y@ji Katemako.
+\fts Un di*a Martes 11ego* en Catemaco.
+\fte One Tuesday he arrived in Catemaco.
+\com
+\idx
+\ref ZOH001R055 063
+\_no 00064
+\tx ye7tztz@ jaytija7
+\mb ye7tz -wa jaytij@7
+\sg1 11egar-COM Juchitan
+\egl arrive-COM Juchitan
+\zoq Ye7tztz@ J@ytij@7.
+\fts Llego* en Juchitan.
+\fte He arrived in Juchitan.
+\com
+\idx
+ZOH001R0551001.txt
+\ref ZOH001R055 064
+\_no 00065
+\tx de j@ytij@7 minn@
+\mb de jaytij@7 min
+-w@
+\sg1 de Juchitan venir-COM Acayucan
+\egl of Juchitan come -COM Acayucan
+\zoq De Jaytij@7 minn@ 7akayukan.
+\fts De Juchitan vino para Acayucan.
+\fte From Juchitan he came to Acayucan.
+\com
+\idx
+\ref ZOH001R055 065
+\_no 00066
+\tx n@mpa jerma*n d@x ya d@ 7ixxo
+\mb
+n@m
+-ра jerma*n d@x ya d@ 7ix-7oy -A
+\sg1 decir-INC Germa*n 1Prn NEG 1A ver-ANTIP-nINC
+\egl say
+\tx n@kpa
+\mb nak -pa
+\sgl irse-INC
+\egl go -INC
+7akayukan
+7akayukan
+katemako peru d@
+katemako peru d@
+Catemaco pero 1A
+-INC Germa*n 1Prn NEG 1A see-ANTIP-nINC Catemaco but 1A
+\zoq N@mpa Jerma*n, "D@x ya da 7ixxo Katemako, peru da n@kpa.
+\fts Dice Germa*n, "Yo no conozco en Catemaco, pero voy a ir.
+\fte Germa*n says, "I don't know Catemaco, but I'm going to go.
+\com
+\idx
+\tx yoxtamm@
+\mb yox
+\ref ZOH001R055 066
+\_no 00067
+\tx porke y@7
+-7
+kompromisuwa*m ke
+\mb porke y@
+kompromiso-w@ -7am ke
+\sg1 porque DCT1-NOM1 compromiso-COM-YA que
+\eg1 because DCT1-NOM1 promise -COM-NOW that go -INC 1E
+n@kpa n
+n@k -pa
+7@n
+irse-INC 1E
+-tam -wa
+Page 15

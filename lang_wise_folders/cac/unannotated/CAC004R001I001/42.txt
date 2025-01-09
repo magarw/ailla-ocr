@@ -1,0 +1,104 @@
+52.
+53.
+86
+a tepan chi' t'a yichanhb'at chi' ay
+chi' ay-Ø
+a
+tepan chi' t'a y-ichanh-b'at
+top iglesia dem prep 3A-delante-DIR. allá dem exist-3B
+¿Dónde está el corral?
+¿b'aj til ay jun makte'?
+b'aj_til ay-ø
+jun makte'
+dónde exist-3B uno corral
+¿Dónde está el alcalde?
+¿b'aj til ayek' winh alkal
+b'aj_til ay-ø-ek'
+winh alkal
+dónde exist-3B-DIR.pasar Cmasc alcalde
+Está en B'ulej.
+t'a B'ulej ayek' winh
+t'a B'ulej ay-ø-ek'
+winh
+prep B'ulej exist-3B-DIR.pasar Cmasc
+El corral está atrás de la casa.
+a jun makte' ayek' t'a spatik pat
+a_jun makte’ ay-ø-ek’
+t'a s-patik pat
+top uno corral exist-3B-DIR.pasar prep 3A-espalda casa
+te' makte' ay te' spatik pat
+te'
+te'
+makte' ay-Ø
+Cmadera corral exist-3B Cmadera 3A-espalda casa
+s-patik pat
+te' makte' ayoch ijan te' t'a te' pat
+te'
+t'a
+makte' ay-ø-och
+ijan te'
+Cmadera corral exist-3B-DIR.adentro alrededor Cmadera prep
+te'
+pat
+Cmadera casa
+El corral está enfrente de la casa.
+a jun makte' ayek' t'a snanhal sat pat
+a jun makte' ay-ø-ek'
+t'a
+s-nanhal sat pat
+top uno corral exist-3B-DIR. pasar prep 3A-mitad cara casa
+54.
+55.
+56.
+El corral está adelante de la casa.
+a jun makte' ayek' t'a yichanhb'at jun pat
+a jun makte' ay-ø-ek'
+jun pat
+top uno corral exist-3B-DIR.pasar prep 3A-delante-DIR.allá uno casa
+t'a y-ichanh-b'at
+El corral está en el patio de la casa.
+te' makte' ayoch te' t'a yamak'il te' pat
+te'
+te'
+t'a y-amak'-il
+makte' ay-ø-och
+Cmadera corral exist-3B-DIR. adentro Cmadera prep 3A-patio-gen
+te'
+pat
+Cmadera casa
+El corral está junto a la casa.
+a jun makte' junhej ayek' yet' jun pat
+a
+jun makte' jun-nhej ay-ø-ek'
+y-et' jun pat
+top uno corral uno-adv exist-3B-DIR.pasar 3A-SR uno casa
+La ropa está en la caja.
+a k'ak k'apak ayem k'apak yol te' kaxa'
+a k'ak k'apak ay-ø-em
+k'apak y-ol
+te'
+kaxa'
+top Cropa ropa exist-3B-DIR.bajar Cropa 3A-dentro Cmadera caja
+a k'apak k'apak ayoch k'apak yol te' kómoda
+a k'apak k'apak ay-ø-och
+k'apak y-ol te'
+komoda
+top Cropa ropa exist-3B-DIR. adentro Cropa 3A-dentro Cmadera cómoda
+Los frijoles están en la olla.
+a anh tut ayem anh yol chen
+a
+anh
+tut ay-g-em
+anh y-ol chen
+top Cvegetal frijol exist-3B-DIR.abajo Cvegetal 3A-dentro olla
+El pájaro está en ese árbol.
+a no' much ayek' nok' t'a b'aj ay jun te' te' chi'
+a no'
+nok' t'a b'aj
+much ay-ø-ek'
+top Canimal pájaro exist-3B-DIR.pasar Canimal prep dónde
+ay-ø
+jun te'
+te' chi'
+exist-3B uno Cmadera árbol dem
+87

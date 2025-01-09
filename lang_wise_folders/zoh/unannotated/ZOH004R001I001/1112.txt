@@ -1,0 +1,63 @@
+\UND pekx.pekx.ney
+\MB pegar_con_ala, pegar_con_ala, REDUP1
+\VAR
+\GRAM VİR
+\SCI
+\USE
+\SPG estar papaloteando (como un pa*jaro)
+\ENG to be beating the wings (like a bird)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pekx
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 16/Oct/94
+\lex pekx=yak. 'oy
+\_no 02584
+\LG MIG
+\PSH [pekxyakkoy-]
+\UND pekx=yak. 7oy
+\MB pegar_con_ala, CAUS, ANTIP
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG revoltear; papalotear
+\ENG to flutter; to beat the wings
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pekx
+\RTGR T3
+\DSRC HAJ94
+\CMTS ANALYSIS
+\date 25/Jun/96
+ZOH004R0011001.txt
+\lex pelota
+\_no 02585
+\LG MIG
+\PSH
+\UND pelota
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG pelota
+\ENG ball
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+Page 1112

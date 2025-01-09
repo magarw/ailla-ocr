@@ -1,0 +1,61 @@
+\SEMF body
+\CAUS yak.7ax hacer que abriera la boca
+\lex 7ek
+\_no 00008
+\SPG pizcar mazorca
+\ENG to harvest corn
+\EX mok 7ekk@
+\XSP pizco* mazorca
+\XEN he harvested corn
+\EX 7ekkoba
+\XSP esta* pizcando
+\XEN he's harvesting
+\EX 7ekk@mm@ t@j@7k bi mok
+\XSP se pizco* la mazorca ayer
+\XEN the corn was harvested yesterday
+\ROOT 7ek T3
+\SEMF farm, corn, obj
+\PASS 7ek.7@m pizcarse
+\ANTI 7ek. 7oy pizcar
+\PRSV 7ek-ten lo tiene pizcado
+\CMTS term tuk 'acabar de pizcar'
+\lex 7e7k
+\_no 00009
+\SPG despizcar el frijol
+\ENG to shell beans
+\EX X@k 7e7kk@
+\XSP despizco* el frijol
+\XEN he shelled the beans
+\EX X@k 7ekan@mpa
+\XSP estan despizcando frijol
+\XEN they're shelling beans (impers)
+\EX 7e7kk@mm@ bi x@k
+\XSP se despizco* el frijol
+\XEN the beans were shelled
+\ROOT 7e7k T3
+\SEMF farm, corn, obj
+\PASS 7e7k.7@m pizcarse
+\ANTI 7e7k. 7oy pizcar
+\PRSV_7e7k=ten lo tiene despizcado
+\lex 7etz
+\_no 00010
+\SPG bailar
+ZOH001R0611010.txt
+\ENG to dance
+\EX tijj@ y+ 7etztz@
+\XSP fue a bailar
+\XEN he went to dance
+\EX 7@y 7etzt@kkaw@
+\XSP bailo* con alguien
+\XEN he danced with someone
+\EX 7etztz@ 7@y_pitz@:mi jonhjo*nh
+\XSP salio* bailando de adentro
+\XEN he went dancing out from inside
+\ROOT 7etz T1
+\SEMF motion, social
+\CAUS yak. 7etz hacer bailar
+\CMTS
+\lex 7ex
+\_no 00011
+\SPG encajar
+Page 3

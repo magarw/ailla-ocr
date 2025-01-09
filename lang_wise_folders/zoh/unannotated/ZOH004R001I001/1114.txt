@@ -1,0 +1,64 @@
+\UND pen
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG plantar; sembrar
+\ENG to plant; to sow
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF plant, farm
+\ASP activity
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT pen
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex pen [2]
+\_no 02589
+\LG MIG
+\PSH
+\UND pen
+\MB
+\VAR
+\GRAM vt
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG apretar con la mano; darle apreto*n
+\ENG to squeeze with the hand; to give something a little squeeze
+\SPL pen. 7oy
+\SLGR ANTIP
+\SLGL apretar con la mano // to squeeze with the hand
+\SLGR NO PASS
+\SPL pen.ten
+\SLGR PRSV
+\SLGL tener apretado // to have something squeezed in the hand
+\EXU 1 7@y+ kon.pen.7@y-w@ tzanh.kuy'+j@nanh
+\XPSH 1 [7@y konpenn@yy@ tzanhkuyj@nanh.]
+\XSP 1 Lo apreto* con la mano (para pelear).
+\XEN 1 He tightened his hand around him (to fight).
+\EXU 2 7@y+ pen-w@ tzanh.kuy'+j@nanh
+\XPSH 2 [7@y penn@ tzanhkuyj@nanh.]
+\XSP 2 Lo apreto* con la mano (no ma*s toco*).
+\XEN 2 He gave him a little squeeze with his hand.
+\EXU 3 7@y+ pen.ki7px-pa bi mango si k@nh-wa+'am
+\XPSH 3 [7@y penki7pxpa bi mango, si k@nhnha*m.]
+\XSP 3 Esta* apretando probandolo el mango, si ya esta* maduro.
+\XEN 3 She's testing the mango by squeezing it, to see if it's ripe yet.
+\SYN
+\SEMF hand
+\ASP semelfactive
+\ARG instrument
+\NOM pen.naanh,_pen.'oy.kuy7
+\SUB 7anh.pen, 7anh.pen.pu¹, pen=nonh, pen=m@tz, pen=nuk, pen=tu7p,
+\SUB pen.pak, pen.ki7px
+Page 1114

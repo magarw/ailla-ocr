@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG desabotonar
+\ENG to unbutton
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pen
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 29/Jan/96
+\lex 7anh-petz
+\_no 00155
+\LG MIG
+\PSH [7anhpetz-]
+\UND 7anh-petz
+\MB BOCA, X
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG la derecha
+\ENG right (side)
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Jun/95
+\lex 7anh-petz tzanh.kuy7
+\_no 00156
+\LG MIG
+\PSH [7anhpetz tzanhkuy7]
+\UND 7anh-petz tzanh.kuy7
+\MB BOCA, X, pegar_con_pun~o, INSTR1
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG mano derecha
+\ENG right hand
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT
+\DSRC HAJ94
+\CMTS
+Page 66

@@ -1,0 +1,63 @@
+\XSP muy aterronado
+\XEN very bumpy
+\EXU ban tero*nh
+\XSP muy aterronado
+\XEN very bumpy
+\SYN
+SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS se trata de un rastrojo
+\CMTS teron-tz@k no tiene razo*n
+\CMTS CK-PH
+\date 28/Jan/96
+\lex terronh. 'aH
+\_no 02982
+\LG MIG
+\PSH [terronhnha-]
+\UND teron.7aH
+\MB aterronado, VERS1
+\VAR
+\GRAM vers1
+\SCI
+\USE
+\SPG hacerse terro*n
+\ENG to become bumpy
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS CK-PH - HAJ:96 ok; fixed PH:TK
+\date 26/Jun/96
+\lex tet
+\_no 02983
+\LG MIG
+\PSH
+\UND tet
+ZOH004R0011001.txt
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG rajarse; estar rajado
+\ENG to split; to be split
+\SPL yak.tet
+\SLGR CAUS
+\SLGL hacer a que rajarse // to cause something to split
+\EXU 1 7ok-mantza7 tet.e7
+\XPSH 1 [7okmantza tete7]
+\XSP 1 talo*n rajado
+\XEN 1 split nail
+\EXU 2 tet-w@ 7@n+ 7ok=mantza7 manh.kuy7
+\XPSH 2 [Tett@n 7okmantza manhkuy7.]
+Page 1283

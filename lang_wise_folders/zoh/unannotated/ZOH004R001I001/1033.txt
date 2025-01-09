@@ -1,0 +1,65 @@
+\ROOT no7tz
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS tierra, plato, vaso,
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex nox
+\_no 02397
+\LG MIG
+\PSH
+\UND nox
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG ban~arse sin jabo*n
+\ENG to bathe without soap
+\SPL yak.nox
+\SLGR CAUS
+\SLGL ban~ar sin jabo*n // to bathe someone without soap
+\EXU da nox-pa
+\XPSH [D@ noxpa.]
+\ASP
+\ARG
+\NOM
+\SUB nox-mux
+\ETYM
+\ETL
+\XSP voy a ban~ar sin jabon.
+\XEN I'm going to bathe without soap.
+\SYN
+\SEMF clean, body
+\CMTS se enfresque
+\date 03/Jan/80
+\ROOT nox
+\RTGR I1
+\DSRC HAJ94
+\CMTS debe ser en el ri*o. no ma*s remojarse, y se va para que
+\lex no'.kuy7
+\_no 02398
+\LG MIG
+\PSH [nokuy7]
+\UND no7.kuy7
+\MB X, INSTR1
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG mata o palo de hule
+\ENG a type of tree or shrub
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF EB
+\ETYM
+\ETL
+breaks into little pieces
+\ROOT
+\DSRC TK94
+\CMTS
+LF: kuy
+Page 1033

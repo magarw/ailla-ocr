@@ -1,0 +1,63 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 p@k
+\RTGR 1 T3
+\ROOT 2 min
+\RTGR 2 IX
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex p@k-n@k
+\_no 02830
+\LG MIG
+\PSH [p@kn@k-]
+\UND p@k-n@k
+\MB agarrar, ir
+\VAR
+\GRAM vt+dir
+\SCI
+\USE
+\SPG 11evar
+\ENG to take
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 p@k
+\RTGR 1 T3
+\ROOT 2 n@k
+\RTGR 2 IX
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex p@k=tij
+\_no 02831
+\LG MIG
+\PSH [p@ktij-]
+\UND p@k-tij
+\MB agarrar, ir
+\VAR
+\GRAM vt+dir
+\SCI
+\USE
+\SPG 11evar; llegarlo
+\ENG to take; to cause to arrive
+\EXU
+\XSP
+\XEN
+\SYN p@k-n@k
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 p@k
+\RTGR 1 T3
+\ROOT 2 tij
+\RTGR 2 IX
+ZOH004R0011001.txt
+Page 1219

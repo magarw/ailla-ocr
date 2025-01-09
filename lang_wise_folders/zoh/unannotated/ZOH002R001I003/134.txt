@@ -1,0 +1,26 @@
+applicative, antipassive, passive, and impersonal) and discuss their effects on
+the argument structure of the clause. There is additional discussion of inverse
+clauses in the section on the applicative suffix. Section 6.4. describes the basic
+facts about word order in MIG Zoque; discussion of variation in word order for
+narrative purposes is continued in chapter 14. Section 6.5. describes predicate
+clauses and section 6.7. describes clauses using the MIG Zoque existential
+terms, tehi-, 'there are', and nənti, 'there aren't'.
+6.1. The arguments of a verb
+The pronominal agreement markers indicate the subjects of transitive
+and intransitive verbs and the objects of transitive verbs. Other core arguments
+may be referenced by a plural suffix or implied by the causative or applicative
+affixes. (The details of these cases are discussed below). Noun phrases that
+are cross-referenced by these verbal elements are unmarked in MIG Zoque.
+There are no morphological cases or adpositions that distinguish the roles of
+core NP arguments, nor are they constrained to appear in specific positions with
+respect to the verb. There is a possible total of four core arguments: actor,
+undergoer, recipient (or benefactor or location the third argument), and
+causer.
+Every verb will specify at least one of the macroroles actor and undergoer
+(defined in chapter 2). Both will be specified by a transitive verb; either may be
+the single argument of an intransitive verb. In general, actors in MIG Zoque
+clauses may be humans, animals, or other quasi-animate entities like the wind
+or the river. Only a few of the semantic roles subsumed under the macrorole
+'actor', as defined by RRG (Van Valin and La Polla, 1997:140-141) are actually
+allowed as subjects of MIG Zoque clauses: agent, experiencer, recipient, and
+109

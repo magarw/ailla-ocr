@@ -1,0 +1,62 @@
+\ROOT ko.jap
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 24/Jun/96
+\lex kokx.i7
+\_no 00128
+\LG MIG
+\PHO [kokxi7]
+\UND kokx.E7
+\MB tronar, NOM7
+\VAR
+\GRAM pcp
+\SPG el sonido en la forma que suena las coyunturas
+ENG the sound of joints cracking
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT kokx
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex kom.e7
+\_no 00129
+\LG MIG
+\PSH [kome7]
+\UND kom. E7 (+P@k)
+\MB remendar, NOM7
+\VAR [ko:me*7] (with REL)
+\GRAM sv/pcp
+\SCI
+\USE
+\SPG remendado; una cosa remendada
+\ENG mended; a mended thing
+\EXU yo't.e' kom.e7
+\XPSH [yote kome*7]
+\XSP ropa remendada
+\XEN mended clothes
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kom
+\RTGR T3
+\DSRC TK94
+\CMTS CK-all ok HAJ:96/OK: TK
+\date 03/Jan/80
+\lex ko.mek.e
+\_no 00130
+\LG MIG
+\PSH [komeke]
+\UND ko.mek. E
+ZOH001R0611004.txt
+\MB OTRO, mentir, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG por gusto; por ganas
+Page 53

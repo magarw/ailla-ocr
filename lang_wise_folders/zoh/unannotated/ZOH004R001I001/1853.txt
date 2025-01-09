@@ -1,0 +1,62 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tonon
+\RTGR IX
+\DSRC HAJ94
+\CMTS
+\date 14/Nov/94
+\lex yuk.tonh
+\_no 04315
+\LG MIG
+\PSH [yuktonh-]
+\UND yuk.tonh
+\MB ARR, ampollarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG ampollarse
+ENG to form a blister
+\EXU yuk.tonh-w@ 7@y+ tzanh.kuy7
+\XPSH [Yuktonhnh@y tzanhkuy7.]
+\XSP Se ampollo* la mano.
+\XEN His hand blistered.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT tonh
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 29/Jan/96
+\lex yuk. top
+\_no 04316
+\LG MIG
+\PSH [yuktop-]
+\UND yuk.top
+\MB ARR, hacer_calor
+\VAR
+\GRAM dir+vi
+\SCI
+\USE
+\SPG acalorarse
+\ENG to be hot
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT top
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 02/Nov/94
+ZOH004R0011001.txt
+Page 1853

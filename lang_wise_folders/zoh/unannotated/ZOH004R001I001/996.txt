@@ -1,0 +1,62 @@
+\ROOT may
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 19/Jun/96
+\lex nik.me 7kx. '@y
+\_no 02311
+\LG MIG
+\PSH [nikme 7kx@y-]
+\UND nik.me 7kx.7@y
+\MB SUP, abrazar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG darle abrazado
+\ENG to give someone something held in your arms
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT me7kx
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 27/Jan/96
+\lex nik.mi 7kx. '@y
+\_no 02312
+\LG MIG
+\PSH [nikmi 7kx@y-]
+\UND nik.mi 7kx.7@y
+ZOH004R0011001.txt
+\MB SUP, agarrar_en_pun~o, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG darle algo en el pun~o a escondida
+\ENG to slip something that you've gotten hidden in your hand to
+someone
+\SPL
+\SLGR
+\EXU 7@y+ nik.mi7kx. '@y-w@ num+jo7
+\XPSH [7@y nikmi7kx@yy@ numjo7.
+\XSP Le dio* algo en el pun~o a escondida.
+\XEN She slipped him what she had tucked in her hand.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT mi7kx
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS CK-EX - HAJ:96, ok, like the other one
+\date 19/Jun/96
+\lex nik.mon. '@y
+Page 996

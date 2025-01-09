@@ -1,0 +1,64 @@
+\ROOT 7uk
+\RTGR T1
+\DSRC TK94
+\CMTS
+\date 16/Jun/95
+\lex 7uku
+\_no 00486
+\LG MIG
+\PSH
+\UND 7uku
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG serete
+\ENG a type of animal
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 10/Nov/94
+\lex 7ukum
+\_no 00487
+\LG MIG
+\PSH
+\UND 7ukum
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+LF:7anmal
+\SPG calabaza
+\ENG squash
+\EXU kom(i) 7ukum
+\XSP calabaza grande
+\EXU chik 7ukum
+\XSP calabaza chica
+\SYN
+LF:t@m
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex 7ukum jay@7
+\_no 00488
+\LG MIG
+\PSH
+\UND 7ukum jay@7
+\MB
+\VAR
+\GRAM s (m) s
+ZOH004R0011001.txt
+Page 209

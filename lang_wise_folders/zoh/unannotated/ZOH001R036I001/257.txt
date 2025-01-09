@@ -1,0 +1,67 @@
+\tx GSM: 7@y 7ukpa
+\mb GSM
+7@y 7uk
+\sg1 GSM: 3E
+\eg1 GSM: 3E
+\zoq GSM: 7@y 7ukpa.
+\fts GSM: Lo toma.
+fte GSM: He drinks it.
+\com
+\idx
+-pa
+tomar INC
+drink-INC
+\ref ZOH001R036 999-213
+\_no 01194
+\tx 7i ga7xxta*7
+\mb 7i
+-7xe-xtaa7
+\sg] y
+DCT3-SIM-NOMAS
+\egl and DCT3-SIM-ONLY
+ka
+\zoq 7i ga7xxta*7?
+fts Y asi* no_mas?
+\fte And just like that?
+\com
+\idx
+\ref ZOH001R036 999-214
+\_no 01195
+\tx 7o neyti _ j@nanh
+\mb_7o neyti7 j@nanh
+\sglo IPSN
+AC
+\egl or IPSN ACC
+\zoq 70 neytij@nanh?
+\fts o con otra cosa?
+\fte or with something else?
+\com
+\idx
+\ref ZOH001R036 999-215
+\_no 01196
+\tx OSM: ga7xxta*7
+\mb OSM
+ka
+-7xe-xtaa7
+\sg1 OSM:
+DCT3-SIM-NOMAS
+\egl OSM: DCT3-SIM-ONLY
+\zoq OSM: Ga7xxta*7.
+fts OSM: Asi* no mas.
+\fte OSM: Just like that.
+\com
+\idx
+\ref ZOH001R036 999-216
+\_no 01197
+\tx 7i 7otro
+\mb 7i 7otro
+\sg] y
+otro
+\egl and other
+\zoq 71 7otro,
+\fts Y otro,
+\fte And another,
+\com
+\idx
+ZOH001R0361001.txt
+Page 257

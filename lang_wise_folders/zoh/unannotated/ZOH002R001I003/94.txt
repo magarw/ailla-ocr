@@ -1,0 +1,39 @@
+(vi)
+There is a limited sort of vowel harmony operating in the LOC1 and DIR1
+sets of alternate forms, such that the vowel of the suffix is matched to the
+vowel of the deictic root. This can be seen in the set of forms using the DIR1
+postposition: yəhəəŋ, deheeŋ, gahaaŋ. There is also some redundancy among
+the forms, with variant ways of saying the basic things: yəhə, yəhi? here'; gaha,
+gahi? 'there'; yə?, yədə 'this', etc.
+The initial consonants of the neutral de- and distal ga- are undoubtedly
+underlyingly voiceless, given the phoneme inventory of this language (section
+3.1), although they rarely appear unvoiced in the corpus. There are a few such
+cases, however, usually at the beginning of an utterance. The distal temporal
+form usually appears as kay instead of as gay. A distal directional also appears
+in a common idiom with a voiceless initial consonant, as shown in example
+(4.23 iii).
+(4.23)
+(i)
+ga.də
+pwente+ho? pwes
+pø'ttammø gadø nøho' pweteho' pwes
+(də) pə?t-tam-wǝ
+nə?+ho?
+(1A) pasar-1/2PL-COM DCT3.DEM agua+LOC2 puente+LOC2 pues
+'Pasamos ese río, en el puente, pues.'
+(ZOH001 RO10-269)
+(ii)
+nəmm? ?ən+ cam-wə
+familya+hənaŋ
+yøji nømmøn tzammø familyajønang
+yə.hi?
+DCT1.LOC1 PROG 1E+ platicar-COM familia+ACC
+'Aquí estoy platicando con la familia.'
+(ZOH001 R010-018)
+yøjøng jejpa tum tal lewteryo ga'
+yə.həəŋ
+0 heh-pa tum tal lewteryo ga.?
+DCT1.DIR1 3A vivir-INC uno tal leuterio DCT3.NOM1
+'Por acá vive un tal Leuterio.'
+69
+(ZOH001 RO10-273)

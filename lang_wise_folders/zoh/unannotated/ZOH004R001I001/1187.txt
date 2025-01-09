@@ -1,0 +1,63 @@
+\XSP Me apuro* trabajando.
+\XEN They pushed me at work.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT poy
+\RTGR 11
+\ROOT jonh
+\RTGR 12
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex poy-tzak
+\_no 02759
+\LG MIG
+\PSH [poytzak-]
+\UND poy-tzak
+\MB huir, dejar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG dejar por un rato
+\ENG to leave something for awhile
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 poy
+\RTGR 1 11
+\ROOT 2 tzak
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 15/Jun/95
+\lex poy-tz@y
+\_no 02760
+\LG MIG
+\PSH [poytz@y-]
+\UND poy-tz@y
+\MB huirse, atrabarse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG atajar
+\ENG to trap
+\EXU d@+ poy-tz@y-xuk-w@
+\XPSH [D@ poytz@yxukk@.]
+\XSP Me atajaron.
+\XEN They trapped me.
+\SYN yak.tz@y
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT poy
+\RTGR 11
+Page 1187

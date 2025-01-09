@@ -1,0 +1,63 @@
+\ETL
+\ROOT 1 n@k
+\RTGR 1 11
+\ROOT 2 707tz
+\RTGR 2 P (T3)
+\DSRC HAJ95
+\CMTS
+\date 12/Jan/96
+\lex k@.n@k='utz. '@y
+\_no 01717
+\LG MIG
+\PSH [k@n@kkutztz@y-]
+\UND k@.n@k. 7utz.7@y
+\MB FUERA, irse, medir, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG medir todo
+\ENG to measure everything
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7utz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 12/Jan/96
+\lex k@.n@k='@kx. '@y
+\_no 01718
+LG MIG
+\PSH [k@n@kk@kx@y-]
+\UND k@.n@k=7@kx. 7@y
+\MB FUERA, irse, desgranar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG desgranar todo
+\ENG to shell all the corn
+\EXU 7@y+ k@.n@k='@kx. '@y-w@ 7@y+ mok
+\XPSH [7@y k@n@kk@kx@yy@ y mok.]
+\XSP Desgrano* todo su mai*z.
+\XEN She shelled all of her corn.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 n@k
+\RTGR 1 IX
+\ROOT 2 7@kx
+\RTGR T3
+ZOH004R0011001.txt
+\DSRC HAJ95
+\CMTS
+\date 12/Jan/96
+Page 742

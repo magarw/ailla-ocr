@@ -1,0 +1,45 @@
+7.1.1.2. ?ok
+This prefix usually, but not always, co-occurs with the suffix -?ǝy. ?ok-
+combines with ?aŋ- to produce ?oŋ- (example vi), although this is a rare
+occurrence. The most consistent contribution that ?ok- makes to the meaning
+of the verb complex is BAJO, hence the gloss code. ?ok- and yuk-, ARR, are the
+most consistently directional prefixes of the set. Finally, on a cultural note,
+?ok- also indicates 'south', since one goes down in order to go south in San
+Miguel Chimalapa, most clearly shown in example (v).
+(7.5)
+(i)
+(iii)
+(iv)
+(v)
+(vi)
+'okjonangpø'
+?ok+honaŋ+pəǝ?k
+BAJO+DIR3+REL
+'bajeño'
+dø 'oktzamjadammø
+də+ ?ok.cam.hay-tam-we
+1 A+ BAJO.platicar.APPL-1/2PL-COM
+'Nos contó un cuento.'
+'øy 'okxe'pxjayyø
+?əy+ ?ok.še?pš.hay-wa
+3E+ BAJO.hacer_mecate.APPL-COM
+'Se lo tiró.'
+'okku'pxxø
+0 ?ok.?u?pš-wə
+3A BAJO.nublarse-COM
+'Levantó nubes en el sur.'
+'øy yak'ongtze'koba 'øy jatong
+?əy+yak.?ok.?aŋ.ce?k.?oy-pa
+(ii)
+3E+ CAUS.BAJO.BOCA.pedir.ANTIP-INC
+'Le pregunta su papá.'
+155
+'øy 'oknukkəyyə
+?əy+ ?ok.nuk.?ǝy-wǝ
+3E+ BAJO.agarrar.SUF-COM
+'Lo soltó.'
+(ZOH001 R018-022)
+(ZOH001 R018-078)
+?ǝy+ haton
+3E+ padre
+(ZOH001 R018-279)

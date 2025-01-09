@@ -1,0 +1,47 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+12.2. Question-word questions
+There are eleven question words in MIG Zoque, shown in
+table 12.1. These always appear at the beginning of the question.
+This type of question also has rising intonation.
+?iwǝ?
+ti
+huti?
+hucen
+tigoo?
+hutiya?
+hunan
+hu?
+hutiin
+huteen
+hutǝəŋ
+Zoque
+English
+who
+what
+which
+how many
+why
+when
+how
+where
+from where
+in what direction
+from where
+quien
+que
+cual
+297
+Spanish
+cuantos
+porque
+cuando
+como
+donde
+de adonde
+en cual dirección
+por donde
+Table 12.1: MIG Zoque question words
+Spanish question words appear occasionally in the corpus,
+but are not nearly as commonly used as the MIG Zoque words. One
+example of such usages will be given at the end of each of the
+example sets in this section.

@@ -1,0 +1,63 @@
+\SLGR
+\EXU ni.7@kx.kuy7 p@'. 7oy.kuy7
+\XPSH [ni7@kxkuy p@7okuy]
+\XSP traste donde desgranan mai*z
+\XEN a dish for shelling corn into
+\SYN
+SEMF
+ETYM
+\ETL
+\ROOT 7@kx
+\RTGR T3
+\DSRC HAJ95
+\CMTS CK-EX - 'este es el verdadero'. HAJ:96
+\date 19/Jun/96
+\lex ni.jaj
+\_no 02247
+\LG MIG
+\PSH [nijaj-]
+\UND ni.jaj
+\MB PURP, arder
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG arder el cuerpo (en el sol, cuando esta* caminando mucho...)
+\ENG for the body to heat up (in the sun, or when you're walking a lot...)
+\SPL yak.jaj-wa
+\SLGR CAUS
+\SLGL algo me ardio*' // to cause someone to heat up
+\EXU ni.jaj-wa
+\XPSH [Ni: jajj@.]
+\XSP Ardio el cuerpo.
+\XEN Her body heated up.
+\SYN
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+\ETL
+\ROOT jaj
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\lex ni.jamv=min. '@y
+\_no 02248
+\LG MIG
+\PSH [niijaamminn@y-]
+\UND ni.jaamv=min.7@y
+\MB PURP, X, venir, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG recordar
+\ENG to remember
+\EXU 7@n+ ni.jaam(V)=min. '@y-w@ ke 7@n+ p@-n@k-pa 7@n+
+toto
+\XPSH [7@n nijaminn@yy@ ken p@n@kpan toto.]
+\XSP Recorde* que si* voy a llevar mi papel
+\XEN I remembered that I was going to bring my paper.
+\SYN
+\SEMF
+Page 968

@@ -1,0 +1,64 @@
+\ETL Sp jabo*n
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 07/Apr/95
+\lex xapu.7@y
+\_no 03887
+\LG MIG
+\PSH [xapu7@y-]
+\UND xapu.7@y
+\MB jabo*n, VERS1
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG enjabonar
+\ENG to soap
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 14/Nov/94
+\lex xatz
+\_no 03888
+\LG MIG
+\PSH
+\UND xatz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG fregar entre las manos; torcer, como mecate
+\ENG to rub between the hands; to twist, like rope
+\SPL xatz.7oy
+\SLGR ANTIP
+\SLGL tentar con la mano; torcer // to touch with the hand; to twist
+\SPL xatz.7@m
+ZOH004R0011001.txt
+\SLGR PASS
+\SLGL estar suelto o blandito la palma o cualquiera // for the palm or
+whatever to be softened by rubbing
+\EXU 1 jojo=xatz-wa
+\XPSH 1 [Jojoxatztz@.]
+\XSP 1 Torcio* palma.
+\XEN 1 She twisted palm leaves.
+\EXU 2 7@y+ xatz.ten-w@ bi nitum 7uk.i7
+\XPSH 2 [7@y xatztenn@ bi nitum 7uki7.]
+\XSP 2 Tiene batido el
+chocolate.
+\XEN 2 She's got the chocolate stirred up.
+\SYN
+\SEMF hand, build
+\ASP process
+\ARG
+\NOM xatz.e7, xatz.kuy7
+\SUB ko.xatz
+Page 1672

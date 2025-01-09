@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT ke7tz
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 12/Jun/95
+\lex 7ok.kex. '@y
+\_no 00343
+\LG MIG
+\PSH [7okkexx@y-]
+\UND 7ok.kex.7@y
+\MB ABAJO, ponerse_crespo, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG descresparse el pelo
+ENG to lose a curl, as when a permanent grows out
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kex
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex 7ok.kit.'@y
+\_no 00344
+\LG MIG
+\PSH [7okkitt@y-]
+\UND 7ok.kit.7@y
+\MB ABAJO, quebrar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG quebrar
+\ENG to break
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+SEMF
+\ETYM
+\ETL
+\ROOT kit
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex 7ok.ki7t. '@y
+Page 148

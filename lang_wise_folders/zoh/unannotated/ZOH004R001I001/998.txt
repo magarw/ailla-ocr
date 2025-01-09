@@ -1,0 +1,64 @@
+\PSH [niknemm@y-]
+\UND nik.nem.7@y
+\MB SUP, flamear, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG flamearse
+\ENG to flame
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nem
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 21/Jun/95
+\lex ni.ko.kax
+\_no 02317
+\LG MIG
+\PSH [nikokax-]
+\UND ni.ko.kax
+\MB PURP, OTRO, dar_paso
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pasar
+\ENG to step over something like a rock or log
+\SPL
+\SLGR
+\EXU 7@y+ ni.ko.kax-w@ kuy
+\XPSH [7@y nikokaxx@ kuy.]
+\XSP Paso
+el palo.
+\XEN She stepped over the log.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT kax
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 08/Feb/96
+\lex ni.kom
+\_no 02318
+\LG MIG
+\PSH [nikom]
+\UND ni.kom.0
+\MB PURP, remendar, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG parche
+\ENG patch
+\SPL
+Page 998

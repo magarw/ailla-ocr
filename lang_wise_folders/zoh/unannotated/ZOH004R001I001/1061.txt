@@ -1,0 +1,65 @@
+\GRAM S
+\SCI
+\USE
+\SPG armadillo
+\ENG armadillo
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Nov/94
+\lex n@tz weni7
+\_no 02461
+\LG MIG
+\PSH
+\UND n@tz weni7
+\MB
+\XEN
+\SYN
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG avispo*n
+\ENG a type of wasp
+\EXU
+\XSP
+SEMF
+— — —
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 05/Oct/94
+LF:7anmal
+\lex n@tz-pak
+\_no 02462
+\SCI
+\USE
+\LG MIG
+\PSH [n@tzpak]
+\UND n@tz-pak
+\MB armadillo, hueso
+\VAR
+\GRAM SS
+\EXU
+\XSP
+\SPG concha de armadillo
+\ENG armadillo shell
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+ZOH004R0011001.txt
+Page 1061

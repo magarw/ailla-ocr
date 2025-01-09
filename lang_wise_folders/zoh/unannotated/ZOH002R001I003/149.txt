@@ -1,0 +1,42 @@
+6.2.4. Cross-referencing via the plural suffixes
+The plural suffixes can refer to any core argument. The choice seems to
+be related to discourse considerations such as topicality rather than
+grammatical restrictions. Following are examples of a plural suffix cross-
+referencing actor (i, ii), undergoer (iii, iv), recipient (v, vi), and causee (vii).
+(6.13)
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+bi 'angkimmobá' pøn yampan 'angtze'kjadammø
+bi ?aŋ.kim.?oy-pa+V?k
+pøn yampa ?ən+ ?aŋce?k.hay-tam-wǝ
+DEF BOCA.subir.ANTIP-INC-REL hombre nPERF 1E+ pedir.APPL-1/2PL-COM
+'No hemos preguntando al jefe.'
+(ZOH001 R010- 625)
+dø wejjaxukkø
+də+ weh.hay-šuk-wǝ
+1 A+ gritar.APPL-3PL-COM
+'Me llamaron.'
+komo ke ya də+ ?iš=pək-tam-A
+'øyaóng tzønpa komo ke ya dø 'ixpøktamə
+?əya+hooŋ 0 cən-pa
+otro+DIR4 3A sentarse-INC como que NEG 1A+ ver=agarrar-1/2PL-nINC
+'Se sienta al otro lado como que no nos conociera."
+(ZOH001R019-014)
+døx 'øn manakdøkka 'øn tøxukpa jemji
+dəš ?ən+ manak+dǝkkay ?ən+ tə?-šuk-pa
+1 Prn 1E+ hijo+NPL
+'Quiero á todos mis niños."
+mix 'ayudtzøktamø
+miš
+(ZOH001R025-070)
+hemhi
+1E+ querer-3PL-INC todo
+124
+(ZOH001R056- 049)
+Payudar=cək-tam-A?
+2>1+ ayudar=hacer-1/2PL-IMPV
+'Ayudenos.' (destinatario es una persona, Satornino)
+(ZOH001R025-074)

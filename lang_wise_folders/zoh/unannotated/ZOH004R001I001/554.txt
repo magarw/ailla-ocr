@@ -1,0 +1,62 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 19/Jun/95
+\lex kitzitz.ney
+\_no 01269
+\LG MIG
+\PHO [kitzitzney-]
+\UND
+\MB
+\VAR
+\GRAM assum1
+\SPG pelar los dientes
+\ENG to bare the teeth
+\EXU kitzitz.ney-pa bi nu7 wax. 'oy-t@'-pa
+\XPSH [Kitzitzneba bi nu7, waxxot@pa.]
+\XSP El perro esta* pelando los dientes, quiere morder.
+\XEN The dog is baring its teeth, it wants to bite.
+\SYN
+\ROOT kitzitz
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex kitz.naanh
+\_no 01270
+\LG MIG
+\PHO [kitzna*nh]
+\UND kitz.naanh
+\MB enrollar, MED
+\VAR
+\GRAM meas
+\SPG un recogido de la camisa
+\ENG one roll of the sleeve
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT kitz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+ZOH004R0011001.txt
+\lex kix [1]
+\_no 01271
+\LG MIG
+\PSH
+\UND kix
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+Page 554

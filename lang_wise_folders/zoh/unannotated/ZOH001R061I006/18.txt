@@ -1,0 +1,64 @@
+\SLGL tener enrollado // to have coiled
+\DSRC TK94
+\CMTS antip jeken. 7oy enrollar
+\CMTS pass jeken.7@m enroscarse (vi*bora); enrollar
+\CMTS prsv jeken=ten lo tiene enrollado
+\CMTS assum1 jeken.ney estar enrollado
+\CMTS root class? but AAJ YGS
+\CMTS
+\date 03/Jan/80
+\lex je7k
+\_no 00024
+\LG MIG
+\PSH
+\UND je7k
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG limpiar con coa
+\ENG to clean with a hoe
+\EXU 1 7@y+ je7k-w@ bi yuj.kuy7
+\XPSH 1 [7@y je7kk@ bi yujkuy.]
+\XSP 1 Limpio* el rastrojo.
+\XEN 1 He cleaned the field with a hoe.
+\ASP activity
+\ARG instrument
+ZOH001R0611006.txt
+^^^^^^^ what does this mean?!
+\EXU 2 7@y+ je7k.ten-w@ bi yuj.kuy7
+\XPSH 2 [7@y je7ktenn@ bi yujkuy.]
+\XSP 2 Limpio* a tiempo el rastrojo.
+\XEN 2 He got the field cleaned in time.
+\SYN win-je7k
+\SEMF cut, farm
+\NOM je7k.kuy7, je'k.e7
+\SUB 7ok.je7k.'@y, j@x-je7k, ko.je7k, k@.je7k, ni.je7k, nik.je7k.'@y,
+\SUB win-je7k, yuk.je7p
+\ETYM
+\ETL
+\ROOT je7k
+\RTGR T3
+\SPL je7k. 7oy
+\SPL je7k.ten
+\SLGR PRSV
+\SLGR ANTIP
+\SLGL limpiar con coa // to clean with a hoe
+\SLGR NO PASS
+\SLGR NO ASSUM1
+\SLGL tener limpiado // to have clean
+\DSRC TK94
+\CMTS patio, rastrojo, jardi*n
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex jen
+\_no 00025
+\LG MIG
+\PSH
+\UND jen
+\MB
+\VAR
+\GRAM vt
+\SCI
+Page 18

@@ -1,0 +1,72 @@
+\fte There was beer there.
+\com
+\idx
+\ref ZOH001R043 087
+\_no 00088
+\tx teji
+\mb
+teji
+\sg1 hay
+\egl there is sweet water
+\zoq Teji paja7k n@7.
+\fts Hay refresco dulce.
+\fte There were soft drinks.
+\com
+\idx
+paja7k n@7
+paja7k n@7
+dulce agua
+\ref ZOH001R043 088
+\_no 00089
+\tx teji
+\mb teji
+\sg1 hay
+\egl there is eat -INSTR1
+\com
+\idx
+k@xkuy
+k@x -kuy7
+comer-INSTR1
+\zoq Teji k@xkuy7.
+\fts Hay comida.
+\fte There was food.
+\ref ZOH001R043 089
+\_no 00090
+\tx k@xxoxukk@
+\mb k@x -7oy -xuk-w@
+\sg1 comer-ANTIP-3PL-COM
+\egl eat -ANTIP-3PL-COM
+\zoq K@xxoxukk@.
+\fts Comieron.
+\fte They ate.
+\com
+\idx
+\tx
+\mb tam
+\ref ZOH001R043 090
+\_no 00091
+tamn@
+7ukxukk@
+-n@7
+7uk -xuk-w@
+\sg1 1/2PL-agua
+tomar-3PL-COM
+\egl 1/2PL-water drink-3PL-COM
+\zoq Tamn@7ukxukk@.
+\fts Tomaron cerveza.
+\fte They drank beer.
+\com
+\idx
+\ref ZOH001R043 091
+\_no 00092
+\tx
+\mb
+7ukxukk@
+paja7k n@
+paja7k n@7
+7uk -xuk-w@
+\sgl dulce agua
+tomar-3PL-COM
+\egl sweet water drink-3PL-COM
+ZOH001R0431001.txt
+Page 21

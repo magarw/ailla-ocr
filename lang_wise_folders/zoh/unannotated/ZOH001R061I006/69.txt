@@ -1,0 +1,63 @@
+\DATE 03/Jan/80
+\lex mu7k
+\_no 00101
+\LG MIG
+\PSH
+\UND mu7k
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG chupar
+\ENG to suck
+\SPL mu7k.7oy
+\SLGR ANTIP
+\SLGL chupar // to suck
+\SLGR NO PASS
+\EXU bi jay 7une' 7@y+ mu7k-w@ tum_7anaxa
+XPSH [Bi jay 7une 7@y mu7kk@ tum 7anaxa.]
+\XSP ET muchacho chupo* la naranja.
+\XEN The boy sucked on an orange.
+\SYN
+\SEMF eat
+\ASP activity
+\ARG
+\NOM mu'k.i7
+\SUB mu7k-k@x
+\ETYM
+\ETL
+\ROOT mu7k
+\RTGR T3
+\SPL mu7k.7oy
+\SLGR ANTIP
+\SLGL chupar // to suck
+\SPL mu7k.7@m
+\SLGR PASS
+\SLGL estar chupado // to be sucked-in
+\SPL mu7k.ten
+\SLGR PRSV
+\SLGL tener chupado // to have something sucked in
+\DSRC TK96
+\CMTS THIS Word exists in MAR, but is not yet in this database
+\date 03/Jan/80
+\lex mux [1]
+\_no 00102
+\LG MIG
+\PSH
+\UND mux
+\MB saber
+\VAR
+\GRAM vt
+ZOH001R0611006.txt
+\SCI
+\USE
+\SPG saber
+\ENG to know
+\SPL mux. 7oy
+\SLGR ANTIP
+\SLGL aprender // to learn
+\SPL mux.7@m
+\SLGR PASS
+\SLGL "se supo" // to be found out
+Page 69

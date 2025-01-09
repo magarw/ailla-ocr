@@ -1,0 +1,62 @@
+\date 26/Jun/96
+\lex yuchi' kuy
+\_no 04199
+\LG MIG
+\PSH [yuchi kuy]
+\UND yuchi7 kuy
+\MB delgado, palo
+\VAR yuchchi kuy [TK]
+\GRAM ams
+\SCI
+\USE
+\SPG palo delgado
+\ENG thin stick
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH - HAJ:96 ok
+\date 26/Jun/96
+\lex yuch. Hi7
+\_no 04200
+\LG MIG
+\PSH [yuchchi7]
+\UND yuch. Hi7
+\MB
+\VAR yuch.17 [OK: TK]
+\GRAM a
+\SCI
+\USE
+\SPG delgado; flaco (se trata de cosas como palos)
+\ENG thin (refers to things like rods or branches)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH - HAJ:96/OK:TK
+\CMTS trata de cosas como palos
+\date 26/Jun/96
+\lex yuch. Hi'.7aH
+\_no_04201
+\LG MIG
+\PSH [yuchchi7a-]
+\UND yuchchi7.7aH
+\MB delgado, VERS1
+\VAR
+\GRAM versl
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG hacerse delgado
+\ENG to become thin
+Page 1804

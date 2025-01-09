@@ -1,0 +1,63 @@
+\ROOT tokx
+\RTGR IX
+\DSRC TK94
+\CMTS get deriv's
+\CMTS
+\date 03/Jan/80
+\lex tokx.e7
+\_no 03010
+\LG MIG
+\PHO [tokxe7]
+\UND tokx.E7
+\MB pelar_maiz, NOM7
+\VAR
+\GRAM_pcp
+\SPG lavado (de maiz)
+\ENG washed (of corn)
+\EXU pitz.i tokx.e7
+\XPSH [pitzi_tokxe7]
+\XSP nixtamal lavado
+\XEN washed corn
+\SYN
+\ROOT tokx
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex to7k
+\_no 03011
+\LG MIG
+\PSH
+\UND to7k
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tender o extender en cama o suelo, como petate
+\ENG to stretch out on the bed or the ground, like a mat
+\SPL to7k.7oy
+ZOH004R0011001.txt
+\SLGR ANTIP
+\SLGL tender // to stretch out
+\SPL to7k.7@m
+\SLGR PASS
+\SLGL tenderse // to be stretched out
+\SPL to7k.ney
+\SLGR ASSUM1
+\SLGL estar extendido // to be stretched out
+\EXU 1 7@y+ to7k-w@ bi pata7
+\XPSH 1 [7@y to7kk@ bi pata7.]
+\XSP 1 Extendio* el petate.
+\XEN 1 She stretched out the mat.
+\EXU 2 to7k. '@m-w@ pata7
+\XPSH 2 [To7kk@mm@ pata7.
+\XSP 2 Se extendio* (solo).
+\XEN 2 It stretched out (by itself).
+\EXU 3 to7k.ney-w@ pata7.
+\XPSH 3 [To7kneyy@ pata7.]
+\XSP 3 Esta* extendido el petate.
+\XEN 3 The mat is stretched out.
+\SYN
+\SEMF arrange
+Page 1296

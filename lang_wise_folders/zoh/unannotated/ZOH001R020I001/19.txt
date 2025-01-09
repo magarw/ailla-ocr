@@ -1,0 +1,37 @@
+\com
+\idx
+\not
+\idx conj, pass_refl
+\ref ZOH001R020 072
+\_no 00073
+\tx tzakk@mm@
+par 7eya*7k
+d@kka
+\mb tzak -7@m -w@ para 7eya -v7k d@kkay
+\sg1 dejar-PAS -COM para otro -REL NPL
+\egl leave-PASS-COM for other-REL NPL
+\zoq Tzakk@mm@ par 7eya*7kd@kkay.
+\fts Quedo* para otros.
+\fte It remained for others.
+\com
+\idx
+\not
+\idx pass_refl
+\ref ZOH001R020 073
+\_no 00074
+ZOH001R0201001.txt
+\tx 7@y manak d@kka 7@y yakxukk@
+\mb 7@y manak d@kkay 7@y yak -xuk
+\sg1 3E
+\egl 3E
+hijo/a NPL
+child NPL
+-wa
+3E CAUS-acabarse-COM
+3E CAUS-finish -COM
+\zoq 7@y manakd@kkay 7@y yakxukk@
+\fts Los hijos lo acabaron.
+\fte His children used it up.
+\com
+\idx
+Page 19

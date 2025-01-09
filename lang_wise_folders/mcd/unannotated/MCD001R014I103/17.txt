@@ -1,0 +1,45 @@
+175 //ahuun ohui adiquin//
+ahuun ohui a-di-quin
+3POSS voix AUX.TR-PASL-OST1
+sa voix s'introduisit
+176 /// ari ohui adiquin ///
+ari ohui a-di-quin
+LOC voix AUX.TR-PASL-OST1
+sa voix lointaine s'introduisit
+177 amaquimu ifofo
+a-ma-quin-mu ifo-fo
+AUX.TR-CAUS-OST1-EMPH maître-PL
+les maîtres l'introduisirent
+178 ari ohui afodi
+ari ohui a-fo-di
+LOC voix AUX.TR-PL-PASL
+leurs voix lointaines s'introduisirent
+179 ua adirifiquin
+ua a-di-ri-fin-quin
+1PERS.A AUX.TR-PASL-ITE-FOC-OST1
+elles s'introduisirent à nouveau en moi
+180 ///cudu ifofoquian///
+cudu ifo-fo-quian
+dessin maître-PL-OST2
+les maîtres aux dessins
+181 docoyari iquihuui
+doco-ya-ri i-qui-huu-i
+1PERS.PL.A-COM-ITE AUX.INTR-Ø-venir-PROG
+ils viennent parmi nous
+182 uqui huanoquian
+un-qui hua-no-quian
+1PERS.N-DIR CF-FUT-OST2
+ils viendront et partiront avec moi
+183 //afoyari idiquin//
+afo-ya-ri i-di-quin
+3PERS.PL-COM-ITE AUX.INTR-PASL-OST1
+je vins et partis avec eux
+184 ahuun rabi shinahuui
+ahuun rabi shina-huu-i
+3POSS rabi penser-venir-PROG
+je vins penser leurs chants rabi
+185 shina ohui idiquin
+shina ohui i-di-quin
+penser voix AUX.INTR-PASL-OST1
+je pensai leurs paroles
+36

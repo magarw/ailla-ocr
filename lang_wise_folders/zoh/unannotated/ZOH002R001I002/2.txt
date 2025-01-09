@@ -1,0 +1,75 @@
+Morpheme gloss codes
+The first column contains the English gloss code used in this book. The
+second column contains the Zoque morpheme. The morpheme separators
+described in Table ii are used to indicate the morphological status of the Zoque
+forms. The Third column contains a brief description of the morpheme.
+English
+1A
+1E
+1/2PL
+1 PSN
+1 Prn
+1>2
+2A
+2E
+2PSN
+2Prn
+2>1
+3A
+3E
+3PL
+3PSN
+3>2
+ACC
+ANTIP
+APPL
+ASSUM
+AWAY
+Zoque
+də
+?ən+
+-tam
+tənti? / ninti?
+dəš
+miš
+?əm+
+?əm+
+minti?
+miš
+miš
+0
+?ǝy+
+-šuk
+?ǝyti?
+mi
++hənaŋ
+.?oy
+.hay
+.ney
+kə.
+XX
+Description
+first person absolutive
+first person ergative
+first or second person plural
+first person possessive noun
+first person pronoun
+first person subject; second
+person object
+second person absolutive
+second person ergative
+second person possessive noun
+second person pronoun
+second person subject; first
+person object
+third person absolutive
+third person ergative
+third or second person plural
+third person possessive noun
+third person subject; second
+person object
+accompaniment
+antipassive
+applicative
+assumptive
+directional prefix: away

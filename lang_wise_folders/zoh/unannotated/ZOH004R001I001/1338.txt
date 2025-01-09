@@ -1,0 +1,62 @@
+\CMTS
+\DATE 03/Jan/1980
+\lex tunu7
+\_no 03109
+\LG MIG
+\PSH
+\UND tunu7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG ombligo
+\ENG belly-button; navel
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tunuk
+\_no 03110
+\LG MIG
+\PSH
+\UND tunuk
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG guajolote
+\ENG turkey
+\EXU jay(a) tunuk
+\XSP guajolote macho
+\XEN turkey cock, tom turkey
+\EXU yom (@¹) tunuk
+\XSP guajalota
+\XEN turkey hen
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tunh
+\_no 03111
+\LG MIG
+\PSH
+\UND tunh
+\MB
+\VAR
+\GRAM S
+\SCI
+ZOH004R0011001.txt
+Page 1338

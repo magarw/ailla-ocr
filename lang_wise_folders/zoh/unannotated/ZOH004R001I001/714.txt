@@ -1,0 +1,63 @@
+\SPG toser (a alguien)
+\ENG to cough (at someone)
+\SPL
+\SLGR
+\EXU 7@y+ k@.7oj-'@y-w@ num+jo7
+\XPSH [7@y k@7ojj@yy@ numjo7.]
+\XSP Le tosio* escondido (para espantar alguien).
+XEN She sneaked up and coughed at someone (to startle them).
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 70j
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 13/Jul/95
+\lex k@.707k. '@y
+\_no 01652
+\LG MIG
+\PSH [k@707kk@y-]
+\UND k@.707k.7@y
+\MB FUERA, calmarse, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG calmarse
+\ENG to become calm
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 707k
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 13/Jul/95
+\lex k@.7om
+\_no 01653
+\LG MIG
+\PSH [k@7om]
+\UND k@.7om.0
+ZOH004R0011001.txt
+\MB FUERA, echar_humo, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG un traste donde se ahuma algo
+\ENG a dish where you smoke something, an incense holder
+\EXU ko.maxan 7@y+ k@.7om
+\XPSH [komaxan 7@y k@7om]
+\XSP el traste donde se ahuma el santo
+\XEN the dish where you burn fragrant herbs for the saint
+\SYN
+\SEMF
+Page 714

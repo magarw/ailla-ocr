@@ -1,0 +1,32 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+11.2 Coordination and disjunction
+Clauses are usually conjoined by means of the Spanish connective ?i, (y,
+'and'), as shown in example (11.10 i). They can also be coordinated by simple
+juxtaposition, with no connective, as shown in example (ii). This was probably
+the standard form of coordination prior to the invasion, although it appears
+infrequently now in the corpus. The intonation pattern in such constructions is
+like that used in a list of nouns: each conjunct has its own rising-falling
+contour, with a slight pause between the two. The drop in pitch in the first
+conjunct is not as steep as it would be if it were truly the end of the utterance.
+(11.10)
+(i)
+(ii)
+'øn tzønkuytzixukkø 'i tzønxukkø
+?ən+ cən.kuy?=ci?-šuk-wǝ
+?i 0 cən-šuk-wǝ
+1E+ sit.INSTR1-give-3PL-COM and 3A sit-3PL-COM
+'I gave them seats and they sat down.'
+(ZOH001 R010-023-4)
+para dey tzøkpa 'øy pøkke'tpa
+para de.y ?əy+ cək-pa ?əy+ pək.ke?t-pa
+so_that DCT2.TMP 3E+ do-INC 3E+ get.REPET-INC
+'So that he does it and gets it again.'
+273
+(ZOH001R024-349)
+There is no restriction on conjuncts with respect to aspect, mood, or
+polarity. In example (11.11 i) completive clauses are conjoined with an
+incompletive (which indicates an ongoing action in the past, in this case). In (ii),
+an incompletive clause with future reference is conjoined with a present perfect
+clause. In (iii), an incompletive clause (a purpose clause) is conjoined with a
+volitive clause. Example (iv) shows the conjunction of positive and negative
+incompletive clauses.

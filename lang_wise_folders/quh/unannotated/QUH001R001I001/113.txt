@@ -1,0 +1,57 @@
+Sin un contexto discursivo específico, no hay forma de decidir si (31) y (32) son
+condicionales o temporales. Depende de si el hablante toma por seguro la información que
+brinda la cláusula subordinada o si pone esta información en el terreno de la duda. Añadir un
+adverbio de seguridad, inmediatamente, provoca que la cláusula sólo admita la lectura
+temporal.
+La lectura de condicionalidad de la cláusula marcada se cancela si la cláusula matriz
+tiene pasado (terminado) marcado; excepto que ingrese en el terreno de la contrafactualidad.
+En estos casos, se precisa la presencia del marcador de futuro relativo (-na) en la cláusula
+subordinada (ejemplo 29 anterior) o la presencia del sufijo -man (ejemplos 33 y 34). Si esta
+relación temporal no aparece, la lectura deviene temporal con exclusividad (35)¹4⁰.
+140
+(33) wawa-y causa-jti-n-qa
+kusi-sqa kay-man
+hijo-POS1 vivir-SUB-3S-TOP feliz-NOM estar-IRR
+141
+‘si mi hijo estuviera vivo, estaría feliz' (convicción negativa: "Sé que este no es el caso")¹4¹
+(34) kay wawa qhari ka-jti-n(-qa)
+kusi-ku-y-man.
+DEM niño varón ser-SUB-3S(-TOP) feliz-REFL-1S-ALAT
+'si este chico fuera un niño, estaría feliz'
+(35) Macha-jti-yki phiña-ku-rqa-ni.
+beber-SUB-2S enojar-REFL-PAS-1S
+'cuando te emborrachaste, me enojé'
+ka-rqa
+ser-PAS
+Estos ejemplos sugieren que la forma de la cláusula consecuente influye en la
+determinación de la lectura adverbial de la construcción. Sin embargo, en la interpretación de
+las construcciones interordinadas se mantiene constante la contingencia del anclaje modal
+siempre relativo a una situación (temporal / espacial / personal) más o menos posible,
+imaginada, deseada, etc. por el hablante (Kratzer 1991) que las formas elegidas (re)producen.
+La aspectualidad perfectiva (inherente a la semántica de algunos verbos en posición
+matriz) también puede inhibir una lectura condicional.
+(36) puri-spa-qa
+urma-ku-ni
+caer-REFL-1S
+(se puede pero es muy raro)
+(37) aycha-ta kuchu-sha-jti-n
+maki-n-ta
+carne-AC cortar-PROGR-SUB/DS/SEQ-3S mano-POS3-AC
+'se cortó la mano cuando estaba cortando carne'
+* si cortó carne, se cortó la mano'
+140
+113
+caminar-SUB/SS/SIM-TOP
+' caminando, me caí'
+?? 'si camino, me caigo'
+kuchu-rqa-ku-n
+cortar-PAS-REFL-3S
+Iatridou (1990, Linguistic Inquiry) analiza los ingredientes de la contrafactualidad, y propone que
+interlingüísticamente son dos: pasado e imperfectividad. No he analizado hasta el momento si éste es el caso del
+quechua ya que no poseo en mi corpus enunciados que refieran contrafactualidad pasada (e.g., "si hubiera estado
+vivo, hubiera estado feliz").
+141 Versus:
+wawa-y
+causa-jti-n kusi-ku-saj
+hijo-POS1 vivir-SUB-3S feliz-REFL-FUT/1S
+'si mi hijo está vivo, estaré feliz' incertidumbre ("No sé si este es el caso")

@@ -1,0 +1,62 @@
+\SEMF
+\ROOT nu7kx
+\RTGR T3
+\DSRC TK
+\CMTS
+\date
+\lex ko.nu7kx. 'o<y-a>7
+\_no 01401
+\LG MIG
+\PSH [konu7kxo7]
+\UND ko.nu7kx. 'o<y-A>7
+\MB OTRO, arullar, ANTIP, NOM2
+\VAR
+\GRAM antip
+\SPG ruega a Dios que mates un venado
+\ENG pray to God that you kill a deer
+\SPL
+\SLGR
+\EXU
+\XPSH
+\XSP
+\XEN
+\SYN
+\SEMF
+\ROOT nu7kx
+\RTGR T3
+\DSRC TK
+\CMTS
+\date
+\lex ko.nutz
+\_no 01402
+\LG MIG
+\PSH [konutz-]
+\UND ko.nutz
+\MB OTRO, estar_caliente
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG calentar (como comida)
+\ENG to heat food
+\EXU 7@y+ ko.nutz-w@ yo7
+\XPSH [7@y konutztz@ yo7.]
+\XSP Recalento* el tamal.
+\XEN She reheated the tamale.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nutz
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+ZOH004R0011001.txt
+\lex kon(n).07
+\_no 01403
+\LG MIG
+\PSH [konno7]
+\UND kon.07
+\MB corto, X
+Page 610

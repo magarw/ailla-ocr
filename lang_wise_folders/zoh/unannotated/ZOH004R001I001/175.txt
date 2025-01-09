@@ -1,0 +1,62 @@
+\ROOT wan
+\RTGR T1
+\DSRC HAJ95
+\CMTS recordando una cosa que le regalo*
+\CMTS connotation is a bit rude: remember what I did for you, now you do
+\CMTS this for me!
+\date 29/Jan/96
+\lex 7ok. wanhka'.7@y
+\_no 00408
+\LG MIG
+\PHO [7okwanhka7@y-]
+\UND 7ok. wanhka7.7@y
+\MB ABAJO, voltearse, SUF
+\VAR
+\GRAM vt
+\SPG voltear
+\ENG to turn over
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT wanhka7
+\RTGR P (IX)
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex 7ok.wat.jay
+\_no 00409
+\LG MIG
+\PSH [7okwatjay-]
+\UND 7ok.wat.jay
+\MB ABAJO, amarrar, APPL
+\VAR
+\GRAM dir+vt:indir
+\SCI
+\USE
+\SPG fajar de la cadera
+\ENG to bind at the hips
+\EXU 7@y+ 7ok.wat.jay-w@_7@y+ 7ene7
+\XPSH [7@y 7okwatjayy@y 7ene7.]
+\XSP Lo fajo* de la cadera.
+\XEN She bound it at her hips.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT wat
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex 7ok.wat.'@y
+\_no 00410
+ZOH004R0011001.txt
+\LG MIG
+\PSH [7okwatt@y-]
+\UND 7ok.wat.7@y
+\MB ABAJO, amarrar, SUF
+\VAR
+\GRAM dir+vt
+\SCI
+Page 175

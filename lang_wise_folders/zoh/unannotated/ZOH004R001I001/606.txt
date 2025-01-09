@@ -1,0 +1,62 @@
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex kom(i') tzinu weni7
+\_no 01391
+\LG MIG
+\PSH [komi tzinu weni7]
+\UND komi7 tzinu weni7
+\MB
+\VAR koom tzinu weni7
+\VAR koom weni' tzinu
+\GRAM a (m) s (m) s
+\SCI
+\USE
+\SPG abejo*n
+\ENG big bee
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex kom(i'). 7aH
+\_no 01392
+\LG MIG
+\PSH [komi7a-]
+\UND komi7.7aH
+\MB grande, VERS1
+\VAR koom. 7a
+\GRAM versl
+\SCI
+\USE
+\SPG hacerse grande (cualquier cosa)
+\ENG to become large (anything)
+\SPL yak. komi 7.7aH
+\SLGR CAUS
+\SLGL engrandecer // to make large
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+ZOH004R0011001.txt
+\CMTS
+\date 26/Jan/96
+\lex ko.nakx
+\_no 01393
+\LG MIG
+\PSH [konakx]
+\UND ko.nakx.0
+Page 606

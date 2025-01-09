@@ -1,0 +1,60 @@
+\_no 00256
+\SPG 11enarse
+\ENG to be filled
+\EX 7@y yaktaxx@ tummanh
+\XSP 1o arraso*
+XEN she filled it level
+\EX taxxa*m
+\XSP esta* lleno, satisfecho
+\XEN he's full
+\ROOT tax 12
+\SEMF condition
+\CAUS yak.tax llenar
+\CMTS
+\lex tem
+\_no 00257
+\SPG relampaguear
+\ENG to lightning
+\EX
+\XSP
+\XEN
+\ROOT tem 12
+\SEMF nature
+\CAUS NONE
+\CMTS
+\lex ten
+\_no 00258
+\SPG pararse; pararse la verga; pararse la gente
+\ENG to be standing; to get an erection; for people to stand
+\EX tenn@ y kan
+\XSP se le paro* la verga
+\XEN he got an erection
+\ROOT ten Il
+\SEMF motion, body
+\CAUS yak.ten parar; hacer pararse
+\CMTS
+\lex tepx
+\_no 00259
+\SPG tirar pedo aguado mujer
+\ENG
+\EX
+\XSP
+\XEN
+\ROOT tepx Ix
+\SEMF body
+\CMTS cf topx; cf x0px
+\CMTS get deriv's
+\lex tet
+\_no 00260
+\SPG rajar
+\ENG to split
+\EX 7okmantza7 tete7
+ZOH001R0611010.txt
+\XSP talo*n rajado
+\XEN a split claw
+\ROOT tet Ix
+\SEMF break
+\CMTS
+\lex tij
+\_no 00261
+Page 59

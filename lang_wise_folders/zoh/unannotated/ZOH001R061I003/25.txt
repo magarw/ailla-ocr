@@ -1,0 +1,62 @@
+\SCI
+\USE
+\SPG darle remedio
+\ENG to give someone medicine.
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzi7
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+\lex tzoy.naanh
+\_no 00071
+\LG MIG
+\PHO [tzoyna*nh]
+\UND tzoy.naanh
+\MB saltar, MED1
+\VAR
+\GRAM meas
+\SPG salto
+\ENG (a) jump
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT tzoy
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tzoy'.7oy.pa +a7k
+\_no 00072
+\LG MIG
+\PSH [tzoy7oba*7k]
+\UND tzoy7.7@y.7oy.pa+a7k
+\MB remedio, SUF, ANTIP, INC, REL
+\VAR tzoy7oba*7 p@n
+\GRAM agt1
+\SCI
+\USE
+\SPG curandero; doctor; me*dico; e*l que cura
+\ENG healer; doctor; medic; one who cures
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH001R0611003.txt
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS CK-PH, CK-GR ok; worked on it: TK
+\date 26/Jun/96
+\lex tzoy'.7@y
+\_no 00073
+Page 25

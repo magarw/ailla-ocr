@@ -1,0 +1,61 @@
+\lex 7@j
+\_no 00029
+\SPG pujar
+\ENG to grunt
+\SEMF sound
+\ASP semelfactive
+\ARG
+\NOM 7@j.i7
+\RTGR 11
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex 7@jaj
+\_no 00030
+\SPG quejarse
+\ENG to whimper
+\SEMF sound
+\ASP activity
+\ARG
+\NOM 7@jaj.i7
+\RTGR I1
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex 7@kx
+\_no 00031
+\SPG desgranar mai*z
+\ENG to shell corn
+\SEMF corn, farm
+\ASP activity
+\ARG patient
+\NOM 7@kx.i, ni.7@kx.kuy7
+\ASP activity
+\ARG patient
+\NOM
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex 7@nh
+\_no 00032
+\SPG caerse de arriba, como fruta
+\ENG to fall from above, like fruit
+\SEMF fall
+\ASP achievement
+\ARG
+\NOM 7@w.i, *naanh, *kuy7
+\RTGR 12
+\POS N
+\MID
+ZOH001R0611002.txt
+\UNDO
+\CLZ
+\CMTS
+Page 8

@@ -1,0 +1,62 @@
+\CMTS
+\date 29/Jan/96
+\lex 7ok. 'e7k. '@y
+\_no 00417
+\LG MIG
+\PSH [7ok7e7kk@y-]
+\UND 7ok. 7e7k.7@y
+\MB ABAJO, pizcar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG despizcar frijol en el suelo
+\ENG to shell beans onto the floor
+\SPL
+\SLGR
+\EXU 7ok. 'e7k. '@y-w@ nax+jo7 bi x@k
+\XPSH [7okke7kk@yy@ naxjo bi x@k.]
+\XSP Lo despizco en el suelo el frijol.
+\XEN She shelled the beans onto the floor (instead of in a bowl).
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7e7k
+\RTGR T3
+\DSRC HAJ95
+\CMTS the beans fall from the pod onto the floor
+\date 09/Jan/96
+\lex 7ok. 'ex. '@y
+\_no 00418
+\LG MIG
+\PSH [7okkexx@y-]
+\UND 7ok. 7ex.7ey
+\MB ABAJO, encajar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG sacar de donde estaba encajado o tapado
+\ENG to pull something out from where it was stuck
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN j@x. 7ex
+\SEMF
+\ETYM
+\ETL
+\ROOT 7ex
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 13/Jul/95
+\lex 7ok. 'in
+\_no 00419
+\LG MIG
+\PSH [7okkin-]
+\UND 7ok.7in
+Page 179

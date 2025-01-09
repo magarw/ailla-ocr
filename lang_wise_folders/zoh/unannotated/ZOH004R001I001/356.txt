@@ -1,0 +1,62 @@
+\DSRC HAJ95
+\CMTS
+\date 30/Jun/95
+\lex joj
+\_no 00817
+\LG MIG
+\PSH
+\UND joj
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG espacio adentro
+\ENG an empty space inside something
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 13/Jun/95
+\lex jo. jaj
+\_no 00818
+\LG MIG
+\PSH [jojaj-]
+\UND jo. jaj
+\MB EN, arder
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG asornarse, estar asornado
+\ENG to get chafed between the buttocks from walking and sweating
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jaj
+\RTGR 12
+ZOH004R0011001.txt
+\DSRC HAJ95
+\CMTS
+\date 24/Jun/96
+\lex jo. ja7p
+\_no 00819
+\LG MIG
+\PSH [joja7p-]
+\UND jo.ja7p
+\MB EN, moler
+\VAR
+\GRAM
+Page 356

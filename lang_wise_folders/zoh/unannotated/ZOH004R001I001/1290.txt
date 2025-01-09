@@ -1,0 +1,63 @@
+\PHO [ti7kxokpoynuk-]
+\UND ti7kx=7ok.poy=nuk
+\MB olearse, ABAJO, huirse, agarrar
+\VAR
+\GRAM vt
+\SPG alcanzar el agua con la ola
+\ENG for the water's wave to reach something
+\EXU 7@y+ ti7kx=7ok.poy-nuk-w@
+\XPSH [7@y ti7kxokpoynukk@.]
+\XSP Alcanzo* el agua con la ola la cosa que esta* puesto.
+\XEN The water's wave reached the thing that was set there.
+\SYN
+\ROOT 1 ti7kx
+\RTGR 1 12
+\ROOT 2 poy
+\RTGR 2 11
+\ROOT 3 nuk
+\RTGR 3 T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tin
+\_no 02997
+\LG MIG
+\PSH
+\UND tin
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG cagar
+\ENG to shit
+\SPL tin. 7oy
+\SLGR ANTIP
+\SLGL_ cagar // to shit
+\EXU 1 bi bescha kay tin. 'oy-pa (g@) patyu+jo7
+\XPSH 1 [Bi bescha kay tinnoba ga patyujo7.]
+\XSP 1 El caballo estaba cagando en el patio.
+\XEN 1 Then the horse was shitting in the patio.
+\EXU 2_n@pin' 7@y+ tin-pa
+\XPSH 2 [N@pin 7@y tinpa.]
+\XSP 2 Esta* cagando sangre.
+\XEN 2 She's shitting blood.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS CK-GR or vt; CK-EX; OK/TK
+\date 27/Jun/96
+ZOH004R0011001.txt
+\lex tin
+\_no 02998
+\LG MIG
+\PSH
+\UND tin
+\MB
+\VAR
+\GRAM S
+\SCI
+Page 1290

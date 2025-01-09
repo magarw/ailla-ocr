@@ -1,0 +1,30 @@
+PANTOLERANTES,
+ized stops are either implosive or glottalized before vowels.
+Plain (non-glottalized) stops are lightly aspirated before
+vowels. Voiced stops are neither aspirated, implosive, nor
+glottalized, but they may be pre-nasalized after open juncture
+and before vowels.
+41
+Affricates are generally unreleased (except through
+their fricative segments) before consonants or close juncture,
+and they are released into voiceless high central vocoids be-
+fore open juncture. Glottalized affricates have glottal con-
+striction over their segments. Plain affricates are lightly
+aspirated.
+ture.
+In general, voiced continuants devoice before open junc-
+Voiceless continuants show some assimilation to the
+surrounding phonemes.
+Phoneme Sequence Restrictions
+Vowel Clusters
+Vowel clusters are limited, and appear to derive from
+two sources: (1) stylistic loss of intervocalic // which is
+morpheme-final in bi-morphemic forms, and (2) borrowing of
+forms having vowel clusters in other languages. One item
+which shows a vowel cluster but is apparently neither a loan
+nor derived from a form with // is the hailing cry /keréoh/.
+Vowel clusters which have been observed are /ie ia io
+ae au ou ui ue/. The following forms illustrate these clus-
+ters and their sources.
+/ie/
+/siéntoh/ < Spanish ciento; one hundred

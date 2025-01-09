@@ -1,0 +1,62 @@
+\ENG left, a thing left behind
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT tzak
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tzakx.@7
+\_no 00335
+\LG MIG
+\PHO [tzakx@7]
+\UND tzak.A7
+\MB dejar, NOM2
+\VAR
+\GRAM SV
+\SPG caido
+\ENG fallen
+\EXU tzakx.@7+k mok
+\XPSH [tzakx@7k mok]
+\XSP tiene caido la mazorca
+\XEN the ears are fallen over
+\SYN
+\ROOT tzakx
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tzam.e
+\_no 00336
+LG MIG
+\PSH [tzame]
+\UND tzam. E
+\MB platicar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG pla*tica; palabra
+\ENG conversation; word
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzam
+\RTGR T1
+\DSRC HAJ4
+\CMTS
+\date 28/Jan/96
+\lex tzam. (@) p@n
+\_no 00337
+\LG MIG
+\PSH [tzam@ p@n]
+\UND tzam.@ p@n
+\MB sazonarse, NOM2, hombre
+ZOH001R0611004.txt
+Page 134

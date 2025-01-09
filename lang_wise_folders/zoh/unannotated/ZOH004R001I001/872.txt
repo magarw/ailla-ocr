@@ -1,0 +1,63 @@
+\date 26/Jan/96
+\lex monh
+\_no 02023
+\LG MIG
+\PSH
+\UND monh
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG 1 acostarse
+\SPG 2 dormir
+\ENG 1 to go to bed
+\ENG 2 to sleep
+\SPL yak.monh
+\SLGR CAUS
+\SLGL acostarlo; hacer dormir // to put to bed; to put to sleep
+\EXU 1 ya d@+ monh-w@
+\XPSH 1 [Ya da monhnh@.]
+\XSP 1 No dormi*; estoy desvelado.
+\XEN 1 I didn't sleep; I'm wakeful.
+\EXU 2 ya d@+ w@j@-monh-w@
+\XPSH 2 [Ya da wajamonhnh@.]
+\XSP 2 No durmi* bien.
+\XEN 2 I didn't sleep well.
+\SYN
+\SEMF body
+\ASP state
+\ARG
+\NOM monh.kuy7, mo.e, ni.monh, y@k.monh
+\SUB 7ạnh.monh, j@x=monh, ko.monh, mo.e=7ax, monh=yuk.konh,
+\SUB win-me7kx-monh, win=monh
+\ETYM
+\ETL
+\ROOT monh
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\CMTS
+\date 03/Jan/80
+\DATE 14/Aug/02
+\lex monh-ko.xa'
+\_no 02024
+\LG MIG
+\PSH [monhkoxa-]
+\UND monh-ko.xa
+\MB dormir, OTRO, X
+\VAR
+ZOH004R0011001.txt
+\GRAM vi
+\SCI
+\USE
+\SPG despertarse de durmiendo
+\ENG to wake up from sleeping
+\EXU d@+ monh-ko.xa7-w@
+\XPSH [D@ monhkoxaw@.]
+\XSP Me desperte* de durmiendo.
+\XEN I woke up from sleeping.
+\SYN
+\SEMF
+\ETYM
+Page 872

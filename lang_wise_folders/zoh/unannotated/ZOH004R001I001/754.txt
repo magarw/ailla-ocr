@@ -1,0 +1,63 @@
+\UND k@.tuk. 7oy-pa +P@7k
+\MB FUERA, cortar, ANTIP, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG peluquero; rasurador
+\ENG barber; shaver
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tuk
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex k@.tu7tz [1]
+\_no 01744
+\LG MIG
+\PSH [k@tu7tz-]
+\UND k@.tu7tz
+\MB FUERA, X
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 atrancar
+\SPG 2 puntalear
+\ENG 1 to bar
+\ENG 2 to prop_up
+\SPL k@.tu7tz.7oy
+\SLGR ANTIP
+\SLGL atrancar; puntalear // to bar; to prop up
+\SPL k@.tu7tz.7@m
+\SLGR PASS
+\SLGL atrancarse; puntalearse // to be barred; to be propped up
+\SPL k@.tu7tz.ten
+\SLGR PRSV
+\SLGL tener puesto el trancador // to have the bar in place
+\EXU 7@y+ k@.tu7tz.ten-w@
+\XPSH [7@y k@tu7tztenn@.]
+\XSP Tiene puesto el trancador.
+\XEN He's got the bar in place.
+SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * tu7tz
+ZOH004R0011001.txt
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 11/Feb/96
+\lex k@.tu7tz [2]
+\_no 01745
+\LG MIG
+\PSH [k@tu7tz]
+\UND k@.tu7tz.0
+Page 754

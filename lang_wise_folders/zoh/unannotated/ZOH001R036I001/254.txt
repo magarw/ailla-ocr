@@ -1,0 +1,78 @@
+\fts Lo hierves.
+\fte You boil it.
+\com
+\idx
+\ref ZOH001R036 999-197
+\_no 01179
+\tx ya ke
+\mb ya ke
+\sg] ya que
+\egl now that boil
+yumma*m
+yum
+7@m yakwayay7apa
+-w@ -7am 7@m yak -wayay7-7a -pa
+hervir(se) -COM-YA 2E CAUS-frio -VERS1-INC
+-COM-NOW 2E CAUS-cold -VERS1-INC
+gay
+\zoq Ya ke yumma*m 7@m yakwayay7apa.
+\fts Ya que hervio* lo enfrias.
+\fte Now that it's boiled, you chill it.
+\com
+\idx
+\ref ZOH001R036 999-198
+\_no 01180
+7@m p@jayy@
+\tx
+\mb ka
+-y
+7@m kopakjo
+-pa -7am 7@m p@7 -jay -wa 7@m kopak -jo7
+\sg1 DCT3-TMP venir-INC-YA 2E poner-APPL-DINC 2E cabeza-LOC2
+\eg1 DCT3-TMP come -INC-NOW 2E put -APPL-DINC 2E head -LOC2
+minpam
+min
+\tx
+ga
+\mb ka -7
+\zoq Gay minpam 7@m p@jayy@ 7am kopakjo.
+\fts Ya vienes echarle en tu cabeza.
+\fte Then now you come put it on your head.
+\com
+\idx
+\ref ZOH001R036 999-199
+\_no 01181
+kopakjo
+kopak -jo7
+\sg1 DCT3-NOM1 cabeza-LOC2 3PSN
+\eg1 DCT3-NOM1 head -LOC2 3PSN
+\zoq Ga kopakjo7@yti.
+\fts Eso es de la cabeza.
+ZOH001R0361001.txt
+\fte That's of on the head.
+\com
+\idx
+\ref ZOH001R036 999-200
+\_no 01182
+\tx sintuli wa7tz
+\mb sintuli wa7tz
+\sgl sintuli rai*z
+\egl sintuli root
+\zoq sintuli wa7tz.
+\fts Raiz de sintuli.
+\fte Sintuli root.
+\com
+\idx
+7@yti
+7@yti7
+\ref ZOH001R036 999-201
+\_no 01183
+jakke tzektoypa
+\tx GSM: 7une
+n@mjaba
+\mb GSM 7une7 jakke tzek
+-toy -ра
+n@m-jay -pa
+\sg1 GSM: nin~o/a mucho barriga-doler-INC decir-APPL-INC
+\eg1 GSM: child a_lot belly -hurt -INC say -APPL-INC
+Page 254

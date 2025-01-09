@@ -1,0 +1,53 @@
+\lex tzetz
+\_no 02404
+\SPG labrar
+\ENG work
+\lex tzi7
+\_no 02405
+\SPG dar; pegar
+\ENG give; hit
+\lex tzij
+\_no 02406
+\SPG tirar_piedra
+\ENG throw_rock
+\lex tziji7
+\_no 02407
+\SPG tlacuache
+\ENG possum
+\lex tzik
+\_no 02408
+\SPG pelar
+\ENG skin
+\lex tzika7
+\_no_02409
+\SPG compeche
+\ENG
+\lex tzikin
+\_no 02410
+\SPG pinto
+\ENG spotted
+\lex tzikix
+\_no 02411
+\SPG chumbi
+\ENG fig
+\lex tziku
+\_no 02412
+\SPG tejo*n
+\ENG badger
+\lex tzikwi 7
+\_no 02413
+\SPG pin~a
+\ENG pineapple
+\lex tzikwiit
+\_no 02414
+\SPG canasta
+\ENG basket
+\lex tzi7kx
+\_no 02415
+\SPG_dar_comezo*n
+\ENG itch
+\lex tzima7
+\_no 02416
+\SPG ji*cara
+ZOH001R0611013.txt
+Page 192

@@ -1,0 +1,69 @@
+\ref ZOH001R026 059
+\_no 00050
+\tx tunhnhaw@
+\mb tunh
+7@y n@ki
+-7a -w@ 7@y nak -E
+\sg1 camino-VERS1-COM 3E irse-dCOM
+\egl road -VERS1-COM 3E go -dCOM
+\zoq Tunhnhaw@ 7@y n@ki.
+\fts Siguio* caminando.
+\fte He went walking along.
+\ref ZOH001R026 060
+\_no 00051
+\tx pur tzamkuy
+\mb puro tzam
+-kuy7
+\sg1 puro sazonarse-INSTR1
+\egl only mature - INSTR1
+\zoq Pur tzamkuy.
+fts Pura montan~a.
+\fte Pure wilderness.
+\ref ZOH001R026 061
+\_no 00052
+\tx 7@y n@kpa
+\mb
+tzamkuyjo
+tzam
+7@y n@k -pa
+-kuy7 -jo7
+\sg1 3E irse-INC sazonarse-INSTR1-LOC2
+\egl 3E go -INC mature -INSTR1-LOC2
+\zoq 7@y n@kpa tzamkuyjo.
+fts Se fue* caminando por la montan~a.
+\fte He's going into the wilderness.
+\ref ZOH001R026 062
+\_no 00053
+\tx k@xkuy
+\mb k@x
+ZOH001R0261001.txt
+y witt@
+me7tzpa
+me7tz -pa 7@y wit -wa
+andar-COM
+walk -COM
+-kuy7
+\sg1 comer-INSTR1 buscar-INC 3E
+\egl eat -INSTR1 look -INC 3E
+\zoq K@xkuyme7tzpay witt@.
+fts Buscando su comida.
+\fte He's walking along looking for food.
+\ref ZOH001R026 063
+\_no 00054
+\tx winjo*nh 7@y pa7tt@
+bi tz@njon
+\mb win -joonh 7@y pa7t
+-w@ bi tz@njon
+\sg1 CARA-DIR4 3E encontrar-COM DEF faisa*n
+\eg1 FACE-DIR4 3E find
+-COM DEF bird
+\zoq winjo*nh 7@y pa7tt@ bi tz@njon.
+\fts Adelante encontro* un pava.
+\fte up ahead he met the bird.
+\ref ZOH001R026 064
+\_no 00055
+\tx ga7
+tenn@
+metzanh manhkuypi7t
+Page 11
+naxjo

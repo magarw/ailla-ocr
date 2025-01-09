@@ -1,0 +1,53 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+Zoque
+dey
+gay (kay)
+gahiin
+de gahi
+Pensonses 9
+?adyo
+mas cuhiam
+bweno
+de?še de?
+ga?še ga?
+pwes
+hə?
+nə?tti
+English
+now; then (DCT2.TMP)
+now; then (DCT3.TMP)
+thence (DCT3.DIR2)
+thence (of DCT3.DIR1)
+then
+then; later
+later
+OK
+that's that
+that's that
+well
+yes
+no
+Spanish
+ya; entonces
+(DCT2.TMP)
+ya; entonces
+(DCT3.TMP)
+372
+de ahí (DCT3.DIR2)
+de ahí (de DCT3.DIR1)
+entonces
+entonces; luego
+luego
+bueno
+así es
+that's that
+pues
+sí
+no
+Table 14.8: Discourse markers
+14.3.1. Sequencing markers
+There are many ways to say 'then', 'thence', and 'later' in MIG Zoque, with
+some subtle differences in the use of the various options in structuring a
+narrative. The first two in the list are the temporal adverbs formed from the
+9 This word has many variant forms: ?entonse, enton Panton, etc. The most common is
+probably ?entonse.

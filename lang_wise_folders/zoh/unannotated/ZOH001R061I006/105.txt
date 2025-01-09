@@ -1,0 +1,64 @@
+\GRAM vt
+\SCI
+\USE
+\SPG remojar algo en la comida
+\ENG to dunk something in your food
+\SPL ta7k.7oy
+\SLGR ANTIP
+\SLGL remojar // to dunk
+\SPL ta7k.7@m
+\SLGR PASS
+\SLGL remojarse // to be dunked
+\SPL ta7k.ten
+\SLGR PRSV
+\SLGL tener remojado // to have something dunked
+\EXU ta'k-@7
+\XPSH [Ta: k@7!]
+\XSP ! Remojelo!
+XEN Dunk it!
+\SYN
+\SEMF eat
+\ASP semelfactive
+\ARG
+\NOM ta'k.e7
+\SUB
+\ETYM
+\ETL
+\ROOT ta7k
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex tan [2]
+\_no 00155
+LG MIG
+\PSH
+\UND tan
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG (tirarle y) pegarle
+\ENG (to throw and) to hit something
+\SPL tan. 7oy (only get this in INC)
+\SLGR ANTIP
+\SLGL pegar // to hit
+\SLGR NO PASS
+ZOH001R0611006.txt
+\EXU 7@y+ tan-w@ bi p@n bi m@a7
+\XPSH [7@y tann@ bi p@n bi m@a7.]
+\XSP ET hombre pego* el venado.
+\XEN The man shot the deer.
+\SYN
+\SEMF hit
+\ASP achievement
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT tan
+\RTGR T3
+\DSRC TK94
+Page 105

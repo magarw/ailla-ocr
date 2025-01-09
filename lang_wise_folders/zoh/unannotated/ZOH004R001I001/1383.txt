@@ -1,0 +1,63 @@
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH/OK:TK
+\date 26/Jun/96
+\lex t@w.i
+\_no 03215
+\LG MIG
+\PSH [t@wi]
+\UND t@nh.E
+\MB cortar, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG una cosa cortada con machete
+\ENG something that was cut with a machete
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT t@nh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex t@xi
+\_no 03216
+\LG MIG
+\PSH
+\UND t@xil
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG murcielago; chinaca
+\ENG bat
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 15/Jun/95
+\lex ta'
+\_no 03217
+\LG MIG
+\PSH
+\UND t@7
+\MB
+ZOH004R0011001.txt
+LF:7anmaal
+\VAR
+\GRAM vt
+\SCI
+Page 1383

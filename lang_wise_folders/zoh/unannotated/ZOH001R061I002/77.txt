@@ -1,0 +1,61 @@
+\lex tzak
+\_no 00311
+\SPG dejar
+\ENG to leave
+\SEMF aspect
+\ASP achievement
+\ARG
+NOM tzak.e7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tzakx [1]
+\_no 00312
+\SPG sacar mazorca, pla*tano, medio caer por su mismo peso
+\ENG for ears of corn or bananas to grow so heavy that they fall over on
+the stalk from their own weight
+\SEMF nature, corn
+\ASP achievement
+\ARG patient
+\NOM tzakx.@7
+\RTGR IX
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tzam [1]
+\_no 00313
+\SPG platicar
+\ENG to converse
+\SEMF speak
+\ASP activity
+\ARG
+\NOM tzam.e
+\RTGR T1
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tzam [2]
+\_no 00314
+\SPG sazonarse
+\ENG to become seasoned; to ripen
+\SEMF nature
+\ASP achievement
+\ARG
+\NOM tzam-w@+@7k
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\lex tzanh
+\_no 00315
+Page 77

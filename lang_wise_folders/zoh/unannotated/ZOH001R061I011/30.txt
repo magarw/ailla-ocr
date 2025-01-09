@@ -1,0 +1,59 @@
+\ROOT * jam
+\CMTS
+\lex ni7k
+\_no 00146
+\SPG medio secarse; dar que medio se segue orollar / "orear"
+\ENG to halfway dry
+\EX
+\XSP
+\XEN
+\ROOT ni7k IX, 12
+\CMTS caus2 yak+ ni7k
+\lex nip
+\_no 00147
+\SPG sembrar
+\ENG to sow
+\EX 7@n nipp@ n yujkuy
+\XSP sembre* mi milpa
+XEN I sowed my cornfield
+\EX da nippa joji
+\XSP voy a sembrar man~ana
+\XEN I'm going to sow tomorrow
+\ROOT nip T1
+\CMTS pass nip.7@m
+\CMTS prsv nip.ten 'tener sembrado'
+\lex nitz
+\_no 00148
+\SPG ponerse a*spero
+ENG
+\EX
+\XSP
+\XEN
+ZOH001R0611011.txt
+\ROOT nitz Ix
+\CMTS caus yak.nitz lo puso a*spero
+\lex nonh
+\_no 00149
+\SPG de apretar cosa blandita
+\ENG to bounce back into shape, like a ball or a tit
+\EX 7@y yaknonhpuw@
+\XSP 10 compuso; lo desapachurro*
+\XEN she fixed it; she unbent it
+\ROOT nonh Tx
+\CMTS caus yak.nonh apachurrar
+\CMTS no antip
+\CMTS pass nonh.7@m estar apachurrado
+\CMTS assum1 nonh.ney estar apachurrado
+\CMTS get deriv's
+\lex no7tz
+\_no 00150
+\SPG arar; quebrar; surquear; partir
+\ENG to plow; to break
+\EX_no7tz-ten-e
+\XSP esta* cultivado rajado el terreno
+\XEN plowed
+\ROOT no7tz T3
+\CMTS antip no7tz.7oy estar rajando/arando la tierra o cultivar
+\CMTS pass no7tz.7@m romperse (cualquiera cosa)
+\CMTS assum1 no7tz.ney lo tiene rajado
+Page 30

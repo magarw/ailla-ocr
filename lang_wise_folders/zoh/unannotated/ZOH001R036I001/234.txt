@@ -1,0 +1,83 @@
+ZOH001R0361001.txt
+\fts Si te caistes, se desconsarto* tu mano o se quebro*,
+\fte If you fall, you twist your arm or you break a bone,
+\com
+\idx
+\ref ZOH001R036 999-101
+\_no 01083
+\tx gay
+\mb
+ka -y
+\sg1 DCT3-TMP 2E
+\eg1 DCT3-TMP 2E stink -do
+7@m w@jtz@kjaxukpa
+7@m waj
+-tz@k -jay -xuk-pa 71
+apestar-hacer-APPL-3PL-INC Y
+\zoq gay 7@m w@jtz@kjaxukpa 7i komxukpa.
+\fts ahora te lo van a arreglar te lo calsan.
+\fte then you heal them or you repair them.
+\com
+\idx
+\ref ZOH001R036 999-102
+\_no 01084
+\tx si yonn@
+\mb si yon
+\sgl si zafarse-COM SI
+\egl if get_out-COM IF
+bi7t
+-wa bi7t
+\zoq Si yonn@ bi7t,
+\fts Si esta* desconsartado,
+\fte If it's sprained,
+\com
+\idx
+\ref ZOH001R036 999-103
+\_no 01085
+\tx kay
+\mb ka -y
+w@jtz@kxukka*m
+waja -tzak -xuk-w@ -7am
+\sg1 DCT3-TMP bueno-hacer-3PL-COM-YA
+\eg1 DCT3-TMP good - do
+\ref ZOH001R036 999-104
+\_no 01086
+\zoq kay w@jtz@kxukka*m, t@kk@yya*m.
+fts ahora ya esta* bien
+calsado ya entro*.
+\fte now it's made well, now it's come in.
+\com
+\idx
+-APPL-3PL-INC and mend
+\tx pe bi toypa* si ya pitz@m@
+\mb pero bi
+pero bi
+toy
+-pa si ya
+pitz@m-A
+\sg1 pero DEF doler-INC si NEG salir -nINC
+\egl but DEF hurt -INC if NEG leave -NINC
+\ref ZOH001R036 999-105
+\_no 01087
+\tx
+\mb
+7i komxukpa
+kom
+\zoq Pe bi toypa* si ya pitz@m@.
+\fts Pero el que duele no sale.
+\fte But the one that hurts doesn't leave.
+\com
+\idx
+GSM: ya pitz@m@
+GSM: ya
+pitz@m-A
+\sg1 GSM: NEG salir -nINC
+Veg1 GSM: NEG leave -nINC
+t@kk@yya*m
+t@k -7@y -w@ - 7am
+casa -VERS2-COM-YA
+-3PL-COM-NOW house-VERS2-COM-NOW
+remendar-3PL-INC
+Page 234
+-xuk-pa
+-3PL-INC

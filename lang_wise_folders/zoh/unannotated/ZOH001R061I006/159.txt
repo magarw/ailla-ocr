@@ -1,0 +1,64 @@
+\SLGL picar // to chop
+\SPL yu7p.7@m
+\SLGR PASS
+\SLGL picarse // to be chopped
+\SPL yu7p.ney
+\SLGR ASSUM1
+\SLGL estar picado // to be chopped
+\SPL yu7p.ten
+\SLGR PRSV
+\SLGL tener picado // to have chopped
+\EXU 1 yu7p-w@ tuj
+\XPSH 1 [Yu7pp@ tuj.]
+\XSP 1 Cayo* una rociadita.
+\XEN 1 There was a cloudburst.
+\EXU 2_7@y+ yu7p-w@ bi xix
+\XPSH 2 [7@y yu7pp@ bi xix.]
+\XSP 2 Pico* la carne.
+XEN 2 She minced the meat.
+\SYN
+\SEMF cut
+\ASP process
+\ARG
+\NOM yu'p.i7, yu7p.naanh tuj
+\SUB
+\ETYM
+\ETL
+\ROOT yu7p
+\RTGR P (T3)
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+ZOH001R0611006.txt
+\lex yu7tz
+\_no 00237
+\LG MIG
+\PSH
+\UND yu7tz
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG agarrar un pun~o y ponerlo ahi*; dejar un pun~o (frijol, mai*z)
+\ENG to grab a fistful of something and put it over there; to leave a
+handful of something (beans, corn)
+\SLGR NO ANTIP
+\SLGR NO PASS
+\EXU 7@y+ yu7tz-p@k-w@
+\XPSH [7@y yu7tzp@kk@.]
+\XSP Lo agarro* por pun~o.
+\XEN She grabbed it by the handful.
+\SYN
+\SEMF hand
+\ASP process
+\ARG
+\NOM yu7tz.naanh
+\SUB
+\ETYM
+\ETL
+\ROOT yu7tz
+\RTGR T1
+\DSRC TK94
+Page 159

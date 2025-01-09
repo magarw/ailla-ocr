@@ -1,0 +1,63 @@
+\PSH
+\UND tzatz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG rajar (como papel)
+\ENG to tear in strips (like paper)
+\SPL tzatz.7oy
+\SLGR ANTIP
+\SLGL estar rompiendo // to be torn
+\SPL tzatz.7@m
+\SLGR PASS
+\SLGL rajarse, romperse // to be stripped, to be torn
+\EXU 1 xanh-tzatz-w@ patanux 7ay7
+\XPSH 1 [Xanhtzatztz@ patanux 7ay7.]
+\XSP 1 El aire rompio* la hoja de pla*tano.
+\XEN 1 The wind tore the banana leaves.
+\EXU 2 tzatz. '@m-w@ 7@n+ naka
+\XPSH 2 [Tzatztz@mm@n naka.]
+\XSP 2 Se rompio* el cuero (como por una espina).
+\XEN 2 My skin tore (like on a thorn).
+\SYN
+\SEMF break
+\ASP achievement
+\ARG
+\NOM tzatz.e7, tzatz.neenh
+\SUB tzatz-tuk. tuk.w@y
+\ETYM
+\ETL
+\ROOT tzatz
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex tzatz.a7
+\_no 03287
+ZOH004R0011001.txt
+\LG MIG
+\PSH [tzatza7]
+\UND tzatz.A7
+\MB rajar, NOM2
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG rajado; roto
+\ENG torn in strips; torn
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT tzatz
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-PH: should be tzatz.@7 ??
+\CMTS HAJ:96 tzatz@7 = 'rompelo'. he confirms this entry; OK/TK
+\date 26/Jun/96
+Page 1413

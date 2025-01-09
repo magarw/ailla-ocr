@@ -1,0 +1,64 @@
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 regar una planta, regar agua
+\SPG 2 11enar algo con algo li*quida
+\ENG 1 to water a plant, to sprinkle water
+\ENG 2 to fill something with liqui
+\SPL maj.7oy
+\SLGR ANTIP
+\SLGL 11enar; regar // to fill; to sprinkle
+\SPL maj.7@m
+\SLGR PASS
+\SLGL 11enarse; regarse // to be filled; to be sprinkled
+\EXU 1 maj.7@m-wa bi maj.kuy7
+\XPSH 1 [Majj@mm@ bi majkuy7.]
+\XSP 1 Esta* lleno el ca*ntaro.
+\XEN 1 The jug is full.
+\EXU 2 n@mma 7@y+ maj-w@ bi jay@' 7okox_d@k (+'ay+
+\XPSH 2 [N@mm@y majja bi jay@ 7okox_d@kka.]
+\XSP 2 Esta* regando las matas de flores.
+\XEN 2 She's watering the flowering shrubs.
+\EXU 3 7@y+ maj.ten-w@ bi jay@7
+\XPSH 3 [7@y majtenn@ bi jay@7.]
+\XSP 3 Teni*a regado la flor.
+\XEN 3 He's got the flowers watered.
+\SYN
+\SEMF water, plant
+\ASP activity
+\ARG
+\NOM maj.kuy7
+\SUB maj=tax, nik.maj. '@y, yuk.maj
+\ETYM
+\ETL
+\ROOT maj
+\RTGR T3
+ZOH001R0611006.txt
+\DSRC TK94
+\CMTS Camilo rejects the 'llenar' gloss. C & G differ on the meaning of
+\CMTS 'maj.ten-¹: C says it's "now she's got the plant watered' and
+\CMTS G says it's silly, it would mean standing there with the water
+\CMTS pouring over the shrub
+\date 03/Jan/80
+\lex mak
+\_no 00086
+LG MIG
+\PSH
+\UND mak
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pescar con atarraya
+\ENG to fish with a net
+\SPL mak. 7oy
+\SLGR ANTIP
+\SLGL pescar con atarraya // to fish with a net
+\SPL mak.7@m
+\SLGR PASS
+\EXU koke-mak-w@
+\XPSH [Kokemakk@.]
+Page 59

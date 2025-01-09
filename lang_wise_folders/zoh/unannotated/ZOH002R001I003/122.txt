@@ -1,0 +1,54 @@
+Johnson / A Grammar of San Miguel Chimapala Zoque
+5.2. Aspect and mood
+The following table summarizes the relations among negative markers
+and the mood and aspect suffixes. The astute reader will notice a plethora of -
+we's. It is not clear whether these all derived from same morpheme (Kaufman,
+p.c.); they are split in this analysis to clarify their various functions.
+Detailed discussion of the meanings and uses of MIG Zoque moods and
+aspects is given in chapter 13.
+Negator
+yakkə
+ya
+ya
+?u
+Aspect/Mood
+completive
+incompletive
+imperative
+exhortative
+volitive
+completive
+incompletive
+imperative
+dependent incompletive
+dependent completive
+5.2.1. Completive aspect
+Suffix
+-wƏ
+-pa
+-A?
+-taaŋ
+-A?
+-wƏ
+-wƏ
+-A
+-wƏ
+-wƏ
+-E
+Table 5.2. Negation and inflection.
+Gloss
+code
+COM
+INC
+IMPV
+HORT
+COPT
+iOPT
+nCOM
+nINC
+nIMPV
+dINC
+dCOM
+The completive suffix is -wǝ. Wonderly's definition of this term is
+"punctiliar or completed action, usually but not always in past time" (Wonderly,
+97

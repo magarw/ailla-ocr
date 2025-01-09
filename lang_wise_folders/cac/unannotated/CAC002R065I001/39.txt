@@ -1,0 +1,29 @@
+34
+Vowel Allophones
+Vowel Quality
+The phoneme /i/ is manifested phonetically as a voiced,
+unrounded, high front vocoid. The point of articulation of
+the vocoid ranges from tense [i] to lax [1]. The most common
+variant is [il.
+The phoneme /e/ is manifested phonetically as a voiced,
+unrounded, mid front vocoid. The point of articulation of
+the vocoid ranges from tense [e] to lax. [ɛ]. The most common
+variant is [ɛ].
+The phoneme /a/ is manifested phonetically as a voiced,
+unrounded, low central vocoid. The point of articulation of
+the vocoid ranges from tense [a] to lax [a]. Before /1/, the
+vocoid is frequently fronted [as]. The range of /a/ does not
+extend as high as [ə] nor as back as [a].
+The phoneme /o/ is manifested phonetically as a voiced,
+rounded, mid back vocoid. The point of articulation of the
+(^).
+vocoid ranges from tense [on] to lax [^]. The most common var-
+iant is [o].
+The phoneme /u/ is manifested phonetically as a voiced,
+rounded, high back vocoid. The point of articulation of the
+vocoid ranges from tense [u] to lax [U]. Before /č/ or /č¹/
+the vocoid tends to have fronting offglides: [u]. The most
+common variant is [u].
+Vowel Quantity
+There is no phonemic contrast between vocoids of shorter
+and longer duration. However, vowels in unchecked syllables'

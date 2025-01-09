@@ -1,0 +1,64 @@
+\UND x@k@k
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG quejarse
+ya para morir
+\ENG to utter a death-rattle
+\SLGR NO CAUS
+\EXU da x@k@k-pa
+\XPSH [D@ x@k@pa.]
+\XSP Ya estoy para morir.
+\XEN NOW I'm on the brink of death.
+\SYN
+\SEMF body, nature, sound
+\ASP process
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT X@k@k
+\RTGR IX
+\DSRC TK94
+\CMTS get deriv's
+\CMTS
+\CMTS ya estaba dando las u*ltimas para morir
+\date 03/Jan/80
+\lex x@k='an.e7
+\_no 04056
+\LG MIG
+\PSH [x@kkane7]
+\UND x@k 7an.E7
+\MB frijol, calentarse, NOM7
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG tortilla de frijol
+\ENG bean tortilla
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7an
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 26/Jun/96
+\lex x@7kx
+\_no 04057
+\LG MIG
+ZOH004R0011001.txt
+\PSH
+\UND x@7kx
+\MB
+\VAR
+\GRAM vt, vi:med
+\SCI
+Page 1744

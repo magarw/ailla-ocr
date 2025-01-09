@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG hacerse delgado o ralo
+\ENG to become thin
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 10/Feb/96
+\lex tzeja'=tz@k
+\_no 03318
+\LG MIG
+\PSH [tzejatz@k-]
+\UND_tzeja7=tz@k
+\MB delgado, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer delgado o ralo
+\ENG to make thin
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex tzek
+\_no 03319
+\LG MIG
+\PSH
+\UND tzek
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG barriga
+\ENG belly
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+Page 1426

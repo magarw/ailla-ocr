@@ -1,0 +1,79 @@
+\egl good say -COM
+\zoq "Bweno, dijo.
+dijo.
+\fts "Bueno
+"
+\fte "OK", she said.
+\com
+\idx
+\ref ZOH001R055 013
+\_no 00014
+\tx 7@y p@jaxukk@
+\mb 7@y p@7
+7@y
+\sg1 3E
+-jej -pa
+uno cama dormir-ABAJO-vivir-INC
+-7ok-jej
+\egl 3E put -APPL-3PL-COM one bed sleep -DOWN -live -INC
+\ref ZOH001R055 014
+\_no 00015
+\tx ti naxe, ya
+\mb ti
+naxe ya jay
+-wa
+\sg1 que verdad NEG dilatar-COM
+\egl what truth NEG delay -COM
+tum pama
+p@7 -jay -xuk-w@ tum pama monh
+poner-APPL-3PL-COM
+\zoq 7@y p@jaxukk@ tum papa monhnhokjejpa.
+\fts Lo pusieron una cama para descansar.
+fte They set up a bed for her to rest.
+\com
+\idx vseq
+\zoq Ti naxe, ya jayy@.
+\fts Si* de verdad,
+\ref ZOH001R055 015
+\_no 00016
+jayy@
+\fte And really, he didn't tarry.
+\com
+\idx
+\com
+\idx
+no tardo*.
+ka -y
+\tx kay
+\mb
+jerma*n
+jerma*n
+\sg1 DCT3-TMP 11egar-COM-YA DEF Germa*n
+\eg1 DCT3-TMP arrive-COM-NOW DEF Germa*n
+ZOH001R0551001.txt
+ye7tztza*m
+bi
+ye7tz -w@ -7am bi
+\zoq Kay ye7tztza*m bi Jerma*n.
+\fts Ya 11ego* Germa*n.
+\fte Now Germa*n arrived.
+\ref ZOH001R055 016
+\_no 00017
+\tx yaktz@kkoba
+\mb yak -tz@k -7oy -pa
+\sg1 CAUS-hacer-ANTIP-INC
+\eg1 CAUS-do
+monhnhokjejpa
+senhya 7@y m@7
+senhya 7@y ma7
+cena 3E esposa
+-ANTIP-INC dinner 3E wife
+\zoq Yaktz@kkoba senhya 7@y m@7.
+\fts Estaba hiciendo cena su mujer.
+\fte His wife was making dinner.
+\com
+\idx
+\ref ZOH001R055 017
+\_no 00018
+\tx 7ix 7iw@ monh@7
+Page 4

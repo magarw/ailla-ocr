@@ -1,0 +1,75 @@
+\mb__tzaj -nuk
+-ра bi p@n
+\sg1 pegar-agarrar-INC DEF hombre 3E
+\egl glue -grab -INC DEF man
+3E
+\ref ZOH001R036 437
+\_no 00430
+\zoq Tzajnukpa bi p@n 7@y manhkuyg@xi
+\fts Queda pegado en el pie del hombre
+\fte It's holding fast on the man's foot
+\com
+\idx
+\tx 7erida g@xi
+\mb
+7erida g@xi
+\sgl herida Loc4
+\egl wound LOC4
+\zoq 7eridag@xi.
+\fts en la herida.
+\fte on the wound.
+\com
+\idx
+\ref ZOH001R036 438
+\_no 00431
+\tx
+\mb OSM
+OSM: 7eso 7es
+7eso 7es
+ser
+\sg1 OSM: eso
+\egl OSM: that be
+\zoq OSM: 7eso 7es.
+\fts OSM: Eso es.
+\fte OSM: That's it.
+\com
+\idx
+\ref ZOH001R036 439
+\_no 00432
+\tx 7asyeske ye7xxta*7
+\mb 7asyeske
+7@y jupp@
+-7@y-pa 7@y jup
+7@y jup -w@
+\sg] asi_es_que DCT1-SIM-NOMAS 3E SUP -agarrar-SUF-INC 3E jalar-COM
+\egl so
+DCT1-SIM-ONLY 3E SURF-grab -SUF-INC 3E pull -COM
+7@y niknukk@ba
+y@ -7xe-xtaa7 7@y nik -nuk
+\ref ZOH001R036 440
+\_no 00433
+\tx gay
+\mb
+ZOH001R0361001.txt
+7@y manh -kuy7
+\zoq 7asyeske ye7xxta*7 7@y niknukk@ba 7@y_jupp@.
+\fts Asi* es que asi* no mas le pone lo jala.
+\fte That's how it is, just like that he puts it on, he pulled it.
+\com
+\idx
+p@kka*m
+pak -w@ -7am
+\sg1 DCT3-TMP agarrar-COM-YA
+\eg1 DCT3-TMP get
+ka -y
+g@xi
+pisar-INSTR1 LOC4
+step -INSTR1 LOC4
+-COM-NOW
+\zoq Gay p@kka*m.
+\fts Ya se pego*.
+\fte Now it's got him.
+\com
+\idx
+\ref ZOH001R036 441
+Page 94

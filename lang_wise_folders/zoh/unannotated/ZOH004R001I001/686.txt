@@ -1,0 +1,63 @@
+\MB costilla, hueso
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG penca de la costilla
+\ENG rib
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM costilla
+\ETL Sp
+\ROOT
+\DSRC TK94
+\CMTS CK-PH ok HAJ:96; It wasn't OK but I fixed it
+\date 24/Jun/96
+\lex kuy
+\_no 01581
+\LG MIG
+\PSH
+\UND kuy
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG a*rbol; palo; madera
+\ENG tree; branch or stick; wood
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex kuy 7anh.kax
+\_no 01582
+ZOH004R0011001.txt
+\LG MIG
+\PSH [kuy 7anhkax]
+\UND kuy 7anh.kax.0
+\MB palo, BOCA, dar_paso, NOM6
+\VAR
+\GRAM smss
+\SCI
+\USE
+\DLG
+\SPG 1 rama del a*rbol
+\SPG 2 una vara que se usa como gancho
+\ENG 1 a tree branch
+\ENG 2 a little branch that you use as a hook
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+Page 686

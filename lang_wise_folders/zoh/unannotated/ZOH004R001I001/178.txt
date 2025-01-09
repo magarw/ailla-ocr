@@ -1,0 +1,63 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT yoj
+\XPSH T3
+\DSRC HAJ94
+\CMTS
+\date 26/Jun/96
+\lex 7ok.yoj=j@m
+\_no 00415
+\LG MIG
+\PSH [7okyojj@m-]
+\UND 7ok.yoj=j@m
+\MB ABAJO, pagar, tallar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG deshojarse
+\ENG to strip (skin, leaves...)
+\SPL
+\SLGR
+\EXU 7ok.yoj=j@m-w@ 7@y+ tzanh.kuy' naka
+\XPSH [7okyojj@mm@y tzanhkuy naka.]
+\XSP Se le deshojo* el cuero de su mano.
+\XEN The skin was stripped from his hand.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 yoj
+\RTGR 1 T3
+\ROOT 2 jam
+\RTGR 2 T1
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex 7ok.yoj=p@'
+\_no 00416
+\LG MIG
+\PSH [7okyojp@-]
+\UND 7ok.yoj=p@7
+\MB ABAJO, pagar, poner
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG dar alquilado; rentar
+\ENG to rent
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 yoj
+\RTGR 1 T3
+ZOH004R0011001.txt
+\ROOT 2 p@
+\RTGR 2 T3
+\DSRC HAJ94
+Page 178

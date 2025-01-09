@@ -1,0 +1,87 @@
+\zoq 7@m yumpa.
+\fts Lo hierves.
+\fte You boil it.
+\com
+\idx
+\ref ZOH001R036 886
+\_no 00869
+\tx 7@y p@kn@kpa
+\mb 7@y p@k
+\sg1 3E
+\egl 3E get
+bi 7ay 7el mismo 7alkanfo*r
+bi 7ay7 7el mismo 7alkanfo*r
+DEF hoja el mismo alcanfor
+-go -INC DEF leaf the same camphor
+-n@k -pa
+agarrar-irse-INC
+\zoq 7@y p@kn@kpa bi 7ay, 7el mismo 7alkanfo*r,
+\fts Lleva la hoja del mismo alcanfor,
+\fte It has in it the leaves, the same camphor,
+\com
+\idx
+\ref ZOH001R036 887
+\_no 00870
+ZOH001R0361001.txt
+\tx par si teji7aw@
+wayay t@kk@yy@
+bi xitko 7@yti
+\mb para si teji
+\sg1 para si hay
+-7a -w@ wayay7 t@k -7@y -w@ bi xitko7 7@yti7
+-VERS1-COM frio casa -VERS2-COM DEF catarro 3PSN
+\egl for if there is-VERS1-COM cold house-VERS2-COM DEF phlegm 3PSN
+\zoq par si teji7aw@ wayay_t@kk@yy@ bi_xitko7@yti.
+\fts para si esta* con fieldad entro* la gripa.
+\fte for if a chill is there it's cold got inside.
+\com
+\idx
+\ref ZOH001R036 888
+\_no 00871
+n@mmoba
+m
+\tx donde yaji
+\mb donde ya -ji7 n@m-7oy -pa 7@m
+\sg1 donde DCT1-LOC1 DO -ANTIP-INC 2E
+\egl where DCT1-LOC1 DO -ANTIP-INC 2E
+\ref ZOH001R036 889
+\_no 00872
+\zoq Donde y@ji n@mmobam 7@m po7tpa y@7.
+\fts Con esto lo vas hacer polvo.
+\fte where this you can
+\com
+you grind this.
+\idx
+7@m po7tpa
+7@m po7t -pa
+y@7
+y@ -7
+2E moler-INC DCT1-NOM1
+2E grind-INC DCT1-NOM1
+\tx ya ke
+yumpa*m
+ya ke
+\mb ya ke
+yum
+-pa -7am ya ke
+\sg1 ya que
+hervir(se) -INC-YA ya que
+\egl now that boil
+-INC-NOW now that boil
+\ref ZOH001R036 890
+\_no 00873
+\zoq Ya ke yumpa*m, ya ke yumma*m.
+\fts ya que esta* herviendo, ya que hervio*.
+\fte Now that it's boiling, now that it's boiled.
+\com
+\idx
+\tx 7@m p@jayya*m
+bi 7ay
+\mb 7@m p@7
+7@m p@7 -jay -w@ -7am bi 7ay7
+yumma*m
+yum
+-w@ -7am
+hervir(se) -COM-YA
+-COM-NOW
+Page 188

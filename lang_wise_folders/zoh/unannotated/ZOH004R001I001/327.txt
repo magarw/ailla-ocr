@@ -1,0 +1,62 @@
+\SLGL tener batido // to have beaten
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex jey.kuy7
+\_no 00755
+\LG MIG
+\PSH [jeykuy7]
+\UND jey.kuy7
+\MB batir, INSTR1
+\VAR
+\GRAM instrl
+\SCI
+\USE
+\SPG traste donde se bate algo
+\ENG mixing bowl
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jey
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 15/Jul/95
+\lex je'k.e7
+\_no 00756
+LG MIG
+\PSH [jeke7]
+\UND_je7k. E7
+\MB limpiar_con_coa, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG limpiado con coa
+\ENG cleaned out with a hoe
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT je7k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex je'=p@k
+\_no 00757
+ZOH004R0011001.txt
+\LG MIG
+\PSH [jeep@k]
+\UND je7=p@k
+\MB juelgo, agarrar
+Page 327

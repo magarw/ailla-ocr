@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 yox
+\RTGR 1 T1
+\ROOT 2 pa7t
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yox.kuy'=tzi'
+\_no 04179
+\LG MIG
+\PSH [yoxkuy tzi-]
+\UND yox.kuy7 tzi7
+\MB trabajar, INSTR1, dar
+\VAR
+\GRAM vt:incorp
+\SCI
+\USE
+\SPG dar trabajo a*; emplear
+\ENG to give work to; to employ
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 yox
+\RTGR 1 T1
+\ROOT 2 tzi7
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex yox-pa+a7k p@n
+\_no 04180
+\LG MIG
+\PSH [yoxpa*7k_p@n]
+\UND yox-pa +P@7k p@n
+\MB trabajar, INC, REL, hombre
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG hombre trabajador
+\ENG working man
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yox
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+ZOH004R0011001.txt
+Page 1796

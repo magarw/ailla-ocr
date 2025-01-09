@@ -1,0 +1,88 @@
+\ref ZOH001R043 096
+\_no 00097
+\tx yakk@ 7@y w@jtz@kk@
+\mb
+\sg1 VOL 3E
+\eg1 VOL 3E
+g@
+kumkuy
+yakk@ 7ay waja -tz@k -w@ g@ kumkuy7
+bueno-hacer-COPT DEM pueblo
+good - do
+-COPT DEM town
+\com
+\idx
+\zoq Yakk@ 7@y_w@jtz@kk@_g@ kumkuy7.
+\fts Que arregle el pueblo.
+\fte That he cleans up the town.
+\ref ZOH001R043 097
+\_no 00098
+\tx yakka y mejortz@kk@
+yakka 7@y mejor-tz@k -wa
+\sg1 VOL
+\eg1 VOL
+\mb
+porke
+y@da kumkuy 7@n muxtampa
+ya -da kumkuy7 7@n mux -tam -ра
+3E mejor-hacer-COPT porque DCT1-DEM pueblo 1E saber-1/2PL-INC
+3E best - do -COPT because DCT1-DEM town 1E know -1/2PL-INC
+porke
+\tx ke
+\mb ke
+\sg1 que viejo-YA
+\egl that old -NOW
+7apua*m
+7apu -7am
+\zoq Yakk@y mejortz@kk@ porke y@da kumkuy7 7@n muxtampa ke 7apua*m.
+\fts Que mejore porque este pueblo sabemos que ya esta* viejo.
+\fte That he improves it because we know that this town is now old.
+\com
+\idx
+\ref ZOH001R043 098
+\_no 00099
+\tx peru ti
+\mb
+peru ti
+y tz@kk@mm@
+-ра 7@y tz@k -7@m -w@
+venir-INC 3E hacer-PAS -DINC
+\egl but what come -INC 3E do -PASS-DINC
+\sg1 pero que
+minpa
+min
+\zoq Peru ti minpay tz@kk@mm@?
+\fts Pero que esta* pasando?
+\fte But what is coming to pass?
+\com
+\idx
+\ref ZOH001R043 099
+\_no 00100
+ZOH001R0431001.txt
+\tx_n@nti*
+\mb
+n@nti
+\sg1 no_hay
+mejora
+\egl there isn't better
+mejora
+mejora
+\zoq N@nti* mejora.
+\fts No hay mejora.
+\fte There's nothing better.
+\com
+\idx
+\ref ZOH001R043 100
+\_no 00101
+\tx ney
+\mb ney
+komo 7apu
+\sgl mismo como viejo NPL
+\egl self like old
+NPL
+komo 7apu d@kka y tzakk@
+yaja7kp@
+d@kkay 7@y tzak -w@ yaja7 -p@7
+3E dejar-COM antes -poner
+3E leave-COM before-put
+Page 23

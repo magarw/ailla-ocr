@@ -1,0 +1,63 @@
+\tx n@nti
+\mb n@nti
+\sg1 no_hay
+\egl there isn't
+\zoq Nanti yakti.
+\fts No habi*a nada.
+\fte There was nothing.
+\com
+\idx
+\not
+\idx
+yakti
+yakti
+nada
+nothing
+\ref ZOH001R020 024
+\_no 00025
+\tx 7@y patzke7tt@
+ya
+\mb 7@y patz -ke7t -w@ ya -7
+\sg1 3E tirar-REPET-COM DCT1-NOM1 pescar-NOM3
+\egl 3E throw-REPET-COM DCT1-NOM1 fish -NOM3
+\zoq 7@y patzke7tt@ y@7 maki7.
+\fts volvio* a tirar la atarraya.
+\fte He threw his net again.
+\com
+\idx
+\not
+\idx
+\ref ZOH001R020 025
+\_no 00026
+\tx kwandu n@mke7tpa
+senyor
+\mb
+kwandu n@m -ke7t -pa senyor
+\sg1 cuando decir-REPET-INC sen~or
+\eg1 when say -REPET-INC mister
+\not
+\idx
+\zoq Kwandu n@mke7tpa, "Senyor."
+\fts Cuando volvio* a decir, "Sen-or."
+\fte when it speaks again, "sir."
+\com
+\idx
+\ref ZOH001R020 026
+\_no 00027
+\tx 7aa pwes yuk7ixpa
+\mb 7aa pwes yuk-7ix-pa
+\sgl ah
+ZOH001R0201001.txt
+pues ARR-ver-INC
+\egl oh well UP -see-INC
+\zoq 7aa pwes, yuk7ixpa,
+\fts Ah pues, miraba,
+\fte oh well, he looks up,
+\com
+\idx
+\not
+\idx
+\ref ZOH001R020 027
+maki
+mak -E7
+Page 7

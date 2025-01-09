@@ -1,0 +1,43 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(7.22)
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+'øy jetztennø bi wowo
+?əy+ hec.ten-we
+bi wowo
+3E+ scratch.PRSV-COM DEF hole
+'He put his hand in to scratch out a hole and didn't take it out for bit."
+'øy ji'ptennø bi nøtz
+?əy+ hi?p.ten-wə
+bi nəc
+3E+
+move_w_stick.PRSV-COM DEF armadillo
+'He's got the armadillo pinned (in its hole).'
+'øy ju'ttennø bi køxi
+?əy+ hu?t.ten-we
+bi kəš.E
+'3E+ stir.PRSV-COM DEF eat. NOM3
+'She's got the stirrer set ready in the atole.'
+'øy keptennø bi pelota
+?əy+ kep.ten-wa
+bi pelota
+3E+ kick.PRSV-COM DEF ball
+'He's got his foot placed, ready to kick the ball.'
+'øy ko'tztennøy wae
+?əy+ ko?c.ten-wə
+?əy+ wae
+3E+ touch_w_flat_hand.PRSV-COM 3E+ masa
+'She has the masa in the palm of her hand.'
+7.1.4. The mysterious yet ubiquitous suffix ?əy
+This suffix usually appears with one of the directional prefixes discussed
+in section 7.1.1. I have not been able to determine what it means or what its
+function could be in the verbal complex. If it's a circumfix, why do the prefixes
+that co-occur with it also freely occur without it? I tried to make a case for
+collapsing this -?ǝy with the versive VERS2 that derives verbs from nouns, but
+this did not hold up. There were too few cases in which the stem to which -?ǝy
+was attached could be reasonably construed as nominal. It does not
+consistently make intransitive roots transitive, or otherwise affect the argument
+171

@@ -1,0 +1,63 @@
+\EXU 7@y+ j@x.p@k-wa bi 7eken jukut@k+joonh
+\XPSH [7@y j@xp@kk@ bi 7eken jukut@kjo*nh.]
+\XSP Quito* el comal del fuego.
+\XEN She moved the griddle off the fire.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pak
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\DATE 14/Aug/02
+\lex j@x-p@k 7anh.k@+jo7
+\_no 01094
+\LG MIG
+\PSH [j@xp@k- 7anhk@jo7]
+\UND jax-pak 7anh.k@ +jo7
+\MB ATRAS, agarrar, BOCA, AFUERA, LOC2
+\VAR
+\GRAM vt+dir
+\SCI
+\USE
+\SPG echar o sacar afuera
+\ENG to throw or take outside
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT p@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex j@x-p@k.jay 7@y+ frenu
+\_no 01095
+\LG MIG
+\PSH [j@xp@kjay- 7@y frenu]
+\UND jax-pak.jay 7@y+ frenu
+ZOH004R0011001.txt
+\MB ATRAS, agarrar, APPL, 3Erg, freno
+\VAR
+\GRAM vt:indir
+\SCI
+\USE
+\SPG desenfrenar
+\ENG
+\EXU 7@y+ jax.p@k.jay-w@ 7@y+_j@p+jo+7k=t@nh.kuy7
+\XPSH [7@y j@xp@kjayy@y japjo7kt@nhkuy7.]
+\XSP Quito* el freno.
+\XEN He let go the reins.
+\SYN
+\SEMF
+\ETYM freno
+\ETL Sp
+\ROOT pak
+\RTGR T3
+\DSRC HAJ94
+Page 479

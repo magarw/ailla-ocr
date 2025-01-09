@@ -1,0 +1,83 @@
+\fte And she comes to put that in there.
+\com
+\idx
+\ref ZOH001R036 999-028
+\_no 01012
+\tx k@nhnha*mp@
+\mb
+\sg1
+\egl cook
+peru pote
+k@nh -w@ -7am-p@7k peru po7t -E
+cocerse-COM-YA -REL2 pero moler-NOM3 3E
+\ref ZOH001R036 999-029
+\_no 01013
+\tx poteamp@
+\mb
+-COM-NOW-REL2 but grind-NOM3 3E INSTR2-get
+po7t -E
+-7am-p@7k
+\sgl moler-NOM3-YA -REL 2
+\egl grind-NOM3-NOW-REL2
+\zoq K@nhnha*mp@ peru pote 7@y_y@kp@kk@ba.
+\fts Cocido pero ya polvo se le echa.
+\fte Now it's cooked but she throws it in there as powder.
+\com
+\idx
+\zoq Poteamp@.
+\fts Ya echa polvo.
+\fte Now it's powder.
+\com
+\idx
+minpam
+ZOH001R0361001.txt
+\ref ZOH001R036 999-030
+\_no 01014
+\tx 7ay
+7@y jomott@
+\mb 7adyo min
+-pa -7am 7@y jo -mot
+-wa
+\sg1 luego venir-INC-YA 3E EN - revolver-dINC
+INTO-stir
+\egl later come -INC-NOW 3E
+\ref ZOH001R036 999-031
+\_no 01015
+\tx par pitz@mpa gag@
+\mb
+ka -g@
+para pitz@m-pa
+\sg1 para salir -INC DCT3-DEM
+\egl for leave -INC DCT3-DEM
+7@y y@kp@kk@ba
+7@y yak-p@k
+\zoq par pitz@mpa gag@.
+\fts para que salga ese.
+\fte so that it leaves.
+\com
+\idx
+\ref ZOH001R036 999-032
+\_no 01016
+GSM: tzektz@y
+tzek
+\zoq 7ay minpam 7@y jomott@
+7@y_7ukpa,
+\fts De ahi ya lo viene a revolver lo toma,
+\fte Then now she comes to stir it in, it drinks it (the baby),
+\com
+\idx
+\tx
+\mb GSM
+-tz@y
+-wa
+\sg1 GSM: barriga-atorarse -COM
+\eg1 GSM: belly -get_stuck-COM
+INSTR2-agarrar-SUF-INC
+-7@y-pa
+Page 219
+-SUF-INC
+7@y 7ukpa
+7@y 7uk
+-pa
+3E tomar -INC
+-DINC 3E drink-INC

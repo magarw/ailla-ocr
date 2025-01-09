@@ -1,0 +1,62 @@
+\ETL
+\ROOT 1 * panh
+\ROOT 2 jax
+\RTGR 2 T1
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex panhku
+\_no 02535
+\LG MIG
+\PSH
+\UND panhku
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG banco de sentarse
+\ENG bench
+\EXU p@j.E' panhku
+\XPSH [p@ji panhku]
+\XSP banco largo
+\XEN large bench
+\SYN
+\SEMF
+\ETYM banco
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex panh=kuk=tzu7
+\_no 02536
+\LG MIG
+\PSH [panhkuktzu7]
+\UND panh-kuk=tzu7
+\MB X, centro, noche
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG medianoche
+\ENG midnight
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 15/Jun/95
+\lex panh.ney
+\_no 02537
+\LG MIG
+\PSH [panhney-]
+\UND panh.ney
+\MB X, ASSUM1
+ZOH004R0011001.txt
+Page 1092

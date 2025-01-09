@@ -1,0 +1,53 @@
+\ENG mend
+\lex koma7
+\_no 01058
+\SPG rodilla
+ENG knee
+\lex komeke
+\_no 01059
+\SPG por_gana
+\ENG for_gain
+\lex komi7
+\_no 01060
+\SPG grande
+\ENG big
+\lex komida
+\_no 01061
+\SPG comida
+\ENG food
+\lex komite*
+\_no 01062
+\SPG comite*
+\ENG committee
+\lex komo
+\_no 01063
+\SPG como
+\ENG how ; like
+\lex komowe
+\_no 01064
+\SPG pescado
+\ENG fish
+\lex kompanyero
+\_no 01065
+\SPG compan~ero
+\ENG fellow
+\lex kompanyeru
+\_no 01066
+\SPG compan~ero
+\ENG fellow
+\lex kompletu
+\_no 01067
+MIG
+\LG
+\SPG completo
+\ENG complete
+\lex komponer
+\_no 01068
+\SPG componer
+\ENG fix
+\lex kompromiso
+\_no 01069
+\SPG compromiso
+\ENG promise
+ZOH001R0611013.txt
+Page 85

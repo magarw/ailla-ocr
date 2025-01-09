@@ -1,0 +1,75 @@
+\mb ka -y min -pa
+\sg1 DCT3-TMP venir-INC
+\eg1 DCT3-TMP come -INC
+\zoq Gay minpa.
+\fts Ya viene.
+\fte Now it comes.
+\com
+\idx
+\ref ZOH001R033 015
+\_no 00015
+\tx gay
+\mb ka
+-Y
+-pa - 7am
+\sg1 DCT3-TMP XE
+tejer-INC-YA
+\eg1 DCT3-TMP XE weave-INC-NOW
+d@n takpa*m;
+dan tak
+\zoq Gay d@n takpa*m.
+\fts Ya lo estoy tejiendo.
+\fte Now then I'm weaving it.
+\com
+\idx
+\ref ZOH001R033 016
+\_no 00016
+\tx
+\mb
+gay
+ka
+ka -y
+d@n takpa*m;
+d@n
+tak
+-pa - 7am
+\sg1
+DCT3-TMP XE
+tejer-INC-YA
+\eg1 DCT3-TMP XE weave-INC-NOW
+\zoq Gay_d@n takpa*m.
+\fts ya lo estoy tejiendo.
+\fte Now I'm weaving it.
+\com
+\idx
+\ref ZOH001R033 017
+\_no 00017
+\tx d@n xipxpa*m;
+\mb d@n xipx
+\sg7 XE
+\eg1 XE
+-pa -7am
+encajar-INC-YA
+stab
+\zoq D@n_xipxpa*m.
+\fts Ya lo estoy rajando
+\fte Now I'm cutting it in strips.
+\com
+\idx
+-INC-NOW
+\ref ZOH001R033 018
+\_no 00018
+\tx d@n 7emparetz@kpa;
+\mb dan emparejar-tz@k -pa
+\sg1 XE emparejar-hacer-INC
+\eg1 XE pair
+- do
+- INC
+ZOH001R0331001.txt
+\zoq D@n_7emparetz@kpa.
+\fts ya lo estoy emparejando.
+\fte Now I'm pairing them.
+\com
+\idx
+\ref ZOH001R033 019
+Page 4

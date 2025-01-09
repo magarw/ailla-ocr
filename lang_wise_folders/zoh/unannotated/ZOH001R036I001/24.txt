@@ -1,0 +1,75 @@
+\idx
+\ref ZOH001R036 108
+\_no 00109
+\tx 7@m p@kpa
+\mb
+7@m p@k
+tum pojo7k
+-ра tum pojo7k
+\sg1 2E agarrar-INC uno huevo
+\eg1 2E get -INC one egg
+\zoq 7@m p@kpa tum pojo7k.
+\fts Agarras un huevo.
+\fte You get an egg.
+\com
+\idx
+\ref ZOH001R036 109
+\_no 00110
+\tx 7@m komatzpa
+\mb
+7@m
+\sg1 2E
+SOC-sobar-INC 3E
+cabeza-LOC2 y
+\egl 2E SOC-rub -INC 3E head -LOC2 and
+7@y kopakjo
+ko -matz -pa 7@y kopak -jo7
+\ref ZOH001R036 110
+\_no 00111
+\tx kon y@d@
+\mb
+7ay7
+kon ya -da 7ay7
+\sg1 con DCT1-DEM hoja
+\egl with DCT1-DEM leaf
+\zoq kon y@d@ 7ay7,
+\fts con esta hoja,
+\fte with this leaf,
+\com
+\idx
+\zoq 7@m_komatzpa 7@y kopakjo 7i jemji7ok, pwes,
+\fts Lo limpias en la cabeza y en todo, pues,
+\fte You cleanse on the head and well, all over,
+\com
+\idx
+\ref ZOH001R036 111
+\_no 00112
+\tx 7i kon tum@7k 7ay7
+\mb 7i kon tum@-v7k 7ay7
+\sg1 y
+uno -REL hoja
+\egl and with one -REL leaf
+con
+\com
+\idx
+\zoq 7i kon tum@7k 7ay7,
+\fts y con la otra hoja,
+\fte and with the other leaf,
+ZOH001R0361001.txt
+\ref ZOH001R036 112
+\_no 00113
+\tx
+ney xawa 7ay ne7
+\mb ney xawa 7ay7 ne7
+\sgl mismo aire hoja tambien
+\egl self wind leaf also
+\zoq ney xawa 7ay ne7.
+\fts con hoja de aire tambien.
+7i
+7i
+jemji7ok pwes
+jemji7ok pwes
+por todo pues
+all over well
+—
+Page 24

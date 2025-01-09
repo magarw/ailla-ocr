@@ -1,0 +1,87 @@
+man wojtakok laj machxom oljawok
+man ø-w-ojtak-ok
+laj mach-xo-m
+ol-ø-jaw-ok
+neg 3B-1A-saber-IRR neg quién-adv-dub fut-3B-venir-IRR
+255. No sé a dónde va.
+man wojtakok laj b’aj til lanh sb’ati
+man ø-w-ojtak-ok
+laj b’aj_til lanh s-b’at-i
+neg 3B-1A-saber IRR neg dónde prog 3A-ir-vti
+154
+man wojtakok laj b’ajxom tzb’at winh
+man ø-w-ojtak-ok
+tz-ø-b'at winh
+neg 3B-1A-saber-IRR neg dónde-adv-dub pres-3B-ir él
+256. No sé por qué vino.
+laj b'aj-x
+b'aj-xo-m
+man wojtakok laj tas yuj ixja'i
+man ø-w-ojtak-ok
+laj tas y-uj ix-Ø-ja'-i
+neg 3B-1A-saber-IRR neg qué 3A-SR pas-3B-venir-vti
+man wojtakok laj tasxom yuj ixja'i
+man ø-w-ojtak-ok
+neg 3B-1A-saber-IRR neg qué-adv-dub 3A-SR pas-3B-venir-vti
+257. No sé de dónde vino.
+laj tas-xo-m y-uj ix-ø-ja'-i
+man wojtakok laj tasxom yuj ixjawi
+man ø-w-ojtak-ok
+neg 3B-1A-saber-IRR neg qué-adv-dub 3A-SR pas-3B-venir-vti
+laj tas-xo-m y-uj ix-ø-jaw-i
+man wojtakok laj b'aj ixkoti
+man ø-w-ojtak-ok
+laj b'aj ix-ø-kot-i
+neg 3B-1A-saber-IRR neg dónde pas-3B-venir-vti
+man wojtakoklaj ‘ajxom ixkoti
+man ø-w-ojtak-ok
+laj 'aj-xo-m
+ix-ø-kot-i
+neg 3B-1A-saber-IRR neg dónde-adv-dub pas-3B-venir-vti
+258. No sé cómo arreglar la puerta.
+man wojtakok laj tas sb'o'chaj te' ti' pat
+man ø-w-ojtak-ok laj tas tz-ø-b'o'-chaj te' ti' pat
+neg 3B-1A-saber-IRR neg qué pres-3B-hacer-psv Cmadera boca casa
+man wojtakok laj tasxom tzaj sb'o' te' puerta
+man ø-w-ojtak-ok
+laj tas-xo-m
+tz-Ø-aj
+s-b'o'
+neg 3B-1A-saber-IRR neg qué-adv-dub pres-3B-exist 3A-hacer
+te'
+pwerta
+Cmadera puerta
+259. No sé qué vende Juan.
+man wojtakok laj tas schonh waj Xun
+man ø-w-ojtak-ok
+laj tas tz-ø-s-chonh
+waj Xun
+neg 3B-1A-saber-IRR neg qué pres-3B-3A-vender Cmasc Juan
+man wojtakok laj tasxom schonh winhaj Xun
+man ø-w-ojtak-ok
+laj tas-xo-m
+tz-Ø-s-chonh
+winhaj
+neg 3B-1A-saber-IRR neg qué-adv-dub pres-3B-3A-vender Cmasc
+Xun
+Juan
+No sé que vendes.
+man wojtakok laj tas tzachonho'
+man ø-w-ojtak-ok
+laj tas tz-ø-a-chonh-o'
+neg 3B-1A-saber-IRR neg qué pres-3B-2A-vender-vtt
+260. Yo no sabía que venías.
+a in tik man wojtakok laj ta to tzachja'i
+a in tik man ø-w-ojtak-ok
+laj_ta_to tz-ach-ja'-i
+top 1B dem neg 3B-1A-saber-IRR neg cond pres-2B-venir-vti
+man wojtakok laj ta to tzachja'i
+man ø-w-ojtak-ok
+laj ta_to tz-ach-ja'-i
+neg 3B-1A-saber-IRR neg cond pres-2B-venir-vti
+man jab'ok tzina'a ta to tzachja'i
+man jab'-ok
+tz-Ø-in-na'a
+ta_to_tz-ach-ja'-i
+neg poco-IRR pres-3B-1A-pensar cond pres-2B-venir-vti
+155

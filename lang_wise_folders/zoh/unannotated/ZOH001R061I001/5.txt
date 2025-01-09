@@ -1,0 +1,94 @@
+\idx aux
+\ref 022
+\_no 00022
+7une
+\tx bi jay
+\mb
+bi jaya
+jaya 7une
+\sg] DET macho nin~o/a
+\egl DET male child'
+tza
+tza7
+\fts el muchacho fue* recogiendo piedras
+\fte the boy went along picking up rocks
+\com
+\idx aux
+n@ki
+y
+-w@ 7ay n@k -E
+piedra UP -recoger-COM 3Erg irse-dCOM
+rock UP -pick -COM 3Erg go -dCOM
+\ref 023
+\_no 00023
+y
+n@ki
+\tx yukpinhnh@
+\mb
+bi jay 7une
+yuk-pinh -wa bi jaya
+jaya 7une 7@y n@k -i
+\sg1 UP -recoger-COM DET macho nin-o/a 3Erg irse-IMPV3 piedra
+\eg1 UP -pick -COM DET male child 3Erg go -IMPV3 rock
+tza
+tza7
+\ref 025
+\_no 00025
+\tx
+\mb
+\sg1
+\eg1
+yukpinhnh@
+yuk-pinh
+\fts el muchacho fue recogiendo piedras
+\fte the boy went along picking up rocks
+\com
+\idx aux
+*
+ZOH001R0611001.txt
+\ref 024
+\_no 00024
+\tx
+ga
+\mb ka -7
+rrey t@k tz@kpa
+rrey t@k
+tz@k -pa
+\sg1 DCT3-NOM1 rey casa hacer-INC
+\eg1 DCT3-NOM1 king house do -INC
+\fts e*1 hace palacios municipales
+\fte that one makes government buildings
+\com
+\idx incorp
+ga
+ka -7
+t@k
+t@k
+DCT3-NOM1 casa
+DCT3-NOM1 house do
+jojo
+tz@kpa
+tz@k -pa
+jojo
+hacer-INC palma
+-INC palm
+\fts* e*1 hace casas de palma
+\fte that one makes palm houses
+\com
+\idx incorp
+\ref 026
+\_no 00026
+jojo tak
+\tx ga
+\mb
+\sg1 DCT3-NOM1 palma casa hacer-INC
+\eg1 DCT3-NOM1 palm house do -INC
+ka -7 jojo tak
+tz@kpa
+tz@k -pa
+\fts e*1 hace casas de palma
+\fte that one makes palm houses.
+\com
+\idx incorp
+\ref 027
+Page 5

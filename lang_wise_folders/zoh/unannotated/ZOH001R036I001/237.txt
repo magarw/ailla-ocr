@@ -1,0 +1,80 @@
+\zoq OSM: 7eso p@7kx.
+\fts OSM: Eso suelda con suelda.
+\fte OSM: That's it, root.
+\com
+\idx
+\ref ZOH001R036 999-115
+\_no 01097
+\tx GSM: p@7kx
+\mb GSM
+p@7kx
+\sg1 GSM:
+\eg1 GSM: root
+suelda_con_suelda
+\zoq GSM: P@7kx.
+\fts GSM: Suelda con suelda.
+\fte GSM: Root.
+\com
+\idx
+\ref ZOH001R036 999-116
+\_no 01098
+OSM: yoya
+\tx
+\mb OSM
+\sg1 OSM: marrano bejuco 3E nombre DCT3-NOM1
+\egl OSM: pig vine 3E name DCT3-NOM1
+poj 7@y naji
+yoya poj 7@y n@ji
+\ref ZOH001R036 999-117
+\_no 01099
+\tx gag@
+\mb
+\zoq OSM: Yoya poj 7@y n@ji ga.
+\fts OSM: Bejuco de marrano se llama eso.
+\fte OSM: That one's name is pig vine.
+\com
+\idx
+gay
+komo m@n
+ka -g@
+-g@ ka
+ka -y komo m@n
+ZOH001R0361001.txt
+ga
+ka -7
+\ref ZOH001R036 999-118
+\_no 01100
+\tx gam
+k@7tpa
+\mb ka -y -7@m k@7t -pa
+\sg1 DCT3-TMP-2E moler-INC
+\eg1 DCT3-TMP-2E grind-INC
+\zoq Gam k@7tpa.
+\fts Eso lo mueles.
+\fte You grind that.
+\com
+\idx
+xenhp@7
+xenh-p@7
+\sg1 DCT3-DEM DCT3-TMP como camote *** -poner salir -INC
+\eg1 DCT3-DEM DCT3-TMP like yam
+-put leave -INC
+***
+\zoq Gag@ gay komo m@n xenh-p@7 pitz@mpa.
+\fts Esta* eso como taman~o del camote sale.
+\fte Now that comes out like the size of a yam.
+\com
+\idx
+pitz@mpa
+pitz@m-pa
+\ref ZOH001R036 999-119
+\_no 01101
+\tx komo komo pitzi
+\mb komo komo pitz
+\sg1 como como poner_maiz_en_cal-NOM3 quebrajar-3PL-INC moler-NOM3
+-E7
+ja7pxukpa
+ja7p
+Page 237
+way
+-xuk-pa way -E

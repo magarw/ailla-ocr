@@ -1,0 +1,64 @@
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG peinarse el cabello
+ENG to comb one's hair
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT w@tz
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex wa'k.e
+\_no 03626
+\LG MIG
+\PSH [wake]
+\UND wa7k. E
+\MB rebanar, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG partido
+\ENG divided; sliced
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wa7k
+\RTGR P (T3)
+\DSRC TK94
+\CMTS CK-PH ok/OK: TK
+\date 03/Jan/80
+\lex we7ch
+\_no 03627
+LG MIG
+\PSH
+\UND we7ch
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+-
+ZOH004R0011001.txt
+SPG encorvar; pandearse, como un palo o varilla
+\ENG to curve; to bend, like a pole or wand
+\SPL yak.we7ch
+\SLGR CAUS
+\SLGL hacer/dejar chueco; pandear // to cause or allow something to
+twist or bend
+\EXU 1 we7ch-w@ (ps-pcp)
+\XPSH 1 [we7chch@]
+\XSP 1 torcido
+Page 1558

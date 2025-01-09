@@ -1,0 +1,64 @@
+[7@n_nikkixx@yy@.]
+XPSH_5
+\XSP 5 Me fije.
+\XEN 5 I paid attention.
+\SYN
+\SEMF cognitive
+\ETYM
+\ETL
+ROOT 7ix
+\RTGR T3
+\DSRC HAJ95
+\CMTS CK-PH of EX
+\date 03/Jan/80
+\lex nik. 'oj. '@y
+\_no 02335
+\LG MIG
+\PSH [nikkojj@y-]
+\UND nik. 7oj.7@y
+\MB SUP, toser, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG toserle a alguien
+\ENG to cough on someone
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 70j
+\RTGR 11
+\DSRC HAJ94
+\CMTS CK-GR - HAJ:96, fixed it
+\date 25/Jun/96
+\lex nik. 'om. '@y
+\_no 02336
+\LG MIG
+\PSH [nik7omm@y-]
+\UND nik. 7om.7@y
+\MB SUP, echar_humo, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pasar el humo sobre alguien
+\ENG to pass smoke over someone
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 70m
+\RTGR 12
+\DSRC HAJ94
+ZOH004R0011001.txt
+was vi
+\CMTS CK-GR/SPG HAJ:96, corrected
+\date 19/Jun/96
+Page 1006

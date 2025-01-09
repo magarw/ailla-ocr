@@ -1,0 +1,63 @@
+\ROOT 1 kum
+\RTGR 1 T2
+\ROOT 2 ka7
+\RTGR 2 12
+\DSRC HAJ95
+\CMTS
+\date 24/Jun/96
+\lex durasnu7
+\_no 00601
+\LG MIG
+\PSH
+\UND durasnu7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG durazno
+\ENG peach
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 24/Sep/94
+\lex durmi7
+\_no 00602
+LG MIG
+\PSH
+\UND durmi7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG durmi, dormilo*n
+\ENG a type of fish
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+LF: koke
+\ROOT
+\DSRC TK94
+\CMTS
+\date 10/Nov/94
+\lex falsu. 7aH
+\_no 00603
+\LG MIG
+\PSH [falsu7a-]
+\UND falsu. 7aH
+\MB falso, VERS1
+\VAR
+ZOH004R0011001.txt
+Page 258

@@ -1,0 +1,62 @@
+\SPG ensordecerse
+\ENG to be deafened
+\SEMF perception
+\ASP achievement
+\ARG
+\NOM kuy7, * naanh
+\RTGR IX
+\POS N
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex papx
+\_no 00217
+\SPG romperse o estrellarse vidrio, por la lumbre
+\ENG for glass to break or crack, from the fire
+\SEMF break
+\ASP achievement
+\ARG
+\NOM * kuy7
+\RTGR IX
+*
+\POS N d@ papxjayy@n y@kkuk
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex pa7t [1]
+\_no 00218
+\SPG encontrar
+\ENG to find
+\SEMF cognitive
+\ASP achievement
+\ARG
+\NOM pa't.e7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex patz [1]
+\_no 00219
+ZOH001R0611002.txt
+\SPG tirar (mango, piedra, algo como asi*)
+\ENG to throw down (something round, like a rock or a mango)
+\SEMF throw
+\ASP achievement
+\ARG
+\NOM
+\RTGR P, (T3)
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex pa'
+\_no 00220
+\SPG colar
+\ENG to sift
+\SEMF arrange
+Page 54

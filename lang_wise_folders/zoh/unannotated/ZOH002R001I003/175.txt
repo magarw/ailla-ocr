@@ -1,0 +1,20 @@
+Chapter 7: Derivational Morphology
+The discussion in this chapter is divided into three parts: verbal affixes
+that have primarily semantic import, including directional prefixes and
+positional suffixes (7.1); affixes that derive nouns and adjectives from verb
+roots (7.2); and affixes that derive verbs from nouns, adjectives, and numbers
+(7.3).
+7.1. Verbal affixes
+A complete template of verbal affixes is shown in table 2.1. Inflectional
+affixes are discussed in chapter 5, valency-changing affixes are discussed in
+chapter 6, and those suffixes and post-verbal clitics that have an effect on
+aspect are discussed in chapter 14. This chapter covers the remaining verbal
+affixes, whose function is most purely semantic; that is, they chiefly serve to
+alter the meaning of the verb root, rather than to manipulate its grammatical
+structure. The directional prefixes are covered in section 7.1.1. Positional
+suffixes are discussed in section 7.1.2. Section 7.1.3. contains a description of
+the perseverative suffix -ten, which is in some ways similar to the positional
+suffix -ney, but carries a volitional or intentional meaning as well. Section
+7.1.4. discusses the suffix -?ǝy, whose function and possible contribution to
+meaning are opaque.
+150

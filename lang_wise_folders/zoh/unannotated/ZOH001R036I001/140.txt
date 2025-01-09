@@ -1,0 +1,105 @@
+\fte And tht you come and crumble.
+\com
+\idx
+\ref ZOH001R036 654
+\_no 00642
+\tx y@kjup@
+\mb yak
+-jup -A7
+\sg1 INSTR2-jalar-IMPV
+INSTR2-jalar-IMPV esde
+\eg1 INSTR2-pull -IMPV INSTR2-pull -IMPV um
+\tx xuyujo
+\mb xuyu7-jo7
+\sgl olla -Loc2
+\egl pot -LOC2
+\fte Put it
+\com
+\idx
+\ref ZOH001R036 655
+\_no 00643
+\tx m
+\mb
+\zoq
+Y@kjup@ - y@kjup@, 7esde, bi jukt@kjo bi xuyujo.
+\fts Ponlo ponlo en la lumbre en la olla.
+put it, um, on the fire in a pot.
+7@m
+\sg1 2E
+\egl 2E
+tu7ppa
+tu7p
+tzinhpa
+tzinh
+\tx ра
+m
+\mb para 7@m
+\sg1 para 2A
+\egl for 2A bathe
+7im
+-pa 71 -7@m n@7
+desmoronar-INC y -2E
+crumble -INC and-2E
+ban*arse-INC
+\ref ZOH001R036 656
+\_no 00644
+y@kjup@
+yak
+\tx ya ke
+\mb ya ke
+\sg1 ya
+que
+\egl now that boil
+ZOH001R0361001.txt
+-ра
+yumma*m
+yum
+7esde bi
+jukt@kjo
+bi
+-jup -A7 7esde bi jukut@k-jo7 bi
+DEF 1umbre -LOC2 DEF
+DEF fire -LOC2 DEF
+\ref ZOH001R036 657
+\_no 00645
+n@t@nhtaxpa
+-t@nh
+-INC
+\zoq M tu7ppa 7im n@t@nhtaxpa xuyu7 pam tzinhpa.
+\fts Lo despedazas y lo llenas de aguas la olla para que te ban~es.
+\fte You crumble it and you fill the pot with water so you can bathe.
+\com
+\idx
+\tx GSM: kanelita 7@y n@ji
+\mb GSM
+bi n@7
+pwes
+-w@ -7am bi n@7
+hervir(se)-COM-YA
+pwes
+DEF agua
+pues
+DEF water well
+agua -cortar_con_machete-11enarse-INC
+water-cut_with_machete -fill
+-COM-NOW
+\zoq Ya ke yumma*m bi n@7,
+pwes.
+\fts Ya que se hervio* el agua, pues.
+\fte Now that the water has boiled, well.
+\com
+\idx
+-tax
+70 panelita
+kanelita 7@y n@ji 70 panelita
+\sg1 GSM: canel 3E
+nombre o panelita
+\egl GSM: cinnamon 3E name or cinnamon
+xuyu7
+-pa xuyu7
+olla
+-INC pot
+\zoq GSM: Kanelita 7@y_n@ji 70 panelita?
+\fts GSM: Canelita se llama o panelita?
+\fte GSM: Cinnamon it's called or 'panelita'?
+Page 140

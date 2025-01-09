@@ -1,0 +1,63 @@
+\_no 02516
+\LG MIG
+\PSH [pakkek-]
+\UND pak=kek
+\MB tirar, brincar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG tropezar
+\ENG to trip
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 pak
+\RTGR 1 TX
+\ROOT 2 kek
+\RTGR 2 T1
+\DSRC HAJ94
+\CMTS trompezar
+\date 15/Jun/95
+\lex pak.naanh
+\_no 02517
+\LG MIG
+\PHO [pakna*nh]
+\UND pak.naanh
+\MB regar, MED
+\VAR
+\GRAM meas
+\SPG una regada (de agua)
+\ENG one toss (of water)
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT pak
+\RTGR TX
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex pak=tzo.e
+\_no 02518
+\LG MIG
+\PSH [paktzoe]
+\UND pak=tzonh. E
+\MB hueso, unir, NOM7
+\VAR paktzowe ?
+\GRAM SV
+\SCI
+\USE
+\SPG coyuntura
+\ENG joint
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ZOH004R0011001.txt
+Page 1084

@@ -1,0 +1,63 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ROOT 1 wit
+\RTGR 1 Il
+\ROOT 2 may
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex wit='anh.wak
+\_no 03765
+\LG MIG
+\PSH [wittanhwak-]
+\UND wit=7anh.wak
+\MB andar, BOCA, *vaciar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG aflojarse
+\ENG to become loose
+\EXU 1 wit='anh.wak-w@
+\XPSH 1 [Wit7anhwakk@.]
+\XSP 1 se aflojo* la llave.
+\XEN 1 The key turned.
+\EXU 2 7@y+ wit='anh.wak-w@
+\XPSH 2 [7@y wittanhwakk@.]
+\XSP 2 Le quito* la llave.
+\XEN 2 He took out the key.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 wit
+\RTGR 1 11
+\ROOT 2 7anh.wak
+\RTGR 2 12
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex wi7t
+\_no 03766
+\LG MIG
+\PSH
+\UND wi7t
+\MB
+\VAR
+\GRAM vt, vi:med
+\SCI
+\USE
+\SPG 1 torcerse
+\SPG 2 torcer mecate
+\ENG 1 to be twisted
+ENG 2 to twist rope
+\SPL wi7t.7@m
+\SLGR PASS
+ZOH004R0011001.txt
+Page 1617

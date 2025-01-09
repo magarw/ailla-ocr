@@ -1,0 +1,87 @@
+\com
+\idx
+\ref ZOH001R036 836
+\_no 00821
+\tx 7@m n@kpa
+7i m
+minpa
+\mb 7@m n@k -pa 7i 7@m min
+\sg1 2E
+irse-INC y 2E
+\egl 2E go -INC and 2E
+\zoq 7@m n@kpa 7im minpa.
+\fts vas y vienes.
+\fte You go and you come.
+\com
+\idx
+\ref ZOH001R036 837
+\_no 00822
+\tx kwerpu pwes
+\mb kwerpu pwes
+\sgl cuerpo pues
+\egl body
+well
+\tx 7@m potzpa
+\mb 7@m potz
+ya m p@ma*m
+ya 7@m p@m
+\sg1 2E
+-ра
+cansarse -INC NEG 2E aguantar-nINC-YA
+\egl 2E get_tired-INC NEG 2E bear
+\ref ZOH001R036 838
+\_no 00823
+\tx ni toypa
+\mb ni toy
+-pa
+\sg] ni doler-INC
+\egl no hurt -INC
+\zoq Ni toypa.
+\fts Esta* adolorido.
+\zoq 7@m potzpa, yam p@ma*m 7@m_manhkuyd@kka, 7@m kwerpu, pwes.
+\fts Te cansas, ya no aguanta tu pies, tu cuerpo, pues.
+\fte You get tired, you can't bear it your legs, well, your body.
+\com
+\idx
+\fte It hurts.
+\com ni?
+\idx
+\sg1 hasta
+\egl until
+until
+ZOH001R0361001.txt
+-pa
+venir-INC
+come -INC
+-
+\ref ZOH001R036 839
+\_no 00824
+\tx 7axta sya
+m
+yakmatza
+\mb 7axta si-ya 7@m yak -matz -A
+7@m manhkuy
+d@kka 7@m
+-A -7am 7@m manh -kuy7 d@kkay 7@m
+2E pisar-INSTR1 NPL 2E
+-nINC-NOW 2E step -INSTR1 NPL
+2E
+\ref ZOH001R036 840
+\_no 00825
+\tx kay
+ya m
+win
+m
+7@m win
+si-NEG 2E CAUS-sobar-nINC 2E REFL
+if-NEG 2E CAUS-rub -nINC 2E REFL
+\zoq 7axta
+syam yakmatzam win.
+\fts Hasta si no te mandas a sobar.
+\fte Until if you don't send for a massage for yourself.
+\com
+\idx
+p@mam
+yukyumpa
+Page 178
+7@m tzek

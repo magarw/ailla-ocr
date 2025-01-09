@@ -1,0 +1,63 @@
+\lex tzak.e7
+\_no 03233
+\LG MIG
+\PHO [tzake7]
+\UND tzak.E7
+\MB dejar, NOM7
+\VAR
+GRAM pcp
+\SPG dejada, una cosa dejada
+\ENG left, a thing left behind
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT tzak
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tzak.ke7t
+\_no 03234
+\LG MIG
+\PSH [tzakke7t-]
+\UND tzak.ke7t
+\MB dejar, REPET
+\VAR
+\GRAM vt: repet
+\SCI
+\USE
+\SPG volver a dejar
+\ENG to leave again
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzak
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tzakx [1]
+\_no 03235
+\LG MIG
+\PSH
+\UND tzakx
+\MB
+\VAR
+\GRAM vi
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG sacar mazorca, pla*tano, medio caer por su mismo peso
+\ENG for ears of corn or bananas to grow so heavy that they fall over on
+the stalk from their own weight
+\SLGR NO CAUS
+\EXU patanux tzakx-w@
+\XPSH [Patanux tzakx@.]
+\XSP Tiene medio cai da la mazorca del pla*tano.
+\XEN The banana branch is half-fallen over.
+Page 1391

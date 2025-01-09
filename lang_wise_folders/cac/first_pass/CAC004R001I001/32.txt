@@ -1,0 +1,81 @@
+66
+a jun pat tik man jab’tzinok laj
+a jun pat tik man jab'tzin-ø-ok laj
+top uno casa dem neg chico-3B-IRR neg
+Esta casa es nueva.
+a jun pat tik ak'to
+a jun pat tik ak'to-ø
+top uno casa dem nuevo-3B
+Esta casa no es nueva.
+a jun pat tik man ak’tok laj
+a jun pat tik manak'to-ø-ok
+laj
+top uno casa dem neg nuevo-3B-IRR neg
+Esta casa es vieja.
+a jun pat tik ichamxo
+a
+jun pat tik icham-ø-xo
+top uno casa dem viejo-3B-adv
+a jun pat tik k'axo
+a
+jun pat tik k'a-ø-xo
+top uno casa dem viejo-3B-adv
+Esta casa no es vieja.
+a jun pat tik man ichamok laj
+a
+jun pat tik man icham-ø-ok laj
+top uno casa dem neg viejo-3B-IRR neg
+a jun pat tik man k'axok laj
+a
+jun pat tik man k'a-ø-xo-ok
+laj
+top uno casa dem neg viejo-3B-adv-IRR neg
+Esta casa es blanca.
+a ju pat tik sak sak
+a
+jun pat tik sak-ø
+(sak)
+top uno casa dem blanco-3B (blanco)
+2.
+Esta casa no es blanca.
+a jun pat tik man sak sakok laj
+a
+jun pat tik man sak-ø
+(sak)-ok laj
+top uno casa dem neg blanco-3B (blanco)-IRR neg
+4.
+¿Cómo es esta casa?
+¿tas yaj jun pat tik?
+tas y-aj
+jun pat tik
+qué 3A-exist uno casa dem
+¿chaj til jun te' pat tik?
+chaj_til jun te'
+pat tik
+cómo uno Cmadera casa dem
+¿chaj tik kilan jun te' pat tik?
+chaj_til ø-k-il-an
+cómo
+jun te'
+3B-1A-ver-sec uno Cmadera casa dem
+pat tik
+3. ¿Qué tan grande es esta casa?
+¿jantak swinanil jun pat tik?
+jantak s-niwan-il
+jun pat tik
+cúanto 3A-grande-gen uno casa dem
+¿te niwan jun te' pat tik?
+te
+niwan-Ø jun te'
+pat tik
+mucho grande-3B uno Cmadera casa dem
+¿Es nueva esta casa?
+¿tom ak'to jun te' pat tik?
+tom ak'to-Ø jun te'
+pat tik
+int nuevo-3B uno Cmadera casa dem
+5 Sí, es nueva
+i', ak'to te'
+i' ak'to-ø te'
+sí nuevo-3B Cmadera
+67

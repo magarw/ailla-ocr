@@ -1,0 +1,64 @@
+\SCI
+\USE
+\SPG cuanto
+\ENG how many; how much
+\EXU jutzeenh jama 7@m+ jay-pa katemako
+\XPSH [Jutze*nh jamam jaypa katemako?]
+\XSP Cuantos di*as vas a tardar en Catemaco?
+\XEN How many days are you going to stay in Catemaco?
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex ju7tz
+\_no 00977
+\LG MIG
+\PSH
+\UND ju7tz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG apun~alar, flechar, encajar, matar con cuchillo
+\ENG to stab, to shoot with an arrow, to drive a stake through, to kill with
+a knife
+\SPL ju7tz.7oy
+\SLGR ANTIP
+\SLGL pun~alar // to stab
+\SPL ju7tz.7@m
+\SLGR PASS
+\SLGL matar // to kill
+\EXU 1 por 7eya+a7k_7@y+ yak.ju7tz-w@_7@y+ win
+\XPSH 1 [Por 7eya* 7@y yakju7tztz@y win.]
+ZOH004R0011001.txt
+\XSP 1 se apun~alo* por otro.
+\XEN 1 She stabbed herself for another.
+\EXU 2 ju7tz.7@m-w@ bi wakax
+\XPSH 2 [Ju7tztz@mm@ bi wakax.]
+\XSP 2 Mataron el ganado.
+\XEN 2 They killed the cow.
+\SYN totz
+\SEMF hit
+\ASP achievement
+\ARG instrument
+\NOM ju7tz. 'oy.kuy7
+\SUB 7anh.ju7tz
+\ETYM
+\ETL
+\ROOT ju7tz
+\RTGR T3
+\DSRC HAJ94
+\CMTS no ma*s que una punalada
+\CMTS CK-PH of EX
+ok, HAJ: 96
+\CMTS
+\date 03/Jan/80
+\lex ju7tz.7oy.kuy7
+\_no 00978
+Page 428

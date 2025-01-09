@@ -1,0 +1,64 @@
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex kuy=mu 7k
+\_no 01614
+\LG MIG
+\PSH [kuymu7k]
+\UND kuy=mu 7k
+\MB palo, zacate
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG zacate cola de tejo*n
+\ENG a type of grass
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+LF: kuy
+\ROOT
+\DSRC TK94
+\CMTS
+\date 07/Feb/96
+LF:mu7k
+\1ex_kuy=nakx
+\_no 01615
+\LG MIG
+\PSH [kuynakx-]
+\UND kuy=nakx
+\MB palo, pegar
+\VAR
+\GRAM vt:incorp
+\SCI
+\USE
+\XEN
+\SYN
+\SPG pegar con un palo
+\ENG to hit with a stick
+\EXU
+\XSP
+\SEMF
+\ETYM
+\ETL
+\ROOT nakx
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 09/Nov/94
+\lex kuy-nakx.kuy7
+\_no 01616
+\LG MIG
+ZOH004R0011001.txt
+Page 699

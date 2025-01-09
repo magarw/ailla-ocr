@@ -1,0 +1,64 @@
+\SLGR CAUS
+\SLGL matar
+\EXU da ka'-pa
+\XPSH [D@ kapa.]
+\XSP Me muero.
+\XEN I'm dying.
+\SYN
+\SEMF body
+\ASP achievement
+\ARG
+\NOM ka'-wa+@7k, ka'.kuy7
+\SUB jo.ka', ka'=tzok, ko.ka', totz-ka', yuk.ka'
+\ETYM
+\ETL
+\ROOT ka7
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex ka'.kuy7
+\_no 01216
+\LG MIG
+\PSH [kakuy7]
+\UND ka7.kuy7
+\MB morirse, INSTR1
+\VAR ka'.7oy-kuy7 [ka7o:kuy7]
+\GRAM instr1
+\SCI
+\USE
+\SPG parte del cuerpo donde se puede matar
+7@y+ ka'-7oy.kuy'+jo7
+\XPSH [7@y tziw@ tum nakxokuy_7@y ka7okuyjo7.]
+\ENG a part of the body where it's easy to kill you (temple, heart)
+\EXU 7@y+ tzi'-w@ tum nakx-'oy.kuy'
+\XSP Le dio* un garrotazo en la parte que el aseguraba que si* lo
+mataba.
+ZOH004R0011001.txt
+\XEN He struck him a blow where he could kill him.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ka
+\RTGR 12
+\DSRC HAJ94
+\CMTS CK-EX <tum>, CK-VAR. var ok, HAJ:96; var not OK, I fixed it: TK
+\date 24/Jun/96
+\lex ka'-tzok
+\_no 01217
+\LG MIG
+\PSH [katzok-]
+\UND ka7=tzok
+\MB morirse, sanar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG agonizar
+\ENG to be dying; to be in your death throes
+\EXU toy-@-wa; ka'-tzok-w@
+\XPSH [Toy@w@; katzokk@.]
+\XSP Se enfermo* mucho; estuvo a punto de morir.
+\XEN She was very sick; she nearly died.
+Page 529

@@ -1,0 +1,64 @@
+\_no 03226
+\LG MIG
+\PSH
+\UND tzajin
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG culebra
+\ENG snake
+\EXU chik tzajin
+\XSP culebra chica
+\XEN little snake
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex tzajin kuy
+\_no 03227
+\LG MIG
+\PSH
+\UND tzajin kuy
+\MB culebra, palo
+\VAR
+\GRAM s (m)s
+\SCI
+\USE
+\SPG roble blanco; palo pinto
+\ENG white oak
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+ETYM
+LF: kuy
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tzajin yoj.a7
+\_no 03228
+\LG MIG
+\PSH [tzajin yoja7]
+\UND tzajin yoj.A7
+\MB culebra, cambiar, NOM2
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG muda de culebra
+\ENG snakeskin
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+Page 1388

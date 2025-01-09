@@ -1,0 +1,66 @@
+41.winh inmam ayek' winh t'a a' niwan
+winh in-mam ay-ø-ek'
+winh t'a a'
+niwan
+Cmasc 1A-papá exist-3B-DIR. pasar Cmasc prep Cagua grandeMi papá está con don Diego.
+winh inmam ayek' winh yet' winhaj Yakin
+winh in-mam ay-ø-ek'
+winh y-et' winhaj Yakin
+Cmasc 1A-papá exist-3B-DIR.pasar Cmasc 3A-SR Cmasc Diego82winh inmam ayek' winh t'a winhaj icham Yakin
+winh_in-mam ay-ø-ek'
+winh t'a winhaj icham Yakin
+Cmasc 1A-papá exist-3B-DIR.pasar Cmasc prep Cmasc viejo Diego42. ¿Con quién está tu papá?¿mach yet' ayek' winh amam?
+mach y-et' ay-ø-ek'
+winh a-mam
+quién 3A-SR exist-3B-DIR. pasar Cmasc 2A-papá¿mach b'aj ayek' winh amam?
+mach b'aj_ay-ø-ek'
+winh a-mam
+quién dónde exist-3B-DIR.pasar Cmasc 2A-papá43. ¿Está tu papá?
+¿ayek' winh amam?
+ay-ø-ek'
+winh a-mam
+exist-3B-DIR.pasar Cmasc 2A-papá44. ¿Dónde está la olla?
+¿b'aj ay lum chen?
+b'aj
+ay-ø
+lum chen
+dónde exist-3B Cmasc olla¿Dónde está el machete?
+¿b'aj ay k'en machit?
+b'aj ay-Ø k'en machit
+dónde exist-3B Cmetal machete45.46.¿b'ajtil ay k'en machit?
+b’aj_til ay-ø
+k'en
+machit
+dónde exist-3B Cmetal macheteLa olla está en el suelo.
+lum chen ay lum t'a satlu'um
+lum
+chen ay-Ø lum t'a sat_lu'um
+Ctierra olla exist-3B Ctierra prep suelolum chen ayek' lum satlum
+chen ay-ø-ek'
+lum sat_lum
+lum
+Ctierra olla exist-3B-DIR.pasar Ctierra sueloEl machete está en el suelo.
+k'en machit ay k'en t'a satlu'um
+machit ay-Ø
+k'en t'a sat_lu'um
+k'en
+Cmetal machete exist-3B Cmetal prep suelok'en machit ayek' k'en satlum
+k'en
+machit ay-ø-ek'
+k'en sat_lum
+Cmetal machete exist-3B-DIR.pasar Cmetal sueloLa olla está en ese rincón.
+lum chen ayek' lum t'a jun chi'
+chen ay-ø-ek'
+lum t'a jun chi'
+lum
+Ctierra olla exist-3B-DIR.pasar Ctierra prep uno demlum chen ayek' lum t'a jun iskina chi'
+chen ay-ø-ek'
+lum
+lum t'a jun iskina chi'
+Ctierra olla exist-3B-DIR.pasar Ctierra prep uno esquina demEl machete está en ese rincón.
+k'en machit ayek' k'en t'a jun chi'
+k'en
+machit ay-Ø-ek'
+k'en t'a jun chi'
+Cmetal machete exist-3B-DIR.pasar Cmetal prep uno demLa olla está junto al comal.
+lum chen ayek' lu'um t'a st'ez lum sa'am83

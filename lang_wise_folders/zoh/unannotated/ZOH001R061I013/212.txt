@@ -1,0 +1,53 @@
+\_no 02655
+\SPG ahogarse con algo que esta* comiendo
+\ENG choke on
+\lex x@m
+\_no 02656
+\SPG (sonido) golpear (en la cabeza)
+\ENG
+\lex x@n
+\_no 02657
+\SPG aguar
+\ENG
+\lex x@nh
+\_no 02658
+\SPG fiesta
+ENG festival
+\lex 7xe
+\_no 02659
+\SPG SIM
+\ENG SIM
+\lex y
+\_no 02660
+\SPG TMP
+\ENG TMP
+\lex ya
+\_no 02661
+\SPG ya
+\ENG now
+\lex ya
+\_no 02662
+\SPG NEG
+\ENG NEG
+\lex yaga7
+\_no 02663
+\SPG herida
+\ENG wound
+\lex yaja7
+\_no 02664
+SPG antes
+\ENG before
+\lex yaj@7
+\_no 02665
+\SPG lejos
+\ENG far
+\lex yak
+\_no 02666
+\SPG CAUS
+\ENG CAUS
+ZOH001R0611013.txt
+\lex yakkaka
+\_no 02667
+\SPG vi bora
+\ENG snake
+Page 212

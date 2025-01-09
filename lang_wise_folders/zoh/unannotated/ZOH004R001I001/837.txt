@@ -1,0 +1,63 @@
+\RTGR T3
+\DSRC HAJ94
+\CMTS hold it hard so it can't get away
+\date 26/Jan/96
+\lex me7kx=p@k
+\_no 01941
+\LG MIG
+\PSH [me7kxp@k-]
+\UND me7kx=p@k
+\MB abrazar, agarrar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG recibir con abrazo
+\ENG to receive (greet) with a hug
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT me7kx
+\RTGR T3
+\ROOT pak
+\RTGR T3
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex melitonh poj
+\_no 01942
+\LG MIG
+\PSH
+\UND melitonh poj
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG bejuco de melito*n
+\ENG a type of vine
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+LF: poj
+\ROOT
+\DSRC TK94
+\CMTS
+\date 11/Nov/94
+\lex melitonh t@m
+\_no 01943
+LG MIG
+ZOH004R0011001.txt
+\PSH
+\UND melitonh t@m
+\MB
+\VAR melitonh t@m berde*7
+Page 837

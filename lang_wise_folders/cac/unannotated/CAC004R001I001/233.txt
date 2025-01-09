@@ -1,0 +1,53 @@
+1
+AVE
+P táNwap'il ha k'óčíh #234
+táN-w-ap ¹-il-Ø ha-k'óč-ih
+MP
+PS
+SS
+G
+E
+P
+મ
+MP
+PS
+SS
+G
+E
+P
+MP
+PS
+SS
+G
+A
+SP
+Main
+wait-*-*-*-he
+NP
+Main
+228
+Post-Adv.
+you-arrive-*
+he is awaiting your arrival
+ščáp¹ nok' nok' kálnel či?
+c-6-čín-hap' nok'(nok')kálnel či?
+VP
+NP
+Subj
+NP
+Post-Adv.
+present-he-say-reportative animal sheep there
+they say he said
+that sheep
+t'a t'a nok' kóyóte čí? #13
+t'ah t'ah nok' kóyóteh čí?
+AND
+to animal coyote there
+to that coyote
+bwénoh #²1
+bwénoh
+PP
+S.
+good
+well
+DAN

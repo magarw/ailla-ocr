@@ -1,0 +1,81 @@
+\idx
+\ref ZOH001R055 080
+\_no 00081
+\tx n@kk@
+7@y 7ixi
+\mb n@k -w@ 7@y 7ix-E
+\sgl irse-COM 3E ver-dcom
+\egl go -COM 3E see-dCOM
+\zoq N@kk@y 7ixi.
+\fts voy a ver.
+\fte I'm going to see.
+\com
+\idx
+\ref ZOH001R055 081
+\_no 00082
+jerma*n
+\tx 7@m minna*m
+\mb 7@m min -w@ -7am jerma*n
+\sg1 2A venir-COM-YA Germa*n
+\egl 2A come -COM-NOW Germa*n
+\zoq "7@m minna*m, Jerma*n?"
+\fts "Ya vinistes, Germa*n?"
+\fte "Now you've come, Germa*n?"
+\com
+\idx
+\ref ZOH001R055 082
+\_no 00083
+\tx
+\mb jaz da min
+j@7
+ja d@ minna*m
+n@mpa
+jerma*n
+-w@ -7am _n@m -pa jerma*n
+\sgl si* 1A venir-COM-YA decir-INC Germa*n
+\egl yes 1A come -COM-NOW say -INC Germa*n
+\com
+\idx
+\zoq "ja, da minna*m," n@mpa Jerma*n.
+\fts "Si*, ya vine", dice Germa*n.
+\fte "Yes, now I've come",
+\tx n@mjayy@
+\mb
+ZOH001R0551001.txt
+\ref ZOH001R055 083
+\_no 00084
+\tx de gaji
+\mb de ka -ji7
+\sg1 de DCT3-Loc1 decir-INC temprano 2A
+\egl of DCT3-LOC1 say -INC early
+2A
+n@m -jay -w@
+\sg1 decir-APPL-COM
+\egl say -APPL-COM
+says Germa*n.
+n@mpa
+tempranu m ye7tztz@
+n@m -pa tempranu 7@m ye7tz -w@
+\ref ZOH001R055 084
+\_no 00085
+\tx bweno pwes tej
+\mb
+bweno pwes teji
+\zoq De gaji n@mpa, "Tempranum_ye7tztz@, tempranu, 7@y_n@mjayy@.
+\fts De ahi* dice, "Temprano llegastes, temprano", le dijo.
+\fte Then she says, "You got here early, early", she said to him.
+\com
+\idx
+y@ji
+ya -ji7
+tempranu 7@y
+tempranu 7@y
+11egar-COM temprano 3E
+arrive-COM early 3E
+n@mpa
+n@m
+bi
+yoma*7
+-pa
+bi yomaa7
+Page 19

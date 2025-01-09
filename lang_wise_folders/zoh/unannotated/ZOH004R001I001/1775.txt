@@ -1,0 +1,64 @@
+\_no 04130
+\LG MIG
+\PSH
+\UND yem
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG soplar con soplador
+\ENG to blow with a bellows
+\SPL yem.7oy
+\SLGR ANTIP
+\SLGL soplar // to blow
+\SPL yem.7@m
+\SLGR PASS
+\SLGL soplarse // to be blown.
+\SPL yem. ten
+\SLGR PRSV
+\SLGL tener soplandolo // to be blowing on something
+\EXU 7@y+ yem-w@ jukut@k yem.kuy'+j@nanh
+\XPSH [7@y yemm@ jukut@k yemkuyj@nanh.]
+\XSP Soplo* la lumbre con el soplador.
+XEN He blew up the fire with a bellows.
+\SYN
+\SEMF nature
+\ASP process
+\ARG
+\NOM yem.kuy7
+\SUB
+\ETYM
+\ETL
+\ROOT yem
+\RTGR T3
+\DSRC TK94
+\CMTS FIX EX: NO ERG/FIXED: TK
+\CMTS
+\date 03/Jan/80
+\lex yem.kuy7
+\_no 04131
+\LG MIG
+\PSH [yemkuy7]
+\UND yem.kuy7
+\MB soplar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\DLG
+\SPG abanico; soplador
+\ENG hand fan
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yem
+\RTGR T3
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS
+Page 1775

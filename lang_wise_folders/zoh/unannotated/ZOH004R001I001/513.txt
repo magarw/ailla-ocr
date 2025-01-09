@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [kanxopx-]
+\UND kan=xopx
+\MB pene, sacudir_verga
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG cuando un nin~o anda desnudo con la verga visible
+\ENG (for a child) to walk naked with the dick wiggling
+\EXU kan=xopx-pa 7@y+ wit-w@ de 7une7
+\XPSH [Kanxopxpay witt@ de 7une7.]
+\XSP_That little boy is walking with his pecker waggling.
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xOpx
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 24/Jun/96
+\lex kanh
+\_no 01179
+LG MIG
+\PSH
+\UND kanh
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG vaciarse de huevos (iguana)
+\ENG for an iguana to lay eggs
+\SLGR NO CAUS
+\EXU 1 kanh-w@+@7k t@tz@7
+\XPSH 1 [kanhnh@*7k_t@tz@7]
+\XSP 1 iguana sin huevos
+\XEN 1 an iguana without eggs
+\EXU 2 kanh-w@ t@tz@7
+\XPSH 2 [Kanhnh@ t@tz@7.]
+\XSP 2 Se vacio* de huevos la iguana.
+XEN 2 The iguana laid her eggs.
+\SYN
+\SEMF animal
+\ASP achievement
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT kanh
+\RTGR IX
+\DSRC TK94
+\CMTS get deriv's
+\CMTS
+ZOH004R0011001.txt
+\CMTS only of iguanas
+\date 03/Jan/80
+\lex kanhga7
+\_no 01180
+Page 513

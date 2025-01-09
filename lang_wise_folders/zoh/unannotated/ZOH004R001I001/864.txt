@@ -1,0 +1,63 @@
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\1ex mo7kxi' nem.kuy7
+\_no 02004
+\LG MIG
+\PSH [mo7kxi nemkuy7]
+\UND mo7kxi7 nem.kuy7
+\MB
+\VAR
+\GRAM instrl
+\SCI
+\USE
+\SPG tenaza de cangrejo
+\ENG pincers of a crab
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex mo7kxi' wetze
+\_no 02005
+\LG MIG
+\PSH
+\UND mo7kxi7 wetze
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG camaron seco
+\ENG dried shrimp
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+LF:mo7kxi7
+\ROOT
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\lex mo7k.x@y
+\_no 02006
+\LG MIG
+\PSH [mo7kk@y-]
+\UND mo7k.x@y
+\MB abrazar, DEPOS
+\VAR
+\GRAM vt:depos
+\SCI
+\USE
+\SPG dejar amontonadito su len~a
+ZOH004R0011001.txt
+Page 864

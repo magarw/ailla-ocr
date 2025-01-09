@@ -1,0 +1,64 @@
+\SPL 7e7k.7@m
+\SLGR PASS
+\SLGL pizcarse (abrieron solo, cuando esta* muy seco)
+\SLGL to fall from the pod, when very dry
+\SPL 7e7k.ten
+\SLGR PRSV
+\SLGL tener despizcado // to have shelled
+\SEMF pick, farm
+\ASP activity
+\ARG patient
+\NOM ni.7e7k.kuy7
+\SUB 7ok. 'e7k. '@y, jo.7e7k, ko. 7e7k, k@.n@k-7e7k. '@y
+\ETYM
+\ETL
+\ROOT 7e7k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex 7etz
+\_no 00009
+LG MIG
+\PSH
+\UND 7etz
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG bailar
+\ENG to dance
+\EXU 1 tij-w@ 7@y+ 7etz-w@
+\XPSH 1 [tijj@y 7etztz@.]
+\XSP 1 Fue* a bailar.
+ZOH001R0611006.txt
+\XEN 1 He went dancing.
+\EXU 2 7@y+ 7etz-t@k.7aH-w@
+\XPSH 2 [7@y 7etzt@kkaw@.]
+\XSP 2 Bailo* con alguien.
+\XEN 2 She danced with someone.
+\EXU 3 7etz-w@ 7@y+ pitz@m-i jonh+joonh
+\XPSH 3 [7etztz@y_pitz@mi jonhjo*nh.]
+\XSP 3 Salio* bailando de adentro.
+\XEN 3 He came out dancing.
+\EXU 4 d@ 7etz-w@ x@nh +jo7
+\XPSH 4 [D@ 7etztz@ x@nhjo7.]
+\XSP 4 Baile* en la fiesta.
+\XEN 4 I danced at the party.
+\EXU 5 7etz.7@m-w@ bi migelenya
+\XPSH_5 [7@tztz@mm@ bi migelenya.]
+\XSP 5 Bailaron la migelen~a.
+\XEN 5 They danced the Migelen~a.
+\EXU 6 7@y+ 7etz-xuk-w@
+\XPSH 6 [7@y 7etzxukk@.]
+\XSP 6 Lo bailaron.
+\XEN 6 They danced it.
+\SYN
+\SPL yak. 7etz
+\SLGR CAUS
+\SLGL hacer bailar // to make dance
+\SPL 7etz.7@m DENIED --> 7etz(a)n@m-pa `esta*n bailando'
+\SLGR PASS
+\SLGL bailar (IMPERS)
+Page 6

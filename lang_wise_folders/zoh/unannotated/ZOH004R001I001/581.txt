@@ -1,0 +1,64 @@
+\SPG apurarse haciendo algo
+\ENG to hurry doing something
+\SPL
+\SLGR
+\EXU mix ko.ja7kx.jay-tam-w@ para 7uy tzu-muk-w@
+\XPSH [Mix koj@7kxjada:m@7 para 7uy tzu:mukk@.]
+\XSP Apurate para que no entre el
+noche.
+XEN Hurry up so night doesn't fall.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ja7kx
+\RTGR 11
+\DSRC HAJ95
+\CMTS TK fixed XPSH
+\date 24/Jun/96
+\lex ko.j@m
+\_no 01331
+\LG MIG
+\PSH [koj@m-]
+\UND ko.j@m
+\MB OTRO, refregar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG refregar
+\ENG to scrub
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jam
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 17/Jul/95
+\lex ko.j@y
+\_no 01332
+\LG MIG
+\PSH [koj@y-]
+\UND ko.j@y
+\MB OTRO, 1lorar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 11orar por alguien
+\ENG to cry for someone
+\SPL
+\SLGR
+\EXU
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+Page 581

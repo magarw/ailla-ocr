@@ -1,0 +1,77 @@
+teji
+-7a -wa
+\mb donde-ju7
+\sg1 donde-donde hay
+-VERS1-COM
+\eg1 where-where there is-VERS1-COM
+\zoq dondu teji7aw@.
+\fts donde esta*.
+\fte where it is.
+\com
+\idx
+\ref ZOH001R036 456
+\_no 00449
+\tx GSM: dondju
+\mb GSM
+donde-ju7
+\sg1 GSM: donde-donde estar_caliente-COM
+\eg1 GSM: where-where be_hot
+\zoq GSM: Dondju nutztz@.
+\fts GSM: La parte que se quemo*.
+\fte GSM: where it's burned.
+\com
+\idx
+\ref ZOH001R036 457
+\_no 00450
+nutztz@
+nutz
+\tx
+\mb OSM donde nutz
+\sg1 OSM: donde estar_caliente-COM
+\egl OSM: where be hot
+OSM: donde nutztz@
+\zoq OSM: Donde nutztz@.
+\fts OSM: Donde se quemo*.
+\fte OSM: where it's burned.
+\com
+\idx
+\ref ZOH001R036 458
+\_no 00451
+\tx GSM: piyu
+\mb GSM piyu7
+\sg1 GSM: gallina
+\eg1 GSM: Chicken lard
+ZOH001R0361001.txt
+-wa
+-COM
+mantekaxta*7
+manteka-xtaa7
+manteka-NOMAS
+-ONLY
+-w@
+\zoq 70 7eya* 7@m p@jage7tpa ne7?
+\fts o le echas otro tambien?
+-COM
+\zoq GSM: Piyu mantekaxta*7,
+\fts GSM: Manteca de gallina nada mas,
+\fte GSM: Just chicken fat,
+\com
+\idx
+\ref ZOH001R036 459
+\_no 00452
+\tx 70 7eya*
+7@m
+p@jage7tpa
+ne7
+70 7eya -v7k 7@m
+\mb
+p@7 -jay -ke7t -pa ne7
+\sg1 o
+poner-APPL-REPET-INC tambien
+\egl or other-REL 2E put -APPL-REPET-INC also
+otro -REL 2E
+\fte or do you put in something else also?
+\com
+\idx
+\ref ZOH001R036 460
+Page 98

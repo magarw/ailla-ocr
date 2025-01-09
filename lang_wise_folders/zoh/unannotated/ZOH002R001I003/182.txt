@@ -1,0 +1,37 @@
+In verbal constructions, the meaning is also usually clearly 'out' or 'back',
+particularly in neologisms.
+(7.8)
+(i)
+(ii)
+(iii)
+(iv)
+'øy jøxjetztzø
+?əy+ həš.hec-wə
+3E+ ATRAS.rascar-COM
+'Lo sacó rascandolo.'
+'øy jøxpøkxukkø
+?əy+ həš.pək-šuk-wə
+3E+ ATRAS.get-3PL-COM
+'Lo sacaron.'
+'øy jøxtziwo
+?əy+ həš.ci?-wə
+3E+ ATRAS.dar-COM
+'Le dió la espalda.'
+'øy jøxwøkxøy tujkuy'
+?əy+ həš.wəkš-wə
+?əy+ tuh.kuy?
+3E+ ATRAS.hang-COM 3E+ shoot. INSTR
+'Descolgó su arma.'
+(ZOH001R024-391)
+(ZOH001R024-499)
+7.1.1.5. ko
+A prefix with this shape and similar function appears in Copainalá Zoque,
+and is glossed by Wonderley as marking "action performed for or on the
+property of another person" (Wonderley, 1951:148). He gives the prefix the
+label 'associative'. This meaning applies to many of the forms in the MIG Zoque
+corpus, so I assign this morpheme the symbol SOC (for asSOCiative). ko-
+sometimes also means 'do again' or 'do more'.
+The first two examples support the SOC reading; the second two indicate
+the AGAIN reading; and the last two suggest a MORE reading. There are a few
+constructions in which ko- adds an argument to its host verb root. An example
+157

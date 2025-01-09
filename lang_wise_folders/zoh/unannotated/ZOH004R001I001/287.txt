@@ -1,0 +1,64 @@
+\ENG 2 to crush
+\EXU 1 7@y+ ja7p-w@ bi pitz. E tza7 +g@xi
+\XPSH 1 [7@y ja7pp@ bi pitzi tzag@xi.]
+\XSP 1 Molio* el nixtamal en el metate.
+\XEN 1 She ground the corn in the metate.
+\EXU 2 ja7p.7@m-w@ bi pitz. E
+\XPSH_2 [ja7pp@mm@ bi piṭzi.]
+\XSP 2 Se quebrajo* el nixtamal.
+\XEN 2 The corn was crushed.
+\SYN
+\SEMF corn, break
+\ASP activity
+\ARG agent, patient
+\NOM ja'p.e7,
+ni.ja7p.kuy7
+\SUB 7anh.ja7p. '@y, 7anh.n@k.ja7p.'@y, 7ok.ja7p.'@7, jo.ja7p, j@x=ja7p,
+\SUB ko.ja7p, k@.ja7p. '@y, nik.ja7p.¹@y, win-ja7p
+\ETYM
+\ETL
+\ROOT ja7p
+\RTGR T3
+\SPL ja7p.7oy
+\SLGR ANTIP
+\SLGL moler; quebrajar // to grind; to crush
+\SPL ja7p.7@m
+\SLGR PASS
+\SLGL molerse; quebrajarse // to be ground; to be crushed
+\SPL ja7p.ten
+\SLGR PRSV
+\SLGL tener molido // to have ground
+\DSRC HAJ94
+\CMTS to crush/grind something in the metate
+\date 03/Jan/80
+\lex jate' 7@y+ yox. 7anh
+\_no 00671
+\LG MIG
+\PSH [jatey yoxxanh]
+\UND jate7 7@y+ yox. 7anh
+\MB hombre, 3Ērg, trabajar, x
+\VAR
+ZOH004R0011001.txt
+\GRAM s (m) s
+\SCI
+\USE
+\SPG trabajo de hombre
+\ENG man's work
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT YOX
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\lex jate' mu7t
+\_no 00672
+\LG MIG
+\PSH
+\UND jate7 mu7t
+Page 287

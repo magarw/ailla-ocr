@@ -1,0 +1,64 @@
+\SPL ki7t.7oy
+\SLGR ANTIP
+\SLGR NO PASS
+\SPL ki7t.ten
+\SLGR PRSV
+\SLGL tener puesto el dedo (chistoso) // to have the finger put in something
+(funny)
+\EXU 7@y+ ki7t-w@ bi k@x.i
+\XPSH [7@y ki7tt@ bi k@xi.]
+\XSP Metio* el dedo en la comida.
+\XEN She put her finger in the food.
+\SYN
+\SEMF hand
+\ASP achievement
+\ARG patient
+\NOM ki7t.kuy7, ki7t.naanh
+\SUB 7ok.ki7t. '@y, jo.ki7t, j@x=ki7t, y@k.ki7t.'@y, nik.ki7t.'@y,
+\SUB win-ki7t, yuk.ki7t
+\ETYM
+\ETL
+\ROOT ki7t
+\RTGR T3
+\DSRC HAJ94
+\CMTS * 7@n ki7tt@n wiki7
+\date 03/Jan/80
+\DATE 03/Jan/80
+ZOH001R0611006.txt
+\lex kitz
+\_no 00060
+\LG MIG
+\PSH
+\UND kitz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 enrollar
+\SPG 2 remangar - pantalo*n, camisa
+\ENG 1 to roll up
+\SPL kitz.7oy
+\SLGR ANTIP
+\SLGL enrollar; remangar // to roll up
+\SPL kitz.7@m
+\SLGR PASS
+\SLGL enrollarse // to be rolled up
+\SLGR NO ASSUM1
+\SPL kitz.ten
+\SLGR PRSV
+\SLGR tener enrollado (las mangas) // to have the sleeves or pants legs
+rolled up
+\EXU 1 7@n+ kitz-pa 7@n+ y@k.wij 7@y+ tzanh.kuy7
+\XPSH 1 [7@n kitzpan y@kwij 7@y tzanhkuy7.]
+\XSP 1 Enrollo la manga de mi camisa.
+\XEN 1 I'm rolling up the sleeve of my shirt.
+\EXU 2 7@n+ kitz.ten-w@ 7@n+ y@k.wij 7@y+ tzanh.kuy7
+\XPSH 2 [7@n kitztenn@ny@kwij 7@y tzanhkuy7.]
+\XSP 2 Tengo enrollado las mangas de mi camisa.
+\XEN 2 I've got my shirtsleeves rolled up.
+\SYN
+\SEMF cover, arrange
+\ASP achievement
+\ARG
+Page 43

@@ -1,0 +1,97 @@
+\idx
+\ref ZOH001R036 999-124
+\_no 01106
+m
+yote
+\tx 7i minpa
+\mb 7i
+min
+\sgl y
+bi
+bi yote7
+m wattenpa
+7@m wat
+p@jayy@
+-pa 7@m p@7 -jay -w@
+venir-INC 2E poner-APPL-dINC DEF ropa 2E
+\egl and come -INC 2E put -APPL-DINC DEF clothes 2E bind
+\zoq 7i_minpam p@jayy@ bi yotem wattenpa.
+\fts Y le vienes echar la ropa lo_amarras.
+fte And you come put on it the cloth you've got bound.
+\com
+\idx
+\ref ZOH001R036 999-125
+\_no 01107
+\tx GSM: konwatt@ba
+\mb GSM
+kon -wat
+-7@y-pa
+\sg1 GSM: con -amarrar-SUF-INC
+\egl GSM: with-bind
+\zoq GSM: Konwatt@ba.
+\fts GSM: Se lo amarras (el remedio).
+\fte GSM: It's bound on.
+\com
+\idx
+\ref ZOH001R036 999-126
+\_no 01108
+-SUF-INC
+\tx
+\mb OSM kon -wat
+-7@y-pa
+\sg1 OSM: con -amarrar-SUF-INC
+\egl OSM: with-bind
+OSM: konwatt@ba
+\zoq OSM: Konwatt@ba,
+\fts OSM: Se lo amarras,
+\fte OSM: It's bound on,
+\com
+\idx
+\ref ZOH001R036 999-127
+\_no 01109
+\tx pa ke
+\mb para ke
+\sg1 para que
+\egl for that get
+-SUF-INC
+p@kpa
+p@k
+ZOH001R0361001.txt
+\tx_n@kpa
+\mb nak -pa
+y 7@y lugar bi
+7onde yonn@
+-ра 7@y 7@y lugar bi
+donde yon
+-wa
+agarrar-INC 3E 3E lugar DEF pegar-INSTR1 donde zafarse-COM
+-INC 3E 3E place DEF hit -INSTR1 where get_out-COM
+tzanhkuy
+tzanh-kuy7
+\ref ZOH001R036 999-128
+\_no 01110
+\tx 7una bes ke
+\mb 7una bes ke
+\zoq pa ke p@kpay 7@y lugar bi tzanhkuy 7onde yonn@.
+\fts para que agarre el lugar su mano donde se dessarto*
+\fte so it gets the place of the arm where it was sprained.
+\com
+\idx
+jayya*m
+jay
+-w@ - 7am
+dilatar-COM-YA
+\sg1 una ver que
+\egl one see that delay -COM-NOW
+-ten -pa
+amarrar-PRSV-INC
+jayya*m
+Jay
+-PRSV-INC
+kinse
+dia y
+dia 7@y
+-w@ -7am kinse
+dilatar-COM-YA quince dia 3E
+delay -COM-NOW fifteen day 3E
+Page 239

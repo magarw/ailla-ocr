@@ -1,0 +1,49 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(8.7)
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+tijpay kotzønke'chukkø
+tih-pa
+?əy+ ko.cǝn.ke?t-šuk-wǝ
+ir&regresar-INC 3E+ SOC.sentarse.REPET-3PL-dINC
+'Van a cuidarlo de vuelta.'
+mintammø yøjønang tzønnokjejtame parkejo'
+yə.hənaŋ (7ən+) cən=?ok.heh-tam-E
+parke+ho?
+min-tam-wə
+venir-1/2PL-COM DCT1.DIR1 (1E+) sentarse=BAJO.vivir-1/2PL-dCOM parque+LOC2
+'Venimos para acá a descansar sentado en el parque.'
+(ZOH001 RO10-212)
+dey minnám mix 'ixkete
+de.y
+min-wǝ+?am miš+ ?iš.ke?t-E
+DCT2.TMP venir-COM+YA 1>2+ ver.REPET-dCOM
+'Ya vine a verte otra vez.'
+minnom pøktzongtammám jaxakejá'
+min-?o
+?ǝm+ pək=con-tam-wǝ+?am
+venir-IMPV2 2E+ agarrar=unir-1/2PL-dINC+YA
+'Vengan a recibir sus nueras.'
+(ZOH001R045-080)
+?ən+ wit.ke?t-tam-E
+(ZOH001R026-138)
+tum dominggo tijjøn witke'ttame kuyjo'
+tum domingo tih-we
+kuy+ho?
+uno domingo ir&regresar-COM 1E+ andar. REPET-1/2PL-dCOM árbol+LOC2
+'De ahí un domingo fuimos a andar en el monte.'
+(ZOH001R010-591)
+209
+hašake+haa?
+nuera+NPL2
+(ZOH001R023-432)
+Other constituents of the clause can appear between the auxiliary and V2,
+provided that they are not too long. This isn't common: there is a clear
+preference to put any noun phrases or adverbials after the auxiliary
+construction, as in examples (8.7 iv-v), above. The modal operator pinək is
+shown inside the auxiliary construction in (8.8 iii), but this is not required (iv).
+A noun phrase that appears between the ergative marker and V2 is
+incorporated. Examples (v) and (vi) illustrate this contrast.

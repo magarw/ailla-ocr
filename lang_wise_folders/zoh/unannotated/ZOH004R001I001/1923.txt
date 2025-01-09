@@ -1,0 +1,62 @@
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {.neenh}
+\_no 04477
+\LG MIG
+\PSH [ne*nh]
+\UND neenh
+\MB MED1
+\VAR
+\USE nominalizer that creates nouns from verb roots
+\GRAM suf
+\SPG una medida taman~o de VERBO
+\ENG a measure the size of one unit of VERBing
+\SPL
+\SLGR
+\EXU 1 ya pitz@m-A ni yu7tz.neenh mok
+\XPSH 1 [Ya pitz@ma ni yu7tzne*nh mok.]
+\XSP 1 No sale ni un pun~o de mai*z.
+\XEN 1 Not even a fistful of corn appears.
+\EXU 2 tzun.neenh
+\XPSH_2 [tzunne*nh]
+\XSP 2 gota
+\XEN 2 drop
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {nik.}
+\_no 04478
+\LG MIG
+\PSH
+\UND
+\MB SUP
+\VAR
+\GRAM_pre
+\USE lexical verbal prefix: on the surface of. always appears with the
+suffix 7@y
+\SPG encima de
+\ENG on top of
+\SPL
+\SLGR
+ZOH004R0011001.txt
+\EXU
+\XPSH
+\XSP
+\XEN
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+Page 1923

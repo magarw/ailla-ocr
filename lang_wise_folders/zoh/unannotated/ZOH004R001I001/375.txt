@@ -1,0 +1,62 @@
+\lex jo.may=yoj
+\_no 00860
+\LG MIG
+\PSH [jomayyoj-]
+\UND jo.may=yoj
+MB EN, contar, cambiar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG recontar
+\ENG to count again
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 may
+\RTGR 1 T3
+\ROOT 2 yoj
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS
+\date 03/Feb/96
+\lex jom.e
+\_no 00861
+\LG MIG
+\PSH [jome]
+\UND jom. E
+\MB cercar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG cerco de rama
+\ENG a fence made of branches
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jom
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex jome7
+\_no 00862
+\LG MIG
+\PSH
+\UND jome7
+\MB
+\VAR jome+e7k [jome*7]
+\GRAM a
+ZOH004R0011001.txt
+Page 375

@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG haber fiesta
+\ENG for there to be a fiesta
+\EXU X@nh. 'aH-An@m-w@
+\XPSH [x@nhnhan@mm@.]
+\XSP Hubo fiesta.
+\XEN There was a fiesta.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex x@wanh
+\_no 04067
+\LG MIG
+\PSH
+\UND x@wanh
+\MB
+\VAR
+\GRAM vi
+\SPG tener hormigueado el brazo o el pie
+\ENG for a limb to be asleep
+\SPL yak.x@wanh
+\SLGR CAUS
+\SLGL hacer que se hormiguee // to cause a limb to tingle
+\EXU d@ x@wanh-pa 7@n+ tzanh.kuy7
+\XPSH [D@ x@wanhpan tzanhkuy7.]
+\XSP Tengo hormigada mi mano.
+\XEN My hand is asleep.
+\SYN
+\ROOT X@wanh 12
+\DSRC HAJ95
+\CMTS
+\date 26/Jun/96
+\lex ya 7ix-mux. 'o<y-e/a>
+\_no 04068
+\LG MIG
+\PSH [ya 7ixmuxxo]
+\UND ya 7ix=mux. 7oy-A
+\MB NEG, ver, saber, ANTIP, NINC
+\VAR
+\GRAM neg
+\SCI
+\USE
+\SPG ciego
+\ENG blind
+\EXU ya 7ix-mux. 'oy-A tum wit@m
+\XPSH [Ya 7ixmuxxo tum wit@m.]
+\XSP No ve por un ojo.
+\XEN She doesn't see in one eye.
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7ix
+\RTGR 1 T3
+\ROOT 2 mux
+Page 1749

@@ -1,0 +1,65 @@
+\SPG cachar con las manos
+\ENG to catch between your hands
+\SPL kop. 7oy
+\SLGR ANTIP
+\SPL kop.7@m
+\SLGR PASS
+\SLGL_estar_cachado
+// to be caught in the hands
+\EXU 1 kop.7@m-w@ bi tzux 7aju7 7@n+ p@'-pa tum p@7. 'oy.kuy'+jo'
+7anh.jap.kuy'. '@y-w@+@7k
+\XPSH 1 [Kopp@mm@ bi tzux 7aju7, 7@n p@pa tum p@7okuyjo 7anhjapkuy7@yy@*7.]
+\XSP 1 Fue* cachado el chapuli*n, lo pongo en un traste que tiene tapadera.
+\XEN 1 The grasshopper is caught in my hands, and I'm putting it in a dish
+with a lid.
+\EXU 2 7@n+ kop-pa pelota
+\XPSH 2 [7@n koppa pelota.]
+\XSP 2 voy a cachar la pelota.
+\XEN 2 I'm going to catch the ball.
+\EXU 3 7@n+ kop.ten-w@ bi tzux 7aju7
+\XPSH 3 [7@n koptenn@ bi tzux 7aju7.]
+\XSP 3 Tengo cachado el chapuli*n.
+\XEN 3 I've got the grasshopper caught in my hands.
+\EXU 4_7@n+ kop.ten-pa bi tzux 7aju7
+\XPSH 4 [7@n koptenpa bi tzux 7aju7.]
+\XSP 4 voy a tener cachado el chapuli*n.
+\XEN 4 I'm going to have the grasshopper caught in my hands.
+\EXU 5 7@y+ kop-w@ tum tzanh.kuy'+pi7t
+\XPSH_5 [7@y kopp@ tum tzanhkuypi7t.]
+\XSP 5 Lo cacho* con una mano.
+\XEN 5 He caught it with one hand.
+\SYN
+\SEMF hand
+\ASP achievement
+\ARG location
+ZOH001R0611006.txt
+\NOM kop.kuy7, ni.kop, kop.naanh
+\SUB 7ok.kop. '@y, nik.kop. '@y, y@k.kop.'@y
+\ETYM
+\ETL
+\ROOT kop
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\CMTS has to be with both hands
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex ko.pe7t
+\_no 00068
+\LG MIG
+\PSH [kope7t-]
+\UND ko.pe7t
+\MB OTRO, tejer
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG despulgar
+\ENG to delouse
+\SPL ko.pe7t.7oy
+\SLGR ANTIP
+\SLGL despulgar // to delouse
+\SLGR NO PASS
+\EXU
+\XSP
+Page 48

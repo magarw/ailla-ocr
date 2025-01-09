@@ -1,0 +1,63 @@
+\ASP process, transition
+\ARG
+\NOM
+\SUB 7anh.me7kx, 7anh.me7kx.n@k, me7kx.n@k, me7kx.pak.pak.w@y,
+\SUB 7ok.me7kx.'@y, j@x-me7kx, ko.me7kx, k@.n@k=me7kx.¹@y,
+\SUB ni.me7kx, nik.mě7kx. '@y, win-me7kx=monh, yuk.me7kx
+\ETYM
+\ETL
+\ROOT me7kx
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\1ex me7kx=n@k
+\_no 01939
+\LG MIG
+\PSH [me7kxn@k-]
+\UND me7kx=n@k
+\MB abrazar, irse
+\VAR
+\GRAM vt+dir
+\SCI
+\USE
+\SPG 11evar en brazo al lado
+\ENG to carry in one arm on the side
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 me7kx
+\RTGR 1 T3
+\ROOT 2 n@k
+\RTGR 2 11
+\DSRC HAJ95
+\CMTS
+\date 26/Jan/96
+\lex me7kx.pak.pak.w@y
+\_no 01940
+ZOH004R0011001.txt
+\LG MIG
+\PSH [me7kxpakpakw@y-]
+\UND me7kx.pak.pak.w@y
+\MB abrazar, FUERTE, FUERTE, ITER2
+\VAR
+\GRAM VTR
+\SCI
+\USE
+\SPG abrazar duro
+\ENG to hug hard
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT me7kx
+Page 836

@@ -1,0 +1,91 @@
+\zoq 7ax ke yakp@kn@kkoba.
+\fts hasta que se lo lleve (se muere).
+\fte until she's taken away (she dies).
+\com
+\idx
+\ref ZOH001R036 946
+\_no 00929
+\tx GSM: fasil kamotpa
+\mb GSM
+fasil ka7
+bi
+7une
+-mot-pa bi 7une7
+\sg1 GSM: facil morirse-CON -INC DEF nin~o/a
+\eg1 GSM: easy die -WITH-INC DEF child
+\zoq GSM: Fasil kamotpa bi 7une.
+\fts GSM: Tambien se muere la criatura.
+\fte GSM: Of course the baby dies with her.
+\com
+\idx
+\ref ZOH001R036 947
+\_no 00930
+ZOH001R0361001.txt
+OSM: kamotpa
+bi 7une
+ka7
+-mot -pa bi 7une7
+\tx
+\mb OSM
+\sg1 OSM: morirse-CON -INC DEF nin~o/a y
+\egl OSM: die -WITH-INC DEF child
+and
+\ref ZOH001R036 948
+\_no 00931
+\tx n@pin yakp@kkoba
+\mb n@pin7 yak -p@k
+-7oy -ра
+\sgl sangre CAUS-agarrar-ANTIP-INC
+\egl blood CAUS-get
+\ref ZOH001R036 949
+\_no 00932
+\tx ke
+\mb ke 7una bes tzam
+\zoq OSM: Kamotpa bi 7une 7i kapa bi mama.
+\fts OSM: Se muere la criatura y muere la mama*
+\fte OSM: The baby dies and the mother dies.
+\com
+\idx
+-ANTIP-INC
+7una bes tzamma*m
+7i
+7i
+\ref ZOH001R036 950
+\_no 00933
+\zoq N@pin yakp@kkoba.
+\fts Lo mata la almorajia (sangre).
+\fte The blood (placenta? fetus?) kills her.
+\com
+\idx
+kapa
+ka7
+mama
+bi
+-pa bi mama
+morirse-INC DEF mama*
+-INC DEF mother
+\tx
+7inter tum xepenam
+7enteru tum xepe7-nam7
+\mb
+\sg1 entero uno mes -TOD
+bi 7une*7
+-w@ -7am bi 7une7
+\sg1 que una ver sazonarse-COM-YA DEF nin~o/a
+\egl that one see mature
+-COM-NOW DEF child
+die
+\zoq Ke 7una bes tzamma*m bi 7une*7.
+\fts Una vez que ya esta* sazo*n (grande) la criatura.
+\fte One time that the baby is now mature.
+\com
+\idx
+ya yakp@ko
+ya yak -p@k
+NEG
+-7oy -A
+CAUS-agarrar-ANTIP-nINC
+Page 201
+7interu n@nam
+7enteru n@7 -nam7
+entero agua -TOD

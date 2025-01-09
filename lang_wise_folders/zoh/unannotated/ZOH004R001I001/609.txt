@@ -1,0 +1,63 @@
+\VAR
+\GRAM antip
+\SCI
+\USE
+\SPG despulgar
+ENG to delouse
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nuk
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 05/Oct/94
+\lex ko.nu7kx
+\_no 01399
+\LG MIG
+\PSH [konu7kx-]
+\UND ko.nu7kx
+\MB OTRO, arullar
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG desear que le pase algo mal
+\ENG to wish that something bad will happen to someone
+\EXU 7@y+ ko.nu7kx-w@ yakka 7@y+ p@7t.jay-A7 ney-ti7
+\XPSH [7@y konu7kx@_yakk@y p@7tja neyti7.]
+\XSP Le deseo* que le pase algo malo.
+\XEN She wished that something bad would happen to him.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nu7kx
+\RTGR T3
+\DSRC TK94
+\CMTS get deriv's
+\CMTS
+\date 24/Jun/96
+\lex ko.nu7kx.i+i7
+\_no 01400
+\LG MIG
+\PSH [konu7kxi*7]
+\UND ko.nu7kx. E+i7
+\MB OTRO, arullar, NOM7, X
+\VAR
+\GRAM
+\SPG cosa que se deseo*
+\ENG something that you wanted
+\SPL
+ZOH004R0011001.txt
+\SLGR
+\EXU
+\XPSH
+\XSP
+\XEN
+\SYN
+Page 609

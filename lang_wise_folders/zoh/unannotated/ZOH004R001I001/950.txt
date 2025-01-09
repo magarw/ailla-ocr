@@ -1,0 +1,64 @@
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\DATE 09/Aug/02
+\lex nena7
+\_no 02204
+\LG MIG
+\PSH
+\UND
+\MB
+\VAR [ne:na*7] +REL
+\GRAM a/s
+\SCI
+\USE
+\SPG 1 malo
+\SPG 2 persona muy mala
+\SPG 3 fantasma
+\ENG 1 bad
+ENG 2 very bad person
+\ENG 3 ghost
+\EXU jak (ke) nena7
+\XSP muy mala
+\XEN
+\EXU nena' teji.7aH-w@+@7
+\XPSH [nena teji:w@*7]
+\XSP e*1 que esta* desnudo
+\XEN a naked person
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-GL
+\date 25/Jun/96
+-
+\lex nena' jente
+\_no 02205
+\LG MIG
+\PSH [nena jente]
+\UND nena7 jente
+\MB malo, gente
+\VAR
+\GRAM a (m) s
+\XEN
+\SYN
+bien; CK-PH; MAR has /nena7/
+\SCI
+\USE
+\SPG persona mala
+\ENG a bad person
+\EXU
+\XSP
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 25/Jun/96
+\lex nena' p@n
+\_no 02206
+ZOH004R0011001.txt
+Page 950

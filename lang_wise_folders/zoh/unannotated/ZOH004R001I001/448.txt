@@ -1,0 +1,63 @@
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT j@7t
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex j@7t-wit
+\_no 01021
+\LG MIG
+\PSH [j@7twit-]
+\UND j@7t=wit
+\MB regar_ri*o, andar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG andar flotando
+\ENG to float
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 ja7t
+\RTGR 1 12
+\ROOT 2 wit
+\RTGR 2 11
+\DSRC HAJ95
+\CMTS
+\date 09/Jul/95
+\lex j@tz
+\_no 01022
+\LG Mig
+\PSH
+\UND jatz
+\MB
+\VAR
+\GRAM vi
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG hacer masa para pollo
+\ENG to make corn mush for the chickens
+\EXU 1 piyu' j@tz-wa
+\XPSH 1 [Piyu jatztz@.]
+\XSP 1 Hizo masa para pollo.
+\XEN 1 She fixed corn mush for the chickens.
+\EXU 2 d@ piyu-j@tz.jay-pa
+\XPSH 2 [D@ piyuj@tzjaba.]
+\XSP 2 Hago masa para la gallina.
+\XEN 2 I'm making corn mush for the chickens.
+\EXU 3 da j@tz-mux-pa
+\XPSH 3 [D@ jatzmuxpa.]
+\XSP 3 si*, puedo hacerles masa.
+\XEN 3 Yes, I can make the corn mush for the chickens.
+Page 448

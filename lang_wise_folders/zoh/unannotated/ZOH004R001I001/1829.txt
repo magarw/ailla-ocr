@@ -1,0 +1,63 @@
+\GRAM Vi
+\SCI
+\USE
+\SPG levantar (algo) encima del ri*o
+\ENG for something to rise up to the surface of the water
+\SPL
+\SLGR
+\EXU yuk.j@7t-wa na' 7@y+ tzap-ji-7
+\XPSH [Yukj@7tt@_n@y tzapji7.]
+\XSP Levanto* encima del agua; floto*.
+\XEN It rose up to the top of the water; it floated.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT j@7t
+\RTGR 12
+\DSRC HAJ95
+\CMTS ANALYZE EX HAJ:96 ok
+\date 20/Jun/96
+\lex yuk.j@y
+\_no 04258
+\LG MIG
+\PSH [yukj@y-]
+\UND yuk.j@y
+\MB ARR, 11orar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG chillar; llorar
+\ENG to scream; to cry
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jay
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 17/Jun/95
+\lex yuk. kap
+\_no 04259
+\LG MIG
+\PSH [yukkap-]
+\UND yuk.kap
+ZOH004R0011001.txt
+\MB ARR, cargar_en_hombro
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG levantar y echar en el hombro
+\ENG to lift up and throw over your shoulder
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+Page 1829

@@ -1,0 +1,63 @@
+\PSH [kuywo7k-]
+\UND kuy=wo7k
+\MB palo, raspar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG cepillar madera
+\ENG to plane wood
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT WO7k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 21/Oct/94
+\lex kuy-wotz. 7anh
+\_no 01630
+\LG MIG
+\PSH [kuywotz7anh]
+\UND kuy=wotz. 7anh
+\MB palo, aserrar, NOM8
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG aserri*n
+\ENG sawdust
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wotz
+\RTGR T1
+\DSRC TK94
+\CMTS
+\date 11/Jan/96
+\lex kuy=w@7tz.naanh
+\_no 01631
+\LG MIG
+\PHO [kuyw@7tzna*nh]
+\UND kuy=w@7tz.naanh
+\MB palo, rechinar, MED
+\VAR
+\GRAM meas
+\SPG una rechinada de palo
+\ENG one squeak of wood
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT w@7tz
+\RTGR 12
+ZOH004R0011001.txt
+Page 705

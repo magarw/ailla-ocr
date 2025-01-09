@@ -1,0 +1,63 @@
+XPSH 3 [D@ sintape7tmaxx@.]
+\XSP 3 Teji* mal la cinta. (se descompuso)
+\XEN 3 I wove the strip badly. (it fell apart)
+\EXU 4 d@+ pe7t=witu'-w@
+\XPSH 4 [D@ pe7twituw@.]
+\XSP 4 Lo teji* de nuevo.
+\XEN 4 I wove it again.
+\SYN
+\SEMF arrange
+\ASP activity
+\ARG
+\NOM pe't.e7, pe7t.kuy7
+\SUB ko.pe7t
+\ETYM
+\ETL
+\ROOT pe7t
+\RTGR P, (T3)
+\DSRC TK94
+\CMTS antip
+\CMTS pass
+\CMTS assum1
+\date 03/Jan/80
+\DATE 09/Aug/02
+\lex pe7t.kuy7
+\_no 02609
+\LG MIG
+\PHO [pe7tkuy7]
+\UND pe7t.kuy7
+\MB tejer, INSTR1
+\VAR
+\GRAM instrl
+\SPG en donde esta*n tejiendo palma
+\ENG a place where they're weaving palm
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT pe7t
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex pe7t.naanh
+\_no 02610
+LG MIG
+\PHO [pe7tna*nh]
+\UND pe7t.naanh
+\MB tejer, MED
+\VAR
+ZOH004R0011001.txt
+\GRAM meas
+\SPG tener puesto las cortas de palma en una tejida
+ENG to have the pieces of palm set in one weaving step
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT pe7t
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+Page 1123

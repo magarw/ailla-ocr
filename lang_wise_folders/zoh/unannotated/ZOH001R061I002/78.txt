@@ -1,0 +1,62 @@
+\SPG pegar con el pun~o; golpear
+ENG to hit with the fist
+\ENG 2 They're making tortillas (like at a big party).
+\SEMF hit
+\ASP achievement
+\ARG agent, patient
+\NOM tzanh.kuy7, tzanh.naanh, tzaw.e7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tzatz
+\_no 00316
+\SPG rajar (como papel)
+\ENG to tear in strips (like paper)
+\SEMF break
+\ASP achievement
+\ARG
+\NOM tzatz.e7, tzatz.neenh
+\NOM * kuy7
+\RTGR T3
+\POS 7@n 7awin d@ tzatzjayy@n toto
+\MID
+\UNDO NO
+\CLZ
+\CMTS
+\SEMF cognitive
+\ASP state
+\lex tzaxx@
+\_no 00317
+\SPG tener verguenza; ruborizarse; apenarse
+\ENG to feel shame; to blush
+\ARG
+\NOM tzaxx@.kuy7, tzaxx@.i
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\lex tze7k
+\_no 00318
+\SPG pedir
+\ENG to ask
+\SEMF speak
+\ASP achievement
+\ARG
+\NOM tze'k.e7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+mi hermano me rajo* mi papel
+\lex tzem (1)
+\_no 00319
+\SPG desafiar; provocar; atropellar para pelear; pegar
+Page 78

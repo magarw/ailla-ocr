@@ -1,0 +1,94 @@
+ZOH001R0601001.txt
+\fts me dijeron por donde vas y les dije me voy al/para el parque
+\fte they said to me where are you going and I said to them I'm going to the park
+\ref 004
+\_no 00005
+jum
+n@kpa 7i
+ju7 -7@m n@k -pa 71
+donde-2A irse-INC y
+\egl 1A say -APPL-3PL-COM where-2A go -INC and 1E say -APPL-3PL-COM
+\tx da namjaxukk@
+d@
+\mb da nam -jay -xuk-w@
+sgl 1A decir-APPL-3PL-COM
+\tx da n@kpa
+\mb da nak -pa
+\sgl 1A irse-INC
+juxtix7anhj@7
+juxtixa -7anhj@7
+autoridad-DIR5
+\egl 1A go -INC authority-DIR5
+\fts me dijeron por donde vas y les dije me voy al presidencia
+\fte they said to me where are you going and I said to them I'm going to the
+mayor's office
+\com
+\idx
+\ref 005
+\_no 00006
+\tx d@ n@mjaxukk@
+7axta ju
+71
+\mb da nam -jay -xuk-w@ 7axta ju7
+\sgl 1A decir-APPL-3PL-COM hasta donde 2E
+\egl 1A say -APPL-3PL-COM until where 2E MOUTH-nail -INC and 1E
+-pa 7i
+BOCA -clavar-INC y
+1E
+\ref 006
+\_no 00007
+\tx n@mjaxukk@
+d@x d@ 7anhpajpa
+\mb n@m-jay -xuk-w@ d@x d@ 7anh -paj
+\sg1 decir-APPL-3PL-COM 1Prn 1A BOCA -clavar-INC
+-pa
+7axta kotz@k kat@kja
+7axta kotzak k@t@kj@7
+hasta cerro junto_a
+\egl say -APPL-3PL-COM 1Prn 1A MOUTH-nail -INC until hill beside
+\tx d@ 7onhtzekxukk@
+\mb d@ 7onhtze7k-xuk-w@
+\fts me dijeron hasta donde vas a cercar y les dije yo voy a cercar hasta
+alla* pegado al cerro
+\fte they said to me up to where are you going to fence and I said to them
+I'm going to fence up to just under the hills
+\com
+\idx
+\sg1 1A pedir
+\egl 1A ask
+jut@nanh
+jut@nanh
+7@n n@mjaxukk@
+7@n nam -jay -xuk-w@
+decir-APPL-3PL-COM
+1E
+7@m 7anhpajpa
+7@m 7anh -paj
+-3PL-COM por_donde
+-3PL-COM whereabouts
+\com
+\idx
+\ref 007
+\tx n@mjaxukk@
+d@x gaja
+\mb n@m-jay -xuk-w@ d@x ka -ja7
+\sg1 decir-APPL-3PL-COM 1Prn DCT3-Loc1
+\egl say -APPL-3PL-COM 1Prn DCT3-LOC1 road -LOC2
+n@kpam
+yoxx@
+n@k -pa -7am yox
+irse-INC-YA
+go -INC-NOW work
+tunhjo7
+tunh -jo7
+camino-Loc2
+7@n
+7@n
+Page 2
+7i 7@n
+-wa 7i 7@n
+trabajar-dINC y 1E
+-dINC and 1E
+\fts me pregunto* por donde vas a trabajar y les dije alla* en el camino
+\fte they asked me where are you going to work and I said to them there in
+the road

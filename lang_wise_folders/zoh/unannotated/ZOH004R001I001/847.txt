@@ -1,0 +1,64 @@
+\LG MIG
+\PSH
+\UND min
+\MB venir
+\VAR
+\USE auxiliary verb that can appear either before or after the inflected
+main verb, in a dependent verb construction
+\GRAM aux
+\SPG venir
+\ENG to come
+\SPL
+\SLGR
+\EXU 1 min-pa 7@y+ yak.tzam-w@ bi 7anh.p@n
+\XPSH 1 [Minpay yaktzamm@ bi 7anhp@n.]
+\XSP 1 viene a platicar el idioma.
+\XEN 1 He came to speak zoque.
+\EXU 2 de.7 min-w@ 7@y+ 7anh.wit=tzonh-xuk-E
+\XPSH 2 [De7 minn@y 7anhwittzonhxuki.]
+\XSP 2 Esos vinieron a visitar.
+\XEN 2 They came to visit.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS min- does not appear after the main verb in the text corpus, but
+speakers accept such constructions in elicitation sessions.
+\CMTS if we're going to treat =min (dHITHER) as a separate morpheme,
+we might as well break them all out
+\date
+\lex miskiti7
+\_no 01965
+\LG MIG
+\PSH
+\UND miskiti7
+\MB
+\VAR miskiti' kuy
+\GRAM S
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG (palo de) mezquite
+\ENG mesquite
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex mi7tz
+\_no 01966
+\LG MIG
+\PSH
+\UND mi7tz
+\MB
+\VAR
+\GRAM vt
+LF: kuy
+Page 847

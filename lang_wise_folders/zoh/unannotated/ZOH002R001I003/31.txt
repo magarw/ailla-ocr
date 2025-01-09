@@ -1,0 +1,30 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+1.4. Presentation of data
+Most of the supporting data in this book is presented in four lines, as
+shown in the example below.
+(1.1)
+dey 7øn tzampa tum 'istorya
+de.y
+'øn+ tzam-pa tum 'istorya
+DCT2.TMP 1E+ platicar-INC uno historia
+'Ya les voy a platicar una historia.'
+(ZOH001 R006-001)
+The first line is a direct transcription of the expression that shows any
+elisions or contractions that were pronounced, using the standard orthography
+for MixeZoquean languages (see Appendix G). The second line is a morphemic
+representation of the first, in which underlying forms are given for each
+morpheme. The third line provides glosses for each morpheme. (A complete
+list of morpheme glosses is given on page iv.) The fourth line is a free
+translation of the expression. Exceptions occur when the example consists of a
+single morpheme, in which case the breakdown line would be superfluous.
+Most of the examples were drawn from texts, not elicited specifically to
+illustrate grammatical points. The part of the example that corresponds to the
+topic under discussion will be written in bold-face type as an aid to the reader.
+So, if example (1.1) were part of the discussion of time deictics, the first word,
+dey 'now', would have been bold-faced.
+The following symbols are used to separate morphemes. When a bound
+morpheme is mentioned in the text, it is preceded or followed by the
+appropriate symbol. Verb roots are conventionally indicated with a following
+hyphen, although they can take affixes on either side; for example, nøk- 'to
+walk.'
+7

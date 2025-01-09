@@ -1,0 +1,95 @@
+\tx mi nukpa
+\mb mi nuk
+-pa
+\sg1 3>2 agarrar-INC
+\egl 3>2 grab
+\zoq mi nukpa komo 7antes n@nti dokto*r.
+\fts te agarra como antes no hay doctor.
+\fte it gets you like before there wasn't a doctor.
+\com
+\idx
+\ref ZOH001R036 593
+\_no 00583
+\tx n@nti
+\mb n@nti
+komo 7antes n@nti
+komo 7antes n@nti
+como 7antes no_hay
+dokto*r
+dokto*r
+doctor
+-INC like before there isn't doctor
+dokto*r 7antes
+dokto*r 7antes
+\sg1 no_hay
+doctor 7antes
+\egl there isn't doctor before
+\com
+\idx
+\zoq N@nti dokto*r 7antes.
+\fts No hay doctor antes.
+\fte There wasn't a doctor before.
+\ref ZOH001R036 594
+\_no 00584
+\tx de
+\mb te -7
+\tx d@x 7ora
+\mb d@x 7ora rrancho d@ pa7t
+\sgl 1prn ahora
+\egl 1prn now
+dejenanh
+-7@m -pa
+te -j@nanh
+rancho 1A encontrar-PAS -INC DCT2-DIR1
+rancho 1A find
+-PASS-INC DCT2-DIR1
+rrancho d@ pa7tt@mpa
+ZOH001R0361001.txt
+waykay
+waykay
+toya
+toy -A7
+\sgl DCT2-NOM1 palodismo doler-NOM2
+\eg1 DCT2-NOM1 malaria hurt -NOM2
+\ref ZOH001R036 596
+\_no 00585
+\tx
+meru
+komo ya
+7ora
+7ora
+\mb meru
+komo ya -7
+\sg1 mero
+como DCT1-NOM1 ahora
+\egl exactly like DCT1-NOM1 now
+\com de di*a, in the morning.
+\idx
+\ref ZOH001R036 597
+\_no 00586
+\zoq Dax 7ora rrancho d@ pa7tt@mpa dejenanh d@ nukk@ de waykay toya.
+fts Entonces yo estaba en el rancho me encuentro por ahi*
+\fte when I found myself on a rancho there it grabbed me that malaria.
+\com
+\idx
+\zoq Meru komo y@ 7ora 7okmanhpa.
+\fts Mero a esta hora empieza.
+\fte Just about at this hour it started.
+7okmanhpa
+7okmanh-pa
+empezar-INC
+begin - INC
+\tx ya
+7ora 7okmanhpa waykay toya
+7ora 7okmanh-pa waykay toy -A7
+\mb ya -7
+\sg1 DCT1-NOM1 ahora empezar-INC palodismo doler-NOM2
+\eg1 DCT1-NOM1 now begin -INC malaria hurt -NOM2
+\zoq Y@ 7ora 7okmanhpa waykay toya.
+d@ nukk@
+d@ nuk
+Page 127
+-wa
+1A agarrar-COM
+1A grab
+-COM

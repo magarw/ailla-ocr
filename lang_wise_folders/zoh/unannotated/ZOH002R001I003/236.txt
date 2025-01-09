@@ -1,0 +1,50 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(v)
+(8.19)
+(i)
+When a verb compound construction is negated, it is the action denoted
+by V2 that is negated, not that denoted by V1. In example (8.19 i), Roberto
+comes but doesn't bring the paper. In (ii), my mother washed the clothes, but
+without my help. The translations for the rest of the examples clarify which
+part of the complex action is negated.
+(ii)
+(iii)
+(iv)
+dø kaj'uktukkø
+də+ [kahwe=?uk]=tuk-wə
+1A+ [café=tomar]=terminarse-COM
+'Acabé de tomar mi café.'
+(v)
+rroberto yay pøkminnøn toto'
+rroberto ya ?əy+ pək-min-wǝ
+?ǝn+ toto?
+roberto NEG 3E+ agarrar=venir-COM 1E+ papel
+'Roberto no lleva mi papel (pero sí vino).'
+(ZOH001 RO10-162)
+yan tzekotzongngø 'øn mama bi yote'
+ya ?ǝn+ ce?=ko.coŋ-wǝ
+?ən+ mama bi yote?
+NEG 1E+ lavar=SOC.unir-COM 1E+ madre DEF ropa
+'No ayudé á mi mama lavar la ropa (pero la lavó ella).'
+ya tzangwangkawo
+ya ?ǝy+ caŋ=waŋka-wǝ
+NEG 3E+ pegar_c_puño=voltearse-COM
+'No le volteó de un puñazo (pero sí le pegó).'
+ya dø witpotztzø
+ya də+ wit=poc-we
+NEG 1A+ andar=cansarse-COM
+'No me cansé caminando (pero sí caminé).'
+221
+(elicited)
+(elicited)
+chik ja:y'unedøkka yay tzijno'tztzø bi limeta
+čik haya=?une?+dǝkkay ya ?ay+ cih=no?c-wə
+chico macho=niño+NPL
+bi
+limeta
+NEG 3E+ tirar_piedra-quebrar-COM DEF botella
+'Los muchachos no rompieron la botella de pedrada
+(pero sí tiraron las piedras).'
+(elicited)
+(elicited)
+(elicited)

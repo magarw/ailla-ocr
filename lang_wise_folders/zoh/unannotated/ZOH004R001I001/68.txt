@@ -1,0 +1,63 @@
+\ENG to cover
+\SPL
+\SLGR
+\EXU 1 7anh-pix-@7
+\XPSH 1 [7anhpix@7!]
+\XSP 1 !Tapalo!
+\XEN 1 Cover it!
+\EXU 2_7anh-pix-@7 de xutu7
+\XPSH 2 [7anhpix@7 de xutu7!]
+\XSP 2 !Tapa el hueco!
+\XEN 2 Cover the hole!
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pix
+\RTGR IX
+\DSRC HAJ95
+\CMTS this is stopper that goes inside the bottle or whatever
+\date 11/Feb/96
+\lex 7anh-pix [2]
+\_no 00160
+\LG MIG
+\PSH [7anhpix]
+\UND 7anh-pix.0
+\MB BOCA, sentir_comezo*n, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG tapo*n
+\ENG plug
+\EXU limeta 7anh-pix
+\XSP un tapo*n de botella
+\XEN bottle stopper
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pix
+\RTGR IX
+\DSRC HAJ94
+\CMTS a stopper that goes inside the bottle, contrast w/ 7anh-jap
+\date 12/Feb/96
+\lex 7anh-pu'
+\_no 00161
+\LG MIG
+\PSH [7anhpu-]
+\UND 7anh-pu7
+\MB BOCA, salir_pus
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG estilar de pus por poquito
+\ENG to ooze a little pus
+\EXU
+ZOH004R0011001.txt
+\XSP
+\XEN
+\SYN
+\SEMF
+Page 68

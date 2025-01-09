@@ -1,0 +1,66 @@
+(218) ¿Jatumal, meeb'a, jatumal?
+dónde
+huérfano dónde
+'¿Dónde están, huérfano, dónde?'
+mariimp
+A3s-SR:COM=siempre marimba
+'Se fue con la marimba.'
+(220) N=0=ku’
+neej
+meeb'a t-uuk'a=x
+INC=B3s-DIR adelantarse huérfano A3s-SR:COM=siempre
+t-uuk'
+mariimp.
+A3s-SR:COM marimba
+'Se adelantó el huérfano con la abuelita y la marimba.'
+t-ki-'n=tl
+(219) T-uuk'a=x
+(221) T-xi
+A3s-DIR
+'Y cuándo miró la abuelita,'
+(222) luu-qa
+kab' masaat
+estar.allá=PL dos venado
+'allá estaban dos venados'
+(223) ky-kii-n=x
+A3s-mirar-SD=otro
+A3p-mirar-AP=siempre
+'que se miraban’
+(224) xhliiky-j
+t-xi ky-wi'
+t-uj
+AFEC:germinado=DEM A3s-ir A3p-cabeza A3s-SR:en
+'que habían salido en el corral.”
+(225) T-xi
+t-ki-’n=tl
+A3s=DIR A3s-mirar-SD-otro
+'Y cuándo vió el huérfano,'
+(226) xhliky-le=qe'
+(227) t-xi
+t-aa’lan
+meeb'a,
+germinados-PSL=B3p A3s-animal huérfano
+'estaban salidos sus animales,'
+t-ki-'n
+yaa'y-aj,
+A3s-DIR A3s-mirar-SD abuela-INAL
+'cuándo vió la abuelita,'
+t-ok.
+A3s-entrar
+(228) xhliky-le-qe'
+yaa'y-j,
+abuela-INAL
+(229) Entoons n=0=tzaaj,
+t-aa’lan
+meeb'a.
+germinados-PSL =B3p A3s-animal huérfano
+'estaban salidos los animales del huérfano."
+entonces INC=B3s=venir
+'Entonces vino,'
+meeb'a,
+huérfano
+21
+yaa'ya
+abuela
+ky-koraal.
+A3p-corral

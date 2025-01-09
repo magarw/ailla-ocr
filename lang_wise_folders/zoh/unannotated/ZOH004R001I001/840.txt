@@ -1,0 +1,63 @@
+\GRAM
+\SCI
+\USE
+\SPG nacer entre dos
+\ENG to be born as twins
+\EXU 1 metz-a-'anh po-w@+@7
+\XPSH [metzanhpow@*7]
+\SPG 1 gemelo, los que nacieron entre dos
+\ENG 1 twin
+\EXU 2 metz-a-7anh-po7-wa
+\XPSH 2 [Metzanhpow@.]
+\XSP 2 Nacieron gemelos.
+\XEN 2 They were born twins.
+\SYN kwachi
+\SEMF
+\ETYM
+\ETL
+\ROOT po
+\RTGR 12
+\DSRC HAJ94
+\CMTS CK-PH - ok; No, but TK fixed it
+\date 25/Jun/96
+\lex metz-a-'anh
+\_no 01949
+\LG MIG
+\PSH [metza*nh]
+\UND metz-a-7anh
+\MB
+\VAR
+\GRAM num
+\SCI
+\USE
+\SPG dos
+\ENG two
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex metz-ji7
+\_no 01950
+\LG MIG
+\PSH [metzji7]
+\UND metz-ji7
+\MB
+ZOH004R0011001.txt
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG los dos
+\ENG the two
+\EXU
+\XSP
+\XEN
+\SYN
+Page 840

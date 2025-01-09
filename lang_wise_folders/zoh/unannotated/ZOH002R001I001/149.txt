@@ -1,0 +1,44 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+6.2.4. Cross-referencing via the plural suffixes
+The plural suffixes can refer to any core argument. The choice seems to
+be related to discourse considerations such
+such as
+as topicality rather than
+grammatical restrictions. Following are examples of a plural suffix cross-
+referencing actor (i, ii), undergoer (iii, iv), recipient (v, vi), and causee (vii).
+(6.13)
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+bi 'angkimmobá' pøn yampan 'angtze'kjadammø
+bi ?aŋ.kim.?oy-pa+V?k
+pøn yampa ?ən+ ?aŋce?k.hay-tam-we
+DEF MOUTH.go_up.ANTIP-INC-REL man nPERF 1E+ ask.APPL-1/2PL-COM
+'We haven't asked the boss.'
+do wejjaxukkø
+də+ weh.hay-šuk-wə
+1A+ shout.APPL-3PL-COM
+'They called me.'
+døx 'øn manakdøkka 'øn tøxukpa jemji
+dəš ?ən+ manak+dǝkkay ?ən+ tə?-šuk-pa
+1 Prn 1E+ child+NPL
+'I love all my children.'
+'øyaóng tzønpa komo ke ya dø 'ixpøktamə
+?ǝya+hooŋ 0 cən-pa komo ke ya də+ ?iš=pək-tam-A
+other+DIR4 3A sit-INC how that NEG 1A+ see=get-1/2PL-nINC
+'He sits on the other side as if he doesn't know us.'
+mix 'ayudtzøktamø
+miš
+(ZOH001R010- 625)
+Payudar=cək-tam-A?
+2>1+ help=make-1/2PL-IMPV
+'Help us.' (addressee is one person, Satornino)
+(ZOH001R025-070)
+124
+(ZOH001R019-014)
+1E+ want-3PL-INC all
+hemhi
+(ZOH001R056- 049)
+(ZOH001R025-074)

@@ -1,0 +1,64 @@
+\SPL t@7kx.7oy
+\SLGR ANTIP
+\SLGL quebrar // to break
+\SPL t@7kx.7@m
+\SLGR PASS
+\SLGL destriparse // to be peeled
+\SPL t@7kx.ney
+\SLGR ASSUM1
+\SLGL tener destripado
+\EXU 7@y+ t@7kx-w@ pojo7k
+\XPSH [7@y t@7kx@ pojo7k.]
+\XSP Destripo* el huevo.
+\XEN She peeled the egg.
+\SYN
+\SEMF cut
+\ASP accomplishment
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT t@7kx
+\RTGR P (T3)
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex t@nh
+\_no 00167
+\LG MIG
+\PSH
+\UND t@nh
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG cortar, con una machete o fierro
+\ENG to cut, with a machete or iron tool
+\SPL t@nh.7oy
+\SLGR ANTIP
+\SLGL cortar // to cut
+SPL t@nh.7@m
+\SLGR PASS
+\SLGL cortarse // to be cut
+\SPL t@nh.ten
+ZOH001R0611006.txt
+\SLGR PRSV
+\SLGL tener cortado // to have something cut
+\EXU 7@y+ t@nh.ten-w@
+\XPSH [7@y t@nhtenn@.]
+\XSP Lo tiene cortado.
+\XEN He had it all cut.
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF cut
+\ASP activity, achievement
+\ARG instrument
+\NOM t@nh.kuy7, t@w.i7, y@k.t@nh, t@nh. 'oy.kuy7, t@nh.naanh
+\NOM t@nh.kuy7=7uy. 'oy.kuy7
+\SUB 7ok.t@nh. '@y, jo.t@nh, ko.t@nh, kuk.t@nh, t@nh-muk, t@nh-tuk,
+\SUB t@nh-tzonh, t@nh-wanak
+Page 113

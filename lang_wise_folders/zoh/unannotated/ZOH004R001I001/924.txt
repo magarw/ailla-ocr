@@ -1,0 +1,63 @@
+\lex nanh=katzu7
+\_no 02142
+\LG MIG
+\PSH [nanhkatzu7]
+\UND nanh-katzu7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG cinco negritos
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\lex nanh.naanh
+\_no 02143
+\LG MIG
+\PHO [nanhna*nh]
+\UND nanh.naanh
+\MB regar, MED
+\VAR
+LF: kuy
+\GRAM meas
+\SPG una regadita
+\ENG a toss of whatever you're spreading on the ground
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT nanh
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex nanh.'oy.kuy7
+\_no 02144
+\LG MIG
+\PHO [nanhnhokuy7]
+\UND nanh.7oy.kuy7
+\MB regar, ANTIP, INSTR1
+\VAR
+\GRAM instr1
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SPG cosa para regar cosas como arena
+\ENG a tool for spreading things like sand
+\EX
+\XSP
+\ROOT nanh
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+Page 924

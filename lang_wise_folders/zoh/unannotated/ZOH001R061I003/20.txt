@@ -1,0 +1,62 @@
+\VAR
+\GRAM meas
+\SPG apretada
+\ENG squeeze
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT pen
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex pe7t.naanh
+\_no 00056
+\LG MIG
+\PHO [pe7tna*nh]
+\UND pe7t.naanh
+\MB tejer, MED
+\VAR
+\GRAM meas
+\SPG tener puesto las cortas de palma en una tejida
+\ENG to have the pieces of palm set in one weaving step
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT pe7t
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex pikx.naanh
+\_no 00057
+\LG MIG
+\PHO [pikxna*nh]
+\UND pikx.naanh
+\MB tocar, MED1
+\VAR
+\GRAM meas
+\SPG tocar
+\ENG to knock
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT pikx
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+ZOH001R0611003.txt
+\lex pinh.naanh
+\_no 00058
+\LG MIG
+\PHO [pinhna*nh]
+\UND pinh.naanh
+\MB pepenar, MED
+\VAR
+\GRAM meas
+\SPG una sola vez recogio* algo, una sola cosa
+Page 20

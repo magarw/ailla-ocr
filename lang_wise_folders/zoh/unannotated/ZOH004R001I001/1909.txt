@@ -1,0 +1,62 @@
+\lex {+j@nanh}
+\_no 04445
+\LG MIG
+\PSH
+\UND
+\MB ACC
+\VAR
+\GRAM cas
+\SCI
+\USE postposition: instrument or accompaniment
+\SPG con
+\ENG with
+\SPL
+\SLGR
+\EXU ya.j@nanh yakki ya mi+ tzi-A
+\XPSH [Y@j@nanh´ yakkiya mi tzi.]
+\XSP Con este, nadie no te pega.
+\XEN with this, no one will hit you.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 03/Jan/80
+\lex {j@x.}
+\_no 04446
+LG MIG
+\PSH
+\UND jax
+\MB ATRAS
+\VAR
+\GRAM pre
+\SCI
+\USE verbal prefix recruited from nouns
+\SPG *atras > afuera
+\ENG *back > out
+\SPL
+\SLGR
+\EXU 7@y+ jax.jup-wa
+\XPSH [7@y j@xjuppa.]
+ZOH004R0011001.txt
+\XSP Lo saco* jalandolo.
+\XEN She got it out by pulling on it.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 11/Feb/96
+\lex {+j@}
+\_no 04447
+\LG MIG
+\PHO
+\UND ja
+\MB LOC1
+\VAR used only with deictics
+\GRAM av
+Page 1909

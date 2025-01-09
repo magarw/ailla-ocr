@@ -1,0 +1,63 @@
+\PSH [j@y@7]
+\UND jay.A7
+\MB X, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG flor
+\ENG flower
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex jay@' kuy+jo+v7k
+\_no 01121
+\LG MIG
+\PSH [jaya kuyjo*7]
+\UND jay@7 kuy=jo'=v7k
+\MB flor, palo, LOC2, REL
+\VAR kuyjo7k jay@7
+\GRAM SS
+\SCI
+\USE
+\SPG flor del campo
+\ENG wildflower
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS CK-all- ok HAJ:96. The same stress/-k alternation that we always get
+\date 18/Jun/96
+\lex jay@' mu7k-pa+a7k jon
+\_no 01122
+\LG MIG
+\PSH [jay@ mu7kpa*7k jon]
+\UND jay@7 mu7k-pa +P@7k jon
+\MB flor, chupar, INC, REL, pa*jaro
+\VAR jay@ mu7k.pa7k
+\GRAM agt1
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG chupaflor; chuparosa
+\ENG hummingbird
+\EXU
+\XSP
+\XEN
+\SYN
+Page 490

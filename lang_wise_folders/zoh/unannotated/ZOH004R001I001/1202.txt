@@ -1,0 +1,62 @@
+\CMTS
+\date 03/Jan/80
+\lex punta
+\_no 02792
+\LG MIG
+\PSH
+\UND punta
+\MB
+\VAR
+\GRAM
+SCI
+\USE
+\SPG punta
+\ENG point
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC TK94
+\CMTS
+\date 16/Oct/94
+\lex pun. @7
+\_no 02793
+\LG MIG
+\PSH [pun@7]
+\UND pun.A7
+\MB echar_goma, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG goma
+\ENG gum; sap
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pun
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 08/Feb/96
+\lex punh
+\_no 02794
+\LG MIG
+\PSH
+\UND punh
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG regar
+ZOH004R0011001.txt
+Page 1202

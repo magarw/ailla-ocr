@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG hacerse tierno
+\ENG to become tender
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex yaw.a'=tuk
+\_no 04122
+\LG MIG
+\PSH [yawatuk-]
+\UND yaw.A7=tuk
+\MB X, NOM2, terminarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG ponerse tierno
+\ENG to turn tender
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tuk
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex yaw.a'=tz@k
+\_no 04123
+\LG MIG
+\PSH [yawatz@k-]
+\UND yaw.A7=tz@k
+\MB X, NOM2, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer tierno
+\ENG to make tender
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+Page 1771

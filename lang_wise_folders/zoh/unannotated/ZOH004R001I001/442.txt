@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH; I have this on slip somewhere
+\date 24/Jun/96
+\lex japa7k jay@7
+\_no 01008
+\LG MIG
+\PSH
+\UND j@pa7k_jay@7
+\MB olote, flor
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG flor de olote
+\ENG cornflower
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 21/Jun/95
+\lex j@p+jo+7k=t@nh.kuy7
+\_no 01009
+\LG MIG
+\PSH [j@pjo7kt@nhkuy7]
+\UND jap+jo+7k-t@nh. kuy7
+\MB boca, EN, REL, cortar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG freno (de caballo)
+\ENG bit (of a horse)
+\SPL
+ZOH004R0011001.txt
+\SLGR
+\EXU bejcha 7@y+ j@p+jo+7k-t@nh.kuy7
+\XPSH_[bejchay japjo7kt@nhkuy7]
+\XSP freno de caballo
+\XEN horse's bit
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT t@nh
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+sounds ok; OK/TK
+Page 442

@@ -1,0 +1,80 @@
+\_no 00004
+\tx yanhmak jejpa
+\mb yanhmak jej -pa
+\sg1 huerfano vivir-INC 3E
+\egl orphan
+\not
+\idx
+\not
+\idx
+7@y m@
+7@y m@7
+live -INC 3E wife
+\zoq Yanhmak jejpa 7@y m@j@nanh.
+fts vive muy hue*rfano con su esposa.
+\fte He lives very poorly with his wife.
+\com
+\idx
+\ref ZOH001R020 004
+\_no 00005
+\tx pero tum ponh 7une
+\mb
+pero tum ponh 7une7
+\sg1 pero uno vez
+\egl but one time child NPL
+nin~o/a NPL
+\ref ZOH001R020 005
+\_no 00006
+\not
+\idx
+ZOH001R0201001.txt
+esposa DIR1
+DIR1
+jananh
+j@nanh
+d@kkay pa7tt@
+d@kkay pa7t
+\zoq Pero tum ponh 7uned@kkay pa7tt@ mea7aka.
+\fts Pero una vez unos nin~os encontraron la orilla del mar.
+\fte But one time he found some boys at the edge of the sea.
+\com
+\idx
+\not
+\idx aux_p1, vseq_cmp
+\zoq N@mm@y nakxjonhxukk@.
+\fts Lo estaban garroteando.
+\fte They were beating it.
+\com
+\idx
+mea 7aka
+mea 7aka
+encontrar-COM mar orilla
+-COM sea edge
+tum tuki
+\tx poejo
+\mb
+poe7 -jo7 tum tuki
+\sg1 arena-Loc2 uno tortuga
+\egl sand -LOC2 one turtle lay_eggs
+find
+jujpa*7
+juj
+-wa
+\zoq Poejo7 tum tuki jujpa*7.
+\fts En la arena una tortuga poniendo huevo.
+\fte A turtle was laying eggs in the sand.
+\com
+\idx
+-pa -v7k
+poner_huevos-INC-REL
+-INC-REL
+\ref ZOH001R020 006
+\_no 00007
+\tx n@mm@ y nakxjonhxukk@
+\mb
+n@mm@ 7@y nakx
+-jonh
+\sg1 PROG 3E pegar_con_palo-atarantarse-3PL-DINC
+\eg1 PROG 3E hit_with_stick-get_dizzy -3PL-dINC
+-xuk-w@
+Page 2

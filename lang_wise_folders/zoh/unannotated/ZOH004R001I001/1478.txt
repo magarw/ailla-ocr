@@ -1,0 +1,64 @@
+\_no 03435
+\LG MIG
+\PSH
+\UND tzum
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG hacerse bastante; (a) juntarse
+ENG to increase; to collect; to preserve
+\SPL yak.tzum
+\SLGR CAUS
+\SLGL juntar; ahorrar // to collect; to save up
+\EXU 1 7@y+ yak.tzum-w@ 7@y+ tzi'-xuk-w@+@7k
+\XPSH 1 [7@y yaktzumm@y tzixukk@*7k.]
+\XSP 1 Aguardo* algo que le dieron.
+\XEN 1 she took care of something that they gave her.
+\EXU 2_7@y+ yak.tzum-pa 7@y+_n@k-w@ 7@y+ jamatin
+\XPSH 2 [7@y yaktzumpay n@kk@y jamatin.]
+\XSP 2 va ajuntado su dinero.
+\XEN 2 He went collecting his money.
+\EXU 3 tzum-w@ 7@y+ jamatin
+\XPSH 3 [Tzumm@y jamatin.]
+\XSP 3 Se hizo bastante su dinero.
+\XEN 3 Her money grew.
+\SYN
+\SEMF pick_up
+\ASP achievement
+\ARG
+\NOM yak.tzum.i7
+\SUB tzum='anh.kuk.'aH
+\ETYM
+\ETL
+\ROOT tzum
+\RTGR 12
+\DSRC TK94
+\CMTS caus2 yak+ tzum
+\CMTS dinero, mazorca, frijol, sus cosasa
+\date 03/Jan/80
+\lex tzum='anh.kuk.'aH
+\_no 03436
+ZOH004R0011001.txt
+\LG MIG
+\PSH [tzummanhkukka-]
+\UND_tzum=7anh.kuk.7aH
+\MB juntarse, BOCA, centro, VERS1
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG ajuntar
+\ENG to collect
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzum
+Page 1478

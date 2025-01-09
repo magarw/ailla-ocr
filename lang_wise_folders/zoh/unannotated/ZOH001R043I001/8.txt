@@ -1,0 +1,89 @@
+\ref ZOH001R043 029
+\_no 00030
+\tx si naxe teji
+\mb si naxe
+teji
+\sg1 si verdad
+hay
+\egl if truth there is a lot
+\ref ZOH001R043 030
+\_no 00031
+\zoq si naxe teji m@jm@ 7@y jente,
+\fts si de verdad tiene bastante gente,
+\fte If he really has all these people,
+\com
+\idx
+Zichi*nh bi
+\tx 7i tum@ mas Zichi*nh bi
+\mb 7i tum@ mas
+\sgl y
+\eg1 and one more little DEF ???
+uno
+mas
+росо
+\ref ZOH001R043 031
+\_no 00032
+\tx_tz@npa*7
+\mb tz@n
+m@jm@ 7@y jente
+m@jm@ 7@y jente
+bastante 3E
+3E
+\zoq 7i tum@ mas 7ichi*nh, bi kwalisyo*n.
+\fts y el otro mas poquito, la qualicio*n.
+\fte and the other fewer, the qualicio*n.
+\com
+\idx
+ZOH001R0431001.txt
+\tx pwes 7el ke teji
+\mb pwes 7el ke
+teji
+\sgl pues el que hay
+mas 3E gente DCT3-NOM1 DEF
+\egl well the that there is more 3E people DCT3-NOM1 DEF
+-pa -v7k
+\sg1 estar_sentado-INC-REL
+\egl sit
+-INC-REL
+\ref ZOH001R043 032
+\_no 00033
+\tx ga
+\mb ka -7
+gente
+people
+\com
+\idx
+kwalisyo*n
+kwalisyo*n
+DEF qualicio*n
+\ref ZOH001R043 033
+\_no 00034
+\tx
+n@mm@
+\mb
+n@m -wa
+\sg1 decir-cCOM DCT3-LOC1
+\zoq Pwes, 7el ke teji mas 7@y jente, ga7 bi tz@npa*7k.
+\fts Pues, el que tiene mas gente, e*1 se va a sentar.
+\fte well, he who has the most people, he's the one that takes office.
+\com
+\idx
+mas 7@y jente
+jente ga
+mas 7@y jente ka -7
+bi p@ktzonhnhoba
+komo juxtixa
+bi p@k -tzonh-7oy -pa komo juxtixa
+\sg1 DCT3-NOM1 DEF agarrar-unir -ANTIP-INC como autoridad
+\eg1 DCT3-NOM1 DEF get
+-join -ANTIP-INC like authority
+\zoq Ga7 bi p@ktzonhnhoba komo juxtixa.
+\fts E*1 va a recibir como autoridad.
+\fte He's the one that will be elected mayor.
+bi
+bi
+gaja
+wajaka 7anhkimmoba*7
+ka -ja7 wajaka 7anh -kim -7oy -pa -v7k
+oaxaca BOCA -subir-ANTIP-INC-REL
+Page 8

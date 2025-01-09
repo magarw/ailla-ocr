@@ -1,0 +1,62 @@
+\CMTS
+\date 11/Jan/96
+\lex j@x-p@7tz.jay
+\_no 01096
+\LG MIG
+\PHO [j@xp@7tzjay-]
+\UND jax-p@7tz.jay
+\MB ATRAS, destripar, APPL
+\VAR
+\GRAM vt:indir
+\SPG destripar
+\ENG to gut
+\EXU 7@y+ j@x-p@7tz.jay-w@ bi puju7k
+\XPSH [7@y j@xp@7tzjayy@ bi puju7k.]
+\XSP Le saco* la tripa.
+\XEN She took out the fish'es intestines.
+\SYN
+\ROOT p@7tz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex j@x.t@k.joonh
+\_no 01097
+\LG MIG
+\PHO [j@xt@kjo*nh]
+\UND jax.tak. joonh
+\MB ATRAS, casa, DIR1
+\VAR
+\USE locative postposition
+\GRAM av
+\SPG atra*s de
+\ENG behind
+\EXU d@ min-w@ maxan=t@k_j@x.t@k.joonh
+\XPSH [D@ minn@ maxant@k j@xt@kjo*nh.]
+\XSP vine de atra*s de la iglesia.
+\XEN I came from behind the church.
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex j@x-tzetz
+\_no 01098
+\LG MIG
+\PSH [j@xtzetz-]
+\UND j@x=tzetz
+\MB ATRAS, labrar
+\VAR
+\GRAM dir+vt
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG tajar
+\ENG to slice
+\EXU 7@y+ j@x=tzetz.jay-w@ 7@y+_naka
+\XPSH [7@y j@xtzetzjayy@y naka.]
+\XSP Saco* labrando la cascara del palo
+\XEN He sliced off its bark.
+\SYN
+\SEMF
+Page 480

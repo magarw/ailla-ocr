@@ -1,0 +1,62 @@
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {%manh}
+\_no 04561
+\LG MIG
+\PHO
+\UND
+\MB
+\VAR
+\GRAM
+\SPG pisar
+\ENG to step
+\EX
+\XSP
+\XEN
+\SYN
+\SEMF move
+\ASP
+\ARG
+\NOM manh.kuy7, 7ok.manh.kuy7, y@k.manh
+\SUB 7ok.manh, manh=naka7tz, manh.ney, manh=p@j.w@y, mạnh=ten,
+\SUB manh.tzik.tzik.w@y, manh=wak.p@*, mạnh=wi7kx, manh=w@nh,
+\SUB_jup-k@.manh. '@y, k@.manh. '@y, manh=katz, manh=woj
+\ROOT * mạnh
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex {%mukx}
+\_no 04562
+\LG MIG
+\PHO
+\UND
+\MB
+\VAR
+\GRAM
+\SPG doblar
+\ENG to fold
+\EX
+\XSP
+\XEN
+\SYN
+\SEMF shape
+\ASP
+\ARG
+\NOM
+\SUB 7an.e=mukx.i, mukx.ney, mukx=wanak
+\ROOT
+\RTGR P
+\DSRC HAJ95
+\CMTS probably
+\date 03/Jan/80
+ZOH004R0011001.txt
+\lex {%m@tz}
+\_no 04563
+\LG MIG
+\PHO
+\UND
+Page 1959

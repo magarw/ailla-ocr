@@ -1,0 +1,64 @@
+\XSP
+\XEN
+\SYN
+\ROOT wa7k
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex wan
+\_no 03559
+\LG MIG
+\PSH
+\UND wan
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG cantar
+\ENG to
+sing
+\SPL wan.7@m
+\SLGR PASS
+\SLGL_cantar (impersonal) // to sing (impersonal)
+\EXU 1 ya wan-a+'am
+\XPSH 1 [Ya wana*m.]
+\XSP 1 Ya no canta.
+\XEN 1 Now he doesn't sing.
+\EXU 2_7@y+ wan-w@ bi kum.kuy'+jo7+k wan.e7
+\XPSH 2 [7@y wann@ bi kumkuyjo7k wane7.]
+\XSP 2 Canto* una cancio*n de su pueblo.
+XEN 2 She sang a song of her village.
+\EXU 3 wan. '@m-w@ bi wan.e' 7@y+ kum.kuy'+jo7
+\XPSH 3 [wann@mm@ bi wane 7@y kumkuyjo7.]
+\XSP 3 Cantaron la cancio*n de su pueblo.
+\XEN 3 Someone sang the song of their village.
+\SYN
+\SEMF speak
+\ASP process
+\ARG patient
+\NOM wan.e7
+\SUB 7ok.wan. '@y, jo.wan, ma.wan
+\ETYM
+\ETL
+\ROOT wan
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex wanaba7
+\_no 03560
+\LG MIG
+ZOH004R0011001.txt
+\PSH
+\UND wanaba7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG guanabana
+\ENG a type of fruit tree
+Page 1530

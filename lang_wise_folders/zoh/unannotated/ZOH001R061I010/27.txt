@@ -1,0 +1,62 @@
+\CMTS can't drop the OBJ? other patients?
+\lex ke7tz
+\_no 00109
+\SPG masticar; mascar
+ENG to chew
+\EX
+\XSP
+\XEN
+\ROOT ke7tz T3
+\SEMF eat
+\PASS ke7tz.7@m
+\ANTI ke7tz.7oy
+\CMTS
+\lex kex
+\_no 00110
+\SPG ponerse picho o crespo
+\ENG to become curly
+\EX 7@y yakkexx@ bi way
+\XSP lo mando* enchinar su cabello
+\XEN she made her hair curly
+\ROOT kex 12
+\SEMF body
+\CAUS yak.kex mandar enchinar el cabello
+\CMTS
+\lex kim
+\_no 00111
+\SPG subir (+ aluso sexual); "pisar"; "picar"
+\ENG to mount (+ sexual reference)
+\EX
+\XSP
+\XEN
+\ROOT kim T1
+\SEMF motion, sex
+\CMTS
+\lex ki7px
+\_no 00112
+\SPG probar
+\ENG to taste
+\EX
+\XSP
+\XEN
+ZOH001R0611010.txt
+\ROOT ki7px Tx
+\CMTS
+\lex kit
+\_no 00113
+\SPG quebrar; quebrar palo
+\ENG to break
+like a stick
+\EX
+\XSP
+\XEN
+\ROOT kit T3
+\SEMF break
+\PASS kit.7@m quebrarse
+\ANTI kit.7oy
+\CMTS break it with the hands, or it could be the feet
+\lex ki7t
+\_no 00114
+-
+rama
+Page 27

@@ -1,0 +1,78 @@
+\com
+\idx
+\ref ZOH001R036 037
+\_no 00038
+\tx kotz@kjo
+n@kpa* n
+tzetzjayy@
+bi
+naka
+\mb ko -tz@k -jo7 n@k -pa 7@n tzetz -jay -w@ bi naka
+\sg1 soc-hacer-LOC2 irse-INC 1E labrar-APPL-dINC DEF cuero
+\egl soc-do
+-LOC2 go -INC 1E work -APPL-DINC DEF skin
+\zoq Kotz@kjo n@kpa*n tzetzjayy@ bi naka,
+\fts En el cerro voy a raspar la ca*scara,
+\fte I'll go work the bark in the hills,
+\com
+\idx
+\not (raspar: sacar de machetazo)
+\ref ZOH001R036 038
+\_no 00039
+\tx para n p@kminpa
+para 7@n p@k
+\mb
+-min -pa y@ -j@nanh
+\sg1 para 1E agarrar-venir-INC
+\egl for 1E get
+\ref ZOH001R036 039
+\_no 00040
+ZOH001R0361001.txt
+\zoq paran p@kminpa y@j@nanh.
+\fts para que lo traiga para aca*.
+\fte so I can bring it here.
+\com
+\idx
+y@j@nanh
+DCT1-DIR1
+- come -INC DCT1-DIR1
+\tx
+7@n 7anhnitpa jonhjo
+\mb 7@n 7anhnit-pa
+\sgl 1E tener -INC adentro-Loc2 1E
+\egl 1E have -INC inside -LOC2 1E
+7@n yukp@kpa
+jonh -jo7 7@n yuk-p@k
+\com
+\idx
+\zoq 7@n 7anhnitpa jonhjo_7@n yukp@kpa.
+\fts Lo tengo adentro lo levanto.
+\fte I have it inside, I put it up.
+\com
+\idx
+\ref ZOH001R036 041
+\_no 00042
+\zoq Kwandu nuktampa ded@ t@tz toe7,
+\fts Cuando nos agarra ese el dolor de muela,
+\fte when that toothache catches us,
+ARR-agarrar-INC
+UP -get
+\ref ZOH001R036 040
+\_no 00041
+\tx kwandu nuktampa
+ded@
+t@tz
+toe7
+\mb kwandu nuk
+- tam -pa te -d@ t@tz toy -E7
+\sg1 cuando agarrar-1/2PL-INC DCT2-DEM diente doler-NOM3
+\egl when grab -1/2PL-INC DCT2-DEM teeth hurt -NOM3
+\tx 7entonses d@x 7@n xoxpa
+\mb entonces d@x 7@n xox
+-ра
+\sg1 entonces 1Prn 1E cocer-INC
+\egl then
+1Prn 1E cook -INC
+-ра
+Page 9
+- INC

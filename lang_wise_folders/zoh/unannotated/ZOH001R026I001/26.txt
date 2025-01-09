@@ -1,0 +1,88 @@
+\fts ahora que ya me sucedio*,
+\fte now that it has happened to me,
+\ref ZOH001R026 138
+\_no 00123
+\tx dey
+\mb
+te
+d@ minna m
+mix 7ixkete
+-y d@ min
+-w@ -7am mix 7ix-ke7t -E
+1>2 ver-REPET-dCOM
+\eg1 DCT2-TMP 1A come -COM-NOW 1>2 see-REPET-dcom
+\sg1 DCT2-TMP 1A venir-COM-YA
+\zoq dey d@ minna*m mix 7ixkete."
+\fts te vine a verte.
+\fte I have come to see you again."
+\ref ZOH001R026 139
+\_no 00124
+mama
+\tx 7i bi mama
+\mb 7i bi
+\sgl y
+\egl and DEF mother CAUS-good - do
+DEF mama*
+\ref ZOH001R026 141
+\_no 00125
+\tx kaw@
+\mb ka
+\zoq 7i bi mama yakw@tz@k7okmanhnh@yy@, pe ya tzokk@.
+\fts Y su mama* 1o empezo* a curar,
+pero no sano*.
+\fte And the mother began to heal him, but he didn't get well.
+-wa
+\sg1 morirse-COM
+\egl die
+-COM
+\zoq Kaw@.
+\fts Murio*
+\fte He died.
+\ref ZOH001R026 142
+\_no 00126
+\tx
+syempre kaw@
+\mb syempre ka7
+\sgl siempre morirse-COM
+\egl always die
+\zoq Syempre kaw@.
+\fts siempre murio*.
+\fte He always died.
+ZOH001R0261001.txt
+yakw@tz@k7okmanhnh@yy@
+pe ya tzokk@
+yak -w@ja -tz@k -7okmanh-7@y-w@ pero ya tzok -w@
+CAUS-bueno-hacer-empezar-SUF-COM pero NEG sanar-COM
+-begin -SUF-COM but NEG cure -COM
+\ref ZOH001R026 143
+\_no 00127
+\tx ya n 7ixxa*m
+\mb ya
+\sg1 NEG 1E
+\eg1 NEG 1E
+-wa
+-COM
+ju
+y p@w@
+7@n 7ix-w@ -7am ju7 7@y p@7
+ver-COM-YA
+donde 3E
+see-COM-NOW where 3E
+-w@
+poner-COM
+put -COM
+\zoq Yan 7ixxa*m juy p@w@.
+\fts Ya no lo vi* onde lo puso.
+\fte Now I haven't seen where they put him.
+\ref ZOH001R026 145
+\_no 00128
+\tx si kumm@
+70 ney
+70 ney
+gaji
+7@y patztz@ytzakk@
+ka -ji7
+-ji7 7@y patz -tz@y -tzak -w@
+\sgl si enterar o mismo DCT3-LOC1 3E tirar-atorarse -dejar-COM
+\mb si kumm@
+Page 26

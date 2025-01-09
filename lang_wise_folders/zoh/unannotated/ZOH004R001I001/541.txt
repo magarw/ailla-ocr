@@ -1,0 +1,63 @@
+ZOH004R0011001.txt
+XPSH 3 [7um mix 7otonhnh@yy@ kwando @ ke7tztzoba.]
+\XSP 3 No me hables cuando estoy masticando.
+\XEN 3 Don't talk to me while I'm chewing.
+\SYN k@7tz
+\SEMF eat
+\ASP activity
+\ARG
+\NOM
+\SUB 7ok.ke7tz. '@y, j@x-ke7tz, nik.ke7tz. '@y
+\ETYM
+\ETL
+\ROOT ke7tz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex kex
+\_no 01239
+\LG MIG
+\PSH
+\UND kex
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG ponerse picho o crespo
+\ENG to curl
+\SPL yak. kex
+\SLGR CAUS
+\SLGL mandar enchinar el cabello
+\EXU 1 7@y+ yak.kex-w@ bi way7
+\XPSH 1 [7@y yakkexx@ bi way7.]
+\XSP 1 Mando* enchinar su cabello.
+\XEN 1 She told her to curl her hair.
+\EXU 2 jakke kex-pa way7
+\XPSH 2 [Jakke kexpa way7.]
+\XSP 2 se pone muy crespo el pelo.
+XEN 2 Her hair became very curly.
+\SYN
+\SEMF body
+\ASP achievement
+\ARG
+\NOM kex.i7, way'=kex. kuy7
+\SUB 7ok.kex. '@y, ko.kex, k@.kex, win-kex
+\ETYM
+\ETL
+\ROOT kex
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex kex.i7
+\_no 01240
+\LG MIG
+\PSH [kexi7]
+\UND kex. E7
+\MB ponerse_crespo, NOM7
+\VAR
+\GRAM pcp
+Page 541

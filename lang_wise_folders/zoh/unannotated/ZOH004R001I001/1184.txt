@@ -1,0 +1,62 @@
+\DATE 03/Jan/1980
+\1ex po7tz-nuk
+\_no 02752
+\LG MIG
+\PSH [po7tznuk-]
+\UND po7tz=nuk
+\MB poner_la_mano, agarrar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG manosear
+\ENG to handle
+\EXU 7@y+ po7tz-nuk-w@ pan
+\XPSH [7@y po7tznukk@ p@n.]
+\XSP Manoseo* el hombre.
+\XEN She grabbed the man.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 po7tz
+\RTGR 1 TX
+\ROOT 2 nuk
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS get more GR
+\CMTS po7tz- would mean he just put his hand down flat on something,
+\CMTS but he doesn't accept it as an independent form; then he did accept it
+(TK)
+\date 25/Jun/96
+\lex po7tz=p@k
+\_no 02753
+\LG MIG
+\PHO [po7tzp@k-]
+\UND po7tz=p@k
+\MB poner_la_mano, agarrar
+\VAR
+\GRAM vt
+\SPG agarrar con la mano
+\ENG to pick up with the hand, palm down, fingers somewhat spread
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT 1 po7tz
+\RTGR 1 TX
+\ROOT 2 p@k
+\RTGR 2 T3
+ZOH004R0011001.txt
+\DSRC HAJ95
+\CMTS po7tz- is 'the more or less flat hand'; this one is picking something
+\CMTS with the hand in that position
+\DATE 03/Jan/1980
+\lex powi7
+\_no 02754
+LG MIG
+\PSH [powi7]
+\UND powi7
+\MB
+\VAR
+Page 1184

@@ -1,0 +1,47 @@
+20 ano raomaquian
+21 un mu nusca quiforo
+22 yaba ahua aricai
+yaba a-hua-a ari-cai
+mort AUX.TR-CF-ACC DEIC.LOC-MIR
+les morts sont allés là-haut
+23 ari badicodifo
+ari badi-ico-di-fo
+DEIC.LOC << se rassembler »-vraiment-PASL-PL
+ils se sont vraiment rassemblés là-haut
+24 badiicodifora
+badi-ico-di-fo-ra
+<< se rassembler »>-vraiment-PASL-PL-ASS
+ils s'y rassemblèrent vraiment
+25 yaba isa facufo
+yaba isa facu-fo
+yaba ungurahui enfant-PL
+les enfants morts de l'ungurahui
+= les morts roadifo
+26 ranu yoshi nahuafo
+ranu yoshi nahua-fo
+ranu yoshi étranger-PL
+les yoshi étrangers ornés
+27 //ari badihuainafo//
+ari badi-huain-a-fo
+LOC << se rassembler »-aller-ACC-PL
+là-haut, ils se sont rassemblés
+28 tsoan ano raoma
+29
+ano raomaquian
+30 ari afoquian
+ari a-fo-quian
+LOC AUX.TR-PL-OST2
+là-haut, eux
+31 //bia fudu yoracai//
+bia fudu yora-cai
+2PERS.A homme corps-MIR
+ton corps d'homme
+32 bia ifo huataquin
+bia ifo hua-ta-quin
+2PERS.A maître faire-A/R-OST1
+ils t'ont fait devenir maître
+33 ifohuaidifoanafo
+ifo-hua-idi-foan-a-fo
+maître-faire-monter-DIR-ACC-PL
+ils ont commencé à te faire devenir maître
+235

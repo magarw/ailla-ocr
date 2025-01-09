@@ -1,0 +1,62 @@
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex 7ok.jum. '@y
+\_no 00329
+\LG MIG
+\PSH [7okjumm@y-]
+\UND 7ok.jum.7@y
+\MB ABAJO, derrumbarse, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG derrumbarse
+\ENG to crumble
+\SPL
+\SLGR
+\EXU 7ok.jum. '@y-w@ 7@y+ p@'=n@k-pa+a7k
+\XPSH [7okjumm@yy@y pan@kpa*7k. ]
+\XSP Se derrumbo* lo que lleva.
+\XEN The stuff she was carrying tumbled down.
+\SYN k@.jum.7@y
+\SYN ni.jum
+\SEMF
+\ETYM
+\ETL
+\ROOT jum
+\RTGR T2
+\DSRC HAJ95
+\CMTS
+\date 09/Jan/96
+\lex 7ok.jun. '@y
+\_no 00330
+\LG MIG
+\PSH [7okjunn@y-]
+\UND 7ok.jun.7@y
+\MB ABAJO, caer_pelo, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG caer pelo
+\ENG for hair to fall out
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jun
+\RTGR IX
+\DSRC HAJ95
+ZOH004R0011001.txt
+\CMTS
+\date 17/Jul/95
+\lex 7ok.jup. '@y
+\_no 00331
+\LG MIG
+Page 142

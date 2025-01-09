@@ -1,0 +1,53 @@
+70
+"fuerte", la segunda “débil". La palabra fonológica posee un solo acento de intensidad o
+principal ubicado en la anteúltima sílaba (graficado en la grilla métrica sobre la columna que
+posee más niveles marcados por X) y varios acentos secundarios, asignados de forma
+alternante entre sílabas en dirección de izquierda a derecha, sobre los que se construye el
+ritmo. El patrón rítmico del quechua es analizado en el capítulo 5 de la presente tesis y
+explorado en diferentes modos de habla en la parte III (capítulos 7, 8 y 9).
+(6) `mi.kru.- lla.-pí.-taj
+micro-LIM-LOC-ENF
+83
+(X )(
+(X
+. ) Q
+X
+X . ) @
+)(X)(X .) f
+(7) `pue.bli.tú-y.ku
+•
+pueblito-POS. 1PL.EXCL
+X .)φ
+(X .)(X.) @
+( X . )(X.)f
+Por otro lado, la introducción de conectores españoles (porque, cuando, si, pero, y, o,
+aunque) y la utilización de palabras expletivas del español (pues, claro, entonces) promueven
+estructuras sintáctico-discursivas de subordinación y coordinación en lugares donde el sistema
+quechua de yuxtaposición y de construcciones complejas de subordinación tendría lugar
+(mediante sufijos subordinantes multifuncionales o estrategias de nominalización). En el orden
+discursivo, estos recursos convergen funcionalmente con el sistema complejo de referencia
+pragmática (deíctica, modal y de marcación tópica) del quechua. Tal como comienzo a
+explorarlo en el capítulo 4, considero que la coherencia emergente del sistema modal (que
+involucra el uso modal de la deixis) se sostiene sobre una (re)presentación espacial. Es decir,
+en el nivel del discurso, diferentes niveles y formas lingüísticas (pronombres, recíprocos,
+direccionales, benefactivos, aspectuales, evidenciales, operadores discursivos) quedan
+imbrincados en la indexicalización "del punto de vista del hablante" o en la construcción de su
+"lugar".
+También en el ámbito del discurso, es muy frecuente el cambio de código entre el
+español y el quechua. A través de este recurso, los hablantes explotan las posibilidades de la
+situación sociolingüística mediando diversas funciones comunicativas. Esto se observa en (8),
+en donde el cambio de código funciona indexicalizando ciertas características sociológicas del
+receptor (Gumperz 1982), como en este caso la edad. En el ejemplo siguiente, el hablante (R)
+utiliza el quechua para dirigirse a (CL) – una persona mayor (y competente en quechua)
+mientras que cambia al español cuando su alocutario es una persona joven (FL) (y
+posiblemente "semihablante").
+(8) 1- R: lavarro-pi
+2- C1:
+//
+'en ese mismo micro'
+'nuestro pueblito'
+yaku ka-sha-n-chu ↑
+lavarropa-LOC agua EX-DUR-3S-APEL
+Traducción: "¿Hay agua en el lavador? - Sí".
+aRI: ↓ ((se aleja del lugar))
+AF

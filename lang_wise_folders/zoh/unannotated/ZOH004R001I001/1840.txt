@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT kay
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex yuk.maj
+\_no 04283
+\LG MIG
+\PSH [yukmaj-]
+\UND yuk.maj
+\MB ARR, 1lenar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 11enar
+\ENG to fill
+\SPL
+\SLGR
+\EXU 7@y+ yuk.maj.p@-w@ 7@y+ maj.kuy7
+\XPSH [7@y yukmajp@w@y majkuy7.]
+\XSP Ra*pido lleno* su ca*ntaro.
+\XEN She quickly filled her jug.
+\SYN
+\SEMF
+ETYM
+\ETL
+\ROOT maj
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex yuk.majatz
+\_no 04284
+LG MIG
+\PSH [yukmajatz-]
+\UND yuk.majatz
+\MB ARR, descubrir
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG empezar a descubrir
+\ENG to start to reveal
+SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT majatz
+\RTGR T1
+\DSRC HAJ95
+ZOH004R0011001.txt
+\CMTS
+\date 18/Jul/95
+Page 1840

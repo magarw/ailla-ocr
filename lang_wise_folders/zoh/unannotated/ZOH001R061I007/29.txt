@@ -1,0 +1,60 @@
+\lex tuk
+\_no 00119
+\SPG terminarse; acabarse
+\ENG to end; to finish
+\EX tukka*m
+\XSP ya terminado
+\XEN now it's ended
+\EX jak tukk@ de yom7une7
+\XSP muy bonita es esta muchacha
+\XEN that girl is very pretty
+\EX jak tukk@ tukk@
+\XSP se hizo muy bonito
+\XEN it turned out very pretty
+\EX ya tukk@
+\XSP no tiene sabor
+\XEN it has no flavor
+\EX jak tukk@ bi nax pam nippa
+\XSP esta* muy bonita la tierra para sembrar
+\ROOT tuk 12
+\SEMF aspect
+\ASP transition
+\CAUS yak.tuk terminar; acabar
+\CMTS
+\date 03/Jan/80
+\lex tunun
+\_no 00120
+\SPG
+\ENG
+\EX
+\XSP
+\XEN
+\ROOT tunun Ix
+\SEMF sex
+\CMTS get GL, prob. sexual
+\lex taj
+\_no 00121
+\SPG
+\ENG
+\EX
+\XSP
+\XEN
+\ROOT t@j Ix
+SEMF sex
+\CMTS get GL, prob. sexual
+\lex t@7k
+\_no 00122
+\SPG hipar
+\ENG to hiccouph
+\EX t@7kk@
+\XSP tuvo hipo
+\XEN she had the hiccouphs
+\ROOT t@7k I1
+\SEMF body, speak
+\ASP momentaneous, activity
+\CAUS NONE
+ZOH001R0611007.txt
+\CMTS
+\date 03/Jan/80
+\lex t@n
+Page 29

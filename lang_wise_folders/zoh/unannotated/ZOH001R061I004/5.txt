@@ -1,0 +1,62 @@
+\lex 7anh-je'k.e
+\_no 00010
+\LG MIG
+\PSH [7anhjeke]
+\UND 7anh-je7k. E
+\MB BOCA, X, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG susto
+\ENG fright
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 7anh=je7k
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 22/Feb/96
+\lex 7anh-jup
+\_no 00011
+\LG MIG
+\PSH [7anhjup]
+\UND 7anh-jup.0
+\MB BOCA, jalar, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG cortina
+\ENG curtain
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jup
+\RTGR P (T3)
+\DSRC TK94
+\CMTS
+\date 08/Jan/96
+\lex 7anh-ketz [2]
+\_no 00012
+\LG MIG
+\PSH [7anhketz]
+\UND 7anh-ketz.0
+\MB BOCA, X, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG voladero, ladera
+\ENG slope
+ZOH001R0611004.txt
+Page 5

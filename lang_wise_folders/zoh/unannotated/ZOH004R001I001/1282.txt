@@ -1,0 +1,63 @@
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG tirar pedo aguado - mujer
+\ENG for a woman to cut a watery fart
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF body
+\ASP semelfactive
+\ARG
+\NOM
+\SUB tepx. tepx.ney
+\ETYM
+\ETL
+\ROOT tepx
+\RTGR IX
+\DSRC TK94
+\CMTS cf topx; cf xopx
+\CMTS get deriv's
+\date 03/Jan/80
+\lex tepx. tepx.ney
+\_no 02980
+\LG MIG
+\PSH [tepxtepxney-]
+\UND tepx.tepx.ney
+\MB
+\VAR
+\GRAM VİR
+\SCI
+\USE
+\SPG andar tirando pedos
+\ENG to walk along farting loosely
+SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tepx
+\RTGR IX
+\DSRC TK96
+\CMTS
+ZOH004R0011001.txt
+\lex tero*n
+\_no 02981
+\LG MIG
+\PSH
+\UND tero*n
+\MB
+\VAR tero*nh
+\GRAM a
+\SCI
+\USE
+\SPG aterronado
+\ENG bumpy
+\EXU jak tero*n
+Page 1282

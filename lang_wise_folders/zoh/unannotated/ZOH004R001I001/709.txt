@@ -1,0 +1,64 @@
+\GRAM a
+\SCI
+\USE
+\SPG cuadrado
+\ENG square
+\EXU
+\XSP
+\XEN
+\SYN [maktaxxanh tzuxu7]
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 25/Jun/96
+\lex kwandu chik 7une7
+\_no 01640
+\LG MIG
+\PSH
+\UND kwandu chik 7une7
+\MB cuando, chico, nin~o/a
+\VAR
+\GRAM avmams
+\SCI
+\USE
+\SPG nin*ez; cuando estaba tiernito/chiquito
+\ENG infancy; early childhood
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM cuando, chico
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH
+\date 24/Jun/96
+\lex kwandu tzu'=muk-w@+'am
+\_no 01641
+\LG MIG
+\PSH [kwandu tzumukka*m]
+\UND kwandu tzu7=muk-w@ +7am
+\MB cuando, noche, caer, COM, YA
+\VAR
+\GRAM ya
+\SCI
+\USE
+ok HAJ:96/OK:TK
+\SPG ya anochecio*
+\ENG now when night has fallen
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT muk
+\RTGR 12
+\DSRC HAJ94
+ZOH004R0011001.txt
+Page 709

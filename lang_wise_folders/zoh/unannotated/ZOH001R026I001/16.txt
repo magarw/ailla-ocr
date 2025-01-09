@@ -1,0 +1,88 @@
+ZOH001R0261001.txt
+\zoq "N@7tti," n@mpa bi jon, "ni yan matonhjat@*7 7@y n@ji.
+\fts "No," dice el pa*jaro, "no quiero escuchar su nombre.
+\fte "No," the bird says, 'and I don't want to hear his name.
+"I
+\ref ZOH001R026 086
+\_no 00074
+\tx ga7
+\mb ka -7
+mas
+mas
+\sg1 DCT3-NOM1 mas
+\eg1 DCT3-NOM1 more good
+\ref ZOH001R026 087
+\_no 00075
+\tx dax si n
+\zoq Ga7 mas w@j@*7 ke mix.
+\fts Aquel es mas bueno que tu.
+\fte That one is better than you.
+\mb d@x
+waja*7 ke
+waja ke
+7ixpa d@ yukpoypa
+n@mpa
+bi jon
+n@m -ра bi jon
+ver-INC 1A ARR-juirse-INC decir-INC DEF pa*jaro
+\egl 1prn if le see-INC 1A UP -flee -INC say -INC DEF bird
+d@x si 7@n 7ix-pa da yuk-poy
+\sgl 1prn si 1E
+\ref ZOH001R026 088
+\_no 00076
+t@77@m@
+bueno que
+2Prn
+that 2Prn
+\zoq Dax, sin 7ixpa, d@ yukpoypa," n@mpa bi jon.
+\fts Yo, si lo veo, me corro, dice el pa*jaro.
+\fte I, if I see him, I run away," says the bird.
+mix
+mix
+\ref ZOH001R026 089
+\_no 00077
+\tx ya m
+n@mpa
+\mb ya 7@m t@7
+\sg1 NEG 2A
+n@m -pa
+decir-INC
+\eg1 NEG 2A want -PASS-NINC say - INC
+-7@m -A
+querer-PAS -nINC
+\tx tzikin kajanh
+\mb
+\sg1 pinto
+tzikin kajanh
+tigre
+\egl spotted jaguar
+\zoq "Yam t@77@m@," nampa.
+\fts "No sirves," dice.
+\fte "You're not wanted," he says.
+-pa
+\ref ZOH001R026 090
+\_no 00078
+\tx 7@y yakkage7tt@
+\mb 7ay yak -ka7
+\tx d@x si n@mpa
+ga7
+\mb d@x si n@m -pa ka -7
+\sg] 1Prn si* decir-INC DCT3-NOM1 DEF 1E
+\egl 1prn yes say -INC DCT3-NOM1 DEF 1E
+bi n 7ixt@pa
+bi 7@n 7ix-t@7
+n@mpa bi
+-pa n@m -pa bi
+ver-querer-INC decir-INC DEF
+see-want -INC say -INC DEF
+\zoq "D@x si,"_n@mpa. "Ga7 bin 7ixt@pa," nampa bi tzikin kajanh.
+"I
+\fts "Yo si*, lo quiero ver, dice el tigrillo pinto.
+"I
+\fte "I do, he says. "That's
+jaguar.
+the one I want to see, says the spotted
+bi jon
+-ke7t -w@ bi jon
+Page 16
+"I

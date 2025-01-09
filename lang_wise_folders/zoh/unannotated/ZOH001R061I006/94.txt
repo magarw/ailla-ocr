@@ -1,0 +1,66 @@
+\lex ponh
+\_no 00137
+\LG MIG
+\PSH
+\UND ponh
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG quemar
+ENG to burn
+\SPL ponh.7oy
+\SLGR ANTIP
+\SLGL quemar // to burn
+\SPL ponh.7@m
+\SLGR PASS
+\SLGL quemarse // to be burned
+\SPL ponh.ten
+\SLGR PRSV
+\SLGL tenerlo quemado // to have burned
+\EXU 1 7@y+ ponh-w@+'am
+\XPSH 1 [7@y ponhnha*m.]
+\XSP 1 Ya esta* quemado.
+\XEN 1 Now it has burned.
+\EXU 2 7@n+ ponh-w@ 7@n+ tzanh.kuy7
+\XPSH 2 [7@n ponhnh@n tzanhkuy7.]
+\XSP 2 Queme* mi mano.
+\XEN 2 I burned my hand.
+\EXU 3 7@y+ ponh.ten-wa
+\XPSH 3 [7@y ponhtenn@.]
+\XSP 3 Lo tiene quemado.
+\XEN 3 She's got it burned.
+\SYN
+\SEMF temp, fire
+\ASP activity
+\ARG
+\NOM ponh.kuy7, jo.po.e7
+\SUB jo.ponh, ponh-yay, yuk.ponh
+\ETYM
+\ETL
+\ROOT ponh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex po7t
+\_no 00138
+\LG MIG
+\PSH
+\UND po7t
+\MB
+ZOH001R0611006.txt
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG moler cafe*, maiz tostado, pinol,
+\ENG to grind
+coffee, toasted corn,
+\SPL po7t.7oy
+\SLGR ANTIP
+\SLGL moler // to grind
+\SPL po7t.7@m
+:
+Page 94

@@ -1,0 +1,63 @@
+\DSRC HAJ95
+\CMTS
+\date 18/Jun/96
+\lex jojo
+\_no 00831
+\LG MIG
+\PSH
+\UND jojo
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG palma, para empalmar casa
+\ENG palm, for making houses.
+\EXU chik jojo
+\XSP palmita
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+LF: kuy
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Nov/94
+\lex jojo 7ay7
+\_no 00832
+\LG MIG
+\PSH
+\UND jojo 7ay7
+\MB palma, hoja
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG hoja de palma
+\ENG palm leaf
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+\lex jojo kuma7
+\_no 00833
+\LG MIG
+\PSH
+\UND jojo kuma7
+\MB palma, coyol
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG palma de coyol
+ZOH004R0011001.txt
+Page 362

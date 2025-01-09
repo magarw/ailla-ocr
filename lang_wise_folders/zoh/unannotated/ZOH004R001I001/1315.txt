@@ -1,0 +1,62 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 18/Oct/94
+\lex trapichi
+\_no 03054
+\LG MIG
+\PSH
+\UND trapichi
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG trapiche
+\ENG sugar press
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 18/Oct/94
+\lex traxte=p@¹.kuy7
+\_no 03055
+\LG MIG
+\PSH [traxtep@kuy7]
+\UND traste=p@7.kuy7
+\MB traste, poner, INSTR1
+\VAR
+\GRAM instrl:incorp
+\SCI
+\USE
+\SPG trastero
+\ENG cupboard
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM trastes
+\ETL Sp
+\ROOT p@7
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 09/Feb/96
+\lex traxte=tze'
+\_no 03056
+\LG MIG
+ZOH004R0011001.txt
+Page 1315

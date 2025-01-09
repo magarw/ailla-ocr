@@ -1,0 +1,75 @@
+\idx
+\ref ZOH001R043 082
+\_no 00083
+\tx bweno n@mm@
+\mb bweno n@m
+\sg1 bueno decir-COM gente NPL
+\egl good say -COM people NPL
+\com
+\idx
+\zoq "Bweno, n@mm@ jented@kkay.
+\fts "Bueno", dijo la gente.
+\fte "OK, " said the people.
+\ref ZOH001R043 083
+\_no 00084
+\tx n@kxukk@
+\mb
+n@k -xuk-wa
+\sg1 irse-3PL-COM
+\egl go -3PL-COM
+\zoq N@kxukk@.
+\fts se fueron.
+jente
+-w@ jente
+\fte They went.
+\com
+\idx
+\ref ZOH001R043 084
+\_no 00085
+\tx 7@y 7okn@kk@xukk@
+\mb
+7ay 7ok -n@k -7@y-xuk-w@
+\sg1 3E ABAJO-irse-SUF-3PL-COM
+\egl 3E DOWN -go -SUF-3PL-COM
+\zoq 7@y 7okn@kk@xkuk@.
+\fts Lo acompan~aron.
+\fte They went with him.
+\com
+\idx
+\com
+\idx
+dakka
+d@kkay
+\ref ZOH001R043 085
+\_no 00086
+\tx gaj
+ye7tztz@ jemji de 7awin
+\mb ka -ji7 ye7tz -w@ jemji7 de 7awin7
+\sg1 DCT3-LOC1 11egar-COM todo
+\eg1 DCT3-LOC1 arrive-COM all
+ZOH001R0431001.txt
+gaj
+ka
+\zoq Gaji7 ye7tztz@ jemji7 de 7awind@kkay.
+\fts Alla* llegaron todos los compan~eros.
+\fte There arrived all the brothers.
+\zoq Gaji7 teji tamn@7.
+\fts Alla* hay cerveza.
+\ref ZOH001R043 086
+\_no 00087
+\tx
+teji
+\mb
+-ji7
+teji
+\sg1
+DCT3-Loc1 hay
+amargo-agua
+\eg1 DCT3-LOC1 there is bitter-water
+de hermano/a NPL
+of sibling NPL
+tamn@7
+tam7 -n@7
+d@kka
+d@kkay
+Page 20

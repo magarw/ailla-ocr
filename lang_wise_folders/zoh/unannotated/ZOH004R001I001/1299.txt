@@ -1,0 +1,63 @@
+\_no 03016
+\LG MIG
+\PSH [tome7]
+\UND tom. E7
+\MB cerca, NOM7
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG cerca
+\ENG near
+\EXU jakke tom.e7
+\XPSH [jakke tome7]
+\XSP muy cerca
+\XEN very near
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tom.e'+jo7
+\_no 03017
+\LG MIG
+\PSH [tomejo7]
+\UND tom. E7 +jo7
+\MB cerca, NOM7, LOC2
+\VAR
+\GRAM a+loc
+\SCI
+\USE
+\SPG cerquita
+\ENG very near
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tom. '@y
+\_no 03018
+\LG MIG
+\PSH [tomm@y-]
+\UND tom. 7@y
+\MB cerca, VERS2
+\VAR
+\GRAM vi:vers2
+\SCI
+\USE
+\SPG acercarse
+\ENG to draw near
+\SPL yak. tom.7@y
+\SLGR CAUS
+\SLGL acercar // to approach
+ZOH004R0011001.txt
+Page 1299

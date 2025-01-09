@@ -1,0 +1,63 @@
+\PSH
+\UND jam 7iki kuy
+\MB cal, carnecuili, palo
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG palo de carnecuili
+\ENG a type of tree
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 30/Jun/95
+\lex jam pitz.i
+\_no 00645
+\LG MIG
+\PSH [jam pitzi]
+\UND jam pitz. E
+\MB cal, poner_mai*z_en_cal, NOM7
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG nixtamal con cal
+\ENG corn with lime
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pitz
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 13/Jun/95
+\lex jama
+\_no 00646
+\LG MIG
+\PSH
+\UND jama
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG 1 di*a
+\SPG 2 sol
+\ENG 1 day
+\ENG 2 sun
+\EXU 1 tum jama
+ZOH004R0011001.txt
+Page 276

@@ -1,0 +1,65 @@
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG caracol de monte
+\ENG land snail
+\EXU p@j.i' xoki7
+\XPSH [p@ji xoki7]
+\XSP caracol larguito de arroyo (de ri*o)
+\XEN type of river snail that you can eat
+\EXU kom(i) xoki7
+\XSP caracol redondito (de ri*o) se come
+XEN type of river snail that you can eat
+\EXU kuy+jo+7k xoki7
+\XPSH [kuyjo7k xoki7]
+\XSP de monte - no se come
+XEN slug - you don't eat it
+\SYN
+LF:xoki7
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex k@.jum. '@y
+\_no 01671
+\LG MIG
+\PSH [k@jumm@y-]
+\UND k@.jum.7@y
+\MB FUERĂ, derrumbarse, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG derrumbarse
+\ENG to crumble down
+\EXU k@.jum. '@y-w@ 7@y+_t@k
+\XPSH [K@jumm@yy@y tak.]
+\XSP se lo derrumbo* la casa.
+\XEN Her house tumbled down.
+\SYN ni.jum. '@y
+\SYN 7ok. jum. '@y
+SEMF
+\ETYM
+\ETL
+\ROOT jum
+\RTGR T2
+ZOH004R0011001.txt
+\DSRC HAJ95
+\CMTS solo lo derrumbo*; nadie lo hizo
+\date 12/Jan/96
+\lex k@.j@7
+\_no 01672
+\LG MIG
+\PSH [k@j@7]
+\UND k@.j@7
+\MB
+\VAR
+\USE locative
+\GRAM av
+se come
+Page 722

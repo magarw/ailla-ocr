@@ -1,0 +1,87 @@
+\tx 7entonses despwes de ke
+\mb 7entonses despwe*s de ke
+\sg1 entonces despues de que
+\egl then
+after
+of that get
+\tx jonhjo
+\mb
+jonh
+-jo7
+\sg1 adentro-Loc2
+\egl inside -LOC2
+\ref ZOH001R043 048
+\_no 00049
+\zoq 7entonses despwes de ke p@ktzonhnhoyy@ bi juxtixa jonhjo7,
+\fts Entonces despues de que recibio* el presidente adentro,
+\fte Then after they received the mayor inside,
+\com
+\idx
+bi
+\tx bi 7anhmayyoba*7k
+\mb bi 7anh -may
+\sg1 DEF BOCA -contar-ANTIP-INC-REL hombre salir -COM afuera_de-Loc2
+\eg1 DEF MOUTH-count -ANTIP-INC-REL man leave -COM outside -LOC2
+\com
+\idx
+\ref ZOH001R043 049
+\_no 00050
+\zoq bi 7anhmayyoba*7k p@n pitz@mm@ 7anhk@jo7.
+\fts Ssalio* afuera el maestro.
+\fte the teacher went outside.
+\sg1 3E decir-APPL-COM pueblo
+\egl 3E say -APPL-COM town
+ZOH001R0431001.txt
+p@ktzonhnhoyy@
+bi
+juxtixa
+-tzonh-7oy -wa bi juxtixa
+agarrar-unir -ANTIP-COM DEF autoridad
+-join -ANTIP-COM DEF authority
+\tx pa7tt@m
+\mb pat
+-7@m -w@
+\sg1 encontrar-PAS -COM todo
+\egl find
+-PASS-COM all
+p@n
+-7oy -pa -v7k p@n
+\tx 7@y n@mjayy@
+kumkuy 7awin
+\mb
+d@kka jemji d@
+7@y nam -jay -wa kumkuy7 7awin7 d@kkay jemji7 d@
+hermano/a NPL todo 1A
+sibling NPL all 1A
+p@k
+\ref ZOH001R043 050
+\_no 00051
+\tx matonhtam@
+\mb matonh
+- tam -A7
+\sg1 escuchar-1/2PL-IMPV
+\egl hear
+\zoq matonhtam@.
+\fts escuchen.
+\fte Listen.
+\com
+\idx
+-1/2PL-IMPV
+\ref ZOH001R043 051
+\_no 00052
+pitz@mm@ 7anhk@jo
+pitz@m-w@ 7anhk@7 -jo7
+\zoq 7@y n@mjayy@ kumkuy7 7awind@kkay, "Jemji7 d@ pa7tt@mm@, jemji7 da
+pa7tt@mdampa*7_y@ji7,
+d@
+fts Le dijo el pueblo, "Compan~eros, todo lo que nos encontramos aqui,
+\fte He said to the townspeople, "All we found, all that we find here,
+\com
+\idx
+jemji da pa7tt@mdampa*
+jemji7 da pa7t
+y@ji
+-7@m - tam -pa ya -ji7
+1A encontrar-PAS -1/2PL-INC DCT1-LOC1
+1A find -PASS-1/2PL-INC DCT1-LOC1
+Page 12

@@ -1,0 +1,64 @@
+\ETL
+\ROOT tze7
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-PH
+\date 24/Jun/96
+\lex kape 7anh-k@.i
+\_no 00118
+\LG MIG
+\SCI
+\USE
+—
+\PSH [kape 7anhk@i]
+\UND kape 7anh-k@y. E
+\MB carrizo, BOCA, llevar_en_mano, NOM7
+\VAR kape 7anhk@y
+\GRAM s (m)ss
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kay
+\RTGR T3
+PHO ok, HAJ:96/Checked: TK
+\SPG puerta de varitas; de carrizo es la puerta
+\ENG a door made of stout twigs
+\EXU
+\XSP
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex katzu' 7uk.i
+\_no 00119
+LG MIG
+\PSH [katzu 7uki]
+\UND katzu7 7uk.E
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\MB agrio, tomar, NOM7
+\VAR
+\GRAM a (m) s
+\SCI
+\USE
+\SPG atole agrio
+\ENG sour atole
+\EXU
+ZOH001R0611004.txt
+\ROOT 7uk
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex katzu' n@n@ 7uk.i
+\_no 00120
+\LG MIG
+\PSH [katzu n@n@ 7uki]
+\UND katzu7 n@n@ 7uk.E
+\MB agrio, X, tomar, NOM7
+Page 49

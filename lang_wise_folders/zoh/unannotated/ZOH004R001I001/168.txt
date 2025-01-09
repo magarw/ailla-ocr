@@ -1,0 +1,62 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT t@p
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 17/Jul/95
+\lex 7ok.tzam.jay
+\_no 00391
+\LG MIG
+\PSH [7oktzamjay-]
+\UND 7ok.tzam. jay
+\MB ABAJO, platicar, APPL
+\VAR
+\GRAM vt:indir
+\SCI
+\USE
+\SPG contarselo; platicarselo
+\ENG to tell someone something
+\EXU 7@n+ 7ok.tzam.jay-pa tum tzam.E
+\XPSH [7@n 7oktzamjaba tum tzame.]
+\XSP Les voy a contar un cuento.
+\XEN I'm going to tell them a story.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzam
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 12/Jun/95
+\lex 7ok.tze7k
+\_no 00392
+\LG MIG
+\PSH [7oktze7k-]
+\UND 7ok.tze7k
+\MB ABAJO, pedir
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG prestar
+\ENG to lend
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+SEMF
+\ETYM
+\ETL
+\ROOT tze7k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 12/Jun/95
+\lex 7ok.tze7k=tzi'
+Page 168

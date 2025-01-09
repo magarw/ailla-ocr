@@ -1,0 +1,43 @@
+123
+El marco teórico básico que adopto corresponde a la teoría de la (jerarquía en)
+fonología prosódica (Selkirk 1986; Nespor y Vogel 1986) y a la teoría métrica (y revisiones)
+reformulada por Hayes (1981 y ss.; revisada en 1995).
+5.1. El análisis métrico del acento
+La noción de acento es problemática y, a pesar de haber sido muy debatida, todavía no
+ha sido resuelta dentro de los estudios fonológicos. La dificultad de su definición radica, en
+primer lugar, en que ningún correlato físico sirve como reflejo directo de los diferentes niveles
+de acento lingüístico (intensidad, duración, volumen o sonoridad, pitch, "picos"
+entonacionales, juicio del receptor son algunas de las pistas de su existencia) y, en segundo
+lugar, porque se trata de un sistema que reúne diversos recursos que, en muchos casos,
+también sirven a otros fines fonológicos (por ejemplo, la duración o el alargamiento vocálico
+sirve a la marcación fonológica frasal o el pitch puede funcionar dentro de un sistema tonal, o
+como base fonética de un sistema entonacional).
+En los últimos años, se han desarrollado varias aproximaciones teóricas alternativas
+para el estudio de los rasgos prosódicos de los sistemas fonológicos en lenguas naturales.
+Dentro de ellas, la teoría métrica, que fue desarrollada primeramente por Liberman (1979), fue
+aplicada, en principio, a lenguas que ya habían sido analizadas por perspectivas segmentales
+con el fin de demostrar la mayor efectividad de sus mecanismos explicativos y predictivos en
+relación con el comportamiento de los sistemas de acento en lenguas naturales. Lejos de un
+objetivo comparativo entre aproximaciones dispares, mi presentación pretende propiciar el
+análisis acentual del quechua boliviano a partir de tomar herramientas de este modelo teórico
+que considero productivo para la comprensión de ciertos fenómenos que se manifiestan en el
+corpus. Para ello, comienzo revisando algunas características de la aproximación que asumo.
+La perspectiva métrica consiste en una rama de la fonología generativa que propone
+una mirada alternativa sobre el acento al considerarlo como la manifestación de una estructura
+rítmica subyacente. Propone que, a partir del ritmo, que se define como un patrón discreto (y
+abstracto) de beats o "golpes" regularmente organizados, cada lengua tiende a organizar
+sistemáticamente las diferentes señales fonéticas que refieren la presencia del acento.
+Desde esta perspectiva, el análisis de la asignación acentual de una palabra depende de
+reconocer su composición en relación con los constituyentes rítmicos relevantes, es decir, con
+lo que se llama "pie": que constituye la unidad menor de análisis. En qué consiste el pie y cuál
+es su rol es una cuestión central en la teoría métrica. El desarrollo teórico de Hayes (1995)
+propone: 1) que existe una jerarquía de "golpes" rítmicos (o beats), tal que algunos son
+"fuertes" mientras que otros se manifiestan “débiles” (lo que se representa por medio de una
+grilla); 2) que el pie como constituyente más pequeño se inserta en estructuras superiores que
+lo contienen (la palabra fonológica, la frase fonológica, etc.); 3) que existe la "estabilidad de
+acento": es decir, que el corrimiento de acento en una palabra se permite sólo dentro de los
+límites del pie.
+Las particularidades relevantes del acento en tanto manifestación rítmica son: 1-
+prominencia relativa (es decir, que la unidad fonológica pertinente posee un solo acento
+principal); 2- distribución rítmica (Selkirk 1986): en los diferentes niveles acentuales, las
+sílabas que poseen el acento tienden a aparecer espaciadas regularmente, es decir,

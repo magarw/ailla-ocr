@@ -1,0 +1,62 @@
+\MB regar_c_mano, MED
+\VAR
+\GRAM meas
+\SPG una regada de agua (de la mano)
+\ENG a toss of water (from the hand)
+\EXU p@7t-w@ tum xi7kx.naanh tuj
+\XPSH [P@7tt@ tum xi7kxnanh tuj.]
+\XSP Paso* una roceadita de agua.
+\XEN There was a little rain shower.
+\SYN
+\ROOT xi7kx
+\RTGR TX
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex xom.naanh
+\_no 00095
+LG MIG
+\PHO [xomna*nh]
+\UND xom.naanh
+\MB encerrar, MED
+\VAR
+\GRAM meas
+\SPG una encerrada
+\ENG a jail term
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT Xom
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex xo7px.naanh
+\_no 00096
+LG MIG
+\PHO [xo7pxna*nh]
+\UND xo7px.naanh
+\MB tomar, MED1
+\VAR
+\GRAM meas
+\SPG un trago del plato
+\ENG one drink from a bowl
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT xo7px
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex xotz.naanh
+\_no 00097
+ZOH001R0611003.txt
+LG MIG
+\PHO [xotzna*nh]
+\UND xotz.naanh
+\MB empatar, MED
+\VAR
+Page 33

@@ -1,0 +1,62 @@
+\ENG red banana
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 16/Oct/94
+\lex tzapatz tzepe7
+\_no 03274
+\LG MIG
+\PSH
+\UND tzapatz tzepe7
+\MB rojo,
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG enagua colorado
+\ENG long red skirt
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 20/Oct/94
+\lex tzapatz tzoko7
+\_no 03275
+\LG MIG
+\PSH
+\UND tzapatz tzoko7
+\MB rojo, lodo
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG barro colorado
+\ENG red clay
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 20/Oct/94
+\lex tzapatz weni7
+\_no 03276
+ZOH004R0011001.txt
+Page 1408

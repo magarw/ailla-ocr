@@ -1,0 +1,81 @@
+\sg1 GSM: tres
+\eg1 GSM: three
+\zoq GSM: Tuwanh.
+\fts GSM: Tres.
+\fte GSM: Three.
+\com
+\idx
+\ref ZOH001R036 573
+\_no 00564
+\tx OSM: ga
+junanh 7@m jomotpa
+junanh 7@m jo
+-mot
+\mb_ OSM ka -7
+\sg1 OSM: DCT3-NOM1 como 2E EN - revolver-INC
+\eg1 OSM: DCT3-NOM1 how 2E INTO-stir
+\zoq OSM: Ga junanh 7@m jomotpa.
+\fts OSM: Con eso lo revuelves.
+\fte OSM: You mix it with that.
+\com
+\idx
+ZOH001R0361001.txt
+\zoq Min@m y@km@7kk@yy@ 7imunix 7@y n@7.
+\fts ven a exprimir el agua de limon.
+\fte Come squeeze lime juice.
+\com
+\idx
+\ref ZOH001R036 574
+\_no 00565
+\tx min@
+\mb min
+m y@km@7kk@yy@
+7imunix 7@y n@7
+-A7 7@m yak -m@7k -7@y-wa 7imunix 7@y n@7
+\sg1 venir-IMPV 2E INSTR2-exprimir-SUF-dINC limo*n 3E agua
+\egl come -IMPV 2E INSTR2-wring -SUF-DINC lime
+3E water
+\ref ZOH001R036 575
+\_no 00566
+\tx 7@y paja
+tum yu7tznanh
+\mb
+tum yu7tz
+\sgl 3E poner-APPL-IMPV uno agarrar-MED
+7@y p@7 -jay -A7
+\egl 3E put -APPL-IMPV one grab
+\zoq 7@y_p@ja tum yu7tznaṇh kana.
+\fts Ponle un pun~o de sal.
+\fte You put in a handful of salt.
+\com
+\idx
+\ref ZOH001R036 576
+\_no 00567
+\tx 7i dey
+\mb 7i
+\sg] y
+\eg1 and DCT2-TMP herb
+-MEAS
+\ref ZOH001R036 577
+\_no 00568
+-pa
+kana
+-naanh kana
+sal
+salt
+tampitz tambyen 7@m y@kp@kk@ba
+te -y tampitz tambyen 7@m y@k
+DCT2-TMP a*rnica tambien 2E
+also 2E
+-INC
+\fte And now you throw in arnica too.
+\com
+\idx
+\zoq 7i dey tampitz tambyen 7am y@kp@kk@ba.
+\fts Y la arnica tambien le echas.
+-p@k
+INSTR2-agarrar-SUF-INC
+INSTR2-get
+-7@y-pa
+Page 123
+-SUF-INC

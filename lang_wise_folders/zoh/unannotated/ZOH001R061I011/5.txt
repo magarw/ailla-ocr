@@ -1,0 +1,61 @@
+\SPG rascar (con la mano o con hierramiento)
+\ENG to scrape (with the hand or a tool)
+\EX 7@y jenn@ nax
+\XSP 1o rasco* la tierra
+\XEN he scraped the dirt
+\EX 7@y jenn@ tzanhkuyj@nanh
+\XSP 1o rasco* con la mano
+\XEN he scraped it with a hand
+\EX j@xjenn@mm@ bi nax
+\XSP se saco* rascando la tierra
+\XEN the dirt was scraped out
+\ROOT jen T3
+\CMTS antip jen. 7oy rascar
+\CMTS pass jen.7@m rascarse
+\CMTS term tuk
+\lex jenen
+\_no 00022
+\SPG deshacer(se)
+\ENG to dissolve
+\EX jenenn@mm@ bi tzoy
+\XSP se deshizo el remedio
+\XEN the medicine dissolved
+\EX 7@n jenenpa y@d@ tzoy
+\XSP deshago este remedio
+\XEN I'm dissolving this medicine
+\ROOT jenen T1
+\CMTS caus yak.jenen deshacer
+\CMTS no antip
+\CMTS pass jenen.7@m desolverse
+\CMTS * da jenenn@ 'yo mismo me deshizo'
+\lex jep
+\_no 00023
+\SPG trayar (maguey)
+\ENG
+ZOH001R0611011.txt
+\EX jeppa
+\XSP esta* trayando maguey
+\XEN
+\ROOT jep T3
+\CMTS antip jep.7oy trayar
+\CMTS pass jep.7@m trayarse
+\CMTS won't accept any with ergative pronouns today
+\lex jepx
+\_no 00024
+\SPG agarrar con jicara
+\ENG to scoop up
+\EX 7@y jepx@ bi n@7 tzimaj@nanh
+\XSP agarro* el agua con ji*cara
+\XEN she dipped up the water with a dipper
+\EX jepx@mm@ bi n@ tzimapi7t
+\XSP se agarro* el agua con ji*cara
+\XEN the water was scooped up with a dipper
+\ROOT jepx P (T3)
+\CMTS antip jepx. 7oy agarrar
+\CMTS pass jepx.7@m agarrarse
+\CMTS assum1 jepx.ney estar montonado (arena o grava)
+\CMTS assum1: tiene embutido la ji*cara dentro el agua
+\CMTS prsv jepx=ten lo tiene (el agua) en la ji*cara
+\CMTS term tuk
+\lex je7p
+Page 5

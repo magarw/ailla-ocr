@@ -1,0 +1,90 @@
+\ref ZOH001R053 011
+\_no 00012
+\tx _n@kpa
+\mb
+y yujja
+n@k -pa 7@y yuj
+\sg1 irse-INC 3E
+\egl go -INC 3E clear_field-COM
+\zoq N@kpay yujja.
+\fts va a rozar.
+rozar
+\ref ZOH001R053 012
+\_no 00013
+\fte He's going to clear the field.
+\com
+\idx
+\ord v
+-wa
+-COM
+\tx_n@kpa
+y
+tz@kk@
+y 7api7.
+\mb _n@k -pa 7@y tz@k -wa 7@y 7api7
+\sgl irse-INC 3E hacer-dINC 3E chayote
+\egl go -INC 3E do -DINC 3E chayote
+\ref ZOH001R053 013
+\_no 00014
+\zoq N@kpay tz@kk@y 7api7.
+\fts va a hacer su chayotal.
+\fte He's going to work in his chayote field.
+\com
+\idx
+\ord v o
+7@y yujpa.
+7@y yuj
+rozar
+ZOH001R0531001.txt
+\tx 7@y 7api
+\mb 7@y 7api7
+\sg1 3E
+chayote 3E
+\egl 3E chayote 3E clear_field-INC
+\ref ZOH001R053 014
+\_no 00015
+\tx 7@y 7api,
+\mb 7@y 7api7
+\sg1 3E
+\egl 3E chayote after
+\idx
+\ord o [v] V
+\zoq 7@y 7api 7@y yujpa.
+\fts Roza su chayotal.
+\fte He clears his chayote field.
+\com
+\idx
+\ord o v
+-pa
+- INC
+despwes de 7@y yujpa,
+despwe*s de 7@y yuj
+chayote despues de 3E rozar
+\ref ZOH001R053 015
+\_no 00016
+\tx 7@y ponhpa
+gay
+\mb 7@y ponh -pa ka -y
+\sg1 3E quemar-INC DCT3-TMP
+\egl 3E burn -INC DCT3-TMP SOW
+of 3E clear_field-INC
+\zoq 7@y 7api, deswes de 7@y yujpa, gay 7@y ponhpa.
+\fts Su chayotal, despues de que lo rozo*, ya lo quema.
+\fte His chayote field, after he clears it, then he burns it.
+\com
+gay
+-pa ka -y 7@y
+-INC DCT3-TMP 3E
+DCT3-TMP 3E
+nippam
+nip
+y ponhpa.
+ponh -pa
+quemar-INC
+burn -INC
+bi 7api.
+-pa -7am bi 7api7
+sembrar-INC-YA
+DEF chayote
+-INC-NOW DEF chayote
+Page 4

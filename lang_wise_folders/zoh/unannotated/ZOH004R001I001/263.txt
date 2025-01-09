@@ -1,0 +1,62 @@
+\XEN
+\SYN -pak-
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS can't get a vers1; CK-PH; also [jw] TK
+\date 24/Jun/96
+\lex fyeru
+\_no 00614
+\LG MIG
+\PSH
+\UND fyeru
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG feo
+\ENG ugly
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM fiero
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\lex fyeru.7aH
+\_no 00615
+\LG MIG
+\PSH [fyeru7a-]
+\UND fyeru. 7aH
+\MB fiero, VERS1
+\VAR
+\GRAM versl
+\SCI
+\USE
+\SPG ponerse o hacerse feo
+\ENG to become or make oneself ugly
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN fyeru-tz@k
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 24/Jun/96
+\lex galoonh
+\_no 00616
+\LG MIG
+Page 263

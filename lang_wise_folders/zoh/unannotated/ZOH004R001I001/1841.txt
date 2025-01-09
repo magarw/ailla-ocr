@@ -1,0 +1,63 @@
+\lex yuk.mak
+\_no 04285
+\LG MIG
+\PSH [yukmak-]
+\UND yuk.mak
+\MB ARR, pesacar_con_atarraya
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG empezar a pescar con atarraya
+\ENG to start to fish with a net
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT mak
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex yuk.ma7k
+\_no 04286
+\LG MIG
+\PSH [yukma7k-]
+\UND yuk.ma7k
+\MB ARR, calmarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar a calmarse
+\ENG to start to grow calm
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ma7k
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+ZOH004R0011001.txt
+\lex yuk.matonh
+\_no 04287
+\LG MIG
+\PSH [yukmatonh-]
+\UND yuk.matonh
+\MB ARR, escuchar
+\VAR
+\GRAM vt
+\SCI
+Page 1841

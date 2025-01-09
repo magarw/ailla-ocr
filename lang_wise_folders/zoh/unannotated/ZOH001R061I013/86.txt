@@ -1,0 +1,53 @@
+\lex kon
+\_no 01070
+\SPG con
+\ENG with
+\lex konbenir
+\_no 01071
+\SPG convenir
+\ENG come together
+\lex konbento
+\_no 01072
+\SPG convento
+\ENG convento
+\lex konbentu
+\_no 01073
+\SPG convento
+\ENG convent
+\lex konbentz@kjadam@
+\_no 01074
+\SPG
+ENG
+\lex koncha
+\_no 01075
+\SPG conchas
+\ENG conchas
+\lex konfiansa
+\_no 01076
+\SPG confianza
+\ENG confidence
+\lex konformar
+\_no 01077
+\SPG conformar
+\ENG conform
+\lex konforme
+\_no 01078
+\SPG conforme
+\ENG agreed
+\lex konjunto
+\_no 01079
+\SPG conjunto
+\ENG band
+\lex konjuntu
+\_no 01080
+\SPG conjunto
+\ENG band
+\lex konno7
+\_no 01081
+\SPG _corto
+\ENG short
+\lex konseguir
+\_no 01082
+\SPG conseguir
+ZOH001R0611013.txt
+Page 86

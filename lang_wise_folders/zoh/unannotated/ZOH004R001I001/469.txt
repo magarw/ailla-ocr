@@ -1,0 +1,63 @@
+\USE
+\SPG despeltrarse
+\ENG to get chipped
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN kekx
+\SEMF
+\ETYM
+\ETL
+\ROOT kekx
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex j@x-kep
+\_no 01070
+\LG MIG
+\PSH [j@xkep-]
+\UND jax=kep
+\MB ATRAS, patear
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar de patadas
+\ENG to kick something out
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kep
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 11/Jan/96
+\lex j@x-ke7tz
+\_no 01071
+ZOH004R0011001.txt
+\LG MIG
+\PSH [j@xke7tz-]
+\UND j@x=ke7tz
+\MB ATRAS, masticar
+\VAR
+\GRAM dir+vt
+\SCI
+\USE
+\SPG sacar de la boca; sacar bagazo
+\ENG to spit out something
+\EXU 7@y+ j@x=ke7tz-pa bi xitzi 7@y+ tzani7
+\XPSH [7@y j@xke7tzpa bi xitziy tzani7.]
+\XSP Estoy sacando el bagazo de la can~a.
+\XEN I'm chewing the pulp of the cane.
+\SYN
+\SEMF
+Page 469

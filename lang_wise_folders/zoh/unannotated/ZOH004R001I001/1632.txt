@@ -1,0 +1,63 @@
+\SLGR ANTIP
+\SLGL aran~ar // to scratch
+\SLGR NO PASS
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wo7kx
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 20/Jun/95
+\lex wo7kx=tzik
+\_no 03797
+\LG MIG
+\PSH [wo7kxtzik-]
+\UND WO7kx=tzik
+\MB rasgun~ar, pelar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG rasgun~ar
+\ENG to scratch
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 wo7kx
+\RTGR 1 T3
+\ROOT 2 tzik
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+\lex wo7kx=tzik.i
+\_no 03798
+\LG MIG
+\PSH [wo7kxtziki]
+\UND wo7kx=tzik. E
+\MB_rasgun~ar, pelar, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG aran~o*n
+ENG scratch
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+Page 1632

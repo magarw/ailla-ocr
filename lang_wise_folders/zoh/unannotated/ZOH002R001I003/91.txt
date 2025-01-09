@@ -1,0 +1,46 @@
+Adjectives can appear either before or after the noun, but in the
+postnominal case the adjective is marked with the relativizer +V?k (+p??k) after
+a consonant). This vowel-initial syllable elides, leaving an irregular final stress.
+The final /k/ of the relativizer is rarely audible in utterance-final position.
+(4.21)
+(i)
+(iii)
+(v)
+peka yote'
+peka yote?
+usada ropa
+'ropa usada'
+tuwang pøn
+tuwan pən
+'tres hombres'
+jaxe'k xix
+haš.E+V?k
+šiš
+asar.NOM7+REL carne
+'carne asada'
+(ii)
+(iv)
+(vi)
+yote peká'
+yote? peka+V?k
+ropa usada+REL
+'ropa usada'
+pøn tuwangpø'k
+pǝn tuwaŋ+pə?k
+hombre tres+REL
+'tres hombres'
+xix jaxé'
+šiš
+haš.E+V?k
+carne asar.NOM7+REL
+'carne asada'
+Paragraph about how description is accomplished.
+4.6. Deictics
+This class includes words that function as pronouns (third person) and as
+adverbs (time, space and manner). I consider them a distinct class because all
+the words are formed from three roots, forming a system of deixis with three
+axes: proximal, neutral and distal.
+Proximal yǝ- (DCT1) means closer to the speaker: 'this' in English; este/a
+in Spanish. Neutral de- (DCT2) deictics indicate a vague middle ground rather
+than closeness to the listener; they are glossed with the Spanish neutral, ese/a,
+66

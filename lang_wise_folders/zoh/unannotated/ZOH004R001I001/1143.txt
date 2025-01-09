@@ -1,0 +1,62 @@
+\lex pitz.kuy' wa.e
+\_no 02654
+\LG MIG
+\PSH [pitzkuy wae]
+\UND pitz.kuy7 way. E
+\MB cocer_mai*z_con_cal, INSTR1, moler, NOM7
+\VAR
+\GRAM smsv
+\SCI
+\USE
+SPG masa de nixtamal
+\ENG cornmeal made from corn cooked with lye
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 pitz
+\RTGR 1 T1
+\ROOT 2 way
+\RTGR 2 T1
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex pitz@m
+\_no 02655
+\LG MIG
+\PSH
+\UND pitz@m
+\MB
+\VAR
+\GRAM vi
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG salir
+\ENG to leave
+\SPL yak.pitz@m
+\SLGR CAUS
+\SLGL dejar salir // to allow to leave
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF move
+\ASP achievement
+\ARG
+\NOM pitz@m.kuy7
+\SUB ni.win.pitz@m, wit=pitz@m
+\ETYM
+\ETL
+\ROOT pitz@m
+\RTGR IX
+\DSRC TK94
+\CMTS caus2 yak+ pitz@m dejar salir
+\date 03/Jan/80
+\lex pitz@m.kuy7
+\_no 02656
+\LG MIG
+Page 1143

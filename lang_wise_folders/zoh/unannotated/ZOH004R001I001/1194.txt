@@ -1,0 +1,64 @@
+\ROOT 2 tax
+\RTGR 2 12
+\DSRC TK94
+\CMTS figure out V; CK-PH of EX
+\CMTS HAJ:96, probably @, since /tax.@7/
+\date 03/Jan/80
+\lex puj.ki7px
+\_no 02774
+\LG MIG
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\PSH [pujki7px-]
+\UND puj.ki 7px
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG probar un instrumento soplandolo
+\ENG to try an instrument by blowing into it
+\EXU
+\XSP
+\ROOT puj
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex puj.kuy7
+\_no 02775
+\LG MIG
+\PSH [pujkuy7]
+\UND puj.kuy7
+\MB inflar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG algo para soplar
+\ENG something to blow with
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT puj
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 15/Jun/95
+ZOH004R0011001.txt
+\lex puj=pojo7k
+\_no 02776
+\LG MIG
+\PSH [pujpo7k]
+\UND puj-pojo7k
+\MB semilla, huevo
+=
+'1leno' (OK: TK)
+Page 1194

@@ -1,0 +1,64 @@
+\lex xom
+\_no 03971
+\LG MIG
+\PSH
+\UND Xom
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG encerrar
+\ENG to enclose; to jail
+\SPL xom. 7oy
+\SLGR ANTIP
+\SLGL encerrar // to enclose
+\SLGR NO PASS
+\SPL xom.ney
+SLGR ASSUM1
+\SLGL estar encerrado // to be enclosed
+\SPL xom.ten
+\SLGR PRSV
+\SLGL tener encerrado // to have enclosed
+\EXU 1 7@y+ xom-xuk-w@ bi moko.e
+\XPSH 1 [7@y xomxukk@ bi mokoe.]
+\XSP 1 Encerraron el
+borracho.
+\XEN 1 They jailed the drunk.
+\EXU 2 xom. ney-w@ bi wakax
+\XPSH 2 [Xomneyy@ bi wakax.
+\XSP 2 Esta* encerrado el ganado.
+\XEN 2 The cow is corralled.
+\SYN
+\SEMF arrange
+\ASP process
+\ARG
+\NOM xom.e7, xom. kuy7, xom.naanh
+\SUB xom.pu
+\ETYM
+\ETL
+\ROOT Xom
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex xom.e7
+\_no 03972
+\LG MIG
+\PHO [xome7]
+\UND xom. E7
+\MB encerrar, NOM7
+\VAR
+\GRAM pcp
+\SPG encerrado
+\ENG enclosed
+\EXU wakax xom.e7
+ZOH004R0011001.txt
+\XPSH [wakax xome*7]
+\XSP ganado encerrado
+\XEN corralled cow
+\SYN
+\ROOT XOM
+\RTGR P (T3)
+Page 1708

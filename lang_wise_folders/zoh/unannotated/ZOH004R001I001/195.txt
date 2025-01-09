@@ -1,0 +1,63 @@
+\ROOT 1 70px
+\RTGR 1 12
+\ROOT 2 tz@k
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 24/Jun/96
+\lex 7ora y+ tan.n@7
+\_no 00454
+\LG MIG
+\PSH [7oray tann@7]
+\UND 7ora 7@y+ tan-w@+v7k
+\MB hora, 3Erg, completar, COM, REL
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG a las doce
+\ENG at noon
+\EXU
+\XSP
+\XEN
+\SYN kuk.manh-ten-pa jama
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS CK-PH ok/OK: TK
+\date 24/Jun/96
+\lex 7ora-tz@k
+\_no 00455
+LG MIG
+\PSH [7oratz@k-]
+\UND 7ora-tz@k
+-
+\MB orar, HACER
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG orar
+\ENG to pray
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM orar
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 08/Nov/94
+\lex 7orchata
+\_no 00456
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+\UND 7orchata
+\MB
+Page 195

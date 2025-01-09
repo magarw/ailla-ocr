@@ -1,0 +1,68 @@
+\tx pitz@mpa 7@y yo7kjonh
+\mb pitz@m-pa 7@y yo7k - jonh
+\sgl salir -INC 3E cuello-DIR4
+\egl leave -INC 3E neck -DIR4
+\zoq Pitz@mpa 7@y yo7kjonh.
+\fts sale de su garganta.
+\fte It comes out of its throat.
+\com
+\idx
+\ref ZOH001R036 979
+\_no 00962
+\tx
+\mb
+\sgl 2E
+\egl 2E
+7@m j@xp@kjaba
+tum ko7tznanhja*7
+7am jax -pak -jay -pa tum ko7tz -naanh-jaa7
+ATRAS-agarrar-APPL-INC uno tentar-MED -NPL2
+-APPL-INC one touch -MEAS -NPL2
+BACK -get
+\zoq 7@m_j@xp@kjaba tum_ko7tznanhja*7.
+\fts Se lo sacas por bola.
+\fte You get it out by the fingerful.
+\com
+\idx
+\ref ZOH001R036 980
+\_no 00963
+\tx 7okpatztz@ba
+m n@kk@
+7ok
+\mb 7ok-patz -7@y-pa 7@m n@k -wa
+\sg1 ABAJO-tirar-SUF-INC 2E irse-dINC
+\eg1 DOWN -throw-SUF-INC 2E go -DINC
+\zoq 7okpatztz@bam n@kk@,
+\fts Lo vas tira*ndolo,
+\fte You go along throwing it out,
+\com
+\idx
+\ref ZOH001R036 981
+\_no 00964
+\tx gad@
+\mb ka -d@
+\sg1 DCT3-DEM molestia 3E
+\eg1 DCT3-DEM condition 3E have
+ZOH001R0361001.txt
+molestya 7@y 7anhnitpa
+molestya 7@y 7anhnit-pa
+\zoq gad@ molestya 7@y 7anhnitpa.
+fts esa molestia tiene.
+\ref ZOH001R036 982
+\_no 00965
+\tx
+\fte that irritation that they have.
+\com
+\idx
+GSM: bi 7une
+\mb GSM bi 7une7
+\sg1 GSM: DEF nin~o/a
+\eg1 GSM: DEF child'
+tener - INC
+- INC
+\zoq GSM: Bi 7une.
+\fts GSM: La criatura.
+\fte GSM: The baby.
+\com
+\idx
+Page 208

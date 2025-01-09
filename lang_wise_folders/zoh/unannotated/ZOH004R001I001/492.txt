@@ -1,0 +1,63 @@
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG poner flor (en el cabello)
+ENG to put flowers (in the hair)
+\EXU 7@n+ jay (@').7@y-pa 7@n_kopak
+\XPSH [7@n jay@77@ban kopak.]
+\XSP Pongo flor sobre la cabeza.
+\XEN I put flowers on my head.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\RTGR
+\DSRC HAJ02
+\CMTS
+\DATE 09/Aug/02
+\lex jay (@').7@y-w@+ 'am
+\_no 01126
+LG MIG
+\PSH [j@y7@yya*m]
+\UND jay@7.7@y-w@+7am
+\MB flor, VERS2, COM, YA
+\VAR [j@y@wa*m] jay@-w@.7am
+\GRAM ya
+\SCI
+\USE
+\SPG ya tiene flor; florecio*
+\ENG now it has flowers; it has flowered
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex ja@ytija7
+\_no 01127
+\LG MIG
+\PSH
+\UND ja@ytij@7
+\MB
+\VAR
+ZOH004R0011001.txt
+\GRAM top
+\SCI
+\USE
+\SPG Juchita*n
+\ENG Juchita*n
+\SPL
+\SLGR
+\EXU de pan ja@ytija'+@7
+\XPSH [De pan jaytij@*7.]
+\XSP Ese hombre es de Juchita*n.
+\XEN This man is from Juchitan.
+\SYN
+Page 492

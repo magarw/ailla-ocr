@@ -1,0 +1,60 @@
+\EX
+\XSP
+\XEN
+\ROOT x@n Ix
+\SEMF condition
+\CMTS ERROR? can't get this: no sale nada
+\lex yay
+\_no 00178
+\SPG marchitarse
+\ENG to wilt
+\EX
+\XSP
+\XEN
+\ROOT yay 12
+\SEMF condition
+\CAUS yak.yay hacer marchitar
+\CMTS
+\lex yem
+\_no 00179
+\SPG 11amar con la mano
+\ENG to call by waving
+\EX 7@y yemjayy@
+\XSP 10 11amo* con la mano
+\XEN she waved him over
+\ROOT yem Ix
+\SEMF speak
+\CAUS yak.yem
+\CMTS
+\lex ye7tz
+\_no 00180
+\SPG 11egar
+\ENG to arrive
+\EX
+\XSP
+\XEN
+\ROOT ye7tz Il
+\SEMF motion
+\CAUS yak.ye7tz obligar a llegar
+\CMTS
+\lex yo
+\_no 00181
+\SPG caerse
+\ENG to fall
+\EX
+\XSP
+\XEN
+\ROOT yo 12
+\SEMF fall
+\CAUS yak. yo dejar caer
+\CMTS
+\lex yon
+\_no 00182
+ZOH001R0611007.txt
+\SPG zafarse; salirse
+\ENG to grow tall
+\EX yonna 7anhpajjo*nh bi bejcha
+\XSP salio* del cerco el caballo
+\XEN
+\ROOT yon Ix
+Page 42

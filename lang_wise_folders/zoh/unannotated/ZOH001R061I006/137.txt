@@ -1,0 +1,63 @@
+\CMTS
+\date 20/Jun/95
+\lex won
+\_no 00202
+\LG MIG
+\PSH
+\UND won
+\MB
+\VAR
+GRAM vt
+\SCI
+\USE
+\SPG sacar majagua
+\SPL won. 7oy
+\SLGR ANTIP
+\SLGL sacar majagua //
+\SPL won.7@m
+\SLGR PASS
+\SLGL sacarse la majagua //
+\SPL won.ney
+\SLGR ASSUM1
+\SLGL ya se saco* la majagua //
+\SPL won.ten
+\SLGR PRSV
+\SLGL tener sacado la majagua //
+\EXU tzay'=won-w@
+\XPSH [Tzaywonn@.]
+\XSP Saco* majagua.
+\XEN
+\SYN
+\SEMF plant
+\ASP process
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT won
+\RTGR P (T3)
+\DSRC TK94
+\CMTS I sure wish I knew what 'majagua' means.
+\date 03/Jan/80
+\lex wotz
+\_no 00203
+LG MIG
+\PSH
+\UND wotz
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG cortar con sierra
+\ENG to cut with a saw
+\SPL wotz.7@m
+ZOH001R0611006.txt
+\SLGR PASS
+\SLGL cortarse // to be cut
+\EXU 1 7@y+ wotz-tuk-wa
+\XPSH 1 [7@y wotztukk@.]
+\XSP 1 Lo corto* con sierra.
+\XEN 1 He cut it with a saw.
+Page 137

@@ -1,0 +1,62 @@
+\CMTS get deriv's; can't get them: TK
+\date 03/Jan/80
+\lex xunhku7
+\_no 04017
+\LG MIG
+\PSH
+\UND xunhku7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG u*ltimo hijo de mujer
+\ENG a woman's last child
+\EXU manak xunhku7
+\XSP ultimo hijo
+XEN last-born child
+\SYN
+\SEMF
+ETYM cf. JCH Zapotec
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK: OK
+\date 26/Jun/96
+\lex xunhxuma
+\_no 04018
+\LG MIG
+\PHO [xunhxuma]
+\UND
+\MB
+\VAR
+\GRAM S
+\SPG bibi
+\ENG a type of plant
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex xut
+\_no 04019
+\LG MIG
+\PSH
+\UND xut
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG agujerar; hacer hueco
+\ENG to pierce; to make a hole
+\SPL xut.7oy
+\SLGR ANTIP
+ZOH004R0011001.txt
+\SLGL agujerar // to pierce
+\SPL xut.7@m
+\SLGR PASS
+Page 1728

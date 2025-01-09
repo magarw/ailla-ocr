@@ -1,0 +1,63 @@
+\LG MIG
+\PHO [wokoe7]
+\UND woko. E7
+\MB andar_arrastrando, NOM7
+\VAR
+\GRAM pcp
+\SPG una cosa arrastrada
+\ENG a dragged thing
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT woko
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex wo7k
+\_no 03793
+\LG MIG
+\PSH
+\UND WO7k
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG raspar
+\ENG to scrape; to sand
+\SPL wo7k.7oy
+\SLGR ANTIP
+\SLGL raspar // to scrape
+\SLGR NO PASS
+\SLGR NO ASSUM1
+\SPL wo7k.ten
+\SLGR PRSV
+\SLGL tener raspado // to have something scraped
+\EXU 1 7@y+ wo7k-w@ bi kuy
+\XPSH 1 [7@y wo7kk@ bi kuy.]
+\XSP 1 Raspo* la madera.
+\XEN 1 He sanded the wood.
+\EXU 2 wo7k. '@m-w@ bi kuy
+\XPSH 2 [wo7kk@mm@ bi kuy.]
+\XSP 2 Raspo* la madera.
+\XEN 2 Someone sanded the wood.
+\SYN
+\SEMF arrange
+\ASP activity
+\ARG
+\NOM wo'k.e
+\SUB jup=wo7k
+\ETYM
+\ETL
+\ROOT wo7k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+ZOH004R0011001.txt
+\lex wo7k=tum.'anh.'aH
+\_no 03794
+\LG MIG
+Page 1630

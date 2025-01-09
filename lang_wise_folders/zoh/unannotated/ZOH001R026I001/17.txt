@@ -1,0 +1,71 @@
+\sg1 3E CAUS-morirse-REPET-COM
+\egl 3E CAUS-die
+\ref ZOH001R026 091
+\_no 00079
+\tx 7@y k@xx@
+\mb
+\zoq 7@y yakkage7tt@ bi jon.
+\fts Lo volvio* a matar el pa*jaro.
+\fte Again he killed the bird.
+7@y k@x
+-w@
+comer-COM
+\sg1 3E
+\egl 3E eat -COM
+\zoq 7@y k@xx@.
+\fts Lo comio*.
+\fte He ate it.
+\ref ZOH001R026 092
+\_no 00080
+\tx tunhnhaw@
+\mb
+tunh
+7@y n@kke7tt@
+-7a -w@ 7@y nak -ke7t -w@
+\sg1 camino-VERS1-COM 3E irse-REPET-COM
+\egl road -VERS1-COM 3E go -REPET-COM
+\zoq Tunhnhaw@ 7@y nakke7tt@.
+\fts Siguio* caminando.
+\fte He went walking off again.
+\ref ZOH001R026 093
+\_no 00081
+-REPET-COM DEF bird
+\tx tunhnhaw@
+\mb tunh
+ZOH001R0261001.txt
+DEF pa*jaro
+7@y n@kke7tt@
+-7a -w@ 7@y nak -ke7t -w@
+\sg1 camino-VERS1-COM 3E irse-REPET-COM
+\egl road -VERS1-COM 3E go -REPET-COM
+\zoq Tunhnhaw@ 7@y nakke7tt@.
+\fts Siguio* caminando.
+\fte He went walking off again.
+\tx manhkuyp@7k
+\mb
+\ref ZOH001R026 094
+\_no 00082
+\tx mas winjo*nh mas winjo*nh gay
+\mb mas win -joonh mas win -joonh ka -y
+\sg1 mas CARA-DIR4 mas CARA-DIR4 DCT3-TMP
+\egl more FACE-DIR4 more FACE-DIR4 DCT3-TMP find
+katzit7ok
+katzit7ok
+bi
+manh -kuy7 -p@7k bi
+\sg1 pisar-INSTR1-REL2 DEF cazador
+\egl step -INSTR1-REL2 DEF hunter
+pa7tta*m
+pa7t
+bi
+-w@ -7am bi
+metzanh
+metza*nh
+encontrar-COM-YA DEF dos
+-COM-NOW DEF two
+\zoq Mas winjo*nh, mas winjo*nh, gay pa7tta*m bi metzanh manhkuyp@7k,
+\zoq bi katzit7ok.
+Page 17
+\fts Mas adelante, mas adelante, ya lo encontro* el dos pie, el cazador.
+\fte Farther ahead, farther ahead, now he has found the two-legged one,
+\fte the hunter

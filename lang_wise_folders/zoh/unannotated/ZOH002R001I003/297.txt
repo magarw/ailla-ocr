@@ -1,0 +1,39 @@
+(11.6)
+(i)
+(ii)
+(11.7)
+(i)
+bi limeta
+'øn me'tzpa bi tzajønang 'øn no'tztzó' bi limeta
+?ǝn+ me?c-pa bi ca?+hənaŋ ?ən+ no?c-wǝ+V?k
+1E+ buscar-INC DEF piedra+ACC 1E+ quebrar-COM+REL DEF botella
+'Busco la piedra con que quebré la botella.'
+(elicited)
+(ii)
+'øn me'tzpa bi tza' 'øn no'tzkuytzøkkó'
+?ǝn+ me?c-pa bi ca? ?ən+ no?c.kuy?=cək-wǝ+V?k
+1E+ buscar-INC DEF piedra 1E+ quebrar.INSTR1=hacer-COM+REL
+'Busco la piedra que usé para quebrar.'
+Relative clauses whose head nouns are the agents of a transitive verb are
+very common, but they tend to be treated simply as noun phrases; that is, they
+can be pluralized with the clitic +dəkkay, and they often appear as modifiers of
+another noun (most commonly pǝn, 'man'). Many of these clauses are
+lexicalized, especially those that identify some occupation, such as mayor,
+teacher, or fisherman. The first examples in (11.7) are of this kind. The line
+between stable lexicalization and productive morphology is impossible to draw
+in a language like this one some examples that are probably not lexicalized
+are shown in the later examples.
+dø ye'tztammø bi 'angmayyobá'k yomá'anghi'
+də+ ye?c-tam-wǝ bi ?aŋ.may.7oy-pa+V?k
+1A+ llegar-1/2PL-COM DEF BOCA.contar.ANTIP-INC-REL
+'Llegamos ontal la mujer la maestra.'
+(elicited)
+285
+yomaa?+ ?aŋhi?
+mujer+LOC3
+(ZOH001 RO10-195)
+gø 'ora toto ye'tzpa bi 'angkimmobá'
+gə
+Pora toto? 0 ye?c-pa bi ?aŋ.kim.?oy-pa+V?k
+aquel hora papel 3A llegar-INC DEF BOCA.subir.ANTIP-INC+REL
+'Esa hora, llega el papel con él que los manda.' (ZOH001 R024-038-9)

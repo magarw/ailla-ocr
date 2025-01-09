@@ -1,0 +1,63 @@
+\PHO [meke7]
+\UND mek.e7
+\MB mentir, NOM7
+\VAR
+\GRAM pcp
+\SPG mentira
+\ENG lie
+\EXU tum mek.e7
+\XPSH [tum meke7]
+\XSP una mentira
+\XEN a lie
+\SYN
+\ROOT mek
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex mi'tz.i
+\_no 00173
+\LG MIG
+\PSH [mitzi]
+\UND mi7tz. E
+\MB agarrar_en_pun~o, NOM 7
+\VAR [mitzi*7]
+\GRAM pcp
+\SPG algo agarrado en la mano
+\ENG something held in the closed fist
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT mi7tz
+\RTGR T3
+\DSRC HAJ95
+\CMTS fix-PH:TK
+\date 26/Jun/96
+\lex mo.e=7ax
+\_no 00174
+\LG MIG
+\PSH [moe7ax-]
+\UND monh.E=7ax
+\MB dormir, NOM7, abrir_boca
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG bostecear
+\ENG to yawn
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7ax
+\RTGR P (11)
+\DSRC HAJ94
+ZOH001R0611004.txt
+\CMTS mowe
+\date 25/Jun/96
+from monh.e ?? YES
+Page 71

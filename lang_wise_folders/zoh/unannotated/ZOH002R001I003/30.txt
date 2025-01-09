@@ -1,0 +1,28 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+work began to organize itself into categories (noun phrases, agreement, etc.), I
+occasionally translated example sentences from other grammars into Zoque
+(Foley & Van Valin, 1984; Dixon, 1977; Craig, 1977; Aissen, 1987) to test the
+grammatical possibilities discussed in those works. I tested my constructions
+with both Sr. Sánchez and Sr. Miguel, correcting them as directed and noting
+variations in grammaticality judgements. Corrections included pragmatic errors
+as well as grammatical ones¹. Their judgements were generally consistent,
+with minor differences such as Sr. Sánchez's preference for a middle ("it
+happened") translation for passives as opposed to Sr. Miguel's preference for an
+impersonal ("they did it") reading. Their judgements were always very clear,
+ranging from praise for my astonishing cleverness to complete lack of
+comprehension. My hand is visible in these sentences in that I tend to put the
+verb first (since it required the most work to figure out) and I use the definite
+article vastly more often than any Zoque speaker. The consultants invariably
+volunteered numerous related sentences during these elicitation sessions,
+which I included in the elicitation data set.
+Wherever possible, I have tried to draw examples from the natural texts.
+These are certain to be correct Zoque, and usually include enough context to
+give a solid picture of the usage of the construction in question. When
+paradigmatic data is relevant, these are nearly always drawn from the elicited
+set. Finally, for examples of the various uses of some morpheme, such as a
+particular prefix, I relied on the lexicon for complete sets of representative
+samples.
+1
+Sr. Sánchez rejects examples in which things behave inappropriately. So, for example, tables
+can't walk and trees can't cut people.
+6

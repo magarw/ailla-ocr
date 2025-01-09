@@ -1,0 +1,60 @@
+\SEMF body
+\ASP state
+\CMTS get deriv's
+\date 03/Jan/80
+\lex mokoy
+\_no 00061
+\SPG emborracharse
+\ENG to get drunk
+\EX
+\XSP
+\XEN
+\ROOT mokoy Ix
+\SEMF body
+\ASP process
+\CMTS
+\date 03/Jan/80
+\lex monh
+\_no 00062
+\SPG acostarse; dormir
+\ENG to go to bed; to sleep
+\EX ya da monhnh@
+\XSP no dormi*; estoy desvelado
+\XEN I didn't sleep
+\ROOT monh 12
+\SEMF body
+\ASP state, transition
+\CAUS yak.monh acostarlo; hacer dormir
+\CMTS "caus" win.monh vt hacer dormir; dormir con alguien
+\date 03/Jan/80
+\lex muj
+\_no 00063
+\SPG mojarse
+\ENG to get wet
+\EX ban mujpa
+\XSP estar muy mojado
+\XEN it's very wet
+\ROOT muj 12
+\SEMF condition
+\ASP transition, process
+\CAUS yak.muj mojar
+\CMTS
+\date 03/Jan/80
+\lex muk
+\_no_00064
+\SPG caerse; caer
+\ENG to fall down; to drop
+\EX mukneyy@ mexajo
+\XSP se agacho* sobre la mesa
+\XEN he was slumped over the table
+\ROOT muk 12
+\SEMF position, fall
+\ASP momentaneous
+ZOH001R0611007.txt
+\CAUS yak.muk dejar caer
+\ASSU muk.ney agacharse
+\date 03/Jan/80
+\lex mum
+\_no 00065
+\SPG arrugarse; enjutarse - flor
+Page 15

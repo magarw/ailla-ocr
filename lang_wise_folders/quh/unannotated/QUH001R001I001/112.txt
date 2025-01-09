@@ -1,0 +1,55 @@
+Sólo con -jti se agrega la flexión de persona ya que con -spa se hace redundante su presencia.
+Además llevan marcación de aspecto y de tiempo (relativo), mientras que el verbo de la
+cláusula que controla o matriz está flexionado en concordancia de objeto, persona, aspecto,
+tiempo y admite marcación modal (incluso de proyección clausal, como se observa en el verbo
+de la última línea). Su tiempo es deíctico, es decir es el único que marca la relación temporal
+con el momento del habla, y esta marcación es aplicada a la cláusula dependiente en su
+conjunto ya que su temporalidad es relativa a la de la cláusula principal.
+El sufijo -spa codifica significados temporales de secuencialidad (casi) inmediata entre
+acciones, pero donde cabe en algunos casos una interpretación de simultaneidad como en el
+siguiente ejemplo:
+(31) puñu-spa
+dormir-SUB/SS/SIM
+'durmiendo, te sueño
+'si duermo, te sueño'
+(32) jamu-jti-n
+139
+musqhu-ku-yki
+soñar-REFL-20/1S
+(cierto en algunos casos)
+(se refiere a "en todos los casos" dependientes de un mundo contingente)
+112
+El sufijo -jti también codifica significados temporales pero esta vez, en las cláusulas
+marcadas con -jti, una acción (la marcada) se señala como relativamente anterior a la acción
+principal.
+tusu-sun
+venir-SUB/DS/SEQ bailar-FUT/4S
+'cuando él venga, bailaremos'
+'si viene, bailaremos'
+(mayor convicción)
+(se duda su realización)
+Comrie y presentado en el X Congreso Nacional de Lingüística. Universidad Nacional de Salta Sociedad
+Argentina de Lingüística. Salta, 5 – 8 de Julio. Publicado en ACTAS (CD-Rom).
+El sistema discursivo de switch-reference consiste, funcionalmente, en un sistema de seguimiento referencial
+entre cláusulas. Es propio de numerosas lenguas aborígenes del mundo (e.g., ver Austin 1981, para lenguas
+australianas y Roberts 1997, para lenguas de Papúa New Guinea). El (meta)código ya casi estandarizado de
+notación de switch-reference contrasta SS vs. DS (donde SS: "sigue mismo sujeto" -same subject- y DS: "sigue
+diferente sujeto" -diferent subject-).
+En la bibliografía sobre el tema se ha definido de diversas formas al sistema de switch-reference (SR). En
+general, la variación responde a qué se identifica como una instancia del sistema y, fundamentalmente, a qué
+referente(s) tracciona: sujeto o agente entre cláusulas dependientes (Jacobsen 1967 a partir del estudio de lenguas
+indígenas de Norteamérica); FN que cumple la función sintáctica de sujeto o que cumple la función semántica de
+agente (Austin 1981, sobre lenguas aborígenes australianas), identidad relativa del sujeto entre cláusulas
+interdependientes (Haiman y Munro 1983); FN más saliente de una cláusula en relación de correferencialidad o
+no con otra también saliente de otra cláusula, puede tratarse de una función pragmática de tópico (Foley y Van
+Valin 1984, desde una perspectiva tipológica). Es interesante mencionar que tanto Roberts como Austin
+consideran al fenómeno como areal.
+Por lo expuesto, el sistema de SR se comporta de manera similar a la reflexivización en tanto define una
+identidad entre posibles referencias nominales en el orden local del discurso, y, por otro lado, se comporta de
+forma similar al sistema de obviación vs. proximal o al sistema de género en tanto limita el rango de posibles
+referencias nominales más ampliamente. Sin embargo, a diferencia del sistema de obviación vs. proximal, SR
+actúa en el ámbito local del discurso y, a diferencia de los sistemas genéricos, SR no se relaciona con cualidades
+lingüísticas inherentes a las frases nominales, sino que los roles referenciales se adjudican, como en el sistema de
+obviación vs. proximal, en cada caso, según necesidades o restricciones sintácticas y/o discursivas.
+139
+Se repite el ejemplo presentado en (10).

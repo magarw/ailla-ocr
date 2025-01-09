@@ -1,0 +1,77 @@
+\tx d@ minn@
+\mb d@ min -w@
+\sg1 1A venir-COM
+j@ytij@*nh
+jaytija7-ja@nh
+Juchitan-DIR1
+\egl 1A come -COM Juchitan-DIR1
+\fts vine de Juchita*n
+\fte I came from Juchita*n
+\com
+\idx
+\ref 128
+\_no 00129
+\tx d@ minn@
+\mb da
+d@
+min -w@
+\com
+\idx
+\fts vine de Santa Mari*a
+\fte I came from Santa Mari*a
+m@n@j@*nh
+m@n@j@7
+\sgl 1A venir-COM
+Santa_Mari*a-DIR1
+\egl 1A come -COM Santa_Mari*a-DIR1
+\ref 129
+\_no 00130
+\tx d@ minn@n
+\mb d@ min
+-w@ -7@n
+\sg1 1A venir-COM-1E
+\egl 1A come -COM-1E
+\ref 130
+\_no 00131
+yoxkuyjo*nh
+yox
+\fts vine de mi trabajo
+\fte I came from work
+\com
+\idx
+work
+\com
+\idx
+ZOH001R0601001.txt
+-j@@nh
+-kuy7 -joonh
+trabajar-INSTR1-DIR4
+7@n jax -yu7tz -wa tum yu7tz
+-naanh
+\tx 7@n j@xyu7tztz@
+poe n@y
+k@j@*nh
+\mb
+poe7 n@7 -7@y k@jaanh
+\sg1 1E ATRAS-agarrar-COM uno agarrar-MED arena agua -3E debajo
+\egl 1E BACK -grab -COM one grab -MEAS sand water-3E under
+-INSTR1-DIR4
+\fts saque un pun~o de arena debajo del agua
+\fte I grabbed a handful of sand from under the water
+\com
+\idx
+maxan
+tum yu7tznanh
+\ref 131
+\_no 00132
+\tx d@ minn@
+\mb d@ min
+-j@xt@kjoonh
+-w@
+\sg1 1A venir-COM sagrado-casa -atra*s_de
+\egl 1A come -COM sacred -house-behind
+maxant@kj@xt@kjo*nh
+-tak
+\fts vine de atra*s de la iglesia
+\fte I came from behind the church
+Page 31

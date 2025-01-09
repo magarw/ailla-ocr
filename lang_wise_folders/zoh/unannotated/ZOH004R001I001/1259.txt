@@ -1,0 +1,63 @@
+\SLGR PASS
+\SLGL remojarse // to be dunked
+\SPL ta7k.ten
+\SLGR PRSV
+\SLGL tener_remojado // to have something dunked
+\EXU ta'k-@7
+\XPSH [Ta: k@7!]
+\XSP Remojelo!
+\XEN Dunk it!
+\SYN
+\SEMF eat
+\ASP semelfactive
+\ARG
+\NOM ta'k.e7
+\SUB
+\ETYM
+\ETL
+\ROOT ta7k
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex ta7k [7ane
+\_no 02925
+\LG MIG
+\PSH
+\UND ta7k 7ane
+\MB remojar, tortilla
+\VAR 7ane-ta7k
+\GRAM vt+obj; vi:incorp
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG remojar la tortilla
+\ENG to scoop food with a tortilla
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ta7k
+\RTGR T3
+\DSRC HAJ94
+\CMTS impv tak-@7
+\CMTS get deriv's
+\date 28/Jan/96
+\lex ta7kx
+\_no 02926
+\LG MIG
+\PSH
+\UND ta7kx
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG arder (lumbre); alumbrar (luz)
+\ENG to burn (a fire); to give light
+\SPL yak.ta7kx
+\SLGR CAUS
+Page 1259

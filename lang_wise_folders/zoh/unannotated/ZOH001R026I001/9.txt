@@ -1,0 +1,93 @@
+\ref ZOH001R026 048
+\_no 00040
+\tx n@7tti n@mm@
+\mb n@7tti
+\sg1 no
+\eg1 no
+bi
+m@a7
+n@m -w@ bi m@a7
+decir-COM DEF venado
+say -COM DEF deer
+\zoq "N@7tti," n@mm@ bi m@a7,
+\fts "No," dijo el venado,
+\fte "No," the deer said,
+\ref ZOH001R026 049
+\_no 00041
+\tx ni ya n
+matonhjat@*
+matonh -jay -t@
+escuchar-APPL-querer-nINC 3E
+\eg1 no NEG 1E listen -APPL-want -nINC 3E
+\mb
+ni ya
+7@n
+\sgl ni NEG 1E
+\ref ZOH001R026 050
+\_no 00042
+\zoq "Ni yan matonhjat@* 7@y naji.
+\fts "No quiero escuchar su nombre.
+\fte "And I don't want to listen to his name either.
+\ref ZOH001R026 051
+\_no 00043
+ga7
+\tx mixx@n n@mjaba
+mas
+\mb mix -7@n nam -jay -pa ka -7
+mas
+\sg1 2Prn-1E decir-APPL-INC DCT3-NOM1 mas
+\egl 2Prn-1E say -APPL-INC DCT3-NOM1 more
+\tx d@xx@n
+\mb d@x -7@n
+ZOH001R0261001.txt
+\zoq Mixx@n n@mjaba ga7 mas waja* ke mix 70 neyja*7.
+\fts Te digo aquel es mas bueno que tu o nosotros.
+\fte I tell you that that one is better than you or us.
+k@yukpoyy@ba
+-A
+k@
+\tx ya
+n@mpa
+-yuk-poy -7@y-pa
+bi m@a7
+n@m -ра bi m@a7
+decir-INC DEF venado
+\egl 1Prn-1E AWAY -UP -flee -SUF-INC say -INC DEF deer
+\sgl 1Prn-1E
+AFUERA-ARR-juirse-SUF-INC
+7@y n@ji
+7@y naji
+nombre
+name
+\ref ZOH001R026 053
+\_no 00045
+\zoq Daxx@n k@yukpoyy@ba," n@mpa_bi m@a7.
+\fts Yo me corro de e*1," dice el venado.
+\fte I run away from him," says the deer.
+\ref ZOH001R026 052
+\_no_00044
+\tx ya m t@77@m@
+7@m t@7
+-7@m -A
+\mb__ya
+\sg1 NEG 2A querer-PAS -nINC decir-INC DEF pinto
+\eg1 NEG 2A want -PASS-NINC say -INC DEF spotted
+ya m t@77@m@
+waja* ke
+waja ke
+bueno que
+good that
+n@mpa
+n@m -pa bi
+\zoq "Yam t@77@m@," n@mpa bi tzikin kajanh.
+\fts "No sirves," dice el tigrillo pinto.
+\fte "You're not wanted," says the spotted jaguar.
+bi tzikin kajanh
+tzikin kajanh
+mix 70 neyja*7
+mix 70 ney -jaa7
+2prn o IPrn-NPL2
+2prn or IPrn-NPL2
+Page 9
+tigre
+jaguar

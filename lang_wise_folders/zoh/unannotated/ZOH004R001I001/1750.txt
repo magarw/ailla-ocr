@@ -1,0 +1,63 @@
+\RTGR 2 T3
+\DSRC TK94
+\CMTS CK-EX/PH
+\date 26/Jun/96
+\lex ya 7@y+ wit-xuk-w@+'am+p@7k tunh
+\_no 04069
+\LG MIG
+\PHO [yay witchukamp@7k tunh]
+\UND ya 7@y+ wit-xuk-w@+'am+p@7k tunh
+\MB NEG, 3E, andar, 3PL, COM, YA, REL2, camino
+\VAR
+\XSP
+\XEN
+\SYN
+\GRAM
+\SPG un camino que ya no lo caminan (esta* abandonado)
+\ENG an abandoned road
+\EX
+\ROOT wit
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+HAJ:96 ok; OK: TK
+\lex ya jak 7otow-a 7awin d@k+7a +j@nanh
+\_no 04070
+\LG MIG
+\PSH [ya_jak_7otowa 7awin d@kkaj@nanh]
+\UND ya jak 7otonh-A 7awin d@k+7a +j@nanh
+\MB NEG, mucho, hablar, nINC, hermano/a, NP1, SOCC
+\VAR
+\GRAM f
+\EXU
+\XSP
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG presumido
+\ENG snobbish, "he does not talk a lot with his companions"
+\SPL
+SLGR
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7otonh
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex ya jak n@m. 'oy='otonh-w@
+\_no 04071
+\SCI
+\USE
+\SPG (tarta) mudo
+\LG MIG
+\PSH [ya jak n@mmoyyotonhnh@]
+\UND ya jak n@m. 7oy=7otonh-w@
+\MB NEG, mucho, DO, ANTIP, hablar, COM
+\VAR
+\GRAM f
+Page 1750

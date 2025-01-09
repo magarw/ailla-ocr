@@ -1,0 +1,63 @@
+\lex yuk.toto'=jay='ok.manh
+\_no 04317
+\LG MIG
+\PSH [yuktotojayyokmanh-]
+\UND yuk.toto7=jay=7ok.manh
+\MB ARR, papel, escribir, BAJA, *pisar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG estar escribiendo sobre el papel
+\ENG to be writing on paper
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jay
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex yuk.tow.a7
+\_no 04318
+\LG MIG
+\PHO [yuktowa7]
+\UND yuk.tonh.A7
+\MB ARR, ampollarse, NOM2
+\VAR
+\GRAM SV
+\SPG ampolla
+\ENG blister
+\EX
+\XSP
+\XEN
+\SYN tow.a7
+\ROOT tonh
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex yuk.tzi7kx
+\_no 04319
+\LG MIG
+\PSH [yuktzi7kx-]
+\UND yuk.tzi7kx
+\MB ARR, dar_comezo*n
+\VAR
+GRAM vi
+\SCI
+\USE
+\SPG dar comezo*n
+\ENG to itch
+\EXU
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+Page 1854

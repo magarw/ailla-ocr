@@ -1,0 +1,63 @@
+\SPL
+\SLGR
+\EXU
+\XPSH
+\XSP
+\XEN
+\SYN
+\SEMF
+\ROOT 7@jaj
+\RTGR 11
+\DSRC HAJ97
+\CMTS
+\date
+\lex 7@kx.i
+\_no 00054
+\LG MIG
+\PSH [7@kxi]
+\UND 7@kx.E
+\MB desgranar_maiz, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG desgranado
+\ENG shelled
+\EXU 1 mok=7@kx.i
+\XPSH 1 [mokk@kxi]
+\XSP 1 mai*z desgranado
+\XEN 1 shelled corn
+\EXU 2 7@kx.E 7@y+ yuk.p@k-w@
+\XPSH 2 [7@kxiy yukp@kk@.]
+\XSP 2 Lo levanto desgranado.
+\XEN 2 She put it up shelled.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7@kx
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 24/Jun/96
+\lex 7@w.17
+\_no_00055
+LG MIG
+\PSH [7@wi7]
+\UND 7@nh.E7
+\MB caer, NOM7
+\VAR
+ZOH001R0611004.txt
+\GRAM pcp
+\SCI
+\USE
+\SPG fruta que se cayo* del a*rbol
+\ENG fallen fruit
+\EXU 1 ban 7@w.i7
+\XPSH 1 [Ban 7@wi7.]
+\XSP 1 Cayo* bastante.
+\XEN 1 A lot fell down.
+\EXU 2 ban 7@w.E' t@m
+\XPSH 2 [Ban 7@wi t@m.]
+\XSP 2 Cayo* bastante fruta.
+Page 23

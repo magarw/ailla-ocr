@@ -1,0 +1,62 @@
+\ENG clothesline
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT yep
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex yo7t=tuku7
+\_no 04170
+\LG MIG
+\PSH [yo7ttuku7]
+\UND yo7t=tuk.u7
+\MB X, terminarse, X
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG ropa que ya no sirve
+\ENG clothes that no longer are any good
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 * yo7t
+\ROOT 2 tuk
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 17/Jun/95
+\lex yo7t. '@y
+\_no 04171
+\LG MIG
+\PSH [yo7tt@y-]
+\UND yo7t.7@y
+\MB X, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG vestirse
+\ENG to wear
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT * yo7t
+\DSRC TK94
+\CMTS
+\date 21/Jun/95
+ZOH004R0011001.txt
+\lex yox
+\_no 04172
+Page 1792

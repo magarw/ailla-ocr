@@ -1,0 +1,38 @@
+7.1.1.8. nik
+This morpheme means 'VERB on the surface of X', hence the gloss code
+SUP(erficie). It especially applies to verbs of spraying, spreading, or splattering,
+and particularly applies to VERBing on someone's body. Productive use of this
+prefix by the unwary may cause embarassment, since it apparently is used in a
+number of off-color terms. nik- always co-occurs with the suffix -?ǝy.
+(7.13)
+(i)
+(iii)
+(iv)
+(v)
+nikkojjøyyø
+O nik.?oh.?ǝy-wə
+3A SUP.toser.SUF-COM
+'Le tosió en ella.'
+(ii)
+'øy nikje'kkøyyø
+?əy+ nik.he?k.?ǝy-wa
+3E+ SUP.limpiar_c_coa.SUF-COM
+'Lo agarró con coa y lo echó encima (de algo).'
+nønikketztzøyyø
+0 nə?=nik.kec.?ǝy-wə
+3A
+agua=SUP.regar_c_mano.SUF-COM
+'Le echó agua con la mano."
+niktzujjøyyø
+?əy+ nik.cuh.?ǝy-wǝ
+3E+ SUP.escupir.SUF-COM
+'Le escupió.'
+161
+'øy yaknikpoyyøba 'ora 'øy tziwø 'asta gajáng
+?əy+yak.nik.poy.?ǝy-pa
+Pora
+Pasta ga.haaŋ
+?ǝy+ci?-wǝ
+3E+ CAUS.SUP.huirse.SUF-INC TEMREL 3E+ dar-COM hasta DCT3+DIR1
+'La hora que se le vino encima le pegó hasta por allá.'
+(ZOH001 R018-333)

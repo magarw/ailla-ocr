@@ -1,0 +1,63 @@
+\_no 00256
+\LG MIG
+\PSH
+\UND 7enhkaje
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG encaje
+\ENG lace
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Aug/94
+\lex 7epi7
+\_no 00257
+\LG MIG
+\PSH
+\UND 7epi7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG gajo pegado (de pla*tano)
+\ENG connected bunch (of bananas)
+\EXU tum 7epi7 patanux
+\XSP un gajo de pla*tano
+\XEN a bunch of bananas
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS CK-GLOSS ok HAJ:96
+\date 12/Jun/95
+\lex 7epi' patanux
+\_no 00258
+\LG MIG
+\PSH
+\UND 7epi7 patanux
+\MB
+\VAR patanux 7epi7
+\GRAM sms
+\SCI
+\USE
+\SPG gajo de platano
+\ENG bunch of bananas
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+Page 110

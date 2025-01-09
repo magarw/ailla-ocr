@@ -1,0 +1,61 @@
+\date 03/Jan/80
+\lex kex
+\_no 00048
+\SPG ponerse picho o crespo
+\ENG to become curly
+\EX 7@y yakkexx@ bi way
+\xSP 10 mando* enchinar su cabello
+\XEN she made her hair curly
+\ROOT kex 12
+\SEMF body
+\ASP transition, process
+\CAUS yak.kex mandar enchinar el cabello
+\CMTS
+\date 03/Jan/80
+\lex kix
+\_no 00049
+\SPG enfadarse
+\ENG to grow tired or bored
+\EX
+\XSP
+\XEN
+\ROOT kix IX
+\SEMF cog
+\ASP transition, process
+\CAUS yak.kix hacer a que se enfadara
+\CMTS get tired of doing some work, and don't want to keep doing it
+\date 03/Jan/80
+\lex kokx
+\_no 00050
+\SPG tronar
+\ENG for joints to crack
+\EX
+\XSP
+\XEN
+\ROOT kokx 12
+\SEMF body
+\ASP momentaneous
+ZOH001R0611007.txt
+\CAUS yak.kokx@ hacer tronar
+\CMTS vi means st like: joints crack in the morning when you get up
+\date 03/Jan/80
+\lex ko7kx
+\_no 00051
+\SPG roncar
+\ENG to snore
+\EX
+\XSP
+\XEN
+\ROOT ko7kx Il
+\SEMF speak
+\ASP activity
+\CMTS no caus
+\date 03/Jan/80
+illogical
+\lex konh
+\_no 00052
+\SPG gatear, como criatura
+\ENG to crawl, like a baby
+\EX konhpa y witt@
+\XSP gateo* la criatura
+Page 12

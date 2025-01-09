@@ -1,0 +1,48 @@
+\DSRC HAJ94
+\CMTS CK-PH - OK
+\lex 7anh-jepx. '@y
+\_no 00065
+\PSH [7anhjepx@y-]
+\UND 7anh-jepx.7@y
+\MB BOCA, agarrar_con_ji*cara, SUF
+\VAR
+\GRAM vt
+\USE
+\SPG echar un poquito demas con ji*cara
+\ENG to scoop out a little more
+\SLGR
+\EXU 7@y+ 7anh-jepx. '@y-wa bi k@x.i mas toy.kuy7
+\XPSH [7@y 7anhjepx@yy@ bi k@xi mas toykuy7.]
+\XSP Le echo* otro poquito de comida mas de lo que dieron.
+\XEN She scooped out a little more food.
+\SEMF
+\ETYM
+\ETL
+\ROOT jepx
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\lex 7anh-jey. '@y
+ZOH004R0011001.txt
+\PSH [7anhjeyy@y-]
+\UND 7anh-jey.7@y
+\MB BOCA, batir, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG batir para alguien; batir un poco dema*s
+\ENG to stir for someone; to stir a little more
+\SLGR
+\EXU 7@y+ 7anh-jey.7@y-w@ 7uk-jey.e
+\XPSH [7@y 7anhjeyy@yy@ 7ukjey.]
+\XSP Batio* pozol para alguien.
+\XEN She stirred pozole for someone.
+\SEMF
+\ETYM
+\ROOT jey
+\RTGR P (T3)
+\DSRC HAJ95
+\lex 7anh-je'k.e
+\_no 00067
+\LG MIG

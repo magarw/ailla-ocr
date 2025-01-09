@@ -1,0 +1,41 @@
+124
+manteniendo una distancia pareja entre sí; 3- la existencia de una jerarquía de acentos: existen
+varios niveles de acento (primario, secundario, terciario, etc.) que se asignan de forma cíclica,
+es decir, por etapas durante la derivación fonológica, lo que presupone, nuevamente, una
+concepción jerárquica de la estructura prosódica; y, 4- imposibilidad de asimilación: una
+sílaba acentuada inhibe el emparejamiento o "contagio" acentual de la sílaba inmediata
+anterior así como de la inmediata posterior dado que el acento, desde esta perspectiva, no se
+considera como rasgo ni segmento sino como un punto en el tiempo que se destaca por
+contraste y, por lo tanto, en forma relativa con su entorno.
+En una primera instancia, la teoría métrica propuesta por Hayes (1981 y ss.) reducía
+todos los rasgos del acento a una estructura de árbol. Las diferentes reglas métricas aportaban
+la dirección y la forma de la jerarquía que derivaba en ramificaciones binarias donde cada par
+de nodos eran identificados secuencialmente como "S" (strong fuerte dominante
+acentualmente) vs. "W" (weak débil). Prototípicamente, dos niveles jerárquicos eran
+especialmente focalizados: el pie o la unidad que contiene la sílaba acentuada, y la palabra
+prosódica, que agrupa varios pies. Esta estructuración en “ramas” representaba gráficamente
+(en el primer modelo de la teoría) la prominencia relativa de las sílabas y la complejidad
+interna de la palabra fonológica. En las últimas versiones de la teoría, la representación adopta
+el modelo de grillas con niveles (como las que presento a continuación). Las reglas métricas
+intervienen en la proyección de la rima de las sílabas, es decir, en los segmentos que siguen al
+"onset" de o. Allí adquiere importancia la duración temporal de la sílaba, es decir, su "mora"
+(u). Las sílabas que adoptan el acento principal son aquellas dominadas por los nodos fuertes,
+mientras que las restantes adoptan acentos menores (en términos relativos de prominencia).
+=
+=
+emisión (U)
+|
+frase entonacional (1)
+1
+frase fonológica (4)
+|
+palabra prosódica (w)
+|
+pie (f)
+|
+sílaba (0)
+|
+mora (µ)
+=
+Los niveles prosódicos que se relacionan e implican entre sí conforman la siguiente
+arquitectura jerárquica (Selkirk 1986; Nespor y Vogel 1986; Hayes 1995):

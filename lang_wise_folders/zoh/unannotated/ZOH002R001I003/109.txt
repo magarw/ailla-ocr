@@ -1,0 +1,47 @@
+(vii)
+(4.32)
+(i)
+(ii)
+'entonse bi matumu de tuwang jama 'antes
+Pentonses bi matumu de tuwaŋ hama ?antes
+entonses DEF mayordomo de tres día antes
+4.9. Intensifiers
+There are three intensifiers in MIG Zoque: wenu (we:n), bayun (ban) and
+hakke (hak). These are frequently shortened to the forms given in parentheses.
+They all mean the same thing - 'very; a lot'. All three intensifiers can modify
+either verbs or adjectives. The corpus shows a preference for hakke with verbs
+and ban with adjectives; wenu is considerably rarer. The examples in (4.32)
+were taken from the lexicon or elicited.
+(v)
+'øy nuktzøyxukpa
+?əy+ nuk=cəy-šuk-pa
+3E+ agarrar=atorarse-3PL-INC
+'Entonces los mayordomos, de tres días antes, hacen el uso sexual.'
+(ZOH001R022-005-6)
+ban toppa
+bayun 0 top-pa
+mucho 3A be_hot-INC
+'Hace mucho calor.'
+jakke 'angje'kkø
+hakke 0 ?aŋ.he?k-wǝ
+mucho 3A tener_miedo-COM
+'Tuvo mucho miedo.'
+we:n jayyø
+wenu 0 hay-wə
+mucho 3A tardar-COM
+'Se tardó mucho.'
+(iii)
+(iv) jak jununkuy'
+(vi)
+bayun toya'
+bayun 0 toy.A?
+mucho 3A doler.NOM2
+'muy enfermo'
+84
+hakke junun.kuy?
+mucho tener_cosquillas.INSTRI
+'muy cosquilloso'
+wenum wittø
+wenu ?ǝm+ wit-wE
+mucho 2A+ caminar-COM
+'Caminaste mucho.'

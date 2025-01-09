@@ -1,0 +1,62 @@
+\ENG fart
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT tzix
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex tzonh.naanh
+\_no 00068
+\LG MIG
+\PHO [tzonhna*nh]
+\UND tzonh.naanh
+\MB topar, MED
+\VAR
+\GRAM meas
+\SPG cerco; topo* un tramo
+\ENG fence; he set one rail
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT tzonh
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex tzoy7=n@7
+\_no 00069
+\LG MIG
+\PSH [tzo*yn@7]
+\UND_tzoy7=n@7
+\MB remedio, agua
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG agua de remedio; medicina liquida
+\ENG liquid medicine
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+\1ex tzoy7-tzi7
+\_no 00070
+\LG MIG
+ZOH001R0611003.txt
+\PSH [tzoytzi-]
+\UND tzoy7=tzi7
+\MB remedio, dar
+\VAR
+\GRAM vt:incorp
+Page 24

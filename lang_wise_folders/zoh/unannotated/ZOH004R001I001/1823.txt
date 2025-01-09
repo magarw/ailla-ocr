@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG jugar de resbaladia
+\ENG to play at sliding
+\EXU yuk.jitzi-w@ y+ 7ok.manh-E
+\XPSH [Yukjitziw@y 7okma:we.]
+\XSP Empezo* jugar de resbaladia.
+\XEN She started to play at sliding.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jitzi
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex yuk. jix
+\_no 04244
+\LG MIG
+\PSH [yukjix-]
+\UND yuk. jix
+\MB ARR, remojar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG levantar con tortilla (o algo en esta forma)
+\ENG to lift up with a tortilla (or something similarly shaped)
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jix
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 17/Jul/95
+\lex yuk.jok
+\_no 04245
+\LG MIG
+\PSH [yukjok-]
+\UND yuk.jok
+\MB ARR, ahumarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar a ahumarse
+\ENG to start to become smokened
+\SPL
+ZOH004R0011001.txt
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+Page 1823

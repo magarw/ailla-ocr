@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT x@nh (or x@nh7 ?)
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex koya7
+\_no 01493
+\LG MIG
+\PSH
+\UND koya7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG tomate; jitomate
+\ENG tomato
+\EXU 1 komi' koya7
+\XSP 1 tomate grande
+\XEN 1 big tomato
+\EXU 2 chik/wanin' koya7
+\XSP 2 tomatito (despues de los grandes, vienen otros pequen~os)
+\XEN 2 small tomato (after the big ones, the little ones come on)
+\EXU 3 yuchi koya7
+\XSP 3 ojo de venado
+\XEN 3 tiny red tomato
+\SYN
+LF:7okox
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex koya' 7okox
+\_no 01494
+\LG MIG
+\PSH [koya 7okox]
+\UND koya7 7okox
+\MB tomate, mata
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG mata de tomate
+\ENG tomato plant
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+ZOH004R0011001.txt
+\CMTS
+\date 07/Feb/96
+Page 649

@@ -1,0 +1,62 @@
+\SYN
+\ROOT jatikx
+\RTGR I1
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex jep.naanh
+\_no 00009
+\LG MIG
+\PHO [jepna*nh]
+\UND jep.naanh
+\MB trayar_maguey, MED
+\VAR
+\GRAM meas
+\SPG una trayada de maguey
+\ENG a strip of maguey
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT jep
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex jetz.naanh
+\_no 00010
+\LG MIG
+\PHO [jetzna*nh]
+\UND jetz.naanh
+\MB rascar, MED
+\VAR
+\GRAM meas
+\SPG el tanto que se puede agarrar con la mano rascando
+\ENG the amount you can scratch up with the hand
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT jetz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex jim.naanh
+\_no 00011
+\LG MIG
+\PHO [jimna*nh]
+\UND jim.naanh
+\MB rozar, MED
+\VAR
+ZOH001R0611003.txt
+\GRAM meas
+\SPG una tocada al pasar
+\ENG a touch in passing
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT jim
+\RTGR T3
+Page 4

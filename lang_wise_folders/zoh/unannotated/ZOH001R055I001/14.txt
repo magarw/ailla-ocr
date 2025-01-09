@@ -1,0 +1,89 @@
+\tx ye7tztz@ 7@y t@kjo7
+\mb ye7tz -w@ 7@y tak
+7@y tak
+\sg1 11egar-COM 3E
+\egl arrive-COM 3E house-LOC2 San Miguel
+t@k7anhj@7
+t@k7anhj@7
+-jo7
+casa -LOC2 San_Miguel
+\zoq Ye7tztz@ 7@y t@kjo7 T@k7anhj@7.
+\fts Llego
+en su casa en San Miguel.
+\fte He arrived at his house in San Miguel.
+\com
+\idx
+\tx k@yujpa
+\mb k@
+\ref ZOH001R055 059
+\_no 00060
+moxo
+p@n@kka*m
+para 7@y
+\tx 7i joypi7t kay
+\mb 7i joypi7t ka -y moxo
+p@7 -nak -w@ -7am para 7@y
+\sg] y
+otro_di*a DCT3-TMP hermoso poner-irse-COM-YA
+para 3E
+\egl and next_day DCT3-TMP beautiful put -go -COM-NOW for 3E
+ZOH001R0551001.txt
+7@y mok
+-pa 7@y mok
+-INC 3E mai*z
+-yuj
+\sg1 AFUERA-rozar
+\eg1 AWAY -clear_field-INC 3E corn
+\zoq 7i joypi7t kay moxo p@n@kka*m_para 7@y k@yujpa 7@y mok.
+\fts Y el otro di*a ya llevo* peo*n para limpiar su maiz.
+\fte And the next day now turned out beautiful for cleaning the cornfield.
+\com
+\idx aux_p2
+\ref ZOH001R055 060
+\_no 00061
+\tx naxe ga
+\mb naxe ka -7
+\sg1 verdad DCT3-NOM1 dos
+\egl truth DCT3-NOM1 two
+\ref ZOH001R055 061
+\_no 00062
+\tx k@yujtukk@
+\mb k@ -yuj
+\sg1 AFUERA-rozar
+\eg1 AWAY -clear_field-finish
+metzanh p@7tjama 7@y
+metza*nh p@7t -jama 7@y
+pasar-dia
+pass -day
+3E
+3E
+-tuk
+-wa
+-terminarse-COM
+-COM
+\zoq Naxe, ga metzanh p@7tjama 7@y k@yujtukk@,
+\fts De verdad, de esos dos di*as lo acabo* de limpiar,
+\fte In fact, in these two days he finished cleaning the field,
+\com
+\idx aux_p2
+minna*m
+min
+\tx 7i para w@xt@kpi7t kay
+\mb 7i para w@xt@kpi7t ka
+\sg] y
+-y
+para tras_pasado DCT3-TMP
+\egl and for day_after DCT3-TMP come -COM-NOW
+MI M
+-w@ -7am
+venir-COM-YA
+\zoq 7i para w@xt@kpi7t kay minna*m.
+\fts y para tras pasado ya se vino.
+\fte and on the day after now he came.
+\com
+\idx
+\ref ZOH001R055 062
+\_no 00063
+\tx tum jama martes ye7tztz@ y@ji
+katemako
+Page 14

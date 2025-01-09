@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT 7utz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 13/Jul/95
+\lex jot.naanh
+\_no 00015
+\LG MIG
+\PHO [jotna*nh]
+\UND jot.naanh
+\MB cortar_cafe*, MED
+\VAR
+\GRAM meas
+\SPG una de las acciones de cortar cafe* con la mano
+\ENG one stroke of the hand, picking coffee
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT jot
+\RTGR T3
+\DSRC HAJ95
+\CMTS you pull the beans from the branch in a long stroke
+\DATE 03/Jan/80
+\lex junun.naanh
+\_no 00016
+\LG MIG
+\PHO [jununna*nh]
+\UND junun.naanh
+\MB hacer_cosquillas, MED
+\VAR
+\GRAM meas
+\SPG una cosquillada
+\ENG a tickle
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT junun
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+ZOH001R0611003.txt
+\lex jup.naanh
+\_no 00017
+LG MIG
+\PHO [jupna*nh]
+\UND jup.naanh
+\MB jalar, MED
+\VAR
+\GRAM meas
+\SPG una cubeta de agua; un viaje al ri*o a cargar agua
+\ENG a bucketful of water; one trip to the river to fetch water
+\EXU tum jup.naanh n@7 7@y jup-min-w@
+\XPSH [Tum jupnanh n@7 7@y jupminn@.]
+\xSP Trajo una cubeta de agua.
+\XEN He brought a bucket of water.
+\SYN
+Page 6

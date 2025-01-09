@@ -1,0 +1,63 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ROOT kom
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex 7anh-kuk.'aH
+\_no 00106
+\LG MIG
+\PSH [7anhkukka-]
+\UND 7anh-kuk.7aH
+\MB BOCA, centro, VERS1
+\VAR
+\GRAM vt: versl
+\SCI
+\USE
+\SPG juntar, ajuntarse
+\ENG to join, to gather
+\SPL ya(k). 'anh.kuk. 'aH
+\SLGR CAUS
+\SLGL juntar // to join
+\EXU 1 7@y+ 7anh=kuk.'aH-w@
+\XPSH 1 [7@y 7anhkukkaw@.]
+\XSP 1 Lo junto*.
+\XEN 1 He joined it together.
+\EXU 2 7@y+ yak.'anh.kūk. 'aH-pa+'am
+\XPSH 2 [7@y yanhkukkapa*m.]
+\XSP 2 Ya lo esta* juntando.
+\XEN 2 Now she's getting them together.
+SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex 7anhk@
+\_no 00107
+\LG MIG
+\PSH
+\UND 7anhk@
+\MB
+\VAR
+\GRAM av
+\SCI
+\USE
+\SPG afuera
+\ENG outside
+\SPL
+\SLGR
+\EXU
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+Page 46

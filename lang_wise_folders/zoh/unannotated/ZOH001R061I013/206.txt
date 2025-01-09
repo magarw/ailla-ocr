@@ -1,0 +1,52 @@
+\lex xakaka7
+\_no 02580
+\SPG vi*bora
+\ENG snake
+\lex xake7
+\_no 02581
+\SPG suegra
+\ENG mother_in_law
+\1ex xa7kx
+\_no 02582
+\SPG tirar_salpicando
+\ENG spatter_blood
+\lex xam
+\_no 02583
+\SPG calentarse
+\ENG warm_up
+\lex xanh
+\_no 02584
+\SPG aire
+\ENG wind
+\lex xanh
+\_no 02585
+\SPG machetear
+\ENG cut_w_machete
+\lex xapu
+\_no 02586
+\SPG jabo*n
+\ENG soap
+\lex xatz
+\_no 02587
+\SPG tentar ; torcer
+\ENG touch; twist
+\lex xawa
+\_no 02588
+\SPG aire
+\ENG wind
+\lex xaxa7
+\_no 02589
+\SPG gordo
+\ENG Fat
+\lex xejke7t
+\_no 02590
+\SPG yagual; resistidor
+\ENG
+ZOH001R0611013.txt
+\lex xek
+\_no 02591
+\SPG regar (con) agua
+\ENG sprinkle (with) water; to irrigate
+\lex xekxek
+\_no 02592
+Page 206

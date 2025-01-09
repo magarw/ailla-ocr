@@ -1,0 +1,60 @@
+\CMTS
+\date 03/Jan/80
+\lex pot
+\_no 00090
+\SPG ponerse blanquisco
+\ENG to become whitened
+\EX
+\XSP
+\XEN
+\ROOT pot Ix
+\SEMF condition
+\ASP process
+\CAUS yak.pot hacer blanquisco
+\date 03/Jan/80
+\lex potz
+\_no 00091
+\SPG cansarse
+\ENG to get tired
+\EX potztza*m
+\XSP ya esta* cansado o aburrido
+\XEN he's tired or bored
+\ROOT potz I2
+\SEMF body, cog
+\ASP process
+\CAUS yak.potz cansar
+\date 03/Jan/80
+\lex poy
+\_no 00092
+\SPG juirse (animal o cristiano); irse con hombre (mujer); ir en otro lugar
+(animal); cambiarse de lugar (animal)
+\ENG to flee (animal or person); for a woman to go with a man; to go
+elsewhere (animal); to change places (animal)
+\EX poyy@ yom7une
+\XSP se juyo* la muchaca
+\XEN the girl ran_away
+\EX 7@y yakpoyy@ 7eyajonanh
+\XSP lo mando* arriar a un lado
+\XEN he herded them elsewhere
+\ROOT poy Il
+\SEMF motion
+ZOH001R0611007.txt
+\ASP activity
+\CAUS yak.poy otro mandar que lo arriera (como un animal)
+\CMTS
+\date 03/Jan/80
+\lex pu
+\_no 00093
+\SPG salir pus
+\ENG to ooze pus
+\EX
+\XSP
+\XEN
+\ROOT pu 12
+\SEMF sickness, body
+\ASP process
+\CAUS yak.pu
+\CMTS
+\date 03/Jan/80
+\lex pujuj
+Page 22

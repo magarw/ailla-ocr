@@ -1,0 +1,68 @@
+\USE
+\SPG jaguar; tigre real
+\ENG jaguar
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS NRM 17.6
+\date 28/Jan/96
+\lex tzikin powi7
+\_no 03354
+\LG MIG
+\PSH
+\UND tzikin powi7
+\MB pinto, gavila*n
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG gavila*n pinto
+\ENG a type of hawk
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS CK-PH
+\date 26/Jun/96
+LF:7anmal
+\EXU
+\XSP
+-
+\lex tzikin=tz@k
+\_no 03355
+\XEN
+\SYN
+LF: jon
+\LG MIG
+\PSH [tzikintz@k-]
+\UND tzikin=tz@k
+\SEMF
+\ETYM
+\ETL
+\MB pinto, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer pinto
+\ENG to make spotted
+\SPL
+\SLGR
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+HAJ:96, all the powi7's sound the same to me
+ZOH004R0011001.txt
+Page 1442
+ok

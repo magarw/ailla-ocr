@@ -1,0 +1,74 @@
+\ref ZOH001R036 999-081
+\_no 01064
+\tx ye7xe
+m y@kp@kk@ba
+\mb ya -7xe 7@m y@k -p@k
+\sg1 DCT1-SIM 2E
+\eg1 DCT1-SIM 2E INSTR2-get
+\ref ZOH001R036 999-082
+\_no 01065
+\tx GSM: metzanh
+\mb GSM
+metza*nh
+\sg1 GSM: dos
+\eg1 GSM: two
+\zoq GSM: Metzanh.
+fts GSM: Los dos.
+\fte GSM: Two.
+\com
+\idx
+-7@y-pa 7i
+INSTR2-agarrar-SUF-INC y
+\ref ZOH001R036 999-083
+\_no 01066
+\tx OSM: metzanh
+\mb OSM
+metza*nh
+\sg1 OSM: dos
+\egl OSM: two
+\zoq OSM: Metzanh.
+\fts OSM: Dos.
+\fte OSM: Two.
+\com
+\idx
+\zoq Ye7xem y@kp@kk@ba 7i y@j@kkanh_ne7.
+\fts Asi* lo ves a meter y el otro lado tambien.
+\fte This you put in and the other side too.
+\com
+\idx
+\ref ZOH001R036 999-084
+\_no 01067
+\tx kay
+7anhwakka*m
+\mb ka -y 7anh -wak
+\zoq Kay 7anhwakka*m.
+\fts Ya se abrio*.
+-w@ - 7am
+\sg1 DCT3-TMP BOCA -vaciar-COM-YA
+\eg1 DCT3-TMP MOUTH-empty -COM-NOW
+\fte Now it has opened.
+\com
+\idx
+ZOH001R0361001.txt
+\ref ZOH001R036 999-085
+\_no 01068
+\tx kay
+ya
+\mb ka -y ya
+-w@-7am
+\sg1 DCT3-TMP NEG doler-COM-YA
+\eg1 DCT3-TMP NEG hurt -COM-NOW
+toyya*m
+toy
+71 y@j@kkanh
+\zoq kay ya toyya*m.
+\fts Ahora ya no duele.
+\fte Now it doesn't hurt.
+\com
+ne7
+ya -jakkanh ne7
+DCT1-***
+-SUF-INC and DCT1-***
+Page 230
+tambien
+also

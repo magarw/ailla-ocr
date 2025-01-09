@@ -1,0 +1,86 @@
+\egl 3E count -3PL-COM one two
+\zoq 7@y mayxukk@, "Tum@, metza*nh, tuwa*nh, maktzaxxanh, moxxanh,
+\zoq tujta*nh,'
+"I
+\fts Lo contaron, "Uno, dos, tres, cuatro, cinco, seis,"
+\fte They counted, "One, two, three, four, five, six,
+\ref ZOH001R026 117
+\_no 00103
+\tx 7ax ke
+\mb 7axta ke
+\sg] hasta que
+llegar-COM diez
+\egl until that arrive-COM ten
+ye7tztz@ makkanh
+ye7tz -w@ makkanh
+\zoq 7ax ke ye7tztz@ makkanh.
+\fts hasta que llego* los diez.
+\fte until they got to ten.
+\ref ZOH001R026 118
+\_no 00104
+n@mm@ 7@y mayy@
+n@mm@ 7@y may
+\tx
+\mb
+\sg1 PROG 3E
+contar-COM ahora diez
+\eg1 PROG 3E count -COM now ten
+\ref ZOH001R026 119
+\_no 00105
+ZOH001R0261001.txt
+three four
+7ora makkanh kaxna*nh
+-w@ 7ora makkanh kax
+dar_pasos-MED
+\zoq Namm@ 7@y mayy@ 7ora makkanh_kaxna*nh,
+\fts La hora que estaba contando los diez pasos,
+\fte when they were counting ten paces,
+\tx kekwituw@
+\mb kek
+\sg1 brincar-regresar-COM DEF tigre
+\egl hop
+-return -COM DEF jaguar
+-witu7 - wa bi
+\ref ZOH001R026 120
+\_no 00106
+\tx 7i nikekk@t@w@
+\mb 7i ni -kek
+\sg] y
+\egl and PSE-hop
+bi kajanh
+kajanh
+\zoq kekwituw@_bi kajanh,
+\fts brinco* el tigre,
+\fte the jaguar turned and jumped,
+-7@y-t@7 -w@
+PSE-brincar-SUF-querer-COM
+\ref ZOH001R026 121
+\_no 00107
+\tx 7@y 7ixxam
+\mb 7@y 7ix-w@ -7am ke
+\sg1 3E ver-COM-YA que
+\egl 3E see-COM-NOW that
+step
+\zoq 7i_nikekk@t@w@ bi metzanh manhkuyp@7k p@n.
+\fts y le quiso brincar al dos pies.
+\fte and he wanted to jump on the two-legged one.
+bi metzanh manhkuyp@7k
+bi metza*nh mạnh -kuy7
+DEF dos
+-SUF-want -COM DEF two
+ke kekwituw@
+kek
+hop
+-naanh
+-MEAS
+five
+bi kajanh
+-witu7 -wa bi kajanh
+brincar-regresar-COM DEF tigre
+-return -COM DEF jaguar
+Page 22
+six
+p@n
+-p@7k_p@n
+pisar-INSTR1-REL2 hombre
+step -INSTR1-REL2 man

@@ -1,0 +1,60 @@
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tan [1]
+\_no 00270
+\SPG completar (se)
+\ENG to finish
+\SEMF aspect
+\ASP achievement
+\ARG
+\NOM tan.neenh
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tan [2]
+\_no 00271
+\SPG (tirarle y) pegarle
+\ENG (to throw and) to hit something
+\SEMF hit
+\ASP achievement
+\ARG
+\NOM
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tani
+\_no 00272
+\SPG Estanislao (nombre de un hombre)
+\ENG Estanislao (a man's name)
+\SEMF nombre de un hombre
+\lex tanh
+\_no 00273
+\SPG estar ancho
+\ENG to be wide
+\SEMF condition
+\ASP state
+\ARG
+\NOM
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\lex tax
+\_no 00274
+\SPG 11enarse
+\ENG to fill
+\SEMF arrange
+\ASP activity, achievement
+Page 67

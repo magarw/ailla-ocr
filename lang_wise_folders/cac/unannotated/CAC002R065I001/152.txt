@@ -1,0 +1,28 @@
+147
+fier nouns, and may never be an uninflected numeral root.
+The maximum complexity of noun phrases is represented by
+noun phrases which are or contain embedded sentences; these
+sentences may in turn contain other noun phrases with embed-
+ded sentences. The major types of noun phrases are discussed
+below.
+Simple Noun Phrases
+Simple noun phrases consist of a single noun stem,
+which may or may not be inflected. Examples of simple noun
+phrases are found in the discussion of the inflection of noun
+stems, pages 130-134.
+Specifier Noun Phrases
+Any noun which is related to a specifier--any one of
+the members of a lexical class whose taxon is a specifier--
+may be preceded by that specifier to form a specifier noun
+phrase. If the noun stem is inflected by prefixes, those
+prefixes follow the specifier. Similarly, any noun phrase
+which does not already begin in a specifier, whose head or
+referent is a noun related to a specifier, may be preceded
+by a specifier noun root to form a specifier noun phrase.
+Likewise, an embedded sentence which does not already begin
+in a specifier, whose referent is a noun related to a speci-
+fier, may be preceded by a specifier root to form a specifier
+phrase. The specifier root may also be inflected for plural
+(see page 134). Examples of specifier noun phrases are:
+//nok' čítam // pig, composed of the specifer //nčk' // animal
+AN

@@ -1,0 +1,62 @@
+\SYN
+\SEMF cognitivve
+\ASP activity
+\ARG
+\NOM mek.e7, mek.kuy7, ko.mek.e
+\SUB 7anh.mek. '@y, yuk.mek
+\ETYM
+\ETL
+\ROOT mek
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex mek.e7
+\_no 01932
+\LG MIG
+\PHO [meke7]
+\UND mek.e7
+\MB mentir, NOM7
+\VAR
+\GRAM pcp
+\SPG mentira
+ENG lie
+\EXU tum mek.e7
+\XPSH [tum meke7]
+\XSP una mentira
+\XEN a lie
+\SYN
+\ROOT mek
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex mek.kuy7
+\_no 01933
+\LG MIG
+\PSH [mekkuy7]
+\UND mek. kuy7
+\MB mentir, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG chisme
+\ENG gossip
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT mek
+\RTGR 11
+\DSRC TK94
+\CMTS
+\date 02/Oct/94
+\lex mek-tzam-pa+a7k
+\_no 01934
+\LG MIG
+ZOH004R0011001.txt
+Page 833

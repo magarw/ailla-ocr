@@ -1,0 +1,103 @@
+\mb 7@y 7ix-w@ bi tzikin
+kajanh ke
+ZOH001R0261001.txt
+komi7 -7am
+\sg1 3E ver-COM DEF pinto tigre que grande-YA
+\egl 3E see-COM DEF spotted jaguar that big
+\zoq 7@y 7ixx@ bi tzikin kajanh ke komia*m.
+\fts Lo vio* el tigrillo pinto que ya estaba grande.
+\fte The little spotted jaguar saw that now he was big.
+\ref ZOH001R026 011
+\_no 00011
+\tx 7@y n@mjayy@
+\mb 7@y n@m
+7@y
+\tx tunh
+\mb tunh
+n@m -jay -w@ bi mama
+\sg1 3E decir-APPL-COM DEF mama*
+\egl 3E say -APPL-COM DEF mother 1Prn mother 1E
+\sg1 camino
+\eg1 road
+\ref ZOH001R026 013
+\_no 00012
+\tx_n@kpa*m
+bi mama d@x mama 7@n p@kpa*m
+d@x mama
+7@n p@k
+1Prn mama* 1E
+\zoq 7@y n@mjayy@ bi mama, "D@x mama 7@n p@kpa*m den tunh.
+\fts Le dijo a su mama, "Yo mama* ya voy a agarrar mi camino.
+\fte He said to the mother, "Mama I'm going to take my road.
+\ref ZOH001R026 014
+\_no 00013
+\tx y@7
+\mb y@
+n@k -pa -7am 7@n
+\mb
+\sg1 irse-INC-YA 1E
+7@n me7tztz@
+me7tz -w@
+buscar-dINC 1E
+\egl go -INC-NOW 1E look -dINC 1E eat -INSTR1
+\zoq N@kpa*m 7@n me7tztz@ 7@n k@xkuy7.
+\fts voy a buscar mi comida.
+\fte I'm going to look for my food.
+tzawowojo
+tza7
+-NOW
+-7
+-WOWO
+\sg1 DCT1-NOM1
+piedra-agujero-LOC2
+\eg1 DCT1-NOM1 rock -hole
+\ref ZOH001R026 015
+\_no 00014
+\zoq Y@7 tzawowojo n@nti yakti.
+\fts En esta cueva no hay nada.
+\fte There's nothing in this cave.
+7@n k@xkuy7
+7@n k@x -kuy7
+comer-INSTR1
+\tx ya da k@xxo
+\mb ya da k@x -7oy -A
+\sg1 NEG 1A comer-ANTIP-nINC
+n@nti
+-jo7 n@nti
+no_hay
+-LOC2 there isn't nothing
+\zoq Ya da k@xxo," n@mpa bi tzikin kajanh.
+\fts No como dice," el tigrillo pinto.
+"I
+\fte I don't eat, says the spotted jaguar.
+-pa -7am
+agarrar-INC-YA
+get
+yakti
+yakti
+nada
+n@mpa
+bi tzikin kajanh
+n@m -ра bi tzikin kajanh
+decir-INC DEF pinto tigre
+\egl NEG 1A eat -ANTIP-nINC say -INC DEF spotted jaguar
+\ref ZOH001R026 016
+\_no 00015
+yakkanhtzonhnhoyy@
+\tx 7i bi mama
+\mb 7i bi mama yak -7anh -tzonh-7oy -wa
+\sg] y
+DEF mama* CAUS-BOCA -unir -ANTIP-COM no
+\eg1 and DEF mother CAUS-MOUTH-join -ANTIP-COM no
+Page 3
+de n
+de 7@n
+de 1E
+-INC-NOW of 1E
+n@7tti jay
+P&R
+manak
+manak
+n@7tti jaya
+macho hijo/a
+male child

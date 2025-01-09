@@ -1,0 +1,66 @@
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+■
+\SPG quebrar, como rama, lapiz, brazo,
+\ENG to break, like a branch, pencil, arm,
+\SPL kit.7oy
+\SLGR ANTIP
+\SPL kit.7@m
+\SLGR PASS
+\SLGL quebrarse // to break
+\SPL kit.ten
+\SLGR PRSV
+\SLGL tener quebrado // to have broken
+\EXU 1 kit.7@m-w@ bi kuy
+\XPSH 1 [Kitt@mm@ bi kuy.]
+\xSP 1 se quebro* el palo.
+\XEN 1 The stick broke.
+\XSP 2 Tiene quebrado los palitos.
+\XEN 2 She has the little sticks broken.
+\SYN
+\SEMF break
+\ASP achievement
+\ARG patient
+\NOM kit.17
+\EXU 2 7@y+ kit.ten-w@ bi chik kuy d@k+('ay)
+\XPSH 2 [7@y kittenn@ bi chik kuy d@kka.]
+\ROOT kit
+\RTGR T3
+ZOH004R0011001.txt
+\SUB 7ok.kit.'@y, jo.kit, j@x-kit, ko.kit, kuk.kit, win=kit
+\ETYM
+\ETL
+\lex kit.i7
+\_no 01256
+\LG MIG
+\PHO [kiti7]
+\UND kit.E7
+\DSRC HAJ94
+\CMTS
+\CMTS break it with the hands, or it could be the feet
+\date 03/Jan/80
+\MB quebrar, NOM7
+\VAR
+\GRAM pcp
+\SPG quebrado
+\ENG broken
+\EX kuy kit.i7
+\XPSH [kuy kiti7]
+\XSP palo quebrado
+\XEN broken stick
+\SYN
+\ROOT kit
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+:
+\lex ki7t
+\_no 01257
+■■■
+\LG MIG
+\PSH
+Page 548

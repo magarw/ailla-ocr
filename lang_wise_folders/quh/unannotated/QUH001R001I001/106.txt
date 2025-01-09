@@ -1,0 +1,58 @@
+(15)
+a-
+(16)
+b-
+a-
+b-
+"tata-yki-man-chu
+padre-POS2-DAT-INT
+¿a tu papá a tu mamá
+willa-chu
+avisar (esp.)-INT
+estas yendo a avisar?'
+El siguiente ejemplo muestra la posibilidad de combinación de -man con partículas
+interrogativas locativas (línea b). También se trata de un fragmento de canción registrada en
+terreno:
+mama-yki-man-chu
+madre-POS2-DAT-INT
+ri-sha-nki"
+ir-ASP/DUR-2S
+"siq'imira p'ity cintura
+hormiga
+pequeña cintura (ESP.)
+¿pequeña cintura de hormiguita
+(17) puñurpa-y-man-cha
+(18) taka-y
+may-man
+curri-sha-nki”
+dónde-ALAT correr-ASP/DUR-2S
+a dónde vas corriendo?'
+He observado que en enunciados construidos en primera persona, es decir, en aquellos
+enunciados que constituyen predicaciones del hablante sobre sí mismo, se selecciona la forma
+compuesta por el sufijo -man para expresar significados evidenciales. La presencia del sufijo
+refiere hechos que ocurren fuera de la conciencia del hablante y sobre los que el hablante no
+tiene seguridad ninguna, como en el siguiente ejemplo:
+130
+ka-rqa
+dormir-1S-IRR-EVID (inferencia) ser-PAS
+'me debo haber quedado dormida'
+El ejemplo (17) contrasta con el siguiente (18) en que en el (18) existe una prueba que
+da cuenta de lo ocurrido: el machucón de la rodilla; más allá de que se trata también de una
+información mediada por inferencia:
+ka-rqa-ku-ni-cha
+golpear-1POS ser-PAS-REFL-1S-EVID
+'me debo haber golpeado la rodilla
+106
+, 131
+moqo-y-ta
+rodilla-POS1-AC
+En otras palabras, una información que el hablante adquiere por conjetura o inferencia
+débil (como lo señala el sufijo evidencial tanto en 17 como en 18) promueve la selección de
+una forma de irrealis cuando el hablante no tiene pruebas que confirmen la realidad de la
+proposición.
+130
+En términos de Kratzer (1991) puede tratarse de una base modal epistémica / circunstancial.
+131
+Según Kratzer, aquí se trata de una base modal circunstancial / circunstancial ya que el golpearse la rodilla es
+compatible con los hechos a disposición del locutor. Hasta ahora, no hizo falta hablar de ordering source ya que
+en todos los casos, éste se establece contextualmente.

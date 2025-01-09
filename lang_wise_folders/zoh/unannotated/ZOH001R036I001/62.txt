@@ -1,0 +1,78 @@
+\zoq Minpa*m xutjąyy@ donde teji7aw@ gad@ golpe.
+\fts vienes a agujerear donde esta ese golpe.
+\fte Now you come pierce it where he has that blow.
+\com
+\idx
+\ref ZOH001R036 286
+\_no 00284
+7@m xutjaba
+bi naka
+\tx
+\mb 7@m xut
+\sgl 2E
+-jay -pa bi naka
+agujerar-APPL-INC DEF cuero
+\egl 2E pierce -APPL-INC DEF skin
+\zoq 7@m xutjaba bi naka
+\fts Lo agujereas el cuero
+\fte You pierce the skin
+\com
+\idx
+\ref ZOH001R036 287
+\_no 00285
+\tx
+\mb
+7adondju
+golpe
+adonde-ju7 teji
+-7a -w@ golpe
+-VERS1-COM golpe
+\sg1 adonde-donde hay
+\eg1 where -where there_is-VERS1-COM blow
+teji7aw@
+\zoq 7adondju teji7aw@ golpe.
+\fts adonde esta* golpeado.
+\fte where the blow is.
+\com
+\idx
+\ref ZOH001R036 288
+\_no 00286
+\tx de gajim
+\mb de ka -ji7 -7@m
+\sg1 de DCT3-LOC1-2E
+-jay -w@ -7am
+agujerar-APPL-COM-YA
+\egl of DCT3-LOC1-2E pierce -APPL-COM-NOW
+\zoq De gajim xutjayya*m,
+\fts De ahi* ya lo agujerastes,
+ZOH001R0361001.txt
+\ref ZOH001R036 289
+\_no 00287
+xutjayya*m
+xut
+\fte Then now you have pierced it,
+\com
+\idx
+\tx minpa*m
+\mb min -pa -7am
+\sg1 venir-INC-YA
+\egl come -INC-NOW get
+p@kk@
+bi
+tzima7
+p@k -wa bi tzima7
+agarrar-dINC DEF ji*cara
+-dINC DEF dipper
+\ref ZOH001R036 290
+\_no 00288
+\zoq minpa*m p@kk@ bi tzima7,
+\fts vienes a agarrar una ji*cara,
+\fte you come get the gourd,
+\com
+\idx
+\tx_tzima chik nunu
+\mb tzima7 chik nunu7
+tzima de 7xenhp@
+tzima7 de-7
+Page 62
+-xenh -p@7

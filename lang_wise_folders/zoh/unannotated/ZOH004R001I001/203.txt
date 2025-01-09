@@ -1,0 +1,63 @@
+\NOM
+\SUB k@.n@k=7o7tz. '@y, ni.707tz-wak, nik. 'o7tz. '@y
+\ETYM
+\ETL
+\ROOT 707tz
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS 707tz.ney they put a stick on or under a very tall corn plant
+\CMTS so it bends over
+\CMTS EX. 4: he bent it with his own strength
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex 7oya
+\_no 00472
+\LG MIG
+\PSH
+\UND 7oya
+\MB
+\VAR
+\GRAM s(+poss)
+\SCI
+\USE
+\SPG cun~ada
+\ENG sister-in-law
+\EXU 7@n+ 7oya
+\XPSH [7@n 7oya]
+\XSP mi cun~ada
+\XEN my sister-in-law
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Jun/95
+ZOH004R0011001.txt
+\lex 70'k.a7
+\_no 00473
+\LG MIG
+\PSH [7oka7]
+\UND 707k.A7
+\MB calmarse, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG calma
+\ENG stillness
+\EXU 70'k.a' yo.jay-w@ bi chik mok
+\XPSH [7oka yojayy@ bi chik mok.]
+\XSP Le cayo* sereno la milpita.
+\XEN A stillness fell over the cornfield.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 707k
+\RTGR 12
+\DSRC TK94
+\CMTS get deriv's; CK-all
+\date 03/Jan/80
+Page 203

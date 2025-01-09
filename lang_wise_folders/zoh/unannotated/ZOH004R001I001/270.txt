@@ -1,0 +1,65 @@
+\ETL
+\ROOT %jaj F
+\DSRC TK94
+\CMTS
+\date 10/Jan/96
+\lex jajtzuku7
+\_no 00631
+\LG MIG
+\PSH
+\UND jajtzuku7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG hormiga
+\ENG ant
+\EXU yak jajtzuku7
+\XSP hormiga negra
+\XEN black ant
+\EXU xaj jajtzuku7
+\XSP hormiga con alas
+\XEN winged ant
+\EXU yuchi jajtzuku7
+\XSP hormiga biushi
+\XEN tiny ant
+\EXU ni7k jajtzuku7
+\XSP hormiga ma*s biushita
+\XEN tiniest ant
+\EXU (tzapatz)
+\XSP hormiga arriera
+\EXU tiny@ki7 jajtzuku7
+nuku7 jajtzuku7
+\XSP mataculebra, que pica mucho
+\EXU barsinh jajtzuku7
+\XSP hormiga barsi*n o pinto
+\XEN spotted ant
+\EXU pu7tzpu7tz jajtzuku7
+\XSP hormiga amarilla
+\XEN yellow ant
+\EXU chik jop@7 jajtzuku7
+\XSP hormiga largita
+\SYN
+LF:jajtzuku7
+\SEMF EZ
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH for final /7/: It's there: TK; later he pronounced it without
+/7/. need to check with other speakers, esp. the tapes made by BRR.
+\date 25/Jun/96
+\lex jajtzuku' t@k
+\_no 00632
+\LG MIG
+\PSH
+\UND jajtzuku7 t@k
+\MB hormiga, casa
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG hoyos de hormiguero
+Page 270

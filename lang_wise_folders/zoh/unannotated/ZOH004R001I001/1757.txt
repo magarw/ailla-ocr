@@ -1,0 +1,63 @@
+\XEN
+\SYN konhfes (a)=tz@k
+\SEMF
+\ETYM confesar
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK for konhfes (a)=tz@k; DONE/TK
+\date 26/Jun/96
+\lex yak.kopak=y@7kx
+\_no 04087
+\LG MIG
+\PSH [yakkopaky@7kx-]
+\UND yak.kopak=y@7kx
+\MB CAUS, cabeza, mover (se)
+\VAR
+\GRAM caus2
+\SCI
+\USE
+\SPG hacer cabecear
+\ENG to cause to nod
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT y@7kx
+\RTGR IX
+\DSRC HAJ94
+\CMTS
+\date 03/Nov/94
+\lex yak.k@.min.'oy
+\_no 04088
+LG MIG
+\PSH [yakk@minnoy-]
+\UND yak.k@.min.7oy
+\MB CAUS, AFUERA, venir, ANTIP
+\VAR
+\GRAM caus: antip
+\SCI
+\USE
+\SPG venir sin avisarle
+\ENG to come without warning
+\SPL
+ZOH004R0011001.txt
+\SLGR
+\EXU yak.k@.min.'oy-w@ tum de rrepente
+\XPSH [Yakk@:minnoyy@ tum de rrepente.]
+\XSP vino sin avisarle, de repente
+\XEN He came without warning, all of a sudden.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT min
+\RTGR 11
+\DSRC HAJ95
+\CMTS GET-EX HAJ:96 ok
+\date 26/Jun/96
+Page 1757

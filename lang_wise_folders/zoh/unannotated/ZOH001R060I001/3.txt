@@ -1,0 +1,98 @@
+\_no 00008
+\tx d@ 7onhtzekk@
+jut@*nh
+\mb d@ 7onhtze7k-w@ jut@@nh
+\sgl 1A pedir
+\egl 1A ask
+\tx 7anhmaykuyt@k7anhj@nh
+\mb 7anh -may
+\com
+\idx
+7@m minn@ 7i
+7@m min
+-w@ 7i
+-COM por donde 2A venir-COM y
+-COM where
+2A
+-kuy7 -t@k
+\sg1 BOCA -contar-INSTR1-casa -DIR5
+-DIR1
+\eg1 MOUTH-count -INSTR1-house-DIR5 -DIR1
+\ref 008
+\_no 00009
+\tx d@ 7onhtzekk@
+\mbd@ 7onhtze7k-w@
+\sgl 1A pedir
+\egl 1A ask
+\fts me pregunto* por donde venistes y dije por alla* por la escuela
+\fte they asked me where did you come from and I said over there by the
+school
+\egl oaxaca-DIR3
+\tx wajakajonanh
+\mb
+wajaka-jonanh
+oaxaca-DIR3
+\sg1
+ZOH001R0601001.txt
+da n@mm@
+d@ n@m -wa
+1A decir-COM
+come -COM and 1A say -COM
+-7anhj@7-j@@nh
+\ref 009
+\_no 00010
+\tx d@ 7onhtzekxukk@
+\mb d@ 7onhtze7k-xuk-w@
+\sg1 1A pedir
+\egl 1A ask
+jut@nh
+jut@@nh
+-COM por_donde 2A
+-COM where
+\com
+\idx
+\fts me preguntaron por donde venistes y dije de Oaxaca
+\fte they asked me where did you come from and I said from Oaxaca
+\com
+\idx
+7@m minn@
+7i
+d@ n@mm@
+d@ n@m -w@
+7@m min -wa 7i
+venir-COM Y
+2A come -COM and 1A say -COM
+1A decir-COM
+juti*nh
+jutiinh
+-3PL-COM de_adonde 2E
+-3PL-COM from_where 2E
+■
+7@m 7anhpajpa
+7@m 7anh -paj
+7i
+-pa 7i
+BOCA -clavar-INC y
+MOUTH-nail -INC and 1A
+1A
+7axta gaja*
+\tx n@mjaxukk@
+pajakkina*nh
+\mb nam -jay -xuk-w@ 7axta ka -ja7 pajak-kinaanh
+\sg1 decir-APPL-3PL-COM hasta DCT3-Loc1 ri*o -de
+\egl say
+-APPL-3PL-COM until DCT3-LOC1 river-limit
+\fts me preguntaron de adonde vas a cercar y les dije hasta alla* del ri*o
+\fte they asked me where I was going to fence and I told them up to there
+alongside the river
+\ref 010
+\_no 00011
+\com ungrammatical directional questions
+\tx d@ n@mjaxukk@ [] 7i 7@n n@mjaxukk@ []
+\tx [7axta juti*nh 7@m witpa]
+\tx [juti*nh 7@m 7anhpajpa]
+da
+da
+[d@ witpa juxtix7anhj@7]
+[7@n 7anhpajpa 7axta gaja*nh n@jonanh]
+Page 3

@@ -1,0 +1,63 @@
+\date 26/Jan/96
+\lex mansaniya
+\_no 01865
+\LG MIG
+\PSH
+\UND mansaniya
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG manzanilla
+\ENG a type of plant
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 11/Nov/94
+\lex manteka7
+\_no 01866
+\LG MIG
+\PSH
+\UND manteka7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG manteca
+\ENG butter
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+LF:7okox
+\DSRC HAJ94
+\CMTS
+\date 02/Oct/94
+\lex mantu
+\_no 01867
+\LG MIG
+\PSH
+\UND mantu
+\MB
+\VAR mantu jay@7
+\GRAM
+\SCI
+\USE
+\SPG manto
+\ENG a type of plant
+\EXU
+ZOH004R0011001.txt
+Page 805

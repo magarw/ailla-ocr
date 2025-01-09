@@ -1,0 +1,62 @@
+\NOM pitz@m.kuy7
+\RTGR IX
+\POS pitz@mjayy@ putzi
+\POS se le salio* grano (vino el grano encima de la piel)
+\MID
+\UNDO
+\CLZ
+\CMTS ya jaya, pitz@mpakp@w@
+\CMTS no tardo*, salio* ra*pido
+\lex pix
+\_no 00233
+\SPG sentir_picazo*n de pulga, etc.
+\ENG to feel a bite - of a flea, etc.
+\SEMF body
+\ASP semelfactive
+\ARG
+\NOM
+\RTGR IX
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex poj [1]
+\_no 00234
+\SPG descolorar; despintarse; quitarse de color
+\ENG to lose color; to fade
+\SEMF clean, change
+\ASP accomplishment
+\ARG
+\NOM
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex pojoj
+\_no 00235
+ZOH001R0611002.txt
+\SPG estar destorciendo, como el mecate
+ENG to be unravelling, like a rope
+\SEMF arrange
+\ASP state
+\ARG
+\NOM pojoj.e7
+\NOM naanh, kuy7
+\RTGR 12
+\POS da pojojjayy@n laxu
+\MID
+\UNDO 7@n pojojpuw@n laxu
+\CLZ
+\CMTS
+\lex po7kx
+\_no 00236
+\SPG calmarse (una persona)
+\ENG to calm down (a person)
+\SEMF body
+\ASP achievement, accomplishment
+\ARG
+termine* de destorcer mi mecate
+Page 58

@@ -1,0 +1,69 @@
+\com
+\idx
+\ref ZOH001R036 876
+\_no 00859
+\tx
+\mb GSM
+\sg1 GSM: alcanfor
+\eg1 GSM: ca
+camphor
+GSM: 7alkanfo*r
+7alkanfo*r
+\zoq GSM: 7alkanfo*r
+\fts GSM: Alcanfor.
+\fte GSM: Camphor.
+\com
+\idx
+\ref ZOH001R036 877
+\_no 00860
+\tx OSM: 71 g@ pomada
+\mb OSM 7i g@ pomada
+\sg1 OSM: y DEM pomada
+\eg1 OSM: and DEM cream
+\zoq OSM: 7i g@ pomada,
+\fts OSM: Y esta pomada,
+\fte OSM: And that cream,
+\com
+\idx
+\ref ZOH001R036 878
+\_no 00861
+\tx yada
+\mb ya
+y@ -d@
+-d@
+baporu* ney
+pitz
+baporu* ney pitz
+ZOH001R0361001.txt
+\sg1 DCT1-DEM vaporo mismo por eso
+tambien
+\eg1 DCT1-DEM vapor_rub self because of also
+\zoq y@da baporu* ney pitz ne7.
+fts este vaporo* el lo mismo.
+\fte this vapor rub it's the same too.
+\com
+\idx
+\ref ZOH001R036 879
+\_no 00862
+\tx
+GSM: ti j@nanh 7@m prepartz@kk@
+\mb GSM ti j@nanh 7@m preparar-tz@k -w@
+\sg1 GSM: que AC
+2E preparar-hacer-COM
+\eg1 GSM: what ACC 2E prepare -do
+\zoq GSM: Tij@nanh_7@m prepartz@kk@?
+\fts GSM: Con que lo preparastes?
+\fte GSM: what do you make that with?
+\com
+\idx
+\ref ZOH001R036 880
+\_no 00863
+ne7
+ne7
+\tx OSM: baselina j@nanh
+\mb OSM baselina jananh
+\sg1 OSM: vaselina AC
+\egl OSM: vaseline ACC
+\zoq OSM: Baselinaj@nanh.
+-COM
+Page 186

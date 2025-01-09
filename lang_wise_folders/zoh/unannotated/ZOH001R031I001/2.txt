@@ -1,0 +1,79 @@
+\zoq pa joji 7anhnamtzu d@ 7okmanhpa.
+\fts para man~ana temprano empieza a hacer pan.
+\fte because tomorrow morning early I begin.
+\com
+\idx
+\ref ZOH001R031 004
+\_no 00005
+\tx 7@n motpa
+\mb
+7@n mot
+n pan
+7@n pan
+\sg1 1E revolver-INC 1E pan
+\egl 1E stir
+-INC 1E bread
+\zoq 7@n motpan pan.
+\fts Lo voy a revolver mi pan.
+\fte I'm going to stir my bread.
+\com
+\idx
+\ref ZOH001R031 005
+\_no 00006
+\tx
+\mb
+7@n p@jaba
+y pojo7k
+7@n p@7 -jay -pa 7@y pojo7k
+huevo
+egg
+\sgl 1E
+poner-APPL-INC 3E
+\egl 1E put -APPL-INC 3E
+-pa
+\zoq 7@n p@jabay pojo7k,
+\fts Le echo su huevo,
+\fte I throw in its egg,
+\com
+\idx
+\ref ZOH001R031 006
+\_no 00007
+\tx jemji
+\mb
+jemji7
+\sg1 todo
+\egl all
+\zoq jemji.
+\fts todo.
+\fte everything.
+\com
+\idx
+\ref ZOH001R031 007
+\_no 00008
+ZOH001R0311001.txt
+\tx para ke 7@n p@jaba
+7@y manteka
+7@n p@7 -jay -pa 7@y manteka
+poner-APPL-INC 3E
+put -APPL-INC 3E
+manteka
+lard
+\mb
+para ke
+\sg1 para que
+1E
+\egl for that 1E
+\zoq Para ke 7@n pajaba 7@y manteka,
+\fts Para que le echo la manteca,
+\fte So I can throw in its lard,
+\com
+\idx
+\ref ZOH001R031 008
+\_no 00009
+\tx tuwanh
+tuwanh 7utzkuy
+manteka
+\mb tuwa*nh 7utz -kuy7 manteka
+\sg1 tres
+medir -INSTR1 manteka
+Page 2

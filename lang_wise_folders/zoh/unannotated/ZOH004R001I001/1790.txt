@@ -1,0 +1,65 @@
+\LG MIG
+\PHO [yonkuy7]
+\UND yon. kuy7
+\MB salirse, INSTR1
+\VAR
+\GRAM instrl
+\SPG por donde salen, como un
+hoyo en un cacaste
+\ENG where they get out, like a hole in a pen
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT yon
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex yon-w@
+\_no 04165
+\LG MIG
+\PSH [yonn@]
+\UND yon-w@
+\MB zafarse, COM
+\VAR
+\GRAM ps-pcp
+\SCI
+\USE
+\SPG alto
+\ENG tall
+\EXU jak yon-w@
+\XPSH [jak_yonn@]
+\XSP muy alto
+como los gringos
+\XEN very tall like the gringos
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\lex yon-w@+@7k
+\_no 04166
+\LG MIG
+\PSH [yon@*7k]
+\UND yon-w@ +P@7k
+\MB zafarse, COM, REL
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG alto
+\ENG tall
+\EXU jak/m@jm@ yon-w@+@7k
+\XPSH [jak yonn@*7k]
+\XSP muy alto
+\XEN very tall
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT yon
+Page 1790

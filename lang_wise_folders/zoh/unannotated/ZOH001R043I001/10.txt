@@ -1,0 +1,73 @@
+\idx
+\ref ZOH001R043 038
+\_no 00039
+\tx 7@y jupw@tjaxukk@
+\mb 7@y jup -wat
+\sg] 3E
+-E
+3E camisa recoger-NOM3
+\egl 3E pull -tear -APPL-3PL-COM 3E shirt gather -NOM3
+jalar-romper-APPL-3PL-COM
+7@y y@kwij jupxi
+-jay -xuk-w@ 7ay yakwij jupx
+\zoq 7@y jupw@tjaxukk@ 7@y y@kwij jupxi.
+\fts Rompieron a jalo*nh su playera.
+\fte They pulled and tore his gathered shirt.
+\com (t-shirt)
+\idx
+ZOH001R0431001.txt
+\ref ZOH001R043 039
+\_no 00040
+\tx 7@y jupw@tjaxukk@
+\mb 7@y jup
+-w@t
+\sg1 3E
+\egl 3E pull -tear -APPL-3PL-COM
+-jay -xuk-w@
+jalar-romper-APPL-3PL-COM
+\zoq 7@y jupw@tjaxukk@.
+\fts se lo rompieron.
+\ref ZOH001R043 040
+\_no 00041
+\fte They tore it by pulling on it.
+\com
+\idx
+\tx 7@y wo7ktzikxukk@
+7@y wintujo
+\mb 7ay wo7k -tzik -xuk-w@ 7@y wintu7 -jo7
+\sg1 3E
+\egl 3E
+raspar-pelar-3PL-COM 3E
+scrape-skin -3PL-COM 3E neck
+pescuezo-Loc2
+\ref ZOH001R043 041
+\_no 00042
+\zoq 7@y wo7ktzikxukk@ 7@y wintujo7.
+\fts Lo arranc~aron en el pescuezo.
+\fte They scraped him on the chest.
+\com
+\idx
+\tx ga
+tz@kkoyy@
+bi
+kwalisyo*n 7@y jente
+\mb ka -7 tz@k -7oy -w@ bi kwalisyo*n 7@y jente
+\sg1 DCT3-NOM1 hacer-ANTIP-COM DEF qualicio*n 3E gente
+\eg1 DCT3-NOM1 do -ANTIP-COM DEF ???
+3E people
+\ref ZOH001R043 042
+\_no 00043
+\tx tigo
+7@y tz@kk@
+\mb ti -goo7 7@y tz@k -w@
+\sg1 que -BNF 3E hacer-COM
+\eg1 what-BNF 3E do -COM
+-LOC2
+\zoq Ga7 tz@kkoyy@ bi kwalisyo*n 7@y jente.
+\fts Eso lo hizo la gente de la qualicio*n.
+\fte He did the qualicio*n's people.
+\com
+\idx
+\zoq Tigo*7 7@y tz@kk@?
+\fts Porque lo hizo?
+Page 10

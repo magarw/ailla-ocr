@@ -1,0 +1,63 @@
+\EXU kuy+g@xi tzok-pa+a7k poj
+\XPSH [kuy g@xi tzokpa*7k poj]
+\XSP bejuco que se cria sobre el palo
+\XEN a vine that grows over a tree
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex pojoj
+\_no 02691
+\LG MIG
+\PSH
+\UND pojoj
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG estar destorciendo, como el mecate
+\ENG to be unravelling, like a rope
+\SPL yak.pojoj
+\SLGR CAUS
+\SLGL hacer destorcer // to cause to unravel
+\EXU pojoj-w@ laxu
+\XPSH [Pojojj@ laxu.]
+\XSP Se destorcio* el mecate.
+\XEN The rope unravelled.
+\SYN
+\SEMF arrange
+\ASP state
+\ARG
+\NOM pojoj.e7
+\SUB
+ETYM
+\ETL
+\ROOT pojoj
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+ZOH004R0011001.txt
+\lex pojoj.e7
+\_no 02692
+\LG MIG
+\PHO [pojoje7]
+\UND pojoj. E7
+\MB destorcerse, NOM7
+\VAR
+\GRAM pcp
+\SPG destorcido
+\ENG unravelled
+\EXU laxu pojoj.e7
+\XPSH [laxu pojoje7]
+\XSP mecate destorcido
+\XEN unravelled rope
+\SYN
+\ROOT pojoj
+\RTGR 12
+Page 1158

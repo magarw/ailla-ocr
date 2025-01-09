@@ -1,0 +1,26 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+Chaper 9: Noun Phrases
+In this chapter, I set forth the components of noun phrases (9.1) with a
+description of possible orderings amoung these parts. I then describe the
+function of each part. The definite article and the issue of definiteness in
+general are discussed in section 9.2. Modification with adjectives is described
+in section 9.3. Nominal compounds are described in section 9.4. The set of
+MIG Zoque quantifiers, including the plural clitic +haa? (NPL2), is discussed in
+section 9.5. Coordination and comparison in noun phrases are described in
+section 9.6. Possessed nouns are described in section 9.7. Although relative
+clauses are properly components of noun phrases, they are discussed in
+chapter 11 because they share characteristics with other kinds of subordinate
+clauses.
+9.1. Components of a noun phrase
+The components of a MIG Zoque noun phrase are quantifiers, deictics,
+the definite article bi, adjectives, nouns (which may be compounded),
+possessed nouns, relative clauses, and postpositions such as locatives and
+?ǝyti?, 'of; about'. The noun phrases found in the corpus are usually simple in
+terms of structure and number of components, most commonly including only
+a deictic and a noun. Deictics are vastly more common than the definite article.
+Relative clauses seem to be the preferred means of supplying additional
+information about characters and objects in Zoque narratives, so quantifiers
+and adjectives are rare.
+While the order of noun phrases in a clause is free, the order of
+components within a noun phrase is not. The general schema is shown below:
+228

@@ -1,0 +1,65 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nuk
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex ko7kx
+\_no 01360
+\LG MIG
+\PSH
+\UND ko7kx
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG roncar
+\ENG to snore
+\SLGR NO CAUS
+\EXU n@mm@ 7@y+ ko7kx-w@
+\XPSH [N@mm@y ko7kx@.]
+\XSP Esta* roncando.
+\XEN She's snoring.
+\SYN
+\SEMF sound, body
+\ASP activity
+\ARG
+\NOM
+\SUB yuk.ko7kx
+\ETYM
+\ETL
+\ROOT ko7kx
+\RTGR 11
+\DSRC HAJ94
+\CMTS no caus
+\date 03/Jan/80
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+-
+\ETL
+\ROOT
+\DSRC HAJ94
+illogical
+\lex ko7kx.ko7kx.ney
+\_no 01361
+\LG MIG
+\PSH [ko7kxko7kxney-]
+\UND ko7kx.ko7kx.ney
+\MB X, X, REDUP1
+\VAR
+\GRAM VİRF
+\SCI
+\USE
+\SPG sonido de zapatos
+\ENG the sound of shoes on a hard floor
+ZOH004R0011001.txt
+Page 593

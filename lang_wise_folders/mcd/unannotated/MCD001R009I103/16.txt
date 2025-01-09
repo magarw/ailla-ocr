@@ -1,0 +1,49 @@
+160 rupiaihuurana
+rupi-ai-huuran-a
+souffler-DUR-CP1a-ACC
+il a soufflé fort
+161 arasifoquian
+a-rasi-fo-quian
+3PERS-nombreux-PL-OST2
+eux, nombreux
+162 bia dica pabisto
+bia dica pabisto
+2PERS.A écouter << boucher les oreilles >>
+tu t'es bouché les oreilles en l'entendant
+163 bia pabistomaquin
+bia pabisto-ma-quin
+2PERS.A << boucher les oreilles »-CAUS-OST1
+ils t'ont bouché les oreilles
+164 ahuun раи tsucunai
+ahuun pau tsucu-na-i
+3POSS puissance enlever-REC-PROG
+leur puissant jaillissement
+165 tsucutirahuurashon
+tsucu-tira-huuran-shon
+enlever-commencer-CP1a-ACT.ANT
+il a commencé à jaillir
+166 afi afoquian
+afi a-fo-quian
+3PERS.PL AUX.TR-PL-OST2
+elles-mêmes
+167 min dica acafin
+min dica ac-a-fin
+2PERS.N écouter AUX.TR-ACC-FOC
+elles t'ont fait entendre
+168 oa yadu nahuafo
+oa yadu nahua-fo
+DEM mante-religieuse étranger-PL
+ces mante-religieuses étrangères
+169 yadu roa nahuacai
+yadu roa nahua-cai
+mante-religieuse meilleur étranger-MIR
+les très belles mante-religieuses étrangères
+170 arasi yurunai
+a-rasi yuru-na-i
+3PERS-nombreux « attacher très fort »-REC-PROG
+nombreuses elles se sont agrippées
+171 miqui yuruhuurani
+min-qui yuru-huuran-i
+2PERS-DIR « être attaché très fort »-CP1a-PROG
+elles se sont agrippées à toi
+104

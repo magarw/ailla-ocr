@@ -1,0 +1,78 @@
+\tx d@kka k@xxoba.
+\mb d@kkay k@x -7oy -pa
+\sg1 NPL
+comer-ANTIP-INC
+\eg1 NPL eat -ANTIP-INC
+\fts Alla* van a vender para que esa gente coma.
+\fte There they would go to market so that these people could eat.
+\not
+\idx aux_p1
+\ref ZOH001R002 009
+\_no 00010
+\tx gaja
+\mb
+g@
+tyempu ga7
+ka -ja7 g@ tyempu ka -7
+tzamkuyjo7.
+tzamkuy7 -jo7
+\sg1 DCT3-LOC1 DEM tiempo DCT3-NOM1 montan~a -Loc2
+\eg1 DCT3-LOC1 DEM time DCT3-NOM1 mountains-LOC2
+\zoq Gaja g@ tyempu, ga7 tzamkuyjo7.
+\fts Alla* en ese tiempo,
+era montan~a.
+\fte In those days, there it was jungle.
+\not
+\idx exis
+\ref ZOH001R002 010
+\_no 00011
+\tx gad@
+\mb
+\mb
+\tx jente d@kka.
+jente d@kkay
+ZOH001R0021001.txt
+lugar yakkiw@
+ya 7ixxo,
+ka -d@ lugar yakki7-7iwa ya 7ix-7oy -A
+\sg1 DCT3-DEM lugar nadie -quien NEG ver-ANTIP-nINC solamente DCT3-DEM
+\eg1 DCT3-DEM place nobody-who NEG see-ANTIP-nINC only
+DCT3-DEM
+\sg1 gente NPL
+\egl people NPL
+\ref ZOH001R002 011
+\_no 00012
+\tx minxukpa
+\mb
+\zoq Gad@ lugar yakkiw@ ya 7ixxo,
+fts Ese lugar nadie no conoci*a, solamente ese gente.
+\fte Nobody knew that place, just those people.
+\not
+\idx
+entonces
+min -xuk-pa entonces
+\sg1 venir-3PL-INC entonces
+\egl come -3PL-INC then
+\zoq Minxukpa entonces.
+\fts Llegaron entonces.
+\fte so they arrived.
+\not
+\idx
+\ref ZOH001R002 012
+\_no 00013
+solamente gad@ jented@kka.
+\tx_n@kpa
+7@y tzakxukk@
+panela
+\mb__n@k -pa 7@y tzak -xuk-w@ panela
+\sgl irse-INC 3E dejar-3PL-COM panela
+\egl go -INC 3E leave-3PL-COM sugar
+\zoq N@kpa 7@y tzakxukk@ panela
+solamente gad@
+solamente ka -d@
+7asukar
+7asukar
+7asukar
+azucar
+sugar
+Page 3

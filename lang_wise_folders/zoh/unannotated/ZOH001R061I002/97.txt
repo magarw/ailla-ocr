@@ -1,0 +1,63 @@
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex xa7kx
+\_no 00393
+\SPG tirar sangre salpicando; tirar charcos de sangre
+\ENG to spatter blood; to lose gouts of blood
+\SEMF body
+\ASP process
+\ARG
+\NOM
+\RTGR IX
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex xam
+\_no 00394
+\SPG calentarse porque tiene fri*o
+\ENG to warm yourself up because you're cold
+\SEMF body,
+fire
+\ASP process
+\ARG
+\NOM
+\RTGR 11
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex xanh
+\_no 00395
+\SPG machetear
+ENG to cut with a machete
+\SEMF cut
+\ASP process
+\ARG instrument
+\NOM 7anh.xanh', xaw.e7
+\NOM xanh. 'oy.kuy7
+\RTGR T3
+\POS da xanhjayy@n yujkuy7
+\MID
+\UNDO
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\ASP process
+\ARG
+\lex xatz
+\_no 00396
+\SPG fregar entre las manos; torcer, como mecate
+\ENG to rub between the hands; to twist, like rope
+\SEMF hand, build
+\NOM xatz.e7, xatz.kuy7
+\RTGR T3
+\POS
+\MID
+\UNDO
+me corto* mi rastrojo
+Page 97

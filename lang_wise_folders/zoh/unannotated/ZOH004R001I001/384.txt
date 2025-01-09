@@ -1,0 +1,63 @@
+ZOH004R0011001.txt
+\SLGL tomar a boca de plato // to drink from the plate
+\SLGR NO PASS
+\EXU 7@y+ jopx-xuk-w@
+\XPSH [7@y jopxxukk@.]
+\XSP Tomaron a boca de plato.
+\XEN They drank from the plates.
+\SYN
+\SEMF eat
+\ASP activity
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT jopx
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex jo.p@'
+\_no 00882
+\LG MIG
+\PSH [jop@-]
+\UND jo.p@7
+\MB EN, poner
+\VAR
+\GRAM vt
+\SPG depositar en otro lugar
+\ENG to put somewhere else
+\EXU 7@y+ jo.p@'-w@
+\XPSH [7@y jop@w@.]
+\XSP Lo deposito* en otra casa.
+\XEN She left it in another house.
+\SYN
+\ROOT p@7
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 24/Jun/96
+\lex jo7px
+\_no 00883
+\LG MIG
+\PSH
+\UND jo7px
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG poner bozal a*
+\ENG to muzzle
+\SPL jo7px. 7oy
+\SLGR ANTIP
+\SLGL poner bozal // to muzzle
+\SPL jo7px.7@m
+\SLGR PASS
+\SLGL ya tiene su bozal // to be muzzled
+\EXU kin@k=jo7px-w@
+\XPSH [Kin@k jo7px@.]
+\XSP Le puso un bozal en la trompa.
+\XEN He put a muzzle on its snout.
+Page 384

@@ -1,0 +1,64 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7etz
+\RTGR T1
+\DSRC TK96
+\CMTS
+\date 03/Jan/80
+\lex 7etz.e' p@n d@k+7a
+\_no 00263
+\LG MIG
+\PSH [7etze_p@n d@kka]
+\UND 7etz.E7 p@n d@k+7a
+\MB bailar, NOM7,
+hombre, NPL
+\VAR 7etzpa+a7k p@n d@k+7ay
+\GRAM svs+pl
+\SCI
+\USE
+\SPG bailadores, bailadoras
+\ENG dancers
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 7etz
+\RTGR T1
+\DSRC TK94
+\CMTS
+\date 24/Jun/96
+\lex 7etz-me7tz
+\_no 00264
+\LG MIG
+\PSH [7etzme7tz-]
+\UND 7etz=me7tz
+\MB bailar, buscar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG probar bailar
+\ENG to try to dance
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7etz
+\RTGR 1 T1
+\ROOT 2 me7tz
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+ZOH004R0011001.txt
+Page 113

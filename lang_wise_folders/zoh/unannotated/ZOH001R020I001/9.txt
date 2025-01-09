@@ -1,0 +1,75 @@
+\com
+\idx
+\ref ZOH001R020 031
+\_no 00032
+\tx n@mpa
+ke mixx@n
+\mb n@m
+-n@k -pa
+-pa
+ke
+\sg1 decir-INC que 2Prn-1E
+-ра
+decir-INC
+agarrar-irse-INC
+\egl say -INC that 2Prn-1E get -go -INC say - INC
+\not
+\idx
+\zoq Nampa ke "Mixx@n p@kn@kpa," n@mpa,
+\fts Deci*a que "Te voy a llevar, dice,
+\ref ZOH001R020 032
+\_no 00033
+mix -7@n
+\fte He says that "I'm going to take you," he says,
+\com
+\idx
+\ref ZOH001R020 033
+\_no 00034
+ZOH001R0201001.txt
+p@kn@kpa
+p@k
+\tx bi dan patron j@nanh gaja7kwintu7k
+\mb_bid@n patron j@nanh gaja7kwintu7k
+\sg7 DEF XE padron AC al otro lado
+\eg1 DEF XE
+boss ACC
+across
+\tx mea gaja7kwintu7k
+\mb mea gaja7kwintu7k
+\sg1 mar al otro lado
+\egl sea across
+\zoq bi d@n patronj@nanh gaja7kwintu7k.
+\fts con el patro*n de aquel lado.
+\fte with our boss on that side.
+\com
+\idx
+\not
+\idx
+\zoq Mea gaja7kwintu7k.
+\fts Aquel lado del mar.
+\fte The other side of the sea.
+\com
+\idx
+"I
+\ref ZOH001R020 035
+\_no 00036
+\ref ZOH001R020 034
+\_no 00035
+n@mpa
+\tx peru junanh bi da p@7tpa
+\mb peru junanh bi da p@7t -pa
+n@m -pa
+\sg1 pero como DEF 1A pasar-INC decir-INC
+\egl but how DEF 1A pass -INC say -INC
+\zoq "Peru junanh bi d@ p@7tpa," nampa,
+"I
+\fts "Que modo voy a pasar,
+deci*a,
+\fte "But how am I going to cross,
+\com
+\idx
+"I
+he says,
+n@mpa
+n@m
+Page 9

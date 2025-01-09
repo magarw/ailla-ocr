@@ -1,0 +1,61 @@
+\XSP desgrano* mai*z
+\XEN he shelled corn
+\EX mok 7@kxta*nh
+\XSP vamos a desgranar mai*z
+\XEN let's shell corn
+\ROOT 7@kx T3
+\SEMF farm, corn, obj
+PASS 7@kx.7@m
+\ANTI 7@kx.7oy
+\PRSV 7@kx=ten lo tiene desgranado
+\CMTS term tuk
+\CMTS tiene que ser mai*z
+\lex 7@nh
+\_no 00029
+\SPG caerse de arriba - como fruta
+\ENG to fall from above like fruit
+\EX 7@nhnh@ tâm
+\XSP cayo* la fruta
+XEN the fruit fell
+\EX 7@nhnh@
+\XSP cayo* solo del arbol
+\XEN it fell
+\ROOT 7@nh 12
+\SEMF fall
+\CMTS no caus yak.7@nh *
+\lex 7@7p
+\_no 00030
+\SPG palanquear (madera)
+\ENG to use a lever on; to pry up
+\EX 7@y 7@7pxukk@
+\XSP lo palanquearon
+\XEN they pried it up
+\EX 7@7p@mm@ bi kuy
+\XSP se palanqueo* la madera
+\XEN the board was pried up
+\ROOT 7@7p P (T3)
+\SEMF instr, position
+\PASS 7@7p.7@m
+\ANTI 7@7p.7oy
+\ASSU 7@7p.ney
+\PRSV 7@7p.ten
+\CMTS term tuk
+\lex 7@7tz
+\_no 00031
+\SPG vomitar; "regresar"
+\ENG to vomit
+\EX
+\XSP
+\XEN
+\ROOT 7@7tz T1
+\SEMF body
+\CAUS yak.7@7tz hacer vomitar
+\CMTS
+ZOH001R0611010.txt
+\lex chekek
+\_no 00032
+\SPG culequear
+\ENG to cluck
+\EX chekekk@ piyu
+\XSP culequeo* la gallina
+Page 8

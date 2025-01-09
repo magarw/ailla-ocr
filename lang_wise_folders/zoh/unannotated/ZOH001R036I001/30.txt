@@ -1,0 +1,74 @@
+\egl like self DCT1-DEM paper
+\zoq kom ney y@d@ toto.
+\fts como este papel.
+\fte like the same as this paper.
+\com <holds the paper flat on his open hands>
+\idx
+\not (he's talking about censing people: turns the person over, like
+turning over a piece of paper
+\ref ZOH001R036 136
+\_no 00137
+y@
+7entonse y@j@*nh
+entonces ya
+\sg1 entonces
+\egl then
+\tx
+\mb
+\com
+\idx
+bi winnaka
+-j@anh bi win -naka
+DCT1-DIR1 DEF CARA-cuero
+DCT1-DIR1 DEF FACE-skin
+\zoq 7entonse y@j@*nh bi winnaka.
+\fts Entonces por aca* abajo la cara.
+\fte Then from here on the face.
+\ref ZOH001R036 137
+\_no 00138
+\tx bi 7une
+jaba*
+winnomwakpa
+\mb bi 7une7 j@7-b@7 win -70m
+ZOH001R0361001.txt
+\zoq Bi 7une, jab@*? winnomwakpa.
+\fts La criatura verdad? Lo ahumas.
+\fte The baby, right? You cense it.
+\com
+\idx
+\ref ZOH001R036 138
+\_no 00139
+\sg1 DEF nin~o/a si*-DUBIT CARA-echar_humo-vaciar-INC
+\egl DEF child yes-DUBIT FACE-emit_smoke-empty -INC
+\tx tzapj@
+n 7ammapa
+\mb
+tzap -j@7 7@n 7amma-pa
+\sg1 encima-Loc1 1E ver -INC
+\egl on_top-LOC1 1E see -INC
+\zoq Tzapj@n 7ammapa.
+\fts Para arriba esta* viendo.
+\fte I'm watching from above.
+\com
+\idx
+\ref ZOH001R036 139
+\_no 00140
+\tx 7@n winp@kwakpa
+\mb 7@n win -p@k
+\sg] 1E
+\egl 1E
+ye7xe
+-wak -pa y@ -7xe
+DCT1-SIM
+-empty -INC DCT1-SIM
+CARA-agarrar-vaciar-INC
+FACE-get
+\zoq 7@n winp@kwakpa ye7xe.
+\fts Lo ahumo asi*.
+\fte I cense it like this.
+\com
+\idx
+\ref ZOH001R036 140
+-wak
+-ра
+Page 30

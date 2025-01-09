@@ -1,0 +1,63 @@
+\SYN
+SEMF EB
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC TK94
+\CMTS
+\date 19/Jun/95
+\lex 7aseyte
+\_no 00220
+LG MIG
+\PSH
+\UND 7aseyte
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG aceite
+\ENG oil
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM aceite
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Aug/94
+\lex 7asufre
+\_no 00221
+\LG MIG
+\PSH
+\UND 7asufre
+\MB
+\VAR
+LF:mu7k
+\GRAM S
+\SCI
+\USE
+\SPG azufre
+\ENG sulphur
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Aug/94
+\lex 7as (e) gur (a)=tz@k
+\_no 00222
+\LG MIG
+\PSH [7aseguratz@k-]
+\UND 7asegura=tz@k
+\MB asegurar, HACER
+ZOH004R0011001.txt
+Page 94

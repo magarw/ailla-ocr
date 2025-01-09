@@ -1,0 +1,63 @@
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG amarrado bie*n fuerte
+ENG to tie very securely
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 wat
+\RTGR 1 P (T3)
+\ROOT 2 pak
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex wat-pak.pak.w@y
+\_no 03582
+\LG MIG
+\PSH [watpakpakw@y-]
+\UND wat-pak.pak.w@y
+\MB amarrar, apretarse, apretarse, REDUP2
+\VAR
+\GRAM VTR
+\SCI
+\USE
+\SPG amarrarlo bie*n amarrado
+\ENG to tie something good and tight
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 wat
+\RTGR 1 P (T3)
+\ROOT 2 pak
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS CK-GR
+\date 26/Jun/96
+\lex wat.pu'
+\_no 03583
+ZOH004R0011001.txt
+\LG MIG
+\PSH [watpu-]
+\UND wat.pu7
+\MB amarrar, RVS
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG desatar
+\ENG to untie
+\EXU
+\XSP
+\XEN
+Page 1540

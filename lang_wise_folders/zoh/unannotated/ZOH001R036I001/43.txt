@@ -1,0 +1,86 @@
+\zoq 7@y p@kn@kpa 7omokuy7.
+\fts Lleva copal.
+\fte He brings copal.
+\com
+\idx
+\ref ZOH001R036 196
+\_no 00196
+\tx 7@y p@kn@kpa
+\mb 7@y p@k
+\sgl 3E
+\egl 3E get
+-n@k -pa
+agarrar-irse-INC
+\zoq 7@y pakn@kpa 7ay jaya jaxe.
+\fts Lleva albaca seco.
+\fte He brings dried basil.
+\com
+\idx
+\ref ZOH001R036 197
+\_no 00197
+\tx 7@y p@kn@kpa
+\mb
+7@y p@k
+\sg1 3E
+\egl 3E get
+7ay jaya
+7ay7 jay@7
+hoja flor
+-go -INC leaf flower
+wakax tin
+-n@k -pa wakax tin
+agarrar-irse-INC vaca mierda
+-go -INC COW shit
+\zoq 7@y p@kn@kpa wakax tin.
+\fts Lleva estierco de ganado.
+\fte He brings cow shit.
+\com
+\idx
+\ref ZOH001R036 198
+\_no 00198
+\tx GSM: poma
+\mb GSM
+poma
+\sg1 GSM: copal
+\eg1 GSM: copal
+\zoq GSM: Poma.
+\fts GSM: copal.
+\fte GSM: copal.
+\com
+\idx
+\ref ZOH001R036 199
+\_no 00199
+\tx
+\mb
+\tx
+\mb OSM
+\sg1 OSM: tambien
+\egl OSM: also
+OSM: tambye*nh 7@y p@kn@kpa
+ne7
+-n@k -pa
+tambyen 7@y pak
+ne7
+3E agarrar-irse-INC tambien
+3E
+-go -INC also
+ZOH001R0361001.txt
+get
+\zoq OSM: Tambye*nh 7@y p@kn@kpa ne7.
+\fts OSM: Tambien lleva tambien.
+\fte OSM: He brings it also.
+\com
+\idx
+\ref ZOH001R036 200
+\_no 00200
+7entonse ya ke
+entonces ya ke
+tejiam
+teji
+jaxe
+jax -E
+asar -NOM3
+roast-NOM3
+jemji gaji
+-7am jemji7 ka -ji7
+Page 43

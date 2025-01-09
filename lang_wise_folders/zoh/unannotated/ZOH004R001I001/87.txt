@@ -1,0 +1,63 @@
+\UND 7anh=7un. 7oy.kuy7
+\MB MOUTH, engan~ar, ANTIP, INSTR1
+\VAR
+\GRAM instr1
+\SPG chisme
+\ENG gossip
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT 7un
+\RTGR TX
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex 7anh='un. '@y
+\_no 00205
+\LG MIG
+\PSH [7anhnhunn@y-]
+\UND 7anh=7un.7@y
+\MB BOCA, engan~ar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG engan~ar
+\ENG to deceive
+\EXU 1 rroberto d@ 7anh='un. '@y-wa
+\XPSH 1 [Rroberto d@ 7anhnhunn@yy@.]
+\XSP 1 Roberto me engan~o*.
+XEN 1 Roberto deceived me.
+\EXU 2 7@n+ 7anh='un. '@y-w@ rroberto
+\XPSH 2 [7@n 7anhnhunn@yy@ Rroberto.]
+\XSP 2 Engan~e* a Roberto.
+\XEN 2 I deceived Roberto.
+\SYN
+\SEMF cognitive
+\ETYM
+\ETL
+\ROOT 7un
+\RTGR TX
+\DSRC TK94
+\CMTS get deriv's
+\date 09/oct/96
+\DATE 03/Jan/1980
+\1ex_7anh='utz. '@y
+\_no 00206
+ZOH004R0011001.txt
+\LG MIG
+\PSH [7anhnhutztz@y-]
+\UND 7anh=7utz.7@y
+\MB BOCA, medir, SUF
+\VAR
+GRAM vt
+\SCI
+\USE
+\SPG medi*rselo
+\ENG to measure something out for someone else
+\EXU 7@y+ 7anh='utz. '@y-wa pa 7@y+ 7uk-wa
+\XPSH [7@y 7anhnhutztz@yy@ pay 7ukk@.]
+\XSP Se lo midio* para que tomara.
+\XEN She measured it out so she could drink.
+Page 87

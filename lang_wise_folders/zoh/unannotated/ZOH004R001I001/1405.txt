@@ -1,0 +1,63 @@
+\UND_tzanh-tuk.tuk.w@y
+\MB golpear, cortar, cortar, ITER2
+\VAR
+\GRAM vt: deposR
+\SCI
+\USE
+\SPG manosear; pegarle mucho golpe con pun~o
+\ENG to man-handle; to hit someone a lot with your fist
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tzanh
+\RTGR 1 T3
+\ROOT 2 tuk
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+\DATE 14/Aug/02
+\lex tzanh-wanh-ka'
+\_no 03267
+\LG MIG
+\PSH [tzanhwanhka-]
+\UND tzanh=wanak-ka7
+\MB pegar, bajar, morirse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tumbar de un golpe; voltear de un golpe
+\ENG to fall down from a blow; to be knocked around by a blow
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tzanh
+\RTGR 1 T3
+ZOH004R0011001.txt
+\ROOT 2 wanak
+\RTGR 2 12
+\ROOT 3 ka7
+\RTGR 3 12
+\DSRC HAJ94
+\CMTS CK-PH - HAJ:96 PHO is correct
+\date 26/Jun/96
+\lex tzanh-yak. 'oy
+\_no 03268
+\LG MIG
+\PSH [tzanhyakkoy-]
+\UND tzanh.yak.ka7.7oy
+\MB golpear, CAUS, morirse, ANTIP
+\VAR
+\GRAM vi
+\SCI
+\USE
+Page 1405

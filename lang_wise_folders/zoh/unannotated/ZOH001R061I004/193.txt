@@ -1,0 +1,62 @@
+\XSP tortilla esponjada
+\XEN chalupa
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ponh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yuk.to.e7
+\_no 00488
+\LG MIG
+\PSH [yuktoe7]
+\UND yuk.tonh. E7
+\MB ARR, ampollarse, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG ampolla
+\ENG blister
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tonh
+\RTGR 12
+\DSRC TK94
+\CMTS CK-PH HAJ:96, ok, final /e/ sounds laryngealized; its is: TK
+\date 26/Jun/96
+\lex yuk.tow.a7
+\_no 00489
+\LG MIG
+\PHO [yuktowa7]
+\UND yuk.tonh.A7
+\MB ARR, ampollarse, NOM2
+\VAR
+\GRAM SV
+\SPG ampolla
+\ENG blister
+\EX
+\XSP
+\XEN
+\SYN tow.a7
+\ROOT tonh
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+ZOH001R0611004.txt
+\lex yu'p.i
+\_no 00490
+\LG MIG
+\PSH [yupi]
+\UND yu7p.E
+\MB picar, NOM7
+Page 193

@@ -1,0 +1,62 @@
+\DSRC TK96
+\CMTS other forms not gotten
+\date 26/Jun/96
+\lex wix.naanh
+\_no 03777
+\LG MIG
+\PHO [wixna*nh]
+\UND wix.naanh
+\MB arrancar, MED
+\VAR
+\GRAM meas
+\SPG un manazo de la mata que arranco*
+\ENG a handful of the plant that you pulled up
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT wix
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex wi.yawa7
+\_no 03778
+\LG MIG
+\PSH [wiyawa7]
+\UND win.yawa7
+\MB CARA, tierno
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG monte bajo
+\ENG scrubland
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 16/Jun/95
+\lex wiit@kka'
+ZOH004R0011001.txt
+\_no_03779
+\LG MIG
+\PSH [wiit@kka-]
+\UND wiit@kka'
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG andar junto o de_compan~ero
+\ENG to walk together with a friend
+\SPL
+\SLGR
+\EXU
+Page 1623

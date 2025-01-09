@@ -1,0 +1,76 @@
+\egl 3E fish MOUTH-pay -INC shrimp salt
+\zoq 7@y koke7anhyojpa, wetze, kana,
+\fts Lo cambean con pescado, y camaron, con sal,
+\fte They trade it for fish, and shrimp, and salt,
+\not
+\idx incorp_nom
+\ref ZOH001R002 073
+\_no 00074
+\tx porke gaji
+\mb porke
+ka -ji7
+\not
+\idx
+\sg1 porque DCT3-LOC1 no_hay
+\egl because DCT3-LOC1 there isn't
+\ref ZOH001R002 074
+\_no 00075
+\tx n@ntiya7
+\mb n@ntiya7
+\sg1 no_hay
+\egl there isn't
+\zoq porke gaji n@nti kana.
+\fts porque alla* no hay sal.
+\fte because there there was no salt.
+\zoq N@ntiya7.
+\fts No hay.
+\fte There wasn't any.
+\not
+\idx
+\ref ZOH001R002 075
+\_no 00076
+n@nti
+n@nti
+ZOH001R0021001.txt
+\tx tejixukk@
+\mb
+ban
+tonto
+d@kka, 7inosente,
+-xuk-w@ bayun tonto d@kkay 7inosente
+-3PL-COM muy tonto NPL
+inocente
+innocent
+\ref ZOH001R002 076
+\_no 00077
+kana
+kana
+sal
+salt
+teji
+\sg] hay
+\egl there_is-3PL-COM very foolish NPL
+\tx kom
+kwando 7anhwati*7
+\mb komo kwando 7anh -wat
+\zoq Tejixukk@ ban tontod@kka, 7inosente,
+\fts Esta*n muy tonto, inocente,
+\fte They were very foolish, innocent,
+\not
+\idx
+\ref ZOH001R002 077
+\_no 00078
+\tx nyakki7 ya muxxo
+7@y winnaka
+d@kka.
+-E7
+7@y win -naka d@kkay
+\sg1 como cuando BOCA -amarrar-NOM3 3E CARA-cuero NPL
+\egl like when MOUTH-bind -NOM3 3E FACE-skin NPL
+\zoq kom kwando 7anhwati*7 7@y winnakad@kka.
+\fts como si tuvieron amarrado la cara.
+\fte as if they had their faces covered.
+\not
+\idx
+ti kosa, jodidu.
+Page 17

@@ -1,0 +1,79 @@
+(128) N=0=xi'=tzan
+q'ii-n
+INC=B3s=DIR=pues llevar/traer-AP
+'Lo llevaron a la cárcel.'
+(129) Ma-tzan tz'=ook=x
+'Entró a la cárcel,'
+(130) aj
+PROX=puesB3s=entrar-DIR_A3s+SR:debajo
+tiiya
+cuando B3s=entrar=DIR=3sENF tío
+'cuando entró el tío conejo a la cárcel,'
+t-ajw-iil
+(132) 0=kyej
+0=ook=x-ta
+q'o-'n.
+B3s-DIR dar-SD
+'lo dejaron.'
+(131) n=0=kyej=tzan
+q'o-'n t-kastiiwa t-u'n
+INC=B3s-DIR=pues dar-SD A3s-castigo A3s-SR:AGT
+awal
+A3s-dueño-ABST siembra
+'le dejaron un castigo por el dueño de la siembra,”
+(133) Nn=0=ook=x
+INC=B3s=entrar-DIR
+'Entró a la cárcel,'
+q'o-'n
+INC=B3s-DIR dar-SD
+'lo castigaron.'
+(134) n=0=kyej
+(135) Yaa jte'-la
+(136) mii
+q'iij
+ya cuánto-MIR día
+'Cuántos días estuvo,'
+b'i-'n=0
+(137) Jo' n=0=suuta-n
+txe
+NEG oir-PART=B3s
+'no sabemos.'
+(138) n=0=suuta-n
+txe
+prees,
+A3s+SR:debajo cárcel
+(140) At=0=at
+txe
+(139) Ya saaba n=0=jootz'a-n
+t-kastiiwa.
+A3s-castigo
+txe
+0=teen,
+B3s=estar
+prees.
+A3s+SR:debajo cárcel
+q-u'n.
+Alp-SR:AGT
+txe
+AF INC-B3s-girar-AP A3s+SR:debajo
+'Daba vueltas en la cárcel,'
+koneej txe
+prees
+conejo A3s+SR:debajo cárcel
+tzee'.
+INC=B3s-girar-AP A3s+SR:debajo palo
+'daba vueltas en la cárcel.'
+jun xjaal,
+EXIST=B3s=CF un persona
+'Que hubiera una persona,'
+prees
+cárcel
+prees weena,
+cárcel bien
+weena txe
+ya estaba
+INC=B3s=rascar-AP bien A3s+SR:debajo
+'Estaba muy desesperado dentro de la cárcel.'
+12
+prees.
+cárcel

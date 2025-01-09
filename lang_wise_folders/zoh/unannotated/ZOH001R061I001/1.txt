@@ -1,0 +1,75 @@
+\id C:\SHOUT\AUXDBS.TXT
+\ref 001
+\_no 00001
+\tx 7@y juxx@
+\mb
+7ay
+7@y jux -w@ 7ay7
+\sg1 3Erg asar -COM hoja
+\egl 3Erg roast-COM leaf
+\fts aso* hojas
+\fte she roasted leaves
+\com
+\idx
+\ref 002
+\_no 00002
+\tx 7ay
+\mb 7ay7 jux
+-w@
+\sg1 hoja asar -COM
+\egl leaf roast-COM
+\fts aso* hojas
+\fte she roasted leaves
+\com
+\idx incorp
+\ref 003
+\_no 00003
+\tx
+\mb
+\sgl
+\egl
+juxx@
+\com
+\idx
+* 7ay_ juxx@
+7ay7 jux
+patanux
+patanux
+-wa
+hoja asar -COM pla*tano
+leaf roast-COM banana
+\fts* aso* hojas de pla*tano
+\fte
+\ref 004
+\_no 00004
+\tx 7ay
+\mb
+she roasted banana leaves
+juxx@
+komi*7
+komi 7
+7ay7 jux -wa
+\sg1 hoja asar -COM grande
+\egl leaf roast-COM big
+\fts aso* hojas grandes
+\fte she roasted big leaves
+\com
+\idx incorp
+\ref 005
+\_no 00005
+\tx yote
+\mb yote7 da
+28/Oct/04
+da komm@
+kom
+\fts remendi* ropa
+\fte I mended clothes
+\com
+\idx
+\ref 006
+-w@
+\sg] ropa 1Abs remendar-COM
+\egl clothes 1Abs mend
+ZOH001R0611001.txt
+-COM
+Page 1

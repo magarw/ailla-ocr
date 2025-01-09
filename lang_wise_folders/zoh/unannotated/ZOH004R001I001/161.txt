@@ -1,0 +1,62 @@
+\RTGR P, (T3)
+\RTGL regar // spread
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex 7ok.nanh.'@y
+\_no 00374
+\LG MIG
+\PSH [7oknanhnh@y-]
+\UND 7ok.nanh.7@y
+\MB ABAJO, regar, SUF
+\VAR
+\GRAM dir+vt
+\SCI
+\USE
+\SPG tirar todo
+ENG to throw it all down
+\EXU 7@y+ 7ok.nanh. '@y-w@ jemji7
+\XPSH [7@y 7oknanhnh@yy@ jemji7.]
+\XSP Tiro* todo.
+\XEN He threw it all down.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nanh
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS CK-EX for ERG ok HAJ:96
+\date 29/Jan/96
+\lex 7ok.nuk-tzak. '@y
+\_no 00375
+LG MIG
+\PSH [7oknuktzakk@y-]
+\UND 7ok.nuk-tzak.7@y
+\MB ABAJO, agarrar, dejar, SUF
+\VAR
+\GRAM dir+vt
+\SCI
+\USE
+\SPG dejar caer de la mano
+ENG to let fall from the hand
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 nuk
+\RTGR 1 T3
+\ROOT 2 tzak
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 08/Nov/94
+\lex 7ok.nuk. '@y
+\_no 00376
+\LG MIG
+\PSH [7oknukk@y-]
+ZOH004R0011001.txt
+Page 161

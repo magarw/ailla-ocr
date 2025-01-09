@@ -1,0 +1,73 @@
+\com
+\idx
+\ref ZOH001R036 677
+\_no 00665
+\tx kom kwandu n@jo*nh 7@m pitz@mba*
+\mb komo kwandu n@7 -joonh 7@m pitz@m-pa -v7k
+\sg1 como cuando agua -DIR4 2A salir -INC-REL
+\egl like when water-DIR4 2A leave -INC-REI
+\zoq kom kwandu_n@jo*nh 7@m pitz@mba*
+\fts como que si estuviera a saliendo del rio.
+\fte like when you've come out of the river.
+\com
+\idx
+\ref ZOH001R036 678
+\_no 00666
+\tx 7ay
+joypi7t
+n@ntiam
+\mb 7adyo joypi7t
+n@nti
+\sg1 luego otro_di*a no_hay
+\egl later next day there isn't-NOW
+\ref ZOH001R036 679
+\_no 00667
+\zoq 7ay joypi7t n@ntiam.
+\fts Luego el otro di*a ya no hay nada.
+\fte Later the next day there's nothing.
+\com
+\idx
+\tx
+sweltuam 7@m kwerpu
+\mb sweltu-7am 7@m kwerpu
+\sgl suelto-YA 2E cuerpo
+\egl left -NOW 2E body
+\zoq Sweltuam 7@m_kwerpu.
+\fts Ya esta* suelto tu cuerpo.
+\fte Now it's left your body.
+\com
+\idx
+ZOH001R0361001.txt
+\ref ZOH001R036 680
+\_no 00668
+\tx
+\mb n@nti
+n@ntiam
+yakti
+-7am yakti
+-YA nada
+- 7am
+-YA
+toya
+toy -A7
+doler-NOM2
+\sg1 no_hay
+\egl there isn't-NOW nothing hurt -NOM2
+\ref ZOH001R036 681
+\_no 00669
+\zoq N@ntiam yakti toya,
+\fts Ya no hay nada de enfermedad,
+\fte Now there's nothing of that disease,
+\com
+\idx
+\tx ni de7
+\mb ni te
+\sg1 ni DCT2-NOM1 hueso doler-NOM3 no_hay
+\egl no DCT2-NOM1 bone hurt -NOM3 there isn't-NOW
+\zoq ni de7 pak toe7 n@ntiam.
+pak toe7
+n@ntiam
+-7 pak toy -E7 n@nti
+Page 145
+- 7am
+-YA

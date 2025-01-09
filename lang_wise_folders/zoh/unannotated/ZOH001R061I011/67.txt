@@ -1,0 +1,59 @@
+\XEN the yam is overripe
+\ROOT xoy Ix
+\CMTS no caus
+\lex xuj
+\_no 00347
+\SPG soplar
+\ENG to blow
+\EX
+\XSP
+\XEN
+\ROOT xuj T3
+\CMTS antip xuj.7oy
+\CMTS pass xuj.7@m
+\lex xuk
+\_no 00348
+\SPG acabarse; desaparecer
+\ENG to finish up; to disappear
+\EX xukka*m
+\XSP ya se acabo*
+\XEN it's finished
+\EX xukpa*m
+\XSP ya esta* acabandose
+\ROOT xuk 12
+\CMTS caus yak.xuk acabar
+\1ex xukuk
+\_no 00349
+\SPG
+ENG
+\EX
+\XSP
+\XEN
+\ROOT xukuk Ix
+\CMTS get gloss, prob. sexual
+\1ex xu7k
+\_no 00350
+\SPG oler; olfatear; hueler algo; besar
+\ENG to smell; to kiss
+\EX ney xu7kxuk@pa
+\XSP se esta*n besando
+\XEN they're kissing each other
+\ROOT xu7k T3
+\CMTS antip xu7k.oy
+\lex xut
+\_no 00351
+\SPG agujerar; hacer hueco
+\ENG to pierce; to make a hole
+\EX
+\XSP
+\XEN
+\ROOT xut T3
+\CMTS antip xut.7oy
+\CMTS pass xut.7@m
+ZOH001R0611011.txt
+\lex xu7t
+\_no 00352
+\SPG hacerse angosto
+\ENG to widen
+\EX
+Page 67

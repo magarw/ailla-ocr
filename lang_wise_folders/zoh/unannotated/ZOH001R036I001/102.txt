@@ -1,0 +1,74 @@
+g@xi
+\mb GSM tza7
+\sg1 GSM: piedra Loc4
+\egl GSM: rock
+LOC4
+\zoq GSM: Tzag@xi.
+\fts GSM: En el metate.
+\fte GSM: In the metate.
+\com
+\idx
+\ref ZOH001R036 477
+\_no 00468
+\tx ti naka ga
+\mb ti
+naka ka -7
+\sg1 que cuero DCT3-NOM1
+\egl what skin DCT3-NOM1
+\zoq Ti naka ga?
+\fts Que ca*scara es?
+\fte what bark is it?
+\com
+\idx
+kom kaj pote
+\ref ZOH001R036 478
+\_no 00469
+\tx OSM: ney
+\mb OSM
+ney komo
+\sg1 OSM: mismo como cafe
+\egl OSM: self how coffee-grind-NOM3 3E do -INC
+ZOH001R0361001.txt
+\ref ZOH001R036 479
+\_no 00470
+kajwe -po7t -E
+\zoq OSM: Ney kom kajpotey tz@kpa.
+fts OSM: Lo hace como cafe* molido.
+-moler-NOM3 3E
+\fte OSM: One does it the same as ground coffee.
+\com
+\idx
+\ref ZOH001R036 480
+\_no 00471
+tz@kpa
+y
+7@y tz@k -pa
+hacer-INC
+m p@jaba
+\tx GSM: ti naka ga
+\mb GSM ti naka ka -7 7@m p@7 -jay -pa
+\sg1 GSM: que cuero DCT3-NOM1 2E
+\eg1 GSM: what skin DCT3-NOM1 2E
+poner-APPL-INC
+put -APPL-INC
+\zoq GSM: Ti naka gam p@jaba?
+\fts GSM: Que ca*scara le echas?
+\fte GSM: what bark is it that you put in?
+\com
+\idx
+\tx ti naka gay
+\mb ti
+y xe7tpa
+naka ka -y 7@y xe7t
+\sg1 que cuero DCT3-TMP 3E
+\egl what skin DCT3-TMP 3E
+-pa
+frei*r-INC
+fry - INC
+\zoq Ti naka gay y xe7tpa?
+\fts Que ca*scara lo twesta (lo esta* tostando)?
+\fte what bark now does one toast?
+\com
+\idx
+\ref ZOH001R036 481
+Page 102

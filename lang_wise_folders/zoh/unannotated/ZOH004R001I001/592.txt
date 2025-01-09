@@ -1,0 +1,64 @@
+\MB OTRO, moler
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG remoler
+\ENG to regrind
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+ΧΕΝ
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT k@7t
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex ko.k@x
+\_no 01358
+\LG MIG
+\PSH [kok@x-]
+\UND ko.k@x
+\MB OTRO, comer
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG vender para que comer
+\ENG to sell ready-to-eat food
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT k@x
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex kok(e)=nuk
+\_no 01359
+\LG MIG
+\PSH [kokenuk-]
+\UND koke-nuk
+\MB pez, agarrar
+\VAR kook=nuk
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG pescar; agarrar pescado
+\ENG to fish; to catch fish
+\EXU
+\XSP
+ZOH004R0011001.txt
+Page 592

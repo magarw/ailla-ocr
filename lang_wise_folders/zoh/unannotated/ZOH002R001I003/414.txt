@@ -1,0 +1,40 @@
+vt
+Code
+vi
+S
+av
+a
+pron
+indef
+Spanish
+verbo transitivo
+verbo intransitivo
+sustantivo
+adverbo
+adjectivo
+pronombre
+indefinitivo
+English
+transitive verb
+intransitive
+407
+verb
+noun
+adverb
+adjective
+pronoun
+indefinite
+Table A.3: Grammatical codes
+Below is the entry for the verb root təŋ-, 'to cut with a machete'. The
+lexeme comes first, written as it appear in the lex field of the database. Next is
+the grammatical code: vt for verbo transitivo. Then comes the Spanish
+translation, followed by the English translation. Next will come the example
+sentences, if there are any. If there is more than one example, they will be
+numbered. Each example gets four fields: the underlying form (EXU), the
+surface form (XPSH), the Spanish translation (XSP) and the English translation
+(XEN). Supplemental forms follow the examples. These only appear in the
+entries for verb roots, and are the derived forms that were used in classifying
+those roots: the antipassive, passive, assumptive, perseverative, and sometimes
+causative forms. (Only the antipassive and the assumptive turned out to
+produce useful classifications, of T3 and P verbs, respectively.) Next, the root
+verb of the lexeme is given, indicated with the symbol % and followed by its

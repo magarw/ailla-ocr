@@ -1,0 +1,86 @@
+\tx 7entonse n@mm@
+bi tenyente
+tenyente
+\sg1 entonces decir-COM DEF teniente
+\egl then
+\mb entonces
+n@m -wa bi
+\tx n@m 7@m tuj@*
+\mb
+n@m 7@m
+tuj
+-A
+\sg1 DO 2E
+tirar-nINC
+\eg1 DO 2E shoot-nINC
+\com
+\idx sp
+say -COM DEF lieutenant now
+\zoq 7entonse n@mm@ bi tenyente, "7ora mix, Satornino, 7i 7ix@: ya n@m 7@m
+tuj@*?"
+\fts Entonces dijo el teniente, "Ahora tu, Satornino, mira: no puedes
+tirar?"
+\ref ZOH001R011 055
+\_no 00056
+\fte Then the lieutenant said, "Now you, Satornino, look: can't you shoot
+them?"
+\tx n@mmoba
+no
+\mb n@m-7oy -ра no
+\sg1 DO -ANTIP-INC no
+\eg1 DO -ANTIP-INC no
+\zoq "N@mmoba, no?"
+\fts "si puedo pues?"
+\fte "I can, why not?"
+\com
+\idx sp
+\ref ZOH001R011 056
+\_no 00057
+ZOH001R0111001.txt
+\tx y nikkapp@t@w@
+\mb 7@y nik -kap
+7ora mix satorninu 7i
+7ora mix satornino 7i
+ahora 2Prn Satornino y
+tum
+-p@7 -t@7 -wa tum
+\sg1 3E SUP -cargar-poner-querer-COM
+uno
+\eg1 3E SURF-carry -put -want -COM one
+\sg1 no
+\eg1 no
+\zoq Y nikkapp@t@w@ tum.
+\fts Le quiso dar la arma (el teniente a Satornino).
+\fte He tried to give him one.
+\com the lieutenant tried to give S a rifle
+\idx
+\ref ZOH001R011 057
+\_no 00058
+\tx n@7tti tenyente, d@x teji n tujkuy,
+\mb n@7tti tenyente d@x teji
+7ix@,
+7ix-A7 ya
+ya
+ver-IMPV NEG
+2Prn Satornino and see-IMPV NEG
+\ref ZOH001R011 058
+\_no 00059
+7@n_n@mjayy@
+7@n tuj -kuy7
+7@n nam -jay -wa
+teniente 1prn hay
+1E tirar-INSTR1 1E decir-APPL-COM
+lieutenant 1Prn there is 1E shoot-INSTR1 1E say -APPL-COM
+\zoq "N@7tti, tenyente, d@x tejin tujkuy," 7@n_n@mjayy@.
+\fts "No, mi teniente, yo tengo mi arma
+\fte "No, lieutenant, I have my weapon, I said to him.
+\com
+\idx sp
+\tx pe jugay
+\mb pero ju7 -ka -ji7
+\sg1 pero donde-DCT3-Loc1 2E
+"I
+7@m tujkuy
+7@m tuj -kuy7
+tirar-INSTR1
+Page 13

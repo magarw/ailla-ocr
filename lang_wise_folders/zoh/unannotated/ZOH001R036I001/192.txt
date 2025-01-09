@@ -1,0 +1,79 @@
+ZOH001R0361001.txt
+\zoq kay ke tukka*m sim - sim xitko7@yy@ de p@pi7t, n@mmobam p@jayya*m_7@m
+win.
+\fts Ya que acabo* si tienes gripa, con eso te puedas echar.
+\fte Now that it's done if you
+yourself.
+\com
+\idx
+\ref ZOH001R036 903
+\_no 00886
+\tx GSM: par
+\mb GSM
+xitko7
+para xitko7
+\sg1 GSM: para catarro
+\eg1 GSM: for phlegm
+\zoq GSM: Par xitko?
+\fts GSM: Para gripa?
+\fte GSM: For a cold?
+\com
+\idx
+\ref ZOH001R036 904
+\_no 00887
+\tx OSM: par
+xitko7
+\mb OSM para xitko7
+\sg1 OSM: para catarro
+\eg1 OSM: for phlegm
+\zoq OSM: Par xitko7.
+\fts OSM: Para gripa.
+\fte OSM: For a cold.
+\com
+\idx
+\ref ZOH001R036 905
+\_no 00888
+\tx minpam
+\mb min
+de
+-pa -7am te -7
+\sg1 venir-INC-YA
+DCT2-NOM1
+\egl come -INC-NOW DCT2-NOM1
+\ref ZOH001R036 906
+\_no 00889
+\tx de
+\mb te -7
+\sg1 DCT2-NOM1 AC
+\eg1 DCT2-NOM1 ACC
+\zoq Minpam de - bi 7ayj@nanh, yati 7ay, koyawa 7ay,
+\fts viene con la hoja, la hoja de anona, el tiernita,
+\fte It comes
+with the leaf, anona leaf, the young leaf,
+\com
+\idx
+j@nanh
+jananh
+\zoq dej@nanh tukneba,
+\fts con eso se hace,
+tukneba
+tuk
+\ref ZOH001R036 907
+\_no 00890
+if you have a cold, you can put this on
+finish
+\fte with that you make it,
+\com
+\idx
+bi 7ay jananh yati 7ay koyawa
+bi 7ay7 jananh yati7 7ay7 koyawa
+DEF hoja AC
+7ay
+7ay7
+anona hoja jicapestle hoja
+DEF leaf ACC anona leaf bowl
+leaf
+-ney -ра
+terminarse-ASSUM-INC
+-ASSUM-INC
+Page 192

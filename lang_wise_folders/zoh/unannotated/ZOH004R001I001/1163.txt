@@ -1,0 +1,62 @@
+\CMTS ANALYZE/DONE
+\date 25/Jun/96
+\lex po7kx
+\_no 02703
+\LG MIG
+\PSH
+\UND po7kx
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG calmarse (una persona)
+\ENG to calm down (a person)
+\SPL yak.po7kx
+\SLGR CAUS
+\EXU 1 7@y+ yak.j@y=po7kx-w@ bi 7une7
+\XPSH 1 [7@y yakj@ypo7kx@ bi 7une7.]
+\XSP 1 Hizo calmar el nin~o que esta* llorando.
+\XEN 1 He calmed the baby who was crying.
+\EXU 2 po7kx-w@ bi 7une7
+\XPSH 2 [P07kx@ bi 7une7.]
+\XSP 2 Se calmo* la criatura.
+\XEN 2 The baby calmed down.
+\SYN
+\SEMF body
+\ASP achievement, accomplishment
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT po7kx
+\RTGR IX
+\DSRC TK94
+\CMTS caus2 yak+ po7kx
+\CMTS get deriv's
+\date 03/Jan/80
+\lex po7kx pataja
+\_no 02704
+LG MIG
+\PSH
+\UND po7kx pataja
+\MB
+\VAR
+\GRAM sms
+\SPG guayabita del cerro
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 21/Jun/96
+\lex pom
+\_no 02705
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+Page 1163

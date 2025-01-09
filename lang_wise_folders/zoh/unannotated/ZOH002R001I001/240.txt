@@ -1,0 +1,38 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+language. In the examples in (8.21), the underlined root does not occur
+independently.
+(8.21)
+(i)
+(ii)
+(iii)
+(iv)
+'øy nipenwakkøy machete
+?əy+ ni.pen=wak-we
+?ǝy+ mačete
+3E+ PSE.grasp.*empty.COM 3E+ machete
+'He pulled his machete out of it's scabbard.'
+'øm winnomwakpa
+?ǝm+ win.?om=wak-pa
+2E+ FACE.emit_smoke=*empty-INC
+'You cense it out.'
+'øy mangnaka'tztzø
+?əy+ man=naka?c-wǝ
+3E+ *step=crush-COM
+'He crushed it with his foot.'
+'øy pangjaxxØ
+?ǝy+ pan=haš-wə
+3E+ *lean=toast-COM
+'She toasted it.' (by leaning it against the griddle)
+(ZOH001R018-077)
+(ZOH001R036-117)
+214
+(lexicon)
+(lexicon)
+Foley and Olson propose a cross-linguistic hierarchy of the classes from
+which the second verb (V2) in a series can be drawn. The hierarchy ranges from
+the most common class, the directional verbs 'to come' and 'to go', to the least
+common, in which V2 is a transitive verb. MIG Zoque verb compounds span the
+hierarchy, with many different functions served by transitive V2s.
+8.3.2.1. V2 is a directional verb
+The most common type of SVC cross-linguistically is that in which V2 is
+one of the directionals 'to come' or 'to go'. These are the auxiliary verbs min-

@@ -1,0 +1,22 @@
+ZOH001R0051001.txt
+\ref ZOH001R005 042
+\_no 00043
+\tx ke
+no ga7xe
+7@y yakpukx@
+\mb ke no ka -7xe 7@y yak -pukx
+\sg1 que no DCT3-SIM 3E
+\egl that no DCT3-SIM 3E CAUS-increase-COM DEF seed
+bi
+semiya
+mas
+-w@ bi semiya mas
+CAUS-abundar -COM DEF semilla mas
+more
+\zoq ke no ga7xe 7@y yakpukx@ bi semiya mas.
+ma*s.
+\fts Pues asi* abundo la semilla
+\fte And didn't it make the seed increase more like that.
+\com
+\idx
+Page 10

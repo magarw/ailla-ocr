@@ -1,0 +1,53 @@
+\SPG sonaja
+\ENG rattle (baby toy)
+\lex choko
+\_no 00517
+\SPG ciego
+\ENG blind
+\lex cho7k
+\_no 00518
+\SPG sonar "haciendo pendejadas
+\ENG make a slurping sound fucking
+\lex chorro
+\_no 00519
+\SPG chorro
+\ENG waterfall
+\lex chuklate
+\_no 00520
+\SPG chocolate
+\ENG chocolate
+\lex chuli
+\_no 00521
+\SPG chuli
+\ENG chuli
+\lex chuliti
+\_no 00522
+\SPG chuliti
+\ENG chuliti
+\lex chulu
+\_no 00523
+\SPG chulo
+\ENG cute
+\lex chupamyeel
+\_no 00524
+\SPG chupamiel
+\ENG humming_bird
+\lex chyapas
+\_no 00525
+\SPG Chiapas
+\ENG Chiapas
+\lex damianh
+\_no 00526
+\SPG Damian
+\ENG Damian
+\lex de
+\_no 00527
+\SPG de
+\ENG of
+\lex de7e*
+\_no 00528
+\SPG de verdad
+\ENG right
+ZOH001R0611013.txt
+"I
+Page 42

@@ -1,0 +1,64 @@
+\LG MIG
+\PSH
+\UND 7@y
+\MB VERS2
+\VAR
+\USE verbalizing suffix: versive
+\GRAM suf
+\SCI
+\USE
+\SPG tener SUSTANTIVO
+\ENG to have NOUN
+\SPL
+\SLGR
+\EXU 1 7i rroma*nh komo 7animo.7@y-wa
+\XPSH 1 [7i Rroma*nh, komo 7animo7@yy@...]
+\XSP 1 y Roma*n, como tiene valor...
+\XEN 1 and Roma*n, having courage.
+\EXU 2 jaya.7@y-w@
+\XPSH 2 [Jaya7@yy@.]
+\XSP 2 Se caso*.
+\XEN 2 She married.
+\EXU 3 p@j.17.7@y-w@
+\XPSH 3 [P@ji7@yy@.]
+\XSP 3 se puso largo.
+\XEN 3 It lengthened.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\lex {+bi7t}
+\_no 04404
+\LG MIG
+\PSH
+\UND bi7t
+MB SBD
+\VAR
+\GRAM conj
+\SCI
+ZOH004R0011001.txt
+\USE conditional clause subordinator
+\SPG si
+\ENG if
+\SPL
+\SLGR
+\EXU 1 si 7@m+ jamatin. '@y-w@ +bi7t ti 7@m+ me7tz-pa y@.ji
+\XPSH 1 [Sim jamatinn@yy@bi7t, tim me7tzpa y@ji?]
+\XSP 1 Si tienes dinero, que buscas aqui*?
+\XEN 1 If you've got money, what are you looking for here?
+\EXU 2 pwes ya 7@m+ t@-A+bi7t pitz@m-A7 ya.jaanh
+\XPSH 2 [Pwes, yam t@bi7t, pitz@m@ y@j@*nh.] jeanh
+\XSP 2 Pues, si no lo quieres, salte por aca*.
+\XEN 2 well, if you don't like it, go on over there.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+Page 1891

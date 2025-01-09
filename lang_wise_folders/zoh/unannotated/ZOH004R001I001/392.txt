@@ -1,0 +1,63 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex ju7
+\_no 00900
+\LG MIG
+\PSH
+\UND ju7
+\MB
+\VAR
+\GRAM int
+\SCI
+\USE
+\SPG donde
+\ENG where
+\EXU ju' 7@m+_n@k-pa
+\XPSH [Jum n@kpa?]
+\XSP Adonde vas?
+XEN Where are you going?
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 25/Sep/94
+\DATE 03/Jan/1980
+\lex ju7u
+\_no 00901
+\LG MIG
+\PSH
+\UND ju77u
+\MB
+\VAR [ju77u]
+\GRAM VIF
+\SCI
+\USE
+\SPG hacer ruido; hacer trueno; hacer sonar; retumbar; zumbar
+\ENG to make noise; to thunder; to make a sound; to rumble; to buzz
+\SPL yak. ju7u
+\SLGR CAUS
+\SLGL hacerle sonar // to cause something to make a loud noise
+\EXU ju7u-pa_m@y@
+\XPSH [Ju7upa m@y@.]
+\XSP Hace trueno de rayo.
+\XEN It thundered.
+\SYN
+\SEMF sound
+\ASP activity
+\ARG
+\NOM
+\SUB 7anh.ju7u, j@x=ju7u
+\ETYM
+ZOH004R0011001.txt
+\ETL
+\ROOT ju77u
+\XPSH IX
+Page 392

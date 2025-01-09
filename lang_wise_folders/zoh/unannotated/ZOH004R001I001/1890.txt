@@ -1,0 +1,63 @@
+\lex {7@y+}
+\_no 04401
+\LG MIG
+\PSH
+\UND 7@y
+\MB ЗЕ
+\VAR
+GRAM pron
+\SCI
+\USE third person ergative proclitic agreement marker. subject of
+transitive verb; ergative-shifted subject of intransitive verb;
+possessor of noun
+\SPG e*1, ella; su
+\ENG he, she, it; his, her, its
+\SPL
+\SLGR
+\EXU 1 7@y+ ko.x@nh'.7aH-xuk-w@ g@_tzu7
+\XPSH 1 [7@y kox@nhnhaxukk@ g@ tzu7.]
+\XSP 1 Hicieron baile po e*1 en la noche.
+\XEN 1 They had a party for him that night.
+\EXU 2 ya.da pan 7@y+ n@ji rroma*nh
+\XPSH 2 [Y@da pan, 7ay naji Rroma*nh.]
+\XSP 2 Este hombre, su nombre es Roma*n.
+\XEN 2 This man, his name is Roma*n.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+\lex {.7@y}
+\_no 04402
+\LG MIG
+\PSH
+\UND
+\MB SUF
+\VAR
+\GRAM
+\SCI
+\USE the meaning and function of this suffix remains a mystery. It often
+appears in a circumfixal fashion with the prefixes 7ok., k@., and
+nik..
+\SPG
+\ENG
+\SPL
+ZOH004R0011001.txt
+\SLGR
+\EXU 7@y+ nik.poy.7@y-w@
+\XPSH [7@y nikpoyy@yy@.]
+\XSP Se le fue* encima.
+\XEN He jumped on top of him.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\lex {.7@y}
+\_no 04403
+Page 1890

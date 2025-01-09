@@ -1,0 +1,63 @@
+\RTGR 1 11
+\ROOT 2 jek
+\RTGR 2 12
+\DSRC HAJ95
+\CMTS
+\date 12/Jan/96
+\lex k@.n@k=jonh. '@y
+\_no 01697
+\LG MIG
+\PSH [k@n@kjonhnh@y-]
+\UND ka.n@k=jonh.7@y
+\MB FUERA, irse, atarantarse, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG atarantarse todo
+\ENG to get all dizzy
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 n@k
+\RTGR 1 IX
+\ROOT 2 jonh
+\RTGR 2 12
+\DSRC HAJ95
+\CMTS
+\date 07/Feb/96
+\lex k@.n@k=jup.jup.w@y
+\_no 01698
+LG MIG
+\PSH [k@n@kjupjupw@y-]
+\UND k@.n@k=jup.jup.w@y
+\MB FUERA, irse, jalar, jalar, REDUP2
+\VAR
+\GRAM vt:iterative transitive
+\SCI
+\USE
+\SPG pegar mucho [con el chicote (naka+pi7t)
+\ENG to whip severely
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 n@k
+\RTGR 1 IX
+\ROOT 2 jup
+\RTGR 2 P, (T3)
+\DSRC HAJ95
+\CMTS CK-PH; should be [pp] - HAJ:96, I hear a /w/; It is [w] (TK)
+Page 733

@@ -1,0 +1,62 @@
+\XEN 2 I'm sawing myself.
+\EXU 3 7@n+ wotz-pa
+\XPSH 3 [7@n wotzpa.]
+\XSP 3 Lo voy a cortar con sierra.
+\XEN 3 I'm going to saw it.
+\SYN
+\SEMF cut
+\ASP process
+\ARG
+\NOM wotz.e7, wotz.kuy7, wotz.naanh
+\SUB
+\ETYM
+\ETL
+\ROOT wotz
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex wotz.e7
+\_no 03803
+\LG MIG
+\PHO [wotze7]
+\UND wotz.E7
+\MB cortar, NOM7
+\VAR
+\GRAM pcp
+\SPG cortado
+\ENG cut
+\EXU tzima wotz.e7
+\XPSH [tzima wotze7]
+\XSP morro cortado
+\XEN sawn clay
+\SYN
+\ROOT wotz
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex wotz.kuy7
+\_no 03804
+\LG MIG
+\PHO [wotzkuy7]
+\UND wotz.kuy7
+\MB cortar_c_sierra, INSTR1
+\VAR
+\GRAM instr1
+\SPG sierra
+\ENG saw
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT wotz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+ZOH004R0011001.txt
+\lex wotz.naanh
+\_no 03805
+Page 1635

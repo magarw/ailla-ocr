@@ -1,0 +1,65 @@
+\SCI
+\USE
+\SPG 11evar en la mano
+\ENG to carry in the hand
+\SPL k@y.7oy
+\SLGR ANTIP
+\SLGL 11evar // to carry
+\SPL k@y.7@m
+\SLGR PASS
+\EXU 1 7@y+ k@y-n@k-w@
+\XPSH 1 [7@y k@yn@kk@.]
+\XSP 1 Lo llevo* en la mano.
+\XEN 1 She carried it in her hand.
+\EXU 2 k@y.7@m-w@ 7uk. E d@k+7a
+\XPSH 2 [K@yy@mm@ 7uki d@kka.]
+\XSP 2 Llevaron los atoles.
+\XEN 2 She carried the atoles in her hand.
+\EXU 3 k@y-@-w@ meex+g@xi
+\XPSH 3 [K@y@w@ mexg@xi.]
+\XSP 3 Pusieron (el plato) en la mesa.
+\XEN 3 The plate was put on the table.
+\EXU 4 7@y+ k@y.ten-w@ y@k.k@x
+\XPSH 4 [7@y k@ytenn@ y@kk@x.]
+\XSP 4 Tiene en la mano el plato.
+\XEN 4 She has the plate in her hand.
+\SYN
+\SEMF hand, carry
+\ASP activity
+\ARG
+\NOM 7anh.k@.i, 7anh.k@y.kuy7, k@y.naanh
+\SUB 7anh.k@y, 7anh.k@y-num, 7ok.k@y. '@y, j@x-k@y, nik.k@y. '@y, yuk.k@y
+\ETYM
+\ETL
+\ROOT k@y
+\RTGR T3
+ZOH004R0011001.txt
+\DSRC TK94
+\CMTS
+\CMTS ya no se mienta 'mano' no mas que lo llevo* '
+"
+\CMTS the gesture is one hand, holding something like a plate
+\CMTS Camilo says both hands, like the way they carry a little plate
+\CMTS with a cup of chocolate and a piece of bread on it
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex k@y.naanh
+\_no 01783
+\LG MIG
+\PHO [k@yna*nh]
+\UND k@y.nanh
+\MB 11evar_en_mano, MED
+\VAR
+\GRAM meas
+\SPG un platillo
+\ENG a little plate
+\EXU tum k@y.naanh k@x.E
+\XPSH [tum k@ynanh k@xi]
+\XSP un platillo de comida
+\XEN a little plate of food
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+Page 771

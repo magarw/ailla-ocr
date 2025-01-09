@@ -1,0 +1,62 @@
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Nov/94
+\lex ko.matz
+\_no 01366
+\LG MIG
+\PSH [komatz-]
+\UND ko.matz
+\MB OTRO, Sobar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG limpiar
+\ENG to clean
+\SPL
+\SLGR
+\EXU 7@y+ ko.matz-w@ 7@y+ jap
+\XPSH [7@y komatztz@y jap.]
+\XSP Limpio* su boca.
+\XEN She cleaned her mouth.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT matz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex ko.maxan
+\_no 01367
+\LG MIG
+\PSH [komaxan-]
+\UND ko.maxan
+\MB OTRO, sagrado
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG santo
+\ENG saint
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 07/Feb/96
+\lex ko.may
+\_no 01368
+\LG MIG
+\PSH [komay-]
+\UND ko.may
+\MB OTRO, contar
+ZOH004R0011001.txt
+Page 596

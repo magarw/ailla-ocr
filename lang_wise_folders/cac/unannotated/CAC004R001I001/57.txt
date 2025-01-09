@@ -1,0 +1,86 @@
+En San Mateo es donde hay autoridades.
+t'a San Mateo a t'a ay eb' winh yajal swinakil
+t'a San Mateo a t'a ay-ø
+prep San Mateo top prep exist-3B ellos
+158. Isabel es nombre de mujer.
+116
+María es nombre de mujer.
+Malin sb'i ix ix
+Malin s-b'i
+ix ix
+María 3A-nombre Cfem ella
+a in Chepel sb'i ix ayoch t'a ix
+Chepel s-b'i
+a ix
+ix ay-ø-och
+t'a ix
+top Cfem Isabel 3A-nombre Cfem exist-3B-DIR. adentro prep Cfem
+Malin sb'i eb' ix ix
+Malin s-b'i
+eb' ix ix
+María 3A-nombre pl Cfem ella
+eb'_winh y-ajal s-winak-il
+3A-dueño
+3A-hombre-gen
+159. El hombre que salió yo lo conozco.
+a jun winak ixeli wojtak winh
+a jun winak ix-ø-el-i
+Ø-w-ojtak
+winh
+top uno hombre pas-3B-salir-vti 3B-1A-conocer Cmasc
+160. ¿Qué es eso?
+¿tas jun chi'?
+tas jun chi'
+qué uno dem
+a winh winak ixel chi' a winh wojtak
+chi' a winh ø-w-ojtak
+a winh winak ix-ø-el
+top Cmasc hombre pas-3B-salir dem top Cmasc 3B-1A-conocer
+a winh winak ixel chi' a ton winh chi' wojtak
+a winh winak ix-ø-el
+chi' a ton winh chỉ
+top Cmasc hombre pas-3B-salir dem top enf Cmasc dem
+Ø-w-ojtak
+3B-1A-conocer
+161. Es un perro.
+a no' tz'i'
+no'
+a
+tz'i'
+top Canimal perro
+162. El año que viene mi hijo va a ser hombre.
+a jun ab'il olja'ok jun wunin to winak winh
+a jun ab'il ol-ø-ja'-ok
+jun w-unin to winak winh
+top uno año fut-3B-venir-IRR uno 1A-hijo nex hombre Cmasc
+El año que viene mi hijo, ya no va a ser niño, se va a convertir en
+hombre.
+t'a jun ab'il oloch tik winh wunin manxo uninok laj winh, oloch winh
+winakil
+t'a jun ab'il ol-ø-och tik winh w-unin man-xo
+prep uno año fut-3B-entrar dem Cmasc 1A-hijo neg-adv
+unin-ok laj winh, ol-ø-och winh winak-il
+hijo-IRR neg Cmasc, fut-3B-entrar Cmasc hombre-abs
+163. Juana se parece a María.
+a ix Xuwan icha ix Malin ix
+a
+ix Xuwan icha ix Malin ix
+top Cfem Juana así Cfem María Cfem
+ix Xuwan lajan kilan ix yet' ix Malin
+ix
+Xuwan lajan ø-k-il-an
+ix y-et' ix Malin
+Cfem Juana igual 3B-1A-ver-sec Cfem 3A-SR Cfem María
+164. Juana se parece a su madre.
+a ix Xuwan icha ix snun ix
+s-nun
+ix
+a ix Xuwan icha ix
+top Cfem Juana así Cfem 3A-madre Cfem
+ix Xuwan lajan kilan ix yet' ix snun ix
+ix
+Xuwan lajan ø-k-il-an
+ix
+Cfem Juana igual 3B-1A-ver-sec Cfem 3A-SR Cfem 1A-madre ella
+ix y-et' ix s-nun
+117

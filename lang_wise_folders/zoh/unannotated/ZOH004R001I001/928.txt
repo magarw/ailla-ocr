@@ -1,0 +1,62 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@n
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex naw.e7
+\_no 02152
+\LG MIG
+\PHO [nawe7]
+\UND nanh. E7
+\MB regar, NOM7
+\VAR
+\GRAM pcp
+\SPG regado
+\ENG Sown
+\EXU naw.e7+k mok
+\XPSH [nawe7k mok]
+\XSP maiz regado
+\XEN sown corn
+\SYN
+\ROOT nanh
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex nawin7
+\_no 02153
+\LG MIG
+\PSH
+\UND nawin7
+\MB
+\VAR nawin kuy
+\GRAM S
+\SPG palo de majagua
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\ROOT
+\DSRC HAJ95
+\CMTS especial para sacar majagua; se ve en las montan~as
+\CMTS se puede hacer mecate con este, es mas fino que wopo7
+\date 18/Jun/96
+\lex nax
+\_no 02154
+\LG MIG
+\PSH
+\UND nax
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+Page 928

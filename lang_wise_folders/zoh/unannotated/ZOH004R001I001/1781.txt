@@ -1,0 +1,63 @@
+\LG MIG
+\PSH
+\UND ye7tz
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG 11egar
+\ENG to arrive
+\SPL yak.ye7tz
+\SLGR CAUS
+\SLGL obligar a llegar // to oblige to arrive
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF move
+\ASP transition
+\ARG
+\NOM ye7tz.kuy7
+\SUB
+\ETYM
+\ETL
+\ROOT ye7tz
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex ye7tz.kuy7
+\_no 04144
+\LG MIG
+\PSH [ye7tzkuy7]
+\UND_ye7tz.kuy7
+\MB 11egar, INSTR1
+\VAR
+\GRAM instrl
+\SCI
+\USE
+\SPG posada
+\ENG lodging
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ye7tz
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 02/Nov/94
+\lex yew.e7
+\_no 04145
+ZOH004R0011001.txt
+\LG MIG
+\PSH [yewe7]
+\UND yenh.E7
+\MB engordarse, NOM7
+\VAR
+\GRAM SV
+Page 1781

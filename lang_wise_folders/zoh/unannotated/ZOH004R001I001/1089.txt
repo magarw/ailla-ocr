@@ -1,0 +1,62 @@
+ZOH004R0011001.txt
+\CMTS I've got this in texts, and it's not a long /a/; it def. ends in /n/:
+TK
+\date 25/Jun/96
+\lex pana7tz
+\_no 02528
+\LG MIG
+\PSH
+\UND pana7tz
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG resbaloso
+\ENG slippery
+\EXU jake pana7tz
+\XSP muy resbaloso
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 19/Jun/95
+\lex pana7tz=tz@k
+\_no 02529
+\LG MIG
+\PSH [pana7tztz@k-]
+\UND pana7tz=tz@k
+\MB resballoso, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer resballoso
+\ENG to make slippery
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 15/Jun/95
+\lex pana7tz.'aH
+\_no 02530
+\LG MIG
+\PSH [pana7tztza-]
+\UND pana7tz.7aH
+\MB resballoso, VERS1
+\VAR
+\GRAM vi:vers1
+Page 1089

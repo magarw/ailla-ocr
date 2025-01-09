@@ -1,0 +1,63 @@
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex jan
+\_no 00042
+\SPG quemarse, por el frio o el aire
+\ENG to be burned, by the cold or the wind
+\SEMF temp
+\ASP achievement, accomplishment
+\ARG
+\NOM
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex ja7p
+\_no 00043
+\SPG 1 moler
+\SPG 2 quebrajar
+\ENG 1 to grind
+\ENG 2 to crush
+\SEMF corn, break
+\ASP activity
+\ARG agent, patient
+\NOM ja'p.e7, ni.ja7p.kuy7
+\RTGR T3
+\POS da ja7pjayy@
+\MID
+\lex jatikx
+\_no 00044
+\SPG estornudar
+\ENG to sneeze
+\SEMF body
+\ASP semelfactive
+\UNDO
+\CLZ
+\CMTS ya tzamanak pi:tzija7pp@
+\CMTS este mano metate molio nixtamal
+\ARG
+\NOM jatikx.i, jatikx.naanh
+\RTGR 11
+\POS rroberto d@ winn@kjatikx@yy@
+\MID
+\UNDO N
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\lex ja7tz
+\_no 00045
+me lo molio* (alguien lo hizo por mi)
+\ARG
+\NOM ja'tz.@, ja7tz.kuy7
+rroberto destornudo* delante de mi
+\SPG agarrar fiado; fiar; pedir
+\ENG to buy on credit; to borrow; to ask for a loan
+\SEMF trade
+\ASP achievement
+Page 11

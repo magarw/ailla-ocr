@@ -1,0 +1,68 @@
+\zoq GSM: Pa tzokoy toe7?
+\fts GSM: Para dolor de estomago?
+\fte GSM: For stomach ache?
+\com
+\idx
+\ref ZOH001R036 999-038
+\_no 01022
+\tx OSM: pa tzokoy toe7
+\mb OSM
+para tzokoy7 toy
+-E7
+\sg1 OSM: para corazon doler-NOM3
+\egl OSM: for heart
+hurt -NOM3
+\zoq OSM: Pa tzokoy toe7,
+\fts OSM: Para dolor de estomago,
+\fte OSM: For stomach ache,
+\com
+\idx
+\ref ZOH001R036 999-039
+\_no 01023
+\tx 7i ya pata
+\mb 7i
+ya p@7t -A
+\sg] y
+NEG pasar-NOM2
+\egl and NEG pass -NOM2
+\zoq 7i ya pata,
+\fts y no pasa,
+\fte and it doesn't pass,
+\com
+\idx
+\ref ZOH001R036 999-040
+\_no 01024
+\tx mansani 7@y 7ukpa
+\mb mansani
+7@y 7uk
+-pa
+tomar -INC
+\sg1 manzanilla 3E
+\egl chamomile 3E drink-INC
+\zoq mansani 7@y 7ukpa.
+\fts hoja de mansanilla toma.
+\fte one drinks chamomile.
+\com
+\idx
+\ref ZOH001R036 999-041
+\_no 01025
+\tx rruda
+\mb rruda
+\sg1 ruda
+\egl herb
+\zoq Rruda.
+\fts Ruda.
+ZOH001R0361001.txt
+\fte (An herb for various illnesses.)
+\com
+\idx
+7@y yumpa
+\ref ZOH001R036 999-042
+\_no 01026
+\tx 7@y 7ukpa
+pwes
+\mb 7@y 7uk
+-pa 7@y yum
+-pa pwes
+\sg1 3E tomar-INC 3E hervir(se)-INC pues
+Page 221

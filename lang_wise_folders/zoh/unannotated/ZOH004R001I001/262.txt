@@ -1,0 +1,62 @@
+\lex fuffuu* (7)
+\_no 00611
+\LG MIG
+\PSH
+\UND fuffuu
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG 1o que dice un viejo por una cosa que no le gusta
+\ENG what an old man says when he doesn't like something
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS en vez de decir [ja&ja:&]
+\date 24/Jun/96
+\lex fwersa
+\_no 00612
+\LG MIG
+\PSH
+\UND fwersa
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG fuerza
+\ENG strength
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL Sp
+\ROOT
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS CK-PH ok HAJ:96; also [jw]
+\date 24/Jun/96
+\lex fwerte
+\_no 00613
+\LG MIG
+\PSH
+\UND fwerte
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG fuerte
+\ENG strong
+\EXU
+\XSP
+Page 262

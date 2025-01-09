@@ -1,0 +1,65 @@
+\MB ligero, hacer
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer bojo
+\ENG to make light
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+ΧΕΝ
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+\lex xex
+\_no 03924
+\LG MIG
+\PSH
+\UND xex
+\MB
+\VAR
+\GRAM vi: med
+\SCI
+\USE
+\SPG mudar piel; sheshar mai*z
+\ENG for skin to peel; for corn to lose its outer skin
+\SPL yak.xex
+\SLGR CAUS
+\SLGL dejar que se mudara // to allow to shed its skin
+\EXU 1 xex-w@ 7@y+ naka
+\XPSH 1 [xexx@y naka.]
+\XSP 1 Mudo* su piel.
+\XEN 1 Its skin shed.
+\EXU 2 mok xexpa
+\XPSH 2 [Mok xexpa.]
+\XSP 2 Shesho* maiz.
+\XEN 2 The corn lost its skin.
+ZOH004R0011001.txt
+\EXU 3 n@k-pa 7@n+ mok=xex-w@
+\XPSH 3 [N@kpan mokxexx@.]
+\XSP 3 voy a deshojar el mai*z.
+\XEN 3 I'm going to peel the corn.
+\SYN
+\SEMF corn, body
+\ASP process
+\ARG
+\NOM xex.i7
+\SUB ko.xex
+\ETYM
+\ETL
+\ROOT xex
+\RTGR IX
+\DSRC TK94
+\CMTS get deriv's
+\CMTS
+\date 03/Jan/80
+Page 1688

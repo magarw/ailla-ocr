@@ -1,0 +1,62 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS no sabe que puede ser
+\date 24/Jun/96
+\lex kuk 7@y+ kuk
+\_no 01515
+\LG MIG
+\PSH [kuk 7@y kuk]
+\UND kuk 7@y+ kuk
+\MB centro, 3sPOSS, centro
+\VAR
+\GRAM sps
+\SCI
+\USE
+\SPG lo que es la mitad
+ENG half
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex kuk wakxi '=7awin
+\_no 01516
+LG MIG
+\PSH [kuk wakxi7awin]
+\UND kuk wakxi7-7awin
+\MB centro, chico, hermano
+\VAR
+\GRAM smas
+\SCI
+\USE
+\SPG hermano menor
+\ENG younger brother
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex kuk-jama
+\_no 01517
+\LG MIG
+ZOH004R0011001.txt
+Page 658

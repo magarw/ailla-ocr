@@ -1,0 +1,63 @@
+\ENG to start to spread water
+\SPL
+\SLGR
+\EXU n@'-yuk. ketz='ok.manh-w@
+\XPSH [N@yukketztzokmanhnh@.]
+\XSP Empezo* a regar agua.
+\XEN She started to spread water.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ketz
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex yuk.kinh=ka'
+\_no 04267
+\LG MIG
+\PSH [yukkinhka-]
+\UND yuk. kinh=ka7
+\MB ARR, enojarse
+\VAR
+\GRAM dir+vi
+\SCI
+\USE
+\SPG enojarse
+\ENG to get angry
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT kinh=ka7
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yuk.ki7t
+\_no 04268
+\LG MIG
+\PSH [yukki7t-]
+\UND yuk.ki7t
+\MB ARR, meter_el_dedo
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG levantar con el dedo
+ENG to lift up with your finger
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+Page 1833

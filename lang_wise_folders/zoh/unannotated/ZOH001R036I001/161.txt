@@ -1,0 +1,80 @@
+\com
+\idx
+\ref ZOH001R036 753
+\_no 00740
+\tx gag@
+\mb ka
+pitz
+-g@ pitz
+-g@
+wayay
+-7a -w@ wayay7
+-VERS1-COM frio
+\sg1 DCT3-DEM por_eso
+que
+no ver hay
+\eg1 DCT3-DEM because of that no see there_is-VERS1-COM cold
+\tx t@kk@yy@*
+\mb t@k
+-7@y-w@-v7k
+\sg1 casa -VERS2-COM-REL
+\egl house -VERS2-COM-REL
+\ref ZOH001R036 755
+\_no 00741
+\zoq Gag@ pitz ke no bes teji7aw@ wayay t@kk@yy@*.
+\fts Ese es que no ves le entro* fieldad.
+fte That is because you don't see there the cold that's come in.
+\com
+\idx
+ke
+ke
+\ref ZOH001R036 756
+\_no 00742
+\tx wayay t@kk@yy@
+pitz
+\mb wayay7 t@k -7@y -w@ pitz
+\sgl frio
+casa -VERS2-COM por_eso
+\egl cold house-VERS2-COM because_of
+ZOH001R0361001.txt
+\com
+\idx
+no bes teji7aw@
+no bes teji
+\zoq wayay t@kk@yy@, pitz tzakk@mm@ bi mal.
+\fts Le entro* fieldad, por eso quedo* el mal.
+\fte The cold got into him, that's why he's left with the sickness.
+\com
+\idx
+\tx t@kk@ypa
+ney
+tzokoyjo
+\mb t@k -7@y-pa ney tzokoy7 -jo7
+\sg1 casa -SUF-INC IPrn corazo*n-LOC2
+\egl house-SUF-INC IPrn heart
+\zoq Takk@ypa ney tzokoyjo.
+\fts Entra en el corazo*n.
+\fte It enters into our hearts.
+\ref ZOH001R036 757
+\_no 00743
+\zoq T@kk@ba ney kopakjo.
+\fts Entra en nuestra cabeza.
+\fte It enters into our heads.
+-LOC2
+\tx t@kk@ba
+ney kopakjo
+\mb t@k -7@y-pa ney
+kopak -jo7
+\sg1 casa -SUF-INC IPrn cabeza-Loc2
+\egl house-SUF-INC IPrn head -LOC2
+tzakk@mm@
+bi mal
+tzak -7@m -w@ bi mal
+dejar-PAS -COM DEF mal
+leave-PASS-COM DEF bad
+\com
+\idx
+\ref ZOH001R036 758
+\_no_00744
+\tx 7i de7xe bi mal tzakk@mpa
+Page 161

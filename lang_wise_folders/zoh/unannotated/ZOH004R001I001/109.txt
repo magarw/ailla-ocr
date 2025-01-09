@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Aug/94
+\1ex 7eno7
+\_no 00254
+\LG MIG
+\PSH
+\UND 7eno7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG heno
+\ENG hay
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC TK94
+\CMTS
+\date 11/Nov/94
+\lex 7enhfad(a)=tz@k
+\_no 00255
+\LG MIG
+\PSH [7enhfadatz@k-]
+\UND 7enhfada=tz@k
+\MB enfadarse, HACER
+\VAR 7enhfaad-tz@k.7@m-w@
+\VAR 7enhfwaad-tz@k-w@
+\GRAM vi
+\SCI
+\USE
+\SPG 1 enfadarse
+\SPG 2 fatigar
+\SPG 3 aburrirse
+\ENG 1 to get sick of something
+\ENG 2 to get tired
+\SPG 3 to get bored
+\EXU 7enhfada=tz@k-w@+ 'am
+\XPSH [7enhfadatz@kka*m.]
+\XSP Se fatigo*.
+\XEN She got tired.
+\SYN ko.kix
+\SEMF
+\ETYM enfadar
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC TK94
+\CMTS CK-all HAJ: 96
+\date 09/Jan/96
+\lex 7enhkaje
+ZOH004R0011001.txt
+Page 109

@@ -1,0 +1,65 @@
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 07/Feb/96
+\GRAM SR
+\SCI
+\USE
+\lex kun. kun7
+\_no 01555
+\LG MIG
+\PSH [kunkun7]
+\UND kun. kun7
+\MB
+\VAR
+\XSP
+\XEN
+\SYN
+\SEMF EB
+ETYM
+— — —
+\SPG pelusa; ahuate de picapica
+\ENG a type of plant
+\EXU
+\ETL
+\ROOT
+\DSRC HAJ94
+\lex kunya
+\_no 01556
+\CMTS
+\date 14/Jun/95
+\LG MIG
+\PSH
+\UND kunya
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+LF:7okox
+\XEN
+\SYN
+\SPG cun~a
+\ENG wedge; chock
+\EXU
+\XSP
+LF:7okox - poj
+\lex kunyaaw
+\_no 01557
+\LG MIG
+\PSH
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 01/Oct/94
+ZOH004R0011001.txt
+Page 675

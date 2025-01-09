@@ -1,0 +1,63 @@
+\VAR
+\GRAM pcp
+\SPG tomado a boca de plato
+\ENG drunk from a bowl
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT xo7px
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex xo7px.naanh
+\_no 03981
+\LG MIG
+\PHO [xo7pxna*nh]
+\UND xo7px.naanh
+\MB tomar, MED1
+\VAR
+\GRAM meas
+\SPG un trago del plato
+\ENG one drink from a bowl
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT xo7px
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex xotz
+\_no 03982
+\LG MIG
+\PSH
+\UND xotz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG amarrar
+\ENG to tie
+\SPL xotz.7oy
+\SLGR ANTIP
+\SLGL amarrar // to tie
+\SPL xotz.7@m
+\SLGR PASS
+\SLGL amarrarse // to be tied
+\SPL xotz.ney
+\SLGR ASSUM1
+ZOH004R0011001.txt
+\SLGL estar amarrado // to be tied
+\SPL xotz.ten
+\SLGR PRSV
+\SLGL tener amarrado // to have something tied
+\EXU 1 xotz. E+ 'am
+\XPSH 1 [Xotzeam.]
+\XSP 1 Ya esta amarrado.
+\XEN 1 Now it's tied.
+\EXU 2 7@n+ xotz-pa 7@n+ laxu
+Page 1712

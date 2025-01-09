@@ -1,0 +1,63 @@
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG ayudar
+\ENG to help
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF build
+\ASP activity
+\ARG
+\NOM
+\SUB_tz@m=ko.tzonh
+\ETYM
+\ETL
+\ROOT tzonh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex ko.tzonh.kuy7
+\_no 01463
+\LG MIG
+\PSH [kotzonhkuy7]
+\UND ko.tzonh.kuy7
+\MB OTRO, unir, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG (una) ayuda (grande)
+\ENG a big work-party
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzonh
+\RTGR T3
+\DSRC HAJ94
+\CMTS Ayudas are parties given to celebrate family saint's days,
+weddings, any festive occasion requiring a feast. The women get
+together and make vast quantities of food: tamales, stew,
+chocolate, and tortillas. The men help with butchering,
+fire-building, and roasting banana leaves, otherwise they sit around
+and drink.
+\date 19/Jun/95
+\lex ko=tzunu7
+\_no 01464
+\LG MIG
+\PSH [kotzunu7]
+\UND ko7=tzunu7
+ZOH004R0011001.txt
+\MB CAB, bolsa
+\VAR
+\GRAM S
+\SCI
+\USE
+Page 636

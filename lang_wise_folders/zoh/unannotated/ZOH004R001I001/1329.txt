@@ -1,0 +1,62 @@
+ZOH004R0011001.txt
+\CMTS CK-GR HAJ:96 prob. an over-generalization
+\date 26/Jun/96
+\lex tukun
+\_no 03087
+\LG MIG
+\PSH
+\UND tukun
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG arete
+\ENG earring
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex tukxi7
+\_no 03088
+\LG MIG
+\PSH
+\UND tukxi7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG guerra; pleito
+\ENG war; fight
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 20/Oct/94
+\lex tukxi.7aH-pa+a7k
+\_no 03089
+\LG MIG
+\PSH [tukxi7aba*7]
+\UND tukxi7.7aH-pa +P@7k
+\MB pleito, VERS1, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG peleador; "esta* peleando"; peleonista; aquel que pelea
+\ENG fighter; one who fights
+Page 1329

@@ -1,0 +1,62 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 * mạnh
+\RTGR 1 P
+\ROOT 2 we7ch
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex mas wakxinh+p@7
+\_no 00170
+\LG MIG
+\PSH [mas wakxinhp@7]
+\UND mas wakxinh+p@7
+\MB mas, pequen~o, NOM5
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG el ma*s_pequen*o
+\ENG the smallest one
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 17/Jun/95
+\lex max. @7
+\_no 00171
+\LG MIG
+\PHO [max@7]
+\UND max.A7
+\MB descomponerse, NOM2
+\VAR
+\GRAM SV
+\SPG descompuesto
+\ENG broken
+\EXU max.@7+k k@x.i // k@x.i max.@7
+\XPSH [max@7k k@xi] // [k@xi max@*7]
+\XSP comida descompuesta
+\XEN broken foods
+\SYN
+\ROOT max
+\RTGR 12
+\RTGL descomponerse
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+ZOH001R0611004.txt
+\lex mek.e7
+\_no 00172
+\LG MIG
+Page 70

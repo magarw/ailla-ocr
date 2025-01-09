@@ -1,0 +1,62 @@
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex w@t.i'=tz@k
+\_no 03846
+\LG MIG
+\PSH [w@titz@k-]
+\UND w@t.E7=tz@k
+\MB grande, NOM7, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer mas grande
+\ENG to make bigger
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+\lex w@t.naanh
+\_no 03847
+\LG MIG
+\PHO [w@tna*nh]
+\UND w@t.naanh
+\MB romperse, MED
+\VAR
+\GRAM meas
+\SPG pedazo de ropa rota
+\ENG a piece of torn cloth
+\EXU mix tzi7-A7 tum w@k.naanh
+ZOH004R0011001.txt
+\XPSH [Mix tzi7 tum w@kna*nh.]
+\XSP Deme un pedacito de tu ropa.
+\XEN Give me a scrap of your clothes.
+\SYN
+\ROOT wat
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex w@t. (i') nak=mok
+Page 1654

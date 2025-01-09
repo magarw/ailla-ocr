@@ -1,0 +1,63 @@
+\lex tzak
+\_no 00131
+\SPG dejar
+\ENG to leave
+\EX joxanh 7@y tzakk@
+\XSP lo dejo* vacio
+\XEN he left it empty
+ROOT tzak T3
+\SEMF motion
+\PASS tzak. 7@m quedarse
+\ANTI tzak. 7oy
+\CMTS
+\lex tzanh
+\_no 00132
+\SPG pegar con el pun~o; golpear
+\ENG to hit with the fist
+\EX 7@y winjonhnh@ 7@y tzanhnh@
+\XSP le pego* por delante
+XEN he knocked him forwards
+\EX 7antzanhxukpa
+\XSP esta*n torteando (como en una ayuda)
+\XEN they're making tortillas
+\ROOT tzanh T3
+\SEMF hit, instr, hand
+\PASS NONE tzanh.7@m*
+\ANTI tzanh.7oy
+\CMTS
+\lex tzatz
+\_no 00133
+\SPG rajar (como papel)
+\ENG to tear (like paper)
+\EX 7@n tzatztuktukw@yy@ n toto
+\XSP hice mi papel en tiras
+\XEN I tore my paper in strips
+\EX xanh tzatztz@ patanux 7ay
+\XSP el aire rompio* la hoja de pla*tano
+\XEN the wind tore the banana leaves
+\ROOT tzatz T3
+\SEMF break
+\PASS tzatz.7@m rajarse; romperse
+\ANTI tzatz.7oy estar rompiendo
+\CMTS
+\lex tze
+\_no 00134
+\SPG lavar
+\ENG to wash
+\EX tzea7
+\XSP
+\XEN
+\ROOT tze T3
+\SEMF clean
+\PASS NONE tze.7@m would be 'se lavo* solo'
+\ANTI tze7.7oy lavar
+\CMTS
+同理
+\lex tze7k
+\_no 00135
+\SPG pedir
+ZOH001R0611009.txt
+tze7 - impv
+\ENG to ask
+\EX
+Page 32

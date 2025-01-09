@@ -1,0 +1,61 @@
+\UNDO
+\CLZ
+\CMTS
+\lex ton
+\_no 00287
+\SPG limpiar soplando mai*z, frijol (de gorgojo, de broca, de bica, de
+basura) (se sopla con la boca o con el viento que hay)
+\ENG to winnow corn, beans (of nits, weevils, trash) (you blow with the
+mouth or use whatever breeze there is)
+\SEMF clean
+\ASP activity
+\ARG
+\NOM ton.e7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tonon
+\_no 00288
+\SPG alborotarse polvo, ahuate, avispa
+\ENG to burst out or swarm, like dust from a bag or wasps from a nest
+\SEMF nature
+\ASP achievement, activity
+\ARG
+\NOM tonon.e7
+\RTGR IX
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tonh
+\_no 00289
+\SPG "empollar"; ampollarse
+\ENG to blister
+\SEMF body
+\ASP
+\ARG
+\NOM yuk.tow.a7, tow.a7
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex top
+\_no 00290
+\SPG hacer calor; tener calor
+\ENG to be hot; to feel hot
+\SEMF temp
+\ASP state
+ZOH001R0611002.txt
+\ARG
+\NOM top.a7
+\RTGR 12
+\POS
+\MID
+\UNDO
+Page 71

@@ -1,0 +1,96 @@
+466. Juan no vino por el camino sino por la vereda.
+winhaj Xun manok laj t'a niwan b'e ixkot winh t'a utzin b'e
+winhaj Xun man-ok laj t'a niwan b'e,
+ix-ø-kot
+Cmasc Juan neg-IRR neg prep grande camino pas-3B-venir
+winh t'a utzin b'e
+Cmasc prep atajo camino
+467. Juan se cayó en el río.
+a winhaj Xun ixb'at winh yol a' niwan
+a winhaj Xun ix-ø-b'at winh y-ol
+a'
+niwan
+top Cmasc Juan pas-3B-ir Cmasc 3A-dentro Cagua grande
+468. Juan se tiró al río.
+winhaj Xun ixsjulb'at sb'a winh yol a' niwan
+winhaj Xun ix-ø-s-jul-b'at
+204
+s-b'a winh y-ol
+Cmasc Juan pas-3B-3A-aventar-DIR.allá 3A-rcp Cmasc 3A-dentro
+a'
+niwan
+Cagua grande
+469. Juan se está bañando en el río.
+wan yachanwi winhaj Xun t'a a' niwan
+wan y-achanw-i
+winhaj Xun t'a a'
+niwan
+prog 3A-bañarse-vti Cmasc Juan prep Cagua grande
+470. Vayamos hasta el río.
+konh a to t'a b'aj ay a' niwan
+konh a
+to t'a b'aj ay-ø
+exh top nex prep dónde exist-3B Cagua grande
+a'
+niwan
+471. Juan llegó hasta mi casa y no quiso seguir caminando.
+winhaj Xun ixkot winh t'a inpat majxo yal laj sk'ol winh steb'eyi
+winhaj Xun ix-ø-kot winh t'a in-pat ma-j-xo
+Cmasc Juan pas-3B-venir Cmasc prep 1A-casa neg-pas-adv
+yal laj s-k'ol
+winh tz-ø-te-b'ey-i
+poder neg 3A-estómago Cmasc pres-3B-muy-caminar-vti
+472. Él anduvo por mi casa.
+tonhej tzek' winh spatik schikin inpat
+to-nhej tz-ø-ek'
+nex-sólo pres-3B-pasar él
+473. Juan vino por el lado del río.
+winh s-patik
+s-chikin in-pat
+3A-espalda 3A-oreja 1A-casa
+ixkot winhaj Xun chi' t'a sk'axepal a' niwan
+ix-ø-kot
+winhaj Xun chi' t'a s-k'axepal a' niwan
+pas-3B-venir Cmasc Juan dem prep 3A-lado Cagua grande
+ixkot winhaj Xun chi' t'a sti' a' niwan
+ix-ø-kot
+winhaj Xun chi’ t’a
+pas-3B-venir Cmasc Juan dem prep 3A-boca Cagua grande
+a'
+niwan
+niwan
+grande
+474. En medio del camino hay una piedra grande.
+t'a snhanhal yol b'e ay jun k'en k'e'en niwan
+t'a
+s-nhanhal y-ol
+b'e ay-ø
+jun k'en k'e'en
+prep 3A-cintura 3A-dentro camino exist-3B uno Cpiedra piedra
+s-ti'
+t'a skal b'e yol b'e ay jun k'en k'e'en niwan
+s-kal
+t'a
+b'e y-ol
+b'e ay-Ø jun k'en
+prep 3A-mitad camino 3A-dentro camino exist-3B uno Cpiedra
+k'e'en niwan
+piedra grande
+475. Al lado del camino hay árboles.
+a t'a k'axepal b'e tzijtum te’ te’
+a t'a k'axepal b'e
+top prep lado
+t'a ti' b'e ay te' te'
+t'a ti'
+tzijtum te'
+te'
+camino mucho Cmadera árbol
+b'e ay-ø te'
+te'
+prep boca camino exist-3B Cmadera árbol
+476. El centro del comal está quebrado.
+a snhanhal yol sk'o'ol lum sa'am pojel
+a s-nhanhal y-ol s-k'o'ol
+lum sa'am poj-el
+top 3A-cintura 3A-dentro 3A-estómago Ctierra comal romper-nmlz
+205

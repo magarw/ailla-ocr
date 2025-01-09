@@ -1,0 +1,83 @@
+414. ¡Camina en línea recta!
+tojol tzachb'e'i
+tojol tz-ach-b'e-i
+recto pres-2B-caminar-vti
+415. ¡Siéntate derecho!
+tojol tzachajem k'ojan
+tojol tz-ach-aj-em
+k'oj-an
+recto pres-2B-exist-DIR.abajo sentarse-psc
+416. Arrojó la piedra con fuerza.
+a winh ixsmakpoj jun k'en winh yet' yip
+a winh ix-ø-s-mak-poj
+top él
+192
+jun k'en winh y-et' y-ip
+pas-3B-3A-arrojar uno piedra Cmasc 3A-SR 3A-fuerza
+Arrojé la piedra con fuerza.
+ixinmakpoj jun k'en yet' wip
+ix-ø-in-mak-poj jun k'en y-et'/y-uj w-ip
+pas-3B-1A-arrojar uno piedra 3A-SR 1A-fuerza
+Arrojó la piedra sin fuerza.
+maj yak' laj yip winh ixmak'anpoj jun k'e'en
+ma-j Ø-y-ak' laj y-ip
+winh
+neg-pas 3B-3A-dar neg 3A-fuerza él
+ix-ø-mak'-kan-poj
+jun k'e'en
+pas-3B-golpear-DIR. quedarse-romper uno piedra
+417. La espina se me clavó profundamente.
+ixb'at te' k'ix t'ay in
+ix-ø-b'at te'
+k'ix t'ay in
+pas-3B-ir Cmadera espina prep 1B
+ixsch'op ink'ab' te' k'i'ix
+ix-ø-s-ch'op
+in-k'ab' te'
+k'i'ix
+pas-3B-3A-clavar 1A-mano Cmadera espina
+418. ¡Frota la herida con suavidad!
+tonhej tzamas sub'tanhej jun echen chi'
+ton-nhej tz-ø-a-mas
+sub'ta-nhej jun echen chi'
+enf-sólo pres-3B-2A-frotar suave-sólo uno herida dem
+Froté la herida.
+ixinmaslej jun echen
+ix-ø-in-masl-ej
+jun echen
+pas-3B-1A-frotar-vtd uno herida
+ixinmaslej t'a k'unhej
+ix-ø-in-masl-ej
+t’a k’un-nhej
+pas-3B-1A-frotar-vtd prep suave-sólo
+k'unhej ixinmaslej
+k'un-nhej ix-ø-in-masl-ej
+suave-sólo pas-3B-1A-frotar-vtd
+419. ¡Levanta el costal poco a poco!
+k'ojan k'olal tzik' k'ewan nok' koxtal
+k'oj_an_k'ol_al tz-ø-Ø-ik'
+despacio
+k'ew-an nok' koxtal
+pres-3B-2A-portar levantar-psc Canimal costal
+¡Levanta el costal rápido!
+elanchamel tzik' k'ewan nok' koxtal chi'
+elanchamel tz-ø-Ø-ik'
+k'ew-an nok' koxtal chi'
+rápido pres-3B-2A-portar levantar-psc Canimal costal dem
+420. No cierres la puerta de golpe.
+man ek'el ponhaj te' puerta chi'
+man ø-Ø-ek'-el
+neg 3B-2A-pasar-DIR. afuera fuerte
+Cerré la puerta de golpe.
+ixwek'el ponhaj te' puerta
+ix-ø-w-ek'-el
+ponh_naj te'
+ponh_naj te'
+pas-3B-1A-pasar-DIR.pasar fuerte
+421. De día puedo caminar rápido.
+t'a k'ualil syal inb'e elanchamel
+pwerta chi'
+Cmadera puerta dem
+pwerta
+Cmadera puerta
+193

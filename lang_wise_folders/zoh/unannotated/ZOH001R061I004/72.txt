@@ -1,0 +1,63 @@
+\lex moko.e7
+\_no 00175
+\LG MIG
+\PSH [mokoe7]
+\UND mokoy.E7
+\MB emborracharse, NOM7
+\VAR mokoye7
+\GRAM SV
+\SCI
+\USE
+\SPG borracho
+\ENG drunk
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT mokoy
+\RTGR IX
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex mok-po't.e7
+\_no 00176
+\LG MIG
+\PSH [mokpote7]
+\UND mok-po7t. E7
+\MB mai*z, moler, NOM7
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG pinol: maiz tostado y molido
+\ENG roasted and ground corn
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT po7t
+\RTGR T1
+\DSRC TK94
+\CMTS
+\date 07/Feb/96
+\lex mok=xe't.e' 7uk.i
+\_no 00177
+\LG MIG
+\PSH [mokxete 7uki]
+\UND mok=xe7t. E7 7uk. E
+ZOH001R0611004.txt
+\MB mai*z, frito, NOM7, tomar, NOM7
+\VAR
+\GRAM sv: incorp
+\SCI
+\USE
+\SPG atol de mai*z tostado
+\ENG atole made from toasted corn
+\EXU
+Page 72

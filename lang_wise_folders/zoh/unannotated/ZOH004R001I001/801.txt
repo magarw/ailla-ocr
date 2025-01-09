@@ -1,0 +1,63 @@
+\ROOT toy
+\RTGR 12
+\DSRC HAJ94
+\CMTS CK-PH - ok/OK: TK
+\date 25/Jun/96
+\lex malukku7
+\_no 01855
+\LG MIG
+\PSH
+\UND malukku7
+\MB
+\VAR malukku7 (kuy)
+\GRAM S
+\SCI
+\USE
+\SPG maluco
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 11/Nov/94
+\lex mama
+\_no 01856
+\LG MIG
+\PSH
+\UND mama
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG mama*
+\ENG mother
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+LF: kuy
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex mam(a) 7oko
+\_no 01857
+\LG MIG
+\PSH [mama 7oko]
+\UND mama 7oko
+\MB
+\VAR maam 7oko
+\GRAM s (m)s
+\SCI
+ZOH004R0011001.txt
+Page 801

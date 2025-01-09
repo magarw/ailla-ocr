@@ -1,0 +1,64 @@
+\ENG ground chile paste
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT mo7tz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex ni.xo't.a
+\_no 00224
+\LG MIG
+\PSH [nixota]
+\UND ni.xo7t.A
+\MB PURP, X, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG reton*o
+\ENG sprout; bud
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ni.xo7t
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 27/Jan/96
+\lex ni.xuy7
+\_no 00225
+\LG MIG
+\PSH [nixuy7]
+\UND ni.xuy7.0
+\MB PURP, X, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG cobija; sa*bana; ropa de cama; chamarra
+\ENG blanket; sheet; any kind of bedclothes; jacket
+\EXU
+\XSP
+\XEN
+\SYN jerga
+\SEMF
+\ETYM
+\ETL
+\ROOT * xuy
+\RTGR T3
+(%xuy7 ?)
+ZOH001R0611004.txt
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+Page 91

@@ -1,0 +1,62 @@
+ZOH001R0611007.txt
+\ENG to have a strong odor of chile ancho
+\EX
+\XSP
+\XEN
+\ROOT ji7kx Ix
+\SEMF nature
+\ASP state
+\CAUS yak.ji7kx
+\CMTS
+\date 03/Jan/80
+\lex jinin
+\_no 00027
+\SPG ensuciarse el agua
+\ENG to dirty the water
+\EX jininpa n@7
+\XSP viene ensucia*ndose el agua
+\XEN he goes dirtying the water
+\EX 7@y yakjininnaw@ n@7
+\xSP 1o ensucio* el agua
+\XEN he got the water dirty
+\ROOT jinin Ix
+\SEMF dirt
+\ASP activity
+\CAUS yak.jinin.7a hacerlo ensucio* el agua
+\CMTS
+\date 03/Jan/80
+\lex jipx
+\_no 00028
+\SPG quemarse demasiado - cafe*, pan,
+\ENG to overcook
+coffee, bread,
+\EX jipx@ y tz@ki
+\XSP se quemo* demasiado
+\XEN it was overcooked
+\ROOT jipx 12
+\SEMF cook
+\ASP process, activity
+\CAUS yak.jipx hacer quemar
+\CMTS jipx@*7 - una cosa quemada; jipx@7 una calentura
+\CMTS trata de algo que esta* cociendo
+\date 03/Jan/80
+\lex jipx@
+\_no 00029
+\SPG tener calentura
+\ENG to have a fever
+\EX da jipx@pa
+\XSP tengo calentura
+\XEN I have a fever
+\ROOT jipx@ I2
+\SEMF body, temp
+\ASP state
+\CMTS no caus no tiene caso
+\date 03/Jan/80
+\lex ji7tz
+\_no 00030
+\SPG arrugarse
+\ENG to become wrinkled
+\EX 7@n yakji7tzpa n kin@k
+\XSP arrugue* mi nariz
+\XEN I wrinkled my nose
+Page 7

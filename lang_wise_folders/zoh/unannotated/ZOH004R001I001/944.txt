@@ -1,0 +1,63 @@
+XPSH 1 [Ne7kxpan wiki d@kka.]
+\XSP 1 Esta* pegajoso mis dedos.
+\XEN 1 My fingers are sticky.
+\EXU 2 jak(ke) ne7kx-pa y@.' tzoko'
+\XPSH 2 [Jak ne7kxpa y@ tzoko7.]
+\XSP 2 Muy pegajoso es este barro.
+\XEN 2 This clay is very sticky.
+\SYN
+\SEMF body, nature
+\ASP state
+\ARG
+\NOM ne7kx-pa+a7k, ne7kx.kuy7
+\SUB ne7kx=tz@y
+\ETYM
+\ETL
+\ROOT ne7kx
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex ne7kx.kuy7
+\_no 02190
+\LG MIG
+\PHO [ne7kxkuy7]
+\UND ne7kx.kuy7
+\MB estar_pegajoso, INSTR1
+\VAR
+\GRAM instr1
+\SPG una cosa pegajosa
+\ENG a sticky thing
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT ne7kx
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\1ex_ne7kx=tz@y
+\_no 02191
+\LG MIG
+\PSH [n@7kxtz@y-]
+\UND ne7kx=tz@y
+\MB ser_pegajoso, atorarse
+\VAR
+\GRAM vi+dir
+\SCI
+\USE
+\SPG quedarse pegado
+\ENG to remain stuck
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT 1 ne7kx
+\RTGR 1 IX
+Page 944

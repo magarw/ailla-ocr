@@ -1,0 +1,64 @@
+\_no 04008
+\LG MIG
+\PSH [xukkuy7]
+\UND xuk. kuy7
+\MB acabarse, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG termino
+\ENG end
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xuk
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 22/Oct/94
+\1ex xukuya7
+\_no 04009
+LG MIG
+\PSH
+\UND xukuya7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG clavellina
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+LF: kuy
+\CMTS
+\date 16/Jun/95
+\lex xuk. '@y
+\_no 04010
+\LG MIG
+\PSH [xukk@y-]
+\UND xuk.7@y
+\MB *frio, VERS2
+\VAR
+\GRAM vers2
+\SCI
+\USE
+\SPG enfriarse
+\ENG to cool; to get cold
+\SPL yak.xuk. '@y
+\SLGR CAUS
+\SLGL enfriar // to cool
+ZOH004R0011001.txt
+Page 1724

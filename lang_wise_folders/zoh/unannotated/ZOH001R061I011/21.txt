@@ -1,0 +1,60 @@
+\SPG recoger el pie, cuando estar sentado
+\ENG to pull the heel up towards the knee
+\EX 7@y kuxx@ 7@y manhkuy
+\XSP recogio* el pie
+\XEN she pulled her foot up
+\ROOT kux P (TX)
+\CMTS no antip * kux. 7oy no tiene razo*n, no van a entenderse
+\CMTS pass kux.7@m estar recogido (trata tambien de otras cosas, no solo
+pie)
+\lex 107k
+\_no 00097
+\SPG coger
+\ENG to fuck
+\EX
+\XSP
+\XEN
+\ROOT 107k Ix
+\CMTS get deriv's
+\lex maj
+\_no 00098
+\SPG 11enar (de agua, aceite); regar (una planta)
+\ENG to fill something with water; to sprinkle
+\EX 7@y majtaxx@ majkuy7 de n@7
+\XSP 10 11eno* del agua el ca*ntaro
+\XEN he filled the pitcher with water
+\ROOT maj T3
+\CMTS antip maj. 7oy llenar; regar
+\CMTS pass maj.7@m llenarse; regarse
+\CMTS get deriv's
+\lex majatz
+\_no 00099
+\SPG decir la verdad; descubrir
+\ENG to tell the truth; to discover
+ZOH001R0611011.txt
+\EX_majatztz@mm@
+\XSP dijo la verdad
+\XEN she spoke the truth (the truth was spoken?)
+\EX mi yakmajatzxukk@
+\XSP te exigieron que dijeras la verdad
+\XEN
+\ROOT majatz T1
+\CMTS yak.majatz descubrir
+\lex maji7
+\_no 00100
+\SPG placenta
+\ENG placenta
+\EX
+\XSP
+\XEN
+\ROOT maj T3
+\CMTS
+\lex mak
+\_no 00101
+\SPG pescar con atarraya
+\ENG to fish with a net
+\EX koke makk@
+\XSP agarro* pescado con atarraya
+\XEN she caught fish with a net
+\ROOT mak T3
+Page 21

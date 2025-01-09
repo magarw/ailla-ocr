@@ -1,0 +1,63 @@
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex tzek=7an.kuy7
+\_no 03320
+\LG MIG
+\PHO [tzekkankuy7]
+\UND_ tzek=7an. kuy7
+\MB barriga, calentarse, INSTR1
+\VAR
+\GRAM instr1
+\SPG algo para calentarse la barriga
+\ENG something to heat the tummy, like a dish warmed by the fire and
+\ENG wrapped in a cloth.
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT 7an
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex tzekka7
+\_no 03321
+\LG MIG
+\PSH
+\UND tzekka7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG checa; pa*jaro de la verdad
+ENG a type of bird
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+LF: jon
+\lex tzek=mama
+\_no 03322
+\LG MIG
+\PSH [tzekmama]
+\UND tzek=mama
+ZOH004R0011001.txt
+\MB barriga, mama
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG vientre de la mujer
+\ENG womb
+\EXU
+Page 1427

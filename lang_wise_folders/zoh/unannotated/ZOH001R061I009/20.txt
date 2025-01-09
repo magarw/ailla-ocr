@@ -1,0 +1,61 @@
+\ENG to iron; to press; to smash
+\EX naka7tztz@ yote7
+\XSP plancho* _la_ropa
+\XEN he ironed clothes
+\ROOT naka7tz T3
+\SEMF affect
+\PASS naka7tz.7@m
+\ANTI naka7tz.7oy
+\CMTS no form* ka7tz-
+\CMTS frozen prefix na.
+\lex nakx
+\_no 00079
+\SPG
+\ENG to hit; to pound (with something wooden)
+\EX x@k nakxpa
+\XSP esta* porriando frijol
+XEN she's pounding beans
+\ROOT nakx T3
+\SEMF hit, instr
+\PASS NONE nakx.7@m *
+\ANTI nakx.7oy
+\CMTS in compounds, generally indicates a wooden instrument
+\lex na7k
+\_no 00080
+\SPG coser; costurar
+\ENG to sew
+\EX na7kxukka*m
+\XSP ya lo cosio*
+\XEN she has sewn it
+\ROOT na7k T3
+\SEMF sew, create
+\PASS NONE na7k.7@m *
+\ANTI na7k.7oy
+\CMTS
+\lex nanh
+\_no 00081
+\SPG regar, como semilla, arena, tierra
+\ENG to spread, as seed, sand, dirt
+\EX nanhnh@mm@ bi mok
+\XSP se rego* el maiz
+\XEN the corn was scattered
+\ROOT nanh P, (T3)
+\SEMF move
+\PASS nanh.7@m regarse
+\ANTI nanh.7oy
+\ASSU nanh.ney estar regado
+\CMTS
+ZOH001R0611009.txt
+\lex nat
+\_no 00082
+\SPG salar
+ENG to salt
+\EX
+\XSP
+\XEN
+\ROOT nat T3
+\SEMF cook
+\PASS NONE nat.7@m *
+\ANTI nat.7oy salar
+\PRSV nat=ten lo tiene salado
+Page 20

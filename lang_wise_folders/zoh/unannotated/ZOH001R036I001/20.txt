@@ -1,0 +1,70 @@
+\zoq 7@m wixpa bi malba wa7tz.
+\fts Arrancas la raiz de malba.
+\fte You pull up the malba root.
+\com
+\idx
+\ref ZOH001R036 089
+\_no 00090
+\tx malbam
+\mb malba-7@m wix
+\sg1 malba-2E
+arrancar-INC
+\egl malba-2E pull_up -INC
+wixpa
+\zoq Malbam wixpa
+\fts Arrancas la malba
+\fte You pull up the malba
+\com
+\idx
+\ref ZOH001R036 090
+\_no 00091
+\tx 7i m
+\mb 7i 7@m xox
+\sg] y
+-ра
+2E cocer-INC
+\eg1 and 2E cook -INC
+хохра
+\zoq 7im xoxpa.
+\fts y lo cueses.
+\fte and you cook it.
+\com
+\idx
+\ref ZOH001R036 091
+\_no 00092
+\tx 7@m tzinhpa
+\mb
+7@m tzinh
+\com
+\idx
+\sg1 2A ban*arse-INC
+\egl 2A bathe -INC
+\zoq 7@m tzinhpa
+\fts Te ban~as
+\fte You bathe
+-pa
+\ref ZOH001R036 092
+\_no 00093
+\tx 7i m
+\mb 7i 7@m 7uk
+-ра
+\sg] y
+2E
+tomar-INC
+\eg1 and 2E drink-INC
+7ukpa
+\zoq 7im 7ukpa.
+\fts y lo tomas.
+\fte and you drink it.
+\com
+\idx
+-ра
+\ref ZOH001R036 093
+\_no 00094
+\tx kay
+\mb ka -y
+ZOH001R0361001.txt
+ke m
+7ukka*m
+ke 7@m 7uk -w@ - 7am
+Page 20

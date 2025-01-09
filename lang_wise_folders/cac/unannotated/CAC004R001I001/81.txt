@@ -1,0 +1,98 @@
+287. No sé cuál quiere.
+man wojtakok laj mach sgana
+man ø-w-ojtak-ok
+laj mach s-gana
+neg 3B-1A-saber-IRR neg quién 3A-gana
+man wojtakoklaj tasxom sgana
+man ø-w-ojtak-ok
+laj tas-xo-m
+s-gana
+neg 3B-1A-saber-IRR neg qué-adv-dub 3A-gana
+164
+man wojtakok laj tasxom snib'ej
+man ø-w-ojtak-ok
+laj tas-xo-m
+s-nib'ej
+neg 3B-1A-saber-IRR neg qué-adv-dub 3A-querer
+288. Acostumbro levantarme temprano.
+ixink'ay ink'ewan ak'walto
+ix-ø-in-k'ay
+in-k'ew-an
+ak'walto
+pas-3B-1A-acostumbrar 1A-levantarse-psc temprano
+tzink'ayb'ej ink'ewan ak'walto
+tz-ø-in-k'ayb'-ej
+in-k'ew-an
+ak'walto
+pres-3B-1A-acostumbrar-vtd 1A-levantarse-psc temprano
+289. No me acostumbro a la comida de aquí.
+max scha' laj ink'o'ol jun yol k'o'ol tik t'a tik
+Ø-s-cha'
+laj in-k'o'ol
+neg-pres 3B-3A-recibir neg 1A-estómago uno 3A-dentr estómago
+ma-x
+jun y-ol
+k'o'ol
+tik t'a tik
+dem prep dem
+max ink'ay laj yet' jun tek tek tik t'a tik
+ma-x
+Ø-in-k'ay
+laj y-et' jun tek tik t'a tik
+neg-pres 3B-1A-acostumbrar neg 3A-SR uno comida dem prep dem
+290. Lo acostumbró a levantarse temprano.
+xsk'ay sk'ewan a'walto
+ix-ø-s-k'ay
+a'walto
+s-k'ew-an
+pas-3B-3A-enseñar 3A-levantarse-psc temprano
+xsch'oxan yil sk'ewan ak'walto
+ix-Ø-s-ch'ox-an
+y-il
+s-k'ew-an
+pas-3B-3A-mostrar-sec 3A-ver 3A-levantarse-psc temprano
+ak'walto
+Su mamá lo acostumbró a levantarse temprano.
+ix snun ixk'aywan sk'ewan ak'walto
+ix
+s-k'ew-an
+ix-ø-k'ayw-an
+ak'walto
+s-nun
+Cfem 3A-madre pas-3B-enseñar-EA 3A-levantarse-psc temprano
+Ella lo acostumbró a levantarse temprano.
+xsk'waywej winh ix sk'ewan ak'walto
+winh ix s-k'ew-an
+ak'walto
+ix-ø-s-k'ayw-ej
+pas-3B-3A-enseñar-vtd él ella 3A-levantarse-psc temprano
+Me acostumbró a levantarme temprano.
+ixinsk'aywej ixink'ewan ak'walto
+ix-in-s-k'ayw-ej
+ak'walto
+pas-1B-3A-enseñar-vtd pas-1B-levantarse-psc temprano
+ix-in-k'ew-an
+ixink'ay yuj ix ink'ewan ak'walto
+ix-ø-in-k'ay
+y-uj ix in-k'ew-an ak'walto
+pas-3B-1B-acostumbrar 3A-SR ella 1A-levantar-psc temprano
+ixwilel yuj ix ink'ewan ak'walto
+ix-ø-w-il-el
+y-uj ix in-k'ew-an ak'walto
+pas-3B-1A-ver-DIR. afuera 3A-SR ella 1A-levantar-psc temprano
+291. Hoy empiezo a sembrar.
+a tik naik olinawalwok
+a tik_naik ol-ø-in-awalw-ok
+top ahora
+fut-3B-1A-sembrar-IRR
+a tik naik olinyamoch wawalwi
+a tik_naik ol-ø-in-yamoch
+top ahora
+w-awalw-i
+fut-3B-1A-empezar 1A-sembrar-vti
+tik naik olinyamoch wawi
+tik_naik ol-ø-in-yamoch
+ahora
+w-aw-i
+fut-3B-1A-empezar 1A-sembrar-vti
+165

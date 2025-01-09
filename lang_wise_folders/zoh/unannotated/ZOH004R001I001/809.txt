@@ -1,0 +1,63 @@
+\PSH [manhkuy_tzay7]
+\UND manh.kuy7 tzay7
+\MB *pisar, INSTR1, vena
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG cuerda del pie
+\ENG hamstring
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * manh
+\RTGR P
+\DSRC HAJ94
+\CMTS CK-UND HAJ:96, deleted xix (was xix-tzay7).
+\date 19/Jun/96
+\lex manh.kuy' we'ch.17
+\_no 01876
+\LG MIG
+\PSH [manhkuy wechi7]
+\UND manh.kuy7 we7ch.E7
+\MB *pisar, INSTR1, encorvar, NOM7
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG una enfermedad de pierna: no camina bien
+\ENG a sickness of the leg that causes you to not walk well
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 * mạnh
+\RTGR 1 P
+\ROOT 2 we7ch
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex manh.kuy' wik.i7
+\_no 01877
+\LG MIG
+\PSH [manhkuy wiki7]
+\UND manh.kuy7 wiki7
+ZOH004R0011001.txt
+\MB *pisar, INSTR1, dedo
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG dedo del pie
+\ENG toe
+\EXU
+\XSP
+Page 809

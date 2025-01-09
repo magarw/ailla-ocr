@@ -1,0 +1,64 @@
+\ETL
+\ROOT 7amma
+\RTGR T1
+\DSRC HAJ95
+\CMTS por no decir /wit@m/
+\date 02/Oct/96
+\lex 7an
+\_no 00036
+\LG MIG
+\PSH
+\UND 7an
+\MB
+\VAR
+\GRAM vi: med
+\SCI
+\USE
+\SPG calentarse porque esta* cerca de la lumbre
+\ENG to warm up because you're near the fire
+\EXU 1 d@ 7an-w@
+\XPSH 1 [D@ 7ann@.]
+\XSP 1 Me calento*.
+\XEN 1 I got warm.
+\EXU 2 d@ 7an-pa
+\XPSH 2 [D@ 7anpa.]
+\XSP 2 voy a calentar.
+\XEN 2 I'm going to get warm.
+\EXU 3 7an.jay-wa 7@y+ j@x
+\XPSH 3 [7anjayy@y j@x.]
+jax
+\XSP 3 Esta* calentando la espalda.
+\XEN 3 His back is getting warm.
+\SYN
+\SPL yak.7an
+\SLGR CAUS
+ZOH004R0011001.txt
+\SLGL calentar
+\SEMF temp, body
+\ASP activity, process
+\ARG patient
+\NOM 7an.e, tzek=7an.kuy7
+\SUB jo.7an, j@x=7an, ko. 7an, ko.7an-t@tz, k@.7an, ni.7an, nik. 'an. '@y,
+\SUB win='an
+\ETYM
+\ETL
+\ROOT 7an
+\RTGR 12
+\DSRC TK94
+\CMTS CK-GR vi, human or animal subject
+\CMTS when his wife is standing near the horno making tortillas, 7@y 7ann@
+\CMTS This is 12 no impv or vol, can't do it on purpose. ΤΟ
+\CMTS deliberately warm yourself is xam-
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex 7anaxa
+\_no 00037
+\LG MIG
+\PSH
+\UND 7anaxa
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+Page 16

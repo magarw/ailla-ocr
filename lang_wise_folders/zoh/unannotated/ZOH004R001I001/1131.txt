@@ -1,0 +1,64 @@
+\XSP Tente* la flor.
+\XEN I lightly touched the flower.
+\SYN
+\SEMF hand, touch
+\ASP semelfactive
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT pin
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex pinu
+\_no 02628
+\LG MIG
+\PSH
+\UND pinu
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG pino
+\ENG pine
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Nov/94
+\lex pinu 7ay7
+\_no 02629
+LF: kuy
+\LG MIG
+\PSH
+\UND pinu 7ay7
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG hoja de pino
+\ENG pine needle
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+ZOH004R0011001.txt
+Page 1131

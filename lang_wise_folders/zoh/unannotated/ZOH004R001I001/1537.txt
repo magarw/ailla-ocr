@@ -1,0 +1,63 @@
+\ENG 1 to tie
+\ENG 2 to earn
+\SPL wat.7oy
+\SLGR ANTIP
+\SLGL amarrar; ganar // to tie; to earn
+\SPL wat.7@m
+\SLGR PASS
+\SLGL amarrarse // to be tied
+\SPL wat.ney
+\SLGR ASSUM1
+\SLGL estar amarrado // to be tied
+\SPL wat.ten
+\SLGR PRSV
+\SLGL estar amarrado // to have tied
+\EXU 1 7@y+ wat.w@y-w@ bi wakax
+\XPSH 1 [7@y watt@yy@ bi wakax.]
+\XSP 1 Tiene amarrado el ganado.
+XEN 1 He has the cow tied.
+\EXU 2 d@+ yo'=wat-w@
+\XPSH 2 [D@ yowatt@.]
+\XSP Amarre* tamales.
+\XEN I tied the tamales.
+\SYN
+\SEMF arrange
+\ASP achievement
+\ARG
+\NOM wat.e7, wat.kuy7, wat.naanh
+\SUB 7ok.wat.jay, 7ok.wat. '@y, ni.wat-tzonh, wat-pak, wat=t@nh.t@nh.w@y,
+\SUB wat=tzonh, wat=pu', wat=max
+\ETYM
+\ETL
+\ROOT wat
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 09/Aug/02
+ZOH004R0011001.txt
+\lex wat.e7
+\_no 03575
+\LG MIG
+\PHO [wate7]
+\UND wat.E7
+\MB amarrar, NOM7
+\VAR
+\GRAM pcp
+\SPG amarrado
+\ENG tied
+\EXU wakax wat.e7
+\XPSH [wakax wate*7]
+\XSP ganado amarrado
+\XEN tied-up cow
+\SYN
+\ROOT wat
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex wat.kuy7
+\_no 03576
+\LG MIG
+\PHO [watkuy7]
+Page 1537

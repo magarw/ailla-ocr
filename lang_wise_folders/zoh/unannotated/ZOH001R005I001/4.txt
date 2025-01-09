@@ -1,0 +1,81 @@
+\idx
+\ref ZOH001R005 013
+\_no 00014
+\tx pam
+\mb para-7@m tzij
+\sg1 para-2E
+-ka7
+tirar_piedra-morirse-INC
+\egl for -2E throw_rock -die
+tzijkapa
+\ref ZOH001R005 014
+\_no 00015
+\tx 7aber
+\mb 7aber
+\zoq para 7@m tzijkapa de7 jond@kka7?"
+\fts para que mates a pedrada esos zanates?"
+\fte so you can kill those birds with rocks?"
+\com
+\idx
+\sg] aver
+\egl let's see bastard bird
+malditu jon
+malditu jon
+-7oy -pa
+maldito pa*jaro arrancar-ANTIP-INC
+pull_up -ANTIP-INC
+ZOH001R0051001.txt
+\ref ZOH001R005 015
+\_no 00016
+\zoq 7aber malditu jon wixxoba.
+\fts Aver malditu zanate lo arranca.
+\tx wixxoba;
+\mb wix
+-7oy -pa
+\sg1 arrancar-ANTIP-INC
+\egl pull_up -ANTIP-INC
+\fte wherever the damned birds were pulling.
+\com
+\idx
+\zoq wixxoba.
+\fts Lo arranca.
+\fte They were pulling.
+\com
+\idx
+\com
+\idx
+de
+jon
+-pa te -7 jon
+DCT2-NOM1 pa*jaro NPL
+-INC DCT2-NOM1 bird
+NPL
+wixxoba;
+wix
+\ref ZOH001R005 016
+\_no 00017
+\tx ke no 7anhtzonhnhoyy@
+\mb ke
+\sg] que
+no 7anh -tzonh-7oy
+no BOCA -unir -ANTIP-COM DEF pa*jaro
+\egl that no MOUTH-join -ANTIP-COM DEF bird
+\zoq ke no 7anhtzonhnhoyy@ bi jon.
+\fts Que no respondio* el zanate.
+\fte Didn't the bird reply.
+\zoq N@mpa, "Mix tzi7 lugar.
+\fts Dice, "Da me lugar.
+bi jon;
+-wa bi jon
+\ref ZOH001R005 017
+\_no 00018
+\tx n@mpa
+mix tzi
+lugar;
+lugar
+\mb n@m -pa mix tzi7-A7
+\sg1 decir-INC 2>1 dạr -IMPV lugar
+\egl say -INC 2>1 give-IMPV place
+d@kka;
+d@kkay
+Page 4

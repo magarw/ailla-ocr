@@ -1,0 +1,64 @@
+\EXU
+\XSP
+\XEN
+\SYN chupamyeel
+\SEMF EZ
+\ETYM
+\ETL
+ROOT mu7k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex tzinh
+\_no 03378
+\LG MIG
+\PSH
+\UND tzinh
+\MB
+\VAR
+\GRAM vi
+LF:7anmal
+\SCI
+\USE
+\SPG ban*arse
+\ENG to bathe
+\SPL yak.tzinh
+\SLGR CAUS
+\SLGL ban~ar // to bathe someone
+\SLGR NO PCP
+\EXU 1 tzinh-An@m-pa
+\XPSH 1 [Tziw@n@mpa.]
+\XSP 1 Esta*n ban*ando.
+\XEN 1 People are bathing.
+\EXU 2 7@m+ tzinh-w@+ 'am
+\XPSH 2 [7@m tzinhnha*m?]
+\XSP 2 ?Ya ban~aste?
+\XEN 2 Have you bathed now?
+\EXU 3 7@y+ yak.tzinh-w@ bi yomaa7 7@y+ 7une7
+\XPSH 3 [7@y yaktzinhnh@ bi yoma*7 7@y 7une7.]
+\XSP 3 La mujer ban~o* su nin~o.
+\XEN 3 The woman bathed her child.
+\SYN
+\SEMF body, clean
+\ASP activity
+\ARG
+\NOM tzinh.kuy7, y@k.tzinh
+\SUB
+\ETYM
+\ETL
+\ROOT tzinh
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\CMTS caus2 yak+ tzinh
+\date 03/Jan/80
+\lex tzinh.kuy7
+\_no 03379
+ZOH004R0011001.txt
+\LG MIG
+\PSH [tzinhkuy7]
+\UND tzinh.kuy7
+\MB ban~arse, INSTR1
+\VAR
+Page 1452

@@ -1,0 +1,63 @@
+\GRAM vt
+\SCI
+\USE
+\SPG desencajarse algo que estaba encajada
+\ENG for something that was pinned to become unpinned
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT koj
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex 7ok-konhkoy
+\_no 00348
+LG MIG
+\PSH [7okkonhkoy]
+\UND 7ok-konhkoy
+\MB ABAJO, X
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG pechuga (de cualquier animal)
+\ENG breast (of any animal)
+\EXU piyu' 7@y+ 7ok-konhkoy
+\XPSH [piyuy 7okkonhkoy]
+\XSP pechuga de gallina
+\XEN chicken breast
+SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex 7ok.kop. '@y
+\_no 00349
+ZOH004R0011001.txt
+\LG MIG
+\PSH [7okkopp@y-]
+\UND 7ok.kop.7@y
+\MB ABAJO, cachar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG soltar de las manos algo que lo habi*a cachado
+\ENG for something that was caught to get free from one's hands
+\SPL
+\SLGR
+\EXU 7@y+ 7ok. kop. '@y-w@ 7@y+ tzanh.kuy'+joonh
+\XPSH [7@y 7okkopp@yy@y tzanhkuyjo*nh.]
+\XSP Ya lo habi*a cachado, lo solto* de su mano.
+\XEN It escaped from his hands.
+Page 150

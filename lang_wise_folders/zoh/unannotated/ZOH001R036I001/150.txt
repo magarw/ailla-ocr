@@ -1,0 +1,93 @@
+ZOH001R0361001.txt
+\eg1 DCT3-DEM strength 3E have -INC DEF alcohol and DEF leaf
+\zoq gad@ fortalesa 7@y 7anhnitpa bi 7alko*l 7i bi 7ay.
+\fts esa fortaleza que tiene el alcohol y la hoja.
+\fte that strength that the alcohol and the leaves have.
+\com
+\idx
+\ref ZOH001R036 700
+\_no 00689
+\tx peru 7algo
+\mb peru 7algo
+\sg1 pero algo
+tambien 2E
+\egl but something also 2E
+\ref ZOH001R036 701
+\_no 00690
+\zoq Peru 7algo ne 7@m p@pa ya 7ichi*nh,
+\fts Pero bastante tambien le echas no un poquito,
+fte But a lot and you don't put in a little,
+\com
+\idx
+\tx ga
+\mb
+ka -7
+EN
+m
+\sg1 DCT3-NOM1 2E
+\eg1 DCT3-NOM1 2E
+ne
+ne7
+7@m 7uk
+\ref ZOH001R036 702
+\_no 00691
+\tx gaji
+\mb ka -ji7
+\sg1 DCT3-Loc1
+\eg1 DCT3-LOC1
+\zoq gam 7ukpa por kopa.
+\fts eso lo tomas por copa.
+7ukpa
+\fte you drink that by the cup.
+\com
+\idx
+por kopa
+-pa por kopa
+tomar-INC por copa
+drink-INC for cup
+tejiwa*m
+teji
+hay
+bi
+\tx ya ke
+\mb__ya ke
+\sg1 NEG que
+\eg1 NEG that there_is-COM-NOW DEF alcohol fifteen day there_is-COM-NOW
+7alko*l kinse
+-w@ -7am bi 7alko*l kinse
+-COM-YA DEF alcohol quince
+dia tejiwa*m
+dia teji
+dia hay
+\ref ZOH001R036 703
+\_no 00692
+ya
+Zichi*nh
+7@m p@pa
+7@m p@7 -pa ya 7ichi nh
+poner-INC NEG poco
+put -INC NEG little
+\tx 7axta tzux
+\mb 7axta tzux
+\sg1 hasta verde
+\egl until green
+\zoq Ya ke tejiwa*m bi 7alko*l, kinse dia tejiwa*m gaji.
+\fts ya que esta* el alcohol, quince di*as ya esta* ahi*
+\fte Now that it's in the alcohol, it's there fifteen days.
+\com
+\idx
+tzux 7@m 7ammapa bi
+tzux 7@m 7amma-pa bi
+verde 2E mirar-INC DEF
+green 2E see -INC DEF
+tzux 7@m 7ammapa bi
+lo ves el
+\zoq 7axta tzux
+\fts Hasta verde
+\fte Until green you'll see that it's green, the
+\com
+Page 150
+-
+-
+-w@ -7am
+-COM-YA

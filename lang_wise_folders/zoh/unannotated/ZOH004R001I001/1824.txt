@@ -1,0 +1,63 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT jok
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 17/Jul/95
+\lex yuk. jonh
+\_no 04246
+\LG MIG
+\PSH [yukjonh-]
+\UND yuk. jonh
+\MB ARR, atarantarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar a atarantarse
+\ENG to start to get dizzy
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jonh
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 17/Jul/95
+\lex yuk. juk
+\_no 04247
+LG MIG
+\PSH [yukjuk-]
+\UND yuk. juk
+\MB ARR,
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar a ahumar; empezar a fumar
+\ENG to start to smoke
+SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+fumar
+\ROOT juk
+\RTGR T1
+\DSRC HAJ95
+ZOH004R0011001.txt
+\CMTS
+\date 17/Jul/95
+Page 1824

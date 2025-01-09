@@ -1,0 +1,62 @@
+\DSRC HAJ94
+\CMTS
+\date 24/Jun/96
+\lex jaya
+\_no 00698
+\LG MIG
+\PSH
+\UND jaya
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG esposo
+\ENG husband
+\EXU 7@n+ jaya
+\XPSH [7@n jaya]
+\XSP mi esposo
+\XEN my husband
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\lex jaya tampitz
+\_no 00699
+\LG MIG
+\PSH
+\UND jaya tampitz
+\MB macho, cimarro*n
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG a*rnica cimarro*n
+\ENG a type of wild plant
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 13/Jun/95
+\lex jaya.7@y
+\_no 00700
+\LG MIG
+\PSH [jaya7@y-]
+\UND jaya.7@y
+\MB macho, VERS2
+\VAR
+\GRAM vi
+\SCI
+\USE
+ZOH004R0011001.txt
+Page 300

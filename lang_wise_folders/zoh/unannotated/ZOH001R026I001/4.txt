@@ -1,0 +1,85 @@
+\zoq 7i bi mama yakkanhtzonhnhoyy@, "N@7tti, jaymanak.
+\fts Y su mama* le contesto* 'No, hijo.
+\fte And his mother answered him, "No, son.
+\ref ZOH001R026 018
+\_no 00016
+\tx naxe 7@m komiam
+\mb naxe
+pe mix n@mjaba
+ke
+7@m komi7-7am pero mix n@m -jay -pa ke
+\sg1 verdad 2A grande-YA pero 1>2 decir-APPL-INC que
+\egl truth 2A big -NOW but 1>2 say
+\tx n@kk@
+\mb
+nak -w@
+\sg1 irse-nIMPV
+\egl go -nIMPV
+\ref ZOH001R026 020
+\_no 00017
+\tx 7@m pitz@mpa
+\mb 7@m pitz@m-pa
+-kuy7 -jo7
+\sg1 2A salir -INC sazonarse-INSTR1-Loc2
+\egl 2A
+2A leave -INC mature -INSTR1-LOC2
+\ref ZOH001R026 021
+\_no 00018
+\tx teji
+teji
+\mb
+"
+\zoq Naxe 7@m komiam, pe mix n@mjaba ke 7um n@kk@.
+\fts cierto ya esta*s grande, pero te voy a decir que no vayas.
+\fte It's true that now you're grown, but I say to you don't go.
+\zoq 7@m pitz@mpa tzamkuyjo.
+\fts sales a la montan~a.
+\fte You're leaving for the jungle.
+tzamkuyjo
+tzam
+mas waja ke mix
+mas waja ke mix
+ZOH001R0261001.txt
+\ref ZOH001R026 022
+\_no 00019
+\sg1 hay
+mas bueno que 2Prn
+\egl there is more good that 2Prn
+\zoq Teji mas w@ja ke mix.
+\fts Hay mas bueno que tu.
+\fte There is one better than you.
+\ref ZOH001R026 023
+\_no 00020
+\tx 7@y n@mjaba
+7@m k@tomm@yy@
+7@m k@
+\tx ya n@mmo
+n@mpa
+mama
+\mb ya n@mmo
+-tome7-7@y-w@
+AFUERA-cerca-SUF-dINC
+bi
+n@m -pa bi mama
+decir-INC DEF mama*
+\sg1 NEG poder
+2A
+\eg1 NEG be_able_to 2A AWAY -near -SUF-DINC say -INC DEF mother
+\zoq Ya n@mmo 7@m k@tomm@yy@," n@mpa bi mama.
+\fts No te puedes acercar de e*1," dice su mama*.
+\fte You can't get near him," says the mother.
+bi manak
+7@y nam -jay -pa bi manak
+\mb 7@y n@m
+\sg1 3E decir-APPL-INC DEF
+\egl 3E say -APPL-INC DEF
+\zoq 7@y n@mjaba bi manak.
+\fts Le dice a su hijo.
+7um
+7u
+NEGimpv-2A
+-APPL-INC that NEGimpv-2A
+hijo/a
+child
+-7@m
+Page 4

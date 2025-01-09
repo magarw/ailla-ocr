@@ -1,0 +1,63 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7@j
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex j@x='@kx
+\_no 01111
+\LG MIG
+\PSH [j@xx@kx-]
+\UND j@x=7@kx
+\MB ATRAS, desgranar_mai*z
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar desgranado
+ENG to take out shelled
+\SPL
+\SLGR
+EXU 7@y+ j@x. '@kx.jay-w@ 7@y+ putz.E mok 7@y+ tzak-w@
+waja mok
+\XPSH [7@y j@xx@kxjayy@y putzi mok; 7@y tzakk@ waja mok.]
+\XSP Saco* desgranado el mai*z podrido; dejo* el mai*z bueno.
+\XEN She removed the rotten shelled corn; she left the good corn.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7@kx
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex j@x='@7p
+\_no 01112
+ZOH004R0011001.txt
+\LG MIG
+\PSH [j@xx@7p-]
+\UND jax=7@7p
+\MB ATRAS, palanquear
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar con espeque
+\ENG to remove with a prybar
+\SPL
+\SLGR
+\EXU 7@y+ jax. '@7p-wa bi tza7
+\XPSH [7@y j@xx@7pp@ bi_tza7.]
+\XSP Saco* con espeque la piedra.
+\XEN He pried out the rock.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7@7p
+Page 486

@@ -1,0 +1,62 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzun
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex tzu7t.naanh
+\_no 00076
+\LG MIG
+\PHO [tzu7tna*nh]
+\UND tzu7t.naanh
+\MB cortar_cafe*, MED
+\VAR
+\GRAM meas
+\SPG un grano de cafe*
+\ENG one coffee bean
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT tzu7t
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex wa7k.naanh
+\_no 00077
+\LG MIG
+\PHO [wa7kna*nh]
+\UND wa7k.naanh
+\MB rebanar, MED
+\VAR
+\GRAM meas
+\SPG una rebanada
+\ENG a slice
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT wa7k
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex wa7kx.naanh
+\_no 00078
+\LG MIG
+\PHO [wa7kxna*nh]
+\UND wa7kx.naanh
+\MB enterciar, MED
+\VAR
+ZOH001R0611003.txt
+\GRAM meas
+\SPG tercio
+\ENG a load (one side of the burro)
+\EX
+\XSP
+\XEN
+Page 27

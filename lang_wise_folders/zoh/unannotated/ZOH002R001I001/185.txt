@@ -1,0 +1,47 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(iii)
+(iv)
+(v)
+(7.12)
+(i)
+(iii)
+'øy kønøkkøkxøyyøy mok
+?əy+ kə.nək=?əkš.?ǝy-wǝ ?əy+ mok
+3E+ AWAY.go=shell.SUF-COM 3E+ corn
+'She shelled all of her corn.'
+(iv)
+'øy kønøkwijjøyyø
+?əy+ kə.nək=wih.?ǝy-wə
+3E+
+'He dove in.'
+kønøkxepxøyyø
+AWAY.go=dive.SUF-COM
+0 kǝ.nək-šepš.?əy-wə
+3A AWAY.go=make_rope-COM
+'He grabbed his bola and swung it around.'
+7.1.1.7. ni
+Wonderley terms this prefix 'incompletive' (Wonderley, 1951:148).
+Kaufman (1994) gives it the gloss 'purpose'. I find little support for either of
+these interpretations in the MIG Zoque corpus, so have rather arbitrarily chosen
+PurpoSE (PSE). ni- rarely co-occurs with the suffix -?əy.
+'øy niji'ttø
+?əy+ ni.hi?t-wə
+3E+ PSE.stain-COM
+'She stained it.'
+'øy nipøkwakkø
+?əy+ ni.pək=wak-wǝ
+3E+ PSE.grasp=*empty-COM
+'She took it from him.'
+niwi'ttømmø bi poj kuygøxi
+(ii)
+160
+(ZOH001R015-064)
+0 ni.wi?t.?ǝm-wə
+bi poh kuy+gəši
+3A PSE.twist.PASS-COM DEF vine tree+LOC4
+'The vine is twisted around the tree.'
+(ZOH001R011–064)
+'øy nipo'ttø
+?əy+ ni.pǝ?t-wa
+3E+ PSE.pass-COM
+'He overtook her.'

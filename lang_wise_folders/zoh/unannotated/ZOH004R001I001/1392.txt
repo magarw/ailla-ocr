@@ -1,0 +1,65 @@
+\SYN
+\SEMF nature, corn
+\ASP achievement
+\ARG patient
+\NOM tzakx.@7
+\SUB
+\ETYM
+\ETL
+\ROOT tzakx
+\RTGR IX
+\DSRC TK94
+\CMTS
+\CMTS FIX XSP
+gender of cai8do: TK
+\date 03/Jan/80
+\lex tzakx [2]
+\_no 03236
+\LG MIG
+\PSH
+\UND tzakx
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG ciempie*s
+\ENG centipede
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\lex tzakx.@7
+\_no 03237
+\CMTS
+\date 11/Feb/96
+\LG MIG
+\PHO [tzakx@7]
+\UND tzak.A7
+-
+\GRAM SV
+\SPG caido
+LF:bugs
+\MB dejar, NOM2
+\VAR
+\ROOT tzakx
+\RTGR 12
+\ENG fallen
+\EXU tzakx.@7+k mok
+HAJ:96, what's wrong with it? he said the same thing again;
+\XPSH [tzakx@7k mok]
+\XSP tiene caido la mazorca
+\XEN the ears are fallen over
+\SYN
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+ZOH004R0011001.txt
+\lex tzam [kaxtia+jo7
+\_no 03238
+Page 1392

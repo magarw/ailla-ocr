@@ -1,0 +1,79 @@
+\ref ZOH001R036 103
+\_no 00104
+\tx 7otowa
+\mb 7otonh-A
+-ра
+\sgl hablar-NOM2 decir-INC de ahi*
+\egl speak -NOM2 say -INC of over_there
+\com
+\idx
+n@mpa
+n@m
+\zoq 7otowa n@mpa de jekkanh.
+\fts Parece que hablan por ahi*
+\fte voices speak from over there.
+\ref ZOH001R036 104
+\_no 00105
+\tx ga
+\mb ka -7
+nena*7
+nena7
+\sg1 DCT3-NOM1 malo
+\eg1 DCT3-NOM1 bad
+\ref ZOH001R036 105
+\_no 00106
+\zoq Ga nena*7 gay n@kpam konakxwakk@.
+\fts Ese mal aire ya lo vas a limpiar.
+\fte That evil spirit now you go to cleanse it out.
+\com
+\idx
+\zoq Gay mi me7chukpa.
+\fts Ya te buscan.
+\tx gay
+mi
+me7chukpa
+\mb
+ka -y mi me7tz -xuk-pa
+\sg1 DCT3-TMP 3>2 buscar-3PL-INC
+\eg1 DCT3-TMP 3>2 look -3PL-INC
+\fte Now they look for you.
+\com
+\idx
+\com
+\idx
+de jekkanh
+de jekkanh
+\zoq N@kpam komatzpa.
+\fts Lo vas a limpiar.
+\fte You cleanse it.
+ZOH001R0361001.txt
+m
+konakxwakk@
+7@m ko -nakx
+gay n@kpa
+ka -y
+n@k -pa
+DCT3-TMP irse-INC 2E SOC-pegar_con_palo-vaciar-dINC
+DCT3-TMP go -INC 2E soc-hit_with_stick-empty -DINC
+\ref ZOH001R036 106
+\_no 00107
+\tx n@kpa
+m komatzpa
+\mb n@k -pa 7@m ko -matz -pa
+\sg1 irse-INC 2E SOC-sobar-INC
+\egl go -INC 2E SOC-rub - INC
+\ref ZOH001R036 107
+\_no 00108
+\tx 7am tz@kjaypa
+pojo7k j@nanh
+\mb 7am tz@k -jay -pa pojo7k j@nanh
+\sg1 2E hacer-APPL-INC huevo AC
+\egl 2E do -APPL-INC egg
+ACC
+\zoq 7@m_tz@kjaypa pojo7kj@nanh.
+\fts Le haces con un huevo.
+\fte You do for it with an egg.
+\com
+Page 23
+-wak
+-wa

@@ -1,0 +1,82 @@
+\mb 7a7tz-pa
+\sg1 arder-INC
+\egl burn -INC
+\zoq 7a7tzpa.
+fts Le arde.
+\fte It burns.
+\com
+\idx
+\ref ZOH001R036 999-280
+\_no 01260
+\tx de
+\mb te -7
+tzutzu
+t@m
+tzutzu7 t@m
+\sg1 DCT2-NOM1 guajilote fruta
+\eg1 DCT2-NOM1 tree
+fruit
+\zoq De tzutzu t@m.
+\fts Esa fruta de guajilote.
+\fte That is guajilote fruit.
+\com
+\idx
+\ref ZOH001R036 999-281
+\_no 01261
+\tx
+tzutzu
+t@m gay
+juxpa
+\mb
+tzutzu7 t@m ka -7 -7@y jux -pa
+\sgl guajilote fruta DCT3-NOM1-3E asar -INC
+\egl tree
+fruit DCT3-NOM1-3E roast-INC fire
+\ref ZOH001R036 999-282
+\_no 01262
+\tx si k@nhnh@*
+\mb si k@nh
+\zoq Tzutzu t@m gay juxpa jukut@kjo.
+\fts Fruta de guajilote eso lo asa en la lumbre.
+\fte He roasts guajilote fruit in the fire.
+\com
+\idx
+70 tzamm@*
+-wa 70 tzam
+ZOH001R0361001.txt
+\sgl si madurarse-COM O
+\egl if mature -COM or mature
+\zoq si k@nhnh@* 7o tzamm@*.
+\fts Si maduro o sazo*n.
+sazonarse-COM
+\fte whether it's ripe or mature.
+\com
+\idx
+-w@
+jukut@kjo
+jukut@k-jo7
+lumbre -Loc2
+-LOC2
+-COM
+\ref ZOH001R036 999-283
+\_no 01263
+\tx 7@y juxpa
+7i
+y
+\mb 7@y jux -ра 7i
+minpa
+min -pa 7@y wa7k
+\sg1 3E asar -INC y
+venir-INC 3E
+\egl 3E roast-INC and come -INC 3E
+wa7kno7tztz@
+-no7tz -wa
+rebanar-quebrar-dINC
+slice -break -DINC
+\zoq 7@y juxpa 7i minpay wa7kno7tztz@.
+\fts Lo asa y lo viene partir por la mitad.
+\fte He roasts it and he comes to split it in slices.
+\com
+\idx
+\ref ZOH001R036 999-284
+Page 271

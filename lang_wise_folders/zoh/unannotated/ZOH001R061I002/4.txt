@@ -1,0 +1,62 @@
+\POS d@ 7exjayy@
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex 7in
+\_no 00013
+\SPG nublarse
+\ENG to get cloudy
+\SEMF nature
+\ASP accomplishment
+\ARG
+\NOM 7in. @7, * kuy7, * naanh
+\RTGR IX
+\POS N
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex 7ix
+\_no 00014
+\SPG ver
+\ENG to see
+\SEMF percep
+\ASP activity
+\ARG
+\NOM 7ix. 'oy.kuy7, win-ko.7ix.kuy7,
+\RTGR T3
+\POS rroberto d@ 7ixx@
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex 7oj
+\_no 00015
+\SPG toser
+\ENG to cough
+\SEMF body
+\ASP semelfactive
+\ARG
+\NOM 7oj.a7, 7oj.e7
+\RTGR 11
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\1ex 7okx
+\_no 00016
+\SPG apagarse
+\ENG to go out (be extinguished)
+\ENG 2 He blew out the lamp.
+\SEMF light
+\ASP achievement
+\ARG
+\NOM
+\RTGR 12
+ZOH001R0611002.txt
+\POS
+\MID
+me vio*
+Page 4

@@ -1,0 +1,62 @@
+\SEMF move_self
+\ASP activity
+\ARG manner
+\NOM konh.naanh
+\RTGR P, (11)
+\POS NO
+\MID NO
+\UNDO NO
+\CLZ NO
+\CMTS
+\lex kop
+\_no 00128
+\SPG cachar con las manos
+\ENG to catch between your hands
+\SEMF hand
+\ASP achievement
+\ARG location
+\NOM kop.kuy7, ni.kop, kop.naanh
+\RTGR T3
+\POS da kopjayy@n 7aju7
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\ASP achievement, state
+\ARG
+\NOM
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex kot
+\_no 00129
+\SPG guardar algo que le dieron
+\ENG to keep or take care of something you've been given
+\SEMF keep
+\lex ko.tzonh
+\_no 00130
+\SPG ayudar
+\ENG to help
+\SEMF build
+\ASP activity
+\ARG
+\NOM
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+cacho* mi chapuli*n
+\SEMF hand, touch
+\ASP achievement
+\lex ko7tz
+\_no 00131
+\SPG tentar con la mano (como si fuera carna o masa, tentar de abajo)
+\ENG to touch with the hand (a flat-handed pat, the way you touch meat
+or corn dough, touch from underneath)
+Page 32

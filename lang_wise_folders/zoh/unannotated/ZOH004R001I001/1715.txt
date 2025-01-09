@@ -1,0 +1,64 @@
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG pa*jaro: "xawi"
+\ENG a type of bird
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex xox
+\_no 03988
+\LG MIG
+\PSH
+\UND XOX
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG cocer
+\ENG to cook
+\SPL xox. 7oy
+LF: jon
+\SLGR ANTIP
+\SLGL cocer // to cook
+\SPL xox.7@m
+SLGR PASS
+\SLGL cocerse solo; cocer // to cook by itself; to cook
+\SPL xox. ten
+\SLGR PRSV
+\SLGL tener cocico // to have something cooked
+\EXU 1 xox.7@m-w@
+\XPSH 1 [Xoxx@mm@.]
+\XSP 1 Se cocio*.
+\XEN 1 It was cooked.
+\EXU 2 kon n@' 7@y+ xox-w@
+\XPSH 2 [Kon n@y xoxx@.]
+\XSP 2 Lo cocio* con agua.
+\XEN 2 She cooked it with water.
+\SYN
+\SEMF cook
+\ASP process
+\ARG
+\NOM xox.e7
+\SUB
+\ETYM
+\ETL
+\ROOT XOX
+\RTGR T3
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\1ex xox=7an.e7
+\_no 03989
+Page 1715

@@ -1,0 +1,64 @@
+\ENG to wash
+\SPL tze'.7oy
+\SLGR ANTIP
+\SLGL lavar // to wash
+\SLGR NO PASS
+\SPL tze'.ten
+\SLGR PRSV
+\SLGL tener lavado // to have washed
+\EXU /tzea7/~/tze7/ //tze7-A7// IMPV
+\XSP
+\XEN
+\SYN
+\SEMF clean
+\ASP activity
+\ARG
+\NOM tze'.e7
+\SUB k@.tze'
+\ETYM
+\ETL
+\ROOT tze
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\CMTS no pass tze'.7@m* - would be 'se lavo* solo'
+\date 03/Jan/80
+\lex tzij
+\_no 00178
+ZOH001R0611006.txt
+\LG MIG
+\PSH
+\UND tzij
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tirar y pegar con piedra
+\ENG to throw and hit with a rock
+\SPL tzij.7oy
+\SLGR ANTIP
+\SLGL tirar y pegar con piedra // to throw and hit with a rock
+\SLGR NO PASS
+SLGR NO ASSUM1
+\SPL tzij.ten
+\SLGR PRSV
+\SLGL tener prensado con piedras // to have something weighted with
+rocks
+\EXU 1 7@y+ tzij.ten-w@
+\XPSH 1 [7@y tzijtenn@.]
+\XSP 1 Lo tiene prensado con piedras.
+\XEN 1 She had it weighted down with rocks.
+\EXU 2 7@y+ tzij-w@ bi yoya
+\XPSH 2 [7@y tzijja bi yoya.]
+\XSP 2 Pego el marrano (con piedra).
+\XEN 2 She hit the pig (with a rock).
+\EXU 3_7@n+ tzij-w@ 7an+ manh.kuy' kuy+pi7t
+\XPSH 3 [7@n tzijj@n manhkuy kuypi7t.]
+\XSP 3 Machuque* mi pie con palo.
+\XEN 3 I crushed my foot with a tree-limb.
+\SYN
+\SEMF hit
+\ASP achievement
+\ARG
+Page 120

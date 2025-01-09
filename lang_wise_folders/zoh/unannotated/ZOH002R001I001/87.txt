@@ -1,0 +1,53 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(4.17)
+(i)
+(ii)
+ney køxxoyyo
+ney kəš.?oy-wə
+self eat.ANTIP-COM
+'She ate without paying' (at someone else's expense) (lexicon)
+dø neytzixukkø yødø jamatin
+də+ ney=ci?-šuk-wǝ
+yə.də
+hamatin
+1A+ self-give-3PL-COM DCT1.DEM money
+'They gave me this money as a gift.'
+4.4. Quantifiers
+The set of MIG Zoque quantifiers are shown in table 4.3. Note that the
+set includes two clitics, +há? and +štá?.
+Zoque
+Pičín
+Pomén
+məhmə
+meši
+hemhi?
+šəhə?
++ há?
++štá?
+English
+few; a little
+a little
+many; a lot
+few
+all
+(ZOH001 R018-275)
+poco
+todo
+62
+poco
+poquito
+mucho; bastante
+lot; varios;
+mucho
+Spanish
+several; a
+many
+each
+only; just; no more no más
+Table 4.3: MIG Zoque quantifiers
+cada quien
+bastante;
+The distribution of quantifiers in noun phrases is described in detail in
+section 9.5. They also appear independently as arguments in clauses, thus
+functioning as pronouns. Unlike pronouns, quantifiers and numbers appear
+with the versive suffix -?a, as shown in example (4.18 iii and iv).

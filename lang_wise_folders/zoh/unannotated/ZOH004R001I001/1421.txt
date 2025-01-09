@@ -1,0 +1,63 @@
+\lex tza'-jap.ney
+\_no 03305
+\LG MIG
+\PSH [tzajapney-]
+\UND tza7-jap.ney
+\MB piedra, *estar_boca_abajo, ASSUM1
+\VAR
+\GRAM assum1
+\SCI
+\USE incorporated ABS subject
+\SPG estar una piedra embrocada
+\ENG for a rock to be turned upside down
+\EXU_tza'=jap.ney-w@
+\XPSH [Tzajapneyy@.]
+\XSP La piedra esta* embrocada.
+\XEN The rock is turned upside down
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT * jap
+\RTGR P
+\DSRC HAJ94
+\CMTS CK-GR
+\CMTS tza'-jap.ney-pa*, porque no puede voltearse solo la piedra
+\date 26/Jun/96
+\lex tza'=j@m.kuy7
+\_no 03306
+\LG MIG
+\PSH [tzaj@mkuy7]
+\UND tza7-j@m.kuy7
+\MB piedra, afilar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG piedra de afilar
+\ENG sharpening stone
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jam
+\RTGR T1
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tza'-manak
+\_no 03307
+\LG MIG
+\PSH [tza:manak]
+\UND tza7 manak
+\MB piedra, hijo
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG mano de metate
+Page 1421

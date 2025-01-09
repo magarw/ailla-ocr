@@ -1,0 +1,63 @@
+\VAR
+\GRAM pcp
+\SPG agarrado con anzuelo
+\ENG caught with a hook
+\EXU koke xu.i7
+\XPSH [koke xui7]
+\XSP pescado agarrado con anzuelo
+\XEN
+\SYN
+\ROOT xuy
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex xui=tak-pa+a7k
+\_no 03997
+\LG MIG
+\PSH [xuwi takpa*7]
+\UND xuwi-tak-pa +P@7k
+\MB red, tejer, INC, REL
+\VAR xui tak.pa7
+\GRAM smagt1
+\SCI
+\USE
+\SPG tejedor de rede
+\ENG net weaver
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tak
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex xuj
+\_no 03998
+LG MIG
+\PSH
+\UND xuj
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG soplar
+\ENG to blow
+\SPL xuj.7oy
+\SLGR ANTIP
+\SLGL soplar // to blow
+\SPL xuj.7@m
+\SLGR PASS
+ZOH004R0011001.txt
+\SLGL soplar // to blow (impersonal)
+\EXU 1 7@y+ xuj-w@ bi jukut@k
+\XPSH 1 [7@y xujja bi jukut@k.]
+\XSP 1 Soplo* la lumbre.
+\XEN 1 She blew on the fire.
+\EXU 2 xuj. '@m-w@ bi jukut@k
+Page 1719

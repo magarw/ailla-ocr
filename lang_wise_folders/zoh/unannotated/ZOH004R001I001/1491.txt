@@ -1,0 +1,63 @@
+\USE
+\SPG quedar limpio; limpiarse; aclarar agua
+\ENG to stay clean; to get clean; for water to clear
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzux
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tzux-p@n
+\_no 03466
+\LG MIG
+\PSH [tzuxp@n]
+\UND tzux p@n
+\MB verde, hombre
+\VAR txux p@n
+\GRAM SS
+\SCI
+\USE
+\SPG soldado
+\ENG soldier
+\EXU tzux p@n_d@k+7ay
+\XPSH [tzux p@n d@kka]
+\XSP los soldados
+\XEN the soldiers
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT tzux
+\RTGR 12
+\DSRC HAJ95
+\CMTS CK-PH - HAJ:96 stress on tzux/bothOK: TK
+\date 26/Jun/96
+\lex tzuxu7
+\_no 03467
+\LG MIG
+\PSH
+\UND tzuxu7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG esquina
+\ENG corner
+\SPL
+\SLGR
+\EXU
+ZOH004R0011001.txt
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+Page 1491

@@ -1,0 +1,64 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 t@nh
+\RTGR 1 T3
+\ROOT 2 tuk
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex t@nh-tuk. tuk.w@y
+\_no 03176
+\LG MIG
+\PSH [t@nhtuktukw@y-]
+\UND t@nh-tuk. tuk.w@y
+\MB cortar, cortar, cortar, REDUP2
+\VAR
+\GRAM VTR
+\SCI
+\USE
+\SPG picar; despedazar a machetazos
+ENG to cut up in small pieces with a machete
+\EXU 7@y+ t@nh-tuk.tuk.w@y-wa tzajin
+\XPSH [7@y t@nhtuktukw@yy@ tzajin.]
+\XSP Despedazo* a machetazos la culebra.
+\XEN He cut the snake to pieces with a machete.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 t@nh
+\RTGR 1 T3
+\ROOT 2 tuk
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS CK-PH ok the /w/ is pronounced
+\date 09/Feb/96
+\lex t@nh-tzonh
+\_no 03177
+\LG MIG
+ZOH004R0011001.txt
+\PSH [t@nhtzonh-]
+\UND t@nh-tzonh
+-
+\SLGR
+\EXU
+\MB cortar_con_fierro, unir
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG embocar (ri*o)
+\ENG for a river to open into another river or the sea
+\SPL
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+Page 1366

@@ -1,0 +1,63 @@
+\RTGR 2 P
+\DSRC HAJ94
+\CMTS
+\date 24/Jun/96
+\lex 7an.e=tzanh
+\_no 00045
+\LG MIG
+\PSH [7anetzanh-]
+\UND 7an. E=tzanh
+\MB calentarse, NOM7, golpear
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG tortear
+\ENG to make tortillas
+\SPL
+\SLGR
+\EXU 1 7an.e=tzanh-pa
+\XPSH 1 [7anetzanhpa.]
+\XSP 1 Esta* torteando (cuando no es ma*s que una).
+\XEN 1 She's making tortillas (when there's just one person).
+\EXU 2 7@y+ 7an.e=tzanh-max-w@
+\XPSH 2 [7@y_7anetzanhmaxx@.]
+\XSP 2 Hizo la tortilla mal.
+XEN 2 She made the tortilla badly.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7an
+\RTGR 1 12
+\ROOT 2 tzanh
+\RTGR 2 T3
+\DSRC TK96
+\CMTS
+\date 03/Jan/80
+\DATE 09/Aug/02
+\lex 7an.e=tzanh.kuy7
+\_no 00046
+ZOH004R0011001.txt
+\LG MIG
+\PSH [7anetzanhkuy7]
+\UND 7an. E=tzanh.kuy7
+\MB calentarse, NOM7, golpear, INSTR1
+\VAR
+\GRAM instrl:incorp
+\SCI
+\USE
+\SPG todos esta*n torteando, como en una ayuda
+\ENG everyone is making tortillas, like at an ayuda
+\EXU 7an.e=tzanh.kuy7 ko.tzonh.kuy' +jo7
+\XPSH [7anetzanhkuy kotzonhkuyjo7.]
+\XSP Esta*n torteando en una ayuda.
+\XEN They're making tortillas at an ayuda.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7an
+\RTGR 1 12
+\ROOT 2 tzanh
+Page 20

@@ -1,0 +1,63 @@
+\CMTS
+\date 03/Jan/80
+\lex xoy
+\_no 03992
+\LG MIG
+\PSH
+\UND XOY
+\MB
+\VAR
+\GRAM vi: med
+\SCI
+\USE
+\SPG pasar de tiempo, como camote o yuca - hace dan~o para comer
+\ENG to be overripe, like a yam it will hurt you to eat it
+\SLGR NO CAUS
+\EXU 1 m@n xoy-w@
+\XPSH 1 [M@n xoyy@.]
+\XSP 1 Se paso* de tiempo el camote.
+\XEN 1 The yam is overripe.
+\EXU 2 m@n xoy-w@+v7k
+\XPSH 2 [m@n xoyy@*7]
+\XSP 2 un camote que ya se paso* su tiempo
+\XEN 2 an overripe yam
+\EXU 3 xoy-w@+v7k m@n
+\XPSH 3 [xoyy@7k m@n]
+\XSP 3 un camote que ya se paso* su tiempo
+\XEN 3 an overripe yam
+\EXU 4 xoy-pa m@n
+\XPSH 4 [Xoypa m@n.]
+\XSP 4 Se esta* pasando del tiempo el camote.
+\XEN 4 The yam is getting overripe.
+\SYN
+\SEMF plant, nature
+\ASP transition
+\ARG
+\NOM xoy.e7
+\SUB
+ETYM
+ZOH004R0011001.txt
+\ETL
+\ROOT XOY
+\RTGR 12
+\DSRC TK94
+\CMTS
+\CMTS SYNTAX of EX: incorp?
+\date 03/Jan/80
+\lex xoy.a
+\_no 03993
+\LG MIG
+\PSH [xoya]
+\UND xoy. A
+\MB pasar_su_tiempo, NOM2
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG ya no sirve, esta* pasado de su tiempo
+\ENG now it's no good, it's overripe
+\SPL
+\SLGR
+\EXU
+\XSP
+Page 1717

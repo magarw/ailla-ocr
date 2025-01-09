@@ -1,0 +1,52 @@
+\ENG dipper
+\lex tzima7
+\_no 02417
+\SPG morro
+\ENG ***
+\lex tzin
+\_no 02418
+\SPG ocote
+\ENG pine
+\lex tzinko7kx
+\_no 02419
+\SPG cucuyo
+\ENG firefly
+\lex tzinu
+\_no 02420
+\SPG miel
+\ENG honey
+\lex tzinh
+\_no 02421
+\SPG ban*arse
+\ENG bathe
+\lex tzi7tz
+\_no 02422
+\SPG tener_sarna; arrugarse
+\ENG have_mange; wilt
+\lex tzix
+\_no 02423
+\SPG tirar_pedos
+\ENG fart
+\lex tzix
+\_no 02424
+\SPG picar
+\ENG bite
+\lex tzoja7
+\_no 02425
+\SPG algodo*n
+\ENG cotton
+\lex tzok
+\_no 02426
+\SPG sanar
+\ENG cure
+\lex tzoko7
+\_no 02427
+\SPG lodo
+\ENG mud
+\lex tzokoy7
+\_no 02428
+\SPG_corazo*n
+\ENG heart
+\lex tzonh
+ZOH001R0611013.txt
+Page 193

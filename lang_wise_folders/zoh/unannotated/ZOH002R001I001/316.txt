@@ -1,0 +1,44 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+Examples of its use are shown in (11.24 i-ii). ?iš- is extremely common
+unadorned root, as a derived stem, and as a member of a pair of compound
+roots. Its behavior in compounds is discussed in chapter 8. As an underived
+root, it can be used to simply present an act of seeing (example iii), or to
+introduce a clause describing the perceived situation (examples iv-vi). As
+example (iv) illustrates, this can be an abstract situation perceived with the
+mind.
+(11.24)
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+yøjóng kajáng 'ammapa
+yə.həəŋ
+ka.haan 0 7amma-pa
+DCT1.DIR1 DCT3.DIR1 3A look-INC
+'He's looking over here and over there.'
+'øn 'ammawo kwanduy tøngngø bi pøn bi kuy
+?ən+ ?amma-we kwandu ?əy+ təŋ-wə
+1E+ watch-COM when
+nøkpan 'ixxø 'øn jatoŋ 'øn mama
+nək-pa ?ən+ ?iš-wə ?ən+ hatoŋ ?ən+ mama
+go-INC 1E+ see-dINC 1E+ father 1E+ mother
+'I'm going to see my father and my mother.'
+bi pǝn bi kuy
+3E+ cut_w_machete-COM DEF man DEF tree
+'I watched while the man cut down the tree with the machete.' (elicited)
+(ZOH001R024-492)
+as an
+gajim 'ixtampa si mix 'o døx ney nømjaxukøpa
+gahi? ?əm+ ?iš-tam-pa
+there 2E+ see-1/2PL-INC if 2Prn or 1 Prn RECIP say.APPL-3PL-RECIP-INC
+'Then we'll see if you or I will say to one another..."
+(ZOH001R018-254)
+si miš ?o dǝš ney nəm.hay-šuk-A-pa
+289
+(ZOH001R024-044)
+kay 'øn 'ixtampám ke mas jøxjóng minnømpa
+kay ?ən+ ?iš-tam-pa+?am ke mas həšhooŋ 0 min-Anəm-pa
+then 1E+ see-1/2PL-INC+NOW that more from behind 3A come-INDEF-INC
+'Then we see that more is coming farther back (inside the cave).'
+(ZOH001 R015-054)

@@ -1,0 +1,53 @@
+\ref ZOH001R011 113
+\_no 00114
+\tx 7i tey
+d@ minna*m
+\mb 71 de-y d@ min -w@ - 7am
+\sgly
+de-TMP 1A venir-COM-YA
+\eg1 and of-TMP 1A come -COM-NOW
+\zoq 7i tey d@ minna*m.
+\fts y ahora ya vine.
+\fte and now I've come back.
+\com
+\idx
+\ref ZOH001R011 114
+\_no 00115
+\tx tey
+\mb de-y
+si_n@kpa
+si n@k -pa ya -y
+yey
+\sg1 de-TMP VOL
+ver-3PL-COM-YA
+donde si irse-INC DCT1-TMP O
+man~ana
+\egl of-TMP VOL see-3PL-COM-NOW where if go -INC DCT1-TMP or morning
+yakk@ 7ixxukka*m
+ju7
+yakk@ 7ix-xuk-w@ -7am ju7
+\zoq Tey yakk@ 7ixxukka*m ju7, si n@kpa yey 7o joji.
+\fts Ahora que miren donde, si se van hoy o man~ana.
+\fte Now let them see where, if they go today or tomorrow.
+\com
+\idx
+\ref ZOH001R011 115
+\_no 00116
+\tx d@x minnam
+\mb d@x min
+ZOH001R0111001.txt
+dey
+-w@ -7am te -y
+\com
+\idx
+y@j@nanh
+y@ -j@nanh
+\sgl 1Prn venir-COM-YA DCT2-TMP
+DCT1-ACC
+\egl 1prn come -COM-NOW DCT2-TMP DCT1-ACC
+\zoq Dax minnam dey y@j@nanh.
+\fts Yo ya vine para aca*.
+\fte I have now come back here.
+Page 26
+70 joji
+70 joji7

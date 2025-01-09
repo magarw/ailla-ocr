@@ -1,0 +1,61 @@
+\UNDO
+\CLZ
+\CMTS
+\lex wikx
+\_no 00364
+\SPG chiflar
+\ENG to whistle
+\SEMF sound
+\ASP process
+\ARG
+\NOM wikx.i7
+\RTGR IX
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex wi7kx
+\_no 00365
+\SPG falsearse; ensartarse pie; desconsartarse pie
+\ENG for the foot to come down wrong; for the foot to turn under you
+\SEMF move_self
+\ASP transition
+\ARG manner
+\NOM wi7kx.kuy7
+\RTGR IX
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex wit [1]
+\_no 00366
+\SPG andar; caminar; pasear
+\ENG to walk; to take a walk
+\SEMF move_self
+\ASP process
+\ARG
+\NOM 7anh.wit.i, wit.kuy7
+\RTGR 11
+\POS 7@y yakniwitt@yy@ 'anduvo caminando encima del cuerpo
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex witu
+\_no 00367
+\SPG regresar
+\ENG to return
+\SEMF move_self
+\ASP transition
+\ARG direction
+\NOM * kuy7
+ZOH001R0611002.txt
+\RTGR I1
+\POS witujayy@ (wituw@ es mejor)
+\POS una cosa que dio* vuelta
+\MID
+\UNDO
+\CLZ
+Page 90

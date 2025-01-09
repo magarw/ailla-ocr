@@ -1,0 +1,62 @@
+\RTGR IX
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex way'=jun.i7
+\_no 03613
+\LG MIG
+\PSH [wayjuni7]
+\UND way'=jun.E7
+\MB pelo, caer_pelo, NOM7
+\VAR
+\GRAM a:sq
+\SCI
+\USE
+\SPG que se le cayo* el cabello
+\ENG someone whose hair has fallen out
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex way'=jup
+\_no 03614
+\LG MIG
+\PSH [wayjup-]
+\UND way7=jup
+\MB pelo, jalar
+\VAR
+\GRAM vt:incorp
+\SCI
+\USE
+\SPG jalarle el pelo
+\ENG to pull somebody's hair
+\EXU 7@y+ way'=jup-w@
+\XPSH [7@y_wayjupp@.]
+\XSP Le jalo* el pelo.
+\XEN She pulled his hair.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jup
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex way'=kex.i7
+\_no 03615
+ZOH004R0011001.txt
+\LG MIG
+\PSH [waykexi7]
+\UND way7=kex. E7
+\MB pelo, ponerse_crespo, NOM7
+Page 1553

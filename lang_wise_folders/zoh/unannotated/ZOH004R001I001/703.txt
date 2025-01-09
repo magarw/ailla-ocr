@@ -1,0 +1,62 @@
+\DSRC HAJ94
+\CMTS
+\date 09/Nov/94
+\lex kuy=tzetz. 7anh
+\_no 01624
+\LG MIG
+\PSH [kuytzetz7anh]
+\UND kuy tzetz. 7anh
+\MB palo, labrar, NOM8
+\VAR
+\GRAM s (m) sv
+\SPG tajos de madera
+\ENG wood chips
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT tzetz
+\RTGR T3
+\DSRC HAJ95
+\CMTS PH fixed by TK
+\date 25/Jun/96
+\lex kuy-tzetz.e
+\_no 01625
+\LG MIG
+\PSH [kuytzetze]
+\UND kuy=tzetz. E
+\MB palo, labrar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG lo que esta* labrado de madera
+\ENG something made of wood
+SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzetz
+\RTGR T3
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex kuy=tzetz-pa+a7k p@n
+\_no 01626
+ZOH004R0011001.txt
+\LG MIG
+\PSH [kuytzetzpa*7k p@n]
+\UND kuy=tzetz-pa +P@7k_p@n
+\MB palo, labrar, INC, REL, hombre
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG hombre que labra madera
+\ENG a man who works wood
+Page 703

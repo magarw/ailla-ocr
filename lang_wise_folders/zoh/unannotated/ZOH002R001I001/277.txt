@@ -1,0 +1,43 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+9.7. Possession
+The ergative set of person agreement markers is used to mark
+possessors of nouns. Possessed nouns can be further specified with the
+definite article or a deictic, as shown in examples (9.25 iv – vi).
+(9.25)
+(i)
+(iv)
+(v)
+(vi)
+'øn jatong
+7ǝn+ hatoŋ
+1E+ father
+'my father'
+(ii)
+'øm yokwij
+?əm+ yəkwih
+2E+ shirt
+'your shirt'
+ya toyyám bim tzøk
+ya 0 toy-wǝ+?am
+bi əm+ cek
+NEG 3A hurt-COM+NOW DEF 2E+ belly
+'Now your belly doesn't hurt.'
+(iii)
+gaji teji'awø døx bi døn mø'
+gahi? O tehi.?a-wǝ
+dəš bi dən mə?
+there 3A there_is.VERS1-COM 1 Prn DEF XE wife
+'There is my wife.'
+døx mama 'øn pøkpám den tung
+dəš mama ?ən+ pək-pa+?am
+de? ?ǝn+ tuŋ
+1 Prn mama 1E+ get-INC+NOW that 1 E+ road
+'I, mama, now I'll take my road."
+250
+'øy machete
+?ǝy+ mačete
+3E+ machete
+'his machete'
+(ZOH001R036-022)
+(ZOH001 R012-200)
+(ZOH001 R026-011)

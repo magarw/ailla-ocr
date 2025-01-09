@@ -1,0 +1,52 @@
+\SPG mu*sico
+\ENG musician
+\lex mut
+\_no 01524
+\SPG
+\ENG piss yourself because you can*t make it to the bathroom
+\lex mutum7
+\_no 01525
+\SPG majagua del tule; viene de we7k
+\ENG
+\lex mu7t
+\_no 01526
+\SPG yerno; suegro
+\ENG son-in-law; father-in-law
+\lex mux
+\_no 01527
+\SPG saber
+\ENG know
+\lex muxi7
+\_no 01528
+\SPG puto
+\ENG whore
+\lex muy
+\_no 01529
+\SPG doblar(se)
+\ENG dent
+\lex mweka
+\_no 01530
+\SPG mueca
+\ENG acting_out
+\lex myentras
+\_no 01531
+\SPG mientras
+\ENG while
+\lex m@7
+\_no 01532
+\SPG esposa
+\ENG wife
+\lex m@a7
+\_no 01533
+\SPG venado
+\ENG deer
+ZOH001R0611013.txt
+\lex m@jm@
+\_no 01534
+\SPG bastante
+\ENG a_lot
+\lex m@k
+\_no 01535
+\SPG mezclar ; formar
+\ENG mix ; shape
+Page 122

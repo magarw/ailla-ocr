@@ -1,0 +1,64 @@
+\lex yox.e7
+\_no 04174
+\LG MIG
+\PSH [yoxe7]
+\UND yox. E7
+\MB trabajar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG trabajo
+\ENG work
+\EXU yoxe*7
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT yox
+\RTGR T1
+\KEY
+\DSRC HAJ94
+\CMTS CK-a11 - HAJ:96, both sound right, he gives it with and without
+\CMTS the final stress, and the v is long both times/OK: TK [yo:xe7]
+\date 26/Jun/96
+\lex yox.e7+e7k
+\_no 04175
+\LG MIG
+\PSH [yoxe* 7k
+\UND yox.E7+P@7k
+\MB trabajar, NOM7, REL
+\VAR
+\GRAM
+\SPG una cosa que se trabajo*, que ya esta* hecho
+\ENG something that was worked, something that is now made
+\EXU 1 ya. kuy yox. E7+P@7k
+\XPSH 1 [y@ kuy yoxe*7]
+ZOH004R0011001.txt
+\XSP 1 esta madera que se trabajo*
+\XEN 1 this
+wood that was worked
+\EXU 2 y@. yox.E7+P@7k kuy
+\XPSH 2 [y@ yoxe7k kuy]
+\XSP 2 esta madera que se trabajo*
+\XEN 2 this wood that was worked
+\SYN
+\SEMF
+\ROOT yox
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date
+I
+\lex yox-ko.tzonh
+\_no 04176
+\LG MIG
+\PSH [yoxkotzonh-]
+\UND yox-ko.tzonh
+\MB trabajar, OTRO, unir
+\VAR
+\GRAM vt
+\SCI
+Page 1794

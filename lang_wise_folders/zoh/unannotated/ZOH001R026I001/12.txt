@@ -1,0 +1,85 @@
+\mb ka -7
+\sg1 DCT3-NOM1 pararse-COM dos
+\eg1 DCT3-NOM1 stand -COM two
+ten
+\ref ZOH001R026 065
+\_no 00056
+\zoq Ga7 tenn@ metzanh manhkuypi7t naxjo.
+\fts Aquel estaba parado con dos pies en el suelo.
+\fte That one stood with two feet on the ground.
+ZOH001R0261001.txt
+-wa metza*nh manh -kuy7 -pi7t
+\tx manhkuyp@7k
+n@mpa
+\mb manh -kuy7
+-p@7k n@m -pa
+\sg] pisar-INSTR1-REL2 decir-INC
+\egl step -INSTR1-REL2 say -INC
+dey
+deji
+tenn@
+bi
+\tx n@mpa
+\mb n@m
+metzanh
+-pa te -y
+te -ji7
+-ji7 ten -wa bi metza*nh
+\sg1 decir-INC DCT2-TMP DCT2-LOC1 pararse-COM DEF dos
+\egl say -INC DCT2-TMP DCT2-LOC1 stand -COM DEF two
+pisar-INSTR1-trenzar
+step -INSTR1-braid
+\ref ZOH001R026 066
+\_no 00057
+\tx 7@y 7onhtzekk@ge7tt@
+\mb 7@y 7onh -tze7k-7@y-ke7t -wa mix bi
+\sg1 3E BOCA -pedir-SUF-REPET-COM 2Prn DEF dos
+\egl 3E MOUTH-ask -SUF-REPET-COM 2Prn DEF two
+\tx tz@njon
+\mb
+tz@njon
+\sgl faisa*n
+\egl bird
+\zoq Nampa, "Dey deji tenn@ bi metzanḥ manhkuyp@7k," n@mpa.
+\fts Dice, "Ahi* esta* parado el dos pies," dice.
+\fte He says, "Now there stands the two-legged-one," he says.
+\ref ZOH001R026 067
+\_no 00058
+\tx mix 7@m najj
+\mb mix
+7@m_n@ji
+\sg1 2Prn 2E nombre
+\egl 2Prn 2E name hunter
+\zoq 7@y 7onhtzekk@ge7tt@ mix bi metzanh manhkuyp@*7?
+\fts Le volvio* a preguntar, "Tu eres el dos pies?
+\fte He asked again, "Are you the two-legged-one?
+\ref ZOH001R026 068
+\_no 00059
+\sg1 no
+\egl no
+-jo7
+tierra-Loc2
+earth -LOC2
+nax
+mix bi metzanh manhkuyp@*7
+metza*nh mạnh -kuy7 -p@7k
+pisar-INSTR1-REL 2
+step -INSTR1-REL 2
+\zoq Mix 7@m n@ji 'Katzit7ok'
+7@y n@mjaba bi tzikin kajanh bi tz@njon.
+\fts tu eres 'Cazador'," le dice el tigrillo pinto a la pava.
+\fte Your name is 'Hunter'," the spotted jaguar said to the bird.
+\tx n@7tti 7anhtzonhnhoyy@
+bi tz@njon
+\mb n@7tti 7anh -tzonh-7oy -w@ bi tz@njon
+BOCA -unir -ANTIP-COM DEF faisa*n
+MOUTH-join -ANTIP-COM DEF bird
+katzit7ok 7@y n@mjaba
+bi tzikin kajanh bi
+katzit7ok 7@y nam -jay -pa bi tzikin kajanh bi
+cazador
+decir-APPL-INC DEF pinto tigre DEF
+say -APPL-INC DEF spotted jaguar DEF
+3E
+3E
+Page 12

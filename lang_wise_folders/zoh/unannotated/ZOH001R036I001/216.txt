@@ -1,0 +1,88 @@
+\zoq OSM: Tzutzi n@7.
+\fts OSM: Agua de pecho.
+\fte OSM: Breast water.
+\com
+\idx
+\ref ZOH001R036 999-016
+\_no 00998
+\tx 7@y tzonhpa bi tzutzi n@7
+\mb 7@y tzonh-pa bi tzutzi7 n@7
+medyo tasa
+medyo tasa
+unir -INC DEF pecho agua 3E ATRAS-orden~ar-INC medio taza
+\egl 3E join -INC DEF breast water 3E BACK -milk
+cup
+7@y j@xm@7kpa
+7@y jax -m@7k
+\sg1 3E
+-INC half
+\ref ZOH001R036 999-017
+\_no 00999
+\zoq 7@y tzonhpa bi tzutzi n@7, 7@y j@xm@7kpa medyo tasa.
+\fts Topa la agua de pecho, exprime media taza.
+\fte She joins breast milk, she expresses a half-cup.
+\com
+\idx
+\tx minpa
+\mb min
+y yumm@
+-pa 7@y yum
+\sg1 venir-INC 3E
+\egl come -INC 3E boil
+\com
+\idx
+\zoq Minpay yumm@.
+\fts viene a hervirlo.
+\fte she comes to boil it.
+\ref ZOH001R036 999-018
+\_no 01000
+\tx 7@y yumpa
+\mb 7@y yum
+\sg1 3E
+\egl 3E
+ZOH001R0361001.txt
+hervir(se)-DINC
+-w@
+\ref ZOH001R036 999-019
+\_no 01001
+\tx yakkukpa
+\mb yak -7uk -ра
+\sg1 CAUS-tomar -INC
+\eg1 CAUS-drink-INC
+-DINC
+hervir(se)-INC olla -LOC2 o
+xuyujo
+70 chik
+pwes
+trastejo
+traste -jo7 pwes
+chico trastes-LOC2 pues
+-INC pot -LOC2 or little dishes -LOC2 well
+-pa xuyu7-jo7 70 chik
+boil
+\zoq 7@y yumpa xuyujo 7o chik trastejo, pwes.
+\fts Lo hierve en la olla o en un trastecito, pues.
+\fte she boils it in a pot or, well, a little dish.
+\com
+\idx
+\tx 7@y yakyumpa
+7i
+\mb 7@y yak -yum
+-pa 7i
+\sg1 3E CAUS-hervir(se)-INC y
+\egl 3E CAUS-boil
+-pa
+y
+tziw@
+minpa
+bi pay
+min -pa 7@y tzi7-w@ bi para-7@y
+venir-INC 3E dar -dINC DEF para-3E
+give-dINC DEF for -3E
+-INC and come -INC 3E
+\zoq 7@y yakyumpa 7i minpay tziw@ bi pay yakkukpa.
+\fts Lo hiervo le viene a dar para que haga que lo tome.
+\fte She makes it boil and she comes to give it so that it drinks it.
+\com
+\idx
+Page 216

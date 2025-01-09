@@ -1,0 +1,63 @@
+\ROOT
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex xux
+\_no 04024
+\LG MIG
+\PSH
+\UND XUX
+\MB
+\VAR
+\GRAM vi:act
+\SCI
+\USE
+\SPG chiflar
+\ENG to whistle
+\EXU 1 7@y+ xux.jay-wa
+\XPSH 1 [7@y xuxjayy@.]
+\XSP 1 Le chiflo*.
+\XEN 1 She whistled at him.
+\EXU 2 da xux-pa
+\XPSH 2 [D@ xuxpa.]
+\XSP 2 Chiflo.
+\XEN 2 I'm whistling.
+\SYN
+\SEMF sound
+\ASP process
+\ARG
+\NOM xux.kuy7
+\SUB
+\ETYM
+\ETL
+\ROOT Xux
+\RTGR 11
+\DSRC HAJ94
+\CMTS CK-GR - ok
+\date 03/Jan/80
+\lex xux.kuy7
+\_no 04025
+\LG MIG
+\PSH [xuxkuy7]
+\UND xux.kuy7
+\MB chiflar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\DLG
+\SPG concha de mujer, "chona"
+\ENG pussy, lit. "whistle"
+\EXU kom (1¹) xux.kuy7
+\XSP concha grande
+\EXU jo. jaj-w@ 7@y+ xux.kuy7
+\XPSH [Jojajj@y xuxkuy7.]
+\XSP Se le asorno* la concha.
+\XEN Her pussy got hot.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT Xux
+ZOH004R0011001.txt
+Page 1731

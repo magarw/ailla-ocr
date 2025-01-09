@@ -1,0 +1,62 @@
+\date 16/Jun/95
+\1ex xewa7
+\_no 03921
+\LG MIG
+\PSH xewa*7
+\UND xewa7
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG ligero; liviano; que no pesa; "bojo"
+\ENG lightweight; light; weightless
+\EXU 1 xewa' kaj@t@nh7
+\XPSH 1 [xewa' k@j@t@nh7]
+\XSP 1 No pesa la almohada.
+\XEN 1 The pillow is featherweight.
+\EXU 2 kajat@nh7 xewa*7
+\XPSH 2 [kaj@t@nh7 xewa*7]
+\XSP 2 No pesa la almohada.
+\XEN 2 The pillow is light.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH/GR HAJ:96 repeats it with the final stress in citation form,
+\CMTS but I don't get the xewa7k form preceding the N; /xewa7/ is OK:TK
+\date 26/Jun/96
+\lex xewa'.7aH
+\_no 03922
+\LG MIG
+\PSH [xewa7a-]
+\UND xewa7.7aH
+\MB ligero, VERS1
+\VAR
+\GRAM vers1
+\SCI
+\USE
+\SPG hacerse bojo
+\ENG to become light
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ZOH004R0011001.txt
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex xewa'=tz@k
+\_no 03923
+\LG MIG
+\PSH [xewatz@k-]
+\UND xewa7=tz@k
+Page 1687

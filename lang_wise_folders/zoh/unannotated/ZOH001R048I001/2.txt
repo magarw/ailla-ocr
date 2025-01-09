@@ -1,0 +1,71 @@
+\zoq wenu d@ witt@ Unio*n.
+\fts Anduve vendiendo en Unio*n.
+\fte I went to Unio*n a lot.
+\ref ZOH001R048 004
+\_no 00005
+\tx wen
+\mb wenu d@ wit
+-w@
+\sg1 mucho 1A andar-COM
+ingenio
+\eg1 a_lot 1A walk -COM ingenio
+d@ witt@
+\tx wen
+d@ witt@
+\mb wenu d@ wit -wa
+-wa
+\zoq wenu d@ witt@ Ingenio.
+\fts Anduve vendiendo en Ingenio.
+\fte I went walking a lot in Ingenio.
+\not ya se llama Sam Pablo
+\ref ZOH001R048 005
+\_no 00006
+jaytija.
+jaytij@7
+\sg1 mucho 1A andar-COM
+Juchitan
+\egl a lot 1A walk -COM Juchitan
+7injenyo.
+7injenyo.
+\zoq wenu d@ witt@ J@ytij@7.
+\fts Anduve vendiendo en Juchita*n.
+\fte I went around a lot in Juchita*n.
+\com
+\idx
+\ref ZOH001R048 006
+\_no 00007
+\tx wenu d@ witt@ rrancheria, de Sityu, de xokijo.
+\mb wenu d@ wit -wa rrancheria de Sityu de xokijo
+\sg1 mucho 1A andar-COM rancheria
+\egl a_lot 1A walk -COM hamlet
+de sitio de xokijo7.
+of sitio of xokijo7
+\ref ZOH001R048 007
+\_no 00008
+\tx wen
+\mb wenu d@ wit
+ZOH001R0481001.txt
+\zoq wenu d@ witt@ rrancheria, de Sityu, de xokijo7.
+\fts Anduve mucho en la rancheria, de Cuauhtemoc, a Las Conchas.
+\fte I went around a lot in hamlets, in Sitio, in Las Conchas.
+da witt@
+-w@
+Synegia.
+synegia .
+\sg1 mucho 1A andar-COM Cienegia.
+\eg1 a_lot 1A walk -COM Cienegia.
+\zoq wenu da witt@ Cienegia.
+\fts Anduve mucho en Cienegia.
+\fte I went around a lot in Cienegia.
+\ref ZOH001R048 008
+\_no 00009
+\tx wen
+d@ witt@
+Kofradia.
+\mb wenu d@ wit -wa Kofradia.
+\sg1 mucho 1A andar-COM cofradia.
+\egl a lot 1A walk -COM cofradia.
+\zoq wenu d@ witt@ Cofradia.
+\fts Anduve mucho en Cofradia.
+\fte I went around a lot in Cofradia.
+Page 2

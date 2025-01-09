@@ -1,0 +1,63 @@
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 24/Jun/96
+\lex 7i-w@
+\_no 00286
+\LG MIG
+\PSH
+\UND 71-w@
+\MB
+\VAR
+\GRAM int
+\SCI
+\USE
+\SPG quien
+\ENG who
+\EXU 1 7i-w@ 7@y+ 7ix-w@ bi yomaa7
+\XPSH 1 [7iwa 7ay 7ixx@ bi yoma*7?]
+\XSP 1 ?Quie*n vio* la mujer?
+\XEN 1 who saw the woman?
+\EXU 2 71-w@ 7@m+ juy.jay.w@ koke
+\XPSH_2 [7iw@ 7am juyjayy@ koke?]
+\XSP 2 ?Quie*n te compro* el pescado?
+\XEN 2 who bought you the fish?
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH/OK: TK
+\date 27/Jun/96
+\DATE 03/Jan/1980
+\lex 7ix
+\_no 00287
+\LG MIG
+\PSH
+\UND 7ix
+\MB
+\VAR
+\GRAM vt
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG ver
+\ENG to see
+\EXU 1 7@y+ 7ix-w@ ga.ja.anh
+\XPSH 1 [7@y 7ixx@ gaja*nh.]
+\XSP 1 Lo vio* por alla*.
+\XEN 1 She saw something over there.
+\EXU 2 7@y+ yak. 'ix-w@ 7@y+ 7anh.7it-pa+a7k
+\XPSH 2 [7@y yakkixx@y 7anhnitpa*7.]
+\XSP 2 Le ensen-o* lo que tiene.
+\XEN 2 He showed someone what he had.
+\EXU 3 d@ 7ix. 'oy-pa
+\XPSH 3 [D@ 7ixxoba.]
+\XSP 3 voy a ver.
+\XEN 3 I'm going to see.
+\EXU 4 d@ 7ix. '@m-w@ pa 7@n+ juy-w@ 7@n+ tak
+\XPSH 4 [D@ 7ixx@mm@ pan juyyan tak.]
+Page 123

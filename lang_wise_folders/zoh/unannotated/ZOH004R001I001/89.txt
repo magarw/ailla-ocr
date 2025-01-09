@@ -1,0 +1,64 @@
+\LG MIG
+\PSH
+\UND 7apostol
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG apostol
+\ENG apostle
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex 7apox=tz@k
+\_no 00210
+\LG MIG
+\PSH [7apoxtz@k-]
+\UND 7apox=tz@k
+\MB apostar, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG apostar
+\ENG to bet
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM apostar
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex 7apu
+\_no 00211
+\LG MIG
+\PSH
+\UND 7apu
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG viejito, ti*o grande, abuelo
+\ENG old man, older uncle,
+\EXU 1 7apu+7am
+\XPSH 1 [7apu7am.]
+\XSP 1 Ya estą* viejo.
+\XEN 1 Now he's old.
+ZOH004R0011001.txt
+grandfather
+Page 89

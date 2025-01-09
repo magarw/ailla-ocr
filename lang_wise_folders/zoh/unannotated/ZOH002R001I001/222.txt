@@ -1,0 +1,40 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(ii) nøkpay jøxpøkxukkam bi tzame
+(iii)
+(8.6)
+(i)
+nək-pa ?əy+ həš.pək-šuk-wǝ+?am bi cam.E
+go-INC 3E+ BACK.get-3 PL-dINC+NOW DEF talk.NOM3
+'Now they go to get the agreement.'
+(ii)
+nøktammøn juy boleto
+nək-tam-wə
+?ǝn+ huy-E
+boleto
+go-1/2PL-COM 1E+ buy-dCOM ticket
+'We went to buy tickets.'
+V2 determines the valency of the whole construction. Affixes that affect
+argument structure will thus appear only on V2. Actually, the causative is the
+only valency-changing affix that could potentially apply to any of the
+auxiliaries, since they are generally intransitive in their independent forms².
+The causative usually affects only the semantic structure of V2, as shown in
+examples (8.6 i) – 'you go to cause it to be filled' - and (ii) - 'they went to cause
+him to see'. But a causative on V2 can apply to the whole auxiliary
+construction, as in (iii) – 'he caused him to come speak Zoque'.
+causative
+tey si nøkpam yaktaxxø
+tey si nək-pa ?əm+ yak.tax-wǝ
+now if go-INC 2E+ CAUS.be_filled-COM
+'Now if you go to fill it up."
+(ZOH001R023-142)
+causative
+pwes nøkkøy yakkixxuki
+pwes nǝk-wǝ ?əy+yak.?iš-šuk-E
+well go-COM 3E+ CAUS.see-3PL-dCOM
+(ZOH001 RO10-475)
+(ZOH001 R023-586)
+2
+muš- 'to know' is the only exception, but its meaning and argument structure are slightly
+different in the auxiliary form - 'to know how to V2' - so it wouldn't accept the antipassive or
+passive suffixes anyway.
+196

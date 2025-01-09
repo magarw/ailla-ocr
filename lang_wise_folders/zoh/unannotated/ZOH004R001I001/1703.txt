@@ -1,0 +1,64 @@
+\LG MIG
+\PSH [xit@tzi]
+\UND xi7-t@tz. E
+\MB cadera, secarse, NOM7
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG una persona seca
+\ENG a person with a skinny old butt
+\EXU
+\XSP
+\XEN
+\SYN xi'=muy. E
+\SEMF
+\ETYM
+\ETL
+\ROOT t@tz
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\lex xi'tz.i7
+\_no 03959
+\LG MIG
+\PSH [xitzi7]
+\UND xi7tz.E7
+\MB X, NOM7
+\VAR Xi7tz.E7 7asukra
+\GRAM S
+\SCI
+\USE
+\SPG can~a de azucar
+\ENG sugar cane
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK for %xi7tz; not found: TK
+\date 26/Jun/96
+\lex xi'tz.i' januki7
+\_no_03960
+\LG MIG
+\PSH [xitzi januki7]
+\UND xi7tz. E7 januki7
+\MB X, NOM7, aguate
+\VAR
+\GRAM sms
+\SCI
+\USE
+ZOH004R0011001.txt
+LF:xojo7k
+\SPG aguate de can*a
+\ENG sugar cane prickle
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+Page 1703

@@ -1,0 +1,43 @@
+6.4. Word order
+Word order in MIG Zoque is free, provided that subjects precede objects
+in cases where some ambiguity might obtain. A further discussion of
+preferences in word order in narrative texts appears in chapter 14. The
+following set of (elicitado) data illustrates the freeness of word order. My
+consultants agreed that the following sentences all mean exactly the same
+thing. Complete paradigms exhibiting word order for 1, 2, 3, and 4 argument
+verbs (including causative and applicative constructions) are given in Appendix
+F.
+(6.33)
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+(vi)
+bi nu' 'øy waxxø bi mixtu'
+bi nu? ?əy+ was-wə
+bi mištu?
+DEF perro 3E+ morder-COM DEF gato
+'El perro mordió el gato.'
+bi mixtu? ?ǝy waxxə bi nu?
+bi nu? bi mixtu? ?əy waxxə
+bi mixtu? bi nu? ?əy waxxƏ
+?ǝy waxxǝ bi nu? bi mixtu?
+?ǝy waxxǝ bi mixtu? bi nu?
+144
+SVO Agente
+SVO Agente
+SOV Agente
+SOV Agente
+VSO Agente
+VSO Agente
+=
+=
+=
+=
+perro
+gato
+perro
+gato
+perro
+gato

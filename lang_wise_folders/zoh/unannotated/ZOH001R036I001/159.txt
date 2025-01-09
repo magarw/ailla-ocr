@@ -1,0 +1,82 @@
+\zoq Parake gag@ 7anhnitpa*7k 7azma 7@y j@xp@kpay n@kk@ ga bola de xit.
+\fts Para que el que tiene asthma lo va sacando esa bola de moco.
+\fte so that the one who has asthma goes getting rid of that wad of spit.
+\com
+\idx
+\ref ZOH001R036 743
+\_no 00731
+\tx pitz@mpa bi n@kk@
+\mb pitz@m-pa bi
+n@k -w@
+gag@ bola de xit
+ka -g@ bola de xit
+DCT3-DEM bola de moco
+\sgl salir -INC DEF irse-dINC
+\egl leave -INC DEF go -dINC DCT3-DEM wad of phlegm
+\zoq Pitz@mpa bi n@kk@ gag@ bola de xit.
+\fts Ya va saliendo esa bola de moco.
+\fte That wad of phlegm now starts going away.
+\com
+\idx
+\ref ZOH001R036 745
+\_no 00732
+\tx pitz@mpa*m
+\mb pitz@m-pa -7am
+\sgl salir -INC-YA
+\egl leave -INC-NOW DOWN -spit
+ZOH001R0361001.txt
+7oktzujj@ba*m
+7ok -tzuj
+\ref ZOH001R036 747
+\_no 00734
+\zoq Pitz@mpa*m 7oktzujj@ba*m peru puro pitz.
+\fts Ya va saliendo lo lo escupes pero puro eso.
+\fte Now it's going, now you spit it out, but just like this.
+\com
+\idx
+\zoq 7axta berdem 7ammaba*m.
+\fts Hasta verde lo ves.
+\tx 7es ke
+\mb 7es ke
+\ref ZOH001R036 746
+\_no 00733
+\tx 7axta berde m
+\mb
+7axta berde 7@m
+\sg1 hasta verde 2E
+\egl until green 2E look -INC-NOW
+ABAJO-escupir-SUF-INC-YA
+peru puro pitz
+-7@y-pa -7am peru puro pitz
+\fte Now you'll see it's quite green.
+\com
+\idx
+k@nhnham
+k@nh
+\ref ZOH001R036 748
+\_no 00735
+pero puro por eso
+-SUF-INC-NOW but only because_of
+\tx 7i ga
+\mb 7i ka -7
+7ammaba*m
+7amma-pa -7am
+mirar-INC-YA
+ga
+-w@ -7am ka -7
+\sgl ser que
+madurarse-COM-YA DCT3-NOM1 ahora
+\egl be that mature -COM-NOW DCT3-NOM1 now
+7ora
+7ora
+\zoq 7es ke k@nhnham ga 7ora.
+\fts Hasta que ya esta* maduro (el moco).
+\fte It's because that stuff has gotten ripe now.
+\com
+\idx
+n@mm@ y
+bi
+bi n@mm@ 7@y molestar-tz@k -7oy -w@
+molestz@kkoyy@*7
+Page 159
+-V7k

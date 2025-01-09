@@ -1,0 +1,86 @@
+\tx y@d@
+\mb ya
+de 7akwerdu
+-d@ de 7akwerdu
+\sg1 DCT1-DEM de acuerdo
+\eg1 DCT1-DEM of agreement
+\zoq Pe sim t@pa, tz@ktam@ y@d@, 7esde, tz@ktam y@d@ de 7akwerdu,"
+\fts Pero si quieres, vamos a hacer este acuerdo,
+\fte But if you want, let's make this, um, let's make this agreement,"
+\ref ZOH001R026 107
+\_no 00094
+\tx n@mm@
+bi metzanh manhkuyp@7k
+\mb n@m -w@ bi metza*nh manh -kuy7
+pisar-INSTR1-REL 2
+-p@7k
+\sg1 decir-COM DEF dos
+\egl say -COM DEF two
+step -INSTR1-REL2
+\zoq n@mm@ bi metzanh manhkuyp@7k.
+\fts dijo el dos pie.
+\fte the two-legged one said.
+\ref ZOH001R026 108
+\_no 00095
+ZOH001R0261001.txt
+ded@
+de 7akwerdu n@mm@
+bi
+metzanh
+\tx t@kk@xukk@
+\mb t@k -7@y -xuk-w@ te -da de 7akwerdu n@m -wa bi metza*nh
+\sg1 casa -VERS2-3PL-COM DCT2-DEM de acuerdo decir-COM DEF dos
+\egl house-VERS2-3PL-COM DCT2-DEM of agreement say -COM DEF two
+\tx manhkuyp@7k
+\mb manh -kuy7 -p@7k
+\sgl pisar-INSTR1-REL2
+\egl step -INSTR1-REL2
+\zoq "T@kk@xukk@ ded@ de 7akwerdu," n@mm@ bi metzanh manhkuyp@7k.
+\fts "Entraron en este acuerdo," dijo el dos pie.
+"I
+\fte "They entered into this agreement, said the two-legged one.
+\ref ZOH001R026 109
+\_no 00096
+\tx ti
+\mb ti ya tunh
+\sg] que
+diez
+\eg1 what NEG road -VERS1-1/2PL-nINC ten
+\sg1 diez
+\egl ten
+ya tunhnhadam@
+\tx makkanh d@x
+\mb makkanh d@x
+1Prn
+1Prn
+-7a - tam -A
+NEG camino-VERS1-1/2PL-nINC
+makkanh
+makkanh
+\ref ZOH001R026 111
+\_no 00097
+\tx n@mm@ n
+\mb n@mm@ 7@n may
+maytamm@
+- tam -wa makkanh
+\sg1 PROG 1E contar-1/2PL-dINC diez
+\eg1 PROG 1E count -1/2PL-dINC ten
+kaxna*nh
+kax
+dar_pasos-MED
+step
+\zoq Ti ya tunhnhadam@ makkanh kaxna*nh mix 7i makkanh d@x?
+\fts Porque no caminamos diez pasos tu y diez yo?
+\fte why don't we walk ten paces you and ten me?
+makkanh kaxna*nh
+kax
+step
+Page 20
+mix 7i
+-naanh mix 7i
+2prn y
+2Prn and
+dar_pasos-MED
+-MEAS
+-naanh
+-MEAS

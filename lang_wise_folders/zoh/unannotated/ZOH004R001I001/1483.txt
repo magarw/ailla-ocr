@@ -1,0 +1,63 @@
+\_no 03446
+\LG MIG
+\PSH [tzuntzun7]
+\UND tzun7.tzun7
+\MB
+\VAR
+\GRAM SR
+\SCI
+\USE
+\SPG camalote
+\EXU tzun'.tzun' mu7k
+\XPSH [tzunhtzun mu7k]
+\XSP zacate de camalote
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex tzupx.tzupx=w@j
+\_no 03447
+\LG MIG
+\PSH [tzupxtzupxw@j-]
+\UND tzupx.tzupx=w@j
+\MB X, X, tener_olor
+\VAR
+\GRAM VİR
+\SCI
+\USE
+\SPG tener un olor malo
+\ENG to have a bad smell
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT waj
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 20/Oct/94
+\lex tzu7t
+\_no 03448
+LG MIG
+\PSH
+\UND tzu7t
+\MB
+\VAR
+ZOH004R0011001.txt
+\GRAM vt
+\SCI
+\USE
+\SPG cortar (cafe*) sin pico
+\ENG to pick coffee by hand (without a knife)
+\SPL tzu7t.7oy
+\SLGR ANTIP
+\SLGL cortar cafe* sin pico // to pick coffee by hand
+Page 1483

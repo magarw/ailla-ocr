@@ -1,0 +1,62 @@
+\lex xex.i7
+\_no 03925
+\LG MIG
+\PSH [xexi7]
+\UND xex. E7
+\MB mudar_piel, NOM7
+\VAR
+\GRAM SV
+\SPG mudado; que tiene escama uno
+\ENG peeling; having scaly skin
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT xex
+\RTGR 12
+\DSRC HAJ95
+\CMTS fixed: TK
+\date 26/Jun/96
+\lex xe't.e7
+\_no 03926
+\LG MIG
+\PSH [xete]
+\UND xe7t.E7
+\MB frei*r, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG frito
+\ENG fried
+\EXU wakax=xe't.e7 (a:sq BA-ed)
+\XPSH [wakaxxete7]
+\XSP frito de res
+\XEN fried beef
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xe7t
+\RTGR T1
+\DSRC HAJ94
+\CMTS CK-PH HAJ:96 ok/OK: TK't get 'xete7k wakax'
+\date 26/Jun/96
+\lex xi7
+\_no 03927
+\LG MIG
+\PSH
+\UND x17
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG culo
+\ENG ass
+\EXU
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+Page 1689

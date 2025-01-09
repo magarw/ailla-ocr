@@ -1,0 +1,81 @@
+134
+wilach ewi t'a kapiltu'
+Ø-w-il-ach
+ewi t'a kapiltu'
+pas-1A-ver-2B ayer prep mercado
+achwil ewi t'a kapiltu’
+Ø-ach-w-il
+ewi t'a kapiltu'
+pas-2B-1A-ver ayer prep mercado
+ixachwil ewi t'a kapiltu'
+ix-ach-w-il
+ewi t'a kapiltu'
+pas-2B-1A-ver ayer prep mercado
+Te vi una vez.
+wilnakach junel
+w-il-nak-ach
+junel
+1A-ver-p.rem-2B una_vez
+Lo vi ayer en el mercado.
+wil ewi t'a merkado
+Ø-w-il-ø
+ewi t'a merkado
+pas-1A-ver-3B ayer prep mercado
+wilnak t'a merkado
+w-il-nak-ø
+t'a merkado
+1A-ver-p.rem-3B prep mercado
+Los vi ayer en el mercado.
+wilex ewi t'a merkado
+Ø-w-il-ex
+ewi t'a merkado
+pas-1A-ver-2B ayer prep mercado
+Lo viste ayer en el mercado.
+il ewi t'a merkado
+Ø-ø-il-ø
+ewi t'a merkado
+pas-2A-ver-3B ayer prep mercado
+Nos viste ayer en el mercado.
+ilonh ewi t'a merkado
+ø-Ø-il-onh
+ewi t'a merkado
+pas-2A-ver-1B ayer prep mercado
+Me vio ayer en el mercado.
+yilin winh ewi t'a merkado
+Ø-y-il-in
+pas-3A-ver-1B él
+winh ewi t'a merkado
+ayer prep mercado
+205. Ayer no te vi en el mercado.
+a ewi maj achwil laj t'a chonhb'al
+ewi ma-j
+a
+ach-w-il laj t'a chonhb'al
+top ayer neg-pas 2B-1A-ver neg prep mercado
+ewi maj achwil laj t'a merkado
+ewi ma-j
+ach-w-il laj t'a merkado
+ayer neg-pas 2B-1A-ver neg prep mercado
+206. ¿Me viste ayer en el mercado?
+¿ixinil ewi t'a chonhb'al?
+ix-in-ø-il
+ewi t'a chonhb'al
+pas-1B-2A-ver ayer prep mercado
+¿ilin ewi t'a merkado?
+ewi t'a
+merkado
+ø-Ø-il-in
+pas-2A-ver-1B ayer prep mercado
+¿tom ilin ewi t'a merkado?
+tom ø-Ø-il-in
+ewi t'a merkado
+int pas-2A-ver-1B ayer prep mercado
+¿ilin am ewi t'a merkado?
+ø-Ø-il-in
+am ewi t'a merkado
+pas-2A-ver-1A dub ayer prep mercado
+Tal vez me viste ayer en el mercado
+ixinil am laj ewi t'a chonhb'al
+ix-in-ø-il am laj ewi t'a chonhb'al
+pas-1B-2A-ver dub neg ayer prep mercado
+135

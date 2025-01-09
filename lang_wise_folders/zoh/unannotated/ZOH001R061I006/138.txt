@@ -1,0 +1,63 @@
+\EXU 2 d@ wotz-pa
+\XPSH 2 [D@ wotzpa.]
+\XSP 2 Me estoy cortando.
+\XEN 2 I'm sawing myself.
+\EXU 3 7@n+ wotz-pa
+\XPSH 3 [7@n wotzpa.]
+\XSP 3 Lo voy a cortar con sierra.
+\XEN 3 I'm going to saw it.
+\SYN
+\SEMF cut
+\ASP process
+\ARG
+\NOM wotz.e7, wotz.kuy7, wotz.naanh
+\SUB
+\ETYM
+\ETL
+\ROOT wotz
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex wox
+\_no 00204
+\LG MIG
+\PSH
+\UND WOX
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar puntas; raspar
+\ENG to sharpen points; to scrape
+\SPL wox. 7oy
+\SLGR ANTIP
+\SLGL sacar puntas, raspar; to sharpen points, to scrape
+\SLGR NO PASS
+\EXU wox-punta. 7aH-w@
+\XPSH [woxpunta7aw@.]
+\XSP Saco* puntas.
+ZOH001R0611006.txt
+\XEN She sharpened the points.
+\SYN
+\SEMF cut
+\ASP process
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT WOX
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\CMTS won't accept the bare root today; today he will: TK
+\date 03/Jan/80
+\lex wox
+\_no 00205
+\LG MIG
+\PSH
+\UND WOX
+Page 138

@@ -1,0 +1,53 @@
+\id C:\SHOUT\MORPH.TXT
+\lex 7
+\_no 00001
+\SPG NOM1
+ENG NOM1
+\lex 7a
+\_no 00002
+\SPG a
+\ENG at ; to
+\lex 7a
+\_no 00003
+\SPG ah
+\ENG ah
+\lex 7a
+\_no 00004
+\SPG VERS1
+\ENG VERS1
+\lex 7aber
+\_no 00005
+\SPG aver
+\ENG let's see
+\lex 7abeses
+\_no 00006
+\SPG a veces
+\ENG sometimes
+\lex 7abis
+\_no 00007
+\SPG avisar
+\ENG advise
+\lex 7abisar
+\_no 00008
+\SPG avisar
+\ENG warn
+\lex 7abono
+\_no 00009
+\SPG abono
+\ENG fertilizer
+\lex 7adelante
+\_no 00010
+\SPG adelante
+\ENG forward
+\lex 7adema*s
+\_no 00011
+\SPG 7adema*s
+\ENG besides
+\lex 7adobe
+\_no 00012
+\SPG adobe
+\ENG adobe
+\lex 7adolfo
+ZOH001R0611013.txt
+28/Oct/04
+Page 1

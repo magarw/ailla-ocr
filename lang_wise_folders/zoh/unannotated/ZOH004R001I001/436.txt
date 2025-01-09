@@ -1,0 +1,63 @@
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH HAJ:96. final 7 is usually quite audible in texts; But in
+isolation he doesn't seem to like final [7]: TK
+\date 24/Jun/96
+\lex ja.i
+\_no 00994
+\LG MIG
+\PHO [j@i]
+\UND jay. E
+\MB 11orar, NOM7
+\VAR
+\GRAM pcp
+\SPG alguien que esta* llorando
+\ENG someone who is crying
+\EXU 7@n+ matonh-tam-pa tum ja.i
+\XPSH [7@n matonhtampa tum jai.]
+\XSP Escuchamos una llorada.
+\XEN we heard someone crying.
+\SYN
+\ROOT jay
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex jaja
+\_no 00995
+\LG MIG
+\PSH
+\UND jaja
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG mosca
+\ENG fly
+\EXU yak jaja
+\XSP mosca negra
+\XEN black fly
+\EXU kum(u) jaja
+\XSP mosca que deja quereza
+\SYN
+LF: bugs
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 18/Jun/96
+\lex ja7kx [1]
+\_no 00996
+\LG MIG
+\PSH
+\UND j@7kx
+\MB apurarse
+\VAR
+\GRAM vi
+ZOH004R0011001.txt
+\SCI
+\USE
+Page 436

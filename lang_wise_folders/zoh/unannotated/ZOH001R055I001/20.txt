@@ -1,0 +1,68 @@
+\sg1 bueno pues hay
+ZOH001R0551001.txt
+DCT1-LOC1 decir-INC DEF mujer
+\egl good well there is DCT1-LOC1 say -INC DEF woman
+\zoq "Bweno, pwes, tej y@ji," n@mpa bi yoma* 7.
+\fts "Bueno, pues, aqui esta*", dice la sen~ora.
+\fte "Good, well, here it is", says the lady.
+\com
+\idx
+\ref ZOH001R055 085
+\_no 00086
+\tx y@d@
+\mb ya
+kwartujo7 7@m tzakk@mpa
+ga7xe
+kwartu-jo7 7@m tzak -7@m -pa ka -7xe
+\sg1 DCT1-DEM cuarto-LOC2 2A dejar-PAS -INC DCT3-SIM
+\eg1 DCT1-DEM room -LOC2 2A leave-PASS-INC DCT3-SIM
+-d@
+\zoq "Y@d@ kwartujo7 7@m tzakk@mpa ga7xe."
+\fts "En este cuarto te vas a quedar entonces."
+\fte "In this room you will stay, then.
+\com
+\idx
+\ref ZOH001R055 086
+\_no 00087
+\tx bweno n@mpa
+\mb bweno n@m
+-pa
+\sg1 bueno decir-INC Germa*n
+\egl good say -INC Germa*n
+\zoq "Bweno," n@mpa Jerma*n.
+\fts "Bueno" dice Germa*n.
+J
+\fte "OK", says Germa*n.
+\com
+\idx
+\ref ZOH001R055 087
+\_no 00088
+\tx
+\mb tzak -7@m -w@
+\sg1 dejar-PAS -COM
+\egl leave-PASS-COM
+jerma*n
+jerma*n
+tzakk@mm@
+\zoq Tzakk@mm@.
+\fts se quedo*.
+\fte He stayed.
+\com
+\idx
+\ref ZOH001R055 088
+\_no 00089
+\tx de gaji
+sentz@kxukk@
+\mb de ka -ji7 senar-tz@k -xuk-w@
+g@7 tzuji
+g@7 tzu7 -ji7
+\sg1 de DCT3-Loc1 cenar-hacer-3PL-COM DCT3 noche-Loc1
+\egl of DCT3-LOC1 dine -do -3PL-COM DCT3 night-LOC1
+\zoq De gaji sentz@kxukk@ g@7 tzuji7.
+\fts De ahi* senaron en la nochecita.
+\fte Then they dined in the evening.
+\com
+\idx
+\ref ZOH001R055 089
+\_no 00090
+Page 20

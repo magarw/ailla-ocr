@@ -1,0 +1,62 @@
+\lex kuk.kap=tuk
+\_no 01522
+\LG MIG
+\PSH [kukkaptuk-]
+\UND kuk. kap=tuk
+\MB centro, traer_en_hombro, acabarse
+\VAR
+\GRAM dir+vi
+\SCI
+\USE
+\SPG 1 estar atravesado; poner atravesado
+\SPG 2 cruzar por la mitad; cruzar derecho
+\ENG 1 to be lost; to lose one's way
+\ENG 2 to cross in the middle; to go straight across
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 kap
+\RTGR 1 T3
+\ROOT 2 tuk
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex kuk+kina.anh
+\_no 01523
+\LG MIG
+\PSH [kukkina*nh]
+\UND kuk +kin@-7anh
+\MB centro, X, X
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG la mitad
+\ENG half
+\EXU kuk+kina.anh d@+ tzi'-w@
+ZOH004R0011001.txt
+\XPSH [Kukkina*nh d@ tziw@.]
+\XSP Me dio* por la mitad (de mi cuerpo).
+\XEN She gave me half.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex kuk=kinaanh
+\_no 01524
+\LG MIG
+\PSH [kukkina*nh]
+\UND kuk=kinaanh
+\MB
+\VAR
+\GRAM av
+Page 661

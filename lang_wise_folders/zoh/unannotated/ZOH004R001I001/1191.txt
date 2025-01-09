@@ -1,0 +1,63 @@
+\LG MIG
+\PSH
+\UND po*1bora
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG po*lvora
+\ENG gunpowder
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH HAJ:96, deleted final 7, they sound exactly the same/NO final
+/7/:TK
+\date 25/Jun/96
+\lex presumidu
+\_no 02768
+\LG MIG
+\PSH
+\UND presumidu
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG orgulloso
+\ENG proud
+\EXU jak presumidu
+\XSP
+\XEN
+\SYN jakke wit=tzun-pa
+\SEMF
+\ETYM presumido
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 20/Jun/95
+\lex puj tzunu7
+\_no 02769
+\LG MIG
+\PSH
+\UND puj tzunu7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG escroto
+\ENG scrotum
+\SPL
+\SLGR
+\EXU
+\XSP
+Page 1191

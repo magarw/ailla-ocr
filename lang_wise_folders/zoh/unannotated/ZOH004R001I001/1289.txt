@@ -1,0 +1,63 @@
+\USE
+\SPG tomar trago por trago
+\ENG to drink drink by drink
+\SPL yak.tik=7uk
+\SLGR CAUS
+\SLGL
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tik
+\RTGR 1 P (T3)
+\ROOT 2 7uk
+\RTGR 2 T1
+\DSRC HAJ94
+\CMTS
+\date 09/Feb/96
+\lex ti7kx
+\_no 02995
+\LG MIG
+\PSH
+\UND ti7kx
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG 1 pegar el ri*o al lado de algo, como un barco
+\SPG 2 olearse o tirarse cosa llena, como un vaso lleno de lapices, o
+una olla de agua
+\ENG 1 for the river to lap against something, like a boat
+\ENG 2 for things to wobble or rattle back and forth in a partly full
+container, like pencils in a glass or a jar of water
+\SPL yak.ti7kx
+\SLGR CAUS
+\SLGL
+\EXU ti7kx-pa (bi) n@7
+\XPSH [Ti7kxpa bi n@7.]
+\XSP Esta* oleando el agua.
+\XEN The water is making waves.
+\SYN
+\SEMF water, nature
+\ASP activity
+\ARG patient
+\NOM
+\SUB_ti7kx=7ok.poy=nuk
+\ETYM
+\ETL
+\ROOT ti7kx
+\RTGR 12
+\DSRC HAJ94
+\CMTS get deriv's
+\CMTS
+ZOH004R0011001.txt
+\CMTS tiene que ser /ti7kx-w@ n@7/, not just /ti7kx@/
+\date 03/Jan/80
+\lex ti7kx=7ok.poy=nuk
+\_no 02996
+\LG MIG
+Page 1289

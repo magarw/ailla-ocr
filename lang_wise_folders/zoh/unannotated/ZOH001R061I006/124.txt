@@ -1,0 +1,63 @@
+\ASP achievement
+\ARG
+\NOM ko.tzonh.kuy7, tzow.e7, tzonh.naanh
+\SUB 7anh.tzonh, ko.tzonh, tzonh-pu', ni.wat-tzonh, ni.xotz-tzonh,
+\SUB p@k=tzonh, tzonh-pu', t@nh-tzonh, tz@k=ko.tzonh, tz@m=tzonh,
+\SUB wej='anh.tzonh, win=pak=tzonh, win=pa7t=tzonh, xotz='anh.tzonh,
+\SUB xotz=tzonh, yox=ko.tzonh
+\ETYM
+\ETL
+\ROOT tzonh
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex tzo7t
+\_no 00183
+\LG MIG
+\PSH
+\UND tzo7t
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG arrancar (sin la rai*z)
+\ENG to pull up (without the root)
+\SPL tzo7t.7oy
+\SLGR ANTIP
+\SLGL arrancar // to pull up
+\SPL tzo7t.7@m
+\SLGR PASS
+\SLGL arrancarse // to be pulled up
+\SLGR NO ASSUM1
+\EXU 1 7@y+ j@x.tzo7t-w@
+\XPSH 1 [7@y jaxtzo7tt@.]
+ZOH001R0611006.txt
+\XSP 1 Lo arranco* sin la raiz.
+\XEN 1 She pulled it up without the root.
+\EXU 2 tzo7t. '@m-w@ bi we7k
+\XPSH 2 [Tzo7tt@mm@ bi we7k.]
+\XSP 2 Arrancaron el tule.
+\XEN 2 They (someone) pulled up the tule.
+\SYN
+\SEMF plant
+\ASP achievement
+\ARG
+\NOM jup=tzo't.e7
+\SUB j@x-tzo7t
+\ETYM
+\ETL
+\ROOT tzo7t
+\RTGR T3
+\DSRC TK94
+\CMTS get deriv's, CK-GR changed from vi -> vt, despegar -> arrancar
+\date 03/Jan/80
+\lex tzukx
+\_no 00184
+\LG MIG
+\PSH
+\UND tzukx
+\MB
+Page 124

@@ -1,0 +1,62 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT k@x
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 12/Nov/94
+\lex m@jm@ tzu'-ji-7
+\_no 02084
+\LG MIG
+\PSH [m@jma tzuji7]
+\UND majma tzu7-ji-7
+\MB mucho, noche, X, NOM1
+\VAR
+\GRAM av
+\SCI
+\USE
+\SPG muy de noche
+\ENG very late at night
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex m@jm@.7aH
+\_no 02085
+\LG MIG
+\PSH [m@jm@7a-]
+\UND m@jm@.7aH
+\MB mucho, VERS1
+\VAR
+\GRAM versl
+\SCI
+\USE
+\SPG hacerse bastante, ma*s abundante; aumentar
+\ENG to increase; to become more in quantity
+\SPL yak.m@jm@.7aH
+\SLGR CAUS
+\SLGL hacer bastante // to increase
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+ZOH004R0011001.txt
+\lex m@jm@-tz@k
+\_no 02086
+Page 899

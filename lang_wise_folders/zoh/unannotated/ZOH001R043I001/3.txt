@@ -1,0 +1,80 @@
+ZOH001R0431001.txt
+y tz@kk@mm@
+SELEIFT
+\tx peru ti minpa
+tum@7k partidu
+\mb peru ti min -pa
+7@y tz@k -7@m -w@ tum@-v7k partidu
+\sg1 pero que venir-INC 3E hacer-PAS -COM uno -REL partido
+\egl but what come -INC 3E do -PASS-COM one -REL party
+\zoq Peru ti minpay tz@kk@mm@ tum@7k partidu?
+\fts Pero que pasa con el otro partido?
+\fte But what came to happen to the other party?
+\com
+\idx
+\ref ZOH001R043 008
+\_no 00009
+\tx 7@y p@tt@pa
+\mb 7@y p@7 -t@7
+\sg1 3E poner-querer-INC tambien 3E
+\egl 3E put -want -INC also 3E
+\ref ZOH001R043 009
+\_no 00010
+\zoq 7@y p@tt@pa ne7 7@y juxtixa.
+\fts Quieren poner tambien sus presidente.
+\fte They want to place their mayor too.
+\com
+\idx
+ne7
+7@y juxtixa
+-ра ne7 7@y juxtixa
+\tx
+pero ga7
+\mb pero ka
+kwalisyo*n
+kwalisyo*n
+-7
+\sg1 pero DCT3-NOM1 qualicio*n
+\egl but DCT3-NOM1 ???
+\zoq Pero ga7 kwalisyo*n.
+\fts Pero esos son qualicio*n.
+\fte But they're ???
+\com
+\idx
+\ref ZOH001R043 010
+\_no 00011
+autoridad
+authority
+si
+7@y juxtix
+\tx 7entonses n@mxukpa
+p@xukpa
+d@kka
+\mb 7entonses n@m -xuk-pa si
+p@7 -xuk-pa 7@y juxtixa d@kkay
+\sg1 entonces decir-3PL-INC si* poner-3PL-INC 3E autoridad NPL
+\egl then
+say -3PL-INC yes put -3PL-INC 3E authority NPL
+\zoq 7entonses n@mxukpa si p@xukpa 7@y juxtixd@kkay.
+fts Entonces dicen que van a poner sus presidentes.
+\fte Then they say that yes they will place their officials.
+\com
+\idx
+\ref ZOH001R043 011
+\_no 00012
+\tx neywin ne7 7@n p@dampa,
+\mb neywin ne7 7@n p@7
+\sg1 IPrn tambien 1E
+\egl IPrn also
+n@mxukpa
+bi kwalisio*n d@kka
+- tam -pa n@m -xuk-pa bi kwalisio*n d@kkay
+poner-1/2PL-INC decir-3PL-INC DEF qualicio*n NPL
+1E put -1/2PL-INC say -3PL-INC DEF ???
+NPL
+\zoq "Neywin ne7 7@n p@dampa," n@mxukpa bi kwalisio*nd@kkay.
+\fts "Tambien nosotros vamos a ponerlo," dicen los de la qualicio*n.
+\fte "we'll put ours too, say the ones of the qualicion.
+\com
+\idx
+Page 3

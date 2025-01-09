@@ -1,0 +1,81 @@
+\fts Esta hora empieza el paludismo.
+\fte This hour malaria begins.
+\com
+\idx
+\ref ZOH001R036 598
+\_no 00587
+\tx minpa
+7axta y
+Žay
+7@y
+7axta 7@y 7ora Yay
+\mb min -pa
+\sg1 venir-INC 3E ABAJO-vaciar-dINC hasta 3E ahora 3E
+\egl come -INC 3E DOWN -empty -dINC until 3E now 3E
+\tx tann@7k
+\mb
+tan
+-w@ -v7k
+\sg1 completar (se)-COM-REL
+\egl finish
+-COM-REL
+\ref ZOH001R036 599
+\_no 00588
+\zoq Minpay 7okwakk@ 7axtay 7oray tann@7k.
+\fts viene a terminar hasta las doce del di*a.
+\fte It comes to finish by noon.
+\com
+\idx
+\tx
+\mb
+7@m nijipx@pa
+7@m ni jipx@
+\sgl 2E
+\egl 2E
+7@m waykapa
+-pa 7@m wayka7
+PSE-tener_calentura-INC 2E
+-INC 2E
+\ref ZOH001R036 600
+\_no 00589
+\tx 7@m nixuypa
+\mb
+7okwakk@
+7ok
+7ok -wak -wa
+PSE-have_fever
+\zoq 7@m nijipx@pa 7@m waykapa.
+\fts Te da calenturita y tienes frio.
+\fte You have a fever, you're cold.
+\com
+\idx
+m win
+7@m ni -xuy -ра
+7@m win
+\sgl 2E
+PSE-tapar-INC 2E REFL
+\egl 2E PSE-cover-INC 2E REFL
+ZOH001R0361001.txt
+\zoq 7@m nixuypam win.
+\fts Te tapas.
+\fte You cover yourself.
+\com
+\idx
+\ref ZOH001R036 601
+\_no 00590
+\tx ya p@t@7
+\mb
+ya p@7t -A
+\sg1 NEG pasar-nINC
+\eg1 NEG pass -nINC
+\zoq Ya p@t@7.
+\fts No pasa.
+\fte It doesn't pass.
+\com
+\idx
+\ref ZOH001R036 602
+tener_frio-INC
+be_cold
+-pa
+Page 128
+- INC

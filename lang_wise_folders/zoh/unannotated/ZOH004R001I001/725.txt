@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG hacerse o bajarse para abajo
+\ENG to grow downwards
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 21/Jun/95
+\lex k@.ket
+\_no 01678
+\LG MIG
+\PSH [k@ket-]
+\UND k@.ket
+\MB FUERA, tapar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 envolver (bebe*)
+\SPG 2 poner pan~al
+\ENG 1 to wrap up (a baby)
+\ENG 2 to put a diaper on a baby
+\EXU 7@y+ k@.ket-xuk-w@ 7une7
+\XPSH [7@y k@ketxukk@ 7une.]
+\XSP Pusieron pan~al al nin-o
+\XEN They put a diaper on the baby.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ket
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 07/Feb/96
+\lex k@.kex
+\_no 01679
+\LG MIG
+\PSH [k@kex-]
+\UND k@.kex
+\MB FUERA, ponerse_crespo
+\VAR
+\GRAM vi
+\SCI
+\USE
+\FLG
+ZOH004R0011001.txt
+\SPG estar medio crespo el pelo
+\ENG for hair to be somewhat curly
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN jo.kex
+Page 725

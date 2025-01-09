@@ -1,0 +1,56 @@
+(100) Xb'u'q=0
+trapo=B3s
+'Es trapo'
+(101) per chi-b'aj
+pero carne-INAL
+'pero lo hago en carne,'
+(102) nyaa' tii'=la
+tqal=ta,
+NEG que=MIR_ que=3sENF
+'no es otra cosa más,'
+(103) 0-chi-tzan
+0=q'uun-j,
+B3s-decir-pues B3s-decir-PAS
+'dijo,'
+(104) 0-chi-tzan t-e
+meeb'a
+B3s-decir-pues A3s-SR huérfano así
+'así dijo el huérfano,'
+(105) 0=0=ok
+n=0=b'ant
+INC=B3s=hacerse
+t-ma-'n.
+CPL.DEP=B3s=DIR A3s-decir-SD
+'lo dijo.'
+(106) ¿Aax-pa
+(107) maj xb'u'q=0_jluu'?
+INJ trapo=B3s esto
+'que esto es trapo?'
+(108) n=0=tza
+meeb'a,
+lo.mismo=INT A3s-entrar-ABST huérfano
+'¿Es cierto, huérfano,'
+(109) jaa-chaq
+t-ok-leen
+ky-chmo-'n
+INC=B3s-DIR A3p-juntar-SD viejo
+'y juntaron sus trapos'
+t=0=a',
+dónde DIST EXIST=B3s=DESP
+'por dónde estaban,'
+(110) chuu-chaq txaqoo-n=j=a
+(111) ¿Jak 0=b'ant t-u'n=a?
+(112) Jaa'k.
+se.puede
+'Sí.'
+w-u'n=a,
+meeb'a.
+apúrate=? encender-IMP=DIR=2s huérfano
+'apúrate, huérfano, cocínalo.'
+se.puede B3s-hacer A2s-SR:AGT=2s
+¿Lo puedes hacer?'
+Als-SR:AGT=1s
+kyja’w,
+tx'aqan ky-xb'uu'q
+A3p-trapo
+11

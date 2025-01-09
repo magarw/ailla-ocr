@@ -1,0 +1,26 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+2.2. Theoretical sketch
+My goal in this grammar is to present the facts of MIG Zoque with as little
+theoretical machinery as possible. The only theory that I found that applies well
+to this language without significant modification is the functionalist theory of
+Role and Reference Grammar (RRG). In this section, I will give a very brief
+sketch of this framework, touching only on those parts of it that are used in this
+description. The basis of this sketch is Van Valin and La Polla (1997). Other
+relevant works are Van Valin 1993b; Van Valin and Foley, 1980; and Foley and
+Van Valin 1984.
+Clauses are analysed into three layers: the nucleus, which contains only
+the predicate; the core, which contains the nucleus and the arguments lexically
+specified by the predicate; and the periphery, which contains all non-core
+arguments and adjunct expressions. Predicates are typically verbs, but they
+may also be adjectives or nouns, in languages like MIG Zoque that do not
+require a copular verb in predicating expressions such as 'Mary is an astronaut.'
+This division of the clause is illustrated in the following figure.
+Germán
+CORE
+told
+NUCLEUS
+a story
+PERIPHERY
+16
+in the patio.
+Figure 2.1. The layered structure of the clause

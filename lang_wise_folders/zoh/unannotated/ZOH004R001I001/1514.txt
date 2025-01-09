@@ -1,0 +1,62 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex waja' nax
+\_no 03519
+\LG MIG
+\PSH [wajaanax]
+\UND waja7 nax
+\MB duro, tierra
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG tierra dura
+\ENG sod for building houses
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex waja'.7aH
+\_no 03520
+\LG MIG
+\PSH [waja7a-]
+\UND waja'.7aH
+\MB duro, VERS1
+\VAR
+\GRAM versl
+\SCI
+\USE
+\SPG hacerse duro; endurecerse
+\ENG to become hard
+\SPL yak.waja7.7aH
+\SLGR CONVERS1
+\SLGL endurecer // to make hard
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex waja'=tz@k
+\_no 03521
+ZOH004R0011001.txt
+Page 1514

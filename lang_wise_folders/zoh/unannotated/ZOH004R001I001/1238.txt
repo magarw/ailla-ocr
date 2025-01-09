@@ -1,0 +1,64 @@
+\MB rezar, HACER
+\VAR rees=tz@k
+\GRAM vi
+\SCI
+\USE
+\SPG rezar
+\ENG to pray
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-PH
+\date 25/Jun/96
+\lex rres (a)=tz@k-pa+a7k
+\_no 02874
+\LG MIG
+\PSH [rresatz@kpa*7k
+\UND rresa=tz@k-pa +P@7k
+\MB rezar, HACER, INC, REL
+\VAR rrees=tz@k-pa*7p
+\GRAM agt1
+\SCI
+\USE
+\SPG rezador
+ENG one who prays
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex rrey wixi7
+\_no 02875
+\LG MIG
+\PSH
+\UND rrey wixi7
+\MB rey, zopilote
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG zope rey
+\ENG a type of buzzard
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+LF: jon
+ZOH004R0011001.txt
+Page 1238

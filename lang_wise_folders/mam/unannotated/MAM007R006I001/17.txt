@@ -1,0 +1,73 @@
+nimaal marimp,
+INC=B3s=entrar AUM marimba
+'Estaba tocando marimba,'
+(201) Nn=0=ook
+nimaal kyitaar
+INC=B3s=entrar AUM guitarra
+'estaba tocando guitarra el tío conejo.'
+(202) nn=0=ook
+(203) Kuu
+bien
+'Bueno, dijo el tío coyote,'
+(204) n=0=kyej
+teen
+INC=B3s-DIR estar
+'se quedó a tocar."
+kaana-1
+(205) Qiina
+(206) qiina
+t-i'j
+kasamyeent
+PRON: 1s encontrar-INF B3s-SR:meta casamiento
+'Yo me voy a alcanzar el casamiento,'
+kaana-1.
+encontrar-INF
+PRON: 1s
+'me voy a alcanzar."
+(207) a, a, a
+0-chi-tzan
+tiiya koyoot,
+B3s-decir-pues tío coyote
+(208) a
+(209) a kix
+0=chi-tzan
+AFEC B3s-decir pues
+‘ay, ay, ay dijo así,'
+0=chi-tzan
+tiiya koneej,
+AFEC B3s-decir-pues tío conejo
+'ay, dijo el tío conejo,'
+taq'
+chiinb'a-1.
+tocar-INF
+ay así.como AFEC:sonando
+'ay, como que está sonando,'
+(211) aa=0=tzan
+(210) sprotata, sprotata, sprotata, sprotata
+AFEC:ruido.de.explosión
+'pa, pa, pa, pa está haciendo ruido.'
+(212) ma-'
+kyja'w
+así
+PROX-ENF
+'que vienen,'
+DEM=B3s-pues
+'Estos son los del casamiento'
+(213) 0-chi-tzan
+qa kasamyeente
+PL casamiento
+tiiya
+A3s-SR:AGT tío
+t-u'n
+ch=ee=tz,
+B3p=salir-DIR
+tiiya kyja'.
+B3s=decir pues tío así
+'dijo el tío así.'
+kix
+así.como
+taq'
+koneej.
+conejo
+AFEC:sonando
+18

@@ -1,0 +1,63 @@
+\ENG cracklins; fried pork skin
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp chicharro*n
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yo'
+\_no 04187
+\LG MIG
+\PSH [yo-]
+\UND YO7
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG caerse
+\ENG to fall
+\SPL yak.yo'
+\SLGR CAUS
+\SLGL dejar caer // to let fall
+\EXU 1 da yo'-pa
+\XPSH 1 [D@ yopa]
+\XSP 1 Me voy a caer.
+\XEN 1 I'm going to fall.
+\EXU 2 yo-wa bi t@m
+\XPSH 2 [Yow@ bi t@m.]
+\XSP 2 Se cayo* la fruta.
+\XEN 2 The fruit fell.
+\SYN
+\SEMF fall
+\ASP transition
+\ARG
+\NOM
+\SUB pox=nenh=yo'
+\ETYM
+\ETL
+\ROOT YO7
+\RTGR 12
+\DSRC HAJ94
+\CMTS caus
+\CMTS caus2 yak+ yo' dejar caer; tumbar
+\date 03/Jan/80
+\lex yo' tzun.neenh
+\_no 04188
+\LG MIG
+\PSH [yow@ tzunne*nh]
+\UND yo7 tzun.neenh
+\MB caerse, gotear, MED1
+\VAR
+\GRAM vi+subj
+\SCI
+ZOH004R0011001.txt
+\USE
+\SPG caer una gota
+\ENG for a drop to fall
+Page 1799

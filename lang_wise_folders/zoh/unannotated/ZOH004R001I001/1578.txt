@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG chiflarle
+ENG to whistle at or to someone
+\EXU 7@y+ wikx.jay-wa
+\XPSH [7@y wikxjayy@.]
+\XSP Le chiflo*.
+\XEN He whistled to her.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wikx
+\RTGR IX
+\DSRC TK94
+\CMTS get deriv's
+\date 28/Jan/96
+\lex wi7kx
+\_no 03671
+\LG MIG
+\PSH
+\UND wi7kx
+\MB
+\VAR
+\GRAM vi: med
+\SCI
+\USE
+\SPG falsearse; ensartarse pie; desconsartarse pie
+\ENG for the foot to come down wrong; for the foot to turn under you
+\SPL yak.wi7kx
+\SLGR CAUS
+\SLGL falsear
+\SLGR NO ASSUM1
+\EXU wi7kx-w@ 7@y+ manh.kuy7
+\XPSH [wi7kx@y_ manhkuy7.]
+\XSP Se falseo* su pie.
+\XEN She put her foot wrong.
+\SYN
+\SEMF move
+\ASP transition
+\ARG
+\NOM wi7kx.kuy7
+\SUB manh=wi7kx
+\ETYM
+\ETL
+\ROOT wi7kx
+\RTGR IX
+\DSRC HAJ94
+\CMTS se trata del pie
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex wi7kx.kuy7
+\_no 03672
+\LG MIG
+\PHO [wi7kxkuy7]
+ZOH004R0011001.txt
+\UND wi7kx.kuy7
+\MB desconsartarse, INSTR1
+\VAR
+\GRAM
+\SPG una cosa desconsartada
+\ENG a thing that is setting wrong, a foot or hand
+Page 1578

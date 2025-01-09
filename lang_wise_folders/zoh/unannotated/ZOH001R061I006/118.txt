@@ -1,0 +1,63 @@
+\CMTS
+\date 03/Jan/80
+\lex tze7k
+\_no 00174
+\LG MIG
+\PSH
+\UND tze7k
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pedir
+ENG to ask
+\SPL tze7k. 7oy
+\SLGR ANTIP
+\SLGL pedir // to ask
+SPL tze7k.7@m
+\SLGR PASS
+\SLGL "se pidio*" a una mujer; le fue* pedido la mano // to be spoken
+for (of a woman)
+\EXU 1 7@y+ tze7k.jay-w@ 7@y+ tzanh.kuy7
+\XPSH 1 [7@y tze7kjayy@y tzanhkuy7]
+\XSP 1 Le pidio* la mano.
+\XEN 1 He asked for her hand in marriage.
+\EXU 2 7@y+ tze7k-w@ tum juk.i
+\XPSH 2 [7@y tze7kk@ tum juki.]
+\XSP 2 Pidio* un cigarro.
+\XEN 2 She asked for a cigarette.
+\SYN
+\SEMF speak
+\ASP achievement
+\ARG
+\NOM tze'k.e7
+\SUB 7anh.tze7k.'@y, 7ok.tze7k, 7ok. tze7k.tzi',
+\ETYM
+\ETL
+\ROOT tze7k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex tzem (1)
+\_no 00175
+LG MIG
+ZOH001R0611006.txt
+\PSH
+\UND tzem
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG desafiar; provocar; atropellar para pelear; pegar
+\ENG to challenge; to provoke a fight; to hit
+\SLGR NO PASS
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF cognitive
+\ASP achievement
+Page 118

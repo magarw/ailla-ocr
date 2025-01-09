@@ -1,0 +1,81 @@
+\com
+\idx
+\ord Av V AV S V
+\ref ZOH001R053 024
+\_no 00025
+\tx d@ wayke7tpa
+\mb d@ way
+sena.
+-ke7t -pa
+sena
+sgl 1A moler-REPET-INC
+cena
+\egl 1A grind-REPET-INC dinner
+\zoq D@ wayke7tpa sena,
+\fts vuelvo a moler para la cena,
+\fte I go to grind corn again for dinner,
+\com
+\idx
+\ord v o
+νο
+\ref ZOH001R053 025
+\_no 00026
+para n
+\tx
+7ixpa ti 7@n yakk@xke7tpa.
+\mb para 7@n 7ix-pa ti 7@n yak -k@x
+\sg1 para 1E ver-INC que 1E
+\egl for 1E see-INC what 1E
+\ref ZOH001R053 026
+\_no 00027
+\zoq paran 7ixpa ti 7@n yakk@xke7tpa.
+\fts para que yo vea que es lo que lo voy a dar de comer.
+\fte so that I see what I'm going to give him to eat.
+\com
+\idx
+\ord v o
+\tx 7i 7ora
+\mb 7i 7ora Zay
+7@y tan
+\tx 7ixtukpa.
+\mb
+7ix-tuk
+pwes d@xx@n manak d@kka 7@n
+-w@ -v7k pwes d@x -7@n manak d@kkay 7@n
+\sg] y
+ahora 3E completar (se) -COM-REL pues 1Prn-1E hijo/a NPL
+\egl and now 3E finish
+-COM-REL well 1Prn-1E child NPL
+1E
+1E
+\sg1 ver-terminarse-INC
+\egl see-finish
+\idx
+\ord Av S V O
+ZOH001R0531001.txt
+tann@7k
+\ref ZOH001R053 027
+\_no 00028
+\tx
+\mb
+-ра
+minchukpa
+-ke7t -pa
+CAUS-comer-REPET-INC
+- INC
+CAUS-eat -REPET-INC
+\zoq 71 7oray tann@7k, pwes d@xx@n manakd@kka 7@n 7ixtukpa.
+fts Y de las doce, pwes yo mis hijos los espero.
+\fte And at noon, well I wait for my children.
+\com
+7eskwelajo*nh, 7anhmaykuyt@kjo*nh.
+min -xuk-pa 7eskwela-joonh 7anh -may
+-kuy7 -t@k -joonh
+\sg1 venir-3PL-INC escuela -DIR4 BOCA -contar-INSTR1-casa -DIR4
+\egl come -3PL-INC school -DIR4 MOUTH-count -INSTR1-house-DIR4
+\zoq Minchukpa 7eskwelajo*nh, 7anhmaykuyt@kjo*nh.
+\fts vienen de la escuela, de la escuela.
+\fte They come from school, from school.
+\com
+\idx
+Page 7

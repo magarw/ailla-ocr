@@ -1,0 +1,62 @@
+\DSRC TK94
+\CMTS
+\date 30/Jun/95
+\lex chik 7ukum tzujux+p@7
+\_no 00571
+\LG MIG
+\PSH [chik 7ukum tzujuxp@7]
+\UND chik 7ukum tzujux +p@7
+\MB chico, calabaza, verde, NOM5
+\VAR chik tzux 7ukum
+\GRAM asms
+\SCI
+\USE
+\SPG calabacita verde o tierna
+\ENG zucchini
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS THIS SEEMS BOGUS (TK) GSM likes it (HAJ)/so he does (TK)
+\date 24/Jun/96
+\lex chik 7une' kajanh
+\_no 00572
+\LG MIG
+\PSH [chik_7une kajanh]
+\UND chik 7une7 kajanh
+\MB chico, nin~o/a, jaguar
+\VAR
+\GRAM as (m) s
+\SCI
+\USE
+\SPG tigrito
+\ENG a little jaguar
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 09/Jan/96
+\lex chik 7uxu7
+\_no 00573
+\LG MIG
+\PSH
+\UND chik 7uxu7
+\MB
+\VAR
+\GRAM a (m)s
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG mosquito
+Page 246

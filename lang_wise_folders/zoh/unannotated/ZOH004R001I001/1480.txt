@@ -1,0 +1,63 @@
+\ETYM
+\ETL
+\ROOT tzun
+\RTGR 12
+\DSRC HAJ94
+\CMTS %tzun (1)
+\date 03/Jan/80
+\lex tzuni
+\_no 03439
+\LG MIG
+\PSH
+\UND tzuni
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG grillo
+\ENG a type of insect
+\EXU jojo tzuni
+\XSP grillo de palma
+\EXU t@k+jo+7k tzuni
+\XPSH [t@kjo7k tzuni]
+\XSP grillo de casa
+\SYN
+LF:bugs
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tzun.neenh
+\_no 03440
+\LG MIG
+\PSH [tzunne*nh]
+\UND tzun.neenh
+\MB gotear, MED1
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG gota
+\ENG drop
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzun
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex tzun.tzun.ney
+\_no 03441
+\LG MIG
+\PSH [tzuntzunney-]
+ZOH004R0011001.txt
+Page 1480

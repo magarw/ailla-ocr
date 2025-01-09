@@ -1,0 +1,76 @@
+\_no 00070
+\tx y@d@
+7ay ра
+kopak
+\mb ya -d@ 7ay7 para kopak
+\sg1 DCT1-DEM hoja para cabeza
+\eg1 DCT1-DEM leaf for head
+\com
+\idx
+\zoq Y@d@ 7ay pa kopak
+toe7.
+fts Esta hoja es para dolor de cabeza.
+\fte This leaf is for headache.
+\ref ZOH001R036 070
+\_no 00071
+\tx HAJ: ti n@ji
+\mb НАЈ
+ti n@ji
+nombre
+\sg] HAJ: que
+\egl HAJ: what name
+\zoq HAJ: Ti n@ji?
+\fts HAJ: Como se llama?
+\fte HAJ: what's it's name?
+\com
+\idx
+\ref ZOH001R036 071
+\_no 00072
+\tx OSM: xawa 7ay7
+\mb OSM xawa 7ay7
+\sg1 OSM: aire hoja
+\egl OSM: wind leaf
+\zoq OSM: Xawa 7ay7.
+\fts OSM: Hoja para aire.
+\fte OSM: wind leaf.
+\com
+\idx
+\ref ZOH001R036 072
+\_no 00073
+\tx
+ZOH001R0361001.txt
+toe7
+toy -E7
+doler-NOM3
+hurt -NOM3
+\ref ZOH001R036 073
+\_no 00074
+\tx ya
+y@
+xawa t@kk@ba
+ne7
+\mb xawa t@k -7@y -pa ne7
+\sgl aire casa -VERS2-INC tambien 3E
+\egl wind house-VERS2-INC also 3E
+7@y sentidu
+7@y sentidu
+sentido
+feeling
+\zoq Xawa t@kk@ba ne7 7@y sentidu.
+\fts Entra aire tambien el sentido.
+\fte The wind also enters the feelings.
+\com
+\idx
+bi m
+naka7tzpa
+\mb
+ya -7
+bi 7@m naka7tz -pa
+\sg1 DCT1-NOM1 DEF 2E aplastar-INC
+\eg1 DCT1-NOM1 DEF 2E flatten -INC
+\zoq ya bim naka7tzpa.
+\fts Este lo machucas. <esta* ensen~andolo>
+\fte You crush this. <he's demonstrating>
+\com
+\idx
+Page 16

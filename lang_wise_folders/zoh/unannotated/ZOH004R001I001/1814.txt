@@ -1,0 +1,63 @@
+\GRAM Vi
+\SCI
+\USE
+\SPG empezar a caer
+\ENG to begin to fall
+\EXU yuk. '@nh-w@ t@m
+\XPSH [Yukk@nhnh@ t@m.]
+\XSP Empezo* a caer frūta.
+\XEN The fruit began to fall.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7@nh
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 26/Jun/96
+\lex yuk.7@7p
+\_no 04223
+\LG MIG
+\PSH [yuk7@7p-]
+\UND yuk.7@7p
+\MB ARR, palanquear
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG levantar con espeque
+\ENG to pry up with a lever
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7@7p
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 26/Jun/96
+\lex yuk.7@7tz
+\_no 04224
+\LG MIG
+\PSH [yuk7@7tz-]
+\UND yuk.7@7tz
+\MB ARR, gomitar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar a gomitar
+\ENG to start to vomit
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+ZOH004R0011001.txt
+Page 1814

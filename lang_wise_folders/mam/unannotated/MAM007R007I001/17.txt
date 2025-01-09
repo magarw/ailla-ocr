@@ -1,0 +1,70 @@
+k=eel-al
+POT pues B3s=salir-POT
+'Lo vamos a matar ahora,'
+(194) Ok-tzan
+(195) 0-chi-tzan.
+B3s-decir pues
+'dijo.'
+(196) T-u'n=tzan
+txub'
+A3s-SR:para.que-pues 3s+DIR
+‘Para matar a la persona,'
+(197) n=0=tzaaj
+xu'j Pich
+INC=B3s-venir mujer Pich
+'la mujer le dijo a su esposo,'
+(198) mii'n=ajo txi'=ya, txi'=ya
+NEG=DEM ir=2s
+ir=2s
+'mira, vete, vete en la madrugada.'
+t-u'n
+(199) Ok 0-kb'-eel-a
+(200) 0-chi-tzan.
+B3s-decir-pues
+'dijo.'
+(201) Ok 0-kb'-eel-a,
+POT B2s=bajar-POT=2s
+'Te van a matar,'
+(202) 0-chi-tzan.
+t-wi'
+A3s-cabeza
+(204) Ok 0-kb'-eel-a,
+POT B2s=bajar-POT=2s
+'Te van a matar,'
+n-maan-a,
+POT B2s=bajar-POT=2s A3s-SR:AGT Als-papá=1s
+'Te va a matar por mi papá,'
+0=q'uun-j
+B3s-decir pues B3s-decir-PAS
+'dijo.'
+(203) Ma='
+(205) O'kx t-teen
+xjaal
+b'iyo-'n-ta
+matar-SD=3sENF persona
+t-e
+(206) txi'=ya.
+ir=2s
+'vete.'
+tz'=ok n-b'i-'n=a.
+PROX=ENF B1s DIR Als-oir-SD=1s
+'Yo lo supe.'
+atx
+atx
+q-u'n
+A2s-SR:AGT ahora
+jaʼla
+A3s-SR:DAT A3s-hombre-ABST
+todavía.hay
+t-chm-iil,
+q-witz_tz'=ee=x=a
+solo B3s-estar todavía.hay ?
+'solamente te queda salir mañana de madrugada,'
+q-witz tziky'a nchi'j.
+?
+?
+mañana
+B2s=salir=DIR=2s
+nchi'j
+mañana
+18

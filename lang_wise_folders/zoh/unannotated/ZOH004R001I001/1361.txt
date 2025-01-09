@@ -1,0 +1,64 @@
+\PSH [t@mtzi7oy-]
+\UND t@m=tzi7.7oy
+\MB
+\VAR
+\GRAM antip:incorp
+\SCI
+\USE
+\SPG dar fruta
+\ENG to give fruit
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzi7
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex t@m. '@y
+\_no 03165
+\LG MIG
+\PSH [t@mm@y-]
+\UND t@m.7@y
+\MB fruta, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG tener fruta
+\ENG to have fruit
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex t@n
+\_no 03166
+\LG MIG
+\PSH
+\UND t@n
+\MB
+\VAR
+\GRAM vi
+\SCI
+ZOH004R0011001.txt
+\USE
+\SPG echar goma; caer cera por gotas
+\ENG to yield pitch; to drip wax
+\EXU 1 t@n-w@ bi
+kandela
+\XPSH 1 [T@nn@ bi kandela.]
+\XSP 1 Cayo* por gotas la cera de la vela.
+Page 1361

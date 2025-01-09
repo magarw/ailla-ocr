@@ -1,0 +1,64 @@
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+CK-PH of VAR: should be /sanhjwanh/: fixed:TK
+\date 24/Jun/96
+\lex bwelta=tz@k
+\_no 00564
+\LG MIG
+\PSH [bweltatz@k-]
+\UND bwelta=tz@k
+\MB vuelta, HACER
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG dar vuelta (buey)
+\ENG to make a turn (oxen)
+\EXU
+\XSP
+\XEN
+\SYN ten-witu7
+\SEMF
+\ETYM
+\ETL Sp
+LF: kuy
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 08/Jan/96
+\lex bweltu=tz@k
+\_no 00565
+\LG MIG
+\PSH [bweltutz@k-]
+\UND bweltu=tz@k
+\MB vuelto, HACER
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG hacer dinero
+\ENG to make money
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM vuelto
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS cf. yox- 'trabajar'
+\date 13/Jun/95
+\lex byoleta
+\_no 00566
+\LG MIG
+\PSH
+\UND byoleta
+ZOH004R0011001.txt
+Page 243

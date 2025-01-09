@@ -1,0 +1,67 @@
+(88) txi
+A3s+DIR
+'cuándo los vió'
+(89) entoons
+t-ki-'n,
+A3s-mirar-SD
+O
+entonces CPL
+'entonces estuvo contento por eso."
+(90) Despwees yaa n-chi-ch'iiy-tzan
+después
+ya
+'Después ya crecieron sus animales,'
+(91) n-chi-ch'iiy-tzan,
+(93)_n=0=b'aj
+INC=B3p=crecer-pues
+'y crecieron,'
+(92) n-chi-chm-eet-tzan
+0=tzaalaj
+t-laaj.
+B3s-estar.contento A3s-SR:por A3s-razón
+INC=B3p-juntar-PAS-pues
+'y abundaron sus animales,'
+t-b'iincha-n
+INC=B3s-DIR A3s-hacer-SD
+'y arregló un corral,'
+(94) aa=0=tzan
+t-koraal
+DEM=B3s-pues A3s-corral
+'es el corral de los venados,'
+t-aa’lan
+INC=B3p=crecer-pues A3s-animal
+(95) entoons n=0=b'aj-tzan
+entonces INC=B3s-DIR=pues
+'entonces lo arregló,'
+(97) Pwes at=0
+(98) ja'ka chi=b'ant,
+(99) ky-q'a-n-tz
+t-aa’lan
+ja'l,
+A3s-animal ahora
+t-u'n
+se.puede B3p-hacerse
+'se puede hacer,'
+(96) entoons yaa n=0=tza
+yoqpaj ky-i'
+meb'a-yi-l
+entonces ya INC=B3s=DIR sugerir A3p-SR:DAT huérfano-V-AGT
+t-ee,
+A3s-SR:PAC
+'entonces el huérfano expresó a los padrastros,'
+chi=b'aj
+pues EXIST=B3s carne-INAL
+'Pues, hay carne conmigo,'
+jun koraal,
+uno corral
+masaat,
+venado
+n=b'iincha-n,
+INC-hacer-SD
+A2p-dar-IMP=DIR A2p-trapo=2p
+'denme sus trapos."
+w-uuk'al-a,
+Als-SR:COM=1s
+ky-xb'uu'q=a tzaluu'.
+aquí
+10

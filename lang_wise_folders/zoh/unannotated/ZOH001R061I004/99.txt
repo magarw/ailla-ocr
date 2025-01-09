@@ -1,0 +1,64 @@
+\XEN
+\SYN
+\SEMF
+\ETYM pelota
+\ETL Sp
+\ROOT m@tz
+*
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex pen.e
+\_no 00245
+\LG MIG
+\PSH [pene]
+\UND pen. E
+\MB plantar, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG sembrado; transplantado
+\ENG planted; transplanted
+\EXU ya w@t-wa bi 7okox pen. E
+\XPSH [Ya w@tt@ bi 7okox pene*7.]
+\XSP No crecio* la mata transplantada
+\XEN The transplanted shrub didn't grow.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pen
+\RTGR T1
+\DSRC HAJ94
+\CMTS CK-PH ok/OK: TK
+\CMTS
+\date 25/Jun/96
+\lex pen=m@tz.i
+\_no 00246
+\LG MIG
+\PSH [penm@tzi]
+\UND pen-m@tz. E
+\MB plantar, X, NOM7
+\VAR pen=m@tz.i7k
+\GRAM pcp
+\SPG transplantado
+\ENG transplanted
+\EXU 1 ya
+pen=m@tz. E7+17k 7okox
+\XPSH 1 [y@ penm@tzi7k 7okox]
+\XSP 1 este mata transplantada
+\XEN 1 this transplanted shrub
+\EXU 2 y@7 7okox pen-m@tz.E7
+\XPSH 2 [y@ 7okox penm@tzi*7]
+\XSP 2 este mata transplantada
+\XEN 2 this transplanted shrub
+\SYN
+ZOH001R0611004.txt
+\ROOT pen
+\RTGR T3
+\DSRC HAJ95
+\CMTS I changed PH: TK
+\date 25/Jun/96
+\lex pe't.e7
+Page 99

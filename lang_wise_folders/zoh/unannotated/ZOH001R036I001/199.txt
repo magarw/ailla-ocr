@@ -1,0 +1,72 @@
+\idx
+\ref ZOH001R036 936
+\_no 00919
+\tx waka
+waku n@7
+\mb waka waku n@7
+\sgl guaco guaco agua
+\egl guaco guaco water
+\zoq waka waku n@7.
+\fts Agua de guaco.
+\fte Guaco water of guaco.
+\com
+\idx
+-
+-
+\ref ZOH001R036 937
+\_no 00920
+\tx
+GSM: waku n@7
+\mb GSM waku n@7
+\sg1 GSM: guaco agua
+\eg1 GSM: guaco water
+\zoq GSM: Waku n@7,
+\fts GSM: Agua de guaco,
+\fte GSM: water of guaco,
+\com
+\idx
+\ref ZOH001R036 938
+\_no 00921
+\tx kon kajwe Zespirina
+\mb kon kajwe
+Zespirina
+aspirina
+aspirin
+\sg1 con cafe
+\egl with coffee
+\zoq kon kajwe 7espirina.
+\fts con cafe* espirina.
+\fte with coffee aspirin.
+\com
+\idx
+\ref ZOH001R036 939
+\_no 00922
+\tx 7i por 7ejemplo kwando tejiam
+\mb 7i por 7ejemplo kwando teji
+xepe
+ya yoa7
+-7am xepe7 ya
+yo7
+\sg] y por ejemplo cuando hay
+-A
+-YA mes NEG caerse-nINC
+\egl and for example when there_is-NOW month NEG fall -nINC
+\zoq 7i por 7ejemplo kwando tejiam xepe ya yoa7?
+\fts Y por ejemplo cuando ya tiene meses no lo alborta?
+\fte And for example when now it's months and it doesn't fall?
+\com
+\idx
+\ref ZOH001R036 940
+\_no 00923
+OSM: 7esde yopa
+\tx
+\mb OSM
+\sg1 OSM: esde
+\egl OSM: um
+7esde yo7 -ра
+ZOH001R0361001.txt
+caerse-INC
+fall - INC
+\zoq OSM: 7esde, yopa.
+\fts OSM: Cae.
+Page 199

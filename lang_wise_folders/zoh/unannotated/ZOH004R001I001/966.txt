@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [ni7om-]
+\UND ni.7om
+\MB PURP, echar_humo
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG vaporizar
+\ENG to steam
+\SPL
+\SLGR
+\EXU ni.7om-w@ kotz@k
+\XPSH [Ni7omm@ kotz@k.]
+\XSP Vaporizo* el cerro.
+\XEN The hills were steaming. (after rain in the summer)
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 70m
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 26/Jan/96
+\lex ni.7otonh. '@y
+\_no 02243
+\LG MIG
+\PSH [ni7otonhnh@y-]
+\UND ni.7otonh.7@y
+\MB PURP, escuchar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG encargar
+\ENG to put in charge
+\SPL
+\SLGR
+\EXU 7@y+ ni.7otonh. '@y-w@ pa 7@y+_tzak-w@
+\XPSH [7@y ni7otonhnh@ pay tzakk@.]
+\XSP Lo dejo* encargado para que lo dejo*.
+\XEN She put someone in charge of leaving it.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 7otonh
+\RTGR 1 11
+\ROOT 2 tzak
+\RTGR 2 T3
+ZOH004R0011001.txt
+\DSRC HAJ95
+\CMTS
+\date 19/Jun/96
+\lex ni.707tz=wak
+\_no 02244
+\LG MIG
+\PSH [ni707tzwak-]
+\UND ni.707tz=wak
+\MB PURP, doblar, *vaciar
+\VAR
+Page 966

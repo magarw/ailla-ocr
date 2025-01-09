@@ -1,0 +1,40 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+When a discourse entity is first mentioned in an intransitive clause, it is
+most likely to appear after the verb. This is true regardless of whether or not
+the entity is human, inanimate, or an abstraction, such as a unit of time.
+(14.6)
+(i)
+(ii)
+(iii)
+(iv)
+minnø bi 'apupøn
+0 min-we
+bi ?apu?=pən
+3A come-COM DEF old-man
+'The old man came.'
+jayke'ttø 'otro xepe
+0 hay.ke?t-wǝə
+Potro šepe
+3A delay.REPET-COM another month
+'Another month went by.'
+toyjaypay kopak
+0 toy.hay-pa
+?ǝy+ kopak
+3A hurt.APPL-COM 3E+ head
+'His head hurts.'
+(ZOH001 R032-007)
+(ZOH001R032-011)
+359
+(ZOH001 R032-108)
+kwando ya gay minpam bi weltu
+kwando ya gay 0 min-pa+7am bi weltu
+when now then 3A come-INC+NOW DEF money
+'When now the money is coming'
+(ZOH001R032-047)
+A common pattern used when introducing a new discourse entity is to
+present a pair of clauses: in the first, the new information follows the verb; in
+the second, the clause is essentially repeated, but with the now known
+information preceding the verb (14.7 i-ii). This pattern is also used when the
+first clause is transitive, and the new entity is the object of the transitive verb.
+Examples iii-iv are Sra. Sánchez's answer to the question "How many children
+do you have?"

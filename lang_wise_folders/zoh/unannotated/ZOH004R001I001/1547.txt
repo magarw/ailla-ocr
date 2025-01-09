@@ -1,0 +1,62 @@
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex wayay7
+\_no 03598
+\LG MIG
+\PSH
+\UND wayay7
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG frio; mucho frio
+\ENG cold; great cold
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 21/Oct/94
+\lex wayay' nax
+\_no 03599
+\LG MIG
+\PSH [wayay nax]
+\UND wayay7 nax
+\MB frio, tierra
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG tierra fria
+ENG cold country
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH - HAJ:96 ok/OK: TK
+\date 26/Jun/96
+\lex wayay' n@7
+\_no 03600
+\LG MIG
+\PSH [wayay n@7]
+\UND wayay7 n@7]
+\MB fria, agua
+\VAR
+\GRAM sms
+\SCI
+ZOH004R0011001.txt
+Page 1547

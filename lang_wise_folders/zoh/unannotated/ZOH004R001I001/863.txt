@@ -1,0 +1,63 @@
+\ETL
+\ROOT 1 mo7k
+\RTGR 1 P, (TX)
+\ROOT 2 nak
+\RTGR 2 IX
+\DSRC TK94
+\CMTS
+\date 19/Jun/96
+\lex mo7kx
+\_no 02002
+LG MIG
+\PSH
+\UND mo7kx
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG agarrar huevos
+\ENG to grab someone's balls
+\EXU 1 7@y+ mo7kx-pa 7@y+ tzunu7
+\XPSH 1 [7@y mo7kxpay tzunu7.]
+\XSP 1 Agarro* sus testi*culos.
+\XEN 1 He grabs his ball-sack.
+\EXU 2 7@y+ mo7kx.jay-w@ 7@y+ tzunu7
+\XPSH 2 [7@y mo7kxjayy@ y tzunu7.]
+\XSP 2 Agarro* lost testi*culos de e*1.
+\XEN 2 He grabbed the other guy's ball-sack.
+\SYN
+\SEMF touch, body
+\ASP achievement
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT mo7kx
+\RTGR TX
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex mo7kxi7
+\_no 02003
+\LG MIG
+\PSH
+\UND mo7kxi7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG camaro*n
+\ENG shrimp
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT
+Page 863

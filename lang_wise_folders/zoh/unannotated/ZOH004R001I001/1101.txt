@@ -1,0 +1,63 @@
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG encontrar
+\ENG to find
+\SPL pa7t.7oy
+\SLGR ANTIP
+\SLGL conseguir; encontrar // to get; to find
+\SPL pa7t.7@m
+\SLGR PASS
+\SLGL encontrarse; acostumbrarse // to be found; to become accustomed
+to
+\EXU pa7t.7@m-w@ bi p@n maxan-t@k_num=tz@n-pa
+\XPSH [Pa7tt@mm@ bi p@n maxant@k, numtz@npa.]
+\XSP Se encontro* el hombre en la iglesia, se esta* escogiendo.
+\XEN The man was found in church, he was hiding.
+\SYN
+\SEMF cognitive
+\ASP achievement
+\ARG
+\NOM pa't.e7
+\SUB k@.pa7t
+\ETYM
+\ETL
+\ROOT pa7t
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex pa7t [2]
+\_no 02558
+\LG MIG
+\PSH
+\UND pa7t
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG hi*gado
+\ENG liver
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 05/Mar/96
+\lex patz [1]
+\_no 02559
+\LG MIG
+\PSH
+\UND patz
+\MB
+\VAR
+\GRAM vt
+Page 1101

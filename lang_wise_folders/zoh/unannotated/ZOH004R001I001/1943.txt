@@ -1,0 +1,63 @@
+\MB
+\VAR
+\GRAM F
+\SCI
+\USE
+\SPG
+\ENG
+\SPL xim.xim.ney (ViRF)
+\SLGR querer llorar
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex {+xtaa7}
+\_no 04525
+\LG MIG
+\PSH [xta*7]
+\UND xtaa7
+\MB NOMAS
+\VAR
+\GRAM av
+\SCI
+\USE post verbal or adverbial clitic
+\SPG no ma*s
+\ENG just; no more
+\EXU 1 7@y+ jup-w@+xtaa7
+\XPSH 1 [7@y jupp@xta*7.]
+\XSP 1 Lo jalo* no ma*s.
+\XEN 1 He just pulled it.
+\EXU 2 7@y+ jup.w@y-w@+xtaa7
+\XPSH 2 [7@y jupp@yy@xta*7.]
+\XSP 2 Lo dejo* puesto no ma*s.
+\XEN 2 she just left it pulled out.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-GR
+\date 12/Feb/96
+ZOH004R0011001.txt
+\lex {-xuk}
+\_no 04526
+\LG MIG
+\PSH
+\UND xuk
+\MB 3PL
+\VAR
+\USE plural marker for third person subjects or objects
+\GRAM suf
+\SPG
+\ENG
+\SPL
+\SLGR
+Page 1943

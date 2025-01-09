@@ -1,0 +1,63 @@
+ZOH004R0011001.txt
+\SPG enfadarse
+\ENG to get angry; to get tired of doing some work, and don't want to
+keep doing it
+\SPL yak.kix
+\SLGR CAUS
+\SLGL hacer a que se enfadara // to make someone get fed up
+\EXU da kix-pa por de.' yox.kuy?
+\XPSH [D@ kixpa por de yoxkuy7.]
+\XSP Me enfado de ese trabajo.
+\XEN I'm getting bored with this work.
+\SYN ko.kix
+\SEMF cognitive
+\ASP achievement
+\ARG
+\NOM
+\SUB ko.kix, yuk.kix
+\ETYM
+\ETL
+\ROOT kix
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex kix [2]
+\_no 01272
+LG MIG
+\PSH
+\UND kix
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG Mixe; Sanjuanera
+\ENG Mixe
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 11/Feb/96
+\lex kixawa
+\_no 01273
+\LG MIG
+\PSH
+\UND kixawa
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\DLG
+\SPG epazote
+\ENG epazote
+\EXU
+\XSP
+Page 555

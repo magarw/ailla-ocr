@@ -1,0 +1,81 @@
+Me caí en el cerro.
+ixinel k'ak'ab' ixinel witz
+ix-in-el
+k'ak'ab' ix-in-el witz
+pas-1B-salir barranco pas-1A-salir cerro
+Se fue la camioneta al cerro.
+ixel k’en kamioneta witz
+ix-ø-el
+k'en
+kamioneta witz
+pas-3B-salir Cmetal camioneta cerro
+461. Juan se sentó en la silla.
+202
+ixem k'ojan winhaj Xun t’a te’ xila’
+ix-ø-em k'oj-an
+winhaj Xun t'a te'
+xila'
+pas-3B-bajar sentarse-psc Cmasc Juan prep Cmadera silla
+462. Juan se sentó en el suelo.
+ixem k'ojan waj Xun sat lu'um
+ix-ø-em
+k'oj-an
+waj
+Xun sat lu'um
+pas-3B-bajar sentarse-psc Cmasc Juan cara tierra
+463. Juan se cayó del techo.
+winhaj Xun ixemta' ranhaj winh yib'an pat
+winhaj Xun ix-Ø-em-ta'
+ranh_naj winhy-ib'an pat
+Cmasc Juan pas-3B-bajar-adv resbalar Cmasc 3A-SR casa
+Juan se resbaló.
+ixk'e ranhajok
+ix-ø-k'e
+ranh_naj-ok
+pas-3B-subir resbalar-IRR
+ixel nhernajok
+ix-ø-el
+nher_naj-ok
+pas-3B-salir resbalar-IRR
+464. Juan se cayó sobre el techo.
+winhaj Xun ixem tanhaj winh yib’an pat
+winhaj Xun ix-Ø-em
+tanh_naj winh y-ib’an pat
+Cmasc Juan pas-3B-bajar resbalar Cmasc 3A-SR casa
+465. Juan viene de Huehuetenango.
+t'a chinapjul spetoj winhaj Xun
+t'a chinapjul
+s-pet-oj
+winhaj Xun
+prep Huehuetenango 3A-venir-inf Cmasc Juan
+winhaj Xun skot winh t'a chinapjul
+winhaj Xun tz-Ø-kot
+Cmasc Juan pres-3B-venir él prep Huehuetenango
+Juan viene del pueblo.
+winhaj Xun spetoj winh chonhab'
+winhaj Xun s-pet-oj
+Cmasc Juan 3A-venir-inf Cmasc pueblo
+skot waj Xun t'a chonhab'
+tz-ø-kot
+winh t'a chinapjul
+winh chonhab
+waj Xun t'a chonhab'
+pres-3B-venir Cmasc Juan prep pueblo
+¿De dónde vienes?
+¿aj til apejol?
+aj_til a-pet-oj
+dónde 2A-venir-inf
+Juan viene de la milpa.
+spetoj waj Xun iloj awal
+Xun il-oj awal
+s-pet-oj waj
+3A-venir-IRR Cmasc Juan ver-inf milpa
+tzinkot t'a chinapjul
+tz-in-kot
+Vengo de Huehuetenango.
+inpetoj chinapjul
+in-pet-oj chinapjul
+1A-venir-inf Huehuetenango
+t'a chinapjul
+pres-1B-venir prep Huehuetenango
+203

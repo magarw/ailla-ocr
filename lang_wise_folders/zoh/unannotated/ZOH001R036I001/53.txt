@@ -1,0 +1,74 @@
+\ref ZOH001R036 241
+\_no 00241
+\tx 7entonse gay
+\mb entonces ka -y
+kana n@7
+kana n@7
+\sg1 entonces DCT3-TMP sal agua
+\egl then
+DCT3-TMP salt water
+\zoq 7entonse gay kana n@7.
+\fts Entonces hay agua del sal.
+\fte Then now salt water.
+\com
+\idx
+\ref ZOH001R036 242
+\_no 00242
+\tx 7@m yumpa
+\mb
+7@m yum
+\sg1 2E
+\egl 2E boil
+\ref ZOH001R036 243
+\_no 00243
+\tx 7@m tzepa
+\mb 7@m tze7 -pa
+\sg1 2E lavar-INC
+\egl 2E wash -INC
+\zoq 7@m yumpa bi kana n@7.
+fts Hierves el agua del sal.
+\fte You boil salt water.
+\com
+\idx
+\zoq 7@m_tzepa
+\fts Lo lavas
+\fte You wash it
+\com
+\idx
+hervir(se)-INC DEF sal
+\ref ZOH001R036 244
+\_no 00244
+bi kana n@7
+bi kana n@7
+agua
+-INC DEF salt water
+-pa
+\com
+\idx
+\tx pa 7uy
+\mb para 7u
+-7@y
+\sg1 para NEGimpv-3E
+\egl for NEGimpv-3E swell
+\ref ZOH001R036 245
+\_no 00245
+xinhnh@
+xinh
+\zoq pa 7uy xinhnh@,
+\fts para que no se hinche,
+\fte so that it doesn't swell,
+hincharse-COM
+\tx 7adonde xinhnh@
+\mb 7adonde xinh
+\sgl adonde hincharse-COM
+\egl where swell
+-wa
+ZOH001R0361001.txt
+-COM
+\zoq 7adonde xinhnh@.
+\fts en donde esta* hinchado.
+\fte where it swelled.
+\com
+-wa
+-COM
+Page 53

@@ -1,0 +1,63 @@
+\lex pikxi7
+\_no 02625
+\LG MIG
+\PSH
+\UND pikxi7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG pa*jaro tinculito molesta en la milpa
+\ENG a type of bird that pesters you in the corn field
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 16/Oct/94
+\lex pikx.naanh
+\_no 02626
+\LG MIG
+\PHO [pikxna*nh]
+\UND pikx.naanh
+\MB tocar, MED1
+\VAR
+\GRAM meas
+\SPG tocar
+\ENG to knock
+\EXU
+\XSP
+\XEN
+\SYN
+LF: jon
+\ROOT pikx
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex pin
+\_no 02627
+\LG MIG
+\PSH
+\UND pin
+\MB
+\VAR
+\GRAM vt
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG tentar
+\ENG to touch lightly with the fingers
+\SPL pin. 7oy
+\SLGR ANTIP
+\SLGL tentar // to touch
+\SLGR NO PASS
+\EXU 7@n+ pin-w@ de jay@7
+\XPSH [7@n pinn@ de jay@7.]
+Page 1130

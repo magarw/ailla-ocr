@@ -1,0 +1,82 @@
+\fts El camote eso no quedo* nunca.
+\fte Yams, those never were left over.
+\not siempre vendio* todo
+\ref ZOH001R048 034
+\_no 00035
+\tx 7ahanh7.
+\zoq 7ahanh7.
+\fts Uhuh.
+\fte Uhuh.
+\ref ZOH001R048 035
+\_no 00036
+\tx 7este 7es lo ke
+\mb 7este 7es lo ke
+\sg1 este
+\egl um
+yo anduvo vendiendo antes.
+yo anduvo vendiendo antes
+ser lo que yo anduvo vendiendo antes
+be lo that I walked selling before.
+\zoq 7este 7es lo ke yo anduvo vendiendo antes.
+\fts Este es lo que yo anduvo vendiendo antes.
+\fte This is what I went around selling
+before.
+\ref ZOH001R048 036
+\_no 00037
+7anhp@n
+7anh -p@n
+-pa
+\tx ja, pero komo de7
+\mb ja7 pero komo te -7
+\sg1 si* pero como DCT2-NOM1 DCT2-LOC1 BOCA -hombre DEF-2E querer-INC
+\eg1 yes but like DCT2-NOM1 DCT2-LOC1 MOUTH-man
+DEF-2E
+want -INC
+ZOH001R0481001.txt
+\tx de7
+n@mm@ n ma7@yy@.
+n@mm@ 7@n ma7
+\mb te -7
+-7@y -w@
+\sg1 DCT2-NOM1 PROG 1E venta-VERS2-DINC
+\eg1 DCT2-NOM1 PROG 1E sale -VERS2-DINC
+\ref ZOH001R048 037
+\_no 00038
+\tx
+\mb
+\zoq j@7, pero komo de 7 deji7 7anhp@n bim t@pa, de7 n@mm@n_ma7@yy@.
+\fts Si*, pero como ahora quieres el zoque ese lo que estoy vendiendo.
+\fte Yes, but since now here you want zoque, that's what I was selling.
+\com
+\idx
+de bi dan ma7@yy@
+n witi.
+de
+-E
+bi
+de bi d@n ma7 -7@y -w@ 7@n wit
+\sg1 de DEF XE venta-VERS2-COM 1E andar-dCOM
+\egl of DEF XE sale -VERS2-COM 1E walk -dCOM
+deji
+te -ji7
+\ref ZOH001R048 038
+\_no 00039
+\tx
+para m
+\mb
+para 7@m mux
+-pa
+\sg1 para 2E saber-INC
+\egl for 2E know -INC
+\zoq De bi dan ma77@yy@n witi.
+\fts Ese es lo que anduve vendiendo.
+\fte That is what I went around selling.
+\com
+\idx
+muxpa.
+\zoq Param muxpa.
+\fts Para que sepas.
+bim
+t@pa
+bi -7@m t@7
+Page 8

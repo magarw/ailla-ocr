@@ -1,0 +1,63 @@
+\MB tortolita, 3Erg, buche
+\VAR
+\GRAM sps
+\SCI
+\USE
+\SPG buche de tortolita
+\ENG crop of a turtledove
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex kuk.wen.e7
+\_no 01535
+\LG MIG
+\PSH [kukwene7]
+\UND kuk.wen.E7
+\MB centro, partir, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG partido por la mitad (como un pan o tortilla)
+\ENG parted in the middle (like bread or a tortilla)
+\EXU kuk.wen.E' 7ane
+\XPSH [kukwene 7ane]
+\XSP una tortilla partida por la mitad
+\XEN a tortilla torn in half
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wen
+\RTGR TX
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex kum
+\_no 01536
+\LG MIG
+\PSH
+\UND kum
+\MB
+\VAR
+\GRAM vt, vi:med
+\SCI
+\USE
+\SPG enterrar(se)
+\ENG to bury, to be buried
+\EXU 1 7@y+ kum-w@
+\XPSH 1 [7@y kumm@.]
+ZOH004R0011001.txt
+\XSP 1 Lo enterro*
+\XEN 1 He buried it.
+\EXU 2 kum-w@
+\XPSH 2 [Kumm@.]
+Page 666

@@ -1,0 +1,64 @@
+\SCI
+\USE
+\SPG asar
+\ENG to roast
+\SPL jux. 7oy
+\SLGR ANTIP
+\SLGL_asar // to roast
+\SPL jux.7@m
+\SLGR PASS
+\SLGL asarse // to be roasted
+\SPL jux. ten
+\SLGR PRSV
+\SLGL tener asado // to have roasted
+\EXU 1 7ay'=jux-wa
+\XPSH 1 [7ay juxx@.]
+\XSP 1 Aso* hoja.
+\XEN 1 He roasted leaves.
+\EXU 2 patanux 7ay' 7@y+ jux-w@
+\XPSH 2 [Patanux 7ay 7@y juxx@.]
+\XSP 2 Aso* hoja de pla*tano para tamal.
+\XEN 2 He roasted banana leaves for tamales.
+\SYN
+\SEMF cook
+\ASP activity
+\ARG
+\NOM
+\SUB ko.jux
+\ETYM
+\ETL
+\ROOT jux
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+ZOH001R0611006.txt
+\lex jat@t
+\_no 00050
+\LG MIG
+\PSH
+\UND jat@t
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sobar a una persona
+\ENG to massage a person
+\SPL jat@t.7oy
+\SLGR ANTIP
+\SLGL sobar alguien // to massage someone
+\SPL j@t@t.7@m
+\SLGR PASS
+\SLGL ya esta* sobado // to be in a state of having been massaged
+\EXU 1 7aristea 7@y+ jat@t-wa ga yom@'=7une7
+\XPSH 1 [7aristea 7ay jat@tt@ ga yo:m7une.]
+\XSP 1 Aristea sobo* a la muchacha.
+\XEN 1 Aristea massaged the girl.
+\EXU 2 7aristea da jat@t-wa.
+\XPSH 2 [7aristea da jat@tta.]
+\XSP 2 Aristea me sobo*
+\XEN 2 Aristea massaged me.
+\SYN matz
+\SEMF body, touch
+Page 36

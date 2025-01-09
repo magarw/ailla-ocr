@@ -1,0 +1,74 @@
+\ref ZOH001R020 019
+\_no 00020
+\tx kwandu tum jama
+\mb kwandu tum jama
+\sg1 cuando uno dia
+\eg1 when
+\com
+\idx
+\zoq Kwandu tum jama n@mpa bi tuki
+\fts Cuando un di*a deci*a la tortuga
+\fte when one day the turtle says
+\not
+\idx
+\ref ZOH001R020 020
+\_no 00021
+\tx ke
+n@m yakn@mja7oyy@
+bi
+senyor
+\mb ke
+n@m yak-n@m -jay -7oy -wa bi senyor
+CAUS-decir-APPL-ANTIP-COM DEF sen~or
+\egl that DO CAUS-say -APPL-ANTIP-COM DEF mister
+\sg1 que DO
+n@mpa
+bi tuki
+n@m -ра bi tuki
+decir-INC DEF tortuga
+one day say -INC DEF turtle
+\zoq ke n@myakn@mja7oyy@ bi senyor.
+\fts que le estaba diciendo el
+sen~or.
+\fte that he was speaking to the gentleman.
+\not
+\idx aspect
+\ref ZOH001R020 021
+\_no 00022
+\tx 7i bi makpa7k
+p@n
+\mb 7i bi mak -pa -v7k p@n
+\sgl y
+DEF pescar-INC-REL hombre
+\egl and DEF fish -INC-REL man
+\com
+\idx
+\not
+\idx
+ZOH001R0201001.txt
+\zoq 7i bi makpa7k p@n j@x7ixx@.
+\fts Y el hombre pescador voltio* la cara para atra*s.
+\fte And the fisherman looked behind him.
+\ref ZOH001R020 022
+\_no 00023
+\tx n@nti
+yakti
+yakti
+nada
+\mb n@nti
+\sg1 no_hay
+\egl there isn't nothing
+\not
+\idx
+\zoq Nanti yakti.
+\fts No habi*a nada.
+\fte There was nothing.
+\com
+\idx
+\ref ZOH001R020 023
+\_no 00024
+j@x7ixx@
+jax -7ix-w@
+ATRAS-ver-COM
+BACK -see-COM
+Page 6

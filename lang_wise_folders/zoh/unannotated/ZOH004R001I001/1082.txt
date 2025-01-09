@@ -1,0 +1,63 @@
+\XSP 2 Regue* agua.
+\XEN 2 I threw water.
+\SYN
+\SEMF throw, arrange
+\ASP activity
+\ARG patient
+\NOM pak.naanh
+\SUB 7ok. pak. '@y, j@x-pak, j@x-pak. '@y, pak=jonh, pak=ka', pak=kek
+\ETYM
+\ETL
+\ROOT pak
+\RTGR TX
+\DSRC TK94
+\CMTS
+\CMTS CK-GR
+\CMTS doesn't accept the regar/tirar glosses today: see 7ok. pak.7@y
+\CMTS can't get any gloss for this form, just the vi 'apretarse' and 7ok.pak
+\CMTS 25 Jun 96: pak vt regar'
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex pak [3]
+\_no 02512
+\LG MIG
+\PSH
+\UND pak
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG hueso; cascara
+\ENG bone; shell
+\SPL
+\SLGR
+\EXU pojo7k pak
+\XSP cascara del huevo
+\XEN eggshell
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex paki' kuy
+\_no 02513
+\LG MIG
+\PSH [paki kuy]
+\UND paki7 kuy
+\MB
+\VAR paki7
+\GRAM
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG paqui
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+Page 1082

@@ -1,0 +1,43 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(3.10)
+(i)
+(ii)
+(3.11)
+(i)
+'øy pa'chukkø tum 'angmayyobá'k pøn
+?əy+ pa?t-šuk-wǝ
+tum ?aŋ.may.?oy-pa+V?k
+3E+ encontrar-3PI-COM uno BOCA.CONTAR.ANTIP-INC+REL
+'Encontraron á una maestra.'
+(ii)
+ye?chukkø
+0 ye?c-šuk-wə
+3A llegar-3PI-COM
+'Llegaron.'
+3.3.7. Glottal stop deletion
+There are three contexts in which a glottal stop is deleted: (a) between
+vowels; (b) syllable-finally before a C-initial syllable; and (c) word-finally before
+another word (not utterance-finally).
+The (a) case, intervocalic deletion, is shown in (3.11). The final /ǝ/ in (i)
+first changes to an /a/ under the influence of the clitic syllable. Once the
+glottal stop has deleted, the two like vowels contract, as described in (3.3.8).
+dey dø minnám
+dey dǝ+ min-wǝ+?am
+ahora 1A+ venir-COM+YA
+'Ya vine.'
+pən
+hombre
+dø nøkpám
+də+ nək-pa+?am
+1A+ ir-INC+YA
+'Ya me voy.'
+(ZOH001R043-005)
+(ZOH001R011–003)
+(ZOH001R011–013)
+(ZOH001R018-242)
+The simple case for (b), syllable-final deletion, occurs when a glottal
+stop-final root such as tə?-, 'to want' is followed by a consonant-initial
+morpheme, like a plural suffix. Remember that there aren't very many vowel-
+final morphemes in this language, and no vowel-final verb roots.
+When a
+39

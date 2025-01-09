@@ -1,0 +1,63 @@
+\ENG brush
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tze7
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex tza'=wowo
+\_no 03313
+\LG MIG
+\PSH [tzaawowo]
+\UND tza7=wowo
+\MB piedra, hoyo
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG cueva
+\ENG cave
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tzaam kuy
+\_no 03314
+\LG MIG
+\PSH [tzaam kuy]
+\UND tzaam kuy]
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG selva; montan~a
+\ENG forest; jungle
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzam
+\RTGR 12
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS sure it's not tzam.kuy? He emphasized the diff by heavily stressing
+Page 1424

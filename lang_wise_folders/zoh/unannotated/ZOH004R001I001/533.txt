@@ -1,0 +1,63 @@
+\SEMF move
+\ASP semelfactive, activity
+\ARG
+\NOM kek.naanh
+\SUB j@x-kek, ni.kek, nik.kek.'@y, yuk.kek
+\ETYM
+\ETL
+ROOT kek
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex kek k@'+j@nanh
+\_no 01224
+\LG MIG
+\PSH [kek- k@j@nanh]
+\UND kek k@7 +j@nanh
+\MB brincar, AFUERA, DIR2
+\VAR
+\GRAM vi+av
+\SCI
+\USE
+\SPG saltar para abajo
+\ENG to jump down
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT kek
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex kek.naanh
+\_no 01225
+\LG MIG
+\PSH [kekna*nh]
+\UND kek.naanh
+\MB brincar, MED1
+\VAR
+\GRAM med
+\SCI
+\USE
+\SPG brinco
+\ENG a hop
+\EXU tum kek.naanh
+\XPSH [tum kekna*nh]
+\XSP un brinco
+\XEN one hop
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kek
+\RTGR T1
+ZOH004R0011001.txt
+\DSRC TK94
+\CMTS
+\date 07/Feb/96
+Page 533

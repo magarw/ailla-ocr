@@ -1,0 +1,63 @@
+\_no 01388
+\LG MIG
+\PSH [komux-]
+\UND ko. mux
+\MB OTRO, saber
+\VAR
+\GRAM vt
+\SPG saber que di*a es
+\ENG to find out what day something will happen
+\EXU 7@y+ ko. mux-w@ ti jama da' ye7tz-pa
+\XPSH [7@y komuxx@ ti jama d@ ye7tzpa.]
+\XSP Supo que di*a llego.
+\XEN She found out what day I arrive.
+\SYN
+\ROOT mux
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 22/Jun/96
+\lex ko.m@7k
+\_no 01389
+\LG MIG
+\PSH [kom@7k-]
+\UND ko.m@7k
+\MB OTRO, exprimir
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG exprimir
+\ENG to wring
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT m@7k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 12/Aug/94
+\lex kom(i') najak
+\_no 01390
+\LG MIG
+\PSH [komi najak]
+\UND komi7 najak
+\MB grande, sapo
+\VAR koom najak
+\GRAM a (m) s
+\SCI
+\USE
+\SPG sapo grande
+\ENG big toad
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+Page 605

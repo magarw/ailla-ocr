@@ -1,0 +1,49 @@
+4.2. Nouns
+Nouns are those words that can appear with the definite article bi, or
+similarly, with one of the deictics. This is not strictly a root class, since there
+are many derivational suffixes that form nouns from verb roots or from
+adjectives (section 7.2). Noun compounding is common, although it can be
+difficult to determine whether the result is a word or a phrase (section 9.4).
+Relative clauses may also be headed by the definite article (section 11.1), in
+which case they are functioning simply as nouns.
+(4.14)
+(i)
+(iii)
+(v)
+kuy
+kuy
+'árbol'
+kumkuhjá'
+kum.kuy?.haa?
+enterrar. INSTR1.NOM4
+'gente del pueblo'
+jojo tøk
+hoho tək
+palma casa
+'casa de palma'
+(ii)
+(iv)
+57
+(vi)
+jukutøk
+hukutək
+'fuego'
+kaxnáng
+kaš.naaŋ
+dar_paso.MED
+'paso'
+jamatin
+hama=tin
+día=mierda
+'dinero'
+(vii) nømpa bi 'angmayyobá'k yo:m'une maryalena
+0 nəm-pa bi ?aŋ.may.?oy-pa+V?k
+yomǝ?=?une?
+maryalena
+3A decir-INC DEF BOCA.contar.ANTIP-INC+REL hembra=muchacha marialena
+'dice la maestra muchacha Marialena'
+(ZOH001 R015-021)
+There is no set of nouns in MIG Zoque that is obligatorily possessed, as is
+the case in some MesoAmerican languages (Suarez, 1983). There are no nouns
+for which possession is ungrammatical, although certainly some such
+collocations are pragmatically absurd (?ən ?inə?, 'my cloud', for example).

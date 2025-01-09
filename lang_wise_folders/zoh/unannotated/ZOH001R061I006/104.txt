@@ -1,0 +1,63 @@
+\SLGL tener escarbado // to have something dug
+\EXU 1 7@y+ taj-w@ bi nax
+\XPSH 1 [7@y tajj@ bi nax.]
+\XSP 1 Escarbo* la tierra.
+\XEN 1 He dug the ground.
+\EXU 2 7@y+ taj.ten-w@ bi nax
+\XPSH 2 [7@y tajtenn@ bi nax.]
+\XSP 2 Tiene escarbado la tierra.
+\XEN 2 He's got the dirt dug.
+\SYN
+\SEMF build
+\ASP activity
+\ARG
+\NOM taj.e7
+\SUB taj=tum.'anh.'aH
+\ETYM
+\ETL
+\ROOT taj
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex tak [2]
+\_no 00153
+\LG MIG
+\PSH
+\UND tak
+\MB
+\VAR
+GRAM vt
+\SCI
+\USE
+\SPG tejer
+\ENG to weave
+\SPL tak. 7oy
+\SLGR ANTIP
+\SLGL tejer // to weave
+\SLGR NO PASS
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF build
+\ASP activity
+\ARG
+\NOM
+\SUB y@k.jo.tak. '@y
+\ETYM
+\ETL
+\ROOT tak
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex ta7k
+\_no 00154
+\LG MIG
+\PSH
+\UND ta7k
+ZOH001R0611006.txt
+\MB
+\VAR
+Page 104

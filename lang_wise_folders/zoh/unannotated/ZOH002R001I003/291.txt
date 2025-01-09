@@ -1,0 +1,33 @@
+In this chapter we'll look at the various types of sentences that can be
+composed of more than one clause. Relative clauses are discussed in section
+11.1. In section 11.2, we look at coordinated clauses. Section 11.3 has a
+discussion of comparative constructions. These are formed on the model of
+Spanish grammar, using connectives borrowed from Spanish. We return to MIG
+Zoque connectives in sections 11.4 and 11.5, to discuss purpose clauses and 'if'
+clauses, respectively. Section 11.6 contains a discussion of clauses using
+Spanish subordinators. In section 11.7, we look at 'that' clauses, which appear
+with verbs of speaking, perceiving, and wanting. Section 11.8 contains a
+description of locative clauses.
+In general, MIG Zoque syntax does not entail requirements on the
+referent of third person agreement markers in subordinate clauses. The
+referents of subject or object agreement markers are determined pragmatically.
+The following two examples illustrate this point.
+(11.1)
+(i)
+Chapter 11: Multi-clause Expressions
+(ii)
+bi pøn 'øy tzangngø bi yomá' 'i yowø
+bi рәп ?ǝy+ caŋ-wǝ
+bi yomaa? ?i 0 yo-wə
+DEF hombre 3E+ pegar_c_puño-COM DEF mujer y 3A caerse-COM
+'El hombre pegó a la mujer y ella se cayó;
+El hombre pegó a la mujer y él se cayó."
+(elicited)
+bi jay'une' 'øy xu'kkø bi yom'une 'i yukpoyyø
+bi haya=?une? ?ǝy+ šu?k-wə bi yomǝ=?une? ?i 0 yuk.poy-wǝ
+DEF macho niño 3E+ besar-COM DEF hembra-niño y 3A ARR.huirse-COM
+'El muchacho besó a la muchacha y él se huyó;
+El muchacho besó a la muchacha y ella se huyó.'
+=
+279
+(elicited)

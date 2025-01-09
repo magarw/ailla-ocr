@@ -1,0 +1,81 @@
+\fts GSM: Se limpia?
+\fte GSM: One cleans oneself?
+\com
+\idx
+\ref ZOH001R036 084
+\_no 00085
+\tx OSM: 7@y komatzpa
+\mb OSM 7@y ko -matz -pa
+\sg1 OSM: 3E SOC-sobar-INC 3E
+\eg1 OSM: 3E SOC-rub -INC 3E
+\zoq OSM: 7@y komatzpay win pero naka7tzpa jemji
+\fts OSM: Se limpia pero lo deshace todo
+\fte OSM: One cleans oneself but one crushes it completely
+\com
+\idx
+\ref ZOH001R036 085
+\_no 00086
+\tx pa tzakk@mpa bi paja7k waji
+\mb para tzak -7@m -pa bi paja7k w@j
+\sgl para dejar-PAS -INC DEF dulce
+\egl for leave-PASS-INC DEF sweet
+\zoq pa tzakk@mpa bi paja7kw@ji.
+\fts para que quede el olor.
+\fte so that the fragrance stays.
+\com
+\idx
+\ref ZOH001R036 086
+\_no 00087
+jemji
+y
+win pero naka7tzpa
+7@y win
+pero naka7tz -pa jemji7
+REFL pero aplastar-INC todo
+REFL but flatten -INC all
+ZOH001R0361001.txt
+\zoq De7 pa kopak toe77@yti go7.
+\fts Ese es para dolor de cabeza.
+\fte That is for headache.
+\com
+\idx
+\ref ZOH001R036 087
+\_no 00088
+\tx despwes de de7
+\mb
+despwe*s de te -7
+\sg1 despues de DCT2-NOM1 si 2A
+\egl after of DCT2-NOM1 if 2A
+\tx de7
+pa kopak toe7
+7@yti go7
+7@yti7 go7
+\mb te -7 para kopak toy -E7
+\sg1 DCT2-NOM1 para cabeza doler-NOM3 3PSN BNF
+\eg1 DCT2-NOM1 for head hurt -NOM3 3PSN BNF
+\ref ZOH001R036 088
+\_no 00089
+\tx 7@m wixpa
+\mb 7@m wix
+\zoq Despwes de de7 sim jipx@pa,
+\fts Despues de eso si
+\fte After that if you have fever,
+\com
+\idx
+-E
+apestar-NOM3
+stink -NOM3
+si m
+si 7@m jipx@
+jipx@pa
+tener_calentura-INC
+have_fever
+tienes calentura,
+bi malba wa7tz
+-pa bi malba7 wa7tz
+\sg1 2E arrancar-INC DEF malba rai*z
+\egl 2E pull_up -INC DEF malba
+root
+-ра
+Page 19
+- INC

@@ -1,0 +1,62 @@
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex m@nh.kuy7
+\_no 02102
+\LG MIG
+\PHO [m@nhkuy7]
+\UND m@nh.kuy7
+\MB cojear, INSTR1
+\VAR
+\GRAM instrl
+\SPG la parte del pie en donde no pisas bien
+\ENG the part of your foot that makes you limp
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT m@nh
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex m@nh. 'aH
+\_no 02103
+\LG MIG
+\PSH [m@nhnha-]
+\UND m@nh.7aH
+\MB X, VERS1
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG hacer fuerza
+ENG to exert force
+\SPL
+\SLGR
+\EXU_d@+ m@nh.'aH-pa
+\XPSH [D@ m@nhnhapa.]
+\XSP Voy a hacer fuerza.
+\XEN I'm going to exert myself.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 26/Jun/96
+\lex m@tz.i7
+\_no 02104
+\LG MIG
+\PSH [m@tzi7]
+\UND m@tz.E7
+ZOH004R0011001.txt
+\MB *jugar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG juguete
+Page 907

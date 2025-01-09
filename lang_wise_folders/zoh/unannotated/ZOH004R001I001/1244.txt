@@ -1,0 +1,64 @@
+\lex saltonh kumu7
+\_no 02888
+\LG MIG
+\PSH
+\UND saltonh kumu7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG gusano medidor
+\ENG a type of worm
+\EXU
+\XSP
+\XEN
+\SYN kumu' 7utz.7oy-pa+a7k
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS CK-PH - HAJ:96 ok
+\date 19/Jun/96
+\lex sanhkwanh burru puj
+\_no 02889
+LG MIG
+\PSH
+\UND sanhkwanh burru puj
+\MB
+\VAR
+\GRAM smsms
+\SCI
+\USE
+\SPG huevo de burro
+\ENG a type of plant
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ETYM san juan burro
+\ETL Sp, Sp
+\ROOT
+"
+\DSRC HAJ94
+\CMTS CK-PH - HAJ:96 ok
+\date 19/Jun/96
+\XSP
+\XEN
+ZOH004R0011001.txt
+\lex sapotiu
+\_no 02890
+\LG MIG
+\PSH
+\UND sapotiyu
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG zapotillo amarillo; zapote nin~o
+\ENG a type of plant
+\EXU
+Page 1244

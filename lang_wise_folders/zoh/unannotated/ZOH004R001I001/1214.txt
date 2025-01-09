@@ -1,0 +1,62 @@
+\CMTS
+\date 03/Jan/80
+\lex pu'.@7
+\_no 02818
+\LG MIG
+\PSH [pu@7]
+\UND pu7.A7
+\MB echar_pus, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG pus
+\ENG pus
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pu
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex pwente
+\_no 02819
+LG MIG
+\PSH
+\UND pwente
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG puente
+\ENG bridge
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex pwerka
+\_no 02820
+LG MIG
+\PSH
+\UND pwerka
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG goloso
+ZOH004R0011001.txt
+Page 1214

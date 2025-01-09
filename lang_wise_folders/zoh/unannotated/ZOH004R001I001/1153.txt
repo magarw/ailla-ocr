@@ -1,0 +1,64 @@
+\UND piyu7 xaj
+\MB gallina, brazo
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG ala de la gallina
+\ENG chicken wing
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex piyu'=xe't.e7
+\_no 02679
+LG MIG
+\PSH [piyu xete7]
+\UND piyu7=xe7t.E7
+\MB gallina, frei*r, NOM7
+\VAR
+\GRAM nom:incorp
+\SCI
+\USE
+\SPG pollo frito
+\ENG fried chicken
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xe7t
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex plataniu 7ay7
+\_no 02680
+\LG MIG
+\PSH
+\UND plataniyu 7ay7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG hoja de platanillo
+\ENG platanillo leaf
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+LF:7okox
+ZOH004R0011001.txt
+Page 1153

@@ -1,0 +1,63 @@
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG rastro; huella
+\ENG track; footprint
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex 7ok.k@y. '@y
+\_no 00355
+\LG MIG
+\PSH [7okk@yy@y-]
+\UND 7ok.k@y.7@y
+\MB ABAJO, 11ever_en_mano, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG dejar algo que teni*a en la mano
+\ENG to let go of something one had in one's hand
+\SPL
+\SLGR
+\EXU 7@y+ 7ok.k@y. '@y-w@ mexa+jo7
+\XPSH [7@y 7okk@yy@yya mexajo7.]
+\XSP Lo dejo* puesto en la mesa.
+\XEN He set it on the table.
+SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kay
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 09/Jan/96
+\lex 7ok.mak.'@y
+\_no 00356
+\LG MIG
+\PSH [7okmakk@y-]
+\UND 7ok.mak.7@y
+ZOH004R0011001.txt
+\MB ABAJO, pescar_con_atarraya, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG teni*a algo agarrado con atarraya, pero lo solto*
+\ENG for something to get free from your fishing net
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+Page 153

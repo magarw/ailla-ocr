@@ -1,0 +1,26 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+Chapter 2: Grammatical Overview
+MIG Zoque is an ergative, polysynthetic language with an abundance of
+highly-productive word formation processes including verb stem compounding
+and noun incorporation. It is a head-marking language (Nichols, 1983):
+pronominal agreement markers that agree with actor and undergoer arguments
+appear at the left edge of the verb complex. (A table of agreement markers
+appears in section 5.1. Discussion of agreement appears in section 6.2.)
+Dependents of the verb are not case-marked; nor are nouns, adjectives or
+determiners marked for agreement with one another in any way. Word order of
+constituent phrases inside a clause is free, except that the actor NP must
+precede the undergoer NP if it is possible to confuse them (if they are both
+human, for example).
+This language exhibits many features of typological interest.
+Phonologically, it is typical of a MesoAmerican language (discussed in chapter
+3). Its morpheme classes include a set of body-part prefixes, which is more
+common among languages north of the MA area (chapter 7). There is also a
+class of positional verb roots that identify particular shapes or postures of the
+human body, and of inanimate objects. This feature is shared by other MZ
+languages and also Mayan languages (England, 1983), but is otherwise unusual,
+at least in MesoAmerica. Positional verbs are discussed in chapter 4; a set of
+positional suffixes is discussed in chapter 7.
+MIG Zoque has a set of auxiliary verbs, similar to those found in other MZ
+languages. This is another connection with Mayan languages, which also have
+auxiliary verbs with similar semantic and syntactic properties. (See Zavala,
+11

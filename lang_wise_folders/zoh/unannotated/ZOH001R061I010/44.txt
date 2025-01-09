@@ -1,0 +1,61 @@
+ZOH001R0611010.txt
+\SPG de apretar cosa blandita
+\ENG to bounce back into shape, like a ball or a tit
+\EX 7@y yaknonhpuw@
+\XSP 10 compuso; lo desapachurro*
+\XEN she fixed it; she unbent it
+\ROOT nonh Tx
+\SEMF touch, hand
+\CAUS yak.nonh apachurrar
+\PASS nonh.7@m estar apachurrado
+\ANTI NONE
+\ASSU nonh.ney estar apachurrado
+\CMTS
+\lex no7tz
+\_no 00189
+\SPG arar; quebrar; surquear; partir
+\ENG to plow; to break
+\EX no7tz-ten-e
+\XSP esta* cultivado rajado el terreno
+\XEN plowed
+\EX no7tztz@mm@ bi limeta
+\XSP se rompio* la botella
+\XEN the bottle was broken
+\ROOT no7tz T3
+\SEMF farm, break
+\PASS no7tz.7@m romperse (cualquiera cosa)
+\ANTI no7tz.7oy estar rajando/arando la tierra o cultivar
+\ASSU no7tz.ney lo tiene rajado
+\CMTS ck example1: what's the zoque?
+\lex nox
+\_no 00190
+\SPG ban~arse sin jabo*n
+\ENG to bathe without soap
+\EX
+\XSP
+\XEN
+\ROOT nox Il
+\SEMF care
+\CAUS yak.nox banar sin jabo*n
+\CMTS
+\lex nuk
+\_no 00191
+\SPG agarrar
+\ENG to grasp; to grab
+\EX
+\XSP
+\XEN
+\ROOT nuk T3
+\SEMF pick_up, hand
+\PASS nuk.7@m
+\ANTI nuk.7oy
+\CMTS basic meaning seems to be to catch with the hands
+\lex num
+\_no 00192
+\SPG robar
+\ENG to rob
+\EX
+\XSP
+\XEN
+\ROOT num T1
+Page 44

@@ -1,0 +1,63 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT jepx
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 03/Feb/96
+\lex jo.jetz=wak
+\_no 00824
+\LG MIG
+\PSH [jojetzwak-]
+\UND jo.jetz=wak
+\MB EN, rascar, *vaciar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar todo
+\ENG to get out everything
+\SPL
+\SLGR
+\EXU 7@y+ jo.jetz-wak-w@ 7@y+ xuyu7
+\XPSH [7@y jojetzwakk@y xuyu7.]
+\XSP Saco* todo lo que teni*a en la olla.
+\XEN She scraped everything out of her pot.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jetz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Feb/96
+\lex jo.jey
+\_no 00825
+\LG MIG
+\PSH [jojey-]
+\UND jo.jey
+\MB EN, batir
+\VAR
+\GRAM vt
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG ir a batirlo en otra parte
+\ENG to go somewhere else to mix batter
+\SPL
+\SLGR
+\EXU 7@y+ jo.jey-w@ 7eya+jo7
+\XPSH [7@y jojeyy@ 7eyajo7.]
+\XSP Lo batio* en otro lado.
+\XEN She went somewhere else to mix it.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jey
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+Page 359

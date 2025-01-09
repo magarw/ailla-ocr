@@ -1,0 +1,62 @@
+\DSRC HAJ94
+\CMTS CK-all - HAJ:96/OK: TK
+\date 26/Jun/96
+\lex yomaa7 7@y+ y@k.wij
+\_no 00475
+\LG MIG
+\PSH [yoma*7_7@y y@kwij]
+\UND yomaa7 7@y+ yak.wij.0
+\MB mujer, 3Erg, INSTR2, zambutirse, NOM6
+\VAR
+\GRAM sps
+\SCI
+\USE
+\SPG vestido
+\ENG dress
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH/OK: TK
+\date 26/Jun/96
+\lex yop.a7
+\_no 00476
+\LG MIG
+\PSH [yopa7]
+\UND yop.A7
+\MB evaporarse, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG vapor
+\ENG vapor
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 07/Apr/95
+\lex yox.e de kuy
+\_no 00477
+\LG MIG
+\PSH [yoxe de kuy]
+\UND yox. E de kuy
+\MB trabajar, NOM7, de, palo
+\VAR
+\GRAM
+ZOH001R0611004.txt
+\SCI
+\USE
+\SPG hecho de madera
+Page 188

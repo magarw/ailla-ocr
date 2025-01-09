@@ -1,0 +1,64 @@
+ZOH001R0611006.txt
+XPSH_5 [ Xanhnhonpan way7]
+\XSP 5 El viento esta* desarreglando mi cabello.
+ENG 5 The wind is messing up my hair.
+\SYN
+\SEMF arrange
+\ASP activity, achievement
+\ARG
+\NOM 7on.neenh, 7on. kuy7
+\SUB ko.7on
+\ROOT 7on
+\RTGR P (TX)
+\DSRC HAJ95
+\CMTS can't get any intransitive forms, T1 nor T2 nor ANTIP
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex 707tz
+\_no 00014
+\LG MIG
+\PSH
+\UND 707tz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG doblar (como fierro)
+\ENG to bend (like an iron bar)
+\SPL 707tz.7oy
+\SLGR ANTIP
+\SLGL doblar // to bend
+\SLGR NO PASS
+\SPL 707tz.ney
+\SLGR ASSUM1
+\SLGL estar doblado // to be bent
+\EXU 1 mok=707tz-w@
+\XPSH 1 [Mok 707tztz@.]
+\XSP 1 Doblo* mai*z.
+\XEN 1 He bent down the cornstalks.
+\EXU 2 7@y+ t@nh=707tz-w@ yada kuy 7anhkax
+\XPSH 2 [7@y t@nh7o7tztz@ yada kuy 7anhkax.]
+\XSP 2 Le dio* una machetazo esta rama para que lo bobio*.
+\XEN 2 He hit this branch with a machete to bend it down.
+\EXU 3 707tz. '@m-w@ bi t@nh.kuy7
+\XPSH 3 [707tztz@mm@ bi t@nhkuy.]
+\XSP 3 Se doblo* el fierro.
+\XEN 3 The tool was bent.
+\EXU 4 rroberto 7@y+ 707tz-w@ 7@y+ t@nh.kuy7
+\XPSH 4 [Rrobertoy 707tztz@y t@nhkuy7.]
+\XSP 4 Roberto doblo* su machete.
+\XEN 4 Roberto bent his machete.
+\SYN
+\SEMF arrange
+\ASP achievement
+\ARG
+\NOM
+\SUB k@.n@k=7o7tz. '@y, ni.707tz-wak, nik. 'o7tz. '@y
+\ETYM
+\ETL
+\ROOT 707tz
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS 707tz.ney - they put a stick on or under a very tall corn plant
+Page 10

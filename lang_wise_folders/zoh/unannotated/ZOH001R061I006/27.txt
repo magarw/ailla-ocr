@@ -1,0 +1,64 @@
+\SCI
+\USE
+\SPG manchar
+\ENG to smear; to stain
+\EXU bi 7une' 7@y+ k@x. E nen(a)=ji7t-w@
+\XPSH [Bi 7uney k@xi nenji7tt@.]
+\XSP La criatura se mancho* de comida.
+\XEN The baby got food on itself.
+\SYN
+\SEMF clean
+\ASP activity, achievement
+\ARG
+\NOM
+\SUB ni.ji7t, y@k.ji7t
+\ETYM
+\ETL
+\ROOT ji7t
+\RTGR T3
+\SPL ji7t.7oy
+\SLGR ANTIP
+\SLGL manchar // to stain
+\SPL ji7t.7@m
+\SLGR PASS
+\SLGL mancharse // to be stained
+\SPL
+\DSRC TK94
+\CMTS always gives examples with nen(a)=ji7t
+\CMTS later rejected both PASS and ANTIP
+\date 03/Jan/80
+\lex ji7tz [1]
+\_no 00036
+\LG MIG
+\PSH
+\UND ji7tz
+\MB
+\VAR
+\GRAM vt
+ZOH001R0611006.txt
+\SCI
+\USE
+\SPG recoger (tela) con un hilo suelto
+\ENG to gather (fabric) with a pulled thread
+\EXU 7@y+ ji7tz-w@ bi yot.e7
+\XPSH [7@y ji7tztz@ bi yote7.]
+\XSP Encogio* la ropa.
+\XEN She gathered the cloth.
+\EXU ji7tz.7@m-w@ bi yo't.e 7@y+ t@p.i
+\XPSH [Ji7tztz@mm@ bi yotey t@pi.
+\XSP Se encogio* la costurada de la ropa.
+\XEN The clothes' seam puckered up.
+\SPL ji7tz.7oy
+\SLGR ANTIP
+\SLGL poner pliegue // to pleat
+\SPL ji7tz.7@m
+\SLGR PASS
+\SLGL estar en pliegues // to be pleated
+\SPL ji7tz.ney
+\SLGR ASSUM1
+\SLGL esta* plegado // to be in pleats
+\SYN
+\SEMF sew, arrange
+\ASP activity, accomplishment
+\ARG
+Page 27

@@ -1,0 +1,63 @@
+\ROOT muy
+\RTGR T2
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex muj
+\_no 02041
+\LG MIG
+\PSH
+\UND muj
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG mojarse
+\ENG to get wet
+\SPL yak.muj
+\SLGR CAUS
+\SLGL mojar // to make wet
+\EXU 1 da muj-w@
+\XPSH 1 [D@ mujj@.]
+\XSP 1 Estoy mojado.
+\XEN 1 I'm wet.
+\EXU 2 muj-w@ bi yo't.e
+\XPSH 2 [Mujj@ bi yote.]
+\XSP 2 Esta* mojada la ropa.
+\XEN 2 The clothes are wet.
+\EXU 3 muj-pa bi yo't.e
+\XPSH 3 [Mujpa bi yote.]
+\xSP 3 La ropa se esta* mojando.
+\XEN 3 The clothes are getting wet.
+\SYN
+\SEMF condition, water
+\ASP achievement
+\ARG
+\NOM muj.@7
+\SUB 7anh.muj, win=muj
+\ETYM
+\ETL
+\ROOT muj
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\CMTS caus2 yak+ muj
+\date 03/Jan/80
+\lex muj.i 7uk.i
+\_no 02042
+\LG MIG
+\PSH [muji 7uki]
+\UND muj. E 7uk.E
+\MB mojarse, NOM7, tomar, NOM7
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG atol de "tiziawal"
+\ENG a type of corn drink
+\EXU
+ZOH004R0011001.txt
+\XSP
+\XEN
+Page 880

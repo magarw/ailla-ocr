@@ -1,0 +1,64 @@
+\ENG to wrap so it ripens
+\EXU 7@n+ mon=k@nh-w@ 7@n+ mangu
+\XPSH [7@n monk@nhnh@n mangu.]
+\XSP Envolvio* mis mangos para que se madure.
+\XEN I wrapped my mangos to ripen them.
+\SYN
+\SEMF
+ETYM
+\ETL
+\ROOT mon
+\RTGR P (T3)
+\ROOT k@nh
+\RTGR 12
+\DSRC HAJ02
+\CMTS
+\DATE 09/Aug/02
+\lex mon=nutz
+\_no 02016
+\LG MIG
+\PSH [monnutz-]
+\UND mon=nutz
+\MB envolver, estar_caliente
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG envolver para que se sude
+\ENG to wrap someone so they sweat
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT mon
+\RTGR P (T3)
+\ROOT nutz
+\RTGR 12
+\DSRC HAJ02
+\CMTS
+\DATE 09/Aug/02
+\lex mono
+\_no 02017
+\LG MIG
+\PSH
+\UND mono
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG sandi*a
+\ENG watermelon
+\EXU
+ZOH004R0011001.txt
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+LF:t@m
+Page 869

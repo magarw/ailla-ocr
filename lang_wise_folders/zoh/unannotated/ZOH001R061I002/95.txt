@@ -1,0 +1,63 @@
+\POS rroberto d@ w@kxjayy@ny@kwij
+\MID
+\UNDO 7@n w@kxpuw@ny@kwij
+\CLZ
+\CMTS
+\lex w@7kx
+\_no 00385
+\SPG empalmar
+\ENG to thatch
+\SEMF build
+\ASP process
+\ARG
+\NOM
+\RTGR P (T3)
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\ARG
+\NOM * kuy7, w@nh.naanh
+\RTGR IX
+\lex w@nh
+\_no 00386
+\SPG hundirse; sumirse en, como un traste de agua o ri*o
+\ENG to sink; to be submerged in, like a dish in water or in the river
+\SEMF water, arrange
+\ASP transition
+\POS N
+\MID
+\UNDO N
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\lex wat
+\_no 00387
+\SPG romper, como tela o papel
+\ENG to tear, like cloth or paper
+\SEMF break
+\ASP transition
+\ARG patient
+\NOM wat.17
+\NOM w@tnaanh
+\NOM
+\RTGR T3
+\POS Y -lex
+\MID Y lex
+\UNDO
+\CLZ
+\CMTS
+descolge*
+pedazo de ropa
+\lex w@7t
+\_no 00388
+\SPG tumbar a*rbol; tumbar o derribar palo
+\ENG to fell trees
+\SEMF cut
+\ASP transition
+\ARG
+\NOM ?* naanh (es palabra, pero no lo puedo traducir)
+\NOM w@7t. 'oy.kuy7
+\RTGR T3
+Page 95

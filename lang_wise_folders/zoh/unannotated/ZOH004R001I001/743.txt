@@ -1,0 +1,62 @@
+\lex k@n@-tz@k
+\_no 01719
+\LG MIG
+\PSH [k@n@tz@k-]
+\UND k@n@-tz@k
+\MB X, HACER
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG querer tosear, como que algo se molesta en la garganta
+\ENG to clear the throat
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS ANALYZE: cf. k@n@.7@y
+\date 25/Jun/96
+\lex k@n(@).7@y
+\_no 01720
+\LG MIG
+\PSH [k@n@7@y-]
+\UND k@n@.7@y
+\MB X, VERS2
+\VAR ka@n.7@y
+\GRAM vt
+\SCI
+\USE
+\SPG remojar
+\ENG to dunk
+\EXU 1 k@n(@).7@y–@7
+\XPSH 1 [k@n.@*7] [k@:n7@:y@7]
+\XSP 1! Remo*jalo!
+\XEN 1 Dunk it!
+\EXU 2 7@y+ k@n (@).7@y-wa
+\XPSH 2 [7@y kan@7@yya.]
+\XSP 2 Lo tiene remojado.
+\XEN 2 She's got it soaking.
+\EXU 3 7@y+ k@n@-ten-w@
+\XPSH 3 [7@y k@n@tenn@.]
+\XSP 3 Lo tiene remojado.
+\XEN 3 She's got it soaking.
+\SYN
+ZOH004R0011001.txt
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS analysis; CK deriv's
+\CMTS to dunk something in water to soften it a little
+\CMTS can't get k@n-
+\date 25/Jun/96
+Page 743

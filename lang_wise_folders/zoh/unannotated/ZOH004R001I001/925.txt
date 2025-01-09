@@ -1,0 +1,63 @@
+\DATE 03/Jan/1980
+\lex napa7
+\_no 02145
+\LG MIG
+\PSH
+\UND napa7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG guacamaya
+\ENG a type of bird
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 16/Jun/95
+LF: jon
+\lex nap (a') wit@m
+\_no 02146
+\LG MIG
+\PSH [napa wit@m]
+\UND napa7 wit@m
+\MB guacamaya, ojo
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG frijol ch(i)apaneco; ejote
+\ENG a type of bean; green bean
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex naranhjiu (kuy)
+\_no 02147
+\LG MIG
+\PSH
+\UND naranhjiu (kuy)
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG naranjillo
+\ENG a type of tree
+\SPL
+ZOH004R0011001.txt
+Page 925

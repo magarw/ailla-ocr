@@ -1,0 +1,64 @@
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex manej (a)=tz@k
+\_no 01863
+\LG MIG
+\PSH [manejatz@k-]
+\UND maneja=tz@k
+\MB manejar, HACER
+\VAR maneej=tz@k
+\GRAM vt
+\SCI
+\USE
+\SPG manejar
+\ENG to drive
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex manne7
+\_no 01864
+\LG MIG
+\PSH
+\UND manne7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG gualalote; cholo
+\ENG turkey
+\EXU chik 7une' manne7
+\XSP guajolotillo
+\XEN turkey chick
+\EXU jay(a) manne7
+\XSP guajolote macho
+\XEN turkey cock
+\SYN
+LF: jon
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+ZOH004R0011001.txt
+Page 804

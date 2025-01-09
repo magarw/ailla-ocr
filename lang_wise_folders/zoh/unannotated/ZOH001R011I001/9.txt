@@ -1,0 +1,66 @@
+\eg1 now shoot-1/2PL-IMPV
+"ora, tirenle!"
+\zoq 7entonses mi tenyente 7@y 7ordentz@kk@ bi soldaod@kka, "7ora tujtam@!"
+\fts Entonces el teniente ordeno* los soldados,
+\fte Then my lieutenant ordered the soldiers, "Now, fire!"
+\com
+\idx sp
+\ref ZOH001R011 036
+\_no 00037
+\tx 7@y tujxukk@
+\mb 7@y tuj -xuk-w@
+\sg1 3E tirar-3PL-COM
+\egl 3E shoot-3PL-COM
+\zoq 7@y tujxukk@.
+\fts Le tiraron.
+\fte They fired.
+\com
+\idx
+\ref ZOH001R011 037
+\_no 00038
+\tx nyakti,
+\mb
+nyay
+tanxukk@
+ni-yakti ni-ya -7@y tan -xuk-w@
+pegar-3PL-nCOM
+\sg1 ni-nada
+ni-NEG-3E
+\eg1 no-nothing no-NEG-3E hit -3PL-nCOM
+\zoq Nyakti, nyay tanxukk@.
+\fts Y no le pegaron, no le pegaron.
+\fte And nothing, they didn't hit them.
+\com
+\idx
+\ref ZOH001R011 038
+\_no 00039
+\tx 7i 7otro tujxukk@
+\mb 7i 7otro tuj -xuk-w@
+\sg1 y
+otro
+tirar-3PL-COM
+\egl and other shoot-3PL-COM
+\zoq 71 7otro tujxukk@,
+\fts Y otro le volvieron a tirar,
+\fte And other ones fired,
+\com
+\idx
+\ref ZOH001R011 039
+\_no 00040
+\tx nyay
+\mb
+ZOH001R0111001.txt
+tanxukk@
+ni-ya -7@y tan -xuk-w@
+pegar-3PL-COM
+\sg1 ni-NEG-3E
+\eg1 no-NEG-3E hit -3PL-COM
+\zoq nyay tanxukk@.
+\fts y no le pegaron.
+\fte and they didn't hit them.
+\com
+\idx
+\ref ZOH001R011 040
+\_no_00041
+\tx tota*1
+Page 9

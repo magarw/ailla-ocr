@@ -1,0 +1,62 @@
+XPSH [7@y yuknekk@ k@pi.]
+\XSP Estivo* la len~a.
+\XEN She stacked the firewood
+\SYN
+\ROOT nek
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 20/Jun/96
+\lex yuk.nek.e
+\_no 04300
+\LG MIG
+\PSH [yukneke]
+\UND yuk.nek. E
+\MB ARR, estivar, NOM7
+\VAR
+\GRAM sv/pcp
+\SCI
+\USE
+\SPG monto*n; estar estivado
+\ENG pile; be piled up
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nek
+\RTGR TX
+\DSRC HAJ94
+\CMTS CK for yuk.nek vt
+\CMTS see also nek.e
+\date 29/Jan/96
+\lex yuk.nem
+\_no 04301
+LG MIG
+\PHO [yuknem-]
+\UND yuk.nem
+\MB ARR, flamear
+\VAR
+\GRAM vi
+\SPG flamear
+\ENG to flare up
+\EXU yuk.nem-wa jukut@k
+\XPSH [Yuknemm@ jukut@k.]
+\XSP Flameo* la lumbre.
+\XEN The fire flared up.
+\SYN
+\ROOT nem
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex yuk.nutz
+\_no 04302
+\LG MIG
+\PSH [yuknutz-]
+\UND yuk.nutz
+\MB ARR, calentarse
+ZOH004R0011001.txt
+Page 1847

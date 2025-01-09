@@ -1,0 +1,63 @@
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Nov/94
+\lex kut.na' wit
+\_no 01571
+\LG MIG
+\PSH [kutna wit-]
+\UND kut.na7 wit
+\MB X, STAT, andar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG andar con la rodilla
+\ENG to walk on the knees
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+LF:7anmal
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 * kut
+\RTGR P
+ROOT 2 wit
+\RTGR 2 11
+\DSRC HAJ95
+\CMTS
+\date 11/Jan/96
+\lex kut.ney
+\_no 01572
+\LG MIG
+\PSH [kutney-]
+\UND kut.ney
+\MB X, ASSUM1
+\VAR
+\GRAM vi: assum1
+\SCI
+\USE
+\SPG hincarse; arrodillarse
+\ENG to kneel
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT kut
+\RTGR P
+\DSRC HAJ94
+\CMTS get more forms/derivatives
+\date 27/Mar/95
+\lex kut-yak. 7oy
+ZOH004R0011001.txt
+Page 682

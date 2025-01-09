@@ -1,0 +1,63 @@
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex joa'=tz@k
+\_no 00815
+\LG MIG
+\PSH [joatz@k-]
+\UND joa7=tz@k
+\MB hondo, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer hondo
+\ENG to make deep
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 24/Jun/96
+\lex jobo kuy
+\_no 00816
+\LG MIG
+\PSH
+\UND jobo kuy
+\MB
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG palo de jobo
+\ENG a type of tree
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+ZOH004R0011001.txt
+Page 355

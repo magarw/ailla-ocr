@@ -1,0 +1,45 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+7.1.1.9. win
+This morpheme was once an independent noun, as attested by a few
+lexical items with nominal case endings and a few compounds (7.14 i and ii).
+The gloss for this item is clearly 'surface' or 'front', although, as always, there
+are many verbal constructions with no clearly compositional interpretation. The
+gloss code for this morpheme is FACE. It sometimes co-occurs with the suffix
+—?ay.
+(7.14)
+(i)
+(i)
+(iii)
+(v)
+winjonang
+win+honan
+FACE+DIR3
+'from in front'
+'øy win'ixxø
+?əy+ win.?iš-wə
+3E+ FACE.see-COM
+'He saw her ahead of him.'
+winnøktenwøyyø
+0 win.nək-ten.wǝy-wə
+3A FACE.go=stand.DEPOS-COM
+'She faced him.'
+gø winnawó?
+gǝ win.?a-wǝ+V?k
+DEM FACE.VERS1-COM+REL
+'he who got ahead'
+162
+(ii)
+(ii)
+winmanak
+win=manak
+FACE=child
+'first-born child'
+winjuptukkuy'
+win.jup=tuk.kuy?
+FACE.pull-finish.INSTR1
+'apron'
+(iv) winpaktzongngø
+0 win.pak-con-wǝ
+3A FACE.tighten-meet-COM
+'He bumped into her."
+(ZOH001R024-112)

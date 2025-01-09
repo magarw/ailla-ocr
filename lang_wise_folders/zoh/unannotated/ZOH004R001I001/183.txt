@@ -1,0 +1,63 @@
+\GRAM sms
+\SCI
+\USE
+\SPG perra; perra vieja
+\ENG bitch; old bitch
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex 7ok(o) p@n
+\_no 00427
+\LG MIG
+\PSH [7oko p@n]
+\UND 7oko p@n
+\MB vieja, hombre
+\VAR 7ook p@n
+\GRAM sms
+\SCI
+\USE
+\SPG mujer grande
+\ENG elderly woman
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 29/Jan/96
+\lex 7ok. 'um. '@y
+\_no 00428
+\LG MIG
+\PSH [7okkumm@y-]
+\UND 7ok. 7um.7@y
+\MB ABAJO, tirar, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG vaciar
+\ENG to empty out
+\SPL
+ZOH004R0011001.txt
+\SLGR
+\EXU 7ok. 'um. '@y-w@ 7@y+ p@'-n@k-pa+a7k
+\XPSH [7okkumm@yy@y p@n@kpa*7k.]
+\XSP Vacio* de lo que llevaba.
+\XEN She emptied out what she was carrying.
+\SYN
+\SEMF
+\ETYM
+\ETL
+Page 183

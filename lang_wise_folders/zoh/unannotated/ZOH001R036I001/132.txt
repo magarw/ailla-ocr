@@ -1,0 +1,81 @@
+\fts vino echarlo un pun~o de cafe molido.
+\fte she came and threw in a little ground coffee.
+\com
+\idx
+\ref ZOH001R036 617
+\_no 00606
+ney
+\tx 7@y p@ge7tt@
+mismo medidu kana
+\mb 7ay p@7 -ke7t -w@ ney mismo medidu kana
+\sg1 3E poner-REPET-COM mismo mismo medido sal
+\egl 3E
+put -REPET-COM self same measure salt
+\zoq 7@y p@ge7tt@_ney_mismo medidu kana.
+\fts Echo de vuelto la misma medida de sal.
+\fte She put in the same amount of salt.
+\com
+\idx
+\ref ZOH001R036 618
+\_no 00607
+\tx minn@
+y
+jeywituw@
+\mb min
+-wa 7@y
+jey -witu7 -wa
+\sg1 venir-COM 3E batir-regresar-COM
+\egl come -COM 3E beat -return -COM
+\zoq Minn@y jeywituwa,
+\fts vino a batirlo,
+\fte she came to stir it,
+\com
+\idx
+\ref ZOH001R036 619
+\_no 00608
+ZOH001R0361001.txt
+7uk
+-E
+\tx kom kwandu 7ukjeypa*7
+\mb komo kwandu
+\sg1 como cuando
+\egl like when
+-jey -pa -v7k
+tomar-NOM3-batir-INC-REL
+drink-NOM3-beat -INC-REL
+\zoq kom kwandu 7ukjeypa*7.
+\fts como si se estuviera batiendo pozol.
+\fte as if she were stirring pozole.
+\com
+\idx
+\ref ZOH001R036 620
+\_no 00609
+\tx gaji
+\mb
+ka -ji7
+tzoko
+bi
+n@7
+tzoko7
+\sg1 DCT3-LOC1 espeso espeso 3E
+tzoko 7@y tz@kk@
+tzoko7 7ay tz@k -wa bi n@7
+hacer-COM DEF agua
+\eg1 DCT3-LOC1 thick thick 3E do -COM DEF water
+\zoq Gaji tzoko tzoko 7@y tz@kk@ bi n@7.
+\fts De ahi* lo hizo espeso espeso el agua.
+\fte Then she made the water thick thick.
+\com
+\idx
+\ref ZOH001R036 621
+\_no 00610
+\tx 7adyo da nikk@yy@yy@
+\mb
+7adyo da nik -k@y
+\sg1 luego 1A SUP -11evar-3E -COM 1E
+\egl later 1A SURF-carry -3E -COM 1E
+7@n 7ukk@
+-7@y-w@ 7@n 7uk -wa
+tomar-COM
+drink-COM
+Page 132

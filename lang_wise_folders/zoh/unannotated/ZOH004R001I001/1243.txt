@@ -1,0 +1,65 @@
+\USE
+\SPG za bila
+\ENG a type of plant
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS CK-PH - HAJ:96 ok
+\date 19/Jun/96
+\SEMF
+\ETYM
+\ETL Sp
+LF:7okox
+\lex saborna*1
+\_no 02886
+\LG MIG
+\PSH
+\UND saborna*1
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG sobrecarga
+\ENG extra load, on top of the standard load
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH
+\date 19/Jun/96
+\lex sak(a) toonh
+\_no 02887
+\LG MIG
+\PSH [sakato*nh]
+\UND sakatoonh
+\MB
+\VAR saaktoonh
+\GRAM
+\SCI
+\USE
+HAJ:96 ok
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\SPG zacato*n
+\ENG a type of grass
+\EXU
+\XSP
+\XEN
+\SYN
+LF:xojo7k
+ZOH004R0011001.txt
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+Page 1243

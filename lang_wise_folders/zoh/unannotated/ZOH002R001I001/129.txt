@@ -1,0 +1,44 @@
+Johnson / A Grammar of San Miguel Chimapala Zoque
+5.5. Negation
+There are two morphemes expressing negation in MIG Zoque, ya and ?u.
+In addition to these two, the Spanish contrastive negative ni 'neither' is regularly
+used in Zoque discourse.
+5.5.1. ya
+This negative morpheme appears with declarative and interrogative verb
+phrases and with noun phrases. The suffix used for negative sentences with
+completive aspect is -wə; for incompletive aspect the suffix is −A (-ə/-a).
+(5.14)
+(i)
+(ii)
+(iii)
+ya nømmoy minnø ni kamilo
+ya nəm-?oy-a
+?əy+ min-wə ni kamilo
+NEG be_able-ANTIP-nINC 3E+ come-dINC nor camilo
+'Camilo can't come either.'
+(5.15)
+(i)
+'i mixjá' yam 'oktzøkkødamø 'angkó'
+?i
+miš+haa? ya ?əm+ ?ok.cək.?ǝy-tam-A
+and 2Prn+NPL2 NEG 2E+
+'And you, well, don't you have time?'
+(ZOH001 R010- 006)
+DOWN.do.SUF-1/2PL-nINC well
+yay køxxukxukkø bi xix
+ya ?əy+ kəš-šuk-šuk-wə
+bi šiš
+NEG 3E+ eat=finish-3PL-nCOM DEF meat
+'They didn't finish eating the meat'
+(ZOH001 R012-077)
+ya also appears with noun phrases, yielding the negation of an existential
+predicate:
+ga' bi mas 'enkantadá' ya bi 'a:prey
+ga.?
+?aŋkoo?
+104
+(ZOH001 R010-032)
+bi mas enkantada+V?k ya bi 7apu=rey
+DCT3.NOM1 DEFmore enchanted+REL NEG DEF old-king
+'She is the most enchanted, not the old king.'
+(ZOH001 R012- 308)

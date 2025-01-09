@@ -1,0 +1,62 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 paj
+\RTGR 1 P, (T3)
+\ROOT 2 jom
+\RTGR 2 P, (T3)
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex 7anh-paj [1]
+\_no 00148
+\LG MIG
+\PSH [7anhpaj-]
+\UND 7anh-paj
+\MB BOCA, cercar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG cercar
+\ENG to fence
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT paj
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex 7anh-paj [2]
+\_no 00149
+\LG MIG
+\PSH [7anhpaj]
+\UND 7anh-paj.0
+\MB BOCA, cercar, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG cerco
+\ENG fence
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT paj
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+ZOH004R0011001.txt
+Page 63

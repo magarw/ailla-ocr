@@ -1,0 +1,63 @@
+XEN 1 We started to work
+\EXU 2 7@y+ nuk='ok.manh-w@
+\XPSH 2 [7@y nukkokmanhnh@.]
+\XSP 2 Le empezo* a pegar.
+\XEN 2 He started to hit him.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 11/Feb/96
+\lex {%panh}
+\_no 04566
+\LG MIG
+\PHO
+\UND
+\MB
+\VAR
+\GRAM
+\SPG
+\ENG
+\EX
+\XSP
+\XEN
+\SYN
+\SEMF arrange
+\ASP
+\ARG
+\NOM
+\SUB 7anh.panh, panh.ney, panh.w@y, panh.ten, panh=jax, panh=tzak
+\ROOT * panh
+\RTGR P
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex {%pix}
+\_no 04567
+LG MIG
+\PHO
+\UND
+ZOH004R0011001.txt
+\MB
+\VAR
+\GRAM
+\SPG encajar
+\ENG to prick
+\EX
+\XSP
+\XEN
+\SYN
+\SEMF cut
+\ASP
+\ARG
+\NOM 7anh.pix
+\SUB 7anh.pix
+\ROOT * pix
+\RTGR P
+\DSRC HAJ95
+\CMTS this is different from the 'feel a bite' pix?
+Page 1961

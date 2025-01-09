@@ -1,0 +1,62 @@
+\NOM xem.e7
+\SUB xem(a)-t@7
+\ETYM
+\ETL
+\ROOT xem
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex xemana
+\_no 03905
+\LG MIG
+\PSH
+\UND xemana
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG semana
+\ENG week
+\EXU tum xemana
+\XSP una semana
+\XEN one week
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+\lex xem.e7
+\_no 03906
+\LG MIG
+\PHO [xeme7]
+\UND xem. E7
+\MB tocar, NOM7
+\VAR
+\GRAM pcp
+\SPG tocado
+\ENG played
+\EXU xem.e7+k piesa
+\XPSH [xeme7k piesa]
+\XSP una melodi*a tocada
+\XEN a played melody
+\SYN
+\ROOT xem
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex xem-pa+a7k
+\_no 03907
+\LG MIG
+\PSH [xempa*7k-]
+\UND xem-pa +P@7k
+\MB tocar, INC, REL
+\VAR
+\GRAM agt1
+ZOH004R0011001.txt
+Page 1680

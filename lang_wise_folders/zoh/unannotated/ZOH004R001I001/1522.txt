@@ -1,0 +1,63 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jun/96
+\lex wakxi' 7awin
+\_no 03539
+\LG MIG
+\PSH [wakxi 7awin]
+\UND wakxi7 7awin
+CK-PH/GR:DONE/TK
+\MB chico, hermano/a
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG hermano menor
+ENG younger brother
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex wakxi' jon
+\_no 03540
+\LG MIG
+\PSH [wakxi jon]
+\UND wakxi7 jon
+\MB chico, pa*jaro
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG pa*jaro pequen~o que no crece de por si*
+\ENG a small bird
+\EXU chik wakxi' jon
+\XSP picho*n; pa*jaro pequen~o
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+ZOH004R0011001.txt
+\lex wakxi' kajanh
+\_no 03541
+\LG MIG
+\PSH [wakxi kajanh]
+\UND wakxi7 kajanh
+Page 1522

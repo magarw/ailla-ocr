@@ -1,0 +1,62 @@
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex kuy=xut.kuy7
+\_no 01632
+\LG MIG
+\PSH [kuyxutkuy7]
+\UND kuy=xut.kuy7
+\MB palo, agujerear, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG formo*n
+\ENG chisel
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xut
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/96
+\lex kuy-yum
+\_no 01633
+\LG MIG
+\PSH [kuyyum-]
+\UND kuy-yum
+\MB palo, hervir
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG hacer hoyo/hueco a la madera
+\ENG to make a hole in the wood
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yum
+\RTGR 12
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex kuy-yum-pa+7k weni7
+\_no 01634
+ZOH004R0011001.txt
+\LG MIG
+\PSH [kuyyumpa7k weni7]
+\UND kuy-yum-pa +P@7k weni7
+\MB palo, hervir, INC, REL, avispa
+\VAR
+Page 706

@@ -1,0 +1,67 @@
+(56) 0-chi-tzan
+B3s-decir pues así
+'dijo.'
+(57) Yaa despwees n=0-ja-pan
+ya después
+'y después lo coció,'
+(58) n=0=b'aj=tzan
+(59) Aa=tzan tee
+ky-cho-’n
+INC=B3s-DIR=pues A3p-comer-SD
+'y los padrastros lo terminaron de comer.'
+0=ok
+joq-ee' t-witz
+B3s=DIR sentado-V A3s-SR:en.frente
+kyja'w.
+noq
+DEM-pues 3sPRON sólo
+(60) nti'
+tzq'aaj t-u'n,
+INC=B3s-DIR=DIR_cocer A3s-SR:AGT
+jaa,
+casa
+'y él sólo se sentó en el corredor de la casa,'
+0=tzaj
+NEG
+meb'a-yi-l
+q'o-'n ch'in t-chi'
+B3s=DIR_dar-SD poco A3s-carne A3s-SR:AGT
+t-ee,
+(61) ky-jon-aal
+huérfano-V-AGT A3s-SR:PAC
+'los padrastros no le dieron su poquito de carne,'
+meb'a-yi-l
+A3p-uno-ABST huérfano-V-AGT A3s-SR:PAC
+0=b'aj=ka=x
+(62) aj=tzan=j
+meb'a-yi-l
+huérfano-V-AGT A3s-SR:PAC
+ky-u'n,
+B3s-terminar-pero siempre A3p-SR:AGT
+'los padrastros solos la terminaron,'
+b'aaq_n=0=b’aj=tzan
+t-ee
+ky-u’n,
+DEM=pues=DEM hueso INC=B3s=terminar=pues A3s-SR:AGT
+'hasta los huesos la terminaron,'
+(63) xumaja
+t-ee-x
+b'aaq ky-u'n,
+hueso A3p-SR:AGT
+""xum" tiraron los huesos,"
+t-u'n
+(65) N-chi-b'aj=tzan
+b'aaq xumaja t-ee=x
+AFEC:acción.tirar A3s-salir=DIR hueso AFEC
+(64) b'ix t-ook meeb'a chmoo-1 t-e-t-ee.
+t-ee.
+y
+A3s-entrar huérfano juntar-INF A3s-SR-A3s-SR:PAC
+'y el huérfano estaba juntándolos.'
+t-chmo-'n
+INC=B3p=DIR=pues A3s-juntar-SD
+'Y el huérfano terminó de juntarlos,'
+meeb'a,
+huérfano
+A3s-salir=DIR
+7

@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG empiezo; principio
+\ENG beginning; start
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT *manh
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 20/Jun/95
+\lex 7ok.ma7tz.'@y
+\_no 00362
+\LG MIG
+\PSH [7okma7tztz@y-]
+\UND 7ok.ma7tz.7@y
+\MB ABAJO, amasar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG dejar de amasar
+\ENG to leave off kneading
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ma7tz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex 7ok.me 7kx. '@y
+\_no 00363
+LG MIG
+\PSH [7okme7tz@y-]
+\UND 7ok.me 7kx.7@y
+\MB ABAJO, abrazar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG dejar de abrazar
+\ENG to leave off hugging
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ZOH004R0011001.txt
+Page 156

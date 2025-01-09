@@ -1,0 +1,62 @@
+\DSRC HAJ94
+\CMTS FIX-EX HAJ:96 ok
+\date 26/Jun/96
+\lex yak.wej=panh
+\_no 04104
+\LG MIG
+\PSH [yakwejpanh-]
+\UND yak.wej=panh
+\MB CAUS, gritar, ensordecerse
+\VAR
+GRAM vt
+\SCI
+\USE
+\SPG hacerle sordo por gritos
+\ENG to deafen someone by shouting
+\EXU 7@y+ yak.wej=panh-w@ 7@y+ tatz@k
+\XPSH [7@y yakwejpanhnh@y tatz@k.]
+\XSP Le hizo sordo con el grito.
+\XEN He deafened her by shouting.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wej
+\RTGR T1
+\ROOT panh
+\RTGR IX
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex yak.win=kej
+\_no 04105
+\LG MIG
+\PSH [yakwinkej-]
+\UND yak.win=kej
+\MB CAUS, CARA, verse
+\VAR
+\GRAM caus1
+\SCI
+\USE
+\SPG dar a saber a todos
+\ENG to let everyone know
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kej
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 02/Nov/94
+\lex yak.xi7tz. '@y
+\_no 04106
+ZOH004R0011001.txt
+\LG MIG
+\PSH [yakxi7tztz@y-]
+\UND yak.xi7tz.7@y
+\MB CAUS, X, SUF
+Page 1764

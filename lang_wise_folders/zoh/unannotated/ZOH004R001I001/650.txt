@@ -1,0 +1,63 @@
+\lex ko. yox
+\_no 01495
+\LG MIG
+\PSH [koyox-]
+\UND ko. yox
+\MB OTRO, trabajar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG chambear; trabajar ajeno
+ENG to work for someone else
+\EXU bayun ko. yox-w@
+\XPSH [Bayun koyoxx@.]
+\XSP Trabajo* mucho de ajeno.
+\XEN He worked a lot for other people.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT yox
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex ko.yox.kuy7
+\_no 01496
+\LG MIG
+\PSH [koyoxkuy7]
+\UND ko.yox.kuy7
+\MB OTRO, trabajar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG trabajado en lo ajeno
+\ENG outside work (not your own work)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT YOX
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 17/Jun/95
+ZOH004R0011001.txt
+\lex ko.yox-pa+a7k
+\_no 01497
+\LG MIG
+\PSH [koyoxpa*7k]
+\UND ko.yox-pa +P@7k
+\MB OTRO, trabajar, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG jornalero
+\ENG day-worker
+Page 650

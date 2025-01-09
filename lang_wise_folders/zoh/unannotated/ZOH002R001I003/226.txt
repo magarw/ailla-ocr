@@ -1,0 +1,53 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+clauses always have incompletive aspect. The progressive nəmmə- (PROG) also
+behaves syntactically like an auxiliary verb. One example of this form is given
+in (vi); it is discussed further in chapter 14.
+(8.9)
+(i) tungjo ya nømmom yakpø'ttø gadø pa:pøn
+ya nəmmo-A
+?əm+yak.pə?t-wə
+ga.də
+tun+ho?
+рарәп
+camino+LOC2 NEG poder-nINC 2E+ CAUS pasar-dINC DCT3.DEM diablo
+'En el camino no te va a dejar pasar ese diablo.' (ZOH001R018-043)
+(ii)
+(iii)
+(iv)
+(v)
+(vi)
+yøjønang nømmobam tukxi'awø kon møjmø jente
+nəmmo-pa ?əm+ tukši.?a-wə
+yə.hənaŋ
+kon məhmə hente
+DCT1+ACC poder-INC 2E+ pelear.VERS1-dINC con mucho gente
+'Con esto puedes pelear con bastante gente'
+(ZOH001 R018-097)
+ya nømmoy minnø ni kamilo
+ya nəmmo-A ?əy+ min-wə ni kamilo
+NEG poder-nINC 3E+ venir-dINC ni camilo
+'Ni Camilo no puede venir.'
+nømmoban nøktammám de tungjo?
+nəmmo-pa ?ən+ nək-tam-wǝ+?am de.?
+poder-INC 1E+ ir-1/2PL-dINC+YA DCT2.NOM1
+'Ya podemos ir en ese camino.'
+nømnømjayo'
+nəm=nəm.hay-A?
+DO=decir.APPL-IMPV
+'Anda, dile!'
+(ZOH001R010-006)
+tun+ho?
+camino+LOC2
+(ZOH001R018-133)
+211
+(ZOH001 R018-126)
+nømmøn koxøngngadammø yødø pøn
+nəmmə ?ən+ ko.šəŋ.?a-tam-wə
+yə.də
+pən
+PROG 1E+ SOC.fiesta.VERS1-1/2PL-dINC DCT1.DEM hombre
+'Estamos hiciendo fiesta por este hombre."
+(ZOH001 R018-204)
+There is one syntactic construction that is peculiar to the two most
+common auxiliaries nək- 'ir' and min- 'venir' and to the verb root wit-,
+'andar'. Attempts at eliciting wit- in the basic auxiliary verb construction were

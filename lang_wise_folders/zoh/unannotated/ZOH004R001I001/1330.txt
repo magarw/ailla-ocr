@@ -1,0 +1,62 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS revise PH; figure out GR. HAJ:96 ok
+\date 26/Jun/96
+\lex tukxi'.7aH
+\_no 03090
+\LG MIG
+\PSH [tukxi7a-]
+\UND tukxi'.7aH
+\MB pleito, VERS1
+\VAR
+\GRAM vers1
+\SCI
+\USE
+\SPG pelear; luchar
+\ENG to fight; to have a fight
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tuk@-ji
+\_no 03091
+LG MIG
+\PSH [tuk@ji]
+\UND tuk@-ji
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG dentro de tres dias
+\ENG in three days
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+ZOH004R0011001.txt
+\lex tuk-w@
+\_no 03092
+\LG MIG
+Page 1330

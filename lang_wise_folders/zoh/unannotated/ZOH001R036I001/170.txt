@@ -1,0 +1,90 @@
+\idx
+\ref ZOH001R036 797
+\_no 00783
+\tx kay
+\mb ka
+7@m kopak
+-Y
+7@m kopak
+\sg1 DCT3-TMP 2E cabeza
+\eg1 DCT3-TMP 2E head hurt -INC-NOW
+\zoq Kay 7@m kopak toypa*m.
+\fts Ya duele tu cabeza.
+toypa*m
+toy -pa -7am
+doler-INC-YA
+\fte Then now your head hurts.
+\com
+\idx
+ZOH001R0361001.txt
+\ref ZOH001R036 798
+\_no 00784
+bi
+\tx 7okmanhpam
+\mb 7okmanh-pa -7am bi
+\sg1 empezar-INC-YA DEF
+\egl begin -INC-NOW DEF have_fever
+\ref ZOH001R036 799
+\_no 00785
+jipx@7
+jipx@
+kon 7oje
+-A7 kon 7oj -E
+tener_calentura-NOM2 con toser-NOM3
+-NOM2 with cough-NOM3
+\zoq 7okmanhpam bi jipx@7 kon 7oje.
+\fts Ya empieza la calentura con tos.
+\fte Now begins the fever with a cough.
+\com
+\idx
+\tx komo m tzinhjayya*m
+\mb komo 7@m
+tzinh
+-jay -w@ -7am
+\sg1 como 2E ban*arse-APPL-COM-YA
+man~ana
+\egl like 2E bathe -APPL-COM-NOW morning
+7anhnamtzu7
+7anhnamtzu7
+\zoq Komom tzinhjayya*m 7aṇhnamtzu7.
+\fts Como ya te ban~astes de man~ana.
+\fte Like now you bathe yourself in the morning.
+\com
+\idx
+\ref ZOH001R036 800
+\_no 00786
+gad@
+xitko jipx@7
+\tx 7i pitz@mpanam
+\mb 7i pitz@m-pa -nam7
+\sgl y
+ka -d@ xitko7
+xitko7 jipx@
+salir -INC-TOD DCT3-DEM catarro
+\egl and leave -INC-STILL DCT3-DEM phlegm
+tener_calentura-NOM2
+have_fever
+\zoq 7i pitz@mpanam gad@ xitko jipx@7.
+\fts Y va saliendo esa calentura con gripa.
+\fte And now that fever with a cold is still leaving.
+\com
+\idx
+\ref ZOH001R036 801
+\_no 00787
+\tx 7i gay
+\mb 7i
+\sgl y
+\eg1 and DCT3-TMP DCT3-LOC1 leave-PASS-COM-NOW cold
+-A7
+\zoq 7i gay gaji tzakk@mma*m wayay t@kk@yy@.
+\fts y de ahi* ya quedo* entro* fieldad.
+Page 170
+-NOM2
+gaji
+tzakk@mma*m
+wayay t@kk@yy@
+ka -y
+ka -ji7 tzak -7@m -w@ -7am wayay7 t@k -7@y
+DCT3-TMP DCT3-LOC1 dejar-PAS -COM-YA frio casa -VERS2-COM
+house-VERS2-COM
+-wa

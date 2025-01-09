@@ -1,0 +1,60 @@
+\PASS k@y.7@m
+\ANTI k@y.7oy llevar
+\CMTS ya no se mienta 'mano', no ma*s que 'lo llevo*
+\CMTS the gesture is one hand, holding something like a plate
+\lex 107k
+\_no 00136
+\SPG coger
+\ENG to fuck
+\EX
+\XSP
+\XEN
+\ROOT 107k Ix
+\SEMF sex
+\CMTS get deriv's
+\lex maj
+\_no 00137
+\SPG 11enar (de agua, aceite); regar (una planta)
+\ENG to fill something with water; to sprinkle
+\EX 7@y majtaxx@ majkuy7 de n@7
+\XSP lo lleno* del agua el ca*ntaro
+\XEN he filled the pitcher with water
+\ROOT maj T3
+\SEMF affect, water
+\PASS maj.7@m llenarse; regarse
+\ANTI maj. 7oy llenar; regar
+\CMTS
+\lex majatz
+\_no 00138
+\SPG decir la verdad; descubrir
+\ENG to tell the truth; to discover
+\EX majatztz@mm@
+\XSP dijo la verdad
+\XEN she spoke the truth (the truth was spoken?)
+ZOH001R0611010.txt
+\EX mi yakmajatzxukk@
+\XSP te exigieron que dijeras la verdad
+\XEN
+\ROOT majatz T1
+\SEMF cog, speak
+\CAUS yak.majatz descubrir
+\CMTS
+\lex mak
+\_no 00139
+\SPG pescar con atarraya
+\ENG to fish with a net
+\EX koke makk@
+\XSP agarro* pescado con atarraya
+\XEN she caught fish with a net
+\ROOT mak T3
+\SEMF hunt, instr
+\PASS mak.7@m
+\ANTI mak. 7oy
+\lex ma7k
+\_no 00140
+\SPG calmarse
+\ENG to calm down
+\EX
+\XSP
+\XEN
+Page 33

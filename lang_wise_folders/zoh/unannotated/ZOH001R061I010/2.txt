@@ -1,0 +1,63 @@
+\EX 7@y mokkapx@
+\XSP pizco* mazorca
+\XEN he stole some corn
+\EX 7apx@mm@ bi mok
+\XSP se pizco* la mazorca
+XEN the corn was stolen
+\EX t@mmaw@ 7@n mok 7axta 7apxneyy@
+\XSP se dio* la mazorca, esta* hasta colgadito
+\XEN the corn bore fruit until it hung down
+\ROOT 7apx P (T3)
+\SEMF farm, corn, obj
+\CMTS cf mok=7ek 'pizcar mazorca' in the normal fashion
+\PASS 7apx.7@m
+\ANTI 7apx. 7oy
+\ASSU 7apx.ney estar como colgadito o caidito la mazorca
+\CMTS re: assum. the advantage of this is that the water won't get inside
+\CMTS the husk and rot the corn
+\CMTS re: 7apx. what they do is slit the husk, cut the ear out from inside,
+\CMTS and then leave the empty husk standing on the stalk so the owner thinks
+\CMTS there's still corn there
+ZOH001R0611010.txt
+\lex 7a7p
+\_no 00005
+\SPG abrir_partiendo
+como una fruta
+\ENG to split in half - like a fruit
+\EX wen7ape bi t@m
+\XSP esta partida la fruta
+\XEN the fruit is split open
+\ROOT 7a7p P (T3)
+\SEMF break, cut
+\PASS 7a7p.7@m (parts naturally because overripe: med)
+\ANTI 7a7p.7oy
+\ASSU 7a7p.ney `estar abierto' (no mucho va a decir)
+\CMTS 10 hace con la mano
+\lex 7a7tz
+\_no 00006
+\SPG arder (fuego, cuerpo); arder esto*mago; estar caliente (comal); estar fuerte
+(so1)
+\ENG to burn (fire, body); for the stomach to burn; to be hot (comal); to be
+strong (the sun)
+\EX 7a7tzpan tzokoy
+\XSP ardio* mi esto*mago (como si tiene agruda)
+\XEN my stomach burns
+\EX 7a7tztz@ 7eken
+\XSP estuvo caliente el comal
+\XEN the comal was hot
+\EX 7a7tztzoba
+\XSP le arde
+\XEN it burns
+\ROOT 7a7tz 12
+\SEMF temp
+\CAUS yak.7a7tz hacer arder
+\CMTS
+\lex 7ax
+\_no 00007
+\SPG abrir la boca
+\ENG to open the mouth
+\EX
+\XSP
+\XEN
+\ROOT 7ax P (11)
+Page 2

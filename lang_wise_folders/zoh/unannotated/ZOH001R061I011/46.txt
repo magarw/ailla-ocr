@@ -1,0 +1,60 @@
+XEN she_spanked him on the bottom
+\ROOT to7kx Tx
+\CMTS CK for .ney
+\lex ton
+\_no 00232
+\SPG limpiar soplando (de gorgojo, de broca, de bica, de basura} mai*z, frijol
+\ENG to clean by blowing on it (of weevils, of trash) corn, beans, rice
+\EX 7@y tontenn@
+\XSP lo tiene soplando
+\XEN she's got it cleaned
+\ROOT ton T3
+\CMTS antip ton. 7oy soplar
+\CMTS pass ton.7@m soplarse
+\CMTS prsv ton-ten-e tener soplado
+\lex tonon
+\_no 00233
+\SPG alborotarse - polvo, ahuate, avispa
+\ENG
+\EX
+\XSP
+\XEN
+\ROOT tonon Ix
+\CMTS caus yak.tonon alborotar
+\CMTS get deriv's
+\lex tonh
+\_no 00234
+\SPG "empollar"; ampollarse
+ENG to blister
+\EX
+\XSP
+\XEN
+ZOH001R0611011.txt
+\ROOT tonh 12
+\CMTS caus yak.tonh empollar
+\CMTS indir:caus yak.tonh.jay
+\lex top
+\_no 00235
+\SPG hacer calor; tener calor
+\ENG to be hot; to feel hot
+\EX ban toppa
+\XSP hacer mucho calor
+\XEN to be very hot
+\EX topann@mm@
+\XSP hace calor
+\XEN it was very hot
+\ROOT top 12
+\CMTS caus yak.top hacer sentir calor (sol)
+\lex topx
+\_no 00236
+//top.an@m-w@//
+\lex totz
+\_no 00237
+\SPG mujer tirar pedos aguado
+\ENG for a woman to cut a watery fart
+\EX
+\XSP
+\XEN
+\ROOT topx Ix
+\CMTS cf tepx, cf xopx; get deriv's
+Page 46

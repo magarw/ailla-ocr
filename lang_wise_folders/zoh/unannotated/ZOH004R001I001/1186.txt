@@ -1,0 +1,66 @@
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 16/Oct/94
+\lex poy
+\_no 02757
+\LG MIG
+\PSH
+\UND Poy
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG 1 huir (animal o cristiano)
+\SPG 2
+ir en otro lugar
+\SPG 3 irse con hombre (mujer)
+\ENG 1 to flee (animal or person)
+\ENG 2 to go somewhere else (animal); to move (animal)
+\ENG 3 for a woman to go with a man
+\SPL yak.poy
+\SLGR CAUS
+\SLGL mandar que lo arriera (como un animal) // to herd
+\EXU 1 poy-w@ yom (V)=7une7 jay(a)
+7une'+j@nanh
+\XPSH 1 [Poyy@ yoom 7une7 jay7unej@nanh.]
+\XSP 1 Se juyo* la muchaca.
+\XEN 1 The girl snuck off to have sex with the boy.
+\EXU 2 7@y+ yak.poy-w@ 7eya+jonanh
+\XPSH 2 [7@y yakpoyy@ 7eyajonanh.]
+\XSP 2 Lo mando* arriar a un lado.
+\XEN 2 He herded it to one side.
+\SYN
+\SEMF move
+\ASP activity
+\ARG
+\ROOT poy
+\RTGR 11
+\DSRC HAJ94
+ZOH004R0011001.txt
+\NOM yuk.poy.naanh
+\SUB 7ix=7ok.poy=nuk, 7ok.poy-nuk, nik.poy. '@y, poy='ix-tuk, poy=tzak,
+\SUB poy=yuk.poy, ti7kx=7ok.poy=nuk, xek-tunh-poy, yuk.poy
+\ETYM
+\ETL
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex poy-jonh
+\_no 02758
+(animal); cambiarse de lugar (animal)
+\LG MIG
+\PSH [poyjonh-]
+\UND poy=jonh
+\MB huirse, atarantarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG apurarle trabajando
+\ENG to push someone to work harder
+\EXU d@+ poy-jonh-w@ yox.kuy7+jo7
+\XPSH [D@ poyjonhnh@ yoxkuyjo7.]
+Page 1186

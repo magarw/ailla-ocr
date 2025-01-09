@@ -1,0 +1,94 @@
+189. El niño casi se durmió en el camión.
+a jun unin ijan ixway t'a yol k'en karro
+jun unin ijan ix-Ø-way
+t'a y-ol
+k'en karro
+top uno niño casi pas-3B-dormir prep 3A-dentro Cmetal carro
+190. El pescado muerto está flotando en el agua.
+a jun chamnak chay lanh smaman t'a sat a’ a’
+a jun cham-nak chay lanh s-mama-an t'a sat a'
+a²
+top uno morir-ppt pescado prog 3A-flotar-psc prep cara Cagua agua
+128
+nok' chamnak chay wan yek' ma'aok nok' sat a' a'
+nok'
+cham-nak chay wan y-ek'
+ma'a-ok nok' sat
+Canimal morir-ppt pescado prog 3A-pasar flotar-IRR Canimal cara
+a'
+a'
+Cagua agua
+nok' chamnak chay wan yek' ma'aok nok' yib'an a' a'
+cham-nak chay
+wan y-ek' ma'a-ok nok' y-ib'an
+Canimal morir-ppt pescado prog 3A-pasar flotar-IRR Canimal 3A-SR
+nok'
+a'
+a'
+Cagua agua
+Yo estoy flotando.
+lan inmamani
+lan in-mama-an-i
+prog 1A-flotar-prog-vti
+Yo estoy brotando.
+lan inb'achb'achani
+lan in-b'achb'ach-an-i
+prog 1A-brotar-prog-vti
+191. La madera flota en el agua.
+a jun te' te' lan sb'achb'achan te' sat a' a'
+a
+jun te'
+sat a'
+top uno Cmadera madera prog 3A-brotar-prog Cmadera cara Cagua
+a'
+agua
+te' lan s-b'achb'ach-an te'
+te' te' tzek' ma'aok te' yib'an a' a'
+tz-ø-ek' ma'a-ok te' y-ib'an a' a'
+Cmadera madera pres-3B-pasar flotar-IRR Cmadera 3A-SR Cagua agua
+te'
+te'
+te' te' tzek' t'a b'ab'ok te' t'a sat a' a'
+te'
+te'
+t'a b'ab'-ok te'
+t'a
+sat
+tz-ø-ek'
+Cmadera madera pres-3B-pasar prep flotar-IRR Cmadera prep cara
+a'
+a'
+Cagua agua
+(ma'a
+t'a b'ab'
+no toca el agua
+-> está medio hundido)
+192. Tú siempre me pides tortillas.
+a ach tik tzak'an ixim wa'il t'ay in
+ach tik tz-Ø-a-k'an
+ixim
+a
+wa'il t'ay in
+top 2B dem pres-3B-2A-pedir Cmaíz tortilla prep 1B
+Él siempre me pide tortillas.
+a winh masan sk'an ixim wa'il winh t'ay in
+a winh masan tz-Ø-s-k'an
+ixim wa'il winh t'ay in
+top Cmasc todo pres-3B-3A-pedir Cmaíz tortilla Cmasc prep 1B
+Tú siempre nos pides tortillas.
+a ach tik masan tzak'an ixim wa'il t'ay onh
+a ach tik masan tz-ø-a-k'an
+ixim wa'il t'ay onh
+top 2B dem todo pres-3B-2A-pedir Cmaíz tortilla prep 1B
+Nosotros siempre te pedimos tortillas.
+a onh tik masan skok'an ixim wa'il t'ay ach
+a onh tik masan tz-ø-ko-k'an
+ixim wa'il t'ay ach
+top 2B dem todo pres-3B-1A-pedir Cmaíz tortilla prep 2B
+Yo siempre te pido tortillas.
+a in masan tzink'an ixim wa'il t'ay ach
+a in masan tz-ø-in-k'an
+ixim wa'il
+wa'il t'ay ach
+top 1B todo pres-3B-1A-pedir Cmaíz tortilla prep 2B
+129

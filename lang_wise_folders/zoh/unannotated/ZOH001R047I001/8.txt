@@ -1,0 +1,30 @@
+\idx
+\ref ZOH001R047 032
+\_no 00033
+\tx ja, de7xe de7.
+\mb ja7 te
+te
+-7xe
+-7
+\sgl si* DCT2-SIM
+DCT2-NOM1
+\egl yes DCT2-SIM DCT2-NOM1
+\zoq J@7, de7xe de7.
+\fts Si*, asi* es.
+\fte Yes, that's how it is.
+\com
+\idx
+\ref ZOH001R047 033
+\_no 00034
+\tx 7i 7ora
+\mb 7i 7ora
+\sgl y
+\egl and now
+ahora
+\zoq 71 7ora?
+\fts Y ahora?
+\fte And now?
+\com
+\idx
+ZOH001R0471001.txt
+Page 8

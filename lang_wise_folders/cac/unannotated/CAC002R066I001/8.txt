@@ -1,0 +1,42 @@
+vi
+Grammatical categories and their respective abbreviations are as follows:
+n
+Noun. In general, "noun" refers to lexical items that can be possessed. Nouns that refer to
+physical objects or beings may also be marked for their "essence," i.e., the one (or more) of the
+fifteen or so noun classifiers they are associated with (see below). Abstract nouns are not so
+marked nor do they have such associations.
+Nouns and Nominal Forms
+noun cl
+The noun classifiers in Chuj and other Mayan languages of the Cuchumatanes
+region are a set of lexical items, mostly drawn from nouns. They indicate the essential nature of
+the object or being and function syntactically as pronouns and articles, similar to gender
+pronouns and articles in languages like Spanish (e.g., article el, pronoun él, male; article la,
+pronoun ella, female). A description of noun classifiers can be found in Hopkins (1967), and a
+brief discussion is found in Breedlove and Hopkins (1970:276-8); in these sources they are
+referred to as "specifiers." A hypothesis concerning their origin can be found in Hopkins (2012,
+In press). While the inventory varies slightly from speaker to speaker, the inventory of noun
+classifiers for the major informant is the following:
+(winh)
+Male humans and personified animals (in folktales), day names and major
+illnesses.
+(lum)
+(k'en)
+(ha')
+(k'apak)
+('ix)
+(nok')
+(te')
+('ixim)
+(ch'anh)
+(anh)
+Herbaceous plants (plants other than trees, vines and grains, but including
+mushrooms) and their products; also, the fruits and other edible parts of plants.
+Earth and earthen products (including ceramics).
+Stone and metal, and lithic and metallic products.
+Water and other liquids, including rivers, streams, lakes, etc.
+Cloth and cloth products.
+Female humans and personified animals.
+Animals and animal products.
+Trees and wood products.
+Maize, wheat, other grains, and their products.
+Vines and their products.

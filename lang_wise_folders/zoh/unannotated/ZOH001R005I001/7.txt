@@ -1,0 +1,66 @@
+\eg1 DCT3-LOC1 a_lot corn
+\zoq Gaja7 ban mok.
+\fts Alla* hay mucho maiz.
+\fte There there is a lot of corn.
+\com
+\idx
+\ref ZOH001R005 028
+\_no 00029
+\tx n@mpa
+\mb n@m
+7@y p@kminn@
+-ра 7@y pak
+\ref ZOH001R005 029
+\_no 00030
+\sg1 decir-INC 3E agarrar-venir-COM DEF pa*jaro
+\egl say -INC 3E get -come -COM DEF bird
+\zoq Nampa_7@y p@kminn@ bi jon.
+\fts Dice lo trajo el zanate.
+\fte They say the bird brought it.
+\com
+\idx
+\com
+\idx
+jarak;
+\tx 7@y yaktaxx@
+\mb 7@y yak -tax -wa jarak
+\sg1 3E CAUS-11enarse-COM buche
+\egl 3E CAUS-fill
+-COM beak
+\zoq 7@y yaktaxx@_j@r@k.
+\fts Lleno* su buche.
+\fte He filled his beak.
+\ref ZOH001R005 030
+\_no 00031
+bi
+-min -wa bi
+\tx 7@y buchi n@mjaxukpa*7;
+\mb 7@y buchi n@m -jay -xuk-pa -v7k
+\sg1 3E buche decir-APPL-3PL-INC-REL
+\egl 3E beak say -APPL-3PL-INC-REL
+\zoq 7@y buchi n@mjaxukpa*7k.
+\fts Su buche que le dice.
+\fte His beak is what they say.
+\com
+\idx
+\ref ZOH001R005 031
+\_no 00032
+\tx 7@y yaktaxx@;
+\mb 7@y yak -tax
+\sg1 3E CAUS-11enarse-COM
+\egl 3E CAUS-fill
+\zoq 7@y_yaktaxx@.
+\fts Lo lleno*.
+\fte He filled it.
+\com
+\idx
+ZOH001R0051001.txt
+\ref ZOH001R005 032
+\_no 00033
+\tx 7@y n@mjayy@
+-w@
+-COM
+bi p@n;
+jon;
+jon
+Page 7

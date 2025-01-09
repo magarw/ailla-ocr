@@ -1,0 +1,50 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+4.11. Modals
+Modals affect the mood or aspectual interpretation of the clause in which
+they appear. The complete set is shown in table 4.8. geta and mo? are used
+only in questions, and they are discussed further in chapter 12. They appear
+after the question word, but not necessarily immediately after, as shown in
+example (4.35 i). The other modals are discussed in chapter 13. bəšə and
+pinək exhibit considerable freedom with respect to position, often appearing at
+the beginning of the clause, as shown in example (ii).
+Form
+bə?
+bəše
+(ii)
+geta
+mo?
+pinək
+(4.35)
+(i)
+English
+"isn't it?"
+as if; seems like
+"the hell!"
+I wonder
+I wish; would that it were
+Spanish
+"¿no?"
+parece
+"¡onde!"
+será
+malaya
+Table 4.8. Modals
+jutzéng karro mo' pitzømpa joji
+huceen
+karro mo? 0 picəm-pa hohi
+how_many bus IRR 3A leave-INC tomorrow
+'I wonder how many buses will leave tomorrow?'
+88
+Gloss code
+DUBIT
+SEEM
+DIS
+IRR
+CONFAC
+(elicited)
+ke malay pinøk 'øn 'angnittampa jemji ney tøkjo'
+ke malay pinək ?ən+ ?aŋnit-tam-pa
+hemhi ney tək+ho?
+that i wish CONFAC 1E+ have-1/2PL-INC all IERG house+LOC2
+'That hopefully we'd have everything in our house."
+(ZOH001R013-090)

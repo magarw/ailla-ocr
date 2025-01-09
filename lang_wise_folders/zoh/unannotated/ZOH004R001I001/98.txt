@@ -1,0 +1,65 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7a7tz
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 30/Apr/95
+\lex 7awaktowa7
+\_no 00229
+\LG MIG
+\PSH
+\UND 7awaktowa7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG pa*jaro 11amanorte
+\EXU a type of bird
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 10/Nov/94
+\lex 7awat
+\_no 00230
+LF: jon
+\LG MIG
+\PSH
+\UND 7awat
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG piojo de cabeza - negro
+\ENG head louse
+black
+\EXU 1 piyu7 7@y+ 7awat
+\XSP 1 piojo de gallina
+\XEN 1 chicken louse
+\EXU 2 yoya 7@y+ 7awat
+\XSP 2 piojo de marrano
+\XEN 2 pig louse
+\EXU 3 kan 7awat
+\XEN 3 crab louse
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+LF:bugs
+\CMTS
+\date 09/Jan/96
+\lex 7awin7
+ZOH004R0011001.txt
+Page 98

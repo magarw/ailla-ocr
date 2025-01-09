@@ -1,0 +1,69 @@
+\ref ZOH001R036 999-187
+\_no 01169
+\tx OSM: pwes de kopak
+\mb OSM pwes de kopak
+-E7
+\sg1 OSM: pues de cabeza
+atarantarse -NOM3
+\egl OSM: well of head get_dizzy -NOM3
+\zoq OSM: Pwes, de kopak jowe7,
+\fts OSM: Pues, para mareo
+\fte OSM: well, for head dizziness,
+\com
+\idx
+\ref ZOH001R036
+999-188
+\_no 01170
+\tx 7@y tzoy 7@y naji
+\mb 7@y tzoy
+7@y_n@ji
+\sg1 3E saltar 3E
+nombre
+\egl 3E jump 3E name
+\zoq 7@y tzoy 7@y n@ji
+\fts el remedio se llama
+\fte it's remedy is called
+\com
+\idx
+\ref ZOH001R036 999-189
+\_no 01171
+\tx
+\mb
+sintuli wa7tz
+sintuli wa7tz
+\sgl sintuli rai*z
+\egl sintuli root
+\zoq sintuli wa7tz.
+\fts raiz de sintuli.
+\fte sintuli root.
+\com
+\idx
+\ref ZOH001R036 999-190
+\_no 01172
+\tx
+ga
+\mb ka -7
+sintuli wa7tz
+sintuli wa7tz
+\sg1 DCT3-NOM1 sintuli rai*z
+\eg1 DCT3-NOM1 sintuli root
+jowe 7
+jonh
+\zoq Ga sintuli wa7tz.
+\fts Ese raiz de sintuli.
+\fte That's sintuli root.
+\com
+\idx
+\ref ZOH001R036 999-191
+\_no 01173
+\tx 7@m wixpa
+\mb 7@m wix
+-ра
+arrancar -INC
+\sg1 2E
+\egl 2E pull_up -INC
+ZOH001R0361001.txt
+\zoq 7@m wixpa.
+\fts Lo arrancas.
+\fte You pull it up.
+Page 252

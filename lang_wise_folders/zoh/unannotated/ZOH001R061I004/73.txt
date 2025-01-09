@@ -1,0 +1,62 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 25/Jun/96
+\lex mok= '@kx.i
+\_no 00178
+\LG MIG
+\PSH [mokk@kxi]
+\UND mok=7@kx.E
+\MB mai*z, desgranar, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG mai*z desgranado
+\ENG shelled corn
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7@kx
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex moontzaj@7
+\_no 00179
+LG MIG
+\PSH [moontzaj@7]
+\UND mon.E tza7 +j@7
+\MB envolver, NOM7, stone, LOC1
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG Moneza
+\ENG Moneza
+SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+ZOH001R0611004.txt
+\CMTS a place near SMC; CK-PH ok, HAJ:96/TK fixed PH
+\date 25/Jun/96
+\lex mu.17
+Page 73

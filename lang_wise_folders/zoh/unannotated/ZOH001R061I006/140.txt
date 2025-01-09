@@ -1,0 +1,63 @@
+\XSP Esta* enroscado la vi*bora.
+\XEN The snake is coiled.
+\EXU
+\SYN
+\SEMF move
+\ASP process
+\ARG
+\NOM
+\SUB ni.woy
+\ETYM
+\ETL
+\ROOT WOY
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS no la usa mucho; mas es jeken-
+\DATE 03/Jan/80
+\lex waj@=tz@k
+\_no 00207
+\LG MIG
+\PSH [waj@tz@k-]
+\UND waja-tz@k
+\MB bueno, HACER
+\VAR w@: j=tz@k
+\GRAM vt:incorp
+\SCI
+\USE
+\SPG limpiar; arreglar; componer
+\ENG to clean; to fix; to arrange
+\SPL w@j-tz@k.7@m
+\SLGR PASS
+\SLGL componer // to fix
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 20/Jun/95
+\lex wak
+\_no 00208
+\LG MIG
+\PSH
+\UND wak
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG cortar con cuchillo
+\ENG to cut with a knife
+\SPL w@k. 7oy
+\SLGR ANTIP
+\SLGL cortar // to cut
+\SLGR NO PASS
+ZOH001R0611006.txt
+\SPL w@k.ten
+\SLGR PRSV
+Page 140

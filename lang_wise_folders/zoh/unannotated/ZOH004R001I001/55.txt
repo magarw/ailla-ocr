@@ -1,0 +1,62 @@
+\ETL
+\ROOT me7kx
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 08/Jan/96
+\1ex_7anh-me7tz. '@y
+\_no 00127
+\LG MIG
+\PSH [7anhme7tztz@y-]
+\UND 7anh-me7tz.7@y
+\MB BOCA, buscar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG buscar algo ma*s
+\ENG to look for something else
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT me7tz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex 7anh-mon
+\_no 00128
+\LG MIG
+\PSH [7anhmon-]
+\UND 7anh-mon
+\MB BOCA, envolver
+\VAR
+\GRAM vt
+\SPG tapar la cara con trapo
+\ENG to cover the face with a cloth
+\EXU 7@y+ 7anh-mon-w@ 7@y+ win tum yote7 +j@nanh
+\XPSH [7@y 7anhmonn@y win tum yotej@nanh.]
+\XSP Cubrio* su cara con una ropa.
+\XEN She covered her face with a cloth.
+\SYN
+\ROOT mon
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 26/Jun/96
+\lex 7anh-monh
+\_no 00129
+ZOH004R0011001.txt
+\LG MIG
+\PSH [7anhmonh-]
+\UND 7anh-monh
+\MB BOCA, dormir
+\VAR
+\GRAM vt
+Page 55

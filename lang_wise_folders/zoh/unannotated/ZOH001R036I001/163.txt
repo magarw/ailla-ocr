@@ -1,0 +1,83 @@
+\_no 00749
+\tx <break>
+\fts <break>
+\ref ZOH001R036 764
+\_no 00750
+\tx GSM: ti
+\mb GSM
+tzoy 7@m tz@kjaba
+7@m tz@k -jay -pa
+p@7tpa
+p@7t -pa
+hacer-APPL-INC para que pasar-INC
+\eg1 GSM: what jump 2E do -APPL-INC for that pass -INC
+ti tzoy
+para ke
+para ke
+sg1 GSM: que saltar 2E
+\tx jukutjipx@
+\mb jukut@k-jipx
+\sgl lumbre -quemarse-NOM 3
+\egl fire -overcook-NOM3
+\zoq GSM: Ti tzoy 7@m tz@kjaba
+\fts GSM: Que remedio le haces
+\fte GSM: what medicine do you
+\com
+\idx
+\ref ZOH001R036 765
+\_no 00751
+\tx OSM: pwes pitz
+\mb
+OSM pwes pitz
+\sg1 OSM: pues por eso
+\egl OSM: well because_of
+\com
+\idx
+\ref ZOH001R036 766
+\_no 00752
+\tx
+\mb
+jukutjipx@
+jukut@k-jipx
+-A7
+\zoq OSM: Pwes, pitz ga7.
+\fts OSM: Pues, eso es.
+\fte OSM: Well, that is like this.
+\zoq Jukutjipx@ go7
+\fts Para la fiebre
+\fte For the fever
+\com
+\idx
+ga7
+ka
+go7
+-A7 go7
+\sg1 lumbre -quemarse-NOM3 BNF
+\egl fire -overcook-NOM3 BNF
+-
+\ref ZOH001R036 768
+\_no 00754
+\tx 7algu
+\mb 7algu
+ZOH001R0361001.txt
+-7
+DCT3-NOM1
+DCT3-NOM1
+para ke p@7tpa jukutjipx@?
+para que pase la fiebre?
+make them so the fever passes?
+\zoq kay wanakkam gag@ <break>
+\fts ya bajo* eso <break>
+\fte now that came down <break>
+\ref ZOH001R036 767
+\_no 00753
+wanakkam
+gag@
+\tx kay
+\mb ka
+-y
+wanak -w@ -7am ka -g@
+\sg1 DCT3-TMP bajarse-COM-YA DCT3-DEM
+\eg1 DCT3-TMP go_down-COM-NOW DCT3-DEM
+<break>
+Page 163

@@ -1,0 +1,69 @@
+\CMTS
+\lex kekx
+\_no 00111
+\SPG despeltrar; desestillarse, como madera, olla; quitar hojitas no ma*s
+\ENG to chip; to splinter, like wood or a pot; to pick just the leaves
+\SEMF break
+\ASP achievement
+\ARG
+\NOM j@xkekx@mm@*7
+\NOM kekxna*nh
+\RTGR T3
+\POS de7 da kekxjayy@n xuyu7
+\MID kekx@mm@
+\UNDO
+\CLZ
+\CMTS
+\lex keo
+\_no 00112
+\SPG brillar
+\ENG to reflect
+\SEMF light
+\ASP state
+\ARG
+\NOM keo-pa+a7k
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex kep
+\_no 00113
+\SPG patear
+ENG to kick
+\SEMF hit
+\ASP semelfactive
+\ARG
+\NOM kep.kuy7
+\RTGR P, (T3)
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex ket
+\_no 00114
+\SPG tapar; envolver
+\ENG to cover; to wrap
+\SEMF cover, arrange
+\ASP achievement
+\ARG
+\NOM ket.e, ket.kuy7, ni.ket.e
+\NOM *naanh
+\RTGR P, (T3)
+\POS 7@n mama d@ kett@
+\POS da ketjayy@n 7une
+\MID
+ZOH001R0611002.txt
+\UNDO
+\CLZ
+la parte que se despeltro*
+la parte que se despeltro*/la despeltrada
+e*1 me lo descascaro* mi olla
+esta* despeltrada
+con cobija o con sa*bana (cuando esta* acostado)
+with a blanket or a sheet (when you're lying down)
+me tapo*
+tapo* mi bebe*
+Page 28

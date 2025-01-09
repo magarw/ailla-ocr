@@ -1,0 +1,63 @@
+\MB ponerse_amarillo, cocerse
+\VAR
+\GRAM vi
+\SPG madurarse amarillo
+\ENG to ripen, turning yellow
+\SPL yak.pu7tz-k@nh
+\SLGR CAUS
+\SLGL madurar // to ripen
+\EXU 7@y+ yak. pu7tz-k@nh-w@ bi mangu 7@y+ mon-w@ xunhxuma 7ay'+j@nanh
+\XPSH [7@y yakpu7tzk@nhnh@ bi mangũ, 7@y monn@ xunhxuma 7ayj@nanh.]
+\XSP Maduro* amarillo el mango, lo envolvio* con hoja de bibi.
+\XEN He made the mangoes turn ripe and yellow by wrapping them in bibi
+leaves.
+\SYN
+\ROOT 1 pu7tz
+\RTGR 1 12
+\ROOT 2 k@nh
+\RTGR 2 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex pu7tz.pu7tz
+\_no 02811
+\LG MIG
+\PSH [pu7tzpu7tz]
+\UND pu7tz.pu7tz
+\MB ponerse_amarillo, ponerse_amarillo
+\VAR
+\GRAM AR
+\SCI
+\USE
+\SPG amarillo
+\ENG yellow
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 03/Apr/95
+\lex pu7tz.pu7tz 7uxu7
+\_no 02812
+\LG MIG
+\PSH [pu7tzpu7tz 7uxu7]
+\UND pu7tz.pu7tz 7uxu7
+\MB
+\VAR
+\GRAM aRms
+\SCI
+\USE
+\SPG mosquito amarillo
+\ENG yellow mosquito
+\EXU
+ZOH004R0011001.txt
+\XSP
+\XEN
+\SYN
+\SEMF
+Page 1210

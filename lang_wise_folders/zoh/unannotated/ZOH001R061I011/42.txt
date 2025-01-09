@@ -1,0 +1,59 @@
+\XSP
+\XEN
+\ROOT ta7k T3
+\CMTS antip ta7k. 7oy remojar
+\CMTS pass ta7k.7@m remojarse
+\CMTS prsv ta7k-ten-e lo tiene remojado
+\lex ta7kx
+\_no 00210
+\SPG arder (lumbre); alumbrar (luz)
+\ENG to burn (light); to light (a light)
+\XSP alumbro* todo
+\XEN everything lit up
+\ROOT ta7kx 12
+\CMTS caus yak.ta7kx hacer arder; alumbrar; prender luz
+\lex tan
+\_no 00211
+\SPG (tirar y) pegar con cartucho o piedra
+\ENG (to shoot at and) to hit - with a bullet or a rock
+\EX
+\XSP
+\XEN
+\ROOT tan T3
+\CMTS antip tan.7oy pegar (only get this in INC)
+\CMTS no pass * tan.7@m
+\CMTS tirar: una pistola o una piedra. le pego* por tirar algo
+\lex tan
+\_no 00212
+\SPG completar (se)
+\ENG to finish
+\EX yak.tan jemji
+\XSP hacer completar todo
+ZOH001R0611011.txt
+\XEN to make someone finish everything
+\EX 7@n yaktanpan yoxkuy
+\XSP estoy completando mi trabajo
+\XEN I'm finishing my work
+\ROOT tan I2
+\CMTS caus yak. tan completar
+\lex tanh
+\_no 00213
+\SPG estar ancho
+\ENG to be wide
+\EX
+\XSP
+\XEN
+\ROOT tanh I2
+\CMTS
+\lex tax
+\_no 00214
+\SPG 11enarse
+\ENG to be filled
+\EX 7@y yaktaxx@ tummanh
+\XSP 1o arraso*
+\XEN she filled it level
+\EX taxxa*m
+\XSP esta* lleno, satisfecho
+\XEN he's full
+\ROOT tax I2
+Page 42

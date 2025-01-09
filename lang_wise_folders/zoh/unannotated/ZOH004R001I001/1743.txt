@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT ton
+\RTGR T3
+\DSRC TK96
+\CMTS %x@k
+\date 25/Jun/96
+\lex x@k=xe't.e7
+\_no 04053
+\LG MIG
+\PSH [x@kxete7]
+\UND x@k=xe7t. E7
+\MB frijol, frei*r, NOM7
+\VAR
+\GRAM SSV
+\SCI
+\USE
+\SPG frijoles fritos
+\ENG fried beans
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xe7t
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex x@k=xox.e
+\_no 04054
+\LG MIG
+\PSH [x@kxoxe]
+\UND x@k=xox. E
+\MB frijol, cocer, NOM7
+\VAR
+\GRAM nom:incorp
+\SCI
+\USE
+\SPG frijoles cocidos
+\ENG cooked beans
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT XOX
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex x@k@k
+\_no 04055
+\LG MIG
+\PSH
+ZOH004R0011001.txt
+Page 1743

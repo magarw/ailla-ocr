@@ -1,0 +1,62 @@
+\_no_00088
+\LG MIG
+\PHO [woxna*nh]
+\UND wox.naanh
+\MB pelar, MED
+\VAR
+\GRAM meas
+\SPG una rebanada
+\ENG a bit of orange peel that you sliced off
+\EXU tum wox.naanh 7anaxa=pak
+\XPSH [tum woxnanh 7anaxpak]
+\XSP una rebanada de ca*scara de naranja
+\XEN a slice of orange peel
+\SYN
+\ROOT WOX
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex w@k.naanh
+\_no 00089
+LG MIG
+\PHO [w@kna*nh]
+\UND w@k.naanh
+\MB cortar_c_cuchillo, MED
+\VAR
+\GRAM meas
+\SPG un pedazo (de lo que corte*)
+\ENG a piece (of whatever you cut)
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT wak
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex w@kx.naanh
+\_no 00090
+LG MIG
+\PHO [w@kxna*nh]
+\UND w@kx.naanh
+\MB colgar, MED
+\VAR
+\GRAM meas
+\SPG una colgada
+\ENG a hanging-up
+\EX
+\XSP
+\XEN
+\SYN
+ZOH001R0611003.txt
+\ROOT w@kx
+\RTGR P (TX)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex w@nh.naanh
+\_no 00091
+\LG MIG
+Page 31

@@ -1,0 +1,63 @@
+\USE
+\SPG desatar
+\ENG to untie
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wat
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 12/Aug/94
+\lex 7ok.woj=witu'. '@y
+\_no 00411
+\LG MIG
+\PSH [7okwojwitu7@y-]
+\UND 7ok.woj-witu7.7@y
+\MB ABAJO, ladrar, regresar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG andar ladrando
+\ENG to go around barking
+\EXU nu7 7@y+ 7ok.woj-witu7.7@y-w@ bi piyu7
+\XPSH [Nu7 7@y 7okwojwitu7@yy@ bi piyu7.1
+\XSP El perro anduvo ladrando a la gallina.
+\XEN The dog went around barking at the chicken.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT woj
+\RTGR 11
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+ZOH004R0011001.txt
+\lex 7okx
+\_no 00412
+\LG MIG
+\PSH
+\UND 70kx
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG apagarse
+\ENG to go out (be extinguished)
+\SPL yak.7okx
+\SLGR CAUS
+\SLGL apagar // to extinguish
+\EXU 1 70kx-pa 7i k@nh=tzonh-pa
+\XPSH 1 [7okxpa 7i k@nhtzonhpa.]
+\XSP 1 se prende y se apaga.
+\XEN 1 It goes off and on.
+\EXU 2 7@y+ xuj='okx-w@ ta7kx.@7
+\XPSH 2 [7@y xujjokx@ ta7kx@7.]
+Page 176

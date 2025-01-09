@@ -1,0 +1,63 @@
+\CMTS
+\date 27/Jan/96
+\lex panh [tatz@k
+\_no 02533
+\LG MIG
+\PSH
+\UND panh [tatz@k
+\MB
+\VAR
+\GRAM vi [+ subj
+\SCI
+\USE
+\SPG ensordecerse
+\ENG to be deafened
+\EXU 1 panh-w@ 7@y+ tatz@k
+\XPSH 1 [Panhnh@y tatz@k.]
+\XSP 1 Esta* sordo.
+\XEN 1 He's deaf.
+\EXU 2 da yak.panh.jay-w@ 7@n+ tatz@k
+\XPSH 2 [D@ yakpanhjayy@n tatz@k.]
+\XSP 2 Me hizo sordo.
+\XEN 2 She deafened me.
+\SYN
+\SEMF perception
+\ASP achievement
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT * panh
+\RTGR IX
+\SPL yak.panh
+\SLGR CAUS
+\SLGL ensordecer
+\KEY
+\DSRC HAJ95
+\CMTS cf. MAR %panh 12f `ensordecerse'
+\CMTS a temporary deafness, like from a blow
+\date 03/Jan/80
+\lex panh=jax
+\_no 02534
+\LG MIG
+\PSH [panhjax-]
+\UND panh-jax
+\MB *arrimarse, asar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tostar arrimado (totopo, carne...)
+\ENG to toast something by leaning it against the griddle (totopos,
+meat...)
+\SPL
+\SLGR
+ZOH004R0011001.txt
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+Page 1091

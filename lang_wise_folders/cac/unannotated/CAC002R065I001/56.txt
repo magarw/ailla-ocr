@@ -1,0 +1,35 @@
+MANUALIDA
+KNYGROEI WSPANY
+EMA
+51
+does
+while the combination p_p' does occur,
+*t_t', *c_c¹, *č_č', and *k_k' do not occur.
+1
+(2) An affricate may not occur as C₁ in a C₁VC2 root
+which has as C₂ an affricate not of the same point of artic-
+ulation. That is, while the combinations c_c and č_č do oc-
+cur, as do č'_č' and c'_c', the combinations *c_č, *c_č',
+*c¹_č, *c'_č', *č¹_c, and *č'_c¹ do not occur.
+(3) The gingival fricative /s/ does not occur in a
+C₁VC₂ root which has as its other consonant a gingival or al-
+veolar fricative. That is, the combinations *s_s, *s_š, and
+*Š_s do not occur.
+occur, the combinations
+*č_c, *č_c¹, *c¹_č, *c'_č¹, *č'__c,
+(4) The fricatives /s/ and /š/ do not occur as C₁ in
+C₁ VC₂ roots which have as C₂ one of the affricates /c/ and
+/č¹/. That is, the combinations *s_c, *š_c, and *š_č' do
+not occur.
+(5) The fricative /š/ does not occur as C₁ in a CVC2
+root which has as C₂ the affricate /c¹/. That is, the combi-
+nation *š_c' does not occur.
+The last three restrictions concern roots which have as
+C₁ one of the fricatives /s/ and /š/. The existence of a
+very few forms makes it difficult to write more general state-
+ments of restrictions. Except for the roots //šúš // wasp (a
+species of Polistes), //síč // hushing call to dogs, //séč //
+strike by one top on another (in the game of spinning tops),
+//šéč // forked, //šáč // forked, //šóč // land snail, and
+//sóc' // bat (any species), these three restrictions could be
+written as the following single restriction:

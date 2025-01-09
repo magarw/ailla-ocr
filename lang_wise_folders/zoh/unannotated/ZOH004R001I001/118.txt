@@ -1,0 +1,65 @@
+\MB
+\VAR
+\GRAM quant
+\SCI
+\USE
+\SPG (un) poco, cachito
+\ENG a little
+\EXU 7ot 7ichiinh
+\XSP otro poco
+\XEN another little bit
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ4
+\CMTS
+\date 25/Jun/96
+\lex 7iki7
+\_no 00274
+\LG MIG
+\PSH
+\UND 7iki7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG carnecuili
+\ENG a type of tree
+\EXU 7iki7 t@m
+\XSP fruta de carnecuili
+\XEN a type of fruit
+\SYN
+\SEMF EB
+LF: kuy
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex 7imunix
+\_no 00275
+\LG MIG
+\PSH
+\UND 7imunix
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG limo*n
+\ENG lime
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+LF: kuy
+ZOH004R0011001.txt
+Page 118

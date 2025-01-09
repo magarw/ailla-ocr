@@ -1,0 +1,61 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 02/Oct/96
+\lex 7alma*siku
+\_no 00028
+\LG MIG
+\PSH
+\UND 7alma*siku
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG alma*cigo
+\ENG 1 nursery, hot-house
+\ENG 2 hot-bed, forcing-bed
+\EXU
+\XSP
+\XEN
+\SYN witz.@
+\SEMF
+\ETYM alma*cigo
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS PH/TK
+\date 24/Jun/96
+\lex 7almendra
+\_no 00029
+\LG MIG
+\PSH
+\UND 7almendra
+\MB
+\VAR 7almendra*
+\GRAM S
+\SCI
+\USE
+\SPG palo de almendra
+\ENG almond tree
+\EXU
+\XSP
+\XEN
+\SYN
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS PH/TK
+\date 24/Jun/96
+\lex 7almu
+\_no 00030
+\LG MIG
+\PSH
+ZOH004R0011001.txt
+Page 12

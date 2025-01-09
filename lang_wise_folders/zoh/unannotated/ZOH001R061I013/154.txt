@@ -1,0 +1,53 @@
+\ENG get
+\lex p@kp@k
+\_no 01926
+\SPG hombro
+ENG shoulder
+\1ex p@7k
+\_no 01927
+\SPG REL2
+\ENG REL2
+\1ex p@7kx
+\_no 01928
+\SPG
+\ENG root
+suelda_con_suelda
+\lex p@m
+\_no 01929
+\SPG aguantar
+\ENG bear
+\lex p@mi7
+\_no 01930
+\SPG fuerte
+\ENG strong
+\lex p@n
+\_no 01931
+\SPG estar_puesto
+\ENG be_put
+\lex p@n
+\_no 01932
+\SPG hombre
+\ENG man
+\lex p@7t
+\_no 01933
+\SPG pasar
+\ENG pass
+\lex p@7tz
+\_no 01934
+\SPG destripar
+\ENG
+\lex ramirez
+\_no 01935
+\SPG Ramirez
+\ENG Ramirez
+\lex rasyonh
+\_no 01936
+\SPG racio*n
+\ENG reason
+\lex rato
+\_no 01937
+\SPG rato
+\ENG while
+\lex raya
+ZOH001R0611013.txt
+Page 154

@@ -1,0 +1,65 @@
+\VAR
+\GRAM vi: med
+\SCI
+\USE
+\SPG pasar su borrachera; ponerse en juicio despue*s de borracho
+\ENG for drunkenness to pass off; to sober up
+\EXU mokoy-w@ 7i ko.x@j_w@
+\XPSH [Mo:koyy@ 7i kox@jja.]
+\XSP Se emborracho* y ya se le paso* su borrachera.
+\XEN He got drunk and now his drunkenness has worn off.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT X@j
+\RTGR IX
+\DSRC HAJ94
+\CMTS get deriv's
+\CMTS CK-EX
+-
+\CMTS v/x@j (1)
+\date 24/Jun/96
+\lex ko.x@nh7
+\_no 01491
+\LG MIG
+\PSH [kox@nh7]
+\UND ko.x@nh7
+think they're ok, HAJ:96: put x@j elsewhere
+\MB OTRO, fiesta
+\VAR
+\GRAM s(+poss)
+\SCI
+\USE
+\SPG nagual, nagual de uno
+\ENG nagual, someone's nagual
+\EXU waja ko.x@nh7
+\XPSH [waja kox@nh7]
+\XSP nagual bueno
+\XEN a good nagual
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT x@nh (or x@nh7 ?)
+\DSRC HAJ94
+ZOH004R0011001.txt
+\CMTS
+\date 07/Feb/96
+\lex ko.x@nh'. 7aH
+\_no 01492
+\LG MIG
+\PSH [koox@nhnha-]
+\UND ko.x@nh 7.7aH
+\MB OTRO, fiesta, VERS1
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer una fiesta
+\ENG to have a party
+\EXU 7@y+ ko.x@nh'.7aH-w@
+\XPSH [7@y kox@nhnhaw@.]
+\XSP Le hizo una fiesta.
+XEN They had a party.
+Page 648

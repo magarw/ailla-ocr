@@ -1,0 +1,71 @@
+\sg1 3E poner-INC-YA DCT2-NOM1 a*rnica
+\egl 3E put -INC-NOW DCT2-NOM1 herb
+\zoq 7@y p@pam de tampitz.
+\fts Le echa la arnica.
+\fte One puts on that arnica.
+\com
+\idx
+\ref ZOH001R036 508
+\_no 00499
+\tx 7@y p@pam
+bi jepe
+7ay7
+\mb
+7@y
+7@y p@7 -pa -7am bi jepe 7ay7
+p@7
+poner-INC-YA
+\sg1 3E
+DEF maguey hoja
+\egl 3E put -INC-NOW DEF maguey leaf
+\zoq 7@y p@pam bi jepe 7ay7.
+\fts Le echa la hoja de maguey.
+\fte You put on the maguey leaf.
+\com
+\idx
+\ref ZOH001R036 509
+\_no 00500
+\tx para y
+tzepa*m
+\mb
+para 7@y tze7 -pa -7am
+\sg1 para 3E lavar-INC-YA
+\egl for 3E wash -INC-NOW
+\zoq Paray tzepa*m.
+\fts Para que lo lave.
+\fte So now one washes it.
+\com
+\idx
+\ref ZOH001R036 510
+\_no 00501
+\tx pa y yakkapa
+\mb para 7@y yak -ka7
+\sg1 para 3E CAUS-morirse-INC
+\egl for 3E CAUS-die
+ZOH001R0361001.txt
+\ref ZOH001R036 511
+\_no 00502
+-ра
+\zoq Pay yakkapa bi 7eridad@kka.
+\fts Para que mate la herida.
+\fte so that you kill that wound.
+\com
+\idx
+bi 7erida d@kka
+bi 7erida d@kkay
+DEF herida NPL
+\ref ZOH001R036 512
+\_no 00503
+-INC DEF wound NPL
+\tx GSM: pa tzokpa
+y n@kk@
+\mb GSM para tzok -pa 7@y nak -wa
+\sg1 GSM: para sanar-INC 3E irse-dINC
+\eg1 GSM: for cure -INC 3E
+go -dINC
+\zoq GSM: Pa tzokpay n@kk@.
+\fts GSM: Para que vaiga sanando.
+\fte GSM: Wo it goes along healing.
+\com
+\idx
+Page 109

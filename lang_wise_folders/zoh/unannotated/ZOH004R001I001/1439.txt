@@ -1,0 +1,65 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzij
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\CMTS illustrated by banging a nail-clipper rythmically on the table
+\date 16/Jun/95
+\lex tzij=yuk.poy
+\_no 03347
+\LG MIG
+\PSH [tzijyukpoy-]
+\UND tzij=yuk.poy
+\MB pegar_con_piedra, ARR, huir
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG correr de pedrada
+\ENG to chase away by throwing stones
+SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 tzij
+\RTGR 1 T3
+\ROOT 2 poy
+\RTGR 2 11
+\DSRC HAJ95
+\CMTS
+\date 14/Jun/95
+\lex tzik
+\_no 03348
+\LG MIG
+\PSH
+\UND tzik
+ZOH004R0011001.txt
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pelar; quitar o pelar cuero a un animal, chollar
+\ENG to skin an animal
+\SPL tzik. 7oy
+\SLGR ANTIP
+\SLGL pelar // to skin
+\SPL tzik.7@m
+\SLGR PASS
+\SLGL pelarse // to be skinned
+\EXU 1 7@y+ naka-tzik-w@
+\XPSH 1 [7@y nakatzikk@.]
+\XSP 1 Quito* el cuero de un animal.
+\XEN 1 She skinned it.
+\EXU 2 7@y+ tzik-w@ bi yoya
+Page 1439
+-
+bajar el cuero

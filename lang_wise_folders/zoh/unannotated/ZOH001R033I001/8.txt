@@ -1,0 +1,75 @@
+\tx ya sabe ga
+\mb ya sabe ka -7
+\sg] ya sabe
+DCT3-NOM1
+\egl now knows DCT3-NOM1 dry
+\ref ZOH001R033 035
+\_no 00034
+\tx t@tztza*m
+\mb
+t@tz
+\zoq Ya sabe ga t@tztza*m.
+\fts Ya sabe ya se seco*.
+\fte Now you know it has dried.
+\com
+\idx
+\sg1 secarse-COM-YA
+\eg1 dry
+g@ pata;
+-w@ -7am g@ pata7
+DEM petate
+t@tztza*m;
+t@tz
+-COM-NOW DEM mat
+\ref ZOH001R033 036
+\_no 00035
+-w@ - 7am
+secarse-COM-YA
+\zoq T@tztza*m g@ pata7.
+\fts Ya esta* seco el petate.
+\fte Now the mat has dried.
+\com
+\idx
+\tx t@tztza*m
+\mb t@tz
+\sg1 secarse-COM-YA
+\eg1 dry
+ga
+pata;
+-w@ -7am g@ pata7
+DEM petate
+-COM-NOW DEM mat
+\ref ZOH001R033 037
+\_no 00036
+\tx g@ we7k g@ we7k;
+\mb g@ we7k g@ we7k
+\sg1 DEM tule DEM tule
+\egl DEM tule DEM tule
+\zoq T@tztza*m g@ pata7.
+\fts Ya esta* seco el petate.
+\fte Now the mat has dried.
+\com
+\idx
+ZOH001R0331001.txt
+\zoq G@ we7k, g@ we7k,
+\fts El tule, el tule,
+\fte The reeds, the reeds,
+\com
+\idx
+\zoq param tz@kpa g@ pata7.
+\fts para que hagas el petate.
+\fte so I can make the mat.
+\com
+\idx
+-COM-NOW
+\ref ZOH001R033 038
+\_no 00037
+para m
+tz@kpa
+g@
+pata;
+\tx
+\mb para 7@m tz@k -pa g@ pata7
+\sg1 para 2e hacer-INC DEM petate
+\egl for 2E do -INC DEM mat
+Page 8

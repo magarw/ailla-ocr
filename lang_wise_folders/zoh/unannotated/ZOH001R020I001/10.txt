@@ -1,0 +1,70 @@
+t@kk@ba
+\tx si kana n@
+\mb si kana n@7
+\sgl si sal agua
+ZOH001R0201001.txt
+n wit@mjo
+tak -7@y -pa 7@n wit@m-jo7
+casa -VERS2-INC 1E
+\egl if salt water house-VERS2-INC 1E
+\zoq "si kana n@ t@kk@ban wit@mjo."
+\fts "si el agua es sal entre en mis ojos."
+fte "if the salt water
+"I
+gets in my eyes.
+\com
+\idx
+\not
+\idx poss, n_cmp
+\ref ZOH001R020 036
+\_no 00037
+\tx n@7tti n@mpa
+\mb n@7tti n@m
+\sg1 no
+\eg1 no
+\zoq "N@7tti," n@mpa.
+\fts "No, deci*a.
+\fte "No," he says.
+\com
+\idx
+\not
+\idx
+-pa
+decir-INC
+say -INC
+\ref ZOH001R020 037
+\_no 00038
+\tx mix nitz@n@
+\mb mix ni -tz@n
+\sg1 2>1 PSE-estar_sentado-IMPV
+\egl 2>1 PSE-sit
+\zoq "Mix nitz@n@,
+\fts "Montanme,
+\fte "sit on me,
+\com
+\idx
+\not
+\idx
+\ref ZOH001R020 038
+\_no 00039
+\zoq 7i yanhkamm@n wit@m,
+\fts y cierra los ojos,
+\fte and close your eyes,
+\com
+\idx
+\ref ZOH001R020 039
+\_no 00040
+-A7
+\tx 7i yanhkamm@
+n wit@m
+-A7 7@n wit@m
+\mb 7i yak -7anh -kam
+\sg] y
+CAUS-BOCA -trabarse -IMPV 1E ojo
+\eg1 and CAUS-MOUTH-get_stuck-IMPV 1E eye
+\tx 7i n@ki
+\mb 7i n@k -i
+ojo -LOC2
+eye -LOC2
+- IMPV
+Page 10

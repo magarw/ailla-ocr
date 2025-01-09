@@ -1,0 +1,90 @@
+332. Ese árbol se va a caer pronto.
+a jun te' te' chi' yowalil oltelwok te'
+a
+jun te'
+te'
+chi' y_owal_il ol-ø-telw-ok
+te'
+top uno Cmadera árbol dem m.deónt fut-3B-caer-IRR Cmadera
+a jun te' te' chi' elanchamel oltelwok te'
+jun te'
+a
+top uno Cmadera árbol dem rápido
+333. Ese árbol se cayó.
+ixtelwi te'
+chi' elanchamel ol-ø-telw-ok
+te'
+174
+a jun te' te' chi' wal tik naik stelwi te'
+a jun te'
+te' chi' wal tik_neik tz-ø-telwi
+top uno Cmadera árbol dem enf ahora
+ix-Ø-telw-i
+te'
+pas-3B-caer-vti Cmadera
+334. Se me hinchó el pie.
+ixmalk'e wok
+ix-ø-mal-k'e
+w-ok
+pas-3B-hinchar-DIR.arriba 1A-pie
+335. Tengo el pie hinchado.
+malnak wok
+mal-nak-ø
+w-ok
+hinchar-ppt-3B 1A-pie
+336. Me ensucié la camisa con lodo.
+ixinmikej inkamix t'a lum sok'om
+ix-ø-in-mik-ej
+te'
+fut-3B-caer-IRR Cmadera
+337. Se me ensució la camisa con lodo.
+te'
+pres-3B-caer Cmadera
+in-kamix t'a lum sok'om
+pas-3B-1A-ensuciar-vtd 1A-camisa prep Ctierra lodo
+ixmikaj inkamix yuj lum sok'om
+ix-ø-mik-aj
+in-kamix y-uj lum sok'om
+pas-3B-ensuciar-psv 1A-camisa 3A-SR Ctierra lodo
+ixoch sok'om t'a inkamix
+ix-ø-och sok'om t'a
+pas-3B-entrar lodo
+Me mordí la boca.
+ixinkach' inti'
+ix-Ø-in-kach'
+in-ti'
+pas-3B-1A-morder 1A-boca
+Me mordí la lengua.
+ixinkach' wak'
+ix-ø-in-kach'
+w-ak'
+pas-3B-1A-morder 1A-lengua
+in-kamix
+prep 1A-camisa
+Se me rompió la camisa.
+ixnikchaj inkamix
+ix-ø-nik-chaj
+in-kamix
+pas-3B-romper-psv 1A-camisa
+Se rompió mi olla.
+ixpoj inchen
+ix-ø-poj
+in-chen
+pas-3B-romper 1A-olla
+ixpojchaj inchen
+ix-ø-poj-chaj
+in-chen
+pas-3B-romper-psv 1A-olla
+338. El fuego arde bien.
+te' k'ak' te wach' sk'e sxil te'
+te'
+k'ak' te
+s-xil te'
+wach' tz-ø-k'e
+Cmadera fuego muy bueno pres-3B-subir 3A-pelo Cmadera
+te' k'ak' te wach' sk'e yok te'
+te'
+k'ak' te wach' tz-ø-k'e
+y-ok te'
+Cmadera fuego muy bueno pres-3B-subir 3A-pie Cmadera
+175

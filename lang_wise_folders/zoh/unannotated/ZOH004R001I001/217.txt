@@ -1,0 +1,64 @@
+\UND 7une7 m@a7
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG venaditos
+\ENG baby deer
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex 7une' yom (@') 7une7
+\_no 00506
+LG MIG
+\PSH [7une yoom 7une7]
+\UND 7une7 yom@7 7une7
+\MB nin~o/a, woman, nin~o/a
+\VAR
+\GRAM ss (m) s
+\SCI
+\USE
+\SPG sen*orita
+\ENG young unmarried woman
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yom@7
+\KEY
+\DSRC HAJ94
+\CMTS CK-PH ok
+\date 11/Feb/96
+\lex 7un(v) tzan7
+\_no 00507
+\LG MIG
+\PSH [7uuntzan7]
+\UND 7unVtzan7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG chicle
+\ENG chicle
+-
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+Page 217

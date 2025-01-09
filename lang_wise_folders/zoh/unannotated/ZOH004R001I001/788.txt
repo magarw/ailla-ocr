@@ -1,0 +1,66 @@
+\EXU 1 maj.7@m-w@ bi maj.kuy7
+\XPSH 1 [Majj@mm@ bi_majkuy7.]
+\XSP 1 Esta* lleno el ca*ntaro.
+\XEN 1 The jug is full.
+\EXU 2 n@mm@ 7@y+ maj-wa bi jay@' 7okox_d@k(+'ay+
+\XPSH 2 [N@mm@y majja bi jaya 7okox d@kka.]
+\XSP 2 Esta* regando las matas de flores.
+\XEN 2 She's watering the flowering shrubs.
+\EXU 3 7@y+ maj.ten-w@ bi jay@7
+\XPSH 3 [7@y majtenn@ bi j@y@7.]
+\XSP 3 Teni*a regado la flor.
+\XEN 3 He's got the flowers watered.
+\SYN
+\SEMF water, plant
+\ASP activity
+\ARG
+\NOM maj. kuy7
+\SUB maj=tax, nik.maj. '@y, yuk.maj
+\ETYM
+\ETL
+\ROOT maj
+\RTGR T3
+ZOH004R0011001.txt
+\DSRC TK94
+\CMTS Camilo rejects the 'llenar' gloss. C & G differ on the meaning of
+\CMTS 'maj.ten-¹: C says it's "now she's got the plant watered' and
+\CMTS G says it's silly, it would mean standing there with the water
+\CMTS pouring over the shrub
+\date 03/Jan/80
+\lex majatz
+\_no 01825
+\LG MIG
+\PSH
+\UND majatz
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG descubrir, decir la verdad
+\ENG to spill the beans, to tell the truth
+\SPL yak.majatz
+\SLGR CAUS
+\SLGL descubrir; jurar por alguien; hacer descubrir, obligar a decir la
+verdad // to reveal; to swear for someone; to make reveal; to
+make tell the truth
+\EXU 1 7@y+ yak.majatz-w@
+\XPSH 1 [7@y yakmajatztz@.]
+\XSP 1 Lo hizo que descubriera, que dijera la verdad.
+\XEN 1 She made him tell the truth.
+\EXU 2 7@y+ majatz.jay-wa bi pan
+\XPSH_2 [7@y majatzjayy@ bi p@n.]
+\XSP 2 Le dijo todo lo que estaba preguntando.
+\XEN 2 The man told them everything they were asking him.
+\EXU 3 d@ majatz-pa
+\XPSH 3 [D@ majatzpa.]
+\XSP 3 Todo le digo.
+\XEN 3 I told them everything.
+\SYN majatz.@7
+=
+n@m.@7 naxe, 'di la verdad' // 'tell the truth'
+\SEMF speak, cognitive
+\ASP activity
+\ARG
+\NOM
+Page 788

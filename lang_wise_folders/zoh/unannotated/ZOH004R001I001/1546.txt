@@ -1,0 +1,64 @@
+\XPSH_2 [waypa*7k yoma*7]
+\XSP 2 molendera
+\XEN 2 corn grinder
+\EXU 3_7@y+ way-w@ bi pitz.i tza'+g@xi
+\XPSH 3 [7@y wayy@ bi pitzi tzag@xi.]
+\XSP 3 Molio* el nixtamal en el metate.
+\XEN 3 She ground the corn on the metate.
+\SYN
+\SEMF corn
+\ASP process
+\ARG
+\NOM wa.e, ni.way tza7
+\SUB ko.way, k@.way,
+\ETYM
+\ETL
+\ROOT way
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex way7
+\_no 03596
+LG MIG
+\PSH
+\UND way7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG pelo; cabello; pelo de animal
+\ENG hair; fur
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 21/Oct/94
+\lex wayakaanh
+\_no 03597
+\LG MIG
+\PSH
+\UND wayaka*nh
+\MB
+\VAR wayakanh kuy
+\GRAM
+\SCI
+\USE
+\SPG guayaca*n
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF EB
+\ETYM
+LF: kuy
+Page 1546

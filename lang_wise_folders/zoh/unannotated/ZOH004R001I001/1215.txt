@@ -1,0 +1,62 @@
+\ENG glutton
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM puerca
+\ETL Sp
+\ROOT
+\DSRC TK94
+\CMTS
+\date 03/Apr/95
+\lex p@j.7@y
+\_no 02821
+\LG MIG
+\PSH [p@jj@y-]
+\UND p@j.7@y
+\MB largo, VERS2
+\VAR
+\GRAM vi:vers2
+\SCI
+\USE
+\SPG alargarse
+\ENG to get long(er)
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS %p@j
+\date 28/Jan/96
+\lex p@j.i7
+\_no 02822
+\LG MIG
+\PSH [p@ji7]
+\UND p@j.E7
+\MB largo, NOM7
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG largo
+\ENG long
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex p@j.i' jojo
+\_no 02823
+ZOH004R0011001.txt
+Page 1215

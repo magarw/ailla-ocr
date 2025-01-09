@@ -1,0 +1,90 @@
+\egl three measure-INSTR1 lard
+\zoq tuwanh 7utzkuy manteka,
+\fts tres litros de manteca,
+\fte three measures of lard,
+\com
+\idx
+\ref ZOH001R031 009
+\_no 00010
+\tx 7i tuwanh maktaxxanh
+\mb 7i tuwa*nh maktaxxanh
+\sg] y
+tres cuatro
+\egl and three four
+\ref ZOH001R031 010
+\_no 00011
+\tx 7i d@ tukpa
+\mb 7i d@ tuk
+\sgl y 1A terminarse-INC
+\eg1 and 1A finish
+\zoq 7i tuwanh maktaxxanh 7utzkuy de 7asukar 7i bi kanela.
+\fts y tres cuatro kilo de azucar y el canela.
+\fte and three four measures of sugar and of cinnamon.
+\com
+\idx
+\ref ZOH001R031 011
+\_no 00012
+\zoq 7i d@ tukpa, 7@n tz@kpan - bin pasta.
+\fts Y porque voy a hacer mi pasta.
+\fte And I'll finish, I'll make my
+\com
+my dough.
+\idx
+n
+\tx
+para n tz@kpa
+\mb para 7@n tz@k -pa 7@n
+\sg1 para 1E hacer-INC 1E
+\egl for 1E do -INC 1E
+\ref ZOH001R031 012
+\_no 00013
+d@ tukpa
+-pa
+\zoq 7ay d@ tukpa.
+\fts voy a terminar.
+\fte Then I'll finish.
+\com
+\idx
+7@n tz@kpa n bi n pasta
+7@n tz@k -pa 7@n bi 7@n pasta
+1E hacer-INC 1E DEF 1E pasta
+-INC 1E do -INC 1E DEF 1E dough
+\tx 7ay
+\mb 7adyo d@ tuk
+\sg1 luego 1A terminarse-INC
+\egl later 1A finish
+\ref ZOH001R031 013
+\_no 00014
+\tx gay
+ZOH001R0311001.txt
+7utzkuy
+de 7asukar 7i
+7utz -kuy7 de 7asukar 7i
+medir -INSTR1 de azucar y
+measure-INSTR1 of sugar
+-pa
+\zoq Paran tz@kpan kaprichu, bin kwernu, bin jax@*7.
+\fts Porque voy a hacer el caprichu el cuerno pan tostado.
+\fte Because I'm going to make my capricho, my horns, and my toast.
+\com
+\idx
+- INC
+kaprichu bi n
+kaprichu bi 7@n
+capricho DEF 1E
+capricho DEF 1E
+d@ 7ornojukutt@ba
+bi
+bi
+DEF canela
+and DEF cinnamon
+kanela
+kanela
+n petpa
+Page 3
+kwernu bi n jax@*7
+kwernu bi
+7@n jax
+-A7
+cuerno DEF 1E asar -NOM2
+horn DEF 1E roast-NOM2

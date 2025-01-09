@@ -1,0 +1,63 @@
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ju7tz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 08/Jan/96
+\lex 7anh-juy. '@y
+\_no 00084
+\LG MIG
+\PSH [7anhjuyy@y-]
+\UND 7anh-juy.7@y
+\MB BOCA, comprar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG comprar algo para alguien
+\ENG to buy something for someone
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT juy
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 08/Jan/96
+\lex 7anh-j@7
+\_no 00085
+\LG MIG
+\PSH [7anhj@7]
+\UND 7anh-j@7
+\MB
+\VAR
+\USE directional
+\GRAM av
+\SPG ontal x
+\ENG over to where x is
+\SPL
+\SLGR
+\EXU n@k-i parke+7anhja
+\XPSH [N@ki parke7anhj@.]
+\XSP Vamos al parque.
+\XEN Let's go to the square.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+ZOH004R0011001.txt
+Page 37

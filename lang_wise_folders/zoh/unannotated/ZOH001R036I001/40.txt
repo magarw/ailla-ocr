@@ -1,0 +1,97 @@
+\tx
+\_no 00182
+pa
+ke
+\mb para ke
+n@kpa n
+n@k -pa 7@n
+\sgl para que irse-INC 1E
+\egl for that go
+\tx monhnh@*7
+\mb monh
+-w@ -v7k
+\sg1 dormir-COM-REL
+\egl sleep -COM-REL
+\ref ZOH001R036 182
+\_no 00183
+\tx tigo*7
+\mb
+\zoq Pa ke n@kpan tzamt@kkaw@ gad@ 7alma monhnh@*7.
+\fts Para que yo vaiga a platicar ese finado que esta*
+\fte so that I can go talk to that deceased one who is sleeping.
+\com
+durmiendo.
+\idx
+\ref ZOH001R036 183
+\_no 00184
+\tx tigo*
+\mb ti -goo7
+de 7xx@m
+de-7xe-7@m
+de-SIM-2E
+\sg1 que -BNF
+\eg1 what-BNF of-SIM-2E do
+ZOH001R0361001.txt
+tzamt@kkaw@
+-t@k -7a -wa
+platicar-casa -VERS1-dINC
+tzam
+-INC 1E converse-house-VERS1-dINC
+\ref ZOH001R036 184
+\_no 00185
+bi
+tz@kjaba
+tz@k -jay -pa
+senyor 7@n n@mjaba
+ti -goo7 bi
+senyor 7@n n@m
+-jay -pa
+\sg1 que -BNF DEF hacer-APPL-INC DCT2-SIM sen~or 1E decir-APPL-INC
+\egl what-BNF DEF do -APPL-INC DCT2-SIM mister 1E say -APPL-INC
+\zoq "Tigo*7 bi tz@kjaba de7x, senyor?" 7@n n@mjaba.
+\fts "Porque le hace asi*, sen~or?" le digo.
+\fte "why do you do them this way, sen~or?" I say to him.
+\com
+\idx
+\tx xawa 7@y tzokoyjo7
+\mb xawa 7@y tzokoy7 -jo7
+\sgl aire 3E
+corazo*n-LOC2
+\egl wind 3E heart -LOC2
+\ref ZOH001R036 185
+\_no 00186
+de7x
+te -7xe
+\zoq "Tigo* de7xx@n tz@kjabam manak?
+\fts "Porque le haces asi* tu hijo?
+\fte "why do you do your child this way?
+\com
+\idx
+tz@kjaba
+m manak
+tz@k -jay -pa 7@m manak
+hacer-APPL-INC 2E hijo/a
+-APPL-INC 2E child
+7alma
+7alma
+DCT3-DEM alma
+DCT3-DEM soul
+gad@
+ka -d@
+\tx
+tigo
+n@mm@ m p@jaye
+senyor 7@m n@mjaba
+\mb senyor 7@m_n@m
+-jay -pa ti -goo7 n@mm@ 7am p@7 -jay -E
+\sg1 sen~or 2E decir-APPL-INC que - BNF
+PROG 2E poner-APPL-dCOM DCT2-DEM
+\egl mister 2E say -APPL-INC what-BNF PROG 2E put -APPL-dCOM DCT2-DEM
+Page 40
+\zoq Senyor," 7@m n@mjaba, "Tigo n@mm@m p@jaye ded@ xawa 7@y tzokoyjo7?
+\fts Sen~or, le digo, "Porque le esta*s echando ese mal aire en su corazo*n?
+\fte sir," you say, "why are you putting that spirit in their heart?
+\com
+\idx
+ded@
+te -d@

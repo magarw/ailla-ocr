@@ -1,0 +1,80 @@
+\zoq 7@y ponhpa, gay nippam bi 7api7.
+\fts Lo quema, luego ya siembre el chayote.
+\fte He burns it, then he sows the chayote.
+\com
+\idx
+\ord v Av Vo
+\ref ZOH001R053 016
+\_no 00017
+\tx penpa*m.
+\mb
+pen
+-pa - 7am
+\sgl plantar-INC-YA
+\egl plant -INC-NOW
+\zoq Penpa*m.
+\fts Ya esta* trasplantando.
+\fte Now it's planted
+\com
+\idx
+\ord v
+\ref ZOH001R053 017
+\_no 00018
+\tx 7@y penpam
+\mb 7@y pen
+\sg1 3E plantar-INC-YA
+DEF chayote
+\egl 3E plant -INC-NOW DEF chayote
+bi
+-pa -7am bi
+\ref ZOH001R053 018
+\_no 00019
+\tx de gaji,
+\mb
+\zoq 7@y penpam bi 7api7.
+\fts Ya esta* trasplantando el chayote.
+\fte Now he's transplanted the chayote.
+\com
+\idx
+\ord v o
+tzakpa*m.
+de ka -ji7
+tzak -pa -7am
+\sg1 de DCT3-LOC1 dejar-INC-YA
+\egl of DCT3-LOC1 leave-INC-NOW
+\zoq De gaji, tzakpa*m.
+\fts De ahi* ya lo deja.
+"
+\fte Then, he leaves it.
+\com
+\idx
+\ord Av V
+\ref ZOH001R053 019
+\_no 00020
+ZOH001R0531001.txt
+\tx gay
+\mb ka -y
+7api7.
+7api7
+gay
+minpa
+min -pa ka -Y
+\sg1 DCT3-TMP venir-INC DCT3-TMP
+\eg1 DCT3-TMP come -INC DCT3-TMP
+\tx tz@kke7tpa.
+\mb tz@k -ke7t -pa
+\sg1 hacer-REPET-INC
+\egl do
+-REPET-INC
+7ixke7tpa ti
+7ix-ke7t -pa ti
+ver-REPET-INC que
+see-REPET-INC what work
+yoxkuy
+yox
+-kuy7
+trabajar-INSTR1
+- INSTR1
+\zoq Gay minpa, gay 7ixke7tpa ti yoxkuy tz@kke7tpa.
+\fts De ahi* se viene, ya ve que trabajo vuelve de hacer.
+Page 5

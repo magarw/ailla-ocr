@@ -1,0 +1,64 @@
+XPSH [Mas p@mi7aw@.]
+\XSP Viene mas fuerte, o mas recio.
+\XEN It got stronger.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT p@m
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex p@n 7@y+ 7anh.num7
+\_no 00283
+\LG MIG
+\PSH [p@n_7@y 7anhnum7]
+\UND pan 7@y+ 7anh.num.7
+\MB hombre, 3Erg, BOCA, robar, NOM1
+\VAR
+\GRAM sps
+\SCI
+\USE
+\SPG sombra de persona
+\ENG person's shadow
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex p@n=tz@k.i
+\_no 00284
+\LG MIG
+\PSH [p@ntz@ki]
+\UND pan=tz@k. E
+\MB hombre, hacer, NOM7
+\VAR
+\GRAM s (m) sv
+\SCI
+\USE
+\SPG 1 espantapa*jaro
+\SPG 2 estatua
+\ENG 1 scarecrow
+\ENG 2 statue
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+ZOH001R0611004.txt
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-PH
+\date 03/Jan/80
+HAJ:96, ok/OK: TK
+Page 114

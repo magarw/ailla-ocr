@@ -1,0 +1,64 @@
+\USE
+\SPG pizcar mazorca
+\ENG to harvest corn
+\SPL 7ek. 7oy
+\SLGR ANTIP
+\SLGL pizcar // to harvest
+SPL 7ek.7@m
+\SLGR PASS
+\SLGL_pizcarse (ya esta* podrido el palito, cae solo) // to rot & fall to the
+ground
+\SPL 7ek.ten
+\SLGR PRSV
+\SLGL tener pizcado // to have it harvested
+\EXU 1 mok=7ek-w@
+\XPSH 1 [Mok 7ekk@.]
+\XSP 1 Pizco* mazorca.
+\XEN 1 He harvested corn.
+\EXU 2 7ek.7@m-wa taj@7k bi mok
+\XPSH 2 [7ekk@mm@_t@j@7k bi mok.]
+\XSP 2 Se pizco* la mazorca ayer.
+\XEN 2 The corn was harvested yesterday.
+\SYN
+\SEMF corn, pick
+\ASP activity
+\ARG patient
+\NOM 7ek.kuy7
+\SUB 7anh. 'ek=wak, 7anh. 'ek. '@y, j@x='ek, k@.n@k=7ek. '@y
+\ETYM
+\ETL
+\ROOT 7ek
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex 7e7k
+\_no 00008
+\LG MIG
+\PSH
+\UND 7e7k
+\MB
+\VAR
+GRAM vt
+ZOH001R0611006.txt
+\SCI
+\USE
+\SPG despizcar el frijol
+\ENG to shell beans
+\EXU 1 x@k=7e7k-w@
+\XPSH 1 [x@k 7e7kk@.]
+\XSP 1 Despizco* el frijol.
+\XEN 1 She shelled beans.
+\EXU 2 x@k=7e7k-An@m-pa
+\XPSH_2 [x@k 7ekan@mpa.]
+\XSP 2 Esta*n despizcando frijol.
+\XEN 2 People are shelling beans.
+\EXU 3 7e7k.7@m-w@ bi x@k
+\XPSH 3 [7e7kk@mm@ bi x@k.]
+\XSP 3 Se despizco* el frijol (solo se abrio*, cuando esta* muy seco).
+\XEN 3 The (dried-up) beans fell from the pod.
+\SYN
+\SPL 7e7k.7oy
+\SLGR ANTIP
+\SLGL pizcar // to shell
+Page 5

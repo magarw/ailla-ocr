@@ -1,0 +1,63 @@
+locative
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU 1 ni.k@x
+\XPSH 1 [nik@x]
+\XSP 1 mesa
+\XEN 1 table (for eating at)
+\EXU 2 7@y+ ni.ji7t-w@
+\XPSH 2 [7@y niji7tt@.]
+\XSP 2 Lo mancho*.
+\XEN 2 She stained it.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 11/Feb/96
+\lex {=n@k}
+\_no 04482
+\LG MIG
+\PSH
+\UND n@k
+\MB DAFUERA
+\VAR
+\USE directional auxiliary verb in its compound form
+\GRAM aux
+\SPG irse
+\ENG to go
+\SPL
+\SLGR
+\EXU 7@n+ chuklat=juy-pa pa(ra) 7@n+ p@=n@k-pa +goo7
+\XPSH [7@n chuklatjuypa pan p@n@kpago7.]
+\XSP voy a comprar chocolate para que lo lleve.
+\XEN I'm going to buy some chocolate to take with me.
+\SYN
+\SEMF
+\ROOT n@k
+\RTGR IX
+\DSRC HAJ98
+\CMTS
+\date
+\lex {n@7kti}
+\_no 04483
+\LG MIG
+\PSH
+\UND n@7kti
+\MB
+\VAR _n@7tti
+\GRAM expl
+\SCI
+\USE
+\SPG no!
+\ENG no
+ZOH004R0011001.txt
+\EXU
+\XSP
+\XEN
+\SYN
+Page 1925

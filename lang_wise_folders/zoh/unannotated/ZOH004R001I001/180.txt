@@ -1,0 +1,64 @@
+\MB ABAJO, nublarse
+\VAR
+\GRAM Vi
+\SCI
+\USE
+\SPG levantar nubes del sur
+\ENG for clouds to rise from the south
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+ΧΕΝ
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7in
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex 7ok. 'ix=n@k. '@y
+\_no 00420
+\LG MIG
+\PSH [7okkixn@kk@y-]
+\UND 7ok.7ix=n@k. 7@y
+\MB ABAJO, ver, irse, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG quedar viendo cuando se iba
+\ENG to stay watching someone go away
+\SPL
+\SLGR
+\EXU 7@y+ 7ok. 'ix-n@k. '@y-w@ 7@y+ manak
+\XPSH [7@y 7okkixn@kk@yy@y manak.]
+\XSP Lo quedo* viendo cuando se iba su hijo.
+\XEN She stood watching her son leave.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 7ix
+\RTGR 1 T3
+\ROOT 2 n@k
+ZOH004R0011001.txt
+\RTGR 2 IX
+\DSRC HAJ95
+\CMTS re: the mother tiger in Camilo's story Bi Tzikin Kajanh
+\date 13/Jul/95
+\lex 7ok. 'oj. '@y
+\_no 00421
+LG MIG
+\PSH [7ok7ojj@y-]
+\UND 7ok. 7oj.7@y
+\MB ABAJO, toser, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG sacar algo de la boca al toser
+Page 180

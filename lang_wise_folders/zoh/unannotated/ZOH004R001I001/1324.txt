@@ -1,0 +1,64 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tuj
+\RTGR T1
+\DSRC TK94
+\CMTS
+\date 26/Jun/96
+\lex tuk [1]
+\_no 03077
+LG MIG
+\PSH
+\UND tuk
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG cortar
+\ENG to cut
+\SPL tuk. 7oy
+\SLGR ANTIP
+\SLGL cortar // to cut
+\SPL tuk.7@m
+\SLGR PASS
+\SLGL reventar, reventarse y caerse // to burst, to break and fall down
+SPL tuk. ten
+ZOH004R0011001.txt
+\SLGR PRSV
+\SLGL tener cortado (como fruta) // to have it cut (like fruit)
+\EXU 1 ya tuk-w@
+\XPSH 1 [Ya tukk@.]
+\XSP 1 No tiene sabor.
+\XEN 1 It doesn't have any flavor.
+\EXU 2 7@y+ tuk.jay-w@ 7@y+ way7
+\XPSH 2 [7@y tukjayy@y_way7.]
+\XSP 2 Le corto* el pelo.
+\XEN 2 She cut his hair.
+\EXU 3 tuk.7@m-w@ 7@n+ k@ak 7@y naka
+\XPSH 3 [Tukk@mm@n k@ak 7@y naka.]
+\XSP 3 se revento* la correa de mi huarache.
+\XEN 3 The strap of my sandal broke.
+\EXU 4 7@n+ tuk-w@ bi 7anaxa 7@n+ tzanh.kuy'+pi7t
+\XPSH 4 [7@n tukk@ bi 7anaxan_tzanhkuypi7t.]
+\XSP 4 Corte* la naranja con la mano.
+\XEN 4 I picked the orange by hand.
+\SYN
+\SEMF pick
+\ASP achievement
+\ARG instrument
+\NOM tuk.u7, tuk.i7
+\SUB 7anh.tuk, jo.tuk, jup-tuk, jup-tuk.tuk.w@y, ko.tuk, k@.tuk,
+\SUB nem-tuk, ni.tuk-wak, t@nh-tuk
+\ETYM
+\ETL
+\ROOT tuk
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\CMTS v/ tuk (1) T3
+Page 1324

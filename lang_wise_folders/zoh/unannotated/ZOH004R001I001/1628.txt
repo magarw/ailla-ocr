@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex wojo'=tz@k
+\_no 03788
+\LG MIG
+\PSH [wojotz@k-]
+\UND wojo7=tz@k
+\MB hoyo, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer hueco; hacer hoyo
+\ENG to make a hole
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex woj-yuk.poy
+\_no 03789
+LG MIG
+\PSH [wojyukpoy-]
+\UND_woj=yuk.poy
+\MB ladrar, ARR, huirse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG correr con ladrido
+\ENG to run off by barking
+\EXU nu7 7@y+ woj-yuk.poy-w@ 7axa
+\XPSH [Nu 7@y wojyukpoyy@ 7axa.]
+\XSP El perro corrio* con ladrido el mapache.
+\XEN The dog chased the coon away by barking.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT woj
+\RTGR 11
+\ROOT poy
+\RTGR 11
+ZOH004R0011001.txt
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+Page 1628

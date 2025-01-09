@@ -1,0 +1,63 @@
+\SEMF pick
+\ASP activity
+\ARG patient, instrument
+\NOM kajwe tzu't.i7, tzu7t.naanh
+\SUB
+\ETYM
+\ETL
+ROOT tzu7t
+\RTGR T3
+\DSRC TK94
+\CMTS pick coffee beans one by one
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex tz@k
+\_no 00186
+\LG MIG
+\PSH
+\UND tz@k
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer
+\ENG to do
+\SPL tz@k. 7oy
+\SLGR ANTIP
+\SLGL hacer // to do
+\SPL ney tz@k.7@m
+\SLGR PASS
+\SLGL hacerse // to be done
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF build
+\ASP activity
+\ARG
+\NOM tz@k.i, tz@k.ja.e
+\SUB 7ok.tz@k=tzak. '@y, 7ok.tz@k. '@y, k@.tz@k. '@y, ni.tz@k. '@y,
+\SUB nik.tz@k. '@y, tz@k.jay, tz@k.ki7px, tz@k=ko.tzonh, tz@k-mux,
+\SUB_tz@k-tuk, tz@k=tzak, tz@k-witu'
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex tz@m
+\_no 00187
+\LG MIG
+\PSH
+\UND tz@m
+\MB
+\VAR
+\GRAM vt
+ZOH001R0611006.txt
+\SCI
+\USE
+\SPG cargar
+\ENG to carry
+Page 126

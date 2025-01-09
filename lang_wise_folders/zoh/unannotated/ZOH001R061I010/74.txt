@@ -1,0 +1,60 @@
+\SPG mamar
+\ENG to nurse
+\EX
+\XSP
+\XEN
+\ROOT tzu7tz I1
+\SEMF care
+\CAUS yak.tzu7tz dar de mamar
+\CMTS
+\lex tzux
+\_no 00327
+\SPG ser verde
+ENG to be green
+\EX 7@y yaktzuxx@ tuj
+\xSP el agua lo hizo reverdecer
+\XEN the rain made it green
+\ROOT tzux 12
+\SEMF nature, condition
+\CAUS yak.tzux hacer reverdecer
+\CMTS analyze gloss it means to *be* green, not to *turn* green
+\lex tz@k
+\_no 00328
+\SPG hacer
+\ENG to do
+\EX
+\XSP
+\XEN
+\ROOT tz@k T3
+\SEMF do
+\PASS ney tz@k.7@m hacerse
+\ANTI tz@k. 7oy
+\CMTS
+\lex tz@m
+\_no 00329
+\SPG cargar
+\ENG to carry
+\EX
+\XSP
+\XEN
+\ROOT tz@m P, T3
+\SEMF move
+\PASS tz@m.7@m ser acarreado
+\ANTI tz@m.7oy
+\CMTS
+ZOH001R0611010.txt
+\lex tz@n
+\_no 00330
+\SPG estar sentado
+\ENG to sit
+\EX wintz@*na7
+\XSP sentarse con e*l!
+\XEN sit with him!
+\ROOT tz@n P (12)
+\SEMF position
+\CAUS yak.tz@n asentar; hacer sentar
+\CMTS
+\lex tz@y
+\_no 00331
+\SPG atorarse; entrancarse; trabarse
+Page 74

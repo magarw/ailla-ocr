@@ -1,0 +1,62 @@
+\lex ninhki7
+\_no 02349
+\LG MIG
+\PSH
+\UND ninhki7
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG grueso
+\ENG thick
+\EXU ninhki7 7@y+ nip-w@
+\XPSH [Ninhkiy nipp@.]
+\XSP Lo sembro* muy surtido. (no va a dar)
+\XEN He sowed it thickly. (it won't give)
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 31/Mar/95
+\DATE 14/Aug/02
+\lex ninhki'.7aH
+\_no 02350
+\LG MIG
+\PSH [ninhki7a-]
+\UND ninhki7.7aH
+\MB grueso, VERS1
+\VAR
+\GRAM vers1
+\SCI
+\USE
+\SPG hacerse grueso
+ENG to become thick
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 27/Jan/96
+ZOH004R0011001.txt
+\lex ninhki '=tz@k
+\_no 02351
+\LG MIG
+\PSH [ninhkitz@k-]
+\UND ninhki '=tz@k
+\MB grueso, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+Page 1012

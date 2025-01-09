@@ -1,0 +1,87 @@
+\ref ZOH001R036 855
+\_no 00839
+\tx 7i si xinhnha*m
+\mb 7i si xinh
+\sg] y
+\egl and if swell
+-w@ -7am
+si hincharse-COM-YA
+-COM-NOW
+\zoq 7i şi xinhnha*m y@ji 7@m yukmatzjaba,
+\fts Y si esta*s hinchado aqui se lo sobas par arriba,
+\fte And if it's swollen here you rub them up there,
+\com <indica la barriga><points to belly>
+\idx
+\ref ZOH001R036 856
+\_no 00840
+\tx porke bi tzekmama xinhnh@
+\mb porke bitzekmama xinh
+\sg1 porque DEF matri*s hincharse-COM tambien
+\egl because DEF ***
+-COM also
+\ref ZOH001R036 857
+\_no 00841
+\tx de tantu
+\mb de tantu
+swell
+\zoq porke bi tzekmama xinhnh@ ne7
+fts porque la matri*s
+estą* hinchado tambien
+\fte because the ?? is swollen too
+\com
+\idx
+ZOH001R0361001.txt
+y@ji
+7@m yukmatzjaba
+ya -ji7 7am yuk-matz -jay -pa
+DCT1-LOC1 2E ARR-sobar-APPL-INC
+DCT1-LOC1 2E
+UP -rub -APPL-INC
+\ref ZOH001R036 858
+\_no 00842
+\tx 7i gay
+\mb 7i
+m@nhnhawa*m
+m@nh -7a
+cojear-VERS1-COM-YA
+\sg1 de tanto
+\egl of so much limp -VERS1-COM-NOW
+\zoq de tantu m@nhnhawa*m.
+\fts de tanto ya exigistes fuerza.
+\fte from forcing it too much (the muscles).
+\com
+\idx
+\com
+\idx
+ne7
+-w@ ne7
+7@m tz@kjaba*m
+gag@
+ka -y 7@m tz@k -jay -pa -7am ka -g@
+DCT3-TMP 2E hacer-APPL-INC-YA DCT3-DEM
+\sgly
+\eg1 and DCT3-TMP 2E do -APPL-INC-NOW DCT3-DEM rub -ANTIP-INSTR1
+\ref ZOH001R036 859
+\_no 00843
+-w@ - 7am
+\tx
+\mb
+\zoq 7i_gay 7@m tz@kjaba*m gag@ matztzokuy.
+\fts Y luego ya le haces esa sobada.
+\fte And then now you make them that massage cream.
+matztzokuy
+matz -7oy -kuy7
+sobar-ANTIP-INSTR1
+joypi7t pwes 7@y pakpa
+joypi7t pwes 7@y p@k
+7ichi*nh bi 7alibyo
+Zichi*nh bi 7alibyo
+poco DEF alivio
+\egl next day well 3E get -INC little DEF relief
+-pa
+\sgl otro_di*a pues 3E agarrar-INC
+\zoq Joypi7t, pwes, 7@y p@kpa 7ichi*nh bị Zalibyo.
+\fts Al otro di*a pues se mejora un poquito.
+\fte The next day well it gets a little of the relief.
+\com
+Page 182

@@ -1,0 +1,63 @@
+\UND yak.tzum.E7
+\MB CAUS, ajuntarse, NOM7
+\VAR
+\GRAM pcp
+\SPG ajuntado, amontonado
+\ENG gathered, heaped
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT tzum
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex yak.wanak.jay
+\_no 04102
+\LG MIG
+\PSH [yakwanakjay-]
+\UND yak.wanak.jay
+\MB
+\VAR
+\GRAM indir:caus2
+\SCI
+\USE
+\SPG baja*rselo
+\ENG to lower something for someone
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wanak
+\RTGR I1
+\DSRC HAJ94
+\CMTS
+\date 26/Jun/96
+\lex yak.wanak. 'oy
+\_no 04103
+\LG MIG
+\PSH [yakwanakkoy-]
+\UND yak.wanak. 7oy
+\MB CAUS, bajarse, ANTIP
+\VAR
+\GRAM vt: caus2
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG rebajar
+\ENG to bargain
+\EXU 7@y+ yak. wanak. 'oy-w@ bi yoj. E
+\XPSH [7@y yakwanakkoyy@ bi yoje.]
+\XSP Bajo el precio.
+\XEN He got the price down.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wanak
+\RTGR 11
+Page 1763

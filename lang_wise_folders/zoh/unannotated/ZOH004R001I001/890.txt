@@ -1,0 +1,65 @@
+\SLGR ANTIP
+\SLGL aprender // to learn
+\SPL
+mux.7@m
+\SLGR PASS
+\SLGL "se supo" // to be found out
+\SPL yak.mux
+\SLGR CAUS
+\SLGL publicar // to reveal
+\EXU 1 jakke mux. 7oy-pa
+\XPSH 1 [Jak muxxoypa.]
+\XSP 1 Sabe mucho.
+XEN 1 She knows a lot.
+\EXU 2_7@y+ win+jo' 7@y+_mux-w@
+\XPSH 2 [7@y winjoy muxx@.]
+\XSP 2 Adelante de e*1, lo supo.
+\XEN 2 In front of him, she found it out.
+\EXU 3_mux.7@m-w@ kum.kuy'+jo' ke ye7tz-w@ ga.d@ p@n g@.jama
+\XPSH 3 [Muxx@mm@ kumkuyjo ke ye7tztz@ gad@ p@n g@jama.]
+\XSP 3 Se supo en el pueblo que llego* aquel hombre ese di*a.
+\XEN 3 It was known in town that that man arrived that day.
+\SYN
+ZOH004R0011001.txt
+\SEMF cognitive
+\ASP state
+\ARG
+\NOM mux.i7, mux.kuy7
+\SUB 7anh.mux, jo.mux, ko.mux, k@.mux. '@y, mux. kuy'. '@y, 7otonh=mux,
+\SUB_na7k=mux, tz@k=mux, yuk.mux
+\ETYM
+\ETL
+\ROOT mux
+\RTGR T3
+\DSRC HAJ94
+\CMTS caus2 yak.mux publicar to reveal
+\CMTS antip
+\CMTS pass
+\date 03/Jan/80
+\lex mux [2]
+\_no 02064
+\LG MIG
+\PSH
+\UND mux
+\MB saber
+\VAR
+\USE auxiliary verb that appears before the verb in dependent
+constructions
+\GRAM aux
+\SPG saber
+\ENG to know
+\SPL
+\SLGR
+\EXU mux-w@ 7@y+ tz@k-E
+\XPSH [Muxx@y tz@ki.]
+\XSP sabe como hacerlo.
+\XEN She knows how to do it.
+\SYN
+\SEMF
+\ROOT mux
+\RTGR T3
+\DSRC HAJ98
+\CMTS auxiliary mux- most often occurs in compound constructions, after
+the main verb root.
+\date
+Page 890

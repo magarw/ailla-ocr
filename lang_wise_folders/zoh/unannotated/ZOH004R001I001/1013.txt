@@ -1,0 +1,63 @@
+\SPG hacer grueso
+\ENG to make thick
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 08/Feb/96
+\lex nip
+\_no 02352
+\LG MIG
+\PSH
+\UND nip
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG sembrar
+\ENG to sow
+\SPL nip.7@m
+\SLGR PASS
+\SLGL sembrarse // to be sown
+\EXU 1 7@y+ nip-w@ bi jara(o)=yuj.kuy7 x@k 7@y+ pa'.jay-w@
+\XPSH 1 7@y nipp@ bi jarayujkuy7, x@k 7@y_p@jayy@.]
+\XSP 1 Sembro* el rastrojo, le puso frijol.
+\XEN 1 He sowed the plowed field, he put in beans.
+\EXU 2 nip.7@m-w@ bi x@k
+\XPSH 2 [Nipp@mm@ bi x@k.]
+\XSP 2 Sembraron el frijol.
+\XEN 2 They sowed the beans.
+\SYN
+\SEMF plant, farm
+\ASP activity, accomplishment
+\ARG
+\NOM nip.i, nip.kuy7
+\SUB ko.nip
+\ETYM
+\ETL
+\ROOT nip
+\RTGR T1
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex nip.i7
+\_no 02353
+\LG MIG
+ZOH004R0011001.txt
+\PSH [nipi7]
+\UND nip. E7
+\MB sembrar, NOM7
+\VAR
+\GRAM SV
+\SCI
+Page 1013

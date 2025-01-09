@@ -1,0 +1,22 @@
+Johnson / A Grammar of San Miguel Chimapala Zoque
+5.5.3. Spanish negatives
+The Spanish function word ni 'neither' appears in many places in the
+corpus. There is no precisely corresponding Zoque word, since the negative ya
+doesn't carry the specifically contrastive sense of ni. The Spanish negative no
+appears quite rarely, and perhaps examples such as the one shown below are
+best regarded as simple speech errors.
+(5.17)
+(i)
+(ii)
+nyay tujxukkø
+ni ya ?əy+ tuh-šuk-wə
+ni NEG 3E+ tirar-3PL-COM
+'No lo pegaron tampoco.'
+noy xomxukkø yakku wan
+no ?ǝy+ šom-šuk-wə
+yakku wan
+no 3E+ encerrar-3PL-COM pobre juan
+'No encerraron á pobre Juan.'
+106
+(ZOH001R011–039)
+(ZOH001 R012- 489)

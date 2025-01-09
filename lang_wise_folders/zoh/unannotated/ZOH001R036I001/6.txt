@@ -1,0 +1,82 @@
+\mb ya toy -w@ -7am bi 7@m tzek
+\sg1 NEG doler-nIMPV-YA
+DEF 2E
+\eg1 NEG hurt -nIMPV-NOW DEF 2E
+\zoq Ya toyya*m bim tzek.
+\fts Ya no duele tu barriga.
+\ref ZOH001R036 023
+\_no 00024
+\fte Now your stomach doesn't hurt.
+\com
+\idx
+\tx ya toyya*m
+\mb ya
+\sg1 NEG doler-nIMPV-YA
+\eg1 NEG hurt -nIMPV-NOW ass -bone
+\zoq Ya toyya*m xipa*k.
+\fts Ya no duele la cadera.
+xipa*k
+toy -wa -7am xi7 -pak
+culo-hueso
+\ref ZOH001R036 024
+\_no 00025
+\tx
+GSM: 7i ga7
+\mb GSM 7i
+\sg1 GSM: y
+DCT3-NOM1 como
+\eg1 GSM: and DCT3-NOM1 how
+\fte Now your bottom doesn't hurt.
+\com
+\idx
+ka -7
+\zoq GSM: 7i ga7 juna*nh
+\fts GSM: Y ese como
+\ref ZOH001R036 025
+\_no 00026
+\tx OSM: 7@y 7ukpa
+\mb
+OSM 7@y 7uk
+-ра
+\sg1 OSM: 3E
+tomar-INC
+\egl OSM: 3E drink-INC
+\zoq OSM: 7@y 7ukpa.
+\fts OSM: Lo toma.
+\fte OSM: You drink it.
+\com
+\idx
+ZOH001R0361001.txt
+\ref ZOH001R036 026
+\_no 00027
+juna*nh
+junanh
+barriga
+belly
+\fte GSM: And that how do you drink it?
+\com
+\idx
+lo toma?
+bi
+7ay7
+7@m xox -ра bi 7ay7
+\zoq 7@m xoxpa bi 7ay7.
+\fts Lo coces la hoja.
+\fte You cook the leaf.
+\com
+\idx
+\ref ZOH001R036 027
+\tx 7@m xoxpa
+\mb
+\sg1 2E
+cocer-INC DEF hoja
+\egl 2E cook -INC DEF leaf
+7@y 7ukpa?
+7@y 7ukpa
+7@y 7uk
+3E
+3E
+-pa
+tomar -INC
+drink-INC
+Page 6

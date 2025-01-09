@@ -1,0 +1,63 @@
+\DSRC TK94
+\CMTS
+\date 17/Jun/95
+\lex laxu=wi7t.'oy.kuy7
+\_no 01797
+\LG MIG
+\PHO [laxuwi7ttokuy7]
+\UND Taxu=wi7t.7oy.kuy7
+\MB mecate, torcer, ANTIP, INSTR1
+\VAR
+\GRAM instr1
+\SPG algo para torcer mecate
+\ENG something for twisting rope
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT wi7t
+\RTGR T2
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex lechemaria
+\_no 01798
+LG MIG
+\PSH [1echemari*a]
+\UND Teceamariya
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG leche amarilla
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS CK-PH HAJ:96, don't hear a 7 between the Vs, sounds right to me; TK
+fixed it
+\date 25/Jun/96
+\lex lechuga
+\_no 01799
+\LG MIG
+\PSH
+\UND lechuga
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG lechuga
+\ENG lettuce
+\EXU
+\XSP
+ZOH004R0011001.txt
+LF: kuy
+Page 777

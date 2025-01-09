@@ -1,0 +1,62 @@
+\CMTS
+\date 11/Nov/94
+\lex pekx
+\_no 02581
+\LG MIG
+\PSH
+\UND pekx
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pegar con la ala; pegar con palito no bien cortada una rama te
+chicotea
+\ENG to beat with the wing; to hit with a badly cut stick - a branch slashes
+you
+\SPL pekx.7oy
+\SLGR ANTIP
+\SLGL oegar con ala // to hit with the wing
+\SLGR NO PASS
+\EXU yak.pekx-'oy-w@ piyu7
+\XPSH [7@y yakpekxoyy@ piyu7.]
+\XSP Le dio* una aletada la gallina
+\XEN The hen hit him with her wing.
+\SYN
+\SEMF hit
+\ASP semelfactive
+\ARG instrument
+\NOM pekx.naanh
+\SUB 7ok.pekx. '@y
+ETYM
+\ETL
+\ROOT pekx
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex pekx.naanh
+\_no 02582
+\LG MIG
+\PHO [pekxna*nh]
+\UND pekx.naanh
+\MB pegar_con_ala, MED1
+\VAR
+\GRAM meas
+\SPG aletada
+\ENG wing-stroke
+\EX
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\ROOT pekx
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex pekx.pekx.ney
+\_no 02583
+\LG MIG
+\PSH [pekxpekxney-]
+Page 1111

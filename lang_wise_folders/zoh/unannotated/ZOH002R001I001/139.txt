@@ -1,0 +1,44 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+MIG Zoque clauses can have a third core argument. Verb roots whose
+meaning involves some kind of exchange, such as ci?-, 'give', specify a recipient
+role. The applicative suffix -hay (APPL) adds a recipient, benefactor, or location
+role. The prefix ko- (SOC) also sometimes adds a benefactor. The causative
+prefix yak- (CAUS) adds a causee role (since the causer is the actor in the
+clause). It is possible for a verb stem with both the causative prefix and the
+applicative suffix to have four core arguments. Although no such examples
+with transitive verbs occurred in the texts, my consultants assured me that they
+were perfectly acceptable and understandable. In example (6.6 iv), the
+agreement marker miš (2>1) references the second person as the agent
+(causer), while the first person is the recipient, an argument added by the
+applicative suffix.
+(6.6)
+(i)
+(ii)
+(iii)
+(iv)
+de yoxkuy' mi tzipa 'øn jatong
+de.?
+yoš.kuy?
+mi+ ci?-pa 7ǝn+ hatoŋ
+DCT2.NOM1 work.INSTR1 3>2+give-INC 1E+ father
+'My father will give you that work.'
+'øy pøjayyø 'øy tza'
+?əy+ pə?.hay-wǝ
+?ǝy+ ca?
+3E+ put.APPL-COM 3E+ rock
+'He put its rock in it (a sling).'
+yo' pøn yan yakyoxtamø
+yə.?
+'i tigó' dey mix yakpø'tjadampa
+?i ti+goo?
+(ZOH001 R012- 256)
+рәп уа ?ən+ yak.yoš-tam-A
+DCT1.NOM1 man NEG 1E+ CAUS.work-1/2PL-nINC
+'We're not going to make this man work.'
+(ZOH001R011– 062)
+114
+(ZOH001 R018- 207)
+de.y
+miš+ yak.pə?t.hay-tam-pa
+and what+BNF DCT2.TMP 2>1+ CAUS.pass.APPL-1/2PL-INC
+'And why do you pass it (a job) to me now?' (ZOH001R010-035)

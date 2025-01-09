@@ -1,0 +1,64 @@
+\CMTS
+\date 03/Jan/80
+\lex {+jaa7}
+\_no 00516
+\LG MIG
+\PSH [ja*7]
+\UND jaa7
+\MB NOM4
+\VAR
+\USE postnominal clitic, forms a plural noun from another noun
+\GRAM clitic
+\SPG los quienes; los de dondequiera
+\ENG people who; people from wherever
+\SPL
+\SLGR
+\EXU 1 mix+jaa7 kum.kuy'=p@n+jaa7 me7tz-tam-A7 bi xeme. E7
+p@n d@k+'a(y)
+ZOH001R0611004.txt
+XPSH 1 [Mixja*7 kumkuyp@nja*7 me7tztam@ bi xeme p@n d@kka.]
+\XSP 1 Uds. gente del pueblo busquen los mu*sicos.
+\XEN 1 You townspeople look for musicians.
+\EXU 2
+ya.7 pan 7@n+ 7anh.7it-tam-pa komo ke si ney
+7awin'+jaa7
+\XPSH 2 [Y@7 pan 7an 7anhnittampa komo ke si ney_7awinja*7.]
+\XSP 2 Este hombre lo vamos a tener como que si fuera nuestro
+hermano.
+\XEN 2 But we're going to treat this man as if he were our brother.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {+xtaa7}
+\_no 00517
+\LG MIG
+\PSH [xta*7]
+\UND xtaa7
+\MB NOMAS
+\VAR
+\GRAM av
+\SCI
+\USE post verbal or adverbial clitic
+\SPG no ma*s
+\ENG just; no more
+\EXU 1 7@y+ jup-w@+xtaa7
+\XPSH 1 [7@y jupp@xta*7.]
+\XSP 1 Lo jalo* no_ma*s.
+\XEN 1 He just pulled it.
+\EXU 2_7@y+ jup.w@y-w@+xtaa7
+\XPSH 2 [7@y jupp@yy@xta*7.]
+\XSP 2 Lo dejo* puesto no ma*s.
+\XEN 2 She just left it pulled out.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-GR
+\date 12/Feb/96
+Page 204

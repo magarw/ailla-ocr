@@ -1,0 +1,52 @@
+96
+de una categoría modal relativa solo a ciertas lenguas: aquellas que en una forma gramatical
+amalgaman diferentes valores funcionales. Más precisamente, si el estudio de lenguas
+europeas no ha influido en la aplicación de esta categoría sobre lenguas tipológicamente
+diferentes y poco documentadas donde la distinción realis/irrealis podría resultar más
+adecuada al análisis de los datos.
+Organizo la exposición de la siguiente forma: en la primera sección, reviso las
+particularidades de la modalidad irrealis a partir de material bibliográfico que será relevante
+en el análisis del corpus; en la segunda sección, presento y analizo las construcciones del
+quechua boliviano que expresan significados de irrealis poniendo a prueba su inclusión dentro
+de la categoría de subjuntivo; en la tercera y última sección, distribuyo las diferentes
+expresiones documentadas dentro de un continuum de significado epistémico/deóntico que,
+según considero, organiza la distribución de las formas según una coherencia idiosincrásica
+particular. Finalmente, delineo conclusiones provisorias que configuran posibles líneas de
+investigación sobre el tema.
+104
+Propongo como hipótesis que en el quechua boliviano la expresión de la modalidad se
+sostiene sobre contrastes deícticos que refieren alejamiento vs. aproximación en relación con
+un centro perceptivo (re)definido en el transcurso de la interacción verbal. Este centro opera
+como marco de referencia contextual o "base modal" (Kratzer 1991) a partir del cual los
+hablantes delimitan la frontera entre realis e irrealis. Retomo el concepto de Kratzer (1991)
+de "base modal" involucrando en él tanto el contenido demarcado por el uso de deícticos
+como el conjunto de mundos posibles sobre los cuales "cuantifica" el operador modal. Es
+decir, en términos de Kratzer, este segundo aspecto refiere un conjunto de proposiciones,
+proporcionadas por el contexto discursivo, que constituyen el background necesario para
+interpretar la modalidad. En lógica modal tradicional, sería equivalente a los mundos
+accesibles al modal. La variable independiente que se postula según la hipótesis planteada es
+la mayor o menor accesibilidad que las formas que se analizan habilitan en relación con la
+apertura de mundos. Es decir, se considera que el uso de dichas formas constituye estrategias
+discursivas que poseen un efecto comunicativo de "distanciamiento" o de "acercamiento" de
+mundos posibles según un centro deíctico definido en la interacción (mayor
+accesibilidad/mayor cercanía; menor accesibilidad/mayor lejanía). ¹05
+104
+La base modal es una función que asigna a cada mundo posible un cierto set de proposiciones que es evaluado
+en relación con ella.
+105
+El centro deíctico conforma lo que interpreto, en el análisis, como "base modal" de la interacción. Se sostiene
+por el posicionamiento discursivo que ocupa el "yo" y el "tu" y las variables personales, temporales y espaciales
+que les conforman su escenario (expresado mediante demostrativos, resumptivos, benefactivos, adverbios
+temporales y locativos, uso de tiempos verbales, aspectualidad, seguimiento referencial, prominencia de
+participantes, estrategias evidenciales, etc.). A partir de estos lugares relativos y móviles, en el transcurso de la
+interacción se establecen relaciones de cercanía/lejanía hacia otros espacios o "mundos posibles" introduciendo,
+en el primer caso, el dominio de la modalidad realis y, en el segundo, en el dominio de la modalidad irrealis. En
+el dominio del realis, la base modal coincide parcialmente con el escenario referido; en el dominio del irrealis, el
+escenario referido se distancia, en mayor o menor grado, de la base modal que funciona como índice de los
+lugares ocupados por los participantes de la interacción.
+Para definir en cada caso dónde se establece la base modal se tienen en cuenta las siguientes escalas (deícticas)
+que gradúan las distancias entre "la cercanía" (lo controlado) y "la lejanía" (lo que los participantes no controlan).
+Por supuesto, todas son utilizadas estratégicamente (e indexicalmente) por los hablantes, contribuyen a los
+procesos de contextualización y no (siempre) conllevan valores referenciales.
+1- Marco de participación
+hablante > hablante/oyente > colectivo social de pertenencia > los otros > humanidad > lo desconocido

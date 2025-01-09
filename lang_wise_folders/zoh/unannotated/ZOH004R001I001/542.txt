@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG picho; crespo; enchinado
+\ENG curly
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kex
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 14/Jun/95
+\lex kexu
+\_no 01241
+\LG MIG
+\PSH
+\UND kexu
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG queso
+\ENG cheese
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 01/Oct/94
+\lex kiloometru
+\_no 01242
+\LG MIG
+\PSH
+\UND kiloometru
+\MB
+\VAR
+\GRAM med
+\SCI
+\USE
+\SPG kilometro
+\ENG kilometer
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+ZOH004R0011001.txt
+Page 542

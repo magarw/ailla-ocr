@@ -1,0 +1,63 @@
+\PSH [yukta7kx-]
+\UND yuk. ta7kx
+\MB ARR, alumbrarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG arder (lumbre)
+\ENG for a light to burn
+\SPL
+\SLGR
+\EXU yuk.ta7kx-w@ jukut@k
+\XPSH [Yuktz7kx@ jukut@k.]
+\XSP Ardio* la lumbre.
+\XEN The fire cast a light.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ta7kx
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex yuk.to.e7
+\_no 04313
+\LG MIG
+\PSH [yuktoe7]
+\UND yuk.tonh. E7
+\MB ARR, ampollarse, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG ampolla
+\ENG blister
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT tonh
+\RTGR 12
+\DSRC TK94
+\CMTS CK-PH - HAJ:96, ok, final /e/ sounds laryngealized; its is:TK
+\date 26/Jun/96
+\lex yuk.tonon
+\_no 04314
+\LG MIG
+\PSH [yuktonon-]
+\UND yuk.tonon
+\MB ARR, alborotarse
+\VAR
+ZOH004R0011001.txt
+\GRAM dir+vi
+\SCI
+\USE
+\SPG arregar el polvo
+\ENG to spread powder or dust
+\EXU
+Page 1852

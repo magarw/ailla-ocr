@@ -1,0 +1,62 @@
+\XSP_Lo esta*n ajunṭando.
+\XEN They're gathering them up.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pinh
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex pinh.x@y
+\_no 02635
+\LG MIG
+\PSH [pinhnh@y-]
+\UND pinh.x@y
+\MB recoger, DEPOS
+\VAR
+\GRAM vt: depos
+\SCI
+\USE
+\SPG estar montonadi to
+\ENG to be piled up
+\EXU 7@y+ pinh.x@y-w@
+\XPSH_[7@y pinhnh@yy@.]
+\XSP Esta* montonadito.
+\XEN They're piled up.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT pinh
+\RTGR T1
+\DSRC HAJ94
+\CMTS get deriv's; CK-GR HAJ:96 ok
+\date 25/Jun/96
+\lex pi.pi.ney
+\_no 02636
+\LG MIG
+\PSH [pipiney-]
+\UND pi.pi.ney
+\MB
+\VAR
+\GRAM VİRF
+\SCI
+\USE
+\SPG gritar el pollo
+\ENG for a chicken to cluck
+\EXU pi.pi.ney-pa chik piyu7
+\XPSH [Pipineypa chik piyu7.]
+\XSP Grita el pollito.
+\XEN The chick is peeping.
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT %pi F
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+Page 1134

@@ -1,0 +1,64 @@
+\_no 01305
+\LG MIG
+\PSH [kojay-]
+\UND ko.jay
+\MB OTRO, dilatar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG dilatar mucho por alguien
+\ENG to wait a long time for someone
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT jay
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+\lex ko.jej-pa+a7k
+\_no 01306
+\LG MIG
+\PSH [kojejpa*7k]
+\UND ko.jej-pa +P@7k
+\MB OTRO, vivir, INC, REL
+\VAR ko.jej-pa+a7k jente
+\GRAM agt1
+\SCI
+\USE
+\SPG la persona que tiene
+forma de vivir bonita
+\ENG a person who has the means to live well
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jej
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex ko.jeken=witu'
+\_no 01307
+ZOH004R0011001.txt
+\LG MIG
+\PSH [kojekenwitu-]
+\UND ko.jeken=witu7
+\MB OTRO, enrollar, regresar
+\VAR
+\GRAM vt+dir
+\SCI
+\USE
+Page 570

@@ -1,0 +1,64 @@
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT pix
+\RTGR IX
+\DSRC TK94
+\CMTS get more GR for this root
+\CMTS doesn't like it like this: gives yuk.tzi7kx or pix.7oy instead
+\date 03/Jan/80
+\lex pixi7
+\_no 02661
+LG MIG
+\PSH
+\UND pixi7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG yuca
+\ENG cassava
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex pixixi7
+\_no 02662
+LG MIG
+LF:7okox
+\PSH
+\UND pixixi7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG pato del ri*o
+\ENG river duck
+\EXU
+\XSP
+\XEN
+\SYN chik n@'+jo7 patu
+\SEMF EZ
+LF: jon
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+ZOH004R0011001.txt
+\lex pixi' kuy
+\_no 02663
+\LG MIG
+Page 1146

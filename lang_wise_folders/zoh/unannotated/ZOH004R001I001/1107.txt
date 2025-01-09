@@ -1,0 +1,64 @@
+\date 03/Jan/80
+\lex pa'.kuy7
+\_no 02571
+\LG MIG
+\PSH [pakuy7]
+\UND pa7.kuy7
+\MB colar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG colador - hay para atole, arena, comida..
+\ENG sifter
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pa7
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 27/Jan/96
+\lex pa't.e7
+\_no 02572
+\LG MIG
+\PHO [pate7]
+\UND pa7t.E7
+\MB encontrar, NOM7
+\VAR
+\GRAM pcp
+\SPG una cosa que encontro*
+\ENG something found
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT pa7t
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex peka t@k
+\_no 02573
+there are sifters for atole, sand, food...
+\LG MIG
+\PSH
+\UND peka t@k
+\MB usado, casa
+\VAR
+\GRAM
+\SCI
+\SPG casa vieja
+\ENG an old house
+\EXU
+\XSP
+\XEN
+ZOH004R0011001.txt
+\SYN
+\SEMF
+■
+Page 1107

@@ -1,0 +1,73 @@
+\ref ZOH001R036 965
+\_no 00948
+\tx 7@m komatzwakpa
+\mb 7@m ko -matz -wak
+\sg1 2E SOC-sobar-vaciar-INC
+\egl 2E SOC-rub -empty -INC
+\zoq 7@m_komatzwakpa.
+\fts Lo limpias.
+\fte You massage it out.
+\com
+\idx
+\ref ZOH001R036 966
+\_no 00949
+\tx winnomwakpa
+\mb win -7om
+\zoq winnomwakpa.
+\fts Lo ahumas.
+\fte Cense it out.
+\com
+\idx
+\ref ZOH001R036 967
+\_no 00950
+\sg1 CARA-echar_humo-vaciar-INC
+\eg1 FACE-emit_smoke-empty -INC
+\tx 7a gay
+\mb 7a ka
+-wak
+-pa
+joypi7t ya j@yya*m
+joypi7t ya jay
+pok
+-wa-7am porke
+otro_di*a NEG sonar-COM-YA porque
+-y
+pitz@mma*m gag@
+pitz@m-w@ -7am ka -g@
+salir -COM-YA DCT3-DEM
+\sg1 ah DCT3-TMP
+\egl ah DCT3-TMP next_day NEG sound-COM-NOW because leave -COM-NOW DCT3-DEM
+\com
+\idx
+-pa
+\ref ZOH001R036 968
+\_no 00951
+\tx n@m yakmolestz@kkoyy@*
+\mb n@m yak -molestar-tz@k -7oy -w@ -v7k
+\sg1 DO CAUS-molestar-hacer-ANTIP-dINC-REL
+\eg1 DO CAUS-bother -do -ANTIP-DINC-REL
+ZOH001R0361001.txt
+\zoq 7a, gay joypi7t ya j@yya*m_pok pitz@mma*m_gag@_n@myakmolestz@kkoyy@*.
+\fts A, el otro di*a ya no 11ora porque ya salio* ese que estaba molestando.
+\fte Ah, then the next day now it's not crying because now that which was
+bothering it has gone.
+\tx 7anhnitpa bi mal
+\mb 7anhnit-pa bi mal
+\sg1 tener -INC DEF mal
+\egl have -INC DEF bad
+\tx 7ay
+bese ban jaypa
+tum 7une
+bi yo7kjo
+7@y
+beses bayun jay -pa tum 7une7 bi yo7k -jo7 7@y
+\sg1 hay
+veces mucho sonar-INC uno nin~o/a DEF cuello-LoC2 3E
+\egl there are times a lot sound-INC one child DEF neck -LOC2 3E
+\mb 7ay
+\zoq 7ay bese ban j@ypa tum 7une bi yo7kjo 7@y 7anhnitpa bi mal.
+\fts Hay veces 11ora mucho una criatura en la garganta tiene el mal.
+\fte There are times when a baby cries a lot, it has a sickness in its
+throat.
+\com
+Page 205

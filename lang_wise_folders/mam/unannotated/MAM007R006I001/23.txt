@@ -1,0 +1,63 @@
+(278) N=0=tzaj-tzan
+INC-B3s-DIR=pues
+weena,
+bien
+'Abrá bien tu boca,'
+(279) k'aab'a-n=x t-uj
+abrir-IMP=DIR A3s-SR:en
+'abrá bien tu boca,"
+(280) 0-chi-tzan
+(281) N=0=tzaaj=tzan
+tiiya kyja'
+B3s-decir pues tío así
+'dijo el tío así.'
+xoo-'n,
+INC=B3s=DIR=pues tirar-DS
+'Lo tiró,'
+(282) tzq'aaj=0
+0=chi=la.
+maduro=B3s B3s-decir-MIR
+'es maduro, dijo.'
+(283) N=0=tzaaj=tzan
+ja'la
+INC=B3s=DIR=pues ahora
+'Lo tiró,'
+(284) jap=la
+AFEC: ajustado=MIR
+'ajustado en su boca,'
+k'aab'a-n=x
+abrir-IMP=DIR
+(285) b'i'x
+(286) b'i'x
+0=kyej
+q'-eet,
+de.una.vez B3s-DIR dar-PAS
+'se quedó trabado,'
+0=kyim.
+de.una.vez B3s=morir
+'de una vez se murió.'
+t-tzii'=ya
+A2s-boca=2s bien
+(287) Kii-sa-na ma='=tzan
+t-ku'=x
+A3s-bajar=DIR
+(288) 0-chi-tzan
+chin
+Ver-? AF PROX=ENF-pues Bls
+jaʼla
+ahora
+'Ya ves, ya te gané,'
+tiiya
+koneej.
+B3s-decir pues tío conejo
+'dijo el tío conejo.'
+t-uj
+t-tzii'=ya
+A3s-SR:en A2s-boca=2s
+weena
+t-uj
+t-tzii'
+A3s-SR:en A3s-boca
+kaamb'a-n=a t-i'j
+ganar-AP=1s A3s-SR:PAC
+24

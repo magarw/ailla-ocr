@@ -1,0 +1,62 @@
+\ETL
+\ROOT mek
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex yuk.mekx
+\_no 04292
+\LG MIG
+\PSH [yukmekx-]
+\UND yuk.mekx
+\MB ARR, cerrar_ojos
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG abrir los ojos
+\ENG to open the eyes
+\SPL yak.yuk.mekx
+\SLGR CAUS
+\SLGL hacer abrir los ojos // to cause to open your eyes
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT mekx
+\RTGR P (T1)
+\DSRC TK94
+\CMTS
+\date 19/Jun/96
+\lex yuk.me 7kx
+\_no 04293
+\LG MIG
+\PSH [yukme7kx-]
+\UND yuk.me7kx
+\MB ARR, abrazar
+\VAR
+GRAM vt
+\SCI
+\USE
+\SPG levantar abrazado
+\ENG to lift up in the arms
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT me7kx
+ZOH004R0011001.txt
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex yuk.me7tz
+Page 1844

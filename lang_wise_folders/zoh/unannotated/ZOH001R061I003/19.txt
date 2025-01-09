@@ -1,0 +1,62 @@
+\PHO [pakna*nh]
+\UND pak.naanh
+\MB regar, MED
+\VAR
+\GRAM meas
+\SPG una regada (de agua)
+\ENG one toss (of water)
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT pak
+\RTGR TX
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex pakx.naanh
+\_no 00053
+\LG MIG
+\PHO [pakxna*nh]
+\UND pakx.naanh
+\MB doblar, MED
+\VAR
+\GRAM meas
+\SPG una doblada (en tela)
+\ENG a fold (in cloth)
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT pakx
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex pekx.naanh
+\_no 00054
+\LG MIG
+\PHO [pekxna*nh]
+\UND pekx.naanh
+\MB pegar_con_ala, MED1
+\VAR
+\GRAM meas
+\SPG aletada
+\ENG wing-stroke
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT pekx
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex pen.naanh
+\_no 00055
+\LG MIG
+\PHO [penna*nh]
+\UND pen.naanh
+\MB apretar, MED1
+ZOH001R0611003.txt
+Page 19

@@ -1,0 +1,63 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH can't tell if the k is there or not
+there: TK
+\date 26/Jun/96
+\lex_tzay'=won
+\_no 03303
+LG MIG
+\PSH [tzaywon-]
+\UND_tzay7=won
+\MB vena, sacar_majagua
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG sacar la majagua
+\ENG to extract the fibrous inner core of a tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT won
+\RTGR TX
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tza' t@k
+\_no 03304
+\LG MIG
+\PSH [tzat@k]
+\UND tza7 t@k
+\MB piedra, casa
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG 1 casa de piedra
+\SPG 2 cueva
+\ENG 1 stone house
+\ENG 2 cave
+\EXU
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+\SEMF
+\ETYM
+I think not; /k/ not
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS stressed the final syllable and said "completalo"; contrast /tza'=t@k/
+\date 26/Jun/96
+Page 1420

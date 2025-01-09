@@ -1,0 +1,85 @@
+ZOH001R0361001.txt
+\mb porke ka -7
+dolo*r 7esde jakke toy -7oy -ра
+\sg1 porque DCT3-NOM1 dolor esde mucho doler-ANTIP-INC
+\egl because DCT3-NOM1 pain um
+a_lot hurt -ANTIP-INC
+\zoq porke ga dolor, 7esde, jak toyyoypa.
+\fts porque ese dolor mucho duele.
+\fte because that pain, um,
+hurts a lot.
+\com
+\idx
+\ref ZOH001R036 009
+\_no 00010
+kuyjo7
+\tx kada 7ora 7@m_n@kpa
+\mb kada 7ora 7@m n@k -pa kuy -jo7
+\sg1 cada ahora 2A irse-INC palo-Loc2
+\egl each now 2A go -INC tree-LOC2
+\zoq Kada 7ora 7@m n@kpa kuyjo7.
+\fts cada ratito vas al ban~o.
+\fte Each hour you go out to the bushes.
+\com
+\idx
+\ref ZOH001R036 010
+\_no 00011
+\tx 7i
+de gaji
+da nampa
+ke
+\mb 7i de ka -ji7 d@ n@m
+-ра ke
+d@x
+d@x
+1Prn irse-INC 1E
+\sg] y de DCT3-LOC1 1A decir-INC que
+\eg1 and of DCT3-LOC1 1A say -INC that 1Prn go -INC 1E
+\tx po7kx
+\mb po7kx
+\sg1 calmarse guayaba
+\egl calm_down guayaba
+pataja
+pataja7
+\ref ZOH001R036 011
+\_no 00012
+\tx po7kx
+\mb po7kx
+\zoq 7i de gaji d@ n@mpa ke d@x n@kpa*n tukk@ bi po7kx pataja7.
+\fts Y de ahi* digo que yo voy a cortar la guajaba de cerro.
+\fte And then I say that I'll go cut some wild guajaba.
+\com
+\idx
+pataja
+pataja7
+\sg1 calmarse guayaba
+\egl calm_down guayaba
+\zoq Po7kx pataja.
+\fts Guayabita de cerro.
+\fte wild guajaba.
+\com
+\idx
+n
+n@kpa*
+tukk@
+nak -pa 7@n tuk -wa
+\ref ZOH001R036 012
+\_no 00013
+\tx tzu7tzpak
+\mb tzu7tz-pak
+\sg1 mamar -hueso
+\egl nurse -bone
+- pak 7imunix 7@y p@kn@kpa
+pak 7imunix 7@y pak
+hueso limo*n 3E
+bone lime 3E get
+-n@k -pa
+agarrar-irse-INC
+-go - INC
+bi
+bi
+cortar-dINC DEF
+cut -DINC DEF
+\zoq Tzu7tzpak pak 7imunix 7@y p@kn@kpa.
+\fts La guayabita de cerro limon tiernito lleva.
+Page 3

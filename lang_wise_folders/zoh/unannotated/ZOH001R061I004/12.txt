@@ -1,0 +1,62 @@
+ZOH001R0611004.txt
+\CMTS still not certain if this is xuy7 or xuy: the /7/ is there/TK
+\date 24/Jun/96
+\lex 7anh-yoj [2]
+\_no 00027
+\LG MIG
+\PSH [7anhyoj]
+\UND 7anh-yoj.0
+\MB BOCA, cambiar, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG cambio
+\ENG change
+\EXU mix+ tzi-w@ bi 7anh=yoj
+\XPSH [Mix tziw@ bi 7anhyoj.]
+\XSP Me diste el cambio.
+\XEN You gave me the change.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yoj
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-PH
+\date 24/Jun/96
+ok/TK
+\lex 7anh='opx.a
+\_no 00028
+\LG MIG
+\PSH [7anhnhopx]
+\UND 7anh=7opx.A
+\MB BOCA, echar_espuma, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG espuma de la boca
+\ENG foam from the mouth
+\SPL
+\SLGR
+\EXU 7anh='opx.a pitz@m-pa yoya 7@y+ j@p
+\XSP Esta* saliendo espuma de la boca del marrano.
+\XEN Foam is coming out of the pig's mouth.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 70px
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 09/Oct/96
+\lex 7a7tz.@7
+\_no 00029
+\LG MIG
+\PSH [7atz@7]
+\UND 7a7tz.A7
+\MB arder, NOM2
+Page 12

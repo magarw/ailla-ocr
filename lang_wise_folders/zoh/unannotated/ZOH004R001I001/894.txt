@@ -1,0 +1,63 @@
+\UND muy. E=p@n
+\MB tener_en_boca, NOM7, hombre
+\VAR
+\GRAM svms
+\SCI
+\USE
+\SPG mu*sico
+\ENG musician
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT muy
+\RTGR T2, 12
+\DSRC HAJ95
+\CMTS
+\lex muy.naanh
+\_no 02072
+\LG MIG
+\PSH [muyna*nh]
+\UND muy.naanh
+\MB tomar_en_boca, MED1
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG bochazo
+\ENG mouthful
+\EXU 7@n+ p@k-w@ tum muy.nanh n@7
+\XPSH [7@n pakk@ tum muynanh n@7]
+\XSP_Agarre* un bochazo de agua.
+\XEN I took a mouthful of water.
+SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT muy
+\RTGR T2, 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+ZOH004R0011001.txt
+\lex muy=p@k
+\_no 02073
+\LG MIG
+\PSH [muyp@k-]
+\UND muy=p@k
+\MB tener_en_boca, agarrar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG agarrar algo con la boca
+\ENG to take something with the mouth
+\EXU 7@n+ muy-p@k-w@ bi n@7
+\XPSH [7@n muyp@kk@ bi n@7. .]
+\XSP Agarre* un poco de agua con la boca.
+\XEN I took some water in my mouth.
+\SYN
+Page 894

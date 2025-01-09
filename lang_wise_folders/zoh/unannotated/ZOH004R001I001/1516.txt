@@ -1,0 +1,62 @@
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 26/Jun/96
+\lex wak
+\_no 03524
+\LG MIG
+\PSH
+\UND wak
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG entre pierna; ingle
+\ENG crotch; groin
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 03/Jan/80
+\lex waka7
+\_no 03525
+\LG MIG
+\PSH
+\UND waka7
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG tieso
+\ENG stiff
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 21/Oct/94
+ZOH004R0011001.txt
+Page 1516

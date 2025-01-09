@@ -1,0 +1,64 @@
+\UND jeta7 kuy
+\MB coa, palo
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG cabo de coa
+ENG hoe handle
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\lex jetz
+\_no 00748
+LG MIG
+\PSH
+\UND jetz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG rascar
+\ENG to scratch
+\EXU 1 7@y+ jetz-w@ 7@y+ kup=tuku7
+\XPSH 1 [7@y jetztz@y_kuptuku7.]
+\XSP 1 Rasco* su espalda.
+\XEN 1 She scratched his back.
+\EXU 2 7@y+ jetz.jay-wa
+\XPSH 2 [7@y jetzjayy@.]
+\XSP 2 Se lo rasco*.
+\XEN 2 He scratched it for her.
+\EXU 3 7@y+ jetz.ten-w@ bi wowo
+\XPSH 3 [7@y jetztenn@ bi wowo.]
+ZOH004R0011001.txt
+\XSP 3 Mete la mano y no lo saco* por pronto.
+\XEN 3 He put his hand in to scratch out a hole and didn't take it right
+out.
+\EXU 4 jetz.7@m-w@ bi nax wowo
+\XPSH 4 [Jetztz@mm@ bi nax wowo.]
+\XSP 4 Lo rasco* el hueco de la tierra.
+\XEN 4 The hole was scratched out of the earth.
+\EXU 5_7@n+ j@x-jetz-pa nax
+\XPSH_5 [7@n j@xjetzpa nax.]
+\XSP 5 Estoy sacando la tierra con la mano.
+\XEN 5 I'm scratching out the dirt with my hand.
+\SPL jetz.7oy
+\SLGR ANTIP
+\SLGL rascar // to scratch
+\SPL jetz.7@m
+\SLGR PASS
+\SLGL rascarse // to be scratched out
+\SPL jetz.ten
+\SLGR PRSV
+\SLGL mantener la mano en posicio*n a rascar // to keep the hand in a
+scratching position
+Page 323

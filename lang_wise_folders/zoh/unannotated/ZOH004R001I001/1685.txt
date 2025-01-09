@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL Sp jeta (old loan)
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex xetet.kuy7
+\_no 03917
+\LG MIG
+\PSH [xetetkuy7]
+\UND xetet.kuy7
+\MB X, INSTR1
+\VAR
+\GRAM s (instr ?)
+\SCI
+\USE
+\SPG cascabel de culebra
+\ENG snake's rattle
+\EXU 1 tzajin 7@y+ xetet.kuy7
+\XPSH 1 [tzajin 7@y xetetkuy7]
+\XSP 1 cascabel de culebra
+\XEN 1 snake's rattle
+\EXU 2 7@y+ yak. 'anh.j@y-wa 7@y+ xetet.kuy7
+\XPSH 2 [7@y yanhj@yy@y_xetetkuy7.]
+\XSP 2 Sono* su cascabel.
+\XEN 2 It sounded it's rattle.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS no verb; right: TK
+\date 26/Jun/96
+\lex xe7t
+\_no 03918
+\LG MIG
+\PSH
+\UND xe7t
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG frei*r; tostar
+\ENG to fry; to toast
+\SLGR NO PASS
+\EXU 1 mok=xe7t-w@ 7eken'+jo7
+\XPSH 1 [Mokxe7tt@ 7ekenjo7.]
+\XSP 1 Tosto* el mai*z en el comal.
+ZOH004R0011001.txt
+\XEN 1 She toasted the corn on the griddle.
+\EXU 2 kajwe=xe7t-pa
+\XPSH 2 [Kajwexe7tpa.]
+\XSP 2 Tuesta el cafe*
+\XEN 2 He is toasting the coffee.
+\EXU 3 da xe7t-pa
+\XPSH 3 [D@ xe7tpa.]
+\XSP 3 Estoy freyendo (algo).
+\XEN 3 I'm frying (something).
+Page 1685

@@ -1,0 +1,62 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM basto*n
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex kuy bordoonh
+\_no 01591
+\LG MIG
+\PSH [kuy bordo*nh]
+\UND kuy bordoonh
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG basto*n
+\ENG cane
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex kuy chipiliinh
+\_no 01592
+\LG MIG
+\PSH [kuy chilpili*nh]
+\UND kuy chipiliinh [this is backwards: German]
+\MB
+\VAR chipilinh kuy
+\GRAM SS
+\SCI
+\USE
+\SPG arbol: huachipili*n
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN_tzux-kuy
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH ok HAJ:96; I fixed it, but it's not good zoque anyway
+\date 24/Jun/96
+\lex kuy kanoa
+\_no 01593
+\LG MIG
+\PSH
+Page 690

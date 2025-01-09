@@ -1,0 +1,61 @@
+\EX 7ichinh jonhnh@
+\XSP esta* medio atarantado
+\XEN he's a little dizzy
+\ROOT jonh 12
+\SEMF cog
+\CAUS yak.jonh atorar; atarantar
+\lex jopx
+\_no 00071
+\SPG tomar a boca de plato
+\ENG to drink from the dish
+\EX 7@y jopxxukk@
+\XSP tomaron a boca de plato
+\XEN they drank from the plate
+\ROOT jopx T3
+\SEMF eat
+\PASS NONE jopx.7@m *
+\ANTI jopx.7oy
+\PRSV NONE
+too silly
+\CMTS v class: has to have ergative markers, but now rejects ANTI
+\lex jo7px
+\_no 00072
+\SPG poner bozal a*
+\ENG to put a muzzle on
+\EX kin@k jo7px@
+\XSP le puso un bozal en la trompa
+\XEN he put a muzzle on the snout
+\ROOT jo7px T3
+\SEMF affect, animal
+\PASS jo7px.7@m ya tiene su bozal
+\ANTI jo7px. 7oy poner bozal
+\CMTS
+\lex jot
+\_no 00073
+ZOH001R0611010.txt
+\SPG cortar parejo - maduro con verde - fruta de cafe*
+\ENG to pick the ripe and the green together - coffee beans
+\EX kafwe jott@
+\XSP corto* cafe* parejo - verde con verde
+\XEN he pick the coffee beans.
+\EX jottoyya*m
+\XSP ya corto* el cafe*
+\ROOT jot T3
+\SEMF farm, obj
+\CMTS pick coffee by sliding the hand down the branch, taking the green
+\CMTS and the ripe together
+\PASS jot.7@m
+\ANTI jot.7oy cortar (pero es cafe*)
+\PRSV NONE
+\lex jox
+\_no 00074
+\SPG amasar
+\ENG to knead masa
+\EX wayjoxx@
+\XSP amaso* la masa
+\XEN she kneaded the masa
+\ROOT jox T1
+\SEMF cook, corn
+\CMTS mas dicen ma7tz-
+\lex ju7u
+Page 18

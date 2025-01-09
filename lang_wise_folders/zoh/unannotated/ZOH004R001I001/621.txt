@@ -1,0 +1,63 @@
+\SPL ko.pit.7oy
+\SLGR ANTIP
+\SLGL estar envolviendo // to be wrapped
+\SLGR NO PASS
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pit
+\RTGR TX, T3
+\DSRC HAJ94
+\CMTS
+\CMTS GSM is bothered by similarity w/ pit ponerle mortaja
+\date 24/Jun/96
+\lex kop.kuy7
+\_no 01427
+\LG MIG
+\PSH [kopkuy7]
+\UND kop.kuy7
+\MB cachar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG guante
+\ENG catcher's mitt
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN ni.kop
+\SEMF
+\ETYM
+\ETL
+\ROOT kop
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex kop.naanh
+\_no 01428
+\LG MIG
+\PHO [kopna*nh]
+\UND kop.naanh
+\MB cachar, MED
+\VAR
+\GRAM meas
+\SPG una cachada
+ENG a catch
+\EX
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+\ROOT kop
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+Page 621

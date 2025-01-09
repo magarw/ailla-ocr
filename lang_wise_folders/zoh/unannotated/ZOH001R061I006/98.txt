@@ -1,0 +1,66 @@
+\SPG destejer; desbaratar; deshilar
+\ENG to unravel; to come apart
+\SPL pujum. 7oy
+\SLGR ANTIP
+\SLGL destejer // to unravel
+\SPL pujum.7@m
+\SLGR PASS
+\SLGL destejerse // to be unravelled
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF arrange
+\ASP accomplishment
+\ARG
+\NOM pujum.i7
+\SUB ko.pujum
+\ETYM
+\ETL
+\ROOT pujum
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex pu7kx
+\_no 00144
+\LG MIG
+\PSH
+\UND pu7kx
+\MB
+\VAR
+\GRAM vt
+ZOH001R0611006.txt
+\SCI
+\USE
+\SPG dar cornadas; cachar
+\ENG to gore; to catch on the horns
+\SPL pu7kx.7oy
+\SLGR ANTIP
+\SLGL cornear // to butt with the horns
+\SLGR NO PASS
+\SPL yak.pu7kx.7oy
+\SLGR CAUS ANTIP
+\SLGL cornear; darle cornadas // to gore
+\SPL pu7kx.ney
+\SLGR ASSUM1
+\SLGL estar acostado el animal // for the bull to have its feet planted and
+its head down because it doesn't want to budge
+\EXU 1_bi_p@n_yak.pu7kx.'oy-w@ bi wakax
+\XPSH 1 [Bi
+\XSP 1 El toro cacho* el
+p@n yakpu7kxoyy@ bi wakax.]
+hombre.
+\XEN 1 The bull caught the man with his horns.
+\EXU 2 pu7kx-m@tz.@-xuk-pa wakax d@k+7a
+\XPSH 2 [Pu7kxm@tz@xukpa wakax d@kka.]
+\XSP 2 Los ganados se esta*n agarrando de cornada.
+\XEN 2 The cattle are butting each other with their horns.
+\SYN
+\SEMF hit
+\ASP achievement
+\ARG
+\NOM
+\SUB pu7kx.pu7kx.ney
+\ETYM
+Page 98

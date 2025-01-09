@@ -1,0 +1,98 @@
+pak
+-E7
+\mb OSM 7ay te -7
+toy
+\sg1 OSM: ah DCT2-NOM1 hueso doler-NOM3
+\egl OSM: ah DCT2-NOM1 bone hurt -NOM3
+\zoq OSM: 7a de pak toe7,
+\fts OSM: Ah el dolor de hueso,
+\fte OSM: Oh that bone disease,
+\com
+\idx
+\ref ZOH001R036 650
+\_no 00638
+\tx par pak
+\mb
+toe7
+para pak
+toy - E7
+go7
+go7
+\sg1 para hueso doler-NOM3 BNF
+\egl for bone hurt -NOM3 BNF
+\zoq par pak toe7 go7,
+\fts para dolor de hueso,
+\fte for bone disease,
+\com
+\idx
+\ref ZOH001R036 651
+\_no 00639
+\tx 7@y n@ji
+\mb
+tum 7ay 7esde
+7@y n@ji tum 7ay7 7esde
+\sgl 3E nombre uno hoja esde
+\egl 3E name one leaf um
+\ref ZOH001R036 652
+\_no 00640
+\tx ga
+\mb ka -7
+n@kpam
+n@k -pa -7am
+\sg1 DCT3-NOM1 irse-INC-YA
+\eg1 DCT3-NOM1 go -INC-NOW
+\zoq 7@y_n@ji tum 7ay, 7esde, kanelito.
+\fts se llama una hoja canelito,
+\fte it's name a leaf, um, canelito,
+\com
+\idx
+\tx mi7tzna*nh
+\mb mi7tz
+\sg1 agarrar_en_pun*o-MED
+\egl hold_in_fist
+\ref ZOH001R036 653
+\_no 00641
+\tx
+7i ga
+\mb 7i ka -7
+kanelito
+kanelito
+ZOH001R0361001.txt
+canelito
+canelito
+minpam
+min
+pwes
+-naanh pwes
+pues
+-MEAS well
+tukk@
+tuk -w@
+tum bwen
+tum bweno
+cortar-dINC uno bueno
+cut -dINC one good
+\zoq Ga n@kpam tukk@ tum bwen - tum mi7tzna*nh, pwes.
+\fts Esa vas a cortarlo un manojito,
+pues.
+\fte That you go cut a good - well, a handful.
+\com
+\idx
+\sgl y
+-pa -7am
+venir-INC-YA
+\eg1 and DCT3-NOM1 come -INC-NOW
+DCT3-NOM1
+\zoq 7i ga minpam tu7pp@.
+\fts Y eso lo vienes desbiushar.
+tu7pp@
+tu7p
+-wa
+desmoronar-dINC
+crumble -DINC
+-
+Page 139
+tum
+tum
+uno
+one

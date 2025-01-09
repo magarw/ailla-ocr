@@ -1,0 +1,64 @@
+\_no 00541
+\LG MIG
+\PSH
+\UND balsamu
+\MB
+\VAR balsamu kuy
+\GRAM s (ms)
+\SCI
+\USE
+\SPG a*rbol: balsamo
+\ENG tree: balsamo
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 24/Jun/96
+\lex bal(e)=tz@k
+\_no 00542
+\LG MIG
+\PSH [baletz@k-]
+\UND bale=tz@k
+\MB valer, HACER
+\VAR baal=tz@k
+\GRAM vi
+\SCI
+\USE
+\SPG valer
+\ENG to be worth
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM valer
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 09/Jan/96
+\lex bara
+\_no 00543
+LF: kuy
+\LG MIG
+\PSH
+\UND bara
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG vara
+\ENG stick or pole
+\EXU
+\XSP
+\XEN
+ZOH004R0011001.txt
+Page 234

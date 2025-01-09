@@ -1,0 +1,62 @@
+\XPSH 2 [7@n xotzpan laxu.]
+\XSP 2 Empate* mi mecate.
+\XEN 2 I tied my rope together.
+\SYN wat
+\SEMF arrange
+\ASP transition
+\ARG
+\NOM xotz.e7, xotz.naanh
+\SUB ni.xotz=tzonh, xotz=pak, xotz='anh.tzonh, xotz=tzonh
+\ETYM
+\ETL
+\ROOT xotz
+\RTGR P (T3)
+\DSRC TK94
+\CMTS empatar un mecate, no ganado
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex xotz.e7
+\_no 03983
+\LG MIG
+\PSH [xotze7]
+\UND xotz.E7
+\MB amarrar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG nudo
+\ENG knot
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xotz
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex xotz.naanh
+\_no 03984
+\LG MIG
+\PHO [xotzna*nh]
+\UND xotz.naanh
+\MB empatar, MED
+\VAR
+\GRAM meas
+ZOH004R0011001.txt
+\SPG una amarrada
+\ENG a tie
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT xotz
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+Page 1713

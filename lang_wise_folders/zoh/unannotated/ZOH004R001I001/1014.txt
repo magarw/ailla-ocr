@@ -1,0 +1,63 @@
+\USE
+\SPG milpa
+\ENG cornfield
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nip
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 27/Jan/96
+\lex nip.i' mok
+\_no 02354
+\LG MIG
+\PSH [nipi mok]
+\UND nip.E7 mok
+\MB sembrar, NOM7, mai*z
+\VAR
+\GRAM pcpms
+\SCI
+\USE
+\SPG milpa de mai*z, mai*z sembrado
+\ENG cornfield, sown corn
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nip
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 27/Jan/96
+\lex nip.kuy7
+\_no 02355
+\LG MIG
+\PSH [nipkuy7]
+\UND nip.kuy7
+\MB sembrar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG 1o que se ocupa para sembrar, e.g. punzo*n
+\ENG what you use for sowing, like a handful
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT nip
+\RTGR T1
+\DSRC HAJ94
+Page 1014

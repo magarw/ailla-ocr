@@ -1,0 +1,64 @@
+\lex {.mot}
+\_no 04470
+\LG MIG
+\PSH
+\UND mot
+\MB CON OTRO
+\VAR
+\GRAM morphosyntactic verb suffix
+\SCI
+\USE
+\SPG con otro
+\ENG with another
+\SPL
+\SLGR
+\EXU 1 tij.mot-w@ 7ana kristobal 7i_d@x_jerma*n
+\XPSH 1 [Tijmott@ 7ana, Kristobal, 7i d@x, Jerma*n.]
+\XSP 1 Fue* tambie*n Ana, Cristobal y yo, Germa*n.
+XEN 1 Ana, Cristobal, and me, Germa*n, went together.
+\EXU 2 ga.
+g@ tyempu tij-mot-w@ ga.d@ kweba +jo7
+\XPSH 2 [Ga g@ tyempu tijmott@ gad@ kwebajo7.]
+\XEN 2 Ella en ese tiempo fue* tambie*n en esa cueva.
+\XSP_2 At that time, she went along to that cave.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK95
+\CMTS
+\date 25/Jun/96
+\lex {=mux}
+\_no 04471
+\LG MIG
+\PSH
+\UND_mux
+\MB HBL
+\VAR
+\GRAM auxiliary verb in its compound form: habilitative
+\SCI
+\USE
+\SPG saber como
+\ENG to know how to
+\SPL
+\SLGR
+ZOH004R0011001.txt
+\EXU 7a beses 7@n+ tz@k=mux-tam-pa 7i te.ji 7amint@' ya 7@n+
+tz@k=mux-tam-A
+\XPSH [7a beses 7@n tz@kmuxtampa 7i teji 7amint@ yan
+tz@kmuxtam@.]
+\XSP A veces logramos y hay an~os que no logramos.
+\XEN Sometimes we succeed and there are years when we don't
+succeed.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT mux
+\RTGR T3
+\DSRC TK96
+\CMTS
+\date 12/Feb/96
+\lex {+nam7}
+Page 1920

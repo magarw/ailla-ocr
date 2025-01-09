@@ -1,0 +1,89 @@
+ZOH001R0361001.txt
+\sg1 para 3E ATRAS-chupar-INC DCT3-NOM1 sangre
+\egl for 3E BACK -suck -INC DCT3-NOM1 blood
+\zoq pay j@xmu7kpa ga n@pin.
+\fts para que chupe esa sangre.
+\fte so it sucks out that blood.
+\com
+\idx
+\ref ZOH001R036 999-111
+\_no 01093
+\tx ga
+n@pin ga
+\mb
+ka -7 n@pin7 ka -7
+jonhjo
+jonh
+adentro-Loc2
+-jo7
+\sg1 DCT3-NOM1 sangre DCT3-NOM1 doler-INC
+\eg1 DCT3-NOM1 blood DCT3-NOM1 hurt -INC inside -LOC2
+\zoq Ga n@pin ga toypa jonhjo.
+\fts Esa sangre es la que duele adentro.
+\fte That blood that hurts him inside.
+\com
+\idx
+\ref ZOH001R036 999-112
+\_no 01094
+\tx
+despwes ke
+pitz@mm@ gad@
+n@pin gay
+\mb
+pitz@m-w@ ka -d@ n@pin7 ka
+-Y
+-pa - 7am
+despwe*s ke
+\sg1 despues que salir -COM DCT3-DEM sangre DCT3-TMP venir-INC-YA
+\egl after that leave -COM DCT3-DEM blood DCT3-TMP come -INC-NOW
+xa
+\tx ded@
+\mb te -d@
+pajakjo
+pajak-jo7 xa7
+\sg1 DCT2-DEM ri*o -LOC2
+ban teji
+bayun teji
+INTENS mucho hay
+\eg1 DCT2-DEM river-LOC2 INTENS a lot there is pig
+\ref ZOH001R036 999-113
+\_no 01095
+\tx
+\mb
+toypa
+toy -pa
+GSM: p@7kx
+GSM p@7kx
+\sg1 GSM: suelda_con_suelda
+\egl GSM: root
+\zoq Despwes ke pitz@mm@ gad@ n@pin, gay minpam ded@ pajakjo xa ban teji
+yoya poj wa7tz.
+\fts Despues que salio* esa sangre, ahora ya viene en ese rio si hay mucho
+raiz bejuco de marrano.
+\fte After that blood comes out, then comes that in the river there's a lot
+of pig vine root.
+\com
+\idx
+\zoq GSM: P@7kx.
+\fts GSM: Suelda con suelda.
+\fte GSM: Root (of the pig vine).
+\com
+\idx
+\ref ZOH001R036 999-114
+\_no 01096
+\tx OSM: 7eso p@7kx
+\mb OSM
+7eso p@7kx
+\sg1 OSM: eso suelda_con_suelda
+\egl OSM: that
+root
+minpam
+min
+Page 236
+wa7tz
+wa7tz
+rai*z
+vine root
+yoya poj
+yoya poj
+marrano bejuco

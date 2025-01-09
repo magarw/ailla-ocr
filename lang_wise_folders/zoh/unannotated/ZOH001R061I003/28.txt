@@ -1,0 +1,62 @@
+\SYN
+\ROOT wa7kx
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS un tercio es una rede; dos redes son una carga
+\DATE 03/Jan/80
+\lex wat.naanh
+\_no 00079
+\LG MIG
+\PHO [watna*nh]
+\UND wat.naanh
+\MB amarrar, MED
+\VAR
+\GRAM meas
+\SPG una amarrada
+\ENG one tie
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT wat
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex wax.naanh
+\_no 00080
+\LG MIG
+\PHO [waxna*nh]
+\UND wax.naanh
+\MB morder, MED
+\VAR
+\GRAM meas
+\SPG una bocada
+\ENG a mouthful
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT wax
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex wen.neenh
+\_no 00081
+\LG MIG
+\PHO [wenne*nh]
+\UND wen.neenh
+\MB partir, MED1
+\VAR
+\GRAM meas
+\SPG pedazo
+\ENG piece
+\EXU wen.neenh 7an.e
+ZOH001R0611003.txt
+\XPSH [wenne*nh 7ane]
+\XSP un pedazo de tortilla
+\XEN a piece of a tortilla
+\SYN 7a7p
+\ROOT wen
+Page 28

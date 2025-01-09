@@ -1,0 +1,63 @@
+\ETYM
+\ETL
+\ROOT tzetz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex tzetz.e7
+\_no 03338
+\LG MIG
+\PHO [tzetze7]
+\UND tzetz.E7
+\MB labrar, NOM7
+\VAR
+\GRAM_pcp
+\SPG labrado
+\ENG worked
+\EXU tzetz.e7+k kuy
+\XPSH [tzetze7k kuy]
+\XSP madera labrada
+\XEN worked wood
+\SYN
+\ROOT tzetz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tze'
+\_no 03339
+\LG MIG
+\PSH
+\UND tze7
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG lavar
+\ENG to wash
+\SPL tze'.7oy
+\SLGR ANTIP
+\SLGL lavar // to wash
+\SLGR NO PASS
+\SPL tze'.ten
+\SLGR PRSV
+\SLGL tener lavado // to have washed
+\EXU /tzea7/~/tze7/ //tze7-A7// IMPV
+\XSP
+\XEN
+\SYN
+\SEMF clean
+\ASP activity
+\ARG
+ZOH004R0011001.txt
+\NOM tze'.e7
+\SUB k@.tze'
+\ETYM
+\ETL
+\ROOT tze
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+Page 1435

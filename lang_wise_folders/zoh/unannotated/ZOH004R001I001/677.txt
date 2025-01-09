@@ -1,0 +1,64 @@
+\SEMF arrange
+\ASP achievement
+\ARG
+\NOM kuw.i, kajtzay'=kunh. 'oy.kuy7
+\SUB 7ok. kunh. @y, ko. kunh=witu', kunh=tzak, nik.kunh.'@y, yuk. kunh
+\ETYM
+\ETL
+\ROOT kunh
+\RTGR P, (T3)
+\DSRC TK94
+\CMTS CK-PH of EX
+\CMTS HAJ:96
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex kunh-tzak
+\_no 01559
+\LG MIG
+\PSH [kunhtzak-]
+\UND kunh-tzak
+\MB colgar, dejar
+\VAR
+\GRAM vt+dir
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SCI
+\USE
+\SPG dejar colgado
+\ENG to leave something hanging up
+\SPL
+SEMF
+\ETYM
+\ETL
+\ROOT 1 kunh
+\RTGR P, (T3)
+\ROOT 2 tzak
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jun/96
+\lex kunh.x@y
+\_no 01560
+ZOH004R0011001.txt
+PH of EX ok - I've got this 7anhk- in other forms in texts
+\GRAM vt
+\SCI
+\USE
+\LG MIG
+\PSH [kunhnh@y-]
+\UND kunh.x@y (kunh.way or kunh.7@y)
+\MB colgar, x (x = DEPOS or SUF)
+\VAR
+\SPG colgar
+\ENG to hang something on a nail
+\EXU
+\XSP
+\XEN
+\SYN wakx.x@y
+\SEMF
+\ETYM
+\ETL
+Page 677

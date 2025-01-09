@@ -1,0 +1,60 @@
+\XEN now it's ripening
+\ROOT tzam 12
+\CMTS caus yak.tzam dejar_sazonar
+\CMTS doesn't like just plain tzam-w@, it's confusable with 'monte'
+\lex tzam
+\_no 00254
+\SPG platicar; contar un cuento
+\ENG to converse; to tell a story
+\EX
+\XSP
+\XEN
+\ROOT tzam T1
+\CMTS
+\lex tzanh
+\_no 00255
+\SPG pegar con el pun~o; golpear
+\ENG to hit with the fist
+\EX 7@y winjonhnh@ 7@y tzanhnh@
+\XSP le pego* por delante
+\XEN_he knocked him forwards
+\EX 7antzanhxukpa
+\XSP esta*n torteando (como en una ayuda)
+\XEN they're making tortillas
+\ROOT tzanh T3
+\CMTS antip tzanh.7oy
+\CMTS no pass tzanh.7@m*
+\lex tzatz
+\_no 00256
+\SPG rajar (como papel)
+\ENG to tear (like paper)
+\EX
+\XSP
+\XEN
+ZOH001R0611011.txt
+\ROOT tzatz T3
+\CMTS antip tzatz.7oy estar rompiendo
+\CMTS pass tzatz.7@m rajarse; romperse
+\lex tzaxx@
+\_no 00257
+\SPG tener verguenza; ruborizarse; apenarse
+\ENG to feel shame
+\EX nanti m tzaxx@.kuy7
+\XSP no tienes verguenza; sin verguenza
+\XEN you haven't any shame; shameless
+\ROOT tzaxx@ 12
+\CMTS caus yak.tzaxx@ avergonzar
+\CMTS
+\lex tze
+\_no 00258
+\SPG lavar
+ENG to wash
+\EX tzea7
+\XSP
+\XEN
+\ROOT tze T3
+\CMTS antip tze7.7oy lavar
+\CMTS no pass tze.7@m - would be 'se lavo* solo'
+\lex tze7k
+tze7 - impv
+Page 50

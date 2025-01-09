@@ -1,0 +1,62 @@
+\date 03/Jan/80
+\lex wakax yak.ka'-pa+a7k_p@n
+\_no 03531
+\LG MIG
+\PSH [wakax yakkaba*7 p@n]
+\UND wakax yak.ka7-pa +P@7k p@n
+\MB vaca, CAUS, morirse, INC, REL, hombre
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG matancero de res
+\ENG person who kills cattle; butcher
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ka
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex waka'.7aH
+\_no 03532
+\LG MIG
+\PSH [waka7a-]
+\UND waka'.7aH
+\MB tieso, VERS1
+\VAR
+\GRAM vers
+\SCI
+\USE
+\SPG ponerse tieso, no poder estirar
+\ENG for joints to get stiff, hard to stretch out
+\EXU waka.7a-pa
+\XPSH [waka7apa.]
+\XSP Se pone tieso.
+\XEN She's getting stiff.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\lex waka'=tz@k
+\_no 03533
+ZOH004R0011001.txt
+\LG MIG
+\PSH [wakatz@k-]
+\UND waka7=tz@k
+\MB tieso, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer tieso; entiesar
+\ENG to stiffen
+Page 1519

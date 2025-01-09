@@ -1,0 +1,63 @@
+\DSRC HAJ94
+\CMTS CK-PH prob. no /y/ - ok
+\date 12/Jun/95
+\lex 7oso
+\_no 00459
+\LG MIG
+\PSH
+\UND 7oso
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG oso
+\ENG bear
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Apr/95
+UNKNOWN IN THE REGION
+\lex 7ot 7ichiinh
+\_no 00460
+\LG MIG
+\PSH [7ot 7ichi*nh]
+\UND 7otro 7ichiinh
+\MB otro, poquito
+\VAR
+\GRAM
+SCI
+\USE
+\SPG otro poco
+\ENG a little bit more
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex 7otonh
+\_no 00461
+\LG MIG
+\PSH
+\UND 7otonh
+\MB
+\VAR
+\GRAM vi
+\SCI
+ZOH004R0011001.txt
+Page 197

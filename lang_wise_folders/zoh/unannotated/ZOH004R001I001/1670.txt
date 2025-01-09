@@ -1,0 +1,63 @@
+\DSRC HAJ94
+\CMTS applies mainly to clearing a field
+\CMTS v/xanh (1)
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex xanh=m@tz.'@y
+\_no 03882
+\LG MIG
+\PSH [xanhm@tztz@y-]
+\UND xanh=m@tz.7@y
+\MB *aire, *jugar, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG jugarlo el aire
+\ENG for the wind to toss something gently
+\EXU xanh=m@tz.'@y-w@ bi yo't.E7
+\XPSH [Xanhm@tztz@ba_bi yote7]
+\XSP Esta* jugando el aire la ropa.
+\XEN The wind is tossing the clothes around.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT *xanh
+\ROOT * m@tz
+\DSRC HAJ94
+\CMTS pass xanh.7@m
+\CMTS %xanh (2)
+\CMTS CK-EX - HAJ:96 ok
+\date 20/Jun/96
+\lex xanh.xanh.ney
+\_no 03883
+\LG MIG
+\PSH [xanhxanhney-]
+\UND xanh.xanh.ney
+\MB *aire, *aire, REDUP1
+\VAR
+\GRAM VİR
+\SCI
+\USE
+\SPG jugar el aire (coma ropa)
+\ENG for the wind to play with something
+\EXU yo't.E'=yep-w@ xanh-yak. 'oy-pa
+\XPSH [Yoteyepp@,
+xanhyakkoba.]
+ZOH004R0011001.txt
+\XSP Tendio* su ropa y lo esta moviendo el aire.
+\XEN She hung up her clothes and the wind is tossing them about.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * xanh
+\DSRC HAJ94
+\CMTS CK/ANALYZE-EX HAJ:96 ok; SORT.OUT:TK
+\date 26/Jun/96
+\lex xanh='anh=wak
+\_no 03884
+\LG MIG
+\PSH [xanhnhanhwak-]
+Page 1670

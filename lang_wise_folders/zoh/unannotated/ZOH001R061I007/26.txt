@@ -1,0 +1,61 @@
+\EX
+\XSP
+\XEN
+\ROOT tem 12
+\SEMF nature
+\ASP momentaneous, activity
+\CAUS NONE
+\CMTS
+\date 03/Jan/80
+\lex ten
+\_no 00107
+\SPG pararse; pararse la verga; pararse la gente
+\ENG to be standing; to get an erection; for people to stand
+\EX tenn@ y kan
+\XSP se le paro* la verga
+\XEN he got an erection
+\ROOT ten Il
+\SEMF motion, body
+\ASP state
+\CAUS yak.ten parar; hacer pararse
+\CMTS
+\date 03/Jan/80
+\lex tepx
+\_no 00108
+\SPG tirar pedo aguado mujer
+\ENG for a woman to fart a watery fart
+\EX
+\XSP
+\XEN
+\ROOT tepx Ix
+\SEMF body
+\ASP activity, momentaneous
+\CMTS cf topx; cf xopx
+\CMTS get deriv's
+\date 03/Jan/80
+\lex tet
+\_no 00109
+\SPG rajar
+\ENG to split
+\EX 7okmantza7 tete7
+\XSP talo*n rajado
+\XEN a split claw
+\ROOT tet Ix
+\SEMF break
+\ASP momentaneous, process
+\CMTS
+\date 03/Jan/80
+\lex tij
+\_no 00110
+ZOH001R0611007.txt
+\SPG ir y regresar
+\ENG to go and return
+\EX tijpa gaji7
+\XSP va muncho ahi*
+\XEN she goes over there
+\EX 7@y kotijpa*7
+\XSP alguien que visita
+\XEN one who goes visiting
+\EX tijj@ 7i wituw@
+\XSP fue* y regreso*
+Page 26

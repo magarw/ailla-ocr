@@ -1,0 +1,60 @@
+\lex witz
+\_no 00153
+\SPG hacer alma*cigo
+\ENG to make a nursery
+\EX witz@7
+\XSP haz alma*cigo!
+\XEN make a nursery!
+\ROOT witz T3
+\SEMF farm
+\PASS witz.7@m esta* hecho alma*cigo
+\ANTI witz.7oy hacer alma*cigo
+\PRSV witz-ten-e esta* hecho alma*cigo
+\CMTS
+\lex wix
+\_no 00154
+\SPG arrancar
+\ENG to pull up
+\EX wixxixneyy@ tza7
+\XSP esta* de punta la piedra
+\XEN
+\ROOT wix T3
+SEMF move, break
+\PASS NONE wix.7@m*
+\ANTI wix. 7oy
+\CMTS
+\lex woj
+\_no 00155
+\SPG hacer hoyo; agujerear
+\ENG to make a hole; to pierce
+\EX wojj@mm@ bi xuyu7
+\XSP se deshondo* la olla
+\XEN
+\EX tzat@k wojj@
+\XSP hizo hoyo
+\XEN he made a cave
+ZOH001R0611009.txt
+\EX wojneyyow@
+\XSP cayo* de golpe o cayo* ra*pido
+\XEN she fell from a blow or she fell rapidly
+\ROOT woj T3
+\SEMF create, move, cut
+\PASS woj.7@m deshondarse
+\ANTI woj.7oy hacer hoyo
+\PRSV woj-ten lo tiene agujereado
+\CMTS
+\lex wo7k
+\_no 00156
+\SPG raspar
+\ENG to scrape
+\EX
+\XSP
+\XEN
+\ROOT WO7k T3
+\SEMF move, touch
+\PASS NONE wo7k.7@m *
+\ANTI WO7k.7oy
+\CMTS
+\lex wo7kx
+\_no 00157
+Page 37

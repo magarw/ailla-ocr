@@ -1,0 +1,63 @@
+XEN 2 It was put there.
+\EXU 3 k@y. ney-wa
+\XPSH 3 [K@yneyy@.]
+\XSP 3 Esta* puesto el traste.
+\XEN 3 The dish is placed.
+\EXU 4 7@y+ k@y.x@y-w@ mex(a)+g@xi
+\XPSH 4 [7@y kayy@wa mexag@xi.
+\XSP 4 Esta* puesto en la mesa.
+\XEN 4 He put it on the table.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT %k@y
+\RTGR P (TX)
+\DSRC TK94
+\CMTS
+\date 25/Jun/96
+\lex {k@.}
+\_no 04457
+\LG MIG
+\PSH
+\UND ka
+\MB AFUERA
+\VAR
+\GRAM pre
+\SCI
+\USE lexical verbal prefix
+\SPG afuera
+\ENG away
+\SPL
+\SLGR
+\EXU 7@y+ k@.n@k-kep.jay-w@ 7@y+ pojo71
+\XPSH [7@y k@n@kkepjayy@y pojo7k.]
+\XSP Le dio* una patada en sus huevos.
+\XEN He gave him a kick in the balls.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 11/Feb/96
+ZOH004R0011001.txt
+\lex {mae7}
+\_no 04458
+\LG MIG
+\PSH
+\UND mae7
+\MB IRR1
+\VAR
+\USE modal indicating that something might have happened, but didn't,
+or that it used to be true but wasn't anymore (irrealis)
+\GRAM mod
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU 1 d@x+jaa7 xuk-tam-pa mae7
+\XPSH 1 [D@xja*7 xuktampa mae7.]
+\XSP 1 Nosotros nos ibamos a acabar.
+Page 1914

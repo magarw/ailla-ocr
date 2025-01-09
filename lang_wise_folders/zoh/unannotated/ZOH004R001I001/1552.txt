@@ -1,0 +1,63 @@
+\ENG 1 miller
+\ENG 2 a woman who is grinding
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT way
+\RTGR T1
+\DSRC HAJ94
+\CMTS CK-PH - HAJ:96 fixed, ok
+\date 26/Jun/96
+\lex way'=7on.i7
+\_no 03611
+\LG MIG
+\PSH [way 7oni7]
+\UND way7=7on. E7
+\MB pelo, desarreglar, NOM7
+\VAR (way) 7on-w@
+\GRAM a:sq
+\SCI
+\USE
+\SPG 1 (de) pelo aracha
+\SPG 2 despeinada (se trata de mujeres)
+\ENG 1 with big hair
+\ENG 2 uncombed (of women)
+\EXU way'=7oni' yomaa7
+\XPSH [way7oni yoma*7]
+\XSP mujer despeinada
+\XEN a woman with her hair uncombed
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7on
+\RTGR P (TX)
+\DSRC HAJ94
+\CMTS get deriv's; CK-all HAJ:96, pho ok, new root 7on
+\date 26/Jun/96
+\lex way'=jun
+\_no 03612
+\LG MIG
+\PSH [wayjun-]
+\UND way7=jun
+\MB cabello, caer_pelo
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG caer el cabello
+\ENG for hair to fall out
+ZOH004R0011001.txt
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jun
+Page 1552

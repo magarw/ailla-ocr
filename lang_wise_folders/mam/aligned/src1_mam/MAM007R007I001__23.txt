@@ -1,0 +1,42 @@
+(270) 0-chi-tzan.
+B3s-decir-pues
+hasta CPL.DEP=B3s=venir=DIR
+'Vino la persona'
+'por donde se lo había llevado por el águila."
+(273) B'aan=chaq=x=la
+jlaj=xa=tl
+O
+bueno=DIST=siempre=MIR
+lado=DIR=otro CPL
+txkup,
+B3s=subir-TERM= 3sENF animal
+'Que casualidad que del otro lado salió el animal,
+b’ilq’u-ʼn xjaal.
+NEG
+donde B3s=DIR tragar-SD persona
+'de donde fue tragado la persona.'
+(275) Jlaj-tza
+0=xi' q'i-'n t-u'n
+t'iiw.
+CPL B3s-DIR llevar-SD A3s-SR:AGT águila
+'De este lado subió.'
+sólo-pero-pues
+'dice.'
+(279) Yaa_ oo=taq
+tiijan=ta
+ya CPL=PERF viejo=3s.ENG
+'Ya era viejo la persona'
+t-uul,
+cuándo A3s-venir
+0=lajii-n
+xjaal,
+así pues
+CPL B3s=alcanzar persona
+'Así fue que la persona pudo alcanzar,'
+B3s=decir-pues
+(282) 0-chi-tzan
+0=q'uun-j
+B3s-decir pues B3s-decir-PAS
+'Dijeron una historia,'
+jun t-pokb'aal
+un A3s-historia

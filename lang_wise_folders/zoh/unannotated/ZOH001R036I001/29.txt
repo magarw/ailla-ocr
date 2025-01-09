@@ -1,0 +1,85 @@
+ZOH001R0361001.txt
+de DCT3-LOC1 decir-INC
+si venir-REPET-INC 2>1 decir-APPL-DINC si*
+\sg] y
+\egl and of DCT3-LOC1 say -INC if come -REPET-INC 2>1 say -APPL-DINC yes
+\tx si tz@kke7tpa
+ne7
+\mb si tz@k -ke7t -pa ne7
+\sgl si* hacer-REPET-INC tambien
+\eg1 yes do -REPET-INC also
+\zoq 7i de gaji n@mpa si minke7tpa mix n@mjayy@ si - si tz@kke7tpa ne7
+de7xe.
+\ref ZOH001R036 132
+\_no 00133
+\fts Y de ahi* dice si me vienes a decir de vuelta si* sigue asi* mismo.
+fte And then they say if you come again to me and say yes
+happening again like that.
+yes it's
+\zoq Gay n@kke7tpan 7ixke7tt@.
+\fts Lo vuelvo a ir a ver.
+n@kke7tpan
+7ixke7tt@
+\tx gay
+\mb ka
+-y
+n@k -ke7t -pa -7@n 7ix-ke7t -w@
+\sg1 DCT3-TMP irse-REPET-INC-1E ver-REPET-DINC
+\eg1 DCT3-TMP go -REPET-INC-1E see-REPET-DINC
+\fte Now I'll go again to see.
+\com
+\idx
+gaji*nh
+de7xe
+te
+\ref ZOH001R036 133
+\_no 00134
+\tx
+gay
+7ichinhjaxta*m
+\mb
+ka -jiinh ka -y
+7ichinh-jaa7-xtaa7-7am
+\sg1 DCT3-DIR2 DCT3-TMP decir-INC poco -NPL2-NOMAS-YA
+\eg1 DCT3-DIR2 DCT3-TMP say -INC little -NPL2-ONLY - NOW
+\tx yaktzi77oba
+\mb
+-7xe
+DCT2-SIM
+DCT2-SIM
+yak -tzi7-7oy -pa
+\sg1 CAUS-dar -ANTIP-INC
+\eg1 CAUS-give-ANTIP-INC
+n@mpa
+n@m -pa
+\zoq Gaji*nh gay n@mpa 7ichinhjaxta*m yaktzi 77oba.
+\fts De ahi* dice que ya le esta* dando por poquito.
+\fte Then now he says it's hurting him just a little.
+\com
+\idx
+\ref ZOH001R036 134
+\_no 00135
+\tx gay
+d@xx@n
+n@mjaba*m
+tey
+w@j@7awa*m
+\mb ka -Y d@x -7@n n@m -jay -pa -7am te -Y
+w@ja -7a
+\sg1 DCT3-TMP 1Prn-1E decir-APPL-INC-YA DCT2-TMP bueno-VERS1-COM-YA
+\eg1 DCT3-TMP 1Prn-1E say -APPL-INC-NOW DCT2-TMP good -VERS1-COM-NOW
+\ref ZOH001R036 135
+\_no 00136
+\tx kom ney y@da
+toto
+toto7
+\mb komo ney
+ya -da
+\sg1 como mismo DCT1-DEM papel
+\zoq Gay d@xx@n_n@mjaba*m tey w@j@7awa*m
+\fts Yo ya le digo ahora ya sano*
+\fte Then I say to him now it's well
+\com
+\idx
+Page 29
+-w@ - 7am

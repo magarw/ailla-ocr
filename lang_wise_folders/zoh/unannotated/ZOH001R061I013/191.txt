@@ -1,0 +1,52 @@
+\SPG tener_verguenza
+\ENG feel_shame
+\lex tzay7
+\_no 02392
+\SPG vena
+\ENG vein
+\lex tzayji7
+\_no 02393
+\SPG tarde
+\ENG afternoon
+\lex tze7
+\_no 02394
+\SPG lavar
+\ENG wash
+\lex tzeja7
+\_no 02395
+\SPG delgado
+\ENG thin
+\lex tzek
+\_no 02396
+\SPG barriga
+\ENG belly
+\lex tzekka7
+\_no 02397
+\SPG checa; pa*jaro de la verdad
+\ENG
+\lex tzekmama
+\_no 02398
+\SPG matri*s
+\ENG ***
+\lex tze7k
+\_no 02399
+\SPG pedir
+\ENG ask
+\lex tzem
+\_no 02400
+\SPG desafiar; provocar; atropellar para pelear; pegar
+\ENG challenge; to provoke a fight
+\lex tzenh
+\_no 02401
+\SPG estar de lado
+\ENG
+\lex tzepe7
+\_no 02402
+\SPG nagua
+\ENG nagua
+ZOH001R0611013.txt
+\lex tzetu7
+\_no 02403
+\SPG casco
+\ENG hoof
+Page 191

@@ -1,0 +1,60 @@
+\EX
+\XSP
+\XEN
+\ROOT mon P, (T3)
+\SEMF wrap, affect
+\PASS NONE mon.7@m *
+\ANTI mon.7oy
+\CMTS
+\lex monh
+\_no 00156
+\SPG acostarse; dormir
+\ENG to go to bed; to sleep
+\EX ya da monhnh@
+\XSP no dormi*; estoy desvelado
+\XEN I didn't sleep
+\ROOT monh 12
+\SEMF body
+\CAUS yak.monh acostarlo; hacer dormir
+\CMTS "caus" win.monh vt hacer dormir; dormir con alguien
+\lex mot
+\_no 00157
+\SPG revolver; mezclar
+\ENG to mix
+\EX mot-ten
+\XSP tener revolvido
+\XEN
+\ROOT mot T3
+\SEMF move
+\PASS mot.7@m revolverse
+\ANTI mot.7oy
+\CMTS
+\lex motz
+\_no 00158
+\SPG comer pura tortilla
+\ENG to eat just tortillas
+\EX 7ane motztz@
+\XSP comio* puro tortilla sin carne
+\XEN she ate plain tortillas
+\EX motztz@mm@ bi 7ane
+ZOH001R0611010.txt
+\XSP se comio* la pura tortilla
+\XEN just plain tortillas were eaten
+\ROOT motz T1
+\SEMF eat, obj
+\PASS motz.7@m comerse
+\CMTS
+\lex mo7tz
+\_no 00159
+\SPG moler en molcajete; machucar, como tomate o chile
+\ENG to grind in the blender; to pulverize, like tomato or chile
+\EX mo7tz-ten-e
+\XSP lo tiene molido
+\XEN ground up
+\ROOT mo7tz T3
+\SEMF cook
+\PASS NONE mo7tz.7@m *
+\ANTI mo7tz.7oy
+\CMTS
+\lex muj
+Page 37

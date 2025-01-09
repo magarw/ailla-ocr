@@ -1,0 +1,60 @@
+\ENG for the sun or moon to go down
+\EX tzottam jama
+\XSP ya salio* el sol
+\XEN the sun has gone down
+\EX tzottam xepe
+\XSP ya salio* la luna
+\XEN the moon has gone down
+\ROOT tzot Ix
+\SEMF nature
+\CAUS yak.tzot hacer salir (Dios)
+\CMTS
+\lex tzo7t
+\_no 00317
+\SPG arrancar (sin la rai*z)
+\ENG to pull up (without the root)
+\EX 7@y jaxtzo7tt@
+\xSP 1o arranco* sin la rai*z
+\XEN she pulled it up
+\ROOT tzo7t T3
+\SEMF move, break
+\PASS tzo7t.7@m arrancarse
+\ANTI tzo7t.7oy arrancar
+\CMTS
+\lex tzo7tz
+\_no 00318
+\SPG faltar
+\ENG to lack; to miss
+\EX tzo7tztz@ m@jma
+\XSP falta mucho
+XEN she missed someone a lot
+\XEN
+\ROOT tzo7tz Ix
+\SEMF cog, condition
+\CAUS NONE
+\CMTS
+\lex tzoy
+\_no 00319
+\SPG saltar
+\ENG to jump
+\EX
+\XSP
+\XEN
+\ROOT tzoy 11
+\SEMF motion
+\CAUS yak.tzoy hacer saltar
+\CMTS
+\lex tzuj
+\_no 00320
+\SPG escupir
+\ENG to spit
+\EX 7@y niktzujj@yy@
+\XSP 1o escupio*
+\XEN she spit
+ZOH001R0611010.txt
+\ROOT tzuj 11
+\SEMF body
+\CMTS
+\lex tzukx
+\_no 00321
+Page 72

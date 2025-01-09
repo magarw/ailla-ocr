@@ -1,0 +1,61 @@
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS no suena bien (hoy) (HAJ:96 the example is correct)
+\date 02/Oct/96
+\lex 7an.e=tz@m-pa+a7k
+\_no 00047
+\LG MIG
+\PSH [7anetz@mpa*7k]
+\UND 7an. E=tz@m-pa+v7k
+\MB calentarse, NOM7, cargar, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG 1 cargador de tortilla
+\SPG 2 e*1 que lleva su lonche
+\ENG 1 tortilla carter
+\ENG 2 someone who carries his lunch
+\EXU 7an.e=tz@m-w@?\XPSH [7anetz@mm@?]
+\XSP Llevastes tortilla?
+\XEN Did you bring tortillas?
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7an
+\RTGR 1 12
+\ROOT 2 tz@m
+\RTGR 2 P
+\DSRC HAJ94
+\CMTS final /k/:TK
+\date 03/Jan/80
+\lex 7animu.7@y
+\_no 00048
+\LG MIG
+\PSH [7animu7@y-]
+\UND 7animu.7@y
+\MB valor, VERS2
+\VAR 7aniim.7@y
+\GRAM vi
+\SCI
+\USE
+\SPG 1 tener valor
+\SPG 2 valiente
+\ENG 1 to have courage
+\ENG 2 brave
+\EXU 7aniim. 7@y-w@
+\XPSH [7aniimm@yy@.]
+\XSP Tiene valor.
+\XEN She has courage.
+\SYN
+ZOH004R0011001.txt
+SEMF
+ETYM a*nimo
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 02/Oct/96
+\lex 7anim(a) 7alma
+Page 21

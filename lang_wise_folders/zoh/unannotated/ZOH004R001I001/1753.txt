@@ -1,0 +1,62 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS v/yaj A2
+\date 11/Feb/96
+\lex yaj.@¹.7aH
+\_no 04077
+\LG MIG
+\PSH [yaj@7a-]
+\UND_yaj.A7.7aH
+\MB lejos, NOM2, VERS1
+\VAR
+\GRAM versl
+\SCI
+\USE
+\SPG hacerse lejos
+\ENG to grow far away
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex yaj.@'=tz@k
+\_no 04078
+\LG MIG
+\PSH [yaj@tz@k-]
+\UND_yaj.A7=tz@k
+\MB lejos, NOM2, HACER
+\VAR
+GRAM vt
+\SCI
+\USE
+\SPG hacer lejos
+\ENG to cause to go farther away or to be more distant
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+ZOH004R0011001.txt
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+\lex yaj. '@y
+Page 1753

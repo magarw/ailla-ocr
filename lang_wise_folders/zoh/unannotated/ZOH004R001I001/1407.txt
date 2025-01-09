@@ -1,0 +1,63 @@
+\DSRC HAJ94
+\CMTS NRM 17.5
+\date 10/Nov/94
+\lex tzapatz kuy
+\_no 03271
+\LG MIG
+\PSH
+\UND tzapatz_kuy
+\MB rojo, palo
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG tepeguaje
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 10/Feb/96
+LF: kuy
+\lex tzapatz m@a7
+\_no 03272
+\LG MIG
+\PSH
+\UND tzapatz m@a7
+\MB rojo, venado
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG venadito rojo
+\ENG red deer
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Feb/96
+\lex tzapatz patanux
+\_no 03273
+\LG MIG
+\PSH
+\UND tzapatz patanux
+\MB rojo, pla*tano
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG pla*tano colorado
+ZOH004R0011001.txt
+Page 1407

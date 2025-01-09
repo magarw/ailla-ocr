@@ -1,0 +1,61 @@
+\EX_p@n-w@
+\XSP (esta*) puesto
+\XEN
+\EX 7@y p@w@ deji
+\XSP lo puso ahi*
+XEN she put it there
+\EX p@nn@xta*7
+\XSP esta* puesto no ma*s
+\XEN it's just placed
+\ROOT p@n I2
+\SEMF position
+\CAUS yak.p@n poner
+\CMTS
+\lex p@7t
+\_no 00248
+\SPG cruzar; pasar
+ENG to cross; to pass
+\EX p@7t@7k tyempu
+\XSP tiempo pasado
+\XEN time gone by
+\EX p@7tt@ 7@y tyempu
+\XSP paso* su tiempo
+\XEN it's passed its time
+\XSP tim p@7tjaba?
+\XSP que te pasa?
+\XEN what happened to you?
+\ROOT p@7t Il
+\SEMF motion
+\CAUS yak.p@7t dejar pasar; copiar
+\CMTS
+\lex p@7tz
+\_no 00249
+\SPG destripar
+\ENG to scale; to strip
+\EX koke p@7tztz@
+\XSP destripo* pescado
+\XEN he scaled the fish
+\ROOT p@7tz T3
+\SEMF clean, affect
+\PASS p@7tz.7@m destriparse
+\ANTI p@7tz.7oy destripar
+\PRSV p@7tz-ten-e lo tiene destripado
+\CMTS
+\lex taj
+\_no 00250
+\SPG escarbar
+\ENG to dig
+\EX
+\XSP
+\XEN
+\ROOT taj T3
+\SEMF affect, move
+ZOH001R0611010.txt
+\PASS taj.7@m
+\ANTI taj.7oy
+\PRSV taj-ten lo tiene escarbado
+\CMTS
+\lex ta7k
+\_no 00251
+\SPG remojar algo en la comida
+Page 57

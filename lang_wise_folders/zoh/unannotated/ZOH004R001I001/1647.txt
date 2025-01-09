@@ -1,0 +1,62 @@
+\SYN
+\SEMF arrange
+\ASP transition
+\ARG
+\NOM w@kx. 'oy.kuy7, w@kx.naanh
+\SUB nik.w@kx. '@y, wakx.x@y, w@kx=n@k, w@kx=p@k
+\ETYM
+\ETL
+\ROOT W@kx
+\RTGR P (TX)
+\DSRC HAJ95
+\CMTS antip: no. 'no tiene caso'
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex w@kx.naanh
+\_no 03830
+\LG MIG
+\PHO [w@kxna*nh]
+\UND w@kx.naanh
+\MB colgar, MED
+\VAR
+\GRAM meas
+\SPG una colgada
+\ENG a hanging-up
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT W@kx
+\RTGR P (TX)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex w@kx=n@k
+\_no 03831
+\LG MIG
+\PSH [w@kxn@k-]
+\UND w@kx=n@k
+\MB clavar, irse
+\VAR
+\GRAM vt
+\SPG 11evar colgado del hombro
+\ENG to carry something hanging from the shoulder
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT W@kx
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 26/Jun/96
+ZOH004R0011001.txt
+\lex w@kx-p@k
+\_no 03832
+\LG MIG
+\PSH [w@kxp@k-]
+\UND wakx-p@k
+\MB colgar, agarrar
+\VAR
+\GRAM vt
+Page 1647

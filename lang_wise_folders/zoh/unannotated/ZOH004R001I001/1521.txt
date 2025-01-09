@@ -1,0 +1,63 @@
+\lex wakxinh7
+\_no 03536
+\LG MIG
+\PSH
+\UND wakxinh7
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG pequen~o
+ENG small
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\lex wakxinh'.7aH
+\_no 03537
+\LG MIG
+\PSH [wakxinh7a-]
+\UND wakxinh'.7aH
+\MB pequen~o, VERS1
+\VAR
+\GRAM vers
+\SCI
+\USE
+\SPG hacerse pequen~o; chiquito
+\ENG to become small
+\SPL
+SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\lex wakxinh'+p@7
+\_no 03538
+\LG MIG
+\PSH [wakxinhp@7]
+\UND wakxinh' +p@7
+\MB pequen~o, NOM5
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG chiquito; pequen~o
+\ENG little; small
+\EXU
+ZOH004R0011001.txt
+Page 1521

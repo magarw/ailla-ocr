@@ -1,0 +1,60 @@
+\XSP
+\XEN
+\ROOT mon P, (T3)
+\CMTS antip mon. 7oy
+\CMTS no pass mon.7@m *
+\lex monh
+\_no 00119
+\SPG acostarse; dormir
+\ENG to go to bed; to sleep
+\EX ya da monhnh@
+\XSP no dormi*; estoy desvelado
+\XEN I didn't sleep
+ROOT monh 12
+\CMTS caus yak.monh acostarlo; hacer dormir
+\CMTS "caus" win.monh vt hacer dormir; dormir con alguien
+\lex mot
+\_no 00120
+\SPG revolver; mezclar
+\ENG to mix
+\EX mot-ten
+\XSP tener revolvido
+\XEN
+\ROOT mot T3
+\CMTS antip mot.7oy
+\CMTS pass mot.7@m revolverse
+\lex motz
+\_no 00121
+SPG comer pura tortilla
+\ENG to eat just tortillas
+\EX 7ane motztz@
+\XSP comio* puro tortilla sin carne
+\XEN she ate plain tortillas
+\EX motztz@mm@ bi 7ane
+\XSP se comio* la pura tortilla
+\XEN just plain tortillas were eaten
+ROOT motz T1
+\CMTS no antip * motz.7oy no sale
+\CMTS pass motz.7@m comerse
+\lex mo7tz
+\_no 00122
+\SPG moler en molcajete; machucar, como tomate o chile
+\ENG to grind in the blender; to pulverize, like tomato or chile
+\EX_mo7tz=ten-e
+\XSP lo tiene molido
+\XEN ground up
+\ROOT mo7tz T3
+ZOH001R0611011.txt
+\CMTS antip mo7tz.7oy
+\CMTS no pass mo7tz.7@m *
+\lex muj
+\_no 00123
+\SPG mojarse
+\ENG to get wet
+\EX ban mujpa
+\XSP estar muy mojado
+\XEN it's very wet
+\ROOT muj 12
+\CMTS caus yak.muj mojar
+\CMTS caus2 yak+ muj mojar
+Page 25

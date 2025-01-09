@@ -1,0 +1,61 @@
+XEN his body warmed up
+\ROOT jaj Ix
+\SEMF temp
+\ASP process
+\CAUS 7@y yakjajj@ 'algo me ardio*'
+\date 03/Jan/80
+\lex jakx
+\_no 00018
+\SPG sacar algo de la boca
+\ENG to hawk a gob
+\EX
+\XSP
+\XEN
+\ROOT jakx Il
+\SEMF body
+\ASP momentaneous
+\CAUS yak.jakx hacer sacar
+\date 03/Jan/80
+\lex ja7k
+\_no 00019
+\SPG ahogarse
+\ENG to choke; to drown
+\EX ja7kk@ kwandu k@xxoba
+\XSP se ahogo* cuando estaba comiendo
+\XEN he choked when eating
+\EX 7@y yakja7kk@ najo7
+\XSP 10 ahogo* en el ri*o
+\XEN he drowned it in river
+\ROOT ja7k 12
+\SEMF body
+\ASP momentaneous, process
+\CAUS yak.ja7k ahogar (choke someone, or drown in the river...)
+\CMTS
+\date 03/Jan/80
+\lex jatikx
+\_no 00020
+\SPG estornudar
+\ENG to sneeze
+\EX d@ yakjatikx@ niwi
+\XSP me hizo estornudar el chile
+\XEN the chile made me sneeze
+ZOH001R0611007.txt
+\ROOT jatikx Ix
+\SEMF body
+\ASP momentaneous
+\CAUS yak.jatikx hacer estornudar
+\CMTS
+\date 03/Jan/80
+\lex jaway
+\_no 00021
+\SPG arder (como una quemada o una herida)
+\ENG to burn (like a burn or a wound)
+\EX wen jawayy@
+\XSP estuvo ardiendo mucho
+\XEN it was burning a lot
+\EX jawaypa
+\XSP ardor
+\XEN burning
+\ROOT jaway 12
+\SEMF body, temp
+Page 5

@@ -1,0 +1,65 @@
+\lex we7k [1]
+\_no 03641
+\LG MIG
+\PSH
+\UND we7k
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG envarillar
+\ENG to place the wooden cross-poles (in a wall or door) where the mud goes
+on
+\SLGR NO ASSUM1
+\SPL we7k.7@m
+\SLGR PASS
+\SLGL envarillar (impersonal) // to install poles (impersonal)
+\SPL we7k.ten
+\SLGR PRSV
+\SLGL tener envarillado // to have the poles installed
+\SPL we7k.7oy
+\SLGR ANTIP
+\SLGL envarillar // to install poles
+\EXU 1 we7k. 7oy-pa+' am bi p@n d@k (+'ay)
+ZOH004R0011001.txt
+\XPSH 1 [we7kkoba*m bi p@n dakka.]
+\XSP 1 Ya esta*n envarillando los hombres.
+\XEN 1 Now the men are installing the poles.
+\EXU 2 7@y+ we7k.ten-w@ bi tak
+\XPSH 2 [7@y we7ktenn@ bi t@k.]
+\XSP 2 Lo envarillo* una semana antes.
+\XEN 2 He installed the poles a week ahead.
+\EXU 3 7eya+a7k we7k. 'oy-wa
+\XPSH 3 [7eya*7k we7kkoyy@.]
+\XSP 3 Otro lo envarillo*
+\XEN 3 Someone else installed the poles.
+\SYN
+\SEMF arrange, build
+\ASP process
+\ARG
+\NOM we'k.e7
+\SUB k@.we7k
+\ETYM
+\ETL
+\ROOT we7k
+\RTGR T3
+\DSRC TK94
+\CMTS The translation for EXU 3 is Camilo's. He often glosses odd ANTIPS
+\CMTS with this someone else did it' construction.
+1
+\date 03/Jan/80
+\lex we7k [2]
+\_no 03642
+\LG MIG
+\PSH
+\UND we7k
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG tule
+\ENG a type of plant used to make mats
+\EXU
+Page 1565

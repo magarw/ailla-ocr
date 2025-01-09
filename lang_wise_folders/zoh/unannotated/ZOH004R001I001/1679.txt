@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ROOT xek
+\RTGR T3
+\DSRC HAJ96
+\CMTS
+\date 03/Jan/80
+\lex xek-tunh-poy
+\_no 03903
+\LG MIG
+\PSH [xektunhpoy-]
+\UND xek-tunh=poy
+\MB regar_agua, camino, huir
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG chorrear, correr corriente cuando llueve
+\ENG to spout, for water to run in currents when it rains
+\EXU xek-tunh-poy-w@ kwandu tak-w@ tuj
+\XPSH [Xektunhpoyy@ kwandu takk@ tuj.]
+\XSP Corrio* corriente cuando lluvio*.
+XEN The water ran in currents when it rained.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 xek
+\RTGR 1 T1
+\ROOT 2 poy
+\RTGR 2 11
+\DSRC TK94
+\CMTS can't get the v nominalizer for 'xek'; it's /xek.e/: TK
+\date 26/Jun/96
+\lex xem
+\_no 03904
+LG MIG
+\PSH
+\UND xem
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG tocar
+\ENG to play music
+SPL xem.7@m
+\SLGR PASS
+\SLGL tocar // to play (impersonal)
+\SPL xem.ten
+\SLGR PRSV
+\SLGL tener el intrumento, tocandolo // to have the instrument and be
+playing it
+EXŪ 7@y+ xem-w@ bị xempe
+\XPSH [7@y xemm@ bi xempe.]
+\XSP Toco* la guitarra.
+\XEN He's playing the guitar.
+\SYN
+\SEMF sound
+\ASP process
+\ARG patient
+Page 1679

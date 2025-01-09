@@ -1,0 +1,43 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(8.15)
+(i)
+(ii)
+(iii)
+(iv)
+de gaji makkokmangngø bi pøn
+de ga.hi?
+bi pən
+de DCT3.LOC1 3A pescar-empezar-COM DEF hombre
+'Siguió pescando el hombre.'
+0 mak=?okmaŋ-wə
+'øn wakax 'øy patzwangkawø tren
+?ən+ wakaš ?əy+ pac=waŋka-wə tren
+1E+ ganado 3E+ tirar-voltear-COM tren
+'Mi toro voltió el tren.'
+gø tyempu mae ja'kkapa rroberta
+gə
+mix 'ixpøkpa
+miš+ ?iš=pək-pa
+1>2+ver=agarrar-INC
+'Te conozco.'
+tyempu mae? 0 ha?k=ka?-pa
+rroberta
+DCT3 tiempo REM 3A ahogarse=morirse-INC roberta
+'En ese tiempo se iba morir de ahogada Roberta."
+(v) bi nu' 'øy waxnumtøpa bi tzinu 'øy tøk
+bi nu? ?ǝy+ waš=num=tə?-pa
+(ZOH001R020-015)
+(ZOH001R025-261)
+217
+(ZOHOO1R015-075)
+(ZOH001R026-103)
+bi cinu??ǝy+ tək
+DEF perro 3E+ morder=robar=querer-INC DEF abeja 3E+ casa
+'Y el perro quería morder su casa de la abeja.'
+(ZOH001 R046-057)
+Derived stems can be combined in a compound construction. These
+"inner stems" can be composed of a root and a directional prefix (8.16 i-ii), a
+root, a directional prefix, and the suffix -?ǝy (iii-iv), or sometimes an
+antipassive that applies only to one of the compounds (v). Brackets are placed
+in the examples that follow to indicate the morpho-syntactic constituent
+structure.

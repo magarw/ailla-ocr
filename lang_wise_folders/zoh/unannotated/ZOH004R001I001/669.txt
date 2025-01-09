@@ -1,0 +1,62 @@
+\DSRC HAJ95
+\CMTS
+\date 11/Jan/96
+\lex kumbi=tz@k.i
+\_no 01541
+\LG MIG
+\PSH [kumbitz@ki]
+\UND kumbi-tz@k.E
+\MB X, HACER, NOM7
+\VAR
+\GRAM pcp
+\SPG esta* invitado
+\ENG someone who is invited to something
+\SPL
+\SLGR
+\EXU
+\XPSH
+\XSP
+\XEN
+\SYN
+\SEMF
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ96
+\CMTS
+\date
+\lex kum.kuy7
+\_no 01542
+\LG MIG
+\PSH [kumkuy7]
+\UND kum.kuy7
+\MB enterrar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG pueblo
+\ENG town
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kum
+\RTGR T2
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/96
+ZOH004R0011001.txt
+\lex kum.kuy' 7utz.kuy7
+\_no 01543
+\LG MIG
+\PSH [kumkuy 7utzkuy7]
+\UND kum.kuy7 7utz.kuy7
+\MB enterrar, INSTR1, medir, INSTR1
+\VAR
+\GRAM sms
+\SCI
+\USE
+Page 669

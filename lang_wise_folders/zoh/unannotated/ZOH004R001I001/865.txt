@@ -1,0 +1,64 @@
+\ENG to leave your firewood piled up
+\SPL
+\SLGR
+\EXU 7@y+ mo7k.x@y-w@ 7@y+ kapi
+\XPSH [7@y mo7kk@yy@y k@pi.]
+*
+\XSP Dejo amontonadito su len~a.
+\XEN She left her firewood stacked up.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT mo7k
+\RTGR P, (TX)
+\DSRC HAJ95
+\CMTS analyze; where is ERG in EX? HAJ:96, fixed it
+\CMTS mo7k- it's a word but he can't think of a way to translate it
+\date 25/Jun/96
+\lex moles=tz@k
+\_no 02007
+\LG MIG
+\PSH [molestz@k-]
+\UND moles=tz@k
+\MB molestar, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG molestar
+\ENG to bother
+\SPL moles=tz@k.7@m
+\SLGR PASS
+\SLGL molestarse // to be bothered
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 12/Nov/94
+\lex moli7
+\_no 02008
+\LG MIG
+\PSH
+\UND moli7
+ZOH004R0011001.txt
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG mole
+\ENG mole
+\EXU xuyu'+ju7+k moli7
+\XPSH [xuyuju7k_moli7]
+\XSP mole de olla
+\XEN
+\SYN
+Page 865

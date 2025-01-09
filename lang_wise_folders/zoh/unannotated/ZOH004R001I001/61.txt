@@ -1,0 +1,62 @@
+\RTGR TX
+\DSRC TK94
+\CMTS
+\date 08/Jan/96
+\lex 7anh-num
+\_no 00143
+\LG MIG
+\PSH [7anhnum]
+\UND 7anh=num.0
+\MB BOCA, robar, NOM6
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG 1 sombra
+\SPG 2 sombra de una persona
+\ENG 1 shadow
+\ENG 2 shadow of a person
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT num
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 08/Jan/96
+\lex 7anh-n@7
+\_no 00144
+LG MIG
+\PSH [7anhn@7]
+\UND 7anh-n@7
+\MB BOCA, agua
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG baba
+\ENG drool
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/95
+\lex 7anh-n@ji
+\_no 00145
+\LG MIG
+\PSH [7anhn@ji]
+\UND 7anh-n@ji
+\MB BOCA, name
+\VAR
+ZOH004R0011001.txt
+Page 61

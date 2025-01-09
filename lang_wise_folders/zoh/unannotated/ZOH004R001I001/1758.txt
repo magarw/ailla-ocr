@@ -1,0 +1,63 @@
+\lex
+\_no 04089
+\LG MIG
+yak.k@nh-tzonh
+\PSH [yakk@nhtzonh-]
+\UND yak.k@nh-tzonh
+\MB CAUS, quemarse, unir
+\VAR
+\GRAM caus2
+\SCI
+\USE
+\SPG prender
+\ENG to light
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 k@nh
+\RTGR 1 12
+\ROOT 2 tzonh
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 14/Nov/94
+\lex yak.manak. 7oy-pa+a7k
+\_no 04090
+\LG MIG
+\PSH [yakmanak7oba*7]
+\UND yak.manak. 7@y. 7oy-pa +P@7k
+\MB CAUS, hijo/a, SUF, ANTIP, INC, REL
+\VAR
+\GRAM antip: caus2:agt1
+\SCI
+\USE
+\DLG
+\SPG partera
+\ENG midwife
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS ANALYZE; DONE?:TK
+\date 26/Jun/96
+\lex yak.manchu. 7aH
+\_no 04091
+ZOH004R0011001.txt
+\LG MIG
+\PSH [yakmanchu7a-]
+\UND yak.manchu. 7aH
+\MB CAUS, amansar, VERS1
+\VAR
+\GRAM convers1
+\SCI
+\USE
+Page 1758

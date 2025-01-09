@@ -1,0 +1,37 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+3.3.4. Voice assimilation
+Generally, intervocalic stops are voiceless, but the voiceless stop
+consonants /p,t,k/ may become voiced when surrounded by members from the
+set {vowels, nasals, /y/}. This process is variable, depending on speaker, rate
+and carefulness of speech, and on the semantic prominence of the morpheme
+in question. Consonants of verb roots, for example, are rarely affected (3.8 i),
+nor are the instrumental suffix -kuy? (i) or incompletive -pa (ii). Suffixes like
+repetitive -ke?t (iii) and first/second plural -tam (iv) are always voiced in such
+contexts.
+(3.8)
+(i)
+(ii)
+(iii)
+(iv)
+'øy jupnøkkø 'øy tzangkuygøxi
+?əy+ hup=nək-wə ?əy+ caŋ.kuy?+gǝši
+3E+ jalar-ir-COM 3E+ pegar.INSTR1 +LOC5
+'Lo llevó de la mano.'
+'øn tzajtzongpan toto'
+?ǝn+ cah=coŋ-pa
+?ən+ toto?
+1E+ pegar=unir-INC 1E+ papel
+'Voy a pegar mi papel.'
+pitzømge'ttø 'ot tumø
+0 picəm.ke?t-wə Potro tumə?
+3A salir. REPET-COM otro uno
+'Otro salió.'
+'awindøkka mix 'øm witudampa
+?awin+dǝkkay miš ?ǝm+witu?-tam-pa
+hermano +NPL 2Prn 2A+ regresar-1/2PL-INC
+'Hermanos, van a regresar.'
+36
+(lexicon)
+(elicited)
+(ZOH001R018-319)
+(ZOH001 RO12-165)

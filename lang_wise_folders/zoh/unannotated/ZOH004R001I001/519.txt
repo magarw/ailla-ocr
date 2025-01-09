@@ -1,0 +1,63 @@
+\EXU kap.ney-pa nax+jo7
+\XPSH [Kapneba naxjo7.]
+\XSP se duerme en el suelo.
+\XEN He's sleeping on the floor.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kap
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex kartuchu
+\_no 01192
+\LG MIG
+\PSH
+\UND kartuchu
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG cartucho
+\ENG cartridge
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Aug/94
+\lex karreta7
+\_no 01193
+\LG MIG
+\PSH
+\UND karreta7
+\MB
+\VAR karreta
+\GRAM S
+\SCI
+\USE
+\SPG carreta
+\ENG cart
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH
+\date 24/Jun/96
+\lex karru
+\_no 01194
+ZOH004R0011001.txt
+ok, HAJ:96; I fixed it: TK
+Page 519

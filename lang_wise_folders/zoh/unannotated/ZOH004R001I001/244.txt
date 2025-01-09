@@ -1,0 +1,63 @@
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG violeta
+\ENG violet
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 24/Sep/94
+\lex chekek
+\_no 00567
+\LG MIG
+\PSH
+\UND chekek
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG culequear
+\ENG to cluck
+\EXU chekek-w@ piyu
+\XPSH [Chekekk@ piyu.
+\XSP Culequeo* la gallina.
+\XEN The hen clucked.
+\SYN
+\SEMF sound
+\ASP activity
+\ARG actor
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT chekek
+\RTGR 11
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex chibu
+\_no 00568
+\LG MIG
+\PSH
+\UND chibu
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG chivo
+\ENG goat
+\EXU yoma chibu
+\XSP chiva
+ZOH004R0011001.txt
+Page 244

@@ -1,0 +1,45 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(examples iii-iv) might have been deleted at some earlier stage of the language.
+Note that in the (iii) and (iv), the 'front' vowel that supplies the appropriate
+context is /ə/. This is further evidence for the fact that this vowel functions in
+the MIG Zoque system as its correlate /ü/ does in the other MZ languages. The
+second vowel in these words is always strongly laryngealized.
+(3.17)
+(i)
+(iii)
+(3.18)
+(i)
+mea
+mea
+'mar'
+møa'
+mǝa?
+'venado'
+3
+wiki tzoa'
+wiki coŋ.A?
+dedo unir.NOM2
+'nudillo'
+(ii)
+/w/ is deleted between an /o/ and an /e/ or an /a/. A syllable-final /w/
+will normally appear on the surface as /n/ (section 3.3.3). But when the /w/-
+final morpheme is followed by a vowel-initial suffix, the resulting stem is re-
+syllabified with /w/ as the onset of the added syllable. So, it ends up between
+the two vowels. The rule is this:
+/W/ --> 0 / /0/3
+(iv)
+(ii)
+[/e/, /a/]
+nea'
+nea?
+'paredl'
+køak
+kəak
+'huarache'
+moe'axpa
+0 moŋ.E=?aš-pa
+3A dormir.NOM3-boca_abierto-INC
+'Bostecea.'
+have no examples with a /u/ next to a /w/. It seems to be a strongly disfavored
+conjunction of sounds.
+44

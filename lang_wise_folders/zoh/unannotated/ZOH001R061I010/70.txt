@@ -1,0 +1,62 @@
+SEMF hit, instr
+\PASS NONE tzij.7@m
+\ANTI tzij.7oy
+\CMTS puede ser palo, pero es mas con piedra
+\CMTS
+\lex tzik
+\_no 00308
+\SPG pelar; quitar o pelar cuero a un animal; chollar - ba
+\ENG to skin; to skin an animal; to shear
+\EX 7@y nakatzikk@
+\XSP lo quito* el cuero de un animal
+\XEN he skinned it
+\ROOT tzik T3
+\SEMF hunt, affect, cut
+\PASS tzik.7@m pelarse
+\PASS NONE tzik.7@m * seri*a: "se pela so*lo"
+VANTI tzik.7oy pelar
+\CMTS which PASS?
+\lex tzi7kx
+\_no 00309
+\SPG dar comezo*n
+\ENG to itch
+\EX tzi7kx@ wenu
+\XSP le dio* mucha comezo*n
+\XEN he itched a lot
+\EX tzi7kxwayy@
+\XSP ya no le dio* comezo*n
+\XEN
+\EX ya tzi7kxa*m
+\XSP ya no le da comezo*n
+\XEN now it doesn't itch
+\EX yuktzikx@ 7@y kuptuku
+\XSP le dio* comezo*n su espalda
+\XEN her back itched
+\EX tzi7kxja: ba
+\XSP tiene comezo*n
+\XEN it itches
+\ROOT tzi7kx Ix
+\SEMF body
+\CAUS NONE
+\CMTS
+\lex tzinh
+\_no 00310
+\SPG ban*arse
+\ENG to bathe
+\EX
+\XSP
+\XEN
+ZOH001R0611010.txt
+\ROOT tzinh Il
+\SEMF care
+\CAUS yak.tzinh ban~ar
+\CMTS
+\lex tzi7tz
+\_no 00311
+\SPG arrugarse; tener sarna; marchitarse
+\ENG to become wrinkled; to have dandruff; to wilt
+\EX tzi7tztza*m
+\XSP ya esta* marchitado
+\XEN now it has wilted
+Page 70
+bajar el cuero

@@ -1,0 +1,51 @@
+No, no es nueva.
+ma'ay ak'to laj te'
+ma'ay ak'to-ø laj te'
+ma'ay, man ak'tok laj te'
+ma'ay, man ak'to-ø-ok
+laj te'
+neg, neg nuevo-3B-IRR neg Cmadera
+i'
+afirm
+ma'ay
+Yo soy alto.
+a in tik cha anh in-te-el
+top 1B dem alto
+3A-tamaño-gen ella
+a ach tik cha'anh ate'el
+a
+ach tik cha'anh a-te'-el
+top 2B dem alto 2A-tamaño-gen
+cha anh steel winh
+cha'anh s-te'-el
+alto 3A-tamaño-gen él
+cha anh ste’el ix
+cha'anh s-te'-el
+alto
+Nosotros somos altos.
+a onh tik cha anh ko-te’-el
+top 1Bpl dem alto
+Ustedes son altos.
+a ex tik cha'anh ete'el
+ex tik cha'anh e-te'-el
+top 2Bpl dem alto
+2Apl-tamaño-gen
+Ellos son altos.
+a eb’ chanh steel eb’ winh
+a
+eb’ chanh s-teel
+eb' (winh/ix)
+top
+ellos alto 3Apl-tamaño-gen ellos (él/ella)
+tzapan in-te'-el
+chaparro 1A-tamaño-gen
+b'ak'echin
+b'ak'ech-in
+tzapan a-te'-el
+chaparro 2A-tamaño-gen
+b'ak'echach
+b'ak'ech-ach
+Él es gordo.
+a winh b’ak’ech-ø winh
+top él
+gordo-3B Cmasc

@@ -1,0 +1,66 @@
+\_no 00119
+■
+\SPG quebrar, como rama, lapiz, brazo,
+\ENG to break, like a branch, pencil, arm,
+\SEMF break
+\ASP achievement
+\ARG patient
+\NOM kit.i7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex ki7t
+\_no 00120
+\SPG meter el dedo
+\ENG to put your finger in something
+\SEMF hand
+\ASP achievement
+\ARG patient
+\NOM ki7t.kuy7, ki7t.naanh
+\RTGR T3
+\POS
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex kitz
+\_no 00121
+\SPG 1 enrollar
+\SPG 2 remangar
+\ENG 1 to roll up
+\SEMF cover, arrange
+\ASP achievement
+\ARG
+\NOM kuy7, kitz.naanh
+*
+\RTGR T3
+\POS da
+d@
+\MID
+\UNDO 7@n kitzpuw@
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\lex kix [1]
+\_no 00122
+kitzjayy@n y@kwij 7@y manhkuy7
+\ARG
+\NOM
+\RTGR IX
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+pantalo*n, camisa
+\SPG enfadarse
+\ENG to get angry; to get tired of doing some work, and don't want to
+keep doing it
+\SEMF cognitive
+\ASP achievement
+\lex koj
+\_no 00123
+Page 30

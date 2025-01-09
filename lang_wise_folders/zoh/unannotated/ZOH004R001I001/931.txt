@@ -1,0 +1,64 @@
+\SPG derrumbadero
+\ENG precipice
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jum
+\RTGR T2
+\DSRC HAJ94
+\CMTS
+\date 06/Nov/94
+\lex nax kajanh
+\_no 02160
+\LG MIG
+\PSH
+\UND nax kajanh
+\MB tierra, jaguar
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG camaleo*n
+\ENG a type of animal
+\EXU
+\XSP
+\XEN
+\SYN
+LF:4 pies
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 08/Feb/96
+\lex nax manu7
+\_no 02161
+\LG MIG
+\PSH
+\UND nax manu7
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG chinche de casa
+\ENG bedbug
+\EXU kuy+jo+7k nax manu7
+\XPSH [kuyjo7k nax manu7]
+\XSP chinche de monte
+\EXU pu7tz.pu7tz nax manu7
+\XSP chinche amarillo
+\EXU kuy+jo+7k wanin' nax manu7
+\XPSH [kuyjuo7k wanin nax manu7]
+\XSP chinche biushito de monte
+\EXU tzux nax manu7
+ZOH004R0011001.txt
+\XSP chinche verde
+\EXU wanin' nax manu' d@k+7a kuy+jo+7k
+\XPSH [wanin nax manu d@kka kuyjo7k]
+Page 931

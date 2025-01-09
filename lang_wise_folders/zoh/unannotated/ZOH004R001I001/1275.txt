@@ -1,0 +1,62 @@
+XEN She's lying face up.
+\EXU
+\XPSH
+\XSP
+\XEN
+\SYN
+SEMF
+\ROOT *tay
+\RTGR
+\DSRC HAJ98
+\CMTS extracted from SPL of tay. ney
+\date
+\lex ta'k.e7
+\_no 02963
+\LG MIG
+\PHO [take7]
+\UND ta7k. E7
+\MB remojar, NOM7
+\VAR
+\GRAM pcp
+\SPG remojada
+\ENG dunked
+\EXU ta'k.e7+k 7an.e k@x.i+jo7
+\XPSH [take7k 7ane k@xijo7]
+\XSP tortilla remojada en comida
+\XEN a tortilla dunked in some food
+\SYN
+\ROOT ta7k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex teja
+\_no 02964
+\LG MIG
+\PSH
+\UND teja
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG teja
+\ENG tile
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+ZOH004R0011001.txt
+\lex te.ji.mot
+\_no 02965
+\LG MIG
+\PSH [tejimot-]
+\UND te.ji.mot
+Page 1275

@@ -1,0 +1,80 @@
+ZOH001R0021001.txt
+\zoq sin tum tzamkuyjo7 komo forma de tum paraje.
+\fts sino una montan~a como forma de un paraje.
+\fte but like a little hamlet in the wilderness.
+\not
+\idx
+\ref ZOH001R002 004
+\_no 00005
+\tx minpa
+Jaytij@7, jente Kanhkuttz@kj@7, Potz@kway7.
+\mb min -pa Jaytija7 jente Kanhkuttz@kj@7 Potz@kj@7-way 7
+\sg1 venir-INC Juchita*n gente
+Tehuantepec
+\eg1 come -INC Juchita*n people Tehuantepec
+\zoq Minpa J@ytij@7, jente Kanhkuttz@kj@7, Potz@kway7.
+\fts viene de Juchitan, gente de Tehuantepec, y de Ixtaltepec.
+\fte They come from Juchitan, people from Tehuantepec, and from Ixtaltepec.
+\not
+\idx
+\ref ZOH001R002 005
+\_no 00006
+\tx y@ji
+7okjejxukpa,
+\mb
+ya -ji7
+7ok -jej -xuk-pa
+\sg1 DCT1-LOC1 ABAJO-vivir-3PL-INC
+\eg1 DCT1-LOC1 DOWN -live -3PL-INC
+\zoq Yaji 7okjejxukpa,
+\fts Aqui descansan,
+\fte Here they would rest,
+\not
+\idx
+\ref ZOH001R002 006
+\_no 00007
+\tx 7i n@kxukpa
+\mb 7i n@k -xuk-pa para M@n@ja
+\sg] y
+-j@nanh
+irse-3PL-INC para Santa Maria-DIR1
+\egl and go -3PL-INC for Santa_Maria-DIR1
+para M@n@j@nanh.
+\zoq 7i_n@kxukpa para M@n@j@nanh.
+\fts y se van para Santa Mari*a.
+\fte and they would go on to Santa Mari*a.
+\not
+\idx
+\ref ZOH001R002 007
+\_no 00008
+Ixtaltepec-VIV
+Ixtaltepec-INH
+\tx Gaja
+Chimalapia bi
+kumkuy7,
+ya Manaja.
+\mb ka-ja7 Chimalapia bi kum
+-kuy7 ya Manaja
+\sg1 DCT3-LOC Chimalapia DET enterrar(se)-INSTR1 no Santa_Maria
+\eg1 DCT3-LOC Chimalapia DET bury
+-INSTR1 not Santa Maria
+\fts Alla* Chimalapia es el pueblo, no en Chima.
+\fte There the town was in Chimalapia, not in Chima.
+\not
+\idx exis, unmrk_loc
+\ref ZOH001R002 008
+\_no 00009
+bi n@kpa
+\tx Ga7
+\mb ka
+-7 bi n@k -pa
+\sg1 DCT3-NOM1 DEF irse-INC 3E
+\eg1 DCT3-NOM1 DEF go -INC 3E
+para gad@
+jente
+7@y matz@kxukk@
+7@y ma7
+7@y ma7 -tz@k -xuk-w@ para ka -d@ jente
+venta-hacer-3PL-COM para DCT3-DEM gente
+sale - do -3PL-COM for DCT3-DEM people
+Page 2

@@ -1,0 +1,62 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yum
+\RTGR 11, 12
+\ROOT t@tz
+\RTGR 12
+\DSRC HAJ02
+\CMTS
+\DATE 09/Aug/02
+\lex yum.yum.ney
+\_no 04329
+\LG MIG
+\PSH [yumyumney-]
+\UND yum.yum.ney
+\MB hervir, hervir, REDUP1
+\VAR
+\GRAM VİR
+\SCI
+\USE
+\SPG esta* herviendo mucho
+\ENG it's boiling a lot
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yum
+\RTGR 11
+\DSRC HAJ94
+\CMTS cf jak yumpa 'yumyumneyba: no encuentro'; denied GMS 6-25-96
+\date 26/Jun/96
+\lex yum. '@m
+\_no 04330
+\LG MIG
+\PSH [yumm@m-]
+\UND yum.7@m
+\MB X, PASS
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG picarse madera
+\ENG for wood to be moth-eaten
+\EXU yum.7@m-w@ de kuy
+\XPSH [Yumm@mm@ de kuy.]
+\XSP Se pico* la madera.
+\ENG The wood was moth-eaten.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+ZOH004R0011001.txt
+\CMTS get deriv's no vt yum
+\CMTS %yum (2)
+\date 29/Jan/96
+Page 1859

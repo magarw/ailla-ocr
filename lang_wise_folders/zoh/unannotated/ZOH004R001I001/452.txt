@@ -1,0 +1,66 @@
+\EXU 7@y+ jax.jay-w@ - jutzeenh
+\XPSH [7@y j@xjayya - jutze*nh?]
+\XSP Saco* su cuenta
+cuanto?
+\XEN She made out his
+bill - how much?
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jay
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex j@x-jej
+\_no 01030
+\LG MIG
+\PSH [j@xjej-]
+\UND jax=jej
+\MB ATRAS, vivir
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG salir de vivir; cambiar de domicilio
+\ENG to move out of your house
+\SPL
+\SLGR
+SEMF
+\EXU_j@x.jej-w@ ga t@k+joonh
+\XPSH [J@xjejja ga t@kjo*nh.]
+\XSP Salio* de vivir de aquella casa.
+ENG She moved out of that house.
+\SYN
+\ETYM
+\ETL
+\ROOT jej
+\RTGR 12
+\DSRC HAJ95
+\CMTS semejante a pitz@m-
+\date 06/Feb/96
+\lex j@x-je7k
+\_no 01031
+-
+ZOH004R0011001.txt
+\SLGR
+\EXU
+\LG MIG
+\PSH [j@xje7k-]
+\UND jax-je7k
+\MB ATRAS, limpiar_con_coa
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar algo con la coa
+\ENG to get something out by hoeing
+\SPL
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+Page 452

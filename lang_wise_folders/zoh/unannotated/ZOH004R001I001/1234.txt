@@ -1,0 +1,62 @@
+\SYN
+\ROOT p@7t
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex p@'tz.i7
+\_no 02863
+\LG MIG
+\PHO [p@tzi7]
+\UND p@7tz. E7
+\MB destripar, NOM7
+\VAR
+\GRAM pcp
+\SPG destripado
+\ENG gutted
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex rrabya.7@y
+\_no 02864
+\LG MIG
+\PSH [rrabya7@y-]
+\UND rrabya.7@y
+\MB rabia, VERS2
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG tener rabia
+\ENG to have rabies
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS get simplex
+\date 03/Apr/95
+\lex rrasimu
+\_no 02865
+\LG MIG
+\PSH
+\UND rrasimu
+\MB
+\VAR
+\GRAM med
+\SCI
+\USE
+\SPG racimo
+\ENG bunch
+\EXU
+ZOH004R0011001.txt
+Page 1234

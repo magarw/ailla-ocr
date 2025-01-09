@@ -1,0 +1,63 @@
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex nat
+\_no 00110
+\LG MIG
+\PSH
+\UND nat
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG salar
+ENG to salt
+\SPL nat.7oy
+\SLGR ANTIP
+\SLGL salar // to salt
+\SLGR NO PASS
+\SPL nat.ten
+\SLGR PRSV
+\SLGL tener salado // to have salted
+\EXU 1 7@y+ nat-w@ bi xix
+\XPSH 1 [7@y natt@ bi xix.]
+\XSP 1 Salo* la carne.
+\XEN 1 He salted the meat.
+\EXU 2 nat.7@m-w@ bi xix
+\XPSH 2 [Natt@mm@ bi xix.]
+\XSP 2 Esta* salado la carne.
+\XEN 2 The meat is salted.
+\EXU 3 7@y+ nat.ten-w@ bi xix.
+\XPSH 3 [7@y nattenn@ bi xix.]
+\XSP 3 Tiene salado la carne.
+\XEN 3 She's got the meat salted.
+\SYN
+\SEMF cook
+\ASP activity
+\ARG
+\NOM nat.e7
+\SUB
+\ETYM
+\ETL
+\ROOT nat
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex nek
+\_no 00111
+\LG MIG
+\PSH
+\UND nek
+ZOH001R0611006.txt
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG estivar, len~a, piedras, etc.
+\ENG tostack, wood, rocks etc.
+\SPL nek. 7oy
+\SLGR ANTIP
+\SLGL estivar // to stack
+Page 75

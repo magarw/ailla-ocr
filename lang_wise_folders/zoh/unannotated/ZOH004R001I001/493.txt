@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS CK-PH cf. j@@ytij@@7 'de Juchitan'; TK fixed spelling
+\date 25/Jun/96
+\lex j@@ytij@*7
+\_no 01128
+\LG MIG
+\PSH
+\UND ja@ytij@*7
+\MB
+\VAR
+\GRAM top+dir
+\SCI
+\USE
+\SPG de Juchita*n
+\ENG from Juchita*n
+\SPL
+\SLGR
+\EXU j@ytij@7k pan
+\XSP hombre de Juchita*n
+\XEN a man from Juchita*n
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS CK-PH: cf. j@@ytij@7
+\date 27/Jun/96
+\lex j@@yti.way7
+\_no 01129
+\LG MIG
+\PSH
+\UND j@@yti.way7
+\MB
+\VAR
+\GRAM en
+\SCI
+\USE
+\SPG juchiteco
+\ENG person from Juchita*n
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS cf. ja@ytija7
+\date 25/Jun/96
+ZOH004R0011001.txt
+\lex ka7oba
+\_no 01130
+\LG MIG
+Page 493

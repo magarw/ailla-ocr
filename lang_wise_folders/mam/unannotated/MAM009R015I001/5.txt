@@ -1,0 +1,68 @@
+The logically possible combinations of prefixes and enclitics
+are:
+1. +PreA +EnclA
+2. +PreA -EnclA
+3. +PreB +EnclB
+4. +PreB -EnclB
+5. +PreC +Enclc
+6. +PreC -Enclc
+-6-
+person.
+we (not you)
+we and you
+7. +PreD +EnclD
+you-all
+they
+8. +PreD -EnclD
+The only logical possibility which does not actually occur
+is the second 'I and you because the singularity of the
+first person singular prefix demands exclusion of second
+4
++1sg -2sg
++1sg +2sg
+-1sg +2sg
+-1sg -2sg
++1pl -2pl
++1pl +2pl
+-1pl +2pl
+-1pl -2pl
+ma-chi-b¹e: t
+I (not you)
+I and you
+you (sg.)
+he/she
+Substantive relationals are inflected for person exactly
+like nouns. Verbs select the appropriate set of prefixes
+depending on the actors included and the grammatical class
+of the verb, and require the enclities. Examples:
+Intransitive Verb
+Transitive Verb (third person patient)
+ma-chin-b'e: t-a I walked
+ma-p-n-tze: q'a-ya
+you walked
+ma--t-tze: q'a-ya
+ma-b-bte: t-a
+ma-0-b¹e:t
+he walked
+ma--t-tze: qia
+ma-qo-b'e: t-a
+ma-p-q-tze: q'a-ya
+ma-qo-b¹e: t
+we walked
+(not you)
+we all
+walked
+you all
+ma-0-q-tze: q'a
+ma-chi-b¹e: t-a
+ma-6-ky-tze: q'a-ya
+walked
+they walked ma-0-ky-tze: q'a
+I hit it
+you hit it
+he hit it
+we hit it
+(not you)
+we all hit it
+you all hit. it
+they hit it

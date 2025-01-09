@@ -1,0 +1,63 @@
+\_no 03565
+\LG MIG
+\PHO [wane7]
+\UND wan. E7
+\MB cantar, NOM7
+\VAR
+\GRAM pcp
+\SPG cancio*n
+\ENG song
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT wan
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex wanin7
+\_no 03566
+\LG MIG
+\PSH
+\UND wanin7
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG delgado, como palito
+\ENG thin, like a pole
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 20/Jun/95
+\lex wanin' t@7px.i7
+\_no 03567
+\LG MIG
+\PSH [wanin t@7pxi7]
+\UND wanin7 t@7px.E7
+\MB delgado, hacer_mecate, NOM7
+\VAR
+\GRAM amsv
+\SCI
+\USE
+\SPG hilo; mecatito
+\ENG thread; string
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT t@7px
+ZOH004R0011001.txt
+Page 1533

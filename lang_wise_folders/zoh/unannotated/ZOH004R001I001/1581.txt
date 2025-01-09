@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG desamontonar
+\ENG for a pile of things to come down.
+\EXU win-jek-w@ 7@y+ 7aka
+\XPSH [winjekk@y 7aka.]
+\XSP Desamontono* en la orilla.
+\XEN It tumbled down at the edge.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jek
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex win-je7k
+\_no 03678
+\LG MIG
+\PSH [winje7k-]
+\UND win-je7k
+\MB CARA, limpiar_con_coa
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG limpiar con coa
+\ENG to weed with a hoe
+\EXU
+\XSP
+\XEN
+\SYN je7k
+\SYN ko.je7k
+\SEMF
+\ETYM
+\ETL
+\ROOT je7k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex win-je7p
+\_no 03679
+LG MIG
+\PSH [winje7p-]
+\UND win-je7p
+\MB CARA, pescar_con_manta
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pescar con alguien
+\ENG to fish with someone
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+Page 1581

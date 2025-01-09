@@ -1,0 +1,54 @@
+\UND A
+\MB NOM2
+\VAR
+\USE verbal suffix that produces a noun or an adjective
+\GRAM suf
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU 1 ya 7otonh. A
+\XPSH 1 [ya 7otowa]
+\XSP 1 mudo
+\XEN 1 mute
+\EXU 2 ja'tz.@
+\XPSH 2 [jatz@]
+\XSP 2 fiado
+\XEN 2 debt
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {.E} [2]
+\_no 00521
+\LG MIG
+\PSH [.e]; [.i]
+\UND E
+\MB NOM7
+\VAR
+\USE verbal suffix that produces a noun or an adjective
+\GRAM suf
+\SPG
+\ENG
+\SPL
+ZOH001R0611004.txt
+\SLGR
+\EXU 1 t@nh.i
+\XPSH 1 [t@wi]
+\XSP 1 una cosa cortada con machete
+\XEN 1 something cut with a machete
+\EXU 2 xix-jax.e
+\XPSH 2 [xixjaxe]
+\XSP 2 carne asada
+\XEN 2 roasted meat
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+Page 206

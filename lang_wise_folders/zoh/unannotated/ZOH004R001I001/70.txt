@@ -1,0 +1,63 @@
+\lex 7anh-p@n tzam.e
+\_no 00164
+\LG MIG
+\PSH [7anhp@n tzame]
+\UND 7anh-p@n tzam. E
+\MB BOCA, hombre, platicar, NOM7
+\VAR
+\GRAM s (m) sv
+\SCI
+\USE
+\SPG idioma indi*gena zoque
+\ENG the indigenous language zoque
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzam
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 24/Jun/96
+\lex 7anh-p@n. 'aH
+\_no 00165
+\LG MIG
+\PSH [7anhp@nna-]
+\UND 7anh-p@n. 7aH
+\MB BOCA, hombre, VERS1
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG hablar zoque
+\ENG to speak zoque
+\SPL
+SLGR
+\EXU p@n 7anh=p@n. 7aH-pa+a7k
+\XPSH [p@n 7anhp@nnaba*7]
+\XSP persona que habla zoque
+\XEN a person who speaks Zoque
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 28/Jun/96
+\lex 7anh-tome7
+\_no 00166
+\LG MIG
+\PHO [7anhtome7]
+\UND 7anh-tome7
+ZOH004R0011001.txt
+\MB
+\VAR
+\USE locative
+\GRAM av
+\SPG cerca de
+\ENG near
+Page 70

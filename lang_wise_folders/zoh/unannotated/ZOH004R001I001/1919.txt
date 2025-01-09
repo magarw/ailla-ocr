@@ -1,0 +1,63 @@
+\date 03/Jan/80
+\lex {mi+}
+\_no 04468
+\LG MIG
+\PSH
+\UND mi+
+\MB 3>2
+\VAR
+\GRAM pron
+\SCI
+\USE pronominal agreement marker used when a third person subject
+acts on a second person object
+\SPG e*1/ella...tu
+\ENG he/she
+\SPL
+\SLGR
+\EXU yakki ya mi+ n@m.jay-w@
+\XPSH [Yakki ya mi n@mjayy@.]
+\XSP Nadie no te dijo.
+\XEN Nobody told you.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex {mo7}
+\_no 04469
+\SPG sera*
+\ENG one wonders
+\SPL
+you
+\LG MIG
+\PSH
+\UND mo7
+\MB IRR2
+\VAR
+\USE modal that appears only in questions in incompletive aspect
+\GRAM mod
+ZOH004R0011001.txt
+\SLGR
+\EXU 1 ju' mo7 teji.7aH-pa 7@m+ 7awin7
+\XPSH 1 [Ju mo7 tejiapam 7awin7?]
+\XSP 1 ?Donde estara* tu hermano?
+\XEN 1 Where do suppose your brother might be?
+\EXU 2 jutzeenh karro mo7 pitz@m-pa joji
+\XPSH 2 [Jutze*nh karro mo7 pitz@mpa joji?]
+\XSP 2 ?Cuantos carros van a salir man~ana?
+\ROOT
+\RTGR
+\XEN 2 How many buses do you imagine will leave tomorrow?
+\EXU 3 tak-pa tuj mo7 joji
+\XPSH 3 [Takpa tuj mo7 joji?]
+\XSP 3 ?Llovera* man~ana?
+\XEN 3 I wonder if it will rain tomorrow.
+\SYN
+\SEMF
+\DSRC HAJ98
+\CMTS
+\date
+Page 1919

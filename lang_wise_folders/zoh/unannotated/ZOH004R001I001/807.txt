@@ -1,0 +1,63 @@
+\UND_manh-katz
+\MB *pisar, resbalarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG resbalarse
+\ENG to slip
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 * mạnh
+\RTGR 1 P
+\ROOT 2 katz
+\RTGR 2
+\DSRC HAJ94
+\CMTS
+\date 12/Nov/94
+\lex manhkornad(a)=tz@k
+\_no 01871
+\LG MIG
+\PSH [manhkornadatz@k-]
+\UND manhkornada=tz@k
+\MB mancornar, HACER
+\VAR manhkornaad=tz@k, manhkorna-tz@k
+\GRAM vt
+\SCI
+\USE
+\SPG mancornar; mancomunar
+\EXU to join forces
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM mancornada
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-PH - ok, /d/ is barely audible
+\date 25/Jun/96
+\lex manh.kuy7
+\_no 01872
+\LG MIG
+\PSH [manhkuy7]
+\UND manh.kuy7
+\MB *pisar, INSTR1
+\VAR
+GRAM instr1
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG pie
+\ENG foot
+\EXU
+\XSP
+\XEN
+\SYN
+Page 807

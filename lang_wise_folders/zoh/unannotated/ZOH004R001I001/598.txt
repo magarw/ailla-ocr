@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT kom
+\RTGR T3
+\DSRC TK94
+\CMTS CK-all ok HAJ:96/OK: TK
+\date 03/Jan/80
+\lex ko.mek.e
+\_no 01371
+\LG MIG
+\PSH [komeke]
+\UND ko.mek.E
+\MB OTRO, mentir, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG por gusto; por ganas
+\ENG because one wants to
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS says it's not 'por gusto' (likewise TK)
+\date 24/Jun/96
+\lex ko.me7kx
+\_no 01372
+\LG MIG
+\PSH [kome7kx-]
+\UND ko.me7kx
+\MB OTRO, abrazar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG abrazar varias veces
+\ENG to hug several times.
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT me7kx
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+ZOH004R0011001.txt
+\lex ko.me7tz
+\_no 01373
+\LG MIG
+Page 598

@@ -1,0 +1,63 @@
+\USE
+\SPG 1 autoridad
+\SPG 2 presidente municipal
+ENG 1 official person
+\ENG 2 mayor
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM justicia
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 25/Sep/94
+\lex juy
+\_no 00983
+\LG MIG
+\PSH
+\UND juy
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG comprar
+\ENG to buy
+\EXU 1 da juy. 'oy-w@
+\XPSH 1 [D@ juyyoyy@.]
+\XSP 1 Compre*.
+\XEN 1 I shopped.
+\EXU 2 7@n+ juy-w@ paja7k wayay n@7
+\XPSH 2 [7@n juyy@ paja7k wayay n@7.]
+\XSP 2 Compre* un refresco.
+\XEN 2 I bought a soda.
+\EXU 3_7@y+ juy.ten-w@ bi tzoy7
+\XPSH 3 [7@y juytenn@ bi tzoy7.]
+\XSP 3 Tiene comprado su remedio.
+\XEN 3 He's bought his medicine.
+\EXU 4 tij-w@ 7an+ juy. 'oy-E
+\XPSH 4 [Tijj@n juyyoe.]
+\XSP 4 Fui* a comprar.
+\XEN 4 I went shopping.
+\SYN
+\SEMF trade
+ZOH004R0011001.txt
+\ASP achievement
+\ARG
+\NOM juy.kuy7
+\SUB 7anh.juy. '@y, juy.tzi', j@x=juy, ko.juy, yuk.juy
+\ETYM
+\ETL
+\ROOT juy
+\RTGR T1
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\1ex juy=7utz
+\_no 00984
+\LG MIG
+\PSH [juyyutz-]
+Page 431

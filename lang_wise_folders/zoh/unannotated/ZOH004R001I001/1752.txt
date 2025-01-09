@@ -1,0 +1,63 @@
+\lex yaja7 +jaa7
+\_no 04074
+\LG MIG
+\PSH [yaja7ja*7]
+\UND yaja7 +jaTE7 ?
+\MB antes, X
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG antepasado; "antes antes"
+\ENG past; long ago
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS begins stories, like "once upon a time"; ANALYZE
+\date 26/Jun/96
+\lex yaja7k+p@7
+\_no 04075
+LG MIG
+\PSH
+\UND yaja'+V7k +p@7
+\MB antes, REL, NOM5
+\VAR
+\GRAM av
+\SCI
+\USE
+\SPG anterior; antiguo; de antes
+\ENG the past; antiquity; from before
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS ANALYZE
+\date 26/Jun/96
+\lex yaj.@7
+\_no 04076
+\LG MIG
+\PSH [yaj@7]
+\UND_yaj.A7
+\MB lejos, NOM2
+\VAR
+ZOH004R0011001.txt
+\GRAM a
+\SCI
+\USE
+\SPG lejos; lejano
+\ENG far; distant
+\EXU
+\XSP
+\XEN
+Page 1752

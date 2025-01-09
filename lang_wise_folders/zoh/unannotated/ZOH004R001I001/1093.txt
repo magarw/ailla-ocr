@@ -1,0 +1,62 @@
+\VAR
+\GRAM assum1
+\SCI
+\USE
+\SPG recargarse con pared; reclinarse
+\ENG to lean against the wall; to lean
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT *panh
+\RTGR P
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex panh.ten
+\_no 02538
+\LG MIG
+\PHO [panhten-]
+\UND panh.ten
+\MB *arrimar, PRSV
+\VAR
+\GRAM vt:prsv
+\SPG tener recardo
+\ENG to have something leaning
+\EXU 7@n+ panh.ten-w@ kuy wotz. E
+\XPSH [7@n panhtenn@ kuy wotze.]
+\XSP Tengo recargado la tabla (en la pared).
+\XEN I have the board leaning (against the wall).
+\SYN
+\ROOT * panh
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex panh-tzak
+\_no 02539
+\LG MIG
+\PHO [panhtzak-]
+\UND panh-tzak
+\MB *arrimar, dejar
+\VAR
+\GRAM vt
+\SPG dejar recardo
+\ENG to leave leaning
+\EXU 7@n+ panh-tzak-w@ kuy wotz.E
+\XPSH [7@n panhtzakk@ kuy wotze.]
+\XSP Lo deje* recargado.
+\XEN I left it leaning.
+\SYN
+\ROOT *panh
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+ZOH004R0011001.txt
+\lex panh.w@y
+\_no 02540
+\LG MIG
+\PSH [panhnh@y-]
+Page 1093

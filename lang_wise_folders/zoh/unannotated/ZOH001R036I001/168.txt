@@ -1,0 +1,76 @@
+ZOH001R0361001.txt
+\sg] ya que 2A ban*arse-COM-YA DCT3-TMP 2E sentir-hacer-INC-YA
+\egl now that 2A bathe -COM-NOW DCT3-TMP 2E feel - do
+jukut@k pitz@mpa y n@kk@
+jukut@k pitz@m-pa 7@y nak -w@
+salir -INC 3E irse-dINC
+leave -INC 3E go -DINC
+\tx ga
+\mb
+\sg1 DCT3-NOM1 1umbre
+ka -7
+\eg1 DCT3-NOM1 fire
+\zoq Ya kem tzinhnha*m, gay 7@m sentz@kpam ga jukut@k_pitz@mpay n@kk@.
+\fts ya que te ban~astes, ya sientes esa lumbre va saliendo.
+\fte Now that you've bathed, then now you feel that fire is leaving.
+\com
+\idx
+\ref ZOH001R036 788
+\_no 00774
+\tx wanakpa
+\mb wanak
+gag@
+n@
+-ра ka -g@n@7
+\sg1 bajarse-INC DCT3-DEM agua AC
+\egl go_down-INC DCT3-DEM water ACC
+\zoq wanakpa gag@_n@j@nanh.
+\fts va bajando con ese agua.
+\fte It goes down with that water.
+\com
+\idx
+\ref ZOH001R036 789
+\_no 00775
+\tx de7xe
+de
+\mb te -7xe te -7
+bi
+tz@kxukpa
+bi tz@k -xuk-pa
+\sg1 DCT2-SIM DCT2-NOM1 DEF hacer-3PL-INC
+\eg1 DCT2-SIM DCT2-NOM1 DEF do
+-3PL-INC
+\zoq De7xe de bi tz@kxukpa.
+\fts Asi* es que es que se hace.
+\fte That's how they do it.
+\com
+\idx
+\ref ZOH001R036 790
+\_no 00776
+jananh
+jananh
+\tx GSM: jukutjipx
+\mb GSM jukutak-jipx
+\sg1 GSM: lumbre -quemarse-NOM2 3PSN
+\eg1 GSM: fire -overcook-NOM2 3PSN
+\zoq GSM: Jukutjipx7@yti.
+\fts GSM: De la fiebre.
+\fte GSM: of the fever.
+\com
+\idx
+\ref ZOH001R036 791
+\_no 00777
+\zoq OSM: Jukutjipx7@yti.
+\fts OSM: De la fiebre.
+\fte OSM: of the fever.
+7@yti
+-A7 7@yti7
+\tx OSM: jukutjipx
+\mb OSM jukut@k-jipx
+\sg1 OSM: 1umbre -quemarse-NOM2 3PSN
+\egl OSM: fire -overcook-NOM2 3PSN
+-A7
+7@yti
+7@yti7
+-INC-NOW
+Page 168

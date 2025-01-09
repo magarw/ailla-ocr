@@ -1,0 +1,63 @@
+\MB salvaje, x
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG pin-uela
+\ENG pinecone
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 15/Oct/94
+\lex patz.ney-w@+v7k
+\_no 02562
+\LG MIG
+\PSH [patzneyy@*7k]
+\UND patz.ney-w@+v7k
+\MB tirar, ASSUM1, COM, REL
+\VAR
+\GRAM agt1
+\SPG una cosa tirado en el suelo, y no se de quien
+\ENG something thrown on the ground, and we don't know who by
+\SPL
+\SLGR
+\EXU
+\XPSH
+\XSP
+\XEN
+\SYN
+\SEMF
+\ROOT patz
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date
+\lex patz-witu'
+\_no 02563
+\LG MIG
+\PSH [patzwitu-]
+\UND patz=witu'
+\MB tirar, regresar
+\VAR
+\GRAM vt+dir
+\SCI
+\USE
+\SPG voltear
+\ENG to turn over
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 patz
+Page 1103

@@ -1,0 +1,63 @@
+\ROOT we7k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex wij
+\_no 03661
+\LG MIG
+\PSH
+\UND wij
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG zambutirse
+\ENG to dive into the water
+\SPL yak.wij
+\SLGR CAUS
+\SLGL decir que se zambutiera // to tell someone to dive
+\SPL wij.ney
+SLGR ASSUM1
+\SLGL estar zambutido // to be in a diving position
+\EXU 1 wij-wa na'+jo7
+\XPSH 1 [Wijja n@jo7.]
+\XSP 1 Se zambutio* en el ri*o.
+\XEN 1 She dived into the water.
+\EXU 2 da wij-wa
+\XPSH 2 [D@ wijja.]
+\XSP 2 Me zambuti*.
+XEN 2 I dived in.
+\EXU 3 wij.ney-wa na' 7@y+ ka.ja
+\XPSH 3 [wijneyya na 7ay kaja.
+\XSP 3 Esta* abajo del agua.
+\XEN 3 He's under the water.
+\SYN
+\SEMF move
+\ASP transition
+\ARG
+\NOM wij.naanh, wij.i, y@k.wij
+\SUB kuj=wij, k@.nak-wij. '@y
+\ETYM
+\ETL
+\ROOT wij
+\RTGR P (IX)
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex wij.i
+\_no 03662
+ZOH004R0011001.txt
+\LG MIG
+\PHO [wiji]
+\UND wij.E
+\MB zambutirse, NOM7
+\VAR
+\GRAM pcp
+\SPG esta*s adentro del agua, se zambutio*
+\ENG you're in the water, you dived in.
+\EX
+\XSP
+\XEN
+Page 1574

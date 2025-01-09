@@ -1,0 +1,1712 @@
+\tx 7@y 7onhtze7kk@ba
+7otel playa krista*1
+\ref ZOH001R055 072
+7entonse n@mjaxukk@
+7entonses n@m -jay
+say -APPL-3PL-COM go -IMPV2 DCT1-DEM block until
+\eg1 DCT3-LOC1 highway edge
+leave-PASS-INC DCT3-NOM1
+tzakk@mpa ga7."
+de la carretera queda.
+\ref ZOH001R055 073
+\tx bweno n@mpa
+\sg1 bueno decir-INC Germa*n
+\egl good say -INC Germa*n
+\zoq "Bweno," n@mpa Jerma*n.
+\fts "Bueno" dice Germa*n.
+\fte "OK", says Germa*n.
+\ref ZOH001R055 074
+ZOH001R0551001.txt
+\ref ZOH001R055 075
+-w@ ye7tz -wa ya -7
+\sg1 verdad encontrar-COM 11egar-COM DCT1-NOM1
+ZOH001R0551001.txt
+\tx kwandu naxe 7@y sentz@kk@
+\mb kwandu naxe 7@y sentir-tz@k -w@ bi 7oko
+\sg1 cuando verdad 3E sentir-hacer-COM DEF vieja
+truth 3E feel -do -COM DEF old_woman-yankee that
+\sg1 11egar-COM-YA
+\egl arrive-COM-NOW Germa*n
+gringa felt that now Germa*n had come.
+\fte when in fact the
+\ref ZOH001R055 023
+\sg1 decir-INC 1Prn 1A venir-COM-YA
+\egl say -INC 1Prn 1A come -COM-NOW
+\zoq Nampa d@x, "D@ minna*m.
+fts Dice, "Yo ya vine.
+\fte She said, 'Now I'm here.
+\ref ZOH001R055 024
+-wa mix n@m -jay -E
+\ref ZOH001R055 025
+d@ yox7okmanhtampa*m
+\zoq Minn@ mix n@mjay ke d@ yox7okmanhtampa*m.
+\tx 7asyeske da n@ktampa
+da n@k -tam -pa joji7
+\sg] asi_es_que 1A irse-1/2PL-INC man~ana
+1A go -1/2PL-INC morning
+\zoq 7asyeske da n@ktampa joji."
+\fts Asi* es que nos vamos man~ana."
+\fte so, we go tomorrow.
+\ref ZOH001R055 026
+\mb pero ju7 ti te -7 da nak -pa joji7
+\egl but where what DCT2-NOM1 1A go -INC morning
+ZOH001R0551001.txt
+\mb donde-ju7 7@m_p@k -pa bi karru termina *1
+\egl where-where 2E get
+\zoq dondjum p@kpa bi karru, termina*1."
+\fts donde agarres el carro, el terminal."
+\fte where you catch the bus, the terminal."
+\ref ZOH001R055 050
+\tx bweno n@mpa
+\sg] bueno decir-INC DEF vieja
+\egl good say -INC DEF old_woman-yankee
+\zoq "Bweno," n@mpa bi 7okyanhke.
+\fts "Bueno" dice la gringa.
+\fte "OK", says the gringa.
+\ref ZOH001R055 051
+\tx y 7okmin7@yy@
+ABAJO-venir-SUF-COM
+\egl 3E DOWN -Come -SUF-COM
+\zoq 7@y 7okminn@yy@.
+\fts Acompan~o*.
+\fte He went with her.
+\ref ZOH001R055 052
+\mb ye7tz -xuk-w@ naxe
+\sg1 11egar-3PL-COM verdad DCT3-LOC1
+\egl arrive-3PL-COM truth DCT3-LOC1
+\zoq Ye7chukk@ naxe gaji.
+\fts Llegaron de veras ahi*.
+\fte They, in fact, got there.
+\ref ZOH001R055 053
+\mb 7@y juy -w@ 7@y boletu
+\sg1 3E comprar-COM 3E boleto
+\egl 3E buy -COM 3E ticket
+\zoq 7@y juyy@ 7@y boletu.
+\fts Compro* su boleto.
+\fte she bought her ticket.
+\ref ZOH001R055 054
+\sg1 bueno pues hay
+ZOH001R0551001.txt
+DCT1-LOC1 decir-INC DEF mujer
+\zoq "Bweno, pwes, tej y@ji," n@mpa bi yoma* 7.
+\fts "Bueno, pues, aqui esta*", dice la sen~ora.
+\fte "Good, well, here it is", says the lady.
+\ref ZOH001R055 085
+kwartujo7 7@m tzakk@mpa
+kwartu-jo7 7@m tzak -7@m -pa ka -7xe
+\zoq "Y@d@ kwartujo7 7@m tzakk@mpa ga7xe."
+\fts "En este cuarto te vas a quedar entonces."
+\fte "In this room you will stay, then.
+\ref ZOH001R055 086
+\tx bweno n@mpa
+\sg1 bueno decir-INC Germa*n
+\egl good say -INC Germa*n
+\zoq "Bweno," n@mpa Jerma*n.
+\fts "Bueno" dice Germa*n.
+\fte "OK", says Germa*n.
+\ref ZOH001R055 087
+\mb tzak -7@m -w@
+\sg1 dejar-PAS -COM
+\egl leave-PASS-COM
+\zoq Tzakk@mm@.
+\fts se quedo*.
+\fte He stayed.
+\ref ZOH001R055 088
+\mb de ka -ji7 senar-tz@k -xuk-w@
+\zoq De gaji sentz@kxukk@ g@7 tzuji7.
+\fts De ahi* senaron en la nochecita.
+\fte Then they dined in the evening.
+\ref ZOH001R055 089
+tum kajtzay7 pa y p@kminpa
+tum kajtzay7 para 7@y p@k
+\sgl 3E comprar-COM uno hamaca
+-COM one hammock for 3E get
+\tx katemakjonanh
+\mb katemako-jonanh
+\sg1 Catemaco-DIR3
+\egl Catemaco-DIR3
+\ref ZOH001R055 055
+\tx 7entonses jerma*n wituw@
+7entonses jerma*n witu7
+\fte she bought a hammock to take to Catemaco.
+\zoq 7entonses Jerma*n wituw@.
+\fts Entonces Germa*n regreso*.
+\fte So Germa*n went back.
+German regresar-COM
+German return -COM
+\ref ZOH001R055 056
+ZOH001R0551001.txt
+sentrojonanh pa y p@kpa
+\mb n@k -ke7t -w@ sentro-jonanh para 7@y pak
+\sg1 irse-REPET-COM
+\egl go -REPET-COM center-DIR3 for 3E
+\mb_n@k -pa -v7k t@k7anhj@7-j@nanh
+San_Miguel-DIR1
+\sg1 irse-INC-REL
+\egl go -INC-REL San_Miguel-DIR1
+\ref ZOH001R055 057
+\sg1 venir-INC Germa*n
+\egl come -INC Germa*n
+\zoq Minpa Jerma*n.
+\fts viene Germa*n.
+n@kpa*7_T@k7anhj@nanh.
+\zoq N@kke7tt@ sentrojonanh pay p@kpa bi karrụ
+\fts Se fue* para el
+va para San Miguel.
+centro para que agarre el carro que
+\fte Germa*n came.
+agarrar-venir-INC PURP
+-come -INC PURP
+\ref ZOH001R055 058
+agarrar-INC DEF camio*n
+\egl work -nINC
+\ref ZOH001R055 102
+\tx_d@xja*7 bi da yoxtampa
+\mb d@x -jaa7 bi
+\sg1 1Prn-NPL2 DEF 1A
+\egl 1Prn-NPL2 DEF 1A work
+\tx yanhke d@kka
+\sgl gringo NPL
+\eg1 yankee NPL
+\ref ZOH001R055 103
+\tx para ke m yox 7okmanhpa
+para ke 7@m yox
+\sg1 para que 2E
+\egl for that 2E work
+\ref ZOH001R055 104
+\zoq para kem yoxokmanhpa mix."
+\fts para que empiezes a trabajar tu."
+\fte so that you begin to work.
+-tam -pa 7axta ke
+trabajar-1/2PL-INC hasta que venir-INC todo
+-1/2PL-INC until that come -INC all
+\ref ZOH001R055 105
+ZOH001R0551001.txt
+-7okmanh-pa mix
+trabajar-empezar-INC 2Prn
+-begin -INC 2Prn
+\sgl que verdad hasta que
+\egl what truth until that
+\tx yox7okmanhnh@
+-7okmanh-w@ jerma*n
+\sg] trabajar-empezar-COM Germa*n
+-begin -COM Germa*n
+ye7tztz@ bi yanhke d@kka para
+bi yanhke7 d@kkay para
+llegar-COM DEF gringo
+arrive-COM DEF yankee
+ZOH001R0551001.txt
+\ref ZOH001R055 106
+NEGimpv-2E dar -nIMPV peṇa 2Prn 2A
+\sg1 pero decir-INC DEF Ana
+\mb wat -7oy -pa -7am
+\sg1 ganar-ANTIP-INC-YA
+\egl earn -ANTIP-INC-NOW
+\ref ZOH001R055 107
+\tx 7@m gantz@kpa*m
+7@m ganar-tz@k -pa -7am
+\sg1 2A ganar-hacer-INC-YA
+\egl 2A earn -do
+\zoq 7@m gantz@kpa*m.
+\fts ya esta*s ganando.
+\fte now you're getting paid.
+\ref ZOH001R055 108
+\sg1 2A trabajar-COM NEG 2A
+-COM NEG 2A work
+\ref ZOH001R055 109
+\tx bweno n@mpa
+\zoq 7@m yoxx@, yam yox@, mix 7am gantz@kpa*m."
+\sg1 bueno decir-INC Germa*n
+\egl good say -INC Germa*n
+\fts "Bueno" dice Germa*n.
+\fte "OK", says Germa*n.
+mix 7@m gantz@kpa*m
+trabajar-nINC 2Prn 2A
+7@m ganar-tz@k -pa -7am
+ganar-hacer-INC-YA
+\sg1 DCT2-TMP PROG 1E
+\eg1 DCT2-TMP PROG 1E work
+\ref ZOH001R055 115
+\zoq Tey n@mm@n_yoxtamma*m.
+\fts Ahora ya estamos trabajando.
+\fte Now we're working.
+\ref ZOH001R055 116
+\tx syempre d@ kontentuja*7 porke da x@j@damma*m
+\mb syempre da kontentu-jaa7 porke da x@ja7
+\sg1 siempre 1A contento-NPL2 porque
+- tam -w@ - 7am
+1A bastante-1/2PL-COM-YA
+pitzenhjo7 te -y d@ teji
+\tx jemji d@xja*7
+jemji7 d@x -jaa7
+trabajar-1/2PL-dINC-YA
+ya -ji7 komo 7awin7
+-1/2 PL-COM DCT1-LOC1 como hermano/a
+\sg1 por_eso DCT2-TMP 1A hay
+ZOH001R0551001.txt
+\ref ZOH001R055 117
+-1/2PL-DINC-NOW
+\tx 7eso 7es todo
+\mb 7eso 7es todo
+\sg1 eso ser todo
+\egl that be all
+\zoq 7eso es todo.
+\fts Eso es todo.
+\fte That's all.
+\fts Por eso ahora estamos aqui como hermanos.
+\tx ye7tztz@ 7@y t@kjo7
+\mb ye7tz -w@ 7@y tak
+\sg1 11egar-COM 3E
+\egl arrive-COM 3E house-LOC2 San Miguel
+casa -LOC2 San_Miguel
+\zoq Ye7tztz@ 7@y t@kjo7 T@k7anhj@7.
+en su casa en San Miguel.
+\fte He arrived at his house in San Miguel.
+\ref ZOH001R055 059
+\tx 7i joypi7t kay
+\mb 7i joypi7t ka -y moxo
+p@7 -nak -w@ -7am para 7@y
+otro_di*a DCT3-TMP hermoso poner-irse-COM-YA
+ZOH001R0551001.txt
+\sg1 AFUERA-rozar
+\eg1 AWAY -clear_field-INC 3E corn
+\ref ZOH001R055 060
+\sg1 verdad DCT3-NOM1 dos
+\egl truth DCT3-NOM1 two
+\ref ZOH001R055 061
+\sg1 AFUERA-rozar
+\eg1 AWAY -clear_field-finish
+metzanh p@7tjama 7@y
+metza*nh p@7t -jama 7@y
+-terminarse-COM
+\zoq Naxe, ga metzanh p@7tjama 7@y k@yujtukk@,
+\tx 7i para w@xt@kpi7t kay
+\mb 7i para w@xt@kpi7t ka
+para tras_pasado DCT3-TMP
+\egl and for day_after DCT3-TMP come -COM-NOW
+\zoq 7i para w@xt@kpi7t kay minna*m.
+\fts y para tras pasado ya se vino.
+\fte and on the day after now he came.
+\ref ZOH001R055 062
+\tx tum jama martes ye7tztz@ y@ji
+\fts "Bueno, entonces,
+\fte "All right, then,
+voy ontal Mario Lopez para quedarme,
+I'll go to Mario Lopez to stay,
+\ref ZOH001R055 008
+tzuji7-7am min -pa 7@n 7ix-w@
+DCT1-TMP noche -YA venir-INC 1E
+\egl and DCT1-TMP night -NOW come -INC 1E
+\zoq 7i yey tzujiam minpan 7ixx@."
+\fts y ahora en la tarde lo vengo a ver.
+\ref ZOH001R055 009
+bi jerma*n 7@y m@7
+jerma*n 7@y m@7
+\sg1 entonces decir-COM DEF Germa*n 3E
+7entonses n@m -w@ bi
+\ref ZOH001R055 010
+esposa NEGimpv-2A irse-COM
+say -COM DEF Germa*n 3E wife NEGimpv-2A go -COM
+ZOH001R0551001.txt
+\zoq 7entons n@mm@ bi Jerma*n 7@y m@7, "7um
+\fte Then German's wife said, "Don't go.
+\zoq Yey ga minpa*m.
+\fts Ahorita ya viene.
+\mb y@ -y ka -7
+\sg1 DCT1-TMP DCT3-NOM1
+\eg1 DCT1-TMP DCT3-NOM1 come -INC-NOW
+\ref ZOH001R055 011
+\fte He'll be right here.
+\fte Rest right here.'
+\mb ney ya -ji7
+\sgl mismo DCT1-LOC1 ABAJO-vivir-IMPV
+\egl self DCT1-LOC1 DOWN -live -IMPV
+\zoq Ney yaji 7okjeja."
+\fts Aqui mismo descansa."
+\ref ZOH001R055 012
+\tx bweno n@mm@
+\sg1 bueno decir-COM
+\egl truth next_day festival-appear-INDEF-COM
+\zoq Naxe, joypi7t x@nhkejan@mm@.
+\fts De verdad,
+el otro di*a amanecio*.
+\fte In fact, the next day dawned.
+\ref ZOH001R055 045
+\mb n@k -xuk-w@ jaytija7-jananh
+\sg1 irse-3PL-COM
+\egl go -3PL-COM Juchitan-DIR1
+\zoq Nakxukk@ J@ytijj@nanh.
+\fts se fueron para Juchitan.
+\fte They went to Juchitan.
+\ref ZOH001R055 046
+ye7tz -xuk-w@ka -ji7
+\sgl 11egar-3PL-COM DCT3-LOC1
+\egl arrive-3PL-COM DCT3-LOC1
+\zoq Ye7chukk@_gaji.
+\fts Llego* alla*.
+\fte They arrived there.
+\ref ZOH001R055 047
+\tx 7ay j@xp@kk@
+\mb 7ay jax -pak
+\egl 3E BACK -get
+ATRAS-agarrar-COM 3E
+ZOH001R0551001.txt
+7@y jamatin 7@y tziw@
+jamatin 7@y tzi7-w@
+dinero 3E dar -COM
+\zoq 7@y j@xp@kk@ 7ay jamatin, 7@y tziw@.
+\fts Saco* su dinero y le dio*.
+\fte She took out the money and gave it to him.
+\ref ZOH001R055 049
+-COM 3E money 3E give-COM
+\ref ZOH001R055 048
+\tx 7entonse n@mpa
+ga7xe mix 7oktzakk@yy@
+\mb 7entonses n@m
+jerma*n n@k -pa
+\fte So Germa*n says, "So I'll go with you
+bi karru, termina* 1
+\sg1 decir-INC Germa*n
+\egl say -INC Germa*n
+\ref ZOH001R055 032
+\tx bweno pwes d@x
+\mb bweno pwes d@x da nak -pa ka -7xe joji7
+good well 1prn 1A go -INC DCT3-SIM morning
+\zoq "Bweno, pwes, d@x d@ n@kpa ga7xe joji,
+\fts "Bueno, pues, yo me voy man~ana,
+\fte "Good, well, I'm going to go tomorrow,
+\ref ZOH001R055 033
+\eg1 and DCT3-LOC1 1>2 see-finish
+ZOH001R0551001.txt
+DCT3-LOC1 1>2 ver-terminarse-INC
+\zoq 7i gaja mix 7ixtukpa."
+\fts y alla* te espero.
+\fte and there I'll wait for you."
+\ref ZOH001R055 034
+\egl and where-DUBIT go -INC 1E work
+\ref ZOH001R055 035
+n@kpa 7@n yoxtamm@
+n@k -pa 7@n yox
+donde-DUBIT irse-INC 1E
+\tx 7entons 7anhtzonhnhoyy@
+\fts "Y adonde vamos a trabajar?", dice Germa*n.
+\mb nak -pa 7@n yox
+\sgl irse-INC 1E
+\egl go -INC 1E
+7entonses 7anh -tzonh-7oy -wa bi 7oko
+trabajar-1/2PL-dINC
+BOCA -unir -ANTIP-COM DEF vieja
+MOUTH-join -ANTIP-COM DEF old_woman-yankee
+n@m -pa jerma*n
+decir-INC Germa*n
+say -INC Germa*n
+-yanhke7 n@m -ра
+-gringo decir-INC
+katemaku berakru*s
+-tam -w@ katemaku berakru*s
+trabajar-1/2PL-dINC Catemaco Veracruz
+-1/2PL-dINC Catemaco Veracruz
+ZOH001R0551001.txt
+7ay 7abisar-tz@k -w@ ti jam ye7tz -pa
+avisar -hacer-COM que cal
+\eg1 NEG 3E warn -do -COM what lime arrive-INC
+\zoq Yay 7abistz@kk@ ti jam ye7tzpa.
+\fts No le aviso* que di*a va a llegar.
+fte she didn't tell us what day she was coming.
+\ref ZOH001R055 004
+\tx 7entonses n@mpa
+\mb 7entonses n@m
+7i jerma*n n@nti7aw@
+-ра 7i jerma*n n@nti
+\sg1 entonces decir-INC y Germa*n no_hay
+\zoq 7entonses n@mpa, "7i Jerma*nh, n@nti7aw@."
+\fts Entonces dice, "y Germa*n, no esta*."
+say -INC and Germa*n there isn't-VERS1-COM
+\ref ZOH001R055 005
+\sgl donde irse-COM
+\egl where go -COM
+\zoq "Ju n@kk@?"
+fts "Donde fue*?"
+\fte "where did you go?"
+\ref ZOH001R055 006
+\mb nak -w@ 7@y yox
+\sg] irse-COM 3E
+\egl go -COM 3E
+\zoq "N@kk@y yoxe."
+\fts "Fue* a trabajar."
+\fte "He went to work.
+\ref ZOH001R055 007
+\mb tzak -7@m -w@
+\sg1 dejar-PAS -COM
+\egl leave-PASS-COM
+go -INC DCT3-SIM Mario Lopez DIR5
+\zoq "Bweno," n@mpa 7okyanhke.
+\fts "Bueno", dice la gringa.
+\fte "OK", says the gringa.
+\ref ZOH001R055 040
+ga7xe d@ n@ktampa
+\mb joji7 ka -7xe da n@k -tam -pa j@ytij@7
+\sg1 man~ana DCT3-SIM 1A irse-1/2PL-INC Juchitan
+\egl morning DCT3-SIM 1A go -1/2PL-INC Juchitan
+\zoq "Joji ga7xe da n@ktampa J@ytija.
+\fts "Man~ana vamos a Juchitan.
+\fte "Tomorrow let's go to Juchitan.
+\ref ZOH001R055 041
+\sg1 DCT3-Loc1 1>2 dar -INC 2E
+\eg1 DCT3-LOC1 1>2 give-INC 2E
+ka -ja7 mix tzi7-pa 7@m jamatin
+\zoq Gaja mix tzipam jamatin,
+\fts Alla* te voy a dar tu dinero,
+\fte There I'll give you your money,
+\ref ZOH001R055 042
+ZOH001R0551001.txt
+\tx porke d@x ya d@ jamatin p@kwitt@
+\mb porke d@x ya da jamatin pak
+\sg1 porque 1Prn NEG 1A dinero
+\egl because 1Prn NEG 1A money
+\ref ZOH001R055 043
+\tx bweno n@mpa
+\mb bweno n@m -pa jerma*n
+\sg] bueno decir-INC Germa*n
+\egl good say -INC Germa*n
+\zoq "Bweno," n@mpa Jerma*n.
+\fts "Bueno" dice Germa*n.
+\zoq porke d@x ya da jamatinp@kwitt@ y@ji7."
+\fts porque yo no ando dinero aqui.
+\fte because I didn't carry money here.
+\fte "OK", says Germa*n.
+\ref ZOH001R055 044
+agarrar-andar-COM DCT1-LOC1
+-walk -COM DCT1-LOC1
+\sg1 verdad otro_di*a fiesta -verse -INDEF-COM
+"Pero ju ti de7 d@ n@kpa joji?
+\fts "Pero donde voy a ir man~ana?
+\fte "But where am I going to go tomorrow?
+\ref ZOH001R055 027
+\tx si d@x da k@yujpanam
+\sg1 si 1Prn 1A AFUERA-rozar
+\egl if 1prn 1A AWAY -clear_field-INC-STILL
+\ref ZOH001R055 028
+\zoq si d@x da k@yujpanam7.
+\fts si yo voy a limpiar todavia.
+\fte If I'm going to clear the field still.
+\zoq Ya n@mmo n@kk@ d@x joji.
+\fts No puedo ir yo man~ana.
+\fte I can't go tomorrow.
+ZOH001R0551001.txt
+\mb ya n@m-7oy -A
+\sg1 NEG DO -ANTIP-NINC irse-dINC 1Prn
+\eg1 NEG DO -ANTIP-nINC go -dINC 1Prn morning
+\ref ZOH001R055 029
+\tx porke d@ k@yujpa
+\sg1 porque 1A AFUERA-rozar
+\egl because 1A AWAY -clear_field-INC
+\ref ZOH001R055 030
+\tx peru 7@m n@kpa
+\mb peru 7@m n@k -pa
+\sg1 pero 2A irse-INC
+\egl but 2A go -INC
+\zoq Porke da k@yujpa."
+\fts Porque estoy limpiando.
+\fte Because I'm clearing the field."
+\zoq "Peru 7@m_n@kpa?"
+\fts "Pero vas a ir?"
+\fte "But you're going to go?"
+\ref ZOH001R055 031
+\tx j@ d@_n@kpa winjo da k@yujtukpa
+\mb ja7 da n@k -pa win -jo7 da ka
+\sgl si* 1A irse-INC CARA-LOC2 1A AFUERA-rozar
+-terminarse -INC\tx sentz@ktukxukk@
+\mb senar-tz@k -tuk
+\sg1 cenar-hacer-terminarse-3PL-COM
+\egl dine - do -finish
+\mb yom@7 yanhke7 pwes
+\sg] hembra gringo
+\egl female yankee well
+toma*s tum yanhkej@nanh tum chik
+yanhkej@nanh, tum chikyanhke, yomyanhke, pwes.
+gringa, una chica gringa, una gringa, pues.
+\ref ZOH001R055 090
+7entonses n@mpa
+ZOH001R0551001.txt
+kwando naxe mas tzujiam
+kwando naxe mas tzu7 -ji7 - 7am
+cuando verdad mas noche-LOC1-YA
+-3PL-COM when truth more night-LOC1-NOW
+ye7tz -w@ -7am toma*s
+11egar-COM-YA Toma*s
+say -INC Anna DCT3-TMP arrive-COM-NOW Thomas
+\ref ZOH001R055 091
+\sg1 entonces decir-INC Ana DCT3-TMP
+\fts Entonces dice Ana, "Ya llego* Toma*s.
+\fte So Anna says, "Now Toma*s has arrived.
+\sg] irse-IMPV3 unir -HORT
+\egl go -IMPV3 join -HORT
+\zoq N@ki tzonhta*nh."
+\fts vamos a toparlo.'
+\fte Let's go meet him"
+\ref ZOH001R055 092
+naxe tijja 7@n tzonhtame
+\mb naxe tij-w@ 7@n tzonh-tam -E
+\sg1 verdad ir -COM 1E unir -1/2PL-dCOM
+\egl truth go -COM 1E join -1/2PL-dCOM
+\zoq Naxe, tijj@n tzonhtame.
+\fts De verdad, fuimos a toparlo.
+\fte In fact, we went to meet him
+\sg] trabajar-1/2PL-dINC
+\egl work -1/2PL-DINC
+\ref ZOH001R055 067
+tzak -7@m -pa bi karru
+7@y 7anh -tze7k-7@y-wa jut@@nh
+\egl truth 3E MOUTH-ask -SUF-COM where
+leave-PASS-INC DEF bus
+\fte In fact, he asked, "Where is the bus?"
+\ref ZOH001R055 068
+ZOH001R0551001.txt
+\mb 71 -7@y nam -jay -xuk-w@ jut@@nh
+\sg] y -3E decir-APPL-3PL-COM por donde
+\eg1 and-3E say -APPL-3PL-COM where
+\ref ZOH001R055 069
+\mb min -w@ para katemako
+\sg] venir-COM para Catemaco
+\egl come -COM for Catemaco
+\zoq Minn@ para Katemako.
+\fts se vino para Catemaco.
+\fte He came to Catemaco.
+\zoq 7iy n@mjaxukk@ jut@*nh 7@y p@kk@ bi karru.
+\fts y le dijeron por donde agarro* el carro.
+\ref ZOH001R055 070
+\tx ye7tztz@ katemako termina*1
+\mb ye7tz -wa katemako termina* 1
+\sg1 11egar-COM Catemaco terminal
+\egl arrive-COM Catemaco terminal
+\zoq Ye7tztz@ Katemako termina*l.
+\fts Llego* en Catemaco terminal.
+\fte He arrived in the Catemaco terminal.
+\ref ZOH001R055 071
+7@y p@k -w@ bi karru
+3E agarrar-COM DEF camio*n
+ZOH001R0551001.txt
+\fts Le dijo Germa*n, le dijo que "Hoy llegue*
+\ref ZOH001R055 098
+\tx 7a bweno w@ja pwes joji
+\mb 7a bweno w@ja
+\sg1 ah bueno bueno pues man~ana DCT2-NOM1 1A
+\egl ah good good well morning DCT2-NOM1 1A
+\tx yox7okmanhtampa*m
+-7okmanh-tam -pa -7am
+trabajar-empezar-1/2PL-INC-YA
+n@m -ра bi 7apu
+decir-INC DEF viejo
+-begin -1/2 PL-INC-NOW say -INC DEF old
+\ref ZOH001R055 099
+\tx bweno n@mpa
+\sg1 bueno decir-INC Germa*n
+\egl good say -INC Germa*n
+\zoq "Bweno," n@mpa Jerma*n.
+\fts "Bueno' dice Germa*n.
+\fte "OK", says Germa*n.
+\ref ZOH001R055 100
+joypi7t x@nh -kej -An@m -w@
+\zoq Ti naxe joypi7t x@nhkejan@mm@.
+\fts De ahi* de verdad el otro di*a amanecio*.
+\fte Then, in fact, the next day dawned.
+\ref ZOH001R055 101
+\sg1 decir-INC que
+\egl say -INC that
+\sgl trabajar-nINC
+NEG 1A trabajar-1/2 PL-nINC o sea
+-1/2PL-nINC or may be 2Prn NEG 2A
+\mb tum jama martes ye7tz -wa ya -ji7
+\sg1 uno dia martes
+llegar-COM DCT1-LOC1 Catemaco
+one day Tuesday arrive-COM DCT1-LOC1 Catemaco
+\zoq Tum jama Martes ye7tztz@ y@ji Katemako.
+\fts Un di*a Martes 11ego* en Catemaco.
+\fte One Tuesday he arrived in Catemaco.
+\ref ZOH001R055 063
+\tx ye7tztz@ jaytija7
+\mb ye7tz -wa jaytij@7
+\sg1 11egar-COM Juchitan
+\egl arrive-COM Juchitan
+\zoq Ye7tztz@ J@ytij@7.
+\fts Llego* en Juchitan.
+\fte He arrived in Juchitan.
+ZOH001R0551001.txt
+\ref ZOH001R055 064
+\tx de j@ytij@7 minn@
+\mb de jaytij@7 min
+\sg1 de Juchitan venir-COM Acayucan
+\egl of Juchitan come -COM Acayucan
+\zoq De Jaytij@7 minn@ 7akayukan.
+\fts De Juchitan vino para Acayucan.
+\fte From Juchitan he came to Acayucan.
+\ref ZOH001R055 065
+\tx n@mpa jerma*n d@x ya d@ 7ixxo
+-ра jerma*n d@x ya d@ 7ix-7oy -A
+katemako peru d@
+katemako peru d@
+Catemaco pero 1A
+\ref ZOH001R055 066
+kompromisuwa*m ke
+kompromiso-w@ -7am ke
+\sg1 porque DCT1-NOM1 compromiso-COM-YA que
+\ref ZOH001R055 036
+\tx pwes n@ktampa
+\mb pwes n@k -tam -pa
+\sg1 pues irse-1/2PL-INC decir-INC
+\egl well go -1/2PL-INC say -INC Germa*n
+\zoq "Pwes, n@ktampa," n@mpa Jerma*n.
+\fts "Pues, vamos", dice Germa*n.
+\fte "well, let's go", says Germa*n.
+\tx da k@yujtuk
+\ref ZOH001R055 037
+no mas ke mix tzakjaba
+\mb no mas ke mix tzak -jay -pa
+\sg1 no mas que 2>1 dejar-APPL-INC uno dinero
+\egl no more that 2>1 leave-APPL-INC one money
+\sg1 1A AFUERA-rozar
+\egl 1A AWAY -clear_field-finish
+\idx incorp, aux_p2
+\ref ZOH001R055 038
+ZOH001R0551001.txt
+\tx 7i da n@kpa
+\mb 7i da nak -pa
+\eg1 and 1A go - INC
+\zoq 7i da nakpa.
+\fte and I'11 go.
+clearing the field for me,
+\ref ZOH001R055 039
+\tx bweno n@mpa
+-terminarse-INC PURP
+tum jamatin pa d@ 7awin
+tum jamatin para d@ 7awin7
+\sg1 bueno decir-INC
+\egl good say -INC old_woman-yankee
+para 1A hermano/a pagar -INC
+for 1A sibling pay -INC
+\egl truth find
+\zoq Naxe, pa7tt@.
+Ye7tztz@ y@7 7otel.
+\ref ZOH001R055 076
+\tx 7ay n@mjayy@
+7@y nam -jay -wa
+\sg1 3E decir-APPL-COM DCT3-LOC1
+\egl 3E say -APPL-COM DCT3-LOC1
+\egl Anna Heidi
+ZOH001R0551001.txt
+-COM arrive-COM DCT1-NOM1 hotel
+\ref ZOH001R055 078
+\tx 7@y wejjayxukk@
+\zoq 7entonses n@mxukk@ ke ja.
+\fts Entonces dijeron que si*.
+\fte so they said yes.
+\ref ZOH001R055 077
+7entonses n@mxukk@
+\mb 7entonses n@m -xuk-w@ ke j@7
+\sg1 entonces decir-3PL-COM que
+say -3PL-COM that yes
+gritar-APPL-3PL-COM
+\zoq 7@y wejjayxukk@.
+\fts Lo llamaron.
+\egl 3E shout -APPL-3PL-COM
+\fte They called her.
+\ref ZOH001R055 079
+-w@ -v7k si teji
+-COM-REL si hay
+there_is-COM-REL if there_is-VERS1-COM
+\zoq De gaji, naxe wanakk@.
+\fts De ahi*, de verdad, abajo*.
+\fte Then, in fact, she came down.
+de ka -ji7 naxe
+\sg1 de DCT3-Loc1 verdad
+\egl of DCT3-LOC1 truth go_down-COM
+\ref ZOH001R055 110
+\tx ney tum@ pwes tzakk@mpa
+uno pues dejar-PAS -INC Germa*n
+\egl alone one well leave-PASS-INC Germa*n
+tum@ pwes tzak -7@m -pa
+ZOH001R0551001.txt
+\zoq Ney tum@, pwes, tzakk@mpa Jerma*n.
+\fts solo pues quedo* Germa*n.
+\fte well, Germa*n stayed alone.
+\ref ZOH001R055 111
+\tx malay 7iw@ pin@k ye7tzpa*m para wit7awin7apa
+ye7tz -pa -7am para wit -7awin7 -7a
+\eg1 CONFAC who
+\ref ZOH001R055 112
+para ye7tztz@ 7@y 7awin
+jay -w@ para ye7tz -w@ 7@y 7awin7
+delay -COM for arrive-COM 3E sibling NPL
+\zoq Jayy@ para yetztz@ 7@y 7awind@kka.
+\fts Tardo* para que llego* sus compan~eros.
+\fte It was a while before his companions came.
+\ref ZOH001R055 113
+\mb te -y pwes x@j@7
+\sg1 DCT2-TMP pues bastante
+\eg1 DCT2-TMP well a_lot
+\tx playa cristal
+\mb playa Krista*l
+\sg1 Playa Krista*l
+\egl Playa Kristal
+\ref ZOH001R055 114
+-1/2PL-COM DCT1-LOC1 DCT1-DEM hotel-Loc2
+there_is-1/2PL-COM DCT1-LOC1 DCT1-DEM hotel-LOC2
+n@mm@ 7@n yoxtamma*m
+-tam -wa ya -ji7 ya -da
+\egl good say -COM
+\zoq "Bweno, dijo.
+\fte "OK", she said.
+\ref ZOH001R055 013
+\tx 7@y p@jaxukk@
+uno cama dormir-ABAJO-vivir-INC
+\ref ZOH001R055 014
+\tx ti naxe, ya
+\sg1 que verdad NEG dilatar-COM
+\egl what truth NEG delay -COM
+p@7 -jay -xuk-w@ tum pama monh
+poner-APPL-3PL-COM
+\zoq 7@y p@jaxukk@ tum papa monhnhokjejpa.
+\fts Lo pusieron una cama para descansar.
+fte They set up a bed for her to rest.
+\zoq Ti naxe, ya jayy@.
+\fts Si* de verdad,
+\ref ZOH001R055 015
+\fte And really, he didn't tarry.
+\sg1 DCT3-TMP 11egar-COM-YA DEF Germa*n
+\eg1 DCT3-TMP arrive-COM-NOW DEF Germa*n
+ZOH001R0551001.txt
+ye7tz -w@ -7am bi
+\zoq Kay ye7tztza*m bi Jerma*n.
+\fts Ya 11ego* Germa*n.
+\fte Now Germa*n arrived.
+\ref ZOH001R055 016
+\tx yaktz@kkoba
+\mb yak -tz@k -7oy -pa
+\sg1 CAUS-hacer-ANTIP-INC
+-ANTIP-INC dinner 3E wife
+\zoq Yaktz@kkoba senhya 7@y m@7.
+\fts Estaba hiciendo cena su mujer.
+\fte His wife was making dinner.
+\ref ZOH001R055 017
+\tx 7ix 7iw@ monh@7
+\id C:\TEXTS\ZOH001R055.TXT
+\ref ZOH001R055 000
+\zoq Mi Byaje 7a Katemako
+\fts Mi viaje a Catemaco
+\fte Mi Trip to Catemaco
+\com narrado por Germa*n Sa*nchez Morales
+\com 26/6/95, en Catemaco, Veracruz, Mexico
+\com traducido al espan~ol por GSM,
+\com analisado y traducido al ingles por HAJ.
+\com_ narrated by Germa*n Sa*nchez Morales
+\com 6/26/95, in Catemaco, Veracruz, Mexico
+\com translated into Spanish by GSM,
+pau*sula glotal
+vocal medio central
+africativo alveolar (ts)
+fricativo palatal
+glottal fricative (h)
+\ref ZOH001R055 002
+\zoq Y@7tztz@ 7ana Jerma*n 7@y t@kjo7.
+\fts Llego* Ana en la casa de Germa*n.
+\fte Anna arrived at German's
+ZOH001R0551001.txt
+\ref ZOH001R055 001
+\tx ye7tztz@ 7ana jerma*n 7@y t@kjo7
+\mb ye7tz -wa 7ana jerma*n 7@y tak -jo7
+\sg1 11egar-COM Ana Germa*n 3E casa -LOC2
+\egl arrive-COM Anna Germa*n 3E house-LOC2
+tum de rropente g@xi ya
+tum de rropente g@xi ya
+\sg1 uno de repente LOC4 ya
+\egl one of sudden
+\tx 7ixp@kxuk@pa*m
+\ref ZOH001R055 003
+-xuk-@ -pa -7am
+\sg1 ver-agarrar-3PL-PSV-INC-YA
+mid central vowel
+-ye7tz -7@y-w@ komo ney
+AFUERA-11egar-3E -COM como RCP
+LOC4 now AWAY -arrive-3E -COM how RCP
+alveolar affricate
+palatal fricative
+-3PL-PSV-INC-NOW
+\fts Un de ropente ya llego*, ya se conoce.
+\ref ZOH001R055 080
+\mb n@k -w@ 7@y 7ix-E
+\sgl irse-COM 3E ver-dcom
+\egl go -COM 3E see-dCOM
+\zoq N@kk@y 7ixi.
+\fts voy a ver.
+\fte I'm going to see.
+\ref ZOH001R055 081
+\tx 7@m minna*m
+\mb 7@m min -w@ -7am jerma*n
+\sg1 2A venir-COM-YA Germa*n
+\egl 2A come -COM-NOW Germa*n
+\zoq "7@m minna*m, Jerma*n?"
+\fts "Ya vinistes, Germa*n?"
+\fte "Now you've come, Germa*n?"
+\ref ZOH001R055 082
+-w@ -7am _n@m -pa jerma*n
+\sgl si* 1A venir-COM-YA decir-INC Germa*n
+\egl yes 1A come -COM-NOW say -INC Germa*n
+\zoq "ja, da minna*m," n@mpa Jerma*n.
+\fts "Si*, ya vine", dice Germa*n.
+\fte "Yes, now I've come",
+ZOH001R0551001.txt
+\ref ZOH001R055 083
+\sg1 de DCT3-Loc1 decir-INC temprano 2A
+\egl of DCT3-LOC1 say -INC early
+\sg1 decir-APPL-COM
+\egl say -APPL-COM
+tempranu m ye7tztz@
+n@m -pa tempranu 7@m ye7tz -w@
+\ref ZOH001R055 084
+\tx bweno pwes tej
+bweno pwes teji
+11egar-COM temprano 3E
+arrive-COM early 3E
+\ref ZOH001R055 093
+\mb de ka -ji7 7@n tzanh-kuy7 jup -tam -wa
+\zoq De gaji, 7@n tzanhkuyjuptamm@.
+\fts De ahi*, nos dimos la mano.
+\fte Then, we shook hands.
+\ref ZOH001R055 094
+\mb n@m -w@ 7apu
+\sg1 decir-COM viejo
+Toma*s decir-INC 2A
+ZOH001R0551001.txt
+\zoq Namm@ 7aptoma*s, n@mpa, "7@m minna*m?"
+\fts Dijo el viejo Toma*s, dice, "Ya vinistes?"
+\ref ZOH001R055 095
+n@m -ра jerma*n
+\mb ja7 da min -w@ -7am
+\sgl si* 1A venir-COM-YA decir-INC Germa*n
+\egl yes 1A come -COM-NOW say -INC Germa*n
+\zoq "Ja, da minna*m," n@mpa Jerma*n.
+\fts "Si*, ya vine", dice Germa*n.
+\fte "Yes, I've come", says Germa*n.
+\ref ZOH001R055 096
+7@m min -w@ - 7am
+jutiya m ye7tztz@ n@mpa
+jutiya7 7@m ye7tz -w@ n@m -pa 7apu
+llegar-COM decir-INC viejo
+2A arrive-COM say -INC old
+\ref ZOH001R055 097
+\zoq "Jutiyam_ye7tztz@?" n@mpa 7aptoma*s.
+\fts "Cuando llegastes?", dice el viejo Toma*s.
+\sg1 11egar-COM
+\egl arrive-COM
+\tx 7@y n@mjaba
+jerma*n 7@y n@mjayy@
+\mb 7@y nam -jay -pa jerma*n 7@y nam -jay -w@ ke
+\egl 3E say -APPL-INC Germa*n 3E
+say -APPL-COM that
+\mb 7ix 7iw@ monh -w@ -v7k
+\sg1 ver quien dormir-COM-REL
+\egl see who sleep -COM-REL
+\zoq "7ix, 7iw@ monh@*7?"
+\fts "Mire, quien esta* durmiendo ahi*?"
+\fte "Look, who is sleeping over there?"
+\ref ZOH001R055 018
+\tx 7@y n@mjayy@
+7@y nam -jay -wa ke
+decir-APPL-COM que Ana
+\egl 3E say -APPL-COM that Anna
+\zoq 7@y n@mjayy@ ke 7ana.
+\fts Le dijo que Ana.
+\fte she told him that it's Anna.
+\ref ZOH001R055 019
+\tx bweno tz@ktzakk@
+\mb bweno tz@k -tzak -w@ yakk@ monh -A7
+\sg1 bueno hacer-dejar-COM VOL
+\ref ZOH001R055 020
+\zoq "Bweno, tz@ktzakk@ yak moa7.
+\fts "Bueno, dejalo que descanse.
+\fte "Good, leave her so she can rest.
+ZOH001R0551001.txt
+si d@ ye7tztza*m
+nam -jay -wa si da ye7tz -w@ - 7am
+decir-APPL-COM si* 1A llegar-COM-YA
+\sg1 NEGimpv-2E
+\ref ZOH001R055 021
+\zoq 7um_n@mjayy@ si* da ye7tztza*m.
+\fts No le digas que si* ya llegue*.
+\fte Don't tell her that yes, now I've arrived.
+yakk@ 7ok -jej -A7
+ABAJO-vivir-iOPT
+DOWN live -iOPT
+\zoq Yak 7okjeja."
+\fts Que descanse.
+\fte Let her rest.
+\ref ZOH001R055 022
+\ref ZOH001R043 069
+\tx porke kad 7ora ney tzonhtamapa
+kada 7ora ney tzonh-tam -A -pa
+\sg1 porque cada hora RCP unir -1/2 PL-RCP-INC
+\egl because each hour RCP join -1/2PL-RCP-INC
+\zoq Porke kada 7ora ney tzonhtamapa.
+\ref ZOH001R043 070
+\mb ya d@ 7otonh-tam -A
+\sg1 NEG 1A hablar-1/2PL-nINC
+\eg1 NEG 1A speak -1/2PL-nINC
+\zoq Ya da 7otonhtam@.
+\fts No hablamos.
+\fte we don't speak.
+\ref ZOH001R043 071
+\sg1 DCT2-SIM NEG terminarse-COM
+\eg1 DCT2-SIM NEG finish
+\zoq De7xe ya tukk@.
+\fts Asi* no esta* bonito.
+\fte That way isn't nice.
+\ref ZOH001R043 072
+\mb te -7xe ya moso
+\sg1 DCT2-SIM NEG bonito
+\eg1 DCT2-SIM NEG beautiful
+\zoq De7xe ya moso.
+\fts Asi* no esta* chulo.
+\fte That way is not pretty.
+\ref ZOH001R043 073
+\mb p@7 -n@k -7@m -taanh
+\sg1 poner-irse-PAS -HORT
+\egl put -go -PASS-HORT
+\zoq P@n@kk@mda*nh.
+ZOH001R0431001.txt
+\ref ZOH001R043 082
+\tx bweno n@mm@
+\sg1 bueno decir-COM gente NPL
+\egl good say -COM people NPL
+\zoq "Bweno, n@mm@ jented@kkay.
+\fts "Bueno", dijo la gente.
+\fte "OK, " said the people.
+\ref ZOH001R043 083
+\sg1 irse-3PL-COM
+\egl go -3PL-COM
+\fts se fueron.
+\fte They went.
+\ref ZOH001R043 084
+\tx 7@y 7okn@kk@xukk@
+7ay 7ok -n@k -7@y-xuk-w@
+\sg1 3E ABAJO-irse-SUF-3PL-COM
+\egl 3E DOWN -go -SUF-3PL-COM
+\zoq 7@y 7okn@kk@xkuk@.
+\fts Lo acompan~aron.
+\fte They went with him.
+\ref ZOH001R043 085
+ye7tztz@ jemji de 7awin
+\mb ka -ji7 ye7tz -w@ jemji7 de 7awin7
+\sg1 DCT3-LOC1 11egar-COM todo
+\eg1 DCT3-LOC1 arrive-COM all
+ZOH001R0431001.txt
+\zoq Gaji7 ye7tztz@ jemji7 de 7awind@kkay.
+\fts Alla* llegaron todos los compan~eros.
+\fte There arrived all the brothers.
+\zoq Gaji7 teji tamn@7.
+\fts Alla* hay cerveza.
+\ref ZOH001R043 086
+\eg1 DCT3-LOC1 there is bitter-water
+de hermano/a NPL
+\fte why did he do it?
+\ref ZOH001R043 043
+\tx porke y@da jente PRI 7@yti mas
+-d@ jente PRI 7@yti7 mas
+DCT1-DEM gente PRI 3PSN
+\egl because DCT1-DEM people PRI 3PSN
+\ref ZOH001R043 044
+\mb ya n@m-7oy -A
+\sg1 NEG DO -ANTIP-NINC
+\eg1 NEG DO -ANTIP-nINC CAUS-sit
+\zoq Porke y@d@ jente PRI7@yti7 mas m@jm@xukk@.
+\fts Porque esta gente del PRI son mas bastante.
+\tx d@kka bi kwalisyo*n 7@yti
+\mb d@kkay bi kwalisyo*n 7@yti7
+\sg1 NPL DEF qualicio*n 3PSN
+\egl NPL DEF ???
+\ref ZOH001R043 045
+\tx si no tz@npa
+ZOH001R0431001.txt
+\ref ZOH001R043 046
+\sgl si no estar_sentado-INC
+CAUS-estar_sentado-3PL-dINC
+\ref ZOH001R043 047
+bastante-3PL-COM
+-INC PRI 3E people
+pitzenhjo7 ka -7 de kinkin
+DCT3-NOM1 de muina
+-xuk-w@ ka -7 7@y jente
+DCT3-NOM1 3E gente
+-3PL-DINC DCT3-NOM1 3E people
+\zoq Si no tz@npa PRI 7@y jente.
+7@y tz@k -xuk-w@
+3E hacer-3PL-COM DCT2-SIM
+\fts Por eso ellos de muina lo hicieron asi*.
+\fte There was beer there.
+\ref ZOH001R043 087
+\egl there is sweet water
+\zoq Teji paja7k n@7.
+\fts Hay refresco dulce.
+\fte There were soft drinks.
+\ref ZOH001R043 088
+\egl there is eat -INSTR1
+\zoq Teji k@xkuy7.
+\fts Hay comida.
+\fte There was food.
+\ref ZOH001R043 089
+\mb k@x -7oy -xuk-w@
+\sg1 comer-ANTIP-3PL-COM
+\egl eat -ANTIP-3PL-COM
+\zoq K@xxoxukk@.
+\ref ZOH001R043 090
+\sg1 1/2PL-agua
+\egl 1/2PL-water drink-3PL-COM
+\zoq Tamn@7ukxukk@.
+\fts Tomaron cerveza.
+\fte They drank beer.
+\ref ZOH001R043 091
+\sgl dulce agua
+\egl sweet water drink-3PL-COM
+ZOH001R0431001.txt
+\ref ZOH001R043 025
+kwalisyo*n d@kka
+7@y 7amma-xuk-w@ tum@-v7k partido bi
+kwalisyo*n d@kkay
+\ref ZOH001R043 026
+\tx tz@nxukk@xta*m
+-xuk-w@ -xtaa7-7am
+\sg1 estar_sentado-3 PL-COM-NOMAS-YA
+-3PL-COM-ONLY - NOW
+\zoq Tz@nxukk@xta*m.
+\fts Quedaron sentado nada mas.
+\fte Now they just sat.
+\ref ZOH001R043 027
+\tx 7i komo gaja
+wajaka 7anhkimmoba*7
+wajaka 7anh -kim -7oy -pa -v7k 7@y 7anh -kim -w@
+MOUTH-mount-ANTIP-INC-REL 3E MOUTH-mount-COM
+\egl and how DCT3-LOC1 oaxaca
+ZOH001R0431001.txt
+\tx metzanh p@n y@ji
+\mb_metza*nh p@n ya -ji7
+hombre DCT1-Loc1
+man DCT1-LOC1 San_Miguel
+\ref ZOH001R043 028
+\mb yakk@ min -70
+junanhja*7 p@ktzonhnhoba
+7@y 7ix-w@ junanh-jaa7 p@k -tzonh-7oy -ра
+\mb ya -7 PRI 7@y jente
+DCT1-NOM1 PRI 3E
+\eg1 DCT1-NOM1 PRI 3E people
+\id C:\TEXTS\ZOH001R043.TXT
+\ref ZOH001R043 000
+\zoq El Presidente del An~o 1996
+\fts El Presidente del An~o 1996
+\fte The Mayor of Year 1996
+\com narrado por Germa*n Sa*nchez_Morales
+\com grabado por GSM, transcrito por HAJ,
+\com traducido al espan~ol por GSM,
+\com analisado y traducido al ingles por HAJ.
+\com narrated by Germa*n Sa*nchez Morales
+\com recorded by GSM, transcribed by HAJ,
+\com translated into Spanish by GSM,
+pau*sula glotal
+vocal medio central
+ZOH001R0431001.txt
+\tx 7enh 7el nobentay
+\mb 7en 7el nobenta-7i
+africativo alveolar (ts)
+fricativo palatal
+glottal fricative (h)
+\ref ZOH001R043 001
+\mb ya -y mix 7ok
+\sg1 DCT1-TMP 1>2
+7@n 7amma-w@ -v7k
+-tzam -jay -tam -ра y@ -7
+sinko para 7i nobentay seys
+sinko para 7i nobenta-7i seys
+\sg1 en e*1 noventa-y cinco para y
+\ref ZOH001R043 002
+\mb 7entonses ya kwando xuk
+\sg1 entonces ya
+mid central vowel
+noventa y seis.
+alveolar affricate
+palatal fricative
+7amint@7 7enh 7el nobentay
+-pa -7am bi 7amint@7 7en 7el nobenta-7i
+cuando acabarse-INC-YA DEF an~O
+finish -INC-NOW DEF year
+the ninety -and
+\ref ZOH001R043 110
+\tx 7i tum@7k partidu n@mpa
+\mb 7i tum@-v7k partidu n@m -ра ke
+uno -REL partido decir-INC que
+\egl and one -REL party say -INC that
+\tx 7anhnhunnoxukpa
+\sg1 BOCA -engan~ar-ANTIP-3PL-INC
+\eg1 MOUTH-deceive -ANTIP-3PL-INC
+\ref ZOH001R043 111
+\zoq Ney mekpa.
+\fts Esta* mintiendo.
+\fte He's lying.
+\ref ZOH001R043 112
+\zoq Peru ya naxe 7anhnhunno.
+\fts Pero no es cierto que engan~a.
+\fte But it's not true that he deceived.
+ZOH001R0431001.txt
+\mb peru ya naxe
+\sg1 pero NEG verdad BOCA -engan~ar-ANTIP-nINC
+\egl but NEG truth MOUTH-deceive -ANTIP-NINC
+\ref ZOH001R043 113
+\tx ya naxe meka
+\mb ya naxe mek
+\sg1 NEG verdad mentir-nINC
+\eg1 NEG truth lie
+\zoq Ya naxe meka.
+\fts No es cierto que miente.
+\fte It's not true he's lying.
+\ref ZOH001R043 114
+\tx porke yampa n 7ixtamm@
+\ref ZOH001R043 038
+\tx 7@y jupw@tjaxukk@
+\mb 7@y jup -wat
+3E camisa recoger-NOM3
+jalar-romper-APPL-3PL-COM
+7@y y@kwij jupxi
+-jay -xuk-w@ 7ay yakwij jupx
+\zoq 7@y jupw@tjaxukk@ 7@y y@kwij jupxi.
+\fts Rompieron a jalo*nh su playera.
+\fte They pulled and tore his gathered shirt.
+ZOH001R0431001.txt
+\ref ZOH001R043 039
+\tx 7@y jupw@tjaxukk@
+\egl 3E pull -tear -APPL-3PL-COM
+jalar-romper-APPL-3PL-COM
+\zoq 7@y jupw@tjaxukk@.
+\fts se lo rompieron.
+\ref ZOH001R043 040
+\fte They tore it by pulling on it.
+\tx 7@y wo7ktzikxukk@
+\mb 7ay wo7k -tzik -xuk-w@ 7@y wintu7 -jo7
+raspar-pelar-3PL-COM 3E
+scrape-skin -3PL-COM 3E neck
+\ref ZOH001R043 041
+\zoq 7@y wo7ktzikxukk@ 7@y wintujo7.
+\fts Lo arranc~aron en el pescuezo.
+\fte They scraped him on the chest.
+kwalisyo*n 7@y jente
+\mb ka -7 tz@k -7oy -w@ bi kwalisyo*n 7@y jente
+\eg1 DCT3-NOM1 do -ANTIP-COM DEF ???
+\ref ZOH001R043 042
+\mb ti -goo7 7@y tz@k -w@
+\sg1 que -BNF 3E hacer-COM
+\eg1 what-BNF 3E do -COM
+\zoq Ga7 tz@kkoyy@ bi kwalisyo*n 7@y jente.
+\fts Eso lo hizo la gente de la qualicio*n.
+\fte He did the qualicio*n's people.
+\zoq Tigo*7 7@y tz@kk@?
+\fts Porque lo hizo?
+\sg1 1A poner-irse-PAS -1/2PL-INC
+\egl 1A put -go -PASS-1/2PL-INC
+\zoq Da pan@kk@mdampa.
+\fts Nos llevamos.
+\fte we get along.
+\ref ZOH001R043 065
+\tx porke neywin 70 sea
+\mb porke neywin 70 sea
+\sg1 porque IPrn o sea
+\egl because IPrn or may_be 1Prn-NPL2 1A sit
+\ref ZOH001R043 066
+\fte Because we or us we're seated now,
+\egl but IPSN year
+\tx peru neyti* 7amint@ mixja*7 n@mmoba
+peru neyti7 7amint@7 mix -jaa7 n@m-7oy
+ZOH001R0431001.txt
+d@xja*7 d@ tz@ntamm@
+d@x -jaa7 d@ tz@n
+1Prn-NPL2 1A estar_sentado-1/2PL-COM DCT2-TMP
+-1/2PL-COM DCT2-TMP
+-tam -wa komo juxtixa
+\sg1 estar_sentado-1/2PL-dINC como autoridad
+-1/2PL-dINC like authority
+\ref ZOH001R043 067
+\tx ney kumkuy wakxi
+\mb ney kumkuy7 wakxi7
+\sg1 IPrn pueblo chico
+\egl IPrn town small
+2Prn-NPL2 DO -ANTIP-INC 2E
+2Prn-NPL2 DO -ANTIP-INC 2E
+\zoq Ney kumkuy7 wakxi7.
+\fts Nuestro pueblo es pequen~o.
+\fte our town is small.
+\ref ZOH001R043 068
+\tx ney kumkuy ya
+\mb ney kumkuy7 ya
+para 7@m kuk -p@k -tuk -tam -w@
+\sg] IPrn pueblo NEG para 2E
+NEG for 2E center-get
+centro-agarrar-cortar-1/2PL-nIMPV
+\zoq Ney kumkuy7 ya param kukp@ktuktamm@.
+\fte our town you should not divide.
+ZOH001R0431001.txt
+\tx neywin 7@n 7ammadampa
+ZOH001R0431001.txt
+\mb neywin 7@n 7amma-tam
+-pa ney kumkuy7 wakxinh
+\egl IPrn 1E see -1/2 PL-INC IPrn town small
+\zoq Neywin 7@n 7ammadampa ney kumkuy7 wakxinh.
+\fts Nosotros vemos nuestro pueblo es chiquito.
+fte We see that our town is small.
+\ref ZOH001R043 052
+\mb___ya n@m-7oy -A
+\sg1 NEG DO -ANTIP-NINC 1E
+\eg1 NEG DO -ANTIP-NINC 1E center-get
+\zoq Ya n@mmon kukp@ktuktamm@.
+\fts No podemos dividirnos.
+\fte we can't divide.
+\ref ZOH001R043 053
+70 d@ p@ktzonhnhoyy@
+70 d@ p@k -tzonh-7oy -wa komo
+\eg1 DCT2-TMP 1Prn 1A sit
+-join -ANTIP-COM like
+-p@k -tuk - tam
+centro-agarrar-cortar-1/2 PL-dINC
+- cut -1/2PL-DINC
+\ref ZOH001R043 055
+\fte Now I am seated or I am elected as mayor.
+\ref ZOH001R043 054
+\tx mixja*7 ya m
+\mb mix -jaa7 ya 7@m p@k
+p@ktzonhnhodamm@
+-tzonh-7oy -tam -wa
+\zoq Mixja*7 yam p@ktzonhnhodamm@,
+\fts Uds. no recibieron,
+\fte You all were not elected,
+\tx pero syempre neywin
+p@7 -n@k -7@m - tam -pa
+poner-irse-PAS -1/2PL-INC
+put -go -PASS-1/2PL-INC
+pero syempre neywin
+\sg1 pero siempre IPrn
+\egl but always IPrn
+\zoq pero syempre neywin p@n@kk@mdampa.
+\ref ZOH001R043 105
+\tx yakk@ w@jtz@kk@
+\mb yakk@ waja -tzak -w@
+bueno-hacer-COPT
+\eg1 VOL good - do -COPT
+\zoq Yakk@ w@jtz@kka.
+\fts Que lo arregle.
+\fte That he should clean it up.
+\ref ZOH001R043 106
+\ref ZOH001R043 107
+\egl if one likes that good CAUS-get
+waja yakp@ktzonhnho
+\zoq si kyera ke waja yakp@ktzonhnho.
+\fts Si quiera que reciba bien.
+\fte If he wants to be well received.
+\ref ZOH001R043 108
+ZOH001R0431001.txt
+7ideya para y w@jtz@kpa
+\mb 7i te -7 bi 7ideya para 7@y waja -tzak -pa
+DCT2-NOM1 DEF idea
+bueno-hacer-INC
+\eg1 and DCT2-NOM1 DEF idea for 3E
+\zoq 7i de7 bi 7ideya paray w@jtz@kpa.
+\fts Y ese es la idea para que lo arregle.
+\mb__para_7@y mejor-tz@k -pa
+\sg1 para 3E mejor-hacer-INC
+\egl for 3E best - do
+CAUS-agarrar-unir -ANTIP-OPT
+-join -ANTIP-iOPT
+\zoq Paray mejortz@kpa.
+\fts Para que lo mejore.
+\fte so that he does better.
+pitzenhjo7 te -y
+\ref ZOH001R043 109
+\tx pitzenhjo dey
+DCT2-TMP DCT2-SIM hay
+te -7xe teji -tam -w@
+\zoq Pitzenhjo7 dey de7xe tejidamm@.
+\fts Por eso ahora asi* estamos.
+\fte That's why now we're like this.
+\ref ZOH001R043 096
+\tx yakk@ 7@y w@jtz@kk@
+yakk@ 7ay waja -tz@k -w@ g@ kumkuy7
+bueno-hacer-COPT DEM pueblo
+\zoq Yakk@ 7@y_w@jtz@kk@_g@ kumkuy7.
+\fts Que arregle el pueblo.
+\fte That he cleans up the town.
+\ref ZOH001R043 097
+\tx yakka y mejortz@kk@
+yakka 7@y mejor-tz@k -wa
+y@da kumkuy 7@n muxtampa
+ya -da kumkuy7 7@n mux -tam -ра
+\sg1 que viejo-YA
+\egl that old -NOW
+\ref ZOH001R043 098
+-ра 7@y tz@k -7@m -w@
+venir-INC 3E hacer-PAS -DINC
+\egl but what come -INC 3E do -PASS-DINC
+\zoq Peru ti minpay tz@kk@mm@?
+\fts Pero que esta* pasando?
+\fte But what is coming to pass?
+\ref ZOH001R043 099
+ZOH001R0431001.txt
+\egl there isn't better
+\zoq N@nti* mejora.
+\fts No hay mejora.
+\fte There's nothing better.
+\ref ZOH001R043 100
+\sgl mismo como viejo NPL
+\egl self like old
+komo 7apu d@kka y tzakk@
+d@kkay 7@y tzak -w@ yaja7 -p@7
+3E dejar-COM antes -poner
+3E leave-COM before-put
+\zoq Paja7k n@7 7ukxukk@.
+\fts Tomaron refresco.
+\fte They drank soft drinks.
+pitzenhjo 7awin
+pitzenhjo7 7awin7
+\ref ZOH001R043 092
+d@kka tzakk@mm@
+d@kkay tzak -7@m -w@ kontento
+hermano/a NPL dejar-PAS -COM contento
+\egl because sibling NPL leave-PASS-COM happy
+\zoq Pitzenhjo7 7awind@kkay tzakk@mm@ kontento.
+\fts Por eso los compan~eros quedaron contento.
+\fte That's why the people were left happy.
+\ref ZOH001R043 093
+-xuk-pa porke ya 7@y 7anh -7un
+\ref ZOH001R043 094
+\mb_ya 7@y m@tzi-xuk-w@
+\sg1 NEG 3E jugar-3PL-nCOM
+\eg1 NEG 3E play -3PL-nCOM
+\zoq Tzunxukpa porke yay 7anhnhunn@xukk@.
+\fts Esta*n alegre porque no los
+\zoq Yay_m@tzixukk@.
+\fts No los jugaron.
+\fte He didn't play with them.
+\ref ZOH001R043 095
+\eg1 and DCT2-TMP 1E
+ZOH001R0431001.txt
+7@n 7ixtuktampa
+ver-terminarse-1/2PL-INC que
+-1/2PL-INC that
+te -y 7@n 7ix-tuk
+7anhnhunn@xukk@
+\mb ya -d@ juxtixa
+\sg1 DCT1-DEM autoridad
+\eg1 DCT1-DEM authority
+CAUS-trabajar-iOPT bueno
+\fts Llevemonos.
+\fte Let's get along.
+\ref ZOH001R043 074
+\mb tz@k -taanh
+\sg1 hacer-HORT
+\zoq Tz@kta*nh.
+\fte Let's do it.
+\ref ZOH001R043 075
+\tx tummanh jupp@mda*nh
+\mb tummanh jup -7@m -taanh para ke
+\sgl igual jalar-PAS -HORT para que 1E
+\egl equal pull -PASS-HORT for that 1E
+ZOH001R0431001.txt
+\sgl trabajar-INSTR1 decir-COM DEF hombre
+-INSTR1 say -COM DEF man
+7anhmayyoba*7k.
+\ref ZOH001R043 076
+\zoq 7i ga7_p@ktzonhnhoyy@ komo juxtixa.
+\fts Y e le recibio* como presidente.
+\fte And he was elected as mayor.
+\ref ZOH001R043 077
+7@n tz@k -tam -pa ya -da
+hacer-1/2PL-INC DCT1-DEM
+do -1/2PL-INC DCT1-DEM
+p@k -tzonh-7oy -wa komo juxtixa
+DCT3-NOM1 agarrar-unir -ANTIP-COM como autoridad
+BOCA -contar-ANTIP-INC-REL
+MOUTH-Count -ANTIP-INC-REL
+\zoq Ga7 7@y 7otonhnhoyy@ bi kumkuy7.
+\fts E*1 le hablo* el pueblo.
+\fte He spoke to the town.
+7@y 7otonhnhoyy@
+\sg1 DCT3-NOM1 3E hablar-ANTIP-COM DEF pueblo
+\eg1 DCT3-NOM1 3E speak -ANTIP-COM DEF town
+\ref ZOH001R043 029
+\tx si naxe teji
+\egl if truth there is a lot
+\ref ZOH001R043 030
+\zoq si naxe teji m@jm@ 7@y jente,
+\fts si de verdad tiene bastante gente,
+\fte If he really has all these people,
+\tx 7i tum@ mas Zichi*nh bi
+\mb 7i tum@ mas
+\eg1 and one more little DEF ???
+\ref ZOH001R043 031
+m@jm@ 7@y jente
+m@jm@ 7@y jente
+\zoq 7i tum@ mas 7ichi*nh, bi kwalisyo*n.
+\fts y el otro mas poquito, la qualicio*n.
+\fte and the other fewer, the qualicio*n.
+ZOH001R0431001.txt
+\tx pwes 7el ke teji
+\mb pwes 7el ke
+\sgl pues el que hay
+mas 3E gente DCT3-NOM1 DEF
+\sg1 estar_sentado-INC-REL
+\ref ZOH001R043 032
+\ref ZOH001R043 033
+\sg1 decir-cCOM DCT3-LOC1
+mas 7@y jente ka -7
+bi p@ktzonhnhoba
+bi p@k -tzonh-7oy -pa komo juxtixa
+\eg1 DCT3-NOM1 DEF get
+-join -ANTIP-INC like authority
+\zoq Ga7 bi p@ktzonhnhoba komo juxtixa.
+\fts E*1 va a recibir como autoridad.
+\fte He's the one that will be elected mayor.
+wajaka 7anhkimmoba*7
+ka -ja7 wajaka 7anh -kim -7oy -pa -v7k
+oaxaca BOCA -subir-ANTIP-INC-REL
+\ref ZOH001R043 021
+\tx 7entonses y@7
+\mb 7entonses y@ -7
+DCT1-NOM1 del PRI mas mas gente
+DCT1-NOM1 of the PRI more more people
+\zoq 7entonses y@7 del PRI, mas mas jente.
+\fts Entonces este es del PRI, mas bastante.
+\fte Then this of the PRI, much more people.
+\ref ZOH001R043 022
+\tx mas m@jm@ 7awin
+\egl more a_lot
+\zoq Mas m@jm@ 7awin7.
+\fts Mas bastante compan~eros.
+\fte Many more companions.
+bastante hermano/a
+\ref ZOH001R043 023
+\tx ye7tztz@ 7anhnamtzu 7ixxo
+\mb ye7tz -w@ 7anhnamtzu7 7ix-7oy -A
+\sg1 11egar-COM man~ana
+\egl arrive-COM morning
+ZOH001R0431001.txt
+\sg1 limones-poner Porvenir vista hermosa
+cuauhtemoc Las_Conchas-Loc2
+ver-ANTIP-nINC hermano/a NPL
+see-ANTIP-nINC sibling NPL
+\ref ZOH001R043 024
+\tx 7entonses ye7chukk@
+7entonses ye7tz -xuk-w@
+\sg1 entonces 11egar-3PL-COM
+\zoq 7entonses ye7tzxukk@.
+\fts Entonces llegaron.
+\fte Then they arrived.
+7ermosa, Kwautemok, Xokijo*7.
+Hermosa, Cuauhtemoc, Las Conchas.
+Vista Hermosa, Cuauhtemoc, and Las Conchas.
+ZOH001R0431001.txt
+\mb__ para ke n@m-7oy -pa 7@n tz@k -tam
+\tx neyti mejora
+\ref ZOH001R043 061
+\fte so that we can do some work,
+something better.
+\sg1 porque solo
+uno 1Prn tambien NEG DO -ANTIP-nINC
+\zoq Porke ney tum@ d@x ne7 ya n@mmo.
+\fts Porque yo solo tambien yo no puedo.
+\fte Because I alone also can't do it.
+\ref ZOH001R043 062
+\sgl si no pueblo AC
+\egl if no town
+\ref ZOH001R043 063
+j@nanh 7@n tz@kpa
+jananh 7@n tz@k -pa
+\zoq sị no kumkuyj@nanh 7@n tz@kpa.
+\fts Si no con el pueblo lo voy a hacer.
+\fte If not with the town I'll do it.
+2Prn-NPL2 que NEG 1A
+\sg1 NEGimpv-2E decir-1/2PL-NIMPV
+\ref ZOH001R043 064
+\tx p@n@kk@mdamm@
+p@7 -n@k -7@m -tam -w@
+\sg1 poner-irse-PAS -1/2PL-COPT
+\egl put -go -PASS-1/2PL-COPT
+\fts No digan Uds. que no nos llevamos.
+\fte Don't you say that we don't get along.
+\tx da p@n@kk@mdampa
+\mb da p@7 -n@k -7@m - tam -ра
+trabajar-INSTR1
+\mb porke yampa 7@n 7ix-tam -wa
+\sg1 porque nPERF 1E ver-1/2PL-nCOM
+\egl because nPERF 1E see-1/2PL-nCOM
+\zoq Porke yampan 7ixtamm@.
+\fts Porque no lo hemos visto.
+\fte Because we've never seen it.
+\ref ZOH001R043 115
+lo ke 7@n nam -jay -tam -pa yakka yox
+\sg1 DCT2-TMP lo que 1E decir-APPL-1/2PL-INC VOL
+\eg1 DCT2-TMP lo that 1E
+say -APPL-1/2PL-INC VOL work
+\tx komo 7es debido
+\mb komo 7es debido
+\sg1 como ser debido
+\egl how be owed
+\ref ZOH001R043 116
+\sg1 DCT2-NOM1 3E
+\eg1 DCT2-NOM1 3E
+ZOH001R0431001.txt
+\tx yakkoktijjoyy@*7
+\ref ZOH001R043 117
+say -COM DEF sibling NPL
+yak -7ok -tij-7oy -w@ -v7k
+trabajar-iOPT bueno
+\fts Eso dijo los
+compan~eros que los
+acompan~o* alla* el
+\tx primero de 7enero
+\mb primero de 7enero
+\sgl primero de enero
+\tx jemji de7xe
+7@n p@7tjadamm@
+\mb jemji7 te -7xe 7@n p@7t -jay -tam -wa
+7en 7el nobentay
+7en 7el nobenta-7i
+\ref ZOH001R043 012
+\tx peru juna*nh
+\mb peru junanh
+\ref ZOH001R043 013
+\tx si ney kumkuy y@7
+si ney kumkuy7 y@ -7
+\sgl si IPrn pueblo DCT1-NOM1
+\egl if IPrn town
+poner-1/2PL-COM hermano/a NPL
+come -INC 2E put -1/2PL-COM sibling NPL
+\zoq "Peru juna*nh minpam p@damm@, 7awind@kkay,
+\fts "Pero como vienen a ponerlo, compan~eros,
+\ref ZOH001R043 014
+\zoq si ney kumkuy7 y@7 wakxi7?
+\fts si nuestro pueblo es pequen~o?
+\fte if our town is small?
+ZOH001R0431001.txt
+\ref ZOH001R043 015
+\mb__ya n@m-7oy -A
+7@n p@7 -tam -wa
+\sg1 NEG DO -ANTIP-NINC 1E poner-1/2PL-DINC dos
+\eg1 NEG DO -ANTIP-NINC 1E put -1/2PL-DINC two
+\zoq Ya n@mmon p@damm@ metzanh juxtixa.
+\fts No podemos poner dos presidente.
+\fte we can't elect two mayors.
+DCT1-NOM1 small
+\tx 7asyeske tum juxtixa de7
+\mb 7asyeske tum juxtixa
+\sg1 asi_es_que uno autoridad DCT2-NOM1
+one authority DCT2-NOM1
+\ref ZOH001R043 016
+\zoq 7asyeske tum juxtixa de7.
+\fts Asi* es que es un presidente.
+\fte It's that it's one mayor.
+\zoq Y@j@7 7el ke gantz@kk@,
+\fts Aqui e*1 que gana,
+\fte Here the one that won,
+ya -ja7 7el ke ganar-tz@k -w@
+\sg1 DCT1-LOC1 e*1 que ganar-hacer-COM
+\eg1 DCT1-LOC1 the that earn -do
+metzanh juxtixa
+metza*nh juxtixa
+\fts pero siempre nosotros nos llevamos.
+\fte but we always get along.
+\ref ZOH001R043 056
+\tx 7anhkimmodame
+\mb 7anh -kim -7oy - tam -E
+\sg1 BOCA -subir-ANTIP-1/2PL-dCOM
+\eg1 MOUTH-mount-ANTIP-1/2PL-dCOM
+-7 ya -ji7 7@n min
+\ref ZOH001R043 057
+\tx ya mintamm@
+\fts Porque aqui venimos a mandar.
+\fte Because we came here to lead.
+ZOH001R0431001.txt
+\ref ZOH001R043 058
+n tukximetztame
+- tam -wa 7@n tukxi7-me7tz -tam -E
+\zoq Ya mintamm@n tukximetztame.
+\fts No venimos a buscar pleito.
+\fte we didn't come to look for a fight.
+\ref ZOH001R043 059
+\zoq Pitzenhjo7 dey mix n@mjadampa tum@da*nh.
+\fts Por eso ahora les digo, hagamonos uno.
+\zoq 7un kukp@ktuktamm@ kumkuy7,
+\fts No dividamos el pueblo,
+\fte Let's not divide the town,
+-7@n kuk -p@k -tuk -tam -wa
+\egl NEGimpv-1E center-get
+-1/2PL-NIMPV town
+\ref ZOH001R043 060
+\tx para ke n@mmoba
+ZOH001R0431001.txt
+\tx peru ti minpa
+\mb peru ti min -pa
+7@y tz@k -7@m -w@ tum@-v7k partidu
+\zoq Peru ti minpay tz@kk@mm@ tum@7k partidu?
+\fts Pero que pasa con el otro partido?
+\fte But what came to happen to the other party?
+\ref ZOH001R043 008
+\tx 7@y p@tt@pa
+\mb 7@y p@7 -t@7
+\sg1 3E poner-querer-INC tambien 3E
+\egl 3E put -want -INC also 3E
+\ref ZOH001R043 009
+\zoq 7@y p@tt@pa ne7 7@y juxtixa.
+\fts Quieren poner tambien sus presidente.
+\fte They want to place their mayor too.
+-ра ne7 7@y juxtixa
+\sg1 pero DCT3-NOM1 qualicio*n
+\egl but DCT3-NOM1 ???
+\zoq Pero ga7 kwalisyo*n.
+\fts Pero esos son qualicio*n.
+\fte But they're ???
+\ref ZOH001R043 010
+\tx 7entonses n@mxukpa
+\mb 7entonses n@m -xuk-pa si
+p@7 -xuk-pa 7@y juxtixa d@kkay
+say -3PL-INC yes put -3PL-INC 3E authority NPL
+\ref ZOH001R043 011
+\tx neywin ne7 7@n p@dampa,
+\mb neywin ne7 7@n p@7
+\sg1 IPrn tambien 1E
+bi kwalisio*n d@kka
+- tam -pa n@m -xuk-pa bi kwalisio*n d@kkay
+poner-1/2PL-INC decir-3PL-INC DEF qualicio*n NPL
+1E put -1/2PL-INC say -3PL-INC DEF ???
+\ref ZOH001R043 078
+-w@ 7@y 7otonh-E
+\sg1 ABAJO-vaciar-COM 3E hablar-dCOM
+\eg1 DOWN -empty -COM 3E speak -dcom
+\zoq 7okwakk@y 7otowe.
+\fts Acabo* de hablar.
+\fte He finished speaking.
+\ref ZOH001R043 079
+\sg1 irse-COM gente NPL
+\egl go -COM people NPL
+\zoq Nakk@ jented@kj@nanh.
+fts Se fue* con su gente.
+\fte He went with his people.
+\ref ZOH001R043 080
+\tx 7@y n@mjayy@
+jente d@kka 7awin
+-jay -w@ jente d@kkay 7awin7 d@kkay te -Y
+\sg1 casa -Loc2
+\egl house-LOC2
+mix 7okn@kk@damm@
+ZOH001R0431001.txt
+\ref ZOH001R043 081
+7okn@kk@damm@ gaja7k wintuk 7an t@kjo7.
+al otro lado en mi casa.
+me to the other side to my house,
+DCT1-TMP DCT3-LOC1
+\eg1 let's see what there is DCT1-TMP DCT3-LOC1
+\zoq 7abe*r ti teji yey gaja7."
+\fts aver que cosa hay alla*.'
+\fte let's see what there is there."

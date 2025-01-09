@@ -1,0 +1,52 @@
+\lex kalambre
+\_no 00907
+\SPG calambre
+\ENG cramp
+\lex kalbo
+\_no 00908
+\SPG Calvo
+\ENG Calvo
+\lex kaldu.
+\_no 00909
+\SPG caldo
+\ENG stew
+\lex kalentar
+\_no 00910
+\SPG calentar
+\ENG heat
+\lex kam
+\_no 00911
+\SPG trabarse
+\ENG get stuck
+\lex kamalyo*nh
+\_no 00912
+\SPG camaleo*n
+\ENG reptile
+\lex_ka*mara
+\_no 00913
+\SPG ca mara
+\ENG noisemakers
+\lex kambyar
+\_no 00914
+\SPG cambiar
+\ENG change
+\lex kambyo
+\_no 00915
+\SPG cambio
+\ENG exchange
+\lex kamilo
+\_no 00916
+\SPG Camilo
+\ENG Camilo
+\lex kamisa
+\_no 00917
+\SPG camisa
+\ENG shirt
+\lex kampana
+\_no 00918
+\SPG campana
+\ENG bell
+\lex kampaniya
+\_no 00919
+ZOH001R0611013.txt
+Page 73

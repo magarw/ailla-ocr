@@ -1,0 +1,63 @@
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG horchata
+\ENG a drink made with rice, cinnamon, milk and sugar
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 15/Oct/94
+\lex 7ordenh
+\_no 00457
+\LG MIG
+\PSH
+\UND 7ordenh
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG orden
+\ENG order
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 15/Oct/94
+\lex 7ornea=tz@k
+\_no 00458
+\LG MIG
+\PSH [7orneatz@k-
+\UND 7ornea=tz@k
+\MB hornear, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hornear
+\ENG to bake
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM hornear
+ZOH004R0011001.txt
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+Page 196

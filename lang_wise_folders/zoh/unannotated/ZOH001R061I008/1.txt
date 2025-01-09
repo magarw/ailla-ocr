@@ -1,0 +1,61 @@
+\id C:\SHOUT\VT2.TXT 28/Oct/04
+\lex 7um
+\_no 00001
+\SPG tirar; se le escapo*
+\ENG to spill a little something (coffee, beans) from a cup or plate
+\EX 7@y 7umm@ y+ cafe*
+\XSP tiro* su cafe*
+\XEN he spilled his coffee
+\EX 7umm@
+\XSP se le tiro*
+\XEN it spilled
+\EX 7umm@mm@ bi k@xi jemji7ok, 7@y nenkumm@ bi nik@x mexa
+\XSP se tiro* la comida en todo, en todo batio* la mesa
+\XEN the food was spilled all over, it dirtied up the table
+\ROOT 7um T2
+\SEMF fall
+\PASS 7um.7@m tirarse
+\ANTI NONE
+\CMTS
+\lex ji7tz
+\_no 00002
+\SPG arrugarse
+\ENG to become wrinkled
+\EX 7@n yakji7tzpa n kin@k
+\XSP arrugue* mi nariz
+\XEN I wrinkled my nose
+\ROOT ji7tz 12, T2
+\SEMF condition
+ZOH001R0611008.txt
+\CAUS yak.ji7tz arrugar (ropa, cara, ..)
+\CMTS
+\lex jum
+\_no 00003
+\SPG derrumbar (se) (casa, tierra, lado de algo)
+\ENG to tumble down (house, earth, side of something)
+\EX 7@y tum yakjumm@
+\xSP 1o desbarato* de una vez
+\XEN he tumbled it down at once
+\EX tak 7@y jumxukpa
+\XSP estan desbaratando la casa
+\XEN they're knocking down the house
+\EX jumm@mm@ bi t@k
+\XSP se derrumbo* la casa
+\XEN the house fell down
+\ROOT jum T2
+\SEMF break
+\CAUS yak.jum desbaratar(se); deshacer; borrar; derrumbar
+\PASS derrumbarse
+\ANTI NONE
+\CMTS is this really T2? get one w/o agent
+\lex kum
+\_no 00004
+\SPG enterrar(se)
+\ENG to bury
+\EX 7@y kumm@
+\XSP 1o enterro*
+\XEN he buried someone
+\EX kumm@
+\XSP se enterro*
+\XEN it was buried
+Page 1

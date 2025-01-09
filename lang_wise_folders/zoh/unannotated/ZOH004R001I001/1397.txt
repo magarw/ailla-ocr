@@ -1,0 +1,63 @@
+\UND tzam-w@ +P@7k
+\MB sazonarse, COM, REL
+\VAR tzamm@*7 REL
+\GRAM ps-pcp
+\SCI
+\USE
+\SPG sazo*n; una cosa sazo*n
+\ENG mature; a mature thing
+\EXU tzam-w@+@7k jay(a) wakax
+\XPSH [tzamm@7k jay wakax]
+\XSP toro sazo*n
+\XEN mature bull
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzam
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\CMTS % tzam derivation unclear
+\date 03/Jan/80
+\lex tzam. (@) p@n
+\_no 03248
+\LG MIG
+\PSH [tzam@ p@n]
+\UND tzam. @ p@n
+\MB sazonarse, NOM2, hombre
+\VAR tzaam p@n
+\GRAM sms
+\SCI
+\USE
+\SPG hombre sazo*n
+\ENG a mature man
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzam
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 10/Feb/96
+\lex tzani7
+\_no 03249
+LG MIG
+ZOH004R0011001.txt
+\PSH
+\UND tzani7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG bagazo de naranja o pin~a
+\ENG pulp of an orange or a pineapple
+\EXU 7anax(a) tzani7
+\XSP bagazo de naranja
+\XEN
+Page 1397

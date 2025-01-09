@@ -1,0 +1,80 @@
+\idx
+\ref ZOH001R044 013
+\_no 00014
+\tx kom
+ga
+d@ ropente kaw@
+\mb komo ka -7 d@ ropente ka7
+-wa
+\sg1 como DCT3-NOM1 1A ropente morirse-COM
+\egl like DCT3-NOM1 1A sudden die
+\zoq Kom ga d@ ropente kaw@.
+\fts Como es un de ropente murio*.
+\fte Like suddenly I died.
+\ref ZOH001R044 014
+\_no 00015
+\tx 7umm@ ya kotz@wake
+\mb 7umm@
+ZOH001R0441001.txt
+ya ko -tze7 -wak
+\sg1 tal vez NEG SOC-lavar-vaciar-nCOM
+\eg1 maybe NEG SOC-wash -empty -nCOM say -COM
+\zoq "Yay kotzewakxukk@.
+\fts "No le lavaron su ropa.
+\fte "They didn't wash them out.
+\com
+\idx
+\zoq 7umm@ ya kotzewakk@," n@mm@.
+\fts Tal vez no le lavaron su ropa", dijo.
+"I
+\fte Maybe they didn't get washed, she said.
+\com
+\idx
+\ref ZOH001R044 015
+\_no 00016
+\tx ya y
+kotzewakxukk@
+\mb ya 7ay ko -tze7 -wak
+\sg1 NEG 3E soc-lavar-vaciar-3PL-nCOM
+\eg1 NEG 3E SOC-wash -empty -3PL-nCOM
+\tx t@xukpa
+\mb
+t@7
+-xuk-pa
+\sg1 querer-3PL-INC
+\egl want -3PL-INC
+-wa
+\ref ZOH001R044 017
+\_no 00018
+-COM
+\ref ZOH001R044 016
+\_no 00017
+\tx kom yoma d@kkay ban nena d@kka kwandum w@j@m
+\mb
+komo yomaa7 d@kkay
+\sg1 como mujer NPL
+\egl like woman NPL
+bayun nena7 d@kkay
+muy malo NPL
+very bad
+NPL
+\tx 7alegre m witpa
+7alegre 7@m wit
+-xuk-w@
+\mb
+-ра
+\sgl alegre 2A andar-INC
+\egl happy 2A walk -INC
+n@mm@
+n@m -w@
+decir-COM
+\zoq Kom yomad@kkay ban nenad@kka, kwandum w@jam waja, 7am t@xukpa.
+\fts Como las mujeres son muy mala, cuando esta*s bueno bueno, te quieren.
+\fte Like women very bad, when you're good good, they love you.
+\com
+\idx
+waja 7@m
+kwandu-7am waja -7am waja 7@m
+cuando-2E bueno-2E bueno 2E
+when -2E good -2E good 2E
+Page 4

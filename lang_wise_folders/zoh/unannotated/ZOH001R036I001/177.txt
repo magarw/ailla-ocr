@@ -1,0 +1,78 @@
+\ref ZOH001R036 831
+\_no 00816
+\tx OSM: pwes ney
+\mb OSM
+pwes ney
+\sg1 OSM: pues mismo
+-7xe
+DCT2-SIM
+\egl OSM: well self DCT2-SIM
+\zoq OSM: Pwes, ney de7xe.
+\fts OSM: Pues, asi* mismo.
+\fte OSM: Well, the same like that.
+\com
+\idx
+\ref ZOH001R036 832
+\_no 00817
+\tx
+\mb GSM
+ney
+\sg1 GSM: mismo DCT2-SIM tambien
+\eg1 GSM: self DCT2-SIM also
+GSM: ney
+\com
+\idx
+de7x
+te
+\zoq GSM: ney de7x ne7.
+\fts GSM: Asi* mismo.
+\fte GSM: The same like that too.
+\ref ZOH001R036 833
+\_no 00818
+de7xe
+te
+OSM: para m
+\tx
+matztzoypa
+\mb OSM
+\sg1 OSM:
+para 7@m matz -7oy
+para 2A sobar-ANTIP-INC
+\egl OSM: for 2A rub -ANTIP-INC
+\ref ZOH001R036 834
+\_no 00819
+\zoq OSM: Param matztzoypa,
+\fts OSM: Para que sobes,
+\fte OSM: For massaging,
+\com
+\idx
+ne7
+-7xe ne7
+\tx dyaryu
+\mb
+dyaryu
+\sgl diario
+\egl daily
+\tx 7ay
+\mb 7ay
+\sg1 hay
+\egl there are times 1A work
+\ref ZOH001R036 835
+\_no 00820
+\zoq dyaryu.
+\fts diario.
+\fte daily.
+\zoq 7ay bese d@ yoxtampa,
+\fts hay veces trabajamos,
+\fte sometimes we work,
+\com
+\idx
+ZOH001R0361001.txt
+bese d@ yoxtampa
+beses da yox
+- tam
+veces 1A trabajar-1/2PL-INC
+-1/2PL-INC
+-pa
+-ра
+Page 177

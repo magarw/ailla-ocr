@@ -1,0 +1,63 @@
+\MB armar, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG armar, darle su arma
+\ENG to arm, to give someone his weapon
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM armar
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 12/Jun/95
+\lex 7arrepen=tz@k
+\_no 00218
+\LG MIG
+\PSH [7arrepentz@k-]
+\UND 7arrepen=tz@k
+\MB arrepentir, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG arrepentirse
+\ENG to regret
+\EXU
+\XSP
+\XEN
+\SYN
+\SPL 7arrepen=tz@k.7@m
+\SLGR PASS
+\SLGL arrepentirse
+\SEMF
+ETYM
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex 7arros
+\_no 00219
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+\UND 7arros
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG arroz
+\ENG rice
+\EXU
+\XSP
+\XEN
+Page 93

@@ -1,0 +1,78 @@
+ZOH001R0361001.txt
+\mb tzak -7@m -w@ -7am ka -g@ mal 7@m manh -kuy7 -jo7
+\sg1 dejar-PAS -COM-YA
+DCT3-DEM mal 2E
+pisar-INSTR1-LOC2
+\egl leave-PASS-COM-NOW DCT3-DEM bad 2E
+step -INSTR1-LOC2
+\zoq 7onhkem komanhwakk@m kotzepa pero tzakk@mma*m gag@ mal 7@m manhkuyjo.
+fts Aunque te limpies lo lavas peru ya quedo ese mal en tu pie.
+\fte Even though you scraped it, you wash but that bad stuff stays on your
+foot.
+\com
+\idx
+\ref ZOH001R036 555
+\_no 00546
+\tx 7i 7okmanhpa bi tuj
+7okmanh-pa bi
+\mb 7i
+tuj
+\sg] y
+empezar-INC DEF lluvia
+\egl and begin -INC DEF rain
+\zoq 71 7okmanhpa bi tuj,
+\fts Y empieza el agua,
+\fte And the rain begins,
+\com
+\idx
+\ref ZOH001R036 556
+\_no 00547
+\tx tzoko 7@m y@kmanhnh@ba
+ne7
+\mb tzoko7 7@my@k -manh -7@y-pa ne7
+\sgl lodo
+\egl mud
+2E INSTR2-pisar-SUF-INC tambien
+2E INSTR2-step -SUF-INC also
+\zoq tzoko 7@m y@kmanhnh@ba ne7,
+\fts tambien pisas el lodo,
+\fte and you step in the mud too,
+\com
+\idx
+\ref ZOH001R036 557
+\_no 00548
+gag@
+mal
+\tx 7adonde mas
+\mb 7adonde mas
+\sg1 adonde mas
+ka -g@ mal
+DCT3-DEM mal
+\egl where more leave-PASS-INC DCT3-DEM bad
+tzakk@mpa
+tzak -7@m -pa
+dejar-PAS -INC
+\zoq 7adonde mas tzakk@mpa gag@ mal.
+fts endonde mas queda esa enfermedad.
+\fte where that bad stuff stays even more.
+\com
+\idx
+\ref ZOH001R036 558
+\_no 00549
+\tx
+\mb
+GSM: mas
+y n@kk@
+GSM mas
+-7@y-pa 7@y nak -w@
+tallar-SUF-INC 3E irse-dINC
+\eg1 GSM: more scrape-SUF-INC 3E go -DINC
+\sg1 GSM: mas
+j@mm@ba
+jam
+\zoq GSM: Mas j@mm@bay n@kk@.
+\fts GSM: Mas se va agravandose.
+\fte GSM: It goes scraping in more.
+\com
+\idx
+Page 119

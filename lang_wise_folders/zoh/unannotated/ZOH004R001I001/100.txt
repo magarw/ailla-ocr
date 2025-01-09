@@ -1,0 +1,64 @@
+\USE
+\SPG sobrino/a
+\ENG nephew/niece
+\SPL
+\SLGR
+\EXU 7@n+ 7awin 7@y+ manak
+\XPSH [7@n 7awin 7@y manak]
+\XSP mi sobrino/a
+\XEN my nephew/niece
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 24/Jun/96
+\lex 7awin' tz@k.i
+\_no 00234
+\LG MIG
+\PSH [7awin tz@ki
+\UND 7awin7 tz@k.i
+\MB hermano/a, HACER, NOM7
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG 1 sobrino/a
+\SPG 2 familiar
+primo
+\SPG 3
+\ENG 1 nephew/niece
+\ENG 2 intimate friend
+\ENG 3 cousin
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 24/Jun/96
+\lex 7ax
+\_no 00235
+\LG MIG
+\PSH
+\UND 7ax
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG abrir la boca
+\ENG to open the mouth
+\SPL yak.7ax
+ZOH004R0011001.txt
+\SLGR CAUS
+\SLGL hacer que abriera la boca // to make someone open their mouth
+\SPL 7ax.ney
+\SLGR ASSUM1
+Page 100

@@ -1,0 +1,62 @@
+\ENG a type of palm
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 25/Sep/94
+\lex jojo tak
+\_no 00834
+\LG MIG
+\PSH
+\UND jojo t@k
+\MB palma, casa
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG casa de palma
+\ENG palm house
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\lex jojo wak.kuy7
+\_no 00835
+\LG MIG
+\PSH [jojo wa@kkuy7]
+\UND jojo w@k.kuy7
+\MB palma, cortar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG joz para cortar la palma
+\ENG saw for cutting palm
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT wak
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 20/Jun/95
+\lex jojo y+ tzokoy7
+ZOH004R0011001.txt
+Page 363

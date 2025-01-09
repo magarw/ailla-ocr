@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG 1 nuevo
+\SPG 2 una cosa nueva
+\ENG 1 new
+\ENG 2 a new thing
+\EXU jom(e) yanhke
+\XSP gringo nuevo
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS how is this different from pcp of jom? The latter is /jome/:TK
+\date 24/Jun/96
+\lex jom.e'.7aH
+\_no 00863
+\LG MIG
+\PSH [jome7a-]
+\UND jom.E7.7aH
+\MB X, NOM7, VERS1
+\VAR
+\GRAM versl
+\SCI
+\USE
+\SPG hacerse nuevo
+\ENG to be renewed
+\SPL
+\SLGR
+\EXU jom.e'.7aH-w@ bi x@k
+\XPSH [Jome7aw@ bi x@k.]
+\XSP Se hizo nuevo el frijol.
+\XEN The bean plant propagated itself.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS when you sow an old bean, the plant grows and creates new ones
+\date 06/Feb/96
+\lex jom.kuy7
+\_no 00864
+\LG MIG
+\PSH [jomkuy7]
+\UND jom.kuy7
+\MB cercar, INSTR1
+ZOH004R0011001.txt
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG rama que se usa para cercar
+\ENG a branch used for fencing
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+Page 376

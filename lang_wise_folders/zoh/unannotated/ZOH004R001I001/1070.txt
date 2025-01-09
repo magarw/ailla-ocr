@@ -1,0 +1,63 @@
+\MB agua, agarrar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG acarrear agua
+\ENG to cart water
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pak
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 27/Jan/96
+\lex n@'-p@n.kuy7
+\_no 02484
+\LG MIG
+\PSH [n@p@nkuy7]
+\UND_n@7=p@n.kuy7
+\MB agua, estar_puesto, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG tinaja
+\ENG large clay jar
+\EXU na'-p@n.kuy7 xuyu7
+\XPSH [n@p@nkuy xuyu7]
+\XSP tinaja
+\XEN large clay jar
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT p@n
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 27/Jan/96
+\lex n@'-t@'
+\_no 02485
+\LG MIG
+\PSH [n@t@-]
+\UND n@7-t@7
+\MB agua, querer
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG tener sed
+\ENG to be thirsty
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ZOH004R0011001.txt
+Page 1070

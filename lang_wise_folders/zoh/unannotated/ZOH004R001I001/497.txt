@@ -1,0 +1,62 @@
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex kajanh paxte' kuy
+\_no 01138
+\LG MIG
+\PSH
+\UND kajanh paxte7 kuy
+\MB tigre, espina, palo
+\VAR
+\GRAM SSS
+\SCI
+\USE
+\SPG palo de escanal
+\ENG a type of tree
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 11/Jan/96
+\lex kajanh-yak. ka'-pa+a7k p@n
+\_no 01139
+\LG MIG
+\PSH [kajanh yakkaba*7 p@n]
+\UND kajanh-yak.ka7-pa +P@7k p@n
+\MB tigre, CAUS, morirse, INC, REL, hombre
+\VAR
+\GRAM agt1: incorp
+\SCI
+\USE
+\SPG cazador de tigres
+\ENG person who hunts jaguars
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ka7
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex kajoonh
+\_no 01140
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+\UND kajoonh
+\MB
+Page 497

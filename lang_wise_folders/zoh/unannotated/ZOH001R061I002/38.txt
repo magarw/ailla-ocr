@@ -1,0 +1,62 @@
+\SEMF break
+\ASP achievement, accomplishment
+\ARG
+\NOM max. @7
+\RTGR 12
+\POS da t@pmaxjayy@n y@kwij
+\MID* maxx@mm@, good one is maxx@ k@xi
+\UNDO
+\CLZ
+\CMTS
+\lex may
+\_no 00152
+\SPG contar
+\ENG to count
+\SEMF cognitive
+\ASP activity
+\ARG
+\NOM may. kuy7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex mek
+\_no 00153
+\SPG mentir; engan*ar; chismear
+\ENG to lie; to deceive; to gossip
+\SEMF cognitivve
+\ASP activity
+\ARG
+\NOM mek.e7, mek.kuy7, ko.mek.e
+\RTGR 11
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex mekx
+\_no 00154
+\SPG medio-cerrar los ojos
+\ENG to nearly close the eyes
+\SEMF body
+\ASP achievement
+\ARG
+\NOM mekx.kuy7
+\RTGR P, (T1)
+\POS N
+\MID
+\UNDO N
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\lex me7kx
+\_no 00155
+\SPG abrazar
+\ENG to hug
+\SEMF carry
+\ASP process, transition
+\ARG
+me costuro* mal mi camisa
+Page 38

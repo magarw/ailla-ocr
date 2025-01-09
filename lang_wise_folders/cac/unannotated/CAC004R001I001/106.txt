@@ -1,0 +1,101 @@
+515. El techo de la casa se cayó.
+ixel yib'an te' pat
+ix-ø-el
+y-ib'an te'
+pat
+pas-3B-salir 3A-SR Cmadera casa
+te' pat ixel yib'an te'
+te'
+pat ix-ø-el
+y-ib'an te'
+Cmadera casa pas-3B-salir 3A-SR Cmadera
+214
+Se cayó el techo de tu casa.
+ixel yib'an te' apat
+ix-ø-el
+y-ib'an te'
+a-pat
+pas-3B-salir 3A-SR Cmadera 2A-casa
+516. El techo de la casa de mi padre se cayó.
+a yib'an te' spat winh inmam ixeli
+a
+y-ib'an te'
+s-pat
+winh_in-mam ix-ø-el-i
+top 3A-SR Cmadera 3A-casa Cmasc 1A-papá pas-3B-salir-vti
+517. El mango del machete está quebrado.
+a yok k'en machit pojeltak
+a
+y-ok k'en
+machit poj-el-tak
+top 3A-pie Cmetal machete quebrar-nmlz-pl
+a yok k'en machit jateltak
+a
+y-ok k'en
+machit jat-el-tak
+top 3A-pie Cmetal machete quebrar-nmlz-pl
+518. El agua de este pozo es mala.
+a' a' t'a jun posa tik chuklaj a'
+a'
+a'
+t'a jun posa tik chuklaj a'
+Cagua agua prep uno pozo dem malo Cagua
+519. El agua del río está sucia.
+a' a' niwan tik chuklaj a'
+a'
+a'
+niwan tik chuklaj/miktak a'
+Cagua agua grande dem malo/sucio Cagua
+520. Tengo un cinturón de piel.
+ay jun intzek'ul tz'u'um
+ay-ø jun in-tzek'-ul
+exist-3B uno 1A-cinturón-gen piel
+521. El agua de la olla está hirviendo.
+a' a' t'a yol lum chen wan sk'ak'b’i a’
+a'
+a' t'a y-ol lum chen wan s-k'ak'-b'-i
+Cagua agua prep 3A-dentro Ctierra olla prog 3A-caliente-vblz-vti Cagua
+>
+a
+522. El viento del norte es frío.
+a ik' skot t'a norte te si'ik
+a
+t'a
+tz-ø-kot
+norte te si'ik
+top viento pres-3B-venir prep norte muy frío
+ik'
+a ik' skot t'a b'aj tzem k'u te si'ik
+tz-Ø-kot
+t'a b'aj
+a
+k'u te
+tz-Ø-em
+si'ik
+ik'
+top viento pres-3B-venir prep dónde pres-3B-bajar día muy frío
+tz'u'um
+523. El costal para el café está agujereado.
+a nok' koxtal yik te' kape' olchimtak nok'
+a
+koxtal y-ik te'
+kape' olchim-tak nok'
+nok'
+top Canimal costal 3A-SR Cmadera café agujerear-pl Canimal
+524. Ese costal de café
+pesa mucho.
+a jun koxtal kape' chi' te al
+jun koxtal kape' chi' te al
+top uno costal café dem muy peso
+525. El perro negro es mío.
+a nok' k'ik' k'ik' tz'i' chi' wik nok'
+a
+nok'
+k'ik' k'ik' tz'i' chi' w-ik nok'
+top Canimal negro negro perro dem 1A-SR Canimal
+526. Ese perro negro chico es mío.
+a jun nok' yune' k'i'k' k'ik' tz'i' chi' wik nok'
+a jun nok'
+y-une' k'ik' k'ik' tz'i' chi' w-ik nok'
+top uno Canimal 3A-hijo negro negro perro dem 1A-SR Canimal
+215

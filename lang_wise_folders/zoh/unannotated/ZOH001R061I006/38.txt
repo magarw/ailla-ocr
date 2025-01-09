@@ -1,0 +1,63 @@
+\DSRC HAJ94
+\CMTS GSM doesn't accept the ASSUM1 form; that's Camilo's example
+\date 03/Jan/80
+\lex kat
+\_no 00052
+\LG MIG
+\PSH
+\UND kat
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG lamber, como perro o gato
+\ENG to lick, like a dog or cat
+\SPL kat. 7oy
+\SLGR ANTIP
+\SLGL lamber // to lick
+\SPL kat.7@m
+\SLGR PASS
+\SLGL ya esta* lambido // now it's licked
+\EXU 1 bi nu7 7@y+ kat-w@ bi n@7
+\XPSH 1 [Bi nu7 7@y katt@ bi n@7.]
+\XSP 1 El perro lambio* el agua.
+\XEN 1 The dog lapped the water.
+\EXU 2 7@y+ yak.jo.kat. '@y-w@ bi nu7 bi k@x.i
+\XPSH 2 [7@y y@kjokatt@yy@ bi nu7 bik@xi.]
+\XSP 2 El perro mete* la trompa en la comida.
+\XEN 2 The dog put his nose in the food.
+\SYN
+\SEMF animal, eat
+\ASP activity
+\ARG
+\NOM
+\SUB jo.kat, j@x-kat
+\ETYM
+\ETL
+\ROOT kat
+\RTGR T3
+\DSRC TK94
+\CMTS
+\CMTS get deriv's
+\date 03/Jan/80
+\lex kek
+\_no 00053
+ZOH001R0611006.txt
+\LG MIG
+\PSH
+\UND kek
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG 1 brincar
+\SPG 2 saltar
+\SPG 3 volar
+\ENG 1 to hop
+\ENG 2 to jump
+\ENG 3 to fly
+\SPL yak.kek
+\SLGR CAUS
+Page 38

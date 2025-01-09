@@ -1,0 +1,50 @@
+7.1.1. Directional prefixes
+The derivational prefixes in MIG Zoque are termed 'directional' because
+historically they indicated directions based on parts of the body, a common
+enough scheme in MesoAmerican languages (body part prefixes in Totonac,
+McKay 1991; directional affixes in Nahuatl, Campbell and Kartunnen, 1989).
+The full set of these prefixes and the direction or body part to which they
+correspond are shown in the table below.
+Prefix
+Paŋ
+?ok
+ho
+həš
+ko
+kə
+ni
+nik
+win
+yuk
+Gloss Code
+BOCA
+BAJO
+EN
+ATRAS
+SOC
+FUERA
+PSE
+SUP
+CARA
+ARR
+Description
+near, at the mouth
+down or south
+into, inside
+behind or on the back
+for another, or at another's house
+away, elsewhere
+not clearly related to any direction
+spattered or scattered on the surface
+in front of or on or near the face
+up
+Table 7.1: Directional prefixes
+The semantic contribution of these prefixes to the verb complex is
+sometimes clearly directional, but more commonly their contribution is shifted
+well away from any directional interpretation and may be completely
+idiosyncratic. Some of these prefixes have no discernable directional sense,
+such as ko-, SOC, which generally means "to do VERB for someone else". There
+are also many cases in which it's not clear that the prefix has contributed any
+new information to the verb complex; that is, the meaning of the prefixed form
+is the same as that of the unprefixed form. It may be that choices of optional
+151

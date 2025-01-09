@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG cubeta
+\ENG bucket
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jup
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex y@k.ju7tt@.ju7tt@.w@y
+\_no 04358
+\LG MIG
+\PSH [y@kju7tt@ju7tt@w@y-]
+\UND yak.ju7tt@.ju7tt@.w@y
+\MB X, X, X, REDUP2
+\VAR
+\GRAM Vi
+\SCI
+\USE
+\SPG "lo mete y lo saca"
+\ENG for a man to make the movement of fucking
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT %ju7tt@
+\RTGR F
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex y@k. kep
+\_no 04359
+\LG MIG
+\PSH [y@kkep]
+\UND y@k.kep.0
+\MB INSTR2, patear, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG zapato; huarache
+\ENG shoe; huarache
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+Page 1871

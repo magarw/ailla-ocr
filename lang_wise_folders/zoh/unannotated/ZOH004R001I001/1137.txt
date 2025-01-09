@@ -1,0 +1,64 @@
+\XSP 1 Saco* chispa la brasa.
+\XEN 1 The coal sparked.
+\EXU 2 pitikx-w@ jukut@k
+\XPSH 2 [Pitikx@ jukut@k.]
+\XSP 2 Saco* chispa la lumbre.
+\XEN 2 The fire sparked.
+SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pitikx
+\RTGR IX
+\DSRC TK94
+\CMTS
+\CMTS Ex not LEX; CK-EX1
+\date 19/Jun/96
+\lex pit.kuy7
+\_no 02641
+\LG MIG
+\PSH [pitkuy7]
+\UND pit.kuy7
+\MB poner_mortaja, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG mortaja
+\ENG shroud
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pit
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 19/Jun/95
+\lex piturryaal
+\_no 02642
+LG MIG
+\PSH
+\UND piturryaal
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG pitorreal; urraca
+\ENG a type of bird
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+LF: jon
+ZOH004R0011001.txt
+Page 1137

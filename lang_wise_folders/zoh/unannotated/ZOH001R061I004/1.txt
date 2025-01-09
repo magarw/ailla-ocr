@@ -1,0 +1,64 @@
+\id C:\SHOUT\NOM.TXT
+\lex 7an.e
+\_no 00001
+\LG MIG
+\PSH [7ane]
+\UND 7an. E
+\MB calentarse, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG tortilla
+\ENG tortilla
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\lex 7an.e-jax
+\_no 00002
+\ROOT 7an
+\RTGR 12
+\DSRC HAJ94
+\CMTS is this the sv/pcp of 7an- ? YES; 7ane, no /7/; but in compounds it's
+7ane7: TK
+\date 26/Jun/96
+\LG MIG
+\PSH [7anejax-]
+\UND 7an. E=jax
+\MB calentarse, NOM7, asar
+\VAR 7aanjaxx@
+\GRAM vi:incorp
+SEMF
+\SCI
+\USE
+\SPG hacer totopo
+\ENG to make totopos (thin crisp baked tortillas)
+\EXU 7an.e-jaxpa
+\XPSH [7anejaxpa.]
+\XSP Esta* hiciendo totopo.
+\XEN She's making totopos.
+\SYN
+\ETYM
+\ETL
+\ROOT 1 7an
+\RTGR 1 12
+\ROOT 2
+\RTGR 2 T1
+28/Oct/04
+jax
+\DSRC HAJ94
+\CMTS
+\date 02/Oct/96
+\lex 7an.e-jax.e7
+\_no 00003
+ZOH001R0611004.txt
+\LG MIG
+\PSH [7anejaxe7]
+\UND 7an. E=jax. E7
+\MB calentarse, NOM7, asar, NOM7
+\VAR 7aanjaxe7
+Page 1

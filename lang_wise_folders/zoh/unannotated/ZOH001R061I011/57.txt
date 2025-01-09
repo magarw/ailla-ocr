@@ -1,0 +1,59 @@
+\EX
+\XSP
+\XEN
+\ROOT wa7kx P, (T3)
+\CMTS antip wa7kx.7oy
+\CMTS no pass wa7kx.7@m *
+\lex wan
+\_no 00292
+\SPG cantar
+\ENG to sing
+\EX
+\XSP
+\XEN
+\ROOT wan T1
+\CMTS
+\lex wanak
+\_no 00293
+\SPG bajarse
+\ENG to go down
+\EX
+\XSP
+\XEN
+\ROOT wanak Il
+\CMTS caus p@k=wanak bajar
+\CMTS caus yak.wanak bajar
+\lex wanhka
+\_no 00294
+\SPG voltearse
+\ENG to turn over
+\EX
+\XSP
+\XEN
+\ROOT wanhka Il
+\CMTS caus yak. wanhka voltear; hacer volcar
+\lex wat
+\_no 00295
+\SPG amarrar; ganar
+\ENG to bind; to earn
+\EX
+\XSP
+\XEN
+\ROOT wat P, (T3)
+\CMTS antip wat.7oy
+\CMTS pass wat.7@m
+\lex wax
+\_no 00296
+\SPG morder; mascar
+\ENG to bite
+\EX
+\XSP
+\XEN
+\ROOT wax T3
+\CMTS antip wax. 7oy
+\CMTS no pass wax.7@m*
+ZOH001R0611011.txt
+\lex way
+\_no 00297
+\SPG moler
+Page 57

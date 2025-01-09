@@ -1,0 +1,97 @@
+1st
+lx
+ltz
+lw
+Wt
+yb'
+ych
+olstek
+junelxo
+meltzaj
+telwok
+niwtaj
+/n/ → [nh] /
+ixink'ayb'an
+saychaj
+jun sat → [junsat] ‘una cara'
+/n/→ [m] / _ C [labiales]
+jun pat → [jumpat] ‘una casa'
+C [velares]
+jun k'u → [junhk’u] ‘un día’
+1. Asimilación:
+1.1. La nasal alveolar se asimila al punto de articulación de la consonante
+que le sigue:
+/n/→ [n] / _ C [alveolares]
+36
+PROCESOS MORFOFONOLÓGICOS
+/tz/→ [s] / C [fricativa]
+s+tzewaj sat →
+1.2. La fricativa sibilante se asimila al modo de articulación de la africada
+que le sigue:
+/s/ → [x] / / _ C africada palatal
+tz+s+chonh+el➜
+él va a pedir
+otra vez
+—
+regresar
+caerse
+1.3. Hay una asimilación regresiva de las africadas al modo de articulación
+de la fricativa que le antecede:
+/ch/→ [x] / C [fricativa]
+x+chi winh
+enfermarse
+aprendí
+buscado
+1 [xxi'winh]
+2 [xi' winh]
+1 [schonhel]
+2 [xchonhel] 'lo vende'
+1 [ssewaj sat]
+2 [sewaj sat]
+'él dijo'
+su cara sonriente'
+1.4. Asimilación vocálica parcial influida por la altura de la vocal siguiente:
+/a/→ [e]/i
+tiknaik → [tikneik]
+'ahora'
+2. Debilitamiento de consonantes:
+2.1. La africada alveolar se hace fricativa ante consonante:
+/tz/→ [s] /_ C
+tz+yutej winh → [syutej winh]
+'él hace'
+tz+koman ko kape → [skoman ko kape] 'compramos nuestro café'
+tz+s+na'an → [sna'an]
+'él piensa'
+2.2. La velar sorda glotalizada se puede realizar sólo como cierre glotal al
+final de palabra y ante consonante:
+/k’/ → [³] / ___#
+C
+nok' → [no']
+ak'walto → [a'walto]
+'animal'
+'temprano'
+3. Elisión:
+3.1. En el contexto de dos consonantes similares fonéticamente contiguas,
+desaparece la consonante fonéticamente más débil:
+/k'+k/→ [k'] / contigüidad
+olyak'+kan → [olyak'an]
+/s+s/→ [s] / contigüidad
+s+sat → [sat]
+/b'+w/→ [b'] /contigüidad
+chab'+wan → [chab'an]
+'él lo va a dar'
+'su cara'
+'dos humanos'
+3.2. Elisión del saltillo inicial en caso de que preceda un pronombre ergati-
+VO:
+l'/→ [ø] / prefijo ergativo
+w+'e' → [we']
+'mi diente'
+3.3. En la palabra verbal la vocal alta anterior se elide al principio de pala-
+bra seguida de fricativa palatal, es decir en el aspecto completivo:
+/i/ → [ø] / # _ C fricativa palatal
+ix+in+man+a → [xinmana']
+ix+b'at winh → [xb'at winh]
+'lo compré'
+'él fue'
+37

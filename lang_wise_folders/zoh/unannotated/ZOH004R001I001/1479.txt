@@ -1,0 +1,63 @@
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex tzun [1]
+\_no 03437
+\LG MIG
+\PSH
+\UND tzun
+\MB
+\VAR
+\GRAM vi:med
+\SCI
+\USE
+\SPG gotear
+\ENG to drip
+\SPL yak.tzun
+\SLGR CAUS
+\SLGL dejar caer por gotas // to let fall by drops
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF fall, water
+\ASP semelfactive
+\ARG
+\NOM tzun.neenh
+\SUB tzun-yo'
+\ETYM
+\ETL
+\ROOT tzun
+\RTGR IX
+\DSRC HAJ94
+\CMTS get deriv's
+\CMTS v/tzun (2)
+\date 03/Jan/80
+\lex tzun [2]
+\_no 03438
+\LG MIG
+\PSH
+\UND tzun
+ZOH004R0011001.txt
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG alegrarse; estar alegre; estar contento
+\ENG to be glad; to be happy; to be content
+\SPL yak.tzun
+\SLGR CAUS
+\SLGL alegrar // to make someone happy
+\EXU tzun-pa
+\XPSH [Tzunpa.]
+\XSP se alegra.
+\XEN He is happy.
+\SYN
+\SEMF cognitive
+\ASP state
+\ARG
+\NOM
+\SUB wit=tzun
+Page 1479

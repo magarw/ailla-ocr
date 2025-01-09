@@ -1,0 +1,56 @@
+\fte Now it doesn't bleed.
+\com
+\idx
+\ref ZOH001R036 999-305
+\_no 01284
+\tx 7anto
+gay
+\mb 7entonses ka -Y
+DCT3-TMP
+DCT3-TMP
+\sg1 entonces
+\egl then
+\zoq 7anto gay,
+\fts Entonces ahora,
+\fte Now then,
+\com
+\idx
+\ref ZOH001R036 999-306
+\_no 01285
+\tx 7@y tokatz@kpa
+\mb 7@y tocar-tz@k -pa
+\sg1 3E
+\egl 3E
+7@y jaya
+7@y jaya
+tocar-hacer-INC 3E esposo AC
+touch-do -INC 3E
+husband ACC
+\zoq 7@y tokatz@kpa 7@y jayaj@nanh.
+\fts Toca con su esposo.
+\fte She touches with her husband.
+\com
+\idx
+\ref ZOH001R036 999-307
+\_no 01286
+\tx kay
+\mb ka -y
+7une
+7une7
+\sg1 DCT3-TMP nin~o/a
+\eg1 DCT3-TMP child
+\com
+\idx
+pa7tta*m
+pa7t
+ZOH001R0361001.txt
+find
+\zoq Kay 7une pa7tta*m.
+\fts Ahora ya econtro* cria.
+\fte Then she finds a child.
+-w@ - 7am
+encontrar-COM-YA
+jananh
+jananh
+-COM-NOW
+Page 276

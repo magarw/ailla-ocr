@@ -1,0 +1,64 @@
+\SPL tz@m.7oy
+\SLGR ANTIP
+\SLGL cargar // to carry
+\SPL tz@m.7@m
+\SLGR PASS
+\SLGL ser acarreado // to be carted
+\SPL tz@m.ney
+\SLGR ASSUM1
+\SLGL estar cargado, esta* puesto sobre el real, que esta* cargando // to
+be loaded, to have what you're carting loaded over the saddle
+\SPL tz@m.ten
+\SLGR PRSV
+\SLGL tener cargado // to have loaded
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF carry
+\ASP activity
+\ARG location
+ZOH001R0611006.txt
+\NOM ni.tz@m, tz@m.i, tz@m. 'oy.kuy7, tz@m.kuy7, y@k.tz@m
+\SUB j@x=tz@m, nik.tz@m. '@y, p@k-tz@m, tz@m-min, tz@m=m@tz, tz@m=n@k,
+\SUB tz@m=p@7t, tz@m=tzonh, tz@m='anh.kuk.'aH, yuk.tz@m.p@
+\ETYM
+\ETL
+\ROOT tz@m
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS Camilo rejects the ASSUM1
+\date 03/Jan/80
+\lex wa7k
+\_no 00188
+\LG MIG
+\PSH
+\UND wa7k
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG rebanar; partir fruta, como sandi*a o melo*n (con cuchillo)
+\ENG to slice; to cut up fruit, like watermelon or cantaloupe (with a
+knife)
+\SPL wa7k.7oy
+\SLGR ANTIP
+\SLGL rebanar, partir // to slice, to cut up
+\SLGR NO PASS
+\SPL wa7k.ten
+\SLGR PRSV
+\SLGL tener partido o rebanado // to have cut up or sliced
+\SPL wa7k.ney
+\SLGR ASSUM1
+\SLGL una cosa que ya lo partio* y lo tiene puesto en la mesa // something
+that you sliced and is now lying on the table
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF cut
+\ASP transition
+\ARG
+\NOM wa'k.e, wa7k.'oy.kuy7, wa7k.naanh
+Page 127

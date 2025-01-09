@@ -1,0 +1,88 @@
+ya'xo ay nok' tz'i'
+ya'-xo
+ay-ø
+nok' tz'i'
+dolor-adv exist-3B Canimal perro
+495. El perro que mató ese hombre estaba enfermo.
+a nok' tz'i' ixsmak'cham jun winh chi' penaxo ay nok'
+nok'
+a
+tz'i' ix-ø-s-mak'cham jun winh chi'
+top Canimal perro pas-3B-3A-matar uno él
+dem
+pena/ya'-xo
+ay-ø nok'
+enfermedad/dolor-adv exist-3B Canimal
+496. El perro que mató ese hombre me estaba mordiendo.
+a nok' tz'i' ixsmak'cham jun winh chi' wal inschi'elta' nok'
+a
+nok' tz'i' ix-ø-s-mak'cham jun winh chi'
+top Canimal perro pas-3B-3A-matar uno él dem
+wal in-s-chi'-el-ta'
+nok'
+enf 1B-3A-morder-DIR. afuera-adv Canimal
+497. ¿Cuál de los hombres que mataron al perro salió?
+¿mach eb' winh ixmak'ancham nok' tz'i' chi' ixeli?
+mach eb' winh ix-ø-mak'-an-cham nok' tz'i' chi'
+quién pl él pas-3B-golpear-EA-matar Canimal
+ix-ø-el-i
+perro dem
+pas-3B-salir-vti
+210
+498. Salió el hombre al que le maté al perro.
+ixel winh ixinmak'cham nok' stz'i'
+ix-ø-el
+winh ix-ø-in-mak'cham nok' s-tz'i'
+pas-3B-salir Cmasc pas-3B-1A-matar Canimal 3A-perro
+a winh ixinmak'cham nok' stz'i' ixeli
+a winh ix-ø-in-mak'cham nok'
+s-tz'i' ix-ø-el-i
+top él pas-3B-1A-matar Canimal 3A-perro pas-3B-salir-vti
+499. El hombre salió de la casa en la que mató al perro.
+winh winak ixelta' winh t'a te' pat b'aj ixsmak'cham nok' tz'i' winh
+winh winak ix-ø-el-ta' winh t'a te'
+pat
+Cmasc hombre pas-3B-salir-adv Cmasc prep Cmadera casa
+b'aj
+ix-Ø-s-mak'cham nok' tzi winh
+dónde pas-3B-3A-matar Canimal perro Cmasc
+500. Encontré el machete donde lo dejaste.
+ixilchaj k'en machit wu'uj t'a b'aj ak’nakani
+ix-ø-il-chaj k'en machit w-u'uj t'a b'aj
+pas-3B-ver-psv Cmetal machete 1A-SR prep dónde
+Ø-ak'-nak-ø-kan-i
+2A-dar-p.rem-3B-DIR. quedarse-vti
+ixilchaj k'en machit wu'uj t'a b'aj ak’nakan k'en
+ix-ø-il-chaj k'en machit w-u'uj t'a b'aj
+pas-3B-ver-psv Cmetal machete 1A-SR prep dónde
+Ø-ak'-nak-ø-kan
+k'en
+2A-dar-p.rem-3B-DIR. quedarse Cmetal
+501. Vine en camión desde donde nos separamos.
+kotin t'a k'en kamion a to t'a b'aj til kopojkan kob'a
+kot-in t'a k'en kamion a to t'a b'aj_til
+venir-1B prep Cmetal camión top nex prep dónde
+ko-poj-kan
+ko-b'a
+1A-romper-DIR. quedarse 1A-rcp
+que tiene agua.
+ik'ot k'en limeta t'ay in t'a b'aj ayem a' a'
+ik'-kot
+k'en limeta t'ay in t'a b'aj
+portar-DIR.acá Cmetal botella prep 1B
+ay-g-em
+a'
+exist-3B-DIR.abajo Cagua agua
+prep donde
+a'
+502. Dame la botella
+503. Dame una botella que tenga agua.
+ik'ot junok limeta t'ay in junok b'aj ayem a' a'
+ik'-kot
+jun-ok limeta t'ay in jun-ok b'aj
+portar-DIR.acá uno-IRR botella prep 1B uno-IRR donde
+ay-g-em
+exist-3B-DIR.abajo Cagua agua
+a'
+a'
+211

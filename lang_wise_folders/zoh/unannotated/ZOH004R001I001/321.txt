@@ -1,0 +1,65 @@
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG cucharra de morro; cucharra de peltre
+ENG clay spoon
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN ni.jepx
+\SEMF
+\ETYM
+\ETL
+\ROOT jepx
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+\lex je7p
+\_no 00744
+\LG MIG
+\PSH
+\UND je7p
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pescar con manta
+\ENG to fish with a cloth
+\EXU 1 tij-w@ 7@y+ je'p-E
+\XPSH 1 [Tijj@y jepe.]
+\XSP 1 Fue* a pescar con manta.
+\XEN 1 She went to fish with a cloth.
+\EXU 2 7@y+ je7p-pa koke
+\XPSH 2 [7@y je7ppa koke.]
+\XSP 2 Pesca con manta.
+ZOH004R0011001.txt
+\XEN 2 He's catching fish with a cloth.
+\SPL je7p.7oy
+\SLGR ANTIP
+\SLGL pescar con manta // to fish with a cloth
+\SPL
+je7p.7@m
+\SLGR NO PASS
+\SPL je7p.ney
+\SLGR ASSUM1
+\SLGL estar adentro del agua la manta // to have the cloth positioned in
+the water
+\SPL je7p.ten
+\SLGR PRSV
+\SLGL tener la manta dentro del agua // to have the cloth positioned in the
+water
+\SYN
+\SEMF hunt
+\ASP activity
+\ARG instrument
+\NOM je7p.kuy7
+\SUB_j@x=je7p, nik.je7p.'@y, win-je7p, yuk.je7p
+\ETYM
+\ETL
+\ROOT je7p
+Page 321

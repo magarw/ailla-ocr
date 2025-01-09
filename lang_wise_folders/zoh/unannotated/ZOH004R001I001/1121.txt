@@ -1,0 +1,64 @@
+ZOH004R0011001.txt
+XEN 3 She swept the patio ahead of time.
+\SYN
+\SEMF clean
+\ASP activity
+\ARG
+\NOM pet.kuy7
+\SUB pet-tuk
+\ETYM
+\ETL
+\ROOT pet
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex pet.kuy7
+\_no 02605
+\LG MIG
+\PSH [petkuy7]
+\UND pet.kuy7
+\MB barrer, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG escoba
+\ENG broom
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pet
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 12/Aug/94
+\lex pet.kuy' kuy
+\_no 02606
+\LG MIG
+\PSH [petkuy kuy]
+\UND pet.kuy7 kuy
+\MB barrer, INSTR1, arbol
+\VAR
+\GRAM instrlms
+\SCI
+\USE
+\SPG palo para escobas
+\ENG a tree for making brooms
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+LF: kuy
+Page 1121

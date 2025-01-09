@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG muy; mucho
+\ENG very
+\SPL
+\SLGR
+\EXU ban tuk-w@
+\XSP muy bonito
+\XEN very pretty
+\EXU ban waja
+\XSP muy bonito
+\XEN very good
+\EXU ban y@k.y@k
+\XSP muy negro
+\XEN very black
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC
+\CMTS
+\date 26/Jun/96
+\lex bayun tuk
+\_no 00552
+LG MIG
+\PSH
+\UND bayun tuk
+\MB muy, terminarse
+\VAR ban tuk
+\GRAM vi
+\SCI
+\USE
+\SPG muy bonito/a
+\ENG very pretty
+\EXU bayun tuk-pa
+\XPSH [Bayun tukpa.]
+\XSP Es muy bonito.
+\XEN She's very pretty.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT tuk
+\RTGR 12
+\DSRC HAJ94
+\CMTS get deriv's; restructure entry
+\date 09/Jan/96
+\lex bejcha
+\_no 00553
+\LG MIG
+\PSH
+\UND bejcha
+\MB
+\VAR bescha7 [/7/ comes and goes]
+\GRAM S
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG caballo; bestia
+\ENG horse
+\EXU
+Page 238

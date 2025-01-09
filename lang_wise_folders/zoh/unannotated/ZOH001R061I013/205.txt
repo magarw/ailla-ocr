@@ -1,0 +1,53 @@
+\_no 02567
+\SPG peinar
+\ENG comb
+\lex w@7tz
+\_no 02568
+\SPG rechinar
+\ENG squeak
+\lex w@xtujta*nh
+\_no 02569
+\SPG siete
+\ENG seven
+\lex w@xt@kji
+\_no 02570
+\SPG pasado_man*ana
+\ENG day_after_tomorrow
+\lex w@xt@kpi7t
+\_no 02571
+\SPG tras_pasado
+\ENG day_after
+\lex w@y
+\_no 02572
+\SPG ITER2
+\ENG ITER2
+\lex way
+\_no 02573
+\SPG tener_tin~a
+\ENG have_spots
+\lex w@y
+\_no 02574
+\SPG DEPOS
+\ENG DEPOS
+\lex xa7
+\_no 02575
+\SPG INTENS
+\ENG INTENS
+\lex xaj
+\_no 02576
+\SPG sobaco; ala
+\ENG armpit; wing
+\lex xaja
+\_no 02577
+\SPG corriente
+\ENG stream
+\lex xajjo
+\_no 02578
+\SPG brazada
+\ENG arms_width
+\lex xaka7
+\_no 02579
+\SPG cascabillo
+\ENG
+ZOH001R0611013.txt
+Page 205

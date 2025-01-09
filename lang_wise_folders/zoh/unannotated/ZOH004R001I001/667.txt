@@ -1,0 +1,65 @@
+\XSP 2 Se enterro*.
+\XEN 2 It was buried.
+\EXU 3 kum-@-wa
+\XPSH 3 [Kum@w@.]
+\XSP 3 Lo enterraron.
+\XEN 3 They (someone) buried it.
+EXU 4 7@y kum-xuk-w@
+\XPSH 4 [7@y kumxukk@.]
+\XSP 4 Lo enterraron.
+\XEN 4 They buried it.
+\EXU 5 7@y+ jam-kum-w@ bi x@k
+\XPSH 5 [7@y jamkumm@ bi x@k.]
+\XSP 5 Sembro* en seco el frijol.
+\XEN 5 They sowed the beans dry.
+\SYN
+\SEMF cover
+\ASP achievement, activity
+\ARG
+\NOM kum.i7, kum.kuy7
+\SUB_7ok. '@kx-kum. '@y, jo.kum, j@x-kum, kum=pu', k@.kum, nik.kum. '@y
+\ETYM
+\ETL
+\ROOT kum
+\RTGR T2
+\DSRC HAJ94
+\CMTS CK-PH of EX3
+\CMTS HAJ: 96
+\date 03/Jan/80
+\lex kuma7
+\_no 01537
+\LG MIG
+\PSH
+\UND kuma7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG coyol
+\ENG a type of tree
+\EXU
+\XPSH ko.mu7k.wak.e kuma7
+\XSP un coyol chupado
+\XEN a dried-up coyol tree
+\SYN
+\SEMF EB
+LF:7okox - kuy
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 24/Jun/96
+\lex kumane7
+\_no 01538
+\LG MIG
+ZOH004R0011001.txt
+says EX3 is fine and that it means the same as 7@y kumxukk@
+\PSH
+\UND kumane7
+\MB
+\VAR
+\GRAM S
+\SCI
+Page 667

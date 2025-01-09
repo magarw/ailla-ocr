@@ -1,0 +1,47 @@
+184 bia baicomaquin
+bia baico-ma-quin
+2PERS.A << couvrir la tête »-CAUS-OST1
+elles t'ont recouvert la tête
+185 bia huuicomaquin
+bia huuico-ma-quin
+2PERS.A << attacher aux mollets »-CAUS-OST1
+elles t'ont recouvert les mollets
+186 diso huuicomaquin
+diso huuico-ma-quin
+convulsion << attacher aux mollets »-CAUS-OST1
+les convulsions ont recouvert tes mollets
+187 bia imarasia
+bia i-ma-rasi-a
+2PERS.A AUX.INTR-CAUS-nombreux-ACC
+nombreuses elles t'ont fait être ainsi
+188 bia oiaforo
+bia oi-a-fo-ro
+2PERS.A voir-ACC-PL-CONTR.EX
+elles t'ont fait voir
+189 oitauiaquian
+oi-taui-a-quian
+voir-commencer-ACC-OST2
+elles ont commencé à te faire voir
+190 //oa tapitiofo//
+oa tapi-tio-fo
+DEM luciole-taille-PL
+quelque chose de la taille des lucioles 101
+191 ahuun diso paura
+ahuun diso pau-ra
+3POSS convulsion puissant-ASS
+leurs puissantes convulsions
+192 bia futopimaquin
+bia futopi-ma-quin
+2PERS.A << être proche du visage »>-CAUS-OST1
+elles se montrent de près
+193 diso futopimaquin
+diso futopi-ma-quin
+convulsion << être proche du visage »>-CAUS-OST1
+les convulsions se montrent de près
+194 bia bapo foria
+bia bapo fori-a
+2PERS.A tête << bouger rythmiquement >>-ACC
+ta tête s'est balancée
+101
+Il ne s'agit pas exactement de « lucioles » : /cocoshi/ « luciole » ; /tapi/ « petite luciole clignotante ».
+106

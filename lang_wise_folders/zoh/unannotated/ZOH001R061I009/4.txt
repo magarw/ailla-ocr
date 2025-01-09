@@ -1,0 +1,63 @@
+\_no 00011
+\SPG palanquear (madera)
+\ENG to use a lever on; to pry up
+\EX 7@y 7@7pxukk@
+\xSP 1o palanquearon
+\XEN they pried it up
+\EX 7@7p@mm@ bi kuy
+\XSP se palanqueo* la madera
+\XEN the board was pried up
+\ROOT 7@7p P (T3)
+\SEMF instr, position
+\PASS 7@7p.7@m
+\ANTI 7@7p.7oy
+\ASSU 7@7p.ney
+\PRSV 7@7p.ten
+\CMTS term tuk
+\lex ja7p
+\_no 00012
+\SPG moler; quebrajar (maiz, arroz)
+\ENG to grind; to crush (corn, rice)
+\EX ja7pp@mm@ bi mok
+\XSP se quebrajo* el maiz
+\XEN the corn was ground
+\ROOT ja7p T3
+\SEMF Cook, corn
+\PASS ja7p.7@m molerse
+\ANTI ja7p.7oy moler
+\PRSV ja7p.ten
+\CMTS term tuk
+\CMTS to crush/grind something in the metate
+\lex jay
+\_no 00013
+ZOH001R0611009.txt
+\SPG escribir
+\ENG to write
+\EX toto jayy@
+\XSP escribio* (algo) en el papel
+\XEN she wrote something on the paper
+\EX jayy@mm@ bi toto
+\XSP fue* escrito el papel
+\XEN the paper was written
+\EX 7@y jaytenna*m bi toto g@xil
+\XSP ya lo tiene escrito en el papel
+\XEN now she has it written on the paper
+\ROOT jay T3
+\SEMF create, cog
+\PASS jay.7@m escribirse
+\ANTI jay.7oy escribir; escritura
+\PRSV jay.ten
+\CMTS term tuk
+\lex jeken
+\_no 00014
+\SPG enrollar mecate, alambre, bejuco...
+\ENG to coil
+rope, wire, vine...
+\EX 7@y jekentenn@
+\XSP lo tiene enrollado
+\XEN he's got it rolled up
+\EX jekenn@mm@ tzajin
+\XSP se enrosco* la vi*bora
+\XEN the snake coiled itself (was coiled)
+\ROOT jeken P (T3)
+Page 4

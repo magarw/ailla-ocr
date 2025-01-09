@@ -1,0 +1,63 @@
+\lex 7ok-tzu<7-A>n@m
+\_no 00398
+\LG MIG
+\PSH [7oktzu7an@m-]
+\UND 7ok-tzu7.7aH-An@m
+\MB ABAJO, noche, VERS1, INDEF
+\VAR 7oktzun@mm@
+\GRAM vi:indef
+\SCI
+\USE
+\SPG oscurecerse
+\ENG for night to fall
+\EXU 7ok.tzu7. An@m-w@+ 'am
+\XPSH [7oktzun@mma*m.]
+\XSP Ya se oscurecio*.
+\XEN Now it's dark.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-GR/PH should be @n@m
+\CMTS HAJ:96
+\date 24/Jun/96
+\lex 7ok.tzuj. '@y
+\_no 00399
+\LG MIG
+\PHO [7oktzujj@y-]
+\UND 7ok.tzuj.7@y
+actually elides that vowel every time
+\MB ABAJO, escupir, SUF
+\VAR
+\GRAM vt
+\SPG escupir
+\ENG to spit
+\EXU 7@y+ 7ok.tzuj.'@y-w@ katzu7
+\XPSH [7@y 7oktzujj@yy@ katzu7.]
+\ROOT tzuj
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\XSP Escupio* algo agrio*.
+\XEN She spit out something bitter.
+\SYN
+\lex 7ok-tzu'. 7aH
+\_no 00400
+\LG MIG
+\PSH [7oktzu7a-]
+\UND 7ok-tzu7.7aH
+\MB ABAJO, noche, VERS1
+\VAR
+\GRAM vers1
+\SCI
+\USE
+\SPG hacerse oscuro
+ZOH004R0011001.txt
+\ENG to get dark
+\SPL
+\SLGR
+\EXU
+Page 171

@@ -1,0 +1,66 @@
+\_no 01321
+\LG MIG
+\PSH [kojp@k-]
+\UND koj=p@k
+\MB encajar, agarrar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG agarrar encajado; ensartar
+\ENG to string; to skewer
+\EXU 7@y+ koj-p@k-w@ bi yote7
+\XPSH [7@y kojp@kk@ bi yote7.]
+\XSP Lo agarro* encajado.
+\XEN She picked up several stitches.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 koj
+\RTGR 1 T3
+\ROOT 2 p@k
+\RTGR 2 T3
+\DSRC TK94
+\CMTS
+\date 19/Jun/95
+\DATE 09/Aug/02
+\lex koj-tzi7k.tzi7k
+\_no 01322
+to grab with a pointed stick ?
+\LG MIG
+\PSH [kojtzi7ktzi7k]
+\UND koj-tzi7k.tzi7k
+\MB encajar, X, X
+\VAR
+\GRAM SR
+\SCI
+\USE
+\SPG pegapega
+\ENG a type of plant
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT koj
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 19/Jun/95
+LF:7okox
+\lex kojtzo niwi7
+\_no 01323
+\LG MIG
+\PSH
+\UND kojtzo niwi7
+\MB
+\VAR
+\GRAM x (m)s
+\SCI
+\USE
+ZOH004R0011001.txt
+tzamm@7
+Page 577

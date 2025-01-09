@@ -1,0 +1,63 @@
+\XEN The garbage is piled up.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ji7p
+\RTGR P, (T3)
+\DSRC TK94
+\CMTS EX1 goes elsewhere
+\date 06/Feb/96
+\lex ji7p-pitikx
+\_no 00787
+\LG MIG
+\PSH [ji7ppitikx-]
+\UND ji7p=pitikx
+\MB mover_con_palito, echar_chispas
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer chispa por mover las brazas con palito
+\ENG to make sparks by poking the coals with a stick
+\EXU 7@y+ ji7p-pitikx-w@ bi jukut@k
+\XPSH [7@y ji7ppitikx@ bi jukut@k.]
+\XSP Hizo que eche chispa la lumbre por mover las brazas con palito.
+\XEN He made the fire spark by poking the coals with a stick.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ji7p
+\RTGR P (T3)
+\ROOT pitikx
+\RTGR IX
+\DSRC HAJ02
+\CMTS
+\DATE 09/Aug/02
+\lex ji7p-p@k
+\_no 00788
+\LG MIG
+\PSH [ji7pp@k-]
+\UND ji7p=p@k
+\MB mover_con_palo, agarrar
+\VAR
+\GRAM vt
+\SPG agarrar con palo
+\ENG to get with a stick
+\SPL
+\SLGR
+\EXU 7@y+ ji7p-p@k-w@
+\XPSH [7@y ji7pp@kk@.]
+\XSP Lo agarro* con una vara.
+\XEN She got it with a stick.
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ROOT 1 ji7p
+\RTGR 1 P, (T3)
+\ROOT 2 p@k
+\RTGR 2 T3
+\DSRC HAJ96
+\CMTS
+Page 342

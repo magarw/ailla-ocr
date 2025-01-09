@@ -1,0 +1,64 @@
+\lex k@nh [1]
+\_no 00079
+\LG MIG
+\PSH
+\UND k@nh
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pintar
+\ENG to paint
+\SPL k@nh.7oy
+\SLGR ANTIP
+\SLGL pintar // to paint
+\SPL k@nh.7@m
+\SLGR PASS
+\SLGL pintarse // to be painted
+\EXU 1 y@7.p@+pi7t d@+ nea'=k@nh-pa
+\XPSH_1 [Y@p@pi7t_d@ neak@nhpa.]
+\XSP 1 Con esto pinto la pared.
+(entonces, es la brocha)
+\XEN 1 with this, I paint the wall. (so it's a brush)
+\EXU 2 k@nh.7@m-w@ bi nea7
+\XPSH 2 [K@nhnh@mma bi nea7.]
+\XSP 2 Pintaron la pared. (impersonal)
+\XEN 2 They painted the wall. (impersonal)
+\SYN
+\SEMF clean
+\ASP activity
+\ARG
+ZOH001R0611006.txt
+\NOM win-k@w.i7
+\SUB k@nh-ko.wak, win-k@nh-wak, yuk.k@nh
+\ETYM
+\ETL
+\ROOT k@nh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\CMTS is k@nh-w@ `pintado; se pinto*' a middle voice or a pseudo-participle?
+\date 03/Jan/80
+\lex k@.tuk
+\_no 00080
+\LG MIG
+\PSH [k@tuk-]
+\UND k@.tuk
+\MB FUERA, cortar
+\VAR
+\GRAM vt, vi
+\SCI
+\USE
+\SPG peluquearse, rasurar
+\ENG to barber, to shave
+\SPL k@.tuk. 7oy
+\SLGR ANTIP
+\SLGL rasurar // to shave
+\SPL k@.tuk.7@m
+\SLGR PASS
+\SLGL rasurarse // to be shaven
+\EXU
+\XSP
+\XEN
+Page 55

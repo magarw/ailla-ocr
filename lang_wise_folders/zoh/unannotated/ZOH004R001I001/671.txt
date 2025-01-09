@@ -1,0 +1,63 @@
+ZOH004R0011001.txt
+\CMTS HAJ:96 it's an /m/ he closes his lips; OK/TK
+\date 24/Jun/96
+\lex kumpan mama
+\_no 01546
+\LG MIG
+\PSH
+\UND kumpan mama
+\MB compadre, madre
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG madrina
+\ENG godmother
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH ok HAJ:96
+\date 18/Jun/96
+\lex kumpan manak
+\_no 01547
+\LG MIG
+\PSH
+\UND kumpan manak
+\MB compadre, hijo/a
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG ahijado/a
+\ENG godson; goddaugter
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH ok HAJ:96
+\date 18/Jun/96
+\lex kum.pu'
+\_no 01548
+-
+\LG MIG
+\PSH [kumpu-]
+\UND kum. pu7
+\MB enterrar, RVS
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG desenterrar
+\ENG to dig up
+Page 671

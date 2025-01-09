@@ -1,0 +1,71 @@
+\mb 7i
+\sg] y
+te -7xe bi mal tzak -7@m -pa
+DCT2-SIM DEF mal dejar-PAS -INC
+\eg1 and DCT2-SIM DEF bad leave-PASS-INC
+\zoq 7i de7xe bi mal tzakk@mpa.
+\fts Y asi* es que queda ese mal.
+\fte And that's how that sickness is left.
+\com
+\idx
+\ref ZOH001R036 759
+\_no 00745
+wayay
+\tx kom
+\mb komo wayay7
+\sg1 como frio
+\egl like cold
+t@kk@yy@
+tak -7@y -wa
+casa -VERS2-COM
+house-VERS2-COM
+\zoq Kom wayay t@kk@yy@.
+\fts Como le entro* frio.
+\fte Like the cold enters in.
+\com
+\idx
+\ref ZOH001R036 760
+\_no 00746
+\tx p@7tt@
+\mb p@7t -wa
+de 7
+wayay
+te -7
+wayay7
+\sg1 pasar-COM DCT2-NOM1 frio
+\egl pass -COM DCT2-NOM1 cold
+\zoq P@7tt@ de 7 wayay.
+fts Paso* ese frio.
+\fte That cold passed.
+\com
+\idx
+\ref ZOH001R036 761
+\_no 00747
+\tx 7i bi 7oje
+\mb
+pwes
+7i bi
+pwes
+\sg] y DEF toser-NOM2 pues
+\eg1 and DEF cough-NOM2 well
+7oj -E
+ZOH001R0361001.txt
+\zoq 7i_bi 7oje, pwes...
+\fts Y la tos pues...
+\fte And well, the cough...
+\com
+\idx
+\ref ZOH001R036 762
+\_no 00748
+\tx 71 d@x ya mix juktzi7
+\mb 7i d@x ya mix juk -E -tzi7-A7
+\sg] y
+1Prn NEG 2>1 fumar-NOM2-dar -IMPV
+\eg1 and 1Prn NEG 2>1 smoke-NOM2-give-IMPV
+\zoq 7i d@x ya mix juktzi?
+\fts y yo no me das un cigarro?
+\fte and I, won't you give me a cigarette?
+\com
+\idx
+\ref ZOH001R036 763
+Page 162

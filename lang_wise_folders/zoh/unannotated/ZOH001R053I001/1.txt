@@ -1,0 +1,87 @@
+\id C:\TEXTS\ZOH001R053.TXT
+\ref ZOH001R053 000
+\_no 00001
+\zoq Un Dia de una Ama de Casa
+\fts Un Di*a de una Ama de Casa
+\fte A Housewife's Day
+\com narrado por Ti*ofila Sa*nchez Morales
+\com 9/5/96, en San Miguel Chimalapa, Oaxaca, Mexico
+\com grabado por GSM, transcrito por HAJ,
+\com traducido al espan~ol por GSM,
+\com analisado y traducido al ingles por HAJ.
+\com
+\com
+\com 7
+\com narrated by Ti*ofila_Sanchez Morales
+\com 5/9/96, in San Miguel Chimalapa, Oaxaca, Mexico
+\com recorded by GSM, transcribed by HAJ,
+\com translated into Spanish by GSM,
+\com analyzed and translated into English by HAJ.
+Ortografi*a
+Orthography
+\com @
+\com nh
+\com tz
+\com x
+\com j
+\com *
+pau*sula glotal
+vocal medio central
+nasal velar
+ZOH001R0531001.txt
+28/Oct/04
+(ng)
+africativo alveolar (ts)
+fricativo palatal
+glottal fricative (h)
+(sh)
+estre s
+\ref ZOH001R053 001
+\_no 00002
+montanya.
+\tx pwes d@x 7@n jaya
+\mb pwes d@x
+7@n jaya
+montanya
+\sgl pues 1Prn 1E
+esposo irse-INC montan~a
+\egl well 1Prn 1E husband go -INC mountains
+\idx
+\ord V AV AV V
+glottal stop
+mid central vowel
+velar nasal
+n@kpa
+n@k -pa
+alveolar affricate
+palatal fricative
+stress
+\zoq Pwes, d@x 7@n jaya n@kpa montanya.
+\fts Pues, yo mi marido va en la montan~a.
+\fte well, I and my husband go into the mountains.
+\com
+\idx
+\ord S V Av
+7@n jukutnekk@nhnh@ypa
+\ref ZOH001R053 002
+\_no 00003
+montanya
+7anhnamtzu yuktenpa.
+\tx n@kpa
+\mb n@k -pa montanya 7anhnamtzu7 yuk-ten -pa
+\sgl irse-INC montan~a man~ana
+\egl go -INC mountains morning
+ARR-pararse -INC
+UP -stand -INC
+\zoq N@kpa montanya, 7anhnamtzu yuktenpa.
+\fts Se va en la montan~a, muy de man~ana se levanta.
+\fte He goes into the mountains, he gets up early in the morning.
+\com
+\ref ZOH001R053 003
+\_no 00004
+\tx
+\mb 7@n jukut@k-nek
+-kanh
+\sgl 1E lumbre -estivar-quemarse-SUF-INC
+-7@y-pa
+Page 1

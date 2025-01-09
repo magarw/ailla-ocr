@@ -1,0 +1,63 @@
+\DATE 03/Jan/1980
+\lex ko-popo7
+\_no 01429
+\LG MIG
+\PSH [kopopo7]
+\UND ko7=popo7
+\MB CAB, blanco
+\VAR
+\GRAM S (BA-ed)
+\SCI
+\USE
+\SPG cabeza de viejo
+\ENG a type of animal
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+ETYM
+\ETL
+\ROOT KO7= (s:prp) `head', popo7 (A) `white'
+\DSRC HAJ94
+\CMTS type of wild dog or coyote
+\date 29/Jan/96
+\lex ko.po7t
+\_no 01430
+LF:7anmal
+\LG MIG
+\PSH [kopo7t-]
+\UND ko.po7t
+\MB OTRO, moler
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG repasar la molida para hacerla ma*s fina
+\ENG to regrind the corn to make it finer
+\EXU 7@n+ ko.po7t-w@ 7@n+ kajwe
+\XPSH [7@n kopo7tt@n kajwe.]
+\XSP Remoli* mi cafe*.
+\XEN I reground my coffee.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT po7t
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 31/Mar/95
+\DATE 09/Aug/02
+\lex ko.po7t=yoj
+\_no 01431
+ZOH004R0011001.txt
+\LG MIG
+\PSH [kopo7tyoj-]
+\UND ko.po7t=yoj
+\MB OTRO, moler, cambiar
+\VAR
+\GRAM vt
+\SCI
+\USE
+Page 622

@@ -1,0 +1,30 @@
+PENERALI KO
+192
+numeral noun (n), specifier noun (sp), intransitive verb (iv),
+transitive verb (tv), positional (pos), stative (st), and par-
+ticle (p). The phrases marked are noun phrase (NP), verb
+phrase (VP), stative phrase (SP), and particle phrase (PP).
+In the analyses of sentence structure, these phrases are
+marked according to their sentence function as introductory
+phrases (Intro), topic phrases (Topic), pre-posed adverbial
+phrases (Pre-Adv), main phrases (Main), object phrases (Obj),
+subject phrases (Subj), post-posed adverbial phrases (Post-
+Adv), and sentence clitic (Clitic). Sentences are marked S;
+the structures of embedded sentences are analyzed in the same
+format as the enclosing sentences. Lines connect related el-
+ements in the different levels of analysis. Where morphs
+have no appropriate gloss (as in the case of most suffixes)
+an asterisk appears in the gloss. Lines of dashes connect
+linked sentences.
+The third and fourth texts are the initial fragments
+of longer texts. The third text is the beginning of an auto-
+biography of the major informant. The fourth text is the
+first of a series of coyote-rabbit stories related by a
+speaker from Patalcal (/pát ?álkál/), a Chuj-speaking hamlet
+located about ten kilometers northwest of San Mateo Ixtatán,
+in the municipio of San Mateo Ixtatán. The third and fourth
+texts are presented in a format similar to that used in the
+presentation of the second text, but without the internal
+analysis of embedded sentences, which are marked simply as
+noun phrases, and without structural trees.
+NA

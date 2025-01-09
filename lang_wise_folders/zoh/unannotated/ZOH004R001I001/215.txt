@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG engan~ar
+\ENG to deceive
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN mek
+\SEMF speak, cognitive
+\ASP activity
+\ARG
+\NOM 7anh. 'un. 'oy.kuy7
+\SUB 7anh.'un. 'otonh, 7anh. 'un. '@y
+\ETYM
+\ETL
+\ROOT 7un
+\RTGR TX
+\DSRC HAJ95
+\CMTS ya no usa, pero puede entenderlo
+\CMTS 7unnaw@ //7un.7a-w@// se engan~o*
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex 7une7
+\_no 00501
+\LG MIG
+\PSH
+\UND 7une7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG nin~o/a; criatura
+\ENG child; infant
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex 7une7 y@k.monh
+\_no 00502
+\LG MIG
+\PSH [7une y@kmonh]
+\UND 7une7 y@k.monh.0
+\MB nin~o/a, INSTR2, dormir, NOM6
+\VAR
+\GRAM s (m) sv0
+\SCI
+\USE
+\SPG cuna
+ZOH004R0011001.txt
+\ENG cradle
+\EXU
+\XSP
+Page 215

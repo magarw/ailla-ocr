@@ -1,0 +1,85 @@
+\ref ZOH001R011 008
+\_no 00009
+\tx n@mpa
+\mb n@m
+7i
+-pa 71
+\sg1 decir-INC y
+\egl say
+\tx 7aber
+\mb 7aber
+\ref ZOH001R011 009
+\_no 00010
+-ji7
+DCT2-LOC1
+-INC and DCT2-LOC1 Satornino house-LOC2
+\zoq Nampa, "7i tey Satornino t@kjo7.
+\fts Dice, "Alli* esta* Satornino en la casa.
+\fte He says, "And there is Satornino at home.
+\com
+\idx
+teji
+te
+sin@kpa
+si n@k -pa
+\sg1 aver
+si irse-INC 3E
+\eg1 let's see if go -INC 3E
+\ref ZOH001R011 010
+\_no 00011
+\tx n@mwejtam@
+\mb
+n@m-wej
+\zoq 7aber si n@kpay winwitt@.
+\fts Aver si va con ellos.
+\com
+\idx
+fte Let's see if he will guide them.
+\com
+\idx
+-tam -A7
+\sg1 DO -gritar-1/2PL-IMPV
+\eg1 DO -shout -1/2PL-IMPV
+satornino t@kjo7
+satornino t@k
+-jo7
+Satornino casa -Loc2
+\zoq N@mwejtam@."
+\fts vaigan a llamarlo.
+"I
+\fte Go call him.
+ZOH001R0111001.txt
+\ref ZOH001R011 011
+\_no 00012
+у
+winwitt@
+Žay
+7@y win -wit -w@
+CARA-andar-dINC
+FACE-walk -dINC
+\tx
+7entonse tij
+y
+wejjayxuki
+\mb entonces tij-w@ 7@y wej -jay -xuk-E
+\sg1 entonces ir -COM 3E gritar-APPL-3PL-dCOM
+\egl then
+go -COM 3E shout -APPL-3PL-dCOM
+\zoq 7entonse tij y wejjayxuki.
+\fts Entonces fueron a llamarlo.
+\fte so they went to call him.
+\com
+\idx
+\ref ZOH001R011 012
+\_no 00013
+\tx ye7tztz@ satornino naxe
+\mb
+juxtix
+7anhji7
+ye7tz -w@ satornino naxe juxtixa 7anhji7
+\sg1 11egar-COM Satornino verdad autoridad LOC3
+\egl arrive-COM Satornino truth authority LOC3
+\zoq Ye7tztz@ Satornino naxe juxtix7anhji7.
+\fts Llego* Satornino de veras ontal presidente.
+\fte In fact, Satornino arrived at the mayor's.
+Page 3

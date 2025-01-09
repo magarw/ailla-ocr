@@ -1,0 +1,69 @@
+\zoq Yukp@kk@ 7@y kaxajo7.
+\fts Lo levanto* en su baul.
+\fte He put it up in his trunk.
+\com
+\idx
+\not
+\idx
+\ref ZOH001R020 052
+\_no 00053
+\tx 7@y n@mjayxta*7
+7@y m@7
+\mb 7@y nam -jay -w@ -xtaa7 7@y m@7
+\sg1 3E
+\egl 3E
+\not
+\idx
+\zoq 7@y n@mjayxta*7 7@n m@7 ke "P@7."
+\fts Le dijo a su esposa "Ponlo."
+\fte He just said to his wife that "Put it up."
+\com
+\idx
+\ref ZOH001R020 053
+\_no 00054
+\tx 7@y yukp@kk@
+\mb 7@y yuk-p@k
+p@7
+p@7 -A7
+decir-APPL-COM-NOMAS 3E esposa que poner-IMPV
+say -APPL-COM-ONLY 3E wife that put - IMPV
+\sg1 3E ARR-agarrar-COM
+\egl 3E UP -get
+\zoq 7@y yukp@kk@.
+fts Y lo levanto*.
+\not
+\idx
+\fte And she put it up.
+\com
+\idx
+\ref ZOH001R020 054
+\_no 00055
+-wa
+\not
+\idx comp
+ZOH001R0201001.txt
+-COM
+\ref ZOH001R020 055
+\_no 00056
+\tx de gaji
+mas ban
+nukkoba*m
+bi p@n
+\mb de ka -ji7 mas bayun nuk -7oy -pa -7am bi p@n
+\sg1 de DCT3-LOC1 mas mucho agarrar-ANTIP-INC-YA DEF hombre
+\egl of DCT3-LOC1 more a_lot grab
+-ANTIP-INC-NOW DEF man
+\zoq De gaji7 mas ban nukkoba*m bi p@n.
+\fts De ahi* el pescador ya agarraba mas.
+\fte Then the man is catching more now.
+\com
+\idx
+\tx n@kpa
+\mb nak -pa
+ke
+ke
+y makk@
+7@y mak -wa
+\sgl irse-INC 3E pescar-dINC
+\egl go -INC 3E fish -dINC
+Page 14

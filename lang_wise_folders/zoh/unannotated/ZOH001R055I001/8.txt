@@ -1,0 +1,97 @@
+\egl yes 1A go -INC FACE-LOC2 1A AWAY -clear_field-finish
+\tx n@mpa
+jerma*n.
+jerma*n
+\mb
+n@m
+-pa
+\sg1 decir-INC Germa*n
+\egl say -INC Germa*n
+\ref ZOH001R055 032
+\_no 00033
+d@
+\zoq "Ja, da n@kpa, winjo da k@yujtukpa," n@mpa Jerma*n.
+\fts "Si, voy, pero primero voy a limpiar", dice Germa*n.
+\fte "Yes, I'm going, but first I'm going to clear the field", says Germa*n.
+\com
+\idx aux_p2
+da nakpa
+\tx bweno pwes d@x
+ga7xe joji
+\mb bweno pwes d@x da nak -pa ka -7xe joji7
+\sg1 bueno pues 1Prn 1A irse-INC DCT3-SIM man~ana
+\egl good
+good well 1prn 1A go -INC DCT3-SIM morning
+\zoq "Bweno, pwes, d@x d@ n@kpa ga7xe joji,
+\fts "Bueno, pues, yo me voy man~ana,
+\fte "Good, well, I'm going to go tomorrow,
+\com
+\idx
+\ref ZOH001R055 033
+\_no 00034
+\tx 7i gaja
+\mb 7i
+\sgl y
+\eg1 and DCT3-LOC1 1>2 see-finish
+ZOH001R0551001.txt
+mix 7ixtukpa
+7ix-tuk
+ka -ja7 mix
+DCT3-LOC1 1>2 ver-terminarse-INC
+\zoq 7i gaja mix 7ixtukpa."
+\fts y alla* te espero.
+\fte and there I'll wait for you."
+\com
+\idx aux_p2
+\ref ZOH001R055 034
+\_no 00035
+\tx 7i jub@
+\mb 7i
+\sg] y
+ju7
+\egl and where-DUBIT go -INC 1E work
+\ref ZOH001R055 035
+\_no 00036
+n@kpa 7@n yoxtamm@
+-b@7
+n@k -pa 7@n yox
+donde-DUBIT irse-INC 1E
+\tx 7entons 7anhtzonhnhoyy@
+\mb
+\sg1 entonces
+\egl then
+-pa
+\zoq "7i jub@ n@kpa 7@n yoxtamm@?" n@mpa Jerma*n.
+\fts "Y adonde vamos a trabajar?", dice Germa*n.
+\fte "And where are we going to work?", says Germa*n.
+\com
+\idx aux_p1
+-INC
+\tx n@kpa
+\mb nak -pa 7@n yox
+\sgl irse-INC 1E
+\egl go -INC 1E
+bi
+7entonses 7anh -tzonh-7oy -wa bi 7oko
+n yoxtamm@
+- tam -wa
+trabajar-1/2PL-dINC
+-1/2PL-dINC
+work
+7okyanhke
+BOCA -unir -ANTIP-COM DEF vieja
+MOUTH-join -ANTIP-COM DEF old_woman-yankee
+-INC
+n@mpa jerma*n
+n@m -pa jerma*n
+decir-INC Germa*n
+say -INC Germa*n
+n@mpa
+-yanhke7 n@m -ра
+-gringo decir-INC
+say -INC
+katemaku berakru*s
+-tam -w@ katemaku berakru*s
+trabajar-1/2PL-dINC Catemaco Veracruz
+-1/2PL-dINC Catemaco Veracruz
+Page 8

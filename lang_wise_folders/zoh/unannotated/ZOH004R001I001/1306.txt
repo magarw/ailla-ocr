@@ -1,0 +1,62 @@
+\SUB
+\ETYM
+\ETL
+\ROOT topx
+\RTGR IX
+\DSRC TK94
+\CMTS cf tepx, cf xopx; get deriv's
+\date 03/Jan/80
+\lex topx.topx.ney
+\_no 03032
+\LG MIG
+\PSH [topxtopxney-]
+\UND topx.topx.ney
+\MB tirar_pedos, tirar_pedos, REDUP1
+\VAR
+\GRAM VIR
+\SCI
+\USE
+\SPG andar tirando pedos
+\ENG to walk along farting
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\lex toto7
+\_no 03033
+\LG MIG
+\PSH
+\UND toto7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG papel
+\ENG paper
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ZOH004R0011001.txt
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex totoposte kuy
+\_no 03034
+\LG MIG
+\PSH
+\UND totoposte kuy
+Page 1306

@@ -1,0 +1,63 @@
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG donde esta*n comiendo
+\ENG a place where people are eating
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT k@x
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex k@x-tuku7
+\_no 01773
+\LG MIG
+\PSH [k@xtuku7]
+\UND k@x-tuku7
+\MB comer, cosa_rota
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG desperdicio
+\ENG waste
+\EXU
+\XSP
+\XEN
+\SYN k@x-tupu7
+\SEMF
+\ETYM
+\ETL
+\ROOT k@x T3
+\DSRC TK94
+\CMTS k@x=tupu7/k@x=tuku7: 'hay dos formas de decirlo'
+\date 07/Feb/96
+\lex k@x-tup.u7
+\_no 01774
+\LG MIG
+\PSH [k@xtupu7]
+\UND k@x-tu'p.u7
+\MB comer, desmoronar, NOM?
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG migaja; desperdicio
+\ENG crumb; waste
+\EXU
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN k@x-tuku7
+\SEMF
+\ETYM
+Page 767

@@ -1,0 +1,52 @@
+\lex mismo
+\_no 01448
+\SPG mismo
+\ENG same
+\lex misyonera
+\_no_01449
+\SPG misionera
+\ENG missionary
+\lex mi7tz
+\_no 01450
+\SPG agarrar_en_pun*o
+\ENG hold_in_fist
+\lex mix
+\_no 01451
+\SPG 2Prn
+\ENG 2Prn
+\lex mix
+\_no 01452
+\SPG 2>1 ; 1>2
+\ENG 2>1 ; 1>2
+\lex mixa
+\_no 01453
+\SPG misa
+\ENG mass
+\lex mixtu7
+\_no 01454
+\SPG gato
+\ENG cat
+\lex mizma
+\_no 01455
+\SPG misma
+\ENG same
+\lex mo7
+\_no 01456
+\SPG IRR2
+\ENG IRR2
+\lex modimyento
+\_no 01457
+\SPG modimiento
+\ENG plan
+\lex modimyentu
+\_no 01458
+\SPG modimiento
+\ENG ???
+\lex modo
+\_no 01459
+\SPG modo
+\ENG way
+\lex modos
+\_no 01460
+ZOH001R0611013.txt
+Page 116

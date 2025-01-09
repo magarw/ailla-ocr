@@ -1,0 +1,62 @@
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex we7tz.naanh
+\_no 00082
+\LG MIG
+\PHO [we7tzna*nh]
+\UND we7tz.naanh
+\MB arrastrarse, MED
+\VAR
+\GRAM meas
+\SPG un arrastre de culo en el suelo
+\ENG one slide of the butt on the floor
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT we7tz
+\RTGR P (11)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex wij.naanh
+\_no 00083
+\LG MIG
+\PHO [wijna*nh]
+\UND wij.naanh
+\MB zambutirse, MED1
+\VAR
+\GRAM meas
+\SPG zambutida
+\ENG dive
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT wij
+\RTGR P (IX)
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex wi7t.naanh
+\_no 00084
+\LG MIG
+\PHO [wi7tna*nh]
+\UND wi7t.naanh
+\MB torcer, MED
+\VAR
+\GRAM meas
+\SPG una torcida
+ENG one twist
+\EX
+\XSP
+ZOH001R0611003.txt
+\XEN
+\SYN
+\ROOT wi7t
+\RTGR T2
+\DSRC HAJ95
+\CMTS
+Page 29

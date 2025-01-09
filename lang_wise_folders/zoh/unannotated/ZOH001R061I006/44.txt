@@ -1,0 +1,63 @@
+\NOM kitz.naanh
+\SUB 7ok.kitz. '@y, t@tz-ni.kitz-wak, yuk.kitz
+\ETYM
+\ETL
+\ROOT kitz
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex ko.7ox [yo't.e7
+\_no 00061
+\LG MIG
+\PSH [ko7ox- yote7]
+\UND ko.7ox [yo7t. E7]
+\MB OTRO, X, ropa
+\VAR
+GRAM vt
+\SCI
+\USE
+\SPG meter y sacar
+\ENG to put in and take out
+\SPL ko.7ox.7oy
+\SLGR ANTIP
+\SPL ko.7ox.7@m
+\SLGR PASS
+\EXU 7@y+ ko.7ox-w@ yo't.e7_n@'+jo7
+\XPSH [7@y ko7oxx@ yote7 n@jo7.]
+\XSP Metio* y saco* la ropa en el agua.
+\XEN She dunked the clothes in and out of the water.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ko.7ox
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex koj
+\_no 00062
+\LG MIG
+\PSH
+\UND koj
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG encajar
+\ENG to punch a hole in something
+\SPL koj. 7oy
+ZOH001R0611006.txt
+\SLGR ANTIP
+\SLGL encajar // to punch a hole
+\SPL koj.7@m
+\SLGR PASS
+\SLGL encajarse // for a hole to be punched
+\SPL yak.koj.7oy
+\SLGR CAUS. ANTIP
+\SLGL encajarlo
+\SPL koj.ten
+Page 44

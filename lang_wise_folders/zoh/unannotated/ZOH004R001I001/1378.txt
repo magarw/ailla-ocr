@@ -1,0 +1,64 @@
+\MB
+\VAR
+\GRAM Vi
+\SCI
+\USE
+\SPG secarse
+\ENG to dry
+\SPL yak.t@tz
+\SLGR CAUS
+\SLGL secar; resecar // to dry; to redry
+\EXU 1 t@tz-w@+'am
+\XPSH 1 [T@tztza*m.]
+\XSP 1 Ya esta* seco.
+\XEN 1 Now it's dry.
+\EXU 2 7@y+ yak.t@tz=pak.pak.w@y-w@
+\XPSH_2 [7@y yakt@tzpakpakw@yy@.]
+\XSP 2 Lo reseco*.
+\XEN 2 He dried it again.
+\EXU 3 da t@tz-w@ jama+jo7
+\XPSH 3 [D@ t@tztza jamajo7.]
+\XSP 3 Me seque* en el sol.
+\XEN 3 I dried myself in the sun.
+\EXU 4 t@tz-pak.p@-w@ 7@n+ yote7
+\XPSH 4 [T@tzpakp@w@n yote7.]
+\XSP 4 En un rato seco* mi ropa.
+\XEN 4 My clothes dried in a little while.
+\SYN
+\SEMF clean, water, temp
+\ASP achievement
+\ARG
+\NOM t@tz.17
+\SUB ko.7an=t@tz, t@tz.@n@m
+\ETYM
+\ETL
+\ROOT t@tz
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 09/Aug/02
+\lex t@tz [2]
+\_no 03204
+\LG MIG
+\PSH
+\UND t@tz
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG diente
+\ENG teeth
+\EXU
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+Page 1378

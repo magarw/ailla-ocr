@@ -1,0 +1,90 @@
+ZOH001R0601001.txt
+\tx [juti*nh yukpoyxukk@ bi jay7une] .. [poypa maxant@kjonanh]
+\tx * tejajonanh
+\com can't mean 'from Texas', has to mean 'from the tiles on the roof,
+\com where the rats live'
+\fts
+\ref 011
+\_no 00012
+\tx y@d@
+\mb
+7anmal makimaki witpa y@da t@k 7@y kojapjo7
+ya -da 7anma*1 makimaki wit -pa
+ya -da t@k 7@y kojap -jo7
+\sg1 DCT1-DEM animal aran~a andar-INC DCT1-DEM casa 3E sombrero-LOC2
+\eg1 DCT1-DEM animal spider walk -INC DCT1-DEM house 3E
+\fts este animal la aran~a camina sobre el techo de la casa
+\fte this animal the spider is walking on this roof of the house.
+\com
+\idx
+\cmts picture of a spider on the ceiling
+\ref 012
+\_no 00013
+\tx y@d@
+y@da
+7@y
+7@y
+7anmal makimaki witpa
+t@k
+\mb ya -d@ 7anma*1 makimaki wit -pa
+ya -da t@k
+\sg1 DCT1-DEM animal
+andar-INC DCT1-DEM casa
+\eg1 DCT1-DEM animal spider walk -INC DCT1-DEM house 3E
+3E
+aran~a
+\tx kojaptzapji7
+\mb
+kojap
+-tzapji7
+\sgl sombrero-encima
+\egl hat
+-on
+\fts este animal la aran~a camina sobre el techo de la casa
+\fte this animal the spider is walking on the roof of the house
+\com
+\idx
+\cmts picture of a spider on the ceiling
+\ref 013
+\_no 00014
+\tx _y@d@
+toto p@nkuy
+\mb ya -d@ toto7 p@n -kuy7
+\sg1 DCT1-DEM papel hombre-INSTR1 3E
+\eg1 DCT1-DEM paper man
+-E
+\tx wotze
+7i de t@nhkuy.
+7i de tanh
+\mb wotz
+\sg1 cortar_c_sierra-NOM3 y de cortar_con_machete-INSTR1
+\eg1 cut_w_saw
+-NOM3 and of cut_with_machete - INSTR1
+\tx t@nhkuyg@xi
+7@y tz@kxukk@
+de kuy
+7@y tz@k -xuk-w@
+de kuy
+hacer-3PL-COM de palo
+-3PL-COM of tree
+-INSTR1 3E do
+-E
+hat
+\tx wotze
+\mb wotz
+\sg1 cortar_c_sierra-NOM3 NPL
+\eg1 cut_w_saw
+-NOM3 NPL
+-kuy7
+teji7aw@
+bi chik kuy
+-kuy7 -g@xi teji -7a -wa bi chik kuy
+\sg1 cortar_con_machete-INSTR1-LOC4 hay -VERS1-COM DEF chico palo
+\egl cut_with_machete -INSTR1-LOC4 there_is-VERS1-COM DEF little tree
+\mbt@nh
+d@kka kom kwandoy tzajxukk@.
+d@kkay komo kwando-7@y tzaj -xuk-w@
+como cuando-3E pegar-3PL-COM
+like when -3E glue -3PL-COM
+Page 4
+-LOC2

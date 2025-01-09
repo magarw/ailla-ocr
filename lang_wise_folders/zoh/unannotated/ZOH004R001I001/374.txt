@@ -1,0 +1,64 @@
+\EXU jom.7@m-w@+'am bi yuj.kuy7
+\XPSH [Jomm@mma*m bi yujkuy7.]
+\XSP Ya esta* cercado el desmonte.
+\XEN Now the field is fenced.
+\EXU 7@y+ jom. ten-w@ bi yuj.kuy7
+\XPSH [7@y jomtenn@ bi yujkuy7.]
+\XSP Lo tiene cercado su desmonte.
+\XEN He's got his field fenced.
+\SPL jom. 7oy
+\SLGR ANTIP
+\SLGL acercar // to fence
+\SPL jom.7@m
+\SLGR PASS
+\SLGL estar cercado // to be fenced
+\SPL jom.ney
+\SLGR ASSUM1
+\SLGL estar cercado (como un rama, tumbo* el norte, y se trencha) // to have a
+fence around it (like when the north wind
+blows a branch down)
+\SPL jom.ten
+\SLGR PRSV
+\SLGL tener cercado // to have something fenced
+\SYN
+\SEMF build
+\ASP activity
+\ARG
+\NOM jom.e, jom.kuy7
+\SUB 7anh.jom, jo.jom, ko.jom, nek=jom, ni.jom, nik.jom. '@y, win=jom
+\ETYM
+\ETL
+\ROOT jom
+\RTGR P, (T3)
+\DSRC TK94
+ZOH004R0011001.txt
+\CMTS
+\date 03/Jan/80
+\lex jo.matz
+\_no 00859
+LG MIG
+\PSH [jomatz-]
+\UND jo.matz
+\MB EN, sobar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG secar algo sobandolo
+\ENG to dry something by rubbing it
+SPL
+\SLGR
+\EXU 7@y+ jo.matz-w@ p@¹.7oy.kuy7
+\XPSH [7@y jomatztz@ p@7okuy7.]
+\XSP Seco* el traste onde se pone algo.
+\XEN She rubbed dry the dish.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT matz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Feb/96
+Page 374

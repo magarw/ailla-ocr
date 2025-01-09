@@ -1,0 +1,66 @@
+\_no 00016
+\tx 7i de gaji
+\mb 7i de ka -ji7
+\sg] y
+de DCT3-LOC1
+pescar-empezar-COM DEF hombre
+\egl and of DCT3-LOC1 fish -begin -COM DEF man
+\not
+\idx aux_p2
+\ref ZOH001R020 016
+\_no 00017
+\zoq 7i de gaji7 makkokmanhnh@ bi_p@n,
+\fts y de ahi* siguio* pescando el hombre,
+\fte And then the man began to fish,
+\com
+\idx
+\not
+\idx
+\tx 7i ya nukko
+\mb 7i ya nuk
+\sgly
+-7oy -A
+NEG agarrar-ANTIP-nINC
+\egl and NEG grab -ANTIP-NINC
+\ref ZOH001R020 017
+\_no 00018
+\zoq 7i ya nukko.
+\fts y no agarra.
+\fte and he didn't catch anything.
+\com
+\idx
+\tx n@nti
+\mb n@nti
+\sg1 no_hay
+\egl there isn't
+makkokmanhnh@
+mak
+\not
+\idx
+ZOH001R0201001.txt
+bi p@n
+-7okmanh-w@ bi p@n
+\zoq Nanti yakti.
+\fts No hay nada.
+\fte There was nothing.
+\com
+\idx
+\com
+\idx
+yakti
+yakti
+nada
+nothing
+\not
+\idx
+\ref ZOH001R020 018
+\_no 00019
+\tx yanhmak p@n pobre p@n
+\mb yanhmak p@n pobre p@n
+\sg1 huerfano hombre pobre hombre
+\egl orphan man
+poor man
+\zoq Yanhmak p@n, pobre p@n.
+\fts Hombre hue*rfano, pobre hombre.
+\fte Orphan man, poor man.
+Page 5

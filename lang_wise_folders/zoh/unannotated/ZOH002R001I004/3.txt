@@ -1,0 +1,95 @@
+Español
+IMPV
+nIMPV
+INC
+dINC
+nINC
+INDEF
+INH
+INSTR
+INSTR1
+INSTR2
+INSTR3
+EN
+IPrn
+IPSN
+IRR
+ITER1
+ITER2
+LOCI
+LOC2
+LOC3
+LOC4
+LOCREL
+MED
+BOCA
+NEG
+NEGimpv
+NOM1
+NOM2
+NOM3
+NOM4
+Zoque
+-A?
+-wƏ
+-ра
+-wƏ
+-A
+-Anəm
+.way?
++pi?t
+.kuy?
+yək.
+ni.
+ho.
+ney
+neyti?
+mo?
+.ney
+.way
++hi/ha? /hə?
++ho?
++?aŋhi?
++gəši
++hi
+.neen/naan
+?aŋ.
+ya
+?u
+.?
+.A
+.E
+.?aŋ
+Descripción
+imperative
+negative imperative
+incompletive
+dependent incompletive
+negative incompletive
+indefinite; impersonal
+nominal suffix: inhabitant of
+instrument
+instrument
+instrument
+instrument
+directional prefix: into; through
+first person inclusive pronoun
+first person inclusive possessive
+pronoun
+irrealis
+iterative 1
+iterative2
+locative: here; there
+locative: to
+locative: near
+locative: on
+locative relative
+measure
+directional prefix: mouth
+negative
+negative imperative
+nominalizer: only deictics
+nominalizer: result
+nominalizer: participle
+nominalizer: very rare, numbers?
+xxii

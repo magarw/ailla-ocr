@@ -1,0 +1,45 @@
+11.9.2. Perception
+There are two verb roots of visual perception in Zoque: ?iš- and ?amma-.
+The first is the most generally used, meaning 'to see'; the second generally
+means 'to watch' or 'to observe'. ?amma- appears infrequently, and is not used
+to introduce subordinate clauses describing the situation being observed.
+Examples of its use are shown in (11.24 i-ii). ?iš- is extremely common as an
+unadorned root, as a derived stem, and as a member of a pair of compound
+roots. Its behavior in compounds is discussed in chapter 8. As an underived
+root, it can be used to simply present an act of seeing (example iii), or to
+introduce a clause describing the perceived situation (examples iv-vi). As
+example (iv) illustrates, this can be an abstract situation perceived with the
+mind.
+(11.24)
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+yøjóng kajáng 'ammapa
+yə.həəŋ
+ka.haan 0 7amma-pa
+DCT1.DIR1 DCT3.DIR1 3A mirar-INC
+'Vé por acá y por allá.'
+(ZOH001R024-492)
+'øn 'ammawo kwanduy tøngngø bi pøn bi kuy
+?ən+ ?amma-we kwandu ?ǝy+ təŋ-wə
+bi
+bi
+pən
+kuy
+1E+ mirar-COM cuando 3E+ cortar_c_machete-COM DEF hombre DEF árbol
+'Miré mientras el hombre cortaba el árbol con el machete.' (elicited)
+nøkpan 'ixxø 'øn jatoŋ 'øn mama
+nək-pa ?ən+ ?iš-wə ?ən+ hatoŋ ?ən+ mama
+ir-INC 1E+ ver-dINC 1E+ padre 1E+ madre
+'Voy a ver mi papá y mi mamá.'
+(ZOH001 R018-254)
+gajim 'ixtampa si mix 'o døx ney nømjaxukøpa
+gahi? ?əm + ?iš-tam-pa
+si miš ?o dəš ney nəm.hay-šuk-A-pa
+allá 2E+ ver-1/2PL-INC si 2Prn o 1 Prn RECIP decir.APPL-3PL-RECIP-INC
+'Ahí vamos a ver si tu o yo se dijeron...'
+kay 'øn 'ixtampám ke mas jøxjóng minnømpa
+304
+(ZOH001R024-044)

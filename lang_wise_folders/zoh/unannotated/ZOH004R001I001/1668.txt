@@ -1,0 +1,63 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT witu
+\RTGR 11
+\DSRC HAJ95
+\CMTS fixed: TK
+\date 26/Jun/96
+\lex xa7kx
+\_no 03879
+LG MIG
+\PSH
+\UND xa7kx
+\MB
+\VAR
+\GRAM vi: med
+\SCI
+\USE
+\SPG tirar sangre salpicando; tirar charcos de sangre
+\ENG to spatter blood; to lose gouts of blood
+\SPL yak.xa7kx
+\SLGR CAUS
+\SLGL hacer salpicara // to cause to spatter
+\EXU 1 xa7kx-pa n@pin7
+\XPSH 1 [xa7kxpa n@pin7.]
+\xSP 1 Tira sangre.
+\XEN 1 Blood spattered.
+\EXU 2_n@pin'=xa7kx-w@ 7@y+_n@k-E
+\XPSH 2 [N@pin xakx@y n@ki.]
+\XSP 2 Fue* regando su sangre
+\XEN 2 Her blood was spurting out.
+\EXU 3* d@ xa7kx-w@
+\SYN
+\SEMF body
+\ASP process
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT xa7kx
+\RTGR IX
+\DSRC TK94
+\CMTS get deriv's
+\date 03/Jan/80
+\lex xam
+\_no 03880
+\LG MIG
+\PSH
+ZOH004R0011001.txt
+\UND xam
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG calentarse porque tiene fri*o
+\ENG to warm yourself up because you're cold
+\SPL yak.xam
+\SLGR CAUS
+\SLGL calentar // to warm
+\EXU 1 jama-xam-pa bi chik nu7
+Page 1668

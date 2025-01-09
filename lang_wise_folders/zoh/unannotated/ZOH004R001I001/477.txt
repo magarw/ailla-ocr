@@ -1,0 +1,62 @@
+XEN She took the candy out of her mouth.
+\SYN
+\ROOT muy
+\RTGR TX
+\DSRC HAJ95
+\CMTS
+\date 22/Jun/96
+\lex j@x-pak
+\_no 01089
+\LG MIG
+\PSH [j@xpak-]
+\UND j@x-pak
+\MB ATRAS, regar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar de adentro tirando, como agua de una cubeta o algo
+\ENG to throw something outside, like water from a bucket
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pak
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 11/Jan/96
+\lex j@x-pak. '@y
+\_no 01090
+\LG MIG
+\PSH
+\UND j@x-pak.7@y
+\MB ATRAS, apretarse, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar tirandolo
+\ENG to throw something out
+\SPL
+ZOH004R0011001.txt
+\SLGR
+\EXU 7@y+ jax.pak. '@y-wa ka-tzux manh.kuy' 7@y+ti7
+\XPSH [7@y jaxpakk@yya k@tzux manhkuy 7@yti7.]
+\XSP Saco* de un trompezo*n la un~a de su pie.
+\XEN She knocked out her toenail.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pak
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 06/Feb/96
+\lex j@x=pinh
+\_no 01091
+Page 477

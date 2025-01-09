@@ -1,0 +1,63 @@
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex w@tz [1]
+\_no 03853
+\LG MIG
+\PSH
+\UND w@tz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG peinar
+\ENG to comb
+\SPL w@tz.7oy
+\SLGR ANTIP
+\SLGL peinar // to comb
+\SLGR NO PASS
+\SLGR NO ASSUM1
+\SLGR NO PRSV
+\EXU 7@y+ w@tz-w@ bi way7
+\XPSH [7@y w@tztz@ bi way7.]
+\XSP Peino* el cabello.
+\XEN She combed her hair.
+\SYN
+\SEMF body, clean
+\ASP process
+\ARG
+\NOM w@tz.i, w@tz.kuy7, y@k.w@tz, w@tz.naanh
+\SUB ko.w@tz
+\ETYM
+\ETL
+\ROOT w@tz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\CMTS v/w@tz (1)
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex w@tz [2]
+\_no 03854
+\LG MIG
+\PSH
+\UND w@tz
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG gotear
+\ENG to drip
+\SPL yak.w@tz
+\SLGR CAUS
+ZOH004R0011001.txt
+\SLGL dejar gotear // to allow to drip
+\EXU 1 w@tz-w@ bi xuyu7
+\XPSH 1 [w@tztz@ bi xuyu7.]
+\XSP 1 Goteo* la olla.
+\XEN 1 The pot dripped.
+\EXU 2* da watz-wa
+Page 1657

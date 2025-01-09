@@ -1,0 +1,63 @@
+\lex woj.e7 [2]
+\_no 03785
+\LG MIG
+\PHO [woje7]
+\UND woj. E7
+\MB hacer_hoyo, NOM7
+\VAR
+\GRAM pcp
+\SPG hoyo
+\ENG hole
+\EXU woj.e7+k_tza'=t@k
+\XPSH [woje7k tzat@k]
+\XSP un hoyo hecho
+\XEN a made hole
+\SYN
+\ROOT woj
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex wojo7
+\_no 03786
+LG MIG
+\PSH
+\UND Wojo7
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG hueco
+\ENG hollow
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT woj
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex wojo'. 7aH
+\_no 03787
+\LG MIG
+\PSH [wojo7a-]
+\UND wojo7.7aH
+\MB hoyo, VERS1
+\VAR
+\GRAM versl
+\SCI
+\USE
+\SPG hacerse hueco
+\ENG to become a hole
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+ZOH004R0011001.txt
+Page 1627

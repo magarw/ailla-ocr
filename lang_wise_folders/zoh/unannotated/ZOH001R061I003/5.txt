@@ -1,0 +1,62 @@
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex jin.naanh
+\_no 00012
+\LG MIG
+\PHO [jinna*nh]
+\UND jin.naanh
+\MB refregar, MED
+\VAR
+\GRAM meas
+\SPG una refregada
+\ENG a scrub
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT jin
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex ji7tz.naanh
+\_no 00013
+\LG MIG
+\PHO [ji7tzna*nh]
+\UND ji7tz.naanh
+\MB recoger, MED
+\VAR
+\GRAM meas
+\SPG un plieguito
+\ENG a gather
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT ji7tz
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex jo.7utz
+\_no 00014
+\LG MIG
+\PSH [jo7utz-]
+\UND jo.7utz
+\MB EN, medir
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG medir en otra parte
+\ENG to measure somewhere else
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ZOH001R0611003.txt
+Page 5

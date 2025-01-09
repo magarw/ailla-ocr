@@ -1,0 +1,63 @@
+\lex nat.e
+\_no 02149
+\LG MIG
+\PSH [nate]
+\UND nat. E
+\MB salar, NOM7
+\VAR
+\GRAM pcp
+\SPG que tiene sal
+\ENG salty
+\SPL
+\SLGR
+\EXU nat.e7+k xix // xix nat.e7
+\XPSH [nate7k_xix] // [xix nate*7]
+\XSP carne salada
+\XEN salted meat
+\SYN
+\SEMF
+\ROOT nat
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex nattibida jay@7
+\_no 02150
+LG MIG
+\PSH
+\UND nattibida j@y@7
+\MB
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG flor de natividad; flor de nochebuena
+\ENG a type of flower
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS PH-OK/TK
+\date 25/Jun/96
+ZOH004R0011001.txt
+\lex na.tz@n
+\_no 02151
+LG MIG
+\PSH [natz@n-]
+\UND na.tz@n
+\MB X, sentarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG calmarse; guardar silencio; callarse
+\ENG to calm down; to keep silent; to shut up
+\SPL yak.na.tz@n
+\SLGR CAUS
+\SLGL calmar; callar // to hush
+Page 927

@@ -1,0 +1,65 @@
+\SPG hacer viejo
+\ENG to make old
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+\lex peka-tz@k [2]
+\_no 02579
+\LG MIG
+\PSH [pekatz@k-]
+\UND peka-tz@k
+\MB pecar, HACER
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG pecar
+\ENG to sin
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM pecar
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex pek.pek
+\_no 02580
+\LG MIG
+\PSH [pekpek]
+\UND pek.pek
+\MB
+\VAR
+\GRAM SR
+\SCI
+\USE
+\SPG hombro
+\ENG shoulder
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+ZOH004R0011001.txt
+(como por usarlo mucho)
+(by using it a lot)
+Page 1110

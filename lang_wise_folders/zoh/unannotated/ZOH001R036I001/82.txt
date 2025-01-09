@@ -1,0 +1,87 @@
+ZOH001R0361001.txt
+\fte "But around here," I say to them, "I don't know how you'll cure the
+snake bite.
+"I
+\com
+\idx
+\ref ZOH001R036 380
+\_no 00375
+\tx
+gaji*nh
+\mb
+\com
+\idx
+7a n@mpa
+n@m
+ka -jiinh 7ay
+-pa
+\sg1 DCT3-DIR2 ay decir-INC 1Prn
+\eg1 DCT3-DIR2 ay say -INC 1Prn
+\zoq Gaji*nh, "7a," n@mpa d@x.
+\fts De ahi*, "Ah," dice yo.
+\fte Then, "Ah," I say.
+\ref ZOH001R036 381
+\_no 00376
+\tx n@mpa
+yey
+ye7xe
+tzajin
+7@n tz@kjayy@ gad@
+\mb n@m
+-pa y@ -y y@
+-7xe 7@n tz@k -jay -w@
+ka -d@ tzajin
+\sg1 decir-INC DCT1-TMP DCT1-SIM 1E hacer-APPL-COM DCT3-DEM culebra
+\egl say -INC DCT1-TMP DCT1-SIM 1E do -APPL-COM DCT3-DEM snake
+d@x
+d@x
+\tx waxe
+\mb wax
+-A7
+\sg1 morder-NOM2 1E
+\egl bite -NOM2 1E say -APPL-COM
+7@n n@mjayy@
+7@n nam -jay -wa
+decir-APPL-COM
+\zoq Nampa yey ye7xe 7@n tz@kjayy@ gad@ tzajinwaxe, 7@n_n@mjayy@.
+fts Digo ahora asi* hice esa mordida de culebra, le dije.
+\fte Now I say like this I'll fix that snake bite, I told them.
+\com
+\idx
+\not (habla al grupo en Oaxaca);
+\ref ZOH001R036 382
+\_no 00377
+y juyy@
+\tx n@mpa
+\mb n@m
+-pa 7@y juy -w@
+\sg1 decir-INC 3E comprar-COM donde vaca
+\egl say -INC 3E buy -COM where cow
+\tx ga
+\mb ka -7
+\ref ZOH001R036 383
+\_no 00378
+\com
+\idx
+\zoq N@mpay juyy@ donde wakax yakkan@mpa.
+\fts Dice que compro* donde matan res.
+\fte says he bought where they butcher cattle.
+\com
+\idx
+donde wakax yakkan@mpa
+donde wakax yak -ka7
+wakax 7@y yakkaw@
+wakax 7@y yak -ka7
+\sg1 DCT3-NOM1 vaca 3E
+\eg1 DCT3-NOM1 Cow 3E CAUS-die
+\zoq Ga wakax_7@y yakkaw@.
+\fts Esa res lo mato*
+\fte He killed that cow.
+-wa
+CAUS-morirse-COM
+-COM
+CAUS-morirse-INDEF-INC
+CAUS-die
+-An@m -pa
+Page 82
+-INDEF-INC

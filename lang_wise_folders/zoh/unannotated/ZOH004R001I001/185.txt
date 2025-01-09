@@ -1,0 +1,63 @@
+\ENG to shell rapidly
+\SPL
+\SLGR
+\EXU 7@y+ 7ok. '@kx-kum. '@y-w@ bi mok
+\XPSH [7@y 7okk@kxkumm@yy@ bi mok.]
+\XSP Desgrano* ra*pido el maiz.
+\XEN She shelled the corn quickly.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7@kx
+\RTGR 1 T3
+\ROOT 2 kum
+\RTGR 2 T2
+\DSRC HAJ95
+\CMTS
+\date 13/Jul/95
+\lex 7ok. '@nh. '@y
+\_no 00432
+\LG MIG
+\PSH [7okk@nhnh@y-]
+\UND 7ok.7@nh.7@y
+\MB ABAJO, caerse, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG caer solo del arbol
+\ENG to fall from a tree by itself
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7@nh
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 13/Jul/95
+\lex 7ok. '@7p. '@y
+\_no 00433
+\LG MIG
+\PSH [7okk@7pp@y-]
+\UND 70k.7@7p.7@y
+\MB ABAJO, palanquear, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG quitar la palanca
+\ENG to remove the lever
+\SPL
+ZOH004R0011001.txt
+\SLGR
+\EXU
+\XSP
+\XEN
+Page 185

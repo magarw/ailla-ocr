@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [jupyukten-]
+\UND jup=yuk. ten
+\MB jalar, ARR, parar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG levantar jalandolo
+\ENG to raise something up by pulling it
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 jup
+\RTGR 1 P, (T3)
+ROOT 2 ten
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 25/Sep/94
+\lex jup='anh.yoj
+\_no 00958
+\LG MIG
+\PSH [juppanhyoj-]
+\UND jup=7anh.yoj
+\MB jalar, BOCA, pagar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tomar una en vez de otra; cambiar
+\ENG to take instead of something else; to exchange
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 jup
+\RTGR 1 P, (T3)
+\ROOT 2 yoj
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/96
+ZOH004R0011001.txt
+\lex jup.w@y
+\_no 00959
+\LG MIG
+\PSH [jupp@y-]
+\UND jup.w@y
+\MB jalar, DEPOS
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG arrimar
+Page 418

@@ -1,0 +1,62 @@
+\date 29/Jan/96
+\lex jon=tzij-7oy.kuy7
+\_no 00870
+\LG MIG
+\PSH [jontzijjokuy7]
+\UND jon=tzij.7oy.kuy7
+\MB pa jaro, tirarle piedra, ANTIP, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG honda de hule
+\ENG rubber slingshot
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzij
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\lex jo.n@m
+\_no 00871
+\LG MIG
+\PSH [jon@m-]
+\UND jo.n@m
+\MB EN, decir
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 traducir
+\SPG 2 platicar
+\ENG 1 to translate
+ENG 2 to converse
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT n@m
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 03/Feb/96
+ZOH004R0011001.txt
+\lex jonh
+\_no 00872
+\LG MIG
+\PSH
+\UND jonh
+\MB
+\VAR
+\GRAM vi
+\SCI
+Page 379

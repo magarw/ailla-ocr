@@ -1,0 +1,63 @@
+\SPG cucaracha grande con alas
+\ENG a big cockroach with wings
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex maktax-7anh-tzuxu'=tz@k
+\_no 01838
+\LG MIG
+\PSH [maktaxxanh tzuxutz@k]
+\UND maktax-7anh-tzuxu7=tz@k
+\MB cuatro, X, esquina, HACER
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG hacer cuatro esquinas
+\ENG to make four corners
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 26/Jan/96
+\lex maktax-'anh
+\_no 01839
+\LG MIG
+\PSH [maktaxxanh]
+\UND maktax-7anh
+\MB cuatro, X
+\VAR
+\GRAM num
+\SCI
+\USE
+\SPG cuatro
+\ENG four
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+ZOH004R0011001.txt
+Page 794

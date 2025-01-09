@@ -1,0 +1,83 @@
+\idx
+\ref ZOH001R036 127
+\_no 00128
+\tx
+\mb 7@n yak
+7@n_y@kt@nhnh@ba
+-t@nh
+\tx 7ammapa gay
+\mb 7amma-pa ka
+-Y
+\sgl mirar-INC DCT3-TMP
+\egl look -INC DCT3-TMP
+\sgl 1E INSTR2-cortar_con_machete-SUF-INC
+\egl 1E INSTR2-cut_with_machete -SUF-INC a little
+\ref ZOH001R036 128
+\_no 00129
+\tx ti naxe gay
+\mb ti naxe ka -y
+de
+nena*7
+nena7
+te -7
+\sg1 que verdad DCT3-TMP DCT2-NOM1 malo
+\egl what truth DCT3-TMP DCT2-NOM1 bad
+\zoq Ti naxe gay de nena*7
+\fts De verdad esta* el mal aire
+\zoq 7@n_y@kt@nhnh@ba 7omenh n@j@nanh, 7@n 7ammapa gay.
+\fts Le echo con un poco de agua, lo estoy viendo ahora.
+\fte I throw it in with a little water, now I'm looking at it.
+\com
+\idx
+ZOH001R0361001.txt
+\ref ZOH001R036 129
+\_no 00130
+\tx xanhwitpa*7
+\mb xanh-wit -pa -v7k
+\sgl aire-andar-INC-REL
+\egl wind-walk -INC-REL
+\fte what in fact now is that evil spirit
+\com
+\idx
+\zoq xanhwitpa*7.
+\fts anda en el aire.
+7omenh
+-7@y-pa 7omeenh
+\fte that goes around in the wind.
+\com
+\idx
+\ref ZOH001R036 130
+\_no 00131
+\tx 7ay gay
+pitz@mma*m
+7adyo ka -y pitz@m-w@ -7am
+\sg1 luego DCT3-TMP salir -COM-YA
+\mb
+\egl later DCT3-TMP leave -COM-NOW
+\zoq 7ay gay pitz@mma*m.
+\fts De ahi* ya salio*.
+\fte Then later now it's left.
+\com
+\idx
+n@
+n@7
+un poquito agua
+water
+\ref ZOH001R036 131
+\_no 00132
+\tx 7i de gaji
+n@mpa
+\mb 7i de ka -ji7 n@m -pa si min
+si minke7tpa
+j@nanh 7@n
+jananh 7@n
+1E
+1E
+-ke7t -pa
+Page 28
+AC
+ACC
+mix n@mjayy@
+mix n@m -jay -wa
+si
+si

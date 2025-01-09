@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [xox7ane7]
+\UND_xox=7an.E7
+\MB cocer, calentarse, NOM7
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG tamal de masa; tamalito sin carne, pura masa
+\ENG cornmeal tamale, without meat inside
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1xox
+\RTGR 1 T3
+ROOT 2 7an
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS ANALYSIS
+\date 26/Jun/96
+\lex xox.e7
+\_no 03990
+\LG MIG
+\PHO [xoxe7]
+\UND XOX.E7
+\MB cocer, NOM7
+\VAR
+\GRAM pcp
+\SPG cocido
+\ENG cooked
+\EXU x@k xox.e7
+\XPSH_[x@k_xoxe*7]
+\XSP frijol cocido
+\XEN cooked beans
+\SYN
+\ROOT XOX
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex xox.kuy7
+\_no 03991
+\LG MIG
+\PHO [xoxkuy7]
+\UND xox.kuy7
+\MB cocer, INSTR1
+\VAR
+\GRAM instr1
+\SPG olla para cocer
+ENG cooking pot
+ZOH004R0011001.txt
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT XOX
+\RTGR T3
+\DSRC HAJ95
+Page 1716

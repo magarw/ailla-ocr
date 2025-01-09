@@ -1,0 +1,60 @@
+\CMTS
+\lex ketz
+\_no 00115
+\SPG regar (agua, frijol, arena...)
+\ENG to spread (water, beans, sand ...)
+\SEMF activity
+\ASP
+\ARG instrumentn
+\NOM
+\RTGR T1
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex ke7tz
+\_no 00116
+\SPG masticar; mascar
+\ENG to chew
+\SEMF eat
+\ASP activity
+\ARG
+\NOM
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex kex
+\_no 00117
+\SPG ponerse picho o crespo
+\ENG to curl
+\SEMF body
+\ASP achievement
+\ARG
+\NOM kex.i7, way'=kex. kuy7, * naanh
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex kinh=ka'
+\_no 00118
+\SPG enojarse; tener muina
+ENG to be angry
+\SEMF cognitive
+\ASP state
+\ARG
+\NOM
+ZOH001R0611002.txt
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex kit
+Page 29

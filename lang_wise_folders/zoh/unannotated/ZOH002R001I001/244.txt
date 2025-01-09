@@ -1,0 +1,45 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+At the next level in the hierarchy appear what Foley and Olson call
+'postural verbs', which are termed positional verbs in this grammar. A
+compound with a positional verb root as the V2 component is shown in
+example (8.25 i). Positional verbs more commonly appear as the V1 component
+(ii-iv).
+(8.25)
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+numtzønnø pakpakjo'
+0 num=cən-wə pakpak+ho?
+3A steal-sit-COM shrubbery+LOC2
+'He hid in the shrubbery.'
+'øy mukxwanakkø 'øy kojap
+?əy+ mukx=wanak-wǝ
+?ǝy+ kojap
+3E+ *be_folded=go_down-COM 3E+ hat
+'He turned down the brim of his hat.'
+tzønnokjejtammø parkejo?
+cən=?ok.heh-tam-wə
+parke+ho?
+sit=DOWN.live-1/2PL-COM park+LOC1
+'We sat and rested in the park.'
+(ZOH001 R046-076)
+'øy pangjaxxø
+?əy+ paŋ=haš-wə
+3E+ *lean=toast-COM
+'She toasted it.' (by leaning it against the griddle)
+(ZOH001 RO10-212)
+(lexicon)
+'øy kutpøkkø comigoxi
+?əy+ kut=pək-wə
+cəm.E+gəši
+3E+ walk_on_knees-get-COM carry.NOM3+LOC4
+'He got his knee on the load (to steady it).'
+(lexicon)
+(ZOH001R025-161)
+8.3.2.2. V2 is an aspectual verb
+Foley and Olson don't mention aspectual roots in their hierarchy, but
+since they are nuclear operators on the level of directionals in the RRG
+framework, it seems reasonable to consider them as being at more or less the
+218

@@ -1,0 +1,64 @@
+\lex woy
+\_no 03812
+\LG MIG
+\PSH
+\UND WOY
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG enrollar; recoger; enroscar
+\ENG to roll up; to pick up; to coil
+\SPL woy. 7oy
+\SLGR ANTIP
+\SLGL enrollar, recoger, enroscar // to roll up, to pick up, to coil
+\SPL woy.7@m
+\SLGR PASS
+\SLGL estar enrollado // to be rolled up
+\SPL woy. ney
+\SLGR ASSUM1
+\SLGL enrollarse, enroscarse // to be rolled up, to be coiled
+\SPL woy.ten
+\SLGR PRSV
+\SLGL tener enrollado // to have rolled up
+\EXU woy.ney-w@ tzajin (ps-pcp)
+\XPSH [Woyneyy@ tzajin.]
+\XSP Esta* enroscado la vi*bora.
+\XEN The snake is coiled.
+\EXU
+\SYN
+\SEMF move
+\ASP process
+\ARG
+\NOM
+\SUB ni.woy
+\ETYM
+\ETL
+\ROOT WOY
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS no la usa mucho; mas es jeken-
+\DATE 03/Jan/1980
+\lex woyanh
+\_no 03813
+ZOH004R0011001.txt
+LG MIG
+\PSH
+\UND woyanh (kuy)
+\MB
+\VAR woyanh kuy
+\GRAM
+\SCI
+\USE
+\SPG cascalote
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+LF: kuy
+Page 1639

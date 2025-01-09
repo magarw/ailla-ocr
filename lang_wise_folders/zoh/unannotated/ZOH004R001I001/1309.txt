@@ -1,0 +1,62 @@
+\ROOT 2 ka7
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 09/Feb/96
+\lex totz.kuy7
+\_no 03039
+\LG MIG
+\PHO [totzkuy7]
+\UND totz.kuy7
+\MB pun~alear, INSTR1
+\VAR
+\GRAM instr1
+\SPG cuchillo; fierro de punta; pun~al
+\ENG knife; pointed iron stake
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT totz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex totz.naanh
+\_no 03040
+\LG MIG
+\PHO [totzna*nh]
+\UND totz.naanh
+\MB pun~alear, MED
+\VAR
+\GRAM meas
+\SPG una pun~alada
+\ENG a stab
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT totz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex tow.a7
+\_no 03041
+\LG MIG
+\PHO [towa7]
+\UND tonh.A7
+\MB ampollarse, NOM2
+\VAR
+\GRAM SV
+\SPG ampolla
+\ENG blister
+ZOH004R0011001.txt
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT tonh
+\RTGR 12
+\DSRC HAJ95
+Page 1309

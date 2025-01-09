@@ -1,0 +1,64 @@
+\POS rroberto d@ w@7tjayy@n kuy d@kka
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex w@tz [1]
+\_no 00389
+\SPG peinar
+\ENG to comb
+\SEMF body, clean
+\ASP process
+\POS da watzjayy@n way7
+\MID
+\UNDO 7@n w@tzpuw@
+\ARG
+\NOM w@tz.i, w@tz.kuy7, y@k.w@tz, w@tz.naanh
+\RTGR T3
+\CLZ
+\CMTS
+\lex w@tz [2]
+\_no 00390
+\SPG gotear
+\ENG to drip
+\SEMF water
+\ASP transition
+\ARG
+\NOM
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\ASP process
+\ARG
+\NOM
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\lex w@7tz
+\_no 00391
+\SPG rechinar (como huaraches, una silla en una pared de tejas, el cuero
+de los piernas en una silla de pla*stico)
+\ENG to squeak (like huaraches, a chair slid across tile floor, bare flesh
+of the back of the thighs on a plastic chair)
+\SEMF sound
+\lex way
+\_no 00392
+\SPG tener tin~a o manchas
+\ENG to have spots or blotches
+\SEMF body
+\ASP state
+\ARG
+\NOM
+robert me tumbo* mis arboles
+\RTGR IX
+\POS
+me peino* mi cabello
+me despeine*
+Page 96

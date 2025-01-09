@@ -1,0 +1,62 @@
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 08/Jan/96
+\lex 7anh-kim. 'oy.pa+a7k
+\_no 00103
+\LG MIG
+\PSH [7anhkimmoba*7]
+\UND 7anh-kim. 7oy-pa+v7k
+\MB BOCA, subir, ANTIP, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG persona que manda
+\ENG the person who rules
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT kim
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 08/Jan/96
+\lex 7anhko*7
+\_no 00104
+\LG MIG
+\PHO [7anhko*7]
+\UND
+\MB
+\VAR
+\GRAM
+\SPG pues
+\ENG well
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex 7anh-kom
+\_no 00105
+\LG MIG
+\PSH [7anhkom-]
+\UND 7anh-kom
+\MB BOCA, remendar
+\VAR
+\GRAM vt
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG remendar en donde estaba roto
+\ENG to mend where it is torn
+\SPL
+\SLGR
+Page 45

@@ -1,0 +1,63 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 15/Jun/95
+\lex petz=we7k
+\_no 02614
+\LG MIG
+\PSH [petzwe7k-]
+\UND petz=we7k
+\MB varilla, envarillar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG envarillar
+\ENG to weave poles or branches together
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT we7k
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex pe7tz
+\_no 02615
+LG MIG
+\PSH
+\UND pe7tz
+\MB
+\VAR
+\GRAM vt
+\SPG recoger los dos pies
+\ENG to draw up both legs (into a cross-legged position)
+\EXU 1 7@y+ pe7tz-w@ 7@y+ manh.kuy7
+\XPSH_ 1 [7@y pe7tztz@y manhkuy7.]
+\XSP 1 Recogio* sus pies.
+\XEN 1 She sat cross-legged.
+\EXU 2 pe7tz.yak. 'oy-pa
+ZOH004R0011001.txt
+\XPSH 2 [Pe7tzyakkoba.]
+\XSP 2 Anda en el suelo con los pies recogidos.
+\XEN 2 He crawled on his crossed legs.
+\EXU 3 nax+jo' pe7tz.ney-w@
+\XPSH 3 [Naxjo pe7tzneyy@.]
+\XSP 3 Esta* sentado en el suelo con recogido su pie.
+\XEN 3 She is sitting on the ground with legs crossed.
+\SYN
+\SEMF body, arrange
+\ASP achievement
+\ARG
+\NOM
+Page 1125

@@ -1,0 +1,63 @@
+\MB BOCA, vivir
+\VAR
+\GRAM Vi
+\SCI
+\USE
+\SPG sacar un poco de aire
+\ENG to let out a little air
+\SPL
+\SLGR
+\EXU ban xawa tax-w@ mae7, pero te.y 7anh-jej-w@+7am
+\XPSH_[Ban_xawa taxx@ mae7, pero tey 7anhjejja*m.]
+\XSP Estaba muy lleno de aire, pero ya saco* un poco de aire.
+\XEN He was full of gas, but now he let out a little.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jej
+\RTGR 12
+\DSRC HAJ95
+\CMTS concerns a person, being full of gas, and then letting some go
+\date 09/oct/96
+\lex 7anh-jek
+\_no 00061
+\LG MIG
+\PSH [7anhjek-]
+\UND 7anh-jek
+\MB BOCA, derrumbarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG desamontonar
+\ENG to tumble down
+\SPL
+\SLGR
+\EXU_7anh=jek-w@ 7@y+ 7aka
+\XPSH [7anhjekk@y 7aka.]
+\XSP Desamontono* en la orilla.
+\XEN It tumbled down at the edge.
+\SYN win-jek
+\SEMF
+\ETYM
+\ETL
+\ROOT jek
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 09/Oct/96
+\lex 7anh-je7k
+\_no 00062
+\LG MIG
+\PSH [7anhje7k-]
+\UND 7anh-je7k
+\MB BOCA, X
+ZOH004R0011001.txt
+\VAR
+\GRAM vt, vi:med
+\SCI
+\USE
+\SPG tener miedo
+\ENG to be afraid
+Page 27

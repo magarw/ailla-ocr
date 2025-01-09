@@ -1,0 +1,21 @@
+objects, and it is often the positional suffixes that make these meanings
+apparent. (see chapter 13 for more discussion).
+7.1.2.1. Assumptive ney
+This suffix is diagnostic of the Positional verb root class. Verbs with the
+assumptive suffix appear with absolutive agreement markers, indicating that
+they are intransitive. Assumptive means "to assume the shape or orientation of
+V-ing" (Kaufman, 1996). This generally translates as "to be in the position of
+having been V-ed". These are not always transparently positional to our
+sensibilities, as the first example shown below illustrates.
+The suffix may also highlight an underlying, or nearly buried, sense of
+positionality that is not the focus of the active verb root. In example (v), the
+root nakš- generally means 'to hit or pound with a stick'. It's often included in
+verb compounds (chapter 8) to supply a wooden instrument to the event
+described by the other verb root. In this example, however, the visual character
+of sticks is referenced: that they have branches that things can hang on. The
+assumptive suffix may also focus on the act that produces the result that is
+generally the focus of the root. In example (vi), below, the verb root koh-
+usually means 'to pierce or punch a hole in something'. With the assumptive
+suffix, the focus is on the position of the piercing instrument in the act of
+piercing: the stick is stuck through the fruit.
+164

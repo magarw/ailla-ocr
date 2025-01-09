@@ -1,0 +1,78 @@
+7abistz@kk@
+ti
+ZOH001R0551001.txt
+jam ye7tzpa
+7ay 7abisar-tz@k -w@ ti jam ye7tz -pa
+avisar -hacer-COM que cal
+llegar-INC
+\eg1 NEG 3E warn -do -COM what lime arrive-INC
+\mb
+\tx ya y
+ya
+\sg1 NEG 3E
+\zoq Yay 7abistz@kk@ ti jam ye7tzpa.
+\fts No le aviso* que di*a va a llegar.
+fte she didn't tell us what day she was coming.
+\com
+\idx
+\ref ZOH001R055 004
+\_no 00005
+\tx 7entonses n@mpa
+\mb 7entonses n@m
+7i jerma*n n@nti7aw@
+-ра 7i jerma*n n@nti
+\sg1 entonces decir-INC y Germa*n no_hay
+\egl then
+\zoq 7entonses n@mpa, "7i Jerma*nh, n@nti7aw@."
+\fts Entonces dice, "y Germa*n, no esta*."
+"Y
+\fte Then she said, "And Germa*n, he's not here".
+\com
+\not
+\idx
+-7a -w@
+-VERS1-COM
+say -INC and Germa*n there isn't-VERS1-COM
+\ref ZOH001R055 005
+\_no 00006
+\tx ju
+\mb ju7
+\sgl donde irse-COM
+\egl where go -COM
+n@kk@
+n@k -w@
+\zoq "Ju n@kk@?"
+fts "Donde fue*?"
+\fte "where did you go?"
+\com
+\idx
+\ref ZOH001R055 006
+\_no 00007
+\tx n@kk@
+7@y yoxe
+\mb nak -w@ 7@y yox
+\sg] irse-COM 3E
+\egl go -COM 3E
+\com
+\idx aux_p1
+-E
+trabajar-dcom
+work
+\zoq "N@kk@y yoxe."
+\fts "Fue* a trabajar."
+\fte "He went to work.
+\ref ZOH001R055 007
+\_no 00008
+"I
+\tx tzakk@mm@
+\mb tzak -7@m -w@
+\sg1 dejar-PAS -COM
+\egl leave-PASS-COM
+-dCOM
+\tx bweno 7entonse n@kpa ga7xe maryo lopes 7anhj@7 7@n
+\mb bweno 7entonses n@k -pa ka -7xe maryo lopes 7anhj@7 7@n
+\sg1 bueno entonces irse-INC DCT3-SIM Mario Lopez DIR5 1E
+\egl good then
+go -INC DCT3-SIM Mario Lopez DIR5
+1E
+Page 2

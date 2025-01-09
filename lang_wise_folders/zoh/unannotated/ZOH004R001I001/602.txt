@@ -1,0 +1,62 @@
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex komi '=tz@k
+\_no 01381
+\LG MIG
+\PSH [komitz@k-]
+\UND komi 7=tz@k
+\MB grande, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer grande
+\ENG to make large
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 26/Jan/96
+\lex kom.kuy7
+\_no 01382
+\LG MIG
+\PSH [komkuy7]
+\UND kom. kuy7
+\MB remendar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG 1 aguja
+\SPG 2 parche
+\ENG 1 needle
+\ENG 2 patch
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kom
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex ko.mo.e7
+\_no 01383
+ZOH004R0011001.txt
+Page 602

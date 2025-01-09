@@ -1,0 +1,63 @@
+\UND jeme7tz
+\MB
+\VAR
+\GRAM a/s
+\SCI
+\USE
+\SPG pesado
+\ENG heavy
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 06/Feb/96
+\lex jeme7tz=tz@k
+\_no 00730
+\LG MIG
+\PSH [jeme7tztz@k-]
+\UND jeme7tz=tz@k
+\MB pesado, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer pesado
+\ENG to make heavy
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 20/Jun/95
+\lex jeme7tz.'aH
+\_no 00731
+\LG MIG
+\PSH [jeme7tztza-]
+\UND jeme7tz.7aH
+\MB pesado, VERS1
+\VAR
+GRAM versl
+\SCI
+\USE
+\SPG hacerse pesado
+\ENG to become heavy
+\SPL
+\SLGR
+\EXU
+\XSP
+ZOH004R0011001.txt
+Page 314

@@ -1,0 +1,62 @@
+\CMTS
+\date 03/Jan/80
+\lex {min-ti-jaa7}
+\_no 04461
+\LG MIG
+\PSH [mintija*7]
+\UND min-ti-jaa7
+\MB 2POSN
+\VAR
+\USE second person plural possessive noun
+\GRAM S
+\SPG de Uds.
+\ENG yours
+\SPL
+\SLGR
+\EXU
+\XPSH
+\XSP
+\XEN
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date 03/Jan/80
+\lex {=min}
+\_no 04462
+\LG MIG
+\PSH
+\UND min
+\MB DACA
+\VAR
+\USE directional auxiliary verb in its compound form
+\GRAM aux
+\SPG venir
+\ENG to come
+\SPL
+\SLGR
+\EXU d@x 7@n+ p@k-min-w@ toto7
+\XPSH [D@x 7@n p@kminn@ toto7.]
+\XSP YO traje mi papel.
+\XEN I brought my papers.
+\SYN
+\SEMF
+\ROOT min
+\RTGR IX
+\DSRC HAJ98
+\CMTS
+\date
+ZOH004R0011001.txt
+\lex {mix+7@m}
+\_no 04463
+\LG MIG
+\PSH [mixx@m]
+\UND mix +7@m
+\MB 2Prn, 2E/2A
+\VAR
+\USE 2>1. appears where 'mix' (1>2; 2>1) could be used alone,
+presumably to disambiguate subject and object
+\GRAM pron
+Page 1916

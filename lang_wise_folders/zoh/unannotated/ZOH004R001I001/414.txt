@@ -1,0 +1,63 @@
+\ROOT 1 jup
+\RTGR 1 P, (T3)
+\ROOT 2 tz@y
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 12/Aug/94
+\lex jup=wanak
+\_no 00948
+\LG MIG
+\PSH [jupwanak-]
+\UND jup-wanak
+\MB jalar, bajar
+\VAR
+\GRAM vt+dir
+\SCI
+\USE
+\SPG bajar jalandolo
+\ENG to lower something by pulling it
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 jup
+\RTGR 1 P, (T3)
+\ROOT 2 wanak
+\RTGR 2 Il
+\DSRC HAJ94
+\CMTS
+\date 20/Jun/95
+\lex jup-witu'
+\_no 00949
+\LG MIG
+\PSH [jupwitu-]
+\UND jup-witu7
+\MB jalar, regresar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG regresar jala*ndolo
+\ENG to pull something back
+\SPL
+\SLGR
+\EXU 7@y+ mama 7@y+ jup-wit-w@ bi chik jaya_7une7
+\XPSH [7@y mamay jupwitt@ bi chikja:y7une7.]
+\XSP Su mama* lo anduvo jalandolo el nin~o.
+\XEN His mother helped the baby boy to walk.
+\SYN
+SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT 1 jup
+\RTGR 1 P, (T3)
+\ROOT 2 witù
+\RTGR 2 11l
+\DSRC HAJ95
+\CMTS
+Page 414

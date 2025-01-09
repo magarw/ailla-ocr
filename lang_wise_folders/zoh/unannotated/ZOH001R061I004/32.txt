@@ -1,0 +1,63 @@
+\_no 00075
+\LG MIG
+\PHO [jeja]
+\UND jej.A
+\MB vivir, NOM2
+\VAR
+\GRAM SV
+\SPG vive
+\ENG_living
+\EX 7une' 7@y+ jej.a
+\XPSH [7uney jeja]
+\XSP la parte mollera en la cabeza del recien nacido
+\XEN the soft spot on the head of a new born
+\SYN
+\ROOT jej
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex jeken.e
+\_no 00076
+\LG MIG
+\PSH [jekene]
+\UND jeken. E
+\MB enrollar, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG enrollado
+\ENG coiled
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jeken
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 06/Feb/96
+\lex jek.@7
+\_no 00077
+\LG MIG
+\PHO [jek@7]
+\UND jek.A7
+\MB derrumbarse, NOM2
+\VAR
+\GRAM SV
+\SPG derrumbada
+\ENG tumbled-down
+\EX jek.@7+k nax
+\XPSH [jek@7k nax]
+\XSP tierra derrumbada
+\XEN tumbled-down dirt pile
+\SYN
+ZOH001R0611004.txt
+\ROOT jek
+\RTGR 12
+\DSRC HAJ95
+Page 32

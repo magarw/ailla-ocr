@@ -1,0 +1,62 @@
+\lex jun
+\_no 00035
+\SPG caer pelo
+\ENG for hair to fall out
+\EX way junn@
+\XSP cayo
+pelo
+\XEN his hair fell out
+\ROOT jun Ix
+\SEMF body
+\ASP process
+\CAUS yak.jun hacer caer el pelo
+\CMTS
+\date 03/Jan/80
+\lex j@7kx
+\_no 00036
+\SPG apurarse
+\ENG to hurry
+\EX j@7kxpa
+\XSP ra*pido; veloz
+\XEN rapid; swift
+\EX j@7kxpa_y_n@kk@
+\XSP va apurado; va ra*pido
+\XEN he goes hurrying
+\ROOT ja7kx Il
+\SEMF motion
+\ASP state
+\CAUS yak.j@7kx apurar
+\CMTS
+\date 03/Jan/80
+\lex jan
+\_no 00037
+\SPG tener ganas de ir a baile o bar pero no ir (en alguna parte)
+\ENG to be in the mood to go dancing or to a bar but not go anywhere
+\EX
+\XSP
+\XEN
+\ROOT jan Ix
+\SEMF cog
+\ASP state
+\CAUS yak.j@n hacerle ganas de ir a alguna parte, pero ya no fueron
+\date 03/Jan/80
+\lex jat
+\_no 00038
+\SPG rebajar
+\ENG to lose weight
+\EX
+\XSP
+\XEN
+\ROOT jat 12
+\SEMF body
+ZOH001R0611007.txt
+\ASP process, transition
+\CAUS yak.jat hacer rebajar
+\CMTS
+\date 03/Jan/80
+\lex j@7t
+\_no 00039
+\SPG regar el ri*o
+\ENG to be flooded; to be carried off by the flood; to be covered by flood
+water (cornfield)
+Page 9

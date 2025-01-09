@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kap
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 17/Jul/95
+\lex yuk.ka'
+\_no 04260
+\LG MIG
+\PSH [yukka-]
+\UND yuk.ka7
+\MB ARR, morirse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG 1 empezar a regan~ar
+\SPG 2 discutir
+ENG 1 to start to scold
+\ENG 2 to argue
+\EXU yuk.ka'-xuk-w@
+\XPSH [Yukkaxukk@.]
+\XSP Discutieron.
+\XEN They argued.
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ka7
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex yuk.kej
+\_no 04261
+\LG MIG
+\PSH [yukkej-]
+\UND yuk. kej
+\MB ARR, verse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG verse
+\ENG to appear
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kej
+ZOH004R0011001.txt
+Page 1830

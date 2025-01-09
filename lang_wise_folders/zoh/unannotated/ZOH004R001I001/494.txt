@@ -1,0 +1,65 @@
+\PSH
+\UND ka7oba
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG caoba
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 10/Nov/94
+LF: kuy
+\lex kabayitu m@tz.i7
+\_no 01131
+\LG MIG
+\PSH [kabayitu m@tzi7]
+\UND kabayitu m@tz.E7
+\MB caballito, *jugar, NOM7
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG cigarra; caballito del diablo; mantis; juguete de caballito
+\ENG a type of insect
+\EXU tzux kabayitu m@tz.i7
+\XSP caballito verde
+\EXU pu7tz.pu7tz kabayitu m@tz.17
+\XSP caballito amarillito
+\XSP
+\XEN
+\SYN
+\EXU kabayitu m@tz.i' pu7tz.pu7tz+p@7
+\XPSH [kabayitu m@tzi_pu7tzpu7tzp@7]
+\XSP caballito amarillo
+\SEMF EZ
+\ETYM
+\ETL
+LF: bugs
+\ROOT
+\DSRC TK94
+\CMTS NAIS 298 300
+\date 07/Feb/96
+\VAR
+\GRAM vt
+\lex kabu.7@y
+\_no 01132
+\LG MIG
+\PSH [kabu7@y-]
+\UND kabu.7@y
+\MB cabo, VERS2
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG poner mango
+\ENG to put a handle on something
+Page 494

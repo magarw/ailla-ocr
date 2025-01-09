@@ -1,0 +1,52 @@
+\SPG quien
+\ENG who
+\lex kyera
+\_no 01209
+\SPG quiera
+\ENG one likes
+\lex k@
+\_no 01210
+\SPG AFUERA
+\ENG AWAY
+\lex k@7ay
+\_no 01211
+\SPG XXX
+\ENG XXX
+\lex k@ak
+\_no 01212
+\SPG huarache
+\ENG huarache
+\lex k@j
+\_no 01213
+\SPG camote
+\ENG yam
+\lex k@juki
+\_no 01214
+\SPG caracol
+\ENG snail
+\lex k@j@7
+\_no 01215
+\SPG debajo_de; abajo
+\ENG below; under
+\lex k@j@kanh
+\_no 01216
+\SPG debajo
+\ENG underneath
+\lex k@j@nanh
+\_no 01217
+\SPG para_abajo
+\ENG down_there
+\lex kaj@t@nh7
+\_no 01218
+\SPG almohada
+\ENG pillow
+\lex k@j@@nh
+\_no 01219
+\SPG por_abajo; debajo
+\ENG under; from_under; below
+\lex k@kuma
+\_no 01220
+\SPG anillo
+\ENG ring
+ZOH001R0611013.txt
+Page 97

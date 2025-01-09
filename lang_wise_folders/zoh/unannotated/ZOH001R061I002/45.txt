@@ -1,0 +1,62 @@
+\POS NO
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex m@7tz
+\_no 00180
+\SPG rechinar
+\ENG to squeak
+\SEMF sound
+\ASP activity
+\ARG
+\NOM
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex m@x
+\_no 00181
+\SPG tener asco
+\ENG to be nauseated by something
+\SEMF body
+\ASP state
+\ARG
+\NOM 7ok.m@x.kuy7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex naka7tz
+\_no 00182
+\SPG 1 planchar
+\SPG 2 machucar
+\SPG 3 aplastar
+\ENG 1 to iron
+\ENG 2 to crush
+\ENG 3 to flatten
+\SEMF break, clean
+\ASP activity, achievement
+\ARG
+\NOM naka7tz.kuy7, naka'tz.e7
+\RTGR T3
+\POS da naka7tzjayy@n x@kk@xi
+\MID
+\UNDO
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\ASP activity
+\ARG instrument
+\NOM kuy 7anh.nakx, nakx.kuy7
+me machuco* los frijoles cocidos
+\lex nakx
+\_no 00183
+\SPG pegar, majar (con palo)
+\ENG to hit, to pound (with a piece of wood)
+\SEMF hit
+Page 45

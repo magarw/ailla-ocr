@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [yom@ 7une7]
+\UND yom@=7une7
+\MB hembra, nin~o/a
+\VAR yoma 7une7 [GSM won't say this], yoom 7une7
+\GRAM s (m) s
+\SCI
+\USE
+\DLG
+\SPG joven; muchacha; soltera
+\ENG young woman, girl; bachelorette
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH: is it yom@...?
+\date 26/Jun/96
+\lex yon
+\_no 04163
+\LG MIG
+\PSH
+\UND yon
+\MB
+\VAR
+\GRAM vi: med
+\SCI
+\USE
+\SPG zafarse; salirse
+\ENG to slip away; to get out
+\SPL yak.yon
+\SLGR CAUS
+\SLGL darle lugar que saliera // to give room to get away
+\EXU 1 yon-w@ 7anh.paj+joonh bi bejcha
+\XPSH 1 [Yonn@ 7anhpajjo*nh bi bejcha.]
+\XSP 1 Salio* del cerco el caballo.
+\XEN 1 The horse got out of the fence.
+\EXU 2 jak(ke) yon-w@ kuy 7okox
+\XPSH_2 [Jak yonn@ kuy 7okox.]
+\XSP 2 Muy alto ese a*rbol.
+\XEN 2 That tree is very tall.
+\SYN
+ZOH004R0011001.txt
+\SEMF move
+\ASP transition
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT yon
+\RTGR IX
+\DSRC TK94
+\CMTS get deriv's; v/yon (10
+\CMTS caus
+\date 03/Jan/80
+\lex yon.kuy7
+\_no 04164
+Page 1789

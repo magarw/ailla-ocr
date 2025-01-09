@@ -1,0 +1,61 @@
+\CLZ
+\CMTS
+\lex wan
+\_no 00352
+\SPG cantar
+\ENG to sing
+\SEMF speak
+\ASP process
+\ARG patient
+\NOM wan.e7
+\RTGR T1
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex wanak
+\_no 00353
+\SPG bajarse
+\ENG to go down
+\SEMF move_self
+\ASP activity
+\ARG direction
+\NOM wanak. kuy7
+\RTGR 11
+\POS ya da jemetzam, m@jma da wanakjayy@
+\POS ya no peso mucho, bastante rebaje*
+\POS has to be about the body
+\MID
+\UNDO NO
+\CLZ
+\CMTS
+\lex wanhka'
+\_no 00354
+\SPG voltearse (de personas)
+\ENG to turn over (of people)
+\SEMF move_self
+\ASP transition
+\ARG direction
+\NOM
+\RTGR P (11)
+\POS NO
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex wat
+\_no 00355
+\SPG 1 amarrar
+\SPG 2 ganar
+ENG 1 to tie
+ENG 2 to earn
+\SEMF arrange
+\ASP achievement
+\ARG
+\NOM wat.e7, wat.kuy7
+\NOM wat.naanh
+ZOH001R0611002.txt
+\RTGR P (T3)
+\POS rroberto d@ watjayy@n wakax
+Page 87

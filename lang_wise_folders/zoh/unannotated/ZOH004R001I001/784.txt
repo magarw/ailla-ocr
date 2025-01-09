@@ -1,0 +1,62 @@
+\date 25/Jun/96
+\lex loko.7aH
+\_no 01815
+\LG MIG
+\PSH [1oko7a-]
+\UND loko.7aH
+\MB loco, VERS1
+\VAR
+\GRAM vers1
+\SCI
+\USE
+\SPG enloquecerse
+\ENG to go crazy
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex lok(o)=tuk
+\_no 01816
+\LG MIG
+\PSH [lokotuk-]
+\UND Toko-tuk
+\MB loco, terminarse
+\VAR look-tuk
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG enloquecerse
+\ENG to go crazy
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM loco
+\ETL Sp
+\ROOT tuk
+\RTGR 12
+\DSRC HAJ94
+\CMTS get deriv's
+\date 07/Feb/96
+\lex 107k
+\_no 01817
+\LG MIG
+\PSH
+\UND 107k
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+ZOH004R0011001.txt
+Page 784

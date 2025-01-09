@@ -1,0 +1,80 @@
+\id C:\TEXTS\ZOH001R048.TXT
+\ref ZOH001R048 000
+\_no 00001
+\zoq Matz@kk@n witi
+\fts Anduvo vendiendo
+\fte I went around selling
+\com narrado por Filogonia Marti*nez Hernandez
+\com 12/4/95, en San Miguel Chimalapa, Oaxaca, Mexico
+\com grabado por GSM, transcrito por Heidi Anna Johnson,
+\com traducido al espan~ol por GSM,
+\com analisado y traducido al ingles por HAJ.
+\com
+\com
+\com 7
+\com narrated by Filogonia Marti*nez Herna*ndez
+\com 4/12/95, in San Miguel Chimalapa, Oaxaca, Mexico
+\com recorded by GSM, transcribed by Heidi Anna Johnson,
+\com translated into Spanish by GSM,
+\com analyzed and translated into English by HAJ.
+Ortografi*a
+Orthography
+\com @
+\com nh
+\com tz
+\com x
+\com j
+\com *
+pau*sula glotal
+vocal medio central
+nasal velar
+\zoq J@7.
+\fts Si.
+\fte Yes.
+\com
+\idx
+\ref ZOH001R048 001
+\_no 00002
+\tx
+j@.
+\mb ja7
+\sgl si*
+\egl yes
+(ng)
+africativo alveolar (ts)
+fricativo palatal (sh)
+glottal fricative (h)
+estre*s
+\ref ZOH001R048 002
+\_no 00003
+ZOH001R0481001.txt
+28/Oct/04
+\zoq wenu d@ matz@kk@n witi.
+\fts Anduve vendiendo mucho.
+\fte I went selling a lot.
+\com
+\idx
+\ref ZOH001R048 003
+\_no 00004
+\tx
+wen d@ witt@
+\mb wenu d@
+da wit -w@
+\sg1 mucho 1A andar-COM unio*n
+\egl a_lot 1A walk -COM unio*n
+wen d@ matz@kk@
+n
+witi.
+\tx
+\mb wenu d@ ma7 -tz@k -wa 7@n wit -E
+\sg1 mucho 1A venta-hacer-COM 1E andar-dCOM
+\egl a_lot 1A sale -do -COM 1E walk -dcom
+7unyo*n.
+7unyo*n.
+glottal stop
+mid central vowel
+velar nasal
+alveolar affricate
+palatal fricative
+stress
+Page 1

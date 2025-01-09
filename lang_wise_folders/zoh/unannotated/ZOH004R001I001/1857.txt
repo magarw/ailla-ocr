@@ -1,0 +1,63 @@
+\ENG to start to swim
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yun
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 13/Jul/95
+\lex yu7k. '@y
+\_no 04325
+\LG MIG
+\PSH [yu7kk@y-]
+\UND yu7k.7@y
+\MB X, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG regan~ar
+\ENG to scold
+\EXU yu7k. '@y-A7
+\XPSH [Yu7kk@7!]
+\XSP !Rega*n~elo!
+\XEN Scold her!
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT yu7 ??
+\DSRC TK94
+\CMTS get derivs; can't: TK
+\date 26/Jun/96
+\lex yum
+\_no 04326
+\LG MIG
+\PSH
+\UND yum
+\MB
+\VAR
+\GRAM vt, vi:med
+\SCI
+\USE
+\SPG hervir(se)
+\ENG to boil
+\SPL yak.yum
+\SLGR CAUS
+\SLGL hervir // to boil
+\EXU 1 n@7 7@y+ yum-xuk-w@+@7k
+\XPSH 1 [n@7 7@y yumxukk@*7k]
+\XSP 1 agua hervida
+\XEN 1 boiled water
+\EXU 2 jak yum-pa
+\XPSH 2 [Jak yumpa.]
+\XSP 2 Esta* hirviendo mucho.
+ZOH004R0011001.txt
+Page 1857

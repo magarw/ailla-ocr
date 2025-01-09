@@ -1,0 +1,63 @@
+\date 03/Jan/80
+\lex tzo7t
+\_no 03410
+\LG MIG
+\PSH
+\UND tzo7t
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG arrancar (sin la rai*z)
+\ENG to pull up (without the root)
+\SPL tzo7t.7oy
+\SLGR ANTIP
+\SLGL_arrancar // to pull up
+\SPL tzo7t.7@m
+\SLGR PASS
+\SLGL arrancarse // to be pulled up
+\SLGR NO ASSUM1
+\EXU 1 7@y+ j@x.tzo7t-w@
+\XPSH 1 [7@y j@xtzo7tt@.]
+\XSP 1 Lo arranco* sin la rai*z.
+\XEN 1 She pulled it up without the root.
+\EXU 2 tzo7t. '@m-w@ bi we7k
+\XPSH 2 [Tzo7tt@mm@ bi we7k.]
+\XSP 2 Arrancaron el tule.
+\XEN 2 They (someone) pulled up the tule.
+\SYN
+\SEMF plant
+\ASP achievement
+\ARG
+\NOM jup=tzo't.e7
+\SUB j@x-tzo7t
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT tzo7t
+\RTGR T3
+\DSRC TK94
+\CMTS get deriv's, CK-GR changed from vi -> vt, despegar -> arrancar
+\date 03/Jan/80
+\lex tzo7tz
+\_no 03411
+\LG MIG
+\PSH
+\UND tzo7tz
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG faltar
+\ENG to lack; to miss
+\SLGR NO CAUS
+\SLGR NO PCP
+\EXU 1 tzo7tz-wa majm@ 7@n+ t@k pa(ra) tuk-pa
+\XPSH 1 [Tzo7tztz@ m@jm@ 7an tak pa tukpa.]
+\XSP 1 Falta mucho mi casa para que termina.
+\XEN 1 My house is missing a lot before it's done.
+\EXU 2 da tzo7tz-w@ 7@n+ t@k+jo' 7@n+ mama+7anhji7
+\XPSH 2 [D@ tzo7tztz@n t@kjo 7@n mama7anhji7.]
+Page 1467

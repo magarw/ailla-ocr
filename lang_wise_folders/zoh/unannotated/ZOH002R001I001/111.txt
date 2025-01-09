@@ -1,0 +1,44 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+Three of the most common ones are included in the table. Zoque
+subordinators appear at the right edge of the verbal complex5; Spanish ones, in
+accordance with the rules of Spanish grammar, appear at the left edge of the
+subordinate clause. The Zoque forms go? and bi?t appear much less frequently
+than their Spanish equivalents, para and si; when they do occur, they are often
+paralleled by the Spanish term at the beginning of the clause (examples iii and
+iv).
+(4.33)
+(i)
+(ii)
+(iii)
+(iv)
+5
+minpa bi't lusyo yoxtáng gajønang
+0 min-pa
+bi?t lusyo yoš-taaŋ ga+hənaŋ
+3A come-INC IF lusyo work-HORT DCT3+ACC
+'If Lucio comes, let's work with him.'
+minpa lusyo bi't yoxtáng gajønang
+0 min-pa
+lusyo bi?t yoš-taaŋ ga+hənaŋ
+3A come-INC lusyo IF work-HORT DCT3+ACC
+'If Lucio comes, let's work with him.'
+'øn jayjayyám
+?ən+ hay.hay-wǝ+?am
+1E+ write.APPL-COM+NOW
+pan nøktampa gó' 'øn yoxtammø
+para ?ən+ nək-tam-pa
+(elicited)
+si nøkpan 'ixtampa bi't
+si nək-pa ?ən+ ?iš-tam-pa
+bi?t
+if go-INC 1E+ see-1/2PL-INC IF
+'If we go see him'
+(elicited)
+goo? ?ǝn+ yoš-tam-wǝ
+so_that 1E+ go-1/2PL-INC PURP 1E+ work-1/2PL-COM
+'I've already written to him so that we can go work."
+(ZOH001 RO10-174)
+(ZOH001R010-357)
+go? and bi?t show a tiny degree of flexibility with respect to position, as shown in
+examples (4.31 i and ii). See chapter 11 for further discussion of this variability.
+86

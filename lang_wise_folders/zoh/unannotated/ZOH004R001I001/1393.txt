@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [tzam- kaxtiajo7]
+\UND tzam [kaxtia+jo7
+\MB platicar, castilla, LOC2
+\VAR kastia+jo7
+\GRAM
+\SCI
+\USE
+\SPG hablar en castilla (espan~ol)
+\ENG to speak Spanish
+\EXU tzam-pa kastia+jo7
+\XPSH [Tzampa kastiajo7.]
+\XSP Habla en castilla.
+\XEN He's speaking Spanish.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzam
+\RTGR T1
+\DSRC HAJ95
+\CMTS CK-PH he says you say 's' because it's Spanish & produces both
+\date 26/Jun/96
+\lex tzam [1]
+\_no 03239
+LG MIG
+\PSH
+\UND tzam
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG platicar
+\ENG to converse
+\EXU 7@n+ tzam-pa tum tzam.e
+\XPSH [7@n tzampa tum tzame.
+\XSP voy a platicar un cuento.
+\XEN I'm going to tell a story.
+\SYN
+\SEMF speak
+\ASP activity
+\ARG
+\NOM tzam.e
+\SUB 7anh.tzam, 7anh.tzam.'@y, 7ok.tzam.jay, jo.tzam, k@.tzam.'@y,
+\SUB_num=tzam, tzam=kej, tzam=tzokoy'=po¹, win-tzam=tuk
+\ETYM
+\ETL
+\ROOT tzam
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+ZOH004R0011001.txt
+\lex tzam [2]
+\_no 03240
+\LG MIG
+\PSH
+\UND tzam
+\MB
+\VAR
+\GRAM vi
+Page 1393

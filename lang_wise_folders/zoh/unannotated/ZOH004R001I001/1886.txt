@@ -1,0 +1,63 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 12/Feb/96
+\lex {+7ora}
+\_no 04393
+\LG MIG
+\PSH
+\UND 7ora
+\MB TEMREL
+\VAR
+\GRAM rel
+\SPG cuando
+\ENG when
+\SPL
+\SLGR
+\EXU 1 la 7ora ke tayna=n@k-w@ 7@y+ ni.pen-wak-w@ 7@y+
+machete
+\XPSH 1 [La 7ora ke taynan@kk@, 7@y nipenwakk@y machete.]
+\XSP 1 La hora que se fue* de la espalda, le quito* de pescozo*n su
+machete.
+\XEN 1 As he tumbled over backwards, he pulled his machete from its
+scabbard.
+\EXU 2 naxe 7@y+ yak.nik.poy. '@y-pa +7ora 7@y+ tzi-w@ 7axta
+ga.jaanh
+\XPSH 2 [Naxe, 7@y yaknikpoyy@ba 7ora, 7@y tziw@ 7axta
+gaja*nh.]
+XSP 2 De verdad, la hora que se le vino encima, le pego* hasta por
+alla*.
+\XEN 2 In fact, when he jumped on top of him, he knocked him over
+there.
+\EXU 3 7@y+ t@nh-w@ bi kuy 7okox 7@y+ tz@n-w@ +7ora bi
+mixtu kuy 7okox tzap-j@7
+\XPSH 3 [7@y t@nhnha bi kuy 7okox 7@y tz@nn@ 7ora bi mixtu kuy
+7okox tzapj@7.]
+\XSP 3 Corto* el palo la hora que estaba el gato arriba del arbol.
+\XEN 3 He cut down the tree while the cat was sitting up in the tree.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+ZOH004R0011001.txt
+\DSRC HAJ98
+\CMTS
+\date
+\lex {.7oy}
+\_no 04394
+\LG MIG
+\PSH
+\UND 7oy
+\MB ANTIP
+\VAR
+\USE verbal suffix: antipassive
+\GRAM suf
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU d@+ w@7t.7oy-tam-pa
+Page 1886

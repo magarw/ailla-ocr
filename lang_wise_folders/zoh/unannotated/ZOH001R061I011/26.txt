@@ -1,0 +1,60 @@
+\lex muk
+\_no 00124
+\SPG caerse; caer
+\ENG to fall down; to drop
+\EX
+\XSP
+\XEN
+\ROOT muk 12
+\CMTS caus yak.muk dejar caer
+\CMTS caus2 yak+ muk dejar caer
+\lex mu7k
+\_no 00125
+\SPG chupar
+\ENG to suck
+\EX
+\XSP
+\XEN
+\ROOT mu7k T3
+\CMTS antip mu7k. 7oy
+\CMTS no pass mu7k.7@m
+\lex mum
+\_no 00126
+\SPG arrugarse; enjutarse - flor
+\ENG to become wrinkled
+a flower
+\EX
+\XSP
+\XEN
+\ROOT mum 12
+\CMTS caus yak.mum enjutar; arrugar
+\lex mut
+\_no 00127
+\SPG orinarse porque no alcanzas el ban~o
+\ENG to piss yourself because you can't make it to the bathroom
+\EX n@mutt@
+\XSP nacio* agua
+\XEN
+\ROOT mut Ix
+\CMTS get deriv's
+\lex mux
+\_no 00128
+ZOH001R0611011.txt
+\SPG saber
+\ENG to know
+\EX jak muxxoba
+\XSP sabe mucho
+\XEN she knows a lot
+\ROOT mux T3
+\CMTS caus2 yak.mux publicar to reveal
+\CMTS antip mux. 7oy aprender
+\CMTS pass mux.7@m "se supo"
+\lex muxi7
+\_no 00129
+\SPG puto
+\ENG male whore
+\EX
+\XSP
+\XEN
+\ROOT mux T3
+Page 26

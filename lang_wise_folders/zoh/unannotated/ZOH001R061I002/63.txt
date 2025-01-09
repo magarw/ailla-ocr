@@ -1,0 +1,63 @@
+\CLZ
+\CMTS
+\lex pu7tz
+\_no 00253
+\SPG ponerse
+amarillo
+\ENG to turn yellow
+\SEMF plant, color
+\ASP achievement, accomplishment
+\ARG
+\NOM pu7tz.pu7tz
+\RTGR IX
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex pux
+\_no 00254
+\SPG deshacer algo de barro no bien "cocido"; desboronar
+\ENG to break up a badly-fired clay object; to crumble
+\SEMF break
+\ASP semelfactive, activity
+\ARG
+\NOM * kuy, * naanh
+\RTGR T3
+\POS rroberto da puxjayy@ n xuyu
+\MID puxx@mm@ nax
+\UNDO
+\CLZ
+\CMTS
+\ASP state, activity
+\ARG
+\NOM
+\RTGR P (11)
+\POS
+\lex puy [1]
+\_no 00255
+\SPG doblarse porque no resiste la carga
+\ENG to bend under a weight
+\SEMF arrange
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex pu' [1]
+\_no 00256
+\SPG deshilar; desatar
+\ENG to unravel; to untie
+\SEMF arrange
+\ASP accomplishment
+\ARG
+ZOH001R0611002.txt
+\NOM
+\RTGR P (T3)
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+rroberto me desborono* mi olla
+se desborono*
+Page 63

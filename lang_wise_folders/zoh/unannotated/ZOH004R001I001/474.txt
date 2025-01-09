@@ -1,0 +1,63 @@
+\_no 01081
+\LG MIG
+\PSH [j@xmatz-]
+\UND j@x-matz
+\MB ATRAS, sobar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar algo sobandolo
+\ENG to get something out by rubbing it
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT matz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 11/Jan/96
+\lex j@x-ma7tz
+\_no 01082
+\LG MIG
+\PSH [j@xma7tz-]
+\UND j@x=ma7tz
+\MB ATRAS, amasar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar amasa*ndolo
+\ENG to knead out
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ma7tz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 11/Jan/96
+\lex j@x-may
+\_no 01083
+ZOH004R0011001.txt
+\LG MIG
+\PSH [j@xmay-]
+\UND j@x-may
+\MB ATRAS, contar
+\VAR
+\GRAM vt
+\SCI
+\USE
+Page 474

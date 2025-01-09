@@ -1,0 +1,85 @@
+\fte She said to the child.
+\ref ZOH001R026 024
+\_no 00021
+\tx n@7tti mama
+\mb n@7tti mama
+\sg1 no
+\eg1 no
+mama*
+mother say
+n@mm@
+bi chik 7un kajanh
+n@m -w@ bi chik 7une7 kajanh
+decir-COM DEF chico nin~o/a tigre
+-COM DEF little child jaguar
+"I
+\zoq "N@7tti, mama," n@mm@ bi chik 7unkajanh.
+\fts "No, mama, dijo el tigrillo.
+\fte "No, mama, said the little baby jaguar.
+\ref ZOH001R026 025
+\_no 00022
+de
+\tx d@xx@n muxpa
+mux
+d@ komiam
+7i
+d@ komi7 -7am 7i
+n@mmoba
+7@n
+n@m-7oy -pa 7@n
+-pa te -Y
+\mb d@x -7@n
+\sg1 1Prn-1E saber-INC DCT2-TMP 1A grande-YA y DO -ANTIP-INC 1E
+\egl 1Prn-1E know -INC DCT2-TMP 1A big -NOW and DO -ANTIP-INC 1E
+ZOH001R0261001.txt
+\tx yakkaw@
+mas
+\mb yak-ka
+-w@ mas
+\sg1 CAUS-morirse-dINC mas
+\egl CAUS-die
+waja*7 ke
+waja ke
+bueno que
+d@x
+d@x
+1Prn
+-dINC more good that 1Prn
+\zoq "D@xx@n muxpa de d@ komiam 7i n@mmoba 7@n yakkaw@ mas w@j@*7 ke dax."
+\fts "Yo ya se que ya estoy grande y puedo matar mas bueno que yo.
+\fte "I know I'm big now and I can kill the one better than me.
+\ref ZOH001R026 028
+\_no 00023
+yakkammoyy@
+\tx 7@y mama
+\mb 7@y mama
+\sg1 3E mama*
+-ney -pa yak -7amma-7oy -w@
+pagar-ASSUM-INC CAUS-ver -ANTIP-DINC
+\egl 3E mother pay -ASSUM-INC CAUS-see -ANTIP-DINC
+yojneba
+yoj
+\zoq 7@y mama yojneba yakkamoyy@.
+\fts Su mama* lo quedo* viendo.
+\fte His mother stayed watching.
+\ref ZOH001R026 029
+\_no 00024
+\tx yojneba
+\mb yoj
+yakkammoyy@
+bi mama
+-ney -pa yak -7amma-7oy -wa bi mama
+\sg1 pagar-ASSUM-INC CAUS-ver -ANTIP-DINC DEF mama*
+\egl pay -ASSUM-INC CAUS-see -ANTIP-DINC DEF mother
+\zoq Yojneba yakkamoyy@ bi mama.
+\fts Lo quedo* viendo su mama*
+\fte The mother stayed watching him.
+\ref ZOH001R026 030
+\_no 00025
+\tx 7i bi chik tzikin kajanh 7@y 7anhtzonhke7tt@
+\mb 7i bi chik tzikin kajanh 7@y 7anh -tzonh-ke7t -w@
+\sg] y
+DEF chico pinto tigre 3E BOCA -unir -REPET-COM
+\egl and DEF little spotted jaguar 3E MOUTH-join -REPET-COM
+\zoq 7i bi chik tzikin kajanh 7@y 7anhtzonhke7tt@,
+Page 5

@@ -1,0 +1,62 @@
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex {7an@k. VERB.7@y}
+\_no 04386
+\LG MIG
+\PSH
+\UND
+\MB
+\VAR
+\GRAM
+\SCI
+\USE two lexical items: VERB is to7kx- `slap' or tzanh- `slap'; resultant
+lexeme means to slap on the face/mouth.' Maybe made up of
+7anh-n@k, analogous then to k@.n@k=VERB.7@y-.
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 12/Feb/96
+\lex [7anhnit]: see 7anh.7it
+\_no 04387
+\LG MIG
+\PSH
+\UND
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+ZOH004R0011001.txt
+\lex {7anh.}
+\_no 04388
+\LG MIG
+\PSH
+\UND 7anh
+Page 1883

@@ -1,0 +1,65 @@
+\GRAM vt
+\SCI
+\USE
+\SPG regar (agua, frijol, arena...)
+\ENG to spread (water, beans, sand ...)
+\SLGR NO ANTIP
+\SPL ketz.7@m
+\SLGR PASS
+\SLGL (se puede decir) //
+\EXU n@'=ketz-w@ tzanh.kuy'+j@nanh
+\SYN
+\SEMF activity
+\ASP
+\XPSH [N@ketztz@ tzanhkuyj@nanh.]
+\XSP Rego* agua con la mano.
+\XEN She scattered water with her hand.
+\ARG instrumentn
+\NOM
+\ROOT ketz
+\RTGR T1
+\DSRC TK94
+\CMTS
+\SUB 7anh.ketz, 7ok. ketz. '@y, k@.n@k-ketz. '@y, nik.ketz. '@y, win=ketz,
+\SUB yuk. ketz
+\ETYM
+\ETL
+\CMTS
+\date 03/Jan/80
+\lex ke7tz
+\_no 00057
+\LG MIG
+\PSH
+\UND ke7tz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG masticar; mascar
+\ENG to chew
+\SPL ke7tz.7oy
+\SLGR ANTIP
+\SPL ke7tz.7@m
+\SLGR PASS
+ZOH001R0611006.txt
+// (you can say it)
+\EXU 1 7@n+ ke7tz-pa bi xi'tz.i7
+\XPSH 1 [7@n ke7tzpa bi xitzi7.]
+\XSP 1 Mastico la can~a.
+\XEN 1 I'm chewing cane.
+\EXU 2 ke7tz.7@m-w@ bi xi'tzi7
+\XPSH 2 [Ke7tztz@mm@ bi xitzi7.]
+\XSP 2 Se mastico* la can~a.
+\XEN 2 The cane was chewed.
+\SEMF eat
+\ASP activity
+\ARG
+\EXU 3 7u 7@m+ mix 7otonh. '@y-wa kwando d@ ke7tz. 'oy-pa
+\XPSH 3 [7um mix 7otonhnh@yy@ kwando @ ke7tztzoba.]
+\XSP 3 No me hables cuando estoy masticando.
+\XEN 3 Don't talk to me while I'm chewing.
+\SYN k@7tz
+\NOM
+\SUB 7ok.ke7tz. '@y, j@x-ke7tz, nik.ke7tz. '@y
+Page 41

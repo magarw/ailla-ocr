@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [jaam7oktokoy-]
+\UND jamv=7ok.tokoy
+\MB X, ABAJO, perderse
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG enloquecerse; perder el juicio
+\ENG to go crazy; to lose one's mind
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 * jamv
+\ROOT 2 tokoy
+\RTGR 2 IX
+\DSRC HAJ94
+\CMTS CK-PH: HAJ:96 - don't think it's jaam. This is the jam- of
+mentation. Yes it is, but it's [jaam]; [jaam7oktokoyy@] is correct: TK
+\date 24/Jun/96
+\lex jam(V)=tz@k
+\_no 00660
+\LG MIG
+\PSH [jaamtz@k-]
+\UND jaam=tz@k
+\MB X, hacer
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG acordarse, recordar
+\ENG to remember
+\SPL yak.jamv=tz@k
+SLGR CAUS
+\SLGL recordar // to remember
+\EXU 1 ya.d@ pan jam (V)=tz@k-tam-w@
+\XPSH 1 [Y@da pan jamtz@ktamm@.]
+\XSP 1 Acordamos de este hombre.
+\XEN 1 we remembered this man.
+\EXU 2 7@n+ jam(V)=tz@k-pa 7@n+ t@k
+\XPSH 2 [7@n jamtz@kpan t@k.]
+\XSP 2 Me extran~a mi casa.
+\XEN 2 I miss my home.
+SYN
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+\ETL
+\ROOT 1 * jamv
+\ROOT 2 tzak
+\RTGR 2 T3
+\DSRC TK94
+\CMTS cf. MAR /jam@H/
+\date 03/Jan/80
+\lex jan
+\_no 00661
+\LG MIG
+\PSH
+Page 282

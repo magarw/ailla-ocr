@@ -1,0 +1,62 @@
+\ASP activity
+\ARG
+\NOM niwi' mo7tz.kuy7
+\SUB
+\ETYM
+\ETL
+\ROOT mo7tz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex mox-'anh
+\_no 02036
+\LG MIG
+\PSH [moxxanh]
+\UND mox-7anh
+\MB
+\VAR
+\GRAM num
+\SCI
+\USE
+SPG cinco
+\ENG five
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\lex mox-'anh-ji7
+\_no 02037
+\LG MIG
+\PSH [moxxanhji7]
+\UND mox-7anh-ji7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG los cinco
+\ENG the five
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\lex moontzaj@7
+\_no 02038
+ZOH004R0011001.txt
+Page 878

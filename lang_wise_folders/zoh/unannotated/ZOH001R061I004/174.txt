@@ -1,0 +1,62 @@
+\date 03/Jan/80
+\lex xuj.i7
+\_no 00439
+\LG MIG
+\PHO [xuji7]
+\UND xuj. E7
+\MB soplar, NOM7
+\VAR
+\GRAM pcp
+\SPG una cosa soplada
+\ENG something blown.
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT xuj
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex xu'k.i7
+\_no 00440
+\LG MIG
+\PHO [xuki7]
+\UND xu7k.E7
+\MB besar, NOM7
+\VAR
+\GRAM pcp
+\SPG alguien que le besaron
+\ENG someone that's been kissed
+\EXU Xu'k.i7+k yom(a) 7une7
+\XPSH [xuki7k yom7une7]
+\XSP una muchacha que le besaron
+\XEN a girl that's been kissed
+\SYN
+\ROOT xu7k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex xu't.i7
+\_no 00441
+LG MIG
+\PSH [xuti7]
+\UND xu7t.E7
+\MB hacerse_angosto, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG angosto
+\ENG narrow
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xu7t
+ZOH001R0611004.txt
+Page 174

@@ -1,0 +1,64 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex po7k
+\_no 02701
+\LG MIG
+\PSH
+\UND po7k
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG 1 porra
+\SPG 2 nudo
+\ENG 1 clump
+\ENG 2 knot
+\EXU 1 laxu 7@y+ po7k
+\XPSH 1 [laxu y po7k]
+\XSP 1 porra de mecate
+\XEN 1 a knot in a rope
+\EXU 2 kuy po7k
+\XPSH 2 [kuy po7k]
+\XSP 2 porra de palo
+\XEN 2 knot in a tree
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 19/Jun/96
+\lex po7k=tzoni7
+\_no 02702
+\LG MIG
+\PSH [po7ktzoni7]
+\UND po7k=tzoni 7
+\MB porra, intestino
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG madali
+\ENG a type of vine
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+LF:poj
+ZOH004R0011001.txt
+Page 1162

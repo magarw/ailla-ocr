@@ -1,0 +1,63 @@
+\VAR
+\GRAM pre
+\SCI
+\USE lexical verbal prefix
+\SPG ajeno; en lugar de otro
+\ENG in another's place
+\SPL
+\SLGR
+\EXU tum ponh nak-w@ 7@y+ ko.yox-E tum rrancho
+\XPSH [Tum ponh n@kk@y koyoxe tum rrancho.]
+\XSP Una vez se fue* a buscar trabajo en un rancho.
+\XEN One time he went to seek work on a ranch.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 11/Feb/96
+\lex {.kuy7}
+\_no 04453
+\LG MIG
+\PSH
+\UND kuy7
+\MB INSTR1
+\VAR
+\USE nominalizing verbal suffix: instrumental
+\GRAM suf
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU 1 7uk. kuy7
+\XPSH 1 [7ukkuy7]
+\XSP 1 borrachera
+\XEN 1 drunkenness
+\EXU 2 jay. kuy7
+\XPSH 2 [jaykuy7]
+\XSP 2 lapiz
+\XEN 2 pen
+\EXU 3 manh.kuy7
+\XPSH 3 [manhkuy7]
+\XSP 3 pie
+\XEN 3 foot
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {k@.n@k.VERB.7@y}
+\_no 04454
+\LG MIG
+ZOH004R0011001.txt
+\PSH
+\UND k@.n@k. VERB.7@y
+\MB AFUERA, irse, VERB, SUF
+\VAR
+\GRAM
+\SCI
+Page 1912

@@ -1,0 +1,64 @@
+ZOH001R0611003.txt
+\ENG you picked something up just once, just one thing
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT pinh
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex pi7tz.neenh
+\_no 00059
+\LG MIG
+\PSH [pi7tzne*nh]
+\UND pi7tz.neenh
+\MB X, MED1
+\VAR
+\GRAM med
+\SCI
+\USE
+\SPG manojito - el tanto que agarra con dos dedos
+\ENG a pinch
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pi7tz
+\DSRC HAJ94
+\CMTS analysis; get deriv's
+\date 08/Feb/96
+—
+\lex totz.naanh
+\_no 00060
+\LG MIG
+\PHO [totzna*nh]
+\UND totz.naanh
+\EX
+\XSP
+\XEN
+\SYN
+\MB pun-alear, MED
+\VAR
+\GRAM meas
+\SPG una pun~alada
+\ENG a stab
+\ROOT totz
+\RTGR T3
+the amount you can grab with two fingers
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex tun.naanh
+\_no 00061
+\VAR
+\GRAM meas
+\LG MIG
+\PHO [tunna*nh]
+\UND tun.naanh
+\MB devisar, MED
+Page 21

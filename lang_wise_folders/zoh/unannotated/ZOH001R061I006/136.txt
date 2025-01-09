@@ -1,0 +1,64 @@
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG raspar
+\ENG to scrape; to sand
+\SPL wo7k. 7oy
+\SLGR ANTIP
+\SLGL raspar // to scrape
+\SLGR NO PASS
+SLGR NO ASSUM1
+\SPL wo7k.ten
+\SLGR PRSV
+\SLGL tener raspado // to have something scraped
+\EXU 1 7@y+ wo7k-w@ bi kuy
+\XPSH 1 [7@y wo7kk@ bi kuy.]
+\XSP 1 Raspo* la madera.
+\XEN 1 He sanded the wood.
+\EXU 2 wo7k. '@m-w@ bi kuy
+\XPSH 2 [wo7kk@mm@ bi kuy.]
+\XSP 2 Raspo* la madera.
+\XEN 2 Someone sanded the wood.
+\SYN
+\SEMF arrange
+\ASP activity
+\ARG
+\NOM wo'k.e
+\SUB jup=wo7k
+\ETYM
+\ETL
+\ROOT WO7k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\1ex wo7kx
+\_no 00201
+\LG MIG
+\PSH
+\UND wo7kx
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG aran~ar; rasgun~ar
+\ENG to scratch
+\SPL wo7kx. 7oy
+\SLGR ANTIP
+\SLGL aran~ar // to scratch
+\SLGR NO PASS
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH001R0611006.txt
+\ROOT wo7kx
+\RTGR T3
+\DSRC HAJ94
+Page 136

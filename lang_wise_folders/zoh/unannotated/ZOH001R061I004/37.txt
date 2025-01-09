@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [jitzi7@y-]
+\UND ji7tz.E7.7@y
+\MB recoger, NOM7, VERS2
+\VAR
+\GRAM vers2
+\SCI
+\USE
+\SPG tener pliegues
+\ENG to have pleats or folds
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ji7tz
+\RTGR P, (T3)
+\DSRC TK95
+\CMTS
+\date 06/Feb/96
+\lex jok.a7
+\_no 00089
+\LG MIG
+\PSH [joka7]
+\UND jok.A7
+\MB ahumarse, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG negro
+\ENG black
+\EXU jok.A' p@n
+\XPSH [joka p@n]
+\XSP hombre negro
+\XEN black man
+\EXU tza' jok.a
+\XPSH [tza joka]
+\XSP piedra ahumada
+\XEN smoked rock
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jok
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex jok.e7
+\_no 00090
+\LG MIG
+\PSH [joke7]
+\UND jok. E7
+\MB ahumarse, NOM7
+\VAR
+\GRAM pcp
+ZOH001R0611004.txt
+Page 37

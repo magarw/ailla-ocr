@@ -1,0 +1,62 @@
+\_no 00107
+\SPG contar
+\ENG to count
+\EX 7@y maytenn@
+\XSP lo tiene contado
+\XEN he's got it counted
+\EX may.@-pa
+(@
+RR)
+\XSP se cuenta
+\ROOT may T3
+\CMTS antip may.7oy
+\CMTS pass may.7@m
+\lex mek
+\_no 00108
+\SPG mentir; engan*ar; chismear
+\ENG to lie; to deceive; to gossip
+\EX jake mek
+\XSP engan~ar mucho
+\XEN to deceive a lot
+\ROOT mek Il
+\CMTS
+\lex me7kx
+\_no 00109
+\SPG abrazar
+\ENG to hug
+\EX ney me7kx-xuk-@-w@
+\XSP se abrazaron
+\XEN_they hugged each other
+\EX 7@y me7kxtenn@
+\XSP lo tiene abrazado
+\XEN he's got it hugged to him
+\ROOT me7kx T3
+\CMTS antip me7kx.7oy
+\CMTS no pass me7kx.7@m *
+\lex me7tz
+\_no 00110
+\SPG buscar
+\ENG to look for
+\EX metza7
+\XSP buscalo!
+\XEN look for it!
+\ROOT me7tz T3
+\CMTS antip me7tz.7oy
+\CMTS no pass me7tz.7@m
+\lex mi7kx
+\_no 00111
+ZOH001R0611011.txt
+\SPG agarrar en el pun~o algo pequen~o que no se vea
+\ENG to hold something small in the closed fist so it isn't visible
+\EX mi7kx@mm@n tzanhkuy7
+\XSP se cerro* el pun~o de mi mano
+\XEN my fist closed around it
+\ROOT mi7kx P (T3)
+\CMTS antip mi7kx.7oy
+\CMTS pass mi7kx.7@m
+\lex min
+\_no 00112
+\SPG venir
+\ENG to come
+\EX
+Page 23

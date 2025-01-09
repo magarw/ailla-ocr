@@ -1,0 +1,74 @@
+\idx
+\ref ZOH001R036 860
+\_no 00844
+\tx 7en segido
+\mb 7en segido
+\sg1 en seguido
+Tegl in following other other-REL rub -ANTIP-INSTR1
+\zoq 7en segido 7otro 7eya*7k matztzokuy7,
+\fts En seguido otra sobada,
+\fte The following (day) another another massage,
+\com
+\idx
+\ref ZOH001R036 861
+\_no 00845
+\tx 7axta ke w@j@7apa
+\mb 7axta ke
+waja - 7a
+bueno-VERS1-INC
+7otro 7eya*7k matztzokuy7
+7otro 7eya -v7k matz -7oy -kuy7
+otro otro -REL sobar-ANTIP-INSTR1
+\sg] hasta que
+\egl until that good -VERS1-INC
+\zoq 7axta ke waj@7apa,
+\fts hasta que sane,
+\fte until it gets well,
+\com
+\idx
+\ref ZOH001R036 863
+\_no 00847
+\tx <break>
+\mb
+\sgl
+\egl
+\fts <break>
+\ref ZOH001R036 862
+\_no 00846
+\tx 7axta ke w@j@7apa
+\mb 7axta ke
+\sg1 hasta que
+waja - 7a
+bueno-VERS1-INC DEF vena NPL
+\egl until that good -VERS1-INC DEF vein NPL
+ZOH001R0361001.txt
+\ref ZOH001R036 864
+\_no 00848
+-pa
+\zoq 7axta ke w@j@7apa bi tzayd@kkay.
+\fts hasta que se componga las cuerdas.
+\fte until the muscles get well.
+\com
+\idx
+\tx GSM: 7i de7
+\mb GSM 7i
+te
+ti
+ti
+bi
+d@kkay
+tzay
+-pa bi tzay7 d@kkay
+tzoy
+tzoy
+-7
+DCT2-NOM1 que saltar
+\sg1 GSM: y
+\eg1 GSM: and DCT2-NOM1 what jump
+\zoq GSM: 7i de7 ti tzoy?
+\fts GSM: Y eso que remedio es?
+\fte GSM: And that what medicine is it?
+\com (pointing at little jars of pills)
+\idx
+\ref ZOH001R036 865
+Page 183

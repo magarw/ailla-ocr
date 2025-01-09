@@ -1,0 +1,40 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+of the verbal complex in every other respect.
+Of the eleven position classes, only 2, Pronominal agreement markers,
+and 10, (Tense) Aspect Mood, are obligatory. Thus, the minimal MIG Zoque
+verb consists of three positions, Pron + V + Infl (2 + 5 + 10), as illustrated in
+the following examples.
+(2.1)
+(i)
+(iii)
+'øn wanpa
+?ǝn+ wan-pa
+1E+ cantar-INC
+'Lo canto.'
+(2.2)
+(i)
+nøkkø 'ø pøki
+O nək-wǝ ?əy+ pək-E
+3A ir-COM 3E+ agarrar-dCOM
+'Fué a agarrarlo.'
+(ii)
+'øm tzøkø'
+?əm cək-A?
+2E+ hacer-IMPV
+'Hazlo!'
+As the preceding examples show, it is not necessary for overt nominal
+expressions to appear as the arguments of verbs, although it is possible. When
+nouns do appear in core argument roles, if more than one role is played by a
+human referent, the actor argument will come first; otherwise, word order is
+free.
+14
+(iv) dø nøktammø
+də+ nək-tam-wǝ
+1A+ ir-1/2PI-COM
+'Fuimos.'
+'øy hayhayyø bi pøn bi yomá' tum toto'
+?ǝy+ hay.hay-wǝ
+bi pən bi yomaa? tum toto?
+3E+ excribir.APPL-COM DEF hombre DEF mujer uno papel
+'El hombre escribí una carta á la mujer.'
+(elicited)

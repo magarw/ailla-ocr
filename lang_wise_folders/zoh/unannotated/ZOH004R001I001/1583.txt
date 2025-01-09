@@ -1,0 +1,63 @@
+\MB CARA, LOC2, NPL
+\USE temporal
+\GRAM av
+\SPG la vez pasada
+\ENG last time.
+\EXU 1 ye7tz-pa y@.ji win+jo7+jaa7
+\XPSH 1 [Ye7tzpa y@ji winjoja*7.]
+\XSP 1 Llegas aqui* la vez pasada.
+\XEN 1 You came here last time.
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex win-jok
+\_no 03683
+\LG MIG
+\PSH [winjok-]
+\UND win-jok
+\MB CARA, ahumarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG ahumarse
+\ENG to become smoky
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT jok
+\RTGR 12
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex win-jom
+\_no 03684
+ZOH004R0011001.txt
+\LG MIG
+\PSH [winjom-]
+\UND win-jom
+\MB CARA, cercar_con_rama
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG echar ramas encima de otras; reforzar cerco
+\ENG to throw branches on top of others; to reinforce a fence
+\EXU 7@y+ win=jom-w@
+\XPSH [7@y winjomm@.]
+\XSP Reforzo* el cerco.
+\XEN He reinforced the fence.
+\SYN ni.jom
+\SYN jo. jom
+\SEMF
+\ETYM
+\ETL
+Page 1583

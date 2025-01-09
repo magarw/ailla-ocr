@@ -1,0 +1,63 @@
+\EXU tz@n-tam-w@ ga.ji
+\XPSH [Tz@ntamm@ gaji.]
+\XSP Nos sentamos ahi*
+\XEN We sat over there.
+\SYN ga.ja
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {ga.7xe}
+\_no 04429
+\LG MIG
+\PSH [ga7xe]
+\UND ka.7xe
+\MB DCT3, SIM
+\VAR
+\USE distal similitive
+\GRAM
+\SPG asi*; entonces
+ENG so; as; thus; then
+SPL
+\SLGR
+\EXU 1 de.7xe de.7 7i ga.7xe ga.7
+\XPSH 1 [de7xe de7 7i ga7xe ga7]
+\XSP 1 Asi* es.
+\XEN 1 That's that (lit: this is it and that is that).
+\EXU 2 n@k-pa 7@n+ n@m.jay-w@ ga.7xe 7@n+ 7awin7
+\XPSH_2 [N@kpan n@mjayy@ ga7xe 7@n 7awin7.]
+\XSP 2 voy a decirlo entonces a mi hermano.
+\XEN 2 I'm going to tell my brother then.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {geta}
+\_no 04430
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+\UND geta
+\MB DIS
+\VAR
+\USE modal indicating disbelief, in an ironic or somewhat humorous
+fashion
+\GRAM mod
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU 1 juti geta n@m-pa mix+ mix+ d@n 7ix-w@ kwandu 7@m+
+m@7.7@y-w@
+\XPSH 1 ["Juti geta", n@mpa, "Mix, mix d@n 7ixx@ kwandum
+m@77@yy@."]
+\XSP 1 "Onde", dice, "Tu, yo te vi cuando te casaste."]
+\XEN 1 "Get out", he says, "You, I saw you when you got married.
+\EXU 2 ti+goo7 geta ya 7@m+ 7ok.tz@k. '@y-A
+\XPSH 2 [Tigo7 geta yam 7oktz@kk@y?]
+Page 1902

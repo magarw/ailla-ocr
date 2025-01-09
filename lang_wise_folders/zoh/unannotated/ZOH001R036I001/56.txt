@@ -1,0 +1,77 @@
+\zoq P@kn@kpa kanela.
+\fts Lleva canela.
+\fte He brings cinnamon.
+\com
+\idx
+\ref ZOH001R036 256
+\_no 00256
+\tx 7@y p@kn@kpa
+\mb
+7@y p@k
+7ani*s
+7ani*s
+ani*s
+-go -INC anise
+-n@k -pa
+\sg1 3E agarrar-irse-INC
+\egl 3E get
+\zoq 7@y p@kn@kpa 7ani*s.
+\fts Lleva ani*s.
+\fte He brings anise.
+\com
+\idx
+\ref ZOH001R036 257
+\_no 00257
+\tx 7@y p@kn@kpa
+\mb 7@y p@k
+\sg1 3E
+\egl 3E get
+kuy t@m
+-n@k -pa kuy t@m
+agarrar-irse-INC palo fruta semilla
+-go -INC tree fruit seed
+\zoq 7@y pakn@kpa kuy tam puj.
+\fts Lleva semilla de aquacate.
+\fte He brings avocado seed.
+\com
+\idx
+\ref ZOH001R036 258
+\_no 00258
+7@m k@7tpa
+puj
+\tx kuy t@m puj
+\mb kuy t@m
+7@m k@7t -pa
+\sgl palo fruta semilla 2E moler-INC
+\egl tree fruit seed 2E grind-INC
+\zoq kuy t@m puj 7am k@7tpa.
+\fts Semilla de aguacate lo mueles.
+\fte You grind avocado seed.
+\com
+\idx
+\ref ZOH001R036 259
+\_no 00259
+ZOH001R0361001.txt
+mostasa
+\tx 7@y p@kn@kpa
+\mb 7@y p@k
+-n@k -pa
+mostasa
+\sg1 3E agarrar-irse-INC mostaza
+\egl 3E get -go -INC mustard
+\zoq 7@y p@kn@kpa mostasa.
+\fts Lleva mostasa.
+\fte He brings mustard.
+\com
+\idx
+\ref ZOH001R036 260
+\_no 00260
+\tx para gaji
+\mb para ka -ji7
+\sg1 para DCT3-LOC1
+puj
+puj
+tum tz@kk@mpa
+tum tz@k -7@m -pa
+uno hacer-PAS -INC
+Page 56

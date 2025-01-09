@@ -1,0 +1,45 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+features from the agent argument: the thing was done, obviously someone did
+it, but we have no idea who. Typologically, this is the most common kind of
+passive in the world's languages (Shibatani, 1986). The passive suffix creates
+an intransitive verb from a transitive one, so the person agreement markers
+appear in the absolutive case.
+I found slight variations in the translation of passive expressions with
+different consultants. Some preferred an indefinite, but human, agent reading
+("someone broke it" or "they broke it"), while others insisted on a perfectly
+agentless, middle voice reading ("It got broken, we don't know how.") In either
+case, there is never an actual agent argument lurking around to be referenced
+by a subsequent clause, such as a conjoined clause.
+(6.24)
+(i)
+(ii)
+(iii)
+(iv)
+'øn tzajtzongpan toto 'øy wøttəmməji
+?ǝn+ cah=coŋ-pa
+?ən+ toto? ?əy+ wǝt.?əm-wa+hi?
+1E+ glue-join-INC 1E+ paper 3E+ tear.PASS-COM+LOCREL
+'I'm going to glue together my paper where it was torn.'
+ti minpay tzøkkømmø rroberta
+ti
+min-pa
+?əy+ cək.?əm-wə rroberta
+what come-INC 3E+ do.PASS-dINC roberta
+'what comes to be done to Roberta.'
+jekennømmø tzajin
+0 heken.?əm-wə cahin
+3A coil.PASS-COM snake
+'The snake was coiled."'
+136
+(elicited)
+(ZOH001 R015-064)
+(lexicon)
+pa'ttømmø dey de komaxan gaja gø kopainalá
+0 pa?t.?ǝm-wə
+de.y
+de.?
+ko.mašan ga.ha?
+gə kopainalá
+3A find.PASS-COM DCT2.TMP DCT2.NOM1 SOC.sacred DCT3.LOC1 DEM Copainalá
+'Now that saint was found in Copainalá.'
+(ZOH001R004-001)

@@ -1,0 +1,64 @@
+XPSH 1 [7@y wenn@ 7ane kukkina*nh.]
+\XSP 1 Partio* la tortilla por la mitad.
+\XEN 1 He tore the tortilla in half.
+\EXU 2 7@y+ wen.x@y-w@ bi 7an.e
+\XPSH 2 [7@y wenn@yy@ bi 7ane.]
+\XSP 2 Tiene partido la tortilla.
+\XEN 2 She has the tortilla torn in half.
+\SYN
+\SEMF cut
+\ASP transition
+\ARG
+\NOM wen.e, wen.neenh
+\SUB kuk.wen.e, wen.pak.p@7
+\ETYM
+\ETL
+\ROOT wen
+\RTGR P (T3)
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex wi7t
+\_no 00195
+\LG MIG
+\PSH
+\UND wi7t
+\MB
+\VAR
+\GRAM vt, vi:med
+\SCI
+\USE
+\SPG 1 torcerse
+\SPG 2 torcer mecate
+\ENG 1 to be twisted
+ENG 2 to twist rope
+ZOH001R0611006.txt
+\SPL wi7t.7@m
+\SLGR PASS
+\SLGL torcerse // to be twisted
+\SPL wi7t.7oy
+\SLGR ANTIP
+\SLGL torcer (otro) // to twist (someone else)
+\SLGR NO ASSUM1
+\EXU 1 7@y+ wi7t-w@ bi laxu kuy+g@xi
+\XPSH 1 [7@y wi7tt@ bi laxu kuyg@xi.]
+\XSP 1 Enredo* el mecate sobre el palo.
+\XEN 1 He twisted the rope around the tree.
+\EXU 2 7@y+ wi7t.jay-w@ bi piyu' 7@y+_wintu7
+\XPSH 2 [7@y wi7tjayy@ bi piyuy wintu7.]
+\XSP 2 Torcio* el pescuezo de la gallina.
+\XEN 2 She wrung the chicken's neck.
+\SYN
+\SEMF arrange
+\ASP activity, achievement
+\ARG patient
+\NOM 7anh.wi7t.i, wi7t='anh.wak.'oy.kuy7, laxu=wi7t.'oy.kuy7, wi7t.naanh
+\SUB 7anh.wi7t, ni.wi7t, wi7t=7anh.wak, wi7t='anh.kam, wi7t-pak
+\ETYM
+\ETL
+\ROOT wi7t
+\RTGR T2
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+Page 132

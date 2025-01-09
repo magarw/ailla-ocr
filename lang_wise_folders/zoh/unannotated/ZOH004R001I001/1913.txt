@@ -1,0 +1,63 @@
+\USE
+\SPG enteramente
+\ENG entirely
+\SPL
+\SLGR
+\EXU yak-manh. kuy'-k@.n@k=kep.7@y-pa
+\XPSH [Yakmanhkuyk@n@kkepp@ba.]
+\XSP Le metio* el pie.
+\XEN He stuck his foot out at him (to trip him).
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex {k@x} [2]
+\_no 04455
+\LG MIG
+\PSH
+\UND
+\MB ON
+\VAR
+\GRAM av
+\SCI
+\USE
+\SPG en
+\ENG on
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK95
+\CMTS
+\date 25/Jun/96
+\lex %k@y P
+\_no 04456
+\LG MIG
+\PSH
+\UND_k@y.x@y
+ZOH004R0011001.txt
+\MB 11evar_en_mano, DEPOS
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 11evar en mano extendida, como un plato
+\ENG to carry flat on the hand, like a plate
+\EXU 1 k@x.i'=k@y.x@y-w@ mex(a)+g@xi
+\XPSH 1 [K@xik@yy@yy@ mexag@xi.]
+\XSP 1 sirvio* comida en la mesa.
+\XEN 1 She set the food on the table.
+\EXU 2 k@y-@-w@ [PASS]
+\XPSH 2 [K@y@wa.]
+\XSP 2 Alguien lo puso alli*.
+Page 1913

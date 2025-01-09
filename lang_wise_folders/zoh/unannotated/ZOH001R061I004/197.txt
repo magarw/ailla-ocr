@@ -1,0 +1,62 @@
+\lex y@k. kep
+\_no 00498
+\LG MIG
+\PSH [y@kkep]
+\UND yak.kep.0
+\MB INSTR2, patear, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG zapato; huarache
+\ENG shoe; huarache
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT kep
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 29/Jan/96
+\lex y@k.manh
+\_no 00499
+\LG MIG
+\PSH [y@kmanh]
+\UND yak.manh.0
+\MB INSTR2, *pisar, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG calzones; pantalo*n
+\ENG white cotton trousers; pants
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * manh
+\RTGR P
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex y@k.manh. '@y
+\_no 00500
+\LG MIG
+\PSH [y@kmanhnh@y-]
+\UND y@k.manh.0.7@y
+\MB INSTR2, *pisar, NOM6, SUF
+\VAR
+\GRAM vt
+\SPG poner zapatos
+\ENG to put your shoes on
+\SPL
+\SLGR
+ZOH001R0611004.txt
+Page 197

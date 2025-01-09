@@ -1,0 +1,65 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(b)
+bi nu' 'øy waxxø bi mixtu'
+bi nu? ?ǝəy+ waš-wǝ bi mištu?
+DEF dog 3E+ bite-COM DEF cat
+'The dog bit the cat."
+(a)
+bi nu? ?ǝy waššə bi mištu?
+bi mištu? ?ǝy waššə bi nu?
+bi nu? bi mištu? ?ǝy waššə
+bi mištu? bi nu? ?ǝy waššə
+?ǝy waššə bi nu? bi mištu?
+?ǝy waššə bi mištu? bi nu?
+bi pən ?ǝy ciwə bi toto? bi yomá?
+bi pən ?ǝy ciwe bi yomá? bi toto?
+Actor = dog
+Actor
+cat
+bi pən bi toto ?ay ciwǝ bi yomá?
+bi pən bi yomá? ?ǝy ciwə bi toto?
+bi toto ?ǝy ciwə bi pən bi yomá?
+bi toto bi pən ?ǝy ciwə bi yomá?
+bi pǝn bi toto bi yomá? ?ǝy ciwǝ
+bi pøn 'øy tziwo bi toto bi yomá'
+bi pən ?əy+ ci?-wə
+bi toto? bi yomaa?
+DEF man 3E+ give-COM DEF paper DEF woman
+'The man gave the letter to the woman."
+396
+Actor = dog
+Actor
+cat
+Actor
+Actor
+=
+3. Transitive verbs with three overt NPs
+The three arguments are Actor, Patient, and Dative, a term that covers
+recipient, benefactor, or causer roles. Since in these cases the patient is always
+inanimate, fixed word order is only required to disambiguate the Actor and
+Dative arguments. Actor NPs must precede Dative NPs; Patient NPs can go
+anywhere. (I should note that there are very few examples in texts of clauses
+with an overt NP for the Dative argument, and even fewer with all three
+arguments expressed by NPs.)
+=
+=
+-
+dog
+cat
+Actor
+Actor
+Actor
+Actor
+Actor
+Actor
+Actor
+= man
+= man
+= man
+= man
+man
+man
+=
+=
+=
+man

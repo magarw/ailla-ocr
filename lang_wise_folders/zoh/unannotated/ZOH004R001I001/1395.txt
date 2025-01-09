@@ -1,0 +1,63 @@
+\USE
+\SPG 1 platicar
+\SPG 2 explicar
+\ENG 1 to chat
+\ENG 2 to explain
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzam
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tzam-kej
+\_no 03243
+\LG MIG
+\PSH [tzamkej-]
+\UND tzam-kej
+\MB platicar, verse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG descubrir
+\ENG to reveal; to disclose
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tzam
+\RTGR 1 T1
+\ROOT 2 kej
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 20/Oct/94
+\lex tzamm@7
+\_no 03244
+\LG MIG
+\PSH
+\UND ??
+\MB
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG monte; yerba; yerbita
+\ENG wild country; brush
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+Page 1395

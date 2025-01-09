@@ -1,0 +1,62 @@
+\lex tzanh.kuy7 pak
+\_no 03254
+\LG MIG
+\PSH [tzanhkuy7 pak]
+\UND tzanh.kuy7 pak
+\MB golpear, INSTR1, hueso
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG (hueso de) mun~eca
+\ENG wrist (bone)
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT tzanh
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 20/Jun/95
+\lex tzanh.kuy7 petz
+\_no 03255
+\LG MIG
+\PSH [tzanhkuy7 petz]
+\UND tzanh.kuy7 petz
+\MB golpear, INSTR1, varilla
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG 1 mano de varilla, porque es muy delgado
+\SPG 2 varilla de fierro
+\ENG 1 long thin hand or arm
+\ENG 2 iron rod
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzanh
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 20/Jun/95
+\lex tzanh.kuy7 poki7
+\_no 03256
+\LG MIG
+\PSH [tzanhkuy7 poki7]
+\UND tzanh.kuy7 poki7
+ZOH004R0011001.txt
+\MB golpear, INSTR1, tobilla
+\VAR
+\GRAM sms
+\SCI
+\USE
+Page 1400

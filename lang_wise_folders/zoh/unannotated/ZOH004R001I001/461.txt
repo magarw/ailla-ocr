@@ -1,0 +1,62 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS CK-all/OK: TK
+\date 26/Jun/96
+\lex j@x+jo'+7k 7awin
+\_no 01051
+\LG MIG
+\PSH [j@xjo7k 7awin]
+\UND jax +jo7 +P@7k 7awin
+\MB ATRAS, LOC2, REL, hermano/a
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG hermano menor; hermano de atras
+\ENG younger brother; the brother after you
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 06/Feb/96
+\lex j@x+jo'+07k
+\_no 01052
+\LG MIG
+\PSH [j@xjo*7k]
+\UND j@x+jo7 +P@7k
+\MB ATRAS, LOC2, REL
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG u*ltimo; e*1 de atra*s
+\ENG last; the last one
+\EXU j@x+jo' tzak.7@m-w@ 7@y+_n@k. E
+\XPSH [J@xjo tzakk@mm@y n@ki.]
+ZOH004R0011001.txt
+\XSP Se fue* quedando atra*s.
+\XEN She went along keeping at the back.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-all/OK: TK
+\date 26/Jun/96
+\lex j@x+jo'=ye7tz
+\_no 01053
+\LG MIG
+\PSH [j@xjoye7tz-]
+Page 461

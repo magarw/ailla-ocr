@@ -1,0 +1,63 @@
+\ASP activity
+\ARG
+\NOM mak.i, y@k.m@k, m@k.naanh, yo'=m@k. 'oy.kuy7
+\SUB 7ok.mak. '@y, ni.m@k, win-mak
+\ETYM
+\ETL
+\ROOT m@k
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex m@7k [1]
+\_no 00104
+\LG MIG
+\PSH
+\UND m@7k
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 exprimir (como queso)
+\SPG 2 orden~ar
+\ENG 1 to wring or express (like cheese)
+\ENG 2 to milk
+\SPL m@7k.7oy
+\SLGR ANTIP
+\SLGL exprimir // to express
+\SLGR NO PASS
+\EXU 7@y+ m@7k-pa 7@y+ yo't.e
+\XPSH [7@y m@7kpay yote.]
+\XSP Esta* exprimiendo su ropa.
+\XEN She's wringing out clothes.
+\SYN
+\SEMF farm, clean
+\ASP activity
+\ARG
+\NOM m@'k.i7
+\SUB ko.m@7k
+\ETYM
+\ETL
+\ROOT m@7k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex m@x
+\_no 00105
+ZOH001R0611006.txt
+\LG MIG
+\PSH
+\UND m@x
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tener asco
+\ENG to be nauseated by something
+\SPL m@x. 7oy
+\SLGR ANTIP
+Page 71

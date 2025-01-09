@@ -1,0 +1,63 @@
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tzok
+\_no 00332
+\SPG sanar
+\ENG to heal
+\SEMF body
+\ASP accomplishment
+\ARG
+\NOM * kuy, * naanh
+\RTGR 12
+\POS d@ yaktzokxukk@
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex tzonh
+\_no 00333
+\SPG unir; topar
+\ENG to unite; to join
+\SEMF arrange
+\ASP achievement
+\ARG
+\NOM ko.tzonh.kuy7, tzow.e7
+\NOM tzonh.naanh
+\RTGR T3
+\POS da tzonhjayy@n 7anhpaj
+\MID
+\UNDO (es palabra, pero colorada)
+\CLZ
+\CMTS
+\ASP achievement
+\ARG
+\NOM
+\RTGR IX
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\lex tzot
+\_no 00334
+\SPG salir sol o luna o estrella
+\ENG for the sun or moon or star to go down
+\SEMF nature
+\lex tzo7t
+\_no 00335
+\SPG arrancar (sin la rai*z)
+\ENG to pull up (without the root)
+\SEMF plant
+\ASP achievement
+\ARG
+\NOM jup-tzo't.e7
+\RTGR T3
+\POS
+me sanaron
+me topo* mi cerco
+Page 82

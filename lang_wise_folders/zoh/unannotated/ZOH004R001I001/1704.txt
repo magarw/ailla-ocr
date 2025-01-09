@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS analysis???
+\date 28/Jan/96
+\lex xi'tz.i' nax
+\_no 03961
+\LG MIG
+\PSH [xiitzina*x]
+\UND xi7tz. E7 nax
+\MB X, NOM7, tierra
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG can al
+ENG sugar cane field
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex xi'tz.i'n@7
+\_no 03962
+\LG MIG
+\PSH [xiitzin@*7]
+\UND xi7tz. E7 n@7
+\MB X, NOM7, agua
+\VAR xitzn@*7
+\GRAM sms
+\SCI
+\USE
+\SPG jugo de_la_can~a
+\ENG juice of the sugar cane
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex xi'tz.i'=k@7t
+\_no 03963
+\LG MIG
+\PSH [xitzik@7t-]
+\UND xi7tz.E7=k@7t
+\MB X, NOM7, moler
+\VAR
+\GRAM vi:incorp
+ZOH004R0011001.txt
+Page 1704

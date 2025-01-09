@@ -1,0 +1,63 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex wayay'=ka'
+\_no 03606
+\LG MIG
+\PSH [wayayka-]
+\UND wayay7=ka7
+\MB frio, morirse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG morirse de frio
+\ENG to die of cold
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ka
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex wayay'=tz@k
+\_no 03607
+\LG MIG
+\PSH [wayaytz@k-]
+\UND wayay7=tz@k
+\MB frio, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer frio
+\ENG to make cold
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+ZOH004R0011001.txt
+Page 1550

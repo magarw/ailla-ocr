@@ -1,0 +1,63 @@
+\USE
+\SPG oscuro
+\ENG darkness
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\1ex 7ok-tzu7 7ux (u') weni7
+\_no 00396
+\LG MIG
+\PSH [7oktzu7 7uxu weni7]
+\UND 7ok-tzu7 7uxu7 weni7
+\MB ABAJO, noche, mosca, avispa
+\VAR 7oktzu' 7uux weni7
+\VAR yuchi y@k weni7
+\GRAM amsms
+\SCI
+\USE
+\SPG avispa negra
+\ENG black wasp
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\1ex 7ok-tzu7 kuy+jo7
+\_no 00397
+\LG MIG
+\PSH [7oktzu7 kuyjo7]
+\UND 7ok-tzu7 kuy+jo7
+\MB ABAJO, noche, palo, LOC2
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG montan~a oscura
+\ENG dark forest
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 13/Jun/95
+ZOH004R0011001.txt
+Page 170

@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT me7kx
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 09/Jan/96
+\lex 7ok.me7tz. '@y
+\_no 00364
+\LG MIG
+\PSH [7okme7tztz@y-]
+\UND 7ok.me7tz.7@y
+\MB ABAJO, buscar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG andar buscando
+\ENG to go around looking for something
+\SPL
+\SLGR
+\EXU 7ok.me7tz. '@y-w@+ 'am
+\XPSH [7okme7tztz@yya*m.]
+\XSP Ya lo anduvo buscando.
+\XEN Now she has gone off searching.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT me7tz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex 7ok.mi 7kx. '@y
+\_no 00365
+LG MIG
+\PSH [7okmi 7kx@y-]
+\UND 7ok.mi 7kx.7@y
+\MB ABAJO, agarrar_en_pun~o, SUF
+\VAR
+ZOH004R0011001.txt
+\GRAM vt
+\SCI
+\USE
+\SPG soltar algo que teni*a en el pun~o
+\ENG for something that was caught in the fist to get free
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT mi7kx
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 09/Jan/96
+Page 157

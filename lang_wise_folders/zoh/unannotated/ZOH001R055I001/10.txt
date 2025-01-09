@@ -1,0 +1,80 @@
+\zoq "Bweno," n@mpa 7okyanhke.
+\fts "Bueno", dice la gringa.
+\fte "OK", says the gringa.
+\com
+\idx
+\ref ZOH001R055 040
+\_no 00041
+\tx joji
+ga7xe d@ n@ktampa
+jaytija
+\mb joji7 ka -7xe da n@k -tam -pa j@ytij@7
+\sg1 man~ana DCT3-SIM 1A irse-1/2PL-INC Juchitan
+\egl morning DCT3-SIM 1A go -1/2PL-INC Juchitan
+\zoq "Joji ga7xe da n@ktampa J@ytija.
+\fts "Man~ana vamos a Juchitan.
+\fte "Tomorrow let's go to Juchitan.
+\com
+\idx
+\ref ZOH001R055 041
+\_no 00042
+\tx gaja
+\mb
+\sg1 DCT3-Loc1 1>2 dar -INC 2E
+\eg1 DCT3-LOC1 1>2 give-INC 2E
+mix tzipa
+m
+jamatin
+ka -ja7 mix tzi7-pa 7@m jamatin
+dinero
+money
+\zoq Gaja mix tzipam jamatin,
+\fts Alla* te voy a dar tu dinero,
+\fte There I'll give you your money,
+\com
+\idx
+\ref ZOH001R055 042
+\_no 00043
+ZOH001R0551001.txt
+\tx porke d@x ya d@ jamatin p@kwitt@
+\mb porke d@x ya da jamatin pak
+\sg1 porque 1Prn NEG 1A dinero
+\egl because 1Prn NEG 1A money
+\ref ZOH001R055 043
+\_no 00044
+\tx bweno n@mpa
+jerma*n
+\mb bweno n@m -pa jerma*n
+\sg] bueno decir-INC Germa*n
+\egl good say -INC Germa*n
+\zoq "Bweno," n@mpa Jerma*n.
+\fts "Bueno" dice Germa*n.
+\zoq porke d@x ya da jamatinp@kwitt@ y@ji7."
+\fts porque yo no ando dinero aqui.
+\fte because I didn't carry money here.
+\com
+\idx incorp
+"
+\fte "OK", says Germa*n.
+\com
+\idx
+\ref ZOH001R055 044
+\_no 00045
+-wit -wa
+y@ji7
+ya -ji7
+agarrar-andar-COM DCT1-LOC1
+-walk -COM DCT1-LOC1
+get
+"I
+"I
+\tx
+\mb naxe
+naxe joypi7t
+x@nh
+-An@m -w@
+\sg1 verdad otro_di*a fiesta -verse -INDEF-COM
+joypi 7t
+x@nhkejan@mm@
+-kej
+Page 10

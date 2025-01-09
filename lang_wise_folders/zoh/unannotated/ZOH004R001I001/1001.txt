@@ -1,0 +1,65 @@
+\UND nik. tek.7@y
+\MB SUP, *orinar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG orinar en otro
+\ENG to piss on someone
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tek
+*
+\DSRC TK94
+\CMTS
+\date 12/Nov/94
+\lex nik.tzuj. '@y
+\_no 02324
+\LG MIG
+\PSH [niktzujj@y-]
+\UND nik.tzuj.7@y
+\MB SUP, escupir, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG escupirle
+\ENG to spit at
+\EXU 7@y+
+nik.tzuj.'@y-w@
+\XPSH [7@y niktzujj@yy@.]
+\XSP Le escupio*.
+\XEN He spit at her.
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzuj
+\RTGR T1
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex nik.tz@k. '@y
+\_no 02325
+\LG MIG
+\PSH [niktz@kk@y-]
+\UND nik.tz@k.7@y
+\MB SUP, hacer, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG echar brujeri*a a alguien
+\ENG to cast a spell on someone
+\EXU
+\XSP
+ZOH004R0011001.txt
+Page 1001

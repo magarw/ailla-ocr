@@ -1,0 +1,49 @@
+100 //apacuaforo//
+a-pacu-a-fo-ro
+AUX.TR-tomber-ACC-PL-CONTR.EXP
+ils sont tombés
+101 // tsoan ano raoma //
+102 // ano raomaquian //
+103 //shahuarono udura//
+shahua-rono udu-ra
+aguaje machaco eau-ASS
+le liquide de l'aguaje machaco
+=
+le breuvage d'ayahuasca
+104 oa rono uduya
+oa rono udu-ya
+DEM serpent eau-GEN
+ce liquide de serpent
+= le breuvage d'ayahuasca
+105 //oa rono huashon//
+oa rono hua-shon
+DEM serpent partir-ACT.ANT
+ce serpent sort
+= ce breuvage sort
+106 ayacamu oshcuquin
+a-ya-camu oshcu-quin
+3PERS-GEN-EXIST3 répartir-OST1
+il le répartit
+107 aya oshcurasishon
+a-ya oshcu-rasi-shon
+3PERS-GEN répartir-nombreux-ACT.ANT
+il l'a réparti en grande quantité
+108 //aya uhuuhuashora//
+a-ya uhuu-hua-shon-ra
+B2 - NOYAU
+3PERS-GEN épaissir-faire-ACT.ANT-ASS
+il l'a rendu épais
+109 //nahua rao puiya//
+nahua rao pui-ya
+étranger remède feuille-GEN
+ces feuilles remèdes étrangères
+= chacruna
+110 ayacamu oshcuma
+a-ya-camu oshcu-ma-a
+3PERS-GEN-EXIST3 répartir-CAUS-ACC
+il les a réparties
+111 oshcumaidifoashon
+oshcu-ma-idi-foan-shon
+répartir-CAUS-monter-DIR-ACT.ANT
+il a commencé à les répartir
+83

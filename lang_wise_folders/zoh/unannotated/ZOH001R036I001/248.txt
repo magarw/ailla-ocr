@@ -1,0 +1,85 @@
+\ref ZOH001R036 999-168
+\_no 01150
+\tx 7@m p@jaba
+\mb
+7@m p@7
+tampitz 7ay
+-jay -pa
+-7
+tampitz 7ay7
+\sg1 2E poner-APPL-INC DCT2-NOM1 a*rnica hoja
+\egl 2E put -APPL-INC DCT2-NOM1 herb leaf
+\zoq 7am p@jaba de tampitz 7ay,
+\fts Le echas esa hoja de arnica,
+\fte You put in it that arnica leaf,
+\com
+\idx
+\ref ZOH001R036 999-169
+\_no 01151
+\tx para wayjuni
+\mb para way7-jun
+\sg1 para pelo-caer_pelo-NOM3
+\egl for hair-lose_hair-NOM3
+\ref ZOH001R036 999-170
+\_no 01152
+\zoq para wayjuni.
+\fts para caido de pelo.
+\fte for hair falling out.
+\com
+\idx
+\tx ga
+\mb
+m
+n@kpa
+n@k -pa
+7@m
+DCT3-NOM1 irse-INC 2E
+\eg1 DCT3-NOM1 go -INC 2E bathe
+\sg1
+ka -7
+de
+te
+\ref ZOH001R036 999-171
+\_no 01153
+\tx
+GSM: n@jo
+\mb GSM n@7 -jo7
+\sg1 GSM: agua -Loc2
+\eg1 GSM: water-LOC2
+-E7
+\zoq GSM: N@jo.
+\fts GSM: En el rio.
+\fte GSM: In the river.
+\com
+\idx
+\ref ZOH001R036 999-172
+\_no 01154
+ZOH001R0361001.txt
+\zoq Ga_n@kpam tzinhnh@ najo.
+\fts Con eso te vas a ban~ar en el rio.
+\fte That you'll go bathe in the river.
+\com
+\idx
+\tx OSM: n@jo
+ga
+\mb OSM n@7 -jo7 ka -7
+tzinhnh@
+tzinh
+n@jo
+n@7 -jo7
+agua -Loc2
+-dINC water-LOC2
+-w@
+ban*arse-dINC
+m
+tzinhpa
+7@m tzinh -pa
+ban*arse-INC
+- INC
+\sg1 OSM: agua -LOC2 DCT3-NOM1 2E
+\egl OSM: water-LOC2 DCT3-NOM1 2E
+bathe
+\zoq OSM: N@jo_gam tzinhpa.
+\fts OSM: En el rio eso te ban~as.
+\fte OSM: In the river you bathe with this.
+Page 248

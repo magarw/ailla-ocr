@@ -1,0 +1,62 @@
+\CMTS
+\date 26/Jun/96
+\lex {y@+ jama}
+\_no 04538
+\LG MIG
+\PSH [y@ja:ma]
+\UND y@+ jama
+\MB DCT1, di*a
+\VAR
+\GRAM av
+\SCI
+\USE
+\SPG hoy, este di*a
+\ENG today
+\EXU y@+ jaam sa*bado
+\XPSH [Y@ja:m sa*bado.]
+\XSP Hoy es sa*bado.
+\XEN Today is Saturday.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-all/OK: TK
+\date 26/Jun/96
+\DATE 09/Aug/02
+\lex {y@.7}
+\_no 04539
+\LG MIG
+\PSH [y@7]
+\UND y@.7
+\MB DCT1
+\VAR
+\GRAM pron
+\SCI
+\USE proximal deictic, near speaker
+\SPG este
+ZOH004R0011001.txt
+\ENG this
+\EXU ya.7_p@n n@k-t@-pa joji
+\XPSH [Y@7 p@n n@kt@pa joji.]
+\XSP Este hombre quiere ir man~ana.
+\XEN This man wants to leave tomorrow.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Feb/96
+\lex {y@.d@}
+\_no 04540
+\LG MIG
+\PSH [y@d@]
+\UND ya.da
+\MB DCT1, XDEM
+\VAR
+\USE proximal deictic. the meaning or function of the -d@ suffix is
+unknown.
+Page 1949

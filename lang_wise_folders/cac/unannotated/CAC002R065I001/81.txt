@@ -1,0 +1,31 @@
+//há? // liquids and hydrographic features
+//yáp 'il // illnesses
+//k'ínal //
+Positional Roots
+76
+rains
+MALA
+Positional roots are of the shape
+of the shape //CVC //, and are dis-
+tinguished from other form classes by a number of derivation-
+al reduplication processes which occur with no other form
+class. There exist many positional roots which are homorgan-
+ic with and have similar meanings to transitive verb roots,
+but there are also a number of positional roots which have
+different meanings from homorganic transitive verb roots, and
+other positional roots which have no corresponding transitive
+verb root. Positional roots deal with the specification of
+shapes, aggregations, and other physical features of objects.
+Two sets of positionals may be distinguished.. Distributive
+positionals describe features distributed across multiple ob-
+jects; non-distributive positionals describe features concen-
+trated on a single object. The two contrast most sharply in
+the form of derived numeral classifier stems:
+//čá?-póc¹-aN lúm // two dents in a clay object;
+//čá? // two, //póc¹-aN // numeral classifier for dents in a
+soft object, ///lum // specifier for earthen objects
+//čá?-píl-aN lú?m // two ball-shaped pieces of clay;
+//čá? // two, //píl-aN /// numeral classifier for ball-shaped
+objects, //lú?m // specifier for clay or earthen objects
+The root //póc' // is a non-distributive positional root;
+//píl // is a distributive positional root.

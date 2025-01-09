@@ -1,0 +1,62 @@
+\CMTS
+\date 17/Jun/95
+\lex kuy yoya 7@y+ w@j.kuy7
+\_no 01606
+\LG MIG
+\PHO [kuy yoyay w@jkuy7]
+\UND kuy yoya 7@y+ waj.kuy7
+\MB palo, marrano, 3E, apestar, INSTR1
+\VAR
+\GRAM
+\SPG la parte que le apesta el javeli*n
+\ENG the part of a wild boar that stinks
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT waj
+\RTGR 12
+\DSRC HAJ95
+\CMTS matas un javeli*n; si no le quitas esa parte, la carne tambien
+\CMTS va a tener ese mal olor.
+\date 03/Jan/80
+\lex kuy=7anh.pix
+\_no 01607
+\LG MIG
+\PSH [kuy 7anhpix-]
+\UND kuy 7anh-pix
+\MB palo, BOCA, X
+\VAR
+\GRAM vt:incorp
+\SCI
+\USE
+\SPG acun*ar
+\ENG to wedge
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pix
+\RTGR
+\DSRC HAJ94
+\CMTS
+\date 31/Mar/95
+ZOH004R0011001.txt
+\lex kuy=7ay7
+\_no 01608
+\LG MIG
+\PSH [kuy7ay7]
+\UND kuy=7ay7
+\MB palo, hoja
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG hoja del a*rbol
+\ENG tree leaf
+\EXU
+\XSP
+Page 696

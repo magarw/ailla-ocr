@@ -1,0 +1,67 @@
+\XSP 3 Esta* colgado la hamaca.
+\XEN 3 The hammock is hanging.
+\EXU 4 7@y+ kunh.ten-w@ bi kajtzay7
+\XPSH 4 [7@y kunhtenn@ bi kajtzay7.]
+\XSP 4 Tiene colgado la hamaca.
+XEN 4 She's got the hammock hung.
+\SYN
+\SEMF arrange
+\ASP achievement
+\ARG
+\NOM kuw.i, kajtzay'=kunh.'oy.kuy7
+\SUB 7ok. kunh.@y, ko. kunh=witu', kunh=tzak, nik. kunh. '@y, yuk. kunh
+\ETYM
+\ETL
+\ROOT kunh
+\RTGR P, (T3)
+\DSRC TK94
+\CMTS CK-PH of EX
+\CMTS HAJ:96
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex kux
+\_no 00078
+\LG MIG
+\PSH
+\UND kux
+\MB
+\VAR
+\GRAM vt, vi
+\SCI
+\USE
+—
+\SPG recoger el pie al estar sentado
+\ENG to pull the heel up towards the knee while sitting
+\SLGR NO ANTIP
+\SPL kux.7@m
+\SLGR PASS
+\SLGL estar recogido (trata tambien de otras cosas, no solo pie)
+\SLGL to be pulled back/up (also other things than legs)
+\EXU 1 7@y+ kux-w@ 7@y+ manh.kuy7
+\XPSH 1 [7@y kuxx@y manhkuy7.]
+\XSP 1 Doblo* su pie
+ZOH001R0611006.txt
+PH of EX ok - I've got this 7anhk- in other forms in texts
+\XEN 1 She pulled her leg back.
+\EXU 2 7@y+ kux-w@ 7@y+ win
+\XPSH 2 [7@y kuxx@y win.]
+\XSP 2 Esta* encogido.
+(durmiendo, con frio)
+\XEN 2 He's huddled up. (sleeping, cold)
+\SYN
+\SEMF body, arrange
+\ASP achievement
+\ARG patient
+\NOM kux.naanh
+\ETL
+\ROOT kux
+\RTGR P, (TX)
+\DSRC HAJ94
+\SUB 7ok. kuj. '@y, kux.na' monh
+\ETYM
+\date 03/Jan/80
+\DATE 03/Jan/80
+\CMTS get deriv
+\CMTS no antip * kux.7oy no tiene razo*n, no van a entenderse
+\CMTS
+Page 54

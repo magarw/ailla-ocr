@@ -1,0 +1,66 @@
+\SLGR PRSV
+\SLGL tener probado // to have tasted
+\EXU 1 yen. '@m-w@ bi paja7k+p@7
+\XPSH 1 [Yenn@mm@ bi
+\XSP 1 Probaron el
+paja7kp@7.]
+dulce.
+\XEN 1 Someone tasted the sweets.
+\EXU 2_7@y+ yen.ten-w@ bi paja7k+p@7
+\XPSH 2 [7@y yentenn@ bi paja7kp@7.]
+\XSP 2 Ya probo* el dulce (sabe que sabe bien).
+\XEN 2 Now she's tested the sweets (she knows it tastes good).
+\SYN
+\SEMF eat
+\ASP process
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT yen
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex yep
+\_no 00232
+LG MIG
+\PSH
+\UND yep
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG (ex) tender; tender (ropa)
+\ENG to stretch; to hang (clothes)
+\SPL yep.7oy
+\SLGR ANTIP
+\SLGL extender // to stretch
+\SPL yep.7@m
+\SLGR PASS
+\SLGL extenderse // to be stretched
+\SPL yep.ten
+\SLGR ASSUM1
+\SLGL estar tendido // to be hung out
+\EXU 7@y+ yep-w@ yo't.e7
+\XPSH [7@y yepp@ yote7.]
+\XSP Tendio* la ropa.
+\XEN She hung the clothes.
+\SYN
+\SEMF arrange
+ZOH001R0611006.txt
+\ASP process
+\ARG
+\NOM yep.e7, yote'=yep.kuy7, yep.naanh
+\SUB
+ETYM
+\ETL
+\ROOT yep
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+Page 156

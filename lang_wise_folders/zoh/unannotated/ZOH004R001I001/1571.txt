@@ -1,0 +1,63 @@
+\ENG very; a lot
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM bueno
+\ETL Sp
+\ROOT
+\DSRC TK96
+\CMTS
+\lex wetze
+\_no 03654
+\LG MIG
+\PSH
+\UND wetze
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG camaro*n
+\ENG shrimp
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex we7tz
+\_no 03655
+\LG MIG
+\PSH
+\UND we7tz
+\MB
+\VAR
+\GRAM vi: act
+\SCI
+\USE
+\SPG arrastrarse - nin*o; andar arrastra*ndose; arrastrarse sentado
+\ENG to drag oneself - like a child; to drag oneself in a seated position
+with one leg pulled up
+\SLGR NO CAUS
+\SPL we7tz.ney
+\SLGR ASSUM1
+ZOH004R0011001.txt
+\SLGL estar sentado arrastrando // to be seated with one leg pulled up
+behind you
+\EXU 1 we7tz-pa 7@y+ wit-w@
+\XPSH 1 [we7tzpay witt@.]
+\XSP 1 Anda arrastrandose.
+\XEN 1 She dragged herself along on one hip with one leg pulled up.
+\EXU 2 7@y+ we7tz.w@y-w@ bi 7une7
+\XPSH 2 [7@y we7tztz@yy@ bi 7une7.]
+\XSP 2 Puso el nin~o en el suelo.
+Page 1571

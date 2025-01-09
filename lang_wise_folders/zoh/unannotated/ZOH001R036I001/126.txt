@@ -1,0 +1,68 @@
+\sg] que saltar 2E hervir(se)-INC o 2E
+\egl what jump 2E boil
+-INC or 2E
+\zoq Ti tzoy 7@m
+yumpa 70m xoxpa?
+\fts Que remedio hierves o lo coces?
+fte what medicine do you boil or you cook?
+\com
+\idx
+\ref ZOH001R036 588
+\_no 00578
+\tx 7aber
+junanh 7@m tz@kjaba
+\mb 7aber junanh 7@m tz@k -jay -pa
+\sg1 aver
+como 2E hacer-APPL-INC
+\eg1 let's see how 2E do -APPL-INC
+\zoq 7aber junanh 7@m tz@kjaba.
+\fts Aver como le haces.
+\fte Let's see how you make it.
+\com
+\idx
+\ref ZOH001R036 589
+\_no 00579
+\tx tiyanhja*7
+\mb tiyanhja*7
+\sg1 cosas
+\egl things
+\zoq Tiyanhja*7
+\fts Que todo
+\fte what all
+\com
+\idx
+ZOH001R0361001.txt
+\ref ZOH001R036 590
+\_no 00580
+\tx ti 7ay mixx@m 7okuptz@kpa
+\mb ti
+7ay7 mix -7@m 7okup -tz@k -pa
+\sg1 que hoja 2Prn-2E ocupar-hacer-INC
+- do
+\egl what leaf 2Prn-2E use
+\zoq ti 7ay mixx@m 7okuptz@kpa?
+\fts que hoja tu ocupas?
+\fte what leaves do you use?
+\com
+\idx
+\zoq OSM: Pwes, ded@ waykay toya,
+\fts OSM: Pues, ese paludismo,
+\fte OSM: Well, that malaria,
+\com
+\idx
+\ref ZOH001R036 592
+\_no 00582
+-INC
+\ref ZOH001R036 591
+\_no 00581
+\tx OSM: pwes ded@
+waykay
+toya
+toy -A7
+\sg1 OSM: pues DCT2-DEM palodismo doler-NOM2
+\egl OSM: well DCT2-DEM malaria
+\mb OSM pwes te -d@ waykay
+hurt -NOM2
+cocer-INC
+cook -INC
+Page 126

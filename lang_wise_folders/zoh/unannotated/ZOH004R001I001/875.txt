@@ -1,0 +1,62 @@
+\ETYM hermoso
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex moso-jej
+\_no 02030
+\LG MIG
+\PSH [mosojej-]
+\UND moso-jej
+\MB moso, vivir
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG vivir en paz; vivir bonito
+\ENG to live in peace; to live well
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jej
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex moso-tz@k
+\_no 02031
+\LG MIG
+\PSH [mosotz@k-]
+\UND moso-tz@k
+\MB moso, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer bonito
+\ENG to make beautiful
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 12/Nov/94
+ZOH004R0011001.txt
+\lex mot
+\_no 02032
+\LG MIG
+\PSH
+\UND mot
+\MB
+Page 875

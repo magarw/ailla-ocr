@@ -1,0 +1,61 @@
+\XEN I have a fever
+\ROOT jipx@ 12
+\SEMF body, temp
+\CMTS no caus - no tiene caso
+\lex ji7p
+\_no 00062
+\SPG mover (coma una comida); menear; revolver; trompear
+\ENG to move (food); to stir; to mix; to root
+\EX yoya ji7ppoba y witt@
+\XSP anduvo trompeando el marrano
+XEN_a pig_goes rooting around
+\EX 7@y ji7pwituwa k@xi7
+\XSP lo removio* la comida
+\XEN she stirred the food around
+\ROOT ji7p P (T3)
+\SEMF cook, move
+\PASS ji7p.7@m moverse
+\ANTI ji7p.7oy menear (la comida); revolver
+\ASSU ji7p.ney estar amontonado
+\CMTS now rejects the ANTI
+\lex ji7t
+\_no 00063
+\SPG manchar
+\ENG to smear; to stain
+\EX bi 7une 7@y k@xi nenji7tt@
+\XSP la criatura se mancho* de comida
+\XEN the baby smeared food on itself
+\ROOT ji7t T3
+\SEMF clean
+\PASS ji7t.7@m mancharse
+\ANTI ji7t.7oy
+\CMTS now rejects both PASS and ANTI
+\CMTS always gives examples with nen+
+\lex jitzi
+\_no 00064
+\SPG arrastrar; arrastrarse
+\ENG to drag
+\EX 7@y jupjitziw@
+\XSP 1o arrastro* rastrandolo
+ZOH001R0611010.txt
+\XEN he dragged it by pulling on it
+\EX tikjitziw@
+\XSP lo toco* pasando
+\XEN he touched it in passing
+\EX jitziwanakk@ bi kuy
+\XSP bajo* arrastrandose el palo
+\XEN he pulled the tree down
+\ROOT jitzi T1
+\SEMF move
+\PASS NONE
+\ASSU NONE
+\CMTS
+\lex ji7tz
+\_no 00065
+\SPG arrugarse
+\ENG to become wrinkled
+\EX 7@n yakji7tzpa n kin@k
+\XSP arrugue* mi nariz
+\XEN I wrinkled my nose
+\ROOT ji7tz 12, T2
+Page 16

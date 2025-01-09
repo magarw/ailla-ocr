@@ -1,0 +1,63 @@
+MAKINALAILLA MIA
+A
+MP
+PS
+SS
+G
+E
+P
+MP
+PS
+G
+E
+P
+xun k'é?en čí?
+xun k'é?n čí?
+SS Intro
+E
+NP
+FORST
+ADAN
+MP
+PS
+SS
+G good
+well
+234
+NP
+CE
+#¹² → ráyuč nok' yóyalok k'é?én
+12
+?áy-Ø-uč nok' y-?óy-al-ok k'é?n
+NP
+SP
+Main Subj
+Subj.
+one stone there be-it-enter animal its-prop-*-* stone
+that stone
+the animal was like a prop for the stone
+Topic
+med.
+7.
+hi? to wán skótan yíp'aN sná?anih #13
+hi? toh wan-c-Ø-kót-an_y-?íp¹-aN
+PP
+NP
+Topic
+yóyalok k'é’én #23 ↓
+NP
+Post-Adv.
+s-ná?-an-ih
+VP
+Main.
+yes if progressive-present-it-near-*
+his-top-* he-think-*-*
+yes as if it was falling over on top of him he thought
+wénoh #31 tás cak'úlex či? kónéxoh #21_
+wénoh
+tás c-ha-k'úl-ex či? kónéxoh
+PP
+S.
+rest
+what-present-you-do-* there rabbit
+what are you doing there, rabbit

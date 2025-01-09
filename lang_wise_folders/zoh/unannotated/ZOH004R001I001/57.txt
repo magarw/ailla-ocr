@@ -1,0 +1,62 @@
+\SPG enjuagarse, "enfagarse"
+\ENG to rinse the mouth out
+\EXU da 7anh-muy-w@ 7anhnam=tzu7
+\XPSH [D@ 7anhmuyy@ 7anhnamtzu7.]
+\XSP Me enfague* en la man~ana.
+\XEN I rinsed my mouth out in the morning.
+\SYN
+ROOT muy
+\RTGR T2, 12
+\DSRC HAJ95
+\CMTS swishing a mouthful of water around in the mouth
+\date 24/Jun/96
+\lex 7anh-naji
+\_no 00133
+\LG MIG
+\PSH [7anhnaji]
+\UND 7anh-naji
+\MB BOCA, cero
+\VAR
+\GRAM S
+\SPG una persona zurda
+\ENG a left-handed person
+\EXU 7ahn=naji p@n
+\XPSH [7anhnaji p@n]
+\XSP un hombre zurdo
+\XEN a left-handed man
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS final V/TK
+\date 24/Jun/96
+\lex 7anh-naka
+\_no 00134
+\LG MIG
+\PSH [7anhnaka]
+\UND 7anh-naka
+\MB BOCA, cuero
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG cachete
+\ENG cheek
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 08/Jan/96
+ZOH004R0011001.txt
+\lex 7anh-naka pak
+\_no 00135
+\LG MIG
+\PSH [7anhnaka pak]
+\UND 7anh-naka pak
+\MB BOCA, cuero, hueso
+Page 57

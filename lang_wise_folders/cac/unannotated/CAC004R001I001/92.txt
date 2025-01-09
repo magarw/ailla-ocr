@@ -1,0 +1,88 @@
+390. Juan cerró la puerta.
+winhaj Xun ixmakan te' pat
+winhaj Xun ix-ø-mak-an
+te'
+pat
+Cmasc Juan pas-3B-cerrar-EA Cmadera casa
+186
+ixsmak te' pat waj Xun
+ix-ø-s-mak
+te'
+pat waj
+Xun
+pas-3B-3A-cerrar Cmadera casa Cmasc Juan
+Juan abrió la puerta.
+ixsjak te' pat waj Xun
+ix-ø-s-jak
+te'
+pat waj Xun
+pas-3B-3A-abrir Cmadera casa Cmasc Juan
+391. La puerta se cerró.
+te' puerta ixmak sb'a
+te'
+pwerta ix-ø-mak s-b'a
+Cmadera puerta pas-3B-cerrar 3A-rcp
+ixmakji te' puerta
+ix-ø-mak-ji
+te'
+pwerta
+pas-3B-cerrar-psv Cmadera puerta
+ixmakwi te' puerta
+ix-ø-mak-wi
+te'
+pwerta
+pas-3B-cerrar-VM Cmadera puerta
+La puerta se abrió.
+ixjakwi te' puerta
+ix-ø-jak-wi
+te'
+pwerta
+pas-3B-abrir-VM Cmadera puerta
+ixjak sb'a te' puerta
+ix-ø-jak
+s-b'a te'
+pwerta
+pas-3B-abrir 3A-rcp Cmadera puerta
+392. La puerta está cerrada.
+te' puerta makan te’
+te'
+te'
+pwerta Ø-mak-an
+Cmadera puerta 3B-cerrar-psc Cmadera
+makan te' puerta
+Ø-mak-an
+te'
+pwerta
+3B-cerrar-psc Cmadera puerta
+La puerta está abierta.
+jakan te' puerta
+ø-jak-an
+te'
+pwerta
+3B-abrir-psc Cmadera puerta
+393. El caballo está corriendo.
+nok' chej wan yek' jechechok nok'
+nok' chej wan y-ek' jechech-ok nok'
+Canimal caballo prog 3A-pasar correr-IRR Canimal
+Yo estoy corriendo.
+wan wek' jechechok
+wan w-ek'
+jechech-ok
+prog 1A-pasar correr-IRR
+wan wek' ururok
+wan w-ek'
+urur-ok
+prog 1A-pasar correr-IRR
+Yo corro todos los días.
+tzinek' ururok jun jun k'u
+tz-in-ek' urur-ok
+jun jun k'u
+pres-1B-pasar correr-IRR uno uno día
+394. Juan está haciendo correr al caballo.
+winhaj Xun wan spechanek' ururok nok’ chej
+winhaj Xun wan s-pech-an-ek'
+urur/jechech-ok
+Cmasc Juan prog 3A-mandar-prog-DIR.pasar correr-IRR
+nok' chej
+Canimal caballo
+187

@@ -1,0 +1,63 @@
+\SPG ese/a
+\ENG that
+\SPL
+\SLGR
+\EXU
+\XPSH
+\XSP
+\XEN
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\DATE 03/Jan/1980
+\lex {de.d@}
+\_no 04410
+\LG MIG
+\PSH [ded@]
+\UND de.d@
+\MB DCT2, XDEM
+\VAR
+\USE neutral deictic. the meaning or function of the -d@ suffix is
+unknown.
+\GRAM pron
+\SPG ese/a
+\ENG this; that
+\SPL
+\SLGR
+\EXU d@+ p@=n@k. 7@m-tam-pa +7am de.d@ yanhke d@k +7a(y)
++j@nanh
+\XPSH [D@_p@n@kk@mpa*m ded@ yanhke d@kj@nanh.]
+\XSP NOS 11evamos con estos gringos.
+\XEN We got along with those gringos.
+SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {de.je.enh}
+\_no 04411
+\LG MIG
+\PSH [deje*nh]
+\UND te.jv.Vnh
+\MB DCT2, DIR1
+\VAR
+\GRAM av
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG por ahi*
+\ENG towards there
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+Page 1894

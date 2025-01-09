@@ -1,0 +1,89 @@
+\fts Siguio* caminando.
+\fte He went walking off again.
+\ref ZOH001R026 080
+\_no 00070
+\tx tunhnhaw@
+\mb tunh
+7@y n@ki
+-7a -w@
+7@y nak -E
+\sg1 camino-VERS1-COM 3E irse-dCOM
+\egl road -VERS1-COM 3E go -dcom
+\zoq Tunhnhaw@ 7@y naki.
+\fts Siguio* caminando.
+\fte He went walking along.
+\ref ZOH001R026 081
+\_no 00071
+\tx mas winjo*nh 7@y pa7tke7tt@
+\mb mas win -joonh 7@y pa7t
+\sg1 mas CARA-DIR4 3E
+\egl more FACE-DIR4 3E find
+\tx metzanh
+metzanh
+manhkuyp@7k
+\mb_metza*nh manh -kuy7 -p@7k
+\sg1 dos
+pisar-INSTR1-REL2
+\egl two
+step -INSTR1-REL2
+ZOH001R0261001.txt
+-ke7t -w@
+encontrar-REPET-COM
+\tx n@mjayy@*7
+\mb
+7@n mama
+nam -jay -w@ -v7k 7@n mama
+\sg1 decir-APPL-COM-REL 1E mama*
+\egl say -APPL-COM-REL 1E mother
+\zoq Mas wijo*nh 7@y_pa7tke7tt@ 7eya*7k jon ne7 metzanh manhkuyp@7k.
+\fts Mas adelante volvio* a encontrar otro pa*jaro tambien de dos pies.
+\fte Farther up ahead, again he met another bird also on two feet.
+\ref ZOH001R026 083
+\_no 00072
+\tx 7@y 7onhtzekk@ge7tt@
+\mb 7@y 7onh -tze7k-7@y-ke7t -w@ mix bi
+\sg1 3E BOCA -pedir-3E -REPET-COM 2 Prn DEF dos
+\egl 3E MOUTH-ask -3E -REPET-COM 2 Prn DEF two
+7eya*7k jon
+7eya -v7k jon
+otro -REL pa*jaro
+-REPET-COM other-REL bird
+\ref ZOH001R026 084
+\_no 00073
+\tx n@7tti n@mpa
+bi jon
+\mb n@7tti n@m -pa bi jon
+\sg1 no
+\eg1 no
+\tx _n@ji
+\mb__n@ji
+\sg1 nombre
+\egl name
+\zoq 7@y 7onhtzekk@ge7tt@, "Mix bi metzanh manhkuyp@7k da n@mjayy@*7 7@n
+mama?"
+da
+mix bi metzanh manhkuyp@7
+metza*nh mạnh -kuy7 -p@7k_d@
+pisar-INSTR1-REL2 1A
+step -INSTR1-REL2 1A
+\fts Le volvio* a preguntar, "Tu eres el dos pie que me dijo mi mama*?"
+\fte again he asked it, "Are you the two-legged one that my mother told me
+about?
+ne7
+ne7
+tambien
+also
+ni ya
+ni ya
+decir-INC DEF pa*jaro ni NEG 1E
+say -INC DEF bird
+no NEG 1E
+n
+matonhjat@*7
+7@y
+7@y
+7@n matonh -jay -t@7 -A
+escuchar-APPL-querer-nINC 3E
+-APPL-want -nINC 3E
+hear
+Page 15

@@ -1,0 +1,63 @@
+\lex jakx.E7
+\_no 00063
+\LG MIG
+\PSH [jakxi7]
+\UND jakx. E7
+\MB sacar_de_boca, NOM7
+\VAR
+\GRAM SV
+\SPG la cosa que sacamos de la boca
+\ENG what we spit out
+\SPL
+\SLGR
+\EXU
+\XPSH
+\XSP
+\XEN
+\SYN
+\SEMF
+\ROOT jakx
+\RTGR I1
+\DSRC
+\CMTS
+\date 03/Jan/80
+\lex jam pitz.i
+\_no 00064
+\LG MIG
+\PSH [jam pitzi]
+\UND jam pitz. E
+\MB cal, poner_mai*z_en_cal, NOM7
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG nixtamal con cal
+\ENG corn with lime
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pitz
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 13/Jun/95
+\lex jama top.a7
+\_no 00065
+ZOH001R0611004.txt
+\LG MIG
+\PSH [jama topa7]
+\UND jama top.A7
+\MB sol, hacer_calor, NOM2
+\VAR
+\GRAM smsv
+\SCI
+\USE
+\SPG calor del sol; vapor del sol
+\ENG the heat of the sun; steam from the heat of the sun
+\EXU
+\XSP
+Page 27

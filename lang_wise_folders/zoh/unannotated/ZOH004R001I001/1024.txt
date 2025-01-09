@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT wi7t
+\RTGR T2
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex niwi' mo7tz.kuy7
+\_no 02377
+\LG MIG
+\PSH [niwi mo7tzkuy7]
+\UND niwi7 mo7tz.kuy7
+\MB chile, machucar, INSTR1
+\VAR
+\GRAM sminstr1
+\SCI
+\USE
+\SPG chilmolera
+\ENG chile grinder
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT mo7tz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex niwi' mo'tz.e7
+\_no 02378
+\LG MIG
+\PSH [niwi motze7]
+\UND niwi7 mo7tz.E7
+\MB chili, machucar, NOM7
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG chilmol
+\ENG ground chile paste
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT mo7tz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex niwi' nax
+\_no 02379
+\LG MIG
+\PSH [niwi nax]
+\UND niwi7 nax
+ZOH004R0011001.txt
+Page 1024

@@ -1,0 +1,64 @@
+\LG MIG
+\PSH [m@jm@tz@k-]
+\UND m@jm@=tz@k
+\MB mucho, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer bastante
+\ENG to increase something; to make more of something
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 19/Jun/95
+\lex mak
+\_no 02087
+\LG MIG
+\PSH
+\UND mak
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 mezclar
+\SPG 2 formar en un molde
+\SPG 3 hacer tamalito
+\ENG 1 to mix
+\ENG 2 to form in a mold
+\ENG 3 to make tamales
+\SPL m@k. 7oy
+\SLGR ANTIP
+\SLGL mezclar // to mix
+SPL m@k.7@m
+\SLGR PASS
+\SLGL moldearse // to be molded
+ZOH004R0011001.txt
+\SPL m@k.ney
+\SLGR ASSUM1
+\SLGL estar mezclado // to be mixed
+\EXU_yo'=m@k-xuk-w@ yomaa' d@k(+'ay) patanux 7ay'+j@nanh
+\XPSH [Yom@kxukk@ yoma d@kka patanux 7ayj@nanh.]
+\XSP Las mujeres tamalearon con hoja de pla*tano.
+\XEN The women were making tamales with banana leaves.
+\SYN
+\SEMF cook, arrange
+\ASP activity
+\ARG
+\NOM m@k.i, y@k.m@k, m@k.naanh, yo'=m@k. 'oy.kuy7
+\SUB 7ok.m@k. '@y, ni.m@k, win-m@k
+\ETYM
+\ETL
+\ROOT m@k
+\RTGR P (T3)
+\DSRC HAJ94
+Page 900

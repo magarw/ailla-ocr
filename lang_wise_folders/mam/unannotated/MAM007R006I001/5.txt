@@ -1,0 +1,63 @@
+(51) oopee 0=chi-tzan
+kyja'
+AFEC B3s-decir-pues así
+'¡Opé! dijo así,'
+(52) nn=0=eel
+wut'ut'uun
+t-eel
+wut'ut'u.
+INC=B3s=salir AFEC:saltar corriendo y agachado A3s-salir AFEC
+'salió saltando, saltando
+t-ki-'n
+kyja’w,
+INC=B3s-DIR A3s-mirar-SD así(atrás)
+'Volvió a ver atrás,"
+(53) Nn=0=aajal
+(54) Al-ky-ee
+n=0=q'ajt
+ja'la,
+INT=A3p-SR INC=B3s=gritar ahora
+'¿Quién está gritando?'
+(55) tii tqal n=0=q’ajt
+qué qué
+'¿qué está gritando?'
+(56) tii tqal ma 0=q'ajt
+qué qué PROX B3s-gritar
+'¿qué está gritando?”
+tiiya
+(57) 0-chi-tzan
+B3s-decir-puestió
+'dijo el tío detrás.'
+(58) Aax-ax-pa=tza=la
+INC=B3s=gritar
+t-ook
+qa aax at=0=xax
+mismo=?=INT-pues-MIR A3s-entrar si mismo EXIST=B3s=INTNS
+(59) 0-chi-tzan
+t-ajaw-iil
+A3s-dueño-ABST
+'¿Será cierto que el dueño está?'
+(60) Nn=0=aajal
+B3s-decir-pues tío
+'dijo el tío conejo.'
+jun=tl
+el=tl,
+INC=B3s=regresar un otro vez otro
+'regresó otra vez,'
+(62) N=0=xi
+kyja'w.
+así/detrás
+tiiya koneej.
+conejo
+(61) ch'in-aq t-xi”.
+poco=DIST E3s-ir
+'poco a poco se fue.'
+(63) txalalaan
+t-ki-'n
+INC=B3s-DIR E3s-mirar-SD
+'Observó bien,'
+t-iky' t-witz
+weena
+AFEC:de.lado.a.lado E3s-pasar E3s-cara bien
+'miraba de un lado a otro.'
+6

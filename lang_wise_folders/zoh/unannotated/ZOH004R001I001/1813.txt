@@ -1,0 +1,62 @@
+\CMTS
+\date 26/Jun/96
+\1ex yuk. 7uk
+\_no 04220
+\LG MIG
+\PSH [yuk7uk-]
+\UND yuk. 7uk
+\MB ARR, tomar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar a tomar
+ENG to start to drink
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 7uk
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 26/Jun/96
+\lex yuk. 7utz.i
+\_no 04221
+\LG MIG
+\PSH [yuk7utzi]
+\UND yuk. 7utz.E
+\MB ARR, medir, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG medido; una cosa medida y levantada
+\ENG measured; a measured and put-away thing
+\EXU yuk. 'utz.i 7@y+ yuk.p@k-wa
+\XPSH [Yukkutziy yukp@kk@.]
+\XSP Medido lo levanto*.
+\XEN She put it away measured.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7utz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 26/Jun/96
+\lex yuk.7@nh
+\_no 04222
+ZOH004R0011001.txt
+\LG MIG
+\PSH [yuk7@nh-]
+\UND yuk.7@nh
+\MB ARR, caerse
+\VAR
+Page 1813

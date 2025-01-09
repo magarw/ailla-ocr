@@ -1,0 +1,61 @@
+\ROOT ma7k Ix
+\SEMF care
+\CAUS yak.ma7k calmar
+\CMTS calming a child, a drunk, etc.
+\lex matonh
+\_no 00141
+\SPG escuchar; oir
+\ENG to listen; to hear
+\EX
+\XSP
+\XEN
+\ROOT matonh T3
+\SEMF percep
+\PASS matonh.7@m escucharse
+\ANTI matonh.7oy escuchar
+\CMTS maybe ma.7otonh ?
+\lex matz
+\_no 00142
+\SPG sobar
+\ENG to rub
+\EX 7@y 7anhnaka matztz@
+\XSP le sobo* la cara
+\XEN he rubbed his face
+\ROOT matz T3
+\SEMF touch, care
+\PASS NONE matz.7@m *
+\ANTI matz.7oy
+\CMTS
+\lex ma7tz
+\_no 00143
+\SPG amasar
+\ENG to knead
+\EX 7@n ma7tpa bi way7
+\XSP amaso la masa
+\XEN I'm kneading the masa
+\EX ma7tztz@mm@ bi way7
+\XSP esta* amasada la masa
+\XEN the masa is kneaded
+\ROOT ma7tz T3
+\SEMF cook, corn
+\PASS ma7tz.7@m
+\ANTI ma7tz.7oy
+\CMTS
+\lex max
+\_no 00144
+\SPG descomponerse
+\ENG to break; to come apart
+\EX neytum maxx@ k@xi7
+\XSP solo se descompuso la comida
+\XEN the food broke by itself
+\ROOT max 12
+\SEMF break
+\CMTS no caus
+\CMTS puede ser cualquiera cosa
+ZOH001R0611010.txt
+\lex may
+\_no 00145
+\SPG contar
+\ENG to count
+comida, tele, carro,...
+Page 34

@@ -1,0 +1,62 @@
+\date 07/Feb/96
+\lex kumu'.7@y
+\_no 01552
+\LG MIG
+\PSH [kumu7@y-]
+\UND kumu7.7@y
+\MB gusano, VERS2
+\VAR
+\GRAM vers2
+\SCI
+\USE
+\SPG tener lombrices o gusanos
+\ENG to have worms
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex kum(u') jaja
+\_no 01553
+\LG MIG
+\PSH [kumu jaja]
+\UND kumu7 jaja
+\MB
+\VAR kuum jaja
+\GRAM s (m) s
+\SCI
+\USE
+\SPG mosca; mosco*n
+\ENG fly
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex kum(u') paxte7 t@m
+\_no 01554
+\LG MIG
+\PSH [kumu paxte7 t@m]
+\UND kumu7 paxte7 t@m
+\MB gusano, espina, fruta
+\VAR kuum paxte7 t@m
+\GRAM
+\SCI
+\USE
+\SPG tuna de nopal
+\ENG prickly pear fruit
+\EXU
+ZOH004R0011001.txt
+Page 674

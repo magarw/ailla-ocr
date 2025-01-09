@@ -1,0 +1,63 @@
+\LG MIG
+\PSH
+\UND karru
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG camio*n, coche
+\ENG bus, car
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM carro
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 24/Jun/96
+\lex kat
+\_no 01195
+\LG MIG
+\PSH
+\UND kat
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG lamber, como perro o gato
+ENG to lick, like a dog or cat
+\SPL kat. 7oy
+\SLGR ANTIP
+\SLGL lamber // to lick
+\SPL kat.7@m
+ZOH004R0011001.txt
+\SLGR PASS
+\SLGL ya esta* lambido // now it's licked
+\EXU 1 bi nu7 7@y+ kat-w@ bi n@7
+\XPSH 1 [Bi nu7 7@y katt@ bi n@7.]
+\XSP 1 El perro lambio* el agua.
+\XEN 1 The dog lapped the water.
+\EXU 2_7@y+ y@k.jo.kat. '@y-w@ bi_nu7 bi k@x.i
+\XPSH 2 [7@y y@kjokatt@yy@ bi nu7 bi_k@xi.]
+\XSP 2 El perro mete* la trompa en la comida.
+\XEN 2 The dog put his nose in the food.
+\SYN
+\SEMF animal, eat
+\ASP activity
+\ARG
+\NOM
+\SUB jo.kat, j@x-kat
+\ETYM
+\ETL
+\ROOT kat
+\RTGR T3
+\DSRC TK94
+\CMTS
+\CMTS get deriv's
+\date 03/Jan/80
+Page 520

@@ -1,0 +1,62 @@
+ZOH001R0611004.txt
+\ENG to cause to go farther away or to be more distant
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+\lex yak.tzum.i7
+\_no 00460
+\LG MIG
+\PHO [yaktzumi *7]
+\UND yak.tzum. E7
+\MB CAUS, ajuntarse, NOM7
+\VAR
+\GRAM pcp
+\SPG ajuntado, amontonado
+\ENG gathered, heaped
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT tzum
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex yaw.a7
+\_no 00461
+LG MIG
+\PSH [yawa7]
+\UND yaw.A7
+\MB X, NOM2
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG tierno
+\ENG tender
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT %yanh
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yaw. a' mok xox=7an.e
+\_no 00462
+\LG MIG
+Page 182

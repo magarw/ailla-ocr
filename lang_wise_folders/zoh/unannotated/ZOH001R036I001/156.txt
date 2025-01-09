@@ -1,0 +1,82 @@
+\_no 00717
+\tx 7i minpa
+\mb 7i
+min
+-pa
+venir-INC 2E
+\egl and come -INC 2E
+\sg] y
+\zoq 7i_minpam p@w@ 7el mizmo n@jo.
+fts y lo vienes a echar en la misma agua.
+\fte and you come throw it in the same water.
+\com
+\idx
+ZOH001R0361001.txt
+m p@w@
+7el mizmo n@jo
+7@m p@7 -w@ 7el mismo n@7 -jo7
+poner-dINC el mismo agua -Loc2
+put -dINC the same water-LOC2
+\ref ZOH001R036 729
+\_no 00718
+\tx ya m p@7am
+ga
+7alkojo
+\mb ya 7@m p@7 -A7 -7am ka -7
+puru bibu n@7 7@m
+7alko* 1-jo7 puru bibu n@7 7@m
+\sg1 NEG 2E poner-IMPV-YA
+alcohol-Loc2 puro vivo agua 2E
+\egl NEG 2E put -IMPV-NOW DCT3-NOM1 alcohol-LOC2 cigar live water 2E
+DCT3-NOM1
+\tx yumpa
+\mb yum
+-ра
+\sg1 hervir(se) - INC
+\egl boil
+-INC
+\zoq Yam p@7am ga 7alkojo, puru bibu n@7 7@m yumpa.
+\fts Ya no lo echas eso en alcohol, puro la agua simple (vivo) lo hierves.
+\fte Don't put that in alcohol, just in plain (live) water you boil it.
+\com
+\idx
+\ref ZOH001R036 730
+\_no 00719
+\tx
+GSM: ded@
+tuni
+7@n 7anhnittampa
+\mb GSM te -da tuni7 7@n 7anhnit-tam -ра
+\sg1 GSM: DCT2-DEM ciruelo 1E tener -1/2PL-INC
+\eg1 GSM: DCT2-DEM plum 1E have -1/2PL-INC house-LOC2
+\zoq GSM: Ded@ tuni 7@n 7anhnittampa t@kjo?
+\fts GSM: Ese cirjuelo que tenemos en casa?
+\fte GSM: That plum that we have in the house?
+\com
+\idx
+\ref ZOH001R036 731
+\_no 00720
+\tx 70 pa
+\mb 70 pa7
+tuni
+tuni 7
+salvaje ciruelo
+\sg1 o
+\egl or wild plum
+\zoq 70 pa tuni?
+\fts o cirjuelo del monte?
+\fte or the wild plum?
+\com
+\idx
+\ref ZOH001R036 732
+\_no 00721
+\tx
+\mb OSM
+\sg1 OSM: no
+\eg1 OSM: no
+OSM: n@7tti
+n@7tti
+Page 156
+t@kjo
+tak -jo7
+casa -Loc2

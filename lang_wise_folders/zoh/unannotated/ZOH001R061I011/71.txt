@@ -1,0 +1,60 @@
+\_no 00370
+\SPG tener hambre
+\ENG to be hungry
+\EX yu7=7anh.p@7t
+\XSP pasar el hambre a
+\XEN
+\ROOT yuka 12
+\CMTS
+\lex yum
+\_no 00371
+\SPG hervir(se)
+\ENG to boil
+\EX n@7 7@y yumxuk@*7
+\XSP agua hervida
+\XEN boiled water
+\EX jak yumpa
+\XSP esta* hirviendo mucho
+\XEN it's boiling a lot
+\ROOT yum I1, I2 (prob.)
+\CMTS caus yak.yum hirvir
+\lex yun
+\_no 00372
+\SPG nadar
+\ENG to swim
+\EX
+\XSP
+\XEN
+\ROOT yun Il
+\CMTS caus yak.yun hacer nadar
+\lex yu7p
+\_no 00373
+\SPG picar (madera, cebolla, carne...)
+\ENG to mince; to chop; (wood, onion, meat)
+\EX
+\XSP
+\XEN
+\ROOT yu7p P, (T3)
+\CMTS antip yu7p.7oy picar
+\CMTS pass yu7p.7@m picarse
+\CMTS prsv yu7p-ten lo tiene picado
+\CMTS assum1 yu7p.ney estar picado
+\lex yu7tz
+\_no 00374
+ZOH001R0611011.txt
+\SPG agarrar un pun~o y ponerlo ahi*; dejar un pun~o (frijol, mai*z)
+\ENG to get a handful and put it over there; to leave a handful (beans,
+corn)
+\EX 7@y yu7tzp@kk@
+\XSP lo agarro* por pun~o
+\XEN she grabbed it by the handful
+\ROOT yu7tz T1
+\CMTS no antip * yu7tz.7oy
+\lex y@7kx
+\_no 00375
+\SPG mover(se); aflojarse
+\ENG to move; to float
+\EX
+\XSP
+\XEN
+Page 71

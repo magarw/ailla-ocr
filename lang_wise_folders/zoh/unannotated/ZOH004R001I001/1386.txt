@@ -1,0 +1,65 @@
+\XSP moyocuili blanco
+\EXU yak ta'.t@7
+\XPSH [y@k t@t@7]
+\XSP moyocuili negro
+\SYN
+LF: bugs
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tza7
+\_no 03222
+\LG MIG
+\PSH
+\UND tza7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG piedra
+\ENG rock
+\EXU chik tza7
+\XSP piedrita
+\XEN small rock
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH of EX
+\date 26/Jun/96
+\lex tzaj
+\_no 03223
+\LG MIG
+\PSH
+\UND tzaj
+\MB
+\VAR
+\GRAM vt
+HAJ:96 ok; NO, but TK fixed it
+\SCI
+\USE
+\SPG pegar con pegamento
+\ENG to stick with glue
+\SPL tzaj.7oy
+\SLGR ANTIP
+ZOH004R0011001.txt
+\SLGL pegar con pegamento // to glue
+\SPL tzaj.7@m
+\SLGR PASS
+\SLGL pegarse // to be glued
+\SPL tzaj.ney
+\SLGR ASSUM1
+\SLGL estar o quedar pegado // to be or stay glued
+\EXU 1 tzaj. '@m-w@ 7@y+ toto7
+\XPSH 1 [Tzajj@mm@y toto7.]
+\XSP 1 se pego* su papel.
+\XEN 1 Her paper was glued.
+\EXU 2 tzaj.ney-w@ bi toto7
+Page 1386

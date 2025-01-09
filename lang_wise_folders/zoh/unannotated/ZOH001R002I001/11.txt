@@ -1,0 +1,89 @@
+\idx ck_pho
+\ref ZOH001R002 045
+\_no 00046
+\tx de7
+\mb te -7
+\sg1 DCT2-NOM1 gente NPL
+\eg1 DCT2-NOM1 people NPL
+\zoq De7 jented@kka deji7 jomenampad@kka.
+\fts Esa gente de ahi* son nuevos.
+\fte These people from here are new.
+\not
+\idx
+jente d@kka deji7
+jente d@kkay te -ji7
+\ref ZOH001R002 046
+\_no 00047
+\tx de7xe
+gad@
+tyempu bi
+\mb te -7xe ka -da
+tyempu bi
+\sg1 DCT2-SIM DCT3-DEM tiempo DEF
+\eg1 DCT2-SIM DCT3-DEM time DEF come -3PL-COM
+\ref ZOH001R002 047
+\_no 00048
+\zoq De7xe gad@ tyempu bi minxukk@
+\fts Asi* en ese tiempo vinieron
+ZOH001R0021001.txt
+d@kka.
+jomenampa
+jome7-An@m
+jome7-An@m -pa d@kkay
+nuevo-INDEF-INC NPL
+DCT2-LOC1 new -INDEF-INC NPL
+-pa
+DCT2-LOC1
+\fte Thus in those days the ones that came
+\not
+\idx unmrk_rel
+\zoq para k@xxoba 7@y tz@kxukk@.
+\fts para que le den de comer.
+\fte to feed them.
+\not
+\idx vseq
+\tx
+\mb k@x
+\tx para k@xxoba
+7@y tz@kxukk@.
+\mb para k@x
+-7oy -pa 7@y tz@k -xuk-w@
+\sg1 para comer-ANTIP-INC 3E hacer-3PL-COM
+\egl for eat -ANTIP-INC 3E do -3PL-COM
+k@xkuy7.
+k@x -kuy7
+\ref ZOH001R002 048
+\_no 00049
+\tx ga7
+jente
+d@kka gaja7
+\mb ka -7 jente d@kkay ka -ja7
+\sg1 DCT3-NOM1 gente NPL DCT3-Loc1
+\eg1 DCT3-NOM1 people NPL
+\sg1 comer-INSTR1
+\egl eat - INSTR1
+minxukk@
+min -xuk-w@
+venir-3PL-COM
+\ref ZOH001R002 049
+\_no 00050
+\tx porke ga7
+\mb porke ka -7
+tz@mn@kjaxukpa
+7@y
+-n@k -jay -xuk-pa 7@y
+cargar-irse-APPL-3PL-INC 3E
+DCT3-LOC1 carry -go -APPL-3PL-INC 3E
+\zoq Ga7 jented@kka gaja7 tz@mn@kjaxukpa 7@y k@xkuy7.
+\fts Esa gente alla* le llevan su comida.
+tz@m
+\fte Those people carried their food there.
+\not
+\idx aux_p2
+jente 7i ga7
+jente 7i ka -7
+d@k
+yukpoyxukpa
+d@kkay yuk-poy
+Page 11
+-xuk-pa

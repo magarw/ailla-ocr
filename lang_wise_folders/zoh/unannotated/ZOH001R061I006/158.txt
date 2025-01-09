@@ -1,0 +1,63 @@
+\SLGR NO ASSUM1
+\EXU 7@y+ yuj-w@ bi yuj.kuy7
+\XPSH [7@y yujja bi yujkuy7.]
+\XSP Rozo* el desmonte.
+\XEN He cleared the field.
+\SYN
+\SEMF clean, farm
+\ASP activity
+\ARG
+\NOM yuj.kuy7
+\SUB k@.yuj
+\ETYM
+\ETL
+\ROOT yuj
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\1ex yuk. 7ex
+\_no 00235
+\LG MIG
+\PSH [yuk7ex-]
+\UND yuk. 7ex
+\MB ARR, encajar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG levantar encajado
+\ENG to pick up something by sticking it with something
+\SPL yuk. 7ex.7oy
+\SLGR ANTIP
+\SLGL levantar encajado // to lift up on the point of something
+\SPL yuk. 7ex.7@m
+\SLGR PASS
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7ex
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 26/Jun/96
+\lex yu7p
+\_no 00236
+\LG MIG
+\PSH
+ZOH001R0611006.txt
+\UND yu7p
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG picar (madera, cebolla, carne...)
+\ENG to chop or mince (wood, onion, meat)
+\SPL yu7p.7oy
+\SLGR ANTIP
+Page 158

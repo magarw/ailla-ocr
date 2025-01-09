@@ -1,0 +1,61 @@
+\ENG to cross; to pass
+\SEMF move_self
+\ASP achievement
+\ARG direction
+\NOM p@'t.17, p@7t.kuy7
+RTGR 11
+\POS YES see lexicon
+\MID NO
+\UNDO NO
+\CLZ
+\CMTS
+\lex p@7tz
+\_no 00262
+\SPG destripar
+\ENG to gut
+\SEMF clean, animal
+\ASP activity
+\ARG
+\NOM p@'tz.i7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex p@y
+\_no 00263
+\SPG agarrar un chupete
+\ENG to take a little sip or puff
+\SEMF eat
+\ASP semelfactive
+\ARG
+\NOM
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex p@' [1]
+\_no 00264
+\SPG poner
+\ENG to put
+\SEMF arrange
+\ASP achievement
+\ARG
+\NOM p@'. 'oy.kuy7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex taj
+\_no 00265
+\SPG escarbar
+\ENG to dig
+\SEMF build
+\ASP activity
+ZOH001R0611002.txt
+Page 65

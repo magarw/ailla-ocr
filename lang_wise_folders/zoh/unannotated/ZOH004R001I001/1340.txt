@@ -1,0 +1,63 @@
+\_no 03114
+\LG MIG
+\PSH [tunhkuwit-]
+\UND tunhku=wit
+\MB tunco, andar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG andar mocho
+\ENG to walk missing a part of a leg
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ETYM tunco
+\ETL Sp
+\ROOT wit
+\RTGR I1
+\DSRC HAJ94
+\CMTS CK-GR - OK
+\date 12/Jun/95
+\lex tunh-tzi'
+\_no 03115
+\LG MIG
+\PSH [tunhtzi-]
+\UND tunh-tzi7
+\MB camino, dar
+\VAR
+\GRAM vt:incorp
+\SCI
+\USE
+\SPG encaminar
+\ENG to see someone off; to show someone the road
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzi7
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tunh-yak. 'ix
+\_no 03116
+\LG MIG
+\PSH [tunhyakkix-]
+\UND tunh-yak.7ix
+\MB camino, CAUS, ver
+\VAR
+\GRAM vt:incorp
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG_ensen*ar a alguien el camino
+\ENG to show someone the road
+\EXU 7@y+ tunh-yak. 'ix-w@
+\XPSH [7@y tunhyakkixx@.]
+Page 1340

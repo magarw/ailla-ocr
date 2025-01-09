@@ -1,0 +1,64 @@
+\MB ocote, hoja
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG hoja de ocote
+\ENG pine needle
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex_tzin=juwi 7
+\_no 03371
+\LG MIG
+\PSH [tzinjuwi7]
+\UND tzin=juwi 7
+\MB ocote, brasa
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG carbo*n de ocote; brasa de ocote
+\ENG pine charcoal; pine ember
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH
+HAJ:96- maybe better w/o the /w/, it's very slight; yes it
+is slight or missing: TK
+\date 26/Jun/96
+\lex tzinko7kx
+\_no 03372
+LG MIG
+\PSH
+\UND tzinko7kx
+\MB
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG cucuyo; lucie*rnaga
+\ENG firefly
+\EXU yak(.y@k) tzinko7kx
+ZOH004R0011001.txt
+\XSP cucuyo negro
+\XEN black firefly
+\EXU pu7tz.pu7tz tzinko7kx
+\XSP cucuyo amarillo
+\XEN yellow firefly
+\EXU tzikin tzinko7kx
+Page 1449

@@ -1,0 +1,33 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+12.3. Indirect questions
+Indirect questions are essentially the same as direct ones,
+except that they are usually introduced by verbs that can take
+clauses as arguments, like 'to know' and 'to remember'.
+(12.8)
+(i)
+(ii)
+(iii)
+(iv)
+saber 'iwø de pø'oyyø
+saber ?iwǝ? de? 0 pǝ?.?oy-wǝ
+know who that 3A put.ANTIP-COM
+'Who knows who put it there?'
+(ZOH001 R012-125)
+jamtzøktamø tin tzøkmintammø
+ham(V)=cək-tam-A?
+ti ?ən+ cək=min-tam-we
+*mind-do-1/2PL-IMPV what 1E+ do=come-1/2PL-COM
+'Remember what we came to do.' (ZOH001R018-003)
+dey yan muxtamø jutiya dø nøktampa
+?ən+ muš-tam-A
+dey ya
+hutiya? də+ nək-tam-pa
+now NEG 1E+ know-1/2PL-nINC when 1A+ go-1/2PL-INC
+'Now we don't know when we're going.'
+307
+(ZOH001R010-622)
+yan 'ixxám juy powo
+ya ?ən+ ?iš-wǝ+?am hu? ?əy+ pə?-wə
+NEG 1E+ see-COM+NOW where 3E+ put-COM
+'Now I haven't seen where they put him.'
+(ZOH001R026- 143)

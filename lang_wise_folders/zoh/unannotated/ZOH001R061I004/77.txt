@@ -1,0 +1,62 @@
+\date 26/Jan/96
+\lex m@k.i
+\_no 00188
+\LG MIG
+\PSH [m@ki]
+\UND mak. E
+\MB mezclar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG 1 figura formada de barro
+\SPG 2 tapalcate
+\ENG 1 figure formed from clay
+\ENG 2 potsherd
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT m@k
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex m@n xoy.a7
+\_no 00189
+\LG MIG
+\PSH [m@n xoya7]
+\UND m@n xoy.A7
+\MB camote, pasar_de_tiempo, NOM2
+\VAR
+\GRAM sv: incorp
+\SCI
+\USE
+\SPG camote que ya no esta* bueno
+\ENG a bad yam
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT XOY
+\RTGR 12
+\RTGL pasar de su tiempo // to be overripe
+\DSRC TK96
+\CMTS
+\lex m@tz.i7
+\_no 00190
+\LG MIG
+\PSH [m@tzi7]
+\UND m@tz.E7
+ZOH001R0611004.txt
+\MB *jugar, NOM7
+\VAR
+Page 77

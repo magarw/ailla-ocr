@@ -1,0 +1,78 @@
+\eg1 DCT3-NOM1 other-REL
+\zoq Ga 7eya*.
+\fts Este es otro.
+\fte That's another.
+\com
+\idx
+\ref ZOH001R036 472
+\_no 00463
+\tx 7eya* 7k naka gay
+\mb 7eya -v7k naka ka -y
+\sgl otro -REL cuero DCT3-TMP
+moler-INC
+\egl other-REL skin DCT3-TMP grind-INC
+\zoq 7eya*7k naka gay po7tpa.
+\fts otro ca*scara lo hace polvo.
+\fte Another bark now one grinds.
+\com
+\idx
+\ref ZOH001R036 473
+\_no 00464
+\tx 7@y tzetzpa
+bi naka
+\mb 7@y tzetz -pa bi naka
+\sg1 3E
+labrar-INC DEF cuero
+\egl 3E work -INC DEF skin
+\zoq 7@y tzetzpa bi naka.
+\fts Raspa la ca*scara.
+\fte one scrapes the bark.
+\com
+\idx
+\ref ZOH001R036 474
+\_no 00465
+\tx minpa
+\mb min
+7i
+-pa 7i
+\sg1 venir-INC y
+\egl come -INC and when very
+\com
+\idx
+\ref ZOH001R036 475
+\_no 00466
+7enton
+po7tpa
+po7t -pa
+kwando ban
+kwando bayun
+cuando muy
+\tx
+\mb
+ZOH001R0361001.txt
+\zoq Minpa 7i kwando ban jaxxa*m,
+\fts viene y cuando ya esta* bien tostado,
+\fte It comes and when
+it's well toasted,
+jaxxa*m
+-w@ -7am
+jax
+asar -COM-YA
+roast-COM-NOW
+\ref ZOH001R036 476
+\_no 00467
+\tx GSM: tza
+g@xi
+gay
+gaji 7@y k@7tpam
+tza g@xi
+entonces ka -y ka -ji7 7@y k@7t -pa -7am tza7
+g@xi
+\sg1 entonces DCT3-TMP DCT3-LOC1 3E moler-INC-YA piedra LoC4
+\egl then DCT3-TMP DCT3-LOC1 3E grind-INC-NOW rock LOC4
+\zoq 7enton gay gaji 7@y k@7tpam tzag@xi.
+\fts entonces ya lo muele en el metate.
+\fte then now there one grinds it in the metate.
+\com
+\idx
+Page 101

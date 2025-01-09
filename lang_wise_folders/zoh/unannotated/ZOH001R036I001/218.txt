@@ -1,0 +1,82 @@
+\idx
+\ref ZOH001R036 999-025
+\_no 01007
+\tx 7isya
+\mb 7i -si-ya
+pata
+p@7t -A
+pasar-nINC SI
+\sgl y -si-NEG
+\egl and-if-NEG pass -nINC IF
+\ref ZOH001R036 999-025
+\_no 01008
+\zoq 7isya p@t@ bi7t, ded@ tzuki tzetu7.
+\fts Y si no pasa, el cas quite de la danta.
+\fte And if it doesn't pass, tapir's hoof.
+\com
+\idx
+\tx 7@y ponhpa
+-pa
+\mb 7@y ponh
+\sg1 3E quemar-INC
+\egl 3E burn -INC
+\zoq 7@y ponhpa.
+\fts Lo quema.
+\fte she burns it.
+\com
+\idx
+\ref ZOH001R036 999-026
+\_no 01009
+\tx 7@y wo7kpa
+\mb 7@y wo7k
+\sg1 3E
+\egl 3E scrape-INC DEF hoof
+raspar-INC DEF casco
+bi7t ded@
+tzuki tzetu7
+bi7t te -d@ tzuki tzetu7
+DCT2-DEM tapir casco
+DCT2-DEM tapir hoof
+\zoq 7@y wo7kpa bi tzetu7.
+\fts Lo raspas el casquito.
+\fte She scrapes the hoof.
+\com
+\idx
+bi
+tzetu7
+-pa bi tzetu7
+\com
+\idx
+ZOH001R0361001.txt
+\ref ZOH001R036 999-026
+\_no 01010
+\tx 7@y ponhjaba
+bi
+7@y ponhpa
+bi tzuki tzetu
+\mb 7@y ponh -jay -pa bi 7@y ponh -pa bi tzuki tzetu7
+\sg1 3E quemar-APPL-INC DEF
+3E
+quemar-INC DEF tapir casco
+\egl 3E burn -APPL-INC DEF 3E burn -INC DEF tapir hoof
+\zoq 7@y ponhjaba bi - 7@y ponhpa bi tzuki tzetu.
+\fts Lo quema el casquito de danta.
+\fte she burns that for it. she burns the tapir hoof.
+\ref ZOH001R036 999-027
+\_no 01011
+\tx 7i minpa
+y
+\mb 7i
+min -pa 7@y yak
+-p@k -jay -w@
+\sgl y
+venir-INC 3E INSTR2-agarrar-APPL-COM
+\egl and come -INC 3E INSTR2-get
+y@kp@kjay
+\zoq 7i minpay y@kp@kjay gaji.
+\fts Y viene a echarle ahi*.
+gaji
+ka -ji7
+DCT3-LOC1
+-APPL-COM DCT3-LOC1
+Page 218

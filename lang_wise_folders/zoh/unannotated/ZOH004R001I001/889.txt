@@ -1,0 +1,63 @@
+\lex mu7t
+\_no 02061
+\LG MIG
+\PSH
+\UND mu7t
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG 1 yerno
+\SPG 2 suegro (de hombre)
+\ENG 1 son-in-law
+\ENG 2 father-in-law (of a man)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 03/Oct/94
+\lex mu7t mama
+\_no 02062
+\LG MIG
+\PSH
+\UND mu7t mama
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG suegra de un hombre
+\ENG mother-in-law of a man
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Nov/94
+\lex mux [1]
+\_no 02063
+\LG MIG
+\PSH
+\UND mux
+\MB saber
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG saber
+\ENG to know
+\SPL mux. 7oy
+ZOH004R0011001.txt
+Page 889

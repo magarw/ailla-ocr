@@ -1,0 +1,84 @@
+\zoq GSM: Tzektz@y.
+\fts GSM: Empacho.
+\fte GSM: Swollen belly.
+\com
+\idx
+\ref ZOH001R036 999-033
+\_no 01017
+\tx OSM: tzektz@y
+\mb OSM
+tzek
+-tz@y
+-w@
+\sg1 OSM: barriga-atorarse -COM
+\egl OSM: belly -get_stuck-COM
+\zoq OSM: Tzektz@y.
+\fts OSM: Empacho.
+\fte OSM: Swollen belly.
+\com
+\idx
+\ref ZOH001R036 999-034
+\_no 01018
+\tx 7a gay
+\mb 7a ka
+\sg1 a
+-Y
+DCT3-TMP
+\egl at DCT3-TMP
+\tx 7ay
+\mb 7ay
+\sg] hay
+\egl there are times BACK -get
+\com
+\idx
+70
+- 7ay
+bese j@x7@7tzpa
+gay
+ka
+-Y
+beses jax -7@7tz -ра 70
+DCT3-TMP
+veces ĀTRAS-vomitar-INC o
+DCT3-TMP there are times BACK -vomit -INC or
+7ay
+hay
+bese j@xp@kpa
+beses jax -p@k
+veces ATRAS-agarrar-INC debajo
+\ref ZOH001R036 999-035
+\_no 01019
+\tx de7xe
+pitz@mpa
+\mb te -7xe pitz@m-pa
+\sg1 DCT2-SIM salir -INC
+\eg1 DCT2-SIM leave -INC
+\com
+\idx
+ZOH001R0361001.txt
+\zoq 7a gay - gay 7ay bese j@x7@7tzpa 7o 7ay bese j@xp@kpa kaj@kanh.
+\fts De ahi* hay veces lo gomita o hay veces lo saca por debajo (lo caga).
+\fte Then then there are times it vomits it up or there are times it
+expels it from below (it shits it out).
+\zoq De7xe pitz@mpa.
+\fts Asi* sale.
+\fte That's how it comes out.
+\ref ZOH001R036 999-036
+\_no 01020
+\tx <break>
+\fts <break>
+-pa
+\ref ZOH001R036 999-037
+\_no 01021
+GSM: pa tzokoy
+toe7
+\tx
+\mb GSM
+\sg1 GSM: para corazo*n doler-NOM3
+para tzokoy7 toy -E7
+\egl GSM: for heart
+hurt -NOM3
+k@j@kanh
+kaj@kanh
+-INC underneath
+Page 220

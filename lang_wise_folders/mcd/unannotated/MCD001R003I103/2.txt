@@ -1,0 +1,59 @@
+COSHOITI DES MOUSTIQUES
+Gasta Bala
+11 octobre 2001
+1
+2
+3
+4
+5
+6
+7
+un nusca ahuaquin
+tsoan ano raoma
+ano rao rihuima
+//asca huami ana //
+tsoan ano rihuima
+un nusca ahuaquin
+9
+oa rono cusodi
+oa rono cu-so-di
+DEM serpent « rive »-LOC-PASL
+près du flanc de ce serpent
+près de la rive de ce fleuve
+=
+8 rono cusocayanu
+rono cu-so-caya-nu
+serpent << rive »-LOC-EXIST2-ERG
+près du flanc de ce serpent
+près de la rive de ce fleuve
+=
+cusotaui anora
+cu-so-taui ano-ra
+<< rive »>-LOC-commencer LOC-ASS
+où commence son flanc
+= où commence la rive
+10 afi afoquian
+afi a-fo-quian
+11 osho fachi uhuacai
+osho fachi uhua-cai
+A - SITUATION
+3PERS.PL AUX.TR-PL-OST2
+ils l'on fait ainsi
+12 osho fachifoquian
+osho fachi-fo-quian
+blanc << graine de collier » grand-MIR
+les nombreuses graines de collier blanches
+= les nombreux moustiques
+13 acamu rutunai
+a-camu rutu-na-i
+B - NOYAU
+blanc << graine de collier »>-PL-OST2
+les nombreuses graines de collier blanches
+= les nombreux moustiques
+14 rutuinicahuadi
+3PERS-EXIST3 tuer-REC-PROG
+ils l'ont tué
+rutu-idi-cahua-di
+tuer-commencer-DIR-PASL
+ils commencèrent à le tuer
+212

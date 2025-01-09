@@ -1,0 +1,77 @@
+\zoq
+"Pero ju ti de7 d@ n@kpa joji?
+\fts "Pero donde voy a ir man~ana?
+\fte "But where am I going to go tomorrow?
+\com
+\idx
+\ref ZOH001R055 027
+\_no 00028
+d@
+\tx si d@x da k@yujpanam
+\mb
+si d@x da ka
+-yuj
+\sg1 si 1Prn 1A AFUERA-rozar
+\egl if 1prn 1A AWAY -clear_field-INC-STILL
+\ref ZOH001R055 028
+\_no 00029
+\zoq si d@x da k@yujpanam7.
+\fts si yo voy a limpiar todavia.
+\fte If I'm going to clear the field still.
+\com
+\idx
+\zoq Ya n@mmo n@kk@ d@x joji.
+\fts No puedo ir yo man~ana.
+\fte I can't go tomorrow.
+\com
+\idx
+ZOH001R0551001.txt
+\tx ya n@mmo
+n@kk@ d@x
+n@k -w@ d@x
+\mb ya n@m-7oy -A
+man~ana
+\sg1 NEG DO -ANTIP-NINC irse-dINC 1Prn
+\eg1 NEG DO -ANTIP-nINC go -dINC 1Prn morning
+\ref ZOH001R055 029
+\_no 00030
+\tx porke d@ k@yujpa
+\mb
+porke
+da ka
+-pa -nam7
+-INC-TOD
+-yuj
+\sg1 porque 1A AFUERA-rozar
+\egl because 1A AWAY -clear_field-INC
+\ref ZOH001R055 030
+\_no 00031
+\tx peru 7@m n@kpa
+\mb peru 7@m n@k -pa
+\sg1 pero 2A irse-INC
+\egl but 2A go -INC
+"I
+\zoq Porke da k@yujpa."
+\fts Porque estoy limpiando.
+\fte Because I'm clearing the field."
+\com
+\idx
+\zoq "Peru 7@m_n@kpa?"
+\fts "Pero vas a ir?"
+\fte "But you're going to go?"
+\com
+\idx
+-ра
+-INC
+joji
+joji7
+\ref ZOH001R055 031
+\_no 00032
+\tx j@ d@_n@kpa winjo da k@yujtukpa
+\mb ja7 da n@k -pa win -jo7 da ka
+-yuj
+\sgl si* 1A irse-INC CARA-LOC2 1A AFUERA-rozar
+Page 7
+-tuk
+-ра
+-terminarse -INC

@@ -1,0 +1,63 @@
+XPSH 2 [Ban 7@wi t@m.]
+\XSP 2 Cayo* bastante fruta.
+\XEN 2 A lot of fruit fell down.
+\SYN
+\SEMF
+\ETYM
+\ETL
+ROOT 7@nh
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 09/Jan/96
+\lex 7@'tz.17
+\_no 00539
+\LG MIG
+\PSH [7@tzi7]
+\UND 7@7tz. E7
+\MB vomitar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG vo*mito
+\ENG vomit
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 7@7tz
+\RTGR T1
+\DSRC TK94
+\CMTS
+\date 29/Jan/96
+\lex bachchakka7
+\_no 00540
+\LG MIG
+\PSH
+\UND bachchakka7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG pa*jaro carpintero chico; bachaca
+\ENG a type of small woodpecker
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+LF: jon
+ZOH004R0011001.txt
+\CMTS
+\date 10/Nov/94
+\lex balsamu (kuy)
+Page 233

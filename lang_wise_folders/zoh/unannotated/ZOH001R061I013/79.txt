@@ -1,0 +1,52 @@
+\SPG catolico
+\ENG catholic
+\lex katorse
+\_no 00983
+\SPG catorce
+\ENG fourteen
+\lex kat@xukpa*m
+\_no 00984
+\SPG ka7-t@7-xuk-pa-7am
+ENG
+\lex katzit7ok
+\_no 00985
+\SPG cazador
+\ENG hunter
+\lex katzu7
+\_no 00986
+\SPG agrio
+\ENG sour
+\lex ka7tz
+\_no 00987
+\SPG machucar
+\ENG chew
+\lex kawak
+\_no 00988
+\SPG mamey
+\ENG fruit
+\lex kaw@*7
+\_no 00989
+\SPG cada ver
+\ENG corpse
+\lex kax
+\_no 00990
+\SPG_dar_pasos
+\ENG step
+\lex kaxa
+\_no 00991
+\SPG bau*1
+\ENG chest
+\lex kaxmo7
+\_no 00992
+\SPG ya_ves
+\ENG now_you_see
+\lex kaxtigar
+\_no 00993
+\SPG castigar
+\ENG punish
+\lex kaxtigu
+\_no 00994
+\SPG castigo
+\ENG pain
+ZOH001R0611013.txt
+Page 79

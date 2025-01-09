@@ -1,0 +1,63 @@
+\CMTS
+\date 11/Nov/94
+\lex tzetu7
+\_no 03336
+\LG MIG
+\PSH
+\UND tzetu7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG casco
+\ENG hoof
+\EXU bejcha tzetu7
+\XSP casco de caballo
+XEN horse's hoof
+\EXU wakax tzetu7
+\XSP casco de res
+\XEN Cow's hoof
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+\lex tzetz
+\_no 03337
+\LG MIG
+\PSH
+\UND tzetz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG labrar
+\ENG to work (stone, wood, etc.)
+\SPL tzetz.7oy
+\SLGR ANTIP
+\SLGL labrar // to work
+\SPL tzetz.7@m
+ZOH004R0011001.txt
+SLGR PASS
+\SLGL to be worked
+\SLGR NO ASSUM1
+\EXU 1 _7@y+ tzetz-w@ jacha+j@nanh
+\XPSH 1 [7@y tzetztz@ jachaj@nanh.]
+\XSP 1 Labro* con hacha.
+\XEN 1 He worked it with a hachet.
+\EXU 2 tzetz. '@m-w@ bi kuy
+\XPSH 2 [Tzetztz@mm@ bi kuy.]
+\XSP 2 Labraron la madera.
+\XEN 2 They (someone) worked the wood.
+\SYN
+\SEMF build
+\ASP activity
+\ARG
+\NOM tzetz.e7
+\SUB j@x=tzetz, k@.tzetz
+Page 1434

@@ -1,0 +1,64 @@
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG picar, como chaya o mala mujer, o una avispa
+\ENG to prick, like a thorn, or to bite, like a wasp
+\SPL tzix.7oy
+\SLGR ANTIP
+SLGL picar // to prick; to bite
+\SLGR NO PASS
+\EXU 1 yak.tzix. 'oy-w@
+\XPSH 1 [Yaktzixxoyy@.]
+\XSP 1 Le pico*.
+\XEN 1 It bit her.
+\EXU 2 tzix. 'oy-w@ 7@y+ n@k.i weni' d@k (+'ay)
+\XPSH 2 [Tzixxoyy@y naki weni d@kka.]
+\XSP 2 Fue* picando las avispas.
+\XEN 2 The wasps went around stinging.
+\EXU 3 d@ tzix-w@ weni7
+\XPSH 3 [D@ tzixx@ weni7.]
+\XSP 3 Me pico* la avispa.
+\XEN 3 The wasp stung me.
+\SYN
+\SEMF bite
+\ASP achievement
+\ARG
+\NOM tzix.naanh
+\SUB
+\ETYM
+\ETL
+\ROOT tzix
+\RTGR T3
+\DSRC TK94
+\CMTS
+\CMTS v/ tzix (1)
+\CMTS wouldn't confirm this root/gloss by itself, gave me the caus:antip
+form
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex tzi'
+\_no 00181
+\LG MIG
+\PSH
+\UND tzi7
+ZOH001R0611006.txt
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 dar
+\SPG 2 pegar
+\ENG 1 to give
+\ENG 2 to hit
+\SPL tzi7.7oy
+\SLGR ANTIP
+\SLGL dar; pegar // to give; to hit
+\SLGR NO PASS
+\EXU 1 ney tzi'.7oy-w@
+\XPSH 1 [Ney tzi7oyy@.]
+\XSP 1 Lo regalo*.
+\XEN 1 She gave it to him.
+\EXU 2 t@m-tzi '.7oy-w@
+Page 122

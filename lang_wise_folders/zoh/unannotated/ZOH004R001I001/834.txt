@@ -1,0 +1,63 @@
+\PSH [mektzampa*7k]
+\UND mek=tzam-pa +P@7k
+\MB mentir, hablar, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG chismoso
+\ENG gossipy
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 mek
+\RTGR 1 11
+\ROOT 2 tzam
+\RTGR 2 T1
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex mekx
+\_no 01935
+LG MIG
+\PSH
+\UND mekx
+\MB
+\VAR
+\GRAM vt, vi
+\SPG medio-cerrar los ojos
+\ENG to nearly close the eyes
+\EXU 7@y+ mekx-w@ 7@y+ wit@m
+\XPSH [7@y mekx@y wit@m.]
+\XSP Medio-cerro* los ojos.
+\XEN She half-closed her eyes.
+\SYN
+\SEMF body
+\ASP achievement
+\ARG
+\NOM mekx.kuy7
+\SUB yuk.mekx
+\ROOT mekx
+\RTGR P, (T1)
+\SPL mekx.ney
+\SLGR ASSUM1
+\SLGL tener medio-cerrado los ojos // to have the eyes half-closed
+\SLGR NO ANTIP
+\SPL mekx.7@m
+ZOH004R0011001.txt
+\SLGR PASS
+\SLGL medio-cerrarse los ojos // for the eyes to be half-closed
+\SLGR NO PRSV
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex mekx.kuy7
+\_no 01936
+\LG MIG
+\PHO [mekxkuy7]
+Page 834

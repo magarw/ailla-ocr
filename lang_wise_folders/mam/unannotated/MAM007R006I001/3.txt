@@ -1,0 +1,65 @@
+0=kub' n-ligaar=a,
+vas.a.ver a.ver-si NEG B3s-bajar Als-lugar-1s
+'Vaya a ver que esto no tarde a caer conmigo,'
+(25) Basabeer abeer-qa mii'
+(26) 0-chi-tzan
+B3s=decir pues
+'dijo así.'
+(27) 0-chi-tzan
+kyja
+B3s=decir-pues así
+'Así dijo,'
+(29) lin
+(28) basabeer beer-qa
+vas.a.ver a.ver=si
+'vaya a ver que no tarde a caer en mi lugar.'
+(30) k=chj-eet-al
+t-teen
+COMP A3s-estar
+'Que espere un poco,
+(31) Al-ky-ee
+kyja'
+así
+n-cheenq'=a.
+B3s=pagar-PAS-POT Als-frijol=1s
+'se va a pagar mi frijol.'
+n-cheenq'=a ja’la,
+INT=A3p-SR INC=B3s=comer-AP A1s-frijol=1s ahora
+'¿Quién está comiendo mi frijolar ahora?”
+mii' 0=kub' t-uj
+NEG B3s-bajar A3s-SR:en
+0=neej
+B3s-esperar
+(34) N=0=b'aj
+(32) kuu n=0=b'ant-tzan
+jun mooda t-u’n
+xjaal ja’la
+bien INC-B3s-hacerse-pues un modo A3s-SR:por persona ahora
+'la persona hizo una trampa.'
+(33) N=0=b'an=tzan
+jun xlitz' t-u’n
+INC=B3s=hacerse=pues un cera
+'Hizo una cera en forma de una persona.'
+(35) kyee'yx 0=ook
+t-b'incha-'n weena
+INC=B3s-DIR A3s-hacer-SD bien
+'Lo hizo bien'
+n=0=waa'-n
+(36) N=0=b'aj
+xjaal
+bonito B3s-entrar A3s-SR:por persona
+'y bien bonito quedó.'
+(37)_n=0=kyaj=tzan
+t-b'incha-'n
+INC=B3s=DIR A3s-hacer-SD
+'Después de hacerlo'
+t-u'n
+q'o-'n ja'la.
+INC=B3s=DIR=pues dar-SD ahora
+'lo dejó.'
+A3s-SR:por
+n-ligaar=a.
+Als-lugar=1s
+xjaal.
+persona
+4

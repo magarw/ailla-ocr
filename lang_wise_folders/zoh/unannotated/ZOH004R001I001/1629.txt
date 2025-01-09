@@ -1,0 +1,62 @@
+\lex woki'.woki7
+\_no 03790
+\LG MIG
+\PSH [wokiwoki7]
+\UND woki7.woki7
+\MB
+\VAR
+\GRAM SR
+\SCI
+\USE
+\SPG escarabajo
+\ENG black beetle
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex woko
+\_no 03791
+\LG MIG
+\PSH
+\UND woko
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG andar_arrastrando algo
+\ENG to walk dragging something
+\SPL yak.woko
+\SLGR CAUS
+\SLGL arrastrar // to drag
+\SLGR NO ASSUM1
+\EXU woko-w@ 7@y+ n@k-i bi kuy
+\XPSH [woko@y n@ki bi kuy.]
+\XSP Se fue* arrastrando el palo.
+\XEN He went along dragging the wood.
+\SYN
+\SEMF move
+\ASP process
+\ARG
+\NOM woko.e7
+\SUB jup-woko
+\ETYM
+\ETL
+\ROOT woko
+\RTGR 11
+\DSRC TK94
+\CMTS
+\CMTS get deriv's
+\date 03/Jan/80
+\DATE 03/Jan/1980
+ZOH004R0011001.txt
+\lex woko.e7
+\_no 03792
+Page 1629

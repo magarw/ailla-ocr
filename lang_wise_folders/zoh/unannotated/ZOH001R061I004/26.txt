@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT m@tz
+\DSRC TK96
+\CMTS
+\date 03/Jan/80
+\lex gayitu m@tz.i7
+\_no 00061
+LG MIG
+\PSH [gayitu m@tzi7]
+\UND gayitu m@tz.E7
+\MB gallito, *jugar, NOM7
+\VAR gayu m@tz.i7
+\GRAM s (m) s
+\SCI
+\USE
+\SPG juguete de gallito
+\ENG air plant on telephone wires
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 13/Jun/95
+\lex jaj.e7
+\_no 00062
+LF:
+\LG MIG
+\PSH [jaje7]
+\UND jaj.E7
+\MB arder, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG zumo de naranja o limo*n
+\ENG zest of orange or lime
+\EXU 1 7anax (a) jaj.e7
+\XPSH 1 [7anax jaje7]
+\XSP 1 zumo de naranja
+\XEN 1 orange zest
+\EXU 2 7imunix jaj.e7
+\XPSH 2 [7imunix jaje7]
+\XSP 2 zumo de limo*n
+\XEN 2 lime zest
+\SYN
+SEMF
+ETYM
+\ETL
+\ROOT jaj
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 24/Jun/96
+ZOH001R0611004.txt
+Page 26

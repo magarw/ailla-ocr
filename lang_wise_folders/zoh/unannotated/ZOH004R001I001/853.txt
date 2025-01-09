@@ -1,0 +1,62 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 02/Oct/94
+\lex mok punh7
+\_no 01979
+\LG MIG
+\PSH
+\UND mok punh7
+\MB mai*z, espiga
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG espiga de milpa
+ENG corn stalk
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 02/Oct/94
+\lex mok tzik.kuy' xipx.kuy7
+\_no 01980
+\LG MIG
+\PHO [mok tzikkuy_xipxkuy7]
+\UND mok tzik.kuy7 xipx.kuy7
+\MB mai*z, pelar, INSTR1, estacar, INSTR1
+\VAR
+\GRAM instr1
+\SPG estaca para deshojar mazorca
+ENG stake for shucking corn
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT 1 tzik
+\RTGR 1 T3
+\ROOT 2 xipx
+\RTGR 2 T3
+ZOH004R0011001.txt
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex moke
+\_no 01981
+\LG MIG
+\PSH
+\UND moke
+\MB
+Page 853

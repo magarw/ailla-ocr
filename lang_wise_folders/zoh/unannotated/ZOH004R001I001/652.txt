@@ -1,0 +1,65 @@
+\LG MIG
+\PSH
+\UND koyye7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG polla; gallina mediana
+\ENG a type of chicken
+\EXU piyu koyye7
+\XSP gallina polla
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH
+\date 24/Jun/96
+\lex koy(a) 7awa7
+\_no 01501
+\LG MIG
+\PSH [koya 7awa7]
+\UND koya 7awa7
+\MB
+\XEN
+\SYN
+\VAR kooy 7awa7
+\GRAM s (m) s
+\SCI
+\USE
+\SPG jicalpestle; jicapejle ya pintado
+\ENG a little wooden bowl; a painted little wooden bowl
+\EXU
+\XSP
+\SEMF EB
+\ETYM
+\ETL
+ok/OK: TK
+\lex koobanu
+\_no 01502
+\LG MIG
+\PSH
+\UND koobanu
+\MB
+\ROOT
+\DSRC TK94
+\CMTS puede decir jicalpejle antes de pintar, pero no tiene caso
+\date 29/Jan/96
+\SCI
+\USE
+\SPG caoba
+\ENG mahogany
+\EXU
+\XSP
+\XEN
+\SYN
+LF:t@m
+\VAR (kuy) ka7oba
+\GRAM S
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+Page 652

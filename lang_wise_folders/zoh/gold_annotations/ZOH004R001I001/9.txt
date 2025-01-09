@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [7a7k7a7kney-]
+\UND 7a7k.7a7k.ney (piyu)
+\MB
+\VAR
+\GRAM VİRF
+\SCI
+\USE
+\SPG cacarear (la gallina)
+\ENG for a hen to cackle
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 02/Oct/96
+\lex 7a7kxi7
+\_no 00021
+\LG MIG
+\PSH
+\UND 7a7kxi7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG zanate
+\ENG blackbird
+\EXU 1 jaya 7a7kxi7
+\XSP 1 zanate barraco
+\XEN 1 male blackbird
+\EXU 2 yom@7 7a7kxi7
+\XSP 2 zanate hembra
+\XEN 2 female blackbird
+\SYN
+\SEMF EZ LF: jon
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Jun/95
+\lex 7a7kxi' kotz@k
+\_no 00022
+\LG MIG
+\PSH [7a7kxi kotz@k]
+\UND 7a7kxi7 ko.tz@k
+\MB zanate, CAB, HACER
+\VAR
+\GRAM top
+\SCI
+\USE
+\SPG el cerro Zanatepec
+\ENG the hill zanatepec
+\SPL
+\SLGR
+ZOH004R0011001.txt
+Page 9

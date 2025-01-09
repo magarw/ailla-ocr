@@ -1,0 +1,37 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(13.19)
+(i) yøngyøngneyba
+(ii)
+(iv)
+0 yəŋ.yəŋ.ney-pa
+3A tremble.tremble.ITER1-INC
+'He started to tremble.'
+nemnemneba
+0 nem.nem.ney-pa
+3A flame.flame-ITER1-INC
+'It is flaming a lot.'
+tzuntzunneba
+0 cun.cun.ney-pa
+3A drip.drip.ITER1 -INC
+'It's dripping constantly'
+(iii)
+(ZOH001R024-178)
+tzamtzamneba
+0 cam.cam.ney-pa
+3A chat.chat.ITER1 -INC
+'He's talking nonsense.'
+(v) yumyumneba
+0 yum.yum.ney-pa
+3A boil.boil.ITER1-INC
+'It's boiling vigorously.'
+root that contributes the central
+In the -way constructions, the verb
+meaning of the complex is followed by a second, reduplicated, root. This
+second root is most commonly one that means something like 'to cut', but 'to
+get' and others also appear5. I don't know what the criteria for choosing one
+of these roots over another might be; perhaps it's a function of assonance or
+some subtle semantic feature.
+5 Note that in example (13.19 iii), only the second syllable of the emphasizing root is repeated.
+There are very few two-syllable verb roots in this language, and no others that mean a kind of
+forceful action, so I can't conclusively state that this conforms to a reduplication rule or not.
+332

@@ -1,0 +1,64 @@
+ZOH001R0611006.txt
+\CMTS "van a decir, porque esta* envuelta?". There's no way for something
+\CMTS to get wrapped 'mon'-style by accident.
+\date 03/Jan/80
+\lex mot
+\_no 00098
+\LG MIG
+\PSH
+\UND mot
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG revolver; mezclar (no se trata de comida)
+\ENG to stir; to mix (not of food)
+\SPL mot. 7oy
+\SLGR ANTIP
+\SLGL revolver // to stir
+\SPL mot.7@m
+\SLGR PASS
+\SLGL revolverse // to be stirred
+\SPL mot.ten
+\SLGR PRSV
+\SLGL tener revolvido // to have something stirred
+\EXU 1 7@y+ mot-w@ bi poe' jam+j@nanh
+[7@y mott@ bi poe jamj@nanh.]
+\XSP 1 Revolvio* la arena con cal.
+\XPSH 1
+\XEN 1 She mixed the sand with lime.
+\EXU 2 7alkooT 7@y+ mot-w@+'am_n@'+j@nanh
+\XPSH 2 [7alko*1_7@y motta*m_n@j@nanh.]
+\XSP 2 El alcohol ya esta* revuelto con agua ya es aguardiente.
+\XEN 2 The alcohol is now mixed with water - now it's liquor.
+\SYN
+\SEMF arrange
+\ASP activity
+\ARG
+\NOM mot.e7, mot.naanh
+\SUB
+\ETYM
+\ETL
+\ROOT mot
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex motz
+\_no 00099
+\LG MIG
+\PSH
+\UND motz
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG comer tortillas, sin carne
+\ENG to eat just tortillas, no meat
+\SLGR NO ANTIP
+\SPL motz.7@m
+\SLGR PASS
+Page 67

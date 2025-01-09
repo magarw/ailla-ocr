@@ -1,0 +1,63 @@
+\_no 00393
+\LG MIG
+\PSH [7oktze7ktzi-]
+\UND 7ok.tze7k.tzi7
+\MB ABAJO, pedir, dar
+\VAR
+\GRAM dir+vt
+\SCI
+\USE
+\SPG dar prestado
+\ENG to lend
+\EXU 7@n+ 7ok.tze7k-tzi'-w@
+\XPSH [7@n 7oktze7ktziw@.]
+\XSP Lo di prestado.
+\XEN I lent it to him.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tze7k
+\RTGR 1 T3
+\ROOT 2 tzi
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex 7ok.tzi7. '@y
+\_no 00394
+\LG MIG
+\PSH [7oktzi77@y-]
+\UND 7ok.tzi7.7@y
+\MB ABAJO, dar, SUF
+\VAR
+\GRAM dir+vt
+\SCI
+\USE
+\SPG 1 enviar, mandarlo con alguien
+\SPG 2 mandar a alguien que traerle algo
+\ENG 1 to send, to send with someone
+ENG 2 to send someone to get something
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzi
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 13/Jun/95
+\lex 7ok-tzu7
+\_no 00395
+\LG MIG
+\PSH [7oktzu7]
+\UND 7ok-tzu7
+ZOH004R0011001.txt
+\MB ABAJO, noche
+\VAR
+\GRAM S
+\SCI
+Page 169

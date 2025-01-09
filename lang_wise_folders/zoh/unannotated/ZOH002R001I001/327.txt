@@ -1,0 +1,39 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(iv). It can refer to abstractions, such as the potential events
+implied in examples (vi). ti is also used with postpositions to
+reference non-core arguments (vii). It can be used to specify a
+noun phrase, as shown in example (viii). It can be pluralized with
+the clitic +haa? (NPL2) (ix). Finally, it can refer to arguments in
+subordinate clauses, as in example (x), where it references the
+patient of 'buy'.
+(12.3)
+(i)
+(ii)
+tim tødampa
+ti
+?əm+ tə?-tam-pa
+what 2E+ want-1/2PL-INC
+'What do y'all want?'
+(iv)
+ti satom wejpa
+ti
+sato ?ǝm+ weh-pa
+what sato 2E+ shout-INC
+'What are you shouting at Sato?'
+(iii) ti bi pø'tjayyø
+ti
+bi 0 pǝ?t.hay-wə
+what DEF 3A pass.APPL-COM
+'What is it that happened to him?'
+(ZOH001R025-072)
+300
+(ZOH001R025-084)
+(ZOH001R018-348)
+ti bi yaknukkoyyo bi jaya'a:nmál
+0 yak.nuk.?oy-we
+ti
+bi
+bi haya=?a:nmál
+what DEF 3A CAUS.grab.ANTIP-COM DEF male=animal
+'What is it that grabbed (got into) that bull?'
+(ZOH001R025-110)

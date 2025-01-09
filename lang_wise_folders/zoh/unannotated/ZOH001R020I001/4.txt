@@ -1,0 +1,71 @@
+\tx ke
+\mb ke
+-7@y
+\sg1 que NEGimpv-3E
+\egl that NEGimpv-3E CAUS-die
+\not
+\idx
+7uy
+7u
+\zoq ke 7uy yakkaxxukk@ bi tuki.
+\fts que no lo matan la tortuga.
+fte that they shouldn't kill the turtle.
+\com
+\idx
+\ref ZOH001R020 012
+\_no 00013
+\tx lo ke 7@y tz@kk@
+\mb lo ke
+\com
+\idx
+bi
+7@y tz@k -w@ bi
+p@n
+-pa -v7k p@n
+\sg1 lo que 3E hacer-COM DEF pescar-INC-REL hombre
+\egl lo that 3E do -COM DEF fish -INC-REL man
+\not
+\idx unmrk_rel
+ZOH001R0201001.txt
+bi tuki
+-xuk-w@ bi tuki
+CAUS-morirse-3PL-COM DEF tortuga
+-3PL-COM DEF turtle
+yakkaxxukk@
+yak -ka7
+\zoq Lo ke 7@y tz@kk@ bi makpa*7k p@n,
+\fts Lo que hizo el hombre pescador,
+\fte what the fisherman did,
+\com
+\idx
+\not
+\idx
+\ref ZOH001R020 013
+\_no 00014
+\tx 7@y 7oknukk@yy@
+bi tuki
+\mb 7@y 7ok -nuk -7@y-w@ bi tuki
+\sgl 3E
+ABAJO-agarrar-SUF-COM DEF tortuga
+\egl 3E DOWN -grab -SUF-COM DEF turtle
+\zoq 7@y 7oknukk@yy@ bi tuki.
+\fts lo solto* la tortuga.
+\fte he let the turtle go.
+\ref ZOH001R020 014
+\_no 00015
+\tx n@kk@
+mea jonanh
+\mb n@k -w@ mea jonanh
+\sgl irse-COM mar DIR3
+\egl go -COM sea DIR3
+makpa7k
+mak
+\not
+\idx
+\ref ZOH001R020 015
+\zoq Nakk@ meajonanh.
+\fts Se fue* par adentro del mar.
+\fte It went to the sea.
+\com
+\idx
+Page 4

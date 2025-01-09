@@ -1,0 +1,62 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 27/Jan/96
+\lex nik.tz@m. '@y
+\_no 02326
+\LG MIG
+\PSH [niktz@mm@y-]
+\UND nik.tz@m.7@y
+\MB SUP, cargar, SUF
+\VAR
+GRAM vt
+\SCI
+\USE
+\SPG cargar, poner la carga
+\ENG to carry, to set a load on something
+\EXU 7@y+ nik.tz@m. '@y-wa
+\XPSH [7@y niktz@mm@yy@.]
+\XSP Se puso la carga.
+\XEN She loaded it up.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@m
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 19/Jun/96
+\lex nik.witz. '@y
+\_no 02327
+\LG MIG
+\PSH [nikwitztz@y-]
+\UND nik.witz.7@y
+\MB SUP, hacer_alma*cigo, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG rociar
+\ENG to sprinkle
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT witz
+ZOH004R0011001.txt
+\RTGR TX
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex nik.w@kx. '@y
+Page 1002

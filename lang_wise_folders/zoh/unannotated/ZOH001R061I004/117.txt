@@ -1,0 +1,62 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-PH HAJ:96 ok
+\date 19/Jun/96
+\lex ta7kx.@7
+\_no 00291
+\LG MIG
+\PSH [ta7kx@7]
+\UND ta7kx.A7
+\MB alumbrarse, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG luz
+\ENG light
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ta7kx
+\RTGR 12
+\DSRC HAJ94
+\CMTS PH-OK: TK
+\date 25/Jun/96
+\lex ta7kx.@'=7anh.num.7
+\_no 00292
+LG MIG
+\PSH [ta7kx@7anhnum7]
+\UND ta7kx.A7=7anh.num.7
+\MB alumbrarse, NOM2, BOCA, robar, NOM1
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG rayo de luz
+\ENG a ray of light
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 ta7kx
+\RTGR 1 12
+\ROOT 2 num
+\RTGR 2 T1
+ZOH001R0611004.txt
+\DSRC HAJ94
+\CMTS
+\date 09/Feb/96
+Page 117

@@ -1,0 +1,63 @@
+\PSH [winpu7tzpu7tztz@k-]
+\UND win-pu7tz.pu7tz-tz@k
+\MB CARA, ponerse_amarillo, ponerse_amarillo, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer amarillito
+\ENG to make yellow
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 20/Jun/95
+\lex win-pu7tz.pu7tz. 'aH
+\_no 03730
+\LG MIG
+\PSH [winpu7tzpu7tztza-]
+\UND win-pu7tz.pu7tz.7aH
+\MB CARA, ponerse_amarillo, ponerse_amarillo, VERS1
+\VAR
+\GRAM vers1
+\SCI
+\USE
+\SPG hacerse amarillito
+\ENG to turn pale yellow
+SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+ZOH004R0011001.txt
+\lex win=pu7tz-w@
+\_no 03731
+\LG MIG
+\PSH [winpu7tztz@]
+\UND win-pu7tz-w@
+\MB CARA, ponerse_amarillo, COM
+\VAR
+\GRAM a:sq
+\SCI
+\USE
+\SPG amarillo; alguien que no es muy moreno; medio blanquito
+\ENG yellow; someone who's not very brown; off-white
+\EXU
+Page 1602

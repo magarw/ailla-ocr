@@ -1,0 +1,64 @@
+ZOH004R0011001.txt
+\CMTS agarrar algo como lodo mojado para enlodar casa
+\CMTS to grab a handful of something like wet mud to mud a house
+\date 03/Jan/80
+\DATE 09/Aug/02
+\lex ko7tz.naanh
+\_no 01471
+\LG MIG
+\PHO [ko7tzna*nh]
+\UND ko7tz.naanh
+\MB tentar_c_mano, MED
+\VAR
+\GRAM meas
+\SPG el tanto que se puede agarrar entre las manos (barro, masa,
+\ENG the amount you can pick up with both hands (clay, dough,
+\EXU tum ko7tz.naanh wa.e
+\XPSH [tum ko7tznanh wae]
+\XSP una bola de masa
+\XEN a ball of corn dough
+\SYN
+\ROOT ko7tz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex ko.wak
+\_no 01472
+\LG MIG
+\PSH [kowak-]
+\UND ko.wak
+\MB OTRO, *vaciar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG 1 limpiarse
+\SPG 2 despintarse
+\SPG 3 acabar (fruta del a*rbol, cosecha de fruta)
+\ENG 1 to become clean
+\ENG 2 to become discolored (to lose color)
+\ENG 3 for a crop to be finished (of fruit)
+\EXU 1 ya.d@7 7okox 7@y+ tam ko.wak.w@+ 'am
+\XPSH 1 [Y@d@ 7okox 7@y tam kowakka*m.]
+\XSP 1 La fruta de este a*rbol ya acabo*.
+ENG 1 This tree's fruit season is over.
+\EXU 2 yo't.e' ko.wak-w@ +7k
+\XPSH 2 [yote kowakk@*7k]
+\XSP 2 ropa limpia
+\XEN 2 clean clothes
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wak
+\DSRC TK94
+\CMTS
+\date 24/Jun/96
+\lex ko.way
+\_no 01473
+\LG MIG
+\PSH [koway-]
+Page 640
+.)
+.)

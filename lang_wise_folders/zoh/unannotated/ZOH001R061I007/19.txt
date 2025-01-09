@@ -1,0 +1,63 @@
+\lex nak
+\_no 00078
+\SPG irse
+\ENG to go
+\EX n@k-pa
+\XSP se va
+\EX_n@k-w@
+\XSP se fue*
+\EX n@kko7 impv
+\XSP vete!
+\EX n@ki7
+\XSP vamos!
+\EX _ n@ki_ k@xxoda*nh
+\XSP vamos a comer!
+\EX n@ki*am
+\XSP vamonos!
+\EX 7@y yakn@kka jaxjonanh
+\XSP lo hizo ir para atra*s
+\EX n@kk@y witi
+\ROOT n@k Ix
+\SEMF motion
+\ASP activity
+\CAUS yak.n@k dejar ir
+\CMTS
+\date 03/Jan/80
+\lex n@m
+\_no 00079
+\SPG decir
+\ENG to say
+\EX ya jak n@mmo 7@y 7otonh@*7
+\XSP tartamudo
+\XEN he can't talk very well
+\ROOT n@m Il
+\SEMF speak
+\ASP activity
+\CAUS NONE
+\CMTS
+\date 03/Jan/80
+\lex pak
+\_no 00080
+\SPG apretarse
+\ENG to tighten
+\EX pakk@ xotzpa:ke
+\XSP se apreto* un nudo
+\XEN the knot tightened
+\ROOT pak 12
+\SEMF affect
+\ASP process
+\CAUS yak.pak apretar
+\CMTS NEG:
+estar flojo
+\date 03/Jan/80
+ZOH001R0611007.txt
+\EX 7@y yakpakk@
+\XSP esta muy apretado (una cosa)
+\XEN he tightened something
+\lex papx
+\_no 00081
+se fue* caminar / andar
+\SPG romperse o estrellarse vidrio, por la lumbre
+\ENG for glass to break or shatter, because of the fire
+\EX papx@ jukutj@nanh
+Page 19

@@ -1,0 +1,42 @@
+130
+De esta manera, (9) y (10) ejemplifican el comportamiento del patrón acentual en un
+contexto mayor a la palabra prosódica. Como se observa, en los casos en que una frase se
+compone por dos palabras fonológicas, cada una de las partes mantiene independiente su
+propia asignación acentual. Y como cada una manifiesta prominencia acentual en la segunda
+sílaba contando a partir del límite derecho del constituyente o, podemos considerar la
+recurrencia del ciclo de asignación acentual, tal como en la frase, en el nivel de la palabra.
+Como resultado, en la superficie, ambas secciones se integran en el nivel frasal manifestando
+un único acento de intensidad o primario, es decir, conforman una unidad integrada en el nivel
+de la frase fonológica que todavía presiona para emparejar el ritmo, como se vio en el ejemplo
+(1).
+El análisis (y su representación) por niveles acuerda con la estructura prosódica que
+adopta la forma en la superficie (columnas con 2 X devienen en sílabas que poseen acento
+secundario; columna con 3 X señala la sílaba que lleva el acento primario; columnas con 1 X
+denota las sílabas con el acento más débil).
+Otros casos donde se observa la continuidad del patrón acentual del quechua en el
+hablar "mezclado" de los migrantes lo ejemplifican:
+-los préstamos:
+(11)
+(12)
+'mi.kru.- Ila.-pí.-taj
+micro-LIM-LOC-ENF
+(.
+X.)φ
+(X )( X. ) w
+(X )( X )(X.) f
+`pue.bli.tú-y.ku
+pueblito-POS1PL/EXCL
+(
+X.) 4 Φ
+(X.) (X.) w
+X .) (X.) f
+'en ese mismo micro'
+nuestro pueblito'
+En el "hablar mezclado", los migrantes bolivianos utilizan con mucha frecuencia bases
+léxicas del español. Éstas se incorporan, como en los ejemplos (11) y (12), manteniendo la
+continuidad del patrón acentual del quechua.
+5.2.2. Resumen de observaciones
+A partir del análisis métrico de los datos obtenidos por elicitación, se observa:
+la presentación de secuencias de sílabas tal que acentuado / no acentuado, lo
+que deviene en un efecto de ritmo parejo: tá-ta-tá-ta-tá-ta...; con igual duración de sílabas y
+prominencia inicial;

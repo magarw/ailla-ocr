@@ -1,0 +1,49 @@
+67 foanafoquian
+foan-a-fo-quian
+DIR-ACC-PL-OST2
+Ø
+68 oa yohuu nahuafo
+oa yohuu nahua-fo
+DEM sorcier étranger-PL
+ces sorciers étrangers
+= ces anacondas
+69 yohuu ifo nahuanu
+yohuu ifo nahua-nu
+sorcier maître étranger-ERG
+ces maîtres sorciers étrangers
+= ces maîtres anacondas
+70 shahuarono paura
+shahua-rono pau-ra
+aguaje machaco puissance-ASS
+la puissance de l'aguaje machaco
+=
+la puissance de l'ayahuasca
+71 shahuarono paucai
+shahua-rono pau-cai
+aguaje machaco puissance-MIR
+la puissance de l'aguaje machaco
+=
+la puissance de l'ayahuasca
+72 da miqui tsucunai
+da min-qui tsucu-na-i
+DEM 2PERS-DIR enlever-REC-PROG
+elle jaillit jusqu'à toi
+73 tsucunatihuurana
+tsucu-nati-huuran-a
+enlever-finir-MVT1-ACC
+elle finit de jaillir
+74 afi ahuahuucai
+afi a-huahuun-cai
+3PERS.PL AUX.TR-PL.ERG-MIR
+elles le font
+75 afi afoquian
+afi a-fo-quian
+3PERS.PL AUX.TR-PL-OST2
+elles le font
+C1 INTRUSION
+76 shuahua rono paura
+shuahua rono pau-ra
+aguaje machaco puissance-ASS
+la puissance de l'aguaje machaco
+= la puissance de l'ayahuasca
+80

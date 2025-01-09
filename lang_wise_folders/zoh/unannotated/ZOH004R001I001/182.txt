@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT 70px
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 09/Jan/96
+\lex 7ok(o) 7une7
+\_no 00424
+\LG MIG
+\PSH [7oko 7une7]
+\UND 7oko 7une7
+\MB vieja, nin~a
+\VAR 7ook 7une7
+\GRAM s (m) s
+\SCI
+\USE
+\SPG nin~a ya grande
+\ENG a big girl
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 09/Jan/96
+\lex 7ok(o) manak
+\_no 00425
+LG MIG
+\PSH [7oko manak]
+\UND 7oko manak
+\MB vieja, hijo/a
+\VAR 7ook manak
+\GRAM s (m) s
+\SCI
+\USE
+\SPG nieto/a
+\ENG grandson, grandaughter
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex 7ok (o) nu7
+\_no 00426
+LG MIG
+\PSH [7oko nu7]
+\UND 7oko nu7
+\MB vieja, perro
+\VAR 7ook nu7
+ZOH004R0011001.txt
+Page 182

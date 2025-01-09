@@ -1,0 +1,78 @@
+\zoq Ya ke jayya*m 7@m p@7anh gag@ tzima.
+\fts Ya que dilato* que lo pusistes esa ji*cara.
+\fte Now that it's waited (what) you put in that gourd.
+\com
+\idx
+\ref ZOH001R036 305
+\_no 00303
+7@m konpeyneba
+7@m kon -pen
+\tx kay
+ye7xe
+-7xe
+\mb ka
+-Y
+\sg1 DCT3-TMP 2E con -apretar-SUF-INC DCT1-SIM
+\eg1 DCT3-TMP 2E with-grasp -SUF-INC DCT1-SIM
+\zoq Kay 7@m konpeyneba ye7xe.
+\fts Ahora lo apretas asi*.
+\fte Now you squeeze it like this.
+\com
+\idx
+ZOH001R0361001.txt
+\ref ZOH001R036 306
+\_no 00304
+\tx 7ay j@xjuppa
+kwand minpa
+m
+j@xp@kk@
+\mb 7@y jax -jup -pa kwando min -ра 7@m jax -p@k
+\sg1 3E ATRAS-jalar-INC cuando venir-INC 2E
+\egl 3E BACK -pull -INC when come -INC 2E
+\ref ZOH001R036 308
+\_no 00305
+\tx taxx@
+\zoq 7@y j@xjuppa kwand minpam j@xp@kk@.
+\fts Lo arrancas cuando lo vienes a sacar.
+\fte One pulls it when you come to get it out.
+\com
+\idx
+\mb tax
+\sg1 11enarse-COM DEF ji*cara
+\egl fill
+-7@y-pa ya
+\ref ZOH001R036 309
+\_no 00306
+bi tzima jonhjo
+de n@pin
+-wa bi tzima7 jonh -jo7 de n@pin7
+adentro-LOC2 de sangre
+-COM DEF dipper inside -LOC2 of blood
+\zoq Taxx@ bi tzima jonhjo de n@pin.
+\fts Llena la ji*cara de sangre.
+\fte The gourd fills with blood.
+\com
+\idx
+\tx ga
+\mb ka -7
+\tx gad@
+kojjoba*7
+\mb ka
+ka -d@
+koj -7oy -pa -v7k
+\sg1 DCT3-DEM encajar-ANTIP-INC-REL
+\eg1 DCT3-DEM punch -ANTIP-INC-REL
+\ref ZOH001R036 310
+\_no 00307
+\zoq Gad@ kojjoba*7.
+\fts Aquel que te esta* encajando.
+\fte That which is piercing.
+\com
+\idx
+bi toyyoba*7
+bi toy -7oy -pa -v7k
+Page 66
+-wa
+ATRAS-agarrar-DINC
+BACK -get
+-DINC

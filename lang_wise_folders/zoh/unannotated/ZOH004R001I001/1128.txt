@@ -1,0 +1,64 @@
+\SYN
+\SEMF
+\ETYM
+\ETL Sp pico
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH HAJ:96, final /j/ was an error
+\date 19/Jun/96
+\lex piku kanoa
+\_no 02621
+\LG MIG
+\PSH
+\UND piku kanowa
+\MB
+\VAR
+\GRAM s(m)s
+\SCI
+\USE
+\SPG tuca*n real; pito real; urraca
+\ENG a type of bird
+\ENG
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH
+leave it out: TK
+\date 25/Jun/96
+\lex piku yoya
+\_no 02622
+\LG MIG
+\PSH
+\UND piku yoya
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG mari*n
+ENG kind of peccary
+\EXU
+\XSP
+\XEN
+\SYN
+HAJ:96, don't really hear the /w/, it's very slight/we can
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex pikx
+\_no 02623
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+LF:7anmal
+Page 1128

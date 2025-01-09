@@ -1,0 +1,64 @@
+\LG MIG
+\PSH
+\UND kanhga7
+\MB
+\VAR kanhgreju
+\GRAM S
+\SCI
+\USE
+\SPG cangrejo
+\ENG crab
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 20/Jun/95
+\lex kanhka7
+\_no 01181
+\LG MIG
+\PSH
+\UND kanhka7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG pantaleta de mujer
+\ENG panties
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+LF: cangrejo
+\CMTS
+\date 01/Oct/94
+\lex kanhka' wat.kuy7
+\_no 01182
+\LG MIG
+\PSH [kanhka watkuy7]
+\UND kanhka7 wat.kuy7
+\MB_pantaleta, amarrar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG cinturo*n
+\ENG belt
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ZOH004R0011001.txt
+Page 514

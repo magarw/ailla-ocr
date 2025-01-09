@@ -1,0 +1,62 @@
+\date 09/Jul/95
+\lex k@.matonh. '@y
+\_no 01687
+\LG MIG
+\PSH [k@matonhnh@y-]
+\UND k@.matonh.7@y
+\MB FUERA, esuchar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG escucharle
+ENG to listen to someone
+\EXU 7@y+ k@.matonh. '@y-w@ num+jo7
+\RTGR [7@y k@matonhnh@yy@ numjo7.]
+\XSP Le escucho* a escondida.
+\XEN He secretly listened to them.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT matonh
+\RTGR T3
+\DSRC HAJ95
+\CMTS CK-PH of EX: num+jo7 HAJ:96, says it's ok; OK/TK
+\date 25/Jun/96
+\lex k@.me7tz
+\_no 01688
+\LG MIG
+\PSH [k@me7tz-]
+\UND k@.me7tz
+\MB FUERA, buscar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG informarse de algo
+\ENG to find out about something
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT me7tz
+\RTGR T3
+ZOH004R0011001.txt
+\DSRC TK94
+\CMTS
+\date 18/Jun/96
+\lex k@.mon. '@y
+\_no 01689
+\LG MIG
+\PSH [k@monn@y-]
+\UND k@.mon.7@y
+\MB FUERA, envolver, SUF
+\VAR
+\GRAM vt
+\SPG envolver la parte que le duele
+\ENG to wrap a part of you that hurts.
+Page 729

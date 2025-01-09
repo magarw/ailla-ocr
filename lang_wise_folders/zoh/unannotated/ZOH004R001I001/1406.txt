@@ -1,0 +1,65 @@
+\SPG piafar
+\ENG to stamp (of a horse)
+\EXU_tzanh-yak. 7oy-w@ bejcha
+\XPSH [Tzanhyakkoyy@ bejcha.]
+\XSP Manoteo* el caballo.
+\XEN The horse struggled to get up.
+SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzanh
+\RTGR T3
+\DSRC HAJ94
+\CMTS [tzanhyakko:ba] esta* manotea*ndose; se trata de levantar y no
+gente, animal que tiene brazos (mammals, lizards, not
+puede
+bugs)
+\CMTS get deriv's; CK-PH: what is %yak ?
+\date 26/Jun/96
+\lex tzapatz
+\_no 03269
+\LG MIG
+\PSH
+\UND tzapatz
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG rojo
+\ENG red
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Aug/94
+\lex tzapatz kajanh
+\_no 03270
+\LG MiIG
+\PSH
+\UND tzapatz kajanh
+\MB
+\VAR
+\GRAM a (m) s
+\SCI
+\USE
+\SPG leo*n americano
+\ENG a type of big cat
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+LF:7anmal
+Page 1406

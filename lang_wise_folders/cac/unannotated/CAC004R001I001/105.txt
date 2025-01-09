@@ -1,0 +1,79 @@
+504. Dame la caja donde guardas los cerillos.
+ik'ot jun kaja t'ay in b'aj til tsasik' te' pospora
+ik'-kot
+jun kaja t'ay in b'aj_til tz-ø-a-sik'
+portar-DIR.acá uno caja prep 1B dónde pres-3B-2A-guardar
+te'
+pospora
+Cmadera fósforo
+505. Dame el cuchillo con que cortas la carne.
+ik'ot k'en kuchilu' t'a b'aj til tzapol nok' chib'ej
+ik'-kot
+k'en kuchilu' t'a b'aj_til tz-ø-a-pol
+portar-DIR.acá Cmetal cuchillo prep dónde pres-3B-2A-cortar
+nok' chib'ej
+Canimal carne
+ik'ot k'en kuchilu' t'a b’aj til tzakub' nok' chib'ej
+ik'-kot
+212
+k'en kuchilu' t'a b'aj_til tz-ø-a-kub'
+portar-DIR.acá Cmetal cuchillo prep dónde pres-3B-2A-cortar
+nok'
+chib'ej
+Canimal carne
+506. No conozco al señor con el que veniste.
+man wojtakok laj jun winh et'i achja' chi'
+man ø-w-ojtak-ok
+laj jun winh ø-et'-i
+ach-ja' chi'
+neg 3B-1A-conocer-IRR neg uno él 2A-SR-vti 2B-venir dem
+507. Vi al señor al que le vendiste las gallinas.
+wil winh b'aj til chonhb'at nok' kaxlan chi'
+Ø-Ø-w-il
+winh b'aj_til ø-a-chonh-b'at
+nok' kaxlan chi'
+pas-3B-1A-ver él dónde 3B-2A-vender-DIR.allá Canimal gallina dem
+508. Éste es el señor que vimos sembrando.
+a ton jun winh tik wal kil yawalwi
+a ton jun winh tik wal ø-ø-k-il
+y-awalw-i
+top enf uno él dem enf pas-3B-1A-ver 3A-sembrar-vti
+509. Él es viejo.
+a winh icham winh
+a winh icham-ø (-xo) winh
+top Cmasc viejo-3B (adv) Cmasc
+510. Él es más viejo.
+a winh te icham winh
+a winh te icham-Ø (-xo) winh
+top Cmasc muy viejo-3B (adv) Cmasc
+511. El más viejo se murió.
+ixcham winh te icham
+ix-ø-cham
+winh te
+icham (-xo)
+pas-3B-morir él muy viejo (adv)
+512. El borde del comal está quebrado.
+a sti'tak lum sa'am jetelxo
+a
+s-ti'-tak lum sa'am jat-el-xo
+top 3A-boca-pl Ctierra comal quebrar-nmlz-adv
+a sti'tak lum sa'am pojelxo
+a
+s-ti'-tak
+lum sa'am poj-el-xo
+top 3A-boca-pl Ctierra comal quebrar-nmlz-adv
+513. El caballo de Juan se murió.
+nok' schej waj Xun ixcham nok'
+nok' s-chej waj Xun ix-ø-cham nok'
+Canimal 3A-caballo Cmasc Juan pas-3B-morir Canimal
+ixcham nok' schej winhaj Xun
+ix-ø-cham nok' s-chej winhaj Xun
+pas-3B-morir Canimal 3A-caballo Cmasc Juan
+514. El caballo de tu amigo se murió.
+nok' schej winh amigo ixcham nok'
+nok' s-chej winh Ø-amigo ix-ø-cham nok'
+Canimal 3A-caballo Cmasc 2A-amigo pas-3B-morir Canimal
+ixcham nok' schej winh amigo
+ix-ø-cham nok' s-chej winh ø-amigo
+pas-3B-morir Canimal 3A-caballo Cmasc 2A-amigo
+213

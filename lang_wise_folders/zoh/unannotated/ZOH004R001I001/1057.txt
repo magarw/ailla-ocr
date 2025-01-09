@@ -1,0 +1,64 @@
+\UND nanti junaanh
+\MB no_hay, como
+\VAR n@nti(*) tigo07
+\VAR nanti yakti7
+\GRAM
+\SCI
+\USE
+SPG no hay porque; de nada
+"I
+\ENG "you're welcome'
+\EXU "Yexkom tz@kpa." "N@nti* tigo*7."
+\XSP "Gracias. "De nada.
+\XEN "Thank you." "You're welcome."
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS CK-all HAJ:96, all three are used to respond to 'thank you'
+\date 25/Jun/96
+\lex nanti juy.kuy7
+\_no 02451
+\LG MIG
+\PSH [n@nti juykuy7]
+\UND nanti juy.kuy7
+\MB no_hay, comprar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG no tiene dinero con que* comprar
+\ENG doesn't have the money to buy something
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT juy
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 15/Jun/95
+\lex n@nti.7aH
+\_no 02452
+ZOH004R0011001.txt
+\LG MIG
+\PSH [n@nti7a-]
+\UND nanti.7aH
+\MB no_hay, VERS1
+\VAR
+\GRAM versl
+\SCI
+\USE
+\SPG no estar
+\ENG not to be somewhere
+\EXU 1 n@nti. 7aH-w@
+\XPSH 1 [N@nti7aw@.]
+\XSP 1 No esta*.
+\XEN 1 He's not here.
+\EXU 2 nanti. 7aH-pa
+Page 1057

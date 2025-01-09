@@ -1,0 +1,88 @@
+\idx
+\ref ZOH001R036 969
+\_no 00952
+\tx 7i ga
+pwes karbona
+tum p@kpa
+\mb 7i ka -7 pwes karbona tum p@k
+\sgl y
+-pa
+DCT3-NOM1 pues carbonata uno agarrar-INC
+\eg1 and DCT3-NOM1 well carbonate one get
+\zoq 7i ga, pwes, karbona tum p@kpa.
+\fts Y eso, pues, agarras carbonato.
+\fte And that, well, one gets carbonate.
+\com
+\idx
+\ref ZOH001R036 970
+\_no 00953
+\tx n@kpam
+\mb
+n@k -pa -7am
+karbonatu 7i
+karbonatu 7i
+carbonato y
+\sgl irse-INC-YA
+\egl go -INC-NOW buy -dINC carbonate and come -INC-NOW
+\tx joki7tt@
+\mb jo -ki7t
+juyy@
+juy -w@
+comprar-dINC
+\sg1 EN -meter_dedo-dINC
+\eg1 INTO-put_finger-dINC
+-wa
+-jo7
+3E boca -LOC2
+3E mouth-LOC2
+\zoq Jemji 7@y japjo.
+\fts en todo de la boca.
+\fte in all of their mouth.
+\com
+\idx
+\ref ZOH001R036 972
+\_no 00955
+7@m yakwitpam
+\tx
+\mb 7@m yak -wit
+\sg1 2E
+\egl 2E
+\zoq N@kpam juyy@ karbonatu 7i minpam joki7tt@
+\fts vas a comprar el carbonato y vienes a dediarlo
+\fte You go buy the carbonate and you come apply it with your finger
+\com
+\idx
+\ref ZOH001R036 971
+\_no_00954
+\tx jemji 7@y japjo
+\mb
+jemji7 7ay jap
+\sg1 todo
+\egl all
+ZOH001R0361001.txt
+\tx 7ay
+\mb 7ay
+wiki
+-pa -7am wikiz
+dedo
+CAUS-walk -INC-NOW finger
+CAUS-andar-INC-YA
+\zoq 7@m yakwitpam wiki.
+\fts Le pasas tu dedo.
+\ref ZOH001R036 973
+\_no 00956
+\fte You pass your finger over it.
+\com
+\idx
+-INC
+bese yo7k t@tztz@
+ney
+beses yo7k t@tz -wa ney
+minpam
+min
+-pa - 7am
+venir-INC-YA
+Page 206
+ne7
+de7x
+te -7xe ne7

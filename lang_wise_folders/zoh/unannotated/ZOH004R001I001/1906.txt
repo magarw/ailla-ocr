@@ -1,0 +1,62 @@
+ZOH004R0011001.txt
+\EXU_2_7@y+ w@t.7@m-w@+ji_7@y+ ṭzaj=tzonh-pa7@n toto7
+\XPSH_2 [7@y w@tt@mm@ji 7@y tzajtzonhpan toto7.]
+\XSP 2 voy a pegar mi papel en la parte que se rompio*.
+\XEN 2 I'm going to paste my paper where it tore.
+\EXU 3_7@n+ tz@k.jay-pa mas mueka 7@n ten-pa+ji
+\XPSH 3 [7@n tz@kjaba mas mueka 7@n tenpaji.]
+\XSP 3 Le haci*a mas muecas (en donde) me paraba.
+\XEN 3 I was acting more things out for her where I stood.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {+jo7}
+\_no 04438
+\LG MIG
+\PSH
+\UND jo7
+\MB LOC2
+\VAR
+\USE locative postposition
+\GRAM av
+\SPG en; a
+\ENG at; in; to
+\SPL
+\SLGR
+\EXU ye7tz-tam-w@ maxan=t@k +jo7
+\XPSH [Ye7tztamm@_maxant@kjo7.]
+\XSP Llegamos en la iglesia.
+\XEN we arrived at the church.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\DATE 03/Jan/1980
+\lex {+jonanh}
+\_no 04439
+\LG MIG
+\PHO [jonanh]
+\UND jonanh
+\MB DIR3
+\VAR
+\USE directional postposition
+\GRAM av
+\SPG para
+\ENG to; towards
+\EXU da n@k-pa tzam.kuy7+jonanh
+\XPSH [D@ nakpa tzamkuyjonanh.]
+\XSP Me voy para la montan~a.
+\XEN I'm going to the mountains.
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+Page 1906

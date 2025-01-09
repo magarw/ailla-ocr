@@ -1,0 +1,63 @@
+\ENG to emit foam on the surface
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 70px
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex win= 'uk
+\_no 03749
+\LG MIG
+\PSH [winnuk-]
+\UND win=7uk
+\MB CARA, tomar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tomar con alguien
+ENG to drink with someone
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7uk
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex wit [1]
+\_no 03750
+\LG MIG
+\PSH
+\UND wit
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG andar; caminar; pasear
+\ENG to walk; to take a walk
+\SPL yak.wit
+\SLGR CAUS
+ZOH004R0011001.txt
+\SLGL hacer andar // to make walk
+\EXU 1 wit-pa 7it.i'+jo7
+\XPSH 1 [witpa 7itijo7.]
+\XSP 1 Anda en el pueblo/en la calle/ de vago.
+\XEN 1 She walks around the town/in the street/around as a bum.
+\EXU 2 wenu d@+ wit-wa
+Page 1610

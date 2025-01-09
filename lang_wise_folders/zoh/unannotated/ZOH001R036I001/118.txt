@@ -1,0 +1,106 @@
+7u
+7iti7 -jo7 7u
+\tx 7itijo
+\mb
+-DINC
+\sgl pueblo-LOC2 NEGimpv aver
+\egl town -LOC2 NEGimpv let's see where
+\tx yoxx@
+\mb__yox
+-w@
+\sgl trabajar-dINC
+\egl work
+\ref ZOH001R036 551
+\_no 00542
+\zoq 7itijo 7u 7aber ju - 7@y way
+\fts En el pueblo o aver endonde
+\fte In the town or wherever ???
+\com
+\idx
+7aber
+7aber
+\ref ZOH001R036 552
+\_no 00543
+\sg1 o
+\egl or burro 3E
+ZOH001R0361001.txt
+7@y w@y
+7@y ***
+3E ***
+3E
+-
+\zoq wakax teke7t kem y@kmanhnh@ba 7@m n@kk@.
+\fts orin de ganado vas pisando.
+ju
+ju7
+donde
+\tx wakax teke7t ke
+m
+7@m n@kk@
+\mb wakax teke7t ke
+7@m yak
+-mạnh -7@y-pa 7@m_n@k -w@
+\sg1 vaca orin
+que 2E INSTR2-pisar-SUF-INC 2E irse-dINC
+\eg1 cow urine that 2E INSTR2-step -SUF-INC 2E go -dINC
+\fte You go around stepping in cow piss.
+\com
+\idx
+n@kpam yoxx@.
+vamos a trabajar.
+you go to work.
+\tx 7onhkem
+\mb 7onhke
+y@kmanhnh@ba
+\ref ZOH001R036 554
+\_no 00545
+\tx 70 burru y teke7t 7@m y@kjomanhnh@ba;
+\mb 70 burru 7@y teke7t 7am yak -jo -manh -7@y-pa
+burro 3E orin 2E INSTR2-EN -pisar-SUF-INC
+urine 2E INSTR2-INTO-step -SUF-INC
+\zoq 70 burruy
+\fts o orin de
+\fte or you're stepping in burro piss,
+\com
+\idx
+teke7t_7@m_y@kjomanhnh@ba,
+burro lo pisas,
+\zoq 70 bescha
+\fts o orin de caballo lo pisas.
+\ref ZOH001R036 553
+\_no 00544
+\tx 70 bescha 7@y teke7t 7@m y@kjomanhnh@ba
+\mb 70 bescha 7@y teke7t 7@m y@k
+\sglo bestia 3E orin 2E
+\egl or horse 3E urine 2E
+-jo
+\sg1 aunque
+\egl even though-2E
+\tx tzakk@mma*m
+7@y teke7t 7am y@kjomanhnh@ba.
+\fte or you're stepping in horse piss.
+\com
+\idx
+n@kpa
+n@k -pa
+m
+7@m
+irse-INC 2E
+-INC 2E
+-manh -7@y-pa
+INSTR2-EN -pisar-SUF-INC
+INSTR2-INTO-step -SUF-INC
+go
+komanhwakk@
+m
+kotzepa
+-7@m ko -manh -wak -w@ 7@m ko -tze7 -pa
+-2E SOC-pisar-vaciar-COM 2E
+SOC-step -empty -COM 2E
+gag@
+mal 7@m manhkuyjo
+Page 118
+pero
+pero
+soc-lavar-INC pero
+SOC-wash -INC but

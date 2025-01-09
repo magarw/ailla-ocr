@@ -1,0 +1,63 @@
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT kinh=ka7
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 07/Feb/96
+\lex ko.kit
+\_no 01348
+\LG MIG
+\PSH [kokit-]
+\UND ko.kit
+\MB OTRO, quebrar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG quebrar ejotes
+\ENG to snap beans
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kit
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex kokitu
+\_no 01349
+\LG MIG
+\PSH
+\UND koki tu
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG kokito
+\ENG a type of tree
+\SPL
+ZOH004R0011001.txt
+\SLGR
+\EXU chik kokitu
+\XSP
+\EXU kokitu n@nti+p@7_7@y+ paxte 7i jak tam
+\XPSH [kokitu nantip@7 7@y paxte 7i jak t@m]
+\XSP palo de kokito que no tiene espina y tiene mucha fruta
+\XEN koki to tree that has no thorns and has a lot of fruit
+\SYN
+\SEMF
+Page 588

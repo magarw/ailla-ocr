@@ -1,0 +1,44 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+7.2.2.2. yək
+Unlike instrumental -kuy?, yək- is only prefixed to verb roots, not to
+derived stems. There is also one interesting form that employs both
+instrumental affixes (7.29 vii). The gloss code for this morpheme is INSTR2.
+(7.29)
+(i)
+(iii)
+(v)
+yøkyum
+yək.yum
+INSTR2.boil
+'copper pot'
+yøkjepx
+yək.hepš
+INSTR2.scoop
+'shovel'
+yøkkep
+yək.kep
+INSTR2.kick
+'shoe; huarache'
+(vii) yøkkukkuy'
+yək.?uk.kuy?
+INSTR2.drink.INSTR1
+'cup'
+(ii) yøkwøtz
+178
+(iv)
+yək.wəc
+INSTR2.comb
+'comb'
+yøkjup
+yək.hup
+INSTR2.pull
+'bucket'
+(vi) yøkmong
+yək.moŋ
+INSTR2.sleep
+'bed'
+7.2.2.3. ni
+This morpheme, INSTR3, generally has a locative meaning, although there
+are several examples with an instrumental meaning. Although it is
+homophonous with the verbal prefix discussed in section 7.1.1.7, its function is
+sufficiently different to warrant analysis as a distinct morpheme. MAR Zoque

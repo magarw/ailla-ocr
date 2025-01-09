@@ -1,0 +1,64 @@
+\lex tzix-pa+a7k
+\_no 03388
+\LG MIG
+\PSH [tzixpa*7k]
+\UND tzix-pa +P@7k
+\MB tirar_pedos, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG pedorro
+\ENG farter
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzix
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex tzi'
+\_no 03389
+\LG MIG
+\PSH
+\UND tzi7
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 dar
+\SPG 2 pegar
+\ENG 1 to give
+\ENG 2 to hit
+\SPL tzi7.7oy
+\SLGR ANTIP
+\SLGL dar; pegar // to give; to hit
+\SLGR NO PASS
+\EXU 1 ney tzi'.7oy-wa
+\XPSH 1 [Ney tzi7oyy@.]
+\XSP 1 Lo regalo*.
+\XEN 1 She gave it to him.
+\EXU 2 t@m=tzi'. 7oy-w@
+\XPSH 2 [T@mtzi7oyy@.]
+\XSP 2 Dio* fruta.
+\XEN 2 It bore fruit.
+\EXU 3_7@y+ tzi'-w@ jemji7
+\XPSH 3 [7@y tziw@ jemji7.]
+\XSP 3 Repartio* para todos.
+\XEN 3 He shared it with everyone.
+\EXU 4 7@y+ tzi'-w@ jemji7
+\XPSH 4 [7@y tziwa jemji7.]
+\XSP 4 Le dio* todo.
+ZOH004R0011001.txt
+\XEN 4 She gave him all of it.
+\SYN
+\SEMF trade
+\ASP achievement
+\ARG
+Page 1457

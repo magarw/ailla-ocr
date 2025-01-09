@@ -1,0 +1,62 @@
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 09/Jan/96
+\lex 7om.naanh
+\_no 00443
+\LG MIG
+\PHO [7omna*nh]
+\UND 7om.naanh
+\MB echar_humo, MED
+\VAR
+\GRAM meas
+SPG una ahumada
+\ENG a censing
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT 70m
+\RTGR 12
+\DSRC HAJ95
+\CMTS una palabra muy parecido
+\DATE 03/Jan/1980
+\lex 7om. 'oy.kuy7
+\_no 00444
+\LG MIG
+\PHO [
+\UND
+\MB
+\VAR
+\GRAM
+\SPG somerio; goma que su ocupa para ahumar
+\ENG sap of the guapinol; sap used for burning
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT 70m
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+ZOH004R0011001.txt
+\lex 7om. 'oy.kuy7 kuy
+\_no 00445
+\LG MIG
+\PSH [70mmookuy kuy]
+\UND 7om. 7oy.kuy7 kuy
+\MB echar_humo, ANTIP, INSTR1, palo
+\VAR
+\GRAM SS
+Page 190

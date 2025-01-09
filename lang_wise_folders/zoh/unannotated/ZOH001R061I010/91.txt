@@ -1,0 +1,60 @@
+XEN she waved him over
+\ROOT yem Ix
+\SEMF speak
+\CAUS yak.yem
+\CMTS
+\lex yem
+\_no 00409
+\SPG soplar con soplador
+\ENG to blow with a bellows
+\EX yemm@ jukut@k yemkuyj@nanh
+\XSP soplo* la lumbre con el soplador
+\XEN he blew on the fire with a bellows
+\ROOT yem T3
+\SEMF fire, move
+\PASS yem.7@m soplarse
+\ANTI yem.7oy soplar
+\PRSV yem=ten lo tiene soplandolo
+\CMTS
+\lex yen
+\_no 00410
+\SPG lamer; lambear
+\ENG to lick; to lap
+\EX
+\XSP
+\XEN
+\ROOT yen T3
+\SEMF eat, animal
+\PASS NONE yen.7@m *
+\ANTI yen.7oy
+\CMTS
+\lex yep
+\_no 00411
+\SPG (ex) tender; tender (ropa)
+\ENG to stretch; to hang (clothes)
+\EX 7@y yepp@ yote7
+\XSP tendio* la ropa
+\XEN she hung out the clothes.
+\ROOT yep P, (T3)
+\SEMF move, position
+\PASS yep.7@m extenderse
+\ANTI yep.7oy
+\CMTS
+\lex ye7tz
+\_no 00412
+ZOH001R0611010.txt
+\SPG 11egar
+\ENG to arrive
+\EX
+\XSP
+\XEN
+\ROOT ye7tz Il
+\SEMF motion
+\CAUS yak.ye7tz obligar a llegar
+\CMTS
+\lex yo
+\_no 00413
+\SPG caerse
+\ENG to fall
+\EX
+Page 91

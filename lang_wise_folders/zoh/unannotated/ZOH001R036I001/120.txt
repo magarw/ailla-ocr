@@ -1,0 +1,87 @@
+\ref ZOH001R036 559
+\_no 00550
+\tx OSM: mas
+\mb OSM
+mas
+\sg1 OSM: mas
+\egl OSM: more scrape-SUF-INC 3E go
+j@mm@ba
+jam
+y
+n@kk@
+7@y nak -w@
+tallar-SUF-INC 3E irse-dINC
+-DINC
+-7@y-pa
+\ref ZOH001R036 560
+\_no 00551
+\zoq OSM: Mas j@mm@bay n@kk@.
+\fts OSM: Mas se va agravandose.
+\fte OSM: It gets more aggravated.
+\com
+\idx
+ZOH001R0361001.txt
+NK
+\tx GSM: 7i ti
+tzoy 7@m tz@kjaba
+\mb GSM 71 ti tzoy 7@m tz@k-jay -pa
+\sg1 GSM: y que saltar 2E hacer-APPL-INC
+\eg1 GSM: and what jump 2E do -APPL-INC
+\zoq GSM: 7i ti tzoy 7@m tz@kjaba?
+fts GSM: Y que remedio le haces?
+\fte GSM: And what medicine you you make for it?
+\com
+\idx
+\tx_ waxxa*m
+\mb wax -wa - 7am
+\sg1 morder-dINC-YA
+\egl bite -DINC-NOW
+\com
+\idx
+\ref ZOH001R036 561
+\_no 00552
+\tx
+OSM: de gaji
+kwando kwando gad@
+\mb OSM de ka -ji7
+tzoko
+tzoko7
+kwando kwando ka -da
+\sg1 OSM: de DCT3-Loc1 cuando cuando DCT3-DEM lodo
+\egl OSM: of DCT3-LOC1 when when
+DCT3-DEM mud
+\ref ZOH001R036 562
+\_no 00553
+\tx mi tz@kjaba
+\mb mi
+tz@k -jay -pa
+\sg1 3>2 hacer-APPL-INC 2E
+\egl 3>2 do -APPL-INC 2E
+\zoq OSM: De gaji kwando kwando gad@ tzoko n@mm@ mi waxxa*m,
+\fts OSM: De ahi* cuando lodo ya te esta* dando comezo*n,
+\fte OSM: Then when when that mud is itching you,
+n@mm@ mi
+n@mm@ mi
+m
+jetzpam
+7@m manhkuy
+7@m
+7@m jetz -pa -7am 7@m manh -kuy7 7@m
+m manhkuy
+tz@k -jay -pa 7@m manh -kuy7
+pisar-INSTR1
+PROG 3>2
+PROG 3>2
+rascar -INC-YA 2E pisar-INSTR1 2E
+scratch-INC-NOW 2E step -INSTR1 2E
+\tx tz@kjaba
+\mb
+\sg1 hacer-APPL-INC 2E
+\egl do -APPL-INC 2E step -INSTR1
+Page 120
+\zoq mi tz@kjabam jetzpam 7@m manhkuy 7@m tz@kjabam manhkuy.
+\fts te hace a que rasques tu pie le haces tu pie.
+\fte it makes you scratch your foot you do your foot.
+\com
+\idx
+\ref ZOH001R036 563

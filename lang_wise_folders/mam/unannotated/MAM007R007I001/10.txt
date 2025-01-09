@@ -1,0 +1,65 @@
+(108) N=0=tzy-eet
+INC=B3s=agarrar-PAS
+'Agarraron la persona,'
+(109) yaa_n=0=xi=ka
+q'i-'n xjaal
+ky-u'n
+ya INC=B3s=DIR=? llevar-SD persona A3p-SR:AGT
+t-ajaw-iil
+kjo'n
+A3s-dueño-ABST milpa
+'y lo llevaron a la persona por los dueños de la milpa.'
+(110) Ma-tzan
+PROX=pues
+(111) nn=0=ok-tzan
+ky-jaa
+A3p-casa A3s-dueño-ABST milpa
+'Cuándo llegó la persona hasta la casa de los dueños de la milpa,'
+(112) weena xjaal=0
+bien
+(113) 0=chi-tzan
+t-ajaw-iil
+qaa'na-n
+t-ee
+INC=B3s=DIR=pues preguntar-SD A3s-DAT
+'le preguntaron’
+0-poon
+B3s llegar
+B3s-decir pues
+'dijeron'
+persona=B3s
+'bueno, (usted) es una persona'
+(114) tza'n=tzan t-teen
+xjaal,
+persona
+(115) tzin-pa-tzan n=0='eel
+(116) 0-chi-tzan.
+tee
+cómo pues A2s-estar 2sPRON
+'¿cómo está usted?'
+B3s-decir pues
+'dijeron.'
+sí-INT-pues INC=B3s-salir
+'¿usted tiene hambre?’
+xjaal
+maax tzi
+persona hasta A3s+SR:a.la.orilla
+kjo'n
+(118) ma='
+(117) Tzi na 0-chi-tzan
+(119) nti'
+xjaal,
+sí=AF B3s-decir-pues persona
+'Sí, dijo la persona,'
+0=b'ant-xa
+t-ku'j=a
+A2s-estómago=2s
+PROX=ENF B3s=hacerse-siempre
+'ya hace varios días'
+n=chin waa'-n=a,
+NEG INC=B1s comer-AP=1s
+'no como nada.'
+ila'
+q'iij
+muchos días
+11

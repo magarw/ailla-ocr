@@ -1,0 +1,63 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tz@n
+\RTGR 1 P (T3)
+\ROOT 2 monh
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS CK-GR
+\date 28/Jan/96
+\lex tz@n.na' wanak
+\_no 03505
+\LG MIG
+\PSH [tz@nna wanak-]
+\UND tz@n.na7 wanak
+\MB sentarse, STAT, bajarse
+\VAR
+GRAM stat+vi
+\SCI
+\USE
+\SPG asentarse
+\ENG to sit down; to settle
+\EXU tz@n.na' wanak-w@ p@n
+\XPSH [TZ@nna wanakk@ pan.]
+\XSP Cayo* sentado el hombre.
+\XEN The man fell down while seated.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tz@n
+\RTGR 1 P (12)
+\ROOT 2 wanak
+\RTGR 2 11
+\DSRC HAJ94
+\CMTS EX1 goes elsewhere
+\date 20/Jun/96
+\lex tz@n.na' yo7
+\_no 03506
+\LG MIG
+\PSH [tz@nna yo-]
+\UND tz@n.na' yo7
+\MB sentarse, STAT, caerse
+\VAR
+\GRAM stat+vi
+\SPG caerse sentado
+\ENG to fall while seated
+\EXU tz@n.na' yo-w@ p@n
+\XPSH [TZ@nna yow@ p@n.]
+ZOH004R0011001.txt
+\XSP Cayo* sentado el hombre.
+\XEN The man fell down while seated.
+\SYN
+\SEMF
+\ROOT 1 tz@n
+\RTGR 1 P (12)
+\ROOT 2 yo7
+\RTGR 2 12
+Page 1508

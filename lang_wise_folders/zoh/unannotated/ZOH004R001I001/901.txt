@@ -1,0 +1,62 @@
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex m@k.i
+\_no 02088
+\LG MIG
+\PSH [m@ki]
+\UND mak. E
+\MB mezclar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG 1 figura formada de barro
+\SPG 2 tapalcate
+\ENG 1 figure formed from clay
+\ENG 2 potsherd
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT m@k
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\1ex_m@k=me7tz
+\_no 02089
+\LG MIG
+\PSH [m@kme7tz-]
+\UND m@k=me7tz
+\MB formar, buscar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tratar de formar
+\ENG to try to mold
+\EXU d@+ yo'=m@k=me7tz-w@ peru ya 7@n+ tz@k=mux-w@
+\XPSH [D@ yom@kme7tztz@ peru yan_tz@kmuxx@.]
+ZOH004R0011001.txt
+\XSP Intente* de formar una tamale pero no pude hacerlo.
+\XEN I tried to make a tamale but I couldn't do it.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT mak
+\RTGR P (T3)
+\DSRC HAJ02
+\CMTS
+\DATE 09/Aug/02
+\lex m@k.naanh
+\_no 02090
+\LG MIG
+\PHO [m@kna*nh]
+\UND m@k.naanh
+\MB formar, MED
+Page 901

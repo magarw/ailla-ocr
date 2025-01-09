@@ -1,0 +1,63 @@
+\UND wat.kuy7
+\MB amarrar, INSTR1
+\VAR
+\GRAM instr1
+\SPG mecate
+\ENG rope
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT wat
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex wat=max
+\_no 03577
+\LG MIG
+\PSH [watmax-]
+\UND wat=max
+\MB amarrar, descomponer
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG amarrar mal
+\ENG to tie badly
+\EXU d@+ yo'=wat=max-wa
+\XPSH [D@ yowatmaxx@.]
+\XSP Amarre* mal los tamales.
+\XEN I tied the tamales badly.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT wat
+\RTGR P (T3)
+\ROOT max
+\RTGR 12
+\DSRC HAJ02
+\CMTS las amarra mal y las descompone cociendo
+\CMTS you tie them badly and they come apart while cooking
+\DATE 09/Aug/02
+\lex wat.naanh
+\_no 03578
+\LG MIG
+\PHO [watna*nh]
+\UND wat.naanh
+\MB amarrar, MED
+\VAR
+\GRAM meas
+\SPG una amarrada
+ENG one tie
+\EX
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\ROOT wat
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+Page 1538

@@ -1,0 +1,53 @@
+\_no 01435
+\SPG microbus
+\ENG bus
+\lex mi7kx
+\_no 01436
+\SPG agarrar_en_pun~o
+\ENG hold_in_fist
+\lex mil
+\_no 01437
+\SPG mil
+\ENG thousand
+\lex milagro
+\_no 01438
+\SPG milagro
+ENG miracle
+\lex milagru
+\_no 01439
+\SPG milagro
+\ENG miracle
+\lex min
+\_no 01440
+\SPG venir
+\ENG come
+\lex minester
+\_no 01441
+\SPG minester
+\ENG bay_leaf
+\lex mintiz
+\_no 01442
+\SPG 2PSN
+\ENG 2PSN
+\lex minhgoxo7pa
+\_no 01443
+\SPG Mingoxopa
+\ENG Mingoxopa
+\lex mis
+\_no 01444
+\SPG mis
+\ENG my
+\lex miserable
+\_no 01445
+\SPG miserable
+\ENG miserable
+\lex miskiti7
+\_no_01446
+\SPG (palo de) mezquite
+\ENG
+\lex misma
+\_no 01447
+\SPG misma
+\ENG same
+ZOH001R0611013.txt
+Page 115

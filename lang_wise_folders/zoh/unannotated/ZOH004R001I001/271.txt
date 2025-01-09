@@ -1,0 +1,62 @@
+\ENG ant hill
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 30/Jan/96
+\lex jajtzuku' wowo
+\_no 00633
+\LG MIG
+\PSH
+\UND jajtzuku7 wowo
+\MB hormiga, hueco
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG hoyo de la hormiga
+\ENG hole in an anthill
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 30/Jan/96
+\lex jajtzuku' yumi
+\_no 00634
+\LG MIG
+\PSH
+\UND jajtzuku7 yumi
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG abertura de hormiguero
+\ENG ant hill opening
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT
+\DSRC HAJ94
+\CMTS donde hace borbillo*n la hormiga
+\date 30/Jan/96
+\lex jajtzuku'=tax
+\_no 00635
+Page 271

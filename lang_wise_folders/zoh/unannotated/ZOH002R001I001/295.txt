@@ -1,0 +1,57 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(iv) and accompaniments (v). Clauses in which NPREL is an agent tend to be used
+in a slightly different fashion, which will be discussed below.
+(11.3) NPREL = patient
+(i)
+(ii)
+(ii)
+'øy nikpakkøyyø de'xe nø' ta'kxpá'
+?əy+ nik.pak.?əy-wə
+de.?še nə? O ta?kš-pa+V?k
+3E+ SURF.sprinkle.SUF-COM DCT2.SIM water 3A burn-INC+REL
+'They poured out the gasoline.'
+(ZOH001R024-212)
+(11.4) NPRE
+(i)
+(ii)
+ju pøpa 'øm nøkkø dedø jamatin 'øm pøktzongpá'
+hu?
+рә-ра
+?əm+ nək-wə dedə hamatin ?əm+ pək-con-pa+V?k
+where put-INC 2E+ go-dINC that money 2E+ get-join-INC+REL
+'Where are you putting that money that you receive?'
+(ZOH001R028-105)
+REL actor
+=
+jemji nøktøpá' nømpa
+hemhi 0
+nəm-pa
+all
+nək-tə?-pa+V?k 0 n
+3A go-want-INC+REL 3A say-INC
+'All who want to go, he says.'
+(11.5) NPREL
+(i)
+?otoŋ-pa+V?k
+nømpa tum tenyente 'iwø 'otongpá'
+0 nəm-pa tum tenyente ?iwe 0
+3A say-INC one lieutenant who 3A speak-INC+REL
+'A lieutenant says, "Who is it who speaks?"
+other
+'øn me'tzpa bi yomá' 'øm tziwó' 'øm yokwij
+?ǝn+ me?c-pa
+=
+(ZOH001R024-169)
+(ZOH001R024-063)
+bi yomaa? ?ǝm+ ci?-wǝ+V?k
+?əm+ yəkwih
+1E+ look_for-INC DEF woman 2E+ give-COM+REL 2E+ shirt
+'I'm looking for the woman you gave your shirt to."
+(elicited)
+268
+ga 'øn tze'kjayyó' tum koke yay 'angnittø
+ga? ?ǝn+ ce?k.hay-we
+tum koke ya ?ǝy+ ?aŋnit-wə
+that 1E+ ask.APPL-COM+REL one fish NEG 3E+ have-COM
+'The woman that I asked for a fish didn't have any."
+(elicited)

@@ -1,0 +1,83 @@
+wan-xo in-b'at t'a merkado
+prog-adv 1A-ir prep mercado
+312. Estaba por ir al mercado, pero me quedé en casa.
+wanxo inb'at t'a merkado pero inkanxi t'a inpat
+wan-xo in-b'at t'a merkado pero in-kan-xi
+t'a in-pat
+prog-adv 1A-ir prep mercado pero 1A-quedar-adv prep 1A-casa
+313. Hoy me pongo a trabajar.
+tik naik olinmunlajok
+tik_naik ol-in-munlaj-ok
+ahora fut-1B-trabajar-IRR
+314. Dejó (él) aquí la canasta.
+ixyak'tejkan te' mo'ox winh t'a tik
+ix-Ø-y-ak't-ej-kan
+170
+315. Dejó abierta la puerta.
+te'
+pas-3B-3A-dejar-vtd-DIR.quedarse Cmadera canasta él
+ixyak’tejkan jakan te’ puerta
+ix-ø-y-ak't-ej-kan
+jak-an te'
+pwerta
+pas-3B-3A-dejar-vtd-DIR.quedarse abrir-psc Cmadera puerta
+ixyak'tejkan jakan te' makul ti' pat
+ix-ø-y-ak't-ej-kan
+jak-an te'
+makul ti'
+pas-3B-3A-dejar-vtd-DIR. quedarse abrir-psc Cmadera puerta boca
+pat
+casa
+316. ¡Déjalo entrar!
+jakochta' winh
+jak-ø-och-ta'
+mo'ox winh t'a tik
+prep dem
+winh
+abrir-3B-DIR.adentro-adv él
+ochokab'kot winh
+och-ø-ok-ab'-kot
+entrar-3B-sbj-DIR.acá él
+winh
+¡Déjame entrar!
+jakinochi
+jak-in-och-i
+abrir-1B-DIR.adentro-vti
+317. No deja de trabajar aunque esté enfermo.
+maj yak'tej laj winh smunlaji wach'xom pena ay winh
+ma-j ø-y-ak’t-ej laj winh s-munlaj-i
+wach'-xo-m
+neg-pas 3B-3A-dejar-vtd neg él 3A-trabajar-vti bueno-adv-dub
+pena
+ay-ø winh
+enfermedad exist-3B Cmasc
+318. Trabajo todos los días.
+tzinmunlaj masanil k’u
+tz-in-munlaj masanil k'u
+pres-1B-trabajar todo día
+319. Hace un año que no trabajo.
+junxo ab'il max yak' inmunlaj laj
+jun-xo ab'il ma-x Ø-y-ak'
+uno-adv año neg-pres 3B-3A-dar
+junxo ab'il max yak’ inmunlaji
+jun-xo ab'il ma-x
+Ø-y-ak'
+in-munlaj-i
+uno-adv año neg-pres 3B-3A-dar 1B-trabajar-vti
+320. No trabajo desde ayer.
+ewi tax max yak' inmunlaj laj
+ewi tax ma-x
+Ø-y-ak'
+in-munlaj laj
+1B-trabajar neg
+in-munlaj laj
+ayer adv neg-pres 3B-3A-dar 1B-trabajar neg
+ewi tax majxo inmunlaj laj
+ewi tax ma-j-xo
+in-munlaj laj
+ayer adv neg-pas-adv 1B-trabajar neg
+ewi tax kan inmunlaji
+ewi tax kan
+in-munlaj-i
+ayer adv quedar 1B-trabajar-vti
+171

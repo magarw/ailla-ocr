@@ -1,0 +1,62 @@
+\EXU 3 7anh-may-w@
+\XPSH 3 [7anhmayy@.]
+\XSP 3 Se ensen~o* / aprendio* algo (trabajo, a leer).
+\XEN 3 He learned something (a job, to read).
+\EXU_4_7anh=may.jay-w@
+\XPSH 4 [7anhmayjayy@.]
+XSP 4 Le ensen-o* escribir.
+\XEN 4 She taught someone to write.
+\EXU 5 7@y+ 7anh-may-w@ junanh 7otonh-pa
+\XPSH 5 [7@y 7anhmayy@ junanh 7otonhpa.]
+\XSP 5 Le ensen-o* como habla.
+\XEN 5 He taught her how to speak.
+\SEMF cognitive
+\ASP activity
+\ARG
+\NOM 7anh-may. kuy'=t@k, 7anh-may.kuy7
+\SUB k@.7anh.may
+\ETYM
+\ETL
+\ROOT may
+\RTGR T3
+\DSRC HAJ94
+\CMTS ENG of EX3 fixed
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex 7anh-may. kuy7
+\_no 00120
+\LG MIG
+\PHO [7anhmaykuy7]
+\UND 7anh-may. kuy7
+\MB MOUTH, contar, INSTR1
+\VAR
+\GRAM instr1
+\SPG ensen~anza; que esta*s aprendiendo algo
+\ENG learning; instruction; that you're learning something
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT may
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex 7anh-may. kuy'=t@k
+\_no 00121
+ZOH004R0011001.txt
+\LG MIG
+\PHO [7anhmaykuyt@k]
+\UND 7anh-may. kuy7-t@k
+\MB MOUTH, contar, INSTR1, casa
+\VAR
+\GRAM instr1
+\SPG escuela
+\ENG school
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT may
+\RTGR T3
+Page 52

@@ -1,0 +1,63 @@
+\PSH [yukkoj-]
+\UND yuk. koj
+\MB ARR, encajar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG levantar algo con la punta de la estaca
+\ENG to lift something with the point of something
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT koj
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex yuk.kokx
+\_no 04272
+\LG MIG
+\PSH [yukkokx-]
+\UND yuk. kokx
+\MB ARR, tronar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar de tronar
+\ENG for the joints to start to crack
+SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kokx
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex yuk.ko7kx
+\_no 04273
+\LG MIG
+\PSH [yukko7kx-]
+\UND yuk.ko7kx
+\MB ARR, roncar
+ZOH004R0011001.txt
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar a roncar
+\ENG to start to snore
+Page 1835

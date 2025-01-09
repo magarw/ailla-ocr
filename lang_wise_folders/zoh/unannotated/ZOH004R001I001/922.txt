@@ -1,0 +1,62 @@
+\USE
+\SPG ahora en la man~ana
+\ENG in the morning
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 21/Jun/95
+\lex nam-tzun
+\_no 02138
+\LG MIG
+\PSH [namtzun]
+\UND nam=tzun. 0
+\MB
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG collar rojo hecha por fruta de a*rbol
+\ENG a red necklace made from a tree fruit
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS was nam=tz@m
+\date 08/Feb/96
+\lex nana
+\_no 02139
+\LG MIG
+\PSH
+\UND_nana
+ZOH004R0011001.txt
+\MB
+\VAR [nana7] (una flojera de no completar la palabra: G)
+\GRAM S
+\SCI
+\USE
+\SPG tia; abuelita; ti*a grande
+\ENG aunt; grandmother; elderly aunt
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS same as /nana7/?
+\date 25/Jun/96
+Page 922

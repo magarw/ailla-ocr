@@ -1,0 +1,63 @@
+\UND j@x=tz@m
+\MB ATRAS, cargar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar cargando
+\ENG to haul out
+\SPL
+\SLGR
+\EXU 7@y+ j@x.tz@m-w@
+\XPSH [7@y j@xtz@mm@.]
+\XSP Lo saco* cargando.
+\XEN He hauled it out.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@m
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 11/Jan/96
+\lex j@x@kp@7
+\_no 01102
+\LG MIG
+\PSH
+\UND jax@kp@7
+\MB
+\VAR
+\GRAM
+\SPG hermano/ que viene atra*s de uno
+\ENG younger sibling, the one that comes after you
+\EXU jax@k+p@7k yom (@) 7awin; j@x@k+p@7k jay(a) 7awin
+\XPSH [j@x@kp@7k yom 7awin; jax@kp@7k jay 7awin
+\XSP hermana que sigue; hermano que sigue
+\XEN sister that comes after you; brother that comes after you
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS fixed: TK
+\date 26/Jun/96
+\lex j@x='ek
+\_no 01103
+\LG MIG
+\PSH [j@xxek-]
+\UND j@x=7ek
+\MB ATRAS, pizcar_mazorca
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar pizcado
+\ENG to remove harvested
+\SPL
+ZOH004R0011001.txt
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+Page 482

@@ -1,0 +1,75 @@
+\fte the same wind leaf also.
+\com
+\idx
+\ref ZOH001R036 113
+\_no 00114
+\tx gay
+\mb ka
+7@m komatzpa*m
+-Y
+7@m ko -matz -pa -7am
+\sg1 DCT3-TMP 2E SOC-sobar-INC-YA
+\eg1 DCT3-TMP 2E SOC-rub -INC-NOW
+\zoq Gay_7@m komatzpa*m.
+\fts Ya lo esta*s limpiando.
+\fte Now you're cleansing.
+\com
+\idx
+\ref ZOH001R036 114
+\_no 00115
+\tx 7@m tz@kjaba*m
+\mb
+jemji7ok
+7@m tz@k -jay -pa -7am jemji7ok
+\sg1 2E hacer-APPL-INC-YA
+por todo
+\egl 2E do -APPL-INC-NOW all over
+\zoq 7@m_tz@kjaba*m jemji7ok.
+\fts Ya lo limpias en todo.
+\fte You do it all over.
+\com
+\idx
+\ref ZOH001R036 115
+\_no 00116
+\tx 7i ney mismo 7ay pi7t
+n@mmobam
+\mb 7i ney mismo 7ay7 pi7t n@m-7oy -pa -7am
+\sgl y mismo mismo hoja INSTR DO -ANTIP-INC-YA
+\egl and self same leaf INSTR DO -ANTIP-INC-NOW
+\zoq 7i ney_mismo 7aypi7t_n@mmobam 7omm@.
+\fts Y con la misma hoja lo puedes ahumar.
+\fte And with the same leaf you can cense.
+\com
+\idx
+\ref ZOH001R036 116
+\_no 00117
+\tx GSM: 7@m winnomwakpa
+\mb GSM 7@m win - 7pm
+ZOH001R0361001.txt
+\sg1 GSM: 2E
+\eg1 GSM: 2E
+\zoq GSM: 7@m winnomwakpa.
+\fts GSM: Lo ahumas.
+\fte GSM: You cense it out.
+\com
+\idx
+-wak
+-pa
+CARA-echar_humo-vaciar -INC
+FACE-emit_smoke-empty -INC
+\ref ZOH001R036 117
+\_no 00118
+\tx OSM: 7@m winnomwakpa
+\mb OSM 7@m win -7pm
+\sg1 OSM: 2E
+\eg1 OSM: 2E
+-wak
+-pa
+CARA-echar_humo-vaciar -INC
+FACE-emit_smoke-empty -INC
+Page 25
+7omm@
+7pm
+-wa
+echar_humo-dINC
+emit_smoke-dINC

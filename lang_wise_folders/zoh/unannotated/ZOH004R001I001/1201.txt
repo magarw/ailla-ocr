@@ -1,0 +1,64 @@
+\ETYM
+\ETL
+\ROOT pu7kx
+\RTGR T3
+\DSRC HAJ94
+\CMTS get deriv's; should be pu7kx... HAJ:96, indeed it is
+\date 19/Jun/96
+\lex pum.pum.ney
+\_no 02790
+\LG MIG
+\PSH [pumpumney-]
+\UND pum.pum.ney
+\MB
+\VAR
+\GRAM VİRF
+\SCI
+\USE
+\SPG estar sonando el corazo*n
+ENG the sound of a heartbeat
+\EXU pum.pum.ney-pa 7@y+ tzokoy7
+\XPSH [Pumpumneypay tzokoy7.]
+\XSP Esta* sonando el corazo*n.
+\XEN Her heart is beating.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT %pum F
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex pun
+\_no 02791
+\LG MIG
+\PSH
+\UND pun
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG echar goma; estilarse; sacar leche
+\ENG to emit gum; to give milk
+\SPL yak.pun
+\SLGR CAUS
+\SLGL hacer echar goma // to cause to emit gum
+\EXU pun-w@ kuy
+\XPSH [Punn@ kuy.]
+\XSP Echo* goma
+goma el palo.
+\XEN The tree oozed sap.
+\SYN
+ZOH004R0011001.txt
+\SEMF emit, nature
+\ASP activity
+\ARG
+\NOM pun.@7
+\SUB
+\ETYM
+\ETL
+\ROOT pun
+\RTGR 12
+\DSRC HAJ94
+Page 1201

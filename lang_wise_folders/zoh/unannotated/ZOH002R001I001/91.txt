@@ -1,0 +1,47 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+Adjectives can appear either before or after the noun, but in the
+postnominal case the adjective is marked with the relativizer +V?k (+p??k) after
+a consonant). This vowel-initial syllable elides, leaving an irregular final stress.
+The final /k/ of the relativizer is rarely audible in utterance-final position.
+(4.21)
+(i)
+(iii)
+(v)
+peka yote'
+peka yote?
+worn out clothes
+'used clothes'
+tuwang pøn
+tuwan pən
+'three men'
+jaxe'k xix
+haš.E+V?k
+šiš
+roast. NOM7+REL meat
+'roast meat'
+(ii)
+(iv)
+(vi)
+yote peká'
+yote? peka+V?k
+clothes worn_out+REL
+'used clothes'
+pøn tuwangpø'k
+pǝn tuwaŋ+pə?k
+man three+REL
+'three men'
+xix jaxé'
+šiš
+haš.E+V?k
+meat roast.NOM7+REL
+'roast meat'
+Paragraph about how description is accomplished.
+4.6. Deictics
+This class includes words that function as pronouns (third person) and as
+adverbs (time, space and manner). I consider them a distinct class because all
+the words are formed from three roots, forming a system of deixis with three
+axes: proximal, neutral and distal.
+Proximal yǝ- (DCT1) means closer to the speaker: 'this' in English; este/a
+in Spanish. Neutral de- (DCT2) deictics indicate a vague middle ground rather
+than closeness to the listener; they are glossed with the Spanish neutral, ese/a,
+66

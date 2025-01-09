@@ -1,0 +1,63 @@
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex p@j.i' jojo
+\_no 00278
+\LG MIG
+\PSH [p@ji jojo]
+\UND_p@j.E7 jojo
+\MB largo, NOM7, palm
+\VAR
+\GRAM a (m) s
+\SCI
+\USE
+\SPG palma real
+\ENG a type of palm
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+LF: kuy
+\lex p@j.i'. 7aH
+\_no 00279
+\LG MIG
+\PSH [p@ji7a-]
+\UND_p@j.E7.7aH
+\MB largo, NOM7, VERS1
+\VAR
+\GRAM versl
+\SCI
+\USE
+\SPG hacerse largo
+\ENG to become long
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 08/Feb/96
+\lex p@j.i'=tz@k
+\_no 00280
+\LG MIG
+\PSH [p@jitz@k-]
+\UND_p@j. E7=tz@k
+\MB largo, NOM7, HACER
+\VAR
+ZOH001R0611004.txt
+Page 112

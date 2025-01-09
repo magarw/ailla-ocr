@@ -1,0 +1,63 @@
+ZOH004R0011001.txt
+\CMTS an old-fashioned word. Anacleta says it's used for sewing
+\CMTS 'tipo Chimalapa', meaning in Santa Maria.
+\date 03/Jan/80
+\DATE 14/Aug/02
+\lex na7k.jay
+\_no 02135
+\LG MIG
+\PSH [na7kjay-]
+\UND na7k.jay
+\MB costurar, APPL
+\VAR
+\GRAM vt:indir
+\SCI
+\USE
+\SPG coser; hacer bordado
+\ENG to sew; to embroider or add a little border to something
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT na7k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex nama
+\_no 02136
+\LG MIG
+\PSH
+\UND nama
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG una cosita
+\ENG "that thing"; whatchamacallit
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 12/Feb/96
+\lex nam=tzu7
+\_no 02137
+\LG MIG
+\PSH [namtzu7]
+\UND nam=tzu7
+\MB
+\VAR
+\GRAM
+\SCI
+por no decir el nombre
+Page 921

@@ -1,0 +1,63 @@
+\GRAM
+\SCI
+\USE
+\SPG apodo; sobrenombre
+\ENG nickname
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS not a short form, like Memo for Guillermo, but a descriptive nickname,
+like Galo*nh for a borracho
+\date 18/Jun/95
+\lex 7anh-n@k=ja7p. '@y
+\_no 00146
+\LG MIG
+\PSH [7anhn@kja7pp@y-]
+\UND 7anh-n@k.ja7p.7@y
+\MB BOCA, irse, moler, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG moler un poco de ma*s
+\ENG to grind a little more, so it makes up a tortilla or whatever
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN k@.ja7p.7@y
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 n@k
+\RTGR 1 11
+\ROOT 2 ja7p
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS
+\date 13/Jul/95
+\lex 7anh-paj jom.e
+\_no 00147
+ZOH004R0011001.txt
+\LG MIG
+\PSH [7anhpaj jome]
+\UND_7anh-paj.0 jom. E
+\MB BOCA, cercar, NOM6, cercar_con_rama, NOM7
+\VAR
+\GRAM SVSV
+\SCI
+\USE
+\SPG cerco de ramas
+\ENG fence of branches
+\SPL
+\SLGR
+\EXU
+\XSP
+Page 62

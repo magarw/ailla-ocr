@@ -1,0 +1,62 @@
+\date 29/Jan/96
+\lex yuj.kuy' x@k
+\_no 04206
+\LG MIG
+\PSH [yujkuy x@k]
+\UND yuj.kuy7 x@k
+\MB rozar, INSTR1, frijol
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG frijolar
+\ENG bean farm
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yuj
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yuj.kuy'=tz@k
+\_no 04207
+\LG MIG
+\PSH [yujkuytz@k-]
+\UND yuj.kuy7=tz@k
+\MB rozar, INSTR1, HACER
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG hacer milpa
+\ENG to clear a field
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 yuj
+\RTGR T1
+\ROOT 2 tz@k
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yuk.7amma
+\_no 04208
+\LG MIG
+\PSH [yuk7amma-]
+\UND yuk.7amma
+\MB ARR, mirar
+\VAR
+\GRAM vi
+\SCI
+ZOH004R0011001.txt
+Page 1807

@@ -1,0 +1,64 @@
+\CMTS
+\date 05/Oct/94
+\lex nip-pa+a7k
+\_no 02356
+\LG MIG
+\PSH [nipp@*7k]
+\UND nip-pa +P@7k
+\MB sembrar, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG sembrador
+\ENG sower
+\EXU nip-pa+a7k p@n
+\XPSH [nippa*7k p@n]
+\XSP sembrador
+\XEN sower
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nip
+\RTGR T1
+\DSRC HAJ94
+\CMTS CK-EX HAJ:96 ok. main stress in these constructions with pan falls
+\CMTS on p@n; the two preceding syllables tend to be roughly equal
+\date 25/Jun/96
+\lex ni.p@k=wak
+\_no 02357
+\LG MIG
+\PSH [nip@kwak-]
+\UND ni.p@k=wak
+\MB PURP, agarrar, *vaciar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG quitar algo de alguien
+\ENG to take something away from someone
+ZOH004R0011001.txt
+\EXU ney 7iw@7 7@y+ti7 7@y+ nip-wak-w@
+\XPSH [Ney 7iwa 7@yti 7@y nipwakk@.]
+\XSP Le quito* algo de alguien.
+\XEN She took something away from someone.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pak
+\RTGR T3
+\ROOT wak
+\DSRC HAJ94
+\CMTS CK-all
+HAJ:96, this is the same as '7@y nipwakk@
+\CMTS I may have put this in his mouth, but he says they're the same
+\CMTS but nipwakk@ is just said faster. They definitely mean the same
+\date 19/Jun/96
+-
+\lex ni.p@k. '@y
+\_no 02358
+\LG MIG
+\PSH [nip@kk@y-]
+Page 1015

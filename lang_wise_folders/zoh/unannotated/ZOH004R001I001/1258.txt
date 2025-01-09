@@ -1,0 +1,63 @@
+\UND taka7.7aH
+\MB pelo*n, VERS1
+\VAR taak.7aH
+\GRAM versl
+\SCI
+\USE
+\SPG ponerse pelo*n
+ENG to go bald
+\EXU taka'. 7aH-w@ 7@y+_kopak
+\XPSH [Tak7aw@y_kopak.]
+\XSP Se puso pelo*n.
+\XEN He went bald.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 09/Feb/96
+\lex tak-w@+@7k tuj
+\_no 02923
+\LG MIG
+\PSH [takk@*7k tuj]
+\UND tak-w@ +P@7k tuj
+\MB 11over, COM, REL, 1luvia
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG agua de lluvia
+\ENG rain, rainwater
+\EXU tzayj@7 tak-w@+@7k tuj
+\XPSH [tzayj@7 takk@*7k tuj]
+\XSP el agua que lluvio* anoche
+\XEN the rain that fell last night
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tak
+\RTGR 11
+\DSRC HAJ94
+\CMTS DENIED: but /tzayj@7 takk@7k tuj/ `el agua que lluvio* anoche' is OK
+\date 25/Jun/96
+\lex ta7k
+\_no 02924
+\LG MIG
+\PSH
+\UND ta7k
+\MB
+ZOH004R0011001.txt
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG remojar algo en la comida
+\ENG to dunk something in your food
+\SPL ta7k.7oy
+\SLGR ANTIP
+\SLGL remojar // to dunk
+\SPL ta7k.7@m
+Page 1258

@@ -1,0 +1,63 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ROOT 1 tz@nh
+\RTGR 1 IX
+\ROOT 2 tz@n
+\RTGR 2 P (IX)
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tzenh.na' wit
+\_no 03334
+\LG MIG
+\PSH [tzenhna wit-]
+\UND tzenh.na7 wit
+\MB estar_de_lado, STAT, andar
+\VAR
+\GRAM stat+vi; vi:incorp
+\SCI
+\USE
+\SPG andar de lado
+\ENG to walk on one side
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tzenh
+\RTGR 1 IX
+\ROOT 2 wit
+\RTGR 2 11
+\DSRC HAJ94
+\CMTS CK-PH - ok, what's the problem?
+\date 28/Jan/96
+\lex tzepe7
+\_no 03335
+\LG MIG
+\PSH
+\UND tzepe7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG nagua
+\ENG traditional long skirt
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+\ETL
+\ROOT
+\DSRC HAJ94
+Page 1433

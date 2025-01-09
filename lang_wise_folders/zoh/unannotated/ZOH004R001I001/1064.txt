@@ -1,0 +1,63 @@
+\lex n@'=joa7
+\_no 02468
+\LG MIG
+\PSH [n@joa7]
+\UND n@7-jowa7
+\MB agua, hondo
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG 1 tempestad
+\SPG 2 creciente; ri*o crecido; crecio* el ri*o
+\ENG 1 a storm
+\ENG 2 flood; flooding river; the river rose
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex n@'+jo+7k yom@ 7une7
+\_no 02469
+\LG MIG
+\PSH [n@jo7k_yom@ 7une7]
+\UND na'+jo+7k yom@ 7une7
+\MB mar, LOC2, REL, hembra, nin~o/a
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG sirena
+\ENG mermaid; nixie
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN mea+jo+7k yom@ 7une7
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HJ95
+\CMTS
+\date 08/Feb/96
+ZOH004R0011001.txt
+\lex n@'-j@y@7
+\_no 02470
+\LG MIG
+\PSH [n@jay@7]
+\UND n@7-j@y@7
+\MB agua, flor
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG flor del rio
+Page 1064

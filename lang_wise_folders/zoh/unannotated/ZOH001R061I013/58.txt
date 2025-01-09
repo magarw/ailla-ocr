@@ -1,0 +1,52 @@
+\lex jamatin
+\_no 00718
+\SPG dinero
+\ENG money
+\lex jamin
+\_no 00719
+\SPG (mente)
+\ENG (mind)
+\lex jampa*
+\_no 00720
+\SPG tal vez
+\ENG maybe
+\lex jamv
+\_no 00721
+\SPG (mente)
+\ENG (mind)
+\lex jan
+\_no 00722
+\SPG quemarse
+\ENG burn
+\lex jananh
+\_no 00723
+\SPG DIR1
+\ENG DIR1
+\lex janda
+\_no 00724
+\SPG janda
+\ENG go_on
+\lex jap
+\_no 00725
+\SPG boca
+\ENG mouth
+\lex japo7
+\_no 00726
+\SPG totomoste
+\ENG corn_husk
+\lex ja7p
+\_no 00727
+\SPG moler ; quebrajar
+\ENG grind; break
+\lex jarabe*
+\_no 00728
+\SPG jarabe*
+\ENG ***
+\lex jaraaw
+\_no 00729
+\SPG arado
+\ENG plow
+\lex jate7
+\_no 00730
+ZOH001R0611013.txt
+Page 58

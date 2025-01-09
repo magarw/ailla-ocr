@@ -1,0 +1,49 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+if the agent in these cases were anything other than a third person entity, a
+different marker would necessarily be chosen. Inverse role-marking only
+occurs with transitive (or ditransitive) verbs in the Zoquean languages, never
+with passives of bivalent verbs or derived intransitives as in Olutec Mixe (Zavala,
+2000).
+(6.12)
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+(vi)
+jemji neywin dø salbatzøktammø
+hemhi neywin də+ salbar=cək-tam-wə
+all IPrn 1A+ save=do-1/2PL-COM
+'He saved all of us.'
+døx gadø pa:pøn 'øy sekretu do tziwo
+dəš ga.də
+pa=pən
+?əy+ sekretu dǝ+ ci?-wə
+1 Prn DCT3.DEM wild-man 3E+ secret 1A+ give-COM
+'That devil gave me his secret.'
+dø 'oktzamjadammø
+də+ ?ok.cam.hay-tam-we
+1A+ DOWN.tell_story.APPL-1/2PL-COM
+'He told us a story.'
+gay mi wejxukpám
+ga.y
+mi+ weh-šuk-pa+?am
+DCT3.TMP 3>2+ call-3PL-INC+NOW
+'Then they will call you.'
+mi tzixukpám bweltu
+mi+ ci?=šuk-pa+?am bweltu
+3>2+ give-3PL-INC+NOW money
+'Now they'll give you the money.'
+de yoxkuy mi tzipan jatong
+de.?
+yoš.kuy?
+(ZOH001R018- 224)
+123
+(ZOH001 R018-286)
+(ZOH001 R018- 022)
+(ZOH001R029- 120)
+(ZOH001R029-121)
+mi+ ci?-pa ?ən+haton
+DCT2.NOM1 work.INSTR1 3>2+ give-INC 1E+ father
+'My father will give you that work.'
+(ZOH001 R012- 256)

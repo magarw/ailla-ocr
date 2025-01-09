@@ -1,0 +1,64 @@
+\SLGL disolverse // to be dissolved
+\EXU 1 7@n+ jenen-pa bi pi*ldura
+\XPSH 1 [7@n jenenpa bi pi*ldura.]
+\XSP 1 Desborono la pastilla.
+\XEN 1 I'm dissolving the pill.
+\EXU 2 jenen.7@m-w@ bi pi*ldura
+\XPSH_2 [Jenenn@mm@ bi pi*ldura.]
+\XSP 2 Se derrito* la pastilla.
+\XEN 2 The pill dissolved.
+\SYN
+\SEMF break
+\ASP accomplishment, achievement
+\ARG
+\NOM jenen.e7
+\SUB j@x-jenen, yuk.jenen
+\ETYM
+\ETL
+\ROOT jenen
+\RTGR T3
+\DSRC TK94
+\CMTS he likes all three: 3E, 3A, antip. Can't get this w/1&2 of course
+\date 03/Jan/80
+\lex jep
+\_no 00027
+\LG MIG
+\PSH
+\UND jep
+\MB
+\VAR
+GRAM vt
+\SCI
+\USE
+ZOH001R0611006.txt
+\SPG trayar maguey
+\ENG to strip maguey fibers
+\EXU 1 jep.E jep-pa
+\XPSH 1 [Jepe jeppa.]
+\XSP 1 Esta* trayando maguey.
+\XEN 1 He is stripping maguey.
+\EXU 2 jep.E jep.ten-wa
+\XPSH 2 [Jepe jeptenn@.]
+\XSP 2 Trayo* un di*a antes el maguey.
+\XEN 2 He stripped the maguey the day before.
+\SYN
+\SEMF cut
+\ASP activity
+\ARG patient
+\NOM jep.e, jep.kuy7, jep.naanh
+\SUB 7ok.jep. '@y, ko.jep, yuk.jep
+\ETYM
+\ETL
+\ROOT jep
+\RTGR T3
+\SPL jep. 7oy
+\SLGR ANTIP
+\SLGL trayar maguey // to strip maguey
+\SPL jep.7@m
+\SLGR PASS
+\SLGL trayarse (maguey) // (for maguey) to be stripped
+\SPL jep.ten
+\SLGR PRSV
+\SLGL tener trayado el maguey // he's got the maguey stripped
+\DSRC TK94
+Page 20

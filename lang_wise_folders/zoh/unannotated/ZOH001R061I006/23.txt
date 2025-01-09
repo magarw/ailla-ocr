@@ -1,0 +1,65 @@
+\XSP 2 Se lo rasco*.
+\XEN 2 He scratched it for her.
+\EXU 7@y+ jetz.ten-w@ bi wowo
+\XPSH [7@y jetztenn@ bi wowo.]
+\XSP Mete la mano y no lo saco* por pronto.
+XEN He put his hand in to scratch out a hole and didn't take it out for a
+bit.
+ZOH001R0611006.txt
+EXU jetz.7@m-w@ bi nax wowo
+\XPSH [Jetztz@mm@ bi nax wowo.]
+\XSP Lo rasco* el hueco de la tierra.
+\XEN The hole was scratched out of the earth.
+\EXU 7@n+ j@x-jetz-pa nax
+\XPSH [7@n j@xjetzpa nax.]
+\XSP Estoy sacando la tierra con la mano.
+\XEN I'm scratching out the dirt with my hand.
+\SPL jetz.7oy
+\SLGR ANTIP
+\SLGL rascar // to scratch
+\SPL jetz.7@m
+\SLGR PASS
+\SLGL rascarse // to be scratched out
+\SPL jetz.ten
+\SLGR PRSV
+\SLGL mantener la mano en posicio*n a rascar // to keep the hand in a
+scratching position
+\SYN
+\SEMF scrape, hand
+\ASP activity
+\ARG instrument
+\NOM jetz.naanh
+\SUB 7ok.jetz.'@y, jetz=tzik, jetz=y@7kx, jo.jetz-wak, j@x=jetz, ko.jetz,
+\SUB nik.jetz. '@y, yuk.jetz
+\ETYM
+\ETL
+\ROOT jetz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex jey [1]
+\_no 00031
+\LG MIG
+\PSH
+\UND jey
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG batir (masa)
+\ENG to beat (masa)
+\EXU 1 7@n+ jey-tam-pa de7 way porke d@ yo'=tz@k-tam-pa
+\XPSH 1 [7@n jeytampa de way porke da yotz@ktampa.]
+d@
+\XSP 1 Vamos a batir la masa porque vamos a hacer tamales.
+\XEN_1 we're going to beat the masa because we're going to make
+tamales.
+\EXU 2 7@y+ jey.ten-w@ bi way para bi k@x.E
+\XPSH 2 [7@y jeytenn@ bi way para bi k@xi.]
+\XSP 2 Tiene batido la masa para la comida.
+\XEN 2 She's got the masa beaten for the food.
+\SYN
+Page 23

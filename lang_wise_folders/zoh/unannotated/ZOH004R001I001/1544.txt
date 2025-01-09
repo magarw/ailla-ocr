@@ -1,0 +1,62 @@
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex wax=naka7tz
+\_no 03591
+\LG MIG
+\PSH [waxnaka7tz-]
+\UND wax=naka7tz
+\MB morder, machucar
+\VAR
+GRAM vt
+\SCI
+\USE
+\SPG masticar
+\ENG to chew
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 wax
+\RTGR 1 T3
+\ROOT 2 naka7tz
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 21/Oct/94
+\lex wax.naanh
+\_no 03592
+\LG MIG
+\PHO [waxna*nh]
+\UND wax.naanh
+\MB morder, MED
+\VAR
+\GRAM meas
+\SPG una bocada
+\ENG a mouthful
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT wax
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex wax=tzik.i7
+\_no 03593
+\LG MIG
+\PSH [waxtziki7]
+\UND wax=tzik. E7
+\MB morder, pelar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG mordedura
+\ENG bite
+ZOH004R0011001.txt
+Page 1544

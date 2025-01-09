@@ -1,0 +1,63 @@
+\lex pet-tuk
+\_no 02607
+\LG MIG
+\PSH [pettuk-]
+\UND pet-tuk
+\MB barrer, terminarse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG acabar de barrer
+\ENG to finish sweeping
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 pet
+\RTGR 1 T1
+\ROOT 2 tuk
+\RTGR 2 12
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex pe7t
+\_no 02608
+\LG MIG
+\PSH
+\UND pe7t
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tejer/hacer cinta de palma para hacer sombrero o petaca
+\ENG to weave strips of palm for a hat or mat
+\SPL pe7t.7oy
+\SLGR ANTIP
+\SLGL tejer // to weave palm
+\SPL pe7t.7@m
+\SLGR PASS
+ZOH004R0011001.txt
+\SLGL ya esta* tejido // to be woven
+\SPL pe7t.ney
+\SLGR ASSUM1
+\SLGL tener cruzado el pie // to have the legs crossed
+\SPL pe7t.ten
+\SLGR PRSV
+\SLGL tenerlo tejido // to have something woven of palm
+\EXU 1 jojo-pe7t-w@
+\XPSH 1 [Jojope7tt@.]
+\XSP 1 Tejio* cinta de palma.
+\XEN 1 She wove palm strips.
+\EXU 2 manh.kuy7=pe7t-w@
+\XPSH 2 [Manhkuy pe7tt@.]
+\XSP 2 Cruzo* el pie.
+\XEN 2 He crossed his leg.
+\EXU 3 d@+ sinta-pe7t=max-w@
+Page 1122

@@ -1,0 +1,62 @@
+\DSRC TK94
+\CMTS CK-GR of EX/OK: TK
+\date 26/Jun/96
+\lex j@x=7an
+\_no 01025
+\LG MIG
+\PSH [j@xxan-]
+\UND j@x=7an
+\MB ATRAS, calentarse
+\VAR
+GRAM vt
+\SCI
+\SPG estar calentando la espalda
+\ENG to be warming the back
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 7an
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex j@x-jakx
+\_no 01026
+\LG MIG
+\PSH [j@xjakx-]
+\UND jax-jakx
+\MB ATRAS, sacar_de_boca
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG sacar algo de la boca
+\ENG to spit something out
+\SPL
+\SLGR
+\EXU 7@y+ jax.jakx-w@_7@y+ 7anh.7it-pa 7@y+ ka7kx.kuy'+jo7
+\XPSH [7@y j@xjakx@y 7anhnitpay ka7kxkuyjo7.]
+\XSP Saco que teni*a de la garganta.
+\XEN She spit out something that was in her throat.
+SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jakx
+\RTGR 11
+\DSRC HAJ95
+\CMTS CK-GR of EX
+\date 26/Jun/96
+\lex j@x-ja7p
+\_no 01027
+\LG MIG
+ZOH004R0011001.txt
+\PSH [j@xja7p-]
+\UND j@x-ja7p
+Page 450

@@ -1,0 +1,63 @@
+\XPSH 2 [Xujj@mm@ bi jukut@k.]
+\XSP 2 Soplaron la lumbre.
+\XEN 2 Someone blew on the fire.
+\SYN
+\SEMF body, fire
+\ASP process
+\ARG
+\NOM
+\SUB xuj-tz@y, xuj-xuk. '@
+\ETYM
+\ETL
+\ROOT xuj
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex xuj-7ay7
+\_no 03999
+\LG MIG
+\PSH [xuj7ay7]
+\UND xuj=7ay7
+\MB soplar, hoja
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG hoja de cordoncillo
+\ENG a type of plant
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Nov/94
+\lex xuj.17
+\_no 04000
+LF:7okox
+\LG MIG
+\PHO [xuji7]
+\UND Xuj. E7
+\MB soplar, NOM7
+\VAR
+\GRAM pcp
+\SPG una cosa soplada
+\ENG something blown.
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT xuj
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex xujku7t
+\_no 04001
+ZOH004R0011001.txt
+Page 1720

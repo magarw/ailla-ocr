@@ -1,0 +1,78 @@
+\zoq 7entonses d@x 7@n xoxpa.
+\fts entonces yo lo voy a cocer.
+\fte then I cook it.
+\com
+\idx
+\ref ZOH001R036 042
+\_no 00043
+\tx 7@n tzijnaka7tzpa
+\mb 7@n tzij
+\sgl 1E
+-pa
+tirar_piedra-aplastar-INC
+1E cocer-INC
+\egl 1E throw_rock -flatten -INC 1E cook -INC
+\zoq 7@n tzijnaka7tzpa 7@n xoxpa.
+\fts Lo machuco y lo cueso.
+\fte I crush it and I cook it.
+\com
+\idx
+\ref ZOH001R036 043
+\_no_00044
+\tx 7@m 7anhjomuypa
+\mb 7@m 7anh -jo -muy
+\sg1 2E
+\egl 2E
+7@n xoxpa
+-naka7tz -pa 7@n xox
+BOCA - EN
+MOUTH-INTO-dent
+\zoq 7@m 7anhjomuypa,
+\fts Te enjuagas,
+\fte You soak it,
+\com
+\idx
+-ра
+-doblar(se) - INC
+- INC
+ZOH001R0361001.txt
+\ref ZOH001R036 044
+\_no 00045
+\tx para y
+w@jtz@kpa
+\mb para 7@y w@ja -tz@k -pa
+\sg1 para 3E
+\egl for 3E good - do
+bueno-hacer-INC DEF diente
+-INC DEF teeth
+\ref ZOH001R036 046
+\_no 00047
+\tx 7@y wojpa
+\mb 7@y woj
+bit@tz
+bit@tz
+\zoq paray w@jtz@kpa bi t@tz.
+\fts para que mejora el diente.
+\fte so that the tooth gets better.
+\com
+\idx
+\zoq Gad@ kumu bi waxxoba*7,
+\fts Aquel gusano que pica,
+\fte That worm that bites,
+\com
+\idx
+\ref ZOH001R036 045
+\_no 00046
+kumu
+bi waxxoba*7
+\tx gad@
+\mb ka
+ka -d@ kumu7 bi wax -7oy -pa -v7k
+\sg1 DCT3-DEM lombriz DEF morder-ANTIP-INC-REL
+\eg1 DCT3-DEM worm DEF bite -ANTIP-INC-REL
+y n@kk@
+-ра 7@y n@k -w@
+bi ney
+t@tz
+bi ney t@tz
+Page 10

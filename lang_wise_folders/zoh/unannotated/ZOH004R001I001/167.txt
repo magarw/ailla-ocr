@@ -1,0 +1,63 @@
+\USE
+\SPG estirar para alcanzarlo
+\ENG to stretch to reach something
+\EXU 7@y+ 7ok.tuy.7@y-w@ 7@y_win
+\XPSH [7@y 7oktuyy@yya 7@y win.]
+\XSP Estiro* al alcanzarlo.
+\XEN She stretched to reach it.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tuy
+\RTGR P (TX)
+\DSRC HAJ02
+\CMTS
+\DATE 09/Aug/02
+\lex 7ok.t@nh. '@y
+\_no 00389
+\LG MIG
+\PSH [7okt@nhnh@y-]
+\UND 7ok.t@nh.7@y
+\MB ABAJO, cortar_con_fierro, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tumbar de hachazo
+\ENG to chop down
+\SPL
+\SLGR
+\EXU_7@y+ 7ok.t@nh. '@y-w@ ka 7@y+ jom.ney-w@+ 'am
+nax+jo7
+\XPSH [7@y 7okt@nhnh@yy@ kay jomneyya*m naxjo7.]
+\XSP ya tumbo* de hachazo el palo, ya esta* tirada la rama en el suelo.
+\XEN He chopped down the tree, now the branches are lying on the
+ground.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT t@nh
+\RTGR T3
+\DSRC HAJ95
+\CMTS CK-EX [OK/TK]
+\date 24/Jun/96
+\lex 7ok.t@p. '@y
+\_no 00390
+ZOH004R0011001.txt
+\LG MIG
+\PSH [7okt@pp@y-]
+\UND 7ok.t@p.7@y
+\MB ABAJO, coser, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG deshilar
+\ENG to unravel
+\SPL
+\SLGR
+\EXU
+\XSP
+Page 167

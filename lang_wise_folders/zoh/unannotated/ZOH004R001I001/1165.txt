@@ -1,0 +1,64 @@
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG a*rbol de copal
+\ENG copal tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex poma kuy
+\_no 02708
+\LG MIG
+\PSH
+\UND poma kuy
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG palo de copal
+\ENG copal tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex pomarrosa
+\_no 02709
+\LG MIG
+\PSH
+\UND pomarrosa
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG pomarrosa
+\ENG a type of tree
+EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+LF: kuy
+ZOH004R0011001.txt
+Page 1165

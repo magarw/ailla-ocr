@@ -1,0 +1,63 @@
+\LG MIG
+\PSH
+\UND chik tzikin kajanh
+\MB chico, pinto, tigre
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG tigrillo
+\ENG a type of big cat
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN tigriu
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\lex chik tzux 7ukum
+\_no 00582
+\LG MIG
+\PSH
+\UND chik tzux 7ukum
+\MB chico, verde, calabaza
+\VAR
+\GRAM asms
+\SCI
+\USE
+\DLG
+\SPG calabacita verde
+\ENG zucchini
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 08/Jan/96
+\lex chik tz@n.kuy7
+\_no 00583
+\LG MIG
+\PSH [chik tz@nhkuy7]
+\UND chik tz@n.kuy7
+\MB chico, sentarse, INSTR1
+\VAR
+\GRAM instrl
+\SCI
+\USE
+\SPG banquito
+\ENG bench
+\EXU
+\XSP
+\XEN
+ZOH004R0011001.txt
+Page 250

@@ -1,0 +1,63 @@
+XEN he can't talk very well
+\ROOT n@m Il
+\SEMF speak
+\CAUS NONE
+\CMTS
+\lex pa
+\_no 00197
+\SPG colar
+\ENG to sift
+\EX
+\XSP
+\XEN
+\ROOT pa T3
+\SEMF move, affect
+\PASS pa.7@m colarse
+\ANTI pa. 7oy
+PRSV pa=ten lo tiene colado
+\CMTS
+\lex paj
+\_no 00198
+\SPG clavar; sembrar poste, estaca en el suelo
+\ENG to nail; to set a post or stake in the ground
+\EX tzin pajja
+\XSP rajo* ocote
+\XEN he stripped pine
+\EX 7@y pajxukk@ neajo7
+\XSP esta
+clavado en la pared
+\XEN they nailed it in the wall
+\EX 7@y pajtenn@ bi kuy
+\XSP sembro* el poste (en donde lo necesita)
+\XEN he set a post (where he needed it)
+\EX pajneyy@nam bi tak 7@y kojom
+\XSP esta
+sembrado todavia el horco*n de la casa
+\XEN the house beam is still standing
+\ROOT paj P, (T3)
+\SEMF move, position
+\PASS paj.7@m sembrarse
+\ANTI paj.7oy
+\ASSU paj.ney estar sembrado
+\PRSV paj.ten tener sembrado
+\CMTS
+\lex pak
+\_no 00199
+\SPG apretarse
+\ENG to tighten
+\EX pakk@ xotzpa: ke
+\XSP se apreto* un nudo
+\XEN the knot tightened
+\EX 7@y yakpakk@
+\XSP esta muy apretado (una cosa)
+\XEN he tightened something
+\ROOT pak 12
+\SEMF affect
+ZOH001R0611010.txt
+\CAUS yak.pak apretar
+\CMTS NEG: estar flojo
+\lex pak
+\_no 00200
+\SPG regar; tirar
+\ENG
+Page 46

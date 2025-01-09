@@ -1,0 +1,62 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ95
+\CMTS PH-OK/TK
+\date 25/Jun/96
+\lex sirkulu
+\_no 02904
+\LG MIG
+\PSH
+\UND sirkulu
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG ci*rculo
+\ENG circle
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-all HAJ:96 ok
+\date 25/Jun/96
+\lex sorbu
+\_no 02905
+\LG MIG
+\PSH
+\UND sorbu
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG sorbo
+\ENG sip
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 18/Oct/94
+\lex sufri=tz@k
+\_no 02906
+\LG MIG
+\PSH [sufritz@k-]
+\UND sufri=tz@k
+ZOH004R0011001.txt
+Page 1250

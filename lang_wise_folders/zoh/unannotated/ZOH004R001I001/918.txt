@@ -1,0 +1,63 @@
+\SLGR ANTIP
+\SLGL pegar; majar // to hit; to pound
+\SLGR NO PASS
+\EXU 1 x@k=nakx-pa
+\XPSH 1 [x@knakxpa.]
+\XSP 1 Esta* porriando frijol.
+\XEN 1 She's pounding beans.
+EXU 2 nakx.7@m-w@ bi x@k
+\XPSH 2 [Nakx@mm@ bi x@k.]
+\XSP 2 Porriaron los frijoles.
+\XEN 2 They pounded the beans.
+\EXU 3 nakx.ney-w@ bi yo't.e7
+\XPSH_3 [Nakxneyy@ bi yote7.]
+\XSP 3 Esta* colgado la ropa (por una estaca en la pared).
+\XEN 3 The clothes are hung (on a stake in the wall).
+\SYN
+\SEMF hit
+\ASP activity
+\ARG instrument
+\NOM kuy 7anh.nakx, nakx.kuy7
+\SUB 7anh.nakx, ko.nakx, k@.nakx, nakx=jonh, nakx=pak
+\ETYM
+\ETL
+\ROOT nakx
+\RTGR T3
+\DSRC HAJ94
+\CMTS in compounds, generally indicates a wooden instrument
+\date 03/Jan/80
+\lex nakx.e7
+\_no 02129
+\LG MIG
+\PHO [nakxe7]
+\UND nakx.E7
+\MB pegar, NOM7
+\VAR
+\GRAM pcp
+\SPG porriado
+\ENG pounded
+\EXU X@k nakx.e7
+\XPSH [x@k nakxe7]
+\XSP frijol porriado
+\XEN pounded beans
+\SYN
+\ROOT nakx
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex nakx=jonh
+\_no 02130
+\LG MIG
+\PSH [nakxjonh-]
+\UND nakx=jonh
+ZOH004R0011001.txt
+\MB pegar, atarantarse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pegar
+\ENG to hit
+\SPL
+Page 918

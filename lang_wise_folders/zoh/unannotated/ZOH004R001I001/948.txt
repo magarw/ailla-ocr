@@ -1,0 +1,62 @@
+\SYN
+\ROOT nem
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex nem.naanh
+\_no 02199
+\LG MIG
+\PHO [nemna*nh]
+\UND nem.naanh
+\MB cortar_con_tijeras, MED
+\VAR
+\GRAM meas
+\SPG una cortaza
+\ENG one snip with the scissors
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT nem
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex nem.nem.ney
+\_no 02200
+\LG MIG
+\PSH [nemnemney-]
+\UND nem.nem.ney
+\MB flamear, flamear, REDUP1
+\VAR
+\GRAM VİR
+\SCI
+\USE
+\SPG flamear mucho
+\ENG to flame a lot
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nem
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 12/Nov/94
+\lex nem=nuk
+\_no 02201
+\LG MIG
+\PHO [nemnuk-]
+\UND nem-nuk
+\MB talonear, agarrar
+\VAR
+ZOH004R0011001.txt
+\GRAM vt
+\SPG prensar entre los dos piernas
+\ENG to press between the legs
+\EXU 7@y+ nem-nuk-w@ 7@y+ manh.kuy'+j@nanh
+Page 948

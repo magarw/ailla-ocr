@@ -1,0 +1,61 @@
+\EX dondju we7chch@ bi tunh
+\XSP en una curva; alla* en la curva/vuelta
+\XEN where the road curves
+\ROOT we7ch 12
+\SEMF position, condition
+\ASP state, process, transition
+\CAUS yak.we7ch hacer/dejar chueco; pandear
+\CMTS
+\date 03/Jan/80
+\lex we7tz
+\_no 00149
+\SPG arrastrarse - nin*o; andar arrastra*ndose; arrastrarse sentado
+\ENG to drag oneself - a child; to move by dragging along
+\EX we7tzpa 7@y witt@
+\XSP anda arrastrandose
+\XEN he dragged himself around
+\ROOT we7tz P, (11)
+\SEMF motion
+\ASP activity
+\CAUS NONE
+\ASSU we7tz.ney estar sentado arrastrando
+\CMTS
+\date 03/Jan/80
+\lex wij
+\_no 00150
+\SPG zambutirse
+\ENG
+\EX
+\XSP
+\XEN
+\ROOT wij P (IX)
+SEMF motion
+ZOH001R0611007.txt
+\ASP momentaneous
+\CAUS yak.wij decir que se zambutiera
+\ASSU wij.ney estar zambutido
+\CMTS
+\date 03/Jan/80
+\lex wikx
+\_no 00151
+\SPG chiflar
+\ENG to whistle
+\EX
+\XSP
+\XEN
+\ROOT wikx IX
+\SEMF speak
+\ASP activity
+\CAUS yak.wikx hacer chiflar
+\CMTS
+\date 03/Jan/80
+\lex wi7kx
+\_no 00152
+\SPG falsearse; ensartarse pie; desconsartarse pie
+\ENG
+\EX wi7kx@_7@y manhkuy7
+\XSP se falseo* su pie
+\XEN
+\ROOT wi7kx I2, Ix
+\SEMF motion
+Page 36

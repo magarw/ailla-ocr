@@ -1,0 +1,63 @@
+\PSH [galo*nh]
+\UND galoonh
+\MB
+\VAR
+\GRAM med
+\SCI
+\USE
+\SPG galo*n
+\ENG gallon
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 30/Apr/95
+\lex gan(a)=tz@k
+\_no 00617
+\LG MIG
+\PSH [ganatz@k-]
+\UND gana=tz@k
+\MB ganar, HACER
+\VAR gaan=tz@k
+\GRAM vt
+\SCI
+\USE
+\DLG
+\SPG ganar
+\ENG to earn; to win
+\EXU 7@y+ gan(a)=tz@k-w@ pelota kep=m@tz. E7
+\XPSH [7@y_gantz@kk@_pelota kepm@tzi7.]
+\XSP Gano* juego de futbol.
+\XEN He won the football game.
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+ZOH004R0011001.txt
+\lex garbansu
+\_no 00618
+\LG MIG
+\PSH
+\UND garbansu
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG garbanzo
+\ENG a type of bean
+\EXU
+\XSP
+\XEN
+Page 264

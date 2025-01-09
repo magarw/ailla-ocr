@@ -1,0 +1,52 @@
+\SPG san
+\ENG san
+\lex sa*nches
+\_no 02027
+\SPG sa*nches
+\ENG sa*nches
+\lex santa
+\_no 02028
+\SPG santa
+\ENG saint
+\lex santiagu
+\_no 02029
+\SPG Santiago
+\ENG Santiago
+\lex santines
+\_no 02030
+\SPG Santa_Inez
+\ENG Santa_Inez
+\lex santu
+\_no 02031
+\SPG santo
+\ENG saint
+\lex santu*7
+\_no 02032
+\SPG santo
+\ENG saint
+\lex santyago
+\_no 02033
+\SPG Santiago
+\ENG Santiago
+\lex sapato
+\_no 02034
+\SPG zapato
+\ENG shoe
+\lex sapotiyu
+\_no 02035
+\SPG zapotillo amarillo; zapote nin~o
+\ENG
+\lex sapuyo*1
+\_no 02036
+\SPG zapuyol-semilla del mamey
+\ENG
+\lex sastre
+\_no 02037
+\SPG sastre
+\ENG tailor
+ZOH001R0611013.txt
+\lex sato
+\_no 02038
+\SPG Sato
+\ENG Sato
+Page 162

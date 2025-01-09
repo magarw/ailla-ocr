@@ -1,0 +1,63 @@
+\_no 02473
+\LG MIG
+\PSH [n@kuy]
+\UND n@7-kuy
+\MB agua, palo
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG palo de agua
+\ENG a type of tree
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 08/Feb/96
+\lex n@'-mut
+\_no 02474
+\LG MIG
+\PSH [n@mut-]
+\UND_n@7-mut
+\MB agua, salir_agua
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG nacer agua en nacedero de agua
+\ENG for a spring to bubble forth
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT mut
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 08/Feb/96
+\lex n@'-nik.ketz. '@y
+\_no 02475
+\LG MIG
+\PSH [n@nikketztz@y-]
+\UND n@7-nik.ketz.7@y
+ZOH004R0011001.txt
+\MB agua, SUP, regar, SUF
+\VAR
+\GRAM vt:vers2
+\SCI
+\USE
+\SPG regarle agua
+\ENG to sprinkle water on someone
+\EXU
+Page 1066

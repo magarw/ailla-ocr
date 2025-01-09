@@ -1,0 +1,62 @@
+\CMTS CK-PH for [w] - it's there; fixed: TK
+\date 26/Jun/96
+\lex tzuway' p@n
+\_no 03453
+\LG MIG
+\PSH [tzuway p@n]
+\UND tzuway7 p@n
+\MB tonto, hombre
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG hipo*crita; tonto
+\ENG a fool
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex tzuway. 'aH
+\_no 03454
+\LG MIG
+\PSH [tzuwayya-]
+\UND tzuway.7aH
+\MB tonto, VERS1
+\VAR
+\GRAM vers1
+\SCI
+\USE
+\SPG volverse tonto; hacerse tonto
+\ENG to become foolish
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jun/96
+\lex tzuway'=tz@k
+\_no 03455
+\LG MIG
+\PSH [tzuwaytz@k-]
+\UND tzuway7=tz@k
+\MB tonto, HACER
+ZOH004R0011001.txt
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer tonto
+\ENG to make foolish
+Page 1486

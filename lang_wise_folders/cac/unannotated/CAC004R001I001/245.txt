@@ -1,0 +1,47 @@
+"
+;
+P
+áyšom xúnok 'óra sp'át nok' nok' kónéxo čí? #13↓
+MIP ?áy-Ø-šoh-ham xún-ok ?órah c-Ø-p'át nok' nok' kónéxoh čí?
+PS
+A
+SS
+G be-it-already-interrogative one-about hour present-he-go
+animal rabbit there
+it was already about an hour (since) the rabbit left
+G
+E
+P ték'p'aN ték'tek' wal 'áx wiN wiN kóyóte čí? #12
+ték'-p¹-aN ték'-CVC wal-6-áx wiN(wiN )kóyóteh čí?
+MP
+PS
+SS
+臼
+CI
+VP
+240
+VP
+Main
+straight-* progressive-he-be
+he stood up straight
+Main
+P
+yél Nílnax wẤN t'a yálaN k'en ténam #21
+MP y-él Nil-n-ax wĩN t'ah y-?ál-aN k'e'n ténam
+PS
+NP
+SS
+Subj
+G he-leave leaping-*-*
+leaped out
+NP
+Pre-Adv
+he
+NP
+Subj.
+NP
+Post-Adv.
+male coyote there
+that coyote
+male to its-beneath-* stone boulder
+from beneath the boulder

@@ -1,0 +1,84 @@
+n@kk@
+ZOH001R0361001.txt
+go7
+n@k -w@
+\tx OSM: pa tzokpay
+\mb OSM para tzok -pa -7@y
+\sg1 OSM: para sanar-INC-3E irse-dINC BNF
+\egl OSM: for cure -INC-3E go -DINC BNF
+go7
+\zoq OSM: Pa tzokpay n@kk@ go7.
+\fts OSM: Para que vaiga sanando.
+\fte OSM: So that it goes along healing.
+\com
+\idx
+\ref ZOH001R036 513
+\_no 00504
+\tx
+7i 1wego 71
+\mb 7i
+1wego 7i
+\sg] y
+luego y
+\egl and later and later 3E CAUS-die
+1wego 7@y yakkapa
+1wego 7@y yak -ka7
+luego 3E CAUS-morirse-INC
+\zoq 7i 1wego 71 1wego 7@y yakkapa.
+7i
+\fts Luego luego va matandolo.
+\fte And later and later one kills it.
+\com
+\idx
+\ref ZOH001R036 514
+\_no 00505
+\tx GSM: 7@y yakt@tzpa
+\mb GSM 7@y yak -t@tz
+\sg1 GSM: 3E
+\eg1 GSM: 3E
+CAUS-secarse-INC
+CAUS-dry
+\zoq GSM: 7@y yakt@tzpa.
+\fts GSM: Lo seca.
+\fte GSM: One dries it.
+\com
+\idx
+-ра
+- INC
+\ref ZOH001R036 515
+\_no 00506
+\tx HAJ: si m toypa
+\mb HAJ
+si 7@m
+\sg1 HAJ: si 2E
+\egl HAJ: if 2E hurt -INC 2E
+m wit@m
+toy -pa 7@m wit@m
+doler-INC 2E ojo
+eye
+\zoq HAJ: Sim toypam wit@m
+fts HAJ: Si duele tu ojo
+\fte HAJ: If your eye hurts
+\com
+\idx
+GSM: si toypa
+EN
+-
+\ref ZOH001R036 516
+\_no 00507
+\tx
+\mb GSM
+\sg1 GSM: si doler-INC 2E ojo
+\eg1 GSM: if
+hurt -INC 2E eye
+m wit@m
+si toy -pa 7@m wit@m
+\zoq GSM: Si
+toypam wit@m,
+\fts GSM: Si te duele el ojo,
+\fte GSM: If your eye hurts,
+\com
+\idx
+-pa
+- INC
+Page 110

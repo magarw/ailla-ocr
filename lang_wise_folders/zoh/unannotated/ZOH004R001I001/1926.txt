@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS CK/OK
+\date 25/Jun/96
+\lex %n@nh F
+\_no 04484
+\LG MIG
+\PSH
+\UND
+\MB
+\VAR
+\GRAM VİR
+\SCI
+\USE
+\SPG andar cabeceando la verga porque quiere comer [pan]
+\ENG for a stiff dick to be bobbing
+\SPL
+\SLGR
+\EXU_n@nh.n@nh.ney-pa kan
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\lex {n@7tti}
+\_no 04485
+\LG MIG
+\PSH
+\UND n@7tti
+\MB
+\VAR n@7kti
+\GRAM part
+\SCI
+\USE
+\SPG no
+\ENG no
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK/both OK: TK
+\date 25/Jun/96
+ZOH004R0011001.txt
+\lex {pakp@}
+\_no 04486
+\LG MIG
+\PHO
+\UND
+\MB
+Page 1926

@@ -1,0 +1,64 @@
+\GRAM S
+\SCI
+\USE
+\SPG pera
+\ENG pear
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 16/Oct/94
+\lex perikku7
+\_no 02603
+\LG MIG
+\PSH
+\UND perikku7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG perico
+\ENG a type of bird
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\lex pet
+\_no 02604
+\LG MIG
+\PSH
+\UND pet
+LF: jon
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG barrer
+\ENG to sweep
+\EXU 1 7@y+ pet-w@ bi tak
+\XPSH 1 [7@y pett@ bi t@k.]
+\XSP 1 Barrio* la casa.
+\XEN 1 She swept the house.
+\EXU 2 p@t.7@m-wa bi tak
+\XPSH 2 [P@tt@mm@ bi t@k.]
+\XSP 2 Barrieron la casa.
+\XEN 2 Someone swept the house.
+\EXU 3 7@y+ pet.ten-w@ bi patyu
+\XPSH 3 [7@y pettenn@ bi patyu.]
+\XSP 3 Barrio* el patio antes.
+ZOH004R0011001.txt
+Page 1120

@@ -1,0 +1,65 @@
+\lex jipx
+\_no 00779
+\LG MIG
+\PSH
+\UND jipx
+\MB
+\VAR
+GRAM vi:med
+\SCI
+\USE
+\SPG quemarse demasiado, como cafe*, pan, etc.
+\ENG to overcook, like coffee, bread, etc.
+\SPL yak.jipx
+\SLGR CAUS
+\SLGL
+hacer quemar // to cause to overcook
+\EXU 1 jipx-wa 7@y+ tz@k. E
+\XPSH 1 [Jipx@y tz@ki.]
+\XSP 1 Se quemo* demasiado.
+\XEN 1 It was overcooked.
+\EXU 2 jipx-w@ bi x@k ya pitz@m-w@ moso
+\XPSH 2 [Jipx@ bi x@k, ya pitz@mm@ moso.]
+\XSP 2 Se quemo* los frijoles, no salieron bonito.
+\XEN 2 The beans burned, they didn't come out well.
+\SYN
+\SEMF cook, temp
+\ASP activity, achievement
+\ARG patient
+\NOM jipx.@7
+\SUB 7anh.jipx, j@x=jipx, win-jipx, yuk.jipx
+\ETYM
+\ETL
+\ROOT jipx
+\RTGR 12
+\DSRC TK94
+\CMTS
+ZOH004R0011001.txt
+\CMTS jipx@*7 una cosa quemada; jipx@7 - una calentura
+\CMTS CK-all
+\CMTS trata de algo que esta* cociendo
+\date 03/Jan/80
+\lex jipx.@7 [1]
+\_no 00780
+\LG MIG
+\PSH [jipx@7]
+\UND jipx@.A7
+\MB tener_calentura, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG calentura
+\ENG fever
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jipx@
+\RTGR 12
+\DSRC HAJ94
+\CMTS CK-PH ok
+Page 338

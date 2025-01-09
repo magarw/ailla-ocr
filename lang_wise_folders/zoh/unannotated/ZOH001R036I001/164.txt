@@ -1,0 +1,84 @@
+\sg] algo
+\egl something
+\zoq 7algu.
+\fts Algo.
+\fte Something.
+\com
+\idx
+\ref ZOH001R036 769
+\_no 00755
+\tx winjonh
+\mb win -joonh
+хохра
+xox
+-pa
+cocer-INC
+\sg1 CARA-DIR4
+\eg1 FACE-DIR4 cook -INC
+\zoq winjonh xoxpa.
+\fts Primero lo coces.
+\fte First you cook it.
+\com
+\idx
+\ref ZOH001R036 770
+\_no 00756
+\tx
+\mb
+-7@m
+despwes kem
+despwe*s ke
+\sg1 despues que -2E
+\egl after
+that-2E
+\ref ZOH001R036 771
+\_no 00757
+ZOH001R0361001.txt
+хохра
+gay
+7@m_p@kpa*m
+xox -ра
+ka -y
+7@m p@k
+cocer-INC DCT3-TMP 2E
+cook -INC DCT3-TMP 2E
+get
+\zoq Despwes kem xoxpa, gay 7@m p@kpa*m la batiba.
+\fts Despues que lo cocistes, ya agarras la batiba.
+\fte After you cook it, then you get the beater.
+\com
+\idx
+m jukut@k
+\tx para pitz@mpa
+\mb para pitz@m-pa 7@m jukut@k
+\sg1 para salir -INC 2E lumbre
+\egl for leave -INC 2E fire
+\zoq Para pitz@mpam jukut@k.
+\fts Para que salga lumbre (la fiebre).
+\fte so your fire (fever) goes out.
+\com
+\idx
+\ref ZOH001R036 772
+\_no 00758
+\tx GSM: 7i malbaxta*7 7@m xoxpa
+\mb GSM 71
+malba-xtaa7 7@m xox
+\sg1 GSM: y
+\eg1 GSM: and
+\ref ZOH001R036 773
+\_no 00759
+-pa
+cocer-INC
+malba-NOMAS 2E
+malba-ONLY 2E cook -INC
+\zoq GSM: 7i malbaxta*7 7@m xoxpa?
+\fts GSM: Y malba no mas coces?
+\fte GSM: And you just cook malba?
+\com
+\idx
+la
+batiba
+-pa -7am la
+batiba
+agarrar-INC-YA la batiba
+-INC-NOW the beater
+Page 164

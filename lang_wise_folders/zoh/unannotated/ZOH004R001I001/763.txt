@@ -1,0 +1,63 @@
+\USE
+\SPG 1 muy maduro
+\SPG 2 quemado
+\ENG 1 very ripe
+\ENG 2 burned
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT k@nh
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\lex k@.win.p@¹.7@y
+\_no 01764
+\?? d\LG MIG
+\PSH [k@@winp@7@y-]
+\UND k@.win-p@7.7@y
+\MB FUERA, CARA, poner, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG proponerse; prometer
+\ENG to ask for; to promise
+EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT p@7
+\RTGR T3
+\DSRC HAJ94
+\CMTS GSM rejects 'ofrecer'
+\CMTS use this to say, 'buy me a thisRthat'
+\date 03/Jan/80
+\lex k@x
+\_no 01765
+LG MIG
+\PSH
+\UND k@x
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG comer
+\ENG to eat
+\SPL k@x. 7oy
+ZOH004R0011001.txt
+\SLGR ANTIP
+\SLGL comer // to eat
+\SPL k@x.7@m
+\SLGR PASS
+\SLGL cosa que se comio* // a thing that was eaten
+\SPL yak.k@x. 7oy
+Page 763

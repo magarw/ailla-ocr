@@ -1,0 +1,90 @@
+\tx senyor tigo
+yam
+7oknuk@
+\mb senyor ti -goo7 ya -7@m 7ok -nuk
+\sg1 sen~or que -BNF NEG-2E ABAJO-agarrar-nINC
+\egl mister what-BNF NEG-2E DOWN -grab
+\zoq Senyor, tigo yam 7oknuk@?
+\fts Sen-or, porque no lo sueltas?
+\fte sir, why don't you let go?
+\com
+\idx
+\ref ZOH001R036 186
+\_no 00187
+\tx
+\mb por fabor 7ok
+-nuk
+\sg1 por favor ABAJO-agarrar-nINC
+\egl for favor DOWN -grab
+por fabor 7oknuk@
+\zoq Por fabor, 7oknuk@."
+\fts Por favor, sueltalo.
+\fte Please, let go.'
+\com
+\idx
+\fte I talk to the deceased,
+\com
+\idx
+\ref ZOH001R036 188
+\_no 00189
+"I
+\ref ZOH001R036 187
+\_no 00188
+\tx 7@n tzamt@kkapa
+bi
+7alma
+\mb 7@n tzam
+-tak -7a -ра bi 7alma
+\sgl 1E platicar-casa -VERS1-INC DEF alma
+\egl 1E converse-house-VERS1-INC DEF soul
+\zoq 7@n tzamt@kkapa bi 7alma,
+\fts Platico con el finado,
+\tx 7i n winnomwakpa
+\mb 7i 7@n win -7pm
+\sg] y
+1E
+\eg1 and 1E
+\tx p@n
+\mb pan
+\sgl hombre
+\eg1 man
+-A
+-nINC
+ZOH001R0361001.txt
+\ref ZOH001R036 189
+\_no 00190
+-wak
+ne
+ne7
+tambien
+CARA-echar_humo-vaciar-INC
+FACE-emit_smoke-empty -INC also
+-pa
+\zoq 7in winnomwakpa ne gaji bi toya p@n.
+\fts y lo ahumo ahi* el enfermo.
+\fte and I also cense the sick one there.
+\com
+\idx
+-A
+-nINC
+gaji
+bi
+ka -ji7 bi
+-A7
+DCT3-LOC1 DEF doler-NOM2
+DCT3-LOC1 DEF hurt -NOM2
+toya
+toy
+\tx GSM: por 7ejemplo gaja
+\mb GSM por 7ejemplo ka -ja7
+pantyo*nh
+pantyonh
+\sg1 GSM: por ejemplo
+CARA-echar_humo-vaciar-INC panteo*n
+\eg1 GSM: for example DCT3-LOC1 2E FACE-emit_smoke-empty -INC cemetery
+7@m winnomwakpa
+-ja7 7@m win -70m
+DCT3-LOC1 2E
+-wak -ра
+\zoq GSM: Por 7ejemplo, gaja 7@m winnomwakpa pantyo*nh?
+Page 41

@@ -1,0 +1,64 @@
+\_no 03381
+\LG MIG
+\PSH [tzi7tzt@tz-]
+\UND tzi7tz=t@tz
+\MB arrugarse, secarse
+\VAR
+GRAM vi
+\SCI
+\USE
+\SPG secar con arrugas
+\ENG to dry wrinkled
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzi7tz
+\RTGR 12
+\ROOT t@tz
+\RTGR 12
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex tzix [1]
+\_no 03382
+\LG MIG
+\PSH
+\UND tzix
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG picar, como chaya o mala mujer, o una avispa
+\ENG to prick, like a thorn, or to bite, like a wasp
+\SPL tzix. 7oy
+\SLGR ANTIP
+\SLGL picar // to prick; to bite
+\SLGR NO PASS
+\EXU 1 yak.tzix. 'oy-w@
+\XPSH 1 [Yaktzixxoyy@.]
+\XSP 1 Le pico*.
+\XEN 1 It bit her.
+\EXU 2 tzix. 'oy-w@ 7@y+ n@k.i weni' d@k (+'ay)
+\XPSH_2 [Tzixxoyy@y naki weni d@kka.]
+\XSP 2 Fue* picando las avispas.
+\XEN 2 The wasps went around stinging.
+\EXU 3 d@ tzix-w@ weni7
+\XPSH 3 [D@ tzixx@ weni7.]
+\XSP 3 Me pico* la avispa.
+\XEN 3 The wasp stung me.
+\SYN
+ZOH004R0011001.txt
+\SEMF bite
+\ASP achievement
+\ARG
+\NOM tzix.naanh
+\SUB
+\ETYM
+\ETL
+\ROOT tzix
+Page 1454

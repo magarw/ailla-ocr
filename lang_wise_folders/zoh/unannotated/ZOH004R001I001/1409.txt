@@ -1,0 +1,64 @@
+\LG MIG
+\PSH
+\UND tzapatz weni7
+\MB rojo, avispa
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG avispa colorada; charnahuite
+\ENG a type of wasp
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Nov/94
+\lex tzapatz=tuk
+\_no 03277
+LF:weni 7
+\LG MIG
+\PSH [tzapatztuk-]
+\UND tzapatz=tuk
+\MB rojo, terminarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG ponerse colorado
+\ENG to turn red
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tuk
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 15/Jun/95
+\lex tzapatz=tz@k
+\_no 03278
+\LG MIG
+\PSH [tzapatztz@k-]
+\UND tzapatz=tz@k
+\MB rojo, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer rojo
+\ENG to make red
+\EXU
+\XSP
+ZOH004R0011001.txt
+Page 1409

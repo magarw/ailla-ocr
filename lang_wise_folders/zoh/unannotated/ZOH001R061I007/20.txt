@@ -1,0 +1,62 @@
+\XSP se rompio* con la lumbre
+\XEN it broke from the fire
+\EX 7@y yakpapx@
+\XSP lo dejo* que se rompiera
+\XEN she left it to break
+\ROOT papx Ix
+\SEMF break
+\ASP transition
+\CAUS yak.papx romper vidrio
+\PASS NONE
+\CMTS
+\date 03/Jan/80
+\lex pitikx
+\_no 00082
+\SPG sacar/echar chispa, lumbre/len~a
+\ENG to spark
+\EX pitikx@ juwi
+\XSP saco* chispa la brasa
+XEN the coal threw off sparks
+\EX pitikx@ jukut@k
+\XSP saco* chispa la lumbre
+\ROOT pitikx Ix
+\SEMF fire
+\ASP activity
+\CAUS yak.pitikx hacer que le sacara chispa
+\CMTS
+\date 03/Jan/80
+\lex pitz@m
+\_no 00083
+\SPG salir
+\ENG to leave
+\EX
+\XSP
+\XEN
+\ROOT pitz@m Ix
+\SEMF motion
+\ASP activity, transition
+\CAUS yak.pitz@m dejar salir
+\CMTS
+\date 03/Jan/80
+\lex pix
+\_no 00084
+ZOH001R0611007.txt
+\SPG sentir_picazo*n - de pulga, etc.
+\ENG to feel a bite
+from a flea, etc.
+\EX da pix-pa
+\XSP me pica
+\XEN it's biting me
+\EX pixxoba 7@y kuptuku
+\XSP algo le pica en su espalda
+\XEN something is biting his back
+\ROOT pix Ix
+\SEMF bite
+\ASP state
+\CAUS yak.pix.7oy darle comezo*n
+\CMTS doesn't like it like this: gives yuk.tzi7kx or pix.7oy instead
+\date 03/Jan/80
+\lex po
+\_no 00085
+\SPG nacer animales, gente
+Page 20

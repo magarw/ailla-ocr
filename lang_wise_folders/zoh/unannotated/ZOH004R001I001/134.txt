@@ -1,0 +1,63 @@
+\SPG sacar quebrajado
+\ENG to get something out by grinding it
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN j@x-ja7p
+\SEMF
+\ETYM
+\ETL
+\ROOT ja7p
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+\lex 7ok.jax. '@y
+\_no 00311
+\LG MIG
+\PSH [7okjaxx@y-]
+\UND 7ok.jax.7@y
+\MB ABAJO, X, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tirarse boca abajo
+\ENG to throw someone face down
+\SPL
+\SLGR
+\EXU 7@y+ 7ok.jax. '@y-wa 7@y+ win_nax+jo7
+\XPSH [7@y 7okjaxx@yy@y win naxjo7.]
+\XSP Se tiro* boca abajo en el suelo.
+\XEN He threw himself face down on the ground.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * jax
+\RTGR P
+\DSRC HAJ95
+\CMTS
+\date 09/Jan/96
+\lex 7ok.jej
+\_no 00312
+ZOH004R0011001.txt
+\LG MIG
+\PSH [7okjej-]
+\UND 7ok.jej
+\MB ABAJO, vivir
+\VAR
+\GRAM dir+vi
+\SCI
+\USE
+\SPG descansar
+\ENG to rest
+\EXU 7@m+ 7ok.jej-pa?
+\XPSH [7@m 7okjejpa?]
+\XSP Estas descansando?
+\XEN Are you resting?
+\SPL yak. 7ok.jej
+\SLGR CAUS
+Page 134

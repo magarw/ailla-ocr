@@ -1,0 +1,40 @@
+(ii)
+It isn't always possible to tell if the single argument of an unaccusative
+verb has been incorporated or not, since the third person absolutive marker is
+0. One way of testing this is to make the expression negative, in which case the
+incorporated noun will appear inside the negative marker (10.5 i). In example
+(ii), phonological evidence suggests that the noun hama 'day' has been
+incorporated, because it has been shortened to a single syllable. Examples (iv)
+and (v) may or may not be incorporation constructions, thought it seems likely
+that they are, especially (iv) which is probably lexicalized.
+(10.5)
+(i)
+(ii)
+(iii)
+'øm 'awinme'cpa pam 'ekpa
+?əm+ ?awin?=me?c-pa
+para ?ǝm+ ?ek-pa
+2A+ hermano=buscar-INC para 2E+ pizcar-INC
+'Buscas compañero para que lo pizques (maíz).' (ZOH001R013-051)
+(iv)
+ya 'angpøn'otowa
+ya 0 7aŋpən=?otoŋ-A
+NEG 3A zoque-hablar-nINC
+'No habla el zoque.'
+ya tøm'øwø
+ya 0 təm=?əŋ-A
+NEG 3A fruta=caerse-nINC
+'No se cae la fruta (porque del frio).'
+'øn 'økxpan mok para ja:mpø'tpa
+?ən+ ?əkš-pa
+tzu:muknømpa
+cu?=mu?k-Anəm-pa
+noche=caerse-IMPERS-INC
+?ən+ mok para 0 hama=pə?t-pa
+1E+ desgranar-INC 1E+ maíz para 3A día=pasar-INC
+'Desgrano mi maíz para que pase el día (bien).' (ZOH001 R053-048)
+'Anochece.'
+(elicited)
+271
+(elicited)
+(ZOH001 R036-057)

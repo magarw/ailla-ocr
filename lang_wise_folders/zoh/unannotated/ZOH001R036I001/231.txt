@@ -1,0 +1,77 @@
+\idx
+\ref ZOH001R036 999-086
+\_no 01069
+\tx
+GSM: por 7ejemplo si ya pata
+\mb GSM
+gaj@nanh
+Ka -j@nanh
+por 7ejemplo si ya p@7t -A
+\sg1 GSM: por ejemplo si NEG pasar-nINC DCT3-AC
+\eg1 GSM: for example if NEG pass -nINC DCT3-ACC
+\zoq GSM: Por 7ejemplo, si ya p@t@ gaj@nanh,
+\fts GSM: Por ejemplo, si no pasa con eso,
+\fte GSM: For example, if it doesn't pass with that,
+\com
+\idx
+\ref ZOH001R036 999-087
+\_no 01070
+\tx ti
+m
+p@jayy@
+tzoy mas n@mmoba
+\mb ti tzoy mas n@m-7oy -ра 7@m p@7 -jay -w@
+\sg1 que saltar mas DO -ANTIP-INC 2E
+\egl what jump more DO -ANTIP-INC 2E
+\tx toe7
+\mb toy -E7
+\sg1 doler-NOM 3
+\egl hurt -NOM3
+ZOH001R0361001.txt
+\ref ZOH001R036 999-088
+\_no 01071
+\zoq ti tzoy mas n@mmobam p@jayy@ gad@ tatz@k toe7?
+\fts que remedio mas le puedes echar ese dolor de oido?
+\fte what other remedy could you put in that earache?
+\com
+\idx
+\ref ZOH001R036 999-090
+\_no 01072
+tatz@k
+tatz@k
+gada
+ka -da
+poner-APPL-dINC DCT3-DEM oreja
+-APPL-DINC DCT3-DEM ear
+\tx OSM: pwes ga
+-7
+toypa porke xawa t@kk@yy@
+\mb OSM pwes ka
+toy -pa porke xawa t@k -7@y -wa
+\sg1 OSM: pues DCT3-NOM1 doler-INC porque aire casa -VERS2-COM
+\egl OSM: well DCT3-NOM1 hurt -INC because wind house-VERS2-COM
+\tx
+xawa t@kk@yy@
+\mb
+xawa t@k -7@y - wa
+\sgl aire casa -VERS2-COM
+\egl wind house-VERS2-COM
+put
+\zoq OSM: Pwes, ga toypa porke xawa t@kk@yy@,
+\fts OSM: Pues, eso duele porque le entro* aire
+\fte OSM: Well, that pain because the wind got in,
+\com
+\idx
+\zoq xawa t@kk@yy@.
+\fts le entro* aire.
+\fte the wind got in.
+\com
+\idx
+\ref ZOH001R036 999-091
+\_no 01073
+\tx 7i y@da
+tzoy
+por Zejemplo teyy@*7
+\mb 7i ya -da tzoy por 7ejemplo te
+-y@ -7
+Page 231

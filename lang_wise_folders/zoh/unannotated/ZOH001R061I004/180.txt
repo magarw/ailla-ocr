@@ -1,0 +1,63 @@
+ZOH001R0611004.txt
+yo'=tz@k-tam-pa+goo7
+XPSH [7@n x@:n@tz@ktampa bi wae para da yo: tz@ktampago*7.]
+\XSP Estamos aguadando la masa para hacer los tamales.
+\XEN we're moistening the cornmeal to make tamales.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT x@n
+\RTGR IX
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex x@n. (@'). 7aH
+\_no 00455
+\LG MIG
+\PSH [x@n@7a-]
+\UND x@n.A'.7aH
+\MB aguadar, NOM2, VERS1
+\VAR x@@n.7aH
+\GRAM
+\SCI
+\USE
+\SPG ponerse aguado
+\ENG to become moist
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT X@n
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+\lex yaja7k+p@7
+\_no 00456
+\LG MIG
+\PSH
+\UND yaja'+v7k +p@7
+\MB antes, REL, NOM5
+\VAR
+\GRAM av
+\SCI
+\USE
+\SPG anterior; antiguo; de antes
+\ENG the past; antiquity; from before
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS ANALYZE
+Page 180

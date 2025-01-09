@@ -1,0 +1,62 @@
+\GRAM S
+\SCI
+\USE
+\SPG arena
+\ENG sand
+\EXU wanin poe7
+\XSP arena delgada o biushita
+XEN thin or sparse sand
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS second v very laryngeal; of course it is (TK)
+\CMTS puede usar /yuchchi7/ o /wanin7/
+\date 03/Jan/80
+\lex po.e7 [2]
+\_no 02684
+\LG MIG
+\PHO [poe7]
+\UND po'. E7
+\MB rajar, NOM7
+\VAR
+\GRAM pcp
+\SPG rajado
+\ENG split
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT po'
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex poe' putz.i
+\_no 02685
+\LG MIG
+\PSH [poe putzi]
+\UND powe7 putz. E
+\MB arena, podrir, NOM7
+\VAR poe putzi
+\GRAM smsv
+\SCI
+\USE
+\SPG sarampio*n
+\ENG measles
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT putz
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+Page 1155

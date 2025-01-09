@@ -1,0 +1,63 @@
+\_no 03491
+\LG MIG
+\PSH [tz@mi7]
+\UND tz@m.E7
+\MB cargar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG carga
+\ENG load
+\EXU metz-a-'nh tz@m.i7
+\XPSH [metzanh tz@mi7]
+\XSP dos bultos (es una carga)
+\XEN two bundles (a full load)
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@m
+\RTGR P (T3)
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex tz@m.kuy7
+\_no 03492
+\LG MIG
+\PHO [tz@mkuy7]
+\UND tz@m.kuy7
+\MB cargar, INSTR1
+\VAR
+\GRAM instrl
+\SPG el mecate con que se carga
+\ENG the rope you carry with
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT tz@m
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex_tz@m-min
+\_no 03493
+\LG MIG
+\PSH [tz@mmin-]
+\UND tz@m-min
+ZOH004R0011001.txt
+\MB cargar, venir
+\VAR
+\GRAM vt+dir
+\SCI
+\USE
+\SPG traer cargando
+\ENG to come carrying
+\EXU 1 7@y+ tz@m-min-pa 7@y+ kuptuku '+jo7
+\XPSH 1 [7@y tz@mminpay kuptukujo7.]
+\XSP 1 Lo trae cargando en la espalda
+\XEN 1 He brought it, carrying it on his back.
+\EXU 2_7@y+ tz@m-min-pa 7@y+ kopak+jo7
+\XPSH 2 [7@y tz@mminpay kopakjo7.]
+Page 1502

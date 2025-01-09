@@ -1,0 +1,66 @@
+\_no 00005
+\SPG 1 pizcar mazorca - no con todo y pico
+\SPG 2 dejar totomoste como si tuviera
+\ENG 1 to pick corn, but just a little,
+\ENG 2 to leave empty corn husks on the
+\SEMF corn, pick, farm
+\ASP activity
+\ARG patient
+\NOM
+\RTGR P (T3)
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex 7a7p
+\_no 00006
+\SPG abrir partiendo, como una fruta
+\ENG to split open, like a fruit
+\SEMF break, hand
+\ASP achievement
+\ARG instrument
+\NOM * kuy
+\RTGR P (T3)
+\POS NO
+\MID 7a7pp@mm@
+\UNDO NO
+\CLZ
+\CMTS
+\lex 7a7tz
+\_no 00007
+\SPG 1 arder (fuego, cuerpo)
+\SPG 2 arder esto*mago
+\SPG 3 estar caliente (comal)
+\SPG 4 estar fuerte (sol)
+\ENG 1 to burn (fire, body)
+\ENG 2 for the stomach to burn
+\ENG 3 to be hot (comal)
+\ENG 4 to be hot (the sun)
+\SEMF temp, body, nature
+\ASP state
+\ARG
+\NOM 7a7tz.@7, * kuy7, * naanh
+\RTGR 12
+\POS ex in lex
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex 7ax
+\_no 00008
+\SPG abrir la boca
+\ENG to open the mouth
+\SEMF body
+ZOH001R0611002.txt
+\ASP achievement
+\ARG patient
+\NOM 7ax.kuy7
+\RTGR P (11)
+\POS N
+\MID
+todavi*a la mazorca
+stealing it
+plant to fool the owner
+tiene una rajar
+Page 2

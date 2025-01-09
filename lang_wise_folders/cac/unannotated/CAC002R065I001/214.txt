@@ -1,0 +1,61 @@
+WHE
+P k'ík'an to cinpášíh #²3. yúxčí? ‡
+MP k'ík'-an toh c-hin-páš-ih y-?ú?x čí?
+a
+197
+P
+NP
+PP
+NP
+Pre-Adv
+R
+PS
+SS
+E
+P
+MP
+R
+PS
+SS
+CI
+✓
+SP
+(S)
+G .black-* still present-I-return its-cause that
+Tomorrow I return, because
+st
+P
+SP
+Main
+(Intro)-
+S
+a
+iv
+VP
+NP
+209
+áy to xáp'xap' in / k'áel ?olinmáná #23
+áy-Ø toh xáp'-CVC hin-k'áh-el ol-hin-mán-hV
+1
+J
+ន
+Main.
+S--
+NP
+Lo
+NP
+Topic
+NP
+NP
+Subj
+ន
+NP
+Intro
+S=NP
+tv
+VP
+Main
+·(S)
+G be-it still little-plural my-thing-* future-I-buy-*
+there are still some things for me to buy."
+Kamčákka taims tīr

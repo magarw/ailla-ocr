@@ -1,0 +1,45 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(8.29)
+(i)
+(ii)
+(iii)
+(8.30)
+(i)
+'øn tzajtzongpa 'øn toto'
+?ən+ cah=coŋ-pa
+?ən+ toto?
+1E+ glue-join-INC 1E+ paper
+'I'm going to glue my paper together.'
+(ii)
+'øy ji'ppangkukkawø
+?əy+ hi?p=?aŋ.kuk.?a-we
+3E+ move_w_stick=MOUTH.centro.VERS1-COM
+'She pushed them into a heap with a stick.'
+chik ja:y'unedøkka 'øy tzijno'tztzø bi limeta
+čik haya=?une?+dəkkay ?əy+ cih=no?c-wǝ
+small male=child+NPL
+'The little boys broke the bottle with a rock.'
+The most common form of manner modification expressed by verb
+compounds is 'to V2 by V1-ing'. Since I think it's been well-established that
+transitive verbs can appear in the V2 slot, I can shift the focus of this section to
+the variety of functions performed by the first verb in a compound construction.
+The remainder of the examples in this section will include both transitive and
+intransitive verbs in either position. The last two examples in (8.30) illustrate
+the sub-genre 'to die or kill by V1-ing'.
+(elicited)
+bi limeta
+3E+ throw_rock=break-COM DEF bottle
+(elicited)
+dø witpotztampa
+də+ wit=poc-tam-pa
+1 A+ walk-get_tired-1/2PL-INC
+'We get tired from walking.'
+(lexicon)
+222
+(ZOH001R013-070)
+kyen sab syan juptukø
+kyen sabe
+si ya
+?ən+ hup-tuk-A
+who knows if NEG 1E+ pull-cut-nINC
+'Who knows if I won't break it by pulling on it?' (ZOH001R025-155)

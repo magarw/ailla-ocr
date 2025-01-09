@@ -1,0 +1,63 @@
+\date 25/Jun/96
+\lex k@.n@k=jup. 'oy.kuy7
+\_no 01699
+\LG MIG
+\PSH [k@n@kjuppookuy7]
+\UND k@.n@k=jup. 7oy.kuy7
+\MB FUERA, irse, jalar, ANTIP, INSTR1
+\VAR
+\GRAM instrl
+\SCI
+\USE
+\SPG azote; chicote
+\ENG whip
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 n@k
+\RTGR 1 IX
+\ROOT 2 jup
+\RTGR 2 P
+\DSRC HAJ94
+(T3)
+\CMTS
+\date 07/Feb/96
+\lex k@.n@k=jup. '@y
+\_no 01700
+\LG MIG
+\PSH [k@n@kjupp@y-]
+\UND ka.n@k-jup.7@y
+\MB FUERA, irse, jalar, SUF
+\VAR
+\GRAM vt
+\XEN
+\SYN
+\SCI
+\USE
+\SPG pegarle (cuartazo, chicotazo); echarle cuarta
+\ENG to whip; to thrash
+\EXU
+\XSP
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 n@k
+\RTGR 1 IX
+\ROOT 2 jup
+\RTGR 2 P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+ZOH004R0011001.txt
+\lex k@.n@k=j@7kx. '@y
+\_no 01701
+LG MIG
+\PSH [k@n@kj@7kx@y-]
+\UND k@.n@k=j@7kx.7@y
+\MB FUERA, irse, apurarse, SUF
+\VAR
+Page 734

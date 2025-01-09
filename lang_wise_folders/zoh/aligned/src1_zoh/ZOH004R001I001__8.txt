@@ -1,0 +1,61 @@
+XPSH 9 [kekpa*7k tzux 7aju7]
+\XSP 9 chapuli*n que brinca
+\XEN 9 hopping grasshopper
+\SYN
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 02/Oct/96
+\lex 7aka
+\_no 00018
+LG MIG
+\PSH
+\UND 7aka
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG orilla
+\ENG edge
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex 7aka kuy
+\_no 00019
+LG MIG
+\PSH
+\UND 7aka kuy
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG quijada
+\ENG jaw
+\EXU toy-pa 7@n+ 7aka kuy
+\XPSH [Toypan 7aka kuy.]
+\XSP Me duele la quijada.
+\XEN My jaw hurts.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 02/Oct/96
+\lex 7a7k.7a7k.ney
+\_no 00020
+ZOH004R0011001.txt
+Page 8

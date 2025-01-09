@@ -1,0 +1,65 @@
+\GRAM versl
+\SCI
+\USE
+\SPG hacerse mocho
+\ENG to lose a limb
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\lex mon
+\_no 02012
+\LG MIG
+\PSH
+\UND mon
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG envolver
+\ENG to wrap, to roll up in something
+\SPL mon.7oy
+\SLGR ANTIP
+\SLGL envolver // to wrap
+\SLGR NO PASS
+\SPL mon.ney
+\SLGR ASSUM1
+ZOH004R0011001.txt
+\SLGL estar envuelto // to be wrapped up
+\EXU 1 7@n+ mon-w@ 7an.e 7@n mon.kuy'+j@nanh
+\XPSH 1 [7@n monn@ 7anen monkuyj@nanh.]
+\XSP 1 Envolvio* tortillas con una sirvieta.
+\XEN 1 I wrapped the tortillas in a napkin.
+\EXU 2 7@y+ mon-w@ 7@y+ win bi yomaa7 7anh.xuy'+j@nanh
+\XPSH_2 [7@y monn@y win bị yoma*7 7anhxuyj@nanh.]
+\XSP 2 Se envolvio* la mujer con
+rebozo.
+\XEN 2 The woman wrapped herself in a shawl.
+\EXU 3 mon.ten-e bi 7an.e
+\XPSH 3 [Montene bi 7ane.]
+\XSP 3 Esta* envuelta la tortilla.
+\XEN 3 The tortilla is wrapped up.
+\EXU 4 7@n+ mon-w@ kon mi jerga para nutz-@-w@
+\XPSH 4 [7@n monn@ kon mi jerga para nutz@w@.]
+\XSP 4 Lo envolvi* con mi jerga para que se sude.
+\XEN 4 I wrapped him in my jerga so he would sweat.
+\SYN
+\SEMF cover
+\ASP accomplishment
+\ARG
+\NOM mon.e, mon. 'oy.kuy7, mon.kuy7, y@k.mon
+\SUB 7anh.mon, 7ok.mon. '@y, j@x-mon, ko.mon, k@.mon. '@y, mon=pu',
+\SUB_ni.mon=tz@k, nik.mon.'@y, yuk.mon
+\ETYM
+\ETL
+\ROOT mon
+Page 867

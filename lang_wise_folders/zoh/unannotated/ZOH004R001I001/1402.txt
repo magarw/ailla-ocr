@@ -1,0 +1,62 @@
+\DSRC HAJ94
+\CMTS
+\date 20/Jun/95
+\lex tzanh.kuy7=mi 7kx
+\_no 03259
+\LG MIG
+\PSH [tzanhkuy mi7kx-]
+\UND tzanh.kuy7 mi7kx
+\MB golpear, INSTR1, agarrar_en_pun~o
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG cerrar el pun~o; empun~ar la mano
+\ENG to close the fist; to make a fist
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tzanh
+\RTGR 1 T3
+\ROOT 2 mi7kx
+\RTGR 2 TX
+\DSRC HAJ94
+\CMTS
+\date 19/Jun/95
+\lex tzanh.kuy' 7an@7
+\_no 03260
+\LG MIG
+\PSH [tzanhkuy_7an@7]
+\UND tzanh.kuy7 7an@7
+\MB pegar, INSTR1, palma
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG palma de la mano
+\ENG palm of the hand
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzanh
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-PH - HAJ:96 ok/OK: TK
+\date 26/Jun/96
+\lex tzanh.kuy'=jup
+\_no 03261
+ZOH004R0011001.txt
+\LG MIG
+\PSH [tzanhkuyjup-]
+\UND tzanh.kuy7-jup
+\MB golpear, INSTR1, jalar
+\VAR
+Page 1402

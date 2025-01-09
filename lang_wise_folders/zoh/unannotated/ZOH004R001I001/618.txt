@@ -1,0 +1,62 @@
+\date 27/Mar/95
+\lex kopak-kokx.kuy7 kuy
+\_no 01419
+\LG MIG
+\PHO [kopakkokxkuy7_kuy]
+\UND kopak=kokx.kuy7 kuy
+\MB cabeza, tronar, INSTR1
+\VAR
+\GRAM instr1
+\SPG el palito con que los maestras pegan las cabezas de los estudiantes
+\ENG the switch that teachers use to hit the students on the head
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT kokx
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex kopak-taka7
+\_no 01420
+\LG MIG
+\PSH [kopaktaka7]
+\UND kopak-taka7
+\MB cabeza, pelo*n
+\VAR
+\GRAM a:sq (BA-ed)
+\SCI
+\USE
+\SPG cabeza pelo*n
+\ENG bald headed
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS says it w/o final 7 and then repeats it with; it has /7/:TK
+\date 24/Jun/96
+\lex kopak=toy
+\_no 01421
+\LG MIG
+\PSH [kopaktoy-]
+\UND kopak=toy
+\MB cabeza, doler
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE incorporated ABS subject
+\SPG doler la cabeza
+\ENG for the head to hurt
+\EXU
+ZOH004R0011001.txt
+\XSP
+\XEN
+\SYN
+\SEMF
+Page 618

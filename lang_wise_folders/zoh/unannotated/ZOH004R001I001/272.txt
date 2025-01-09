@@ -1,0 +1,63 @@
+\LG MIG
+\PSH
+\UND jajtzuku7_tax
+\MB hormiga, llenarse
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG 1 hormigear encima de algo
+\SPG 2 11enarse de hormiga algo
+\ENG 1 for something to be covered with ants
+\ENG 2 for something to be full of ants
+\EXU jajtzuku'=tax-w@ k@x.e7
+\XPSH [Jajtzukutaxx@ k@xi7.]
+\XSP Se 11eno* de hormiga la comida.
+\XEN The food is full of ants.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT tax
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 30/Jan/96
+\lex jakke
+\_no 00636
+\LG MIG
+\PSH
+\UND jakke
+\MB
+\VAR jake, jak
+\GRAM a
+\SCI
+\USE
+\SPG muy; mucho
+\ENG very; a lot
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 12/Feb/96
+\lex jakke t@m
+\_no 00637
+\LG MIG
+\PSH
+\UND jakke t@m
+\MB muy, fruta
+\VAR
+ZOH004R0011001.txt
+\GRAM ams
+\SCI
+\USE
+\SPG 1 frutal
+\SPG 2 hay mucha fruta
+\ENG 1 orchard
+Page 272

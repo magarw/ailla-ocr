@@ -1,0 +1,63 @@
+\NOM * kuy7, * naanh
+\RTGR T3
+\POS da pinn@
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex pinh
+\_no 00229
+\SPG pepenar; recoger
+\ENG to pick up; to gather
+\SEMF pick_up, hand
+\ASP activity
+\ARG
+\NOM piw.i, pinh.naanh
+\RTGR T3
+\POS N
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex pit
+\_no 00230
+\SPG 1 poner la mortaja
+\SPG 2 enrollar cigarro
+\NOM pit.i7, pit.kuy7
+\NOM *naanh
+\RTGR T3
+\ENG 1 to wrap a corpse in a shroud
+\ENG 2 to roll a cigar
+\SEMF arrange
+\ASP activity
+\ARG
+\POS Y
+\MID
+\UNDO 7@n pitpuw@
+\CLZ
+\CMTS
+\lex pitz
+\_no 00231
+\ASP activity
+\ARG
+\NOM pitz.i, pitz.kuy' way
+\RTGR T1
+\POS
+\MID
+\UNDO
+ZOH001R0611002.txt
+\CLZ
+\CMTS
+me tento*
+\SPG poner/echar mai*z en la lumbre con cal, para cocer
+\ENG to put corn mixed with lye over the fire, to cook it
+\SEMF corn, cook
+\lex pitz@m
+\_no 00232
+\SPG salir
+\ENG to leave
+\SEMF move_self
+\ASP achievement
+\ARG direction
+lo desenvolvi*
+Page 57

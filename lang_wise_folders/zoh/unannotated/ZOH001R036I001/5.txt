@@ -1,0 +1,69 @@
+\eg1 DCT2-NOM1 NPL
+\zoq ded@kka bi p@kn@kpa*7
+\fts esos son las cosas que lleva
+\fte those are the things you take
+\com
+\idx
+\ref ZOH001R036 018
+\_no 00019
+n@pin toya
+para te
+-d@ n@pin7 toy
+\tx para ded@
+\mb
+\sg1 para DCT2-DEM sangre doler-NOM2
+\egl for DCT2-DEM blood hurt -NOM2
+-A7
+\com
+\idx
+\zoq para ded@ n@pin toya.
+\fts para ese enfermedad dysenteri*a.
+\fte for that dysentery.
+\ref ZOH001R036 019
+\_no 00020
+\tx n@pin tini
+\mb n@pin7 tin
+-E
+\sgl sangre cagar-NOM3
+\egl blood shit -NOM3
+\zoq N@pin tini.
+\fts Dysenteri*a.
+\fte Dysentery.
+\com
+\idx
+\ref ZOH001R036 020
+\_no 00021
+DEF get
+\tx joypi7t x@nhkejan@mpa
+\mb
+joypi7t x@nh -kej -An@m -pa
+\sgl otro_di*a fiesta -verse -INDEF-INC
+\egl next day festival-appear-INDEF-INC
+\zoq Joypi7t x@nhkejan@mpa,
+\fts El otro di*a amanece,
+\fte The next day comes,
+\com
+\idx
+\ref ZOH001R036 021
+\_no 00022
+\tx n@ntiam
+\mb n@nti
+yakti
+-7am yakti
+nada
+-YA
+ZOH001R0361001.txt
+-go -INC-REL
+\sg1 no_hay
+\egl there isn't-NOW nothing
+\zoq N@ntiam yakti.
+\fts Ya no hay nada.
+\fte There's nothing.
+\com
+\idx
+\ref ZOH001R036 022
+\_no 00023
+\tx ya toyya*m
+bi m
+tzek
+Page 5

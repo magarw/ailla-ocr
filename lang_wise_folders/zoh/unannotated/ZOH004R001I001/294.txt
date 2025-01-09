@@ -1,0 +1,64 @@
+\SEMF
+\ROOT
+\RTGR
+\DSRC
+\CMTS
+\date
+\lex jawa.i
+\_no 00687
+\LG MIG
+\PHO [jawai]
+\UND jaway. E
+\MB arder, NOM7
+\VAR
+\GRAM pcp
+\SPG ardor
+\ENG ache, pain
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT jaway
+\RTGR 12
+\RTGL arder / to burn
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex jaway
+\_no 00688
+LG MIG
+\PSH
+\UND jaway
+\MB
+\VAR
+\GRAM vi
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG arder (como una quemada o una herida)
+\ENG to burn (like a burn or a wound)
+\SPL yak.jaway
+\SLGR CAUS
+\SLGL
+hacer arder // to make burn
+\EXU 1 wen jaway-wa donde ju7 t@nh-w@ 7@n+ win
+\XPSH 1 [wen jawayy@ dondeju t@nhnh@n win.]
+\XSP 1 Estuvo ardiendo mucho en la parte donde me corte*.
+\XEN 1 The part where I cut myself burned a lot.
+\EXU 2 jaway-pa
+\XPSH 2 [jawaypa]
+\XSP 2 ardor
+\ENG 2 burning
+\EXU 3 da jaway.jay-w@ 7@n+ tzanh.kuy7
+\XPSH 3 [D@ jawayjayy@n tzanhkuy7.]
+\XSP 3 Me estuvo ardiendo la mano.
+\XEN 3 My hand was burning.
+\EXU 7ajaj-w@ porke jaway-w@ 7adondju nutz-w@
+\XPSH [7@j@jja, porke jawayy@ 7adondju nutztz@.]
+\XSP Quejo, porque le ardio* donde se quemo*
+\XEN She whimpered, because it hurt where she burned herself.
+\SYN
+\SEMF body
+\ASP state
+\ARG
+Page 294

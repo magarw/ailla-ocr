@@ -1,0 +1,61 @@
+\_no 00123
+\SPG echar goma
+\ENG to emit gum
+\EX
+\XSP
+\XEN
+\ROOT t@n Ix
+\SEMF nature
+\ASP process
+\CMTS cf. pun T2 'echar goma'
+\CMTS como un pino que echa prementina
+\date 03/Jan/80
+\lex t@7p
+\_no 00124
+\SPG caer; caerse cuando caminando
+\ENG to fall; to fall down while walking
+\EX
+\XSP
+\XEN
+\ROOT t@7p 12
+SEMF fall
+\ASP transition, momentaneous
+\CAUS yak.t@7p dejar caer
+\CMTS
+\date 03/Jan/80
+\lex t@tz
+\_no 00125
+\SPG secarse
+\ENG to dry
+\EX
+\XSP
+\XEN
+\ROOT t@tz 12
+\SEMF nature, temp
+\ASP process
+\CAUS yak.t@tz secar; resecar
+\CMTS
+\date 03/Jan/80
+ZOH001R0611007.txt
+\lex tzakx
+\_no 00126
+\SPG sacar mazorca, pla*tano; medio caer
+\ENG
+\EX patanux tzakx@
+\XSP tiene medio caido la mazorca del pla*tano
+\XEN
+\ROOT tzakx Ix
+\SEMF corn, nature
+\ASP process
+\CAUS NONE
+\CMTS
+\date 03/Jan/80
+\lex tzam
+\_no 00127
+\SPG sazonarse
+\ENG to become seasoned; to ripen
+\EX tzamma*m
+\XSP ya esta* sazon
+\XEN now it's ripe
+\EX tzampa*m
+Page 30

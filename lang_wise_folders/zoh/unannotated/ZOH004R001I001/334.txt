@@ -1,0 +1,63 @@
+XPSH 1 [Jininpa n@7.]
+\xSP 1 viene ensucia*ndose el agua.
+\XEN 1 The water is getting dirty.
+\EXU 2 7@y+ yak.jinin'.'aн-w@ n@7
+\XPSH 2 [7@y yakjininnaw@ n@7.]
+\XSP 2 Ensucio* el agua.
+\XEN 2 He dirtied the water.
+\SPL yak.jinin'. 7aH
+\SLGR CAUS
+\SLGL hacerlo ensucio* el agua // to make the water dirty
+\SYN
+\SEMF clean, water
+\ASP achievement
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT jinin
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex jinin7
+\_no 00770
+\LG MIG
+\PSH
+\UND jinin7
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG espeso (de agua, mole, cabello...)
+\ENG thick (of water, mole, hair...)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 16/Jun/95
+ZOH004R0011001.txt
+\lex jinin'.7aH
+\_no 00771
+\LG MIG
+\PSH [jinin7a-]
+\UND jinin'.7aH
+\MB espeso, VERS1
+\VAR
+\GRAM vers1
+\SCI
+\USE
+\SPG hacerse espeso, espesar
+\ENG to thicken
+\SPL yak.jinin7.7aH
+\SLGR CAUS
+\SLGL ensuciar // to dirty
+Page 334

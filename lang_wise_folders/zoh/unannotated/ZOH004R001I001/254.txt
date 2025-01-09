@@ -1,0 +1,63 @@
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG Chino
+ENG Chinese
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC TK94
+\CMTS
+\date 24/Sep/94
+\lex chinhga=tz@k
+\_no 00592
+\LG MIG
+\PSH [chingatz@k-]
+\UND chinhga=tz@k
+\MB chingar, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG chingar
+\ENG to fuck
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 08/Jan/96
+\lex chirinh
+\_no 00593
+\LG MIG
+\PSH
+\UND chirinh
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG sonaja
+\ENG rattle (baby toy)
+\EXU
+\XSP
+\XEN
+\SYN chirinh m@tz.i7
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+Page 254

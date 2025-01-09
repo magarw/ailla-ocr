@@ -1,0 +1,62 @@
+\date 21/Jun/96
+\DATE 03/Jan/1980
+\lex yem.naanh
+\_no 04132
+\LG MIG
+\PHO [yemna*nh]
+\UND yem.naanh
+\MB soplar, MED
+\VAR
+\GRAM meas
+\SPG una soplada
+\ENG one stroke of the fan
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT yem
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex yem-wayay'.7a
+\_no 04133
+\LG MIG
+\PSH [yemwayay7a-]
+\UND yem-wayay'. 7a
+\MB abanicar, frio, VERS1
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG enfriar abanicandolo
+\ENG to fan cool
+\EXU d@+ yem=wayay'.7a-pa
+\XPSH [D@ yemwayay7apa.]
+\XSP Me estoy soplando para que me enfresque.
+\XEN I'm fanning myself cool.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yem
+\RTGR T3
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex yen
+\_no 04134
+\LG MIG
+\PSH
+\UND yen
+\MB
+ZOH004R0011001.txt
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG lamer; lambear; probar comida con el dedo
+\ENG to lick; to lap; to taste food with the finger
+\SPL yen. 7oy
+\SLGR ANTIP
+Page 1776

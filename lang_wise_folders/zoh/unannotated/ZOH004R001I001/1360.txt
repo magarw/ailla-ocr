@@ -1,0 +1,62 @@
+XPSH [Jakke t@m.]
+\XSP Tiene mucha fruta.
+\XEN It has a lot of fruit.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT t@m
+\DSRC HAJ94
+\CMTS CK-EX HAJ:96 ok
+\date 19/Jun/96
+\lex t@m-puj
+\_no 03162
+\LG MIG
+\PSH [t@mpuj]
+\UND_t@m-puj
+\MB fruta, semilla
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG semilla de fruta
+\ENG fruit seed
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 15/Jun/95
+\lex t@m.t@m.ney
+\_no 03163
+\LG MIG
+\PSH [t@mt@mney-]
+\UND t@m.t@m.ney
+\MB
+\VAR
+\GRAM VİR
+\SCI
+\USE
+\SPG andar cabeceando la verga
+\ENG to walk around with your dick wagging
+\EXU
+\XSP
+\XEN
+ZOH004R0011001.txt
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT %t@m F
+\DSRC TK94
+\CMTS get deriv's. (al uso sexual)
+\date 28/Jan/96
+\lex t@m-tzi'.7oy
+\_no 03164
+\LG MIG
+Page 1360

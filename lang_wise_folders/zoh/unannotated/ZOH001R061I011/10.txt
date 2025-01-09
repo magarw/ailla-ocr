@@ -1,0 +1,63 @@
+\CMTS pass jom.7@m ya esta* cercado
+\CMTS assum1 jom.ney estar cercado * now rejects this
+\CMTS no prsv
+\lex jonh
+\_no 00043
+\SPG atarantarse; marearse
+ENG to become dizzy
+\EX 7ichinh jonhnh@
+\XSP esta* medio atarantado
+\XEN he's a little dizzy
+\ROOT jonh 12
+\CMTS caus yak.jonh atorar; atarantar
+\lex jopx
+\_no 00044
+\SPG tomar a boca de plato
+ENG to drink from the dish
+\EX 7@y jopxxukk@
+\XSP tomaron a boca de plato
+\XEN they drank from the plate
+\ROOT jopx T3
+\CMTS antip jopx.7oy
+\CMTS no pass jopx.7@m *
+\CMTS no prsv
+too silly
+\CMTS v class: has to have ergative markers, but now rejects ANTI
+\lex jo7px
+\_no 00045
+ZOH001R0611011.txt
+\SPG poner bozal a*
+\ENG to put a muzzle on
+\EX kin@k jo7px@
+\XSP le puso un bozal en la trompa
+\XEN he put a muzzle on the snout
+\ROOT jo7px T3
+\CMTS antip jo7px. 7oy poner bozal
+\CMTS pass jo7px.7@m ya tiene su bozal
+\lex jot
+\_no 00046
+\SPG cortar parejo - maduro con verde
+fruta de cafe*
+\ENG to pick the ripe and the green together - coffee beans
+\EX kafwe jotta
+\XSP corto* cafe* parejo - verde con verde
+\XEN he pick the coffee beans.
+\EX jottoyya*m
+\lex jox
+\_no 00047
+\SPG amasar
+\XSP ya corto* el cafe*
+\ROOT jot T3
+\CMTS pick coffee by sliding the hand down the branch, taking the green
+\CMTS and the ripe together
+\CMTS antip jot.7oy cortar (pero es cafe*)
+\CMTS pass jot.7@m
+\CMTS no prsv
+\ENG to knead masa
+\EX wayjoxx@
+\XSP amaso* la masa
+\XEN she kneaded the masa
+-
+\ROOT jox T1
+\CMTS mas dicen ma7tz-
+Page 10

@@ -1,0 +1,85 @@
+\com
+\idx
+\ref ZOH001R036 339
+\_no 00335
+\tx yoya
+\mb yoya
+manteka
+manteka
+\sg1 marrano manteka
+\egl pi
+lard
+\zoq yoya manteka
+\fts manteca de marano
+\fte pork lard
+\com
+\idx
+-
+\ref ZOH001R036 340
+\_no 00336
+\tx tum chik kwartitu
+\mb tum chik
+kwartitu
+\sg1 uno chico quartito
+\egl one little quartlet
+\zoq tum chik kwartitu.
+\fts un quartito.
+\fte a little quart.
+\com
+\idx
+\ref ZOH001R036 341
+\_no 00337
+\tx 7i ga
+waxxam
+\mb 7i ka -7
+\sg] y
+m
+7@m
+DCT3-NOM1 2E morder-COM-YA
+wax -w@ -7am
+gad@
+ka -da
+DCT3-DEM
+7anma*1
+7anma*1
+animal
+\egl and DCT3-NOM1 2E bite -COM-NOW DCT3-DEM animal
+\zoq 7i gam waxxam gad@ 7anma*1.
+fts Y ya te mordio* ese animal.
+\fte And now that animal
+bites you.
+\com
+\idx
+\ref ZOH001R036 342
+\_no 00338
+\tx 7ukxuk@
+\tx tzokoyjo
+\mb tzokoy7 -jo7
+\sg1 corazo*n-Loc2
+\egl heart
+ZOH001R0361001.txt
+ga7
+\mb 7uk -xuk-A7 ka -7
+pa
+para 7u
+t@kk@yy@
+ponsonyo 7@m
+-7@y tak -7@y-wa ponsonyo 7@m
+\sg1 tomar-3PL-IMPV DCT3-NOM1 para NEGimpv-3E casa -SUF-nIMPV ponsonio 2E
+\eg1 drink-3PL-IMPV DCT3-NOM1 for NEGimpv-3E
+house-SUF-nIMPV poison
+2E
+\ref ZOH001R036 344
+\_no 00339
+\tx ga
+7uy
+-LOC2
+\zoq 7ukxuk@ ga7 pa 7uy t@kk@yy@ ponsonyo 7@m tzokoyjo.
+\fts Tomalo todo para que no entre la ponsonio en tu corazo*n.
+\fte Drink it so that the poison doesn't enter your heart.
+\com
+\idx
+n@mmoba*m
+7@m minn@
+Page 73
+ya toyya*m

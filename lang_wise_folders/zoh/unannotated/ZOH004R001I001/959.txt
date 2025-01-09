@@ -1,0 +1,63 @@
+ZOH004R0011001.txt
+\XPSH 2 [Y@d@ p@n, ney komo n@mpa mix, Juxtixa...]
+\XSP 2 Este hombre, asi* como dices tu, Presidente...
+\XEN 2 This man, just like you say, Mayor...
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date 03/Jan/80
+\lex ney [4]
+\_no 02226
+\LG MIG
+\PSH
+\UND ney
+\MB RECIP
+\VAR
+\USE reciprocal pronoun
+\GRAM pron
+\SPG se
+\ENG each other
+\SPL
+\SLGR
+\EXU 1 ney tzi-xuk-A-pa
+\XPSH 1 [Ney tzixuk@pa.]
+\XSP 1 Se esta*n golpeando.
+\XEN 1 They were hitting each other.
+\EXU 2 ney tzi-tam-A-w@
+\XPSH 2 [Ney tzidamaw@.]
+\XSP 2 Nos golpeamos.
+\XEN 2 we're hitting each other.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex neyey
+\_no 02227
+LG MIG
+\PSH
+\UND neyey
+\MB
+\VAR
+\GRAM av
+\SCI
+\USE
+\SPG al momento; ahorita
+\ENG in a moment; right away
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Nov/94
+Page 959

@@ -1,0 +1,88 @@
+\ref ZOH001R036 607
+\_no 00596
+p@ma
+\tx 7umm@ ya m
+\mb 7umm@
+7@m p@m
+ya
+\sg1 tal vez NEG 2E
+\eg1 maybe NEG 2E
+\ref ZOH001R036 609
+\_no 00598
+bear
+\zoq 7umm@ yam p@mam kwerpu.
+\fts Tal vez ya no aguantas tu cuerpo.
+\fte Maybe your body can't bear it.
+\com
+\idx
+monhpa
+monh
+\ref ZOH001R036 608
+\_no 00597
+de7xe
+\tx gay
+\mb
+jama kuk
+ka -y
+-pa
+te -7xe jama kuk
+\sg1 DCT3-TMP dormir-INC DCT2-SIM sol
+\eg1 DCT3-TMP sleep -INC DCT2-SIM sun
+\tx 7i nixuypa
+\mb 7i
+\com
+\idx
+n win
+7@n win
+ni -xuy -pa
+PSE-tapar-INC 1E REFL
+REFL
+\sgly
+\egl and PSE-cover-INC 1E
+\zoq Gay monhpa de7xe jamakuk,
+\fts Luego se acuesta asi* en el sol,
+\fte Then you lie down like that in the middle of the sun,
+\com
+\idx
+\zoq 7i nixuypan win,
+\fts y se tapa,
+\fte and I cover myself,
+\ref ZOH001R036 610
+\_no 00599
+\com
+\idx
+-A
+aguantar-nINC 2E
+-nINC 2E
+\zoq 7i ya p@t@ de wayay.
+\fts y no pasa el frio.
+\fte and that cold doesn't pass.
+ZOH001R0361001.txt
+\ref ZOH001R036 611
+\_no 00600
+\tx GSM: ya
+\mb GSM
+kwerpu
+7@m kwerpu
+cuerpo
+body
+EN
+m
+\tx 7i ya pata
+de
+wayay
+\mb 7i ya p@7t -A
+\sg] y
+te -7 wayay7
+NEG pasar-nINC DCT2-NOM1 frio
+\egl and NEG pass -nINC DCT2-NOM1 cold
+pata
+ya p@7t -A
+\sg1 GSM: NEG pasar-nINC
+\eg1 GSM: NEG pass -nINC
+\zoq GSM: Ya p@t@.
+\fts GSM: No pasa.
+\fte GSM: It doesn't pass.
+centro
+center
+Page 130

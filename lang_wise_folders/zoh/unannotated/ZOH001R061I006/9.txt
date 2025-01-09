@@ -1,0 +1,64 @@
+\GRAM dir+vt, vi
+\SCI
+\USE
+\SPG empezar
+\ENG to begin
+\SPL 7ok.manh.7oy
+SLGR ANTIP
+\SLGL empezar // to begin
+\SPL 7ok.manh.7@m
+\SLGR PASS
+\SLGL empezarse
+\EXU ga.7 7ok.manh-w@ tum tukxi7
+\XPSH [Ga7 7okmanhnh@ tum tukxi7.]
+\XSP Eso empezo* un pleito.
+\XEN That started a fight.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT “mạnh
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex 7on
+\_no 00013
+\LG MIG
+\PSH
+\UND 7on
+\MB
+\VAR
+\GRAM vt
+\SPG 1 desarreglar
+\SPG 2 amontonar
+\ENG 1 to mess up
+\ENG 2 to bundle in a heap
+\SLGR NO ANTIP
+\SLGR NO PASS
+ZOH001R0611006.txt
+\SPL 7on.ney
+\SLGR ASSUM1
+\SLGL estar malpuesto // to be messed up
+\SPL 7on. ten
+\SLGR PRSV
+\SLGL tener en la mano (una cosa amontonada como ropa)
+\SLGL to have a crumpled heap of something in the hands, like clothing
+\EXU 1 7@y+ 7on-w@ bi yote7
+\XPSH 1 [7@y 7onn@ bi yote7.]
+\XSP 1 Desarreglo* la ropa.
+\XEN 1 She messed up the clothes.
+\EXU 2 7@y+ 7on=n@k-pa bi yote'
+\XPSH 2 [7@y 7onn@kpa bi yote7.]
+\XSP 2 Lievo* la ropa amontonada.
+\XEN 2 She carried the clothes in a heap.
+\EXU 3 yo-w@ 7on.neenh nax+jo7 bi yote
+\XPSH 3 [Yow@ 7onne*nh naxjo bi yote7.]
+\XSP 3 Cayo* como una basura en el suelo la ropa.
+\XEN 3 The clothes fell on the floor in a heap.
+\EXU 4 7@y+ yak. 7on-w@
+\XPSH 4 [7@y yak7onn@.]
+\XSP 4 Lo hizo aracho.
+\XEN 4 She messed it up.
+\EXU 5 xanh.'=7on-pa 7@n+ way7
+Page 9

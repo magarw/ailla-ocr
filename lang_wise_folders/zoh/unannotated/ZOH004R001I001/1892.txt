@@ -1,0 +1,62 @@
+\lex {bi}
+\_no 04405
+\LG MIG
+\PSH
+\UND {pi}?
+\MB DEF
+\VAR
+\GRAM art
+\SCI
+\USE definite article
+\SPG el, la, los, las
+\ENG the
+\SPL
+\SLGR
+\EXU te.j(i).7aH-w@ bi pa=p@n
+\XPSH [Tejiaw@ bi pap@n.]
+\XSP Esta el diablo.
+\XEN The devil is there.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+\lex {+b@7}
+\_no 04406
+\LG MIG
+\PSH
+\UND b@7
+\MB DUBIT
+\VAR
+\USE dubitative, used with questions
+\GRAM part
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU ti 7@m+ p@k-wit-pa_+b@7
+\XPSH [Tim p@kwitpab@7?]
+\XSP ? Que andas, pues?
+\XEN what are you carrying there?
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+ZOH004R0011001.txt
+\lex {+b@xe}
+\_no 04407
+\LG MIG
+\PSH
+\UND b@xe
+\MB PAR
+\VAR
+\USE postverbal modal clitic
+\GRAM mod
+\SPG parece
+Page 1892

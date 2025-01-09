@@ -1,0 +1,79 @@
+\_no 00038
+\tx 7@y yaknipp@;
+\mb 7@y yak -nip
+\sg1 3E
+\egl 3E CAUS-SOW
+CAUS-sembrar-COM
+-wa
+\zoq 7@y yaknipp@.
+\fts Lo mando* sembrar.
+\ref ZOH001R005 038
+\_no 00039
+-COM
+\fte He told them to sow it.
+\com
+\idx
+\tx wenu mix tzijwitt@;
+\mb wenu mix tzij
+\ref ZOH001R005 039
+\_no 00040
+\tx kwandu 7@n wixx@
+\mb kwandu 7@n wix
+\sg1 cuando 1E
+\eg1 when 1E
+-wit -wa
+\sg1 mucho 2>1 tirar_piedra-andar-COM
+\egl a lot 2>1 throw_rock -walk -COM
+\zoq "wenu mix tzijwitt@,
+\fts "Me corristes mucho a pedrada,
+\fte "You chased me a lot with rocks,
+\com
+\idx
+ZOH001R0051001.txt
+7@m mok;
+-wa 7@m mok
+arrancar-COM 2E mai*z
+pull_up -COM 2E corn
+\zoq kwandu 7@n wixx@ 7@m mok.
+\fts cuando yo arranque tu milpita.
+\fte when I pulled up your corn.
+\com
+\idx
+\ref ZOH001R005 040
+\_no 00041
+\tx
+pe dey
+mixx@n
+\mb pero te -y mix -7@n
+\sg1 pero DCT2-TMP 2Prn-1E
+\egl but DCT2-TMP 2Prn-1E get
+p@kminjayy@
+p@k
+mas;
+mas
+-min -jay -w@
+agarrar-venir-APPL-COM mas
+- come -APPL-COM more
+\zoq Peru dey mixx@n p@kminjayy@ mas
+\fts Pero ahora ya te lo traje ma*s.
+\fte But now I brought you more.
+\com
+\idx
+\ref ZOH001R005 041
+\_no 00042
+\tx pe yaktaxjayy@
+pero yak - tax
+\mb
+\sg1 pero CAUS-11enarse-APPL-COM
+\egl but CAUS-fill
+"I
+jarak yaji;
+-jay -w@ jarak ya -ji7
+buche DCT1-LOC1
+-APPL-COM beak DCT1-L0C1
+\zoq Peru yaktaxjayy@ jarak yaji7.
+\fts Lleno* su buche aqui.
+\fte But he let him fill up his beak here.
+\com
+\idx
+Page 9

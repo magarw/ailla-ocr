@@ -1,0 +1,63 @@
+\lex {nik.VERB.7@y}
+\_no_04479
+\LG MIG
+\PSH
+\UND nik. VERB. 7@y
+\MB SUP, VERB, SUF
+\VAR
+\USE lexical verbal prefix, always appears with the suffix .7@y
+\GRAM pre
+\SCI
+\USE
+\SPG VERBO encima de algo/alguien
+\ENG to VERB on the surface of something/someone
+\SPL
+\SLGR
+\EXU 7@y+ nik.poy.7@y-w@
+\XPSH [7@y nikpoyy@yy@.]
+\XSP Se le fue* encima.
+\XEN He jumped on top of him.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+\lex {nin-ti7}
+\_no 04480
+LG MIG
+\PSH [ninti7]
+\UND nin-ti7
+\MB 1POSN
+\VAR
+\USE first person singular possessive noun
+\GRAM S
+\SPG mi*o/a
+\ENG mine
+\SPL
+\SLGR
+\EXU
+\XPSH
+\XSP
+\XEN
+\SYN
+\SEMF
+\ROOT
+\RTGR
+ZOH004R0011001.txt
+\DSRC HAJ98
+\CMTS
+\date 03/Jan/80
+\lex {ni.}
+\_no 04481
+\LG MIG
+\PSH
+\UND ni
+\MB PURP
+\VAR
+\GRAM pre
+\SCI
+\USE lexical verbal prefix: meaning unclear. sometimes it's a sort of
+Page 1924

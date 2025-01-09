@@ -1,0 +1,62 @@
+\lex wintu' pak
+\_no 03734
+\LG MIG
+\PSH [wintu pak]
+\UND wintu7 pak
+\MB pescuezo, hueso
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG nuca
+\ENG nape of the neck
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex wintu' way7
+\_no 03735
+\LG MIG
+\PSH [wintu way7]
+\UND wintu7 way7
+\MB pescuezo, pelo
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG crin; pelo del pescuezo de la nuca
+\ENG mane; hair of the nape of the neck
+\EXU bejcha 7@y+ wintu' way7
+\XPSH [bejcha y wintu way7]
+\XSP la crin de caballo
+\XEN horse's mane
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex win=tzam=tuk
+\_no 03736
+\LG MIG
+\PSH [wintzamtuk-]
+\UND win=tzam=tuk
+ZOH004R0011001.txt
+\MB CARA, hablar, terminarse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG impedir; estorbar (para que ya no sigue hablando)
+\ENG to interrupt; to disturb (so they stop talking)
+\EXU
+Page 1604

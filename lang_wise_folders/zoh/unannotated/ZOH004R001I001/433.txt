@@ -1,0 +1,64 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 juy
+\RTGR 1 T1
+\ROOT 2 tzi
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\lex juy-witu'
+\_no 00987
+\LG MIG
+\PSH [juywitu-]
+\UND juy=witu7
+\MB comprar, regresar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG volver a comprar, porque no sirvio* el primero
+\ENG to buy again, because the first one was no good
+\EXU
+\XSP
+\XEN
+\SYN juy=yoj
+\SEMF
+\ETYM
+\ETL
+\ROOT juy
+\RTGR T1
+\ROOT witu7
+\RTGR 11
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex juy@n@
+\_no 00988
+\LG MIG
+\PSH
+\UND juy@n@
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG tepezcuintle
+\ENG a type of animal
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+ZOH004R0011001.txt
+LF:7anmal
+Page 433

@@ -1,0 +1,63 @@
+\MB INSTR2, peinar, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG peine
+\ENG comb
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT w@tz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex y@k.yum
+\_no 00514
+\LG MIG
+\PSH [y@kyum]
+\UND y@k.yum.0
+\MB INSTR2, hervirse, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG perol de cobre; olla
+\ENG copper pan; pot
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yum
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex y@'t.i7
+\_no 00515
+\LG MIG
+\PHO [y@ti7]
+\UND y@7t.E7
+\MB deshebrar, NOM7
+\VAR
+\GRAM pcp
+\SPG desplumado; deshebrado
+\ENG plucked; shredded
+\EXU xix ya't.i7
+\XPSH [xix y@ti*7]
+\XSP carne deshebrada
+\XEN shredded meat
+\SYN
+\ROOT y@7t
+\RTGR T3
+\DSRC HAJ95
+ZOH001R0611004.txt
+Page 203

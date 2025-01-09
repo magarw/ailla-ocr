@@ -1,0 +1,63 @@
+\ROOT ket
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS CK-GR, CK-PH
+\CMTS German doesn't quite get this
+it with me either: /keta7/ ta*palo'
+\date 24/Jun/96
+\lex ket.e
+\_no 00123
+\LG MIG
+\PSH [kete]
+\UND ket. E
+\SLGR
+\EXU
+\XSP
+\MB tapar, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG (estar) tapado; una cosa tapada
+\ENG (to be) covered; something covered
+\SPL
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ket
+\RTGR P, (T3)
+\DSRC HÁJ95
+\lex kex.i7
+\_no 00124
+\LG MIG
+\PSH [kexi7]
+\UND kex. E7
+\MB_ponerse_crespo, NOM7
+\CMTS cf ket.ney got this in place of that
+\date 11/Jan/96
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG picho; crespo; enchinado
+\ENG curly
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH001R0611004.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT kex
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 14/Jun/95
+it's from Gelasio's data; doesnt get
+\lex kin@k=jo7px.@7
+\_no 00125
+\LG MIG
+Page 51

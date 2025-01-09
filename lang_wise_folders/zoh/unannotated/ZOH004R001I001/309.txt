@@ -1,0 +1,63 @@
+\PSH [jejjejney-]
+\UND jej.jej.ney
+\MB
+\VAR
+\GRAM VIRF
+\SCI
+\USE
+\SPG 1 jadear
+\SPG 2 estar sofocado
+\ENG 1 to pant
+\ENG 2 to be suffocating
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT %jej 12
+\DSRC HAJ94
+\CMTS see also jejj@.jejj@.ney
+\date 06/Feb/96
+\lex jejj@.jejj@.ney
+\_no 00720
+\LG MIG
+\PSH [jejj@jejj@ney-]
+\UND jejja.jejj@.ney
+\MB
+\VAR
+\GRAM VİR
+\SCI
+\USE
+\SPG estar sofocado
+\ENG to pant
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT %jej 12
+\DSRC HAJ94
+\CMTS see also jej.jej.ney
+\date 06/Feb/96
+\lex jej.kuy7
+\_no 00721
+\LG MIG
+\PSH [jejkuy7]
+\UND jej.kuy7
+\MB vivir, INSTR1
+\VAR
+GRAM instr1
+\SCI
+\USE
+\SPG vivienda; casa
+\ENG dwelling; house
+\SPL
+\SLGR
+\EXU
+\XSP
+ZOH004R0011001.txt
+Page 309

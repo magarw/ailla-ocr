@@ -1,0 +1,61 @@
+\EX
+\XSP
+\XEN
+\ROOT ko7kx I1
+\CMTS no caus
+illogical
+\lex kom
+\_no 00087
+\SPG remendar, como casa, ropa
+\ENG to mend, like a house or clothes
+\EX t@k komm@
+\XSP remendo* la casa
+\XEN she fixed the house
+\EX yote komm@
+\XSP remendo* ropa
+\XEN she mended clothes
+\ROOT kom T3
+\CMTS antip kom. 7oy remendar
+\CMTS pass kom.7@m estar remendado
+\CMTS prsv kom=ten lo tiene remendado
+\lex konh
+\_no 00088
+\SPG gatear, como criatura
+\ENG to crawl, like a baby
+\EX konhpa y_witt@
+\XSP gateo* la criatura
+\XEN the baby crawled around
+\ROOT konh P (11)
+\CMTS caus yak.konh hacer gatear
+\lex kop
+\_no 00089
+\SPG cachar con las manos
+\ENG to catch with the hands
+\EX
+\XSP
+\XEN
+\ROOT kop T3
+\CMTS antip kop.7oy
+ZOH001R0611011.txt
+\CMTS pass kop.7@m
+\CMTS has to be with both hands
+\lex kot
+\_no 00090
+\SPG guardar algo que le dieron
+\ENG to keep something you're given
+\EX
+\XSP
+\XEN
+\ROOT kot T3
+\CMTS antip kot.7oy
+\CMTS no pass kot.7@m *
+\XSP
+\XEN
+\lex ko7tz
+\_no 00091
+\SPG tentar con la mano (como si fuera carna o masa)
+\ENG to touch with the hand (as if it were meat or masa)
+\EX
+\ROOT ko7tz T3
+\CMTS antip ko7tz.7oy (aluso sexual)
+Page 19

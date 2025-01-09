@@ -1,0 +1,64 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex tok
+\_no 03004
+LG MIG
+LF: bugs
+\PSH
+\UND tok
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG manchar; batir; contagiar
+\ENG to stain; to smear; to infect
+\SPL tok. 7oy
+\SLGR ANTIP
+\SLGL manchar; batir // to stain; to smear
+\SPL tok. 7@m
+\SLGR PASS
+\SLGL mancharse
+\EXU 7@y+ tok-w@ bi toy.a7
+\XPSH [7@y tokk@ bi toya7.]
+\XSP Contagio* la enfermedad.
+\XEN The disease infected her.
+\SYN
+\SEMF clean, body
+\ASP activity, achievement
+\ARG
+\NOM
+\SUB
+ZOH004R0011001.txt
+\ETYM
+\ETL
+\ROOT tok
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex tok.ney
+\_no 03005
+\LG MIG
+\PSH [tokney-]
+\UND tok.ney
+\MB X, ASSUM1
+\VAR
+\GRAM assum1
+\SCI
+\USE
+\SPG estar tendido, como fichas en la mesa
+\ENG to be spread out, like file slips on a table
+\EXU tok.ney-w@
+\XPSH [Tokneyy@.]
+\XSP Esta* tendido, como fichas en la mesa.
+Page 1293

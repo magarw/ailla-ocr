@@ -1,0 +1,63 @@
+\XSP 2 ?Porque no tienes tiempo?
+\XEN 2 why on earth don't you have time?
+\EXU 3 jutzeenh geta 7@m+ yoj-wa de.d@ ko.jap.0
+\XPSH 3 [Jutze*nh geta 7am yojj@ ded@ kojap?]
+\XSP 3 ?Cuanto lo pagaste ese sombrero?
+XEN 3 How the hell much did you pay for that hat?
+\EXU 4 juti geta 7@m+ k@x-pa jemji7 de.d@ tam
+\XPSH 4 [Juti geta 7@m k@xpa jemji ded@ t@m?]
+\XSP 4 ?Onde vas a comer toda esa fruta?
+\XEN 4 You're not really going to eat all that fruit!
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS Camilo Miguel Sa*nchez, the youngest consultant, glosses geta as
+otra vez' 'again'.
+\date
+\lex {+goo7}
+\_no 04431
+\LG MIG
+\PSH [go*7]
+\UND ko.TOY.A7
+\MB BNF
+\VAR
+\GRAM conj
+\SCI
+ZOH004R0011001.txt
+\USE purpose clause marker
+\SPG para que; porque
+\ENG in order to; so that; because
+\SPL
+\SLGR
+\EXU 1 de.7 pa(ra) kopak-toy. E7 7@y-ti7 +goo7
+\XPSH 1 [De pa kopaktoego7.1
+\XSP 1 Ese es para dolor de cabeza.
+\XEN 1 That's for headaches.
+\EXU 2 tz@k-ta.anh yakk@ 7@y+ 7amma-A7 +goo7 dyos ke
+ney-win d@+ yox-tam-pa
+\XPSH 2 [Tz@kta*nh, yakk@y 7amma go7 Dyos ke neywin d@
+yoxtampa.]
+XSP 2 vamos a hacerlo, para que lo mire Dios que nosotros
+trabajamos.
+\XEN 2 Let's do it, so God will see that we work.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 03/Jan/80
+\lex {.jay}
+\_no 04432
+\LG MIG
+\PSH
+\UND jay
+\MB APPL
+\VAR
+\USE adds an indirect argument to the verb, often appearing in inverse
+constructions.
+\GRAM morphosyntactic verbal suffix: applicative
+Page 1903

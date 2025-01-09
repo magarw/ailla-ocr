@@ -1,0 +1,32 @@
+13.1.6.3. Verb compounds
+Super-lexical morphemes "modulate the focus of a situation rather than
+determining the situation itself" (Smith, 1991:76). In MIG Zoque, super-lexicals
+that focus on one of the endpoints of a situation are verb stems used in
+compound verb constructions.
+Two of these stems focus the initial endpoint of a situation: ?okmaŋ- 6'to
+begin to V' and tək.?əy- 'to enter into V-ing'. ?okmaŋ- can be used with any
+verb, but tək.?əy- has a directional sense as well, and so really means 'to go in
+somewhere and start V-ing'.
+(13.23)
+(i)
+(ii)
+(iii)
+wan køxxokmangngoyyø
+wan 0 kǝš=?okmaŋ.?oy-we
+juan 3A comer-empezar.ANTIP-COM
+Juan empezó a comer.'
+'øy nukkokmangngø
+?əy+ nuk=?okmaŋ-wǝ
+3E+ agarrar=empezar-COM
+'Le empezó a pegar."
+'øn tzamtøkjaxukpa
+?ən+ cam=tək.?əy.hay-šuk-wǝ
+1E+ platicar=casa.VERS2.APPL-3PL-INC
+'Voy a platicar con ellos."
+(ZOH001 R012-129)
+(ZOH001R018-079)
+(ZOH001 RO10-386)
+6 7ok.maŋ is a derived stem: BAJO.*pisar. I treat it as a single form because the compositional
+semantics are not obvious, unless you can remember that one generally starts a journey from
+San Miguel Chimalapa by going down from the mountains.
+352

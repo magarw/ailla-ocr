@@ -1,0 +1,64 @@
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pellizcar
+\ENG to pinch
+\SPL tzukx. 7oy
+\SLGR ANTIP
+\SLGL pellizcar // to pinch
+\SLGR NO PASS
+\SPL tzukx.ten
+\SLGR PRSV
+\SLGL_ tener agarrado en las un~as // to have pinched between the nails
+\EXU 1 tzukx. @m-w@ bi pan
+\XPSH 1 [Tzukx@mm@ bi pan.]
+\XSP 1 Quito* un pedazo el pan.
+\XEN 1 Someone took a pinch out of the bread.
+\EXU 2 7@y+ tzukx.ten-w@
+\XPSH 2 [7@y tzukxtenn@.]
+\XSP 2 Lo tiene agarrado con las un~as.
+\XEN 2 She has it by the finger nails.
+\SYN
+\SEMF touch, hand
+\ASP
+\ARG
+\NOM tzukx.i, tzukx.neenh, tzukx=tzik.i
+\SUB
+\ETYM
+\ETL
+\ROOT tzukx
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+ZOH001R0611006.txt
+\lex tzu7t
+\_no 00185
+\LG MIG
+\PSH
+\UND tzu7t
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG cortar (cafe*) sin pico
+\ENG to pick coffee by hand (without a knife)
+\SPL tzu7t.7oy
+\SLGR ANTIP
+\SLGL cortar cafe* sin pico // to pick coffee by hand
+\SPL tzu7t.7@m
+\SLGR PASS
+\SLGL cortarse // to be picked
+\SLGR NO PRSV
+\EXU 1 kajwe=tzu7t-w@
+\XPSH 1 [Kajwetzu7tt@.]
+\XSP 1 Corto* cafe* sin pico.
+\ENG 1 He picked coffee by hand.
+\EXU 2 jax.tzu7t-7@m-w@ 7@y+ t@tz
+\XPSH 2 [J@xtzu7tt@mm@y t@tz.]
+\XSP 2 Se arranco* su diente.
+\XEN 2 Her tooth was pulled.
+\SYN
+Page 125

@@ -1,0 +1,61 @@
+\CMTS
+\date 03/Jan/80
+\lex kanh
+\_no 00044
+\SPG vaciarse de huevos
+\ENG to be emptied of eggs
+\EX kanh-nh@*-7
+\XSP (iguana) sin huevos
+\XEN an iguana without eggs
+\EX kanhnh@ t@tz@7
+\XSP se vacio de huevos la iguana
+\XEN the iguana emptied itself of its eggs
+\ROOT kanh Ix
+\SEMF nature
+\ASP process, transition
+\CMTS only of iguanas
+\date 03/Jan/80
+\lex kax
+\_no 00045
+\SPG pegar un paso; dar pasos
+\ENG to take a step
+\EX
+\XSP
+\XEN
+\ROOT kax Il
+\SEMF motion
+\ASP momentaneous, activity
+\CAUS yak.kax hacer caminar
+\CMTS could not get any kind of object, or ergative pronouns
+\date 03/Jan/80
+\lex kej
+\_no 00046
+\SPG verse
+\ENG to appear
+\EX kejja 7@y jaya
+\XSP se vio* su marido
+\XEN her husband appeared
+ZOH001R0611007.txt
+\ROOT kej 12
+\SEMF percep
+\ASP transition, state
+\CAUS yak.kej ensen~ar; dar a saber
+\CMTS
+\date 03/Jan/80
+\lex keo
+\_no 00047
+\SPG brillar
+\ENG to shine; to reflect
+\EX keopa_m@jm@
+\XSP brilla bastante
+\XEN it shines a lot
+\EX keopa
+\XSP una cosa que brilla
+\XEN something shiny
+\ROOT keyo 12
+\SEMF light
+\ASP activity
+\CAUS yak.keo hacer brillar ma*s (hay que limpiarlo)
+\CMTS it's when the sun strikes a shiny object, keopa refers to the
+reflected light
+Page 11

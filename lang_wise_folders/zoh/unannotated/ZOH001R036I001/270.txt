@@ -1,0 +1,87 @@
+\ref ZOH001R036 999-275
+\_no 01255
+\tx 7axta jaypa
+\mb
+ya
+pitz@m@
+7axta jay -pa ya pitz@m-A
+\sg1 hasta sonar-INC NEG salir -nINC
+\egl until sound-INC NEG leave -nINC
+\zoq 7axta j@ypa ya pitz@m@.
+\fts Hasta 11ora no sale.
+\fte It doesn't come until he cries.
+\com
+\idx
+\ref ZOH001R036 999-276
+\_no 01256
+\tx m@nhnhapa
+\mb mạnh
+-7a
+\sg1 cojear-VERS1-INC NEG
+salir -nINC DEF orin
+\egl limp -VERS1-INC NEG leave -nINC DEF urine
+\com
+\idx
+\zoq M@nhnhapa ya pitz@m@ bi teke7t.
+\fts Hace fuerza no sale el orin.
+\fte He forces, the urine doesn't come.
+\ref ZOH001R036 999-277
+\_no 01257
+\tx pitzko
+de7
+\mb pitzko7 te -7
+\sg1 por eso
+DCT2-NOM1
+\eg1 because of DCT2-NOM1
+\zoq Pitzko de7.
+\fts Por eso eso.
+ya
+pitz@m@
+bi
+-pa ya pitz@m-A bi
+\fte That's why that is.
+\com
+\idx
+\ref ZOH001R036 999-278
+\_no 01258
+\tx 7i gay
+\mb 7i ka -y
+\sg] y
+\eg1 and
+ZOH001R0361001.txt
+-
+\com
+\idx
+DCT3-TMP otro uno
+DCT3-TMP other one
+7otro tum@ tekkot@pa
+kon
+7otro tum@ tek-7oy -t@7 -ра kon
+***-ANTIP-querer-INC con
+***-ANTIP-want -INC with
+\tx ke tekkoba
+minpa
+ga
+dolo*r
+\mb ke tek-7oy -pa min -pa
+ka -7 dolo*r
+\sgl que
+***-ANTIP-INC venir-INC DCT3-NOM1 dolor
+\egl that ***-ANTIP-INC come -INC DCT3-NOM1 pain
+teke7t
+teke7t
+\zoq 7i gay 7otro tum@ tekkot@pa kon ga dolo*r kada
+dolo*r.
+ke tekkoba minpa ga
+\fts Y hay otro quiere orinar con ese dolor cada - que orine viene el dolor.
+\fte And then another wants to piss with that pain each thta he pisses,
+that pain comes.
+\ref ZOH001R036 999-279
+\_no 01259
+\tx 7a7tzpa
+ga
+dolor kada
+ka -7 dolor kada
+DCT3-NOM1 dolor cada
+DCT3-NOM1 pain each
+Page 270

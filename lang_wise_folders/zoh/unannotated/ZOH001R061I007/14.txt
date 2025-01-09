@@ -1,0 +1,60 @@
+\lex ma7k
+\_no 00056
+\SPG calmarse
+\ENG to calm down
+\EX
+\XSP
+\XEN
+\ROOT ma7k I
+\SEMF care
+\ASP activity
+\CAUS yak.ma7k calmar
+\CMTS calming a child, a drunk, etc.
+\date 03/Jan/80
+\lex max
+\_no 00057
+\SPG descomponerse
+\ENG to break; to come apart
+\EX neytum maxx@ k@xi7
+\XSP solo se descompuso la comida
+\XEN the food broke by itself
+\ROOT max 12
+\SEMF break
+\ASP momentaneous, process
+\CMTS no caus
+\CMTS puede ser cualquiera cosa comida, tele, carro,...
+\date 03/Jan/80
+\lex mek
+\_no 00058
+\SPG mentir; engan*ar; chismear
+\ENG to lie; to deceive; to gossip
+\EX jake mek
+\XSP engan~ar mucho
+\XEN to deceive a lot
+\ROOT mek Il
+\SEMF cog, speak
+\ASP activity
+\CMTS
+\date 03/Jan/80
+\lex min
+\_no 00059
+\SPG venir
+\ENG to come
+\EX
+\XSP
+\XEN
+ZOH001R0611007.txt
+\ROOT min Ix
+\SEMF motion
+\ASP activity, transition
+\CAUS yak.min dejar venir
+\date 03/Jan/80
+\lex mokok
+\_no 00060
+\SPG doler; por poquito le duele
+\ENG to hurt
+\EX
+\XSP
+\XEN
+\ROOT mokok Ix
+Page 14

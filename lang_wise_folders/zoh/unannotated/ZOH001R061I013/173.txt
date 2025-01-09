@@ -1,0 +1,52 @@
+\ENG candle
+\lex tal
+\_no 02165
+\SPG tal
+\ENG such
+\lex talbes
+\_no 02166
+\SPG tal vez
+\ENG maybe
+\lex tam
+\_no 02167
+\SPG 1/2PL
+\ENG 1/2PL
+\lex tam7
+\_no 02168
+\SPG amargo
+\ENG bitter
+\lex tamarindu7
+\_no 02169
+\SPG tamarindo
+\ENG tamarind
+\lex tambyen
+\_no 02170
+\SPG tambien
+\ENG also
+\lex tampitz
+\_no 02171
+\SPG arnica
+\ENG herb
+\lex tan
+\_no 02172
+\SPG tan
+\ENG very
+\lex tan
+\_no 02173
+\SPG pegar
+\ENG hit
+\lex tan
+\_no 02174
+\SPG completar (se)
+\ENG finish
+\lex tana7tti7
+\_no 02175
+\SPG tenate
+\ENG
+\lex tancho
+\_no 02176
+\SPG tancho
+\ENG tancho
+\lex tani
+ZOH001R0611013.txt
+Page 173

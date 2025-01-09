@@ -1,0 +1,62 @@
+\USE
+\SPG cadera
+\ENG hip
+\EXU 7@n+ xi' pak
+\XPSH [7@n xipak]
+\XSP mi cadera
+\XEN my hip
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS i: ~i
+\date 11/Feb/96
+\lex xi'-muy. E
+\_no 03956
+\LG MIG
+\PSH [ximui]
+\UND xi7-muy. E
+\MB cadera, tomar_en_boca, NOM7
+\VAR
+\GRAM smsv
+\SCI
+\USE
+\SPG una persona seca
+\ENG a person with a skinny old butt
+\EXU
+\XSP
+\XEN
+\SYN xi'=t@tz.i
+\SEMF
+\ETYM
+\ETL
+\ROOT muy
+\RTGR T2, 12
+\DSRC HAJ95
+\CMTS
+\lex xi't.@7
+\_no 03957
+\LG MIG
+\PHO [xit@7]
+\UND xi7t.A7
+\MB enredarse, NOM2
+\VAR
+\GRAM SV
+\SPG enredado
+\ENG tangled
+\EXU Taxū xi't.@7
+\XPSH [laxu xit@*7]
+\XSP mecate enredo*
+\XEN tangled-up rope
+\SYN
+\ROOT xi7t
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+ZOH004R0011001.txt
+\lex xi'=t@tz.i
+\_no 03958
+Page 1702

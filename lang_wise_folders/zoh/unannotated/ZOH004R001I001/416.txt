@@ -1,0 +1,63 @@
+\SPG 1 rascar jala*ndolo
+\SPG 2 pelar o aran~ar al jalar
+\ENG 1 to scratch by pulling
+\ENG 2 to scrape skin by pulling
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 jup
+\RTGR 1 P, (T3)
+ROOT 2 wo7kx
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS no le gusta hoy
+\date 24/Jun/96
+\lex jupx
+\_no 00953
+\LG MIG
+\PSH
+\UND jupx
+\MB
+\VAR
+\GRAM vt
+\SPG recoger tela
+\ENG to gather cloth
+\SPL jupx. 7oy
+\SLGR ANTIP
+\SLGL recoger tela
+\SPL jupx.7@m
+\SLGR PASS
+SLGL encogerse // they shrank the cloth
+\SLGR NO ASSUM1
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT jupx
+\RTGR T3
+\DSRC HAJ95
+\CMTS NEW ROOT (from Camilo)
+\CMTS
+\date 23/Jun/96
+\lex jup=xakx
+\_no 00954
+\LG MIG
+\PSH [jupxakx-]
+ZOH004R0011001.txt
+\UND_jup=xakx
+\MB jalar, X
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG voltear al jalo*n
+\ENG to pull someone or thing down and over
+\EXU_d@+ jup=xakx-w@_7@n+_7awin7
+\XPSH [D@ jupxakx@n 7awin7.]
+\XSP Me dio* un jalo*n mi hermano, me volteo*.
+\XEN My brother turned me over by pulling on me.
+Page 416

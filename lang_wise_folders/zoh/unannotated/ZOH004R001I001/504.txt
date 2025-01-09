@@ -1,0 +1,64 @@
+\lex kakawate nax
+\_no 01156
+\LG MIG
+\PSH
+\UND kakawate nax
+\MB cacahuate, tierra
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG cacahuatal; tierra de cacahuate (se compra)
+\ENG peanut farm
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex kakwe7
+\_no 01157
+\LG MIG
+\PSH
+\UND kakwe7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG alacra*n
+LF:t@m
+\ENG scorpion
+\EXU kuy kakwe7
+\XSP alacra*n grande
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+LF: bugs
+\lex ka7kx.kuy7
+\_no 01158
+\VAR
+\GRAM instr1
+\LG MIG
+\PSH [ka7kxkuy7]
+\UND X, INSTR1
+\MB
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG tragadera; garganta
+\ENG throat
+\SPL
+\SLGR
+Page 504

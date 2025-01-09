@@ -1,0 +1,72 @@
+(80) 00
+CPL.DEP+B1p entrar=siempre=1pEXCL
+kab' katekyiista,
+dos catequista
+'entramos con dos catequistas,'
+ok
+(81) i
+ook=x=a
+lapee' q-i'j=a.
+CPL.DEP+B3p DIR:adentro perseguir Alp-SR:PAC=1pEXCL
+'quienes nos siguieron.'
+(82) Ma-tzan qo=poon=a
+tooy' t-jaa
+witz,
+PROX=puesB1p=llegar=1pEXCL A3s+SR:frente hoyo A3s-casa cerro
+'Pues cuando llegamos en frente del foso del cerro,'
+(83) pwesaa=0=tzan
+t-e-t-ee
+(85) N=tz=aaj=tzan
+tzi
+pues DEM=B3s-pues allá
+B3p=decir pues
+'pues los catequistas dijeron, este es (el foso),'
+(86) ke t-ee=ya
+ky-uuk'a=x=qa
+(84) jatuma xh=ul
+aaj=qa
+regresar=PL
+xjaal ojtxa
+gente antes
+dónde
+PROX.DEP+B3p=DIR: acá
+q'o-l
+t-wi'
+xjaal.
+dar-INF A3s-SR:PAC-A3s-SR:PAC A3s-cabeza gente
+'donde vino la gente antes a dejar la cabeza de la gente.'
+padre ja'la,
+INC=B3s=regresar-pues padre ahora
+'Pues en ese momento empezó el padre,'
+(87) neej-ka=ya
+A3p-SR:COM=siempre=PL
+jluu' chi-chi-tzan
+ja'la 0-chi-tzan
+que A2s-SR:DAT=2s ahora B3s-decir-pues
+q’ama-ʼn t-ee
+maestra t-ee
+decir-SD A3s-SR:DAT maestro A3s-SR:ATR
+'y dijo a el, usted, siendo maestro de agua potable,'
+n-witz=a
+qa-katekyiista,
+PL-catequista
+adelantarse=DIR:abajo-2s Als-SR:enfrente=1s
+'póngase en frente de mí'
+chin=x
+Als-SR:atrás=1s
+'y usted Sebastián, sígame detrás de mí,'
+(q')0=ok
+B3s-DIR:adentro
+agua potable,
+(88) b'ix jak-tzan
+lapee'=ya t-i'j=a
+y
+se.puede=pues B1s=DIR:allá seguir-1s A2s-SR:atrás=2s
+'y puedo seguir atrás de usted'
+0=chi-tzan
+(89) a=tzan tee' Sebastyaan
+DEM=pues 2s Sebastián B3s-decir-pues
+w-i'j=a
+lapee'=tz=a
+seguir-DIR:acá=2s
+10

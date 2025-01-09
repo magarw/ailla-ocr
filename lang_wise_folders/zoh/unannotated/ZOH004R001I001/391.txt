@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG vaci *0
+\ENG empty
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xanh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 06/Feb/96
+\lex jo=xanh'.7aH
+\_no 00898
+\LG MIG
+\PSH [joxanh7a-]
+\UND jo-xanh7.7aH
+\MB EN, X, VERS1
+\VAR
+\GRAM versl
+\SCI
+\USE
+\SPG hacerse vaci*o
+\ENG to become empty
+\SPL
+\SLGR
+\EXU jo'.xanh' +7am
+\XPSH [Joxanhnha*m.]
+\XSP Ya esta* vaci*o.
+\XEN Now it's empty.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 06/Feb/96
+\lex joy+pi7t
+\_no 00899
+LG MIG
+\PSH [joypi7t]
+\UND joy +pi7t
+\MB X, WITH
+\VAR
+\GRAM av
+\SCI
+\USE
+\SPG el otro di*a
+\ENG the next day
+\SPL
+\SLGR
+\EXU joy+pi7t x@nh-k@j-An@m-w@
+\XPSH [Joypi7t x@nhk@jjan@mm@.]
+\XSP El otro di*a amanecio*.
+\XEN The next day dawned.
+\SYN
+ZOH004R0011001.txt
+Page 391

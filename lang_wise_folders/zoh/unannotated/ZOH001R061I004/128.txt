@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG puerta de varilla o carrizo
+\ENG door of cane or reeds
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT k@y
+\RTGR TX
+\DSRC TK94
+\CMTS CK-PH HAJ:96, actually I can't decide if it's i or y at the end; NOT
+7anh.k@y*: TK
+\date 26/Jun/96
+\lex t@k 7anh-k@.i kuy
+\_no 00320
+\LG MIG
+\PSH [t@k 7anhk@i kuy]
+\UND tak 7anh-k@y. E kuy
+\MB casa, BOCA, 11evar_en_mano, NOM7, palo
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG puerta de madera; varilla para puerta
+\ENG wooden door; stout twigs for a door
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kay
+\RTGR TX
+\DSRC TK94
+\CMTS CK-PH HAJ:96 this one sounds like y; it;s /i/:TK
+\date 26/Jun/96
+\lex t@k-ko.jap
+\_no 00321
+\LG MIG
+\PSH [t@kkojap]
+\UND t@k=ko.jap.0
+\MB casa, CAB, X, NOM6
+\VAR
+\GRAM s(m) sv0
+ZOH001R0611004.txt
+\SCI
+\USE
+\SPG techo de una casa
+\ENG roof of a house
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ko. jap
+Page 128

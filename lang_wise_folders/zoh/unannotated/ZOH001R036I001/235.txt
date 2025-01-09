@@ -1,0 +1,86 @@
+\zoq GSM: Ya pitz@m@.
+\fts GSM: No sale.
+\fte GSM: It doesn't leave.
+\com
+\idx
+\ref ZOH001R036 999-106
+\_no 01088
+bi
+bentosa
+\tx
+\mb OSM
+-7@m -pa -7am bi bentosa
+\sg1 OSM: entonces DCT3-TMP querer-PAS -INC-YA DEF ventosa
+\egl OSM: then DCT3-TMP want -PASS-INC-NOW DEF windy
+OSM: 7entonse gay
+\com
+\idx
+entonces ka -Y
+\zoq OSM: 7entonse
+gay t@7@mpam bi bentosa.
+\fts OSM: Entonces ahora ya sirve la ventosa.
+\fte OSM: Then now the wind works.
+\ref ZOH001R036 999-107
+\_no 01089
+ZOH001R0361001.txt
+\tx minpa*
+m
+xutt@
+\mb min -pa 7@m xut
+\sg1 venir-INC 2E
+\egl come -INC 2E
+t@7@mpam
+t@7
+-wa
+donde tijj@
+gag@
+yone7
+donde tij-wa ka -ga yon -E7
+agujerar-dINC donde ir -COM DCT3-DEM zafarse-NOM3
+pierce -dINC where go -COM DCT3-DEM get_out-NOM3
+\ref ZOH001R036 999-108
+\_no 01090
+\zoq Minpam xutt@ donde tijj@ gag@ yone 7.
+\fts vienes a agujearearlo endonde esta* desconsartado.
+\fte You come pierce it where that sprain was.
+\com
+\idx
+\tx xutpa
+kowiti*nh de7xe
+\mb xut
+-ра
+kowitiinh te
+-7xe
+\sg] agujerar-INC alrededor DCT2-SIM
+\egl pierce -INC around
+DCT2-SIM
+\zoq Xutpa kowiti*nh de7xe.
+\fts Agujereas por todo rededor asi*.
+\fte You pierce it all around like this.
+\com
+\idx
+\ref ZOH001R036 999-109
+\_no 01091
+\tx min@
+m
+bentosa7@yy@
+\mb min
+-A7 7@m bentosa-7@y
+\sg1 venir-IMPV 2E ventosa-VERS2-DINC
+\eg1 come -IMPV 2E windy -VERS2-dINC
+\zoq Min@m bentosa7@yy@,
+\fts venga a echarle ventosa,
+\fte Come get air on it,
+\com
+\idx
+-wa
+\ref ZOH001R036 999-110
+\_no 01092
+\tx pa
+y
+j@xmu7kpa
+ga
+\mb para 7@y jax -mu7k -ра ka -7
+n@pin
+n@pin7
+Page 235

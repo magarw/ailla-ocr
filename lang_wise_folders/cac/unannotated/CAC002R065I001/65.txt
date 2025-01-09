@@ -1,0 +1,37 @@
+lomme
+when w
+AWE
+می دهند. با
+25.
+is:
+60
+Morphologically-Conditioned
+Allomorph Selection
+MON
+..
+/ca mák'a?/ < //c-ha-mák ¹-ha? // you hit (it)
+C-CV-
+-hVC
+Morphophonemics
+Some morphemes are represented by several phonemic
+shapes, each of which occurs in a particular set of phono-
+This is
+logically- or morphologically-defined environments.
+accounted for by assuming that each morpheme may be represent-
+ed by several different morphs, each of which occurs in a par-
+ticular set of morphological environments. These allomorphs
+are composed of morphophonemes, each of which may have differ-
+ent phonemic representations in different phonologically-de-
+fined environments.
+The set of person markers which variously express per-
+sonal possession, subject or object of verb action, or sub-
+ject of stative stems, is represented by three sets of allo-
+morphs. The set of allomorphs which occur as subjects of in-
+transitive verb stems or as objects of transitive verb stems
+//hin- // first person singular
+//hač- // second person singular
+//-// third person singular or plural
+//hoN- // first person plural
+//heš- // second person plural
+The set of person markers occurring as subjects of tran-
+sitive verb stems or as possessive prefixes to noun stems is:

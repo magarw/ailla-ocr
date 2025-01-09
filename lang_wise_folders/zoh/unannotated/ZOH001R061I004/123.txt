@@ -1,0 +1,63 @@
+\lex top.a' tyempu
+\_no 00307
+\LG MIG
+\PSH [topa tyempu]
+\UND top.A7 tyempu
+\MB hacer_calor, NOM2, tiempo
+\VAR
+\GRAM ss
+\SCI
+\USE
+\SPG tiempo de calor
+\ENG hot season
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex top.a'=7a7tz
+\_no 00308
+\LG MIG
+\PSH [topa 7a7tz-]
+\UND top.A7 7a7tz
+\MB hacer_calor, NOM2, arder
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG hacer mucho calor el calor del sol
+\ENG for the sun to be very hot
+\EXU top.a'=7a7tz-pa jama
+\XPSH [Topa7a7tzpa jama.]
+\XSP Hace mucho calor del sol.
+\XEN The sun is very hot.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 top
+\RTGR 1 12
+\ROOT 2 7a7tz
+\RTGR 2 12
+\DSRC TK94
+ZOH001R0611004.txt
+\CMTS CK-GR, CK-PH HAJ:96 ok, kind of a dumb thing to say
+\date 26/Jun/96
+\lex top.a'=tz@k
+\_no 00309
+\LG MIG
+\PSH [topatz@k-]
+\UND top.A7=tz@k
+\MB hacer_calor, NOM2, HACER
+\VAR
+\GRAM vi:incorp
+\SCI
+Page 123

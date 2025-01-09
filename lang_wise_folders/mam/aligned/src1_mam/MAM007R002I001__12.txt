@@ -1,0 +1,44 @@
+PROX.DEP=B3s=terminar
+(140) Poreeso x=0=kyekaj
+t-e
+t-pokb'aal.
+por.eso PROX.DEP=B3s-quedarse A3s-SR A3s-noticia
+'Por eso se quedó su noticia.'
+xk'otk'aj witz ojtxa,
+vaya
+EXIST-B3p=3pENF Sacaojos antes
+'Bien, había animales como el Sacaojos antes,'
+(142) iky-tzan=j
+así pues=DEM INC-B3s-DIR
+'así se dijo.
+cuándo A3s-venir A3s-SR
+'Cuándo vino el animal,"
+ky-txi'=q'a
+aq'naa-l
+también cierto cuándo A3p-ir-CL trabajar-INF
+'Así también es cierto cuando se iban a trabajar'
+(144) t-kub'
+tz'lom ky-i'j
+A3s-bajar A3p-SR=CL tabla A3p-SR:sobre
+'tenían puesto la tabla en sus espaldas."
+aj t-qan-ja
+t-i'j,
+AFEC A3s-salir DEM A3s-pata=CL A3s-SR:sobre
+'sólo se resbalaba sus patas encima,'
+(147) nti'-tzan n=0=xi'=jo.
+NEG-pues INC=B3s-ir-DEM
+'pues no se lo llevaba.'
+(149) aa-tzan=ta.
+DEM=pues=3sENF
+pues eso.'
+(148) Qa-tzan-qa nti' ky-e=q'a
+si=pues=PL NEG A3p-SR=CL tabla A3p-SR:sobre
+'Pues, si no tienen tabla en sus espaldas,'
+q'am-eet-a.
+decir-PAS-?
+(150) Aa=tzan yool
+DEM-pues palabra
+'Pues, esto es la plática,'
+(151) kyja'=tzan_n=0=teen=na,
+así pues INC=B3s-estar=AF
+'así es,'

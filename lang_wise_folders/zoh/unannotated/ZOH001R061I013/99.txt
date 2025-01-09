@@ -1,0 +1,52 @@
+\ENG up
+\lex k@x@nanh
+\_no 01234
+\SPG para_arriba
+\ENG up there
+\lex k@x@nanhp@7
+\_no 01235
+\SPG arriben~o
+\ENG highlander
+\lex k@x@@nh
+\_no 01236
+\SPG de_alla*_arriba
+\ENG from_up_there
+\lex k@y
+\_no 01237
+\SPG 11evar
+\ENG carry
+\lex 7k
+\_no 01238
+\SPG REL
+\ENG REL
+\lex la
+\_no 01239
+\SPG la
+\ENG the
+\lex lacho
+\_no 01240
+\SPG Lacho
+\ENG Lacho
+\lex ladu
+\_no 01241
+\SPG lado
+\ENG side
+\lex lakka
+\_no 01242
+\SPG chichalaca
+\ENG
+\lex lakra7
+\_no 01243
+\SPG cicatriz
+\ENG scar
+\lex lampara
+\_no 01244
+\SPG lampara
+\ENG 1amp
+\lex la*mparo
+\_no 01245
+\SPG 1a*mparo
+\ENG 1 amp
+\lex lancha
+ZOH001R0611013.txt
+Page 99

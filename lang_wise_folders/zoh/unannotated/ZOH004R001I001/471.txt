@@ -1,0 +1,63 @@
+\lex j@x-konh
+\_no 01074
+\LG MIG
+\PSH [j@xkonh-]
+\UND jax-konh
+\MB ATRAS, gatear
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG salir gateando
+\ENG to crawl out
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT konh
+\RTGR P, (11)
+\DSRC HAJ95
+\CMTS
+\date 11/Jan/96
+\lex j@x-ko7tz
+\_no 01075
+\LG MIG
+\PHO [j@xko7tz-]
+\UND jax-ko7tz
+\MB ATRAS, tentar_con_mano
+\VAR
+\GRAM vt
+\SPG sacar con la palma de la mano
+\ENG to get something out by scooping it with the palm of the hand
+\EXU 7@y+ jax=ko7tz-pa_7@y+ wa.e dondju n@mm@ 7@y+ yak.ja7p-w@ 7@y+ pitz.i
+\XPSH [7@y jaxko7tzpay wae dondju n@mm@y yakja7pp@y pitzi.]
+\XSP Saca con la palma de la mano la masa en donde esta* mandando moler su
+nixtamal.
+\XEN She's scooping the masa out with the palm of her hand there where they
+told her to grind her corn.
+\SYN
+\ROOT ko7tz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex j@x=kuj
+\_no 01076
+\LG MIG
+\PSH [j@xkuj-]
+\UND j@x=kuj
+\MB ATRAS, empujar
+\VAR
+ZOH004R0011001.txt
+\GRAM vt
+\SCI
+\USE
+\SPG sacar al empujarlo
+\ENG to push something out
+\SPL
+Page 471

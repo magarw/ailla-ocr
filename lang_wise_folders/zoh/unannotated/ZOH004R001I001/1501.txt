@@ -1,0 +1,63 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@m
+\RTGR P (T3)
+\DSRC TK94
+\CMTS
+\date 11/Feb/96
+\lex tz@m. 7oy-pa+a7k
+\_no 03489
+LG MIG
+\PSH [tz@mmoba*7]
+\UND tz@m. 7oy-pa +P@7k
+\MB cargar, ANTIP, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG cargador
+\ENG carter
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@m
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tz@m.i
+\_no 03490
+\LG MIG
+\PSH [tz@mi]
+\UND tz@m. E
+\MB cargar, NOM7
+\VAR
+\GRAM med
+\SCI
+\USE
+\SPG tercio
+\ENG bale; half a mule load
+\EXU tum tz@mi
+\XSP un tercio
+\XEN one half of a mule load
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT tz@m
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS CK-PH
+\date 26/Jun/96
+\lex tz@m.i7
+ok/NO, fixed: TK
+ZOH004R0011001.txt
+Page 1501

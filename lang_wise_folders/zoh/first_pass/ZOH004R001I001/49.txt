@@ -1,0 +1,62 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT k@x
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 08/Jan/96
+\lex 7anh-k@y [1]
+\_no 00113
+\LG MIG
+\PSH [7anhk@y-]
+\UND 7anh-k@y
+\MB BOCA, 11evar_en_mano
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG cerrar
+ENG to close
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kay
+\RTGR T3
+\DSRC TK96
+\CMTS 2 items mixed up here: sort out
+\date 25/Jun/96
+\lex 7anh-k@y [2]
+\_no 00114
+\LG MIG
+\PSH [7anhk@y]
+\UND 7anh-k@y.0
+\MB BOCA, 11evar_en_mano, NOM6
+\VAR 7anh-k@y petz
+\GRAM SVO
+\SCI
+\USE
+\SPG puerta de varilla
+\ENG door made of long twigs
+\EXU
+\XSP
+\XEN
+\SYN 7anh.k@.i
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT k@y
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 24/Jun/96
+\1ex 7anh-k@y [3]
+Page 49

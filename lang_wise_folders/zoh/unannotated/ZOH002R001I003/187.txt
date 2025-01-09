@@ -1,0 +1,45 @@
+7.1.1.9. win
+This morpheme was once an independent noun, as attested by a few
+lexical items with nominal case endings and a few compounds (7.14 i and ii).
+The gloss for this item is clearly 'surface' or 'front', although, as always, there
+are many verbal constructions with no clearly compositional interpretation. The
+gloss code for this morpheme is CARA. It sometimes co-occurs with the suffix
+—?ay.
+(7.14)
+(i)
+(i)
+(iii)
+(v)
+winjonang
+win+honan
+CARA+DIR3
+'por adelante'
+'øy win'ixxø
+?əy+ win.?iš-wə
+3E+ CARA.ver-COM
+'Lo vió por delante.'
+winnøktenwøyyø
+0 win.nək-ten.wǝy-wǝ
+3A CARA.ir-pararse.DEPOS-COM
+'Le enfrentó.'
+gø winnawó?
+gǝ win.?a-wə+V?k
+DEM CARA.VERS1-COM+REL
+'Aquel que se adelantó'
+162
+(ii)
+(ii)
+(iv)
+winmanak
+win=manak
+CARA=hijo
+'primer hijo'
+winjuptukkuy'
+win.jup-tuk.kuy?
+CARA.jalar=terminarse.INSTR1
+'delantal'
+winpaktzongngø
+0 win.pak-con-wǝ
+3A CARA.apretar=unir-COM
+'Se dió de topada á ella.'
+(ZOH001R024-112)

@@ -1,0 +1,63 @@
+\SPL yak. putz
+\SLGR CAUS
+\SLGL dejar podrirse // to leave to rot
+\EXU 1 putz.w@+'am+p@7
+\XPSH 1 [putztzamp@7]
+\XSP 1 cosa podrida
+\XEN 1 a rotten thing
+\EXU 2 putz-w@+ 'am
+\XPSH 2 [putztza*m]
+\XSP 2 podrido
+\XEN 2 rotten
+\EXU 3 d@ putz-wa
+\XPSH 3 [D@ putztz@.]
+\XSP 3 Tuve sarampio*n.
+\XEN 3 I had the measles.
+\EXU 4 putz-w@ bi mok
+\XPSH 4 [Putztz@ bi mok.]
+\XSP 4 El maiz se pudrio*.
+\XEN 4 The corn rotted.
+\SYN
+\SEMF nature, body
+\ASP accomplishment
+\ARG
+\NOM putz.i, putz.@7, putz.putz
+\SUB
+\ETYM
+\ETL
+\ROOT putz
+\RTGR 12
+\DSRC HAJ94
+\CMTS CK-EX -p@7 is added to ADJ to form N
+\date 03/Jan/80
+\lex putz.i
+\_no 02804
+\LG MIG
+\PSH [putzi]
+\UND putz.E
+\MB pudrirse, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG grano
+\ENG pimple
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT putz
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+ZOH004R0011001.txt
+\lex putz.i+i7k
+\_no 02805
+\LG MIG
+\PSH [putzi*7]
+\UND putz.E +P@7k
+Page 1207

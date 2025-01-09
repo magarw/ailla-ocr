@@ -1,0 +1,64 @@
+\ROOT wit
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex p@n 7@y+ 7anh.num7
+\_no 02844
+\LG MIG
+\PSH [p@n 7@y 7anhnum7]
+\UND pan 7@y+ 7anh.num.7
+\MB hombre, 3Erg, BOCA, robar, NOM1
+\VAR
+\GRAM sps
+\SCI
+\USE
+\SPG sombra de persona
+\ENG person's shadow
+EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex p@n [1]
+\_no 02845
+\LG MIG
+\PSH
+\UND pan
+\MB
+\VAR
+\GRAM vi: med
+\SCI
+\USE
+\SPG estar puesto; ponerse
+agua, olla
+\ENG to be placed, like water or a jar
+\SPL yak.p@n
+\SLGR CAUS
+\SLGL poner // to put
+\EXU 1 p@n-wa
+\XPSH 1 [P@nn@.]
+ZOH004R0011001.txt
+\XSP 1 (Esta*) puesto.
+\XEN 1 It's placed.
+\EXU 2 7@y+ pa'-w@ de.ji
+\XPSH 2 [7@y pawa deji.]
+\XSP 2 Lo puso ahi*.
+\XEN 2 She put it here.
+\EXU 3 p@n-w@+xtaa7
+\XPSH 3 [P@nn@xta*7.]
+\XSP 3 Esta* puesto no ma*s.
+\XEN 3 It's just put there.
+\SYN
+\SEMF arrange
+\ASP state
+\ARG
+\NOM p@n.kuy7
+\SUB
+Page 1225

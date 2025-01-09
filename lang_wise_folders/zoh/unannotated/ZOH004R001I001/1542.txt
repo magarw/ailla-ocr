@@ -1,0 +1,62 @@
+\lex watzi7
+\_no 03586
+\LG MIG
+\PSH
+\UND watziz
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG pelos del cuerpo
+\ENG body hair
+\EXU jakke 7@m+ watzi7
+\XPSH [Jakkem watzi7.]
+\XSP Eres muy peloso.
+\XEN You are very hairy.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 21/Oct/94
+\lex wa7tz
+\_no 03587
+\LG MIG
+\PSH
+\UND wa7tz
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG rai*z
+\ENG root
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 21/Oct/94
+\lex wa7tz=p@k
+\_no 03588
+\LG MIG
+\PSH [wa7tzp@k-]
+\UND wa7tz=p@k
+\MB rai*z, agarrar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG enraizar
+\ENG to root
+\EXU
+ZOH004R0011001.txt
+Page 1542

@@ -1,0 +1,55 @@
+T
+:
+MAGASI STENAAR
+G
+MASYAANZIEN VALERIA DELTOLAIK
+P yík maN?ol láNčax xun k'é?en tík #¹2
+12
+MP y-?ík_ma-N-201-6-láN-č-ax xun k'é?n tík
+PS
+SS
+E
+P
+MP
+PS
+SS
+A
+MP
+PS
+SS
+G
+E
+NP
+Post-Adv.
+its-domain
+one stone here
+so that
+Main
+negative-negative-future-it-fall-passive-*
+Post-Adv.
+G present-he-say-reportative animal rabbit there
+238
+it will not fall over
+ščáp' nok' kónéxo či? t'a nok' kóyóte čí? #13↓
+c-Ø-číh-hap' nok' kónéxoh či? t'ah nok' kóyóteh či?
+VP
+NP
+;
+they say he said
+Subj
+to animal coyote there
+P stá wyén ščáp' nok' kóyóte či?
+esta biến c-á-číh-hap' nok' kóyóteh či?
+NP
+VP
+Main
+this stone
+NP
+NP
+that rabbit to that coyote
+Subj.
+Topic
+it is good present-he-say-reportative animal coyote there
+alright
+they say he said
+that coyote

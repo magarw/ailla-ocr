@@ -1,0 +1,62 @@
+\_no 00049
+\LG MIG
+\PHO [nik@7]
+\UND ni7k.A7
+\MB medio_secarse, NOM2
+\VAR
+\GRAM SV
+\SPG medio seco
+\ENG half-dry
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT ni7k
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex nonh.naanh
+\_no 00050
+\LG MIG
+\PHO [nonhna*nh]
+\UND nonh.naanh
+\MB apuchurarse, MED
+\VAR
+\GRAM meas
+\SPG una apachurada
+\ENG a dent
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT nonh
+\RTGR P (T2)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex n@7kx.naanh
+\_no 00051
+\LG MIG
+\PHO [n@7kxna*nh]
+\UND n@7kx.naanh
+\MB estivar, MED
+\VAR
+\GRAM meas
+\SPG estiva
+\ENG stack
+\EXU tum n@7kx.naanh tza7
+\XPSH [tum n@7kxnanh tza7]
+\XSP una estiva de piedra
+\XEN a stack of rocks
+\SYN
+\ROOT n@7kx
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex pak.naanh
+\_no 00052
+\LG MIG
+ZOH001R0611003.txt
+Page 18

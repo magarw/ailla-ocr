@@ -1,0 +1,91 @@
+\_no_00042
+\tx j@.
+\mb ja7
+\sgl si*
+\egl yes
+\zoq Ja.
+fts si*.
+\fte Yes.
+\com
+\idx
+\ref ZOH001R053 042
+\_no 00043
+y
+pwes dey
+pwes te -y
+7@n jaya
+7@n jaya
+\tx
+pwes dey,
+de
+\mb pwes te
+de -y 7@y
+\sg1 pues DCT2-TMP pues DCT2-TMP 1E esposo DCT2-TMP 3E
+\egl well DCT2-TMP well DCT2-TMP 1E husband DCT2-TMP 3E
+-Y
+\tx 7iy
+\mb
+\sg] y - 3E
+\eg1 and-3E SOC-sit
+kotz@nn@
+71-7@y ko -tz@n
+\idx
+\ord s v vo
+bi mok.
+-wa bi mok
+SOC-estar_sentado-COM DEF mai*z
+-COM DEF corn
+\ref ZOH001R053 043
+\_no 00044
+\tx de
+\mb de-y
+\sg1 de-TMP 3E
+\egl of-TMP 3E
+\txx@nh.
+xanh
+\mb
+\sg1 fiesta
+\egl festival
+y kotz@ntzakk@
+7@y ko -tz@n
+ZOH001R0531001.txt
+\zoq Pwes dey, pwes dey 7@n jaya dey nipp@, 7iy kotz@nn@ bi mok.
+\fts Pues ahora, pues ahora mi marido sembro* y cuido* la milpita.
+\fte well now, well now my husband sowed and he took care of the cornfield.
+\com
+\com
+\idx
+SOC-sit
+SOC-estar_sentado-dejar-COM
+\idx
+\ord s V [AV V O]
+\zoq Dey kotz@ntzakk@ para dey 7@y 7ixx@ bi xanh,
+\fts Ahora dejo* de cuidar para que ahora vio* la fiesta,
+\fte Now he left off tending so now he saw the fiesta,
+\com
+\ref ZOH001R053 044
+\_no 00045
+patro*nh 7@y_x@nhja*7.
+-jaa7
+\tx bin
+\mb bi -7@n patro*nh 7@y xanh
+\sg] DEF-1E patro*n 3E fiesta -NPL2
+\eg1 DEF-1E patron 3E festival-NPL2
+\zoq bin patro*nh_7@y x@nhja*7.
+\fts la fiesta del patro*n de nosotros.
+\fte the fiesta of our patron.
+nipp@,
+nip
+para dey
+-tzak -w@ para te -y
+para DCT2-TMP 3E
+-leave-COM for DCT2-TMP 3E
+Page 11
+sembrar-COM
+SOW
+-wa
+-COM
+7@y 7ixx@ bi
+7@y 7ix-w@ bi
+ver-COM DEF
+see-COM DEF

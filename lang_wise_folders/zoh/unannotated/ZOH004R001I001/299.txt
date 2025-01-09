@@ -1,0 +1,63 @@
+\SEMF move
+\ASP activity
+\ARG
+\NOM
+\SUB ko.jay, win-jay
+\ETYM
+\ETL
+\ROOT jay
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 14/Aug/02
+\lex jay=7anh=tzonh
+\_no 00696
+\LG MIG
+\PSH [jay7anhtzonh-]
+\UND jay=7anh-tzonh
+\MB escribir, BOCA, unir
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG contestar por escribir
+\ENG to answer in writing
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jay
+\RTGR T3
+\ROOT tzonh
+\RTGR T3
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex jay.7oy-pa+a7k
+\_no 00697
+\LG MIG
+\PSH [jayyoba*7]
+\UND jay.7oy-pa +P@7k
+\MB excribir, ANTIP, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG e*1 que escribe; escritor; escribiente
+\ENG one who writes; writer
+\EXU toto'=jay-pa+a7k
+\XPSH [toto jaypa*7k]
+\XSP_ e*1 que escribe algo en el papel
+\XEN one who writes something on paper
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jay
+\RTGR T3
+Page 299

@@ -1,0 +1,69 @@
+\sg1 2E poner-APPL-COM-YA DEF hoja
+\egl 2E put -APPL-COM-NOW DEF leaf
+\zoq 7@m_p@jayya*m bi 7ay.
+\fts Ya le echastes la hoja.
+\fte Now you've put in the leaves.
+\com
+\idx
+\ref ZOH001R036 891
+\_no 00874
+\tx GSM: ti
+\mb GSM
+7ay 7@m p@jaba
+ti
+7ay7 7@m p@7 -jay -pa
+\sg1 GSM: que
+hoja 2E
+poner-APPL-INC
+\eg1 GSM: what leaf 2E put -APPL-INC
+\zoq GSM: Ti 7ay 7@m p@jaba?
+\fts GSM: Que hoja le echas?
+\fte GSM: what leaf do you put in it?
+\com
+\idx
+\ref ZOH001R036 892
+\_no 00875
+\tx OSM: 7alkanfo*r
+\mb OSM
+7alkanfo*r
+\sg1 OSM:
+alcanfor
+\egl OSM: camphor
+\zoq OSM: 7alkanfo*r.
+\fts OSM: Alcanfor.
+\fte OSM: Camphor.
+\com
+\idx
+\ref ZOH001R036 893
+\_no 00876
+\tx 7el mismo 7alkanfo*r 7ay
+\mb 7el mismo 7alkanfo*r 7ay7
+\sg1 el mismo alcanfor
+\egl the same camphor
+ZOH001R0361001.txt
+hoja
+leaf
+\zoq 7el mismo 7alkanfo*r 7ay.
+\fts La misma hoja de alcanfor.
+\fte The same camphor leaf.
+\com
+\idx
+\ref ZOH001R036 894
+\_no 00877
+\tx si n@nti
+\mb si n@nti
+\sgl si no_hay
+\egl if there isn't camphor
+\ref ZOH001R036 895
+\_no 00878
+7alkanfo*r 7ay
+7alkanfo*r 7ay7
+alcanfor
+hoja
+leaf
+\zoq si n@nti 7alkanfo*r_7ay,
+\fts si no hay hoja de alcanfor,
+\fte If there isn't any camphor leaf,
+\com
+\idx
+Page 189

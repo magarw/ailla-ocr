@@ -1,0 +1,34 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(which I counted separately). An example of this usage is shown in (14.13 i). In
+verbs of speaking and perception, the preferred position for the subject is after
+the verb, regardless of its newness as information. In the next example (ii-iii),
+the discourse entity "the people" is introduced in a VSO clause on line 0447.
+The subsequent stretch of texts details the complaints that people may bring to
+the saint for curing, with no further explicit mention of "the people". The
+discourse entity is then refreshed on line 059, with the NP positioned before the
+transitive verb. The next section is topically different: now Sr. Omobono
+Sánchez Miguel describes the planning for the saint's fiesta and all the fine
+things the people do to celebrate her miracles.
+(14.13)
+(i)
+(ii)
+(iii)
+nø'tti 'øy 'angtzongngøyyø bi tzønjon
+nə?tti ?əy+ ?aŋ.coŋ.?ǝy-wǝ
+bi cənhon
+no 3E+ MOUTH.join.SUF-COM DEF bird
+""No", the bird answered him.'
+(ZOH001R026-068)
+kay minpam bi jentedøkkay 'ixxukø bi santu
+kay min-pa+?am bi hente+dǝkkay ?əy+ ?iš-šuk-wǝ bi santu
+then come-INC+NOW DEF people+NPL 3E+ see-3PL-dINC DEF saint
+'Now the people are coming to see the saint.' (ZOH001R032-044)
+'i gahing gay bi jentedøkkay 'øy me'chukpám
+?i
+gahiiŋ gay bi
+and thence then DEF people+NPL 3E+ look_for-3PL-INC+NOW
+'And from there now the people seek her out.' (ZOH001R032-059)
+hente+dǝkkay ?əy+ me?c-šuk-pa+?am
+7 I count an NP that appears between the auxiliary and the main verb as an instance of VS
+order, to distinguish it from cases in which the NP precedes the whole auxiliary phrase.
+367

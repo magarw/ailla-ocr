@@ -1,0 +1,62 @@
+\date 11/Feb/96
+\lex t@tz.i7
+\_no 03205
+\LG MIG
+\PSH [t@tzi7]
+\UND t@tz.E7
+\MB secarse, NOM7
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG 1 seco
+\SPG 2 flaco
+\ENG 1 dry
+\ENG 2 skinny; withered
+\SYN [of sense 2] kitza
+\SEMF
+\ETYM
+\ETL
+\ROOT t@tz
+\RTGR 12
+\DSRC TK94
+\CMTS caus2 yak.t@tz secar
+\date 25/Jun/96
+\lex t@tz.i'.7aH
+\_no 03206
+\LG MIG
+\PSH [t@tzi7a-]
+\UND t@tz.E7.7aH
+\MB secarse, NOM7, VERS1
+\VAR
+\GRAM versl
+\SCI
+\USE
+\SPG hacerse seco
+\ENG to become dry
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT t@tz
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex t@tz.i'=7oj-pa+a7k
+\_no 03207
+\LG MIG
+\PSH [t@tzi7ojpa*7k]
+\UND t@tz.E7=7oj-pa +P@7k
+\MB secar, NOM7, toser, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG (e*1 que tiene) tuberculosis
+\ENG one who has tuberculosis
+ZOH004R0011001.txt
+Page 1379

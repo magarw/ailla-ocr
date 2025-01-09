@@ -1,0 +1,63 @@
+\lex katzu7
+\_no 01196
+\LG MIG
+\PSH
+\UND katzu7
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG agrio
+\ENG sour
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Aug/94
+\lex katzu' 7uk.i
+\_no 01197
+\LG MIG
+\PSH [katzu 7uki]
+\UND katzu7 7uk.E
+\MB agrio, tomar, NOM7
+\VAR
+\GRAM a (m)s
+\SCI
+\USE
+\SPG atole agrio
+\ENG sour atole
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7uk
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex katzu' n@n@ 7uk.i
+\_no 01198
+\LG MIG
+\PSH [katzu n@n@ 7uki]
+\UND katzu7 n@n@ 7uk. E
+\MB agrio, X, tomar, NOM7
+\VAR katzu n@@n=7uk.i
+\GRAM a (m) s (m)s
+\SCI
+\USE
+\SPG atole de tisiawal agrio
+\ENG a type of corn drink
+\EXU
+\XSP
+ZOH004R0011001.txt
+Page 521

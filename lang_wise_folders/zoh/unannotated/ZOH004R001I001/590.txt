@@ -1,0 +1,64 @@
+\UND koko
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG COCO
+\ENG coconut
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Nov/94
+\lex ko.kunh=witu'
+\_no 01353
+\LG MIG
+\PSH [kokunhwitu-]
+\UND ko.kunh=witu7
+\MB OTRO, colgar, regresar
+\VAR
+\GRAM vt
+\SCI
+\USE
+LF: kuy
+\SPG colgar por todo alrededor
+\ENG to hang something all around
+\SPL
+\SLGR
+\EXU 7@y+ ko. kunh-witu-w@
+\XPSH [7@y kokunhwi tuw@.]
+\SEMF
+\ETYM
+\ETL
+\XSP Lo colgo* por todo alrededor.
+\XEN He hung it around all over.
+\SYN
+\ROOT kunh
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 07/Feb/96
+\lex kokx
+\_no 01354
+\LG MIG
+\PSH
+\UND kokx
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG tronar
+ZOH004R0011001.txt
+\ENG for joints to crack
+\EXU kokx-pa 7@n+ koma7
+\XPSH [Kokxpan koma7.]
+\XSP Truena mi rodilla.
+Page 590

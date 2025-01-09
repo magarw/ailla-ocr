@@ -1,0 +1,62 @@
+\PHO [kokxna*nh]
+\UND kokx.naanh
+\MB tronar, MED
+\VAR
+\GRAM meas
+\SPG una tronada
+\ENG one crack of the joint
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT kokx
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex konh.naanh
+\_no 00027
+\LG MIG
+\PHO [konhna*nh]
+\UND konh.naanh
+\MB gatear, MED
+\VAR
+\GRAM meas
+\SPG una agachada
+\ENG a crawl
+\EXU 1 tum konh.naanh+g@xi 7@n+ tzi'-w@ ya.' surko
+\XPSH 1 [Tum konhna*nhg@xi 7@n tziwa ya surko.]
+\XSP 1 En una agachada di* este surco.
+\XEN 1 I I did this furrow in one crawl.
+\EXU 2 tum konh.naanh 7@n+ tzi'-w@ para 7@n+ k@.yuj-wa ya.' surko
+\XPSH 2 [Tum konhna*nh 7@n tziwa paran kayujj@ ya surko.]
+\XSP 2 En una agachada limpie* este_surco.
+\XEN 2 In one crawl I cleaned this furrow.
+\SYN
+\ROOT konh
+\RTGR P, (11)
+\DSRC HAJ95
+\CMTS
+ZOH001R0611003.txt
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex kop.naanh
+\_no 00028
+\LG MIG
+\PHO [kopna*nh]
+\UND kop.naanh
+\MB cachar, MED
+\VAR
+\GRAM meas
+\SPG una cachada
+\ENG a catch
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT kop
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+Page 10

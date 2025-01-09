@@ -1,0 +1,83 @@
+ZOH001R0551001.txt
+\zoq Ti naxe, 7axta ke ye7tztz@ bi yanhked@kka para yoxokmanhnh@ Jerma*n.
+\fts De verdad, hasta que llego* los gringos para que empezo* a trabajar
+Germa*n.
+\fte In fact, it wasn't until all the gringos arrived that Germa*n started
+to work.
+\com
+\idx
+\ref ZOH001R055 106
+\_no 00107
+bi
+tziw@
+7@m
+\tx pero n@mpa
+\mb pero n@m
+-pa bi
+pena mix
+-7@m tzi7-w@
+pena mix 7@m
+NEGimpv-2E dar -nIMPV peṇa 2Prn 2A
+\egl but say -INC DEF Anna NEGimpv-2E give-nIMPV pain 2Prn 2A
+\sg1 pero decir-INC DEF Ana
+\tx wattoba*m
+\mb wat -7oy -pa -7am
+\sg1 ganar-ANTIP-INC-YA
+\egl earn -ANTIP-INC-NOW
+\zoq Pero n@mpa bi 7ana, "7um tziw@ pena, mix 7@m wattoba*m,
+\fts Pero dice la Ana, "No te des pena, tu ya esta*s ganando,
+\fte But Anna says, "Don't worry, you're now getting paid,
+\com
+\idx
+7ana 7um
+7ana 7u
+\ref ZOH001R055 107
+\_no 00108
+\tx 7@m gantz@kpa*m
+\mb
+7@m ganar-tz@k -pa -7am
+\sg1 2A ganar-hacer-INC-YA
+\egl 2A earn -do
+\zoq 7@m gantz@kpa*m.
+\fts ya esta*s ganando.
+-INC-NOW
+\fte now you're getting paid.
+\com
+\idx
+\ref ZOH001R055 108
+\_no 00109
+ya m yox@,
+\tx 7@m yoxx@
+\mb 7@m yox
+-wa ya 7@m yox
+\sg1 2A trabajar-COM NEG 2A
+\egl 2A work
+-COM NEG 2A work
+\ref ZOH001R055 109
+\_no 00110
+\tx bweno n@mpa
+\mb bweno n@m
+\zoq 7@m yoxx@, yam yox@, mix 7am gantz@kpa*m."
+\fts Trabajes, no trabajes, tu ya esta*s ganando.
+\fte You work, or you don't work, you are now getting paid."
+\com
+\idx
+jerma*n
+-pa jerma*n
+\sg1 bueno decir-INC Germa*n
+\egl good say -INC Germa*n
+\zoq "Bweno
+n@mpa Jerma*n.
+\fts "Bueno" dice Germa*n.
+"
+\fte "OK", says Germa*n.
+mix 7@m gantz@kpa*m
+-A mix
+trabajar-nINC 2Prn 2A
+-nINC 2Prn 2A
+7@m ganar-tz@k -pa -7am
+ganar-hacer-INC-YA
+earn -do
+Page 25
+"I
+-INC-NOW

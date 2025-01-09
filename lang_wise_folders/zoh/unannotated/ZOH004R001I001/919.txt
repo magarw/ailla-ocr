@@ -1,0 +1,63 @@
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 nakx
+\RTGR 1 T3
+\ROOT 2 jonh
+\RTGR 2 12
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+\lex nakx.kuy7
+\_no 02131
+\LG MIG
+\PSH [nakxkuy7]
+\UND nakx.kuy7
+\MB pegar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG chicote
+\ENG whip
+\EXU
+\XSP
+\XEN
+\SYN 7asote
+\SEMF
+\ETYM
+\ETL
+\ROOT nakx
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 19/Jun/95
+\lex nakx-pak
+\_no 02132
+\LG MIG
+\PSH [nakxpak-]
+\UND nakx-pak
+\MB pegar, X
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG clavar
+\ENG to nail
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nakx
+\RTGR T3
+\DSRC HAJ94
+ZOH004R0011001.txt
+Page 919

@@ -1,0 +1,87 @@
+\fte OSM: That one who has spots on the skin,
+\com
+\idx
+\ref ZOH001R036 999-227
+\_no 01208
+\tx 7ay
+n
+\mb 7ay
+\sg1 hay
+bes n@kpa
+bes n@k -pa 7@n tzinh
+ver irse-INC 1E
+\egl there are see go -INC 1E
+ZOH001R0361001.txt
+\zoq 7ay bes n@kpan tzinhtamm@ pajakjo,
+\fts hay veces vamos a ban~ar en el rio,
+\fte there are times when we go to bathe in the river,
+\com
+\idx
+\com
+\idx
+\ref ZOH001R036 999-228
+\_no 01209
+\tx 7i gad@
+susyedad j@7twanakpa
+\mb 7i ka -da susyedad j@7t
+\sg1 y DCT3-DEM suciedad
+\egl and DCT3-DEM dirt
+tzinhtamm@
+\ref ZOH001R036 999-230
+\_no 01211
+pajakjo
+- tam -wa pajak-jo7
+ban*arse-1/2PL-dINC ri*o -Loc2
+bathe -1/2 PL-dINC river-LOC2
+\zoq 7i gad@ susyedad j@7twanakpam tzinhtzonhpa.
+\fts Y esa suciedad viene bajando en el rio lo topas ban~ando.
+\fte And that dirt floods down and touches you bathing.
+m
+-wanak -ра 7@m tzinh
+regar_el_ri*o-bajarse-INC 2E
+be_flooded -go_down-INC 2E
+\ref ZOH001R036 999-229
+\_no 01210
+\tx 7ay gaji
+m
+tokatz@kpa
+pitz@mpa bi jaya d@kka
+\mb 7adyo ka -ji7 7@m tocar-tz@k -pa pitz@m-pa bi jaya7 dakkay
+\sg1 luego DCT3-LOC1 2E tocar-hacer-INC salir -INC DEF flor NPL
+\egl later DCT3-LOC1 2E touch-do -INC leave -INC DEF flower NPL
+\zoq 7ay gajim tokatz@kpa pitz@mpa bi j@y@d@kka.
+\fts De ahi* te toca sale las flores.
+\fte Then there you're touched, the flowers come out.
+\com flowers are skin spots
+\idx
+\sg] y
+NPL
+\egl and DCT2-DEM flower NPL
+\zoq 7i ded@ jay@d@kka, pwes.
+\fts Y esas flores, pues.
+\fte well, and those flowers.
+\com
+\idx
+\tx 7i ded@
+jaya d@kka pwes
+\mb 7i te -da jay@7 dakkay pwes
+DCT2-DEM flor
+\ref ZOH001R036 999-231
+\_no 01212
+\tx 7@m tz@kjaba*m
+7@y
+\mb 7@m tz@k -jay -pa -7am 7@y
+\sg1 2E
+hacer-APPL-INC-YA 3E
+\egl 2E do -APPL-INC-NOW 3E
+tzinhtzonhpa
+-tzonh-pa
+ban*arse-unir -INC
+bathe -join -INC
+pues
+well
+rremedyu
+rremedyu
+remedio
+medicine
+Page 260

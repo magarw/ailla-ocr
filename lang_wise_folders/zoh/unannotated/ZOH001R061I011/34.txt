@@ -1,0 +1,60 @@
+\lex pekx
+\_no 00165
+\SPG pegar con la ala
+\ENG to hit with the wing
+\EX yakpekxoyy@ piyu
+\XSP le dio
+una aletada la gallina
+\XEN the chicken flapped its wing
+\ROOT pekx T3
+\CMTS antip pekx. 7oy
+\CMTS no pass pekx.7@m *
+\lex pen
+\_no 00166
+\SPG apretar con la mano; darle apreto*n
+\ENG to squeeze with the hand; to give a squeeze
+\EX 7@y konpenn@yy@ tzanhkuy j@nanh
+\XSP 1o apreto* con la mano
+\XEN she squeezed it with the hand
+\ROOT pen T3
+\CMTS antip pen.7oy
+\CMTS no pass pen.7@m *
+\CMTS prsv pen=ten lo tiene apretado
+\CMTS CK_GLOSS, kon in EX?
+\lex pen
+\_no 00167
+\SPG plantar; sembrar
+\ENG to plant; to sow
+\EX
+\XSP
+\XEN
+\ROOT pen T1
+\CMTS
+\lex pet
+\_no 00168
+\SPG barrer
+\ENG to sweep
+\EX
+ZOH001R0611011.txt
+\XSP
+\XEN
+\ROOT pet T1
+\CMTS
+\lex pe7t
+\_no 00169
+\SPG tejer/hacer_cinta de palma para hacer sombrero, petaca
+\ENG to weave palm for hats or petate
+\EX jojo pe7tt@
+\XSP tejio* cinta de palma
+\XEN she wove palm
+\ROOT pe7t T3
+\CMTS antip pe7t.7oy tejer
+\CMTS pass pe7t.7@m ya esta* tejido
+\lex pikx
+\_no 00170
+\SPG tocar puerta
+\ENG to knock on the door
+\EX
+\XSP
+\XEN
+Page 34

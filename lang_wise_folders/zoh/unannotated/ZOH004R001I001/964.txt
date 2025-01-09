@@ -1,0 +1,63 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT 7an
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 26/Jan/96
+\lex ni.7a7tz
+\_no 02238
+\LG MIG
+\PSH [ni7a7tz-]
+\UND ni.7a7tz
+\MB PURP, arder
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG 1 sentirse calientito
+\SPG 2 chamuscarse hoja de mata cerca de lumbre
+\ENG 1 to feel a little warm
+\ENG 2 to roast plant leaves near the fire
+SPL
+\SLGR
+\EXU d@+ ni.7a7tz-pa
+\XPSH [D@ ni7a7tzpa.]
+\XSP Estoy calientito.
+\XEN I'm a little hot.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 7a7tz
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 26/Jan/96
+\lex ni.7e7k.kuy7
+\_no 02239
+\LG MIG
+\PSH [ni7e7kkuy7]
+\UND ni.7e7k.kuy7
+ZOH004R0011001.txt
+\MB PURP, despizcar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG traste donde despizcan frijol
+\ENG a dish for shelling beans into
+\SPL
+\SLGR
+\EXU x@k ni. 7e7k.kuy7
+\XPSH [x@k ni7e7kkuy7]
+\XSP traste donde despizcan frijol
+\XEN a dish for shelling beans into
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7e7k
+\RTGR T3
+Page 964

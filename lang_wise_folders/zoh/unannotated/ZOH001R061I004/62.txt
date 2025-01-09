@@ -1,0 +1,64 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kunh
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS analysis
+\date 24/Jun/96
+\lex k@.7om
+\_no 00151
+\LG MIG
+\PSH [k@7om]
+\UND k@.7om.0
+\MB FUERA, echar_humo, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG un traste donde se ahuma algo
+\ENG a dish where you smoke something, an incense holder
+\EXU ko.maxan 7@y+ k@.7om
+\XPSH [komaxan 7@y k@7om]
+\XSP el traste donde se ahuma el santo
+\XEN the dish where you burn fragrant herbs for the saint
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 70m
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 25/Jun/96
+ZOH001R0611004.txt
+\lex k@j-tz@k
+\_no 00152
+LG MIG
+\PSH [k@jtz@k]
+\UND k@j-tz@k.0
+\MB X, HACER,
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG machigua
+\ENG water with masa in it, from dipping in the hand to dampen the nixtamal
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+NOM6
+\DSRC HAJ94
+\CMTS she's grinding the corn on the metate and has a little bucket of water
+\CMTS to sprinkle on the masa to keep it from getting too dry. little by
+\CMTS little the water gets very masa-y, and she throws it in the pig
+\CMTS trough and gets some fresh
+\date 18/Jun/96
+Page 62

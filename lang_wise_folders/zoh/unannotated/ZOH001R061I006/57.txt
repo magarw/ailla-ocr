@@ -1,0 +1,64 @@
+ZOH001R0611006.txt
+\SLGR PASS
+\SLGL gastarse, como el mecate de una hamaca // to be worn out, like
+the rope on a hammock
+\EXU 1 7@y+ k@7tz-w@ bi 7an.e bi tzuk
+\XPSH 1 [7@y k@7tztz@ bi 7ane bi tzuk.]
+\XSP 1 Una rata cascomio* la tortilla.
+\XEN 1 A rat gnawed on the tortilla
+\EXU 2 bi tzuk d@k(+'ay) k@7tz. 'oy-xuk-w@
+\XPSH 2 [Bi tzuk dakka k@7tztzoxukk@.]
+\XSP 2 Las ratas carcomieron.
+\XEN 2 The rats were gnawing.
+\SYN ke7tz
+\SEMF eat
+\ASP activity
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT k@7tz
+\RTGR T3
+\DSRC HAJ94
+\CMTS confused with ke7tz masticar ?
+\CMTS
+\CMTS viene siendo lo mismo
+\date 03/Jan/80
+\lex k@x [1]
+\_no 00083
+\LG MIG
+\PSH
+\UND k@x
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG comer
+\ENG to eat
+\SPL k@x. 7oy
+\SLGR ANTIP
+\SLGL comer // to eat
+SPL k@x.7@m
+\SLGR PASS
+\SLGL cosa que se comio* // a thing that was eaten
+\SPL yak.k@x.7oy
+\SLGR CAUS ANTIP
+\SLGL dejar comer // to allow to eat
+\EXU
+\XPSH [
+\XSP
+\XEN
+\SYN
+\SEMF eat
+\ASP activity
+\ARG
+\NOM k@x.kuy7, k@x.i, k@x=tuku7, k@x-tup.u7, k@x. 7@m-pa+a7k,
+\NOM ni.k@x, yak.k@x
+\SUB jo.k@x, ko.k@x, win-k@x, k@x.ki7px, k@x-(@)-t@', k@x=tzak,
+\SUB win-k@x, yuk.k@x-'ok.manh
+\ETYM
+\ETL
+\ROOT k@x
+Page 57

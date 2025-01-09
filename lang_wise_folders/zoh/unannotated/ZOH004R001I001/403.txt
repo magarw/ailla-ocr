@@ -1,0 +1,64 @@
+\UND junun.naanh
+\MB hacer_cosquillas, MED
+\VAR
+\GRAM meas
+\SPG una cosquillada
+\ENG a tickle
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT junun
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex junhku7
+\_no 00923
+\LG MIG
+\PSH
+\UND junhku7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG junco
+\ENG a type of tree
+\EXU junku' paxte
+\XSP espina de junco
+\XEN junco thorn
+\SYN
+LF: kuy
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 10/Jan/96
+\lex jup
+\_no 00924
+\LG MIG
+\PSH
+\UND jup
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG jalar
+\ENG to pull
+\SPL jup. 7oy
+\SLGR ANTIP
+\SLGL jalar // to pull
+\SPL jup.7@m
+\SLGR PASS
+\SLGL jalarse // to be pulled
+\SPL jup.ney
+\SLGR ASSUM1
+ZOH004R0011001.txt
+\SLGL tirarse alguien en el suelo o la cama // to throw someone on the
+floor or on the bed
+\EXU 1 7@y+ jup.ten-w@ bi laxu
+Page 403

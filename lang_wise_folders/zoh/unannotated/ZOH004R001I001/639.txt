@@ -1,0 +1,64 @@
+\GRAM vt
+\SCI
+\USE
+\SPG cuidar sentado a alguien o algo
+\ENG to take care of someone or thing while sitting down
+\SPL ko.tz@n-7oy
+\SLGR ANTIP
+\SLGL cuidar (algo) sentando // to care for sitting down
+\EXU mok=ko.tz@n-w@
+\XPSH [Mokkotz@nn@.]
+\XSP Cuido* la milpa.
+\XEN He sat and watched over his cornfield.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@n
+\RTGR P, (12)
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex ko7tz
+\_no 01470
+\LG MIG
+\PSH
+\UND ko7tz
+ZOH004R0011001.txt
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tentar con la mano (como si fuera carna o masa, tentar de abajo)
+\ENG to touch with the hand (a flat-handed pat, the way you touch meat
+or corn dough, touch from underneath)
+\SPL ko7tz. 7oy
+\SLGR ANTIP
+\SLGL tentar con la mano (tambien sexual) // to touch with the hand (also
+sexual)
+\SPL ko7tz.ten
+\SLGR PRSV
+\SLGL tener puesto en la palma de la mano // to have in the palm of the hand
+\EXU 1 7@y+ ko7tz.ten-w@ 7@y+_wa.e
+\XPSH 1 [7@y ko7tztenn@y wae.]
+\XSP 1 Tiene puesto en la palma de la mano la masa.
+\XEN 1 She has the masa in the palm of her hand.
+\EXU 2 7@n+ ko7tz-w@ 7@n wa.e 71 7@n+ tzanh-w@ 7@n 7an. E
+\XPSH 2 [7@n ko7tztz@n wae 7in tzanhnh@n 7ane.]
+\XSP 2 Agarre* un manazo de masa y hice mi tortilla.
+\XEN 2 I SCOop up some masa and make my tortilla.
+\SYN
+\SEMF hand, touch
+\ASP achievement
+\ARG
+\NOM ko7tz.naanh
+\SUB 7ok.ko7tz. '@y, j@x=ko7tz
+\ETYM
+\ETL
+\ROOT ko7tz
+\RTGR T3
+\DSRC TK94
+\CMTS get deriv's
+\CMTS touch something hanging in a tree
+Page 639

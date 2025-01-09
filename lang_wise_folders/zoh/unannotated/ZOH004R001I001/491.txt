@@ -1,0 +1,63 @@
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT mu7k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 06/Feb/96
+\lex jay@' muma7
+\_no 01123
+LF: jon
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+LG MIG
+\PSH [j@y@ muma7]
+\UND jay@7 muma7
+\MB
+\VAR
+\GRAM s(m)s
+\SCI
+\USE
+\SPG boto*n de flor; flor en capullo
+\ENG flower bud
+\EXU
+\XSP
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 06/Feb/96
+\lex jay@' ni.xot.a7
+\_no 01124
+\LG MIG
+\PSH [jaya nixota7]
+\UND jay@7 ni.xot.A7
+\MB flor, sOC, X, NOM2
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG reton~a de flor
+\ENG flower bud
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 06/Feb/96
+ZOH004R0011001.txt
+\lex jay (@').7@y
+\_no 01125
+\LG MIG
+\PSH [ja:y@7@y-]
+\UND_jay@7.7@y
+\MB flor, VERS2
+Page 491

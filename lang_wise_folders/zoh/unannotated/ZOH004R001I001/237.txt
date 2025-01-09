@@ -1,0 +1,62 @@
+\ROOT
+\DSRC TK94
+\CMTS CK-PH
+\date 29/Jan/96
+\lex bayniya poj
+\_no 00549
+\LG MIG
+\PSH
+\UND bayniya poj
+\MB vainilla, bejuco
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG bejuco de vainilla
+\ENG vanilla vine
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS que crece encima del palo
+\date 30/Jun/95
+\lex bayu x@k
+\_no 00550
+\LG MIG
+\PSH
+\UND bayu x@k
+\MB X, frijol
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG frijol bayo
+\ENG brown beans
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 09/Jan/96
+\lex bayun
+\_no 00551
+\LG MIG
+\PSH
+\UND
+\MB
+\VAR ban
+\GRAM av: extent
+ZOH004R0011001.txt
+Page 237

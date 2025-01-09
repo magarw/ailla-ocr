@@ -1,0 +1,63 @@
+\mb__tota*1
+\sg] total
+\egl total
+\zoq Tota*1.
+\fts Tota*1.
+\fte Completely.
+\com
+\idx sp
+\ref ZOH001R011 041
+\_no 00042
+\tx toktz@kke7tt@
+\mb tocar-tz@k -ke7t -w@
+\sg1 tocar-hacer-REPET-COM
+\egl touch-do
+\zoq Toktz@kke7tt@ 7eya*7.
+\fts Ahora le toco* a otro.
+\fte Again he tapped another one.
+\com
+\idx
+\ref ZOH001R011 042
+\_no 00043
+\tx y
+\mb
+7eya*7
+7eya -v7k
+otro -REL
+-REPET-COM other-REL
+tujke7tt@
+7@y tuj
+-ke7t -w@
+\sgl 3E
+tirar-REPET-COM
+\egl 3E shoot-REPET-COM
+\zoq Y tujke7tt@.
+\fts Le tiro* de nuevo.
+\fte He fired again.
+\com
+\idx
+\ref ZOH001R011 043
+\_no 00044
+\tx nyakti
+\mb ni-yakti
+\sgl ni-nada
+\eg1 no-nothing
+\zoq Nyakti.
+\fts Y nada.
+\fte And nothing.
+\com
+\idx
+\ref ZOH001R011 044
+\_no 00045
+\tx pwes tota*]
+\mb pwes tota*]
+\sgl pues total
+\egl well total
+ZOH001R0111001.txt
+\zoq Pwes tota*l.
+\fts Pues tota*1.
+\fte well completely.
+\com
+\idx sp
+\ref ZOH001R011 045
+Page 10

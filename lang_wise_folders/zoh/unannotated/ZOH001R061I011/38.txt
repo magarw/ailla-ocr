@@ -1,0 +1,61 @@
+\_no 00187
+\SPG calmar (dolor)
+\ENG to ease (a pain)
+\EX pomm@ toypa*7
+\XSP calmo* el dolor
+XEN the part that hurt eased
+\ROOT pom Ix
+\CMTS caus yak.pom hacer calmar
+\lex ponh
+\_no 00188
+\SPG quemar
+\ENG to burn
+\EX 7@y ponhnha*m
+\XSP ya esta* quemado
+\XEN it has burned
+\EX 7@n ponhnh@ 7@n tzanhkuy7
+\XSP queme* mi mano
+\XEN I burned my hand
+\ROOT ponh T3
+\CMTS antip ponh.7oy
+\CMTS pass ponh.7@m
+\lex pot
+\_no 00189
+\SPG ponerse blanquisco
+\ENG to become whitened
+\EX
+\XSP
+\XEN
+\ROOT pot Ix
+\CMTS caus yak.pot hacer blanquisco
+\lex po7t
+\_no 00190
+\SPG moler - cafe*, mai*z tostado, pinol,
+coffee, toasted corn
+\ENG to grind
+\EX
+\XSP
+\XEN
+\ROOT po7t T3
+\CMTS antip po7t.7oy
+\CMTS pass po7t.7@m
+\lex potz
+\_no 00191
+\SPG cansarse
+\ENG to get tired
+\EX potztza*m
+\XSP ya esta* cansado o aburrido
+\XEN he's tired or bored
+\ROOT potz 12
+\CMTS caus yak.potz cansar
+ZOH001R0611011.txt
+\lex potz
+\_no 00192
+\SPG embarrar; hacer pared; enlodar casa
+\ENG to smear; to make a wall
+\EX t@kpotztz@
+\XSP 1o embarro* la casa
+\XEN he mudded the house
+\ROOT potz T3
+\CMTS antip potz. 7oy
+Page 38

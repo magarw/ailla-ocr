@@ -1,0 +1,62 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nem
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\lex nem.e7
+\_no 00204
+\LG MIG
+\PHO [neme7]
+\UND nem.E7
+\MB cortar_con_tijeras, NOM7
+\VAR
+\GRAM pcp
+\SPG cortada
+\ENG cut
+\EXU nem.e7+k yo't.e7
+\XPSH [neme7k yote7]
+\XSP tela cortada
+XEN cut cloth
+\SYN
+\ROOT nem
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex ni.jax
+\_no 00205
+\LG MIG
+\PSH [nijax-]
+\UND ni.jax.0
+\MB PURP, X, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG algo embrocado sobre otra cosa
+\ENG something that is face-down on something else
+\SPL
+\SLGR
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * jax
+\RTGR P
+ZOH001R0611004.txt
+\DSRC HAJ95
+\CMTS CK-EX - HAJ:96, was hosed, now fixed
+\date 19/Jun/96
+\lex ni.jepx
+\_no 00206
+\LG MIG
+\PSH [nijepx]
+\UND ni.jepx.0
+\MB PURP, agarrar_con_ji*cara, NOM6
+\VAR
+\GRAM SVO
+Page 83

@@ -1,0 +1,63 @@
+\GRAM suf
+\SPG una medida taman~o de VERBO
+\ENG
+\SPL
+\SLGR
+\EXU 1 kax.naanh
+\XPSH 1 [kaxna*nh]
+\XSP 1 paso
+\XEN 1 step
+\EXU 2 xu7k.naanh
+\XPSH 2 [xu7kna*nh]
+\XSP 2 beso
+\XEN 2 kiss
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {.ney} [5]
+\_no 04475
+LG MIG
+\PSH
+\UND ney
+\MB ASSUM1
+\VAR
+\USE verbal suffix: assumptive
+\GRAM
+\SPG estar en la forma de
+\ENG to be in the form of
+\SPL
+\SLGR
+\EXU patz.ney-w@
+\XPSH [Patzneyy@.]
+\XSP Esta* tirado.
+\XEN He was thrown down.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\lex {.ney} [6]
+\_no 04476
+\LG MIG
+\PSH
+\UND ney
+\MB ITER1
+\VAR
+\USE verbal suffix: iterative
+\GRAM suf
+\SPG VERBO muchas veces
+\ENG to VERB a lot
+\SPL
+\SLGR
+ZOH004R0011001.txt
+\EXU tzam.tzam.ney-pa
+\XPSH [Tzamtzamneba.]
+\XSP No habla en serio.
+\XEN She's isn't talking seriously.
+Page 1922

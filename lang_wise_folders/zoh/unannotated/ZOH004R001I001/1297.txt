@@ -1,0 +1,63 @@
+\ASP achievement
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT to7k
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex to7kx
+\_no 03012
+LG MIG
+\PSH
+\UND to7kx
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG dar palmada
+\ENG to slap; to spank
+\SPL to7kx.7oy
+\SLGR ANTIP
+\SPL to7kx.ney
+\SLGR ASSUM1
+\EXU 1 7@y+ 7ene'=to7kx-w@
+\XPSH 1 [7@y 7eneto7kx@.]
+\XSP 1 Le pego* la palmada en la nalga.
+\XEN 1 She spanked him on the bottom.
+\EXU 2 7@y+ tzi'-pa to7kx. 'oy.kuy7 7@y+ 7ene'+jo7
+\XPSH 2 [7@y tzipa to7kxxokuy7 7@y_7enejo7.]
+\XSP 2 Le pega la palmada en la nalga.
+\XEN 2 He gave her a swat on the seat.
+\EXU 3 nena' to7kx.ney-pa pama+jo7
+\XPSH 3 [Nena to7kxneypa pamajo7.]
+\XSP 3 Esta* acostada en la cama desnuda.
+\XEN 3 She's lying in bed naked.
+\SYN
+\SEMF hit
+\ASP momentaneous, activity
+\ARG
+\NOM
+\SUB 7an@k.to7kx.7@y
+\ETYM
+\ETL
+\ROOT to7kx
+\RTGR P, T3
+\DSRC HAJ94
+ZOH004R0011001.txt
+\CMTS CK for .ney
+\CMTS
+\date 03/Jan/80
+\lex to7kx pitz.i
+\_no 03013
+\LG MIG
+\PSH [to7kx pitzi]
+\UND to7kx pitz. E
+\MB pelarse_mai*z, cocer_mai*z_en_cal, NOM7
+\VAR
+\GRAM vi
+Page 1297

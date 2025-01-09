@@ -1,0 +1,63 @@
+\DATE 03/Jan/1980
+\lex p@7tz
+\_no 02855
+\LG MIG
+\PSH
+\UND p@7tz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG destripar
+\ENG to gut
+\SPL p@7tz.7oy
+\SLGR ANTIP
+\SLGL destripar // to gut
+\SPL p@7tz.7@m
+\SLGR PASS
+\SLGL destriparse // to be gutted
+\SPL p@7tz.ten
+\SLGR PRSV
+\SLGL tener destripado // to have gutted
+\EXU koke=p@7tz-wa
+\XPSH [Kokep@7tztz@.]
+\XSP Destripo* pescado.
+\XEN She gutted the fish.
+\SYN
+\SEMF clean, animal
+\ASP activity
+\ARG
+\NOM p@'tz.17
+\SUB jax-p@7tz.jay
+\ETYM
+\ETL
+\ROOT p@7tz
+\RTGR T3
+\DSRC TK94
+\CMTS fish, pigs, etc.
+\date 03/Jan/80
+\lex p@y
+\_no 02856
+\LG MIG
+\PSH
+ZOH004R0011001.txt
+\UND p@y
+\MB
+\VAR
+\GRAM vt
+\SPG agarrar un chupete
+\ENG to take a little sip or puff
+\SPL p@y.7oy
+\SLGR ANTIP
+\SLGL agarrar un chupete // to take a little sip or puff
+\EXU 1 7@y+ p@y-wa
+\XPSH 1 [7@y p@yy@.]
+\XSP 1 Fumo*.
+\XEN 1 She smoked.
+\EXU 2 n@k-taanh p@y. 'oy-taanh
+\XPSH 2 [N@kta*nh p@yyoda*nh.]
+\XSP 2 vamos a chupar.
+\XEN 2 Let's go drinking.
+\EXU 3 7@y+ pak-w@ tum p@y.naanh juk. E
+Page 1230

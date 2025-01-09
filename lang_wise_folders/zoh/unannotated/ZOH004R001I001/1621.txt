@@ -1,0 +1,63 @@
+\SUB nik.witz. '@y
+\ETYM
+\ETL
+\ROOT witz
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex witz.i+i7
+\_no 03773
+LG MIG
+\PSH [witzi7]
+\UND witz.E +P@7k
+\MB hacer_alma*cigo, NOM7, REL
+\VAR
+\GRAM PCP
+\SCI
+\USE
+\SPG (hecho) alma*cigo
+\ENG nursery
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT witz
+\RTGR T3
+\DSRC HAJ95
+\CMTS CK-PH - HAJ:96 ok; GMS wont give a simple pcp/sv here: TK
+\date 26/Jun/96
+\lex wix
+\_no 03774
+LG MIG
+\PSH
+\UND wix
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG arrancar, con rai*z y todo
+\ENG to pull up, roots and all
+\SPL wix. 7oy
+\SLGR ANTIP
+\SLGL arrancar // to pull up
+\SLGR NO PASS
+ZOH004R0011001.txt
+SLGR NO ASSUM1
+\SPL wix. ten
+\SLGR PRSV
+\SLGL tener arrancado // to have something pulled up
+\EXU 1 wix. '@m-w@
+\XPSH 1 [wixx@mm@.]
+\XSP 1 se arranco* solito (como con el norte).
+\XEN 1 It was pulled up by the roots (like from the north wind).
+\EXU 2 7@y+ wix.ten-w@ bi x@k pa(ra) 7@y+ nakx-pa
+\XPSH 2 [7@y wixtenn@ bi x@k pay nakxpa.]
+\XSP 2 Tiene arrancado el frijol para porriarlo.
+Page 1621

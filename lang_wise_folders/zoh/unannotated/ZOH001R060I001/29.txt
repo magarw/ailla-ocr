@@ -1,0 +1,70 @@
+\fts vine de la casa
+\fte I'm coming from home
+\com
+\idx
+\ref 118
+\_no 00119
+\tx d@ minn@
+\mb d@ min
+\sg1 1A venir-COM
+-wa
+\egl 1A come -COM sacred -house-DIR4
+\fts vine de la iglesia
+\fte I'm coming from the church
+\com
+\idx
+\ref 119
+\_no 00120
+maxant@kjo nh
+maxan -t@k
+-joonh
+sagrado-casa -DIR4
+\tx d@ minn@
+\mb d@ min
+-wa
+\sg1 1A venir-COM DCT3-Loc1
+de_alla*_arriba
+\egl 1A come -COM DCT3-LOC1 from_up_there
+\fts vine de alla* arriba
+\fte I'm coming from up there
+\com
+\idx
+gaja
+k@x@*nh
+ka -ja7
+-ja7 k@x@@nh
+\ref 121
+\_no 00122
+ZOH001R0601001.txt
+\ref 120
+\_no 00121
+\tx d@ minn@
+gaja
+k@j@*nh
+\mb d@ min -w@
+ka -ja7 k@j@@nh
+\sg1 1A venir-COM DCT3-Loc1 por_abajo
+\egl 1A come -COM DCT3-Loc1 below
+\fts vine de alla* abajo
+\fte I'm coming from down there
+\com
+\idx
+\tx d@ minn@
+\mb d@ min
+-w@
+7okjonanh
+7ok -jonanh
+ABAJO-DIR3
+\sgl 1A venir-COM
+\egl 1A come -COM DOWN -DIR3
+\ref 122
+\_no 00123
+\fts vine de alla* abajo
+\fte I'm coming from down there
+\com
+\idx
+\tx
+d@ minn@
+kumkuy__gaja*nh
+\mb da min -w@ kumkuy7 ka -jaanh
+Page 29

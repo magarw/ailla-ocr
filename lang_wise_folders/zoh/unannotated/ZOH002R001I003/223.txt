@@ -1,0 +1,45 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(iii)
+(iv)
+(v)
+(vi)
+causative
+ye'tztzø tøk'angjø benigno helasyo 'øy tøkjo'
+0 ye?c-wa
+tək?aŋhə? benigno helasyo ?əy+ tək+ho?
+3A llegar-COM san_miguel benigno gelasio 3E+ casa+LOC2
+para ke minpa 'øy yaktzømmø bi 'angpøn
+?əy+yak.cəm-wə
+para ke min-pa
+bi ?aŋpən
+para que venir-INC 3E+ CAUS.platicar-dINC DEF zoque
+'Llegó Benigno en San Miguel en la casa de Gelasio para que viene a
+platicar el zoque (en el proyecto).'
+(ZOH001 R010-001-2)
+passive
+peru ti minpay tzøkkømmơ
+pero ti
+min-pa ?ǝy+ cək.?əm-wə
+pero que venir-INC 3E+ hacer. PAS-dINC
+'Pero que está pasando? (lit. Qué se viene a hacer?)'
+(ZOH001R043-098)
+applicative
+nømpa rromán si nøkpam nømjayyø
+0 nəm-pa rromán si nək-pa ?əm+ nəm.hay-wə
+3A say-INC román si ir-INC 2E+ decir.APPL-dINC
+'Román dijo, "Si le vas a decir"
+(ZOH001 R018-125)
+antipassive
+'eyajóng ga nøkkam 'øy nukoe
+?eya?+hooŋ ga.?
+nək-wǝ+?am ?ǝy+ nuk.?oy-E
+otro+DIR3 DCT3.NOM1 ir-COM+YA 3E+ agarrar.ANTIP-dCOM
+'Otro lado fue a agarrar.'
+(ZOH001R025-010)
+208
+Derivational affixes that affect the meaning of the verb stem appear,
+naturally, on V2, as shown in examples (8.7 i-ii). V2 can be any sort of derived
+or compounded stem. In example (ii), V2 consists of the root cən- 'to sit'
+compounded with the derived stem ?ok.heh-, 'to rest'. Derivational affixes that
+affect the meaning of the event as a whole, such as time adverbials, may appear
+on the auxiliary or on V2 or on both. Examples of these are shown in (iii-v).

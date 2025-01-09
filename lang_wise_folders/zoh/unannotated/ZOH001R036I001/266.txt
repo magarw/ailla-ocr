@@ -1,0 +1,83 @@
+\fte what medicine can you give?
+\com
+\idx
+\ref ZOH001R036 999-256
+\_no 01237
+m
+n@mmoba
+prepartz@kjaba
+n@m-7oy -ра 7@m preparar-tz@k -jay -pa
+\sg1 que saltar DO -ANTIP-INC 2E
+\egl what jump DO -ANTIP-INC 2E
+\tx ti tzoy
+\mb ti tzoy
+\tx ра
+p@7tpa
+\mb para p@7t -pa
+\sg1 para pasar-INC
+\egl for pass -INC
+\zoq Ti tzoy n@mmobam prepartz@kjabam tzipa*m pa p@7tpa?
+\fts Que remedio le puedes preparar para que pase?
+\ref ZOH001R036 999-257
+\_no 01238
+\fte what medicine can you make them, you give them so it passes?
+\com
+\idx
+\tx tekkoyy@
+\mb tek-7oy
+\tx OSM: pwes 7el ke
+\mb OSM pwes 7el ke
+\sg1 OSM: pues el que
+\egl OSM: well the that urine
+-w@
+\sgl ***-ANTIP-DINC
+\egl ***-ANTIP-DINC
+\ref ZOH001R036 999-258
+\_no 01239
+\tx tekkot@pa
+\mb
+tek-7oy
+\zoq OSM: Pwes, 7el ke teke7t7anhkampa, ya n@mmoy tekkoyy@.
+\fts OSM: Pues, e*1 que se tapea de orin, no puede orinar.
+\fte OSM: Well, one who has a blockage of urine, he can't piss.
+\com
+\idx
+ZOH001R0361001.txt
+-pa
+m
+tzipa*m
+7@m tzi7-pa - 7am
+preparar-hacer-APPL-INC 2E dar -INC-YA
+prepare - do
+-APPL-INC 2E give-INC-NOW
+ya n@mmo
+y
+7@y
+-pa ya n@m-7oy -A
+orin BOCA -trabarse -INC NEG DO -ANTIP-NINC 3E
+MOUTH-get_stuck-INC NEG DO -ANTIP-NINC 3E
+\ref ZOH001R036 999-259
+\_no 01240
+\tx 7i ya pata
+\mb 7i ya p@7t -A
+teke7t 7anhkampa
+teke7t 7anh -kam
+fwersa
+-t@7
+fwersa
+\sg] ***-ANTIP-querer-INC 3E hacer-INC fuerza
+\egl ***-ANTIP-want -INC 3E do -INC strength
+\zoq Tekkot@pa_7@y tz@kpa fwersa,
+\fts Quiere orinar hace fuerza,
+\sg] y
+NEG pasar-nINC
+\eg1 and NEG pass -nINC
+7@y tz@kpa
+7@y tz@k -pa
+\fte He wants to piss, he exerts force,
+\com
+\idx
+\zoq 7i ya pata.
+\fts y no pasa.
+\fte and it doesn't happen.
+Page 266

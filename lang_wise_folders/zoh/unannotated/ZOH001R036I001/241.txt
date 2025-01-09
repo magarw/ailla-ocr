@@ -1,0 +1,79 @@
+\tx p@jageta
+7axta ke
+7axta ke
+ZOH001R0361001.txt
+masis7apa
+bi tzanhkuy
+amasis-7a -pa bi tzanh-kuy7
+-VERS1-INC DEF pegar-INSTR1
+\mb
+\sg1
+***
+hasta que
+\egl put -APPL-REPET-IMPV until that *** -VERS1-INC DEF hit -INSTR1
+pa7 -jay -ke7t -A7
+poner-APPL-REPET-IMPV
+\zoq P@jageta 7axta ke masis7apa bi tzanhkuy.
+\fts Echale de nuevo hasta que se amacice la mano.
+fte Put it on again until ??? the arm.
+\com
+\idx
+\ref ZOH001R036 999-134
+\_no 01116
+\tx
+\mb
+GSM: tzanhkuy
+GSM
+tzanh-kuy7
+\sg1 GSM: pegar-INSTR1
+\egl GSM: hit -INSTR1
+\com
+\idx
+\zoq GSM: Tzanhkuy.
+\fts GSM: Mano.
+\fte GSM: Hand.
+\ref ZOH001R036 999-135
+\_no 01117
+\tx <break> ;
+\fts <break>;
+\ref ZOH001R036 999-136
+\_no 01118
+\tx ti
+\mb ti
+7@m tzipa
+7@m tzi7-pa
+tzoy
+tzoy
+\sg1 que saltar 2E dar -INC
+\egl what jump 2E give-INC
+\zoq Ti tzoy 7@m tzipa?
+fts Que remedio le das?
+\fte What medicine do you give?
+\com
+\idx
+\ref ZOH001R036 999-137
+\_no 01119
+\tx OSM: pixtinh 7ay 7@y naka
+\mb OSM
+OSM pixtinh7 7ay7 7@y naka
+\sg1 OSM: ceiba hoja 3E cuero
+\egl OSM: ceiba leaf 3E skin
+\zoq OSM: Pixtinh 7ay 7@y naka.
+\fts OSM: Ca*scara de pochote.
+\fte OSM: Bark of the ceiba.
+\com
+\idx
+\ref ZOH001R036 999-138
+\_no 01120
+\tx
+poyputzi
+\mb ga
+ka
+poy -putz
+-7
+\sg1 DCT3-NOM1 juirse-pudrirse-NOM3
+\eg1 DCT3-NOM1 flee - rot
+\zoq Gay poyputzi.
+-E7
+-NOM3
+Page 241

@@ -1,0 +1,65 @@
+\_no 00888
+\LG MIG
+\PSH [jot@nh-]
+\UND jo.t@nh
+\MB EN, cortar
+\VAR
+\GRAM vt:incorp
+\SCI
+\USE
+\SPG cortar en trozos (como madera)
+\ENG to hack in pieces (like wood)
+\EXU 7@y+ jo.t@nh-wa kuy
+\XPSH [7@y jot@nhnh@ kuy.]
+\XSP Corto* por pedazo el palo.
+\XEN He chopped the tree into pieces.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT t@nh
+\XPSH T3
+\DSRC HAJ94
+\CMTS CK-all; ?analysis of EX
+\date 18/Jun/96
+\lex jo.tzam
+\_no 00889
+\LG MIG
+\PSH [jotzam-]
+\UND jo.tzam
+\MB EN, platicar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG repetir
+\ENG to say again
+\SPL
+SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzam
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 03/Feb/96
+\lex jo.wak
+\_no 00890
+\LG MIG
+\PSH [jowak-]
+\UND jo.wak
+\MB EN, *vaciar
+\VAR
+\GRAM Vi
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG vaciarse, desocuparse
+fixed
+HAJ: 96
+Page 387

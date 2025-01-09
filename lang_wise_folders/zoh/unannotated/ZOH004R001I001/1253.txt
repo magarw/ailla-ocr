@@ -1,0 +1,64 @@
+\SPG mariposa
+\ENG butterfly
+\EXU pop (o') sur.penh.penh
+\XSP mariposa blanca
+\EXU popo chik sur.penh.penh
+\XSP mariposa pequen~a blanca
+\EXU tzikin sur.penh.penh
+\XSP mariposa pinta
+\EXU tzapatz sur.penh.penh
+\XSP mariposa roja
+\EXU tzux sur.penh.penh
+\XSP mariposa verde
+\EXU pu7tz.put7z sur.penh.penh
+\XSP mariposa amarilla
+\EXU chik y@k sur.penh.penh
+\XSP mariposa negrita
+\EXU y@k.y@k sur.penh.penh
+\XSP mariposa negra
+\EXU nax_sur.penh.penh
+\XSP mariposa color de tierra
+\SYN
+LF:bugs
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-a11 HAJ:96 ok/TK [surpenhpenh7]
+\CMTS popo' chik - blanco y pequen-~o; chik popo' - medio-blanco
+\date 25/Jun/96
+\lex tabla
+\_no 02912
+\LG MIG
+\PSH
+\UND tabla
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG tabla
+\ENG board
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex taj
+\_no 02913
+\LG MIG
+\PSH
+\UND taj
+\MB
+\VAR
+ZOH004R0011001.txt
+\GRAM vt
+\SCI
+Page 1253

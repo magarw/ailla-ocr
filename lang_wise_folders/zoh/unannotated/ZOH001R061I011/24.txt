@@ -1,0 +1,59 @@
+\XSP
+\XEN
+\ROOT min Ix
+\CMTS caus2 yak+ min dejar venir
+\lex mi7tz
+\_no 00113
+\SPG agarrar con el pun*o algo pequen~o que no se vea
+\ENG to hold something small in the closed fist so it isn't visible
+\EX
+\XSP
+\XEN
+\ROOT mi7tz T3
+\CMTS antip mi7tz.7oy
+\CMTS no pass mi7tz.7@m
+\lex mokoe7
+\_no 00114
+\SPG borracho
+\ENG drunk
+\EX
+\XSP
+\XEN
+\ROOT mokoy Ix
+\CMTS
+\lex mokok
+\_no 00115
+\SPG doler; por poquito le duele
+\ENG to hurt
+\EX
+\XSP
+\XEN
+\ROOT mokok Ix
+\CMTS get deriv's
+\lex mokoy
+\_no 00116
+\SPG emborracharse
+\ENG to get drunk
+\EX
+\XSP
+\XEN
+\ROOT mokoy Ix
+\CMTS
+\1ex mo7kx
+\_no 00117
+\SPG agarrar huevos
+\ENG to get eggs
+\EX 7@y mo7kxpa 7@y tzunu7
+\XSP
+ZOH001R0611011.txt
+\XEN he grabbed his ball-sack
+\EX 7@y mo7kxjayy@ 7@y tzunu7
+\XSP he grabbed the other guy's ball-sack
+\ROOT mo7kx Tx
+\CMTS
+\lex mon
+\_no 00118
+\SPG envolver
+\ENG to wrap
+\EX
+Page 24

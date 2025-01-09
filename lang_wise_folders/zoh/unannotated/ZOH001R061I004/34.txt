@@ -1,0 +1,62 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jep
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 06/Feb/96
+\lex je'k.e7
+\_no 00081
+\LG MIG
+\PSH [jeke7]
+\UND_je7k.E7
+\MB limpiar_con_coa, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG limpiado con coa
+\ENG cleaned out with a hoe
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT je7k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex jin-putz.i
+\_no 00082
+LG MIG
+\PSH [jinputzi]
+\UND jin-putz. E
+\MB X, pudrirse, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG viruela
+\ENG smallpox
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT putz
+\RTGR 12
+\DSRC HAJ94
+\CMTS get deriv's
+\date 06/Feb/96
+\lex jipx.@7 [1]
+\_no 00083
+ZOH001R0611004.txt
+Page 34

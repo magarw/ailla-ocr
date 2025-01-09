@@ -1,0 +1,61 @@
+\SPG
+\ENG
+\EX
+\XSP
+\XEN
+\ROOT xukuk Ix
+\SEMF sex
+\CMTS get gloss, prob. sexual
+\lex xu7t
+\_no 00173
+SPG hacerse angosto
+\ENG to widen
+\EX
+\XSP
+\XEN
+\ROOT xu7t 12
+\SEMF condition
+\CAUS yak.xu7t
+\CMTS
+\lex xux
+\_no 00174
+\SPG chiflar
+\ENG to whistle
+\EX 7@y xuxjayy@
+\XSP le chiflo*
+\XEN he whistled at someone
+\ROOT Xux Il
+\SEMF speak
+\CMTS
+\lex x@j
+\_no 00175
+\SPG pasar el agua
+\ENG for the rain to pass
+\EX X@jjam tuj
+\XSP ya paso* el agua
+\XEN now the rain has passed
+\CMTS 7@y 7ixtukk@ yakx@jja bi tuj
+\XSP espero* que pasa el agua
+\XEN she waited for the rain to pass
+\ROOT X@j Ix
+\SEMF nature, water
+\CAUS yak.x@j (see ex.)
+\CMTS ex is probably yakk@
+\lex x@k@k
+\_no 00176
+ZOH001R0611007.txt
+\SPG quejarse
+ya para morir
+\ENG to complain - now like you're going to die
+\EX
+\XSP
+\XEN
+\ROOT x@k@k Ix
+\SEMF speak
+\CAUS NONE
+\CMTS ya estaba dando las ultimas para morir
+\lex x@n
+\_no 00177
+\SPG aguar
+\ENG
+Page 41

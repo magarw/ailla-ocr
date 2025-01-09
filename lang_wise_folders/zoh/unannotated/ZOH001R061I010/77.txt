@@ -1,0 +1,62 @@
+ZOH001R0611010.txt
+\CAUS yak.we7ch hacer/dejar chueco; pandear
+\CMTS
+\lex wej
+\_no 00341
+\SPG gritar; rugir; mugir; bramar
+\ENG to shout; to roar; to moo; to bellow
+\EX 7@y wejjayy@
+\XSP le grito*
+\XEN he shouted at someone
+\ROOT wej T1
+\SEMF speak
+\CAUS yak.wej hacer gritar
+\CMTS
+\lex we7k
+\_no 00342
+\SPG envarillar
+\ENG
+\EX
+\XSP
+\XEN
+\ROOT we7k T1
+\SEMF
+\CMTS
+\lex wen
+\_no 00343
+\SPG partir
+\ENG to tear in half
+\EX 7@y wenn@ 7ane kukkina*nh
+\XSP partio* la tortilla por la mitad
+\XEN she tore the tortilla in half
+\ROOT wen P, (T3)
+\SEMF cut, hand
+\PASS wen.7@m partirse
+\ANTI wen. 7oy partir
+\ASSU wen.ney estar partido
+\CMTS
+\lex we7tz
+\_no 00344
+\SPG arrastrarse
+\ENG to drag oneself
+\EX we7tzpa 7@y witt@
+\XSP anda arrastrandose
+\XEN he dragged himself around
+\ROOT we7tz P, (11)
+\SEMF motion
+\CAUS NONE
+\ASSU we7tz.ney estar sentado arrastrando
+\CMTS
+nin*o; andar arrastra*ndose; arrastrarse sentado
+a child; to move by dragging along
+\lex wij
+\_no 00345
+\SPG zambutirse
+\ENG
+\EX
+\XSP
+\XEN
+\ROOT wij P (IX)
+\SEMF motion
+\CAUS yak.wij decir que se zambutiera
+Page 77

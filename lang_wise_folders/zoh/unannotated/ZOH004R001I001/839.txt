@@ -1,0 +1,64 @@
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\1ex meme7
+\_no 01946
+\LG MIG
+\PSH
+\UND meme 7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG mujer que cuida criatura
+\ENG a woman who looks after babies
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 02/Oct/94
+\lex meme7 7une'=7ix-pa+a7k
+\_no 01947
+\LG MIG
+\PSH [meme 7une7ixpa*7k]
+\UND meme7 7une7=7ix-pa+'a7k
+\MB aya, nin~o/a, ver, INC, REL
+\VAR
+\GRAM agt1: incorp
+\SCI
+\USE
+\SPG ella que cuida bebe*
+\ENG a woman who tends infants
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7ix
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-GR
+\date 19/Jun/96
+-
+ZOH004R0011001.txt
+HAJ:96, changed to the agt1 form. doesn't allow as a verb
+\lex metz-a-nh-po'
+\_no 01948
+\LG MIG
+\PSH [metza*nhpo-]
+\UND metz-a-7anh po7
+\MB
+\VAR
+Page 839

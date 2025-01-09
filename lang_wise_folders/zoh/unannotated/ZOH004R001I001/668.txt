@@ -1,0 +1,63 @@
+\USE
+\SPG comadre
+\ENG godmother
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ETYM comadre
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex kuma' kuy
+\_no 01539
+\LG MIG
+\PSH
+\UND kuma7 kuy
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG palo de coyol
+\ENG coyol tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex kumbi=tz@k
+\_no 01540
+\LG MIG
+\PSH [kumbitz@k-]
+\UND kumbi=tz@k
+\MB X, HACER
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG invitar
+ENG to invite
+\SPL
+\SLGR
+\EXU kumbi=tz@k. 7oy-pa
+\XPSH [Kumbitz@kkoba.]
+\XSP Le invita.
+\XEN She's inviting people.
+\SYN
+\SEMF
+\ETYM convidar
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+ZOH004R0011001.txt
+Page 668

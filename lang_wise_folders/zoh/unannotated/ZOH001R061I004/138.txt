@@ -1,0 +1,62 @@
+\GRAM PCp
+\SPG pedido
+\ENG asked-for
+\EXU tze'k.e7+k juk.i
+\XPSH [tzeke7k juki]
+\xSP cigarro pedido
+\XEN borrowed cigarette
+\SYN
+\ROOT tze7k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tzik.i7
+\_no 00346
+\LG MIG
+\PHO [tziki7]
+\UND tzik.E7
+\MB pelar, NOM7
+\VAR
+\GRAM pcp
+\SPG pelado, deshojado
+\ENG peeled, skinned, stripped of leaves
+\EXU mok tzik.i7
+\XPSH [mok tziki7]
+\XSP maiz deshojada
+\XEN shucked corn
+\SYN
+\ROOT tzik
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tzin t@n.@7
+\_no 00347
+\LG MIG
+\PSH [tzin t@n@7]
+\UND tzin t@n.A7
+\MB ocote, echar_goma, NOM2
+\VAR t@n.@7
+\GRAM SV
+\SCI
+\USE
+\SPG trementina o goma del ocote
+\ENG pine pitch
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT t@n
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 11/Feb/96
+ZOH001R0611004.txt
+\lex tzix.i
+\_no 00348
+\LG MIG
+Page 138

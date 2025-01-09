@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT p@
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 02/Oct/96
+\lex 7adobe
+\_no 00009
+\LG MIG
+\PSH
+\UND 7adobe
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG adobe
+\ENG adobe
+\EXU nax 7@y+ m@k-w@ 7adobe=tz@k-w@
+\XPSH [Nax 7@y m@kk@ 7adobetz@kk@.]
+\XSP De tierra hizo el adobe.
+\XEN He molded the earth, he made adobe.
+\SYN
+\SEMF
+\ETYM adobe
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 02/Oct/96
+\lex 7aflij(i)=tz@k
+\_no 00010
+\LG MIG
+\PSH [7aflijitz@k-]
+\UND 7afliji=tz@k
+\MB afligir, HACER
+\VAR 7afliij=tz@k
+\GRAM vi
+\SCI
+\USE
+\SPG 1 estar preocupado por algo
+\SPG 2 afligirse
+\ENG 1 to be worried about something
+ENG 2 to be troubled
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM afligir
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+ZOH004R0011001.txt
+\CMTS
+\date 02/Oct/96
+\lex 7agagal kuy
+\_no 00011
+\LG MIG
+Page 4

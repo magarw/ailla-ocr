@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG bajarse en una resbaladia
+\ENG to go down a slippery slope
+\SPL
+\SLGR
+\EXU 1 7@y+ 7ok.jitzi.7@y-w@ 7@y+win
+\XPSH 1 [7@y 7okjitzi7@yy@y win.]
+\XSP 1 se bajo* como que en una resbaladia.
+\XEN 1 She slid down.
+\EXU 2 jitzi-w@ bi kuy
+\XPSH 2 [Jitziw@ bi kuy.]
+\XSP 2 Se arrastro* el palo.
+\XEN 2 The tree was dragged.
+\EXU 3_7@y+ jitzi-wit-w@ bi kuy
+\XPSH 3 [7@y jitziwitt@ bi kuy.]
+\XSP 3 Anduvo arrastrando el palo.
+\XEN 3 He walked dragging the log.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jitzi
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex 7ok.jix. '@y
+\_no 00325
+\LG MIG
+\PSH [7okjixx@y-]
+\UND 7ok.jix.7@y
+\MB ABAJO, remojar, SUF
+\VAR
+\GRAM vt
+\SPG sacar algo con pedazo de papel
+\ENG to wipe up a bit of something with something like a piece of paper
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN j@x-jix
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT jix
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 17/Jul/95
+\lex 7ok+jonanh+p@7
+\_no 00326
+\LG MIG
+\PSH [7okjonanhp@7]
+\UND 7ok+jonanh+P@7k
+\MB BAJA, DIR3, REL
+\VAR 7ok+jonanh+p@7 p@n
+\GRAM
+\SCI
+\USE
+Page 140

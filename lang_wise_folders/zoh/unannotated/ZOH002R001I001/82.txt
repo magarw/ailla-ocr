@@ -1,0 +1,49 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+4.2. Nouns
+Nouns are those words that can appear with the definite article bi, or
+similarly, with one of the deictics. This is not strictly a root class, since there
+are many derivational suffixes that form nouns from verb roots or from
+adjectives (section 7.2). Noun compounding is common, although it can be
+difficult to determine whether the result is a word or a phrase (section 9.4).
+Relative clauses may also be headed by the definite article (section 11.1), in
+which case they are functioning simply as nouns.
+(4.14)
+(i)
+(iii)
+(v)
+kuy
+kuy
+'tree'
+kumkuhjá'
+kum.kuy?.haa?
+bury.INSTR1.NOM4
+'townspeople'
+jojo tøk
+hoho tək
+palm house
+'palm house'
+(ii)
+(iv)
+57
+(vi)
+jukutøk
+hukutək
+'fire'
+kaxnáng
+kaš.naaŋ
+step. MEAS
+'step'
+jamatin
+hama=tin
+day=shit
+'money'
+(vii) nømpa bi 'angmayyobá'k yo:m'une maryalena
+0 nəm-pa bi ?aŋ.may.?oy-pa+V?k
+yomǝ?=?une? maryalena
+3A say-INC DEF MOUTH.count. ANTIP-INC+REL female=child marialena
+'says the young woman teacher Marialena'
+(ZOH001R015-021)
+There is no set of nouns in MIG Zoque that is obligatorily possessed, as is
+the case in some MesoAmerican languages (Suarez, 1983). There are no nouns
+for which possession is ungrammatical, although certainly some such
+collocations are pragmatically absurd (?ən ?inə?, 'my cloud', for example).

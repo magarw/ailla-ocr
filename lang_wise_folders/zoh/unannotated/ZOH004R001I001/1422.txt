@@ -1,0 +1,65 @@
+\ENG pestle which is part of the flat
+ZOH004R0011001.txt
+grinding stone
+\EXU 7@n+ tza'=manak +j@nanh 7@n+ jox-w@ 7@n+ wa.e
+\XPSH [7@n tzamanakj@nành 7@n joxxn wae.]
+\XSP Con mi mano de metate amase* mi masa.
+\XEN with the pestle I kneaded my masa.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 10/Feb/96
+\DATE 09/Aug/02
+\lex tza'-n@7kx.i
+\_no 03308
+\LG MIG
+\PSH [tzaan@7kxi]
+\UND tza7=n@7kx. E
+\MB piedra,
+\VAR
+\GRAM nom: incorp
+\SCI
+\USE
+\SPG esquiva de piedra; barda de piedras
+\ENG a stack of stones; a wall of stones
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT n@7kx
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS CK-PH
+\date 26/Jun/96
+ok; NO, but TK fixed it
+\lex tza'=t@k
+\_no 03309
+\LG MIG
+\PSH [tzat@k]
+\UND tza'=t@k
+\MB piedra, casa
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG hoyo de piedra
+\ENG hole in rock
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+Page 1422

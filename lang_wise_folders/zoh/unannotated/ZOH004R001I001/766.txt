@@ -1,0 +1,62 @@
+\RTGR 3 T3
+\DSRC HAJ95
+\CMTS
+\date 25/Jun/96
+\lex k@x.i'=tze'
+\_no 01770
+\LG MIG
+\PSH [k@@xitze-]
+\UND k@x. E7=tze7
+\MB comer, NOM7, lavar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG lavar comida
+\ENG to wash food
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 k@x
+\RTGR 1 T3
+\ROOT 2 tze
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex k@x.ki7px
+\_no 01771
+LG MIG
+\PSH [k@xki7px-]
+\UND k@x.ki7px
+\MB comer, PROB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG probar
+\ENG to taste
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT k@x
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex k@x.kuy7
+\_no 01772
+\LG MIG
+\PSH [k@xkuy7]
+\UND k@x.kuy7
+\MB comer, INSTR1
+ZOH004R0011001.txt
+Page 766

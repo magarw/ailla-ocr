@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex kuw.i
+\_no 01637
+\LG MIG
+\PSH [kuwi]
+\UND kunh.E
+\MB colgar, NOM7
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG lazo de oro, que usan las mujeres
+\ENG gold rope worn by women
+\EXU kuwi lapa7
+\XSP lazo de oro
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kunh
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS analysis
+\date 24/Jun/96
+\lex kwachi
+\_no 01638
+LG MIG
+\PSH
+\UND kwachi
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG gemelo
+\ENG twin
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 01/Oct/94
+\lex kwadradu
+\_no 01639
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+\UND kwadradu
+\MB
+\VAR
+Page 708

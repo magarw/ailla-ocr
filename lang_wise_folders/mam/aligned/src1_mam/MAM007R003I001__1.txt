@@ -1,0 +1,42 @@
+Mam - 3
+(1) T-i'j
+A3s-SR:sobre huérfano
+'Sobre el huérfano'
+jun kweent
+EXIST=B3s un cuento
+'Hay un cuento'
+n-q'ama-'n-a ja'la,
+B3s-DIR-POT Als-decir-SD=1s ahora
+que voy a contar ahora,'
+jun t-yool
+EXIST=B3s uno A3s-palabra
+es un cuento de mi abuela'
+t-q'ama-'n t-uk'u=x
+CPL.DEP=B3s=DIR A3s-decir-SD A3s-SR:COM-siempre
+n-txuu-ya.
+Als-mamá=1s
+'que contó con mi mamá.'
+(6) Kee noq qit q=ok
+que
+asustar-CAUS-SD=1pEXCL antes
+'Que sólo nos asustaba antes,'
+(7) pwes mii'n kee kyja'=tzan 0-teen b'aj
+no
+que así pues B3s-estar terminar A3p-SR:sobre
+t-ku'-leen
+A3s-bajar-ABST
+'pues, no, que así es como pasó,'
+n-yaa'=ya
+Als-abuela=1s
+kwanda ojtxa t-'itz'j
+muunt.
+cuándo antes A3s-nacerse A3s-SR:superficie mundo
+'cuándo empezó antes al formar el mundo.'
+(9) Kye at=0
+que EXIST=B3s uno huérfano
+'Que había un huérfano,'
+(11) Entoonse n=0=xi
+entonces INC=B3s-DIR
+'Entonces vió'
+INC=B3s=ir pasear-INF A3s-SR:en
+'que se fue a pasear a la orilla del mar.'

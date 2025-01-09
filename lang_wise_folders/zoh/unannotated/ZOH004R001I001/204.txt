@@ -1,0 +1,63 @@
+\lex 7oorganno
+\_no 00474
+\LG MIG
+\PSH [70*rganno]
+\UND 70organno
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG organo
+\ENG organ cactus
+\EXU 70organno paxte7
+\XSP espina de organo
+\XEN
+\SYN 7oorgano kuy
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH
+\date 24/Jun/96
+\lex 7oorgano kuy
+\_no 00475
+\LG MIG
+\PSH [70*rgano kuy]
+\UND 70organo kuy
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG o*rgano
+\ENG organ cactus
+\SPL
+SLGR
+\EXU
+\XSP
+ok [I hear no [nn]: TK]
+\XEN
+\SYN 70organo paxte7
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex 7uba
+\_no 00476
+\LG MIG
+\PSH
+\UND 7uba
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG uva
+\ENG grape
+ZOH004R0011001.txt
+Page 204

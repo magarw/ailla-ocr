@@ -1,0 +1,80 @@
+ZOH001R0331001.txt
+\zog para d@n k@xkuy7, para g@ k@xkuy7, k@xkuy7, para la komida, d@x para
+k@xkuy7 go7.
+\fts para comida para la comida comida para la comida yo para la comida.
+\fte for my food, for that food, food, for the food, I (sell it) for food.
+\com
+\idx
+\ref ZOH001R033 025
+\_no 00024
+\tx de7x
+de
+\mb te
+-7xe te -7
+-pa
+\sg1 DCT2-SIM DCT2-NOM1
+torcer-INC
+\eg1 DCT2-SIM DCT2-NOM1 twist -INC
+\zoq De7xe de7, wi7tpa
+\fts Asi*
+es, lo trenzo.
+\fte That's the way it is, I braid it.
+\com
+\idx
+\ref ZOH001R033 026
+\_no 00025
+\tx wi7tpa
+\mb wi7t
+g@
+pata;
+-ра g@ pata7
+\sg] torcer-INC DEM petate
+\egl twist -INC DEM mat
+\zoq wi7tpa g@ pata.
+\fts Trenzo el petate.
+\fte I braid the mat.
+\com
+\idx
+wi7tpa;
+wi7t
+\ref ZOH001R033 027
+\_no 00026
+\tx 7@m wi7tpa
+g@ pata
+m wi7tpa
+\mb 7@m wi7t -pa g@ pata7 7@m wi7t
+\sg1 2E torcer-INC DEM petate 2E
+\egl 2E twist -INC DEM mat 2E twist -INC twist -INC
+-ра
+torcer-INC
+-pa
+torcer-INC
+\ref ZOH001R033 028
+\_no 00027
+\zoq 7@m wi7tpa g@ pata7, 7@m wi7tpa, wi7tpa.
+\fts Lo trenzo el petate.
+\fte You braid the mat, you braid it, braid it.
+\com
+\idx
+\tx despwes kay
+de 7otro 7otro d@n tz@kke7tpa
+g@ pata7;
+\mb despwe*s ka -y
+de 7otro 7otro d@n tz@k -ke7t -pa g@
+g@ pata7
+\sg1 despues DCT3-TMP de otro otro XE hacer-REPET-INC DEM petate
+\egl after DCT3-TMP of other other XE do -REPET-INC DEM mat
+\ref ZOH001R033 029
+\_no 00028
+wi7tpa;
+wi7t
+\zoq Despwes kay de 7otro, 7otro d@n tz@kke7tpa g@ pata7.
+\fts Despues ya otro, otro voy a hacer el petate.
+\fte Later then another, I'll make another mat again.
+\com
+\idx
+\tx
+7otro si 7@n pata
+n tz@kpa;
+\mb 7otro si 7@n pata7 7@n tz@k -pa
+Page 6

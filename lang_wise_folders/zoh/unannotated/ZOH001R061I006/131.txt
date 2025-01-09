@@ -1,0 +1,65 @@
+on
+\SLGR NO ASSUM1
+\SPL we7k.7@m
+\SLGR PASS
+\SLGL envarillar (impersonal) // to install poles (impersonal)
+\SPL we7k.ten
+\SLGR PRSV
+\SLGL tener envarillado // to have the poles installed
+\SPL we7k.7oy
+\SLGR ANTIP
+\SLGL envarillar // to install poles
+\EXU 1 we7k. 7oy-pa+'am bi p@n d@k (+'ay)
+\XPSH 1 [we7kkoba*m bi p@n d@kka.]
+\XSP 1 Ya esta*n envarillando los hombres.
+\XEN 1 Now the men are installing the poles.
+\EXU 2 7@y+ we7k.ten-w@ bi tak
+\XPSH 2 [7@y we7ktenn@ bi t@k.]
+\XSP 2 Lo envarillo* una semana antes.
+\XEN 2 He installed the poles a week ahead.
+\EXU 3 7eya+a7k we7k. 'oy-wa
+\XPSH 3 [7eya*7k we7kkoyy@.]
+\XSP 3 Otro lo envarillo*
+\XEN 3 Someone else installed the poles.
+\SYN
+\SEMF arrange, build
+\ASP process
+\ARG
+\NOM we'k.e7
+\SUB k@.we7k
+\ETYM
+\ETL
+ZOH001R0611006.txt
+\ROOT we7k
+\RTGR T3
+\DSRC TK94
+\CMTS The translation for EXU 3 is Camilo's. He often glosses odd ANTIPS
+\CMTS with this someone else did it' construction.
+1
+\date 03/Jan/80
+\lex wen
+\_no 00194
+\LG MIG
+\PSH
+\UND wen
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG partir con la mano
+\ENG to divide with the hands
+\SPL wen. 7oy
+\SLGR ANTIP
+\SLGL partir // to divide
+\SPL wen.7@m
+\SLGR PASS
+\SLGL partirse // to be divided
+\SPL wen.ney
+\SLGR ASSUM1
+\SLGL estar partido // to be divided
+\SPL wen.ten
+\SLGR PRSV
+\SLGL tener partido // to have divided
+\EXU 1 7@y+ wen-w@ 7ane kuk+kina-'anh
+Page 131

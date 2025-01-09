@@ -1,0 +1,63 @@
+\ROOT 1 jam
+\RTGR 1 T1
+\ROOT 2 tzik
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/96
+\lex jan
+\_no 01003
+\LG MIG
+\PSH
+\UND jan
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG tener ganas de ir a baile o bar, pero no ir en ninguna parte
+\ENG to feel like going out dancing or to a bar, but not go anywhere
+\SPL yak. jan
+\SLGR CAUS
+\SLGL hacerle ganas de ir a alguna parte, pero ya no fueron // to make
+someone feel like going out, but then not go
+\EXU da jan-pa
+\XPSH [Da j@npa.]
+\XSP Quiero ir a alguna parte.
+\XEN I wish I could go out.
+\SYN win. jan
+\SYN yuk. jan
+\SEMF
+\ETYM
+\ETL
+\ROOT jan
+\RTGR IX
+\DSRC TK94
+\CMTS an old-fashioned word. Now people say "d@ n@k=t@-pa
+\date 03/Jan/80
+\lex janh
+\_no 01004
+\LG MIG
+\PSH
+\UND janh
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG 11ano
+\ENG plain
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Aug/94
+Page 440
+■■■

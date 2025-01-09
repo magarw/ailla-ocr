@@ -1,0 +1,63 @@
+\lex wak(a').7aH
+\_no 03549
+\LG MIG
+\PSH [waka7a-]
+\UND waka7.7aH
+\MB tieso, VERS1
+\VAR
+\GRAM vers1
+\SCI
+\USE
+\SPG atiesarse
+\ENG to get stiff
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex wa7k
+\_no 03550
+\LG MIG
+\PSH
+\UND wa7k
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG rebanar; partir fruta, como sandi*a o melo*n (con cuchillo)
+\ENG to slice; to cut up fruit, like watermelon or cantaloupe (with a
+knife)
+\SPL wa7k. 7oy
+\SLGR ANTIP
+ZOH004R0011001.txt
+\SLGL rebanar, partir // to slice, to cut up
+\SLGR NO PASS
+SPL wa7k.ten
+\SLGR PRSV
+\SLGL tener partido o rebanado // to have cut up or sliced
+\SPL wa7k.ney
+\SLGR ASSUM1
+\SLGL una cosa que ya lo partio* y lo tiene puesto en la mesa // something
+that you sliced and is now lying on the table
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF cut
+\ASP transition
+\ARG
+\NOM wa'k.e, wa7k. 'oy.kuy7, wa7k.naanh
+\SUB wa7k=wanin'. 'aH
+\ETYM
+\ETL
+\ROOT wa7k
+\RTGR P (T3)
+\DSRC HAJ94
+Page 1526

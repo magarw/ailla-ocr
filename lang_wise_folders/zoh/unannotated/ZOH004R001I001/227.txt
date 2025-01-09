@@ -1,0 +1,64 @@
+\VAR
+\GRAM PCP
+\SPG quejido
+\ENG whimper
+\SPL
+\SLGR
+\EXU
+\XPSH
+\XSP
+\XEN
+\SYN
+\SEMF
+\ROOT 7@jaj
+\RTGR 11
+\DSRC HAJ97
+\CMTS
+\date
+\DATE 29/Jan/2000
+\lex 7@kx
+\_no 00528
+\LG MIG
+\PSH
+\UND 7@kx
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG desgranar mai*z
+\ENG to shell corn
+\EXU 1 mok=7@kx-w@
+\XPSH 1 [Mok 7@kx@.]
+\XSP 1 Desgrano* mai*z.
+\XEN 1 She shelled corn.
+\EXU 2 mok=7@kx-taanh
+\XPSH 2 [Mok 7@kxta*nh.]
+\XSP 2 vamos a desgranar mai*z.
+\XEN 2 Let's shell the corn.
+\SYN
+\SEMF corn, farm
+\ASP activity
+ZOH004R0011001.txt
+\ARG patient
+\NOM 7@kx.i, ni.7@kx.kuy7
+\SUB 7anh. '@kx. '@y, 7ok. 7@kx-kum. '@y, j@x='@kx, k@.n@k-7@kx. '@y,
+\SUB
+\ASP activity
+\ARG patient
+\NOM
+\SUB ko.7@kx
+\ETYM
+\ETL
+\ROOT 7@kx
+\RTGR T3
+\SPL 7@kx.7oy
+\SLGR ANTIP
+\SLGL_desgranar maiz // to shell corn
+\SPL 7@kx.7@m
+\SLGR PASS
+\SLGL desgranarse maiz (solo) // for corn to fall from the husk
+\SPL 7@kx.ten
+\SLGR PRSV
+\SLGL tener el maiz desgranado // to have the corn shelled
+Page 227

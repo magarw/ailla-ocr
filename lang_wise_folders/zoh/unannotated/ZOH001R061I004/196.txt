@@ -1,0 +1,64 @@
+ZOH001R0611004.txt
+\ENG 2 something for getting water, like a dipper
+\EXU y@k.jepx tžima7
+\XPSH [y@kjepx tzima7]
+\XSP ji*cara para agarrar algo
+\XEN dipper for scooping
+\SYN
+SEMF
+ETYM
+\ETL
+\ROOT jepx
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex y@k.joj
+\_no 00496
+\LG MIG
+\PSH [y@kjoj-]
+\UND y@k.joj.0
+\MB INSTR2, espacio, NOM6
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG bolsa
+\ENG bag
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-GR, CK-PH ok/OK: TK
+\date 26/Jun/96
+\lex y@k. jup
+\_no 00497
+\LG MIG
+\PSH [y@kjup]
+\UND y@k.jup.0
+\MB INSTRŽ, jalar, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG cubeta
+\ENG bucket
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+-
+\ETL
+\ROOT jup
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+Page 196

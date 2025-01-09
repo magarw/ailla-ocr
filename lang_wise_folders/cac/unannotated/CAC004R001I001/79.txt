@@ -1,0 +1,84 @@
+273. Quiero subirme a ese árbol pero no puedo.
+ingana tzink’e sk’ab' jun te' te' chi' palta max yal laj ink’e’i
+in-gana tz-in-k’e
+s-k'ab' jun te'
+te'
+chi'
+1A-gana pres-1B-subir 3A-rama uno Cmadera árbol dem
+palta ma-x
+laj in-k'e'-i
+ø-yal
+pero neg-pres 3B-poder neg 1A-subir-vti
+inab'en tzink'e t'a sk'ab' jun te' te' tik pero max yal laj wuj
+in-nab'en tz-in-k'e t'a s-k'ab' jun te'
+te'
+tik
+1A-querer pres-1B-subir prep 3A-rama uno Cmadera árbol dem
+pero ma-x
+Ø-yal laj w-uj
+pero neg-pres 3B-poder neg 1A-SR
+274. Puedo subirme a ese árbol pero no quiero.
+160
+syal ink'e'i sk'ab' jun te' te' chi' palta max yal laj ink'o'ol
+tz-ø-yal in-k'e'-i s-k'ab' jun te'
+te' chi'
+pres-3B-poder 1A-subir-vti 3A-rama uno Cmadera árbol dem
+palta ma-x
+Ø-yal laj in-k'o'ol
+pero neg-pres 3B-poder neg 1A-estómago
+syal ink'e t'a sk'ab' jun te' te' tik pero malaj ingana
+tz-ø-yal
+in-k'e t'a
+s-k'ab' jun te'
+te' tik
+pres-3B-poder 1A-subir prep 3A-rama uno Cmadera árbol dem
+pero malaj in-gana
+pero neg 1A-gana
+275. Tengo que trabajar.
+yowalil olinmunlajok
+y_owal_il ol-in-munlaj-ok
+m.deónt fut-1B-trabajar-IRR
+276. Ayer tuve que trabajar mucho.
+a ewi ixintemunlaji
+a
+ewi ix-in-te-munlaj-i
+top ayer pas-1B-muy-trabajar-vti
+ewi yowalil munlajin ewi
+ewi y_owal_il ø-munlaj-in ewi
+ayer m.deónt pas-trabajar-1B ayer
+ewi yowalil te niwan munlajin
+ewi y_owal_il te niwan ø-munlaj-in
+ayer m.deónt muy grande pas-trabajar-1B
+tzinmunlajnhej
+tz-in-munlaj-nhej
+pres-1B-trabajar-sólo
+277. Tienes que trabajar.
+yowalil olachmunlajok
+y_owal_il ol-ach-munlaj-ok
+m.deónt fut-2B-trabajar-IRR
+yowalil munlajach
+y_owal_il ø-munlaj-ach
+m.deónt pas-trabajar-2B
+yowalil munlajnakach
+y_owal_il_munlaj-nak-ach
+m.deónt trabajar-p.rem-2B
+278. Hay que quemar la basura.
+nhusek tz'a'ok jun k'alen chi'
+nhus-ek tz'a'-ok jun k'alem chi'
+quemar-exh quemar-IRR uno basura dem
+yowalil snhuschaj k'alem
+y_owal_il tz-ø-nhus-chaj
+k'alem
+m.deónt pres-3B-quemar-psv basura
+Tienes que quemar la basura.
+yowalil olanhustz'a'ok jun k'alem chi'
+y_owal_il ol-ø-a-nhus-tz'a'-ok
+m.deónt
+jun k'alem chi'
+fut-3B-2A-quemar-IRR uno basura dem
+279. Se va a tener que quemar la basura.
+yowalil olkonhustz'a'ok jun k'alem chi'
+y_owal_il ol-ø-ko-nhus-tz'a'-ok
+jun k'alem chi'
+m.deónt fut-3B-1A-quemar-IRR uno basura dem
+161

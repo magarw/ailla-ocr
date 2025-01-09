@@ -1,0 +1,77 @@
+\_no 00099
+\tx d@ pitz@mpam
+\mb da pitz@m-pa -7am
+\sgl 1A salir -INC-YA
+\egl 1A leave -INC-NOW house-inside -DIR4
+\ref 099
+\_no 00100
+\tx da n@kpa gaja
+\mb da nak -pa ka -ja7
+\sg1 1A irse-INC DCT3-Loc1 poco
+\egl 1A go -INC DCT3-LOC1 little
+fts voy saliendo par afuera de la casa
+\fte I'm going out from inside the house
+\com
+\idx
+\ref 100
+\_no 00101
+\tx da n@kpa
+\mb da nak -pa
+\sgl 1A irse-INC
+\egl 1A go -INC
+\fts me voy para alla* arribita
+\fte I'm going up there a little
+\com
+\idx
+t@kjonhjo*nh
+t@k -jonh
+casa -adentro-DIR4
+gaja
+ka
+ZOH001R0601001.txt
+\sgl 1E
+\egl 1E
+Zichi*nh tzapj@nanh
+7ichi*nh tzapj@nanh
+por_arriba
+to_up_there
+Zichi*nh k@j@nanh
+Zichi*nh k@j@nanh
+para_abajo
+DCT3-Loc1 little down_there
+-ja7
+DCT3-LOC1 poco
+\ref 101
+\_no 00102
+\tx da n@kpa
+\mb da nak -pa
+\sgl 1A irse-INC
+\egl 1A go -INC river-across
+\fts me voy para
+alla* bajito
+\fte I'm going a little way down there
+\com
+\idx
+\ref 102
+\_no 00103
+\tx 7@n kukkaptukpa
+\mb 7@n kuk
+-kap
+\fts me voy al otro lado del ri*o
+\fte I'm going across the river
+\com
+\idx
+-joonh
+pajakgaja7kwintu7k
+pajak-gaja7kwintu7k
+ri*o -al_otro lado
+tunh
+-pa tunh
+-tuk
+centro-cargar-cortar-INC camino
+center-carry -cut -INC road
+\fts voy a cruzar camino
+\fte I'm going to cross the street
+\com
+\idx
+Page 25

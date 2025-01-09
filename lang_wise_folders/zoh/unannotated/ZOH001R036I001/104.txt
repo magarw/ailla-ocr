@@ -1,0 +1,82 @@
+\tx 7anhnitpa
+\mb 7anhnit-pa
+\sg1 tener -INC
+\egl have
+-INC
+\zoq Gag@ naka jak w@ja 7adonde ga nutzi7anhnitpa.
+\fts Esa ca*scara es muy bueno en donde la parte que se quemo*.
+\fte That bark is very good where one has a burn.
+\com
+\idx
+\ref ZOH001R036 486
+\_no 00477
+\tx gay
+7@y po7tpa
+komo kajpote
+\mb
+ka -y
+7@y po7t -pa komo kajwe -po7t -E
+\sg1 DCT3-TMP 3E moler -INC como cafe -moler-NOM3
+\eg1 DCT3-TMP 3E grind-INC like coffee-grind-NOM3
+ZOH001R0361001.txt
+\zoq Gay 7@y po7tpa komo kajpote.
+\fts Eso lo muele como cafe* molido.
+\fte That one grinds it like coffee.
+\com probably should be ga7
+\idx
+\ref ZOH001R036 487
+\_no 00478
+\tx 7ay gay
+ga
+\mb 7adyo ka -y ka -7
+\sg1 luego DCT3-TMP DCT3-NOM1
+minpam
+7@m winn@ktonn@yy@
+min -pa -7am 7@m win -n@k - ton
+venir-INC-YA 2E CARA-irse-limpiar-SUF-dINC
+\egl later DCT3-TMP DCT3-NOM1 come -INC-NOW 2E FACE-go -clean -SUF-DINC
+teji7aw@
+teji
+\sg1 DCT2-SIM por todo donde-donde hay
+\tx de7xe jemji7ok dondju
+\mb te
+-7xe jemji7ok donde-ju7
+gad@
+-wa ka -d@
+-VERS1-COM DCT3-DEM
+\eg1 DCT2-SIM all over where-where there_is-VERS1-COM DCT3-DEM
+\zoq 7ay gay ga minpam 7@m winn@ktonn@yy@ de7xe jemji7ok dondju teji7aw@
+gada.
+kej -A
+-7a
+\fts De ahi* lo vienes echarle el polvo asi* en todo en donde esta* esa.
+\fte Then now you come and clean that like that all over where it is.
+\com (it the burn)
+\idx
+\ref ZOH001R036 488
+\_no 00479
+\tx ya keja
+\mb__ya
+si nutztz@
+si nutz
+\sg1 NEG verse -NOM2 si estar_caliente-COM del
+\eg1 NEG appear-NOM2 if be_hot
+\tx wituge7tt@
+\mb witu7
+-ke7t -w@
+\sg1 regresar-REPET-COM
+\egl return -REPET-COM
+del
+-wa del
+-7@y-w@
+mismo naka
+mismo naka
+mismo cuero
+-COM of the same skin
+Page 104
+\zoq Ya keja si nutztz@ del mismo naka wituge7tt@.
+\fts No se ve si se quemo* la misma piel volvio*.
+\fte It doesn't appear if one was burned the same skin comes back again.
+\com
+\idx
+\ref ZOH001R036 489

@@ -1,0 +1,31 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+limited in terms of acceptable combinations. These are discussed in section
+8.2.
+8.1. Auxiliary verb constructions
+There are six auxiliaries in MIG Zoque, all intransitive roots of motion,
+manner, or aspect:
+(8.2)
+(i)
+(iii)
+Motion
+nək- 'go'
+min- 'come'
+tih- 'go & return'
+Aspect
+?okmaŋ- 'begin'
+(ii)
+Manner
+hə?kš- 'hurry'
+muš- 'know'
+An example of each one is given in (8.3). nək-, 'to go', and min-, 'to
+come', are far and away the most commonly used. tih-, to go and return', is
+used when the round-trip character of the motion is relevant. Both muš-, 'to
+know', and ?okmaŋ-, 'to begin', appear most commonly in verb root compound
+constructions; in fact, I found no examples of ?okmaŋ- in the dependent verb
+construction in the texts. hə?kš-, 'to hurry', is extremely rare in any form.
+Relative frequency in the corpus notwithstanding, it is easy to elicit examples of
+any of the auxiliaries, while other likely suspects¹ (such as tuk-, 'to finish') are
+roundly rejected.
+192
+1 Sierra Popoluca, an Gulf (Veracruz) Zoquean language, has yah-, 'to finish' in its set of
+auxiliary verbs (Himes 1997).

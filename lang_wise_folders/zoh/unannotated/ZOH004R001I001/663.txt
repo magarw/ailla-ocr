@@ -1,0 +1,62 @@
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex kuk.par=tz@k
+\_no 01527
+\LG MIG
+\PSH [kukpartz@k-]
+\UND kuk.par-tz@k
+\MB centro, partir, HACER
+\VAR
+\GRAM dir+vt
+\SCI
+\USE
+\SPG dividir
+\ENG to divide
+\EXU
+\XSP
+\XEN
+\SYN kuk.p@k=tuk
+\SEMF
+\ETYM partir
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex kuk.po'
+\_no 01528
+\LG MIG
+\PSH [kukpo-]
+\UND kuk. po7
+\MB centro, rajar
+\VAR
+\GRAM dir+vt
+\SCI
+\USE
+\SPG rajar por la mitad
+\ENG to split in half
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT po7
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex kuk.p@k=tuk
+\_no 01529
+\LG MIG
+\PSH [kukp@ktuk-]
+\UND kuk.p@k=tuk
+\MB centro, agarrar, terminarse
+\VAR
+\GRAM dir+vt
+ZOH004R0011001.txt
+Page 663

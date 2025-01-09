@@ -1,0 +1,63 @@
+\EXU_2_7@y+ xu7k-w@ bi jay@7
+\XPSH 2 [7@y xu7kk@ bi jay@7.]
+\XSP 2 olfateo* la flor.
+\XEN 2 She smelled the flower.
+\SYN
+\SEMF body
+\ASP process
+\ARG
+\NOM xu7k.naanh, xu'k.i7
+\SUB xu7k-me7tz
+\ETYM
+\ETL
+\ROOT xu7k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\1ex xu7k=me7tz
+\_no 04013
+\LG MIG
+\PSH [xu7kme7tz-]
+\UND xu7k=me7tz
+\MB oler, buscar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG buscar olfateando
+\ENG to search by sniffing for something
+\EXU bi nu7 7@y+ xu7k-me7tz-pa 7axa
+\XPSH [Bi nu 7@y xu7kme7tzpa 7axa.]
+\XSP El perro busca olfateando el mapache.
+\XEN The dog is searching for the coon by sniffing.
+\SYN
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+\ETL
+\ROOT 1 xu7k
+\RTGR 1 T3
+\ROOT 2 me7tz
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 26/Jun/96
+\DATE 14/Aug/02
+\lex xu7k.naanh
+\_no 04014
+\LG MIG
+\PSH [xu7kna*nh]
+\UND xu7k.naanh
+\MB besar, MED1
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG beso
+\ENG kiss
+\EXU tum xu7k.naanh tzi-A7 bi yom(a) 7une7
+\XPSH [Tum xu7kna*nh tzi@7 bi yoom7une7!]
+\XSP Dale un beso a la muchacha!
+\XEN Give the girl a kiss!
+Page 1726

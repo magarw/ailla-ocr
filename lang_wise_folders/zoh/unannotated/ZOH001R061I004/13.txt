@@ -1,0 +1,63 @@
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG fuego
+\ENG fire
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7a7tz
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 30/Apr/95
+\lex 7awin' tz@k.i
+\_no 00030
+\LG MIG
+\PSH [7awin tz@ki]
+\UND 7awin7 tz@k.i
+\MB hermano/a, HACER, NOM 7
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG 1 sobrino/a
+\SPG 2 familiar
+\SPG 3 primo
+\ENG 1 nephew/niece
+\ENG 2 intimate friend
+ENG 3 cousin
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 24/Jun/96
+\lex 7etz.e7
+\_no 00031
+\LG MIG
+\PSH [7etze7]
+\UND 7etz.E7
+\MB bailar, NOM7
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG el que esta* bailando
+\ENG dancer
+\SPL
+\SLGR
+\EXU
+\XSP
+ZOH001R0611004.txt
+Page 13

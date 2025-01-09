@@ -1,0 +1,63 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS MAR si7i7
+\date 11/Feb/96
+\lex xik
+\_no 03928
+\LG MIG
+\PSH
+\UND xik
+\MB
+\VAR
+\GRAM vi: act
+\SCI
+\USE
+\SPG reirse
+\ENG to laugh
+\SPL yak.xik
+\SLGR CAUS
+\SLGL hacer de reir // to make laugh
+\SPL yak.xik.7oy
+\SLGR CAUS ANTIP
+\SLGL hacer de reir // to make laugh
+\EXU da xik-pa
+\XPSH [D@ xikpa.]
+\XSP Me rio.
+\XEN I'm laughing.
+\EXU jakke yak.xik. 'oy-xuk-pa 7@y+ tzam. E7+d@kkay
+\XPSH [Jak yakxikkoxukpa 7@y tzame d@kka.]
+\XSP Hacen de reir mucho sus pla*ticas.
+\XEN Their stories make them laugh a lot.
+\SYN
+\SEMF sound
+\ASP process
+\ARG
+\NOM xik.i7
+\SUB ko.xik, wej=xik
+\ETYM
+\ETL
+\ROOT xik
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex xik [bejcha
+\_no 03929
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+\UND xik bescha
+\MB reirse, caballo
+\VAR xik bejcha
+\GRAM vi+subj
+\SCI
+\USE
+\SPG relinchar
+\ENG to neigh
+\EXU
+\XSP
+Page 1690

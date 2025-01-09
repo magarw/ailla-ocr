@@ -1,0 +1,83 @@
+¿ojtak am kastilla?
+Ø-ø-ojtak
+am kastilla
+3B-2A-saber dub español
+¿tom ojtak kastilla?
+tom ø-Ø-ojtak
+kastilla
+int 3B-2A-saber español
+221. Sé español.
+142
+syal walan kastilla
+tz-ø-yal
+w-al-an
+kastilla
+pres-3B-poder 1A-decir-sub español
+wojtak kastilla
+Ø-w-ojtak kastilla
+3B-1A-saber español
+wojtak swal kastilla
+Ø-w-ojtak
+kastilla
+3B-1A-saber pres-3B-1A-decir español
+tz-Ø-w-al
+Sabes español.
+ojtak kastilla
+ø-Ø-ojtak
+kastilla
+3B-2A-saber español
+222. Yo no sé nadar.
+a in tik max yal laj inoxwi
+in tik ma-x
+a
+ø-yal laj in-noxw-i
+top 1B dem neg-pres 3B-poder neg 1A-nadar-vti
+a in tik man wojtakok laj tzinow a'
+a in tik man w-ojtak-ok laj tz-ø-in-nox
+a'
+top 1B dem neg 1A-saber-IRR neg pres-3B-1A-nadar agua
+223. ¿Cuándo supiste que yo había llegado?
+¿b’ak in ixab’i ta to ixinaja’i?
+b'ak_in ix-ø-Ø-ab'-i
+ta_to ix-in-ja’-i
+cuándo pas-3B-2A-oír-vti cond pas-1B-venir-vti
+¿b'ak in ixojtak ta to ixinja'i?
+b'ak_in ix-ø-Ø-ojtak
+ta_to ix-in-ja'-i
+cuándo pas-3B-2A-saber cond pas-1B-venir-vti
+¿b'ak' ni ixab'i ta to inja'i?
+b'ak'_ni ix-ø-Ø-ab'-i
+ta_to in-ja'-i
+cuándo pas-3B-2A-oír-vti cond 1B-venir-vti
+¿b'ak' ni ixab' spekal ta to inja'i?
+b'ak'_ni ix-ø-Ø-ab'
+s-pekal
+ta_to in-ja'-i
+cuándo pas-3B-2A-oír 3A-pecado cond 1B-venir-vti
+224. ¿Cómo supiste que yo había llegado?
+¿b'aj til ixab'i tas ixwutej inja’i?
+b'aj_til ix-ø-Ø-ab'-i
+tas ix-Ø-w-ut-ej
+in-ja'-i
+cómo pas-3B-2A-oír-vti qué pas-3B-1A-hacer-vtd 1B-venir-vti
+¿tas ixutej ab'ani tas ixwutej inja’i?
+tas ix-ø-Ø-ut-ej
+qué pas-3B-2A-hacer-vtd oír-sub-vti qué pas-3B-1A-hacer-vtd
+in-ja'-i
+1B-venir-vti
+ab'-an-i tas ix-ø-w-ut-ej
+¿tas ixutej ab'ani ta to inja'i?
+tas ix-ø-Ø-ut-ej
+ab'-an-i ta_to in-ja'-i
+qué pas-3B-2A-hacer-vtd oír-sub-vti cond 1B-venir-vti
+225. Te lo digo para que lo sepas.
+swal t'ay ach yik olojtakejeli
+tz-ø-w-al
+t'ay_ach y-ikol-ø-ø-ojtak-ej-el-i
+pres-3B-1A-decir prep 2B 3A-SR fut-3B-3A-saber-vtd-DIR. afuera-vti
+226. Aprendiste español?
+¿ixab'el kastilla?
+ix-ø-Ø-ab'-el
+kastilla
+pas-3B-2A-oír-DIR. afuera español
+143

@@ -1,0 +1,62 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM cabo
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/96
+\lex kachimba7
+\_no 01133
+LG MIG
+\PSH
+\UND kachimba7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG cachimba
+\ENG pipe
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH - sounds ok, HAJ:96/OK: TK
+\date 24/Jun/96
+\lex kae
+\_no 01134
+\LG MIG
+\PSH
+\UND kaye
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG calle
+\ENG street
+\EXU
+\XSP
+\XEN
+ZOH004R0011001.txt
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH -ok; I changed it: TK
+\date 24/Jun/96
+\lex kaja
+\_no 01135
+\LG MIG
+Page 495

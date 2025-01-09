@@ -1,0 +1,64 @@
+\SPG apurarse
+\ENG to hurry
+\SPL yak.j@7kx
+\SLGR CAUS
+\SLGL apurar // to hurry someone
+\EXU 1 ja7kx-pa
+\XPSH 1 [j@7kxpa]
+\XSP 1 rapido, veloz
+\XEN 1 rapid, swift
+\EXU 2 da ja7kx-mux-pa pero ya 7@n+_t@' -@7
+\XPSH 2 [Da j@7kxmuxpa, pero yan t@7.]
+\XSP 2 si*, puedo apurar, pero no quiero.
+\XEN 2 Yes, I could hurry, but I don't want
+\EXU 3 ja7kx-pa 7@n+ jay. 'oy-wa
+\XPSH 3 [J@7kxpan jayyoyy@.]
+\XSP 3 Estoy escribiendo rapido.
+\XEN 3 I'm writing fast.
+\SYN
+\SEMF move
+\ASP activity
+\ARG
+\CMTS
+\date 03/Jan/80
+\NOM
+\SUB 7ok.j@7kx. '@y, ko.j@7kx, k@.n@k=j@7kx. '@y, yuk.j@7kx
+\ETYM
+\ETL
+\ROOT j@7kx
+\RTGR I1
+\DSRC HAJ94
+ZOH004R0011001.txt
+constructions
+\GRAM aux
+\SPG apurarse
+\ENG to hurry
+\SPL
+\SLGR
+\EXU j@7kx-pa 7@y+ n@k-w@
+\XPSH [J@7kxpay n@kk@.]
+\lex j@7kx [2]
+\_no 00997
+\LG MIG
+\PSH
+\UND j@7kx
+\MB apurarse
+\VAR
+\USE auxiliary verb that only appears before the verb in dependent
+\XSP va apurado; va ra*pido.
+\XEN He goes hurrying.
+\SYN
+\SEMF
+\ROOT j@7kx
+\RTGR 11
+\DSRC HAJ98
+\CMTS
+\date
+\DATE 03/Jan/1980
+nt to.
+\lex jam
+\_no 00998
+\LG MIG
+\PSH
+\UND jam
+Page 437

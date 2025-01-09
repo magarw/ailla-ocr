@@ -1,0 +1,64 @@
+\MB estar_de_lado, STAT, dormir
+\VAR tzenhix.na monh
+\GRAM stat+vi
+\SCI
+\USE
+\SPG acostarse de lado
+\ENG to sleep on one side
+\EXU da tzenh.na' monh-pa
+\XPSH [D@ tzenhna monhpa.]
+\XSP Duermo de lado.
+\XEN I sleep on my side.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tzenh
+\RTGR 1 IX
+\ROOT 2 monh
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS CK-PH
+\date 03/Jan/80
+\lex tzenh.na' ten
+\_no 03332
+ok; CK-GR
+\LG MIG
+\PSH [tzenhna ten-]
+\UND tzenh.na7 ten
+\MB estar_de_lado, STAT, pararse
+\VAR
+\GRAM stat+vi; vi:incorp
+\SCI
+\USE
+\SPG pararse de lado
+\ENG to stand leaning to one side
+\EXU tzenh.na' ten-w@ kuy tzetz.e7
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tzenh
+\RTGR 1 IX
+\ROOT 2 ten
+\RTGR 2 11
+\XPSH [Tzenhna tenn@ kuy tzetze7.]
+\XSP Esta* parado de lado la madera labrada.
+\XEN The worked wood is standing on its side.
+\SYN
+\DSRC HAJ94
+\CMTS CK-GR
+\date 03/Jan/80
+\lex tzenh.na' tz@n
+\_no 03333
+ZOH004R0011001.txt
+\VAR
+\GRAM stat+vi
+\LG MIG
+\PSH [tzenhna tz@n-]
+\UND tzenh.na7 tz@n
+\MB estar_de_lado, STAT, sentarse
+\SCI
+\USE
+\SPG sentarse de lado
+\ENG sit on one buttock only
+Page 1432

@@ -1,0 +1,23 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+Chapter 3: Phonology
+This chapter presents the phoneme inventory of MIG Zoque, notes about
+prosody, including stress and syllable structure, and the morphophonological
+processes that occur.
+The phonology of MIG Zoque is typical of a MesoAmerican language,
+sharing nearly all of the traits described for the area in Cambell, Kaufman, and
+Smith-Stark, 1986 (pp. 537-544). The phoneme inventory does not include any
+contrastive (underlying) voiced stops or fricatives. There are no uvular,
+aspirated, or implosive consonants, and there are no retroflexed sounds (apart
+from Spanish loan words). The vowel inventory includes the 'sixth' vowel /ə/,
+discussed below. There are no tones, and there are no vowel sequences, other
+than those produced by the process of glide deletion (3.3.10).
+MIG Zoque has some phonological processes that are similar to those of
+many other MesoAmerican languages: voicing of obstruents after sonorants,
+fixed stress (on the penultimate syllable), and a limited form of vowel harmony.
+MIG Zoque does not have the striking metathesis process of Copainlá (Chiapas)
+Zoque (Wonderley, 1951:117-118), in which glides and glottal stops
+metathesize with obstruents and sonorant consonants, respectively. The most
+unusual process in MIG Zoque is the gemination of final consonants discussed
+in section 3.3.1. This process does not occur in either Copainalá Zoque or in
+Sierra Popoluca (Veracruz) Zoque (Himes, 1997).
+25

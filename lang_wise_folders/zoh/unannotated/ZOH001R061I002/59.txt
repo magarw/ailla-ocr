@@ -1,0 +1,61 @@
+\NOM * kuy7
+\RTGR IX
+\POS
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex pom
+\_no 00237
+\SPG calmar (dolor)
+\ENG to calm (an ache)
+\SEMF body
+\ASP accomplishment
+\ARG
+\NOM
+\RTGR IX
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex ponh
+\_no 00238
+\SPG quemar
+\ENG to burn
+\SEMF temp, fire
+\ASP activity
+\ARG
+\NOM ponh.kuy7, jo.po.e7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex pot
+\_no 00239
+\SPG ponerse blanquisco, como debe ser, como la calabaza
+\ENG to become white or pale, as it should be, like a squash
+\SEMF plant, color
+\ASP accomplishment
+\ARG
+\NOM pot.i7
+\RTGR IX
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\lex po7t
+\_no 00240
+\SPG moler cafe*, maiz tostado, pinol,
+\ENG to grind - coffee, toasted corn,
+\SEMF corn, cook
+\ASP activity
+\ARG
+\NOM po't.e7
+\RTGR T3
+\POS
+Page 59

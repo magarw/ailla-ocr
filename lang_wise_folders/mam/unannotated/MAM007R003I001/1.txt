@@ -1,0 +1,65 @@
+Mam - 3
+(1) T-i'j
+(2)
+meeb'a
+A3s-SR:sobre huérfano
+'Sobre el huérfano'
+At=0
+(4)
+(3) 0=x-el
+jun kweent
+EXIST=B3s un cuento
+'Hay un cuento'
+n-q'ama-'n-a ja'la,
+B3s-DIR-POT Als-decir-SD=1s ahora
+que voy a contar ahora,'
+at=0
+(8)
+jun t-yool
+EXIST=B3s uno A3s-palabra
+es un cuento de mi abuela'
+(5) 0=0=ku'
+t-q'ama-'n t-uk'u=x
+CPL.DEP=B3s=DIR A3s-decir-SD A3s-SR:COM-siempre
+n-txuu-ya.
+Als-mamá=1s
+'que contó con mi mamá.'
+(6) Kee noq qit q=ok
+que
+solo a.veces Alp=DIR
+'Que sólo nos asustaba antes,'
+(7) pwes mii'n kee kyja'=tzan 0-teen b'aj
+no
+pues
+t-ku'-leen
+A3s-bajar-ABST
+'pues, no, que así es como pasó,'
+(9) Kye at=0
+(10) n=0=xi’
+n-yaa'=ya
+Als-abuela=1s
+xob'-tza-'n=a
+ky-i'j
+que así pues B3s-estar terminar A3p-SR:sobre
+kwanda ojtxa t-'itz'j
+muunt.
+cuándo antes A3s-nacerse A3s-SR:superficie mundo
+'cuándo empezó antes al formar el mundo.'
+ojtxa,
+asustar-CAUS-SD=1pEXCL antes
+jun meeb'a,
+que EXIST=B3s uno huérfano
+'Que había un huérfano,'
+(11) Entoonse n=0=xi
+entonces INC=B3s-DIR
+'Entonces vió'
+t-witz
+pasyaa'ra-l t-uj
+INC=B3s=ir pasear-INF A3s-SR:en
+'que se fue a pasear a la orilla del mar.'
+t-ki-'n
+A3s-mirar-SD
+tzii'
+maar.
+A3s+SR:orilla mar
+2

@@ -1,0 +1,63 @@
+\UND jo.w@tz=wak
+\MB EN, peinar, *vaciar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG peinar cabello
+\ENG to comb hair
+\EXU d@+ jo.w@tz-wak-pa 7@n+_way7
+\XPSH [D@ jow@tzwakpan way?.]
+\XSP voy a peinar mi cabello
+\XEN I'm going to comb my hair.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT w@tz
+\RTGR T3
+\DSRC HAJ02
+\CMTS
+\DATE 09/Aug/02
+\lex jox
+\_no 00896
+\LG MIG
+\PSH
+\UND jox
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG amasar
+\ENG to knead masa
+\EXU wa.E=jox-w@
+\XPSH [wae joxx@.]
+\XSP Amaso* la masa.
+\XEN She kneaded the corn dough.
+\SYN
+\SEMF cook, corn
+\ASP activity
+\ARG
+\NOM
+\SUB 7anh.jox, j@x-jox, ko.jox, nik.jox. '@y
+\ETYM
+\ETL
+\ROOT jox
+\RTGR T1
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS amasar en la mano del metate
+\CMTS knead in the metate with the pestle
+\date 03/Jan/80
+\DATE 09/Aug/02
+\lex jo=xanh.7
+\_no 00897
+\LG MIG
+\PSH [joxanh7]
+\UND jo=xanh.7 or
+\UND jo.xanh7.0
+\MB EN, cortar, NOM6
+\VAR
+\GRAM a
+Page 390

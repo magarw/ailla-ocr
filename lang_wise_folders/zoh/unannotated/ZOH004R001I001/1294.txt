@@ -1,0 +1,63 @@
+ZOH004R0011001.txt
+\XEN They're spread out, like file slips on the table.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT *tok
+\RTGR P
+\DSRC TK96
+\CMTS
+\lex toko.e7
+\_no 03006
+\LG MIG
+\PHO [tokoe7]
+\UND tokoy.E7
+\MB perderse, NOM7
+\VAR
+\GRAM pcp
+\SPG perdido
+\ENG lost
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT tokoy
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tokoy
+\_no 03007
+\LG MIG
+\PSH
+\UND tokoy
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG perderse
+\ENG to get lost
+\SPL yak.tokoy
+\SLGR CAUS
+\SLGL perder
+\EXU 1 d@ tokoy-w@
+\XPSH 1 [D@ tokoyy@.]
+\XSP 1 Me perdi*.
+\XEN 1 I got lost.
+\EXU 2 tokoy-w@ 7@n+ jay.kuy7
+\XPSH 2 [Tokoyy@n jaykuy7.]
+\XSP 2 Se perdio* mi lapiz.
+\XEN 2 I lost my pencil.
+\SYN
+\SEMF move, cognitive
+\ASP achievement, accomplishment
+\ARG
+\NOM toko.e7
+\SUB ko. tokoy
+\ASP
+\ARG
+\NOM
+\SUB jam (V)=7ok. tokoy
+Page 1294

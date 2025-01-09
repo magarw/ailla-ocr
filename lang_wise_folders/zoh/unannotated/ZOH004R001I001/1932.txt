@@ -1,0 +1,63 @@
+\GRAM pron
+\SCI
+\USE neutral deictic
+\SPG este/a, eso/a
+\ENG this, that
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 11/Feb/96
+\lex {te.ji}
+\_no 04499
+\LG MIG
+\PSH [teji]
+\UND te.ji
+\MB DCT2, LOC1
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG hay
+\ENG there is; there are
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Feb/96
+\lex {.ten}
+\_no 04500
+\LG MIG
+\PSH
+\UND ten
+\MB PRSV
+ZOH004R0011001.txt
+\VAR
+\GRAM positional verbal suffix: perseverative
+\SPG tener (listo) en la forma de VERBO
+\ENG to have (ready) in the form of VERB
+\SPL
+\SLGR
+\EXU ya 7@n+ mon.ten-w@ g@ jama=tin
+\XPSH [Yan montenn@ g@ jamatin.]
+\XSP No tengo envuelto el dinero.
+\XEN I don't have the money wrapped up.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+Page 1932

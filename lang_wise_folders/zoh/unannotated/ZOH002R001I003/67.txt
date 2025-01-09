@@ -1,0 +1,49 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+the glides /y/ and /w/ are deleted intervocalically, thus producing a vowel
+sequence. Basically, when a morpheme whose coda consists of a glide is
+suffixed by a vowel-initial morpheme, and the two vowels meet the
+requirements discussed here shortly, the glide will be deleted. The set of vowel
+initial morphemes is given in section 3.3.2. In these cases, the two vowels do
+not then contract according to the rule discussed in 3.3.8, which applies to
+vowels that are identical (after assimilation applies).
+There are two separate rules. /y/ is deleted when it appears in coda
+position either before or after a front vowel. (The front vowels are /i/ and /e/.)
+The one exception is that it is not deleted between two /e/s. (I only have one
+example of this exception, shown in 3.16 vi.) The productive rule is thus:
+y --> 0 / [/i/, /u/, /o/, /ə/, /a/]
+V[front]
+(3.16)
+(i)
+(iii)
+(v)
+'angkøi
+Paŋ.kǝy.E
+BOCA.llevar_en_mano.NOM3
+'cubierto'
+tzøkjae
+cək.hay.E
+hacer.APPL.NOM3
+'brujeria'
+kae
+kaye
+calle
+'calle'
+(ii)
+43
+(iv)
+(vi)
+juptui
+hup=tuy.E
+jalar estirar.NOM3
+'algo estirado'
+tokoe'
+tokoy.E?
+perderse.NOM3
+'algo perdido'
+'ukjeye
+?uk=hey.E
+tomar batir.NOM3
+'pozole'
+-
+There are four monomorphemic lexical items in the corpus that contain
+vowel sequences from between which a /y/ (examples 3.17 i-ii) or a /?/

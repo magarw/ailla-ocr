@@ -1,0 +1,64 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT * pix
+\RTGR P (IX)
+\DSRC TK94
+\CMTS
+\date 21/Jun/95
+\lex pixtinh7
+\_no 02666
+\LG MIG
+\PSH
+\UND pixtinh7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG ceiba; pochote
+\ENG ceiba
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 30/Jun/95
+\lex pixt@k
+\_no 02667
+\LG MIG
+\PSH
+\UND pixt@k
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG pulga
+\ENG flea
+LF: kuy
+\EXU 1 mixtu' pixt@k
+\XPSH 1 [mixtu pixt@k]
+\XSP 1 pulga de gato
+\XEN 1 cat's flea
+\EXU 2 nu7 7@y+ pixt@k
+\XPSH 2 [nu7 7@y pixt@k]
+\XSP 2 pulga de perro
+\XEN 2 dog's flea
+\SYN
+LF:bugs
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex pix. '@y
+ZOH004R0011001.txt
+Page 1148

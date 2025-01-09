@@ -1,0 +1,63 @@
+\SLGL lamer // to lick
+\SLGR NO PASS
+\SPL yen.ten
+\SLGR PRSV
+\SLGL tener probado // to have tasted
+\EXU 1 yen. '@m-w@ bi paja7k+p@7
+\XPSH 1 [Yenn@mm@ bi paja7kp@7.]
+\XSP 1 Probaron el dulce.
+\XEN 1 Someone tasted the sweets.
+\EXU 2_7@y+ yen.ten-w@ bi paja7k+p@7
+\XPSH 2 [7@y yentenn@ bi paja7kp@7.]
+\XSP 2 Ya probo* el dulce (sabe que sabe bien).
+\XEN 2 Now she's tested the sweets (she knows it tastes good).
+\SYN
+\SEMF eat
+\ASP process
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT yen
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex yen.ki7px
+\_no 04135
+\LG MIG
+\PSH [yenki 7px-]
+\UND_yen.ki7px
+\MB lamer, PROB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG probar
+\ENG to taste
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yen
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+ZOH004R0011001.txt
+\lex yenh
+\_no 04136
+\LG MIG
+\PSH
+\UND yenh
+\MB
+\VAR
+\GRAM Vi
+\SCI
+\USE
+\SPG 1 engordarse
+Page 1777

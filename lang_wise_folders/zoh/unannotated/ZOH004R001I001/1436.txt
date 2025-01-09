@@ -1,0 +1,63 @@
+ZOH004R0011001.txt
+\CMTS no pass tze'.7@m* would be 'se lavo* solo'
+\date 03/Jan/80
+\lex tze'k.e7
+\_no 03340
+\LG MIG
+\PHO [tzeke7]
+\UND tze7k.E7
+\MB pedir, NOM7
+\VAR
+\GRAM pcp
+\SPG pedido
+\ENG asked-for
+\EXU tze'k.e7+k juk.i
+\XPSH [tzeke7k juki]
+\XSP cigarro pedido
+\XEN borrowed cigarette
+\SYN
+\ROOT tze7k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tzij
+\_no 03341
+LG MIG
+\PSH
+\UND tzij
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tirar y pegar con piedra
+\ENG to throw and hit with a rock
+\SPL tzij.7oy
+\SLGR ANTIP
+\SLGL tirar y pegar con piedra // to throw and hit with a rock
+\SLGR NO PASS
+\SLGR NO ASSUM1
+\SPL tzij.ten
+\SLGR PRSV
+\SLGL tener prensado con piedras // to have something weighted with
+rocks
+\EXU 1 7@y+ tzij.ten-w@
+\XPSH 1 [7@y tzijtenn@.]
+\XSP 1 Lo tiene prensado con piedras.
+\XEN 1 She had it weighted down with rocks.
+\EXU 2 7@y+ tzij-w@ bi yoya
+\XPSH 2 [7@y tzijja bi yoya.]
+\XSP 2 Pego* el marrano (con piedra).
+\XEN 2 She hit the pig (with a rock).
+\EXU 3_7@n+ tzij-w@ 7an+ manh.kuy' kuy+pi7t
+\XPSH 3 [7@n tzijj@n manhkuy kuypi7t.]
+\XSP 3 Machuque* mi pie con palo.
+\XEN 3 I crushed my foot with a tree-limb.
+\SYN
+\SEMF hit
+\ASP achievement
+\ARG
+\NOM jon=tzij.kuy7
+\SUB ko.tzij, tzij-jonh, tzij-yuk.poy, tzij-ka', tzij.tzij.ney
+Page 1436

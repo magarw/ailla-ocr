@@ -1,0 +1,63 @@
+\XSP
+\XEN
+\SYN [2] pojo7k
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 11/Feb/96
+\lex puj-jo. tax
+\_no 02772
+\LG MIG
+\PSH [pujjotax-]
+\UND puj-jo. tax
+\MB inflar, EN, llenar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG inflar
+ENG to inflate
+\SPL puj-jo.tax.7@m
+\SLGR PASS
+\SLGL esponjarse // to puff up
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 puj
+\RTGR 1 T3
+\ROOT 2 tax
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS analysis?
+\date 03/Apr/95
+\lex puj-jo.tax. (V). 7aH
+\_no 02773
+\LG MIG
+\PSH [pujjotaaxa-]
+\UND puj-jo.tax.V. 7aH
+\MB inflar, EN, 1lenarse, NOM?, VERS1
+\VAR
+\GRAM vi
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG inflarse
+\ENG to be blown up
+\EXU puj-jo.tax. (v). 7aH-w@ bi p@n
+\XPSH [Pujjotaaxaw@ bi p@n.]
+\XSP El hombre se siente muy lleno de esto*mago.
+\XEN The man feels too full in the stomach.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 puj
+\RTGR 1 T3
+Page 1193

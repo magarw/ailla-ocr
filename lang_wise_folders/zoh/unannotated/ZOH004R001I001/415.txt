@@ -1,0 +1,62 @@
+\date 06/Feb/96
+\DATE 14/Aug/02
+\lex jup=woko
+\_no 00950
+\LG MIG
+\PHO [jupwoko-]
+\UND jup-woko
+\MB jalar, andar_arrastrando
+\VAR
+\GRAM vt
+\SPG arrastrar
+\ENG to drag
+\EXU bi nubiu 7@y+ jup-woko-w@ kuy
+\XPSH [Bi nubiuy jupwokow@ kuy.]
+\XSP ET buey arrastro* la madera.
+\XEN The ox dragged the wood.
+\SYN
+\ROOT 1 jup
+\RTGR 1 P (T3)
+\ROOT 2 woko
+\RTGR 2 IX
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex jup=wo7k
+\_no 00951
+\LG MIG
+\PSH [jupwo7k-]
+\UND jup=wo7k
+\MB jalar, raspar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pelar arrastra*ndolo
+\ENG to pull or drag the skin off something
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 jup
+\RTGR 1 P, (T3)
+\ROOT 2 wo7k
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 14/Jun/95
+\lex jup-wo7kx
+\_no 00952
+ZOH004R0011001.txt
+\LG MIG
+\PSH [jupwo7kx-]
+\UND jup-wo7kx
+\MB jalar, aran~ar
+\VAR
+\GRAM vt
+\SCI
+\USE
+Page 415

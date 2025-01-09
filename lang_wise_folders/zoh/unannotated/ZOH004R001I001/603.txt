@@ -1,0 +1,64 @@
+\LG MIG
+\PSH [komoe7]
+\UND ko.monh.E7
+\MB OTRO, dormir, NOM7
+\VAR komoe' koke
+\GRAM
+\SCI
+\USE
+\SPG pescado que esta* en culeca
+\ENG fish that is amidst its young
+\EXU koke ko.monh-w@+@7k
+\XPSH [koke komonhnh@*7k]
+\XSP pescado que esta* en culeca
+\XEN a fish that is amongst its young
+\SYN
+\SEMF EZ
+LF: koke
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS laryngealized final V; TK fixed it
+\date 24/Jun/96
+\lex ko.mon
+\_no 01384
+\LG MIG
+\PSH [komon-]
+\UND ko.mon
+\MB OTRO, cubrir
+\VAR
+GRAM vt
+\SCI
+\USE
+\SPG envolver; forrar
+\ENG to wrap; to sheathe
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ETYM
+\ETL
+\ROOT mon
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 14/Jun/95
+ZOH004R0011001.txt
+\lex ko.monh
+\_no 01385
+\LG MIG
+\PSH [komonh-]
+\UND ko.monh
+\MB OTRO, dormir
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG echarse gallina
+\ENG for a hen to set
+\EXU ko.monh-w@ piyu7
+\XPSH [Komonhnh@ piyu7.]
+\XSP Esta* echada la gallina.
+Page 603

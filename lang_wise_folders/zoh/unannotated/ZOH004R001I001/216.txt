@@ -1,0 +1,62 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT monh
+\RTGR P, (12)
+\DSRC HAJ94
+\CMTS
+\date 02/Nov/94
+\1ex 7une7=7ix-pa+a7k
+\_no 00503
+\LG MIG
+\PSH [7une7ixpa*7k]
+\UND 7une7=7ix-pa +P@7k
+\MB criatura, ver, INC, REL
+\VAR 7une7ixtenpaa+7
+\GRAM agt1
+\SCI
+\USE
+\SPG la que esta* cuidando criatura
+\ENG baby-sitter
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7ix T3
+\DSRC TK94
+\CMTS
+\date 29/Jan/96
+\lex 7une' mok
+\_no 00504
+\LG MIG
+\PSH
+\UND 7une7 mok
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG milpita
+\ENG a little corn field
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 09/Jan/96
+ZOH004R0011001.txt
+\lex 7une' m@a7
+\_no 00505
+\LG MIG
+\PSH
+Page 216

@@ -1,0 +1,62 @@
+\RTGR 1 P, (T3)
+\ROOT 2 witu
+\RTGR 2 11
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex pa=tz@wi
+\_no 02564
+\LG MIG
+\PSH [patz@wi]
+\UND pa=tz@wi
+\MB salvaje, tobaco
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG tabaco cimarro*n
+\ENG wild tobacco
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 08/Feb/96
+\lex pa-wit-pa+a7k
+\_no 02565
+\LG MIG
+\PSH [pawitpa*7k]
+\UND pa-wit-pa +P@7k
+\MB salvaje, andar, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG vagabundo
+\ENG vagabond
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wit
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex paxte7
+\_no 02566
+LG MIG
+\PSH
+\UND paxte7
+\MB
+\VAR
+ZOH004R0011001.txt
+Page 1104

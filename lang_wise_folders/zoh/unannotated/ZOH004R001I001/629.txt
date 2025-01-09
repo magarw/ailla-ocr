@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG celebrar nueve dias de muerto
+\ENG to celebrate the nine days of the dead
+\EXU 7@y+ ko.ta7kx-w@ ka-w@+a7k
+\XPSH [7@y kota7kx@ kaw@*7k.]
+\XSP Celebro* nueve di*as de muerto.
+\XEN She observed the nine days of the dead.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ta7kx
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex ko. teji+i7k
+\_no 01446
+\LG MIG
+\PSH [koteji*7k]
+\UND ko. teji +P@7k ??
+\MB OTRO, estar, REL
+\VAR [koteji*7k p@n]
+\GRAM agt1
+\SCI
+\USE
+\SPG una persona rica; el que tiene dinero
+\ENG a rich person; one who has money
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+\ETL
+\ROOT
+\DSRC TKJ94
+\CMTS CK-all - ok HAJ:96/OK: TK
+\date 24/Jun/96
+\lex ko.ten
+\_no 01447
+\LG MIG
+\PSH [koten-]
+\UND ko.ten
+\MB OTRO, pararse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG estar parado cuida*ndolo
+\ENG to stand guarding or watching something
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ten
+\RTGR 12
+Page 629

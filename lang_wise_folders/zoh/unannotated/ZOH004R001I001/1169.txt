@@ -1,0 +1,64 @@
+\SPG comeje*n
+\ENG termite
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex ponh
+\_no 02718
+\LG MIG
+\PSH
+\UND ponh
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG vez
+\ENG time
+\EXU 1 jemji' ponh
+\XSP 1 todas las veces / los viajes
+\XEN 1 all the time / every trip
+\EXU 2 jutzenh ponh
+\XSP 2 cuantas veces / viajes
+\XEN 2 how many times / trips
+\EXU 3 tum ponh
+\XSP 3 una vez
+\XEN 3 one time
+\EXU 4 metz-a-nh ponh
+\XPSH 4 [metzanh ponh]
+\XSP 4 dos veces
+\XEN 4 two times
+\EXU 5 mox-7anh ponh
+\XPSH_5 [moxxanh ponh]
+\XSP 5 cinco veces
+\XEN 5 five times
+\SYN
+\SEMF
+\ETYM
+\ETL
+LF:bugs
+\ROOT
+\DSRC HAJ94
+\CMTS CK-all
+\date 25/Jun/96
+\lex ponh
+\_no 02719
+LG MIG
+\PSH
+\UND ponh
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG quemar
+ZOH004R0011001.txt
+Page 1169

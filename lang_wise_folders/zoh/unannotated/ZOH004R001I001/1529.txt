@@ -1,0 +1,62 @@
+\SPG una cosa enterciada
+\ENG something bundled into loads
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT wa7kx
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex wa7kx.kuy7
+\_no 03556
+\LG MIG
+\PHO [wa7kxkuy7]
+\UND wa7kx.kuy7
+\MB enterciar, INSTR1
+\VAR
+\GRAM instrl
+\SPG rede
+\ENG net
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT wa7kx
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex wa7kx.naanh
+\_no 03557
+LG MIG
+\PHO [wa7kxna*nh]
+\UND wa7kx.naanh
+\MB enterciar, MED
+\VAR
+\GRAM meas
+\SPG tercio
+\ENG a load (one side of the burro)
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT wa7kx
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS un tercio es una rede; dos redes son una carga
+\DATE 03/Jan/1980
+\lex wa7k. 'oy.kuy7
+\_no 03558
+\LG MIG
+\PHO [wa7kkoykuy7]
+\UND wa7k. 7oy.kuy7
+ZOH004R0011001.txt
+\MB rebanar, ANTIP, INSTR1
+\VAR
+\GRAM instr1
+\SPG cuchillo
+\ENG knife
+\EX
+Page 1529

@@ -1,0 +1,60 @@
+\EX
+\XSP
+\XEN
+\ROOT tan T3
+\SEMF hit
+\PASS NONE * tan.7@m
+\ANTI tan.7oy pegar (only get this in INC)
+\CMTS tirar: una pistola o una piedra. le pego* por tirar algo
+\lex tik
+\_no 00118
+\SPG tocar
+\ENG to touch
+\EX
+\XSP
+\XEN
+\ROOT tik P, (T3)
+SEMF touch
+\PASS NONE tik.7@m *
+\ANTI tik.7oy
+\CMTS gloss was 'arrimarse a e*1', now see tik-p@k for that one
+\lex tok
+\_no 00119
+\SPG manchar; batir
+\ENG to stain
+\EX
+\XSP
+\XEN
+\ROOT tok T3
+\SEMF clean
+\PASS tok.7@m mancharse
+\ANTI tok. 7oy
+\CMTS
+\lex to7k
+\_no 00120
+\SPG tender; extender (petate) en cama o suelo
+\ENG to stretch; to lay out (a mat) on the bed or floor
+\EX
+\XSP
+\XEN
+ZOH001R0611009.txt
+\ROOT to7k P, (T3)
+\SEMF move, position.
+\PASS to7k.7@m tenderse
+\ANTI to7k.7oy
+\CMTS
+\lex ton
+\_no 00121
+\SPG limpiar soplando (de gorgojo, de broca, de bica, de basura} mai*z, frijol
+\ENG to clean by blowing on it (of weevils, of trash) corn, beans, rice
+\EX 7@y tontenn@
+\XSP lo tiene soplando
+\XEN she's got it cleaned
+\ROOT ton T3
+\SEMF clean
+\PASS ton.7@m soplarse
+\ANTI ton.7oy soplar
+\PRSV ton-ten-e tener soplado
+\CMTS
+\lex totz
+Page 29

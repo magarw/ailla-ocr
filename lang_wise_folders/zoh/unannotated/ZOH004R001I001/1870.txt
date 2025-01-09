@@ -1,0 +1,62 @@
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-GR, CK-PH ok/OK: TK
+\date 26/Jun/96
+\lex y@k.jo.tak. '@y
+\_no 04355
+\LG MIG
+\PSH [y@kjotakk@y-]
+\UND y@k.jo.tak.7@y
+\MB X, EN, tejer, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG remendar; hilar un hilo, como para una hamaca
+ENG to repair; to wind a thread through, like a hammock
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tak
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 17/Jun/95
+\lex y@k.jo.t@k. '@y
+\_no 04356
+\LG MIG
+\PSH [y@kjot@kk@y-]
+\UND yak.jo.t@k.7@y
+\MB X, EN, casa, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG entremeterse; defender
+\ENG to intrude; to defend
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 15/Nov/94
+\lex y@k.jup
+\_no 04357
+ZOH004R0011001.txt
+\LG MIG
+\PSH [y@kjup]
+\UND yak.jup.0
+\MB INSTR2, jalar, NOM6
+\VAR
+\GRAM SVO
+Page 1870

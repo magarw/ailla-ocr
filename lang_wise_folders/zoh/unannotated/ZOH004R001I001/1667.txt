@@ -1,0 +1,63 @@
+\UND xake7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG suegra de mujer
+\ENG mother-in-law of a woman
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 22/Oct/94
+\lex xakx.na7
+\_no 03877
+\LG MIG
+\PSH [xakxna7]
+\UND xakx.na7
+\MB al_reve*s, STAT
+\VAR
+\GRAM av; stat
+\SCI
+\USE
+\SPG al reve*s
+\ENG backwards
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS %xakx P
+\date 28/Jan/96
+\lex xakx-witu'
+\_no 03878
+\LG MIG
+\PSH [xakxwitu-]
+\UND xakx-witu7
+\MB al_reve*s, regresar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG voltear, dar al lado
+\ENG to turn around, to reverse
+\SPL
+ZOH004R0011001.txt
+\SLGR
+\EXU 7@y+ xakx=witu-w@ 7@y+ y@k.wij
+\XPSH [7@y xakxwi tuw@ y y@kwij.]
+\XSP Voltio* su camisa; le dio* a su lado su camisa.
+\XEN He turned his shirt around.
+\SYN
+Page 1667

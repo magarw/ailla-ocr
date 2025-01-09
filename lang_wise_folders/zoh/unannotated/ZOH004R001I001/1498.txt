@@ -1,0 +1,62 @@
+\lex tz@k-tuk
+\_no 03482
+\LG MIG
+\PSH [tz@ktuk-]
+\UND tz@k-tuk
+\MB hacer, terminarse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG terminar de hacer
+\ENG to finish doing
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 tz@k
+\RTGR 1 T3
+\ROOT 2 tuk
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tz@k=tzak
+\_no 03483
+\LG MIG
+\PSH [tz@ktzak-]
+\UND tz@k-tzak
+\MB hacer, dejar
+\VAR
+\GRAM vt+dir
+SCI
+\USE
+\SPG dejar hecho
+\ENG to leave done
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tz@k
+\RTGR 1 T3
+\ROOT 2 tzak
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tz@k=witu'
+\_no 03484
+\LG MIG
+\PSH [tz@kwitu-]
+\UND tz@k=witu7
+\MB hacer, regresar
+\VAR
+\GRAM vt+dir
+ZOH004R0011001.txt
+Page 1498

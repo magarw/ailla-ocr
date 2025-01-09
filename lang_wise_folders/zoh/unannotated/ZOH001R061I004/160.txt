@@ -1,0 +1,62 @@
+\date 11/Feb/96
+\lex w@t.i' tunh
+\_no 00402
+\LG MIG
+\PSH [w@ti tunh]
+\UND w@t. E7 tunh
+\MB grande, NOM7, camino
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG calle; camino real
+\ENG street; high street
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex w@t.i'.7aH
+\_no 00403
+\LG MIG
+\PSH [w@ti7a-]
+\UND w@t.E7.7aH
+\MB grande, NOM7, VERS1
+\VAR
+\GRAM versl
+\SCI
+\USE
+\SPG hacerse ma*s grande
+\ENG to grow bigger
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex w@t.i'=tz@k
+\_no 00404
+LG MIG
+\PSH [w@titz@k-]
+\UND w@t.E7=tz@k
+\MB grande, NOM7, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer ma*s grande
+ZOH001R0611004.txt
+Page 160

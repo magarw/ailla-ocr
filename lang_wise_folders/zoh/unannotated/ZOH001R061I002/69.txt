@@ -1,0 +1,61 @@
+\POS * d@ tetjayy@
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tij [1]
+\_no 00279
+\SPG ir y regresar
+\ENG to go and return
+\SEMF move_self
+\ASP activity
+\ARG direction
+\NOM NO (kwandu tijj@ - cuando fue*)
+\RTGR IX
+\POS NO
+\MID NO
+\UNDO NO
+\CLZ NO
+\CMTS
+\lex tik
+\_no 00280
+\SPG tocar (con el hombro)
+\ENG to touch (with the shoulder)
+\SEMF body, touch
+\ASP semelfactive
+\ARG
+\NOM
+\RTGR P (T3)
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex ti7kx
+\_no 00281
+\SPG 1 pegar el ri*o al lado de algo, como un barco
+\SPG 2 olearse o tirarse cosa llena, como un vaso lleno de lapices, o
+una olla de agua
+\ENG 1 for the river to lap against something, like a boat
+\ENG 2 for things to wobble or rattle back and forth in a partly full
+container, like pencils in a glass or a jar of water
+\SEMF water, nature
+\ASP activity
+\ARG patient
+\NOM
+\RTGR 12
+\POS
+\MID
+ZOH001R0611002.txt
+\UNDO
+\CLZ
+\CMTS
+\lex tok
+\_no 00282
+\SPG manchar; batir; contagiar
+\ENG to stain; to smear; to infect
+\SEMF clean, body
+\ASP activity, achievement
+\ARG
+\NOM * kuy7
+Page 69

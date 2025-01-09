@@ -1,0 +1,54 @@
+66
+por lo que, en las cláusulas principales, el orden de los constituyentes puede variar. Sin
+embargo, en las cláusulas subordinadas el orden es más rígido. El ejemplo (1) presenta una
+oración simple, mientras que (2) muestra el mecanismo de subordinación por nominalización,
+mecanismo muy productivo en la lengua.
+(1) wasi-n-pi
+Luwis-Ø yaku-ta
+casa-POS3-LOC Luis-NOM agua-AC
+(2)
+FA
+FN
+FN
+'Luis hace hervir agua en su casa'
+t'inpu-chi-sha-n
+hervir-CAU-ASP/DUR-3S
+V
+(Jwan-pa(j) jamu-sqa-n-ta)
+yacha-ni
+[Juan-GEN venir-NOM/PAS-3-AC] saber-1S
+'yo sé que Juan vino'
+2.6. El "chapusqa" o "mezclado": espacio dinámico de (in)definiciones identitarias
+h
+A partir de datos etnográficos, se describe a continuación el particular código de habla
+emergente: el quechua "mezclado" o /čapušqa qešwal. A lo largo de la tesis indagaremos
+sobre su significación y funcionamiento como estrategia de comunalización (Brow 1990). Por
+ahora, recorremos las particularidades sobresalientes de la "mezcla" y de su uso a través de la
+dinámica social.
+79
+Las actitudes y evaluaciones de los hablantes en relación con su particular forma de
+habla tienden a localizar el habla cotidiana, el "quechua mezclado", en una "zona de
+imperfección" que se despliega entre el “quechua puro" o "legítimo" y el español. Manifiestan
+que el "quechua puro puro" (una aparentemente perfecta y legendaria lengua) se habló, según
+creen, en el pasado y que todavía sería posible rastrearlo en ciertas zonas aisladas de Bolivia o
+de Perú, en el habla de personas muy mayores o en libros. Por otro lado, se relaciona con el
+español que, en tanto "código de poder" (Hill y Hill 1986:118), consideran el código
+apropiado para expresiones elevadas, formales, discursos de importancia pública, serios y
+solemnes, y hacia el cual las personas poseen sentimientos ambivalentes que superponen
+atracción al mismo tiempo que rechazo. Si bien, en la actualidad, la diferenciación funcional
+de las lenguas permite relacionar al español con las transacciones (e.g., el acceso al trabajo
+asalariado), los tratos relativamente impersonales entre la gente, el mercado, el gobierno y la
+religión; y al quechua con situaciones que implican compromiso personal, respeto por el
+parentesco y ciertos aspectos sagrados, las ambivalencias y las complejidades se suceden. Por
+ejemplo, el español también es, en algunos casos, la lengua de lo inauténtico y el maltrato;
+mientras que el quechua, al tiempo que garantiza la membresía a un pueblo y facilita el acceso
+a los recursos de la comunidad, es desprestigiada como "atrasada", "cerrada" a la sociedad
+receptora o inhibidora del desarrollo."
+Las escasas reacciones puristas con las que me he encontrado en el trabajo de campo
+focalizan más que los niveles fonológicos o gramaticales, los aspectos léxicos; y siempre se
+imbrincan complejamente con situaciones de poder (entre grupos quechuas, entre quechuas y
+españoles, en contextos de entrevista, etc.). Sin embargo, lo más relevante (para mí) es que el
+purismo no goza de prestigio entre el común de las personas. Esto parece poner de manifiesto
+que: a- el quechua goza de vitalidad y dicha vitalidad se manifiesta en la productividad de
+79
+Una situación similar describen Hill y Hill (1986) en relación con el mexicano.

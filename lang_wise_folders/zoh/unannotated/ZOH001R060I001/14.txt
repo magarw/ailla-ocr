@@ -1,0 +1,86 @@
+\tx ya
+\mb
+ya -7
+\sg1 DCT1-NOM1
+\eg1 DCT1-NOM1 table-3E have
+\fts esta mesa tiene una taza
+fte this table has a cup
+ZOH001R0601001.txt
+tum y@kkuk
+mexa -7@y 7anhnit-pa tum yak
+mexay
+7anhnitpa
+-7uk
+mesa -3E tener -INC uno INSTR2-tomar
+-INC one INSTR2-drink
+\com
+\idx
+\cmts picture of a table w/cup&saucer on it
+\ref 050
+\_no 00051
+\tx y@d@
+\mb ya
+-7uk
+\sg1 DCT1-DEM INSTR2-tomar
+\eg1 DCT1-DEM INSTR2-drink
+-d@
+-da
+\tx yada
+\mb
+y@kkuk
+yak
+\fts esta taza esta* encima/sobre de la mesa
+\fte this cup is on the table
+\com
+\idx
+\cmts picture of a table w/cup&saucer on it
+\ref 051
+\_no 00052
+\com
+\idx
+teji7aw@
+teji
+hay
+t@m
+ya -d@ t@m
+teji7aw@
+y@da
+xuyujonhjo7
+-7a -wa ya
+ya -da xuyu7-jonh -jo7
+-VERS1-COM DCT1-DEM olla -adentro-Loc2
+\eg1 DCT1-DEM fruit there_is-VERS1-COM DCT1-DEM pot -inside -LOC2
+teji
+\sg1 DCT1-DEM fruta hay
+there_is-VERS1-COM
+mexatzapji7
+-7a -w@ mexa -tzapji7
+-VERS1-COM mesa - encima
+table-on
+\fts esta fruta esta* dentro de la olla
+\fte this fruit is inside this pot
+\com
+\idx
+\cmts picture of a bowl with a fruit inside it
+\ref 052
+\_no 00053
+\tx yada
+t@m
+\mb ya -d@ t@m teji
+\sg1 DCT1-DEM fruta hay
+y@da xuyujo7
+-7a -w@ ya -da xuyu7-jo7
+-VERS1-COM DCT1-DEM olla -LOC2
+\eg1 DCT1-DEM fruit there_is-VERS1-COM DCT1-DEM pot -LOC2
+teji7aw@
+\cmts same picture as 051
+\ref 053
+\_no 00054
+\fts esta fruta esta* en/dentro de la olla
+\fte this fruit is in this pot
+toto ja:ytzapji7
+\tx_y@d@
+\mb ya -d@ toto7 jay
+-E -tzapji7
+\sg1 DCT1-DEM papel escribir-NOM3-encima
+Page 14

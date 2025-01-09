@@ -1,0 +1,63 @@
+\date 10/Nov/94
+\lex juwi7
+\_no 00989
+\LG MIG
+\PSH [jui7]
+\UND juwi 7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG brasa
+\ENG red hot coal
+\EXU 1 jui' jukut (ek).7@y_w@+@7
+\XPSH 1 [jui jukutt@yy@*7]
+\XSP 1 carbo*n que tiene lumbre
+\XEN 1 burning coal
+\EXU 2 jui' 7okx-w@+'am+p@7, jui' 7okx.w@+@7
+\XPSH 2 [jui 7okxamp@7, jui 7⁰kx@*7]
+\XSP 2 carbo*n apagado
+\XEN 2 dead coal
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS * ju7uy7; CK-PH sounds good, HAJ:96, no /w/, final 7.
+a weak [w]: TK
+\date 25/Jun/96
+\lex jwanega
+\_no 00990
+LG MIG
+\PSH
+\UND jwanega
+\MB
+\VAR
+\GRAM med
+\SCI
+\USE
+\SPG fanega
+\ENG Spanish bushel
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT
+\DSRC HAJ94
+\CMTS 6 costales; 24 almudes de mai*z
+\date 10/Jan/96
+\lex jwanega nip.i
+\_no 00991
+\LG MIG
+\PSH [jwanega nipi]
+\UND_jwanega=nip. E
+\MB fanega, sembrar, NOM7
+\VAR
+Page 434
+final 7. I still hear

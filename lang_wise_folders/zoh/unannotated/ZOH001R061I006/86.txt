@@ -1,0 +1,64 @@
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG encontrar
+ENG to find
+\SPL pa7t.7oy
+\SLGR ANTIP
+\SLGL conseguir; encontrar // to get; to find
+\SPL pa7t.7@m
+\SLGR PASS
+\SLGL encontrarse; acostumbrarse // to be found; to become accustomed
+to
+\EXU pa7t.7@m-w@ bi p@n maxan-t@k_num=tz@n-pa
+\XPSH [Pa7tt@mm@ bi p@n maxant@k, numtz@npa.]
+\XSP Se encontro* el hombre en la iglesia, se esta* escogiendo.
+XEN The man was found in church, he was hiding.
+\SYN
+\SEMF cognitive
+\ASP achievement
+\ARG
+\NOM pa't.e7
+\SUB k@.pa7t
+\ETYM
+\ETL
+\ROOT pa7t
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex patz [1]
+\_no 00126
+LG MIG
+\PSH
+\UND patz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tirar (mango, piedra, algo como asi*)
+\ENG to throw down (something round, like a rock or a mango)
+\SPL patz.7oy
+\SLGR ANTIP
+\SLGL tirar // to throw down
+\SLGR NO PASS
+ZOH001R0611006.txt
+\SPL patz.ney
+\SLGR ASSUM1
+\SLGL estar tirado // to be thrown down
+\EXU 1 ga.ji patz.ney-pa
+\XPSH 1 [Gaji patzneypa.]
+\XSP 1 Esta* tirado por alla*.
+\XEN 1 It's thrown down over there.
+\EXU 2 patz.7@m-w@ bi pelota
+\XPSH 2 [Patztz@mm@ bi pelota.]
+\XSP 2 Tiraron la pelota.
+\XEN 2 They threw the ball.
+\SYN
+\SEMF throw
+\ASP achievement
+\ARG
+Page 86

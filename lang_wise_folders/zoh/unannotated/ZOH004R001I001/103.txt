@@ -1,0 +1,66 @@
+\GRAM S
+\SCI
+\USE
+\SPG ajo
+\ENG garlic
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Nov/94
+\lex 7axux poj
+\_no 00241
+\LG MIG
+\PSH
+\UND 7axux poj
+\MB
+\VAR
+\GRAM s(m)s
+\SCI
+\USE
+\SPG bejuco de ajo -silvestre
+\ENG "garlic vine"
+wild
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF EB
+LF:7okox
+\lex 7ay7
+\_no 00242
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 30/Apr/95
+\LG MIG
+\PSH
+\UND 7ay7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\XEN
+\SYN
+\SPG hoja de planta
+\ENG plant leaf
+\EXU
+\XSP
+\SEMF
+\ETYM
+\ETL
+LF: poj
+\ROOT
+\DSRC HAJ94
+\CMTS
+ZOH004R0011001.txt
+Page 103

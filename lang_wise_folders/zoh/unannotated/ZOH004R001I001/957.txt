@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [ney tum@]
+\UND ney tum-A
+\MB mismo, uno, NUM2
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG so*lo; solito
+\ENG alone
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex ney tzi'
+\_no 02222
+\LG MIG
+\PSH
+\UND ney tzi7
+\MB RECIP, dar
+\VAR
+\GRAM recip+vt
+\SCI
+\USE
+\SPG regalar a alguien
+\ENG to make a gift of something to someone
+\SPL ney tzi'. 7oy
+\SLGR ANTIP
+\SLGL regalarse
+\EXU d@+ ney tzi-xuk-w@ ya.da jamatin
+\XPSH [D@ ney tzixukk@ y@da jamatin.]
+\XSP Me regalaron este dinero..
+\XEN They gave me this money.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT tzi7
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\CMTS CK analysis: ney `just like that'
+\date 08/Feb/96
+\lex ney [1]
+\_no 02223
+ZOH004R0011001.txt
+LG MIG
+\PSH
+\UND ney
+\MB IERG
+\VAR
+\USE inclusive ergative agreement marker, rarely used
+\GRAM pron
+\SPG nosotros; nuestro
+\ENG we; our
+Page 957

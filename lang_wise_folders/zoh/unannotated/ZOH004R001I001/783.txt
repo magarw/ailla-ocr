@@ -1,0 +1,64 @@
+\USE
+\SPG pescado lisa - del mar
+\ENG a type of fish
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 21/Jun/95
+\lex litru
+\_no 01813
+\LG MIG
+\PSH
+\UND litru
+\MB
+\VAR
+\GRAM med
+\SCI
+\USE
+\SPG litro
+\ENG liter
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 02/Oct/94
+\lex loko
+\_no 01814
+\LG MIG
+\PSH
+\UND loko
+\MB
+\VAR
+LF: koke
+\XEN
+\SYN
+\GRAM
+\SCI
+\USE
+\SPG loco: persona que no tiene juicio
+\ENG a crazy person
+\SPL
+\SLGR
+\EXU
+\XSP
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+ZOH004R0011001.txt
+Page 783

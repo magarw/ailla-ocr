@@ -1,0 +1,46 @@
+\EX d@ kumm@
+\XSP me enterro*
+\XEN he buried me
+\EX kumm@w@
+\XSP lo enterraron
+\XEN
+\EX kumm@mma*m bi kaw@*7
+\XSP ya se enterro* e*l que murio*
+\XEN now the corpse was buried
+\ROOT kum T2
+\SEMF affect
+\PASS enterrarse
+\CMTS
+\lex muy
+\_no 00005
+\SPG doblar(se)
+ENG to dent
+\EX muyy@n_machete 7@y win
+\XSP se doblo* el filo de mi machete
+\XEN my machete got dented
+\EX 7@y yakmuyy@
+\XSP 1o apachurro*
+XEN he bent it
+\EX muyy@mm@ 7@n n@jupkuy
+\XSP se apachurro* mi cubeta
+\XEN my bucket was dented
+ZOH001R0611008.txt
+\EX ti p@pi7t 7@m yakmuyy@ m n@jupkuy7 ?
+\XSP con que apachurrastes tu cubeta ?
+\XEN what did you dent your bucket with ?
+\ROOT muy 12, T2
+\SEMF affect, break
+\CAUS yak.muy apachurrar
+\PASS apachurrarse
+\CMTS
+\lex wi7t
+\_no 00006
+\SPG torcerse; torcer mecate
+\ENG to be twisted; to twist rope
+\EX
+\XSP
+\XEN
+\ROOT wi7t T2
+\SEMF motion, create
+\CMTS
+Page 2

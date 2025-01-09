@@ -1,0 +1,63 @@
+\SLGR ANTIP
+\SLGL asar // to roast
+\SPL jux.7@m
+\SLGR PASS
+\SLGL asarse // to be roasted
+\SPL jux. ten
+\SLGR PRSV
+\SLGL tener asado // to have roasted
+\EXU 1 7ay'=jux-w@
+\XPSH 1 [7ay juxx@.]
+\XSP 1 Aso* hoja.
+\XEN 1 He roasted leaves.
+\EXU 2 patanux 7ay' 7@y+ jux-w@
+\XPSH 2 [Patanux 7ay 7@y juxx@.]
+\XSP 2 Aso* hoja de pla*tano para tamal.
+\XEN 2 He roasted banana leaves for tamales.
+\SYN
+SEMF cook
+\ASP activity
+\ARG
+\NOM
+\SUB ko.jux
+\ETYM
+\ETL
+\ROOT jux
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex juxtixa d@k+7ay
+\_no 00981
+\LG MIG
+\PSH [juxtixa d@kka]
+\UND juxtixa d@kkay
+\MB juxtixa, NPL
+\VAR juxtixa d@k
+\GRAM s + pl
+\SCI
+\USE
+\SPG autoridades
+\ENG authorities
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ETYM justicia
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\lex juxtixa p@n
+\_no 00982
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+\UND juxtixa p@n
+\MB juxtixa, hombre
+\VAR
+\GRAM sms
+\SCI
+Page 430

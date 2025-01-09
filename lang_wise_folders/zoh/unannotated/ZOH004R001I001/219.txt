@@ -1,0 +1,63 @@
+\XSP 2 Delante de e*l, lo midio*.
+\XEN 2 She measured it in front of him.
+\SYN
+\SEMF cognitive
+\ASP achievement
+\ARG
+\NOM 7utz.i, 7utz.kuy7, yuk. 7utz.17
+\SUB 7anh. 'utz.'@y, jo.7utz, j@x=7utz, k@.n@k=7utz. '@y
+\ETYM
+\ETL
+\ROOT 7utz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex 7utz.7oy. pa+a7k
+\_no 00510
+\LG MIG
+\PSH [7utztzoba*7]
+\UND 7utz.7oy.pa +P@7k
+\MB medir, ANTIP, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG medidor
+\ENG one who measures
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7utz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex 7utz.7utz.na7
+\_no 00511
+\LG MIG
+\PSH [7utz7utzna7]
+\UND
+\MB
+\VAR
+\GRAM stat
+\SCI
+\USE
+\SPG jorobado
+\ENG hunchback
+\SPL
+ZOH004R0011001.txt
+\SLGR
+\EXU 7utz.7utz.na' wit-pa
+\XPSH [7utz7utzna witpa.]
+\XSP Anda jorobadito.
+\XEN He walks hunchbacked.
+\SYN
+\SEMF
+\ETYM
+\ETL
+Page 219

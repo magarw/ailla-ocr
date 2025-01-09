@@ -1,0 +1,87 @@
+\eg1 DCT3-TMP say -APPL-INC rock
+\zoq Gay n@mjaba tza7.
+\fts Eso le dice piedra.
+\fte That they call a rock.
+\com
+\idx
+\ref ZOH001R036 428
+\_no 00421
+bi
+pitzenhjo kwandu yakwaxxoba
+7anmal d@kka 7aber
+pitzenhjo7 kwandu yak -wax -7oy -pa
+bi 7anma*1 d@kkay 7aber
+\sg1 por_eso cuando CAUS-morder-ANTIP-INC DEF animal NPL
+\eg1 because when CAUS-bite -ANTIP-INC DEF animal NPL
+\tx
+\mb
+\tx 7iw@ gay
+\mb 7iwa ka -y
+\sg1 quien DCT3-TMP irse-INC 3E
+\egl who
+y
+n@kpa
+p@kxukk@
+n@k -pa 7@y pak
+DCT3-TMP go -INC 3E get
+\ref ZOH001R036 429
+\_no 00422
+\tx
+bi kuranderu pwes
+\mb bi
+kuranderu pwes
+\sg1 DEF curandero pues
+\eg1 DEF healer well
+ZOH001R0361001.txt
+\zoq Bi kuranderu, pwes.
+\fts El curandero, pues.
+\fte well, the healer.
+\com
+\idx
+\ref ZOH001R036 430
+\_no 00423
+\zoq Pitzenhjo kwandu yakwaxxoba bi 7anmald@kka, 7aber 7iw@ gay n@kpay
+p@kxukk@.
+fts Por eso cuando lo muerde los animales, a ver quien ya lo van a traer.
+\fte That's why when animals bite, let's see who then they go get.
+\com
+\idx
+-xuk-w@
+agarrar-3PL-DINC
+\tx yakwaxxoyy@*7
+\mb yak-wax
+-7oy -w@ -v7k
+\sg1 CAUS-morder-ANTIP-COM-REL
+\egl CAUS-bite -ANTIP-COM-REL
+-3PL-DINC
+p@kpa
+\tx gay
+n@kpa
+y
+tzajin
+toyp@n
+\mb ka -y
+toy -A -p@n tzajin
+\sg1 DCT3-TMP irse-INC 3E ver-dINC DCT3-DEM doler-NOM2-hombre culebra
+\eg1 DCT3-TMP go -INC 3E see-dINC DCT3-DEM hurt -NOM2-man
+7ixx@ gag@
+n@k -pa 7@y 7ix-w@ ka -g@
+snake
+\zoq Gay_n@kpay 7ixx@ gag@ toyp@n tzajin yakwaxxoyy@*7.
+\fts ya lo va a ver aquel enfermo aquel que le pico* la culebra.
+\fte Then that sick man that the snake bit goes to see
+\com
+\idx
+aver
+let's see
+\ref ZOH001R036 431
+\_no 00424
+\tx 7ay
+tum@
+\mb 7adyo pak
+-pa tum@
+\sg1 luego agarrar-INC 3E ATRAS-agarrar-INC uno
+7@y j@xp@kpa
+7@y jax -p@k
+-pa
+Page 92

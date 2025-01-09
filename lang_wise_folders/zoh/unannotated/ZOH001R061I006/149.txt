@@ -1,0 +1,63 @@
+\SLGL_tener rajado // to have stripped
+\EXU 7@y+ xipx-w@ kuchiyu+j@nanh
+\XPSH [7@y xipx@ kuchiyuj@nanh. ]
+\XSP Lo estaco* con cuchillo.
+\XEN She stabbed him with a knife.
+\SYN
+\SEMF cut
+\ASP semelfactive
+\ARG
+\NOM we7k=xipx.'oy.kuy7, we7k=xipx.i
+\SUB mok tzik.kuy' xipx.kuy7
+\ETYM
+\ETL
+\ROOT xipx
+\RTGR T3
+\DSRC TK94
+\CMTS
+\CMTS CK-EX HAJ:96 fixed
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex xi7t
+\_no 00221
+\LG MIG
+\PSH
+\UND xi7t
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG lazar; lazar con mecate; enredarse
+\ENG to rope; to get tangled up
+\SPL xi7t.7oy
+\SLGR ANTIP
+\SLGL lazar // to rope
+\SPL xi7t.7@m
+\SLGR PASS
+\SLGL lazarse // to be roped
+\SPL xi7t.ten
+ZOH001R0611006.txt
+\SLGR PRSV
+\SLGL tener lazado // to have something roped
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xi7t
+\RTGR T3, T2
+\DSRC HAJ94
+\CMTS
+\date 20/Jun/95
+\lex xom
+\_no 00222
+\LG MIG
+\PSH
+\UND xom
+\MB
+\VAR
+\GRAM vt
+Page 149

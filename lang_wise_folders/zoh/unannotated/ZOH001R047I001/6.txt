@@ -1,0 +1,91 @@
+\ref ZOH001R047 023
+\_no 00024
+\tx de7xe
+\mb te
+de7.
+-7
+\sg1 DCT2-SIM DCT2-NOM1
+\eg1 DCT2-SIM DCT2-NOM1
+\zoq De7xe de 7.
+\fts Asi* es.
+-7xe te
+\fte That's how it is.
+\com
+\idx
+\ref ZOH001R047 024
+\_no 00025
+\tx <break> n@mpa
+\mb
+\sgl
+\eg1
+\tx ma7@yy@.
+\mb
+ma7 -7@y -wa
+\sg1 venta-VERS2-DINC
+\egl sale -VERS2-DINC
+\ref ZOH001R047 025
+\_no 00026
+\tx
+\mb
+-
+\zoq Nampa ja7 ke yakk@ da nak@n man ma77@yy@.
+\fts Dice que yo vaiga a vender camote.
+\fte He says yes that I should go sell yams.
+\com
+\idx
+\sg1 entonces
+\egl then
+ZOH001R0471001.txt
+n@mpa
+n@m
+-pa j@7 ke
+decir-INC si* que
+say -INC yes that VOL
+ja ke yakk@ da n@k@
+n m@n
+yakk@ da n@k -A7 7@n m@n
+VOL 1A irse-iOPT 1E camote
+1A go
+-iOPT 1E
+yam
+7entonse pwes n@kk@
+n
+matz@ki.
+7entonses pwes n@k -w@ 7@n ma7 -tz@k -E
+venta-hacer-dCOM
+sale - do
+pues irse-COM 1E
+well go -COM 1E
+\ref ZOH001R047 027
+\_no 00028
+\zoq 7entonses pwes, n@kk@n matz@ki.
+\fts Entonces pues, fui* a vender.
+\fte well then, I went to sell.
+\com
+\idx
+\zoq J@7, n@kk@n matz@ki.
+\fts Si*, fui* a vender.
+\fte Yes, I went to sell.
+\com
+\idx
+\ref ZOH001R047 026
+\_no 00027
+\tx ja nakk@ n
+matz@ki.
+\mb
+ja7 nak -w@ 7@n ma7 -tz@k -E
+\sgl si* irse-COM 1E venta-hacer-dCOM
+\eg1 yes go -COM 1E
+sale - do
+-dCOM
+-dCOM
+\tx 7i de deji
+pwes d@ minn@
+\mb 7i de te -ji7 pwes d@ min
+7@n pa7tt@.
+7@n pa7t
+\sg1 y de DCT2-LOC1 pues 1A venir-COM DCT3-TMP 1E encontrar-COM
+Page 6
+kay
+-w@ ka -y
+-wa

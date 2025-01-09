@@ -1,0 +1,64 @@
+\UND tzu7-ji-7_paja7k=w@j-pa +P@7k
+\MB noche, LOC1, NOM1, dulce, tener_olor, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG huele de noche
+\ENG a type of tree or shrub
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT W@j
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 11/Feb/96
+\1ex_tzu'=muk
+\_no 03471
+LG MIG
+\PSH [tzuumuk-]
+\UND tzu7=muk
+\MB noche, caerse
+\VAR
+\GRAM vi:incorp
+\SCI
+LF: kuy mata
+\USE incorporated ABS subject
+\SPG entrar la noche
+\ENG for night to fall
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT muk
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex tzu'tz.i7
+\_no 03472
+\LG MIG
+\PSH [tzutzi7]
+\UND tzu7tz.E7
+\MB mamar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG chiche; "pecho"
+\ENG nipple
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ZOH004R0011001.txt
+Page 1493

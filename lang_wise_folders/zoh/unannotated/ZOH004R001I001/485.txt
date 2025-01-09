@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG salir espuma
+\ENG for foam to come out
+\SPL
+\SLGR
+\EXU j@x. 'opx-w@ xuyu'+joonh
+\XPSH [J@xxopx@ xuyujo*nh.]
+\XSP Salio* la espuma de la olla.
+\XEN Foam came out of the pot.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 70px
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex j@x-'utz
+\_no 01109
+LG MIG
+\PSH [j@xxutz-]
+\UND jax=7utz
+\MB ATRAS, medir
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar medido
+\ENG to measure something out
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7utz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex j@x= '@j
+\_no 01110
+\LG MIG
+\PSH [j@xx@j-]
+\UND j@x=7@j
+\MB ATRAS, pujar
+\VAR
+\GRAM vi
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG sacar pujando algo, con esfuerzo
+\ENG to shit with a great push
+\SPL
+\SLGR
+\EXU
+\XSP
+Page 485

@@ -1,0 +1,64 @@
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex moko.e7
+\_no 01984
+\LG MIG
+\PSH [mokoe7]
+\UND mokoy.E7
+\MB emborracharse, NOM7
+\VAR mokoye7
+\GRAM SV
+\SCI
+\USE
+\SPG borracho
+\ENG drunk
+\EXU mokoy. E7 7otonh-w@
+\XPSH [Mokoy7otonhnh@.]
+\XSP Hablo* borracho.
+\XEN He spoke drunkenly.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT mokoy
+\RTGR IX
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\DATE 14/Aug/02
+\lex mokok
+\_no 01985
+\LG MIG
+\PSH
+\UND mokok
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG doler "por poquito le duele", viene y sale
+a little, it comes and goes
+ENG to hurt
+\SPL yak.mokok
+\SLGR CAUS
+\SLGL hacer doler // to cause to hurt
+\EXU 1 mokok-pa 7@n+ tzanh.kuy7
+\XPSH 1 [Mokokpan tzanhkuy7.]
+\XSP 1 Duele por poquito mi mano.
+ZOH004R0011001.txt
+\XEN 1 My hands hurts a little.
+\EXU 2 7@y+ yak.mokok-w@ 7@n+ tzanh. kuy' mas de tzoy' 7@n+ p@'.jay-wa
+\XPSH_2 [7@y yakmokokk@n tzanhkuy mas de tzoy 7@n p@jayy@.]
+\XSP 2 Lo hizo doler mas mi mano de ese remedio que le puse.
+\XEN 2 This medicine I put on made my hand hurt more.
+\SYN
+\SEMF body
+\ASP
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT mokok
+Page 855

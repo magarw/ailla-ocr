@@ -1,0 +1,63 @@
+\XEN
+\SYN
+\ROOT nu7kx
+\RTGR t3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex num
+\_no 02408
+\LG MIG
+\PSH
+\UND num
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG robar
+\ENG to rob
+\EXU 7@y+ num-w@ bi piyu7
+\XPSH [7@y numm@ bi piyu7.]
+\XSP Robo* una gallina.
+\XEN She stole a chicken.
+\SYN
+\SEMF trade
+\ASP achievement
+\ARG
+\NOM 7anh.num, num.i7, num-tz@k. kuy7, num=tun.kuy7
+\SUB_num='ix, num=j@y, num=p@', num=tun, num=tzam, num=tz@n, num=wit
+\ETYM *nu7m
+\ETL PS
+\ROOT num
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex num.17
+\_no_02409
+\LG MIG
+\PSH [numi7]
+\UND num. E7
+\MB robar, NOM7
+\VAR
+\GRAM sv/pcp
+\SCI
+\USE
+\SPG robado
+\ENG stolen
+\SPL
+\SLGR
+\EXU num.i7+k wakax
+\XPSH [numi7k wakax]
+\XSP ganado robado
+\XEN stolen cow
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT num
+\RTGR T1
+Page 1038

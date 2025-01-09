@@ -1,0 +1,62 @@
+\SUB yuk.majatz
+\ETYM
+\ETL
+\ROOT majatz
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex maji7
+\_no 01826
+\LG MIG
+\PSH
+\UND maj.17 ??
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG placenta
+\ENG placenta
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT maj
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 26/Jan/96
+\lex maj.kuy7
+\_no 01827
+\LG MIG
+\PSH [majkuy7]
+\UND maj. kuy7
+\MB regar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG cantaro
+\ENG jug; pitcher
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT maj
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 19/Jun/95
+\lex majoma
+\_no 01828
+\LG MIG
+\PSH
+ZOH004R0011001.txt
+Page 789

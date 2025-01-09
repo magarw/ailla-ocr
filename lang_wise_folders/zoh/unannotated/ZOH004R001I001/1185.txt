@@ -1,0 +1,64 @@
+\GRAM S
+\SCI
+\USE
+\SPG gavila*n
+\ENG hawk
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH
+\date 25/Jun/96
+\lex pox=nenh=yo'
+\_no 02755
+\LG MIG
+\PSH [poxnenhyo-]
+\UND pox=nenh=y07
+\MB X, olear, caerse
+\VAR
+\GRAM Vi
+\SCI
+\USE
+\SPG caerse de golpe
+\ENG to fall down from a blow
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 nenh
+\RTGR 1 IX
+\ROOT 2 yo7
+\RTGR 2 12
+LF: jon
+\lex poxte
+\_no 02756
+\LG MIG
+\PSH
+\UND poxte
+\MB
+\DSRC TK94
+\CMTS get deriv's
+\CMTS pox- 'el sonido de caer'; nenh- 'olear', probably more sound effects
+\date 25/Jun/96
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG poste
+\ENG post
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+Page 1185

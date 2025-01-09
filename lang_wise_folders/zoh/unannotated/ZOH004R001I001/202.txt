@@ -1,0 +1,64 @@
+\GRAM vt:vers2
+\SCI
+\USE
+\SPG 1 hablarle
+\SPG 2 pretendersela
+ENG 1 to speak to someone
+\ENG 2 to ask for someone's hand in marriage
+\EXU y@7_jay(a) 7une7 7@y+ 7otonh. '@y-w@ ya7 yom(a) 7une7
+para ke 7@y+ nobia. 7aH-pa
+\XPSH_[Y@ja:y 7une7 7@y 7otonhnh@yy@ y@ yo:m 7une para key
+nobia7apa.
+\XSP Este muchacho se pretendio* esta muchacha para que sean
+novios.
+\XEN This boy spoke for this girl so they could become engaged.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7otonh
+\RTGR I1
+\DSRC HAJ94
+\CMTS
+\date 12/Jun/95
+\lex 707tz
+\_no 00471
+LG MIG
+\PSH
+\UND 707tz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG doblar (como fierro)
+\ENG to bend (like an iron bar)
+\SPL 707tz.7oy
+\SLGR ANTIP
+\SLGL doblar // to bend
+\SLGR NO PASS
+\SPL 707tz.ney
+\SLGR ASSUM1
+ZOH004R0011001.txt
+\SLGL estar doblado // to be bent
+\EXU 1 mok=707tz-w@
+\XPSH 1 [MOok 707tztz@.]
+\XSP 1 Doblo* mai*z.
+\XEN 1 He bent down the cornstalks.
+\EXU 2 7@y+ t@nh=7o7tz-w@ y@da kuy 7anhkax
+\XPSH 2 [7@y t@nh7o7tztz@ yada kuy 7anhkax.]
+\XSP 2 Le dio* una machetazo esta rama para que lo bobio*.
+\XEN 2 He hit this branch with a machete to bend it down.
+\EXU 3 707tz. '@m-w@ bi t@nh.kuy7
+\XPSH 3 [707tztz@mm@ bi t@nhkuy.]
+\XSP 3 Se doblo* el fierro.
+\XEN 3 The tool was bent.
+\EXU 4 rroberto 7@y+ 707tz-w@ 7@y+ t@nh.kuy7
+\XPSH_4 [Rrobertoy_707tztz@yt@nhkuy7.]
+\XSP 4 Roberto doblo* su machete.
+\XEN 4 Roberto bent his machete.
+\SYN
+\SEMF arrange
+\ASP achievement
+\ARG
+Page 202

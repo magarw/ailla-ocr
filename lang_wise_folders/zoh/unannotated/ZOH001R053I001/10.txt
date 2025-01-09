@@ -1,0 +1,71 @@
+\zoq 7i.
+\fts Y.
+\fte And.
+\com
+\idx
+\ref ZOH001R053 037
+\_no 00038
+\tx
+HAJ: jutzenh 7une
+\mb HAJ jutzenh 7une7
+7@m 7anhnitpa?
+7@m 7anhnit-pa
+\sg1 HAJ: cuanto nin~o/a 2E tener - INC
+\eg1 HAJ: how much child 2E have
+-INC
+\zoq HAJ: Jutzenh 7une 7@m 7anhnitpa?
+\fts HAJ: Cuantos hijos tienes?
+\fte HAJ: How many children do you have?
+\com
+\idx
+\ord o v
+\ref ZOH001R053 038
+\_no 00039
+\tx TSM: 7@n p@w@
+7esde tujta*nh.
+\mb TSM 7@n p@7 -w@ 7esde tujta*nh
+\sg1 TSM: 1E poner-COM esde
+\eg1 TSM: 1E put -COM um
+ZOH001R0531001.txt
+\com
+\idx
+\ord v o
+\zoq TSM: 7@n p@w@, 7esde, tujta*nh.
+\fts TSM: Tuve, 7esde, seis.
+\fte TSM: I bore, um, six.
+\ref ZOH001R053 039
+\_no 00040
+\tx j@, tujta*nh jejpa.
+\mb ja7 tujta*nh jej -pa
+\sgl si* seis
+vivir-INC
+\egl yes six
+live -INC
+\zoq Ja, tujṭa*nh jejpa.
+\fts Si*, seis vive.
+\fte Yes, six living.
+\com
+\idx
+\ord s v
+\ref ZOH001R053 040
+\_no 00041
+\tx maktaxxanh jay
+\mb maktaxxanh jaya
+\sg1 cuatro
+\egl four
+seis
+six
+manak 7i metzanh yom
+manak.
+manak 7i metza*nh yom@7 manak
+macho hijo/a y dos
+hembra hijo/a
+male child and two
+female child
+\zoq Maktaxxanh jaymanak 7i metzanh yommanak.
+\fts Cuatro varo*n y dos mujer.
+\fte Four boys and two girls.
+\com
+\idx
+\ref ZOH001R053 041
+Page 10

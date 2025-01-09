@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7on
+\RTGR P (TX)
+\DSRC HAJ94
+\CMTS get deriv's; CK-all
+\date 26/Jun/96
+\lex way'=jun.i7
+\_no 00376
+\LG MIG
+\PSH [wayjuni7]
+\UND way¹=jun. E7
+\MB pelo, caer_pelo, NOM7
+\VAR
+\GRAM a:sq
+\XEN
+\SYN
+\SCI
+\USE
+\SPG que se le cayo* el cabello
+\ENG someone whose hair has fallen out
+\SPL
+\SLGR
+\EXU
+\XSP
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex way'=kex.i7
+\_no 00377
+LG MIG
+\PSH [waykexi7]
+\UND way7-kex. E7
+\MB pelo, ponerse_crespo, NOM7
+\VAR
+\XSP
+\XEN
+\GRAM BA-ed
+\SCI
+\USE
+\SPG de pelo crespo; colocho; "picho"
+\ENG curly-haired
+\EXU
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kex
+\RTGR 12
+ZOH001R0611004.txt
+HAJ:96, pho ok, new root 7on
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex way'=k@w.i7
+\_no 00378
+Page 150

@@ -1,0 +1,43 @@
+108
+Con mucha frecuencia la nominalización con -na- configura cláusulas de
+complemento como en los siguientes ejemplos:
+132
+yacha-ni
+(21) mana jamu-na-n-ta
+NEG venir-NOM-3S-AC saber-1S
+yo no sé si vendrá'
+(22) mikhu-na-n-ta
+tapu-nki
+comer-NOM-3S-AC preguntar-2S(PRES o FUT)
+preguntas (o preguntarás) si comerá'
+En (21) y en (22) la construcción lleva el sufijo de caso acusativo -ta que, en términos
+de transitividad, refiere una acción que focaliza su meta. Este sufijo, en cierto sentido,
+reemplaza el significado direccional de -man (como se vio en 15 o sucede en 20) y le otorga a
+la acción principal (desde el punto de vista del hablante) mayor grado de certeza.
+En las cláusulas de complemento, -na se utiliza generalmente cuando los sujetos de los
+verbos son diferentes por lo que es seguido regularmente por los morfemas de concordancia
+personal nominal, como en (23). En contraste, el nominalizador "infinitivizador" del quechua
+"-y" (llamado así por Cerrón Palomino 1987; Lefebvre y Muysken 1988; entre otros) se
+utiliza con preferencia cuando los sujetos de ambos verbos son idénticos y/o cuando se
+involucra a la primera persona, como en (24).¹
+66
+133
+(23) mana tuma-na-n-ta-m
+NEG tomar(ESP)-NOM/DS-3S-AC-ENF querer-1S
+'quiero que no tome'
+(24) ri-y-ta muna-ni
+muna-ni (o mana ujyananta munani)
+ir-SS-AC querer-18
+'quiero ir'
+La construcción con el nominalizador -na la encontramos combinada también con
+casos "direccionales" como -kama, "caso terminativo", que señala una referencia temporal
+que focaliza la terminación de una acción, como en (25):
+132
+133
+Se trata de ejemplos que involucran interrogativas indirectas. Queda pendiente analizar si la comparación
+entre interrogativas indirectas y directas arroja resultados interesantes. Por ahora, no es el foco de mi desarrollo.
+Llamar “infinitivizador" a este morfema puede estar señalando otro caso de "colonización lingüística”. Se
+trata de un rasgo basado en las propiedades de obviación/proximal donde contrastan, por ejemplo, en el
+castellano, las formas no finitas con el "subjuntivo". En el caso del quechua boliviano, los sufijos mencionados
+participan (y contrastan entre sí) dentro de un sistema de 'switch reference', relativamente común
+tipológicamente, que mencionaré más adelante.

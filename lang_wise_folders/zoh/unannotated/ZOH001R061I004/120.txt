@@ -1,0 +1,62 @@
+\XSP
+\XEN
+\SYN
+\ROOT tokoy
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tokx.e7
+\_no 00299
+\LG MIG
+\PHO [tokxe7]
+\UND tokx.E7
+\MB pelar_maiz, NOM7
+\VAR
+\GRAM_pcp
+\SPG lavado (de maiz)
+\ENG washed (of corn)
+\EXU pitz.i tokx.e7
+\XPSH [pitzi_tokxe7]
+\XSP nixtamal lavado
+\XEN washed corn
+\SYN
+\ROOT tokx
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex to7kx pitz.i
+\_no 00300
+\LG MIG
+\PSH [to7kx pitzi]
+\UND to7kx pitz. E
+\MB pelarse_mai*z, cocer_mai*z_en_cal, NOM7
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG pelarse mai*z
+\ENG for corn to be skinned
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT to7kx
+\RTGR TX
+\DSRC TK94
+\CMTS
+\date 09/Feb/96
+\lex to7kx.e7
+\_no 00301
+\LG MIG
+\PHO [to7kxe7]
+\UND to7kx.E7
+ZOH001R0611004.txt
+\MB dar_palmada, NOM7
+\VAR
+\GRAM pcp
+Page 120

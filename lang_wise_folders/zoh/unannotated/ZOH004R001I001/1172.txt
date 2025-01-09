@@ -1,0 +1,63 @@
+\XEN
+\SYN
+\SEMF
+\ETYM mayo
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH - HAJ:96, added final 7; final 7 OK/TK
+\date 25/Jun/96
+\lex popo' niwi7
+\_no 02724
+\LG MIG
+\PSH [popo niwi7]
+\UND popo7 niwi7
+\MB blanco, chile
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG chile blanco; chile sope
+\ENG a type of hot pepper
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex popo' paxte7
+\_no 02725
+\LG MIG
+\PSH [popo paxte7]
+\UND popo7 paxte7
+\MB blanco, espina
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG espina blanca
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+LF: kuy
+\CMTS
+\date 08/Feb/96
+\lex popo' powi7
+\_no 02726
+ZOH004R0011001.txt
+\LG MIG
+\PSH [popo powi7]
+\UND popo' powi7
+Page 1172

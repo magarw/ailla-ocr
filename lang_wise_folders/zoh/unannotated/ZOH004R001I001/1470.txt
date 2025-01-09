@@ -1,0 +1,62 @@
+\lex tzoy.naanh
+\_no 03416
+\LG MIG
+\PHO [tzoyna*nh]
+\UND tzoy.naanh
+\MB saltar, MED1
+\VAR
+\GRAM meas
+\SPG salto
+\ENG (a) jump
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT tzoy
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tzoy'.7oy.pa +a7k
+\_no 03417
+\LG MIG
+\PSH [tzoy7oba*7k]
+\UND tzoy7.7@y.7oy.pa+a7k
+\MB remedio, SUF, ANTIP, INC, REL
+\VAR tzoy7oba*7 p@n
+\GRAM agt1
+\SCI
+\USE
+\SPG curandero; doctor; me*dico; el que cura
+\ENG healer; doctor; medic; one who cures
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS CK-PH, CK-GR ok; worked on it: TK
+\date 26/Jun/96
+\lex tzoy'.7@y
+\_no 03418
+\LG MIG
+\PSH [tzoy7@y-]
+\UND tzoy7.7@y
+\MB remedio, SUF
+\VAR
+\GRAM vt
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG curar
+\ENG to cure
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+Page 1470

@@ -1,0 +1,63 @@
+\ROOT 2 no7tz
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 13/Nov/94
+\lex tewan(a)=tzepe7
+\_no 02986
+\LG MIG
+\PSH [tewanatzepe7]
+\UND tewana=tzepe7
+\MB
+\VAR tewaan=tzepe7
+\GRAM
+\SCI
+\USE
+\SPG traje regional; enagua de Tehuana
+\ENG traditional dress; the long skirt of the Tehuanas
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp Tehuana
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tigri(y)u
+\_no 02987
+\LG MIG
+\PSH
+\UND tigriyu
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG tigrillo; leoncillo; onza?
+\ENG a type of big cat
+\EXU
+ZOH004R0011001.txt
+\XSP
+\XEN
+\SYN chik 7onsa, chik_tzikin kajanh, chik kajanh
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS CK-PH - HAJ:96 ok/OK: TK
+\date 26/Jun/96
+\lex tij [1]
+\_no 02988
+\LG MIG
+\PSH
+\UND tij
+\MB
+\VAR
+\GRAM vi
+\SCI
+LF:7anmal
+Page 1285

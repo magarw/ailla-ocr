@@ -1,0 +1,63 @@
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex waku poj
+\_no 03534
+\LG MIG
+\PSH
+\UND waku poj
+\MB
+\VAR waku
+\GRAM
+\SCI
+\USE
+\SPG bejuco de guaco
+\ENG a type of vine
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 10/Nov/94
+\lex wakxi7
+\_no 03535
+\LG MIG
+\PSH
+\UND wakxi7
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG chico
+\ENG small
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+LF:poj
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 21/Oct/94
+ZOH004R0011001.txt
+Page 1520

@@ -1,0 +1,63 @@
+\MB ATRAS, quebrajar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar quebrajado
+ENG to remove something crushed
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN 7ok.ja7p. '@y
+\SEMF
+\ETYM
+\ETL
+\ROOT ja7p
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex j@x-ja7tz
+\_no 01028
+\LG MIG
+\PSH [j@xja7tz-]
+\UND j@x-ja7tz
+\MB ATRAS, fiar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar fiado
+\ENG to borrow
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ja7tz
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex j@x=jay
+\_no 01029
+\LG MIG
+\PSH [j@xjay-]
+\UND j@x=jay
+\MB ATRAS, escribir
+\VAR
+\GRAM vt
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG sacar algo escribiendo, como una cuenta
+\ENG to write something out, like a bill
+\SPL
+\SLGR
+Page 451

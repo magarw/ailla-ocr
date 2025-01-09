@@ -1,0 +1,63 @@
+\EXU 1 jutiinh 7@m+ 7anh-paj-pa
+\XPSH 1 [Juti*nh 7@m 7anhpajpa?]
+\XSP 1 ?De adonde vas a cercar?
+\XEN 1 From where are you going to fence?
+\EXU 2 7axta jutiinh 7@m+ 7anh-paj-pa
+\XPSH 2 [7axta juti*nh 7@m 7anhpajpa?]
+\XSP 2 ?Hasta de adonde vas a cercar?
+XEN 2 Up to where are you going to fence?
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\DATE 03/Jan/1980
+\lex jutu
+\_no 00966
+\LG MIG
+\PSH
+\UND jutu
+\MB
+\VAR
+\GRAM vi
+\SPG 1 rodarse
+\SPG 2 resbalarse
+\ENG 1 to roll
+\ENG 2 to slip
+\SPL yak. jutu
+\SLGR CAUS
+\SLGL hacer rodar // to cause to roll
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF move
+\ASP activity
+\ARG patient
+\NOM
+\SUB
+\ROOT jutu
+\RTGR 12
+ZOH004R0011001.txt
+\DSRC HAJ95
+\CMTS NEW ROOT cf jata-
+\CMTS
+\CMTS se trata de madera
+\date 03/Jan/80
+\lex jutu.jutu.ney
+\_no 00967
+\LG MIG
+\PSH [jutujutuney-]
+\UND jutu.jutu.ney
+\MB X, X, REDUP1
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG "lo mete y lo saca"
+\ENG for a man to make the movements of fucking
+\SPL
+\SLGR
+Page 423

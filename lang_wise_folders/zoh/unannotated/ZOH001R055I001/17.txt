@@ -1,0 +1,89 @@
+\tx 7@y 7onhtze7kk@ba
+jute*nh
+7otel playa krista*1
+\mb 7@y 7anh -tze7k-7@y-pa jut@@nh tzak -7@m -pa 7otel playa krista*1
+\sg1 3E BOCA -pedir-SUF-INC por_donde dejar-PAS -INC hotel Playa Cristal
+\egl 3E MOUTH-ask -SUF-INC where leave-PASS-INC hotel Playa Cristal
+\zoq 7@y 7anhtze7kk@ba jut@*nh_tzakk@mpa_7otel Playa Krista*l.
+\fts Lo pregunta por donde queda el Hotel Playa Cristal.
+fte He asked him where the Hotel Playa Cristal is.
+\com
+\idx
+\ref ZOH001R055 072
+\_no 00073
+n@kko
+nak -70
+\tx
+\mb
+\sg1 entonces
+\egl then
+-xuk-w@
+7entonse n@mjaxukk@
+y@da
+kwadra 7axta
+7entonses n@m -jay
+-jay -xuk-w@
+ya -da
+kwadra 7axta
+decir-APPL-3PL-COM irse-IMPV2 DCT1-DEM cuadra hasta
+say -APPL-3PL-COM go -IMPV2 DCT1-DEM block until
+ga7
+\tx gaja
+\mb
+karreter 7aka
+karretera 7aka
+tzakk@mpa
+tzak -7@m -pa
+ka -7
+\sg1 DCT3-Loc1 carretera orilla dejar-PAS -INC DCT3-NOM1
+\eg1 DCT3-LOC1 highway edge
+leave-PASS-INC DCT3-NOM1
+ka -ja7
+\zoq 7entonse n@mjaxukk@, "N@kko y@da kwadra, 7axta gaja karreter 7aka
+tzakk@mpa ga7."
+\fts Entonces le dijeron, "Vete en esta cuadra, hasta para alla* en la orilla
+de la carretera queda.
+\com
+\idx
+\fte so they told him, "Go down this block there to the edge of the highway,
+it's there.
+\ref ZOH001R055 073
+\_no 00074
+\tx bweno n@mpa
+\mb bweno n@m
+-pa
+\sg1 bueno decir-INC Germa*n
+\egl good say -INC Germa*n
+\zoq "Bweno," n@mpa Jerma*n.
+\fts "Bueno" dice Germa*n.
+J
+\fte "OK", says Germa*n.
+\com
+\idx
+\ref ZOH001R055 074
+\_no 00075
+\tx minn@
+\mb min -wa
+ZOH001R0551001.txt
+tzakk@mpa
+\sg1 venir-COM
+\egl come -COM
+\zoq Minn@.
+\fts vino.
+\fte He came.
+\com
+\idx
+jerma*n
+jerma*n
+\ref ZOH001R055 075
+\_no 00076
+naxe pa7tt@
+\tx
+\mb naxe pa7t
+ye7tztz@ y@7
+-w@ ye7tz -wa ya -7
+\sg1 verdad encontrar-COM 11egar-COM DCT1-NOM1
+Page 17
+7otel
+7otel
+hotel

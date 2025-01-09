@@ -1,0 +1,61 @@
+XEN the sun has gone down
+\EX tzottam xepe
+\XSP ya salio* la luna
+\XEN the moon has gone down
+\ROOT tzot Ix
+\SEMF nature
+\ASP transition
+\CAUS yak.tzot hacer salir (Dios)
+\CMTS
+\date 03/Jan/80
+\lex tzo7tz
+\_no 00136
+\SPG faltar
+\ENG to lack; to miss
+\EX tzo7tztz@ m@jm@
+\XSP falta mucho
+XEN she missed someone a lot
+\XEN
+\ROOT tzo7tz Ix
+\SEMF cog, condition
+\ASP state
+\CAUS NONE
+\CMTS
+\date 03/Jan/80
+\lex tzoy
+\_no 00137
+\SPG saltar
+\ENG to jump
+\EX
+\XSP
+\XEN
+\ROOT tzoy Il
+\SEMF motion
+\ASP momentaneous, activity
+\CAUS yak.tzoy hacer saltar
+\CMTS
+\date 03/Jan/80
+\lex tzuj
+\_no 00138
+\SPG escupir
+\ENG to spit
+\EX 7@y niktzujj@yy@
+\XSP 1o escupio*
+\XEN she spit
+\ROOT tzuj 11
+\SEMF body
+\ASP momentaneous, activity
+\CMTS
+\date 03/Jan/80
+ZOH001R0611007.txt
+\lex tzum
+\_no 00139
+\SPG hacerse bastante; (a)juntarse
+\ENG to increase; to collect
+\EX 7@y yaktzumm@ 7@y tzi:xuk@*7
+\XSP aguardo* algo que le dieron
+\XEN he collected what they gave him
+\ROOT tzum 12
+\SEMF condition
+\ASP process, activity
+Page 33

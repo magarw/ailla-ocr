@@ -1,0 +1,97 @@
+\_no 00069
+\tx 7@y niwakxukk@
+bi 7une bi
+\mb 7@y ni -wak -xuk-w@ bi 7une7 bi
+\sgl 3E
+DEF nin~o/a DEF
+\egl 3E PSE-empty -3PL-COM DEF child
+PSE-vaciar-3PL-COM
+\ref ZOH001R011 069
+\_no 00070
+\zoq 7@y niwakxukk@ bi 7une bi 7oktzawi7@yti.
+\fts Le quitaron la cria de la changa.
+\fte They took the baby away from its mother.
+\com
+\idx
+\tx 7@y p@ke7tt@
+\mb
+7@y p@7
+-ke7t
+-ke7t -w@
+-w@
+7eya*7
+7eya -v7k
+\sgl 3E poner-REPET-COM otro -REL
+\egl 3E put -REPET-COM other-REL
+\zoq 7@y p@ke7tt@ 7eya*7.
+\fts Le tiro* a otra.
+\fte He shot at another.
+\com
+\idx
+\ref ZOH001R011 070
+\_no 00071
+\tx 7otro 7@y tziw@
+\mb
+de gaji
+7otro 7@y tzi7 -w@ de ka -ji7
+pegar-COM de DCT3-LOC1
+hit -COM of DCT3-LOC1
+\sgl otro 3E
+\egl other 3E
+ZOH001R0111001.txt
+\zoq 7otro_7@y tziw@ de gaji.
+fts otro la tiro* de ahi*.
+\fte He hit another one from there.
+\com
+\idx sp
+\ref ZOH001R011 071
+\_no 00072
+\tx metzanh 7oktzawi
+metza*nh 7oko
+\mb
+\sg1 dos
+\eg1 two
+\tx p@kminxukk@
+\mb pak -min -xuk-w@
+\sgl agarrar-venir-3PL-COM
+\egl get -come -3PL-COM
+7@yti
+-tzawi7 7@yti7
+3PSN
+-mono
+DEF old_woman-monkey 3PSN
+7@y yakkaw@
+-tzawi7 7@y yak -ka7
+vieja -mono 3E
+old_woman-monkey 3E CAUS-die
+\ref ZOH001R011 072
+\_no 00073
+7oktzawi
+7oko
+vieja
+71
+-wa 7i
+CAUS-morirse-COM y
+-COM and two
+dos
+metzanh 7une
+y
+metza*nh 7une7 7@y
+\zoq Metzanh 7oktzawi 7@y yakkaw@ 7i metzanh 7une y p@kminxukk@.
+\fts Dos changas lo mato* y dos crias lo trajeron.
+\fte He killed two mother monkeys and they brought back two babies.
+\com
+\idx
+nin~o/a 3E
+child 3E
+7entonse n@mpa
+\tx
+tenyente ke bwen soldadu pin@k mix
+\mb entonces n@m
+-pa tenyente ke bweno soldado pin@k mix
+\sg1 entonces decir-INC teniente que
+bueno soldado CONFAC 2Prn
+\egl then
+that good soldier CONFAC 2Prn
+say -INC lieutenant
+Page 16

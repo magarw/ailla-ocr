@@ -1,0 +1,63 @@
+\USE
+\SPG yema de huevo
+\ENG egg yolk
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 31/Mar/95
+\lex pojo7k pak
+\_no 02696
+\LG MIG
+\PSH
+\UND pojo7k pak
+\MB huevo, hueso
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG ca scara de huevo
+\ENG egg shell
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\1ex pojo7k=xox.e
+\_no 02697
+\LG MIG
+\PSH [pojo7kxoxe]
+\UND pojo7k=xox. E
+\MB huevo, cocer, NOM7
+\VAR
+\GRAM nom: incorp
+\SCI
+\USE
+\SPG huevo cocido duro
+\ENG hard-boiled egg
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT XOX
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+ZOH004R0011001.txt
+Page 1160

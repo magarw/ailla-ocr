@@ -1,0 +1,63 @@
+\ETL
+\ROOT tem
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex tem.tem.ney
+\_no 02973
+\LG MIG
+\PSH [temtemney-]
+\UND tem.tem.ney
+\MB
+\VAR
+\GRAM VİR
+\SCI
+\USE
+\SPG estar relampagueando; estar reflejando rela*mpago
+\ENG to be lightning; for the lightning to flash
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tem
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 21/Jun/95
+\lex ten
+\_no 02974
+LG MIG
+\PSH
+\UND ten
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG 1 pararse; pararse la gente
+\SPG 2 pararse la verga
+ZOH004R0011001.txt
+\ENG 1 to stand up; for people to stand
+\ENG 2 for a dick to stand up
+\SPL yak. ten
+\SLGR CAUS
+\SLGL_parar; hacer pararse // to stand; to cause to stand
+\EXU 1 ten-w@ 7@y+ kan
+\XPSH 1 [Tenn@y kan.]
+\xSP 1 se le paro* la verga.
+\XEN 1 His dick stood up.
+\EXU 2 d@ ten-pa
+\XPSH 2 [D@ tenpa.]
+\XSP 2 Estoy parado.
+\XEN 2 I'm standing.
+\SYN
+\SEMF move
+\ASP achievement, state
+\ARG
+\NOM
+\SUB 7ix=ten, ten=p@j.'@y, manh=ten, jup=yuk.ten, ko.ten, ten='anh=wak,
+Page 1279

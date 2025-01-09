@@ -1,0 +1,62 @@
+\lex jax.kuy7
+\_no 00692
+\LG MIG
+\PSH [jaxkuy7]
+\UND jax.kuy7
+\MB asar, INSTR1
+\VAR
+\GRAM instrl
+\SCI
+\USE
+\SPG asador
+\ENG roaster
+\SPL
+\SLGR
+\EXU xix=jax.kuy7
+\XPSH [xix jaxkuy7]
+\XSP asador de carne
+\XEN meat roaster
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jax
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 30/Jan/96
+\lex jax.ney
+\_no 00693
+\LG MIG
+\PSH [jaxney-]
+\UND jax.ney
+\MB X, ASSUM1
+\VAR
+\GRAM vi: assum1
+\SCI
+\USE
+\SPG estar boca abajo
+\ENG to be face down
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * jax
+\RTGR P
+\DSRC HAJ94
+\CMTS get deriv's
+\CMTS casi igual con japneyba
+\date 13/Jun/95
+\lex jay [1]
+\_no 00694
+\LG MIG
+\PSH
+\UND jay
+\MB
+\VAR
+\GRAM vt
+ZOH004R0011001.txt
+Page 297

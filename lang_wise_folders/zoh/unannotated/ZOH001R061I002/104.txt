@@ -1,0 +1,60 @@
+\CLZ
+\CMTS
+\1ex x@7kx
+\_no 00422
+\SPG ahogarse con algo que esta* comiendo
+\ENG to choke on something that you're eating
+\SEMF body, eat
+\ASP process
+\ARG
+\NOM
+\RTGR T1
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex x@m
+\_no 00423
+\SPG (sonido) golpear (en la cabeza)
+\ENG to (make the sound of a) thunk (on the head)
+\SEMF sound
+\ASP transition
+\ARG
+\NOM
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex yay
+\_no 00424
+\SPG marchitarse
+ENG to wither
+\SEMF plant
+\ASP transition
+\ARG
+\NOM
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex yem (1)
+\_no 00425
+ZOH001R0611002.txt
+\SPG abanicar con la mano; 11amar con la mano
+\ENG to wave the hand; to call with the hand
+\SEMF speak, hand
+\ASP process
+\ARG
+\NOM yem.kuy7, yem.naanh
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+Page 104

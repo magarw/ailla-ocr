@@ -1,0 +1,64 @@
+\_no 02076
+\LG MIG
+\PSH
+\UND m@7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG esposa
+\ENG wife
+\EXU 7@y+ m@7
+\XPSH [7@y m@7]
+\XSP su esposa
+\XEN his wife
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS a shortened form of /yom@7/?
+\date 26/Jan/96
+\lex m@a7
+\_no 02077
+\LG MIG
+\PSH
+\UND m@a7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG venado
+\ENG deer
+\EXU yom (@') m@a7
+\XPSH [yoom m@a7]
+\XSP venado hembra, hembra de venado
+\XEN female deer
+\XSP kom(i') m@a7
+\XSP venado real
+\EXU tzuji m@a7
+\XSP mazate
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+LF:7anmal
+\ROOT
+\DSRC HAJ94
+\CMTS CK-EXX
+\date 25/Jun/96
+ZOH004R0011001.txt
+\lex m@a' weka7
+\_no 02078
+\LG MIG
+\PSH [m@a weka7]
+\UND m@a7 weka7
+\MB venado, cuerno
+\VAR
+\GRAM sms
+\SCI
+\USE
+Page 896

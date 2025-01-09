@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [j@xkax-]
+\UND jax-kax
+\MB ATRAS, dar_pasos
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG salir con pasos
+\ENG to stride out
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kax
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex j@x-kek
+\_no 01068
+\LG MIG
+\PSH [j@xkek-]
+\UND jax-kek
+\MB ATRAS, brincar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG 1 salir brincando
+\SPG 2 salir volando
+\ENG 1 to hop out
+\ENG 2 to fly out
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kek
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 10/Jan/96
+\lex j@x-kekx
+\_no 01069
+\LG MIG
+\PSH [j@xkekx-]
+\UND jax-kekx
+\MB ATRAS, despeltrar
+\VAR
+\GRAM vi
+\SCI
+ZOH004R0011001.txt
+Page 468

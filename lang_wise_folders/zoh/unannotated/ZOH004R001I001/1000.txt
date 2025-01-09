@@ -1,0 +1,62 @@
+\date 08/Feb/96
+\lex nik.poy. '@y
+\_no 02321
+\LG MIG
+\PSH [nikpoyy@y-]
+\UND nik.poy.7@y
+\MB SUP, huir, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG aventarse encima de algo/alguien
+\ENG to jump on someone or something
+\SPL
+\SLGR
+\EXU 1 7@y+ yak.nik.poy. '@y-w@ wakax
+\XPSH 1 [7@y yaknikpoyy@yya wakax.]
+\XSP 1 Se le vino encima el ganado.
+\XEN 1 The steer jumped up on someone.
+\EXU 2 7@y+ nik.poy. '@y-wa para 7@y+ tzi'-pa tzanh. 'oy.kuy7
+\XPSH 2 [7@y nikpoyy@yy@ pay tzipa tzanhnhokuy7.]
+\XSP 2 Se le avento* encima para pegarle un pun~azo.
+\XEN 2 She jumped on him to punch him.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT poy
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 25/Jun/96
+\lex nik.p@k. '@y
+\_no 02322
+\LG MIG
+\PSH [nikp@kk@y-]
+\UND nik.p@k.7@y
+\MB SUP, agarrar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG despachar; da*rselo; entregar
+\ENG to deliver; to dispatch; to give something to someone
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ZOH004R0011001.txt
+\ETYM
+\ETL
+\ROOT p@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 04/Nov/94
+\lex nik.tek. '@y
+\_no 02323
+\LG MIG
+\PSH [niktekk@y-]
+Page 1000

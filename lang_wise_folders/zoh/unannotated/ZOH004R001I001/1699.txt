@@ -1,0 +1,63 @@
+\UND xix
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+SPG encogerse; encogerse carne seca*ndose
+ENG to shrink up; for meat to shrink up while drying
+\SPL yak.xix
+\SLGR CAUS
+\SLGL hacer encoger
+\EXU 1 xix-pa bi yo't.e7
+\XPSH 1 [xixpa bi yote7.]
+\XSP 1 Se encoge la ropa.
+\XEN 1 The clothes are shrinking.
+\EXU 2 d@ xix-pa
+\XPSH 2 [D@ xixpa.]
+\XSP 2 Tengo miedo.
+\XEN 2 I'm afraid.
+\SYN
+\SEMF nature
+\ASP
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT xix
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex xix [2]
+\_no 03949
+\LG MIG
+\PSH
+\UND xix
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG carne
+\ENG meat
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex xix-jax.e7
+\_no 03950
+\LG MIG
+ZOH004R0011001.txt
+\PSH [xixjaxe7]
+\UND xix=jax. E7
+\MB carne, asar, NOM7
+Page 1699

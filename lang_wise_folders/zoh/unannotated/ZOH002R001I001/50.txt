@@ -1,0 +1,43 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+3.1. Phonemes
+MIG Zoque has a rather small phonemic inventory, consisting of 12
+consonants and 6 vowels. The first two charts shown below (tables 3.1 and 3.2)
+include only the native phonemes. The third one (table 3.3), gives the set of
+non-native consonants that appear in words in the MIG Zoque lexicon. Some of
+these appear in Zoque words, derived by regular phonological processes
+(discussed in the subsections below); others were borrowed along with Spanish
+loan words.
+voiceless
+stop
+nasal
+fricative
+affricate
+glide
+high
+mid
+low
+labial alveolar palatal velar
+р
+t
+k
+m
+front
+n
+e
+с
+central
+Table 3.1. MIG Zoque consonant inventory
+š
+Ә
+a
+26
+у
+ŋ
+W
+back
+u
+O
+Table 3.2. MIG Zoque vowel inventory
+glottal
+?
+h

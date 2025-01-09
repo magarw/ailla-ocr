@@ -1,0 +1,63 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 08/Feb/96
+\lex p@k (1)
+\_no 02826
+LG MIG
+\PSH
+\UND pak
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG agarrar
+\ENG to grasp; to grab
+\SPL p@k. 7oy
+\SLGR ANTIP
+\SLGL agarrar // to grab
+\SPL p@k.7@m
+\SLGR PASS
+\SLGL agarrarse // to be grabbed
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF hold, hand
+\ASP achievement
+\ARG
+\NOM
+\SUB 7anh.p@k, 7ix-p@k, ji7p-p@k, jix-p@k, juntu-yuk.p@k, jup-p@k.p@',
+\SUB j@x-p@k, jax-p@k.jay, ko.p@k, kuk.p@k-tuk, mi7tz-p@k, muy=p@k,
+\SUB nem-p@k, ni.p@k. '@y, nik.p@k. '@y, ni.p@k=wak, p@k=kim, p@k=min,
+\SUB p@k=n@k, p@k=tij, p@k=tzonh, p@k=tz@m, p@k=wanak, p@k-wit, p@k=yoj,
+\SUB yuk.p@k, y@k.p@k. '@y
+ETYM
+\ETL
+\ROOT pak
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex p@k (2)
+\_no 02827
+\LG MIG
+\PSH
+\UND pak
+\MB
+\VAR
+\GRAM S
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG 1 pluma
+\SPG 2 pelo
+Page 1217

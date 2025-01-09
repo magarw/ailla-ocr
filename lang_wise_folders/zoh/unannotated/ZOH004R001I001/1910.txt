@@ -1,0 +1,63 @@
+\SPG aqui*; aca*; alla*
+\ENG here; there
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex {ka.y}
+\_no 04448
+\LG MIG
+\PSH
+\UND ka.y
+\MB DCT3, TMP
+\VAR
+\USE distal temporal deictic, often used as a discourse marker to start a
+new section of narrative
+\GRAM av
+\SPG entonces
+ENG then
+SPL
+\SLGR
+\EXU de meskite ka.y d@+ n@k-tam-pa+7am santiago +jonanh
+\XPSH [De Meskite kay d@ n@ktampa*m Santiagjonanh.
+\XSP De Mesquite entonces nos vamos a Santiago.
+\XEN From Mesquite then we'll go to Santiago.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+ZOH004R0011001.txt
+\lex {.ke7t}
+\_no 04449
+\LG MIG
+\PSH
+\UND ke7t
+\MB REPET
+\VAR
+\GRAM suf
+\SCI
+\USE verbal suffix: repetitive
+\SPG otra vez
+\ENG again
+\SPL
+\SLGR
+\EXU 1 7ora tum powi' p@k.ke7t-w@ tum powi7
+\XPSH 1 [7ora tum powi p@kke7tt@ tum powi7.]
+\XSP 1 Ahora un gavila*n agarro* otro gavila*n.
+\XEN 1 Now one hawk grabbed another.
+\EXU 2 7@y+ p@k.ke7t-w@ 7@y+ jacha
+\XPSH 2 [7@y p@kke7tt@y jacha.]
+\XSP 2 volvio* a agarrar su hacha.
+\XEN 2 He grabbed his hachet again.
+\SYN
+\SEMF
+\ETYM
+\ETL
+Page 1910

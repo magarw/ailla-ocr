@@ -1,0 +1,64 @@
+\XSP Esta* hiciendo totopo.
+\XEN She's making totopos.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7an
+\RTGR 1 12
+\ROOT 2
+\RTGR 2 T1
+\DSRC HAJ94
+\CMTS
+\date 02/Oct/96
+\lex 7an.e-jax.e7
+\_no 00043
+jax
+\LG MIG
+\PSH [7anejaxe7]
+\UND 7an. E=jax. E7
+\MB calentarse, NOM7, asar, NOM7
+\VAR 7aanjaxe7
+\GRAM sv: incorp
+\SCI
+\USE
+\SPG totopo
+\ENG totopo
+\EXU 7an.e-jax.@7
+\XPSH [7anejax@7!]
+\XSP Haz el totopo!
+\XEN Make the totopo!
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7an
+\RTGR 1 12
+\ROOT 2 jax
+\RTGR 2 T1
+\DSRC HAJ94
+\CMTS
+\date 02/Oct/96
+\lex 7an.e=mon.e
+\_no_00044
+\LG MIG
+\PSH [7anemone]
+\UND 7an. E=mon. E
+\MB calentarse, NOM7, envolver, NOM7
+\VAR
+\GRAM nom:incorp
+\USE
+\XEN
+\SYN
+\SPG tortilla envuelta, lit. "envoltura de tortilla"
+\ENG rolled tortilla, lit. "wrapping of tortilla"
+\EXU
+\XSP
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT 1 7an
+\RTGR 1 12
+\ROOT 2 mon
+Page 19

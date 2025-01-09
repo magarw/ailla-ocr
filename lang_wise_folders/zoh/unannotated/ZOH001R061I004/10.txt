@@ -1,0 +1,63 @@
+\_no 00022
+\LG MIG
+\PSH [7anhp@n tzame]
+\UND 7anh-p@n tzam. E
+\MB BOCA, hombre, platicar, NOM7
+\VAR
+\GRAM s (m) sv
+\SCI
+\USE
+\SPG idioma indi*gena zoque
+\ENG the indigenous language Zoque
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzam
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 24/Jun/96
+\lex 7anh-wit. 17 (2)
+\_no 00023
+\LG MIG
+\PSH [7anhwiti]
+\UND 7anh-wit.i7
+\MB BOCA, andar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG alguien que me paso* visitar
+\ENG someone who came to visit
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wit
+\RTGR 11
+\DSRC TK94
+\CMTS
+\date 09/Jan/96
+\lex 7anh-wi7t.i7 (1)
+\_no 00024
+\LG MIG
+\PSH [7anhwiti]
+\UND 7anh-wi7t.i7
+\MB BOCA, torcer, NOM7
+\VAR
+\GRAM SV
+ZOH001R0611004.txt
+\SCI
+\USE
+\SPG cerrado con llave
+\ENG locked with a key
+\EXU t@k 7anh=wit.i7
+\XPSH [t@k 7anhwiti7]
+Page 10

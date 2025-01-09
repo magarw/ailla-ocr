@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT putz
+\RTGR 12
+\DSRC HAJ94
+\CMTS syntax seems wrong; but German verifies it
+\date 24/Jun/96
+\lex kuy-tuku7
+\_no 01619
+\LG MIG
+\PSH [kuytuku7]
+\UND kuy=tuku7
+\MB palo, cosa_vieja
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG palo podrido
+\ENG rotten log
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex kuy-tum
+\_no 01620
+\LG MIG
+\PSH [kuytum]
+\UND kuy-tum
+\MB palo, uno
+\VAR
+\GRAM a:sq
+\SCI
+\USE
+\SPG escalera de una sola madera
+\ENG ladder made of one pole, with stubs sticking out to put your feet
+on
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+ZOH004R0011001.txt
+\lex kuy=t@m
+\_no 01621
+\LG MIG
+\PSH [kuyt@m]
+\UND kuy=t@m
+\MB palo, fruta
+Page 701

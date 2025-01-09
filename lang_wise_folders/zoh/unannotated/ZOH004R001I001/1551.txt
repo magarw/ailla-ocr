@@ -1,0 +1,62 @@
+\lex way.jay
+\_no 03608
+\LG MIG
+\PSH [wayjay-]
+\UND way.jay
+\MB moler, APPL
+\VAR
+\GRAM vt:indir
+\SCI
+\USE
+\SPG moler para otro
+\ENG to grind for another
+\EXU 7@y+ way.jay-w@
+\XPSH [7@y wayjayy@.]
+\XSP Molio* para otro.
+\XEN She ground it for someone else.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT way
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex way=ka'
+\_no 03609
+\LG MIG
+\PSH [wayka-]
+\UND way=ka7
+\MB frio, X
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG tener frio
+\ENG to be cold
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH - ok: it's not wayay=ka/OK: TK
+\date 26/Jun/96
+\lex way-pa+a7k yomaa7
+\_no 03610
+\LG MIG
+\PSH [waypa7k yoma*7]
+\UND way-pa +P@7k yoma +P@7k
+\MB moler, INC, REL, mujer, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG 1 molendera
+\SPG 2 una mujer que esta* moliendo
+Page 1551

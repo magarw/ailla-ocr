@@ -1,0 +1,62 @@
+\CMTS
+\date 11/Jan/96
+\lex kitza=tuk
+\_no 01266
+\LG MIG
+\PSH [kitzatuk-]
+\UND kitza=tuk
+\MB flaco, terminarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG hacerse flaco
+\ENG to grow thin
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT tuk
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 19/Jun/95
+\lex kitza-t@k. '@y
+\_no 01267
+\LG MIG
+\PSH [kitzat@kk@y-]
+\UND_kitza=t@k. 7@y
+\MB flaco, casa, VERS2
+\VAR
+\GRAM vi
+\SPG enflaquecerse
+\ENG to get thin
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 19/Jun/96
+\lex kitza=tz@k
+\_no 01268
+\LG MIG
+\PSH [kitzatz@k-]
+\UND kitza=tz@k
+\MB flaco, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer flaco
+\ENG to make thin
+\SPL
+\SLGR
+ZOH004R0011001.txt
+Page 553

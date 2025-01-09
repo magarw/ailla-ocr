@@ -1,0 +1,63 @@
+\CMTS
+\date 08/Feb/96
+\lex nak(a) xem.pe7
+\_no 02133
+\LG MIG
+\PSH [naka xempe7]
+\UND naka xem.pe7
+\MB cuero, tocar, X
+\VAR naak xempe7
+\GRAM s (m)s
+\SCI
+\USE
+\SPG tambor
+\ENG drum
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xem
+\RTGR T1
+\DSRC HAJ94
+\CMTS [pe7] identity unknown
+\date 26/Jan/96
+\lex na7k
+\_no 02134
+\LG MIG
+\PSH
+\UND na7k
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG coser, costurar
+\ENG to sew
+\SPL na7k.7oy
+\SLGR ANTIP
+\SLGL coser; costurar // to sew
+\SLGR NO PASS
+\EXU 1 7@y+ na7k-xuk-w@+ 'am
+\XPSH 1 [7@y na7kxukka*m.]
+\XSP 1 Ya lo costuraron.
+\XEN 1 Now they've sewn it.
+\EXU 2 7@y+ na7k-w@ bi yo't.e' para 7@y+ na7k=mux-w@
+\XPSH_2 [7@y na7kk@ bi yote paray na7kmuxx@.]
+\XSP 2 Lo costuro* la ropa para que salga bien.
+\XEN 2 She sewed the clothes so they came out well sewn.
+\SYN t@p
+\SEMF build
+\ASP activity
+\ARG
+\NOM na'k.e
+\SUB_na7k=mux
+ZOH004R0011001.txt
+\ETYM
+\ETL
+\ROOT na7k
+\RTGR T3
+\DSRC HAJ94
+Page 920

@@ -1,0 +1,85 @@
+ZOH001R0361001.txt
+\sg1 DCT3-TMP CARA-lavar-vaciar-INC-YA
+3E
+REFL
+\eg1 DCT3-TMP FACE-wash -empty -INC-NOW 3E REFL
+\zoq Kay wintzewakpa*m 7@y win.
+\fts Ya se esta* lavando la cara.
+fte Then he's washing off his face.
+\com
+\idx
+\not (wash the face over the grave to wash away all the evil)
+\ref ZOH001R036 209
+\_no 00209
+\tx gaji
+tzakk@mpa*m
+jemji
+\mb
+ka -ji7 tzak -7@m -pa -7am jemji7
+\sg1 DCT3-Loc1 dejar-PAS -INC-YA todo
+\eg1 DCT3-LOC1 leave-PASS-INC-NOW all
+\zoq Gaji tzakk@mpa*m jemji gag@ toya.
+\fts Ahi* ya queda toda esa enfermedad.
+\fte Then now all that illness stays there.
+\com
+\idx
+\ref ZOH001R036 210
+\_no 00210
+\tx gaj
+tzakk@mpa
+gag@
+\mb
+ka -ji7 tzak -7@m -pa ka -g@
+-A7
+\sg1 DCT3-Loc1 dejar-PAS -INC DCT3-DEM doler-NOM2
+\eg1 DCT3-LOC1 leave-PASS-INC DCT3-DEM hurt -NOM2
+\zoq Gaj tzakk@mpa gag@ toya.
+fts Ahi queda ese enfermedad.
+\fte Then that illness remains.
+\com
+\idx
+\ref ZOH001R036 211
+\_no 00211
+\tx gay
+\mb
+ka -y
+7oknukk@yya*m
+-nuk
+7ok
+\sg1 DCT3-TMP ABAJO-agarrar-SUF-COM-YA
+\eg1 DCT3-TMP DOWN -grab
+\zoq Gay 7oknukk@yya*m.
+\fts Ya lo solto*.
+\fte Now he's let go.
+\com
+\idx
+-7@y-w@ -7am
+\tx p@jayy@*7
+\mb
+-SUF-COM-NOW
+\ref ZOH001R036 212
+\_no 00212
+\tx jemji ney ga
+\mb jemji7 ney ka -7
+\sg1 todo mismo DCT3-NOM1 3E
+\egl all
+toya
+gag@
+ka -g@ toy -A7
+DCT3-DEM doler-NOM2
+DCT3-DEM hurt -NOM2
+p@ktzonhpa
+Yay
+bi xawa 7@y
+7@y p@k -tzonh-pa bi xawa 7@y
+agarrar-unir -INC DEF aire 3E
+self DCT3-NOM1 3E get -join -INC DEF wind 3E
+7@y manak
+p@7 -jay -w@ -v7k 7@y manak
+\sg] poner-APPL-COM-REL 3E hijo/a
+\egl put -APPL-COM-REL 3E child
+toya
+toy
+\zoq Jemji ney gay p@ktzonhpa bi xawa_7@y p@jayy@*7 7@y manak.
+\fts Todo e*1 recibe el mal aire que le puso su hija.
+Page 46

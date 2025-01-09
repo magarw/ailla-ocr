@@ -1,0 +1,62 @@
+\CMTS
+\lex jot
+\_no 00030
+\SPG cortar parejo - maduro con verde fruta de cafe*
+\ENG to pick the ripe and the green together - coffee beans
+\EX kafwe jotta
+\XSP corto* cafe* parejo - verde con verde
+\XEN he pick the coffee beans
+\EX jottoyya*m
+\XSP ya corto* el cafe*
+\ROOT jot T3
+\SEMF farm, obj
+\CMTS pick coffee by sliding the hand down the branch, taking the green
+\CMTS and the ripe together
+\PASS jot.7@m
+\ANTI jot.7oy cortar (pero es cafe*)
+PRSV NONE
+\lex ju7k
+\_no 00031
+\SPG tragar
+\ENG to swallow up
+\EX jama y+ ju7k.xuk-pa
+\XSP eclipse del sol
+\XEN eclipse of the sun
+\EX xepe y+ ju7k.xuk-pa
+\XSP eclipse de la luna
+\XEN_eclipse of the moon
+\EX 7@y ju7kk@ bi nu7 bi 7ane
+ZOH001R0611009.txt
+\XSP trago* el perro la tortilla
+\XEN the dog swallowed up the tortilla
+\ROOT ju7k T3
+SEMF eat
+\PASS NONE ju7k.7@m * can't swallow itself
+\ANTI ju7k.7oy
+\lex junun
+\_no 00032
+\CMTS now rejects ANTI because a dog can't swallow just anything
+\CMTS = MAR wu7k
+\SPG hacerle cosquillas
+\ENG to tickle someone
+\EX
+\XSP
+\XEN
+\ROOT junun T3
+\SEMF affect, body
+-
+\PASS NONE junun.7@m *
+\ANTI junun. 7oy
+\CMTS
+\lex jup
+\_no 00033
+\SPG jalar
+\ENG to pull
+\EX 7@y juptenn@ bi laxu
+\XSP tiene agarrado el mecate
+\XEN he's got the rope pulled tight (or, he's got hold of the rope?)
+\EX jupp@mm@ bi wakax
+\XSP se jalo* el ganado
+\XEN the cow was pulled (???)
+\ROOT jup P (T3)
+Page 9

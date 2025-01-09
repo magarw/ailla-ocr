@@ -1,0 +1,64 @@
+\SCI
+\USE
+\SPG tirar (mango, piedra, algo como asi*)
+\ENG to throw down (something round, like a rock or a mango)
+\SPL patz.7oy
+\SLGR ANTIP
+\SLGL tirar // to throw down
+\SLGR NO PASS
+\SPL patz.ney
+\SLGR ASSUM1
+\SLGL estar tirado // to be thrown down
+\EXU 1 ga.ji patz.ney-pa
+\XPSH 1 [Gaji patzneypa.]
+\XSP 1 Esta* tirado por alla*.
+\XEN 1 It's thrown down over there.
+\EXU 2 patz.7@m-w@ bi pelota
+\XPSH 2 [Patztz@mm@ bi pelota.]
+\XSP 2 Tiraron la pelota.
+\XEN 2 They threw the ball.
+\SYN
+\SEMF throw
+\ASP achievement
+\ARG
+\NOM
+\SUB 7ok.patz. '@y, patz-witu'
+\ETYM
+\ETL
+\ROOT patz
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\CMTS
+\date 03/Jan/80
+\lex patz [2]
+\_no 02560
+\LG MIG
+\PSH
+\UND patz
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG zorrillo
+\ENG skunk
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+ZOH004R0011001.txt
+LF:7anmal
+\lex pa=tzikwi 7
+\_no 02561
+\LG MIG
+\PSH [patzikwi7]
+\UND pa=tzikwi 7
+Page 1102

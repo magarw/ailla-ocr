@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG enganchar
+\ENG to put on a hook
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 w@kx
+\RTGR 1 P (TX)
+\ROOT 2 p@k
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex w@kx. 'oy.kuy7
+\_no 03833
+\LG MIG
+\PHO [w@kxokuy7]
+\UND wakx. 7oy.kuy7
+\MB colgar, ANTIP, INSTR1
+\VAR
+\GRAM instr1
+\SPG clavo o gancho para colgar algo en la pared
+\ENG nail or hook for hanging something on the wall
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT W@kx
+\RTGR P (TX)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex wakx. '@y
+\_no 03834
+\LG MIG
+\PSH [w@kx@y-]
+\UND wakx.7@y
+\MB colgar_en_clavo, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG colgar algo en un clavo
+\ENG to hang something on a nail
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN kunh. '@y
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT w@kx
+\RTGR P (T3)
+\DSRC HAJ95
+Page 1648

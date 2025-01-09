@@ -1,0 +1,62 @@
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS ANALYZE; can't do it/TK
+\date 25/Jun/96
+\lex ni.me7kx
+\_no 02344
+\LG MIG
+\PSH [nime7kx-]
+\UND ni.me7kx
+\MB PURP, abrazar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG abrazar
+\ENG to hug
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT me7kx
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex ni.me7tz. '@y
+\_no 02345
+\LG MIG
+\PSH [nime7tztz@y-]
+\UND ni.me7tz.7@y
+\MB PURP, buscar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG buscar a alguien
+\ENG to look for someone
+\SPL
+\SLGR
+\EXU ni.me7tz. '@y-w@ 7@y+ yakk@ yak. ka-xuk-@
+\XPSH [Nime7tztz@yy@y yakk@ yakkaxuk@.]
+\XSP Busco* alguien para que lo mataran.
+\XEN He looked for someone so that he could kill him.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT me7tz
+\RTGR T3
+ZOH004R0011001.txt
+\DSRC HAJ95
+\CMTS
+\date 27/Jan/96
+\lex ni.mon=tz@k
+\_no 02346
+Page 1010

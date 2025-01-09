@@ -1,0 +1,62 @@
+\ARG
+\NOM tze'.e7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tzij
+\_no 00324
+\SPG tirar y pegar con piedra
+\ENG to throw and hit with a rock
+\SEMF hit
+\ASP achievement
+\ARG
+\NOM jon=tzij.kuy7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tzik
+\_no 00325
+\SPG pelar; quitar o pelar cuero a un animal, chollar bajar el cuero
+\ENG to
+skin an animal
+\SEMF animal, hunt, clean
+\ASP activity
+\ARG
+\NOM tzik.i7, mok tzik.kuy' xipx.kuy7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tzi7kx
+\_no 00326
+\SPG darle comezo*n
+ENG to itch
+\SEMF body
+\ASP
+\ARG
+\NOM
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex tzinh
+\_no 00327
+\SPG ban*arse
+ZOH001R0611002.txt
+\ENG to bathe
+\SEMF body, clean
+\ASP activity
+\ARG
+\NOM tzinh.kuy7, y@k.tzinh
+\RTGR 11
+Page 80

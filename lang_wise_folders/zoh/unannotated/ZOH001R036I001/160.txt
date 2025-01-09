@@ -1,0 +1,85 @@
+\sg] y DCT3-NOM1 DEF PROG
+\eg1 and DCT3-NOM1 DEF PROG
+\tx jep@kk@
+\mb
+je7
+\zoq 7i ga bi n@mm@y molestz@kkoyy@*7.
+\fts Y ese es e*1 que esta* molestando.
+fte And that is what was bothering him.
+\com
+\idx
+-p@k
+aliento-agarrar-dINC
+\sgl
+\egl breath -get
+\ref ZOH001R036 749
+\_no 00736
+\tx 7anhkampa
+ya
+yo7k 7anhkampa
+-pa yo7k 7anh -kam
+n@mmo
+-pa ya n@m-7oy -A
+\mb 7anh -kam
+7@y
+\sg1 BOCA -trabarse -INC cuello BOCA -trabarse -INC NEG DO -ANTIP-nINC 3E
+\eg1 MOUTH-get_stuck-INC neck MOUTH-get_stuck-INC NEG DO -ANTIP-NINC 3E
+33
+pwes
+pwes
+pues
+-dINC well
+-wa
+3E molestar-hacer-ANTIP-DINC-REL
+3E bother -do -ANTIP-DINC-REL
+\ref ZOH001R036 751
+\_no 00738
+山山
+\zoq 7anhkampa yo7k, 7anhkampa, ya n@mmoy jep@kk@, pwes.
+\fts Se cierra su garganta, se cierra no puede respirar, pues.
+\fte The throat closes, it closes, well, you can't breathe.
+\com
+\idx
+ZOH001R0361001.txt
+\ref ZOH001R036 750
+\_no 00737
+\tx GSM: 7entonse ney gaji
+\mb GSM entonces ney ka -ji7
+\sg1 GSM: entonces mismo DCT3-LOC1
+\eg1 GSM: then
+\sg1 OSM: no
+\eg1 OSM: no
+\zoq GSM: 7entonse ney gaji dententz@kpa bi_xitko7?
+\fts GSM: Entonces ahi* detiende el catarro?
+\ref ZOH001R036 752
+\_no 00739
+\tx OSM: n@7tti ney gaji
+\mb OSM
+self DCT3-LOC1 detain -do
+\fte GSM: Then right there the phlegm stops it?
+\com
+\idx
+\tx 70 bi xitko ga7
+7eya*7k toya
+\mb 70 bi xitko7 ka -7
+7eya -v7k toy
+-A7
+\sg1 o DEF catarro DCT3-NOM1 otro -REL doler-NOM3
+\egl or DEF phlegm DCT3-NOM1 other-REL hurt -NOM3
+dententz@kpa
+bi xitko7
+detener-tz@k -pa bi xitko7
+detener-hacer-INC DEF catarro
+-INC DEF phlegm
+\zoq 70 bi xitko ga7 7eya*7k_toya?
+\fts o el catarro es otra enfermedad?
+\fte or the phlegm is another disease?
+\com
+\idx
+n@7tti ney ka -ji7
+mismo DCT3-LOC1
+self DCT3-LOC1
+\zoq OSM: N@7tti, ney gaji.
+\fts OSM: No, ahi* mismo.
+\fte OSM: No, it's the same there.
+Page 160

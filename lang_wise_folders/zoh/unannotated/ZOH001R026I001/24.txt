@@ -1,0 +1,70 @@
+ZOH001R0261001.txt
+\eg1 DCT2-TMP 1E PSE-(mind) -3E -COM-NOW 1E mother 1A say -APPL-COM-REL
+\zoq "Dey n nijaminn@yya*m_7@n mama d@_n@mjayy@*7,
+\fts "Ahora ya me acorde* lo que me dijo mi madre,
+\fte "Now I remember what my mother told me,
+\ref ZOH001R026 127
+\_no 00113
+\tx ke
+ya n@mmo
+\mb ke
+ya n@m-7oy -A
+-tome7-7@y-wa
+\sg1 que DCT3-NOM1 NEG DO -ANTIP-NINC 2A AFUERA-cerca-SUF-dINC
+\egl that DCT3-NOM1 NEG DO -ANTIP-nINC 2A
+AWAY -near -SUF-DINC
+ga7
+ka -7
+\zoq ke ga7 ya n@mmo 7@m k@tomm@yy@.
+\fts que de aquel no te puedes acercar.
+\fte that you can't get near that one.
+\ref ZOH001R026 128
+\_no 00114
+\tx
+d@x
+mas waja ke d@x
+\mb mas waja ke
+\sg1 mas
+bueno que
+1Prn
+\egl more good that 1Prn
+\zoq Mas w@ja ke dax.
+\fts Es mas bueno que yo.
+\fte He's better than I am.
+\ref ZOH001R026 129
+\_no 00115
+\tx tunhnhaw@
+\mb tunh
+7@y n@ki
+-7a -wa 7@y nak -E
+n@ki
+n@k -E
+\sg1 camino-VERS1-COM 3E irse-dCOM irse-dCOM
+\egl road -VERS1-COM 3E go -dcom go
+-dCOM
+\zoq Tunhnhaw@ 7@y n@ki, n@ki.
+\fts Se fue* caminando.
+\fte He went off walking, walking.
+\ref ZOH001R026 130
+\_no 00116
+\tx n@kw@
+\mb n@k -w@
+\sgl irse-COM
+\egl go -COM
+\zoq N@kwa.
+\fts Se fue*.
+\fte He went off.
+7@m k@tomm@yy@
+7@m k@
+\ref ZOH001R026 131
+\_no 00117
+\tx n@kk@
+7@y metze
+\mb n@k -w@ 7@y me7tz -E
+\sg1 irse-COM 3E buscar-dCOM 3E
+\egl go -COM 3E look -dCOM 3E
+7@y mama
+7@y mama
+mama*
+mother
+Page 24

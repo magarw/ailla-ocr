@@ -1,0 +1,63 @@
+\ARG
+\NOM
+\SUB_tzi'=tzem
+\ETYM
+\ETL
+\ROOT tzem
+\RTGR T3
+\DSRC HAJ94
+\CMTS Camilo says this is "una palabra de Santa Mari*a"
+\date 03/Jan/80
+\lex tzetz
+\_no 00176
+\LG MIG
+\PSH
+\UND tzetz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG labrar
+\ENG to work (stone, wood, etc.)
+\SPL tzetz.7oy
+\SLGR ANTIP
+\SLGL labrar // to work
+\SPL tzetz.7@m
+\SLGR PASS
+\SLGL to be worked
+\SLGR NO ASSUM1
+\EXU 1 7@y+ tzetz-w@ jacha+j@nanh
+\XPSH 1 [7@y tzetztz@ jachaj@nanh.]
+\XSP 1 Labro* con hacha.
+\XEN 1 He worked it with a hachet.
+\EXU 2 tzetz. '@m-w@ bi kuy
+\XPSH 2 [Tzetztz@mm@ bi kuy.]
+\XSP 2 Labraron la madera.
+\XEN 2 They (someone) worked the wood.
+\SYN
+\SEMF build
+\ASP activity
+\ARG
+\NOM tzetz.e7
+\SUB j@x-tzetz, k@.tzetz
+\ETYM
+\ETL
+\ROOT tzetz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex tze'
+\_no 00177
+ZOH001R0611006.txt
+\LG MIG
+\PSH
+\UND tze7
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG lavar
+Page 119

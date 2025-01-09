@@ -1,0 +1,63 @@
+\USE
+\SPG 1 sombra
+\SPG 2 sombra de una persona
+\ENG 1 shadow
+ENG 2 shadow of a person
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT num
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 08/Jan/96
+\lex 7anh-paj jom.e
+\_no 00018
+\LG MIG
+\PSH [7anhpaj jome]
+\UND 7anh-paj.0 jom. E
+\MB BOCA, cercar, NOM6, cercar_con_rama, NOM7
+\VAR
+\GRAM SVSV
+\SCI
+\USE
+\SPG cerco de ramas
+\ENG fence of branches
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 paj
+\RTGR 1 P, (T3)
+\ROOT 2 jom
+\RTGR 2 P, (T3)
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\1ex 7anh-paj [2]
+\_no 00019
+\LG MIG
+\PSH [7anhpaj]
+\UND 7anh-paj.0
+\MB BOCA, cercar, NOM6
+\VAR
+GRAM SVO
+\SCI
+\USE
+\SPG cerco
+\ENG fence
+\EXU
+\XSP
+ZOH001R0611004.txt
+\XEN
+\SYN
+Page 8

@@ -1,0 +1,62 @@
+\CMTS contrast /tza' t@k/
+\lex_tza'=t@k=woj
+\_no 03310
+\LG MIG
+\PSH [tza:t@kwoj-]
+\UND tza7=t@k=woj
+\MB piedra, casa, agujerear
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG hacer hoyo
+\ENG to make a hole
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT Woj
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 10/Feb/96
+\lex tza'=tzetz
+\_no 03311
+\LG MIG
+\PSH [tzaatzetz-]
+\UND_tza7=tzetz
+\MB piedra,
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG labrar piedra
+\ENG to work stone
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzetz
+\RTGR T3
+\DSRC TK94
+\CMTS CK-PH - HAJ:96, said citation clearly, you get the 7; NO you don't: TK
+\date 26/Jun/96
+\lex tza'=tze'.kuy7
+\_no 03312
+\LG MIG
+\PSH [tzaatzekuy7]
+\UND tza7=tze7.kuy7
+\MB piedra, lavar, INSTR1
+\VAR
+\GRAM instr1
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG escobeta
+Page 1423

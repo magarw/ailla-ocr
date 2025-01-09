@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG enrolla*rselo encima
+ENG to be coiled on top of something
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jeken
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 27/Jan/96
+\lex nik.je7k. '@y
+\_no 02277
+\LG MIG
+\PSH [nikje7kk@y-]
+\UND nik.je7k. 7@y
+\MB SUP, limpiar_con_coa, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG agarrar algo con coa y echarlo encima
+\ENG to pick up something with a hoe and throw it on top of something
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT je7k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 14/Jul/95
+ZOH004R0011001.txt
+\lex nik. jenen. '@y
+\_no 02278
+\LG MIG
+\PSH [nikjenenn@y-]
+\UND nik.jenen.7@y
+\MB SUP, deshacer, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG echar la cosa desolvido (disuelto) encima de alguien
+\ENG to throw a dissolved substance on someone
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+Page 981

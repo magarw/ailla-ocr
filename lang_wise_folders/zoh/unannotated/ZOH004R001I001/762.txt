@@ -1,0 +1,64 @@
+\CMTS CK-PH- ok HAJ:96
+\date 25/Jun/96
+\lex k@.we7k
+\_no 01761
+\LG MIG
+\PSH [k@we7k-]
+\UND k@.we7k
+\MB FUERA, envarillar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG envarillar
+\ENG to place and tie in the poles for a mud&wattle house
+\EXU tak k@.we7k-pa de gaji 7@y+ potz-pa
+-
+\XPSH [Tak k@we7kpa, de gajiy potzpa.]
+\XSP Esta* envarillando casa, de ahi* lo va a embarrar.
+\SEMF
+\ETYM
+\ETL
+\XEN He's installing the poles on the house, then he's going to mud it.
+\SYN
+\ROOT we7k
+\RTGR T1
+\DSRC TK94
+\CMTS
+\date 19/Jun/96
+\lex k@wenhke7
+\_no 01762
+\LG MIG
+\PSH
+\UND k@wenhke7
+\MB
+\VAR k@wenhke' kuy
+\GRAM
+\SCI
+\USE
+\SPG cuenca de palo
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+ZOH004R0011001.txt
+\lex k@w.i7
+\_no 01763
+\LG MIG
+\PSH [k@:wi7]
+\UND k@nh.E7
+\MB cocerse,
+\VAR
+\GRAM pcp
+\SCI
+NOM7
+Page 762

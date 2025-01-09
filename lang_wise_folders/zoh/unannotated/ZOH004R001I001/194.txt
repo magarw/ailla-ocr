@@ -1,0 +1,63 @@
+\EXU 7@y+ yak. 70px-w@
+\XPSH [7@y yakkopx@.]
+\XSP Hizo que echar espuma.
+\XEN She made it foam.
+\SYN
+\SEMF emit, nature
+\ASP activity
+\ARG
+\NOM 7anh. 'opx.a, 7opx.a7
+\SUB 7anh. 'opx, 7ok. 'opx. '@y, j@x-'opx, k@.n@k=7opx. '@y, win='opx
+\SUB yuk. 'opx
+\ETYM
+\ETL
+\ROOT 70px
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex 70px.a7
+\_no 00452
+\LG MIG
+\PSH [70pxa7]
+\UND 70px.A7
+\MB espumar, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG espuma (como jabo*n)
+ENG foam (like from soap)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 70px
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 24/Jun/96
+\lex 7opx.a'=tz@k
+\_no 00453
+LG MIG
+\PSH [70pxatz@k-]
+\UND 70px.A7=tz@k
+\MB espumar, NOM2, HACER
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG hacer espuma
+\ENG to make foam
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+Page 194

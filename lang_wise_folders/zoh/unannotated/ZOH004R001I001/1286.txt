@@ -1,0 +1,65 @@
+\USE
+\SPG ir y regresar
+\ENG to go and return
+\SPL yak.tij
+\SLGR CAUS
+\SLGL mandar que vaya // to order someone to go
+\EXU 1 tij-pa ga.ji7
+\XPSH 1 [Tijpa gaji7.]
+\XSP 1 va mucho ahi*.
+\XEN 1 She goes over there often.
+\EXU_2_7@y+ ko.tij-pa+a7k
+\XPSH 2 [7@y kotijpa*7k]
+\XSP 2 alguien que visita; alguien que va por e*1
+\XEN 2 one who visits; someone who goes to get someone else
+\EXU 3 tij-w@ 7i witu-w@
+\XPSH 3 [Tijj@ 7i wituw@.]
+\XSP 3 Fue* y regreso*.
+\XEN 3 She went and she returned
+\EXU 4 tij-ke7t-w@
+\XPSH 4 [Tijke7tt@.]
+\XSP 4 Fue* de nuevo.
+\XEN 4 He went again.
+\SYN
+SEMF move
+\ASP activity
+\ARG
+\NOM
+\SUB 7ok.tij. '@y, ko.tij, p@k=tij
+\ETYM
+\ETL
+\ROOT tij
+\RTGR IX
+\DSRC TK94
+\CMTS caus p@k-tij llegarlo
+\CMTS CK-EX1
+HAJ:96 now ok
+\date 03/Jan/80
+\lex tij [2]
+\_no 02989
+\LG MIG
+\PSH
+\UND tij
+\MB ir_regresar
+ZOH004R0011001.txt
+\VAR
+\USE auxiliary verb that can appear either before or after the inflected
+main verb
+\GRAM aux
+\SPG ir y regresar
+\ENG to go and return
+\SPL
+\SLGR
+\EXU tij-w@ 7@n+ tzawi' me7tz-tam-E
+\XPSH [Tijj@n tzawi me7tztame.]
+\XSP Fuimos a buscar changos.
+\XEN we went monkey-hunting.
+\SYN
+\SEMF
+\ROOT tij
+\RTGR IX
+\DSRC HAJ98
+\CMTS Some speakers accepted tij- after the main verb (Verb Pron
+tij-Dependent), but it never appears in texts in that position.
+Page 1286
+\date

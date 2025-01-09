@@ -1,0 +1,63 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 11/Feb/96
+\lex m@7k-ni7k
+\_no 02093
+\LG MIG
+\PSH [m@7kni7k-]
+\UND m@7k-ni7k
+\MB exprimir, medio_secar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG medio secar exprimiendolo
+\ENG to wring half-dry
+\EXU 7@y+ m@7k-ni7k-w@ yote7
+\XPSH [7@y m@7kni7kk@ yote7.]
+\XSP Exprimio* medio seco la ropa.
+\XEN She wrung the clothes half-dry.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT m@7k
+\RTGR T3
+\ROOT ni7k
+\RTGR 12
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex m@7k-t@tz
+\_no 02094
+\LG MIG
+\PSH [m@7kt@tz-]
+\UND m@7k=t@tz
+\MB exprimir, secarse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG secar exprimiendolo
+\ENG to wring dry
+\EXU 7@y+ m@7k-t@tz-wa yote7
+\XPSH [7@y m@7kt@tztz@ yote7.]
+\XSP Seco* la ropa exprimiendola.
+\XEN She wrung the clothes dry.
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT m@7k
+\RTGR T3
+\ROOT t@tz
+\RTGR 12
+Page 903

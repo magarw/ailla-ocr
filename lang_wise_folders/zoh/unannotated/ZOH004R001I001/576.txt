@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Aug/94
+\lex ko.jom
+\_no 01319
+\LG MIG
+\PSH [kojom-]
+\UND ko.jom
+\MB OTRO, cercar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG reforzar cerco; echar ramas por encima de otras
+\ENG to pile branches on top of others to reinforce a fence
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN win.jom
+\SYN ni. jom
+\SYN jo.jom
+\SEMF
+\ETYM
+\ETL
+\ROOT jom
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS synonyms are all "casi lo mismo"
+\date 07/Feb/96
+\lex ko.jox
+\_no 01320
+\LG MIG
+\PSH [kojox-]
+\UND ko.jox
+\MB OTRO, amasar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG remasar la masa
+\ENG to reknead the masa
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+SEMF
+\ETYM
+\ETL
+\ROOT jox
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 25/Sep/94
+\lex koj-p@k
+Page 576

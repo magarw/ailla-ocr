@@ -1,0 +1,63 @@
+\USE
+\SPG apretar jala*ndolo
+\ENG to tighten something by pulling on it
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 jup
+\RTGR 1 P, (T3)
+\ROOT 2 pak
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 14/Jun/95
+\lex jup-p@k.p@'
+\_no 00939
+\LG MIG
+\PSH [jupp@kp@-]
+\UND jup=p@k.p@7
+\MB jalar, agarrar, CEL
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG agarrar rapido
+\ENG to grab quickly
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 jup
+\RTGR 1 P, (T3)
+\ROOT 2 p@k
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 06/Feb/96
+\lex jup=tu.i
+\_no 00940
+\LG MIG
+\PSH [juptuui]
+\UND jup-tuy. E
+\MB jalar, estirar, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG 1 estirado
+\SPG 2 una cosa estirada
+\ENG 1 stretched
+\ENG 2 something stretched out
+\EXU
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+Page 410

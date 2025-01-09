@@ -1,0 +1,63 @@
+\MB chili, tierra
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG chilar
+\ENG chile plot
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex ni.woy
+\_no 02380
+\LG MIG
+\PSH [niwoy-]
+\UND ni.woy
+\MB PURP, enrollar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG forrar
+\ENG to sheathe
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT WOY
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 18/Nov/94
+\lex ni.xo7t
+\_no 02381
+\LG MIG
+\PSH [nixo7t-]
+\UND ni.xo7t
+\MB PURP, X
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG retonar
+\ENG to sprout; to bud
+\SPL yak.nixo7t
+\SLGR CAUS
+\SLGL hacer retonar // to cause to sprout
+\EXU
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+Page 1025

@@ -1,0 +1,74 @@
+\eg1 for DCT3-LOC1 one do
+\zoq Para gaji tum tz@kk@mpa.
+\fts Para ahi* se revuelve de uno.
+\fte so that there one is done.
+\com
+\idx
+\ref ZOH001R036 261
+\_no 00261
+\tx 7entonse gay
+y
+\mb entonces ka -y 7@y
+\sg1 entonces DCT3-TMP 3E
+\egl then DCT3-TMP 3E
+\ref ZOH001R036 263
+\_no 00262
+\zoq 7entonse gay_7@y 7ukpa*m 7u 7@y 7ukpa*m.
+\fts Entonces ya lo toma o ya lo toma.
+fte Then now he drinks it or he drinks it now.
+\com
+\idx
+\ref ZOH001R036 264
+\_no 00263
+\zoq 7am p@jaba panelj@nanh.
+\fts Le echas con panela.
+\fte You throw in sugar.
+\com
+\idx
+\tx
+gay
+\mb ka -y
+\tx 7@m p@jaba
+panel j@nanh
+\mb 7@m p@7 -jay -pa
+panela jananh
+\sg1 2E poner-APPL-INC panela AC
+\eg1 2E put -APPL-INC sugar ACC
+paja7kkawa*m
+paja7k-7a
+\zoq Gay paja7kkawa*m.
+\fts Ya esta* dulce.
+\fte Now it's sweet.
+\com
+\idx
+\ref ZOH001R036 265
+\_no 00264
+\tx 7@m 7ukpa
+\mb 7@m 7uk
+-w@ - 7am
+\sgl DCT3-TMP dulce -VERS1-COM-YA
+\eg1 DCT3-TMP sweet -VERS1-COM-NOW
+ZOH001R0361001.txt
+-pa
+\sg1 2E tomar -INC
+\egl 2E drink-INC
+-PASS-INC
+7u
+-pa -7am 7u
+tomar-INC-YA NEGimpv 3E
+drink-INC-NOW NEGimpv 3E
+\zoq 7@m 7ukpa
+\fts Lo tomas
+\fte You drink it
+\com
+\idx
+7ukpa*m
+7uk
+\ref ZOH001R036 266
+\_no 00265
+\tx kon tum kwarto de 7alko*1
+Page 57
+7@y 7ukpa*m
+7@y 7uk -pa -7am
+tomar-INC-YA
+drink-INC-NOW

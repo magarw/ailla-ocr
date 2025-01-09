@@ -1,0 +1,62 @@
+\_no 02313
+\LG MIG
+\PSH [nikmonn@y-]
+\UND nik.mon.7@y
+\MB
+\VAR
+\GRAM vt
+\SPG darle envuelto
+\ENG to give something wrapped up to someone
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT mon
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 22/Jun/96
+\lex nik.mut
+\_no 02314
+\LG MIG
+\PSH [nikmut-]
+\UND nik.mut
+\MB SUP, salir_agua
+\VAR
+\GRAM vt
+\SPG cagar en su pantalo*n
+\ENG to shit in your pants
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT mut
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 19/Jun/96
+\lex nik.muy. '@y
+\_no 02315
+\LG MIG
+\PSH [nikmuyy@y-]
+\UND nik.muy.7@y
+\MB SUP, tomar_en_boca, SUF
+\VAR
+\GRAM vt
+\SPG pasar algo a alguien de boca a boca
+\ENG to pass something to someone mouth to mouth
+\EXU 7@y+ nik.muy. '@y-w@ bi paja7k+p@7 bi yomaa7
+\XPSH [7@y nikmuyy@yy@_bi paja7kp@ bi yoma*7.]
+\XSP El hombre paso el dulce a la mujer de boca a boca.
+\XEN The man passed the candy to the woman from his mouth to hers.
+\SYN
+\ROOT muy
+\RTGR T2, 12
+\DSRC HAJ95
+ZOH004R0011001.txt
+\CMTS
+\date 25/Jun/96
+\lex nik.nem.'@y
+\_no 02316
+\LG MIG
+Page 997

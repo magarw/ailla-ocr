@@ -1,0 +1,85 @@
+\fte GSM: One drinks it?
+\com
+\idx
+\ref ZOH001R036 999-052
+\_no 01036
+\tx
+OSM: para pitz@mpa
+\mb OSM para pitz@m-pa
+sg1 OSM: para
+mal
+mal
+salir -INC DCT3-NOM1 mal
+\egl OSM: for leave -INC DCT3-NOM1 bad
+\ref ZOH001R036 999-053
+\_no 01037
+\tx 7i 7ay
+\mb 7i
+7ay
+hay
+\zoq OSM: Para pitz@mpa ga mal.
+\fts OSM: Para que salga ese mal.
+\fte OSM: So that illness goes away.
+\com
+\idx
+\sg] y
+\egl and there are
+ga
+ka -7
+\com
+\idx
+ZOH001R0361001.txt
+\zoq 7i 7ay bese ya pitz@m@.
+\fts Y hay veces no sale.
+\fte And there are times it doesn't go away.
+bese ya pitz@m@
+beses ya
+pitz@m-A
+veces NEG salir -nINC
+times NEG leave -nINC
+\ref ZOH001R036 999-054
+\_no 01038
+\tx 7@y n@mjadampa
+tum
+-jay -tam -pa tum
+\mb 7ay nam
+\sg1 3E
+decir-APPL-1/2PL-INC uno
+\egl 3E say -APPL-1/2PL-INC one
+\ref ZOH001R036 999-055
+\_no 01039
+\zoq 7@y_n@mjadampa tum - tum jaya.
+\fts Le deciimos una flor.
+\fte we call it a - a flower.
+\com
+\idx
+\com
+\idx
+-
+\tx 7@y n@ji flor de koraso*nh
+\mb
+7@y naji
+flor de koraso*nh
+\sg1 3E nombre flor de corazo*n
+\egl 3E name
+flower of heart
+tum jay@
+tum jay@7
+uno flor
+one flower
+\zoq 7@y n@ji flor de koraso*nh.
+\fts Se 11ama flor de corazo*n.
+\fte It's name is flower of the heart.
+\ref ZOH001R036 999-056
+\_no 01040
+\tx 7anto
+ga
+pa tzokoy toe7
+\mb 7entonses ka -7 para tzokoy7 toy
+tambye*nh
+tambyen
+-E7
+\sg1 entonces DCT3-NOM1 para corazo*n doler-NOM3 tambien
+\egl then
+DCT3-NOM1 for heart hurt -NOM3 also
+Page 224

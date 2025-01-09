@@ -1,0 +1,63 @@
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+\lex tzux
+\_no 03456
+\LG MIG
+\PSH
+\UND tzux
+\MB
+\VAR
+\GRAM vi: -pa, -w@
+\SCI
+\USE
+\SPG estar verde; reverdecer
+\ENG to be green; to grow green again
+\SPL yak.tzux
+\SLGR CAUS
+\SLGL hacer reverdecer // to cause to be green again
+\EXU 7@y+ yak.tzux-w@ tuj
+\XPSH [7@y yaktzuxx@ tuj.]
+\XSP El agua lo hizo reverdecer.
+\XEN The rain made it turn green again.
+\SYN
+\SEMF color
+\ASP state, achievement
+\ARG
+\NOM tzux.i7 (chistoso, no gloss)
+\SUB_tzux-witu', yuk.tzux
+ZOH004R0011001.txt
+\ETYM
+\ETL
+\ROOT tzux
+\RTGR 12
+\DSRC HAJ94
+\CMTS analyze gloss it means to *be* green, not to *turn* green; fixed: TK
+\date 03/Jan/80
+\lex tzux
+\_no 03457
+\LG MIG
+\PSH
+\UND tzux
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG verde
+\ENG green
+\EXU
+\XSP
+\XEN
+Page 1487

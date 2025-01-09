@@ -1,0 +1,84 @@
+\mb OSM 7@m kuj
+ZOH001R0361001.txt
+-ра ka -7
+-tz@y
+-pa -7am ka -7
+bola
+\sg1 OSM: 2E empujar-atorarse -INC DCT3-NOM1 venir-INC-YA DCT3-NOM1 bola
+\eg1 OSM: 2E push
+-get_stuck-INC DCT3-NOM1 come -INC-NOW DCT3-NOM1 wad
+\tx y@j@*nh
+\mb ya -j@@nh
+\sg1 DCT1-DIR1
+\eg1 DCT1-DIR1
+\zoq OSM: 7@m kujtz@ypa ga minpam ga bola y@j@*nh.
+\fts OSM: Como que vienes atajandolo esa bola por aca*.
+\fte OSM: You come get that wad from here stuck.
+\com
+\idx
+\ref ZOH001R036 999-242
+\_no 01223
+\tx 7u
+\mb 7u
+\sg1 NEGimpv donde queda 2E
+\eg1 NEGimpv where stays 2E
+7onde keda m
+donde keda 7@m nuk
+\ref ZOH001R036 999-243
+\_no 01224
+\zoq 7u 7onde kedam nukpa.
+\fts o donde queda que te agarre.
+\fte or wherever it grabs you.
+\com
+\idx
+\tx
+GSM: wittoba
+\mb GSM wit -7oy -pa
+\sg1 GSM: andar-ANTIP-INC
+\eg1 GSM: walk -ANTIP-INC
+\zoq GSM: Wittoba.
+\fts GSM: Anda.
+\fte GSM: walking.
+\com
+\idx
+\ref ZOH001R036 999-244
+\_no 01225
+nukpa
+\ref ZOH001R036 999-245
+\_no 01226
+\tx 7@m penp@kpa
+\mb 7@m pen
+\sg1 2E
+\eg1 2E grasp -get
+-pa
+agarrar-INC
+grab
+\tx OSM: wittoba
+\mb OSM
+y@ji
+minpam
+min -pa -7am
+\sgl OSM: andar-ANTIP-INC DCT1-LOC1 venir-INC-YA
+\egl OSM: walk -ANTIP-INC DCT1-LOC1 come -INC-NOW
+wit -7oy -pa ya -ji7
+-pak
+apretar-agarrar-INC
+\zoq 7@m penp@kpa y@ji.
+\fts Lo apretas aqui*.
+-INC
+\zoq OSM: Wittoba y@ji minpam gag@ bola de tzay.
+\fts OSM: Anda aqui* ya viene esa bola de vena.
+\fte OSM: walking, here comes that wad of muscle.
+\com
+\idx
+min
+y@ji
+-pa ya -ji7
+DCT1-LOC1
+-INC DCT1-LOC1
+Page 263
+gaga
+bola de tzay
+ka -g@ bola de tzay7
+DCT3-DEM bola de vena
+DCT3-DEM wad of vein

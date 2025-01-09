@@ -1,0 +1,23 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+Core arguments are those that are specified by the lexical entry for a verb
+root or other predicate. The set may be increased or decreased by derivational
+processes, such as the addition of affixes such as causatives or passives. In
+MIG Zoque, the subject of a verb (either transitive or intransitive) and the object
+of a transitive verb are realized by the pronominal agreement marker. Any core
+argument may be referenced by a plural suffix on the verb (section 6.2). Noun
+phrases that co-reference core arguments are optional; their appearance is
+governed by discourse considerations such as focus and recency.
+According to Foley and Van Valin (1984:79), "The main coding feature
+distinguishing core from peripheral arguments is that core arguments tend to
+occur in unmarked morphological or syntactic forms and peripheral arguments
+in marked, often adpositional, codings." In English, core arguments are
+syntactically marked by their position with respect to the verb. In a simple
+transitive clause, the subject is that argument that occurs to the left of the verb,
+while the object appears to the right. Additional arguments, such as time or
+place, will typically be marked by a preposition. In MIG Zoque, noun phrases
+co-referenced with core arguments are not marked by case endings¹, position
+in the clause, or adpositions. Oblique arguments, such as locations and
+instruments, are marked by postpositions (section 4.7).
+1 MAR Zoque has case markings for core arguments: +?is, ergative, and +kə, absolutive
+(Kaufman, p.c.).
+17

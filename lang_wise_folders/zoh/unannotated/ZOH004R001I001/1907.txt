@@ -1,0 +1,63 @@
+\lex {jo.}
+\_no 04440
+\LG MIG
+\PSH
+\UND jo
+\MB EN
+\VAR
+\GRAM lexical verb prefix recruited from *joj `inside'
+\SCI
+\USE
+\SPG por/completo; en otra parte
+\ENG through/thorough; elsewhere.
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 12/Feb/96
+\lex {+joonh}
+\_no 04441
+\LG MIG
+\PSH [jo*nh]
+\UND joonh
+\MB DIR4
+\VAR
+\USE directional postposition
+\GRAM av
+\SCI
+\USE
+\SPG de
+\ENG (out) from
+\SPL
+\SLGR
+\EXU 1 d@+ min-w@ teja +joonh
+\XPSH 1 [D@ minn@ Tejajo*nh.]
+\XSP 1 vine de Tejas.
+\XEN 1 I came from Texas.
+ZOH004R0011001.txt
+\EXU 2 ti kum.kuy'+joonh 7@m+ min-w@
+\XPSH_2_ [Ti kumkuyjo*nh 7@m minn@?]
+\XSP 2 ?De que pueblo viniste?
+\XEN 2 what town did you come from?
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\lex %ju7tt@ F
+\_no 04442
+\LG MIG
+\PSH
+\UND
+\MB
+Page 1907

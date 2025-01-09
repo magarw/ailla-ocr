@@ -1,0 +1,64 @@
+\ARG
+\NOM
+\RTGR IX
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex matonh
+\_no 00148
+\SPG escuchar; oir
+\ENG to listen; to hear
+\SEMF perception
+\ASP activity
+\ARG
+\NOM matonh.kuy7, matonh.naanh
+\RTGR T3
+\POS da matonhjaxukk@n tzame
+\POS Roberto me escucho*
+\lex matz
+\_no 00149
+\SPG sobar
+\ENG to rub; to massage
+\SEMF touch, hand
+\POS yakki mas yay matonhnh@ ke rroberto
+\POS nadien mas escucho* ke rroberto
+\POS rroberto 7@y matonhnh@ kwandu d@x n@mm@n wann@.
+\POS Roberto escucho* cuando yo estaba cantando.
+\MID
+\UNDO
+\CLZ lots
+\CMTS
+\ASP activity
+\ARG
+\NOM matz.kuy7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\POS
+\MID
+ZOH001R0611002.txt
+escucharon a mi cuento
+hard to figure out how to translate into Z!
+\lex ma7tz
+\_no 00150
+\SPG amasar
+para tortillas
+\ENG to knead corn dough - for tortillas
+\SEMF corn, cook
+\ASP activity
+\ARG
+\NOM
+\RTGR T3
+\UNDO
+\CLZ
+\CMTS
+\lex max
+\_no 00151
+\SPG descomponerse
+\ENG to come apart
+Page 37

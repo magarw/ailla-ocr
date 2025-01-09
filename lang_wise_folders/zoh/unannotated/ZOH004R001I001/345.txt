@@ -1,0 +1,64 @@
+\XEN The baby got food on itself.
+\SYN
+\SEMF clean
+\ASP activity, achievement
+\ARG
+\NOM
+\SUB ni.ji7t, y@k.ji7t
+\ETYM
+\ETL
+\ROOT ji7t
+\RTGR T3
+\SPL ji7t.7oy
+\SLGR ANTIP
+\SLGL manchar // to stain
+\SPL ji7t.7@m
+\SLGR PASS
+\SLGL mancharse // to be stained
+\SPL
+\DSRC TK94
+\CMTS always gives examples with nen(a)=ji7t
+\CMTS later rejected both PASS and ANTIP
+\date 03/Jan/80
+\lex jitzi
+\_no 00794
+\LG MIG
+\PSH
+\UND jitzi
+\MB
+\VAR
+\GRAM vi: med
+\SCI
+\USE
+\SPG arrastrarse
+\ENG to drag oneself
+\EXU 1 jitzi-w@ 7@y+ n@k-E
+\XPSH 1 [Jitziw@y naki.]
+\XSP 1 Se fue* arrastrando.
+\XEN 1 She dragged herself along.
+\EXU 2 7@y+ jup=jitzi-w@
+\XPSH 2 [7@y jupjitziw@.]
+\XSP 2 Lo arrastro*.
+\XEN 2 He dragged it.
+\EXU 3_7@y+ tik-jitzi-w@
+\XPSH 3 [7@y tikjitziw@.]
+\XSP 3 Lo toco* pasando.
+\XEN 3 She grazed it in passing.
+\SYN
+\SEMF move
+\ASP activity
+\ARG
+ZOH004R0011001.txt
+\NOM nik.jitzi.'oy.kuy7
+\SUB 7ok.jitzi.'@y, jitzi=p@7t, j@x=jitzi, yuk.jitzi
+\ETYM
+\ETL
+\ROOT jitzi
+\RTGR IX
+\DSRC TK94
+\CMTS CK-PH PH ok; jitz- was unacceptable; CK-EX2
+\CMTS HAJ:96: not vt, just vi:med. trans derived from other V in compounds
+\CMTS more it's the sound made by dragging along.
+\CMTS woko- is the action
+\date 03/Jan/80
+Page 345

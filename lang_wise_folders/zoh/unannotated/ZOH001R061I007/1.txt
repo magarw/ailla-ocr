@@ -1,0 +1,62 @@
+\id C:\SHOUT\VI.TXT
+\lex 7an
+\_no 00001
+\SPG calentarse cerca de la lumbre
+\ENG to warm oneself near a fire
+\EX d@ 7ann@
+28/Oct/04
+\XSP me calento*
+\XEN I warmed myself
+\EX d@ 7anpa
+\XSP voy a calentar
+\XEN I'm going to warm myself
+\EX 7anjayya y jax
+\XSP esta calientando la espalda
+\XEN he's warming his back
+\ROOT 7an I2
+\SEMF temp
+\ASP process
+\CAUS yak.7an calentar
+\CMTS human or animal subject
+\CMTS when his wife is standing near the horno making tortillas, 7@y 7ann@
+\CMTS This is 12 no impv or vol, can't do it on purpose. ΤΟ
+\CMTS deliberately warm yourself is xam-
+\date 03/Jan/80
+ZOH001R0611007.txt
+\lex 7a7tz
+\_no 00002
+\SPG arder (fuego, cuerpo); arder esto*mago; estar caliente (comal); estar fuerte
+(sol)
+\ENG to burn (fire, body); for the stomach to burn; to be hot (comal); to be
+strong (the sun)
+\EX 7a7tztzoba
+\XSP le arde
+\XEN it burns
+\ROOT 7a7tz 12
+\SEMF temp
+\ASP state
+\EX 7a7tzpan tzokoy
+\XSP ardio* mi esto*mago (como si tiene agruda)
+\XEN my stomach burns
+\EX 7a7tztz@ 7eken
+\XSP estuvo caliente el comal
+\XEN the comal was hot
+\CAUS yak.7a7tz hacer arder
+\CMTS
+\date 03/Jan/80
+\lex 7in
+\_no 00004
+\SPG nublarse
+\lex 7ax
+\_no 00003
+\SPG abrir la boca
+\ENG to open the mouth
+\EX
+\XSP
+\XEN
+\ROOT 7ax P (11)
+\SEMF body
+\ASP transition
+\CAUS yak.7ax hacer que abriera la boca
+\date 03/Jan/80
+Page 1

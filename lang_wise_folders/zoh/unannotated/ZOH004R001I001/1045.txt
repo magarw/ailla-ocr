@@ -1,0 +1,63 @@
+\MB robar, andar
+\VAR
+\GRAM Vi
+\SCI
+\USE
+\SPG andar escondido
+\ENG to walk stealthily
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 num
+\RTGR 1 T1
+\ROOT 2 wit
+\RTGR 2 11
+\DSRC HAJ94
+\CMTS
+\date 15/Jun/95
+\lex_num= 'amma
+\_no 02425
+\LG MIG
+\PSH [numamma-]
+\UND _num=7amma
+\MB robar, mirar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG estar viendo escondido
+\ENG to spy on someone; to watch them secretly
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 num
+\RTGR 1 T1
+\ROOT 2 7amma
+\RTGR 2 T1
+\DSRC HAJ95
+\CMTS
+\date 13/Jul/95
+\lex_num= 'ix
+\_no 02426
+\LG MIG
+\PSH [nummix-]
+\UND num=7ix
+\MB robar, ver
+ZOH004R0011001.txt
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG ver escondido
+\ENG to see something while hiding
+Page 1045

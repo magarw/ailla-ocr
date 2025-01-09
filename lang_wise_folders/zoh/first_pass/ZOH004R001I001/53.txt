@@ -1,0 +1,63 @@
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex 7anh-may. 'oy-pa+a7k
+\_no 00122
+\LG MIG
+\PSH [7anhmayyoba*7]
+\UND 7anh-may.7oy-pa +P@7k
+\MB BOCA, contar, ANTIP INC, REL
+\VAR [7anhmayyoba*7 p@n]
+\GRAM agt1: antip
+\SCI
+\USE
+\SPG maestro
+\ENG teacher
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT may
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 08/Jan/96
+\lex 7anh-may-w@+@7k
+\_no 00123
+\LG MIG
+\PSH [7anhmayy@*7]
+\UND 7anh.may-w@ +P@7k
+\MB BOCA,
+\VAR 7anhmaypa+a7k //7anh.may-pa +P@7k//
+\GRAM agt2
+\XEN
+\SYN
+\SCI
+\USE
+\SPG estudiante, aquel que aprendio*
+\ENG student, the one who learned
+\EXU
+\XSP
+\SEMF
+\ETYM
+\ETL
+contar, COM, REL
+\ROOT may
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-PH - OK
+\date 24/Jun/96
+ZOH004R0011001.txt
+\lex 7anh-mek. '@y
+\_no 00124
+\LG MIG
+\PSH [7anhmekk@y-]
+\UND 7anh-mek.7@y
+\MB BOCA, mentir, SUF
+\VAR
+\GRAM vt
+\SCI
+Page 53

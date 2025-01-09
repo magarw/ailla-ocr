@@ -1,0 +1,63 @@
+\RTGR IX
+\DSRC HAJ94
+\CMTS couldn't get versives - try again later?
+\date 29/Jan/96
+\lex yop 7@y+win
+\_no 04167
+\LG MIG
+\PSH [yop- 7@y win]
+\UND yop 7@y+ win
+\MB evaporarse, 3Erg, REFL
+\VAR
+\GRAM vt: refl
+\SCI
+\USE
+\SPG evaporarse
+\ENG to evaporate
+\EXU 7@y+ yop-w@ 7@y+ win
+\XPSH [7@y yopp@y win.]
+\XSP Se evaporo*.
+\XEN It evaporated.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * yop
+\DSRC HAJ94
+\CMTS CK-PH, CK-GR
+\date 26/Jun/96
+\lex yop.a7
+\_no 04168
+\LG MIG
+\PSH [yopa7]
+\UND yop.A7
+\MB evaporarse, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG vapor
+\ENG vapor
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 07/Apr/95
+\lex yote'=yep.kuy7
+\_no 04169
+\LG MIG
+ok/OK: TK
+\PHO [yoteyepkuy7]
+\UND yote7=yep.kuy7
+\MB ropa, tender, INSTR1
+\VAR
+ZOH004R0011001.txt
+\GRAM instr1
+\SPG mecate para tender ropa
+Page 1791

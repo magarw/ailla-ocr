@@ -1,0 +1,64 @@
+\UND pu7
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG deshilar; desatar
+\ENG to unravel; to untie
+\SPL pu.7oy
+\SLGR ANTIP
+\SLGL deshilar, desatar // to unravel, to untie
+\SPL pu.7@m
+\SLGR PASS
+\SLGL deshacerse, deshilarse // to be dissolved, to be unravelled
+\SPL pu.ney
+\SLGR ASSUM
+\SLGL estar deshilado // to be unravelled
+\EXU
+\XSP
+\XEN
+\SYN wat-pu
+\SEMF arrange
+\ASP accomplishment
+\ARG
+\NOM
+\SUB ko.pu', wat=pu'
+\ETYM
+\ETL
+\ROOT pu
+\RTGR P (T3)
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex pu' [2]
+\_no 02817
+\LG MIG
+\PSH
+\UND pu7
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG salir pus
+\ENG for pus to ooze out
+\SPL yak.pu'
+\SLGR CAUS
+\SLGL
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF nature, emit
+\ASP state
+\ARG patient
+\NOM pu.@7
+ZOH004R0011001.txt
+\SUB 7anh.pu'
+\ETYM
+\ETL
+\ROOT pu7
+\RTGR 12
+\DSRC HAJ94
+Page 1213

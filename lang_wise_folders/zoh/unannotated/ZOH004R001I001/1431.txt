@@ -1,0 +1,63 @@
+\SLGR ANTIP
+\SLGL orinar // to urinate
+\EXU
+\XPSH
+\XSP
+\XEN
+\SYN
+\SEMF body
+\ASP activity
+\ARG
+\NOM
+\SUB
+\ROOT tzem
+\RTGR IX
+\DSRC HAJ97
+\CMTS
+\date 03/Jan/80
+\lex tzenh
+\_no 03330
+\LG MIG
+\PSH
+\UND tzenh
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG estar de lado
+\ENG to be on one side
+\SPL yak.tzenh
+\SLGR CAUS
+\SLGL ponerle de lado // to put on one side
+\SPL tzenh.ney
+\SLGR ASSUM1
+\SLGL ponerse de lado // to be put on one side
+\EXU 1 7@y+ yak.tzenh-w@ kuy tzetz.e7
+\XPSH 1 [7@y yaktzenhnh@ kuy tzetze7.]
+\XSP 1 Puso de lado/malparada la madera labrada.
+\XEN 1 He leaned/placed badly the carved wood.
+\EXU 2 tzenh.ney-w@ bi p@n
+ZOH004R0011001.txt
+\XPSH 2 [Tzenhneyy@ bi p@n.]
+\XSP 2 El hombre esta* acostado de lado.
+\XEN 2 The man is sleeping on his side.
+\SYN
+\SEMF arrange
+\ASP state
+\ARG
+\NOM
+\SUB tzenh.na' ten, tzenh.na' wit, tzenh.na' monh, tzenh.na' tz@n
+\ETYM
+\ETL
+\ROOT tzenh
+\RTGR P (IX)
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex tzenh.na' monh
+\_no 03331
+\LG MIG
+\PSH [tzenhna monh-]
+\UND tzenh.na7 monh
+Page 1431

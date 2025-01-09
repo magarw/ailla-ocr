@@ -1,0 +1,64 @@
+\MB X, NOM7, cortar_con_tijeras,
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG tijeras
+\ENG scissors
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nem
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yo't.e'=tz@k-pa+a7k
+\_no 04192
+\LG MIG
+\PSH [yootetz@kpa*7]
+\UND yo7t.E7=tz@k-pa +P@7k
+\MB X, NOM7, HACER, INC, REL
+\VAR
+\GRAM agt1
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\SCI
+\USE
+\SPG fa*brica; telar
+\ENG factory; textile mill; a place where fabric is made
+\EXU
+\lex yo't.e'=yep
+\_no 04193
+\LG MIG
+\PSH [yoteyep-]
+\UND yo7t.E7=yep
+\MB X, NOM7, tender
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG tender ropa
+\ENG to hang clothes
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+INSTR1
+Page 1801

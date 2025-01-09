@@ -1,0 +1,66 @@
+\SCI
+\USE
+\SPG amasar
+para tortillas
+\ENG to knead corn dough for tortillas
+\SPL ma7tz.7oy
+\SLGR ANTIP
+SLGL amasar // to knead
+\SLGR NO PASS
+\EXU 1 7@n+ ma7tz-pa bi way7
+\XPSH 1 [7@n ma7tzpa bi way7.]
+\XSP 1 Amaso la masa.
+\XEN 1 I'm kneading the masa.
+\EXU 2 ma7tz.7@m-w@ bi way7
+\XPSH 2 [Matztz@mm@ bi way7.]
+\XSP 2 Esta* amasada la masa.
+\XEN 2 The dough is kneaded.
+\SYN
+\SEMF corn, cook
+\ASP activity
+\ARG
+\NOM
+\ROOT ma7tz
+\RTGR T3
+-
+\SUB 7ok.ma7tz. '@y, j@x-ma7tz, ma7tz=7anh.kam, ma7tz=nuk
+\ETYM
+\ETL
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex may
+\_no 00089
+\LG MIG
+\PSH
+\UND may
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG contar
+\ENG to count
+\SPL may.7oy
+\SLGR ANTIP
+\SLGL contar // to count
+\SPL may.7@m
+\SLGR PASS
+ZOH001R0611006.txt
+\SLGL contarse // to be counted
+\SPL may.ten
+\SLGR PRSV
+\SLGL tener contado // to have something counted
+\EXU 1 7@y+ may.ten-w@ bi jama=tin
+\XPSH 1 [7@y maytenn@ bi jamatin.]
+\XSP 1 Tiene contado el dinero.
+\XEN 1 She's got the money counted.
+\EXU 2 may.@-pa (.@H RR)
+\XPSH 2 [may@pa.]
+\XSP 2 Se cuenta.
+\XEN 2 They counted.
+\SYN
+\SEMF cognitive
+\ASP activity
+\ARG
+Page 61

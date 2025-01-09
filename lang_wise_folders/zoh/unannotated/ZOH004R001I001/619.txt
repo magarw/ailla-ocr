@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT toy
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex kopak-xex
+\_no 01422
+\LG MIG
+\PSH [kopakxex-]
+\UND kopak-xex
+\MB cabeza, mudar_piel
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG tener "gaspa"
+\ENG to have dandruff
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xex
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 22/Oct/94
+\lex kopak-xex.i7
+\_no 01423
+\LG MIG
+\PSH [kopakxexi7]
+\UND kopak-xex. E7
+\MB cabeza, mudar_piel, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG caspa
+\ENG dandruff
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xex
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 22/Oct/94
+\lex kopak=x@m
+\_no 01424
+\LG MIG
+\PSH [kopakx@m-]
+\UND kopak=x@m
+ZOH004R0011001.txt
+Page 619

@@ -1,0 +1,30 @@
+-8-
+optional plural which can occur with any substantive.
+Mam could be described as having a seven person system
+if the prefixes and enclitics are considered as being of
+equal status and if in all instances they act together to
+distinguish all the possible relationships. This analysis
+however is not consistent with the way in which the various
+person morphemes actually perform. The first person/non-
+first person distinction is made by prefixes which are
+always obligatory in a phrase indicating person. These
+prefixes are closely tied to the stem of the substantive
+or verb. Second person is indicated by enclitics which are
+obligatory in some constructions but absent in others..
+Their strength of marking is weaker than the prefixes, and
+since they occur final in the phrase, much can intervene
+between the stem and the enclitic. Third person is only
+indicated by a set of optional pronominal words which follow
+the substantive or verb.
+Set A and Set B prefixes distinguish the agent and
+patient of transitive verbs, but the same enclitics can in-
+dicate either agent or patient, so that certain combinations
+of agent and patient are ambiguous.
+For example,
+ma-6-n-tze: q'a-ya
+aspect-patient-agent-verb stem-enclitic
+-1sg
++1sg
+1
+means either 'I hit him or I hit you', depending on the
+either -2sg or +2sg

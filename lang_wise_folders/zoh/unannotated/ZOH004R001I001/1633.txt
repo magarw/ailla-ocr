@@ -1,0 +1,63 @@
+\ETL
+\ROOT 1 wo7kx
+\RTGR 1 T3
+\ROOT 2 tzik
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex won
+\_no 03799
+LG MIG
+\PSH
+\UND WON
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar majagua
+\SPL won. 7oy
+\SLGR ANTIP
+\SLGL sacar majagua //
+SPL won.7@m
+\SLGR PASS
+\SLGL sacarse la majagua //
+\SPL won.ney
+\SLGR ASSUM1
+\SLGL ya se saco* la majagua //
+\SPL won.ten
+\SLGR PRSV
+\SLGL tener sacado la majagua //
+\EXU tzay'=won-w@
+\XPSH [Tzaywonn@.]
+\XSP Saco* majagua.
+\XEN
+\SYN
+\SEMF plant
+\ASP process
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT won
+\RTGR P (T3)
+\DSRC TK94
+\CMTS I sure wish I knew what 'majagua' means.
+\date 03/Jan/80
+\lex wonhja7
+\_no 03800
+\LG MIG
+\PSH
+\UND wonhja7
+\MB
+\VAR
+ZOH004R0011001.txt
+\GRAM S
+\SCI
+\USE
+\SPG garza
+\ENG egret
+\EXU pop (o') wonhja7
+Page 1633

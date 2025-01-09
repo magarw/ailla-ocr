@@ -1,0 +1,62 @@
+\ROOT ki7t
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex yuk.kitz
+\_no 04269
+\LG MIG
+\PSH [yukkitz-]
+\UND yuk.kitz
+\MB ARR, enrollar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG enrollar; remangar
+\ENG to roll up
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kitz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex yuk.kix
+\_no 04270
+\LG MIG
+\PSH [yukkix-]
+\UND yuk.kix
+\MB ARR, enfadarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empezar a enfadarse
+\ENG to start to get fed up
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kix
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex yuk. koj
+\_no 04271
+\LG MIG
+ZOH004R0011001.txt
+Page 1834

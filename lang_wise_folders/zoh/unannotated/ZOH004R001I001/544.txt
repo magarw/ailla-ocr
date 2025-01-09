@@ -1,0 +1,64 @@
+\XSP
+\XEN
+\SYN
+\SEMF move
+\ASP activity
+\ARG
+\NOM
+\SUB 7anh.kim, p@k=kim
+\ETYM *ki 7m
+\ETL PS
+\ROOT kim
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex kinaanh
+\_no 01246
+\LG MIG
+\PHO [kinaanh]
+\UND kinaanh
+\MB
+\VAR
+\USE directional
+\GRAM_av
+\SPG limite de, por
+\ENG limit
+up to, over to
+\EXU yuk.poy-pa bi jay(a) 7une7 +d@kka y@.ji7 maxan=t@k_kinaanh
+\EXU 7axta ga.ja 7anh.may. kuy7-t@k kinaanh
+\XPSH [Yukpoypa bi jay7uned@kka yaji maxant@k kina*nh 7axta gaja
+\XPSH [7anhmaykuyt@k kina*nh.]
+\XSP Los muchachos van a correr de aqui de la iglesia hasta alla*
+\XSP de la escuela.
+\XEN The boys are going to run from here at the church up to there at
+\XEN the school.
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex kintaal
+\_no 01247
+\LG MIG
+\PSH
+\UND kintaal
+\MB
+\VAR
+\GRAM med
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG quintal (ma*s o menos 50 kgs. Es una medida heredada de los
+espan*oles que la heredaron de los a*rabes)
+\ENG 100 pounds (more or less 50 kgs. A measure inherited from the
+Spanish who inherited it from the Arabs.)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+Page 544

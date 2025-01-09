@@ -1,0 +1,62 @@
+\ROOT jum
+\RTGR T2
+\DSRC HAJ94
+\CMTS CK-GR ok; CK-PH of EX; short [u] in tum: TK
+\CMTS
+\date 03/Jan/80
+\DATE 09/Aug/02
+\lex jum.i7
+\_no 00911
+\LG MIG
+\PSH [jumi7]
+\UND jum. E7
+\MB derrumbar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG derrumbe; derrumbado
+\ENG landslide; a slope that's crumbled away
+\EXU jum. E' +7k tak / tak jum.i7
+\XPSH [jumi 7k t@k] / [t@k jumi*7]
+\XSP casa que lo desbarataron
+\XEN a house that they pulled down
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jum
+\RTGR T2
+\DSRC TK94
+\CMTS cf nax=jum. @7
+\date 03/Jan/80
+\lex jum-w@
+\_no 00912
+ZOH004R0011001.txt
+\LG MIG
+\PSH [jumm@]; [jumm@*7]
+\UND jum-wa; jum-w@ +P@7k
+\MB derrumbarse, COM; derrumbarse, COM, REL
+\VAR
+\GRAM ps-pcp
+\SPG 1 derrumbado
+\SPG 2 una cosa derrumbada
+\ENG 1 tumbled-down
+\ENG 2 a thing that has fallen down
+\EXU jumm@+7k_t@k
+\XPSH [jumm@7k_t@k]
+\XSP una casa que se derrumbo* solo
+\XEN a house that fell down by itself
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS cf. jum. E7; fixed: TK
+\date 26/Jun/96
+\lex jun
+\_no 00913
+\LG MIG
+\PSH
+\UND jun
+\MB
+\VAR
+Page 398

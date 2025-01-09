@@ -1,0 +1,63 @@
+\GRAM vt
+\SCI
+\USE
+\SPG hacer brincar por moverlo con palito
+\ENG to make hop by poking with a stick
+\EXU 7@y+ ji7p-kek-w@ bi ňajak
+\XPSH [7@y ji7pkekk@ bi najak.]
+\XSP Hizo brincar la rana con el palito.
+\XEN He made the frog jump by poking it with a stick.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ji7p
+\RTGR P (T3)
+\ROOT kek
+\RTGR T1
+\DSRC HAJ02
+\CMTS
+\DATE 09/Aug/02
+\lex ji7p.kuy7
+\_no 00785
+\LG MIG
+\PSH [ji7pkuy7]
+\UND ji7p.kuy7
+\MB mover_con_palo, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG trompa
+\ENG snout
+\SPL
+\SLGR
+\EXU yoya ji7p.kuy7
+\XPSH [yoya ji7pkuy7]
+\XSP trompa de marrano
+\XEN pig's snout
+\SYN kin@k
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 15/Jul/95
+\lex ji7p.ney
+\_no 00786
+\LG MIG
+\PSH [ji7pney-]
+\UND ji7p.ney
+ZOH004R0011001.txt
+\MB mover_con_palo, ASSUM1
+\VAR
+\GRAM assum1
+\SCI
+\USE
+\SPG estar amontonado
+\ENG to be heaped up
+\EXU ji7p.ney-w@ putz.putz
+\RTGR [Ji7pneyy@ putzputz.]
+\XSP Esta* amontonado la basura.
+Page 341

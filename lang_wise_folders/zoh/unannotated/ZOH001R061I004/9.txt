@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT paj
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex 7anh-pakx.e
+\_no 00020
+\LG MIG
+\PSH [7anhpakxe]
+\UND 7anh-pakx. E
+\MB BOCA, doblar, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG 1 pliegue
+\SPG 1 dobladillo
+\ENG 2 pleat
+\ENG 2 hem
+\EXU 7anh-pakx.e yot.e7
+\XPSH_[7anhpakxe yote7]
+\XSP [se puso] dobladillo en la ropa
+\XEN hem of clothing
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pakx
+\RTGR P, (T3)
+\DSRC TK94
+\CMTS
+\date 24/Jun/96
+\lex 7anh-pix [2]
+\_no 00021
+\LG MIG
+\PSH [7anhpix]
+\UND 7anh-pix.0
+\MB BOCA, sentir_comezo*n, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG tapo*n
+\ENG plug
+\EXU limeta 7anh-pix
+\XSP un tapo*n de botella
+\XEN bottle stopper
+\SYN
+SEMF
+\ETYM
+\ETL
+ZOH001R0611004.txt
+\ROOT pix
+\RTGR IX
+\DSRC HAJ94
+\CMTS a stopper that goes inside the bottle, contrast w/ 7anh-jap
+\date 12/Feb/96
+\lex 7anh-p@n tzam.e
+Page 9

@@ -1,0 +1,63 @@
+\PSH [kome7tz-]
+\UND ko.me7tz
+\MB OTRO, buscar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG vengar
+\ENG to avenge
+\SPL
+\SLGR
+\EXU 7@y+ ko.me7tz-w@ 7@y+ 7awin
+\XPSH [7@y kome7tztz@y 7awin.]
+\XSP Vengo* su hermano.
+\XEN He avenged his brother.
+\SYN benhga=tz@k
+\SEMF
+\ETYM
+\ETL
+\ROOT me7tz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex komi7
+\_no 01374
+\LG MIG
+\PSH
+\UND komi 7
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG grande
+\ENG large
+\EXU bayun komi7
+\XSP muy grande
+\XEN very large
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS cualquiera cosa
+\date 19/Jun/95
+\lex ko.min
+\_no 01375
+\LG MIG
+\PSH [komin-]
+\UND ko.min
+\MB OTRO, venir
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 11egar por alguien
+\ENG to come for someone
+\EXU
+\XSP
+ZOH004R0011001.txt
+Page 599

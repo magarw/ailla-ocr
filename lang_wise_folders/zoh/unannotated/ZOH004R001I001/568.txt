@@ -1,0 +1,63 @@
+\USE
+\SPG tapar
+\ENG to cover
+\SPL ko.jap.7oy
+\SLGR ANTIP
+\SPL ko.jap.7@m
+\SLGR PASS
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ko.jap
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex ko.jap [2]
+\_no 01301
+\LG MIG
+\PSH [kojap]
+\UND ko.jap.0
+\MB OTRO, X, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG sombrero
+\ENG hat
+\EXU kopak 7@y+ ko.jap
+\XPSH [kopak 7@y kojap]
+\XSP sombrero
+\XEN hat
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ko.jap
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 24/Jun/96
+\lex ko.jap. kuy7
+\_no 01302
+\LG MIG
+\PSH [kojapkuy7]
+\UND ko.jap. kuy7
+\MB OTRO, X, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG tapadera
+\ENG cover
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ZOH004R0011001.txt
+Page 568

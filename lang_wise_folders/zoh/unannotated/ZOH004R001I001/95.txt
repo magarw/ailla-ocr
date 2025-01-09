@@ -1,0 +1,63 @@
+\VAR 7aasguur=tz@k
+\GRAM vt
+\SCI
+\USE
+\SPG asegurar
+ENG to assure
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 09/Jan/96
+\lex 7ata7
+\_no 00223
+\LG MIG
+\PSH
+\UND 7ata7
+\MB
+\VAR
+\GRAM s/a
+\SCI
+\USE
+\SPG persona que platica mucho con todos
+\ENG a person who talks a lot with everyone
+\EXU ban 7ata7
+\XSP muy platicador
+\XEN very chatty
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS get deriv's no hay
+\date 09/Jan/96
+\lex 7atzi
+\_no 00224
+\LG MIG
+\PSH
+\UND 7atzi
+ZOH004R0011001.txt
+\MB
+\VAR
+\GRAM s (+poss)
+\SCI
+\USE
+\SPG ti*o; el mayor; hermano mayor; ti*o grande
+\ENG uncle; older person; older brother; older uncle
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+Page 95

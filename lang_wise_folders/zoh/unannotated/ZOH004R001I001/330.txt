@@ -1,0 +1,62 @@
+\lex ji*kama wa7tz
+\_no 00762
+\LG MIG
+\PSH
+\UND ji*kama wa7tz
+\MB ji*cama, rai*z
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG rai*z de ji*cama
+\ENG jicama root
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 20/Jun/95
+\lex ji7kx
+\_no 00763
+\LG MIG
+\PSH
+\UND ji7kx
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG tener olor fuerte de chile ancho
+\ENG to have a strong odor of chile ancho
+\EXU n@mm@ 7@y+ xe7t-xuk-w@ bi chile 7anchu peru ban ji7kx-w@
+\XPSH [N@mm@y xe7txukk@ bi chile 7anchu peru ban ji7kx@.]
+\XSP Esta*n tostando el chile ancho pero huele mucho.
+\XEN They're toasting the chile ancho but it smells really strong.
+\EXU ga. 7@y+ ji7kx-pa
+\XPSH [Gay ji7kxpa.]
+\XSP Esta* regan~ando a alguien.
+\XEN He's teasing someone.
+\SYN
+\SEMF nature, cook
+\ASP state
+\ARG
+ZOH004R0011001.txt
+\NOM
+\SUB ji7kx=tinin, j@x-ji7kx, yuk.ji7kx
+\ETYM
+\ETL
+\ROOT ji7kx
+\RTGR IX
+\DSRC TK94
+\CMTS caus yak.ji7kx
+\CMTS get deriv's
+\date 03/Jan/80
+\lex ji7kx=tinin
+Page 330

@@ -1,0 +1,64 @@
+\MB dar_pasos, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG paso
+\ENG a step
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+ΧΕΝ
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kax
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 17/Jul/95
+\lex kax.naanh
+\_no 01209
+\LG MIG
+\PSH [kaxna*nh]
+\UND kax.naanh
+\MB dar_pasos, MED
+\VAR
+\GRAM sv: med
+\SCI
+\USE
+\SPG paso
+\ENG step
+\EXU tum kax.naanh
+\XPSH [tum kaxna*nh]
+\XSP un paso
+\XEN one step
+\SYN
+\SEMF
+ETYM
+\ETL
+\ROOT kax
+\RTGR 11
+\DSRC HAJ94
+\CMTS CK-GR how else? HAJ:96
+\date 18/Jun/96
+\DATE 03/Jan/1980
+\lex kaxti.7aH
+\_no 01210
+\LG MIG
+\PSH [kaxti7a-]
+\UND kaxti. 7aH
+\MB castilla, VERS1
+\VAR
+\GRAM vi
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG hablar en castilla/castellano/espan~ol
+\ENG to speak Spanish
+\SPL
+\SLGR
+Page 526

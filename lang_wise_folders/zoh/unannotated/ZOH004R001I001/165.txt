@@ -1,0 +1,63 @@
+\SPG pegar con la ala
+\ENG to hit with a wing
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pekx
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex 7ok.poy=nuk
+\_no 00384
+\LG MIG
+\PSH [7okpoynuk-]
+\UND 7ok.poy=nuk
+\MB ABAJO, huir, agarrar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG alcanzar
+\ENG to catch up with someone
+\EXU 7@y+ wit=7ok.poy-nuk-w@
+\XPSH [7@y wittokpoynukk@.]
+\XSP Lo alcanzo* caminando.
+\XEN She caught up with someone walking.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 poy
+\RTGR 1 12
+\ROOT 2 nuk
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex 7ok.pup.'@y
+\_no 00385
+\LG MIG
+\PHO [7okpupp@y-]
+\UND 7ok.pup.'@y
+\MB ABAJO, sacudir, SUF
+ZOH004R0011001.txt
+\VAR
+\GRAM vt
+\SPG tener vaciado en el suelo
+\ENG to have shaken empty, out on to the ground
+\EXU 7@y+ 7ok. pup. '@y-wa xak
+\XPSH [7@y 7okpupp@yy@ x@k.]
+\XSP Sacudio* los frijoles.
+\XEN She shook out the beans.
+\SYN
+\ROOT pup
+\RTGR P (T3)
+\DSRC HAJ95
+Page 165

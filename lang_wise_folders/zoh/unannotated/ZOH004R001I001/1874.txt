@@ -1,0 +1,62 @@
+\date 29/Jan/96
+\lex y@k.m@k
+\_no 04365
+\LG MIG
+\PSH [y@km@k]
+\UND y@k.m@k.0
+\MB INSTR2, mezclar, NOM6
+\VAR
+\GRAM S
+\SPG hoja para hacer tamal
+\ENG leaf for making tamales
+\EXU yo' y@k.m@k.0
+\XPSH [yo'y@km@k]
+\XSP la hoja para hacer tamal
+\XEN a leaf for making tamales
+\SYN
+\ROOT m@k
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 26/Jun/96
+\lex y@k.p@k. '@y
+\_no 04366
+\LG MIG
+\PSH [y@kp@kk@y-]
+\UND yak.p@k.7@y
+\MB X, agarrar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG meter; echar
+\ENG to put in; to throw in
+\EXU 7@y+ y@k.p@k. '@y-w@ 7axta jonh+jo7
+\XPSH [7@y y@kp@kk@yy@ 7axta jonhjo7.]
+\XSP Lo metio* hasta adentro.
+\XEN She inserted it up to the inside.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT p@k
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 29/Jan/96
+\lex y@k.tonh
+\_no 04367
+\LG MIG
+\PSH [y@ktonh-]
+\UND y@k.tonh
+ZOH004R0011001.txt
+\MB X, ampollarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empollarse
+\ENG to get blistered
+\EXU
+\XSP
+Page 1874

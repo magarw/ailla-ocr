@@ -1,0 +1,63 @@
+\_no 02403
+\LG MIG
+\PHO [nuki7]
+\UND nuk. E7
+\MB agarrar, NOM7
+\VAR
+\GRAM pcp
+\SPG agarrado por mano
+\ENG caught by hand
+\EXU nuk.i7+k koke
+\XPSH [nuki 7k koke]
+\XSP pescado agarrado por mano
+\XEN fish caught by hand
+\SYN
+\ROOT nuk
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex nuk. pak
+\_no 02404
+\LG MIG
+\PSH [nukpak-]
+\UND nuk.pak
+\MB agarrar, FUERTE
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tenerlo agarrado fuerte
+\ENG to have something firmly grasped in the hand
+\EXU 7@n+ nuk.pak-w@
+\XPSH [7@n nukpakk@.]
+\XSP Lo tengo agarrado fuerte.
+\XEN I've got it firmly grasped.
+SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nuk
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 27/Jan/96
+\lex nuku' jajtzuku7
+\_no 02405
+\LG MIG
+\PSH [nuku jajtzuku7]
+\UND nuku7 jajtzuku7
+\MB
+\VAR nuku7
+\GRAM s (m) s
+\SCI
+\USE
+\SPG hormiga arriera
+\ENG a type of ant
+\EXU
+\XSP
+\XEN
+ZOH004R0011001.txt
+\SYN
+\SEMF
+Page 1036

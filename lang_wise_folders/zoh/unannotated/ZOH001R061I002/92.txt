@@ -1,0 +1,62 @@
+\ARG manner
+\NOM wo7i.naanh
+\RTGR 12, 11
+\POS wo7ijayy@ 'se le rodo*'
+\POS you had an orange in your hand and it fell in the barranca and
+POS rolled away on you
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex woj (1)
+\_no 00373
+\SPG ladrar
+\ENG to bark
+\SEMF animal, sound
+\ASP process
+\ARG
+\NOM woj.e7
+\RTGR 11
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex woj (2)
+\_no 00374
+\SPG hacer hoyo; agujerear
+\ENG to make a hole; to pierce
+\SEMF cut
+\ASP achievement
+\ARG
+\NOM woj.e7
+\NOM naanh
+\NOM 7anh
+\NOM toto'=woj. kuy7
+\RTGR T3
+\POS rroberto da wojjayy@n toto7
+\MID Y - lexicon
+\UNDO
+\CLZ
+\CMTS
+*
+\lex woko
+\_no 00375
+\SPG andar arrastrandose
+\ENG to drag oneself along
+\SEMF move_self
+\ASP process
+\ARG manner
+\NOM woko.e7, *wokona*nh
+\RTGR IX
+\POS NO
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\MID* woko7@mm@
+\MID 7@y jupwokoxukk@ 'lo arrastraron'
+\UNDO NO
+\lex wo7k
+\_no 00376
+\SPG raspar
+Page 92

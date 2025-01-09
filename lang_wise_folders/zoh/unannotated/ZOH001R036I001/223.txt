@@ -1,0 +1,77 @@
+\idx
+\ref ZOH001R036 999-047
+\_no 01031
+\tx
+\mb ney
+ney para dolo*r
+para dolo*r
+\sgl mismo para dolor
+\egl self for pain
+\zoq Ney para dolo*r.
+\fts Es para dolor.
+\fte The same one is for ache.
+\com
+\idx
+\ref ZOH001R036 999-048
+\_no 01032
+\tx
+GSM: ga
+\mb GSM ka -7
+\sg1 GSM: DCT3-NOM1 3E
+\eg1 GSM: DCT3-NOM1 3E boil
+\zoq GSM: Ga 7@y yumpa.
+\fts GSM: Eso lo hierve.
+\fte GSM: That one boils.
+\com
+\idx
+\ref ZOH001R036 999-049
+\_no 01033
+\tx
+\mb OSM
+\sg1 OSM: 3E
+\egl OSM: 3E
+OSM: 7@y yumpa
+7@y yum
+\com
+\idx
+7@y yumpa
+7@y yum
+\zoq OSM: 7@y yumpa.
+\fts OSM: Lo hierve.
+\fte OSM: One boils it.
+-pa
+hervir(se) - INC
+boil
+- INC
+\ref ZOH001R036 999-050
+\_no 01034
+\com
+\idx
+\zoq Ga n@mmobay 7ukk@ ne7.
+\fts Ese lo puede tomar tambien.
+\fte One can drink that too.
+\ref ZOH001R036 999-051
+\_no 01035
+\tx
+\mb GSM 7@y 7uk
+\sg1 GSM: 3E
+-pa
+tomar-INC
+\eg1 GSM: 3E drink-INC
+GSM: 7@y 7ukpa
+hervir(se)-
+\tx ga
+n@mmoba
+\mb ka -7
+y 7ukk@
+ne7
+n@m-7oy -pa 7@y 7uk -wa
+ne7
+\sg1 DCT3-NOM1 DO -ANTIP-INC 3E tomar-dINC tambien
+\eg1 DCT3-NOM1 DO -ANTIP-INC 3E drink-dINC also
+\zoq GSM: 7@y 7ukpa?
+\fts GSM: Lo toma?
+ZOH001R0361001.txt
+-pa
+- INC
+Page 223

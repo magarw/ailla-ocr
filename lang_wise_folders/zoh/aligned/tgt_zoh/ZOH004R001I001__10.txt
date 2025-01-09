@@ -1,0 +1,62 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 02/oct/96
+\lex 7alambre paxte7
+\_no 00023
+LG MIG
+\PSH
+\UND 7alambre paxte7
+\MB alambre, espina
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG alambre de pu*a
+\ENG barbed wire
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 12/Jun/95
+\lex 7alis=tz@k
+\_no 00024
+LG MIG
+\PSH [7alistz@k-]
+\UND 7alis=tz@k
+\MB alistar, HACER
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG alistarse
+\ENG to get ready to go out or to work
+\EXU 7alis-tz@k.7@m-w@
+\XPSH [7alistz@kk@mm@.]
+\XSP Se alisto*.
+ZOH004R0011001.txt
+\XEN She got ready to go out.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS pass & non-pass mean the same thing
+\date 02/Oct/96
+\lex 7alkool
+Page 10

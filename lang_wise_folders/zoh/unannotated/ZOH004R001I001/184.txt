@@ -1,0 +1,62 @@
+\ROOT 7um
+\RTGR T2
+\DSRC HAJ95
+\CMTS
+\date 09/Jan/96
+\lex 7ok. 'u7px
+\_no 00429
+\LG MIG
+\PSH [7okku7px-]
+\UND 7ok. 7u7px
+\MB ABAJO, nublarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG levantar nubes por el sur o otro, pero un solo lado
+\ENG for clouds to rise in the south or elsewhere, but just on one side
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7u7px
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex 7ok. 'u7px.@7
+\_no 00430
+\LG MIG
+\PHO [7okku7px@7]
+\UND 7ok. 7u7px.A7
+\MB ABAJO, levantar_nubes, NOM2
+\VAR
+\GRAM SV
+\SPG nubes del sur
+\ENG southern clouds
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT 7u7px
+\RTGR 12
+\RTGL levantar_nubes / for clouds to rise up
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+ZOH004R0011001.txt
+\lex 7ok. '@kx-kum. '@y
+\_no 00431
+LG MIG
+\PSH [7okk@kxkkumm@y-]
+\UND 7ok.7@kx=kum.7@y
+\MB ABAJO, desgranar, enterrar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG desgranar ra*pido
+Page 184

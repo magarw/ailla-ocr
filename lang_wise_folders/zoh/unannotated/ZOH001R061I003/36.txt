@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT 7utz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 26/Jun/96
+\lex yu7p.naanh tuj
+\_no 00103
+\LG MIG
+\PHO [yu7pnanh tuj]
+\UND yu7p.naanh tuj
+\MB picar, MED, lluvia
+\VAR
+\GRAM meas
+\SPG unas gotitas de agua que cae
+\ENG little raindrops
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT yu7p
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex yu7tz.naanh
+\_no 00104
+\LG MIG
+\PSH [yu7tzna*nh]
+\UND yu7tz.naanh
+\MB agarrar_en_pun~o, MED1
+\VAR
+\GRAM med
+\SCI
+\USE
+\SPG pun~O
+\ENG handful
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yu7tz
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex {.naanh}
+\_no 00105
+\LG MIG
+\PSH [na*nh]
+\UND naanh
+\MB MED1
+\VAR
+\USE nominalizing verbal suffix
+\GRAM suf
+ZOH001R0611003.txt
+Page 36

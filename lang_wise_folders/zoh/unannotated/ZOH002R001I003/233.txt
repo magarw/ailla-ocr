@@ -1,0 +1,53 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(8.16)
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+den kønakxtuktampa
+de.y
+Pən+ [[kə.nakx]=tuk]-tam-pa
+DCT2.TMP 1E+ [[FUERA.pegar_c_palo]=terminarse]-1/2PL-INC
+'Acabamos de rozar (el rastrojo).'
+ga.y
+ney 0 уо-ра
+kwandu 'øy jøxmu'kkoktukkám kay ney yopa
+kwandu ?əy+[[həš.mu?k]=[?ok.tuk]]-wǝ+?am
+cuando 3E+ [[ATRAS.chupar]=[BAJO.cortar]]-COM+YA DCT3.TMP mismo 3A caerse-INC
+Cuando ya lo acabó de chupar todo, solo se despega."
+(ZOH001R036-443)
+yøhi pøkkømangngødáng yødø kuydøkka
+[[pək=[kə.maŋ.?ǝy]]-taaŋ
+yə.hi?
+DCT1.LOC1 [[agarrar=[FUERA.*pisar.SUF]]-HORT
+'Aquí vamos a subir estas madera!'
+'øy nikkekkøtøwø bi metzang mangkuypø'k pøn
+?əy+ [[nik.kek.?əy]=tə?]-wə
+bi
+3E+ [[SURF.brincar.SUF]=querer]-COM DEF dos
+'Le quiso brincar al dos pies.'
+de'xe bim wattotødampa
+de.?še
+bi 7ǝm+ [[wat.?oy]=tə?]-tam-pa
+(ZOH001R013-006)
+DCT3.SIM DEF 2E+
+'Así quieren ganar.'
+yə.də
+kuy+dǝkkay
+DCT1.DEM árbol+NPL
+(ZOH001R025-075)
+metcan maŋkuypǝ?k pən
+de_piernas hombre
+(ZOH001R026-120)
+[[ganar.ANTIP]=querer]-1/2PL-INC
+(ZOH001R025-029)
+It is also possible for prefixes and suffixes to be applied to a compound
+stem; that is, for the verb stems to be linked in series and then affixed. The
+causative always applies to the whole compound stem, as illustrated in (8.17 i),
+as does the applicative suffix (ii). In example (iii), tuk-, 'to finish', is an
+aspectual modifier of ?ek-, 'to harvest', which is a T3 verb that requires an
+antipassive suffix in order to supress its patient. So, the antipassive pertains to
+the whole root compound. In example (iv), the actor is passing by stepping; the
+prefix nik- adds the sense both of repetition and of spreading the legs to step
+218

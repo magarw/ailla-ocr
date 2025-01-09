@@ -1,0 +1,63 @@
+\lex yoj
+\_no 00233
+\LG MIG
+\PSH
+\UND Yoj
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pagar
+\ENG to pay
+\SPL yoj. 7oy
+\SLGR ANTIP
+\SLGL pagar // to pay
+\SPL yoj.7@m
+\SLGR PASS
+\SLGL pagarse
+\SPL yak.yoj
+\SLGR CAUS
+\SLGL hacer pagar
+\EXU 1 7@n+ yoj-w@+'am 7@n+ ja'tz.A7
+\XPSH 1 [7@n yojja*m 7@n jatz@7.]
+\XSP 1 Abone* mi deuda.
+\XEN 1 I paid off my debt.
+\EXU 2 yoj.7@m-pa
+\XPSH 2 [Yojj@mpa.]
+\XSP 2 Se paga.
+\XEN 3. It is paid.
+\SYN
+SEMF trade
+\ASP transition
+\ARG
+\NOM 7anh.yoj, yoj.a
+\SUB 7anh.yoj, 7ok.yoj-j@m, 7ok.yoj-p@', jo.may=yoj, jup-yoj, yoj=tzi',
+SUB
+\ETYM
+\ETL
+\ROOT yoj
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex yuj
+\_no 00234
+\LG MIG
+\PSH
+\UND yuj
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+ZOH001R0611006.txt
+\USE
+\SPG rozar
+\ENG to raze
+\SPL yuj.7@m
+\SLGR PASS
+\SLGL rozar // to raze (impersonal)
+\SPL yuj.ten
+\SLGR PRSV
+\SLGL tener rozado // to have cleared
+Page 157

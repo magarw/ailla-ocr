@@ -1,0 +1,63 @@
+\lex yun
+\_no 04331
+\LG MIG
+\PSH
+\UND yun
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG nadar
+ENG to swim
+\SPL yak.yun
+\SLGR CAUS
+\SLGL hacer nadar
+\EXU 1 da yun-pa
+\XPSH 1 [D@ yunpa.]
+\XSP 1 voy a nadar.
+\XEN 1 I'm going to swim.
+\EXU 2 yun-wa bi jay(a) 7une7 n@'+jo7
+\XPSH 2 [Yunn@ bi jay7une7 n@jo7.]
+\XSP 2 Nado* el muchacho en el ri*o.
+\XEN 2 The boy swam in the river.
+\SYN
+\SEMF move
+\ASP process
+\ARG
+\NOM
+\SUB yuk.yun
+\ETYM
+\ETL
+\ROOT yun
+\RTGR 11
+\DSRC HAJ94
+\CMTS caus
+\date 03/Jan/80
+\lex yuppi7
+\_no 04332
+\LG MIG
+\PSH
+\UND yup. Hi7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG chiquito
+\ENG sma11
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS get deriv's; can't: TK
+\date 26/Jun/96
+ZOH004R0011001.txt
+\lex yu7p
+\_no 04333
+Page 1860

@@ -1,0 +1,64 @@
+ZOH004R0011001.txt
+\SLGL asentar; hacer sentar // to seat; to cause to sit down
+\EXU 1 7@y+ win.tz@n-a7
+\XPSH 1 [7@y wintz@na7!]
+\XSP 1 !Sentarse con e*1!
+\XEN 1 Sit down with him!
+\EXU 2 d@ tz@n-pa
+\XPSH 2 [D@_tz@npa.]
+\XSP 2 Me siento.
+\XEN 2 I'm sitting down.
+\EXU 3 7@y+ tz@n.ney-w@ bi 7une7]
+\XPSH 3 [7@y tz@nneyy@ bi 7une7.]
+\XSP 3 Sento* al nene.
+\XEN 3 She sat the baby down.
+\EXU 4 7@y+ yak.tz@n-w@ bi 7une7
+\XPSH 4 [7@y yaktz@nn@ bi 7une7.]
+\XSP 4 Sento* al nene.
+\XEN 4 She sat the baby down.
+\SYN
+\SEMF body, arrange
+\ASP state
+\ARG
+\NOM tz@n.kuy7, ni.tz@n, num=tz@n.kuy7
+\SUB 7ok.tz@n, ko.tz@n, k@.tz@n. '@y, tz@n=nonh, na.tz@n, ni.tz@n.'aH,
+\SUB num=tz@n, tz@n-k@.tak, tz@n.na' monh, tz@n.na' wanak, tz@n.na' yo7,
+\SUB_tz@n=yuk.konh, win=tz@n
+\ETYM
+\ETL
+\ROOT tz@n
+\RTGR P (12)
+\DSRC TK94
+\CMTS
+\CMTS CK-EX - HAJ:96 fixed, ok
+\date 03/Jan/80
+\lex tz@n=jon
+\_no 03501
+\LG MIG
+\PSH [tz@njon]
+\UND tz@n=jon
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG faisa*n
+\EXU jaya tz@n=jon
+\XPSH [jaya tz@njon]
+\XSP faisa*n barraco
+\EXU yom@ tz@n=jon
+\XPSH [yom@ tz@njon]
+\XSP pava
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+LF: jon
+\CMTS
+\date 28/Jan/96
+\lex tz@n.kuy7
+\_no 03502
+\LG MIG
+Page 1506

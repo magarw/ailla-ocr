@@ -1,0 +1,60 @@
+\lex jat
+\_no 00091
+\SPG rebajar
+\ENG
+\EX
+\XSP
+\XEN
+\ROOT jat 12
+\SEMF
+\CAUS yak.j@t hacer rebajar
+\CMTS
+\lex jat@t
+\_no 00092
+\SPG sobar
+\ENG to massage
+\EX
+\XSP
+\XEN
+\ROOT jatat T3
+SEMF care
+\PASS jat@t.7@m ya esta* sobado
+\ANTI jat@t.7oy sobar alguien
+\CMTS
+\lex j@7t
+\_no 00093
+\SPG regar el ri*o
+\ENG to be flooded; to be carried off by the flood; to be covered by flood
+water (cornfield)
+\EX da j@7tn@kpa
+\XSP me lleva el ri*o
+\XEN the river carried me off
+\EX j@7tt@ mok
+\XSP le paso* el ri*o el mai*z
+\XEN the river flooded the corn
+\ROOT j@7t 12
+\SEMF nature, water
+\CMTS
+\lex jatz
+\_no 00094
+\SPG hacer masa para pollo
+\ENG to make masa for chickens
+\EX piyu jatztz@
+\XSP hizo masa para pollo
+\XEN she made masa for the chickens
+\ROOT j@tz I1
+\SEMF cook
+\CMTS
+\lex j@y
+\_no 00095
+\SPG sonar; chillar; llorar
+ENG to sound; to scream; to cry
+ZOH001R0611010.txt
+\EX
+\XSP
+\XEN
+\ROOT jay Il
+\SEMF speak, sound
+\CAUS yak.j@y hacer llorar
+\CMTS
+Page 23

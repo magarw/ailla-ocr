@@ -1,0 +1,63 @@
+\ENG food
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT k@x
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex k@x.i' jepx-p@k.kuy7
+\_no 00163
+\LG MIG
+\PSH [k@xi jepxp@kkuy7]
+\UND k@x. E7 jepx-p@k.kuy7
+\MB comer, NOM7, agarrar_con_ji*cara, agarrar, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG cuchara para comer
+\ENG a spoon for eating
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 k@x
+\RTGR 1 T3
+\ROOT 2 jepx
+\RTGR 2 P, (T3)
+\ROOT 3 p@k
+\RTGR 3 T3
+\DSRC HAJ95
+\CMTS
+\date 25/Jun/96
+\lex k@x.i'=tze'
+\_no 00164
+\LG MIG
+\PSH [k@@xitze-]
+\UND k@x. E7=tze7
+\MB comer, NOM7, lavar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG lavar comida
+\ENG to wash food
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH001R0611004.txt
+\SEMF
+\ETYM
+Page 67

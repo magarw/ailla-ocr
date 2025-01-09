@@ -1,0 +1,53 @@
+\_no_02454
+\SPG tonto
+\ENG foolish
+\lex tzux
+\_no 02455
+\SPG ser_verde
+\ENG be_green
+\lex tzux
+\_no 02456
+\SPG verde
+\ENG green
+\lex tzuxu7
+\_no 02457
+\SPG esquina
+ENG corner
+\lex tz@jan
+\_no 02458
+\SPG mojarra
+\ENG snapper
+\lex tz@k
+\_no 02459
+\SPG hacer
+\ENG do
+\lex tz@kx
+\_no 02460
+\SPG mulato
+\ENG type_of_tree
+\lex tz@m
+\_no 02461
+\SPG cargar
+\ENG carry
+\lex tz@n
+\_no 02462
+\SPG estar_sentado
+\ENG sit
+\lex tz@njon
+\_no 02463
+\SPG faisa*n
+\ENG bird
+\lex tz@p@7
+\_no 02464
+\SPG yerbamora; huilache tiene espina
+\ENG
+\lex tz@tz@7
+\_no 02465
+\SPG tia
+\ENG aunt
+ZOH001R0611013.txt
+\lex tz@wi
+\_no 02466
+\SPG tabaco
+\ENG tabacco
+Page 196

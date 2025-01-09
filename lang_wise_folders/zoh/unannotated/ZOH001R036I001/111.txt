@@ -1,0 +1,87 @@
+\ref ZOH001R036 517
+\_no 00508
+\tx ti tzoy 7@m tz@kjaba
+\mb ti
+7@m tz@k -jay -pa
+tzoy
+\sg1 que saltar 2E hacer-APPL-INC
+\egl what jump 2E do -APPL-INC
+\zoq ti tzoy 7@m tz@kjaba?
+\fts Que remedio le haces?
+\fte what medicine do you make?
+\com
+\idx
+\ref ZOH001R036 518
+\_no 00509
+\tx ti n@
+\mb ti
+7@m prepartz@kpa
+n@7
+7@m preparar-tz@k -pa
+\sgl que agua 2E preparar-hacer-INC
+\egl what water 2E prepare -do
+\zoq Ti n@ 7@m prepartz@kpa?
+\fts Que agua preparas?
+\fte what water do you prepare?
+\com
+\idx
+\ref ZOH001R036 519
+\_no 00510
+ZOH001R0361001.txt
+7ay 7am p@jaba
+\tx ti jananh si neyti
+\mb ti
+j@nanh
+si ney
+-ti7
+AC
+\sg] que
+\eg1 what ACC
+7ay7 7am p@7 -jay -pa
+si alguna-que hoja 2E poner-APPL-INC
+if some -what leaf 2E
+put -APPL-INC
+\ref ZOH001R036 520
+\_no 00511
+\zoq Tij@nanh - si neyti
+si neyti 7ay 7am p@jaba?
+\fts Con que
+si le echhas alguna hoja?
+\fte with what if there's
+\com
+\idx
+-INC
+mux -pa
+saber-INC
+\ref ZOH001R036 521
+\_no 00512
+\tx pwes mixx@m muxpa
+\mb pwes mix -7@m
+\sg1 pues 2Prn-2E
+\egl well 2 Prn-2E know -INC things
+some leaf you put on?
+para
+tiyanhja*7 7ay 7@m 7okuptz@kpa
+tiyanhja*7 7ay7 7am 7okup -tz@k -pa para
+cosas
+ocupar-hacer-INC para
+-do -INC for
+hoja 2E
+leaf 2E use
+\zoq Pwes, mixx@m muxpa tiyanhja*7 7ay 7@m 7okuptz@kpa para...
+\fts Pues, tu sabes que todo de hoja ocupas...
+\fte well, you know what all leaves you use for...
+\com
+\idx
+\tx OSM: pwes pa m wit@m por 7ejemplo si toypa
+\mb OSM pwes para 7@m wit@m por ejemplo si toy -ра
+\sg1 OSM: pues para 2E ojo por ejemplo si doler-INC SI
+\egl OSM: well for 2E eye for example if hurt -INC IF
+bi7t
+bi7t
+\zoq OSM: Pwes, pam wit@m, por 7ejemplo, si toypa bi7t,
+\fts OSM: Pues, para tu ojo, por ejemplo, si te duele,
+\fte OSM: Well, for your eyes, for example, if they hurt,
+\com
+Page 111
+■

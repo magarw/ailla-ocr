@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pi7t
+\RTGR P (T3)
+\ROOT max
+\RTGR 12
+\DSRC HAJ02
+\CMTS trenzar a que se desbarata // braid so that it falls down
+\DATE 09/Aug/02
+\lex pi7t-me7tz
+\_no 02645
+\LG MIG
+\PSH [pi7tme7tz-]
+\UND pi7t-me7tz
+\MB trenzar, buscar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tratar de trenzar
+\ENG to try to braid
+\EXU 1 7@n+ pi7t-me7tz-w@ 7@n+ way7 7i d@n+ pi7t-mux-w@
+\XPSH 1 [7@n pi7tme7tztz@n way7 71 d@n pi7tmuxx@.]
+\XSP 1 Quise trenzar mi cabello y si* lo trenze*
+\XEN 1 I tried to braid my hair and I succeeded in braiding it.
+\EXU 2 7@n+ pi7t-me7tz-wa 7@n+ way7 7i ya n@mmo
+\XPSH 2 [7@n pi7tme7tztz@n way 7i ya_n@mmo.]
+\XSP 2 Quise trenzar mi cabello y no lo hice.
+\XEN 2 I tried to braid my hair and I couldn't.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT pi7t
+\RTGR P (T3)
+\ROOT me7tz
+\RTGR T3
+\DSRC HAJ02
+\CMTS
+\DATE 09/Aug/02
+\lex pi7t=tzuj
+\_no 02646
+LG MIG
+\PSH [pi7ttzuj-]
+\UND pi7t=tzuj
+\MB X, escupir
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG escupir por poquito
+\ENG to spit a little
+\EXU
+ZOH004R0011001.txt
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+Page 1139

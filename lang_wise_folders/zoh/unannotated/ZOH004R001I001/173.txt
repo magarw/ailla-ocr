@@ -1,0 +1,62 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+\lex 7ok.tz@m. '@y
+\_no 00403
+\LG MIG
+\PHO [7oktz@mm@y-]
+\UND 7ok.tz@m.7@y
+\MB ABAJO, cargar, SUF
+\VAR
+\GRAM vt
+\SPG bajar un cargo
+\ENG to put down a load
+\EXU 7@y+ 7ok.tz@m. '@y-wa 7@y+ tz@m.i7
+\XPSH [7@y 7oktz@mm@yy@y tz@mi7.]
+\XSP Bajo* su carga.
+XEN He set down his load.
+\SYN
+\ROOT tz@m
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex 7ok.tz@n
+\_no 00404
+\LG MIG
+\PSH [7oktz@n-]
+\UND 7ok.tz@n
+\MB ABAJO, sentarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG estar sentando atras de uno
+\ENG to be seated in the lap of someone, facing them
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@n
+\RTGR P, (12)
+\DSRC HAJ95
+ZOH004R0011001.txt
+\CMTS
+\date 29/Jan/96
+\lex 7ok.tz@y. '@y
+\_no 00405
+\LG MIG
+\PHO [7oktz@yy@y-]
+\UND 7ok.tz@y.7@y
+Page 173

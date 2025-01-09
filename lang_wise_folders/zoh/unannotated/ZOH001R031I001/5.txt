@@ -1,0 +1,17 @@
+70 ya n gantz@k@
+\_no 00019
+\tx 7@n 7ixpa si n gantz@kpa
+\mb 7@n 7ix-pa si 7@n ganar-tz@k -pa
+70 ya
+7@n ganar-tz@k -A
+\sgl 1E ver-INC si 1E ganar-hacer-INC o NEG 1E ganar-hacer-nINC
+\egl 1E see-INC if 1E
+earn -do -INC or NEG 1E earn -do
+ZOH001R0311001.txt
+\zoq 7@n 7ixpa sin gantz@kpa 70 yan gantz@k@.
+fts Lo voy a ver si voy a ganar o no lo gano.
+\fte I'll see if I'm going to earn or I'm not going to earn.
+\com
+\idx
+Page 5
+-nINC

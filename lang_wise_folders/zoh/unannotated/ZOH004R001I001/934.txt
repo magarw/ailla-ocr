@@ -1,0 +1,66 @@
+\GRAM
+\SCI
+\USE
+\SPG pa*jaro verde que vive en la barranca
+\ENG a green bird that
+lives in the canyons
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 10/Nov/94
+\lex nax wowo weni7
+\_no 02167
+\LG MIG
+\PSH
+\UND nax wowo weni7
+\MB tierra, hoyo, avispa
+\VAR
+SEMF EZ
+\GRAM
+\SCI
+\USE
+\SPG avispa que vive en la tierra
+\ENG bumblebee
+\EXU
+\XSP
+\XEN
+\SYN
+LF: jon
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS NAIS 505 - 506
+\date 21/Jun/95
+\VAR
+\GRAM s (m)s
+\lex nax xuyu7
+\_no 02168
+\LG MIG
+\PSH
+\UND nax xuyu7
+\MB tierra, olla
+\SCI
+\USE
+\XEN
+\SYN
+LF:weni 7
+\SPG olla de barro
+\ENG earthen pot
+\EXU
+\XSP
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+ZOH004R0011001.txt
+Page 934

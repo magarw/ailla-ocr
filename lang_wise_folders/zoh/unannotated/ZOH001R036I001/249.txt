@@ -1,0 +1,92 @@
+\com
+\idx
+\ref ZOH001R036 999-173
+\_no 01155
+\tx ya ke tukneyya*m
+\mb ya ke tuk
+bi
+хари
+-ney -w@ -7am bi хари
+\sg] ya que terminarse-ASSUM-COM-YA DEF jabo*n
+\egl now that finish
+-ASSUM-COM-NOW DEF soap
+\zoq Ya ke tukneyya*m bi xapu rremdyu, pwes.
+\fts ya que esta hecho el jabo*n remedio, pues.
+\fte well, now that this soap remedy is made.
+\com
+\idx
+\ref ZOH001R036 999-174
+\_no 01156
+\tx gay
+\mb ka -y 7@m yak
+\sg1 DCT3-TMP 2E
+\eg1 DCT3-TMP 2E INSTR2-bathe -SUF-INC-NOW
+7@m y@ktzinhnh@ba*m
+-tzinh
+\zoq Gay 7@m y@ktzinhnh@ba*m.
+\fts Ya te ban~as con ese.
+\fte Now you bathe with that.
+\com
+\idx
+INSTR2-ban*arse-SUF-INC-YA
+ZOH001R0361001.txt
+\tx wayjuni
+\mb way7-jun
+\ref ZOH001R036 999-175
+\_no 01157
+\tx 7ax
+ke
+tz@kk@
+\mb 7axta ke
+\sg1 hasta que
+-pa -7@m tz@k -w@
+acabarse-INC-2E hacer-dINC
+\egl until that finish -INC-2E do -DINC
+xukpa*m
+xuk
+\zoq 7ax ke xukpa*m tz@kk@.
+fts Hasta que lo acabes.
+\fte Until you finish it.
+\com
+\idx
+-7@y-pa -7am
+\ref ZOH001R036 999-176
+\_no 01158
+\tx gad@
+namtzu
+n@kpa m
+\mb ka -d@ 7anhnamtzu7 n@k -pa 7@m
+\sg1 DCT3-DEM man~ana
+irse-INC 2E
+go -INC 2E
+\eg1 DCT3-DEM morning
+-E7
+\ref ZOH001R036 999-177
+\_no 01159
+\tx GSM: tentz@ypa
+tentz@ypa
+ten
+tzinhnh@
+tzinh
+para
+-wa
+para
+ban*arse-dINC para
+-dINC for
+bathe
+-ра
+-tz@y
+pararse-atorarse -INC
+\sg1 pelo-caer_pelo-NOM3
+\egl hair-lose_hair-NOM3 stand -get_stuck-INC
+rremedyu pwes
+rremedyu pwes
+remedio
+pues
+medicine well
+\zoq Gad@ namtzu n@kpam tzinhnh@ para wayjuni tentz@ypa.
+\fts esa man~ana vas a ban~ar para que pare la caida del pelo
+\fte That morning you'll go bathe so that hair-loss stops.
+\com probably 'kada', not 'gad@'
+\idx
+Page 249

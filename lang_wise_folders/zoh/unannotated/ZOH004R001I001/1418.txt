@@ -1,0 +1,64 @@
+\_no 03298
+\LG MIG
+\PSH
+\UND tzay7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG vena, cuerda
+\ENG vein
+\EXU 1 tzanh.kuy' tzay7
+\XPSH 1 [tzanhkuy tzay7]
+\XSP 1 vena de la mano
+\XEN 1 vein of the hand
+\EXU 2 kuy 7@y+ tzay7
+\XPSH 2 [kuy 7@y tzay7]
+\XSP 2 majagua del palo
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\DATE 15/Aug/02
+\lex tzayji7
+\_no 03299
+\LG MIG
+\PSH
+\UND tzayji7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG tarde
+\ENG late
+\EXU 1 tzayji+'am
+\XPSH 1 [Tzayjiam.]
+\XSP 1 Ya es tarde.
+\XEN 1 Now it's late.
+\EXU 2 d@+ tzayji'-dam-w@+ 'am
+\XPSH 2 [D@ tzayjidamma*m.]
+\XSP 2 Ya se nos hizo tarde.
+\XEN 2 Now we've made ourselves late.
+\EXU 3 tzayji ye7tz-wa
+\XPSH 3 [Tzayji ye7tztz@.]
+\XSP 3 LĨego* tarde.
+\XEN 3 She arrived late.
+\SYN
+SEMF
+\ETYM *tza7(y)ji (7) ??
+\ETL psoke
+\ROOT
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS WHERE is VERB in EX?
+\CMTS HAJ:96 doesn't need one, there are other ex of this construction
+\CMTS COP has /tza7y../, MAG has /tza7i/, RAY has /tzaji../, TEC has <tzaya>
+\CMTS today GSM doesnt like tzayji7 alone
+\date 26/Jun/96
+Page 1418

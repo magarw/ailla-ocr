@@ -1,0 +1,71 @@
+(66) asta nn=0=ok
+hastaINC=B3s=DIR
+t-e-t-ee
+masaat,
+A3s-SR-A3s-SR:PAC
+A3s-hueso-ABST venado
+'y se puso el huérfano a tostar los huesos del venado,'
+(67) y despwees n=0=ku'
+y después
+INC=B3s-DIR
+'y después se puso a pensar."
+aj=j
+DEM-pues=DEM DEM=DEM
+'Hay un lugar'
+(69) T-wi' Tz'aqo'n=0 t=b'ii
+(68) Aa=tzan j
+(70) N=0=xi
+teen meeb'a woons-l
+estar huérfano tostar-INF
+t=b'aq-al
+(71) N=0=xi'=tzan
+ja’la.
+A3s-SR pixque-B3s A3s-nombre ahora
+'que se llama Twi' Tz'aqo'n ahora.'
+t-muna-'kj
+INC=B3s-DIR A3s-sembrar-RES
+'El huérfano fue a sembrarlo."
+muna-l
+INC=B3s-ir-pues sembrar-INF A3s-SR:PAC
+'Lo fue a sembrar,'
+(73) tza'n-x 0=teen=ka
+t-pensaa'ra-n.
+A3s-pensar-SD
+jun lugaar
+EXIST=B3s uno lugar
+(74) t=e'
+at=0
+(72) tza'n-x-tz ky-teen-ka
+t-awal
+meeb'a, j'aj etzaaj
+como=?=? A3p-estar-DIR A3s-siembra huérfano, DEM hierba
+naapixh,
+nabo
+'toda la siembra del huérfano, la verdura, nabo,'
+t-ee,
+meeb'a-jo.
+huérfano=DEM
+qa=j
+etzaaj
+como=? B3s-estar-DIR PL=DEM verdura
+'todas las verduras'
+(76) kyja'-tzan_nn=0=ook-a
+k'uul,
+monte
+t-jaq'
+EXIST=B3pA3s-SR:debajo
+'que están en el monte,'
+(75) b'ix j'aj
+nn=0=ook
+xukb'aakaj t-b'ii,
+t-xaq
+y DEM INC=B3s=entrar (una.hierba) A3s-nombre A3s-hoja
+meeb'a,
+huérfano
+'y la que se llama “xukb’aakaj”, hoja de huérfano,'
+meeb'a-jo.
+t-awal
+INC=B3s=entrar-? A3s-siembra huérfano=DEM
+así pues
+'por eso se dice siembra de huérfano.'
+8

@@ -1,0 +1,63 @@
+\SPG batidor; molinillo
+\ENG beater
+\EXU
+\XSP
+\XEN
+\SYN chuk (u)lat(e) xatz.kuy7
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH
+\date 25/Jun/96
+\lex multa
+\_no 02052
+\LG MIG
+\PSH
+\UND multa
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG multa
+\ENG fine
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex mum
+\_no 02053
+\LG MIG
+\PSH
+\UND mum
+ZOH004R0011001.txt
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG arrugarse; enjutarse - flor
+\ENG to wrinkle; to wilt - of flowers
+\SPL yak.mum
+\SLGR CAUS
+\SLGL enjutar; arrugar // to cause to wrinkle or wilt
+\EXU 1 da mum-w@+ 'am
+\XPSH 1 [D@ mumma*m.]
+\XSP 1 Ya estoy chupado / acabado / arrugado.
+\XEN 1 NOW I'm sucked-dry / finished / wrinkled.
+\EXU 2 mum-w@ bi t@m
+\XPSH 2 [Mumm@ bi t@m.]
+\XSP 2 Se enjuto* la fruta.
+\XEN 2 The fruit was shriveled.
+\SYN nonh (de frutas // of fruit)
+\SEMF body
+Page 885

@@ -1,0 +1,63 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT 70m
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 15/Oct/94
+\lex 7om.a'=jok
+\_no 00438
+\LG MIG
+\PSH [7omajok-]
+\UND 7om.A7=jok
+\MB echar_humo, NOM2, ahumar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG ahumarse
+\ENG to smoke
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 7om
+\RTGR 1 12
+\ROOT 2 jok
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS to smoke, as in to darken something with smoke (se pone el traste
+negro)
+\date 09/Jan/96
+\lex 7om.a'=p@'
+\_no 00439
+\LG MIG
+\PSH [7omap@-]
+\UND 7om.A7=p@7
+\MB echar_humo, NOM2, poner
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG echar humo
+\ENG to emit smoke
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 7om
+\RTGR 1 12
+\ROOT 2 p@
+\RTGR 2 T3
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+Page 188

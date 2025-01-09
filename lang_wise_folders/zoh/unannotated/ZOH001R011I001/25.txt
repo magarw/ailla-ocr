@@ -1,0 +1,76 @@
+\_no 00109
+\tx 7a bweno pwes si mi
+waja
+\mb 7a bweno pwes si mi
+-xuk-wa waja
+\sg1 ah bueno pues si 3>2 pagar-3PL-COM bueno
+\egl ah good well if 3>2 pay -3PL-COM good
+\ref ZOH001R011 109
+\_no 00110
+\zoq "7a bweno, pwes, și mi yojxukk@, waja.
+\fts "A bueno, pues, si te pagaron, esta* bien.
+\fte "oh good, well, if they paid you, good.
+\com
+\idx
+\tx pwes 7i kay
+pwes 7i
+ka
+\mb
+\sgl pues y
+-y
+DCT3-TMP
+\egl well and DCT3-TMP
+ZOH001R0111001.txt
+\zoq Pwes, 7i kay?
+\fts Pues, y ahora?
+\fte well, and now?
+\com
+\idx
+yojxukk@
+yoj
+\ref ZOH001R011 110
+\_no 00111
+\tx pwes kay
+juxtixa 7anhji tzakk@mxukk@
+\mb pwes ka -y juxtixa 7anhji7 tzak -7@m -xuk-w@
+\sgl pues DCT3-TMP autoridad LOC3
+dejar-PAS -3PL-COM
+\egl well DCT3-TMP authority LOC3 leave-PASS-3PL-COM
+\zoq "Pwes, kay juxtixa7anhji tzakk@mxukk@.
+\fts "Pues, ahora ontal presidente se quedaron.
+\fte "well, now they stayed at the mayor's.
+\com
+\idx
+\ref ZOH001R011 111
+\_no 00112
+\tx yakk@ 7ixxukkam
+ga
+d@kka ti bi tz@kxukpa
+\mb yakk@ 7ix-xuk-w@ -7am ka -7 d@kkay ti bi tz@k -xuk-pa
+\sg1 VOL
+ver-3PL-COM-YA
+DCT3-NOM1 NPL
+\eg1 VOL see-3PL-COM-NOW DCT3-NOM1 NPL
+\zoq Yakk@ 7ixxukkam gad@kka ti bị tz@kxukpa.
+\fts Ahi* que miren ellos que es lo que van a hacer.
+\fte Now let them see what it is that they will do.
+\com
+\idx
+\ref ZOH001R011 112
+\_no 00113
+\tx pero d@x 7@n p@ktijxukka*m
+\mb
+pero d@x
+7@n pak
+\sg1 pero 1Prn 1E
+-tij-xuk-w@ -7am
+agarrar-ir -3PL-COM-YA
+\egl but 1Prn 1E get -go -3PL-COM-NOW
+\zoq Pero d@x 7@n p@ktijxukka*m,
+\fts Pero yo ya los lleve*,
+que DEF hacer-3PL-INC
+what DEF do -3PL-INC
+\fte But I have brought them there and back again,
+\com
+\idx
+Page 25

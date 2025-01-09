@@ -1,0 +1,63 @@
+\MB grueso, dedo
+\VAR
+\GRAM s (m)s
+\SCI
+\USE
+\SPG dedo pulgar
+\ENG thumb
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\lex jat. '@y
+\_no 00683
+\LG MIG
+\PSH [jatt@y-]
+\UND jat.7@y
+\MB grueso, VERS2
+\VAR
+\GRAM vi:vers2
+\SCI
+\USE
+\SPG engruesar
+\ENG to get thick
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 13/Jun/95
+\lex ja7tz
+\_no 00684
+\LG MIG
+\PSH
+\UND ja7tz
+\MB
+\VAR
+\GRAM vt, vi:act
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG agarrar fiado; fiar; pedir
+\ENG to buy on credit; to borrow; to ask for a loan
+\SPL ja7tz. ten
+\SLGR PRSV
+\SLGL (entra esa palabra, pero no van a pedir fiado un di*a antes / this
+word exists, but you're not going to get credit a day in advance)
+\EXU 1 ja7tz.7@m-w@ bi xix
+\XPSH 1 [Ja7tztz@mm@ bi xix.]
+\XSP 1 Pidieron fiado la carne.
+\XEN 1 They bought the meat on credit.
+Page 292

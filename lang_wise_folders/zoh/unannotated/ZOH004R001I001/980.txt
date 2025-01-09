@@ -1,0 +1,64 @@
+\_no 02274
+\LG MIG
+\PSH [nikjaxx@y-]
+\UND nik.jax.7@y
+\MB SUP, X, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG ponerse boca abajo encima de algo o alguien
+\ENG to lie face down on top of someone or something
+\SPL
+\SLGR
+\EXU 7@y+ nik.jax. '@y-w@ kaj@t@nh7
+\XPSH [7@y nikjaxx@yy@_k@j@t@nh.]
+\XSP Se tiro* boca abajo encima de la almohada
+\XEN She threw herself face down on the pillow.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT * jax
+\RTGR P
+\DSRC HAJ95
+\CMTS ANALYZE EX; fixed: TK
+\date 25/Jun/96
+\lex nik.jej. '@y
+\_no 02275
+\LG MIG
+\PSH [nikjejj@y-]
+\UND nik.jej.7@y
+\MB SUP, vivir, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG echar su aire encima de alguien
+\ENG to exhale on someone
+\SPL
+\SLGR
+\EXU 7@y+ nik.jej.'@y-w@ 7@y+je7
+\XPSH [7@y nikjejj@yy@y ję7.]
+\XSP Le echo* su aire encima de alguien.
+\XEN He exhaled on someone.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jej
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 27/Jan/96
+\lex nik.jeken. '@y
+\_no 02276
+\LG MIG
+\PSH [nikjekenn@y-]
+\UND nik.jeken.7@y
+\MB SUP, enrollar, SUF
+\VAR
+\GRAM vt
+Page 980
+e.g. mujer.

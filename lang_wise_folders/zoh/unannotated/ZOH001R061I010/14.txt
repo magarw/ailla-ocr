@@ -1,0 +1,61 @@
+\EX 7@y jetztz@ y kuptuku7
+\XSP rasco* su espalda
+\XEN she scratched her back
+\EX 7@y jetzjayy@
+\XSP se lo rasco*
+XEN he scratched her
+\EX da jetztz@
+\XSP me rasco*
+\XEN someone scratched me
+\ROOT jetz Tx
+\SEMF affect, body
+\PASS NONE
+\ANTI NONE
+\CMTS term tuk
+\CMTS has to be ergative marker
+\lex jey
+\_no 00054
+\SPG batir (masa)
+\ENG to beat (masa)
+\EX way jeyy@
+\XSP batio* la masa
+\XEN she kneaded the masa
+\EX 7@y jeytenn@ bi way para bi_k@xi
+\XSP tiene batido la masa para la comida
+\XEN she's got the masa beaten for the food
+\ROOT jey P (T3)
+\SEMF cook, corn
+\PASS jey.7@m batirse
+\ANTI jey.7oy batir
+\ASSU jey.ney estar batido
+\PRSV jey=ten lo tiene batido
+\lex ji7i
+\_no 00055
+\SPG grun-ir
+\ENG to grow]
+\EX
+\XSP
+\XEN
+\ROOT ji7i Ix
+\SEMF speak-animal
+\CAUS yak.ji7i hacer grun~ir
+\CMTS
+\lex ji7kx
+\_no 00056
+ZOH001R0611010.txt
+\SPG tener olor fuerte de chile ancho
+\ENG to have a strong odor of chile ancho
+\EX
+\XSP
+\XEN
+\ROOT ji7kx Ix
+\SEMF nature
+\CAUS yak.ji7kx
+\CMTS
+\lex jim
+\_no 00057
+\SPG rozar; tocar al pasar
+\ENG to graze; to touch in passing
+\EX 7@y jimja7oyy@
+\XSP toco* algo de la gente al pasar
+Page 14

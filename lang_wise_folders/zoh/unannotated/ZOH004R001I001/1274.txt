@@ -1,0 +1,63 @@
+\GRAM stat+vi
+\SCI
+\USE
+\SPG acostarse boca arriba
+\ENG to lie face up
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * tay
+\ROOT 2 monh
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS v/tay P
+\CMTS
+\date 28/Jan/96
+\lex tay.ney
+\_no 02961
+\LG MIG
+\PSH [tayney-]
+\UND tay. ney
+\MB X, ASSUM1
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG estar boca arriba
+ENG to be lying face up
+\EXU tay.x@y-w@; tay.ney-w@
+\XPSH [Tayy@yy@; tayneyy@.]
+\XSP Esta* acostado boca arriba
+\XEN She's lying face up.
+\SPL
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * tay
+\DSRC TK94
+\CMTS tay.x@y-w@ ps-pcp
+\CMTS CK-all
+\CMTS puede decirse [tayy@yy@], pero es ma*s [tayna monhnh@]; fixed: TK
+\date 25/Jun/96
+\lex tay.x@y
+\_no 02962
+\LG MIG
+\PSH [tayy@y-]
+\UND tay.x@y
+\MB X, DEPOS
+\VAR
+ZOH004R0011001.txt
+\GRAM vi
+\SPG estar boca arriba
+\ENG to be lying face up
+\SPL
+\SLGR
+\EXU tay.x@y-w@; tay.ney-w@
+\XPSH [Tayy@yy@; tayneyy@.]
+\XSP Esta* acostado boca arriba
+Page 1274

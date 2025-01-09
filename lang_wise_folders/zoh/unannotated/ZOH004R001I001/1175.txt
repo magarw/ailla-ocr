@@ -1,0 +1,64 @@
+\PSH [popo 7ay7]
+\UND popo7 7ay7
+\MB blanco, hoja
+\VAR poop 7ay7
+\GRAM
+\SCI
+\USE
+\SPG hoja blanca - para tamales
+\ENG white leaf - for tamales
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+LF:7okox
+\lex pop(o') jay@7
+\_no 02732
+\LG MIG
+\PSH [popo jay@7]
+\UND popo7 jay@7
+\MB blanco, flor
+\VAR poop j@y@7
+\GRAM ams
+\SCI
+\USE
+\SPG flor blanca
+\ENG white flower
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex pop(o') koma'.koma7
+\_no 02733
+\LG MIG
+\PSH [popo komakoma7]
+\UND popo7 koma7.koma7
+\MB blanco, rodilla, rodilla
+\VAR poop koma.koma7
+\GRAM amsR
+\SCI
+\USE
+\SPG oreja blanco; hongo blanco
+\ENG toadstool
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+Page 1175

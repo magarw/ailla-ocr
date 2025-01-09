@@ -1,0 +1,63 @@
+\XEN
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS referring to a picture of a man walking up a hill: he could
+\CMTS stop before reaching the top, hence 'along the side'
+\DATE 03/Jan/1980
+\lex 7anh-ketz+joonh
+\_no 00098
+\LG MIG
+\PHO [7anhketzjo*nh]
+\UND 7anh-ketz+joonh
+\MB BOCA, X, DIR1
+\USE directional
+\GRAM av
+\SPG de la ladera
+\ENG down the slope
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS referring to a picture of a man walking down a hill: he could
+\CMTS stop before reaching the bottom, hence from the side'
+\CMTS
+\DATE 03/Jan/1980
+\lex 7anh=ketz+j@nanh
+\_no 00099
+\LG MIG
+\PHO [7anhketzj@nanh]
+\UND 7anh-ketz+j@nanh
+\MB BOCA, X, DIR2
+\USE locative
+\GRAM av
+\SPG abajo de la ladera
+\ENG at the bottom of the slope
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex 7anh-kim
+\_no 00100
+\LG MIG
+\PSH [7anhkim-]
+\UND 7anh-kim
+ZOH004R0011001.txt
+\MB BOCA, subir
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG mandar, gobernar, ordenar
+\ENG to command, to govern, to order
+\EXU 1 7anh-kim. 7oy-pa+a7k
+\XPSH 1 [7anhkimmoba*7]
+\XSP 1 e*1 que manda
+1
+Page 43

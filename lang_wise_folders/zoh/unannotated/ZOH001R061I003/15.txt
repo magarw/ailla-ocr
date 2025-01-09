@@ -1,0 +1,62 @@
+\XSP un manojito
+\XEN one handful
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT mi7tz
+\RTGR T3
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex mot.naanh
+\_no 00041
+\LG MIG
+\PHO [motna*nh]
+\UND mot.naanh
+\MB mezclar, MED
+\VAR
+\GRAM meas
+\SPG una revolvida; una medida
+\ENG a stir; a measure
+\EXU tum mot.naanh 7ojo7
+\XPSH [tum motnanh 7ojo7]
+\XSP una medida de aguardiente
+\XEN a measure of liquor
+\SYN
+\ROOT mot
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex muy.naanh
+\_no 00042
+\LG MIG
+\PSH [muyna*nh]
+\UND muy.naanh
+\MB tomar_en_boca, MED1
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG bochazo
+\ENG mouthful
+\EXU 7@n+ p@k-w@ tum muy.nanh n@7
+\XPSH [7@n p@kk@ tum muynanh n@7]
+\XSP Agarre* un bochazo de agua.
+\XEN I took a mouthful of water.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT muy
+\RTGR T2, 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex m@k.naanh
+\_no 00043
+\LG MIG
+\PHO [m@kna*nh]
+ZOH001R0611003.txt
+Page 15

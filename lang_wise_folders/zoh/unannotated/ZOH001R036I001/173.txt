@@ -1,0 +1,98 @@
+\ref ZOH001R036 811
+\_no 00797
+-pa -7am
+venir-INC-YA
+\tx 7i minpa*m
+\mb 7i min
+\sgl y
+xatztz@
+xatz -w@
+tentar-dINC 2E
+\egl and come -INC-NOW touch -dINC 2E
+\zoq 7i minpa*m xatztz@m win jemji7ok.
+\fts Y te vienes a huntar en todo.
+\ref ZOH001R036 812
+\_no 00798
+\tx
+\mb
+\fte And you come to rub it all over yourself.
+\com
+\idx
+\ref ZOH001R036 814
+\_no 00799
+jemji7ok 7@y monhkuy
+jemji7ok 7@y monh
+-kuy7
+\sg1 por todo 3E dormir-INSTR1 hacer-IMPV
+\egl all_over 3E sleep -INSTR1 do -IMPV
+\zoq Jemji7ok, 7@y monhkuy tz@k@7.
+\fts En todo, acuestate.
+\fte All over, go to bed.
+\com
+\idx
+7anhnamtzu 7este 7anhtzaji
+7anhnamtzu7 7este 7anhtzaji
+este
+nochecita
+um evening
+\tx
+\mb
+\sg1 man~ana
+\egl morning
+ZOH001R0361001.txt
+\zoq 7anhnamtzu, 7esde, 7anhtzaji.
+\fts De man~ana de nochecita.
+\ref ZOH001R036 815
+\_no 00800
+\tx ya ke m
+ya
+\mb ya ke 7@m ya
+\sg1 ya
+que 2E
+\egl now that 2E
+m win
+7@m win
+jemji7ok
+jemji7ok
+CARA por todo
+FACE all over
+\fte In the morning, um, in the evening.
+\com
+\idx
+-
+-
+tz@k@7
+tz@k -A7
+\tx 7um
+7ojj@
+\mb 7u
+-7@m 7oj -wa
+\sg1 NEGimpv-2A toser-nIMPV
+m
+ji7ttam
+7@m win
+ke
+ke 7@m ji7t -w@ -7am 7@m win
+ya que 2E manchar-COM-YA 2E REFL
+now that 2E stain -COM-NOW 2E REFL
+\zoq Ya kem ya kem ji7ttam 7@m win,
+\fts ya que te
+ya que te ahuntastes,
+\fte Now that you now that you've smeared it on yourself,
+\com
+\idx
+\ref ZOH001R036 816
+\_no 00801
+\tx 7@m k@watpam
+payu
+y@
+\mb 7@m k@
+-wat
+j@nanh 7@m wintu7
+pa
+-pa -7am payu y@ -7 j@nanh 7@m wintu7
+para
+\sg1 2E AFUERA-amarrar-INC-YA pan~uelo DCT1-NOM1 AC 2E
+pescuezo para
+\egl 2E AWAY -bind -INC-NOW kerchief DCT1-NOM1 ACC 2E neck for
+Page 173

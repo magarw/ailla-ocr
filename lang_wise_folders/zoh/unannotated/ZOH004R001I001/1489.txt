@@ -1,0 +1,64 @@
+\VAR
+\GRAM as
+\SCI
+\USE
+\SPG palo de chipili*n
+\ENG a type of tree
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS CK-PH - HAJ:96, stress on tzux; NO, on /kuy/:TK
+\date 26/Jun/96
+\lex tzux loro7
+\_no 03461
+\LG MIG
+\PSH
+\UND tzux loro7
+\MB verde, loro
+\VAR
+\GRAM as
+\SCI
+\USE
+\SPG cotorra
+\ENG a type of parrot
+\EXU
+\XSP
+\XEN
+\SYN
+LF: kuy
+\SEMF
+\ETYM loro
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS could be sms phrase CK
+\date 26/Jun/96
+\lex tzux najak
+\_no 03462
+LG MIG
+\PSH
+\UND tzux najak
+\MB verde, rana
+\VAR
+\GRAM as
+\SCI
+\USE
+\SPG rana verde; ranita
+\ENG frog
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+Page 1489

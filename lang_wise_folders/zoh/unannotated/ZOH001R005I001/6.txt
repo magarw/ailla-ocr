@@ -1,0 +1,70 @@
+\zoq Bi Senyor d@ tziw@.
+\fts El Sen~or me dio*."
+\fte The Lord gave it to me.
+\com
+\idx
+\ref ZOH001R005 023
+\_no 00024
+\tx 7i n@kw@;
+\mb 7i n@k -w@
+\sg] y
+irse-COM
+\egl and go -COM
+\zoq 7i n@kw@.
+\fts Y se fue*.
+\fte And he went.
+\com
+\idx
+\ref ZOH001R005 024
+\_no 00025
+7@y p@ki;
+\tx_n@kk@
+\mb n@k -w@ 7@y pak
+\sgl irse-COM 3E
+\egl go -COM 3E get
+-E
+agarrar-dCOM
+\zoq Nakk@ 7@y p@ki.
+\fts Se fue* a traerlo.
+\fte He went to get it.
+\com
+\idx
+\ref ZOH001R005 025
+\_no 00026
+\ref ZOH001R005 026
+\_no 00027
+\tx n@kk@
+\tx ti n@mpa
+\mb ti
+y
+tuxminn@;
+n@m -ра 7@y
+tux -min -wa
+\sg1 que decir-INC 3E picar-venir-dINC
+\egl what say -INC 3E bite -come -dINC
+7espanya;
+\mb n@k -w@ 7espanya
+\sg1 irse-COM espan~a
+\egl go -COM spain
+"I
+\zoq Ti n@mpa 7@y tuxminn@.
+\fts Dice que lo trajo en su pico.
+\fte He says that he'll come with it in his beak.
+\com
+\idx
+\zoq N@kk@ 7espanya.
+\fts se fue* a Espan~a.
+\fte He went to Spain.
+\com
+\idx
+-dCOM
+\ref ZOH001R005 027
+\_no 00028
+\tx gaja
+\mb
+\sg1
+ZOH001R0051001.txt
+ban mok;
+ka -ja7 bayun mok
+DCT3-Loc1 mucho mai*z
+Page 6

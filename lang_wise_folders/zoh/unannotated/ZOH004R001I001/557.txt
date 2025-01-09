@@ -1,0 +1,63 @@
+\lex ko.7almir(a)=tz@k
+\_no 01276
+\LG MIG
+\PSH [ko7almiratz@k-]
+\UND ko.7almira=tz@k
+\MB OTRO, admirar, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG admirarse
+\ENG to admire something or someone; to amaze
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex ko. 7amma
+\_no 01277
+\LG MIG
+\PSH [ko7amma-]
+\UND ko.7amma
+\MB OTRO, mirar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG estar viendo
+\ENG to be looking at something
+\EXU
+\XSP
+\XEN
+\SYN ko.7ix
+\SEMF
+\ETYM
+\ETL
+\ROOT 7amma
+\RTGR T1
+\DSRC TK94
+\CMTS 1o juzgo* bien o lo vio* bien
+\CMTS rejected gloss: 'ver a ver si quiere'
+\date 13/Jul/95
+\lex ko. 7an
+\_no 01278
+\LG MIG
+\PSH [ko7an-]
+\UND ko.7an
+\MB OTRO, calentarse
+\VAR
+\GRAM vt
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG estar calenta*ndolo
+\ENG to be heating something up
+Page 557

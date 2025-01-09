@@ -1,0 +1,65 @@
+\ENG to make bigger
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+\lex w@t.(i') nak=mok
+\_no 00405
+LG MIG
+\PSH [w@tinakmok]
+\UND w@t. E7 nak=mok
+\MB grande, NOM7, X, mai*z
+\VAR waat nak=mok
+\GRAM a (m) xs
+\SCI
+\USE
+\SPG ma*iz zapalote grande
+\ENG a type of corn
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex w@t.(i') tzinu
+\_no 00406
+LG MIG
+\PSH [w@ti tzinu]
+\UND wat. E7 tzinu
+\MB grande, NOM7, miel
+\VAR w@@t tzinu
+\GRAM a (m)s
+\SCI
+\USE
+\SPG "miel grande", clase de abeja grande
+\ENG a type of bee
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+— — —
+LF:bugs
+ZOH001R0611004.txt
+Page 161

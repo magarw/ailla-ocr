@@ -1,0 +1,62 @@
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex mon
+\_no 00164
+\SPG envolver
+\ENG to wrap, to roll up in something
+\SEMF cover
+\ASP accomplishment
+\ARG
+\NOM mon.e, mon. 'oy.kuy7, mon.kuy7, y@k.mon
+\RTGR P, (T3)
+\POS
+\MID
+\UNDO 7@y monpuw@
+\CLZ
+\CMTS
+\lex monh
+\_no 00165
+\SPG 1 acostarse
+\SPG 2 dormir
+\ENG 1 to go to bed
+\ENG 2 to sleep
+\SEMF body
+\POS Y examples
+\MID
+\ASP state
+\ARG
+\NOM monh.kuy7, mo.e, ni.monh, y@k.monh
+\RTGR 12
+\UNDO
+\CLZ
+\CMTS
+ZOH001R0611002.txt
+\SEMF arrange
+\ASP activity
+\ARG
+\lex mot
+\_no 00166
+\SPG revolver; mezclar (no se trata de comida)
+\ENG to stir; to mix (not of food)
+\NOM mot.e7
+\NOM * kuy7, mot.naanh
+\RTGR T3
+lo desenvolvio*
+\POS rroberto da motjayy@n 7alko*1
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\ASP activity
+\ARG
+\NOM
+\RTGR T1
+\lex motz
+\_no 00167
+\SPG comer tortillas, sin carne
+\ENG to eat just tortillas, no meat
+\SEMF eat
+Page 41

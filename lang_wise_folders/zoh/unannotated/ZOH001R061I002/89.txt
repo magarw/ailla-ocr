@@ -1,0 +1,62 @@
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex we7k [1]
+\_no 00360
+\SPG envarillar
+\ENG to place the wooden cross-poles (in a wall or door) where the mud goes
+on
+\SEMF arrange, build
+\ASP process
+\ARG
+\NOM we'k.e7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex wen
+\_no 00361
+\SPG partir con la mano
+\ENG to divide with the hands
+\SEMF cut
+\ASP transition
+\ARG
+\NOM wen.e, wen.neenh
+\RTGR P (T3)
+\POS da wenjayy@n 7anejaxe
+\MID
+\UNDO
+\CLZ
+\CMTS
+\ASP process
+\ARG manner
+\lex we7tz
+\_no 00362
+\SPG arrastrarse - nin*o; andar arrastra*ndose; arrastrarse sentado
+\ENG to drag oneself - like a child; to drag oneself in a seated position
+with one leg pulled up
+\SEMF move_self, arrange
+\NOM we7tz.kuy7, we7tz.naanh
+\RTGR P (11)
+\POS N
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex wij
+\_no 00363
+ZOH001R0611002.txt
+\SPG zambutirse
+\ENG to dive into the water
+\SEMF move_self
+me partio* mi totopo
+\POS
+\MID
+\ASP transition
+\ARG location
+\NOM wij.naanh, wij.i, y@k.wij, wij.kuy7
+\RTGR P (IX)
+Page 89

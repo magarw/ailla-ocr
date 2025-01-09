@@ -1,0 +1,62 @@
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 06/Feb/96
+\lex jin.kuy7
+\_no 00774
+\LG MIG
+\PSH [jinkuy7]
+\UND jin.kuy7
+\MB refregar, INSTR1
+\VAR
+\GRAM instrl
+\SCI
+\USE
+\SPG cosa para refregar
+\ENG something to scrub a person with
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jin
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 15/Jul/95
+\lex jin.naanh
+\_no 00775
+\LG MIG
+\PHO [jinna*nh]
+\UND jin.naanh
+\MB refregar, MED
+\VAR
+\GRAM meas
+\SPG una refregada
+\ENG a scrub
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT jin
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex jin-putz.i
+\_no 00776
+\LG MIG
+\PSH [jinputzi]
+\UND jin-putz. E
+\MB X, pudrirse, NOM7
+\VAR
+\GRAM SV
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG viruela
+Page 336

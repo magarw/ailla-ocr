@@ -1,0 +1,63 @@
+\SPG 1 crudo
+\SPG 2 verde, como palo o cualquiera cosa
+\ENG 1 raw
+\ENG 2 green, like a tree or whatever
+\SLGR NO VERS1
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS tzujux. 7aH no tiene razo*n
+\date 11/Feb/96
+\lex tzujux ju7t.kuy7
+\_no 03424
+\LG MIG
+\PSH [tzujux ju7tkuy7]
+\UND tzujux ju7t.kuy7
+\MB verde, mover_con_palo, INSTR1
+\VAR
+\GRAM aminstr1
+\SCI
+\USE
+\SPG palo verde para menear atole
+\ENG green stick for stirring atole
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT ju7t
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+\lex tzujux kajwe
+\_no 03425
+\LG MIG
+\PSH
+\UND tzujux kajwe
+\MB verde, cafe*
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG cafe* pergamino o verde
+\ENG green coffee
+EXU
+ZOH004R0011001.txt
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+Page 1473

@@ -1,0 +1,38 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+There are a few cases in which V1 seems to serve as the patient of V2.
+While the first example (8.31) could be analyzed as 'she spoke, lying' or 'she
+lied while speaking', the other examples don't conform nicely to the 'V2 by V1-
+ing' template. It doesn't make sense to interpret (ii), for instance, as 'it lost its
+color by being painted.'
+(8.31)
+(i) 'angngunnotongngø
+(ii)
+(iii)
+(iv)
+0 ?aŋ.?un=?otoŋ-wǝ
+3A MOUTH.deceive-speak-COM
+'She told a little lie.'
+køngkowakkø
+0 kəŋ=ko.wak-wǝ
+3A paint=OTHR.*empty-COM
+'It lost its color.'
+'øy 'angkimtzakkø yakkøy tzøkkø neyti'
+?əy+ ?aŋ.kim-cak-wǝ
+0 kaš=pə?.pə?-wə
+tək?aŋhə?+V?k
+3A step=put.CEL-COM san_miguel+REL
+'A Migeleño quickly took a step forward."
+(lexicon)
+yakkə ?əy+ cək-wə
+neyti?
+3E+ MOUTH.mount=leave-COM VOL 3E+ do-COM something
+'He left word that she should do something.'
+kaxpøpøwø tøk'angjø'
+(lexicon)
+224
+(elicited)
+(ZOH001 R024-172)
+Another common function of compound verb constructions is to describe
+compactly two actions that are performed or occur simultaneously. The
+compounds with directional verbs and a common actor described above fall into
+this group, but they can be composed of other sorts of roots as well.

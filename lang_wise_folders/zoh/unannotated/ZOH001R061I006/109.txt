@@ -1,0 +1,63 @@
+\ETYM
+\ETL
+\ROOT ton
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex totz [1]
+\_no 00161
+\LG MIG
+\PSH
+\UND totz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pun~alear (con cuchillo)
+\ENG to stab (with a knife)
+\SPL totz.7oy
+\SLGR ANTIP
+\SLGL pun~alear // to stab
+\SLGR NO PASS
+\SPL totz.ten
+\SLGR PRSV
+\SLGL tener pun~alado // to have stabbed (on the point of a knife)
+\EXU 1 ney 7@y+ win 7@y+ totz-wa
+\XPSH 1 [Neywin 7@y totztz@.]
+\XSP 1 Se pun~aleo* e*l mismo.
+\XEN 1 He stabbed himself.
+\EXU 2 7@y+ totz.ten-w@ bi p@n bi kuy
+\XPSH 2 [7@y_totztenn@_ bi p@n bi kuy.]
+\XSP 2 El palo tiene el hombre encajado.
+\XEN 2 The tree has the man staked.
+\SYN ju7tz
+\SEMF cut
+\ASP achievement
+\ARG instrument
+\NOM
+\SUB totz-ka'
+\ETYM
+\ETL
+\ROOT totz
+\RTGR T3
+ZOH001R0611006.txt
+\DSRC TK94
+\CMTS patient fruta, carne, persona, animal,
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex tuk [1]
+\_no 00162
+\LG MIG
+\PSH
+\UND tuk
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG cortar
+\ENG to cut
+\SPL tuk. 7oy
+Page 109

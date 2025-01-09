@@ -1,0 +1,61 @@
+\SEMF build
+\ASP process
+\ARG
+\NOM ya't.i7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex {%jap}
+\_no 00443
+\SPG boca abajo
+\ENG face down
+\SEMF body, arrange
+\ASP
+\ARG
+\NOM ko.jap. kuy7, y@k.jap
+\RTGR P
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex {%jax}
+\_no 00444
+\SPG estar/poner boca abajo
+\ENG to be/put face down
+\SEMF body, position
+\ASP
+\ARG
+\NOM
+\RTGR P
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex {%kut}
+\_no 00445
+\SPG estar en las rodillas
+\ENG to be on your knees
+\SEMF body, arrange
+\ASP
+\ARG
+\NOM
+\RTGR P
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex {%manh}
+\_no 00446
+\SPG pisar
+\ENG to step
+\SEMF move_self
+\ASP
+\ARG
+ZOH001R0611002.txt
+Page 109

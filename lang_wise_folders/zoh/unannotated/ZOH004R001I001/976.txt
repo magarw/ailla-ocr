@@ -1,0 +1,63 @@
+\SYN jo. jom
+\SEMF
+\ETYM
+\ETL
+\ROOT jom
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 08/Feb/96
+\lex ni.jonh
+\_no 02265
+\LG MIG
+\PSH [nijonh-]
+\UND ni.jonh
+\MB PURP, atarantarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG estar medio atarantadito
+\ENG to be a little dizzy
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN 7ichinh jonh-w@
+\SYN win. jonh
+\SEMF
+\ETYM
+\ETL
+\ROOT jonh
+\RTGR 12
+\DSRC HAJ95
+\CMTS CK-PH of SYN1/OK:TK
+\date 25/Jun/96
+\lex ni.j@t
+\_no 02266
+\LG MIG
+\PSH [nij@t-]
+\UND ni.jat
+\MB PURP, rebajar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG rebajar
+\ENG to lose weight
+\SPL
+\SLGR
+\EXU ni.j@t-wa
+\XPSH [Nij@tt@.]
+\XSP Enflaquecio*.
+\XEN He got thinner.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jat
+\RTGR 12
+\DSRC HAJ95
+ZOH004R0011001.txt
+Page 976

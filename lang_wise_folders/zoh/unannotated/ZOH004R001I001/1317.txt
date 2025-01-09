@@ -1,0 +1,63 @@
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\lex trucha
+\_no 03059
+\LG MIG
+\PSH
+\UND trucha
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG trucha
+\ENG a type of fish
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 10/Nov/94
+LF: koke
+\lex tugu=rujta- 'anh
+\_no 03060
+\LG MIG
+\PSH [tugurujta*nh]
+\UND tuk@=Tujtu-7anh
+\MB 3, +5, NUM
+\VAR turujtaanh, tudujtaanh
+\GRAM num
+\SCI
+\USE
+\SPG ocho
+\ENG eight
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94, HAJ94
+\CMTS
+\date 09/Feb/96
+\DATE 03/Jan/1980
+\lex tugu=rujta-'nh-ji-7
+\_no 03061
+\LG MIG
+\PSH [tugurujtanhji7]
+\UND _tuk@=Tujtu-7anh-ji-7
+\MB
+ZOH004R0011001.txt
+Page 1317

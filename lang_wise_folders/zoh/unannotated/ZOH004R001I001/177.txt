@@ -1,0 +1,63 @@
+\XSP 2 Apago* soplando la luz.
+\ENG 2 He blew out the lamp.
+\EXU 3 70kx-mux-w@ 7@n+ tz@k-E
+\XPSH 3 [7okxmuxx@n tz@ki.]
+\XSP 3 Si lo apague*.
+XEN 3 I did turn it off.
+\SYN
+\SEMF light
+\ASP achievement
+\ARG
+\NOM
+\SUB ko.7okx. '@y, k@.n@k=7okx. '@y, win-'okx, yuk. 'okx
+\ETYM
+\ETL
+\ROOT 70kx
+\RTGR 12
+\DSRC HAJ94
+\CMTS CK-EX2: fixed by TK
+\date 03/Jan/80
+\lex 7ok.xaj. '@y
+\_no 00413
+\LG MIG
+\PSH [7okxajj@y-]
+\UND 7ok.xaj.7@y
+\MB ABAJO, X, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tirar agua, cafe*
+\ENG to spill
+\SPL
+\SLGR
+\EXU 7@y+ 7ok.xaj. '@y-wa
+\XPSH [7@y 70kxajj@yy@.]
+\XSP Tiro* el agua de algu*n traste.
+\XEN The water spilled from the dish.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\lex 7ok.yoj
+\_no 00414
+\LG MIG
+\PSH [7okyoj-]
+\UND 7ok.yoj
+\MB ABAJO, cambiar
+\VAR
+\GRAM vt
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG rentar, "arquilar"
+\ENG to rent
+\EXU 7@y+ 7ok.yoj-pa
+\XPSH [7@y 7okyojpa.]
+\XSP Esta* rentando.
+\XEN She's renting.
+\SYN
+Page 177

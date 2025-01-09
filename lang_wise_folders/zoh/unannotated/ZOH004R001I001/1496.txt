@@ -1,0 +1,63 @@
+\UND tz@k.jay.E
+\MB hacer, APPL, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG brujeri*a
+\ENG witchcraft
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 tz@k
+\RTGR 1 T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tz@k.jay
+\_no 03478
+\LG MIG
+\PSH [tz@kjay-]
+\UND tz@k.jay
+\MB hacer, APPL
+\VAR
+\GRAM indir
+\SCI
+\USE
+\SPG hace*rselo; traicionar; dan*ar
+\ENG to be done to someone; to betray; to harm
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tz@k.ki7px
+\_no 03479
+\LG MIG
+\PSH [tz@kki7px-]
+\UND tz@k.ki7px
+\MB
+\VAR
+\GRAM vt: prob
+\SCI
+\USE
+\SPG tratar de hacer (algo)
+\ENG to try to do (something)
+\EXU
+ZOH004R0011001.txt
+\XSP
+\XEN
+\SYN
+\SEMF
+Page 1496

@@ -1,0 +1,63 @@
+\SEMF
+\ETYM
+\ETL Sp; or < Nawa Molli
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH
+\date 25/Jun/96
+\lex momo7
+\_no 02009
+\LG MIG
+\PSH
+\UND momo7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SEMF
+\ETYM
+ok/OK: TK
+\SPG no completo del cuerpo; mocho
+\ENG a person who is missing a limb
+\EXU
+\XSP
+\XEN
+\SYN
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 25/Jun/96
+\lex momo' 7@y+ xaj
+\_no 02010
+\LG MIG
+\PSH [momoy xaj]
+\UND momo7 7@y+ xaj
+\MB mocho, 3Erg, brazo
+\VAR
+\GRAM aps
+\SCI
+\USE
+\SPG tunco
+\ENG one-armed
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH - o's sound laryngeal
+\date 26/Jan/96
+ZOH004R0011001.txt
+\lex momo'. 7aH
+\_no 02011
+\LG MIG
+\PSH [momo7a-]
+\UND momo'.7aH
+\MB mocho, VERS1
+\VAR
+Page 866

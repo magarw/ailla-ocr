@@ -1,0 +1,64 @@
+\UND 7almu
+\MB
+\VAR
+\GRAM med
+\SCI
+\USE
+\SPG 1 almud, "almude": medida heredada_de e*poca colonial (viene
+del a*rabe) ya no se usa en Mexico so* lo en la regio*n sur y en
+Guatemala
+\SPG 2 cuatro quartillos, de frijol, mai*z,
+\ENG 1 almud: a unit of measure inherited from the colonial era
+(originally from the Arabs), no longer used in Mexico except in
+the south and in Guatemala
+\ENG 2 four quartillos, of beans, corn,
+\EXU tum 7almu
+\XSP un almud
+\XEN one almud
+\SYN
+\lex 7amint@7
+\_no 00031
+\LG MIG
+\PSH
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\KEY
+\DSRC HAJ94
+\CMTS CK-PH - OK/TK
+\CMTS un quartillo lleva cuatro litros; entonces, un almud son 16 litros
+\CMTS a quartillo contains 4 liters; so, an almud is 16 liters
+\date 02/oct/96
+\UND 7amint@7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG an~o
+\ENG year
+\EXU 1 7amint@7k
+\XSP 1 el an~o pasado
+\XEN 1 last year
+\EXU 2 jemji 7amint@7
+\XSP 2 todos los an~os
+\XEN 2 all the years
+\EXU 3 kada 7amint@7
+\XSP 3 cada an~o
+\XEN 3 each year
+\EXU 4 tum 7amint@7
+\XSP 4 un an~o
+\XSP 4 one year
+\SYN
+ZOH004R0011001.txt
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 24/Jun/96
+\lex 7amint@7.k
+■
+Page 13

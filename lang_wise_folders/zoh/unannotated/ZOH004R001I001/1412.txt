@@ -1,0 +1,62 @@
+\XSP de arriba
+\XEN from above
+\EXU ban tzap-j@7
+\XSP esta* muy arriba
+\XEN it's way up there
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS there is a /7/ here: TK
+\date 26/Jun/96
+\DATE 03/Jan/1980
+\lex tzap.j@nanh
+\_no 03284
+\LG MIG
+\PSH [tzapj@nanh]
+\UND tzap.j@nanh
+\MB
+\VAR
+\USE directional
+\GRAM av
+\SPG para (alla*) arriba; el lado de arriba
+\ENG to up there; on the top side
+\EXU 7@n+ t@k teji.7a-w@ tzap.j@nanh
+\XPSH [7@n t@k teji7aw@ tzapj@nanh.]
+\XSP Mi casa esta* por alla* arriba.
+\XEN My house is up there.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS ANALYZE
+\date 26/Jun/96
+\DATE 03/Jan/1980
+\lex tzap.j@@nh
+\_no 03285
+\LG MIG
+\PHO [tzapj@*nh]
+\UND tzap.jaanh
+\MB
+\VAR
+\USE directional
+\GRAM av
+\SPG de arriba
+\ENG from up there
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+ZOH004R0011001.txt
+\lex tzatz
+\_no 03286
+\LG MIG
+Page 1412

@@ -1,0 +1,62 @@
+\lex yomaa7 7@y+ jaxake7
+\_no 04157
+\LG MIG
+\PSH [yoma*7 7@y jaxake7]
+\UND yomaa7 7@y+ jaxake7
+\MB mujer, 3Erg, nuera
+\VAR
+\GRAM sps
+\SCI
+\USE
+\SPG nuera de una mujer
+\ENG daughter-in-law of a woman
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH - HAJ:96 ok/OK: TK
+\date 26/Jun/96
+\lex yomaa7 7@y+ y@k.wij
+\_no 04158
+\LG MIG
+\PSH [yoma*7_7@y y@kwij]
+\UND yomaa7 7@y+ y@k.wij.0
+\MB mujer, 3Erg, INSTR2, zambutirse, NOM6
+\VAR
+\GRAM sps
+\SCI
+\USE
+\SPG vestido
+\ENG dress
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH/OK: TK
+\date 26/Jun/96
+\lex yom@'
+\_no 04159
+ZOH004R0011001.txt
+\LG MIG
+\PSH [yom@]
+\UND yom@7
+\MB
+\VAR yoom [non-final]
+\GRAM attributive prenominal modifier
+\SCI
+\USE
+\SPG hembra
+\ENG female
+\SPL
+\SLGR
+Page 1787

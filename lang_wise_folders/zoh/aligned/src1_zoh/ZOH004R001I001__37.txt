@@ -1,0 +1,44 @@
+\SPL
+\SLGR
+\XSP
+\SEMF
+\ETYM
+\ROOT ju7tz
+\RTGR T3
+\DSRC HAJ95
+\lex 7anh-juy. '@y
+\_no 00084
+\PSH [7anhjuyy@y-]
+\UND 7anh-juy.7@y
+\MB BOCA, comprar, SUF
+\GRAM vt
+\SCI
+\USE
+\SPG comprar algo para alguien
+\ENG to buy something for someone
+\SLGR
+\EXU
+\XSP
+\XEN
+\ROOT juy
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 08/Jan/96
+\_no 00085
+\LG MIG
+\PSH [7anhj@7]
+\UND 7anh-j@7
+\VAR
+\USE directional
+\SPG ontal x
+\ENG over to where x is
+\SLGR
+\EXU n@k-i parke+7anhja
+\XPSH [N@ki parke7anhj@.]
+\XSP Vamos al parque.
+\XEN Let's go to the square.
+\SYN
+\SEMF
+\ROOT
+ZOH004R0011001.txt

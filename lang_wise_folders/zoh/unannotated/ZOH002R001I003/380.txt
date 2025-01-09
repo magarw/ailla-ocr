@@ -1,0 +1,25 @@
+14.2. Word order and the presentation of information
+Core arguments are marked on the verb in MIG Zoque (section 6.1), so
+noun phrases that cross-reference these arguments are syntactically optional.
+(Henceforth I will refer to such noun phrases as 'overt NPs'.) Thus, many
+clauses in a Zoque text have no overt NPs whatsoever, and many more have
+fewer than the valency of the verb allows (only the object of a transitive verb,
+for example). When overt NPs do appear, their order with respect to one
+another and to the verb is free, except that when there is a possibility of
+confusion the subject must precede the object (section 6.4).
+In this section, I will give some statistics based on the four texts
+described above, identifying the types of clauses and numbers of arguments
+that appear in various possible orders. I will also examine the presentation of
+new and given information in each of the four texts more closely, discussing
+the patterns of usage that appear.
+14.2.1. Clauses by type
+For the purposes of this chapter | identified four types of clauses:
+transitive, intransitive, existential, and speaking. I lump verbs that allow two or
+more arguments together into the transitive class, since there are very rarely
+more than two overt NPs in any clause. Intransitive verbs allow one argument.
+Existential clauses in MIG Zoque have no verb on which to mark arguments, so
+the subject and predicate NPs appear overtly by necessity. They do not
+therefore figure in to calculations of word order or number of overt arguments.
+The speaking verbs nəm-, 'decir' and nəm.hay- (decir.APPL), 'decir á
+alguien', are singled out because their behavior is somewhat different from that
+372

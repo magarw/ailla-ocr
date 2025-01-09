@@ -1,0 +1,63 @@
+\USE
+\SPG hacer calor
+\ENG to be hot
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 top
+\RTGR 1 12
+\ROOT 2 tz@k
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tow.a7
+\_no 00310
+\LG MIG
+\PHO [towa7]
+\UND tonh.A7
+\MB ampollarse, NOM2
+\VAR
+\GRAM SV
+\SPG ampolla
+\ENG blister
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT tonh
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex toy.a7
+\_no 00311
+\LG MIG
+\PSH [toya7]
+\UND toy.A7
+\MB doler, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG enfermedad
+\ENG sickness
+\EXU bayun toy.A7
+\XPSH [bayun toya7]
+\XSP muy enferma
+\XEN very sick
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT toy
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+ZOH001R0611004.txt
+Page 124

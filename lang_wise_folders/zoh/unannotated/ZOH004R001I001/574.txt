@@ -1,0 +1,63 @@
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG refregar ban~ando
+\ENG to scrub while bathing
+\SPL ko.jin.7oy
+\SLGR ANTIP
+\SPL ko.jin.7@m
+\SLGR PASS
+\EXU tzinh-pa 7@y+ yak.ko.jin-w@_7@y+win
+\XPSH [Tzinhpay yakkojinn@y win.]
+\XSP Se esta* ban~ando, lo esta*n refregando.
+\XEN while bathing, she got them to scrub her.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jin
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 29/Jan/96
+\lex ko.ji7p
+\_no 01315
+\LG MIG
+\PSH [koji7p-]
+\UND ko.ji7p
+\MB OTRO, mover_con_palo
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG trompear su compan~ero
+\ENG to push at your fellow pig with your snout
+SPL
+\SLGR
+\EXU 7@y+ ko.ji7p-w@ 7@y+ 7awin yoya
+\XPSH [7@y koji7pp@y 7awin yoya.]
+\XSP Trompeo* su compan~ero marrano.
+\XEN She pushed her fellow pig with her snout.
+\SYN ni.ji7p
+\SEMF
+\ETYM
+\ETL
+\ROOT ji7p
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 29/Jan/96
+ZOH004R0011001.txt
+\lex koj. kuy7
+\_no 01316
+\LG MIG
+\PSH [koj kuy7]
+\UND koj. kuy7
+\MB encajar, INSTR1
+\VAR
+\GRAM instrl
+\SCI
+\USE
+\SPG una estaca puntudo
+Page 574

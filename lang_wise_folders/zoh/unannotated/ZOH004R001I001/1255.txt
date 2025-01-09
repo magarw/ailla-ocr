@@ -1,0 +1,65 @@
+\SCI
+\USE
+\SPG aplanar escarbandolo
+\ENG to plane something by scraping it
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT taj
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tajwin7
+\_no 02916
+\LG MIG
+\PSH
+\UND tajwin7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG sardina
+\ENG a type of fish
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 10/Nov/94
+\lex tak [1]
+\_no 02917
+\LG Mig
+\PSH
+\UND tak
+\MB
+\VAR
+\GRAM vi
+LF: koke
+\SCI
+\USE
+\SPG 11over
+\ENG to rain
+\EXU 1 wen (u)
+tak-w@
+\XPSH 1 [wenu takk@.]
+\XSP 1 Lluvio* mucho/fuertemente.
+\XEN 1 It rained hard.
+\EXU 2 ban tak-pa tuj
+\XPSH 2 [Ban takpa tuj.]
+\XSP 2 Llueve mucho.
+ZOH004R0011001.txt
+\XEN 2 It's raining hard.
+\EXU 3 tak-w@ (bi) tuj
+\XPSH 3 [Takk@ bi tuj.]
+Page 1255

@@ -1,0 +1,22 @@
+A Grammar of San Miguel Chimalapa Zoque
+Publication No.__.
+Heidi Anna Johnson, Ph.D.
+The University of Texas at Austin, 2000
+Supervisor: Anthony C. Woodbury
+The variety of Zoque described in this grammar is spoken in San Miguel
+Chimalapa, a small town in southern Oaxaca, México. The town has some 5,000
+citizens; there are perhaps 1,800 speakers of Zoque, all over the age of forty.
+The language is thus moribund. Given the paucity of linguistic work on this and
+other members of the Mixe-Zoque language family, my goal in writing this
+grammar was to provide as comprehensive a description as possible.
+Grammatical terminology is drawn from the functionalist theory of Role and
+Reference Grammar. Zoque is an ergative, agglutinating, polysynthetic
+language. It is a head-marking language. Core NPs are not case-marked;
+postpositions mark non-core NPs. Word order amongst NPs is free, except that
+the actor NP must precede the undergoer NP if it is possible to confuse them (if
+they are both human, for example). The bulk of this grammar is concerned with
+the description of verbal morphology. In addition to the pronominal agreement
+markers, agreement with core arguments can be marked by the plural suffix or
+by the valency-increasing affixes - the causative and the applicative. Valency
+reducing affixes are the passive, the antipassive, and the impersonal. There is a
+viii

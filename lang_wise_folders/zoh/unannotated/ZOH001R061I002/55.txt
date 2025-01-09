@@ -1,0 +1,62 @@
+\ASP activity
+\ARG patient
+\NOM pa'. kuy7
+\NOM naanh
+\RTGR T3
+\POS da pajayy@n 7uki
+lexicon
+\MID Y
+\UNDO
+\CLZ
+\CMTS
+\lex pekx
+\_no 00221
+\SPG pegar con la ala; pegar con palito no bien cortada una rama te
+chicotea
+\ENG to beat with the wing; to hit with a badly cut stick - a branch slashes
+you
+SEMF hit
+\ASP semelfactive
+\ARG instrument
+\NOM pekx.naanh
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex pen [1¹]
+\_no 00222
+\SPG plantar; sembrar
+\ENG to plant; to sow
+\SEMF plant, farm
+\ASP activity
+\ARG
+\NOM
+\RTGR T1
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex pen [2]
+\_no 00223
+ZOH001R0611002.txt
+\SPG apretar con la mano; darle apreto*n
+\ENG to squeeze with the hand; to give something a little squeeze
+\SEMF hand
+\ASP semelfactive
+\ARG instrument
+\NOM pen.naanh, pen. 'oy.kuy7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex pet
+\_no 00224
+\SPG barrer
+\ENG to sweep
+\SEMF clean
+Page 55

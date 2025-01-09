@@ -1,0 +1,62 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yoj
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 06/Feb/96
+\lex jwanega nip.i
+\_no 00108
+\LG MIG
+\PSH [jwanega nipi]
+\UND_jwanega=nip. E
+\MB fanega, sembrar, NOM7
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG fanega de sembradura; fanega de siembra
+\ENG a Spanish bushel of seed corn
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT nip
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 06/Feb/96
+\lex ja.i
+\_no 00109
+\LG MIG
+\PHO [j@i]
+\UND jay.E
+\MB 11orar, NOM7
+\VAR
+\GRAM pcp
+\SPG alguien que esta* llorando
+\ENG someone who is crying
+\EXU 7@n+ matonh-tam-pa tum ja.i
+\XPSH [7@n matonhtampa tum jai.]
+\XSP Escuchamos una llorada.
+\XEN we heard someone crying.
+\SYN
+\ROOT jay
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex j@m=tzik.i7
+\_no 00110
+ZOH001R0611004.txt
+\LG MIG
+\PSH [j@mtziki 7]
+Page 45

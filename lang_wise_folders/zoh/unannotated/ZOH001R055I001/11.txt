@@ -1,0 +1,76 @@
+\egl truth next_day festival-appear-INDEF-COM
+\zoq Naxe, joypi7t x@nhkejan@mm@.
+\fts De verdad,
+el otro di*a amanecio*.
+\fte In fact, the next day dawned.
+\com
+\idx vseq_cmp
+\ref ZOH001R055 045
+\_no 00046
+\tx n@kxukk@
+j@ytijj@nanh
+\mb n@k -xuk-w@ jaytija7-jananh
+\sg1 irse-3PL-COM
+Juchitan-DIR1
+\egl go -3PL-COM Juchitan-DIR1
+\zoq Nakxukk@ J@ytijj@nanh.
+\fts se fueron para Juchitan.
+\fte They went to Juchitan.
+\com
+\idx
+\ref ZOH001R055 046
+\_no 00047
+\tx ye7chukk@
+\mb
+gaji
+ye7tz -xuk-w@ka -ji7
+\sgl 11egar-3PL-COM DCT3-LOC1
+\egl arrive-3PL-COM DCT3-LOC1
+\zoq Ye7chukk@_gaji.
+\fts Llego* alla*.
+\fte They arrived there.
+\com
+\idx
+\ref ZOH001R055 047
+\_no 00048
+\tx 7ay j@xp@kk@
+\mb 7ay jax -pak
+\sg1 3E
+\egl 3E BACK -get
+-w@ 7@y
+ATRAS-agarrar-COM 3E
+\com
+\idx
+ZOH001R0551001.txt
+7@y jamatin 7@y tziw@
+jamatin 7@y tzi7-w@
+dinero 3E dar -COM
+\zoq 7@y j@xp@kk@ 7ay jamatin, 7@y tziw@.
+\fts Saco* su dinero y le dio*.
+\fte She took out the money and gave it to him.
+\com
+\idx
+\ref ZOH001R055 049
+\_no 00050
+\tx dondju
+-COM 3E money 3E give-COM
+\ref ZOH001R055 048
+\_no 00049
+jerma*n n@kpa
+\tx 7entonse n@mpa
+ga7xe mix 7oktzakk@yy@
+\mb 7entonses n@m
+-tzak -7@y-w@
+\sg1 entonces decir-INC Germa*n irse-INC DCT3-SIM 1>2 ABAJO-dejar-SUF-dINC
+\egl then
+say -INC Germa*n go -INC DCT3-SIM 1>2 DOWN -leave-SUF-dINC
+-ра
+jerma*n n@k -pa
+ka -7xe mix
+\zoq 7entonse n@mpa Jerma*n, "N@kpa ga7xe mix 7oktzakk@yy@
+\fts Entonces dice German*n, "Te voy a acompan~ar
+\fte So Germa*n says, "So I'll go with you
+m p@kpa
+7ok
+bi karru, termina* 1
+Page 11

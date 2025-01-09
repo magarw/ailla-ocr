@@ -1,0 +1,81 @@
+Hace sol.
+te ay yok k'u
+(te) ay-ø
+y-ok k'u
+(muy) exist-3B 3A-pie sol
+171. Está lloviendo.
+lan yak'an nhab'
+lan y-ak-an
+nhab'
+prog 3A-dar-prog lluvia
+120
+wan yem nhab'
+wan y-em
+nhab'
+prog 3A-bajar lluvia
+172. Va a llover.
+olyak' nhab'
+ol-ø-y-ak'
+nhab'
+fut-3B-3A-dar lluvia
+173. ¿Con qué se hacen las tortillas?
+¿tas b'aj tzb'o'chaj ixim wa'il?
+tas b'aj tz-ø-b'o'-chaj
+ixim wa'il
+qué con pres-3B-hacer-psv Cmaíz tortillas
+¿tas tzaj sb'o' ixim wa'il?
+tas tz-Ø-aj
+qué pres-3B-exist 3A-hacer Cmaíz tortillas
+s-b'o' ixim wa'il
+174. Las tortillas se hacen con nixtamal.
+a ixim wa'il tzb'o'chaj ixim ch'ix t'a ixim
+a ixim wa'il tz-ø-b'o'-chaj
+ixim ch'ix
+t'a
+ixim
+top Cmaíz tortillas pres-3B-hacer-psv Cmaíz nixtamal prep Cmaíz
+a ixim wa'il chi' t'a ixim b'uch tzb'o'chaj ixim
+a ixim wa'il chi' t'a ixim b'uch
+tz-ø-b'o'-chaj ixim
+top Cmaíz tortilla dem prep Cmaíz nixtamal pres-3B-hacer-psv Cmaíz
+175. ¿Cómo se va a tu pueblo?
+¿tas tzyak'an achonhab'?
+tas tz-Ø-y-ak'-kan
+a-chonhab'
+qué pres-3B-3A-dar-DIR. quedarse 2A-pueblo
+¿tas pñak ab'at t'a achonhab'?
+tas ol-ø-aj
+a-b'at t'a a-chonhab'
+qué fut-3A-exist 2A-ir prep 2A-pueblo
+176. ¿Dónde venden azúcar?
+¿b'aj til tzchonhchaj te' asukal?
+(b')aj_til tz-ø-chonh-chaj
+dónde
+te'
+asukal
+pres-3B-vender-psv Cmadera azúcar
+b’aj til tzchonhax nok’ asukal
+b'aj_til tz-ø-chonh-nax
+nok'
+asukal
+dónde pres-3B-vender-psv Canimal azúcar
+177. Allí venden muchas cosas.
+a t'a schonhchaj masanil tastak
+a t'a tz-ø-chonh-chaj
+masan-il tastak
+top prep pres-3B-vender-psv todo.abs cosas
+a t'a chi' tzijtum tas tzchonhax
+a t'a chi' tzijtum tas tz-Ø-chonh-nax/chaj/ji-i
+top prep dem mucho qué pres-3B-vender-psv-vti
+178. Nombraron a Juan presidente municipal.
+t'a
+ixyamchaj waj Xun t'a yajalinal t'a sjolomal chonhab'
+ix-ø-yam-chaj waj Xun t'a y-ajalin-al
+pas-3B-alcanzar-psv Cmasc Juan prep 3A-dueño-gen prep
+s-jolom-al chonhab'
+3A-cabeza-gen pueblo
+ixak'naxoch winhaj Xun alkalil
+ix-ø-ak'-nax-och
+winhaj Xun alkal-il
+pas-3B-dar-psv-DIR.adentro Cmasc Juan alcalde-abs
+121

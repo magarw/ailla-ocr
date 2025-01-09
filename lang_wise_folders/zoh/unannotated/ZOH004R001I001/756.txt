@@ -1,0 +1,63 @@
+ZOH004R0011001.txt
+\XSP El gato salio* corriendo abajo de un a*rbol.
+\XEN The cat ran out from under a bush.
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex k@7t
+\_no 01748
+\LG MIG
+\PSH
+\UND k@7t
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG moler para tortillas
+\ENG to grind for tortillas
+\EXU 1 7@n+ k@7t-wa bi pitz.i para d@n tzanh-pa bi 7an.e
+\XPSH 1 [7@n k@7tt@ bi pitzi para d@n tzanhpa bi 7ane.]
+\XSP 1 Remoli* el nixtamal para que haga las tortillas.
+\XEN 1 I reground the corn so I could make the tortillas.
+\EXU 2 k@7t.'oy-w@ bi yomaa7
+\XPSH 2 [K@7ttoyy@ bi yoma*7.]
+\XSP 2 Remolio* la mujer.
+\XEN 2 The woman was regrinding corn.
+\SYN
+\SEMF cook, corn
+\ASP activity
+\ARG patient
+\NOM k@'t.17
+\SUB j@x-k@7t, ko.k@7t, yuk.k@7t
+\ETYM
+\ETL
+\ROOT k@7t
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex k@7t_tuwa.'anh=poonh
+\_no 01749
+\LG MIG
+\PSH [k@7t- tuwanhpo*nh]
+\UND k@7t tuwa. 7anh-po. 7anh
+\MB moler, X, NOM8, X, NOM8
+\VAR
+\GRAM vt+nums
+\SCI
+\USE
+\SPG moler por tercera vez
+\ENG to grind for the third time
+\EXU 7@y+ k@7t-w@ tuwa.'anh poonh
+\XPSH [7@y_k@7tt@ tuwanh ponh.]
+\XSP Lo molio por la tercera vez.
+\XEN She ground it for the third time.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT k@7t
+Page 756

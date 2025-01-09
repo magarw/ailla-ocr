@@ -1,0 +1,81 @@
+\sg1 GSM: agua -LOC2
+\eg1 GSM: water-LOC2
+\zoq GSM: N@jo.
+\fts GSM: En el agua.
+\fte GSM: In the water.
+\com
+\idx
+\ref ZOH001R036 922
+\_no 00905
+\tx
+OSM: 7@m yumpa
+7@m yum
+\mb_ OSM
+\sg1 OSM: 2E
+\eg1 OSM: 2E
+-pa
+hervir (se) - INC
+boil
+- INC
+\zoq OSM: 7@m yumpa.
+\fts OSM: Lo hierves.
+\fte OSM: You boil it.
+\com
+\idx
+\ref ZOH001R036 923
+\_no 00906
+\tx 7i y@knuk@
+\mb
+7i
+yak
+-nuk
+INSTR2-agarrar-IMPV
+-A7
+ZOH001R0361001.txt
+\sg] y
+\egl and INSTR2-grab -IMPV one pill
+\ref ZOH001R036 925
+\_no 00908
+tum pastiya kajwe
+tum pastiya
+kajwe
+uno pastilla cafe
+\zoq 7i y@knuk@ tum pastiya kajwe Zespirina,
+\fts Echale una pastilla cafe* espirina,
+\fte And throw in a pill of coffee aspirin,
+\com
+\idx
+\ref ZOH001R036 924
+\_no 00907
+\tx pa y 7ukpa
+\mb para 7@y 7uk
+-pa bi jom
+\sg1 para 3E tomar-INC DEF
+\egl for 3E drink-INC DEF fence -ANTIP-COM-REL
+\ref ZOH001R036 926
+\_no 00909
+Zespirina
+7espirina
+aspirina
+coffee aspirin
+bi jommoyy@**
+\zoq pay 7ukpa bi jommoyy@*.
+\fts para que toma aquella que esta* embarazada.
+\fte so that the pregnant one drinks it.
+\com
+\idx
+-7oy -w@ -v7k
+cercar-ANTIP-COM-REL
+\tx ya y
+t@7am
+7une
+bi7t
+\mb ya 7@y t@7 -A -7am 7une7 bi7t
+\sg1 NEG 3E querer-nINC-YA nin~o/a SI
+\eg1 NEG 3E want -NINC-NOW child IF
+\zoq Yay t@7am 7une bi7t,
+\fts si ya no quiere criatura,
+\fte If she doesn't want a baby now,
+\com
+\idx
+Page 196

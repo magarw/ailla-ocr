@@ -1,0 +1,80 @@
+\_no 00943
+kom
+\tx
+ga
+\mb komo ka -7
+\sg1 como DCT3-NOM1
+tierno-TOD
+\egl like DCT3-NOM1 tender-STILL
+\zoq Kom ga yawanam.
+fts Como eso esta* tiernito todavia.
+\fte Like that one that's still tender.
+\com
+\idx
+\ref ZOH001R036 961
+\_no 00944
+\tx yampa n@taja
+\mb yampa n@7
+-X-jay -A
+\sg1 nPERF agua -X-APPL-NINC
+\egl nPERF water-X-APPL-NINC
+yawanam
+yawa7 -nam7
+\zoq Yampa n@taja.
+\fts No sea bautizado.
+\fte It hasn't been baptized.
+\com don't know that root
+\idx
+\ref ZOH001R036 962
+\_no 00945
+\tx yakp@kkoypa
+\mb
+yak -p@k
+\sg1
+\eg1 CAUS-get
+bi
+nena xawa
+-7oy -pa
+bi nena7 xawa
+CAUS-agarrar-ANTIP-INC DEF malo aire
+-ANTIP-INC DEF bad wind
+\zoq Yakp@kkoypa bi nena xawa.
+\fts Le pega el mal aire.
+\fte The bad air gets it.
+\com
+\idx
+\com
+\idx
+ZOH001R0361001.txt
+\ref ZOH001R036 963
+\_no 00946
+\tx kay
+weje
+yaknukkoba
+\mb ka -y wej -E7 yak -nuk
+\sg1 DCT3-TMP gritar-NOM3
+\eg1 DCT3-TMP shout -NOM3 CAUS-grab
+\zoq Kay weje yaknukkoba.
+\fts Ya empieza a gritar.
+\fte Then it catches a shout.
+\ref ZOH001R036 964
+\_no 00947
+\tx 7i gaji
+\mb 7i
+-7oy -pa
+CAUS-agarrar-ANTIP-INC
+-ANTIP-INC
+n@mmoba*m
+7@m winnomwakk@
+ka -ji7 n@m-7oy -pa -7am 7@m win -7pm
+\sg] y
+DCT3-LOC1 DO -ANTIP-INC-YA 2E CARA-echar_humo-vaciar-dINC
+\egl and DCT3-LOC1 DO -ANTIP-INC-NOW 2E FACE-emit_smoke-empty -DINC
+\zoq 7i gaji n@mmoba*m 7@m winnomwakk@.
+\fts y de ahi* ya lo puedes ahumar.
+\fte And there now you can cense it out.
+\com
+\idx
+Page 204
+-wak
+-wa

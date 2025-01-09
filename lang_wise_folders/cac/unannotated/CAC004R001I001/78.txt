@@ -1,0 +1,103 @@
+No se cansa.
+max sk'umwi laj nok'
+ma-x
+s-k'umw-i
+laj nok'
+neg-pres 3A-cansarse-vti neg Canimal
+El caballo corre mucho pero se cansa pronto.
+a nok' chej te jelan sb'ey nok' pero elanchamel sk'umwi nok'
+a
+nok'
+chej te jelan s-b'ey
+nok'
+top Canimal caballo muy mucho 3A-caminar Canimal
+nok'
+pero elanchamel s-k'umw-i
+pero rápido
+3A-cansarse-vti Canimal
+268. Ese pájaro no puede volar.
+158
+a jun no' much chi' max yal laj sjenhwi nok'
+a
+jun no'
+top uno Canimal pájaro ese neg-pres 3B-poder neg 3A-volar-vti Canimal
+much chi' ma-x Ø-yal laj s-jenhw-i nok'
+269. No puedo subirme al árbol.
+max yal laj ink'e sk'ab' te' te'
+ma-x
+te'
+Ø-yal laj in-k'e s-k'ab' te'
+neg-pres 3B-poder neg 1A-subir 3A-rama Cmadera árbol
+max yal laj ink'e t'a sk'ab' te' chi'
+ma-x
+ø-yal laj in-k'e t'a s-k'ab' te' chi'
+neg-pres 3B-poder neg 1A-subir prep 3A-rama árbol dem
+270. No pude entrar en la casa porque la puerta estaba cerrada.
+maj yal laj woch t'a yol te' pat tik yuj to a te' ti' pat makan te'
+ma-j ø-yal laj w-och
+t'a y-ol
+pat tik
+neg-pas 3B-poder neg 1A-entrar prep 3A-dentro Cmadera casa dem
+y-oj_to a te'
+pat mak-an te'
+porque top Cmadera boca casa cerrar-psc Cmadera
+te'
+ti'
+t'a
+te'
+maj yal laj woch t'a te' pat chi' yuj to makan te' puerta
+ma-j Ø-yal laj w-och
+pat chi'
+neg-pas 3B-poder neg 1A-entrar prep Cmadera casa dem
+y-uj_to_mak-an te'
+pwerta
+porque cerrar-psc Cmadera puerta
+t'a
+te'
+pat chi'
+maj yal laj woch t'a te' pat chi' yuj to te' puerta makan
+ma-j Ø-yal laj w-och
+neg-pas 3B-poder neg 1A-entrar prep Cmadera casa dem
+y-uj_to a
+pwerta mak-an
+porque top Cmadera puerta cerrar-psc
+te'
+271. Se puede cruzar el río cuando tiene poca agua.
+syalek' t'a a' niwan chi' ta to kenhej a’
+tz-ø-yal-ek'
+t'a
+a'
+niwan chi' ta_to ken-nhej
+pres-3B-poder-DIR.pasar prep Cagua grande dem cond poco-sólo
+a
+Cagua
+syalek' t'a a' niwan chi' ta to jab'nhej
+tz-ø-yal-ek'
+t'a
+a'
+niwan chi' ta to jab'-nhej
+pres-3B-poder-DIR.pasar prep Cagua grande dem cond poco-sólo
+a'
+Cagua
+272. Sé escribir, pero no puedo porque no tengo lápiz.
+syal intz'ib'ani, palta max yal laj yuj to malaj inlapis
+tz-ø-yal Ø-in-tz'ib'-an-i, palta ma-x
+pres-3B-poder 3B-1A-escribir-sub-vti pero neg-pres
+Ø-yal laj y_oj_to malaj in-lapis
+3B-poder neg porque neg 1A-lápiz
+wojtak intz'ib'ani, palta max yal laj yuj to malaj inlapis
+Ø-w-ojtak Ø-in-tz'ib'-an-i
+palta ma-x
+3B-1A-saber 3B-1A-escribir-sub-vti pero neg-pres
+Ø-yal laj y-oj_to malaj in-lapis
+3B-poder neg porque neg 1A-lápiz
+pero ma-x
+wojtak tzintz'ib'ani pero max yal laj wu'uj yuj to malaj inlapis
+Ø-w-ojtak tz-ø-in-tz'ib'-an-i
+Ø-yal
+3B-1A-saber pres-3B-1A-escribir-sub-vti pero neg-pres 3B-poder
+laj_w-u'uj y-uj_to malaj in-lapis
+neg
+1A-SR porque neg
+1A-lápiz
+159

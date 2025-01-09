@@ -1,0 +1,85 @@
+ZOH001R0111001.txt
+\egl what truth house-SUF-3PL-COM mountains-DIR3
+\zoq Ti naxe t@kk@xukk@ tzamkuyjonanh.
+\fts De verdad se metieron para la montan~a.
+\fte In fact, they entered into the jungle.
+\com
+\idx
+\ref ZOH001R011 032
+\_no 00033
+\tx 7@y pa7chukk@
+\mb
+7@y
+pa7t
+bi tzawi d@kka
+-xuk-w@ bi tzawi7 d@kkay
+\sg1 3E encontrar-3PL-COM DEF mono NPL
+\egl 3E find
+-3PL-COM DEF monkey NPL
+\zoq 7@y pa7chukk@ bi tzawid@kka.
+\fts Le encontraron los changos.
+fte They found the monkeys.
+\com
+\idx
+\ref ZOH001R011 033
+\_no 00034
+ban tzawi 7i
+tza-
+\tx 7ora mi tenyente teji
+\mb 7ora mi tenyente teji
+deji
+te -ji7 bayun tzawi7 7i
+DCT2-LOC1 mucho mono y
+tza-
+\sg1 ahora 3>2 teniente hay
+chang-
+\eg1 now 3>2 lieutenant there is DCT2-LOC1 a_lot monkey and mon-
+\tx 7oktzawi
+7un7@yy@*7
+\mb 7oko
+\sg1 vieja
+-tzawi7 7une7 -7@y -w@ -v7k
+nin~o/a-VERS2-COM-REL
+\egl old woman-monkey child' -VERS2-COM-REL
+-mono
+\zoq "7ora, mi tenyente, teji deji ban tzawi, 7i tza- 7oktzawi 7un7@yy@*7.
+\fts "Ahora, mi teniente, ahi* esta*n los changos y changas tiene cria.
+\fte "Now, my lieutenant, there are lots of monkeys and mon- mother monkeys
+with babies.
+\com
+\idx sp
+\ref ZOH001R011 034
+\_no 00035
+t@dampa
+\tx si m
+bi7t tzidam@
+\mb si 7@m_t@7
+-tam -pa
+ded@ 7oktzawi
+bi7t tzi7 -tam -A7 te -d@ 7oko
+\sg1 si 2E querer-1/2PL-INC SI
+pegar-1/2PL-IMPV DCT2-DEM vieja
+\egl if 2E want -1/2PL-INC IF hit -1/2PL-IMPV DCT2-DEM old_woman-monkey
+\zoq Sim t@dampa bi7t, ṭzidam@_ ded@ 7oktzawi."
+\fts Si quieren Uds.,
+tirenle la changa.'
+\fte If you want them, shoot the mother monkeys."
+\com
+\idx
+\ref ZOH001R011 035
+\_no 00036
+bi soldao d@kka
+\tx 7entonses mi tenyente 7@y 7ordentz@kk@
+\mb entonces mi tenyente 7@y 7ordenar-tz@k -w@ bi soldado d@kkay
+\sg1 entonces 3>2 teniente 3E ordenar -hacer-COM DEF soldado NPL
+\egl then
+3>2 lieutenant 3E order -do -COM DEF soldier NPL
+\tx 7ora tujtam@
+\mb 7ora
+tuj
+\sg1 ahora
+- tam -A7
+tirar-1/2PL-IMPV
+-tzawi7
+-mono
+Page 8

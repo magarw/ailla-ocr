@@ -1,0 +1,63 @@
+\lex 7une7 y@k.monh
+\_no 00051
+\LG MIG
+\PSH [7une y@kmonh]
+\UND 7une7 y@k.monh.0
+\MB nin~o/a, INSTR2, dormir, NOM6
+\VAR
+\GRAM s (m) sv0
+\SCI
+\USE
+\SPG cuna
+\ENG cradle
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT monh
+\RTGR P, (12)
+\DSRC HAJ94
+\CMTS
+\date 02/Nov/94
+\lex 7utz.i
+\_no 00052
+\LG MIG
+\PSH [7utzi]
+\UND 7utz.E
+\MB medir, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG medido
+\ENG measured
+\SPL
+\SLGR
+\EXU 7utz.i 7@y+ tzi-wa
+\XPSH [7utziy tziw@.]
+\XSP Medido se lo dio*
+\XEN He gave it to her measured.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7utz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 09/Jan/96
+\lex 7@j@j.E7
+\_no 00053
+\LG MIG
+\PSH 7@j@ji7
+\UND 7@jaj. E7
+\MB quejarse, NOM7
+\VAR
+\GRAM PCP
+\SPG quejido
+\ENG whimper
+ZOH001R0611004.txt
+Page 22

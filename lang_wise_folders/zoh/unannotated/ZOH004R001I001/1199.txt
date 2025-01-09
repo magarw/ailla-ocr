@@ -1,0 +1,64 @@
+\ENG brush
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pukx
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 08/Feb/96
+\lex puk@
+\_no 02786
+\LG MIG
+\PSH
+\UND puk@
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG achiote
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+LF: kuy
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex puk@ kuy
+\_no 02787
+\LG MIG
+\PSH
+\UND puka kuy
+\MB
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG a*rbol de achiote
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+ZOH004R0011001.txt
+Page 1199

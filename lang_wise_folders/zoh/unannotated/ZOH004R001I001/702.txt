@@ -1,0 +1,64 @@
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG clase de aguacate
+\ENG type of avocado
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 10/Nov/94
+\lex kuy=t@m nax
+\_no 01622
+\LG MIG
+\PSH [kuyt@m nax]
+\UND kuy=t@m nax
+\MB palo, fruta, tierra
+\VAR
+\GRAM ssms
+\SCI
+\USE
+\SPG aguacatal
+\ENG avocado orchard
+\EXU
+\XSP
+\XEN
+\SYN
+LF: kuy
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex kuy-tzetz
+\_no 01623
+\LG MIG
+\PSH [kuytzetz-]
+\UND kuy=tzetz
+\MB palo, labrar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG labrar madera
+\ENG to work wood
+EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzetz
+\RTGR T3
+ZOH004R0011001.txt
+Page 702

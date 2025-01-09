@@ -1,0 +1,64 @@
+\PSH [7anhnhekwak-]
+\UND 7anh=7ek=wak
+\MB BOCA, pizcar_mazorca, *vaciar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pizcar por un pedazo
+\ENG to harvest by the piece
+\EXU 7@y+ 7anh='ek=wak-w@ pa p@7t-pa
+\XPSH [7@y 7anhnhekwakk@ pa p@7tpa.]
+\XSP Pizco* en donde va pasando.
+\XEN He picked corn where he was passing.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7ek
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 09/Oct/96
+\lex 7anh='ek. '@y
+\_no 00196
+\LG MIG
+\PSH [7anhnhekk@y-]
+\UND 7anh=7ek.7@y
+\MB BOCA, pizcar_mazorca, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+"
+\SPG pizcar otro poquito dema*s para llenar las bestias, por ejemplo
+\ENG to pick a little more, to fill up the animals, for example
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 7ek
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 09/Oct/96
+ZOH004R0011001.txt
+\lex 7anh='ex
+\_no 00197
+\LG MIG
+\PSH [7anhnhex-]
+\UND 7anh=7ex
+\MB BOCA, encajar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG estar medio tapando
+\ENG to be half-stoppered
+\SPL
+Page 83

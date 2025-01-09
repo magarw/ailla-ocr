@@ -1,0 +1,62 @@
+\SYN
+\ROOT wij
+\RTGR P (IX)
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex wij.kuy7
+\_no 03663
+\LG MIG
+\PHO
+\UND
+\MB
+\VAR
+\GRAM
+\SPG zambutida
+\ENG dive
+\EX tzi'-A7 tum wij.kuy7
+\XPSH [Tzi tum wijkuy7!]
+\XSP Date una zambutida!
+\XEN Make a dive!
+\SYN
+\ROOT wij
+\RTGR 11
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex wij.naanh
+\_no 03664
+\LG MIG
+\PHO [wijna*nh]
+\UND wij.naanh
+\MB zambutirse, MED1
+\VAR
+\GRAM meas
+\SPG zambutida
+\ENG dive
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT wij
+\RTGR P (IX)
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex wiki7
+\_no 03665
+\LG MIG
+\PSH
+\UND wiki 7
+\MB
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG dedo
+\ENG finger
+\EXU
+\XSP
+\XEN
+ZOH004R0011001.txt
+Page 1575

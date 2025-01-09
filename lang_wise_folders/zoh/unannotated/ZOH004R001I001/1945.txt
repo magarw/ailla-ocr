@@ -1,0 +1,63 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH/OK: TK; ANALYZE
+\date 26/Jun/96
+\lex {yakk@}
+\_no 04529
+LG MIG
+\PSH
+\UND yakk@
+\MB VOL
+\VAR
+\USE volitive pronoun, used with imperative, optative and hortative
+moods
+\GRAM pron
+SPG
+\ENG
+\SPL
+\SLGR
+\EXU
+\XPSH
+\XSP
+\XEN
+\EXU 2 tz@k-ta.anh yakk@ 7@y+ 7amma-A7 +go07 dyos ke
+ney-win d@+ yox-tam-pa
+\XPSH 2 [Tz@kta*nh, yakk@y 7amma go7 Dyos ke neywin da
+yoxtampa.]
+XSP 2 vamos a hacerlo, para que lo mire Dios que nosotros
+trabajamos.
+\XEN 2 Let's do it, so God will see that we work.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date 03/Jan/80
+ZOH004R0011001.txt
+\lex {yak-ti}
+\_no 04530
+\LG MIG
+\PSH [yakti]
+\UND yak-ti
+\MB NEG, WHAT
+\VAR
+\GRAM pron
+\SCI
+\USE
+\SPG nada
+\ENG nothing
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+Page 1945

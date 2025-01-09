@@ -1,0 +1,62 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT min
+\RTGR IX
+\DSRC TK94
+\CMTS
+\date 14/Jun/95
+\lex komi' kuy
+\_no 01376
+\LG MIG
+\PSH [komi kuy]
+\UND komi 7 kuy
+\MB grande, palo
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG arbol grande
+\ENG big tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex komi' m@a7
+\_no 01377
+\LG MIG
+\PSH [komi m@a7]
+\UND komi 7 m@a7
+\MB grande, venado
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG venada real
+\ENG a type of deer
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex komi' pak mo7kxi7
+\_no 01378
+\LG MIG
+\PSH [komi pak mo7kxi7]
+ZOH004R0011001.txt
+Page 600

@@ -1,0 +1,63 @@
+\CMTS
+\date 03/Jan/80
+\lex toy
+\_no 03042
+\LG MIG
+\PSH
+\UND toy
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG 1 doler, "duele"
+\SPG 2 picar chile
+\ENG 1 to hurt
+\ENG 2 for chili to burn
+\SPL yak.toy
+\SLGR CAUS
+\SLGL hacer doler "hablaron mal de uno y lo sintio*" // to cause pain
+"they speak ill of someone and that person feels it"
+\EXU da toy.jay-pa 7@n+ kopak
+\XPSH [D@ toyjaban kopak.]
+\XSP Me duele mi cabeza.
+\XEN My head hurts.
+\SYN
+\SEMF body
+\ASP state
+\ARG
+\NOM toy.kuy7, toy.a7
+\SUB 7ix=7anh.toy, ko. toy
+\ETYM
+\ETL
+\ROOT toy
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex toy.a7
+\_no 03043
+\LG MIG
+\PSH [toya7]
+\UND toy.A7
+\MB doler, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG enfermedad
+\ENG sickness
+\EXU bayun toy.A7
+\XPSH [bayun toya7]
+\XSP muy enferma
+\XEN very sick
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT toy
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+Page 1310

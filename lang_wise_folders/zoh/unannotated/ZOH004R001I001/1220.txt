@@ -1,0 +1,62 @@
+\DSRC TK94
+\CMTS also serves as causative of tij-
+\date 28/Jan/96
+\lex p@k=tzonh
+\_no 02832
+\LG MIG
+\PSH [p@ktzonh-]
+\UND p@k=tzonh
+\MB agarrar, unir
+\VAR
+\GRAM vt+?dir
+\SCI
+\USE
+\SPG recibir
+\ENG to receive
+\EXU 7@y+ p@k=tzonh-w@ 7utz. E
+\XPSH [7@y p@ktzonhnh@ 7utzi.]
+\XSP Lo recibio* medido.
+\XEN He received it (already) measured.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 p@k
+\RTGR 1 T3
+\ROOT 2 tzonh
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\DATE 14/Aug/02
+\lex p@k=tz@m
+\_no 02833
+\LG MIG
+\PSH [p@ktz@m-]
+\UND p@k=tz@m
+\MB pluma, cargar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG cargar plumas
+\ENG to carry feathers
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@m
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS CK-PH, CK-GR ok
+\date 21/Jun/95
+ZOH004R0011001.txt
+\lex p@k=wanak
+\_no 02834
+\LG MIG
+\PSH [p@kwanak-]
+\UND p@k=wanak
+Page 1220

@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [kot@nh-]
+\UND ko.t@nh
+\MB OTRO, machetear
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG desramar
+\ENG to prune
+\EXU 7@y+ ko.t@nh-wa kuy 7@y+ 7anh=kax
+\XPSH [7@y kot@nhnh@ kuy 7@y 7anhkax.]
+\XSP Desramo* la rama del palo.
+\XEN He cut the branches off the tree.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT t@nh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex ko.tzaj
+\_no 01456
+\LG MIG
+\PSH [kotzaj-]
+\UND ko.tzaj
+\MB OTRO, pegar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pegarle encima de otro
+\ENG to stick on top of something else
+\EXU 7@y+ ko.tzaj-w@ nea+jo7
+\XPSH [7@y kotzajja neajo7.]
+\XSP Lo pego* en la pared.
+\XEN She glued it to the wall.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT tzaj
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex ko.tzaj.kuy7
+\_no 01457
+\LG MIG
+\PSH [kotzajkuy7]
+\UND ko.tzaj.kuy7
+\MB OTRO, pegar, INSTR1
+\VAR
+ZOH004R0011001.txt
+\GRAM instr1
+\SCI
+\USE
+\SPG pegamento
+\ENG glue
+\EXU
+Page 633

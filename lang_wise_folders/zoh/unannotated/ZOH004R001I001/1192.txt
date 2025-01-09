@@ -1,0 +1,64 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\lex puj [1]
+\_no 02770
+\LG MIG
+\PSH
+\UND puj
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 inflar; soplar
+\SPG 2 hacer sonar el clarinete
+\ENG 1 to inflate; to blow
+\ENG 2 to play the
+clarinet
+\SPL puj.7oy
+\SLGR ANTIP
+\SLGL inflar // to inflate
+\SLGR NO PASS
+\SPL puj.ten
+\SLGR PRSV
+\SLGL tener puesto lo con que lo santigua // to have in place that with
+which you're going to bless something
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ASP
+\ARG
+\NOM puj.kuy7
+\SUB 7ok.puj. '@y, puj-jo. tax, puj.ki7px, puj-tax, puj.puj.ney
+\ETYM
+\ETL
+\ROOT puj
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+ZOH004R0011001.txt
+\lex puj [2]
+\_no 02771
+\LG MIG
+\PSH
+\UND puj
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG 1 semilla
+\SPG 2 "huevo"
+\ENG 1 seed
+\ENG 2 testicle/ballock
+\EXU
+Page 1192

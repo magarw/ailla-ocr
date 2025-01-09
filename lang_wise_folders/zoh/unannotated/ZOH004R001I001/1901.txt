@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [gajananh]
+\UND ka.jvnanh
+\MB DCT3, DIR1
+\VAR
+\USE directional adverb
+\GRAM av
+\SCI
+\USE
+\SPG por alla*; en otro lado
+\ENG over there; somewhere else
+\EXU ga.jananh donde+ju.tenh ga.y bi rrey t@k
+\XPSH [gajananh dondejutenh gay bi rrey t@k]
+\XSP por alla* por donde esta la oficina presidencial
+\XEN over there where the mayor's office is
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex {ga.ji.inh}
+\_no 04427
+\LG MIG
+\PSH [gaji*nh]
+\UND ka.ji.Vnh
+\MB DCT3, X
+\VAR
+\USE directional adverb
+\GRAM av
+\SPG de ahi* (termino*, ya no pase ma*s alla*)
+\ENG to there (it ends there, and doesn't go any farther)
+\SPL
+\SLGR
+\EXU ga.ji.inh min-pa 7@m+ 7anh.jo.muy-pa metz-a-'anh tuwa-'anh
+ponh
+\XPSH [Gaji*nh minpam 7anhjomuypa metzanh tuwanh ponh.]
+\XSP De ahi* vienes a enjuagarlo dos o tres veces.
+\XEN Then you come and rinse it two or three times.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+ZOH004R0011001.txt
+\DSRC HAJ98
+\CMTS
+\date
+\lex {ga.ji}
+\_no 04428
+\LG MIG
+\PSH [gaji]
+\UND ka.ji
+\MB DCT3, LOC1
+\VAR
+\USE distal locative deictic
+\GRAM av
+\SPG alla*; ahi*
+\ENG there
+\SPL
+\SLGR
+Page 1901

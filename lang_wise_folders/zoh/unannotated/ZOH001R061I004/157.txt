@@ -1,0 +1,63 @@
+\UND woko. E7
+\MB andar_arrastrando, NOM7
+\VAR
+\GRAM pcp
+\SPG una cosa arrastrada
+\ENG a dragged thing
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT woko
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex wo7kx=tzik.i
+\_no 00395
+\LG MIG
+\PSH [wo7kxtziki]
+\UND WO7kx=tzik. E
+\MB rasgun~ar, pelar, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG aran~o*n
+\ENG scratch
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 wo7kx
+\RTGR 1 T3
+\ROOT 2 tzik
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex wotz.e7
+\_no 00396
+\LG MIG
+\PHO [wotze7]
+\UND wotz.E7
+\MB cortar, NOM7
+\VAR
+\GRAM pcp
+\SPG cortado
+ENG cut
+\EXU tzima wotz.e7
+\XPSH [tzima wotze7]
+\XSP morro cortado
+\XEN sawn clay
+\SYN
+\ROOT wotz
+\RTGR T1
+\DSRC HAJ95
+ZOH001R0611004.txt
+Page 157

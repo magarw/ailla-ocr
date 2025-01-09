@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [chik 7ukum tzujuxp@7]
+\UND chik 7ukum tzujux +p@7
+\MB chico, calabaza, verde, NOM5
+\VAR chik tzux 7ukum
+\GRAM asms
+\SCI
+\USE
+\SPG calabacita verde o tierna
+\ENG zucchini
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS THIS SEEMS BOGUS (TK) GSM likes it (HAJ)/so he does (TK)
+\date 24/Jun/96
+\lex chik m@tz.i7
+\_no 00059
+\LG MIG
+\PSH [chik m@tzi7]
+\UND chik m@tz.E7
+\MB chico, *jugar, NOM7
+\VAR
+\GRAM a (m) sv
+\SCI
+\USE
+\SPG juguetito
+\ENG toy (like little play dishes)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * m@tz
+\DSRC HAJ94
+\CMTS
+\date 13/Jun/95
+\lex chirinh m@tz.i7
+\_no 00060
+\LG MIG
+\PSH [chirinh m@tzi7]
+\UND chirinh m@tz.E7
+\MB sonaja, *jugar, NOM7
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG sonaja
+\ENG baby rattle
+\SPL
+ZOH001R0611004.txt
+\SLGR
+\EXU
+\XSP
+\XEN
+Page 25

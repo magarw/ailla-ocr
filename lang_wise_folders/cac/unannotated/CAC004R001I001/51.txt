@@ -1,0 +1,87 @@
+113. Aquí no hay agua.
+t'a tik malaj a' a'
+t'a tik malaj a’
+a'
+prep dem neg Cagua agua
+114. Hay una epidemia en el pueblo.
+ay jun niwak yab'il t'a yol chonhab'
+ay-ø jun niwak yab'il
+t'a y-ol
+exist-3B uno grande enfermedad prep 3A-dentro pueblo
+chonhab'
+ay jun niwanil ya' t'a chonhab' tik
+ay-ø
+jun niwan-il ya'
+t'a chonhab' tik
+exist-3B uno grande-abs enfermedad prep pueblo dem
+115. En mi pueblo hay mercado.
+t'a inchonhab'
+ay chonhb'al
+t'a
+104
+chonhb'al
+in-chonhab' ay-ø
+prep 1A-pueblo exist-3B mercado
+En mi pueblo no había vendedores.
+t'a inchonhab' malaj chonhwajum
+t'a in-chonhab' malaj chonh-waj-um
+prep 1A-pueblo neg vender-AA-agtvz
+116. En este pueblo hay casas muy grandes.
+t'a jun chonhab' tik ay te niwak pat
+niwak pat
+t'a jun chonhab' tik ay-ø te
+prep uno pueblo dem exist-3B muy grande casa
+117. El zanate es un pájaro.
+a no' k'a'aw a no' much
+a no'
+k'a'aw a no'
+much
+top Canimal zanate top Canimal pájaro
+a nok' w'a'aw much nok'
+a nok' k'a'aw much nok'
+top Canimal zanate pájaro Canimal
+118. Ese pájaro es un zanate.
+a no' much chi' a no' k'a'aw
+a
+no'
+much chi' a no'
+k'a'aw
+top Canimal pájaro dem top Canimal zanate
+a jun nok' much chi' k'a'aw nok'
+a
+jun nok' much chi' k'a'aw nok'
+top uno Canimal pájaro dem zanate Canimal
+Ese pájaro no es un zanate.
+a jun no' much chi' mok laj no' k'a'aw
+a
+jun no'
+much chi' m-ok
+laj no'
+k'a'aw
+top uno Canimal pájaro dem neg-IRR neg Canimal zanate
+a jun no' much chi' man k'a'awok laj nok
+a jun no'
+much chi' man k'a'aw-ok laj nok
+top uno Canimal pájaro dem neg zanate-IRR neg Canimal
+119. ¿Qué pájaro es ése?
+¿tas muchal jun no' chi'?
+tas much-al jun no'
+chi'
+qué pájaro-abs uno Canimal dem
+120. Juan es maestro.
+a winhaj Xun k'ayb'um winh
+a winhaj Xun k'ayb'-um
+winh
+top Cmasc Juan enseñar-agtvz Cmasc
+Juan no es maestro.
+a winhaj Xun man k'ayb'umok laj winh
+a winhaj Xun man k'ayb'-um-ok
+laj winh
+top Cmasc Juan neg enseñar-agtvz-IRR neg Cmasc
+121. Juan es el maestro.
+a winhaj Xun k'ayb'um winh
+a winhaj Xun k'ayb'-u
+um
+winh
+top Cmasc Juan enseñar-agtvz Cmasc
+105

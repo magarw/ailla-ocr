@@ -1,0 +1,67 @@
+bila baikra
+language
+'hay muchos idiomas que están'
+'there are many languages'
+manis-ra
+bara
+many-LOC there be.3.NPST
+ba
+pat
+sika
+DET already AUX
+'por eso'
+'because of that'
+sa
+autonomia
+multietnica kum
+autonomy multiethnic one
+'quieren hacer una autonomía multiétnica'
+'they want to create a multiethnic autonomy'
+dauka want
+make want
+baha nicaragua-ra
+that Nicaragua-LOC
+akawisa an wal ulban-ka nani-ra
+bal-an
+aiklabi
+fight-IMPF ? and COM written-DEF PL-OBJ uncover-IMPF come-3.PST be.3.NPST
+‘están luchando y tienen ya algunos escritos sobre este proceso'
+'they are fighting and have some forms about this process'
+costa atlántica-ra
+Coast Atlantic-LOC
+indian
+nani
+nani sika sat-ka
+indigenous PL AUX style-DEF PL
+'los pueblos indigenas de diferentes grupos están ahí
+'the indigenous communities of different groups are there'
+ahí en Nicaragua en la costa atlántica'
+'there in Nicaragua in the Atlantic Coast'
+criul miskitu mayangna
+Creole Miskitu Mayangna
+'[hay] crillos, miskitus, mayangnas'
+'[are] Creoles, Miskitus, Mayangnas'
+bara baha nani wal kaik-an
+CONN that PL
+'vieron ese proceso'
+'they saw that process'
+baha nani ba bara sa
+that PL DET there be.3.NPST
+'ahí están ellos esos grupo y los Garifuna'
+'there are those groups and the Garifunas'
+sa
+be.3.NPST
+tem
+COM see-3.PERF time
+sak-i
+garifuna
+Garifuna
+bani
+PL.DIST
+nani
+PL
+sa
+bara sa
+there be.3.NPST
+wala nani
+other PL

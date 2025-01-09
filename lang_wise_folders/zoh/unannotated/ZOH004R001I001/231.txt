@@ -1,0 +1,63 @@
+\ROOT 7@7p
+\RTGR P (T3)
+\SPL 7@7p.7oy
+\SLGR ANTIP
+\SLGL_palanquear // to pry up with a lever
+\SPL 7@7p.7@m
+\SLGR PASS
+\SLGL palanquearse // to be pried up
+\SPL 7@7p.ney
+\SLGR ASSUM1
+\SLGL_estar palanqueado // to be pried up
+\SPL 7@7p.ten
+\SLGR PRSV
+\SLGL tener palanqueado // to have raised up on a lever
+\DSRC HAJ94
+\CMTS Camilo didn't accept the ASSUM1 form
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex 7@7p.kuy7
+\_no 00535
+\LG MIG
+\PSH [7@7pkuy7]
+\UND 7@7p.kuy7
+\MB palanquear, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG palanca
+\ENG lever
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7@7p
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS
+\date 11/Jul/95
+ZOH004R0011001.txt
+\lex 7@7p= 'anh=wak
+\_no 00536
+\LG MIG
+\PSH [7@7ppanhwak-]
+\UND 7@7p=7anh=wak
+\MB palanquear, BOCA, *vaciar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG abrir con espeque
+\ENG to pry open
+\SPL
+\SLGR
+\EXU 7@y+ 7@7p='anh=wak-w@_7@y+ 7anh=tunh
+\XPSH [7@y 7@7ppanhwakk@y 7anhtunh.]
+\XSP Abrio* con espeque su puerta.
+Page 231

@@ -1,0 +1,64 @@
+\lex 7utz.ney
+\_no 00514
+\LG MIG
+\PHO [7utzney-]
+\UND 7utz.ney
+\MB X, ASSUM1
+\VAR
+GRAM assum1
+\SPG cuando un animal esta* enfermo, se encoge
+\ENG when an animal is sick, it hunches itself up
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT 7utz
+\RTGR P
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex 7utz-p@k. pak.w@y
+\_no 00515
+\LG MIG
+\PSH [7utzp@kp@kw@y-]
+\UND 7utz-p@k. pak.w@y
+\MB medir, pluma, pluma, ITER2
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG medir por metro, o midiendolo con el brazo
+\ENG to measure by the meter, or by the arm length
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7utz
+\RTGR T3
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex 7uxpi
+\_no 00516
+\LG MIG
+\PSH
+\UND 7uxpi
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG lagarto
+\ENG alligator
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF EZ
+\ETYM
+LF:4 pies
+Page 221

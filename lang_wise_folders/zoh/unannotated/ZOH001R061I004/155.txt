@@ -1,0 +1,62 @@
+\date 11/Feb/96
+\lex wikx.i7
+\_no 00389
+\LG MIG
+\PHO [wikxi7]
+\UND wikx.E7
+\MB chiflar, NOM7
+\VAR
+\GRAM pcp
+\SPG chiflido
+ENG whistle
+\EXU tzi'-A7 tum wikx.i7
+\XPSH [Tzi7 tum wikxi7!]
+\XSP !Da un chiflido!
+\XEN Give a whistle!
+\SYN
+\ROOT xikx
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex win-k@w.i7
+\_no 00390
+\LG MIG
+\PSH [wink@wi7]
+\UND win-k@nh.E7
+\MB CARA, pintar, NOM7
+\VAR
+\GRAM BA-ed
+\SCI
+\USE
+\SPG 1 gris; azulito medio blanquisco
+\SPG 2 morado de un golpe
+\SPG 3 pan~o de la cara; que tiene pan~o donde se quemo*
+\ENG 1 gray; pale blue
+\ENG 2 purple from a blow
+\ENG 3 a blotch on the skin; having a blotch on the skin
+\EXU 7@y+ tzi'-xuk-w@ win-naka win-k@nh-w@
+\XPSH [7@y tzixukk@_winnaka, wink@nhnh@.]
+\XSP Le pegaron en la cara, se hizo morado.
+\XEN He hit him in the face and it turned purple.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT k@nh
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+ZOH001R0611004.txt
+\lex witz.i+i7
+\_no 00391
+\LG MIG
+\PSH [witzi7]
+\UND witz. E +P@7k
+\MB hacer_alma*cigo, NOM7, REL
+\VAR
+\GRAM pcp
+\SCI
+\USE
+Page 155

@@ -1,0 +1,63 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kay
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex nik.maj. '@y
+\_no 02309
+\LG MIG
+\PSH [nikmajj@y-]
+\UND nik.maj.7@y
+\MB SUP, regar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG echarle/regarle agua
+\ENG to sprinkle water on something or someone
+\SPL
+\SLGR
+\EXU 7@y+ nik.maj.'@y-w@_n@7
+\XPSH [7@y nikmajj@yya n@7.]
+\XSP Le rego* agua.
+\XEN She sprinkled water on it.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT maj
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 27/Jan/96
+\lex nik.may. '@y
+\_no 02310
+ZOH004R0011001.txt
+\LG MIG
+\PSH [nikmayy@y-]
+\UND nik.may.7@y
+\MB SUP, contar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG destinar algo para alguien
+\ENG to designate/buy something for someone else
+\SPL
+\SLGR
+\EXU 7@y+ nik.may. '@y-w@ 7@y+ wakax
+\XPSH [7@y nikmayy@yy@y wakax.]
+\XSP Le destino* que fuera el ganado de e*1.
+\XEN They designated the ox for him.
+\SYN
+\SEMF
+\ETYM
+\ETL
+Page 995

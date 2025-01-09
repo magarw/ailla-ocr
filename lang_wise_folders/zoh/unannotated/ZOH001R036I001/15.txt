@@ -1,0 +1,80 @@
+\mb 7ay beses te -d@ 7u*lsera
+\sg] ay veces DCT2-DEM u*lcera
+\egl ay times DCT2-DEM ulcer
+\zoq 7ay beses ded@ 7u*lsera n@mjapa witpa.
+\fts A veces ese u*lcera dicen anda.
+\fte Sometimes that ulcer, as they say, walks.
+\com
+\idx
+\ref ZOH001R036 065
+\_no 00066
+\tx pero mismo y@ji
+\mb pero mismo y@ -ji7
+\sg1 pero mismo DCT1-Loc1
+pitz@mpa
+para n@kpa jonh jonanh
+pitz@m-pa para nak -pa jonh jonanh
+salir -INC para irse-INC adentro DIR3
+\egl but same DCT1-LOC1 leave -INC for go -INC inside DIR3
+\zoq Pero mismo y@ji pitz@mpa para n@kpa jonhjonanh.
+\fts Pero mismo aqui* sale para que vaiga par adentro.
+\fte But the same one comes out here so it goes inside there.
+\com
+\idx
+\ref ZOH001R036 066
+\_no 00067
+\tx 7ay
+beses 7anhjekej@nanh
+beses 7anhje7k
+\mb 7ay
+-E
+\sg1 hay
+veces tener_miedo-NOM3-DIR1
+\egl there are times be afraid -NOM3-DIR1
+\zoq 7ay beses 7anhjekej@nanh,
+\fts Hay veces con espanto,
+\fte Sometimes with a fright,
+\com
+\idx
+\ref ZOH001R036 067
+\_no 00068
+\tx 7ay
+\mb 7ay
+ZOH001R0361001.txt
+n@m -jay -pa
+wit -pa
+decir-APPL-INC andar-INC
+say -APPL-INC walk -INC
+\sg] hay
+\egl there are
+\ref ZOH001R036 068
+\_no 00069
+\tx de7xe
+\mb te
+beses porke
+beses porke
+veces porque mucho 2A
+times because a lot 2A
+de7
+-7xe te -7
+\sg1 DCT2-SIM DCT2-NOM1
+\eg1 DCT2-SIM DCT2-NOM1
+\zoq De7xe de 7.
+\fts Asi* es.
+\zoq 7ay beses
+porke jakkem niwik@xpa.
+\fts Hay veces porque comes mucho chile.
+\fte Sometimes because you eat too much chile.
+\com
+\idx
+\fte That's the way it is.
+\com
+\idx
+\ref ZOH001R036 069
+-j@nanh
+jakke m niwi
+k@xpa
+jakke 7@m niwi7 k@x -ра
+chile comer -INC
+chile eat - INC
+Page 15

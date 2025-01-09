@@ -1,0 +1,60 @@
+\_no 00289
+\SPG costurar; bordar; ensartar
+\ENG sew; embroider
+\EX
+\XSP
+\XEN
+\ROOT t@p T1
+\SEMF sew, create
+\CMTS
+\lex t@7p
+\_no 00290
+\SPG caer; caerse cuando caminando
+\ENG to fall; to fall down while walking
+\EX
+\XSP
+\XEN
+\ROOT t@7p 12
+\SEMF fal1
+\CAUS yak.t@7p dejar caer
+\CMTS
+\lex t@7px
+\_no 00291
+\SPG hacer mecate
+\ENG to make rope
+\EX
+\XSP
+\XEN
+\ROOT t@7px T3
+\SEMF create
+\PASS NONE t@7px.7@m *
+\ANTI t@7px.7oy
+\CMTS
+\lex t@tz
+\_no 00292
+\SPG secarse
+\ENG to dry
+\EX
+\XSP
+\XEN
+\ROOT t@tz 12
+\SEMF nature, temp
+\CAUS yak.t@tz secar; resecar
+\CMTS
+\lex tzaj
+\_no 00293
+\SPG pegar (papel) con pegamento
+\ENG to glue (paper) with_glue
+\EX 7@n 7anhtzajpa n xuyu7
+ZOH001R0611010.txt
+\XSP voy a remendar mi olla (con pegamento)
+\XEN I'm going to fix my pot (with glue)
+\ROOT tzaj P, (T3)
+\SEMF create, break
+\PASS tzaj.7@m
+\ANTI tzaj.7oy
+\CMTS
+\lex tzak
+\_no 00294
+\SPG dejar
+Page 66

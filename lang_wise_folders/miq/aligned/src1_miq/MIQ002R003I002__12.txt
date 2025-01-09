@@ -1,0 +1,26 @@
+'después el agua, el agua se pone a hervir'
+'then the water is put to boil'
+cilantro DET put-IMPF
+'le hechan culantro'
+cassava DET good? AUX.3.NPST ? PL DET good ? do-IMPF pull
+'la yuca se pela el guineo también y lo hechan'
+'the cassava is peeled and also the banana and they put it in'
+then this onion
+'después la cebolla'
+biyara ba sin mangk-i
+onion DET also put-IMPF
+la cebolla también se pone'
+'the onion is also put in'
+'then beef stomach'
+'después la carne de vaca'
+stomach DET also put-IMPF
+'el estomago lo hechan'
+'they put in the stomach'
+when cook-IMPF
+'cuando termine de cocinarse'
+'when it is done cooking'
+DET person PL DET 3.POSS happy have be.3.PERF
+'las personas se alegran de esta actividad'
+'the people become happy in that activity'
+baha-ra
+that-LOC

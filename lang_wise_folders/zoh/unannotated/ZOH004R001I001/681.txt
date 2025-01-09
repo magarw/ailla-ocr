@@ -1,0 +1,63 @@
+\PSH [kuratz@kkoba*7]
+\UND kura=tz@k. 7oy-pa +P@7k
+\MB curar, HACER, ANTIP, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG doctor, curandero
+\ENG doctor, healer
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex kurba
+\_no 01569
+\LG MIG
+\PSH
+\UND kurba
+\MB
+\VAR
+\GRAM s+loc
+\SCI
+\USE
+\SPG curva
+\ENG curve
+\EXU kurba+jo7
+\XPSH [kurbajo7]
+\XSP alla* en la curva
+\XEN over there at the curve
+\SYN
+\SEMF
+\ETYM curva
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS cf examples under we7ch
+\date 11/Jan/96
+\lex kuru7
+\_no 01570
+\LG MIG
+\PSH
+\UND kuru7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG ardilla
+\ENG squirrel
+\EXU
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+Page 681

@@ -1,0 +1,62 @@
+\date
+\lex {pin@k}
+\_no 04489
+\LG MIG
+\PSH
+\UND pin@k
+MB CONFAC
+\VAR
+\USE contrafactual desiderative modal
+\GRAM mod
+\SPG malaya
+\ENG hopefully; would that it were
+\SPL
+\SLGR
+\EXU ke malay pinak 7@n+ 7anh.7it-tam-pa jemji ney t@k+jo7
+\XPSH [Ke malay pin@k 7@n 7anhnittampa jemji ney t@kjo7.]
+\XSP Que malaya tuvieramos todo en la casa.
+\XEN That hopefully we'd have everything in our house.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+ZOH004R0011001.txt
+\lex {+pi7t} [2]
+\_no 04490
+\LG MIG
+\PSH
+\UND pi7t
+\MB INSTR
+\VAR
+\GRAM cas
+\SCI
+\USE case: instrumental
+\SPG con
+\ENG with
+\SPL
+\SLGR
+\EXU ney mismo 7ay' +pi7t n@m. 'oy-pa +'am 7om-w@
+\XPSH [Ney mismo 7aypi7t n@mmobam 7omm@.]
+\XSP Con la misma hoja lo puedes ahumar.
+\XEN You can cense it with the same leaf.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex %pox F
+\_no 04491
+\LG MIG
+\PSH
+\UND
+\MB
+\VAR
+\GRAM
+\SCI
+Page 1928

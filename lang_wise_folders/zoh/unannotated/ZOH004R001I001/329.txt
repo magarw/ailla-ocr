@@ -1,0 +1,64 @@
+\XSP Esta* grun~iendo el perrito.
+\XEN The puppy is growling.
+\SYN
+\SEMF animal, sound
+\ASP activity
+\ARG
+\NOM
+\SUB ko.ji7i, yuk.ji7i
+\ETYM
+\ETL
+\ROOT ji7i
+\RTGR IX
+\DSRC TK94
+\CMTS can't be used of people
+\date 03/Jan/80
+\lex jij.jij.ney
+\_no 00760
+\LG MIG
+\PSH [jijjijney-]
+\UND jij.jij.ney
+\MB
+\VAR
+\GRAM VİRF
+\SCI
+\USE
+\SPG el sonido de reirse
+\ENG the sound of laughter
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT %jij F
+\DSRC HAJ94
+\CMTS
+\date 10/Jan/96
+\lex ji*kama
+\_no 00761
+\LG MIG
+\PSH
+\UND ji*kama
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG ji*cama
+\ENG jicama
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 06/Feb/96
+LF:7okox - poj
+ZOH004R0011001.txt
+Page 329

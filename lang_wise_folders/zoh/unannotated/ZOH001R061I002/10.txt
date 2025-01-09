@@ -1,0 +1,61 @@
+\ARG
+\NOM
+\RTGR IX
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex jaj [1]
+\_no 00038
+\SPG estar medio picosito (comida)
+\ENG to be a little bit spicy (food)
+\SEMF food
+\ASP state
+\ARG patient
+\NOM jaj.e7
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex jaj [2]
+\_no 00039
+\SPG arder el cuerpo (en el sol, cuando esta* caminando mucho...)
+\ENG for the body to get hot and chafed (in the sun, when you're walking a
+lot...)
+\SEMF body, temp
+\ASP state
+\ARG
+\NOM
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex jakx
+\_no 00040
+SPG sacar algo de la boca
+\ENG to hawk a gob
+\SEMF body, eat
+\ASP achievement
+\ARG
+\NOM jakx.kuy7, jakx.i7, jakx.e7+k xit
+\RTGR 11
+\POS
+\MID
+ZOH001R0611002.txt
+\UNDO
+\CLZ
+\CMTS
+\lex ja7k
+\_no 00041
+\SPG ahogarse
+\ENG to choke
+\SEMF die
+\ASP activity, achievement
+\ARG
+\NOM
+Page 10

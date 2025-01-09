@@ -1,0 +1,64 @@
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT *xanh
+\DSRC
+\CMTS
+\date 28/Jan/96
+\lex xaw.a yuk.poy. (A)n@m
+\_no 03894
+\LG MIG
+\PSH [xawa yukpooyn@m-]
+\UND xanh.A
+yuk.poy. An@m
+\MB aire, NOM2, ARR, huir, INDEF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG ventilar; correr el aire
+\ENG for the wind to winnow or toss something
+\EXU
+\XPSH
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 * xanh
+\ROOT 2 poy
+\RTGR 2 11
+\DSRC HAJ94
+\CMTS CK-GR, CK-PH HAJ:96 ok; this is a phrase: TK
+\date 26/Jun/96
+\lex xaw.a=tz@k
+\_no 03895
+\LG MIG
+\PSH [xawatz@k-]
+\UND xanh.A=tz@k
+\MB *aire, NOM2, HACER
+\VAR
+\GRAM vi
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG hacer viento
+\ENG for the wind to blow
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 * xanh
+\ROOT 2 tz@k
+\RTGR 2 T3
+\DSRC HAJ94
+Page 1675

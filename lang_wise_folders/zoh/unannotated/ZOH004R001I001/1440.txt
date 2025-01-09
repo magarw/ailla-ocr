@@ -1,0 +1,64 @@
+\XPSH 2 [7@y tzikk@ bi yoya.]
+\XSP 2 Quito* el cuero del marrano.
+\XEN 2 He skinned the pig.
+\EXU 3 7@y+ tzik. ten-w@ bi yoya.
+\XPSH 3 [7@y tziktenn@ bi yoya.
+\XSP 3 Pelo* el marrano a tiempo.
+\XEN 3 He skinned the pig ahead of time.
+\SYN
+\SEMF animal, hunt, clean
+\ASP activity
+\ARG
+\NOM tzik.i7, mok tzik.kuy' xipx.kuy7
+\SUB jetz=tzik, jup-ko.tzik, jup-tzik, j@m-tzik.i7, ko.tzik,
+\SUB manh-tzik.tzik.w@y, tuj-tzik, wax=tzik.i7
+\ETYM
+\ETL
+\ROOT tzik
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\CMTS no pass tzik.7@m * seri*a: "se pela so*lo" (don't know about this
+\CMTS this time he thought tzik.7@m was fine
+\date 03/Jan/80
+\lex tzika7
+\_no 03349
+LG MIG
+\PSH
+\UND tzika7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG compeche
+\ENG a type of animal
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+LF:4 pies
+\CMTS
+\date 10/Nov/94
+\lex tzika' tzajin
+\_no 03350
+\LG MIG
+\PSH [tzika tzajin]
+\UND tzika7 tzajin
+\MB compeche, culebra
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG culebra de compeche
+ZOH004R0011001.txt
+\ENG a type of animal
+\EXU
+\XSP
+\XEN
+Page 1440

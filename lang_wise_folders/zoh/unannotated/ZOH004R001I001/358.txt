@@ -1,0 +1,63 @@
+\SLGR
+\EXU 7@y+ jo.jax-w@ 7@y+ xix yanh-t@k+jo7
+\XPSH [7@y jojaxx@y xix yanht@kjo7.]
+\XSP Fue* asar carne en casa de la gente (para sacar chisme...).
+\XEN She went to roast the meat at someone else's house (for the
+gossip).
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jax
+\RTGR T1
+\DSRC HAJ95
+\CMTS
+\date 03/Feb/96
+\lex jo.jej
+\_no 00822
+\LG MIG
+\PSH [jojej-]
+\UND jo.jej
+\MB EN, vivir
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG vivir en casa de la gente
+\ENG to live in other people's houses, because you don't have your own
+\SPL
+\SLGR
+\EXU jo.jej-w@
+\XPSH [jojejj@]
+\XSP alguien que vive en casas de otra gente
+\XEN someone who lives in other people's houses
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jej
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 03/Feb/96
+\lex jo.jepx
+\_no 00823
+ZOH004R0011001.txt
+\LG MIG
+\PSH [jojepx-]
+\UND jo.jepx
+\MB EN, agarrar_con_ji*cara
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar todo con ji*cara
+\ENG to scoop something all out
+\SPL
+\SLGR
+\EXU 7@y+ jo.jepx-w@ 7@y+ xuyu7
+\XPSH [7@y jojepx@y xuyu7.]
+\XSP Saco* todo con ji*cara de la olla.
+\XEN He scooped everything out of his pot.
+\SYN
+Page 358

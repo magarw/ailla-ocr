@@ -1,0 +1,63 @@
+\GRAM deposR
+\SCI
+\USE
+\SPG 1 pegar mucho con una ramita
+\SPG 2 pelar un pla*tano
+\ENG 1 hit a lot with a little branch
+\ENG 2 strip the skin from a banana
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 jup
+\RTGR 1 P, (T3)
+\ROOT 2 tzik
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 14/Jun/95
+\lex jup=tzo't.e7
+\_no 00946
+\LG MIG
+\PHO [juptzote7]
+\UND jup=tzo7t. E7
+\MB jalar, arrancar, NOM7
+\VAR
+\GRAM pcp
+\SPG una cosa que se arranca sin rai*z
+\ENG something pulled up without the root
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT 1 jup
+\RTGR 1 P (T3)
+\ROOT 2 tzo7t
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex jup-tz@y
+\_no 00947
+LG MIG
+\PSH [juptz@y-]
+\UND jup=tz@y
+\MB jalar, trabarse
+\VAR
+\GRAM vt+dir
+\SCI
+\USE
+\SPG enfrenar
+\ENG to rein in
+\EXU
+ZOH004R0011001.txt
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+Page 413

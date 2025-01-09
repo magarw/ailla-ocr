@@ -1,0 +1,64 @@
+\ETYM
+\ETL
+\ROOT tokoy
+\RTGR IX
+\DSRC TK94
+\CMTS caus2 yak+ tokoy
+\CMTS CK-GR
+\date 03/Jan/80
+\lex tokoy.jay
+\_no 03008
+\LG MIG
+\PSH [tokoyjay-]
+\UND tokoy.jay
+\MB perderse, APPL
+\VAR
+\GRAM vi:indir
+\SCI
+\USE
+\SPG 1 fracasar en algo
+\SPG 2 perder algo
+\ENG 1 to fail at something
+\ENG 2 to lose something
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tokoy
+\RTGR IX
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tokx
+\_no 03009
+LG MIG
+\PSH
+\UND tokx
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG pelarse mai*z que le echaron cal
+\ENG for corn that has been soaked in lye to shed its skin
+\SPL yak.tokx
+\SLGR CAUS
+\SLGL pelar mai*z // to peel corn
+\EXU tokx-w@ pitz. E
+\XPSH [Tokx@ pitzi.]
+\XSP Se pelo* el mai*z.
+\XEN The corn shed its skin.
+\SYN
+\SEMF corn,
+\ASP
+\ARG
+\NOM tokx.e7
+\SUB
+\ETYM
+\ETL
+ZOH004R0011001.txt
+cook
+Page 1295

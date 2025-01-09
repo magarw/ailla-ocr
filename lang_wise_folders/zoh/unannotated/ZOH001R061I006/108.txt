@@ -1,0 +1,64 @@
+\SLGL tenderse // to be stretched out
+\SPL to7k.ney
+\SLGR ASSUM1
+\SLGL estar extendido // to be stretched out
+\EXU 1 7@y+ to7k-w@ bi pata7
+\XPSH 1 [7@y to7kk@ bi pata7.]
+\XSP 1 Extendio* el petate.
+XEN 1 She stretched out the mat.
+\EXU 2 to7k. '@m-w@ pata7
+\XPSH 2 [To7kk@mm@ pata7.
+\XSP 2 Se extendio* (solo)
+\XEN 2 It stretched out (by itself).
+\EXU 3 to7k.ney-w@ pata7.
+\XPSH 3 [To7kneyy@ pata7.]
+\XSP 3 Esta* extendido el petate.
+\XEN 3 The mat is stretched out.
+\SYN
+\SEMF arrange
+\ASP achievement
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT to7k
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex ton
+\_no 00160
+\LG MIG
+\PSH
+\UND ton
+\MB
+\VAR
+\GRAM vt
+ZOH001R0611006.txt
+\SCI
+\USE
+\SPG limpiar soplando mai*z, frijol (de gorgojo, de broca, de bica, de
+basura) (se sopla con la boca o con el viento que hay)
+\ENG to winnow corn, beans (of nits, weevils, trash) (you blow with the
+mouth or use whatever breeze there is)
+\SPL ton. 7oy
+\SLGR ANTIP
+\SLGL soplar // to blow
+\SPL ton.7@m
+\SLGR PASS
+\SLGL soplarse // to be winnowed
+\SPL ton.ten
+\SLGR PRSV
+\SLGL tener soplado // to have it winnowed
+\EXU 7@y+ ton.ten-w@
+\XPSH [7@y tontenn@.]
+\XSP Lo tiene soplando.
+\XEN She has it winnowed.
+\SYN
+\SEMF clean
+\ASP activity
+\ARG
+\NOM ton.e7
+\SUB ko. ton
+Page 108

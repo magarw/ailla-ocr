@@ -1,0 +1,79 @@
+\ref 132
+\_no 00133
+\tx d@ minn@
+\mb d@ min
+\sg1 1A venir-COM
+-wa
+-t@k
+sagrado-casa DIR7
+\egl 1A come -COM sacred -house DIR7
+\com
+\idx
+\ref 133
+\_no 00134
+\tx d@ minn@
+\mb d@ min
+\fts vine de por alla* por la iglesia
+\fte I came from over there near the church
+maxant@k
+maxan
+-w@
+\sg1 1A venir-COM
+\egl 1A come -COM river-across
+\ref 135
+\_no 00136
+\tx d@ kekk@n
+\mb d@ kek
+pajakgaja7kwintu7kjo*nh
+pajak-gaja7kwintu7k-joonh
+ri*o -al_otro lado -ĎIR4
+-DIR4
+fts vine del otro lado del ri*o
+\fte I came from the other side of the river
+\com
+\idx
+\ref 134
+\_no 00135
+\tx d@ minn@
+\mb d@ min
+tzamkuyjo*nh
+-w@
+tzamkuy7 -joonh
+\sg1 1A venir-COM montan~a -DIR4
+\egl 1A come -COM mountains-DIR4
+\fts vine de la montan~a
+\fte I came from the mountains
+\com
+\idx
+ZOH001R0601001.txt
+7anhj@*nh
+7anhj@@nh
+\ref 136
+\_no 00137
+-w@ -7@n
+\sgl 1A brincar-COM-1E
+\egl 1A hop
+witi
+de kuy7okox
+wit -E de kuy -7okox
+andar-dCOM de palo-mata
+-COM-1E walk -dcoM of tree-shrub AWAY -house-LOC1
+\fts anduve saltando de abajo de las matas
+\fte I went jumping out from under the bushes
+\com
+\idx
+7@n witkuyjo*nh
+-wa 7@n wit -kuy7 -joonh
+andar-INSTR1-DIR4
+\fts regrese* de mi viaje
+\fte I returned from my trip
+\com
+\tx d@ wituw@
+\mb
+d@ witu7
+\sgl 1A regresar-COM 1E
+\egl 1A return -COM 1E walk -INSTR1-DIR4
+Page 32
+k@t@kja7
+k@ -t@k -j@7
+AFUERA-casa -LOC1

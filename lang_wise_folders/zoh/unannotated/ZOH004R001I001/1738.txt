@@ -1,0 +1,64 @@
+\ETYM caldo
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+\lex x@k m@tz.i7
+\_no 04040
+\LG MIG
+\PSH [x@k m@tzi7]
+\UND x@k m@tz. E7
+\MB frijol, *jugar, NOM7
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG frijolillo
+\ENG a type of plant
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT m@tz
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex x@k puj
+\_no 04041
+LF:7okox
+\LG MIG
+\PSH
+\UND x@k puj
+\MB frijol, semilla
+\VAR
+\GRAM sms
+\XEN
+\SYN
+\SCI
+\USE
+\SPG frijol en bala; frijol en semilla
+\ENG beans in the pod; bean seeds
+\EXU
+\XSP
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+tzamm@7
+\lex x@k xe7t=t@tz.i7
+\_no 04042
+ZOH004R0011001.txt
+\LG MIG
+\PHO [x@k xe7tt@tzi7]
+\UND x@k xe7t=t@tz.E7
+\MB frijol, freir, secarse, NOM7
+\VAR
+\GRAM pcp
+Page 1738

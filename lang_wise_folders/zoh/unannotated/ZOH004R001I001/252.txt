@@ -1,0 +1,64 @@
+\MB chico, X, REL
+\VAR
+\GRAM as
+\SCI
+\USE
+\SPG muchach(it)o
+\ENG little boy
+\EXU
+\XSP
+\XEN
+\SYN chik jay 7une7
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS CK-PH - ok HAJ:96; [xa*7] doesn't occur alone. REL may not be here
+\date 24/Jun/96
+\lex chik yuchi tzux-jon
+\_no 00587
+\LG MIG
+\PSH [chik yuchi tzuxjon]
+\UND chik yuchi tzux-jon
+\MB chico, flaco, verde, pa*jaro
+\VAR chik yuchi loro7
+\GRAM amams
+\SCI
+\USE
+\SPG perico
+\ENG parakeet
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 13/Jun/95
+\lex chilakayota
+\_no 00588
+\LG MIG
+\PSH
+\UND chilakayota
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG chilacayote
+\ENG a type of fruit
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+ZOH004R0011001.txt
+LF:t@m
+Page 252

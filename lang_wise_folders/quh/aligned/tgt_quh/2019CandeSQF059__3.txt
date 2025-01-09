@@ -1,0 +1,52 @@
+¿Con el zorro?
+&mayqin mayqinwan qallariwaq?
+¿Con cuál empezarías?
+chay juktaq atuq cuentomanta á.
+%trad:
+El otro es sobre el cuento de zorro pues.
+atuqwan kunturwan.
+El zorro y el cóndor.
+a ver imaynataq chay?
+A ver, ¿cómo es eso?
+%trad:
+Se conversa sobre el Cuento del Zorro y el Cóndor
+%trad:
+chaymanta ajinata ñiwaq karqa tatayqa.
+Mi padre de eso así solía decirme.
+entons paykuna karanku amigos.
+Entonces ellos eran amigos.
+Está bien.
+entonces, ñin kuntur munarqa invitayta cieloman.
+Entonces dice que el cóndor le quería invitar al cielo.
+Está bien.bueno atuq karqa Antonio í sutiyuq?
+Bueno, había un zorro llamando Antonio ¿verdad?
+ujum.
+y kunturtaq Mallku.
+Y el cóndor Mallku.
+pero, primerota ñirqankuchá kanqa cumpleaños ñispa parlarqankuchá
+Pero primero me imagino que dijeron acordando; va haber cumpleaños diciendo,
+pero pay ñirqachá imaynatataq ñuqa pero cieloman wichariyman?
+pero él habrá dicho; pero ¿cómo subiría al cielo?,
+atuqqa primerotaqa.
+el zorro como primero.
+4
+%trad:
+*SQF:
+%trad:%com:
+*SQF:
+%trad:
+*CFQ:
+%trad:
+*SQF:
+%trad:%trad:
+*CFQ:
+%trad:
+*CFQ:
+%trad:
+%trad:
+*CFQ:
+%trad:
+%trad:
+*CFQ:
+%trad:
+%trad:

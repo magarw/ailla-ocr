@@ -1,0 +1,63 @@
+\GRAM xms
+\SCI
+\USE
+\SPG avispa que vive en el hueco de un palo; avispa que hace hoyo a la
+madera
+\ENG a wasp who lives in or makes holes in wood
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yum
+\RTGR 12
+\DSRC TK94
+\CMTS que hace hoyo en un palo
+\CMTS
+\date 25/Jun/96
+\lex kuy-yum.@7
+\_no 01635
+\LG MIG
+\PSH [kuyyum@7]
+\UND kuy=yum.A7
+\MB palo, hervir, NOM2
+\VAR
+\GRAM sv: incorp
+\SCI
+\USE
+\SPG polvo que sacan avispas de madera
+\ENG wood dust left by wood-boring wasps
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+ZOH004R0011001.txt
+\lex kuy. '@y
+\_no 01636
+\LG MIG
+\PSH [kuyy@y-]
+\UND kuy.7@y
+\MB a*rbol, VERS2
+\VAR
+\GRAM vers2
+\SCI
+\USE
+\SPG atrancar
+\ENG to bar
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+Page 707

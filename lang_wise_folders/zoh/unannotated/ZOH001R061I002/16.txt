@@ -1,0 +1,64 @@
+\CMTS
+\lex ji7kx
+\_no 00062
+\SPG tener olor fuerte de chile ancho
+\ENG to have a strong odor of chile ancho
+\SEMF nature, cook
+\ASP state
+\ARG
+\NOM * kuy, * naanh
+\RTGR IX
+\POS N
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex jim
+\_no 00063
+\SPG 1 rozar
+\SPG 2 tocar al pasar
+ENG 1 to graze
+\ENG 2 to touch in passing
+\SEMF touch, hand
+\ASP activity, achievement
+\ARG
+\NOM kuy7 (la mano), jim.naanh
+\RTGR T3
+\POS da jimm@ rroberto
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex jin
+\_no 00064
+\SPG refregarle
+\ENG to scrub someone
+\SEMF body, clean, touch
+\ASP activity
+\ARG
+\NOM jin.kuy7, ni.jin, jin.naanh
+\RTGR T3
+\POS da jinn@n mama
+\POS da jinjayy@n kuptuku
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex jinin
+\_no 00065
+\SPG ensuciarse el agua
+\ENG for the water to get dirty
+\SEMF clean, water
+\ASP achievement
+\ARG
+\NOM
+\RTGR IX
+\POS
+\MID
+ZOH001R0611002.txt
+\UNDO
+\CLZ
+Roberto me toco* al pasar
+me refrego*
+me refrego* la espalda
+Page 16

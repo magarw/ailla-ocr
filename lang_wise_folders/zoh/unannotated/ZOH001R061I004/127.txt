@@ -1,0 +1,62 @@
+\ROOT tuk
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tum t@nh.kuy' xutu7 dond +ju pitz@m-pa 7om.a7
+\_no 00317
+\LG MIG
+\PSH [tum t@nhkuy xutu7_dondju pitz@mpa 7oma7]
+\UND tum t@nh.kuy' xutu7 dond +ju pitz@m-pa 7om.A7
+\MB uno, cortar_con_fierro, INSTR1, hoyo, donde, donde, salir, INC,
+echar_humo, NOM2
+\VAR
+\GRAM pms
+\SCI
+\USE
+\SPG la chiminea ("un hoyo de fierro donde sale el humo")
+\ENG chimney ("a metal hole where the smoke goes out")
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT t@nh
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex tu'p.i7
+\_no 00318
+\LG MIG
+\PHO [tupi7]
+\UND tu7p.E7
+\MB desboronar, NOM7
+\VAR
+\GRAM pcp
+\SPG desboronado, pedazos
+ENG crumbled, pieces
+ZOH001R0611004.txt
+\EXU 7an(.e)=jax.e tu'p.i7
+\XPSH [7anjaxe tupi7]
+\XSP pedazos de totopo
+\XEN pieces of totopo
+\SYN
+\ROOT tu7p
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex t@k 7anh.k@.i
+\_no 00319
+\LG MIG
+\PSH [t@k 7anhk@i]
+\UND t@k 7anh-k@y. E
+\MB casa, BOCA, 1levar_en_mano, NOM7
+\VAR tak 7anh.k@y
+\GRAM s (m) s
+Page 127

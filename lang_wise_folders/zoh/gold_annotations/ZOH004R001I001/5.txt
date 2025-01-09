@@ -1,0 +1,65 @@
+\PSH
+\UND 7agagal kuy
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG palo de agagal; gagal
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS Germa*n no conoce: TK
+\date 02/Oct/96
+\lex 7a*gila
+\_no 00012
+LG MIG
+\PSH
+\UND 7a gila
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG a*guila
+\ENG eagle
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM aguila
+\ETL Sp
+\ROOT
+\DSRC TK94
+\CMTS no hay alli*
+\date 24/Jun/96
+\lex 7ajpak
+\_no 00013
+\LG MIG
+\PSH
+\UND 7ajpak
+\MB
+LF: jon
+\VAR 7ajpak kuy
+\GRAM S
+\SCI
+\USE
+\SPG otate
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+LF: kuy
+ZOH004R0011001.txt
+Page 5

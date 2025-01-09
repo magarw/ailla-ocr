@@ -1,0 +1,63 @@
+\_no 02443
+\LG MIG
+\PSH
+\UND n@m
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG decir
+ENG to say
+\SLGR NO CAUS
+\EXU 1 da n@m-mux-pa joji7
+\XPSH 1 [D@ n@mmuxpa joji7.]
+\XSP 1 si*, lo voy a decir man~ana.]
+\XEN 1 Yes, I'm going to say it tomorrow.
+\EXU 2
+\XPSH 2 [
+\XSP 2
+\XEN 2
+\SYN
+\SEMF speak
+\ASP activity
+\ARG
+\NOM n@m.i
+\SUB jo.n@m, k@.n@k-n@m. '@y, n@m.jay=tzak
+\ETYM
+\ETL
+\ROOT n@m
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex n@m.i
+\_no 02444
+\LG MIG
+\PSH [n@mi]
+\UND _n@m. E
+\MB decir, NOM7
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG dicho
+\ENG saying
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT n@m
+\RTGR 11
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS TK changed PH
+\date 25/Jun/96
+\lex n@m.jay
+\_no 02445
+\LG MIG
+\PSH [n@mjay-]
+Page 1054

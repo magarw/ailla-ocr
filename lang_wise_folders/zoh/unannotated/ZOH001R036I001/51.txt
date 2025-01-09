@@ -1,0 +1,81 @@
+\sg1 esde DCT3-TMP si golpe SI
+\egl um DCT3-TMP if blow IF
+IF
+\com
+\idx
+\zoq 7esde, gay si golpe_bi7t 7@y p@kka,
+\fts Si ahora agarro* golpe,
+\fte Um, now if he gets a blow,
+\zoq y yaktzijjoyy@ kuy,
+\fts 1o golpio* el palo,
+\fte a branch hits him,
+\com
+\idx
+\ref ZOH001R036 233
+\_no 00233
+\ref ZOH001R036 232
+\_no 00232
+\tx y yaktzijjoyy@
+kuy
+\mb 7@y yak -tzij
+-7oy -w@ kuy
+\sg1 3E CAUS-tirar_piedra-ANTIP-COM palo
+\egl 3E CAUS-throw_rock -ANTIP-COM tree
+\tx
+\mb
+tzapj@nh yow@
+tzapj@@nh yo7
+-wa
+\sg] de_arriba caerse-COM
+\eg1 from_up fall -COM
+\zoq tzapj@nh yow@.
+\fts de arriba cayo*.
+\fte it falls from above.
+\com
+\idx
+\ref ZOH001R036 234
+\_no 00234
+\tx 7ay
+\mb 7ay
+\ref ZOH001R036 235
+\_no 00235
+bese 7@n p@7tjadampa
+-7xe
+\sg1 hay
+beses 7@n p@7t -jay -tam -pa
+veces 1E pasar-APPL-1/2 PL-INC
+DCT2-SIM
+\egl there are times 1E pass -APPL-1/2 PL-INC DCT2-SIM
+\tx 7@m w@7tpa
+\mb 7@m w@7t
+\sg1 2E
+\egl 2E cut trees
+ZOH001R0361001.txt
+agarrar-COM
+\zoq 7ay bese 7@n p@7tjadampa de7xe.
+\fts Hay veces nos pasa asi*.
+\fte Sometimes it happens to us like that.
+\com
+\idx
+3E
+3E
+3E
+tumbar_a*rbol-INC
+get
+\zoq 7@m w@7tpa tum komkuy.
+\fts Hacheas un palo*n.
+\fte You cut down a big tree.
+\com
+\idx
+\ref ZOH001R036 236
+\_no 00236
+tum kom
+kuy
+-pa tum komi7 kuy
+uno grande palo
+-INC one big
+tree
+-COM
+Page 51
+de7xe
+te

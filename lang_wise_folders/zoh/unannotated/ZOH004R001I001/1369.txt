@@ -1,0 +1,63 @@
+\LG MIG
+\PSH [t@ppanhkam-]
+\UND t@p=7anh=kam
+\MB coser, BOCA, trabar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG cerrar cosiendolo
+\ENG to sew shut
+\EXU 7@y+ t@p=7anh-kam-w@ tunuk 7@y tzek
+\XPSH [7@y t@ppanhkamm@ tunuk 7@y tzek.]
+\XSP Cerro* cosiendolo la barriga del guajolote.
+\XEN She sewed the belly of the turkey shut.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tap
+\RTGR T1
+\ROOT kam
+\RTGR P (12)
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex t@p=7anh=tzonh
+\_no 03183
+\LG MIG
+\PSH [t@ppanhtzonhnh-]
+\UND t@p=7anh=tzonh
+\MB coser, BOCA, unir
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG unir por coser
+\ENG to sew together
+\EXU 7@y+ t@p=7anh-tzonh-w@
+\XPSH [7@y_t@ppanhtzonhnh@.]
+\XSP Lo unio* la tela.
+\XEN She sewed the cloth together.
+\SYN t@p=tzonh
+\SEMF
+\ETYM
+\ETL
+\ROOT t@p
+\RTGR T1
+\ROOT tzonh
+\RTGR T3
+\DSRC HAJ02
+\CMTS
+\DATE 09/Aug/02
+\lex t@p.i
+\_no 03184
+ZOH004R0011001.txt
+\LG MIG
+\PSH [t@pi]
+\UND t@p. E
+\MB coser, NOM7
+\VAR
+\GRAM SV
+\SCI
+Page 1369

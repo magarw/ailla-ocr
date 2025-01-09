@@ -1,0 +1,66 @@
+\eg1 DCT1-DEM paper write -NOM3-on
+\fts este papel esta* escrito por encima
+\fte this paper is written on
+\com
+\idx
+\cmts picture of an envelope with writing on the front
+\ref 054
+\_no 00055
+\tx ya
+kandela 7@y p@jaxukk@
+tum waypi7tkuy
+\mb ya -7 kandela 7@y p@7 -jay -xuk-w@ tum way7-pi7t
+\sg1 DCT1-NOM1 vela 3E poner-APPL-3PL-COM uno pelo-trenzar-INSTR1
+\eg1 DCT1-NOM1 candle 3E put
+-APPL-3PL-COM one hair-braid -INSTR1
+\tx kukjo7
+kuk
+\mb
+ZOH001R0601001.txt
+-jo7
+\sg1 centro-Loc2
+\egl center-LOC2
+\fts esta candela le pusieron un listo*n en medio
+\fte they put a ribbon on the middle of this candle
+\com
+\idx
+\cmts picture of a candle with a ribbon tied in a bow around the middle
+\ref 055
+\_no 00056
+\tx ya
+\mb ya -7
+\sg1 DCT1-NOM1 hombre 3E tener -INC-3E
+\eg1 DCT1-NOM1 man 3E have -INC-3E hat
+p@n 7@y 7anhnitpay
+kojap 7@y kopakjo7
+p@n 7@y 7anhnit-pa -7@y kojap 7@y kopak -jo7
+sombrero 3E cabeza-Loc2
+3E head -LOC2
+\fts este hombre tiene su sombrero en la cabeza
+\fte this man has his hat on his head
+\com
+\idx
+\cmts picture of a man with a hat on
+\ref 056
+\_no 00057
+\tx y@d@
+p@n 7@y y@kjapp@yy@y
+kojap
+\mb ya -d@
+-d@ p@n 7@y yak -jap -7@y-w@ -7@y kojap
+\sg1 DCT1-DEM hombre 3E INSTR2-boca -SUF-COM-3E sombrero
+\eg1 DCT1-DEM man 3E INSTR2-mouth-SUF-COM-3E hat
+\fts este hombre tiene puesto su sombrero
+\fte this man has his hat on
+\com
+\idx
+\cmts same as 055
+\ref 057
+\_no 00058
+\tx y@d@
+nu teji7aw@
+-kuy7
+7anhk@jo
+Page 15
+deg@y
+t@k

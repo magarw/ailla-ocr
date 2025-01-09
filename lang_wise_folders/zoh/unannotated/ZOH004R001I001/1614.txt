@@ -1,0 +1,63 @@
+\SPL yak.witu
+\SLGR CAUS
+\SLGL regresar; devolver; dar vuelta (carreta, buey) // to return; to turn
+around (cart, ox)
+\EXU 1 7@y+ yak.witu'-w@ 7@y+ 7ok.tze7k-w@
+\XPSH 1 [7@y yakwituw@y 7oktze7kk@.]
+\XSP 1 Le volvio* la cosa que le dio* prestado.
+\XEN 1 He returned the thing that he borrowed.
+\EXU 2 witu' -w@+ 'am
+\XPSH 2 [wituwa*m.]
+\XSP 2 Ya regreso*.
+XEN 2 Now she's come back.
+\EXU 3 y@.y d@ witu'-pa
+\XPSH 3 [Yey d@ witupa.]
+\XSP 3 Ahorita regreso.
+\XEN 3 I'll be right back.
+\SYN
+SEMF move
+\ASP transition
+\ARG direction
+\NOM
+\SUB_jup=witu', ju7t-witu', ko.7ex-witu', ko.kunh-witu', ko.witu',
+\SUB k@.pit-witu, ten-witu', tzux-witu', tz@k-witu'
+\ETYM
+\ETL
+\ROOT witu7
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex wit@m
+\_no 03758
+\LG MIG
+\PSH
+\UND wit@m
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG ojo
+\ENG eye
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 14/Nov/94
+\lex wit@m_n@7
+\_no 03759
+\LG MIG
+\PSH
+\UND wit@m_n@7
+\MB ojo, agua
+\VAR wit@mn@7 also OK
+\GRAM sms
+Page 1614

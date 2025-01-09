@@ -1,0 +1,82 @@
+\idx
+\ref ZOH001R043 017
+\_no 00018
+\tx 7el ke mas jente,
+\mb 7el ke mas jente
+\sg1 el que mas gente
+\egl the that more people
+\zoq 7el ke mas jente,
+\fts el que tenga mas gente,
+\fte the one with more people,
+\com
+\idx
+\ref ZOH001R043 018
+\_no 00019
+\tx ga7
+\mb
+ka -7
+bi
+bi tz@n
+tz@npa*7.
+\sg1 DCT3-NOM1 DEF estar_sentado-INC-REL
+\eg1 DCT3-NOM1 DEF sit
+\tx 7el nobentay
+\mb 7el nobenta-7i
+ZOH001R0431001.txt
+-pa -v7k
+\zoq ga7 bi tz@npa*7k."
+\fts e*1 es el que va a sentarse."
+\fte he's the one that will take office."
+\com
+\idx
+\ref ZOH001R043 019
+\_no 00020
+\tx bweno 7entonses x@nhkejan@mm@
+\mb bweno 7entonses
+\sg1 bueno entonces
+\egl good then
+seys
+seys
+\sg] el noventa-y
+seis
+\egl the ninety -and six
+\ref ZOH001R043 020
+\_no 00021
+\tx_n@mxukpa
+-INC-REL
+g@ primeru de 7enero 7en
+x@nh -kej -An@m -w@ g@ primeru de 7enero 7en
+fiesta -verse -INDEF-COM DEM primero de enero
+festival-appear-INDEF-COM DEM first of january in
+en
+\zoq Bweno, 7entonses, x@nhkejan@mm@ g@ primeru de 7enero 7en 7el nobentay
+seys.
+\fts Bueno, entonces, amanecio* el primero de enero en el noventa y seis.
+\fte OK, then, the first of January in the ninety-six dawned.
+\com
+\idx
+ke ga
+\mb
+n@m-xuk-pa ke ka -7
+\sg1 decir-3PL-INC que DCT3-NOM1 NPL
+\egl say -3PL-INC that DCT3-NOM1 NPL
+d@kka 7@y yaktz@npa
+d@kkay 7@y yak -tz@n
+3E
+3E
+y
+7@y
+CAUS-estar_sentado-INC 3E
+-INC 3E
+\tx juxtixa d@kka bi kwalisyo*n d@kka
+\mb_juxtixa d@kkay bi kwalisyo*n d@kkay
+\sgl autoridad NPL DEF qualicio*n NPL
+\egl authority NPL DEF ???
+NPL
+CAUS-sit
+-pa
+\zoq N@mxukpake_gad@kkay 7@y yaktz@npay juxtixad@kkay, bi kwalisyo*nd@kkay.
+\fts Dicen que ellos tambien van a sentar sus presidente, los de la
+qualicio*n.
+\fte They say that they will seat their mayor, their officials (?).
+Page 5

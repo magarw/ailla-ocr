@@ -1,0 +1,70 @@
+\fte It's inside the guts and the shits.
+\com
+\idx
+\ref ZOH001R036 362
+\_no 00357
+\tx 7@m p@jaba*m
+\mb
+\zoq 7am p@jaba*m jemji7ok.
+\fts Le echas en todo.
+7@m p@7 -jay -pa -7am
+\sg1 2E poner-APPL-INC-YA
+\egl 2E put -APPL-INC-NOW all over
+\fte You put it on everywhere.
+\com
+\idx
+\ref ZOH001R036 363
+\_no 00358
+\tx nya
+xiw@
+\mb ni-ya xinh
+\sg1 ni-NEG hincharse-nINC
+\eg1 no-NEG swell -nINC
+\zoq Nya xiw@.
+\fts No se hincha.
+\fte It won't swell.
+\com
+\idx
+\ref ZOH001R036 364
+\_no 00359
+\tx ya xiw@
+xinh
+-A
+\mb__ya
+-A
+\sg1 NEG hincharse-nINC
+\eg1 NEG swell
+-nINC
+\zoq Ya xiw@.
+\fts No se hincha.
+\fte It won't swell.
+\com
+\idx
+\ref ZOH001R036 365
+\_no 00360
+ZOH001R0361001.txt
+jemji7ok
+jemji7ok
+por_todo
+\tx p@7tpa
+de 7una bes bi
+\mb p@7t -pa de 7una bes bi
+\sg1 pasar-INC de una
+ver DEF dolor
+\egl pass -INC of one see DEF pain
+\ref ZOH001R036 366
+\_no 00361
+\tx ya toyya*m
+\mb__ ya
+toy
+-wa - 7am
+\sg1 NEG doler-nIMPV-YA
+\egl NEG hurt -nIMPV-NOW
+dolo*r
+dolo*r
+\zoq P@7tpa de 7una bes bi dolo*r.
+\fts Pasa de una vez el dolor.
+\fte That pain will pass at once.
+\com
+\idx
+Page 78

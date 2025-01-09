@@ -1,0 +1,65 @@
+ZOH001R0611006.txt
+\CMTS tirar: una pistola o una piedra. le pego* por tirar algo
+\date 03/Jan/80
+\lex tanh
+\_no 00156
+\LG MIG
+\PSH
+\UND tanh
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG estar ancho
+\ENG to be wide
+\SPL tanh.7@m
+\SLGR PASS
+\SLGL hacerse ancho // to become wide
+\EXU tanh.'@m-w@ de.' mangu_7okox ya jak(ke) p@j.i'=tuk-w@
+\XPSH
+[Tanhnh@mm@ de mangu 7okox ya jak
+paji-tukk@.]
+\XSP se hizo ancho esta mata de mango, no crecio* mas alto.
+\XEN This mango shrub grew wide, it didn't grow taller.
+\SYN
+\SEMF condition
+\ASP state
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT tanh
+\RTGR 12
+\DSRC HAJ95
+\CMTS se trata de matas
+\date 03/Jan/80
+\lex tik
+\_no 00157
+LG MIG
+\PSH
+\UND tik
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tocar (con el hombro)
+\ENG to touch (with the shoulder)
+\SPL tik. 7oy
+\SLGR ANTIP
+\SLGL tocar // to touch
+\SLGR NO PASS
+\SPL tik.ney
+\SLGR ASSUM1
+\SLGL estar recargado // to be overloaded
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF body, touch
+\ASP semelfactive
+\ARG
+\NOM
+Page 106

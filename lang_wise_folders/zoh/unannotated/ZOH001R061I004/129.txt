@@ -1,0 +1,63 @@
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex t@k-k@.paj
+\_no 00322
+\LG MIG
+\PSH [t@kk@paj]
+\UND tak-k@.paj.0
+\MB casa, AFUERA, cercar, NOM6
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG paral de la casa
+\ENG fence around the house
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex t@n. @7
+\_no 00323
+\LG MIG
+\PSH [t@n@7]
+\UND t@n.A7
+\MB echar_goma, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG goma; trementina
+\ENG sap; pitch
+\EXU tzin 7@y+ t@n.A7
+\XPSH [tzin 7@y t@n@7]
+\XSP goma de ocote
+\XEN pine pitch
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT t@n
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex t@p.i
+\_no 00324
+\LG MIG
+\PSH [t@pi]
+\UND t@p.E
+\MB coser,
+\VAR
+\GRAM SV
+NOM 7
+ZOH001R0611004.txt
+Page 129

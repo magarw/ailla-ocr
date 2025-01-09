@@ -1,0 +1,64 @@
+\USE
+\SPG roble
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 11/Nov/94
+LF: kuy
+\lex rroble kortees
+\_no 02879
+\LG MIG
+\PSH
+\UND roble kortees
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG a*bol: roble
+\ENG tree: oak
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH
+\date 25/Jun/96
+\lex rronrroonh
+\_no 02880
+\LG MIG
+\PSH [rronrro*nh]
+\UND rronrroonh
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG ronro*n
+\ENG a type of beetle
+\SPL
+\SLGR
+\EXU popo' rronroonh
+\XPSH [popo rronro*nh]
+\XSP ronro*n blanco
+\EXU pu7tz.pu7tz rronrroonh
+\XPSH [pu7tzpu7tz rronrro*nh]
+\XSP ronro*n amarillo
+\EXU y@k.yak rronrroonh
+\XPSH [y@ky@k rronrro*nh]
+\XSP ronro*n negro
+\EXU tzux rronrroonh
+ZOH004R0011001.txt
+Page 1240

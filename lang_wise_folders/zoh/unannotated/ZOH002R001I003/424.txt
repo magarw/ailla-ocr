@@ -1,0 +1,66 @@
+(b)
+bi nu' 'øy waxxø bi mixtu'
+bi nu? ?ǝy+ was-wə
+(a)
+bi mištu?
+DEF perro 3E+ morder-COM DEF gato
+'El perro mordió el gato.'
+bi nu? ?ǝy waššə bi mištu?
+bi mištu? ?ǝy waššə bi nu?
+bi nu? bi mištu? ?ǝy waššə
+bi mištu? bi nu? ?ǝy waššə
+?ǝy waššə bi nu? bi mištu?
+?ǝy waššə bi mištu? bi nu?
+Actor
+Actor
+bi pən ?ǝy ciwe bi toto? bi yomá?
+bi pən ?ǝy ciwe bi yomá? bi toto?
+bi pən bi toto ?ay ciwǝ bi yomá?
+bi pən bi yomá? ?ǝy ciwə bi toto?
+bi toto ?ǝy ciwə bi pən bi yomá?
+bi toto bi pən ?ǝy ciwə bi yomá?
+bi pən bi toto bi yomá? ?ǝy ciwǝ
+Actor
+Actor
+417
+=
+=
+=
+=
+perro
+gato
+=
+3. Transitive verbs with three overt NPs
+The three arguments are Actor, Patient, and Dative, a term that covers
+recipient, benefactor, or causer roles. Since in these cases the patient is always
+inanimate, fixed word order is only required to disambiguate the Actor and
+Dative arguments. Actor NPs must precede Dative NPs; Patient NPs can go
+anywhere. (I should note that there are very few examples in texts of clauses
+with an overt NP for the Dative argument, and even fewer with all three
+arguments expressed by NPs.)
+perro
+gato
+perro
+Actor
+Actor = gato
+bi pøn 'øy tziwo bi toto bi yomá'
+bi рәп ?əy+ ci?-wə
+bi toto? bi yomaa?
+DEF hombre 3E+ dar-COM DEF papel DEF mujer
+'El hombre dió la carta á la mujer.'
+hombre
+hombre
+Actor
+hombre
+Actor = hombre
+Actor hombre
+Actor = hombre
+Actor
+Actor
+Actor
+=
+=
+=
+=
+=
+hombre

@@ -1,0 +1,63 @@
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT mo7k
+\RTGR TX
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex k@pi-mo7k=n@k
+\_no 01734
+\LG MIG
+\PSH [k@pimo7kn@k-]
+\UND_k@pi=mo7k=n@k
+\MB len~a, abrazar, irse
+\VAR
+\GRAM vt+dir:incorp
+\SCI
+\USE
+\SPG 11evar al lado la len~a (una mujer)
+\ENG to carry firewood on the hip (like a woman)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 mo7k
+\RTGR 1 TX
+\ROOT 2 n@k
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS CK-GRAM: OK/TK
+\date 25/Jun/96
+\lex k@pi-po'
+\_no 01735
+\LG MIG
+\PSH [k@pipo-]
+\UND k@pi-po7
+\MB len~a, rajar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG rajar len*a
+\ENG to split firewood
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT po7
+\RTGR T3
+\DSRC HAJ94
+Page 750

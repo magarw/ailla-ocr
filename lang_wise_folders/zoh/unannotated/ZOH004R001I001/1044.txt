@@ -1,0 +1,62 @@
+ZOH004R0011001.txt
+\CMTS analysis??? ok/OK:TK, I changed it
+\date 25/Jun/96
+\lex_num=tz@n
+\_no 02422
+\LG MIG
+\PSH [numtz@n-]
+\UND num=tz@n
+\MB robar, estar_sentado
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG esconderse
+\ENG to hide oneself (seated)
+\EXU_num=tz@n-w@ de.ji
+\XPSH [Numtz@nn@ deji.]
+\XSP Se escondio* alli*.
+\XEN She hid herself there.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 num
+\RTGR 1 T1
+ROOT 2 tz@n
+\RTGR 2 P, (12)
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex num=tz@n.kuy7
+\_no 02423
+\LG MIG
+\PSH [numtz@nkuy7]
+\UND_num=tz@n.kuy7
+\MB robar, estar_sentado, INSTR1
+\VAR
+\GRAM instr1
+\SCI
+\USE
+\SPG escondite
+\ENG hiding place
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 num
+\RTGR 1 T1
+\ROOT 2 tz@n
+\RTGR 2 P, (12)
+\DSRC HAJ94
+\CMTS
+\date 05/Oct/94
+\lex_num=wit
+\_no 02424
+\LG MIG
+\PSH [numwit-]
+\UND num-wit
+Page 1044

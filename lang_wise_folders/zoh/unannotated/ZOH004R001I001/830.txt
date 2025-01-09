@@ -1,0 +1,64 @@
+\_no 01924
+\LG MIG
+\PSH
+\UND meya
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG mar
+\ENG sea
+\EXU mea+jo7
+\XPSH [mea*jo7]
+\XSP en el mar
+\XEN in the sea
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC TK94
+\CMTS
+\date 25/Jun/96
+\lex mea jon
+\_no 01925
+LG MIG
+\PSH
+\UND meya jon
+\MB mar, pa*jaro
+\VAR meya jon
+\GRAM SS
+\SCI
+\USE
+\SPG gaviota
+\ENG seagull
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+LF: jon
+\CMTS
+\date 25/Jun/96
+\lex mea+jo7+k koke
+\_no 01926
+\LG MIG
+\PSH [meajo7k koke]
+\UND meya +jo7 +P@7k koke
+\MB mar, LOC2, REL, pescado
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG pescado del mar
+\ENG seafood
+\EXU
+\XSP
+\XEN
+ZOH004R0011001.txt
+Page 830

@@ -1,0 +1,63 @@
+(83) Qapa-x-ta,
+tal.vez-lo.mismo=3sENF
+'Tal vez sí,'
+(84) 0-chi-tzan
+B3s-decir-pues
+'dijo el patrón,'
+(85) n=0=xi'=tzan
+lo-1
+INC=B3s-ir-pues ver-INF A3s-SR:PAC
+'y lo fue a ver,'
+(86) ma
+(87) li
+PROX B3s-llegar.allá
+'cuando llegó allá,'
+0-poon,
+(88) Qap
+tx'apo-'n=0=qa=kya
+INJ insertar-PART=B3s=PL=3pENF
+'las colas de los coches estaban metidas.'
+patroon,
+patrón
+chiix chi-jaa=tz,
+tal.vez posible B3p=subir=DIR
+'Tal vez es posible sacarlos,'
+(89) 0-chi-tzan
+B3s-decir pues
+'dijo el patrón,'
+(90) n=0=ja=tz
+INC=B3s =DIR=DIR
+'y los arrancó."
+(92) 0=0=xi'
+patroon,
+patrón
+(91) Mii'n, mii'n, 0-chi=tzan
+NEG
+Luuch,
+NEG B3s-decir-pues Pedro
+'No, no, dijo Pedro,'
+CPL.DEP=B3s=DIR
+t-ee,
+t-b'aqo-'n.
+A3s-arrancar-SD
+'lo dijo,'
+(93) noq-an-x chi ja=tz
+t-q'ama-'n,
+A3s-decir-SD
+(95) Nn=0-iky'
+(94) kukx-ka-tzan_0=0=ook
+b'oq-1,
+solo-? solo B3p DIR=DIR_arrancar-PAS
+'sólo se quiebran,'
+así pero pues CPL.DEP=B3s-entrar
+'y así pasó.'
+nimaal t-jee'
+AUM A3s-cola
+t-i'j-jo.
+tzoqpaj juun=tl el Luuch,
+INC=B3s=DIR escaparse uno=otro vez Pedro
+'Pedro se escapó otra vez,'
+kuch.
+marrano
+A3s-SR:sobre=DEM
+9

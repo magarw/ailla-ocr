@@ -1,0 +1,62 @@
+\XSP
+\XEN
+\SYN
+\ROOT tzanh
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tzatz.neenh
+\_no 00065
+\LG MIG
+\PSH [tzatzne*nh]
+\UND tzatz.neenh
+\MB rajar, MED1
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG tira
+\ENG strip (of paper, etc.)
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzatz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex tzix.naanh [1]
+\_no 00066
+\LG MIG
+\PHO [tzixna*nh]
+\UND tzix.naanh
+\MB picar, MED
+\VAR
+\GRAM meas
+\SPG un piquete
+ENG a bite or sting
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT tzix
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex tzix.naanh [2]
+\_no 00067
+\LG MIG
+\PHO [tzixna*nh]
+\UND tzix.naanh
+\MB tirar_pedo, MED
+\VAR
+\GRAM meas
+\SPG pedo
+ZOH001R0611003.txt
+Page 23

@@ -1,0 +1,109 @@
+tum@7k
+\tx 7@m p@kpa
+p@k
+7ay bi
+ZOH001R0361001.txt
+tum@* bi
+-pa tum@-v7k 7ay7 bi tum@ bi
+\sg1 2E agarrar-INC uno -REL hoja DEF uno
+\egl 2E get
+\mb
+7@m
+DEF
+-INC one -REL leaf DEF one DEF
+\tx ya
+\mb
+\sg1 DCT1-NOM1 3PSN
+\eg1 DCT1-NOM1 3PSN
+ya -7
+7@yti
+7@yti7
+\zoq 7@m p@kpa tum@7k 7ay bi tum@* bi ... ney bi 7awin y@7@yti.
+\fts agarras la otra hoja la otra su compan~ero de esto.
+\ref ZOH001R036 896
+\_no 00879
+de 7@yti
+\tx ney bi 7awin
+\mb ney
+bi 7awin7 de 7@yti7
+\sgl mismo DEF hermano/a de 3PSN
+\egl self DEF sibling of 3PSN
+\fte you get another leaf, the one, the... the same companion of this one.
+\com
+\idx
+\zoq Ney bi 7awin de 7@yti.
+\fts Su mismo compan~ero de este.
+\fte The same fellow of this one.
+\com
+\idx
+\ref ZOH001R036 897
+\_no 00880
+\tx kay
+7@m yumpa
+\mb ka -y 7@m yum
+\sg1 DCT3-TMP 2E
+\eg1 DCT3-TMP 2E
+\com
+\idx
+\tx pote
+\mb
+boil
+po7t -E
+-ра
+hervir(se)-INC 2E
+\tx ke m 7ammapa gay
+\mb ke
+\sg1 que 2E ver -INC DCT3-TMP hervir(se)
+\egl that 2E see -INC DCT3-TMP boil
+\ref ZOH001R036 898
+\_no 00881
+\tx gay
+\mb
+ka -y
+\sg1 DCT3-TMP 2E
+\eg1 DCT3-TMP 2E
+7@m 7amma-pa ka -y
+\sgl moler-NOM 3
+\egl grind-NOM3
+7@m yumpa
+7@m yum
+-INC 2E boil
+7@m y@kt@nhjaba*m
+7@my@k
+-tanh
+7@m yumpa
+7@m yum
+hervir(se)-INC 2E
+-INC 2E
+yumpa m
+yum
+\zoq Kay_7@m yumpa, 7@m yumpa, 7@m yumpa, 7axta kem 7ammapa gay yumpa*m.
+\fts Ya lo hierves, lo hierves, lo hierves, hasta lo veas que ya esta*
+\fte Then you boil it, you boil it, you boil it, until you see that it's
+boiled.
+ney
+ney
+mismo DEF hermano/a
+self DEF sibling
+-pa
+bi 7awin
+bi 7awin7
+-pa -7am
+-INC-YA
+-INC-NOW
+-
+INSTR2-cortar_con_machete-APPL-INC-YA
+\zoq Gay 7@m yakt@nhjaba*m kwand bi
+bi pote.
+\fts Luego ya se lo echas el polvo.
+\fte Then now you chop it up until it's - it's powder.
+Page 190
+7axta
+-ра 7axta
+hervir(se)-INC hasta
+-INC until
+kwand bi - bi
+-jay -pa -7am kwando bi bi
+cuando DEF DEF
+INSTR2-cut_with_machete -APPL-INC-NOW when DEF DEF
+boil

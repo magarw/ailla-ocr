@@ -1,0 +1,62 @@
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 18/Oct/94
+\lex rraya
+\_no 02866
+\LG MIG
+\PSH
+\UND rraya
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG raya
+\ENG stripe; lightning
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH HAJ:96, made it an rr instead of r
+\date 19/Jun/96
+\lex_rraya=tz@k
+\_no 02867
+\LG MIG
+\PSH [rrayatz@k-]
+\UND rraya-=tz@k
+\MB raya, hacer
+\VAR
+GRAM vt
+\SCI
+\USE
+\SPG rayar
+\ENG to lightning
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-PH/OK: TK
+\date 25/Jun/96
+ZOH004R0011001.txt
+\lex rredondo
+\_no 02868
+\LG MIG
+Page 1235

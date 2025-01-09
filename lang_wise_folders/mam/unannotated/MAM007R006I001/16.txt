@@ -1,0 +1,84 @@
+(188) nn=0=ook
+INC=B3s=entrar
+'tocando guitarra,'
+(189) n=0=q'ajt
+(190) T-ja-pan
+INC=B3s=sonar
+'tocaba el tío conejo.
+(191) je' q'any,
+hola vos
+'hola, vos.'
+(193) nti'
+A3s-subir-DIR tío
+'Cuando llegó el tío coyote,'
+(192) ¿tii tqal
+qué qué
+"¿qué estás haciendo?'
+NEG
+'nada, tío.'
+kyitaar
+guitarra
+tiiya.
+tío
+t-ook
+tiiya
+A3s-entrar A3s-SR:AGT tío
+tiiya
+(196) 0-chi-tzan
+n=0=b'aj
+(198) at=0
+INC=B3s=terminar
+B3s-decir-pues tío
+'dijo el tío coyote.'
+(195) Per baay tiiya 0-kb'-eel-a
+pero bien tío
+'Bueno tío, te voy a matar tío,'
+kayoot ja'la,
+coyote ahora
+(194) Per baay tiiya
+maa=tzan
+pero bien tío ahora pues PROX=B2s=encontrar-PAS=2s
+w-u'n=a
+(200) teen=kj-ta
+tiiya
+Als-SR:AGT=1s
+tío
+'Bueno, tío, hasta ahora te encontré, tío.
+t-u'n
+(197) Mii'n tiiya, mii'
+tiiya kayoot.
+coyote
+NEG tío NEG tío
+'No tío, no tío, hay una fiesta,'
+t-u'n-a?
+B2s-bajar-POT=2s
+A2s-SR:AGT-2s
+estar=DIR=2sENF
+'quédate en mi lugar.”
+ma=0=kan-eet=a
+tiiya, at=0
+jun nimaal kasamyeent
+EXIST=B3s un AUM casamiento
+'hay un casamiento que se celebrará.'
+(199) Mii' tiiya_teen=kj=ta
+NEGtío
+'No, tío, quédate a tocar en mi lugar,'
+t-ee
+A3s-SR
+EXIST=B3s
+w-u'n=a
+tiiya
+Als-SR:AGT=1s tío
+koneej.
+conejo
+chiinb'a-l t-ee
+estar=DIR=2sENF tocar-INF A3s-SR
+jun nimaal nin-q'iij
+un AUM gran-día
+k=b'aj-eel.
+B3s=terminar-POT
+n-xeel=a.
+Als-SR:lugar=1s
+17
+n-xeel=a,
+Als-SR:lugar=1s

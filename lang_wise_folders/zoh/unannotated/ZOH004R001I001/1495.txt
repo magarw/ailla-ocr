@@ -1,0 +1,64 @@
+\SCI
+\USE
+\SPG hacer
+\ENG to do
+\SPL tz@k.7oy
+\SLGR ANTIP
+\SLGL hacer // to do
+\SPL ney tz@k.7@m
+\SLGR PASS
+\SLGL hacerse // to be done
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF build
+\ASP activity
+\ARG
+\NOM tz@k.i, tz@k.ja.e
+\SUB 7ok.tz@k-tzak. '@y, 7ok.tz@k. '@y, k@.tz@k. '@y, ni.tz@k. '@y,
+\SUB nik.tz@k. '@y, tz@k.jay, tz@k.ki7px, tz@k=ko.tzonh, tz@k=mux,
+\SUB tz@k-tuk, tz@k-tzak, tz@k-witu'
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex tz@k.i
+\_no 03476
+\LG MIG
+\PSH [tz@ki]
+\UND tz@k.E +P@7k
+\MB hacer, NOM7, REL
+\VAR tz@ki7k
+\GRAM SV
+\SCI
+\USE
+\SPG cosa hecha
+\ENG a thing that was made
+\EXU 1 tz@k. E+'am+p@7k k@x.E d@+ tzi'-w@
+\XPSH_1 [Tz@kiyamp@7k_k@xi d@ tziw@.]
+\XSP 1 Una comida hecha me dio*.
+ZOH004R0011001.txt
+tz@ki*7 REL
+\XEN 1 She gave me a prepared dish.
+\EXU 2 tz@k.E+'am
+\XPSH 2 [tz@kiam]
+\XSP 2 una cosa hecha
+\XEN 2 a thing that was made
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\lex tz@k.ja.e
+\_no 03477
+\LG MIG
+\PSH [tz@kja*y]
+\DSRC HAJ94
+\CMTS CK-all HAJ:96 ok, hard to produce an example/fixed: TK
+\date 26/Jun/96
+Page 1495

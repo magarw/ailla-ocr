@@ -1,0 +1,83 @@
+\zoq OSM: 7@y 7oktzajj@mpa.
+\fts OSM: Si* se despega.
+\fte OSM: It unsticks.
+\com
+\idx
+\ref ZOH001R036 446
+\_no 00439
+\tx
+7a
+gay
+joypi7t
+kay
+\mb 7ay
+\sgl ahi*
+mas ya xinhnha*m
+ka -Y joypi7t ka -y mas ya xinh
+-w@ - 7am
+DCT3-TMP otro_di*a DCT3-TMP mas NEG hincharse-COM-YA
+\egl there DCT3-TMP next_day DCT3-TMP more NEG swell
+\zoq 7a gay joypi7t kay mas mas ya xinhnha*m.
+\fts De ahi* el otro di*a ya no esta* hinchado.
+\fte Then the next day now it's less swollen.
+\com
+\idx
+\ref ZOH001R036 447
+\_no 00440
+\tx
+7@y manhkuy
+\mb
+toy -way-w@ -7am 7@y manh -kuy7
+\sgl doler-???-COM-YA
+3E pisar-INSTR1
+\egl hurt -???-COM-NOW 3E step -INSTR1
+toywayya*m
+\zoq Toywayya*m 7@y manhkuy.
+\fts Ya no le duele su pie.
+\fte Now his foot doesn't hurt.
+\com
+\idx
+\ref ZOH001R036 448
+\_no 00441
+\tx n@mmobam
+7@y witt@
+\mb n@m-7oy
+-pa -7am 7@y wit
+\sg1 DO -ANTIP-INC-YA
+3E
+\eg1 DO -ANTIP-INC-NOW 3E
+\zoq N@mmobam 7@y witt@.
+\fts Ya puede caminar.
+\fte Now he can walk.
+\com
+\idx
+\ref ZOH001R036 449
+\_no 00442
+\tx de7xe
+\mb te
+ZOH001R0361001.txt
+7@y tz@kxukpa
+-7xe 7@y tz@k -xuk-pa
+- wa
+andar-dINC
+walk -dINC
+tzajin waxe
+tzajin wax -A7
+\sg1 DCT2-SIM 3E
+hacer-3PL-INC culebra morder-NOM2
+\eg1 DCT2-SIM 3E do -3PL-INC snake bite -NOM2
+\ref ZOH001R036 450
+\_no 00443
+\zoq De7xe 7@y tz@kxukpa tzajin waxe.
+\fts Asi* hace la mordida de culebra.
+\fte That's how he does snake bite.
+\com
+\idx
+\tx
+GSM: tzajin waxe
+go7
+go7
+\mb GSM tzajin wax -A7
+\sg1 GSM: culebra morder-NOM2 BNF
+Page 96
+-COM-NOW

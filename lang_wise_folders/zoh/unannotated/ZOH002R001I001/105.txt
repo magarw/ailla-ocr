@@ -1,0 +1,40 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+(xii) mixtu kømangngøyyø tum kuy'okoxgøxi
+mištu 0 kǝ.maŋ.?ǝy-wǝ
+tum kuy=?okoš+g?ši
+cat 3A AWAY. *step4.SUF-COM one tree-shrub+on
+'i kay tzapjø tennø
+?i ka.y
+caphə? O ten-wǝ
+and DCT3.TMP on_top 3A stand-COM
+'The cat went up in the tree and now it's standing up there.'
+4
+(xiii) tøk 'øy 'angtung winjo' tennø bi mixtu
+bi mištu
+tək ?ǝy+ ?aŋ.tun
+win.ho? 0 ten-we
+house 3E+ MOUTH.road FACE.LOC2 3A stand-COM DEF cat
+'The cat is standing in front of the door.'
+(xiv) yakko 'øy po' tum kaxnang winjong
+yakkə ?əy+ pə?-A? tum kaš.naaŋ win.hoon
+VOL 3E+ put-IMPV one step. MEAS FACE.DIR4
+'Let him take a step forward.'
+(ZOH001 R0601001-062)
+(ZOH001 R0601001-065)
+(ZOH001R024-170)
+There are three spatial adverbs that refer only to directions or locations in
+San Miguel Chimalapa. The river Espíritu Santo runs from north to south,
+downhill from the Chimalapa wilderness. The road to Santa María Chimalapa
+begins at the northernmost, uppermost edge of town, and the road to Juchitán
+begins at the southernmost, lowest edge of town. Uphill towards Santa María
+can be indicated with k?š?na?, and downhill can be indicated by ?okhona?.
+These terms only apply within the town if you want to say 'up into the
+mountains', you have to use another term. The third term, gaha?k wintu?k,
+'across the river', refers only to the neighborhood on the other side of the
+Espíritu Santo river from the main part of town (where the church is).
+The indicates a verb root that never appears independently (without some derivational
+affixes) in the modern MIG Zoque lexicon. So, for example, you can't say də maŋpa, 'I will
+step'. Many of these roots, like maŋ-, appear so frequently in derived stems that it is possible
+to deduce their meaning and provide a gloss, but the * is used to remind us that this gloss is
+my guess, and not a native speaker translation.
+80

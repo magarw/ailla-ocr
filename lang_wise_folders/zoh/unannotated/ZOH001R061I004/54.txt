@@ -1,0 +1,63 @@
+\ENG because one wants to
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS says it's not 'por gusto' (likewise TK)
+\date 24/Jun/96
+\lex ko.mo.e7
+\_no 00131
+\LG MIG
+\PSH [komoe7]
+\UND ko.monh.E7
+\MB OTRO, dormir, NOM7
+\VAR komoe' koke
+\GRAM
+\SCI
+\USE
+\SPG pescado que esta* en culeca
+\ENG fish that is amidst its young
+\EXU koke ko.monh-w@+@7k
+\XPSH [koke komonhnh@*7k]
+\XSP pescado que esta* en culeca
+\XEN a fish that is amongst its young
+\SYN
+\SEMF EZ
+LF: koke
+ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS laryngealized final V; TK fixed it
+\date 24/Jun/96
+\lex ko.nakx
+\_no 00132
+\LG MIG
+\PSH [konakx]
+\UND ko.nakx.0
+ZOH001R0611004.txt
+\MB OTRO, majar, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG mazo de palo
+\ENG wooden mallet
+\EXU ko.nakx kuy
+\XSP mazo de palo
+\XEN wooden mallet
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT nakx
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+Page 54

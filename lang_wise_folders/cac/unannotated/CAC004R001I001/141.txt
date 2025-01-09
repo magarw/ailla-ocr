@@ -1,0 +1,29 @@
+rdana
+136
+than once. The pluralization of distributive positionals
+thus implies a plurality of objects which carry the specified
+features. On the other hand, the features specified by non-
+distributive positionals are such that a given object may have
+more than one feature. An object may be dented once, for in-
+stance, or it may be dented many times. The pluralization of
+non-distributive positionals thus does not necessarily imply
+a plurality of objects carrying the features specified. In
+fact, there are two plurals for both kinds of positionals.
+One plural specifies a plurality of objects, each of which is
+singly characterized by the specified feature. The other plural
+specifies a plurality of features, which may either be distribut-
+ed across many objects, or concentrated on a single object. The
+distinction between the two types of positionals is based large-
+ly on the fact that for distributive positionals, the two plu-
+rals are semantically identical; for non-distributive position-
+als they are distinct.
+The noun stems derived from positional roots by //u? //
+form their plurals by replacing ///u? // with //xap¹ //. These
+stems occur almost exclusively in compound stems (see pages 97
+and 104); the plural expressed by //xap' // in these compounds
+is plurality of the objects showing the features specified by
+the positional root. Thus, //púc ¹-u?-Ní? /// pug-nosed (person)
+is matched by a plural //púc '-xap¹-Ní? // pug-nosed (persons),
+since //Ní? // nose describes an object which is distributed one
+to a person. However, the compound stem //léw-xap¹-?ók // bow-
+legged (person) has no parallel form * //léw-u?-?ók //, since the

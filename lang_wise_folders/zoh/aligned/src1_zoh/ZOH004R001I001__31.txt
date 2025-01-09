@@ -1,0 +1,48 @@
+XPSH [Ye7chukk@ t@k7anhj@7 juxtix7anhji.]
+\XSP Llegaron en San Miguel ontal presidente.
+\XEN They arrived in San Miguel at the mayor's office.
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\DATE 03/Jan/1980
+\_no 00070
+\LG MIG
+\PSH [7anhji*7k]
+\UND 7anh-ji +P@7k
+\MB X, LOC1, REL
+\GRAM S
+\SCI
+\USE
+\SPG unico
+\ENG only
+\EXU
+\XSP
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS GET 7anh-ji(7) alone: DONE
+\date 24/Jun/96
+\_no 00071
+\PSH [7anhjipx-]
+\UND 7anh-jipx
+\MB BOCA, quemarse
+\GRAM vt
+\SCI
+\SPG quemar por toda la orilla
+\ENG to burn all around the edge
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SEMF
+\ETYM
+\ROOT jipx
+\RTGR 12
+ZOH004R0011001.txt
+\date 15/Jul/95

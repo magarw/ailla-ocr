@@ -1,0 +1,63 @@
+\SUB ten=p@j. '@y, ten-witu', win-ten-tuk, win=n@k-ten. '@y
+\ETYM contracted from *tenay ?: no other lg has {ten}
+\ETL
+\ROOT ten
+\RTGR 11
+\DSRC TK94
+\CMTS
+\CMTS caus2 yak+ ten parar
+\date 03/Jan/80
+\lex ten=p@j.'@y
+\_no 02975
+\LG MIG
+\PSH [tenp@jj@y-]
+\UND ten-p@j.7@y
+\MB pararse, largo, VERS2
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG empinarse (was reclinarse)
+\ENG to stand on tiptoe
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ten
+\RTGR 11
+\DSRC HAJ94
+\CMTS CK-PH/OK: TK, CK-GR HAJ:96, ok
+\CMTS can't get tenp@ji7@yy@, but I'll bet that's where it comes from; NO
+%p@j takes .7@y directly: TK
+\date 26/Jun/96
+\lex ten-witu'
+\_no 02976
+\LG MIG
+\PSH [tenwitu-]
+\UND ten-witu7
+\MB
+\VAR
+\GRAM vi+dir
+\SCI
+\USE
+\SPG dar vuelta
+\ENG to turn around
+\EXU 7@y+ yak.ten=witu-w@
+\XPSH [7@y yaktenwituw@.]
+\XSP Le dio* vuelta.
+\XEN She turned around.
+\SYN
+ZOH004R0011001.txt
+SEMF
+\ETYM
+\ETL
+\ROOT 1 ten
+\RTGR 1 Il
+\ROOT 2 witu
+\RTGR 2 I1l
+\DSRC HAJ94
+\CMTS
+Page 1280

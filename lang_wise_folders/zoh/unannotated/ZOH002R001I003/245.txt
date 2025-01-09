@@ -1,0 +1,44 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+8.3.3. V2 is a stative or process verb
+The second level in the Foley & Olson hierarchy consists of SVCs in which
+the second component is a stative or process verb.
+(8.27)
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+tøkkøyyø tzokojo' ju'tkammø
+O tək.?ǝy-wə
+coko?+ho? 0 hu?t-kam-wə
+3A casa.VERS2-COM lodo+LOC2 3A remover=trabarse-COM
+'Se metió en el lodazal. Se atascó.'
+ney tzamkejxukøpám
+ney cam=keh-šuk-A-pa+?am
+RCP platicar-verse-3PL-RCP-INC+YA
+ke metzangpø pø'tpa kom yangke
+ke mecaŋ+pə?k 0 pǝ?t-pa
+komo yanke
+que dos+REL
+3A pasar-INC como gringo
+'Ya se estaban descubriendo que los dos pasa como gringo.'
+'øy ko'antøtztzø
+?əy+ ko.?an=tətz-wə
+3E+
+'Lo secó cerca del fuego.'
+SOC.calentarse=secarse-COM
+wittzunnə
+0 wit=cun-wə
+3A andar=alegrarse-COM
+'Anduvo presumidu.'
+xingjøttám bi xiwi'
+0 šiŋ=hət-wǝ+?am
+(ZOH001R025-182-3)
+230
+(ZOH001R017-047)
+bi šiŋ.E?
+3A hincharse=rebajar-COM+YA DEF hincharse.NOM3
+'Ya desinchó la hinchazón.'
+(lexicon)
+(lexicon)
+(lexicon)

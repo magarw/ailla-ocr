@@ -1,0 +1,64 @@
+\USE
+\SPG cortar cafe* sin pico
+\ENG to pick coffee using the hands
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzu7t
+\RTGR TX
+\DSRC TK94
+\CMTS
+\date 11/Jan/96
+\lex kakawa
+\_no 01154
+\LG MIG
+\PSH
+\UND kakawa
+\MB
+\VAR kakaw
+\GRAM S
+\SCI
+\USE
+\SPG cacao
+\ENG cacao
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS VAR is from Spanish
+\date 07/Feb/96
+LF: kuy
+\lex kakawa jay@7
+\_no 01155
+\LG MIG
+\PSH
+\UND kakawa jay@7
+\MB cacao, flor
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG flor de cacao
+\ENG cacao flower
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+ZOH004R0011001.txt
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Nov/94
+Page 503

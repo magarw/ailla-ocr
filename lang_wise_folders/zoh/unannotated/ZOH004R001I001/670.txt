@@ -1,0 +1,66 @@
+\SPG arco iris
+\ENG rainbow
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 kum
+\RTGR 1 T2
+\ROOT 2 7utz
+\RTGR 2 T3
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex kumpae
+\_no 01544
+\LG MIG
+\PSH
+\UND kumpaye
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG compadre
+\ENG godfather
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH
+\date 24/Jun/96
+\lex kumpan jatonh
+\_no 01545
+\LG MIG
+\PSH
+\UND kumpan jatonh
+\MB compadre, padre
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG padrino
+\ENG godfather
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH
+ok; No, but I fixed it
+-
+ZOH004R0011001.txt
+sounds like he alternates between n & m, but probably it's m
+Page 670

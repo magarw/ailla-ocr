@@ -1,0 +1,63 @@
+\PSH
+\UND waja
+\MB
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG bueno; sano
+\ENG good; healthy
+\EXU bayun waja
+\XSP muy fiel, muy bueno
+\XEN very faithful, very good
+\EXU jak waja
+\XSP muy bueno
+\XEN very good
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+\lex waja p@n
+\_no 03819
+LG MIG
+\PSH
+\UND waja p@n
+\MB bueno, hombre
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG hombre muy bueno; misericordioso
+\ENG a very good man
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+\lex w@ja tzamm@7
+\_no 03820
+\LG MIG
+\PSH
+\UND waja tzamm@7
+\MB bueno, yerba
+\VAR
+\GRAM ams
+\SCI
+\USE
+\SPG yerba buena
+\ENG a type of herb
+\EXU
+ZOH004R0011001.txt
+\XSP
+\XEN
+Page 1642

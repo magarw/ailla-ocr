@@ -1,0 +1,62 @@
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT naka7tz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\1ex x@k-nakx
+\_no 04048
+\LG MIG
+\PSH [x@knakx-]
+\UND x@k-nakx
+\MB frijol, majar
+\VAR
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG aporrear frijol
+\ENG to mash beans
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT nakx
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 31/Mar/95
+\lex x@k-nax
+\_no 04049
+\LG MIG
+\PSH [x@knax]
+\UND x@k-nax
+\MB frijol, tierra
+\VAR x@k nax
+\GRAM SS
+\SCI
+\USE
+\SPG frijolal; tierra para frijol
+\ENG bean farm
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH HAJ:96, stress on x@k; both stresses OK:TK
+\date 26/Jun/96
+\lex x@k=n@7
+\_no 04050
+ZOH004R0011001.txt
+\LG MIG
+\PSH [x@kn@7]
+Page 1741

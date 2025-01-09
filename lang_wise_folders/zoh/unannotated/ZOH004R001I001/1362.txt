@@ -1,0 +1,63 @@
+XEN 1 The candle dripped wax.
+\EXU 2 7@y+ yak.t@n-w@ bi kandela
+\XPSH 2 [7@y yaktenn@ bi kandela.]
+\XSP 2 Hizo caer por gotas la cera de la vela.
+\XEN 2 He made the candle drip wax.
+\SYN pun
+\SEMF nature, emit
+\ASP activity
+\ARG
+\NOM t@n. @7
+\SUB
+\ETYM
+\ETL
+\ROOT t@n
+\RTGR 12
+\DSRC TK94
+\CMTS cf. pun T2 'echar goma'
+\CMTS como un pino que echa prementina
+\date 03/Jan/80
+\lex t@n. @7
+\_no 03167
+\LG MIG
+\PSH [t@n@7]
+\UND t@n.A7
+\MB echar_goma, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG goma; trementina
+\ENG sap; pitch
+\EXU tzin 7@y+ t@n. A7
+\XPSH [tzin 7@y tan@7]
+\XSP goma de ocote
+\XEN pine pitch
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT t@n
+\RTGR 12
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex t@nh
+\_no 03168
+\LG MIG
+\PSH
+\UND t@nh
+\MB
+\VAR
+\GRAM vt
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG cortar, con una machete o fierro
+\ENG to cut, with a machete or iron tool
+\SPL t@nh.7oy
+\SLGR ANTIP
+\SLGL cortar // to cut
+\SPL t@nh.7@m
+\SLGR PASS
+Page 1362

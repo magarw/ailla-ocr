@@ -1,0 +1,63 @@
+\_no 00193
+\LG MIG
+\PHO [nay.e7]
+\UND nay. E7
+\MB brotar, NOM7
+\VAR
+\GRAM pcp
+\SPG brotado, nacido
+\ENG sprouted
+\EXU mok na.e7
+\XPSH [mok nae7]
+\XSP maiz nacido
+\XEN sprouted corn
+\SYN
+\ROOT nay
+\RTGR 12
+\DSRC HAJ95
+\CMTS nacio* en la misma mata porque de la lluvia, no se cosecha bien.
+\date 03/Jan/80
+\lex naka'tz.e7
+\_no 00194
+\LG MIG
+\PHO [nakatze7]
+\UND naka7tz.E7
+\MB planchar, NOM7
+\VAR
+\GRAM pcp
+\SPG planchada, machucada
+\ENG ironed, crushed
+\EXU
+\XSP
+\XEN
+\SYN
+\ROOT naka7tz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex nakx.e7
+\_no 00195
+\LG MIG
+\PHO [nakxe7]
+\UND nakx.E7
+\MB pegar,
+\VAR
+\GRAM pcp
+\SPG porriado
+\ENG pounded
+\EXU X@k nakx.e7
+NOM 7
+\XPSH [x@k nakxe7]
+\XSP frijol porriado
+\XEN pounded beans
+\SYN
+\ROOT nakx
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex nat.e
+\_no 00196
+ZOH001R0611004.txt
+Page 79

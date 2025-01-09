@@ -1,0 +1,69 @@
+(227) Basabeer
+vas.a.ver
+'Vaya, si te encuentro,"
+(228) qa mii' kan-eet-a
+si NEG B2s encontrar-PAS=2s
+'si te encuentro,'
+(229) 0=kb'-eel-a,
+ber=qa mii'
+ver.si NEG B2s-encontrar-PAS=2s
+B2s=bajar-POT=2s
+'te voy a matar,'
+(233) Aax
+tiiya
+INC=B3s-ir-pues tío
+'El tío coyote lo fue a ver.'
+0=kb'=eel
+maa=tzan_0=kb'-eel
+(230) aax
+ja'la,
+cierto ya=pues B3s-bajar-POT tío Als-SR:AGT=1s ahora
+'hoy sí lo voy a matar a mi tío,'
+(234) 0-chi-tzan,
+0=kan-eet-a
+B3s-decir pues
+'dijo,'
+(235) n=0=xi
+(231) 0-chi-tzan, 0=kyej q'ama-'n, 0=chi=tzan
+0=q'uun-j
+B3s-decir-pues B3s-DIR decir-SD B3s-decir-pues B3s-decir-PAS
+‘dijo, lo dijo, se dijo.'
+(232) N=0=xi'=tzan
+(236) Ma
+w-u'n=a
+Als-SR:AGT=1s
+0-poon 1-eet=q'a,
+PROX B3s=DIR ver-PAS=CL
+'Llegó,'
+(238) 0-chi-tzan
+lo-1
+t-ee.
+INC=B3s=ir ver-INF A3s-PAC
+'y se fue a verlo.'
+q'atiij_w-u'n=a
+ja’la
+cierto B3s-bajar=POT aquel Als-SR:AGT=1s ahora
+'Voy a matar a aquel,'
+(239) N=0=loo-n=q'a
+w-u'n=a
+Als-SR:AGT=1s
+tiiya_w-u'n=a
+kayoot lo-1
+coyote ver-INF A3s-SR:PAC
+t-ee
+0=poon 1-eet=q'a
+maa txe
+jun
+(237) ma
+PROX B3s-DIR ver-PAS-CL hasta A3s+SR:debajo un
+wi' nimaal chulal
+mata AUM zapote
+‘llegó en una mata de zapote,'
+0=q'uun-j
+B3s-decir-pues B3s-decir-PAS
+'dijo.'
+t-i'j
+chulal.
+INC-B3s-comer-AP=CL A3s-SR:PAC zapote
+'Estaba comiendo zapote.'
+20

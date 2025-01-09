@@ -1,0 +1,63 @@
+\USE
+\SPG sonar, tronar
+\ENG to sound, to thunder
+\EXU 1 7anh-j@y-pa 7@y+ min-w@
+\XPSH 1 [7@nhj@ypay minn@.]
+\xSP 1 viene sonando.
+\XEN 1 It came rumbling.
+\EXU 2 may@ 7anh-jay-wa
+\XPSH 2 [m@y@ 7anhj@yy@.]
+\XSP 2 trueno de rayo
+\XEN 2 thunder
+\EXU 3 7@n+ yak.anh-j@y-wa
+\XPSH 3 [7@y yanhj@yy@.]
+\XSP 3 Lo sone*.
+\XEN 3 I banged it.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jay
+\RTGR 11
+\DSRC HAJ94
+\SPL yak.7anh.j@y
+\SLGR CAUS
+\SLGL hacer sonar // to cause a noise to be made
+\CMTS make a noise, not with the vocal apparatus. vi is a natural sound;
+\CMTS caus can be a person dropping or slamming something
+\date 08/Jan/96
+\lex 7anh-j@@nh
+\_no 00089
+\LG MIG
+\PHO [7anhj@*nh]
+\UND 7anh-j@@nh
+\MB
+\VAR
+\USE directional
+\GRAM av
+\SPG por alla* por
+\ENG over by X
+\EXU da min-w@ 7anh-may. kuy7-t@k 7anh-j@@nh
+\XPSH [D@ minn@ 7anhmaykuyt@k7anhj@*nh.]
+ZOH004R0011001.txt
+\XSP vine por alla* por la escuela.
+\XEN I'm coming from over there by the school.
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex 7anh-kam
+\_no 00090
+\LG MIG
+\PSH [7anhkam-]
+\UND 7anh-kam
+\MB BOCA, trabarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG estar cerrado
+\ENG to be closed
+\SPL yak.7anh=kam
+Page 39

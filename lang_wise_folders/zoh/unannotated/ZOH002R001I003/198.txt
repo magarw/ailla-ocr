@@ -1,0 +1,23 @@
+7.2. Noun and adjective formation
+This section describes the affixes that are used to form nouns and
+adjectives from verb roots.
+7.2.1. Participles and result nouns
+There are two suffixes that form deverbal adjectives and nouns that have
+a participial or resultative character. The definition is fuzzy because the
+meanings of nouns formed with these suffixes varies, but all have the general
+sense of 'the result of V-ing' or 'the condition of having been V-ed'.
+Each has a set of phonological alternations. NOM2 labels the set [a, a?, ə,
+and ǝ?], represented by A in the morpheme breakdown line of the examples.
+NOM3 labels the set [e, e?, i, and i?], represented by E in the morpheme
+breakdown line. The choice of vowel is governed by the vowel harmony process
+discussed in section 3.3.2. Given the general preference of MIG Zoque for CVC
+syllables, I think it is likely that originally there were only the glottal stop-final
+alternants, but it is not possible to determine this conclusively given the
+fragility of word-final glottal stops in this language.
+NOM2 is much less abundantly attested than NOM3. I tried to elicit both
+forms for every verb root in the lexicon, and found very few roots that would
+accept NOM2, whereas nearly every root allows NOM3. There seems to be
+interference from the imperative suffix, which has the same phonological
+shapes as NOM2. NOM2 forms are more likely to be clearly nouns, while
+NOM3 forms are more likely to be participle-like adjectives.
+173

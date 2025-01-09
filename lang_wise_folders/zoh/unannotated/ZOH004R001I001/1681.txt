@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG mu*sico
+\ENG musician
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xem
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex xem=yak.yuk.konh
+\_no 03908
+\LG MIG
+\PSH [xemyakyukkonh-]
+\UND xem=yak.yuk.konh
+\MB tocar, CAUS, ARR, gatear
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG despertar por tocar (en la puerta)
+\ENG to wake someone up by knocking
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT xem
+\RTGR T1
+\ROOT konh
+\RTGR P (11)
+\DSRC HAJ02
+\CMTS
+\DATE 14/Aug/02
+\lex xem(a)=t@'
+\_no 03909
+LG MIG
+\PSH [xemat@-]
+\UND xem-A=t@7
+\MB tocar, X, querer
+\VAR xema=t@
+\GRAM vt
+\SCI
+\USE
+\SPG tratar de tocar
+\ENG to try to play something
+\EXU 7@y+ xem=t@-w@
+\XPSH [7@y xemt@w@.]
+\XSP Trato* de tocarlo.
+\XEN She tried to play it.
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+Page 1681

@@ -1,0 +1,51 @@
+\SEMF condition
+\CAUS yak. yon le dio* lugar que saliera
+\CMTS
+\1ex yuka
+\_no 00183
+SPG tener hambre
+\ENG to be hungry
+\EX yu7=7anh.p@7t
+\XSP pasar el hambre a
+\XEN
+\ROOT yuka 12
+\SEMF body, sickness
+\CMTS
+\lex yum
+\_no 00184
+\SPG hervir(se)
+ENG to boil
+\EX n@7 7@y yumxuk@*7
+\XSP agua hervida
+\XEN boiled water
+\EX jak yumpa
+\XSP esta* hirviendo mucho
+\XEN it's boiling a lot
+\ROOT yum 12
+\SEMF water, condition, temp
+\CAUS yak.yum hirvir
+\CMTS
+\lex yun
+\_no 00185
+\SPG nadar
+\ENG to swim
+\EX
+\XSP
+\XEN
+\ROOT yun Il
+\SEMF motion
+\CAUS yak.yun hacer nadar
+\CMTS
+\lex y@7kx
+\_no 00186
+\SPG mover (se); aflojarse
+\ENG to move; to float
+\EX
+\XSP
+\XEN
+\ROOT y@7kx Ix, Il
+\SEMF motion
+ZOH001R0611007.txt
+\CAUS yak.y@7kx mover; menear
+\CMTS
+Page 43

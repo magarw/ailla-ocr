@@ -1,0 +1,62 @@
+\ROOT
+\DSRC TK94
+\CMTS
+\date 28/Jan/96
+\lex woy-n@k
+\_no 03814
+\LG MIG
+\PSH [woyn@k-]
+\UND woy-n@k
+\MB
+\VAR
+\GRAM vt+dir
+\SCI
+\USE
+\SPG 11evar rodando
+\ENG to take away by rolling something along
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT WOY
+\RTGR P (T3)
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex wo'k.e
+\_no 03815
+\LG MIG
+\PSH [woke]
+\UND WO7k.E
+\MB raspar, NOM7
+\VAR [wo: ke*7]
+\GRAM pcp
+\SCI
+\USE
+\SPG raspado; acepillado
+\ENG scraped; planed
+\EXU 1 wo'k. E+V7k kuy
+\XPSH 1 [woke7k kuy]
+\XSP 1 palo raspado
+\XEN 1 planed wood
+\EXU 2 kuy wo'k. E+V7k
+\XPSH 2 [kuy woke*7]
+\XSP 2 palo raspado
+\XEN 2 planed wood
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT WO7k
+ZOH004R0011001.txt
+\RTGR T3
+\DSRC HAJ94
+\CMTS get without noun: DONE/TK; CK-all HAJ:96 ok
+\date 26/Jun/96
+\lex w@.17
+\_no 03816
+\LG MIG
+Page 1640

@@ -1,0 +1,87 @@
+\zoq Ye7chukk@ T@k7anhj@7 juxtix7anhji7.
+\fts LLegaron en San Miguel ontal presidente.
+\fte They arrived in San Miguel at the mayor's.
+\com
+\idx
+\ref ZOH001R011 004
+\_no 00005
+\tx 7entonse y@7
+soldad d@kka ye7chukk@
+\mb
+entonces y@ -7 soldao d@kkay ye7tz -xuk-w@
+\sg1 entonces DCT1-NOM1 soldado NPL 11egar-3PL-COM
+\egl then
+arrive-3PL-COM
+DCT1-NOM1 soldier NPL
+\zoq 7entonse y@7 soldadd@kka ye7chukk@.
+\fts Entonses los soldados llegaron.
+\fte Then the soldiers arrived.
+\com
+\idx sp
+\ref ZOH001R011 005
+\_no 00006
+\tx n@mpa
+\mb n@m
+tzawi 7@y t@xukpa
+tzawi7 7@y t@7
+-xuk-pa
+\sg1 decir-INC que mono 3E querer-3PL-INC nin~o/a
+\egl say -INC that monkey 3E want -3PL-INC child
+ke
+-ра ke
+\ref ZOH001R011 006
+\_no 00007
+ZOH001R0111001.txt
+\zoq N@mpa ke tzawi, 7@y t@xukpa 7une tzawi, pwes.
+\fts Dice que quieren changito, pues.
+\fte He says that monkeys, that well, they want some baby monkeys.
+\com
+\idx sp
+\tx 7entonses n@mm@
+\mb entonces n@m
+juxtixa 7i
+juxtixa 7i
+-w@
+\sg1 entonces decir-COM autoridad y
+\egl then
+y
+7@y
+quien irse-INC 3E
+say -COM authority and who go -INC 3E
+yak-win -witu7
+CAUS-CARA-regresar-3PL-dINC
+\tx yakwinwi tuxukk@
+\mb
+\sg1
+\eg1 CAUS-FACE-return -3PL-DINC mountains-LOC2
+\ref ZOH001R011 007
+\_no 00008
+-xuk-w@
+7une
+7une7
+\tx 7@y nijaminxukk@
+\mb 7@y ni -jamin -xuk-w@
+\sg1 3E PSE-(mente)-3PL-COM
+\eg1 3E PSE-(mind) -3PL-COM
+\zoq 7@y nijaminxukk@.
+\fts se acordaron.
+\fte They remembered.
+\com
+\idx sp
+7iw@ n@kpa
+7iw@ nak -pa
+\zoq 7entonses n@mm@ juxtixa, "7i 7iw@_n@kpay yakwinwituxukk@ tzamkuyjo7?"
+\fts Entonces dijo la autoridad, "Y quien va con ellos al campo en la
+montan~a?"
+\fte Then the mayor said, "And who will go guide them into the mountains?"
+\com
+\idx sp
+tzawi pwes
+tzawi7 pwes
+mono
+pues
+monkey well
+tzamkuyjo7?
+tzamkuy7 -jo7
+montan~a -Loc2
+Page 2

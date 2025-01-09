@@ -1,0 +1,62 @@
+\LG MIG
+\PHO [tone7]
+\UND ton. E7
+\MB limpiar_soplando, NOM7
+\VAR
+\GRAM pcp
+\SPG soplado
+\ENG winnowed
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT ton
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tonon.e7
+\_no 00305
+\LG MIG
+\PHO [tonone7]
+\UND tonon. E7
+\MB alborotarse, NOM7
+\VAR
+\GRAM pcp
+\SPG alborotado; una cosa alborotada
+\ENG swarming; something swarming
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT tonon
+\RTGR IX
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex top.a7
+\_no 00306
+\LG MIG
+\PSH [topa7]
+\UND top.A7
+\MB hacer_calor, NOM2
+\VAR
+\GRAM SV
+\SCI
+\USE
+\SPG calor
+\ENG heat
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH001R0611004.txt
+\ROOT top
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+Page 122

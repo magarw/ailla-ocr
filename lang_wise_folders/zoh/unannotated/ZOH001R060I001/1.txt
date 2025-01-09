@@ -1,0 +1,86 @@
+\id C:\OUTPUT\ZOH1R6011.TXT
+\ref 00000
+\_no 00001
+\cmts Deixis database consists of example sentences used to analyze
+\cmts the deictics and spatial adverbials. Some come from a set of
+\cmts drawings provided by Max Planck Institute via Roberto Zavala.
+\cmts All the data are from Germa*n Sa*nchez Morales.
+\cmts Base de datos 'deixis' contiene frases de ejemplos usadas para
+\cmts analisar los deicticos y adverbiales de espacio. Algunas viene
+\cmts de un juego de dibujos_proveido por el Instituto Max Planck via
+\cmts Roberto Zavala. Todos los datos son de Germa*n Sa*nchez Morales.
+\tx
+\mb
+ZOH001R0601001.txt
+\ref 001
+\_no 00002
+\tx
+da n@mjaxukk@
+7i
+7@n
+7@n
+jut@*nh 7@m_n@kpa
+\mb_ da nam -jay -xuk-w@ jut@@nh
+7@m n@k -pa 7i
+\sg1 1A decir-APPL-3PL-COM por donde 2A irse-INC y
+\egl 1A say -APPL-3PL-COM where 2A go -INC and 1E
+1E
+n@mjaxukk@
+da n@kpa
+t@kjo7
+-jo7
+t@k
+n@m-jay -xuk-w@ da nak -pa
+\sg1 decir-APPL-3PL-COM 1A irse-INC casa -Loc2
+\egl say -APPL-3PL-COM 1A go -INC house-LOC2
+\com
+\idx
+09/Feb/04
+\fts me dijeron por donde vas y les dije me voy a la casa
+\fte they asked me where are you going and I said to them I'm going to the
+house
+\ref 002
+\_no 00003
+\tx d@ n@mjaxukk@
+jum
+n@kpa
+\mb da nam -jay -xuk-w@ ju7 -7@m n@k -pa 7i
+\sg1 1A decir-APPL-3PL-COM donde-2A irse-INC y
+\egl 1A say -APPL-3PL-COM where-2A go -INC and 1E say -APPL-3PL-COM
+7@n nam -jay -xuk-w@
+1E decir-APPL-3PL-COM
+\tx d@ n@kpa
+\mb da nak -pa
+\sg1 1A irse-INC
+juxtix7anhji7
+juxtixa -7anhji7
+autoridad-LOC3
+\egl 1A go -INC authority-LOC3
+\ref 003
+\_no 00004
+\tx da n@mjaxukk@
+7i 7@n n@mjaxukk@
+\fts me dijeron donde vas y les dije me voy ontal presidente.
+\fte they asked me where are you going and I said to them I'm going over by
+the mayor's office.
+\com
+\idx
+\mb
+da nam -jay -xuk-w@
+jum
+n@kpa
+ju7 -7@m nak -pa 7i
+\sg1 1A decir-APPL-3PL-COM donde-2A irse-INC y
+\egl 1A say -APPL-3PL-COM where-2A
+go -INC and 1E
+\tx n@kpa
+parkejonanh
+\mb nak -pa parke -jonanh
+\sg1 irse-INC parque-DIR3
+\egl go -INC park -DIR3
+Page 1
+71 7@n n@mjaxukk@
+da
+7@n nam -jay -xuk-w@ da
+1E decir-APPL-3PL-COM 1A
+say -APPL-3PL-COM 1A

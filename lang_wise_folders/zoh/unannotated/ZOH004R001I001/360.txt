@@ -1,0 +1,62 @@
+\date 03/Feb/96
+\lex joji
+\_no 00826
+\LG MIG
+\PSH
+\UND joji
+\MB
+\VAR
+\GRAM av
+\SCI
+\USE
+\SPG man~ana
+\ENG morning
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH ok, no final 7 [agreed: TK]
+\date 24/Jun/96
+\lex joji xenh+jo7
+\_no 00827
+\LG MIG
+\PHO [joji xenhjo7]
+\UND joji xenh+jo7
+\MB man~ana, X, LOC2
+\VAR
+\GRAM f
+\SPG man~ana, pasado, o man~ana en adelante
+\ENG tomorrow, the next day, or someday soon
+\EXU joji xenh+jo' 7@n+ wa-tz@k-pa w@tz-pa bi7t bi dan na'-p@k.kuy' yabe.
+\XPSH [Joji xenhjo 7@n w@tz@kpa w@tzpa bi7t bi dan n@p@kkuy yabe.]
+\XSP Entre man~ana lo compongo si gotea la llave de agua.
+\XEN In the next day or so I'll fix the faucet, if it drips.
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex jo.jin
+\_no 00828
+ZOH004R0011001.txt
+\LG MIG
+\PSH [jojin-]
+\UND jo.jin
+\MB EN, refregar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG refregar
+\ENG to scrub
+\SPL
+\SLGR
+\EXU 7@m+ jo.jin-w@+ 'am bi xuyu7
+\XPSH [7@m_jonna*m bi xuyu7?]
+\XSP Ya refregaste la olla?
+Page 360

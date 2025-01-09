@@ -1,0 +1,62 @@
+\XSP
+\XEN
+\SYN mok=po't.e7
+\SEMF
+\ETYM
+\ETL
+\ROOT po7t
+\RTGR T3
+\DSRC TK96
+\CMTS
+\date 25/Jun/96
+\lex puj-jo.tax. (V). 7aH
+\_no 00268
+\LG MIG
+\PSH [pujjotaaxa-]
+\UND puj-jo.tax.V. 7aH
+\MB inflar, EN, llenarse, NOM?, VERS1
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG inflarse
+\ENG to be blown up
+\EXU puj-jo.tax. (V). 7aH-w@ bi p@n
+\XPSH [Pujjotaaxaw@ bi p@n.]
+\XSP El hombre se siente muy lleno de esto*mago.
+\XEN The man feels too full in the stomach.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 puj
+\RTGR 1 T3
+\ROOT 2 tax
+\RTGR 2 12
+\DSRC TK94
+\CMTS figure out V; CK-PH of EX
+\CMTS HAJ:96, probably @, since /tax.@7/ = '1leno' (OK: TK)
+\date 03/Jan/80
+\lex pujum.i7
+\_no 00269
+\LG MIG
+\PHO [pujumi7]
+\UND pujum.E7
+\MB destejer, NOM7
+\VAR
+\GRAM pcp
+\SPG destejido
+\ENG unwoven
+ZOH001R0611004.txt
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT pujum
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex pukx.@7
+\_no 00270
+Page 108

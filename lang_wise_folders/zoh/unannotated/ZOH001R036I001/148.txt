@@ -1,0 +1,82 @@
+\zoq tum kwartu 7alko*1.
+\fts un quarto de alcohol.
+\fte a quart of alcohol.
+\com
+\idx
+\ref ZOH001R036 691
+\_no 00680
+\tx minpa
+m tukk@
+pataja jaya*7
+pataja7 jaya -v7k
+\mb min -pa 7@m tuk -wa
+\sg] venir-INC 2E cortar-dINC DCT3-DEM calmarse guayaba macho-REL
+\egl come -INC 2E cut -DINC DCT3-DEM calm_down guayaba male -REL
+\ref ZOH001R036 692
+\_no 00681
+\zoq Minpam tukk@ gad@ po7kx pataja jaya*7.
+\fts vienes cortar la guayabita barraca.
+\fte You come cut that wild quayaba.
+\com
+\idx
+\tx jayya*m tukjaba
+\mb jaya -7@m tuk
+\sg1 macho-2E
+\egl male -2E cut
+\zoq Jayye*m tukjaba 7ay7.
+\fts El barraco le cortas su hoja.
+\ref ZOH001R036 693
+\_no 00682
+7ay7
+7ay7
+-jay -pa
+cortar-APPL-INC hoja
+-APPL-INC leaf
+\fte The wild one, you cut yourself a leaf.
+\com
+\idx
+\tx 7@y t@m 7@m w@kno7tzpa
+\mb 7@y t@m 7@m w@k
+\sg1 3E fruta 2E
+\eg1 3E fruit 2E
+ZOH001R0361001.txt
+\zoq 7@y_t@m 7@m w@kno7tzpa,
+\fts La fruta lo partes,
+\tx n@jo
+\mb n@7
+gad@ po7kx
+ka -d@ po7kx
+cut
+\fte The fruit you split,
+\com
+\idx
+-jo7
+\sgl agua -Loc2
+\egl water-LOC2
+-no7tz -ра
+cortar-quebrar-INC
+-break -INC
+\ref ZOH001R036 694
+\_no 00683
+\tx 7i 7ay d@kka minpa
+\mb 7i 7ay7 d@kkay
+\sg] y
+hoja NPL
+\egl and leaf NPL
+m y@kp@kk@
+min -pa 7@m yak
+venir-INC 2E
+come -INC 2E INSTR2-get
+gaji
+ga
+ka -ji7 ka -7
+DCT3-LOC1 DCT3-NOM1
+-DINC DCT3-LOC1 DCT3-NOM1
+-pak -wa
+INSTR2-agarrar-dINC
+\zoq 7i_7ayd@kka minpam y@kp@kk@ gaji ga n@jo,
+\fts y las hojas vienes a echarlo ahi* esa agua,
+\fte and the leaves you come to throw there in that water,
+\com
+\idx
+Page 148

@@ -1,0 +1,63 @@
+\MB
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG tallar
+ENG to scrape or rub clean
+\EXU 1 7@y+ jam-wa kajtzay'+jo7
+\XPSH 1 [7@y jamm@ kajtzayjo7.
+\XSP 1 Lo mecio* en la hamaca.
+\XEN 1 She rocked him in a hammock.
+\EXU 2 7@y+ jam-w@ 7@y+ machete
+\XPSH 2 [7@y jamm@y machete.]
+\XSP 2 Afilo* la machete.
+\XEN 2 He sharpened his machete.
+\SYN
+\SEMF clean, arrange
+\ASP activity
+\ARG
+\NOM
+\SUB 7ok.j@m. '@y, 7ok.yoj-j@m, jo.j@m, j@m=m@tz.w@y, j@m=tzik.17,
+\SUB j@x-j@m, ko.j@m, win-j@m, yuk.j@m
+\ETYM
+\ETL
+\ROOT jam
+\RTGR T1
+\DSRC TK94
+\CMTS the essence is the back and forth motion
+\date 03/Jan/80
+\lex j@m-m@tz.w@y
+\_no 00999
+\LG MIG
+\PSH [j@mm@tztz@y-]
+\UND jam-m@tz.w@y
+\MB mecer, X, DEPOS
+\VAR
+\GRAM vi: depos
+\SCI
+\USE
+\SPG columpiar, mecer
+\ENG to swing
+\SPL yak.j@m=m@tz
+\SLGR CAUS
+\SLGL hacer columpiar // to cause something to swing
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 jam
+\RTGR 1 T1
+\ROOT 2* m@tz
+\DSRC HAJ94
+\CMTS get deriv's
+\CMTS cf. j@m=m@tz 'mecer'
+\CMTS
+\date 10/Jan/96
+\lex j@mney
+\_no 01000
+Page 438

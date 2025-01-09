@@ -1,0 +1,63 @@
+\VAR
+\USE postverbal adverbial clitic
+\GRAM clitic
+\SPG ya; ahora
+\ENG now
+\SPL
+\SLGR
+\EXU 1 de.y d@+ min-w@ +'am
+\XPSH 1 [Dey d@ minna*m.]
+\XSP 1 Ya vine.
+\XEN 1 Now I have come.
+\EXU 2 d@x n@k-pa +'am
+\XPSH 2 [D@x_n@kpa*m.]
+\XSP 2 Yo ya me voy.
+\XEN 2 Now I'm going.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS when +'am appears with completive inflection, we get perfective
+aspect.
+\date
+\lex {%jap}
+\_no 04557
+LG MIG
+\PHO
+\UND
+\MB
+\VAR
+\GRAM
+\SPG boca abajo
+\ENG face down
+\EX
+\XSP
+\XEN
+\SYN
+\SEMF body, arrange
+\ASP
+\ARG
+\NOM ko.jap.kuy7, y@k.jap
+\SUB_7anh.jap, jap.na, jap.ney, jap=7anh.wak, jap.w@y, ko.jap
+\ROOT
+\RTGR P
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex {%jax}
+\_no 04558
+ZOH004R0011001.txt
+\LG MIG
+\PHO
+\UND
+\MB
+\VAR
+\GRAM
+\SPG estar/poner boca abajo
+\ENG to be/put face down
+\EX
+\XSP
+\XEN
+\SYN
+Page 1957

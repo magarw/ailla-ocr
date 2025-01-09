@@ -1,0 +1,72 @@
+\egl like like put_corn_in_lime -NOM3 crush
+\tx tukpa
+\mb tuk
+-ра
+\sg1 cortar-INC
+\eg1 cut
+-INC
+\zoq Komo komo pitzi japxukpa way7 tukpa.
+\fts Como el nixtamal lo quebraja se hace masa.
+\fte Like
+\com
+\idx
+\ref ZOH001R036 999-120
+\_no 01102
+\tx komo way
+\mb komo way -E
+-pa
+\sg1 como moler-NOM3
+cortar-INC
+\egl like grind-NOM3 cut - INC
+like crushed corn it comes out like masa.
+\zoq Komo way tukpa.
+fts Como masa se hace.
+\fte It ends up like masa.
+\com
+\idx
+tukpa
+tuk
+min -A7 7@m
+ZOH001R0361001.txt
+\ref ZOH001R036 999-121
+\_no 01103
+\tx 7i min@
+m tzanhnh@ tzeja7 tzeja7
+\mb 7i
+tzanh-w@ tzeja7 tzeja7
+\sgl y
+venir-IMPV 2E pegar-dINC delgado delgado
+\egl and come -IMPV 2E hit -dINC thin thin
+\zoq 7i minn@m tzanhnh@tzeja7, tzeja7.
+\fts Y venga tortearlo delgado, delgado.
+\fte And come pat it out thin, thin.
+\com
+\idx
+\ref ZOH001R036 999-122
+\_no 01104
+\tx minpa
+\mb min
+m
+kojupwituw@
+-pa 7@m ko -jup -witu7
+\sg1 venir-INC 2E
+soc-jalar-regresar-dINC
+\egl come -INC 2E soc-pull -return -DINC
+\ref ZOH001R036 999-123
+\_no 01105
+\tx kowiti*nh
+\mb kowitiinh
+\sgl alrededor
+\egl around
+\zoq Minpam kojupwituw@.
+\fts Le vienes echar por todo alrededor.
+\fte You come put it on all around.
+\com
+\idx
+\zoq Kowiti*nh.
+\fts Alrededor.
+\fte All around.
+\com
+-wa
+-3PL-INC grind-NOM3
+Page 238

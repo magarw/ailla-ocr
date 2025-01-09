@@ -1,0 +1,63 @@
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG desplumar (gallina)
+\ENG to pluck (a chicken)
+\EXU 7@y+ ko.wix-w@ piyu7
+\XPSH [7@y kowixx@ piyu7.]
+\XSP Desplumo* la gallina.
+\XEN She plucked the chicken.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wix
+\RTGR T3
+\DSRC HAJ94
+\CMTS sin ponerlo en agua caliente primero
+\date 07/Feb/96
+\lex ko.w@tz
+\_no 01479
+\LG MIG
+\PSH [kow@tz-]
+\UND ko.w@tz
+\MB OTRO, peinar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG peinar
+ENG to comb
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT w@tz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 21/Oct/94
+\lex ko.xatz
+\_no 01480
+\LG MIG
+\PHO [koxatz-]
+\UND ko.xatz
+\MB OTRO, torcer
+\VAR
+\GRAM vt
+ZOH004R0011001.txt
+\SPG pasar la mano
+\ENG to pass the hand over; to pet
+\EXU 7@y+ ko.xatz.jay-w@ 7@y+ kopak=way7
+\XPSH [7@y koxatzjayy@y_kopakway7.]
+\XSP Le paso* la mano el pelo de su cabeza.
+\XEN She petted the child's hair.
+\SYN
+\ROOT xatz
+\RTGR T3
+\DSRC HAJ95
+Page 643

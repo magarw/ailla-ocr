@@ -1,0 +1,52 @@
+\lex tatz@k
+\_no 02190
+\SPG oreja
+\ENG ear
+\lex tawrette7
+\_no 02191
+\SPG silla
+\ENG seat
+\lex tax
+\_no_02192
+\SPG 11enarse
+\ENG fill
+\lex taxi7
+\_no 02193
+\SPG flor de olote
+\ENG flower
+\lex tay
+\_no 02194
+\SPG "tiempo"; "tai"
+\ENG time out
+\lex taya
+\_no 02195
+\SPG medida
+\ENG size
+\lex taye*r
+\_no 02196
+\SPG taller
+\ENG workshop
+\lex tayna
+\_no 02197
+\SPG de_espalda
+\ENG on_the_back
+\lex tayu7
+\_no 02198
+\SPG EXP
+\ENG EXP
+\lex taanh
+\_no 02199
+\SPG HORT
+\ENG HORT
+\lex te
+\_no 02200
+\SPG DCT2
+\ENG DCT2
+\lex teja
+\_no 02201
+\SPG teja
+\ENG tile
+\lex tejer
+\_no 02202
+ZOH001R0611013.txt
+Page 175

@@ -1,0 +1,63 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 12/Nov/94
+\lex paja7k=w@j
+\_no 02503
+\LG MIG
+\PSH [paja7kw@j-]
+\UND paja7k=w@j
+\MB dulce, tener_olor
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG oler bonito
+\ENG a pleasant odor
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT waj
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 12/Nov/94
+\lex paja7k. 'aH
+\_no 02504
+\LG MIG
+\PSH [paja7kka-]
+\UND paja7k.7aH
+\MB dulce, VERS1
+\VAR
+\GRAM vi: versl
+\SCI
+\USE
+\SPG hacerse dulce
+\ENG to become sweet
+\SPL yak.paja7k.7aH
+\SLGR CONVERS1
+\SLGL hacer dulce; endulzar // to make sweet; to sweeten
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+Page 1078

@@ -1,0 +1,63 @@
+\UND tanh
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+SPG estar ancho
+\ENG to be wide
+\SPL tanh.7@m
+\SLGR PASS
+\SLGL hacerse ancho // to become wide
+\EXU tanh. '@m-w@ de. mangu 7okox ya jak(ke) p@j.i'-tuk-w@
+\XPSH [Tanhnh@mm@ de mangu 7okox ya jak p@ji-tukk@.]
+\XSP Se hizo ancho esta mata de mango, no crecio* mas alto.
+\XEN This mango shrub grew wide, it didn't grow taller.
+\SYN
+\SEMF condition
+\ASP state
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT tanh
+\RTGR 12
+\DSRC HAJ95
+\CMTS se trata de matas
+\date 03/Jan/80
+\lex tanh.tanh tza7
+\_no 02944
+\LG MIG
+\PSH [tanhtanh tza7]
+\UND tanh.tanh tza7
+\MB estar_ancho, estar_ancho, piedra
+\VAR
+\GRAM SRms
+\SCI
+\USE
+\SPG piedra ancha
+\ENG wide rock
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT tanh
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 09/Feb/96
+\lex tanh.'@m
+\_no 02945
+\LG MIG
+\PSH [tanhnh@m-]
+\UND tanh.7@m
+\MB estar_ancho, PASS
+\VAR
+\GRAM vi:pass
+\SCI
+Page 1267

@@ -1,0 +1,64 @@
+\com
+\idx
+\ref ZOH001R043 069
+\_no 00070
+\tx porke kad 7ora ney tzonhtamapa
+\mb porke
+kada 7ora ney tzonh-tam -A -pa
+\sg1 porque cada hora RCP unir -1/2 PL-RCP-INC
+\egl because each hour RCP join -1/2PL-RCP-INC
+\zoq Porke kada 7ora ney tzonhtamapa.
+\fts Porque a cada ratito nos andamos topandonos.
+\fte Because every minute we're meeting each other.
+\com
+\idx
+\ref ZOH001R043 070
+\_no 00071
+\tx ya
+d@ 7otonhtam@
+\mb ya d@ 7otonh-tam -A
+\sg1 NEG 1A hablar-1/2PL-nINC
+\eg1 NEG 1A speak -1/2PL-nINC
+\zoq Ya da 7otonhtam@.
+\fts No hablamos.
+\fte we don't speak.
+\com
+\idx
+\ref ZOH001R043 071
+\_no 00072
+de7x
+\tx
+\mb
+ya tukk@
+te -7xe ya tuk
+\sg1 DCT2-SIM NEG terminarse-COM
+\eg1 DCT2-SIM NEG finish
+\zoq De7xe ya tukk@.
+\fts Asi* no esta* bonito.
+\fte That way isn't nice.
+\com
+\idx
+\ref ZOH001R043 072
+\_no 00073
+\tx de7x
+ya moso
+\mb te -7xe ya moso
+\sg1 DCT2-SIM NEG bonito
+\eg1 DCT2-SIM NEG beautiful
+\zoq De7xe ya moso.
+\fts Asi* no esta* chulo.
+\fte That way is not pretty.
+\com
+\idx
+\ref ZOH001R043 073
+\_no 00074
+\tx
+p@n@kk@mda*nh
+\mb p@7 -n@k -7@m -taanh
+\sg1 poner-irse-PAS -HORT
+\egl put -go -PASS-HORT
+\zoq P@n@kk@mda*nh.
+ZOH001R0431001.txt
+-wa
+-COM
+Page 17

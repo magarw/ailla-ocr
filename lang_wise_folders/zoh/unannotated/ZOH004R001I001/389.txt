@@ -1,0 +1,62 @@
+\CMTS
+\date 03/Jan/80
+\lex jo.w@k
+\_no 00893
+\LG MIG
+\PSH [jow@k-]
+\UND jo.w@k
+\MB EN, cortar
+\VAR
+\GRAM dir+vt
+SCI
+\USE
+\SPG descuartizar (res, marrano...)
+\ENG to quarter a carcass
+\SPL jo.w@k. 7oy
+\SLGR ANTIP
+\SLGL
+\SLGR NO PASS
+\EXU 7@y+ jo.w@k-wa wakax
+\XPSH [7@y jowakk@ wakax.]
+\XSP Descuartizo* la res.
+\XEN He quartered the beef.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wak
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/96
+\lex jo.w@t
+\_no 00894
+\LG MIG
+\PSH [jow@t-]
+\UND jo.w@t
+\MB EN, romper
+\VAR
+\GRAM dir+vt
+\SCI
+\USE
+\SPG romper
+\ENG to tear
+\EXU 7@y+ jo.w@t-w@ toto7
+\XPSH [7@y jowatt@ toto7.]
+\XSP Rompio* el papel.
+\XEN She tore the paper.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT W@t
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Feb/96
+\lex jo.w@tz=wak
+\_no 00895
+ZOH004R0011001.txt
+\LG MIG
+\PSH [jow@tzwak-]
+Page 389

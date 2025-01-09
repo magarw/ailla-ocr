@@ -1,0 +1,65 @@
+\mb da nak -pa maxan -t@k -jo7
+\sgl 1A irse-INC sagrado-casa -LOC2
+\egl 1A go -INC sacred -house-LOC2
+\fts me voy a la iglesia
+\fte I'm going to the church
+\com
+\idx
+\ref 094
+\_no 00095
+katemako
+\tx d@ n@kpa
+\mb
+katemako
+da nak -pa
+\sg1 1A irse-INC
+Catemaco
+\egl 1A go -INC Catemaco
+\fts me voy para/a Catemaco
+\fte I'm going to Catemaco
+\com
+\idx
+\ref 095
+\_no 00096
+\tx da n@kpa
+\mb da nak -pa
+\sg] 1A irse-INC
+\egl 1A go -INC mountains-DIR3
+tzamkuyjonanh
+tzamkuy7 -jonanh
+montan~a -DIR3
+\fts me voy para la montan~a
+\fte I'm going to the mountains
+\com
+\idx
+\ref 096
+\_no 00097
+ZOH001R0601001.txt
+\tx da t@kk@ba
+tzamkuyjo7
+\mb da tak
+-7@y -ра tzamkuy7 -jo7
+\sg1 1A casa -VERS2-INC montan~a -Loc2
+\egl 1A house-VERS2-INC mountains-LOC2
+\fts me voy en la montan~a
+\fte I'm going into the mountains
+\com
+\idx
+\ref 097
+\_no 00098
+\tx d@ tunhnhaba
+n@kk@
+n@y
+kuk
+\mb
+d@ tunh -7a
+n@k -w@ n@7 -7@y kuk
+\sg1 1A camino-VERS1-INC irse-dINC agua -3E centro
+\egl 1A road -VERS1-INC go -dINC water-3E center
+-ра
+\fts voy caminando en medio del ri*o
+\fte I'm going into the river
+\com
+\idx
+\ref 098
+Page 24

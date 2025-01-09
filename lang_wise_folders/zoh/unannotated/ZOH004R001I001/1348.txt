@@ -1,0 +1,63 @@
+\ENG bite
+\EXU piyu' 7@y+ tux.kuy7
+\XPSH [piyuy tuxkuy7]
+\XSP pico de gallina
+\XEN chicken bite
+\SYN
+\SEMF
+ETYM
+\ETL
+\ROOT tux
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tux.naanh
+\_no 03133
+\LG MIG
+\PHO [tuxna*nh]
+\UND tux.naanh
+\MB picar, MED
+\VAR
+\GRAM meas
+\SPG una picada
+\ENG a peck
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT tux
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex tuy
+\_no 03134
+\LG MIG
+\PSH
+\UND tuy
+\MB
+\VAR
+\GRAM vt, vi:med
+\SCI
+\USE
+\SPG estirar(se)
+\ENG to stretch
+\SPL yak.tuy
+\SLGR CAUS
+\SLGL estirar
+ZOH004R0011001.txt
+\SPL tuy.ney
+\SLGR ASSUM1
+\SLGL estar estirado // to be stretched out
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF arrange
+\ASP achievement
+\ARG
+\NOM tu.i
+\SUB jup=tu.i, jup=tuy
+\ETYM
+Page 1348

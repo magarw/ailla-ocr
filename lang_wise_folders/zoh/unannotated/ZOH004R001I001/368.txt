@@ -1,0 +1,62 @@
+\CMTS
+\date 03/Feb/96
+\lex jo.ka'
+\_no 00845
+\LG MIG
+\PSH [joka-]
+\UND jo.ka7
+\MB EN, morirse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG morir en casa de otro
+\ENG to die in someone else's house
+\SPL
+\SLGR
+\EXU jo.ka'-w@ yanh-t@k+jo7
+\XPSH [Jokaw@ yanht@kjo7.]
+\XSP Murio* en casa de la gente.
+\XEN He died in someone else's house.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ka7
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 18/Jun/96
+\lex jok.e7
+\_no 00846
+\LG MIG
+\PSH [joke7]
+\UND jok. E7
+\MB ahumarse, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG ahumado
+\ENG smoked
+\EXU jok.e7+k nea7
+\XPSH [joke7k nea7]
+\XSP pared ahumado
+\XEN smoky wall
+\EXU nea7 jok.e*7
+\XPSH [nea7 joke*7]
+\XSP pared ahumado
+\XEN smoky wall
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jok
+\RTGR 12
+ZOH004R0011001.txt
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex jo.kej-tuk-7oy-pa+a7k
+\_no 00847
+Page 368

@@ -1,0 +1,63 @@
+\EXU
+\XSP
+\XEN
+\SYN jax.ki7t
+\SEMF
+\ETYM
+\ETL
+\ROOT ki7t
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 19/Jun/96
+\lex nik.koj.'@y
+\_no 02302
+\LG MIG
+\PSH [nikkojj@y-]
+\UND nik.koj.7@y
+\MB SUP, encajar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 clavar o encajar algo en alguien
+\ENG 1 to nail or stab something into someone
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT koj
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 19/Jun/96
+\lex nik.kom. '@y
+\_no 02303
+\LG MIG
+\PSH [nikkomm@y-]
+\UND nik. kom.7@y
+\MB SUP, remendar, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG ponerle un parche costurado
+\ENG to sew a patch on something
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT kom
+\RTGR T3
+Page 992

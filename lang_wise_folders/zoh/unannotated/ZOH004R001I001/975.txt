@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG untar
+\ENG to smear
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ji7t
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 05/Oct/94
+\lex ni.jok
+\_no 02263
+\LG MIG
+\PSH [nijok-]
+\UND ni.jok
+\MB PURP, ahumar
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG estar ahumado
+\ENG to be blackened by smoke
+\SPL
+\SLGR
+\EXU ni.jok-w@ 7ichiinh
+\XPSH [Nijokk@ 7ichi*nh.]
+\XSP Esta ahumado un poquito.
+\XEN It's a little smoke-blackened.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT jok
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 26/Jan/96
+\lex ni. jom
+\_no 02264
+\LG MIG
+\PSH [nijom-]
+\UND ni.jom
+\MB PURP, cercar
+\VAR
+\GRAM vt
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG reforzar cerco, por echar ramas por encima de otras
+\ENG to reinforce a fence, by throwing branches on top of the old ones
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN win. jom
+Page 975

@@ -1,0 +1,63 @@
+\ENG a pointed stake
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN mun.kuy7
+\SEMF
+\ETYM
+\ETL
+\ROOT koj
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jun/96
+\lex koj=nuk
+\_no 01317
+\LG MIG
+\PHO [kojnuk-]
+\UND koj=nuk
+\MB encajar, agarrar
+\VAR
+\GRAM vt
+\SPG agarrar encajado
+\ENG to grab by spearing
+\EXU 1 koj-nuk-w@ de.' yati' kuy+pi7t
+\XPSH 1 [Kojnukk@ de yati kuypi7t.]
+\XSP 1 Se agarro* encajado con palo esa anona.
+\XEN 1 They got that anona by spearing it with a stick.
+\EXU 2 mix koj-nuk-pay@.' jay.kuy'+j@nanh
+\XPSH 2 [Mix kojnukpa ya jaykuyj@nanh.]
+\XSP 2 Te voy a agarrar de estaco*n con este lapiz.
+\XEN 2 I'm going to spear you with this pen.
+\EXU 3_7@y+ koj-nuk-pa 7@y+ nak-wa bi toto' ya ta'.7@m-pa para 7@y+ ponh-pa
+\XPSH 3 [7@y kojnukpay nakk@ bi toto ya t@7@mpa paray ponhpa.]
+\XSP 3 va agarrando de estaco*n el papel que no sirve para quemarlo.
+\XEN 3 She's picking up waste paper with a stake to burn it.
+\SYN
+\ROOT 1 koj
+\RTGR 1 T3
+\ROOT 2 nuk
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+ZOH004R0011001.txt
+\lex kojom
+\_no 01318
+\LG MIG
+\PSH
+\UND kojom
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG horco*n
+\ENG post
+\EXU
+\XSP
+\XEN
+\SYN
+Page 575

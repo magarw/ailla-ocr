@@ -1,0 +1,48 @@
+\CMTS
+\date 03/Jan/80
+\lex y@7t
+\_no 00238
+\LG MIG
+\PSH
+\UND y@7t
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG deshebrar carne para freirla; deshilar; desplumar
+\ENG to shred meat for frying; to pull out threads; to pluck feathers
+\SPL y@7t.7oy
+\SLGR ANTIP
+\SLGL deshebrar // to shred
+ZOH001R0611006.txt
+\SPL y@7t.7@m
+\SLGR PASS
+\SLGL deshebrarse // to be shredded
+\SPL y@7t.ten
+\SLGR PRSV
+\SLGL tener deshebrado // to have the meat shredded
+\EXU 1 7@y+ y@7t-w@ xix para ke 7@y+ xe7t-wa
+\XPSH 1 [7@y y@7tt@ xix para key xe7tt@.]
+\XSP 1 Deshebro* la carne para freirla.
+\XEN 1 She shredded the meat so she could fry it.
+\EXU 2 7@y+ y@7t-wa bi jep.e
+\XPSH 2 [7@y y@7tta bi jepe.]
+\XSP 2 Desplumo* el maguey.
+\XEN 2 He stripped the maguey.
+\SYN
+\SEMF build
+\ASP process
+\ARG
+\NOM ya't.17
+\SUB
+\ETYM
+\ETL
+\ROOT y@7t
+\RTGR T3
+\DSRC TK94
+\CMTS CK-EX HAJ:96 ok
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+Page 160

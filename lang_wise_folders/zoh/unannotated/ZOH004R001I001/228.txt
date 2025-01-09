@@ -1,0 +1,63 @@
+\DSRC HAJ94
+\CMTS tiene que ser mai*z; CK-all
+\date 03/Jan/80
+\lex 7@kx.i
+\_no 00529
+\LG MIG
+\PSH [7@kxi]
+\UND 7@kx.E
+\MB desgranar_maiz, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG desgranado
+\ENG shelled
+\EXU 1 mok=7@kx.i
+\XPSH 1 [mokk@kxi]
+\XSP 1 mai*z desgranado
+\XEN 1 shelled corn
+\EXU 2 7@kx.E 7@y+ yuk.p@k-w@
+\XPSH 2 [7@kxiy yukp@kk@.]
+\XSP 2 Lo levanto desgranado.
+\XEN 2 She put it up shelled.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7@kx
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 24/Jun/96
+\lex 7@k@
+\_no 00530
+\LG MIG
+\PSH
+\UND 7@k@
+\MB
+\VAR 7@ka kuy
+\GRAM S
+\SCI
+\USE
+\SPG palo de caulote
+\ENG a type of tree
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+LF: kuy
+\CMTS
+\date 20/Jun/95
+\lex 7@nh
+\_no 00531
+\LG MIG
+\PSH
+\UND 7@nh
+ZOH004R0011001.txt
+Page 228

@@ -1,0 +1,63 @@
+\ETYM
+\ETL
+\ROOT tzonh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 27/Jan/96
+\lex pakx
+\_no 02519
+\LG MIG
+\PSH
+\UND pakx
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG doblar (tela), plegar
+\ENG to fold cloth, to pleat
+\SPL pakx. 7oy
+\SLGR ANTIP
+\SLGL doblar, plegar // to fold, to pleat
+\SPL pakx.7@m
+ZOH004R0011001.txt
+\SLGR PASS
+\SLGL estar doblado, estar plegado // to be folded, to be pleated
+\SPL pakx.ney
+\SLGR ASSUM1
+\SLGL estar doblado, estar plegado // to be folded, to be pleated
+\SPL pakx.ten
+\SLGR PRSV
+\SLGL tener doblado, tener plegado // to have folded, to have pleated
+\EXU 1 yote'-pakx-w@
+\XPSH 1 [Yotepakx@.]
+\XSP 1 Doblo*_ropa.
+\XEN 1 She folded clothes.
+\EXU 2 7@y+ pakx-w@ bi yo't.e7
+\XPSH 2 [7@y pakx@ bi yote7.]
+\XSP 2 Doblo* la ropa.
+\XEN 2 She folded clothes.
+\EXU 3 pakx.7@m-w@ bi yo't.e7
+\XPSH 3 [Pakx@mm@ bi yote7.]
+\XSP 3 Doblaron la ropa.
+\XEN 3 They folded the clothes.
+\EXU 4 7@y+ pakx-witu'-w@ bi yote7
+\XPSH 4 [7@y pakxwituw@ bi yote7.]
+\XSP 4 Doblo* en todo la tela.
+\XEN 4 She pleated the fabric all around.
+\SYN
+\SEMF arrange
+\ASP activity
+\ARG
+\NOM 7anh.pakx.e, pakx.e, pakx.naanh
+\SUB 7anh.pakx
+\ETYM
+\ETL
+\ROOT pakx
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 09/Aug/02
+Page 1085

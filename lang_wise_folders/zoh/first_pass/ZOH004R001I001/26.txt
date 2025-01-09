@@ -1,0 +1,62 @@
+\date 09/Oct/96
+\lex 7anh-jap
+\_no 00058
+\LG MIG
+\PSH [7anhjap]
+\UND 7anh-jap.0
+\MB BOCA, X, NOM6
+\VAR
+\GRAM SVO
+\SCI
+\USE
+\SPG tapadera
+\ENG cap
+\SPL
+\SLGR
+\EXU limeta 7anh-jap
+\XPSH [limeta 7anhjap]
+\XSP tapadera de una botella
+\XEN bottle cap
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT * jap
+\RTGR P
+\DSRC HAJ95
+\CMTS like a bottle cap, it closes from outside. contrast w/ 7anh.pix
+\date 09/Oct/96
+\lex 7anh-ja7p. '@y
+\_no 00059
+\LG MIG
+\PSH [7anhja7pp@y-]
+\UND 7anh-ja7p.7@y
+\MB BOCA, moler, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG moler un poco dema*s
+\ENG to grind a little more
+\SPL
+\SLGR
+\EXU_7@y+ 7anh=ja7p.'@y-w@ 7@y+ pitzi
+\XPSH [7@y 7anhja7pp@yy@y pitzi.
+\XSP Molio* dema*s su nixtamal.
+\XEN She ground her corn a little more.
+SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ja7p
+\RTGR T3
+\DSRC HAJ95
+ZOH004R0011001.txt
+\CMTS
+\date 09/Oct/96
+\lex 7anh-jej
+\_no 00060
+\LG MIG
+\PSH [7anhjej]
+\UND 7anh-jej
+Page 26

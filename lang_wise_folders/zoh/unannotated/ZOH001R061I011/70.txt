@@ -1,0 +1,59 @@
+\_no_00364
+\SPG caerse
+\ENG to fall
+\EX
+\XSP
+\XEN
+\ROOT yo 12
+\CMTS caus_yak.yo dejar caer
+\CMTS caus2 yak+ yo dejar caer; tumbar
+\lex yoj
+\_no 00365
+\SPG pagar
+\ENG to pay
+\EX
+\XSP
+\XEN
+\ROOT yoj T3
+\CMTS antip yoj.7oy
+\CMTS no pass yoj.7@m *
+\CMTS get deriv's
+\lex yon
+\_no 00366
+\SPG zafarse; salirse
+\ENG to grow tall
+\EX yonn@ 7anhpajjo*nh bi bejcha
+\XSP salio* del cerco el caballo
+\XEN
+\ROOT yon Ix
+\CMTS caus yak. yon le dio* lugar que saliera
+\lex yonn@*7
+\_no 00367
+\SPG alto
+\ENG tall
+\EX_jak/m@jm@ yonn@7
+\XSP muy alto
+\XEN very tall
+\ROOT yon Ix
+\CMTS couldn't get versives try again later?
+\lex yox
+\_no 00368
+\SPG trabajar
+\ENG to work
+ZOH001R0611011.txt
+\EX yoxx@ pa jamatin7@yy@
+\XSP trabajo* para que tuvo dinero
+\XEN he worked so he could have money
+\ROOT yox T1
+\CMTS
+\lex yuj
+\_no 00369
+\SPG rozar
+\ENG to raze; to clear a field
+\EX
+\XSP
+\XEN
+\ROOT yuj T1
+\CMTS
+\lex yuka
+Page 70

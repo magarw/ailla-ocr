@@ -1,0 +1,95 @@
+\ref ZOH001R036 737
+\_no 00726
+\tx kom
+kom dey
+\com
+\idx
+\zoq Kom dey y@d@ nama.
+\fts Como esta.
+\fte Like that thing now.
+\mb komo te
+-Y
+\sg1 como DCT2-TMP DCT1-DEM
+\egl like DCT2-TMP DCT1-DEM whatchamacallit
+\ref ZOH001R036 738
+\_no 00727
+\tx GSM: ja
+\mb GSM
+ja7
+\sg1 GSM: si*
+\egl GSM: yes
+\zoq GSM: Ja.
+fts GSM: Si*.
+\fte GSM: Yes.
+\com
+\idx
+y@da
+ya -da
+\ref ZOH001R036 739
+\_no 00728
+\tx
+\mb OSM
+\sg1 OSM: DCT2-SIM rojo
+\eg1 OSM: DCT2-SIM red
+OSM: de7xe
+\ref ZOH001R036 740
+\_no 00729
+\tx ga
+\mb ka -7
+tzapatz witupa
+bi
+te -7xe tzapatz witu7 -pa bi
+regresar-INC DEF
+return -INC DEF
+\zoq OSM: De7xe tzapatz witupa bi.
+\fts OSM: Asi* se vuelve rojo eso.
+\fte OSM: Like that it becomes red, that one.
+\com
+\idx
+\tx
+\mb
+m
+7@m 7uk
+7ukpam
+\zoq Gam_7ukpam ga7.
+\fts Ya lo tomas.
+ZOH001R0361001.txt
+\fte Now you drink that.
+\com
+\idx
+\ref ZOH001R036 741
+\_no 00730
+nama
+nama
+cosita
+-7
+\sg1 DCT3-NOM1 2E
+-pa -7am
+tomar-INC-YA
+DCT3-NOM1
+\eg1 DCT3-NOM1 2E drink-INC-NOW DCT3-NOM1
+\tx n@kk@
+ga
+\mb nak -wa ka -7
+ga7
+ka
+para ke
+gaga
+7anhnitpa* 7k
+7azma
+7@y j@xp@kpa
+para ke
+ka -g@ 7anhnit-pa -v7k 7azma 7@y jax -p@k
+\sg1 para que DCT3-DEM tener -INC-REL asma 3E ATRAS-agarrar-INC 3E
+\egl for that DCT3-DEM have
+-INC-REL asthma 3E
+BACK -get
+-INC 3E
+bola de xit
+bola de xit
+\sg] irse-dINC DCT3-NOM1
+bola de moco
+\egl go -DINC DCT3-NOM1 wad of phlegm
+Page 158
+y
+-pa 7@y

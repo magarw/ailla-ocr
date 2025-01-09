@@ -1,0 +1,63 @@
+\DSRC HAJ94
+\CMTS
+\date 12/Nov/94
+\lex mok='@kx.i
+\_no 01998
+\LG MIG
+\PSH [mokk@kxi]
+\UND mok-7@kx.E
+\MB mai*z, desgranar, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG mai*z desgranado
+\ENG shelled corn
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7@kx
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex mo7k
+\_no 01999
+\LG MIG
+\PSH
+\UND mo7k
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG abrazar
+\ENG to hold in the crook of the arm
+\SPL mo7k.ney
+\SLGR ASSUM1
+\SLGL poner en el suelo amontonadito // to pile up on the floor
+\SPL mo7k.ten
+ZOH004R0011001.txt
+\SLGR PRSV
+\SLGL tener abrazado // to have in the crook of the arm
+\EXU 1 7@y+ mo7k.ten-wa
+\XPSH 1[7@y mo7ktenn@.]
+\XSP 1 Lo tiene abrazado.
+\XEN 1 She's got it held in the crook of her arm.
+\EXU 2 7@y+ mo7k=n@k-pa
+\XPSH 2 [7@y mo7kn@kpa.]
+\XSP 2 Lo lleva abrazado.
+\XEN 2 He's carrying it in the crook of his arm.
+\EXU 3 mo7k.ney-w@
+\XPSH 3 [MO7kneyy@.]
+\XSP 3 Puesto en el suelo amontonadito.
+\XEN 3 It's on the floor in a little pile.
+\SYN
+\SEMF carry
+\ASP activity
+\ARG
+Page 861

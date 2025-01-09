@@ -1,0 +1,28 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+Operators are elements "which are qualitatively different from predicates
+and their arguments" (Van Valin and LaPolla, 1997:40). These include clausal
+elements such as tense, aspect, negatives, etc. These modify different layers of
+the clauses in which they appear; thus, aspect is a nuclear operator, mood
+(deontic modals expressing such notions as obligation) is a core operator, and
+tense is a clausal operator. Operators may be affixes (e.g., the progressive
+suffix -ing), function words (e.g., English auxiliary verbs), or content words
+(e.g., adverbs like 'frankly' that affect the illocutionary force of a clause).
+Clauses are combined into complex sentences by means of junctures at
+the various levels: nuclear, core, and clause (including the periphery). Causative
+constructions in English are an example of a nuclear juncture, as in "The woman
+made the child eat." Although there are two predicates, 'make' and 'eat', they
+function together as a single, complex predicate. Most verb stem compounds
+in MIG Zoque are nuclear junctures. In the example below, ha?k- 'to drown' and
+ka?- 'to die' are compounded inside the verb complex, forming a single
+complex predicate.
+(2.4.) gø tyempu mae ja'kkapa rroberta
+gə tyempu mae? 0 ha?k=ka?-pa
+rroberta
+DEM tiempo REM 3A ahogarse=morirse-INC roberta
+'En ese tiempo se iba morir de ahogada Roberta .' (ZOH001R015-075)
+Core junctures combine two cores, each with its own set of arguments.
+An example from English (from Van Valin and La Polla, 1997:444) is "I ordered
+Fred to force the door open." The two cores are 'I ORDER Fred' and 'Fred FORCE
+the door open'. Some verb stem compounds in MIG Zoque are core junctures.
+In example (2.5), the two cores are 'I HELP my mother' and 'my mother WASH
+19

@@ -1,0 +1,30 @@
+SPOLE
+109
+Numeral stems whose values are between nineteen and
+four hundred, but not even multiples of twenty, are constructed
+by the formula //X-e?-s-Y-wInak // or //X-e?-y-Y-wInak //, where
+X and Y represent numeral stems whose values are between one
+and twenty. The numerical values of these constructions are
+represented by the formula (X-20)+Y(20): (Y-1)20+X. The stem
+twenty-six, for instance, is //wák-e?-s-čá?-winak//, where x=6
+and Y=2. The system may be thought of as counts towards a set
+of cycle markers placed twenty units apart. Twenty-six, then,
+is six towards the marker "two twenties." Examples of the se
+stems are: //xún-s-čá?-winak // twenty-one, // čá?p¹-s-čá?-
+winak // twenty-two, //?óš-e?-s-čá?-winak // twenty-three,
+//čáN-e?-s-čá?-winak // twenty-four, //hó?-lăxuN-e?-s-čá?-
+winak // thirty-five, //wák-lăxuN-e?-s-čá?-wInak /// thirty-six,
+//p'áluN-láxuN-e?-s-čá?-wInak // thirty-nine, //xún-y-?óš-
+winak // forty-one, //čá?p¹-y-?óš-wInak // forty-two, //?óš-e?-
+y-?óš-winak // forty-three, //xún-s-p'álun-láxuN-wínak // 361,
+//p'áluN-láxuN-e?-s-p'áluN-láxuN-wínak // 379.
+The informants used in this study were unable to state
+the cycle marker that would be used in counting from 381 to
+399, the hypothetical * //xún-s-xúnk'al // 381 and so on. The
+stem //xúnk'al // appears only as the absolute value 400, and
+not in cycle counts.
+In addition to these compound stems composed of numeral
+roots and stems; a few noun stems indicating cycles are formed
+These
+by complete or partial reduplication of numeral roots.
+are: ///xún-xun // every < //xún // one, //čá?p¹-čă?p¹ // every two <

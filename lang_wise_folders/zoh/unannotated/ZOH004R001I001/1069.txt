@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 27/Jan/96
+\lex n@'-poj
+\_no 02481
+\LG MIG
+\PSH [n@poj]
+\UND _n@7=poj
+\MB agua, bejuco
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG bejuco de agua
+\ENG a type of vine
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 08/Feb/96
+\lex n@'-puj
+\_no 02482
+\LG MIG
+\PSH [n@puj-]
+\UND _n@7-puj
+\MB agua, inflar
+\VAR
+\GRAM vt:incorp
+\SCI
+\USE
+\SPG santiguar
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT puj
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 27/Jan/96
+\lex n@'-p@k
+\_no 02483
+\LG MIG
+\PSH [n@p@k-
+\UND n@7-p@k
+ZOH004R0011001.txt
+Page 1069

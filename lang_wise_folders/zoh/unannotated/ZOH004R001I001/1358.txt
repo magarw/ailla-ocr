@@ -1,0 +1,62 @@
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex t@7k.kuy7
+\_no 03157
+\LG MIG
+\PHO [t@7kkuy7]
+\UND t@7k.kuy7
+\MB hipar, INSTR1
+\VAR
+\GRAM instr1
+\SPG el sonido del hipo
+\ENG the sound of a hiccough
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT t@7k
+\RTGR I1
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex t@7kx
+\_no 03158
+LG MIG
+\PSH
+\UND t@7kx
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG destripar (ca*scara tostada o dura)
+\ENG to peel (a toasted or hard shell)
+\SPL t@7kx. 7oy
+\SLGR ANTIP
+\SLGL quebrar // to break
+\SPL t@7kx.7@m
+\SLGR PASS
+\SLGL destriparse // to be peeled
+\SPL t@7kx.ney
+\SLGR ASSUM1
+\SLGL tener destripado
+\EXU 7@y+ t@7kx-w@ pojo7k
+\XPSH [7@y_t@7kx@ pojo7k.]
+\XSP Destripo* el huevo.
+\XEN She peeled the egg.
+\SYN
+\SEMF cut
+\ASP accomplishment
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+\ROOT t@7kx
+\RTGR P (T3)
+\DSRC TK94
+ZOH004R0011001.txt
+\CMTS
+\date 03/Jan/80
+Page 1358

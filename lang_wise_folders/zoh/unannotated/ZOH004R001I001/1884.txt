@@ -1,0 +1,63 @@
+\MB BOCA
+\VAR
+\GRAM pre
+\SCI
+\USE lexical verbal prefix, recruited from pM-S *7aw `mouth'
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU 7anh.kam-w@
+\XPSH [7anhkamm@.]
+\XSP Se cerro*.
+\XEN It closed.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 11/Feb/96
+\lex {7anh=}
+\_no 04389
+\LG MIG
+\PSH
+\UND 7anh
+\MB BOCA
+\VAR
+\GRAM pre
+\SCI
+\USE nominal prepound: `mouth, face'
+\SPG
+\ENG
+\SPL
+\SLGR
+\EXU 7anh-way7
+\XPSH [7anhway7]
+\XSP barba
+\XEN beard
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 11/Feb/96
+\lex {.7aH}
+\_no 04390
+\LG MIG
+\PSH [a-]
+\UND 7aH
+\MB VERS1
+ZOH004R0011001.txt
+\VAR
+\USE affixed to nouns or adjectives to form a verb: versive
+\GRAM suf
+\SCI
+\USE
+\SPG tener or ser VERBO
+\ENG to have or to be VERB
+\SPL
+Page 1884

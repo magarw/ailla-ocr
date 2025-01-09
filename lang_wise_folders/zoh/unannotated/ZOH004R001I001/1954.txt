@@ -1,0 +1,64 @@
+\DSRC TK96
+\CMTS
+\date 26/Jun/96
+\lex %y@nh F
+\_no 04550
+\LG MIG
+\PSH
+\UND
+\MB
+\VAR
+\GRAM F
+\SCI
+\USE
+\SPG temblando
+\ENG trembling
+\EXU
+\SPL y@nh.y@nh.ney (viRF)
+\SLGR estar temblando
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 11/Feb/96
+\lex {+V7}
+\_no 04551
+\LG MIG
+\PSH
+\UND V7
+\MB REL1
+\VAR
+\GRAM rel
+\SPG
+\ENG
+ZOH004R0011001.txt
+\SPL
+\SLGR
+\EXU 1 7@y+ y@k.t@-pa+'am jemji de lo ke 7@n+ n@m. jay-pa+v7
+\XPSH 1 [7@y y@kt@ba*m jemji de lo_ken_n@mjaba*7.]
+\XSP 1 Ya entiende todo de lo que le digo.
+\XEN 1 Now she understands everything that I tell her.
+\EXU 2 ga.' bi pa-p@n ke yakki' ya yak.p@7t-A+V7
+\XPSH_2 [Ga bi pap@n ke yakki ya yakp@t@*7.]
+\XSP 2 Ese era el diablo que nadie deja pasar.
+\XEN 2 That was the devil that wouldn't let anyone pass.
+\EXU 3_7@y+ 7anh-kim. 'oy-pa+v7 7@y+ naji minhgoxopa
+\XPSH 3 [7@y 7anhkimmoba*7 7@y n@ji Minhgoxopa.]
+\XSP 3 E1 que manda se llama Mingoxopa.
+\XEN 3 The leader's name is Mingoxopa.
+\EXU 4 mix+ n@m.jay-w@+v7 tzam.e ya 7@n+ y@k.t@.7@y-A
+mae7
+\XPSH 4 [Mix_n@mjayy@*7 tzame yan y@kt@7@y mae7.]
+\XSP 4 La palabra que me dijistes no me crei*a yo.
+\XEN 4 I didn't believe the words
+that you said to me.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+Page 1954

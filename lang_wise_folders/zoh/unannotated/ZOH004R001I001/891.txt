@@ -1,0 +1,62 @@
+\lex muxi7
+\_no 02065
+\LG MIG
+\PSH
+\UND muxi7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG puto
+\ENG male whore
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT mux
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 12/Nov/94
+\lex mux.kuy'. '@y
+\_no 02066
+\LG MIG
+\PSH [muxkuyy@y-]
+\UND mux.kuy7.7@y
+\MB saber, INSTR1, VERS2
+\VAR
+\GRAM vers2
+\SPG tener sabiduri*a
+\ENG to have wisdom or knowledge
+\EXU mux.kuy' '@y-wa
+\XPSH [Muxkuyy@yy@.]
+\XSP Tiene sabiduri*a.
+\XEN She knows a lot.
+\SYN
+\ROOT mux
+\RTGR T3
+\DSRC HAJ95
+\CMTS German thinks this is not very "claro": prefers mux. 7oy
+\date 25/Jun/96
+\lex mux. 'oy-pa+a7k
+\_no 02067
+\LG MIG
+\PSH [muxxoba*7k]
+\UND mux. 7oy-pa +P@7k
+\MB saber, ANTIP, INC, REL
+\VAR
+\GRAM agt1
+\SCI
+\USE
+\SPG 1 una persona inteligente
+\SPG 2 abogado
+\ENG 1 a smart person
+\ENG 2 a lawyer
+ZOH004R0011001.txt
+\EXU jak mux. 'oy-pa+a7k
+\XPSH [jak muxxoypa*7]
+Page 891

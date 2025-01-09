@@ -1,0 +1,20 @@
+\XEN
+\ROOT y@7kx Ix, Il
+\SEMF motion
+\CAUS yak.y@7kx mover; menear
+\CMTS
+\lex y@7t
+\_no 00424
+\SPG deshebrar carne para freirla
+\ENG
+ZOH001R0611010.txt
+\EX 7@y y@7tt@ xix para que xe7tt@
+\XSP deshebro* carne para freirla
+\XEN
+\ROOT y@7t T3
+\SEMF cut, obj
+\PASS y@7t.7@m deshebrarse
+\ANTI y@7t.7oy deshebrar
+\PRSV y@7t=ten lo tiene deshebrado (7@y y@7ttenn@)
+\CMTS
+Page 94

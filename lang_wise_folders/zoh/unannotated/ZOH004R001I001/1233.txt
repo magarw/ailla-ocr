@@ -1,0 +1,63 @@
+\SCI
+\USE
+\SPG ponerle; echarle
+\ENG to put something somewhere or for someone
+\EXU 7@y+ p@'-jay-wa tum kojom
+\XPSH [7@y p@jayya tum kojom.]
+\XSP Le puso un horco*n.
+\XEN He set a post for it.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT p@
+\RTGR T3
+\DSRC HAJ94
+\CMTS WHERE is ERG in EX? HAJ:96, fixed it
+\date 19/Jun/96
+\lex p@'-n@k
+\_no 02861
+\LG MIG
+\PSH [p@n@k-]
+\UND p@7-n@k
+\MB
+\VAR
+\GRAM vt+dir
+\SCI
+\USE
+\SPG 11evar
+\ENG to take, to carry
+\EXU 1 7@y+ p@'=n@k-w@
+\XPSH 1 [7@y pan@kka.]
+\XSP 1 se lo llevo*.
+\XEN 1 She took it.
+\EXU 2 p@7-n@k-A7
+\XPSH 2 [P@n@: k@7!]
+\XSP 2 !Llevalo!
+\XEN 2 Take it!
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 p@7
+\RTGR 1 T3
+\ROOT 2 n@k
+\RTGR 2 11
+\DSRC HAJ94
+\CMTS
+\date 08/Feb/96
+\lex p@'t.17
+\_no 02862
+\LG MIG
+\PHO [p@ti7]
+\UND p@7t.E7
+\MB pasar, NOM7
+\VAR
+ZOH004R0011001.txt
+\GRAM pcp
+\SPG alguien que paso*
+\ENG someone who passed
+\EX
+\XSP
+\XEN
+Page 1233

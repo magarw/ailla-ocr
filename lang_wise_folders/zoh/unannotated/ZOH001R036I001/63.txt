@@ -1,0 +1,79 @@
+ZOH001R0361001.txt
+\sg] ji*cara chico pequen~o ji*cara de-NOM1-tanto -REL
+\egl dipper little small dipper of-NOM1-amount-REL
+\zoq tzima, chik nunu tzima de7xenhp@.
+\fts ji*cara chiquito esa medida.
+fte gourd, a little gourd of this size.
+\com <demonstrates, hands apart>
+\idx
+\ref ZOH001R036 291
+\_no 00289
+\tx minpa
+\mb min
+m p@jayy@
+-pa 7@m p@7 -jay -wa
+\sg1 venir-INC 2E
+poner-APPL-dINC un poquito
+\egl come -INC 2E put -APPL-DINC a little
+\zoq Minpam p@jayy@ 7omenh 7alko*1.
+\fts vienes a echarle un poco de alcohol.
+\fte You come and throw in a little alcohol.
+\com
+\idx
+\ref ZOH001R036 292
+\_no 00290
+\com
+\idx
+\tx minpa
+m
+p@jayy@
+\mb min -pa 7@m p@7 -jay -wa bi
+\sg1 venir-INC 2E
+bi jukut@k
+jukut@k
+poner-APPL-dINC DEF 1umbre
+\egl come -INC 2E put -APPL-DINC DEF fire
+\zoq Minpam p@j@yy@ bi jukut@k.
+\fts Le vienes a echar lumbre.
+\fte You come and throw it on the fire.
+\ref ZOH001R036 293
+\_no 00291
+\tx 7@n k@n@ktz@yy@ypa
+\mb 7@n k@
+-nak -tz@y
+7omenh
+7omeenh
+-7@y-pa
+\sgl 1E AFUERA-irse-atorarse -SUF-INC
+\egl 1E AWAY -go -get_stuck-SUF-INC
+\zoq 7@n k@n@ktz@yy@ypa
+\fts Le echo lumbre
+\fte I put in the fire
+\com
+\idx
+\ref ZOH001R036 294
+\_no 00292
+\zoq 7i_min@m 7anhn@kp@kjayya yaji.
+\fts y le vienes echar aqui*.
+\fte and come get it here.
+\com
+\idx
+\tx 7i
+min@
+m
+7anhn@kp@kjayy@
+\mb 7i min -A7 7@m 7anh -n@k -p@k -jay -wa
+\sg] y
+venir-IMPV 2E BOCA -irse-agarrar-APPL-dINC
+\egl and come -IMPV 2E MOUTH-go -get
+\ref ZOH001R036 295
+\_no 00293
+7alko*1
+7alko*1
+alcohol
+alcohol
+y@ji
+y@ -ji7
+DCT1-Loc1
+-APPL-DINC DCT1-LOC1
+Page 63

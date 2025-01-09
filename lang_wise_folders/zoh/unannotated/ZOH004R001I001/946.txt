@@ -1,0 +1,67 @@
+\UND nem
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 talonear
+\SPG 2 cortar con tijeras
+\SPG 3 meter el pie encima de alguien
+\ENG 1 to kick with heels while mounted on an animal [abstr: to hold in
+a scissored position]
+\ENG 2 to cut with scissors
+\ENG 3 to throw your leg over someone
+\SPL nem. 7oy
+\SLGR ANTIP
+\SLGL talonear; cortar con tijeras // to kick while mounted; to cut with
+scissors
+\SLGR NO PASS
+\EXU 1 7@n+ nem-w@ 7@n+ toto7 (7@n+ nem.kuy'+j@nanh)
+\XPSH 1 [7@n nemm@n toto7 (7@n nemkuyj@nanh).]
+enanh)
+\XSP 1 Corte* mi papel (con mis tijeras).
+\XEN 1 I cut my paper (with my scissors).
+\EXU 2 7@y+ nem.ten-w@ bi yo't.e7
+\XPSH 2 [7@y nemtenn@ bi yote7.]
+\XSP 2 Tiene cortada la ropa.
+\XEN 2 She has the clothes cut.
+\SYN
+\SEMF move, cut, body
+\ASP activity, achievement
+\ARG instrument
+ZOH004R0011001.txt
+\NOM nem.kuy7, nem.e7, nem. naanh
+\SUB 7ex=nem, ko.nem, k@.n@k=nem. '@y, nem-nuk, nem=p@k,
+\ETYM
+\ETL
+\ROOT nem
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex nem7
+\_no 02195
+\LG MIG
+\PSH
+\UND nem7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG ta*bano
+\ENG a type of insect
+\EXU y@k.y@k nem7
+\XSP ta*bano negro
+\EXU kajwe nem7
+\XSP ta*bano cafecito
+\SYN
+\SEMF EZ
+LF:bugs
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+Page 946
+nem=p@k, nem=tuk

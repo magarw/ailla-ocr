@@ -1,0 +1,63 @@
+\SPG dormir encogido
+\ENG to sleep huddled up
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT 1 kux
+\RTGR 1 P, (TX)
+\ROOT 2
+monh
+\RTGR 2 12
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex kux.naanh
+\_no 01578
+\LG MIG
+\PHO [kuxna*nh]
+\UND kux.naanh
+\MB recoger_pie, MED
+\VAR
+\GRAM meas
+\SPG un pie recogido
+ENG one foot bent back
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT kux
+\RTGR P (TX)
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+\lex kuxtia
+\_no 01579
+\LG MIG
+\PSH
+\UND kuxtiya
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG costilla
+\ENG rib
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM costilla
+\ETL Sp
+\ROOT
+\DSRC TK94
+\CMTS CK-PH - HAJ:96 ok with the /y/; but he says it without [y]: TK
+\date 24/Jun/96
+\lex kuxtia pak
+\_no 01580
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+\UND kuxtiya pak
+Page 685

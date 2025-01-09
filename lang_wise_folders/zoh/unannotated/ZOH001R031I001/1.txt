@@ -1,0 +1,80 @@
+\id C:\TEXTS\ZOH001R031.TXT
+\ref ZOH001R031 000
+\_no 00001
+\zoq La Forma en que Hacen el Pan
+\fts La Forma en que Hacen el Pan
+\fte How Bread is Made
+\com narrado por Aristea Lopez Morales
+\com 7/11/95, en San Miguel Chimalapa, Oaxaca, Mexico
+\com grabado por GSM, transcrito por Heidi Anna Johnson,
+\com traducido al espan~ol por GSM,
+\com analisado y traducido al ingles por HAJ.
+\com
+\com
+\com 7
+\com narrated by Aristea Lopez Morales
+\com 11/7/95, in San Miguel Chimalapa, Oaxaca, Mexico
+\com recorded by GSM, transcribed by Heidi Anna Johnson,
+\com translated into Spanish by GSM,
+\com analyzed and translated into English by HAJ.
+Ortografi*a
+Orthography
+\com @
+\com nh
+\com tz
+\com x
+\com j
+\com *
+pau*sula glotal
+vocal medio central
+nasal velar
+ZOH001R0311001.txt
+(ng)
+africativo alveolar (ts)
+fricativo palatal (sh)
+glottal fricative (h)
+estre*s
+\ref ZOH001R031 002
+\_no 00003
+28/Oct/04
+\zoq Bwen, joji d@ lebadortz@kpa,
+\fts Man~ana voy a hacer levadura,
+\fte ok, tomorrow I make the yeast,
+\com
+\idx incorp_nom
+\com
+\idx
+\ref ZOH001R031 001
+\_no 00002
+\tx bwen joji
+d@ lebadortz@kpa
+\mb bweno joji7 d@ lebadora-tz@k -pa
+\sg1 bueno man~ana 1A levadora-hacer-INC
+\egl good morning 1A yeast - do
+\zoq parantz@kpan lebadura,
+\fts para hacer levadura,
+\fte so I can make the yeast,
+n
+lebadura
+\tx para n tz@kpa
+\mb para 7@n tz@k -pa 7@n lebadora
+\sg1 para 1E hacer-INC 1E levadora
+\egl for 1E do -INC 1E yeast
+\ref ZOH001R031 003
+\_no 00004
+\tx pa joji
+\mb para joji7
+\sg1 para man~ana
+\egl for morning morning
+glottal stop
+mid central vowel
+velar nasal
+-INC
+alveolar affricate
+palatal fricative
+stress
+7anhnamtzu d@ 7okmanhpa
+7anhnamtzu7 d@ 7okmanh-pa
+man~ana 1A empezar -INC
+1A begin - INC
+Page 1

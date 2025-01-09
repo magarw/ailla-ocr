@@ -1,0 +1,44 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+6.2. Agreement
+Dixon (1979, 1994) defines three primitive argument relations: A, the
+subject of transitive verbs; S, the subject of intransitive verbs; and O, the object
+of transitive verbs. These terms are useful in describing the MIG Zoque verb
+agreement system, in which transitive verbs are marked to agree with both
+subject and object, and intransitive verbs are marked to agree with the subject.
+In the overview in chapter 2, I characterized this language as ergative. Table
+2.1 shows the pronominal agreement markers that cross-reference the A, S,
+and O relations.
+1
+2
+3
+O
+də
+də (3>1)
+miš (2>1)
+37
+Рәт
+mi (3>2)
+miš (1>2)
+0
+0
+A
+?ən
+?ǝm
+?әу
+S
+Possessive
+?ən
+118
+?əm
+?әу
+Table 6.1: Agreement markers
+Pronoun
+dəš
+miš
+<deictics>
+The third person system is prototypically ergative: S and O are the
+unmarked absolutive case, and A is specially marked as ergative. The first
+person system is almost as purely ergative, in that A is distinctively marked as
+ergative and the S and O relations are referenced by the same absolutive
+marker, except in the case where A references a second person actor who is
+acting on a first person undergoer. Here the ambiguous morpheme miš is

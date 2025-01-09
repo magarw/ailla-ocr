@@ -1,0 +1,52 @@
+\SPG porra
+\ENG clump
+\lex po7ktzoni 7
+\_no 01826
+\SPG madali
+\ENG
+\lex po7kx
+\_no 01827
+\SPG calmarse
+\ENG calm_down
+\lex po*lbora7
+\_no 01828
+\SPG po*1vora
+\ENG gunpowder
+\lex politika
+\_no 01829
+\SPG politico
+\ENG politics
+\lex pom
+\_no 01830
+\SPG calmar
+\ENG ease
+\lex poma
+\_no 01831
+\SPG copal
+\ENG copal
+\lex pomada
+\_no 01832
+\SPG pomada
+\ENG cream
+\lex pomarrosa
+\_no 01833
+\SPG pomarrosa
+\ENG
+\lex ponji
+\_no 01834
+\SPG despacio
+\ENG slowly
+\lex ponmu7k
+\_no 01835
+\SPG zacate
+\ENG grass
+\lex ponon7
+\_no 01836
+\SPG blandito
+\ENG soft
+\lex ponsonyo
+\_no 01837
+\SPG ponsonio
+\ENG poison
+ZOH001R0611013.txt
+Page 146

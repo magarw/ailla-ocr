@@ -1,0 +1,62 @@
+\lex tzap-ji-7k yo't.e7
+\_no 03281
+\LG MIG
+\PSH [tzapji7k_yote7]
+\UND tzap.ji7+7pvk yote7
+\MB encima, LOC1, X, ropa
+\VAR
+\GRAM avms
+\SCI
+\USE
+\SPG ropa de encima
+\ENG outer clothing
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH - HAJ:96, added the /k/
+\date 19/Jun/96
+\lex tzap-ji-p@'
+\_no 03282
+\LG MIG
+\PSH [tzapjip@-]
+\UND tzap-ji-7-p@7
+\MB encima, poner
+\VAR
+\GRAM vt:incorp
+\SCI
+\USE
+\SPG poner encima
+\ENG to put on top
+\EXU 7@n+ tzap-ji-p@'-w@ 7@n+ w@tz.kuy7
+\XPSH [7@n tzapjip@w@n w@tzkuy.]
+\XSP Encima puse mi peine.
+\XEN I put my comb on top.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT p@7
+\RTGR T3
+ZOH004R0011001.txt
+\DSRC HAJ94
+\CMTS don't use the ergative pronoun with this form; CK 1st person subj
+\date 26/Jun/96
+\lex tzap.j@7
+\_no 03283
+\LG MIG
+\PSH [tzapj@7]
+\UND tzap.j@7
+\MB
+\VAR
+\USE directional
+\GRAM av
+\SPG arriba
+\ENG above
+\EXU desde tzap-j@7
+Page 1411

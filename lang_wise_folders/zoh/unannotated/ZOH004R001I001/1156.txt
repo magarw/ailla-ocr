@@ -1,0 +1,63 @@
+\lex poe'=pa'. kuy7
+\_no 02686
+\LG MIG
+\PSH [poepakuy7]
+\UND powe7=pa7.kuy7
+\MB arena, colar, INSTR1
+\VAR poe-pa.kuy7
+GRAM instr1
+\SCI
+\USE
+\SPG colador de arena
+\ENG sand sifter.
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT pa7
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex poj jiya7
+\_no 02687
+\LG MIG
+\PSH
+\UND poj jiya7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG bejuco de zapote
+\ENG a type of vine
+\SPL
+SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 30/Jun/95
+\lex poj tzajin
+\_no 02688
+\LG MIG
+\PSH
+\UND poj tzajin
+\MB bejuco, culebra
+\VAR
+\GRAM sms
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG culebra arroyera (correlona), bejuquilla
+\ENG canyon snake
+Page 1156

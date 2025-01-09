@@ -1,0 +1,63 @@
+\MB X, X
+\VAR
+\GRAM AR
+\SCI
+\USE
+\SPG gordo
+\ENG fat
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex xa'.xa'.7aH
+\_no 03899
+\LG MIG
+\PSH [xaaxa7a-]
+\UND xa7.xa7.7ан
+\MB X, X, VERS1
+\VAR xax. 7a
+\GRAM versl
+\SCI
+\USE
+\SPG hacerse gordo; engordarse
+\ENG to get fat
+\SPL yak.xa7.xa7.7oy
+\SLGR ANTIP CONVERS2
+\SLGL hacer engordar // to cause to become fat; to fatten
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex xejke7t
+\_no 03900
+\LG MIG
+\PSH
+\UND xejke7t
+\MB
+\VAR
+\GRAM S
+ZOH004R0011001.txt
+\SCI
+\USE
+\SPG yagual; resistidor
+\ENG strap for carrying things on your head, supported on your back
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+Page 1677

@@ -1,0 +1,60 @@
+(96) n=0=kaana-n
+juun=tl
+patroon,
+INC=B3s encontrar-AP A3s-SR:COM uno-otro patrón
+'se encontró con otro patrón,'
+0-poon
+PROX B3s-llegar.allá
+'y cuando llegó allá'
+(97) ma
+(98) n=0=xi
+t-qaa'na-n,
+INC=B3s-DIR A3s-preguntar-SD
+'preguntó,'
+(99) qapa t-aj=a
+tal.vez A2s-querer-2s
+'tal vez quiere'
+(100) 0=loq'a-n=a
+B2s-comprar-AP=2s
+'comprar unas vacas,'
+(101) 0-chi-tzan.
+B3s=decir pues
+'dijo.
+(102) B'ala jaa'=ka,
+tal.vez sí pero
+'Tal vez sí, dijo el patrón,'
+(103) ¿jte'-tzan t-wi'
+(104) Per maaxa=la,
+(105) Q-la-'tz-chaq,
+t-u'n?
+cuánto-pues A3s-SR:sobre A3s-SR:por
+"¿cuánto por ellas?'
+t-i'j
+A3s-SR:PAC grupo vaca
+(106) 0-chi-tzan
+t-uk'a
+0-chi-tzan
+Luuch.
+pero hasta MIR B3s-decir-pues Pedro
+'A saber, dijo Pedro.'
+Alp-ver-RES.IMP=DIST
+'Vayamos a verlos,
+0-chi-tzan
+patroon,
+B3s-decir-pues patrón
+(107) Ma
+patroon.
+B3s-decir pues patrón
+'dijo el patrón.'
+(108) luu-qa=kya
+chi kaana-n
+neqaa'=yiin,
+PROX B3p encontrar-AP cerca=DIS
+'Cuando llegaron algo cerquita,
+txqan waakxh,
+allá=PL=3pENF vaca
+'allá estaban las vacas'
+9
+waakxh at=e'
+EXIST=B3p
+10

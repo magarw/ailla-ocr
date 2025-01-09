@@ -1,0 +1,62 @@
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex t@p.kuy7
+\_no 03187
+\LG MIG
+\PSH [t@pkuy7]
+\UND t@p.kuy7
+\MB coser, INSTR1
+\VAR
+\GRAM instrl
+\SCI
+\USE
+\SPG gancho de tejer
+\ENG hook for weaving
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT t@p
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 20/Oct/94
+\lex t@p-max
+\_no 03188
+\LG MIG
+\PSH [t@pmax-]
+\UND t@p-max
+\MB coser, descomponerse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG coser mal
+\ENG to sew badly
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT t@p
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex t@p-m@tz.7@y
+\_no 03189
+\LG MIG
+\PSH [t@pm@tztz@y-]
+\UND t@p-m@tz.7@y
+\MB coser=jugar.VERS2
+\VAR
+\GRAM vt
+\SCI
+ZOH004R0011001.txt
+Page 1371

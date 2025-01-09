@@ -1,0 +1,62 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT 7utz
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 12/Jan/96
+\lex k@y.naanh
+\_no 00035
+\LG MIG
+\PHO [k@yna*nh]
+\UND k@y.nanh
+\MB 11evar_en_mano, MED
+\VAR
+\GRAM meas
+\SPG un platillo
+\ENG a little plate
+\EXU tum k@y.naanh k@x.E
+\XPSH [tum k@ynanh k@xi]
+\XSP un platillo de comida
+\XEN a little plate of food
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex matonh.naanh
+\_no 00036
+\LG MIG
+\PHO [matonhna*nh]
+\UND matonh.naanh
+\MB escuchar, MED
+\VAR
+\GRAM meas
+\SPG una escuchada, como un sonido que oyo* una sola vez
+\ENG a hearing, like a sound that you hear only once
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT matonh
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/80
+\lex mekx.kuy7
+\_no 00037
+ZOH001R0611003.txt
+\LG MIG
+\PHO [mekxkuy7]
+\UND mekx.kuy7
+\MB medio-cerrar_ojos, INSTR1
+\VAR
+\GRAM instr1
+\SPG la accio*n de medio-cerrar los ojos
+\ENG the act of half-closing the eyes.
+\EX
+\XSP
+\XEN
+\SYN
+Page 13

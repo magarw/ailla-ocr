@@ -1,0 +1,62 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 02/Oct/94
+\lex le7k.le7k.ney
+\_no 01800
+\LG MIG
+\PSH [1e7kle7kney-]
+\UND Te7k.le7k.ney
+\MB
+\VAR
+\GRAM VİR
+\SCI
+\USE
+\SPG hacer los movimientos de chingar
+\ENG to make motions of fucking
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 02/Oct/94
+\lex lenteja
+\_no 01801
+\LG MIG
+\PSH
+\UND lenteja
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG lenteja
+\ENG lentils
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 02/Oct/94
+ZOH004R0011001.txt
+\lex lenh
+\_no 01802
+\LG MIG
+\PSH
+\UND lenh
+Page 778

@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT ke7tz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex j@x-kit
+\_no 01072
+\LG MIG
+\PSH [j@xkit-]
+\UND jax=kit
+\MB ATRAS, quebrar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG sacar quebrado
+\ENG to take something out that is already broken
+\SPL
+\SLGR
+\EXU 7@y+ jax.kit.jay-w@ 7@y+ 7anh.kax
+\XPSH [7@y j@xkitjayya y 7anhkax.]
+\XSP Saco* quebrado la rama.
+\XEN He took out the broken branch.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kit
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 11/Jan/96
+\lex j@x-ki7t
+\_no 01073
+LG MIG
+\PSH [j@xki7t-]
+\UND j@x-ki7t
+\MB ATRAS, meter_dedo
+\VAR
+\GRAM vt
+\SCI
+\USE
+ZOH004R0011001.txt
+\SPG sacar algo con el dedo
+\ENG to get something out with your finger
+SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN nik.ki7t. '@y
+\SEMF
+\ETYM
+\ETL
+\ROOT ki7t
+\RTGR T3
+\DSRC HAJ95
+\CMTS
+\date 11/Jan/96
+Page 470

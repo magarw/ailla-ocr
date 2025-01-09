@@ -1,0 +1,64 @@
+\lex k@'-tzux
+\_no 01789
+\LG MIG
+\PSH [k@tzux]
+\UND k@7-tzux
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG un*a
+\ENG fingernail; claw
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jan/96
+\lex labaplatu 7ay7
+\_no 01790
+LG MIG
+\PSH
+\UND labaplatu 7ay7
+\MB
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG hoja de lavaplato
+\ENG a type of plant
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EB
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS
+\date 11/Nov/94
+\lex lakka
+\_no 01791
+LF:7okox
+\LG MIG
+\PSH
+\UND lakka
+\MB
+\VAR chichalakka7
+\GRAM S
+\SCI
+\USE
+\SPG chichalaca
+\ENG a type of bird
+\EXU
+\XSP
+\XEN
+ZOH004R0011001.txt
+Page 774

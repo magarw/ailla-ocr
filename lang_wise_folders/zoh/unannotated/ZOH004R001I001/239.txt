@@ -1,0 +1,65 @@
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH, CK-SLIPS
+\date 24/Jun/96
+\lex bejcha mula
+\_no 00554
+— — —
+\LG MIG
+\PSH
+\UND bejcha mula
+\MB caballo, mula
+\VAR
+\SEMF EZ
+\ETYM
+\ETL
+\GRAM
+\SCI
+\USE
+\SPG mula
+\ENG mule
+\EXU machu mula
+\XSP macho de mula
+\XEN
+\SYN
+\ROOT
+\DSRC TK94
+LF:7anmal
+\CMTS
+\date 10/Nov/94
+\lex bejcha-poy-wit-pa+a7k
+\_no 00555
+\SPG arriero
+\ENG herder
+\EXU
+\XSP
+\XEN
+\SYN
+\LG MIG
+\PSH [bejcha poywitpa*7]
+\UND bejcha poy-wit-pa +P@7k
+\MB caballo, huir, andar, INC, REL
+\VAR
+\GRAM agt1: incorp
+\SCI
+\USE
+\SEMF
+\ETYM
+LF:7anmal
+\ETL
+\ROOT 1 poy
+\RTGR 1 11
+\ROOT 2 wit
+ZOH004R0011001.txt
+\RTGR 2 11
+\DSRC HAJ94
+\CMTS CK-PH, CK-GR ok
+\date 24/Jun/96
+\lex bejcha=y@k.k@x
+Page 239

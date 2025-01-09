@@ -1,0 +1,73 @@
+y tzapj@
+\tx pojj@yy@
+\mb poj
+-7@y -w@ 7@y tzap -j@7
+\sg1 bejuco-VERS2-COM 3E encima-LOC1
+\egl vine -VERS2-COM 3E on_top-LOC1
+\zoq Pojj@yy@y tzapja.
+\fts Lo tiene bejuca alla* arriba.
+fte It has vines up there.
+\com
+\idx
+\ref ZOH001R036 237
+\_no 00237
+bi
+7anhkax
+\tx 7@y jupkitpa
+\mb
+-kit
+7@y jup
+-ра bi 7anhkax
+\sgl 3E jalar-quebrar-INC DEF rama
+\egl 3E pull -break -INC DEF branch
+\zoq 7@y jupkitpa bi 7anhkax.
+\fts se quebro la rama.
+\fte The branch breaks.
+\com
+\idx
+\ref ZOH001R036 238
+\_no 00238
+\tx mi niyo77@ypa
+\mb mi
+ni -yo7
+\sg1 3>2 PSE-caerse-SUF-INC
+\egl 3>2 PSE-fall -SUF-INC
+-7@y-pa
+\zoq Mi niyo77@pa.
+\fts Te cae encima.
+\fte It falls on you.
+\com
+\idx
+\ref ZOH001R036 239
+\_no 00239
+\tx 7i
+\mb 7i
+ZOH001R0361001.txt
+gad@
+ka
+7@m kopakjo
+-7a -w@ -7am 7@m kopak -jo7
+-VERS1-COM-YA 2E cabeza-LOC2
+\eg1 and DCT3-DEM blow there is-VERS1-COM-NOW 2E head -LOC2
+-d@ golpe teji
+DCT3-DEM golpe hay
+\sg] y
+golpe tejiawa*m
+\zoq 7i gad@ golpe tejiawa*m 7@m kopakjo,
+\fts Y ese golpe ya queda en la cabeza,
+\fte And now he has that blow on his head,
+\com
+\idx
+\ref ZOH001R036 240
+\_no 00240
+\tx 7onde keda ke m
+niyo77@ba
+\mb donde keda ke 7@m ni-yo7 -7@y-pa
+\sg1 donde queda que 2E PSE-caerse-SUF-INC
+\egl where stays that 2E PSE-fall -SUF-INC
+\zoq 7onde keda kem niyo77@ba.
+\fts en donde queda que te caiga.
+\fte where it stays that it fell on you.
+\com
+\idx
+Page 52

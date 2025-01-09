@@ -1,0 +1,98 @@
+Español
+NOM5
+YA
+NPL
+NPL2
+NOMAS
+COPT
+iOPT
+PAS
+nPERF
+PRB
+PROG
+PRSV
+PSE
+PURP
+RCP
+REFL
+REL
+REL2
+REM
+REPET
+RVS
+PAR
+SIM
+SOC
+STAT
+STILL
+SUF
+SUP
+TEMREL
+TMP
+Zoque
+0
++?am
++dǝkkay
++haa?
++štaa?
+-wƏ
+-A?
+.?əm
+yampa
+.ki?pš
+nəmmə
+.ten
+ni
+go?
+-A-
+ney
+win
++V?k
++pə?k
+mae?
+.ke?t
+.pu?
+bəše
+.?še
+ko.
+.na?
++nam?
+.?əy
+nik.
+Pora
+.y
+xxiii
+Descripción
+nominalizer: zero suffix
+now
+plural marker for nouns
+plural marker for pronouns and
+some nouns
+only
+optative completive
+optative incompletive
+passive
+negative perfect
+probative
+progressive
+perseverative
+directional prefix: purpose
+subordinator: purpose clause
+reciprocal suffix
+reciprocal pronoun
+reflexive pronoun
+relative
+relative, also forms nouns from
+adjectives
+remote perfect
+repetitive
+reversive
+modal: seems as if
+similative, only with deictics
+prefix: with or for another person
+stative
+postverbal clitic: still
+suffix whose function is unknown
+directional prefix: surface
+temporal relative
+temporal, only with deictics

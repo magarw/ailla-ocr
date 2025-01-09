@@ -1,0 +1,62 @@
+\lex k@.7anh.may
+\_no 01647
+\LG MIG
+\PSH [k@7anhmay-]
+\UND k@.7anh.may
+\MB FUERA, BOCA, contar
+\VAR
+\GRAM vt, vi:act
+\SCI
+\USE
+\SPG aprender
+\ENG to learn
+\EXU 1 k@.7anh.may-pa+a7k
+\XPSH 1 [k@7anhmaypa*7k]
+\XSP 1 aprendiz; esta* aprendiendo
+\XEN 1 apprentice; one who is learning
+\EXU 2 k@.7anh.may-w@+@7k
+\XPSH 2 [k@7anhmayy@*7k]
+\XSP 2 aquel que aprendio*
+\XEN 2 one who has learned
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT may
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex k@.7etz. '@y
+\_no 01648
+\LG MIG
+\PSH [k@7etztz@y-]
+\UND k@.7etz.7@y
+\MB FUERA, bailar, SUF
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG bailar enfrente de una mujer, como pa*jaros
+\ENG to dance in front of a woman, like birds do
+\SPL
+\SLGR
+\EXU bi jaya tunuk n@m-w@_y+ k@.7etz.7@y-w@ bi yom@' tunuk
+\XPSH [Bi jaya tunuk n@mm@y_k@7etztz@yy@ bi yom@ tunuk.]
+\XSP El guajolote esta* bailando adelante de la cholla.
+\XEN The turkey cock is dancing in front of the turkey hen.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 7etz
+\RTGR T1
+ZOH004R0011001.txt
+\DSRC HAJ95
+\CMTS
+\date 07/Feb/96
+\lex k@.7ex=wi tu'
+\_no 01649
+\LG MIG
+\PSH [k@7exwitu-]
+Page 712

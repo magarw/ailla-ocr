@@ -1,0 +1,63 @@
+\ROOT
+\DSRC HAJ94
+\CMTS CK-PH
+\date 19/Jun/96
+\lex surku
+\_no 02909
+\LG MIG
+\PSH
+\UND surku
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG surco
+\ENG furrow
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ETYM surco
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 18/Oct/94
+\lex surku.7@y
+\_no 02910
+\LG MIG
+\PSH [surku7@y-]
+\UND surku.7@y
+\MB surco, VERS2
+\VAR
+\GRAM vt
+HAJ:96, sounds good
+\SCI
+\USE
+\SPG surcar
+\ENG to plow in furrows
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+ETYM surco
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 18/Oct/94
+\lex sur.penh.penh7
+\_no 02911
+\LG MIG
+\PSH [surpenhpenh7]
+\UND sur.penh.penh
+\MB
+\VAR sur.penh.penh [maybe]
+\GRAM SR
+\SCI
+\USE
+ZOH004R0011001.txt
+Page 1252

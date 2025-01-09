@@ -1,0 +1,81 @@
+\fts OSM: Con vaselina.
+\fte OSM: with vaseline.
+\com
+\idx
+\ref ZOH001R036 881
+\_no 00864
+\tx GSM: baselina
+\mb GSM baselina
+\sg1 GSM: vaselina
+\eg1 GSM: vaseline
+\zoq GSM: Baselina.
+\fts GSM: Vaselina.
+\fte GSM: Vaseline.
+\com
+\idx
+\ref ZOH001R036 882
+\_no 00865
+\tx _n@m@
+\mb n@m -A7
+AC
+\sg1 decir-IMPV que todo
+\egl say - IMPV what_all ACC
+\ref ZOH001R036 883
+\_no 00866
+\tx
+OSM: y@
+\mb OSM ya
+y@ -7
+tiyanhjaa7
+tiyanhja*_ j@nanh 7am jomott@
+jananh 7am jo
+-mot
+\zoq N@m@ tiyanhja*j@nanh 7am jomott@ para...
+\fts Di que todo lo revolviste..
+\fte Tell us everything you mixed it with...
+\com
+\idx
+\sg1 OSM: DCT1-NOM1 3E
+\egl OSM: DCT1-NOM1 3E get
+\ref ZOH001R036 884
+\_no 00867
+7@y p@kn@kpa
+7@y p@k
+\zoq OSM: Y@ 7@y_p@kn@kpa 7ocho pastiya,
+\fts OSM: Esto 11eva ocho pastiya,
+\fte OSM: This gets eight pills,
+\com
+\idx
+\tx syen
+\mb syen
+\sg1 cien
+gramo de vaselina
+\egl hundred gram of vaseline
+gramo de baselina
+gramo de baselina
+\ref ZOH001R036 885
+\_no 00868
+\tx 7@m yumpa
+\mb 7@m yum
+\sg1 2E
+\egl 2E boil
+\zoq syen gramo de baselina.
+\fts cien gramos de vaselina.
+\fte 100 grams of vaseline.
+\com
+\idx
+ZOH001R0361001.txt
+7ocho pastiya
+-n@k -pa 7ocho pastiya
+agarrar-irse-INC ocho pastilla
+-go -INC eight pill
+-pa
+hervir(se)-INC
+para
+para
+2E EN -revolver-COM para
+-COM for
+2E INTO-stir
+- INC
+-wa
+Page 187

@@ -1,0 +1,60 @@
+\XSP ya esta* cansado o aburrido
+\XEN he's tired or bored
+\ROOT potz 12
+\SEMF body, cog
+\CAUS yak.potz cansar
+\lex potz
+\_no 00229
+\SPG embarrar; hacer pared; enlodar casa
+\ENG to smear; to make a wall
+\EX t@kpotztz@
+\XSP 1o embarro* la casa
+\XEN he mudded the house
+\ROOT potz T3
+\SEMF create
+\PASS potz.7@m
+\ANTI potz.7oy
+\CMTS
+\lex poy
+\_no 00230
+\SPG juirse (animal o cristiano); irse con hombre (mujer); ir en otro lugar
+(animal); cambiarse de lugar (animal)
+\ENG to flee (animal or person); for a woman to go with a man; to go
+elsewhere (animal); to change places (animal)
+\EX poyy@ yom7une
+\XSP se juyo* la muchaca
+\XEN the girl ran_away
+\EX 7@y yakpoyy@ 7eyajonanh
+\XSP lo mando* arriar a un lado
+\XEN he herded them elsewhere
+\ROOT poy I1
+\SEMF motion
+\CAUS yak.poy otro mandar que lo arriera (como un animal)
+\CMTS
+\lex pu
+\_no 00231
+\SPG salir pus
+\ENG to ooze pus
+\EX
+\XSP
+\XEN
+ZOH001R0611010.txt
+\ROOT pu 12
+\SEMF sickness, body
+\CAUS yak.pu
+\CMTS
+\lex puj
+\_no 00232
+\SPG inflar; soplar; hacer sonar el clarinete
+\ENG to inflate; to blow; to play a clarinet
+\EX
+\XSP
+\XEN
+\ROOT puj T3
+\SEMF body, music
+\PASS NONE puj.7@m *
+\ANTI puj.7oy
+\CMTS
+\lex pujuj
+\_no 00233
+Page 53

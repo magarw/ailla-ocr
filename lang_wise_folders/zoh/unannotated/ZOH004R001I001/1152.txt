@@ -1,0 +1,62 @@
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex piyu' tzan.tzan@7
+\_no 02676
+\LG MIG
+\PSH [piyu tzantzan@7]
+\UND piyu' tzan.tzan@7
+\MB gallina, X, X
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG caldo de pollo
+\ENG chicken soup
+\EXU jak tzan.tzan piyu' k@x.i
+\XPSH [Jak tzantzan piyu k@xi.]
+\XSP Muy sabroso es el caldo de gallina.
+\XEN The chicken soup is delicious.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS CK-all - HAJ:96, ok. tzan.tzan means both 'sabroso' and 'caldo'
+\date 25/Jun/96
+\lex piyu' wintu7
+\_no 02677
+\LG MIG
+\PSH [piyu wintu7]
+\UND piyu7 wintu7
+\MB gallina, pescuezo
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG pescuezo del pollo
+\ENG chicken neck
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+ZOH004R0011001.txt
+\lex piyu' xaj
+\_no 02678
+\LG MIG
+\PSH [piyu xaj]
+Page 1152

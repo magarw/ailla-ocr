@@ -1,0 +1,61 @@
+(59) t-uj
+jun tooy' witz
+K'alk'uu=0 t-b'ii
+t-iib'aj
+A3s-SR:en un foso
+cerro
+K'alk'uu=B3s A3s-nombre A3s-SR: sobre
+aldeeya t-uj
+Xaq
+t-iib'aj
+pweent Naranjaales.
+aldea
+A3s-SR:en
+barranco A3s-SR:sobre puente Naranjales
+'sobre un foso del cerro llamado K'alk'uu que queda arriba de la aldea el
+Barranco, arribita del puente Los Naranjales."
+(60) Entoonses jun q'iij, n=0=ku'
+t-dispodee'ra-n padre
+entonces
+INC=B3s=DIR:abajo A3s-disponer-SD padre
+'Entonces un día dispuso el padre'
+(61) at 0
+jun padre t-b'ii
+EXIST=B3s un padre
+A3s-nombre
+(62) Santyaago Lakoosta=0
+t-b'ii.
+Santiago
+Lacosta=B3s
+A3s-nombre
+'quien se llamaba Santiago Lacosta.'
+(63) N=0=b'ant
+jun ky-yool
+padre t-uuk'
+jun ma'estra
+INC=B3s=hacerse un A3p-palabra padre A3s-SR:COM un maestro
+agua potable
+A3s-SR:sobre agua potable
+'Hicieron un convenio el padre con el maestro de agua potable,"
+pues ahora vamos ver-INF-A3s-SR:PAC=A3s-SR:PAC
+'pues ahora si vámonos a ver el foso del cerro'
+tooy' witz
+dónde EXIST=B3s=DESP foso cerro
+'por donde está el hoyo del cerro'
+(66) aj
+K'alk'uu=0 t-b’ii,
+DEM K'alk'uu-B3s A3s-nombre
+'llamado K'alk'uu,'
+(67) jatuma n=0=ook=x
+t-wi'
+xjaal,
+dónde INC=B3s=entrar=DIR: allá A3s-cabeza
+0=chi-tzan
+chi-chi-tzan.
+B3s-decir-pues B3p=decir pues
+'por donde meten la cabeza de la gentes, fue como dijeron.'
+ver-INF=A3s-SR:PAC-A3s-SR:PAC
+'Pues en este día nos iremos a verlo."
+8
+tooy' witz
+foso cerro

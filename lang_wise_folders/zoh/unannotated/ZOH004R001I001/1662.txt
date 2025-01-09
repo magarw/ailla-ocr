@@ -1,0 +1,62 @@
+\ETYM
+\ETL
+\ROOT way
+\RTGR IX
+\DSRC TK94
+\CMTS get deriv's
+\date 28/Jan/96
+\lex xaj
+\_no 03864
+\LG MIG
+\PSH
+\UND xaj
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG 1 sobaco
+\SPG 2 ala
+\ENG 1 armpit
+\ENG 2 wing
+\EXU xaj+jo' 7@y+ 7anh.7it-pa
+\XPSH [Xajjoy 7anhnitpa.]
+\XSP Lo tiene en el sobaco.
+\XEN She has it tucked under her arm.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 26/Jun/96
+\lex xaj jajtzuku7
+\_no 03865
+\LG MIG
+\PSH
+\UND xaj jajtzuku7
+\MB sobaco, hormiga
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG clase de hormiga que tiene ala
+\ENG type of ant that has wings
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 16/Jun/95
+\lex xaj pak
+\_no 03866
+\LG MIG
+\PSH [xaj pak]
+Page 1662

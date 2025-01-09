@@ -1,0 +1,62 @@
+\ASP activity
+\ARG instrument
+\NOM jot.naanh
+\SUB 7ok.jot. '@y, jo.jot, j@x-jot, nik. jot. '@y
+\ETYM
+\ETL
+\ROOT jot
+\RTGR T3
+\DSRC TK94
+\CMTS pick coffee by sliding the hand down the branch, taking the green
+\CMTS and the ripe together
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex jot.naanh
+\_no 00886
+\LG MIG
+\PHO [jotna*nh]
+\UND jot.naanh
+\MB cortar_cafe*, MED
+\VAR
+\GRAM meas
+\SPG una de las acciones de cortar cafe* con la mano
+\ENG one stroke of the hand, picking coffee
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT jot
+\RTGR T3
+\DSRC HAJ95
+\CMTS you pull the beans from the branch in a long stroke
+\DATE 03/Jan/1980
+\lex jo.tuk
+\_no 00887
+\LG MIG
+\PSH [jotuk-]
+\UND jo.tuk
+\MB EN, cortar
+\VAR
+GRAM vt
+\SCI
+\USE
+\SPG 1 hacer pedazos
+\SPG 2 romper
+\ENG 1 to cut in pieces
+\ENG 2 to break
+\EXU
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT tuk
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Feb/96
+\lex jo.t@nh
+Page 386

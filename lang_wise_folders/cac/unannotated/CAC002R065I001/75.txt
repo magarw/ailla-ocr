@@ -1,0 +1,29 @@
+Stress Alternation
+70
+The placement of strong stresses is not predictable by
+phonological criteria, and not entirely predictable by either
+morphological or syntactic criteria alone. In general, poly-
+syllabic roots or sequences of root plus affixes take weak
+stress on their final syllables before close juncture, and
+these syllables optionally take strong stress before open
+juncture. Monosyllabic roots are optionally stressed before
+open juncture and generally stressed elsewhere. Multiple
+factors determine the details of the placement of stress.
+Strong stress falls on the head of a construction;
+since the heads of most constructions are roots, the result
+is an apparent connection between morphological category
+(status as a root) and strong stress. However, in multiple-
+root constructions such as compound nouns, weak stress on one
+or more roots may be obligatory. On the other hand, in long
+single-root constructions, some affixes may take obligatory
+strong stress.
+Monosyllabic roots of necessity take strong stress, when
+they are stressed, on their only vowel. Native bisyllabic roots
+take an assigned strong stress on their first syllable. But
+while most bisyllabic Spanish forms with penultimate stress
+are borrowed as such, some of these loans take obligatory
+final weak stress and others take optional final strong
+stress. The Spanish cuenta, for instance, is borrowed as
+/wéntah/ ~ /wéntáh/, but finca occurs only as /píNkah/ and
+never as */píNkáh/. Polysyllabic native roots such as those
+:

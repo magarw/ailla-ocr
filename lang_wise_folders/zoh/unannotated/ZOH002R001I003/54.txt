@@ -1,0 +1,39 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+syllables is similar in both cases, however: the preceding vowel or consonant is
+strongly laryngealized.
+3.3. Morphophonological processes
+3.3.1. Gemination
+When the completive suffix -wǝ or a glottal stop initial suffix (-7əy,
+passive -?əm, or antipassive -?oy) is attached to a stem ending in a consonant,
+the /w/ or /?/ disappears and the final consonant is geminated. This does not
+occur if the stem-final coda consists of a (?)Cš cluster. In that case, the /w/ or
+/?/ is simply deleted. (More examples illustrating the gemination caused by
+each of these suffixes can be seen in sections 5.2.1, 6.3.3, 6.3.4, and 7.1.3.)
+There are thus two rules:
+(1) {?,w} ---> C₁
+(2) {?,w} > 0
+(3.2)
+(i)
+(ii)
+(iii)
+1
+1
+tzakkømmø huxtix 'angji'
+'øy waxxø
+?əy+ was-wə
+3E+ morder-COM
+'Le mordió.'
+0 cak.?ǝm-wə
+huštiš+?anji?
+3A dejar.PAS-COM presidente+LOC3
+'Se quedó en la presidencia.'
+V (?) C₁
+V (?) C₁ š____
+'øy yakjø'kxø
+?əy+ yak.hə?kš-wə
+3E+ CAUS.apurarse-COM
+'Lo agotó.'
+30
+(lexicon)
+(lexicon)
+(lexicon)

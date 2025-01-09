@@ -1,0 +1,63 @@
+\SEMF
+\ETYM
+\ETL
+\ROOT kax
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 20/Jun/95
+\lex kaxa
+\_no 01206
+LG MIG
+\PSH
+\UND kaxa
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG bau* 1
+\ENG chest
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM caja
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 01/Oct/94
+\lex kax.e
+\_no 01207
+\LG MIG
+\PSH [kaxe]
+\UND kax. E
+\MB dar_pasos,
+\VAR
+\GRAM med
+\SCI
+\USE
+\SPG paso
+\ENG step
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT kax
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex kax.kuy7
+\_no 01208
+\LG MIG
+\PSH [kaxkuy7]
+\UND kax. kuy7
+NOM7
+ZOH004R0011001.txt
+Page 525

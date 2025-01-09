@@ -1,0 +1,63 @@
+XPSH 1 [7@y ju7tt@ bi 7uki.]
+\XSP 1 Movio* el atole.
+\XEN 1 She stirred the atole.
+\EXU 2 ju7t.ten.e 7uk.E
+\XPSH_2 [Ju7ttene 7uki.]
+\XSP 2 Tiene puesto el palo en el atole.
+\XEN 2 She's got the stirrer set ready in the atole.
+\EXU 3_7@y+ ju7t-witu'-w@ bi k@x.i
+\XPSH 3 [7@y ju7twituwa bi k@xi.]
+\XSP 3 Removio* la comida.
+\XEN 3 She stirred the food.
+\SYN
+\SEMF move
+\ASP activity
+\ARG instrument
+\NOM ju7t.kuy7
+\SUB 7anh.ju7t, ju7t=witu', ju7t=kam, j@x=ju7t
+\ETYM
+\ETL
+\ROOT ju7t
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex ju7t-kam
+\_no 00970
+\LG MIG
+\PSH [ju7tkam-]
+\UND ju7t-kam
+\MB remover, trabarse
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG atascarse
+\ENG to get stuck
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 1 ju7t
+\RTGR 1 T3
+\ROOT 2 kam
+\RTGR 2 12
+\DSRC HAJ94
+\CMTS
+\date 09/Nov/94
+ZOH004R0011001.txt
+\lex ju7t.kuy7
+\_no 00971
+\LG MIG
+\PSH [ju7tkuy7]
+\UND ju7t.kuy7
+\MB remover, INSTR1
+\VAR
+\GRAM instrl
+\SCI
+\USE
+\SPG madera especial para mover comida en olla grande
+Page 425

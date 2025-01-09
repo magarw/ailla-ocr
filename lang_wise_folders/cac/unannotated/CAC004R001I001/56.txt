@@ -1,0 +1,88 @@
+150. Yo soy mujer.
+a in tik ixin
+a
+in tik ix-in
+top 1B dem mujer-1B
+151. ¿Qué es esta comida?
+¿tas jun yol k'o'ol tik?
+tas jun y-ol
+k'o'ol tik
+qué uno 3A-dentro estómago dem
+¿tas jun tek chi'?
+tas jun tek
+chi'
+qué uno comida dem
+152. Es carne de armadillo.
+schib'ejal nok' ib'ach
+s-chib'ej-al
+nok'
+ib'ach
+3A-carne-gen Canimal armadillo
+114
+a nok' chib'ej ib'ach
+a
+nok' chib'ej ib'ach
+top Canimal carne armadillo
+Esta comida es carne de armadillo.
+a jun yol k'o'ol tik a nok' ib'ach
+a
+jun y-ol
+k'o'ol tik a nok' ib'ach
+top uno 3A-dentro estómago dem top Canimal armadillo
+153. Yo soy el más joven.
+a in yune kelemin
+a
+in y-une kelem-in
+top 1B 3A-hijo joven-1B
+a in tik te kelemin
+a
+in tik te kelem-in
+top 1B-dem muy joven-1B
+Yo no soy el más joven.
+a in tik manok laj te kelemin
+a in tik man-ok laj te
+kelem-in
+top 1B dem neg-IRR neg muy joven-1B
+154. El que está sentado es Juan.
+a jun ayem k'ojan a waj Xun
+a jun ay-Ø-em
+k'oj-an a waj Xun
+top uno exist-3B-DIR.abajo sentarse-psc top Cmasc Juan
+a winh k'ojanem chi' a winhaj Xun
+a
+winh k’oj-an-em
+top él
+chi' a
+winhaj Xun
+sentarse-psc-DIR.abajo dem top Cmasc Juan
+155. Juan es el que está sentado.
+a waj Xun k'ojanek' winh
+a
+waj
+Xun k'oj-an-ek'
+winh
+top Cmasc Juan sentarse-psc-DIR.pasar Cmasc
+a winhaj Xun winh k'ojanem chi'
+a
+winhaj Xun winh k'oj-an-em
+chi'
+top Cmasc Juan Cmasc sentarse-psc-DIR.abajo dem
+¿Cuál es Juan?
+¿mach waj Xun?
+mach-ø waj
+Xun
+quién-3B Cmasc Juan
+156. ¿Es Pedro el que está sentado?
+¿a winhaj Petul am k'ojanem winh?
+a winhaj Petul am k'oj-an-em
+winh
+top
+Cmasc Pedro dub sentarse-psc-DIR.abajo Cmasc
+157. San Mateo es cabecera municipal.
+a chonhab' a ton sjolomal yaj tas masanil
+a
+chonhab' a ton s-jolom-al
+top pueblo
+y-aj tas masan-il
+top enf 3A-cabeza-gen 3A-exist qué todos-abs
+115

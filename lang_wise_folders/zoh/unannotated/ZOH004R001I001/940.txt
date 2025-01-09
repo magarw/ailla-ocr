@@ -1,0 +1,64 @@
+\SCI
+\USE
+\SPG costura [se deci*a antes]
+\ENG seam
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT na7k
+\RTGR T3
+\DSRC HAJ94
+\CMTS CK-PH
+\date 25/Jun/96
+\lex ne7
+\_no 02182
+\LG MIG
+\PSH
+\UND ne7
+\MB
+\VAR
+\GRAM part
+\SCI
+\USE
+\SPG tambie*n
+\ENG also
+\SPL
+\SEMF
+\ETYM
+\ETL
+\SLGR
+\EXU si yox-pa 7eya+a7k+j@nanh pwes tambyen ne7 waja
+\XPSH [si yoxpa 7eya*7j@nanh, pwes tambyen ne7 waja.]
+\XSP si trabaja con otro, pues tambien es bueno.
+\XEN If she works with someone else, well that's good too.
+\SYN
+\lex nea7
+\_no 02183
+\ROOT
+\DSRC HAJ95
+\CMTS cf. MAR nete7 [LGG], ne7te7 [LK]
+\date 26/Jan/96
+\LG MIG
+\PSH
+\UND nea7
+\MB
+\VAR neya7
+\GRAM S
+\SCI
+\USE
+\SPG pared
+\ENG wall
+\EXU
+ok/OK: TK
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+Page 940

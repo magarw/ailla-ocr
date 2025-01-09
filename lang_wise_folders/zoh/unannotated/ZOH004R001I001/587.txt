@@ -1,0 +1,63 @@
+\UND ko.ket
+\MB OTRO, tapar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tapar; envolver
+\ENG to cover; to wrap
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN ni.xuy
+\SEMF
+\ETYM
+\ETL
+\ROOT ket
+\RTGR P, (T3)
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex ko.kex
+\_no 01346
+\LG MIG
+\PSH [kokex-]
+\UND ko.kex
+\MB OTRO, ponerse_crespo
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG estar crespo el pelo
+\ENG for hair to be curly
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT kex
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex ko.kinh=ka'
+\_no 01347
+\LG MIG
+\PSH [kokinhka-]
+\UND ko.kinh-ka7
+\MB OTRO, enojarse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG enojarse por algo
+\ENG to get mad about something
+\SPL
+ZOH004R0011001.txt
+Page 587

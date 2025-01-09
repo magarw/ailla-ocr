@@ -1,0 +1,60 @@
+\lex nip
+\_no 00196
+\SPG sembrar
+\ENG to sow
+\SEMF plant, farm
+\ASP activity, accomplishment
+\ARG
+\NOM nip.i, nip.kuy7
+\RTGR T1
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex ni.t@n
+\_no 00197
+\SPG oxidarse
+\ENG to rust
+\SEMF nature
+\ASP accomplishment
+\ARG
+\NOM ni.t@n.kuy7
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex nitz
+\_no 00198
+\SPG ponerse a*spero
+\ENG to become rough
+\SEMF condition
+\ASP achievement
+\ARG
+\NOM nitz.i7
+\RTGR IX
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex ni.xo7t
+\_no 00199
+\SPG retonar
+\ENG to sprout; to bud
+\SEMF plant
+\ASP achievement
+\ARG
+\NOM ni.xo't.a
+\RTGR 12
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex nonh
+\_no 00200
+ZOH001R0611002.txt
+Page 49

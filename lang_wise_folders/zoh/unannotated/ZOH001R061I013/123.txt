@@ -1,0 +1,53 @@
+\lex m@7k
+\_no 01536
+\SPG agua en el monte o la vegetacio*n por lluvia
+\ENG
+\lex m@7k
+\_no 01537
+\SPG exprimir; orden~ar
+\ENG wring; milk
+\lex m@n
+\_no 01538
+\SPG camote
+\ENG yam
+\lex m@n@j@7
+\_no 01539
+\SPG Santa_Mari*a
+\ENG Santa_Mari*a
+\lex m@nh
+\_no 01540
+\SPG cojear
+\ENG limp
+\lex m@tz
+\_no 01541
+\SPG jugar
+\ENG play
+\lex m@tzi
+\_no 01542
+\SPG jugar
+\ENG play
+\lex m@7tz
+\_no 01543
+\SPG rechinar
+\ENG squeak
+\lex m@x
+\_no 01544
+\SPG tenerle_asco
+ENG have_nausea
+\lex m@y@
+\_no 01545
+\SPG rayo
+\ENG thunder
+\lex mhm
+\_no 01546
+\SPG mhm
+\ENG mhm
+\lex mhmm
+\_no 01547
+\SPG mhmm
+\ENG mhmm
+ZOH001R0611013.txt
+\lex 7mhmh7
+\_no 01548
+\SPG mhmm
+Page 123

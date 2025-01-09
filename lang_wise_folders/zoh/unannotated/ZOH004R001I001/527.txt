@@ -1,0 +1,62 @@
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK96
+\CMTS
+\date 24/Jun/96
+\lex kaxtig(a)=tz@k
+\_no 01211
+\LG MIG
+\PSH [kaxtigatz@k-]
+\UND kaxtiga=tz@k
+\MB castigar, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 maltratar
+\SPG 2 castigar
+\ENG 1 to abuse
+\ENG 2 to punish
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+ETYM castigar
+\ETL Sp
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 11/Jan/96
+\lex kaxtin(a) x@k
+\_no 01212
+\LG MIG
+\PSH [kaxtina x@k]
+\UND kaxtina x@k
+\MB
+\VAR kaxtiin x@k
+\GRAM sms
+\SCI
+\USE
+\SPG frijol andalo*n
+\ENG a type of bean
+\EXU
+\XSP
+\XEN
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS rejects the long form: kaxtina x@k. only accepts kaxtiin x@k
+\date 18/Jun/96
+Page 527

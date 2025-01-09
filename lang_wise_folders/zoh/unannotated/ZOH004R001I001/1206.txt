@@ -1,0 +1,63 @@
+\CMTS
+\date 10/Nov/94
+\lex puru
+\_no 02801
+\LG MIG
+\PSH
+\UND puru
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG puro
+\ENG cigar
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 11/Aug/94
+\lex pu7t.taka7
+\_no 02802
+\LG MIG
+\PSH [pu7ttaka7]
+\UND pu7t.taka7
+\MB X, pelo*n
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG lagartija
+\ENG lizard
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS ANALYSIS; no pu7t* TK
+\date 25/Jun/96
+\lex putz
+\_no 02803
+\LG MIG
+\PSH
+\UND putz
+\MB
+\VAR
+\GRAM vi
+LF:4 pies
+\SCI
+\USE
+\SPG pudrirse
+\ENG to rot
+ZOH004R0011001.txt
+Page 1206

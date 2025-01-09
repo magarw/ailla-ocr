@@ -1,0 +1,64 @@
+\SPL 7utz.7@m
+SLGR PASS
+\SLGL medirse // to be measured
+\SPL 7utz.ten
+\SLGR PRSV
+\SLGL tener medido // to have measured
+\EXU 1 7@y+ 7utz.ten-w@ 7@y+ mok
+XPSH 1 [7@y 7utztenn@y mok.]
+\XSP 1 Tiene medido su mai*z.
+\XEN 1 She has her corn measured.
+\EXU 2_7@y+ win+jo' 7@y+ 7utz-w@
+\XPSH 2 [7@y winjoy 7utztz@.]
+\XSP 2 Delante de e*1, lo midio*.
+\XEN 2 She measured it in front of him.
+\SYN
+\SEMF cognitive
+\ASP achievement
+\ARG
+\NOM 7utz.i, 7utz.kuy7, yuk. 7utz.17
+\SUB 7anh. 'utz. '@y, jo.7utz, j@x=7utz, k@.n@k=7utz. '@y
+\ETYM
+\ETL
+\ROOT 7utz
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex 7uy
+\_no 00017
+LG MIG
+ZOH001R0611006.txt
+\PSH
+\UND 7uy
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG doblar
+\ENG to bend
+\EXU 1 ney 7iw@ 7@y+ 7uy-w@ y@7 t@nh.kuy7
+\XPSH 1 [Ney 7iway 7uyy@ y@7 t@nhkuy.]
+\XSP 1 Alguien doblo* ese fierro.
+\XEN 1 Someone bent this bar.
+\EXU 2 7uy.7oy-pa 7@y+ n@k-w@
+\XPSH 2 [7uyyobay nakk@.]
+\XSP 2 Fue* doblando.
+\XEN 2 He went along bending things.
+\EXU 3 7uy.7@m-w@ bi kuy 7anhkax porke jakke t@m
+\XPSH 3 [7uyy@mm@ bi kuy7anhkax porke jakke t@m.]
+\XSP 3 se doblo* las ramas porque tiene mucha fruta.
+\XEN 3 The branches bent over because they had a lot of fruit.
+\SYN
+\SEMF arrange
+\ASP achievement
+\ARG
+\NOM 7uy.naanh, t@nh.kuy7=7uy. 'oy.kuy7
+\SUB
+\ETYM
+\ETL
+\ROOT 7uy
+\RTGR P (T3)
+\DSRC HAJ95
+Page 12

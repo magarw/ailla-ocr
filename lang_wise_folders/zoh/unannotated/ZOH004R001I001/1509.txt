@@ -1,0 +1,62 @@
+\DSRC
+\CMTS
+\date
+\lex tz@n=nonh
+\_no 03507
+\LG MIG
+\PHO [tz@nnonh-]
+\UND tz@n=nonh
+\MB sentarse, apachurrarse
+\VAR
+\GRAM vt
+\SPG apachurrar por sentar
+\ENG to dent by sitting on
+\EXU 7@n+ tz@n=nonh-w@ bi kajat@nh
+\XPSH [7@n tz@nnonhnh@ bi k@j@t@nh.]
+\XSP Apachurre* la almohada por sentar encima.
+\XEN I dented the pillow by sitting on top of it.
+\SYN
+\ROOT 1 tz@n
+\RTGR 1 P (12)
+\ROOT 2 nonh
+\RTGR 2 T2
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex tz@n.tz@n kuy
+\_no 03508
+\LG MIG
+\PSH [tz@ntz@n kuy]
+\UND tz@n.tz@n kuy
+\MB sentarse, sentarse, palo
+\VAR
+\GRAM SRS
+\SCI
+\USE
+\SPG palo de quelite
+\ENG a type of tree
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 30/Jun/95
+\lex tz@n-yuk.konh
+\_no 03509
+\LG MIG
+\PSH [tz@nyukkonh-]
+ZOH004R0011001.txt
+\UND_tz@n=yuk.konh
+\MB sentarse, ARR, gatear
+\VAR
+\GRAM vi
+\SCI
+\USE
+Page 1509

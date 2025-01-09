@@ -1,0 +1,63 @@
+\GRAM sms
+\SCI
+\USE
+\SPG mango; cabo de hacha
+\ENG axe handle
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL Sp
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 08/Jan/96
+\lex jaj [1]
+\_no 00627
+\LG MIG
+\PSH
+\UND jaj
+\MB
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG estar medio picosito (comida)
+\ENG to be a little bit spicy (food)
+\EXU jaj-pa k@x.E7
+\XPSH [Jajpa k@xi7.]
+\XSP Esta* medio picosita la comida.
+\XEN The food is a little spicy.
+\SYN
+\SEMF food
+\ASP state
+\ARG patient
+\NOM jaj.e7
+\SUB
+\ETYM
+\ETL
+\ROOT jaj
+\RTGR 12
+\DSRC HAJ94
+\CMTS CK-EX - ok HAJ:96
+\date 03/Jan/80
+\lex jaj [2]
+\_no 00628
+\LG MIG
+\PHO
+\UND
+\MB
+ZOH004R0011001.txt
+\VAR
+\GRAM vi
+\SPG arder el cuerpo (en el sol, cuando esta* caminando mucho...)
+\ENG for the body to get hot and chafed (in the sun, when you're walking a
+lot...)
+\SPL yak.jaj
+\SLGR CAUS
+\SLGL hacer arder / to make heat up
+\EX
+\XSP
+Page 268

@@ -1,0 +1,63 @@
+\date 16/Oct/94
+mok=po't.e7
+\1ex
+\_no 01988
+\LG MIG
+\PSH [mokpote7]
+\UND mok-po7t. E7
+\MB mai*z, moler, NOM7
+\VAR
+\GRAM s (m) s
+\SCI
+\USE
+\SPG pinol: mai*z tostado y molido
+\ENG roasted and ground corn
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT po7t
+\RTGR T1
+\DSRC TK94
+\CMTS
+\date 07/Feb/96
+\lex mok=tz@k
+\_no 01989
+\LG MIG
+\PSH [moktz@k-]
+\UND mok-tz@k
+\MB mai*z, HACER
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG Barrio Chivo (un barrio de San Miguel)
+\ENG Barrio Chivo (a neighborhood of San Miguel)
+\SPL
+\SLGR
+\EXU mok=tz@k+joonh
+\XPSH [moktz@kjo*nh]
+\XSP por Barrio Chivo
+\XEN to Barrio Chivo
+\SYN
+ZOH004R0011001.txt
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS another little place near SMC
+\date 26/Jan/96
+\1ex mok=xe't.e' 7uk.i
+\_no 01990
+\LG MIG
+\PSH [mokxete 7uki]
+\UND mok-xe7t. E7 7uk.E
+\MB mai*z, frito, NOM7, tomar, NOM7
+\VAR
+\GRAM Sv:incorp
+\SCI
+Page 857

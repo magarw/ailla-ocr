@@ -1,0 +1,62 @@
+XPSH [7oko7a*m.]
+\XSP Ya esta* vieja.
+\XEN Now she's old.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex 7oko-tza7
+\_no 00379
+\LG MIG
+\PSH [7okotza7]
+\UND 7oko-tza7
+\MB vieja, piedra
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG tenamaste
+\ENG trivet
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/95
+\lex 7okox
+\_no 00380
+\LG MIG
+\PSH
+\UND 7okox
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG mata
+\ENG plant; herb; shrub
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Apr/95
+\lex 7ok. pak. '@y
+\_no 00381
+\LG MIG
+ZOH004R0011001.txt
+Page 163

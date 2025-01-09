@@ -1,0 +1,66 @@
+\SYN
+\SEMF body, touch
+\ASP activity
+\ARG
+\NOM junun.kuy7, junun.naanh
+\SUB
+\ETYM
+\ETL
+\ROOT junun
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+\lex jup
+\_no 00045
+\LG MIG
+\PSH
+\UND jup
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG jalar
+\ENG to pull
+\SPL jup.7oy
+\SLGR ANTIP
+\SLGL jalar // to pull
+\SPL jup.7@m
+\SLGR PASS
+\SLGL jalarse // to be pulled
+\SPL jup.ney
+\SLGR ASSUM1
+\SLGL tirarse alguien en el suelo o la cama // to throw someone on the
+floor or on the bed
+\EXU 1 7@y+ jup.ten-w@ bilaxu
+\XPSH 1 [7@y juptenn@ bi laxu.]
+\XSP 1 Tiene agarrado el mecate.
+\XEN 1 He's got hold of the rope, pulled tight.
+\SYN
+\SEMF move, arrange
+\ASP activity
+\ARG
+ZOH001R0611006.txt
+\NOM 7anh.jup, jup.kuy7, jup.i, k@.n@k=jup. 'oy.kuy7, win=jup-tuk.kuy7,
+\NOM y@k.jup,
+jup.naanh
+jup=tzik,
+\SUB 7ok.jup. '@y, jup=7on. 7on.w@y, jup-jitzi, jup.jup.ney, jup-kim,
+\SUB jup-ko.tzik, jup-k@.manh. '@y, jup-n@k, jup-pak, jup-p@k.p@',
+\SUB jup=tu.i, jup-tuk, jup-tuk.tuk.w@y, jup-tuy,
+\SUB jup=tzik.tzik.w@y, jup-tz@y, jup=wanak, jup-witu', jup=wo7k,
+\SUB jup-xakx, jup-xamik. 'aн, jup-yuk.ten, jup='anh.yoj,
+\SUB j@x=jup, jax=jup.p@', ko.jup, ko.jup='anh.tuk.'@y, ko.jup=nuk,
+\SUB kuk=jup-tuk, k@.n@k-jup.'@y, k@.n@k=jup.jup.w@y, nik.jup.'@y,
+\SUB jup=woko, yuk.jup
+ETYM
+\ETL
+\ROOT jup
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/80
+Page 33

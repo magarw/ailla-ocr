@@ -1,0 +1,88 @@
+\zoq 7i komo de kostumbre 7@n n@mjadampa katzit7ok.
+\fts Y como de costumbre le decimos el cazador.
+\fte And we customarily call him the hunter.
+\ref ZOH001R026 004
+\_no 00005
+\tx pow@
+\mb po7
+tum@ chik
+-wa tum@7 chik
+tzikin kajanh tzawowojo
+tzikin kajanh tza7
+- WOWO
+\sg1 nacer -COM uno chico pinto tigre piedra-agujero-Loc2
+\eg1 be_born-COM one little spotted jaguar rock -hole
+\zoq Pow@ tum@ chik tzikin kajanh tzawowojo7.
+\fts Nacio* un tigrillo pinto en una cueva.
+\fte A little spotted jaguar was born in a cave.
+\ref ZOH001R026 005
+\_no 00006
+ZOH001R0261001.txt
+\tx 7i bi mama jak yakt@7oba
+\mb 7i bi mama
+jakke yak-t@7
+\sg] y
+DEF mama*
+\egl and DEF mother
+7@y yaktzokk@
+\ref ZOH001R026 006
+\_no 00007
+\tx
+y n@ki
+\mb__7@y yak -tzok -w@ 7@y nak -E
+\sg1 3E CAUS-sanar-COM 3E
+irse-dCOM
+\egl 3E CAUS-cure -COM 3E
+- dCOM
+go
+\zoq 7@y yaktzokk@y n@ki.
+\fts Lo crio*.
+\fte She went along bringing him up.
+\ref ZOH001R026 008
+\_no 00009
+bi
+-7oy -pa bi
+\zoq 7i bi mama jak yakt@7oba bi 7oktzikin kajanh.
+\fts Y su mama* lo queri*a mucho la tigra pinta.
+\fte And the mother loved him very much, the old mother spotted jaguar.
+\ref ZOH001R026 007
+\_no 00008
+\tx watt@yy@
+n@ki
+bi chik
+bi chik
+\mb w@ti7-7@y -wa
+-w@ 7ay nak -E
+\sg] grande-VERS2-COM 3E irse-dCOM DEF chico
+\egl large -VERS2-COM 3E go -dCOM DEF little
+mucho CAUS-querer-ANTIP-INC DEF vieja
+a_lot CAUS-want -ANTIP-INC DEF old_woman spotted jaguar
+\zoq watt@y@y n@ki bi chik tzikin kajanh.
+\fts Crecio por creciendo el tigrillo pinto.
+\fte The little spotted jaguar went growing up.
+\zoq watt@y@y n@ki.
+\fts Crecio* por creciendo.
+\fte He went on growing up.
+\tx w@tt@yy@
+y n@ki
+\mb w@ti7 -7@y -w@ 7@y n@k -E
+\sgl grande-VERS2-COM 3E irse-dCOM
+\eg1 large -VERS2-COM 3E go -dCOM
+7ok
+7oko
+-jo7
+-LOC2
+\ref ZOH001R026 009
+\_no 00010
+\tx 7@y 7ixx@ bi tzikin kajanh ke komia*m
+Page 2
+tzikin
+tzikin
+pinto
+tzikin kajanh
+tzikin kajanh
+pinto tigre
+spotted jaguar
+kajanh
+kajanh
+tigre

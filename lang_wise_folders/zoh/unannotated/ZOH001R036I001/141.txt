@@ -1,0 +1,90 @@
+\com
+\idx
+\ref ZOH001R036 658
+\_no 00646
+\tx OSM: ka
+\mb OSM ka
+no
+\sg1 OSM: DCT3
+\egl OSM: DCT3 no
+\zoq OSM: Ka n@7tti
+\fts OSM: No
+n@7tti
+n@7tti
+canelita.
+\ref ZOH001R036 659
+\_no 00647
+\fte OSM: Ci no cinnamon.
+\com
+\idx
+GSM: kanelita
+kanelita
+\tx
+\mb GSM
+\sg1 GSM: canel
+\eg1 GSM: cinnamon
+\zoq GSM: Kanelita.
+\fts GSM: Canelita.
+\fte GSM: Cinnamon.
+\com
+\idx
+\tx ga7
+\mb ka
+-7
+\sg1 DCT3-NOM1
+\eg1 DCT3-NOM1
+\ref ZOH001R036 660
+\_no 00648
+entonces ka -7
+\tx
+OSM: 7entonse ga
+gay
+\mb OSM
+ka -y
+\sg1 OSM: entonces DCT3-NOM1 DCT3-TMP
+\egl OSM: then DCT3-NOM1 DCT3-TMP boil
+\ref ZOH001R036 661
+\_no 00649
+\tx ya ke
+\mb
+ya ke
+\sg] ya que
+\egl now that boil
+kanelita
+kanelita
+canel
+cinnamon
+kanelita.
+ZOH001R0361001.txt
+yumma*m
+yum
+\ref ZOH001R036 662
+\_no 00650
+\tx gay
+minpam
+yumpa m
+yum
+\zoq OSM: 7entonse ga gay yumpa*m n@jo ga7.
+\fts OSM: Entonses eso ya esta* herviendo en el agua.
+\fte OSM: Then that now is boiling in the water that is.
+\com
+\idx
+n@jo
+-pa -7am n@7 -jo7
+agua -LOC2
+-INC-NOW water-LOC2
+hervir(se)-INC-YA
+7ay 7@m j@xjuppa
+7anhk@jo
+-w@ -7am 7ay7 7am jax -jup
+-jup -pa
+7anhk@7 -jo7
+hervir(se)-COM-YA hoja 2E ATRAS-jalar-INC afuera_de-Loc2
+-COM-NOW leaf 2E BACK -pull -INC outside -LOC2
+\zoq Ya ke yumma*m 7ay 7am j@xjuppa 7anhk@jo.
+\fts ya que se hervio* hoja lo sacas afuera.
+\fte Now that the leaves have boiled you pull them outside.
+\com
+\idx
+kwando xukk@yya*m
+Page 141

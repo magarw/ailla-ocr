@@ -1,0 +1,63 @@
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 ma7tz
+\RTGR 1 T3
+\ROOT 2 nuk
+\RTGR 2 T3
+\DSRC HAJ95
+\CMTS
+\date 18/Jul/95
+\lex ma7tz='anh=kam
+\_no 01906
+\LG MIG
+\PSH [ma7tztzanhkam-]
+\UND_ma7tz=7anh=kam
+\MB amasar, BOCA, trabarse
+\VAR
+\GRAM
+\SCI
+\USE
+\SPG tapar la boca
+\ENG to shut the mouth
+\SPL
+\SLGR
+\EXU 7@y+ ma7tz=7anh-kam-w@ tzanh.kuy'+pi7t 7@y+_j@p
+\XPSH [7@y ma7tztzanhkamm@ tzanhkuypi7t 7@y jap.]
+\XSP Tapo* con la mano su boca.
+\XEN He shut his mouth with his hand.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 ma7tz
+\RTGR 1 T3
+\ROOT 2 7anh=kam
+\RTGR 2 12
+\DSRC HAJ95
+\CMTS
+\date 26/Jan/96
+\lex maw7.maw7.ney
+\_no 01907
+\LG MIG
+\PSH [maw7maw7ney-]
+\UND maw7.maw7.ney
+\MB
+\VAR
+\GRAM VIRF
+\SCI
+\USE
+\SPG maullar; gritar el gato
+\ENG to meow
+\EXU
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+Page 822

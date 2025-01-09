@@ -1,0 +1,62 @@
+\lex jutzeti
+\_no 00974
+\LG MIG
+\PSH
+\UND jutzeti
+\MB
+\VAR
+\GRAM int
+\SPG unos cuantos
+\ENG a few
+SPL
+\SLGR
+\EXU 1 jutzeti jama 7@m+ jay-pa
+\XPSH 1 [Jutzeti jama 7@m jaypa?]
+\XSP 1 ?Vas a tardar unos dias?
+\XEN 1 Are you going to stay a few days?
+\EXU 2 7@n+ ma'.7@y-pa jutzeti yoya
+\XPSH 2 [7@n ma77@ba jutzeti yoya.]
+\XSP 2 voy a vender unos cuantos de marranos.
+\XEN 2 I'm going to sell a few pigs.
+\SYN
+\SEMF
+\ROOT
+\RTGR
+\DSRC HAJ98
+\CMTS
+\date
+\DATE 03/Jan/1980
+\lex jutze' y+ yoj.a7
+\_no 00975
+\LG MIG
+\PSH [jutzey yoja7]
+\UND jutze7 7@y+ yoj.A7
+\MB cuanto, 3Erg, pagar, NOM2
+\VAR
+\GRAM int
+\SCI
+\USE
+\SPG cuanto vale?
+\ENG how much is it?
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT yoj
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 06/Feb/96
+\lex jutzeenh
+\_no 00976
+ZOH004R0011001.txt
+\LG MIG
+\PSH [jutze*nh]
+\UND jutzeenh
+\MB
+\VAR
+\GRAM int
+Page 427

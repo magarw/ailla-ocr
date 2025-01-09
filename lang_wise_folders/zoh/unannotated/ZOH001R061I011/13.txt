@@ -1,0 +1,60 @@
+\ROOT jup P (T3)
+\CMTS antip jup.7oy jalar
+\CMTS pass jup.7@m jalarse
+\CMTS assum1 jup.ney tirarse alguien en el suelo o la cama
+\CMTS prsv jup.ten tener agarrado'
+\lex ju7t
+\_no 00057
+\SPG remover
+\ENG to stir
+\EX 7@y ju7tt@ bi 7uki
+\XSP movio* el atole
+\XEN she stirred the atole
+\ROOT ju7t T3
+\CMTS antip ju7t.7oy
+\CMTS no pass ju7t.7@m
+\lex ju7tz
+\_no 00058
+\SPG apun~alar; flechar; encajar
+\ENG to stab; to shoot with an arrow
+\EX_por 7eya* yakju7tztz@ y win
+\XSP se apun~alo por otro
+\XEN he stabbed himself for someone else
+\ROOT ju7tz T3
+\CMTS no ma*s que una punalada
+\CMTS antip ju7tz.7oy
+\CMTS pass ju7tz.7@m
+\lex jux
+\_no 00059
+\SPG asar
+\ENG to roast
+\EX 7ay juxx@
+\XSP aso* hoja
+\XEN roasted leaf
+\EX patanux 7ay 7@y_juxx@
+\XSP aso* hoja de pla*tano (para tamal)
+\XEN she roasted banana leaf (for tamales)
+\ROOT jux T3
+\CMTS antip jux.7oy asar
+\CMTS pass jux.7@m asarse (dice que aso* su mismo)
+\CMTS prsv jux-ten lo tiene asado
+\CMTS think this is for vegetable matter
+\CMTS jax- is meat or tortillas
+\lex juxi
+\_no 00060
+\SPG asado
+\ENG roasted
+\EX man juxi
+ZOH001R0611011.txt
+\XSP camote asado
+\XEN roasted yam
+\ROOT jux T3
+\CMTS
+\lex juy
+\_no 00061
+\SPG comprar
+\ENG to buy
+\EX 7@n juyy@ paja7k wayay n@7
+\XSP compre* un refresco
+\XEN I bought a soda
+Page 13

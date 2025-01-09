@@ -1,0 +1,65 @@
+\LG MIG
+\PSH
+\UND tuj
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG 11uvia
+\ENG rain
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT %tuj s?
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex tuji7
+\_no 03067
+\LG MIG
+\PSH
+\UND tuji7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG anguila; "engui*a"
+\ENG eel
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex tuj-jon
+\_no 03068
+\LG MIG
+\PSH [tujjon]
+\UND tuj-jon
+LF:engui*a
+\MB lluvia, pa*jaro
+\VAR
+\GRAM SS
+\SCI
+\USE
+\SPG cenzontle
+\ENG mockingbird
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF EZ
+LF: jon
+ZOH004R0011001.txt
+Page 1320

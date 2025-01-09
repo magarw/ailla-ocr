@@ -1,0 +1,64 @@
+XPSH [Ko7okx@yy@y_ta7kx@7.]
+\XSP Se le apago* la luz.
+\XEN The light went out.
+\SYN
+\SEMF
+\ETYM
+\ETL
+ROOT 70kx
+\RTGR 12
+\DSRC HAJ95
+\CMTS FIX EX
+\date 24/Jun/96
+\lex ko.7om
+\_no 01288
+\LG MIG
+\PSH [ko7om-]
+\UND ko.7om
+\MB OTRO, echar_humo
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG ahumar
+\ENG to smoke something
+\EXU
+\XSP
+\XEN
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT 70m
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 15/Oct/94
+\lex ko.7on
+\_no 01289
+\LG MIG
+\PSH [ko7on-]
+\UND ko.7on
+\MB OTRO, desarreglar
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 desaguar (la ropa)
+\SPG 2 enjuagar
+\ENG 1 to drain out (clothes)
+\ENG 2 to rinse out
+\EXU 7@y+ ko.7on-w@ n@'+jo7
+\XPSH [7@y ko7onn@ n@jo7.]
+\XSP Lo desaguo* en el
+\XEN She drained the excess water from the clothes in the river.
+ri*o.
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT 7on
+\RTGR P (TX)
+\DSRC HAJ94
+Page 562

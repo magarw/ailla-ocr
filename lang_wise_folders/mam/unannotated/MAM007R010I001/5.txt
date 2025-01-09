@@ -1,0 +1,72 @@
+kumplii'ra-n=q'a7
+NEG PROX.DEP+B3p cumplir-AP=CL:MASC
+'y no cumplieron'
+(40) miix
+(41) t-u'n
+xhi
+ky-q'a-'kj=q'a
+A3s-SR:PROP A3s+DIR:allá A3p-dar-RES=CL:MASC
+'ir a dejarlo.'
+(42) ii kee aax
+qa=pwees xhi
+kyim pwees t.-u'n
+y qué mismo PL=pues PROX.DEP+B3p_morir pues A3s-SR:AGT
+witz.
+txi
+cerro
+'Y qué - ellos mismos se murieron por el (dueño de) cerro.'
+kyja_0=ku’
+(43) Per tiiqu'n porkee 0-chi-tzan
+pero porqué porque B3s-decir-pues
+así
+'Pero ¿porqué? Porque dice que esto sucedió así pues'
+(44) miti' xhi
+kumplii'ra-n=q'a
+t-i'j
+NEG PROX.DEP+B3p cumplir-AP=CL:MASC A3s-SR:PAC
+'que no cumplieron por (la promesa)'
+(45) porkee mis=la 0=i
+ku
+taan=q'a
+porque AF-MIR CPL.DEP=B3p DIR:abajo dormir-CL:MASC
+pwees
+t-uuk'
+ky-xu'j-al-q'a
+pues
+A3s-SR:COM A3p-mujer-ABST=CL:MASC
+'y tal vez porque ellos tuvieron contacto con sus mujeres'
+(46) poreeso aax=qa=q'a
+pwees
+por.eso también=PL-CL:MASC pues
+xh=aa'j-al
+(47) porkee oo-taq
+t-b'iyo-'n witz,
+A3s-matar-SD cerro
+PROX.DEP+B3p=DIR:regresando-TERM
+'por eso es que ellos mismos regresaron muertos con el cerro,"
+0=ku'
+ky-b'iisa-n=q'a
+porque CPL=PERF
+pwes
+B3s=bajar pues
+ky-chool-b'in=q’a
+(48) t-u'n
+A3p-matar.gente-LOC-CL:MASC
+'porque ya había pensado tener una caza de gente'
+ky-xi'=q'a
+chool-il
+(49) per miix_0=i
+jun
+B3s=dir:abajo A3p-pensar-SD-CL:MASC un
+qoniiky'an
+A3s-SR:PROP A3p-ir-CL:MASC matar.gente-INF noche
+'para que fueron a matar gente de noche,'
+kaamb’a-n=q’a,
+ganar-AP=CL:MASC
+pero NEG CPL.DEP=B3p
+'pero no triunfaron,'
+6
+7
+Xhi kumpliï'ranq'a tiene la forma de una base transitiva con direccional, por el cierre glotal, pero
+no tiene Juego A y Juego B concuerda con el agente. Por eso se analiza el cierre glotal como parte
+de la base, no del sufijo - 'n.

@@ -1,0 +1,62 @@
+\date 26/Jun/96
+\lex yaj.@7
+\_no 00457
+\LG MIG
+\PSH [yaj@7]
+\UND_yaj.A7
+\MB lejos, NOM2
+\VAR
+\GRAM a
+\SCI
+\USE
+\SPG lejos; lejano
+\ENG far; distant
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ94
+\CMTS v/yaj A2
+\date 11/Feb/96
+\lex yaj.@'.7aH
+\_no 00458
+\LG MIG
+\PSH [yaj@7a-]
+\UND_yaj.A7.7aH
+\MB lejos, NOM2, VERS1
+\VAR
+\GRAM versl
+\SCI
+\USE
+\SPG hacerse lejos
+\ENG to grow far away
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 28/Jan/96
+\lex yaj.@'=tz@k
+\_no 00459
+\LG MIG
+\PSH [yaj@tz@k-]
+\UND yaj.A7=tz@k
+\MB lejos, NOM2, HACER
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG hacer lejos
+ZOH001R0611004.txt
+Page 181

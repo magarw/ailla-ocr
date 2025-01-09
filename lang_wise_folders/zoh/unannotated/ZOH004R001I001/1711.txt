@@ -1,0 +1,63 @@
+\USE
+\SPG estar sacudiendo la verga
+\ENG to be shaking your dick
+\SPL
+\SLGR
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xOpx
+\RTGR TX
+\DSRC TK96
+\CMTS
+\1ex xo7px
+\_no 03979
+\LG MIG
+\PSH
+\UND xo7px
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tomar a boca de plato hondo
+\ENG to drink from a bowl
+\SPL xo7px. 7oy
+\SLGR ANTIP
+\SLGL tomar // to drink
+\SPL xo7px.7@m
+\SLGR PASS
+\SLGL tomar // to drink
+\SPL xo7px. ten
+\SLGR PRSV
+\SLGL tener el plato en su boca, para tomar // to have the bowl at your
+lips, ready to drink
+\EXU 7@y+ xo7px-w@ 7@y+ tzan.tzan7
+\XPSH [7@y xo7px@y tzantzan7.]
+\XSP Tomo* a boca de plato su caldo.
+\XEN She drank her soup from the bowl.
+\SYN
+\SEMF eat
+\ASP process
+\ARG
+\NOM
+\SUB
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT xo7px
+\RTGR T3
+\DSRC TK94
+\CMTS
+\date 03/Jan/80
+\lex xo7px.e7
+\_no 03980
+\LG MIG
+\PHO [xo7pxe7]
+\UND xo7px.E7
+\MB tomar, NOM7
+Page 1711

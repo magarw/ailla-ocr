@@ -1,0 +1,63 @@
+\MB frio, topar, INSTR1
+\VAR
+\GRAM instrl
+\SCI
+\USE
+\SPG camisa gruesa; chamarra que tiene lana (no es sue*ter)
+\ENG thick woolen shirt
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tzonh
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 28/Jan/96
+\lex wayay' xanh
+\_no 03604
+\LG MIG
+\PSH [wayay xanh-]
+\UND wayay7 xanh
+\MB frio, machetear
+\VAR
+\GRAM vi
+\SCI
+\USE
+\SPG aire fresca
+ENG cool breeze
+\EXU wayay7 xanh-pa
+\XPSH [wayay xanhpa.]
+\XSP Aire fresca.
+\XEN There's a cool breeze.
+SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT xanh
+\RTGR T3
+ZOH004R0011001.txt
+\DSRC HAJ02
+\CMTS incorporated A?
+\DATE 14/Aug/02
+\lex wayay'. 7aH
+\_no 03605
+\LG MIG
+\PSH [wayay7a-]
+\UND wayay¹.7aH
+\MB frio, VERS1
+\VAR
+\GRAM vers1
+\SCI
+\USE
+\SPG hacerse frio; enfriarse
+\ENG to become cold
+\SPL yak.wayay7.7aH
+\SLGR CONVERS1
+\SLGL dejar enfriar // to allow to cool
+\EXU
+\XSP
+Page 1549

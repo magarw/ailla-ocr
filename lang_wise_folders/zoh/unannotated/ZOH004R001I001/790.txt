@@ -1,0 +1,63 @@
+\UND majoma
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG mascara
+ENG mask
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT
+\DSRC TK94
+\CMTS ANALYSIS. cf. jom vt `cercar milpa con rama'
+\date 25/Jun/96
+\lex maj-tax
+\_no 01829
+\LG MIG
+\PHO [majtax-]
+\UND maj=tax
+\MB regar, llenar
+\VAR
+\GRAM vt
+\SPG 11enar del agua
+\ENG to fill with water
+\EXU 7@y+ maj=tax-w@ maj.kuy' de n@7
+\XPSH [7@y majtaxx@ majkuy de n@7.]
+\XSP LĨeno* de agua el ca*ntaro.
+\XEN He filled the jug with water.
+\SYN
+\ROOT
+\DSRC HAJ95
+\CMTS
+\date 03/Jan/80
+\lex mak
+\_no 01830
+ZOH004R0011001.txt
+\LG MIG
+\PSH
+\UND mak
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG pescar con atarraya
+\ENG to fish with a net
+\SPL mak. 7oy
+\SLGR ANTIP
+\SLGL pescar con atarraya // to fish with a net
+\SPL mak.7@m
+\SLGR PASS
+\EXU koke-mak-w@
+\XPSH [Kokemakk@.]
+\XSP Agarro* pescado con atarraya.
+\XEN He caught fish with a net.
+\SYN
+\SEMF catch
+Page 790

@@ -1,0 +1,42 @@
+Johnson / A Grammar of San Miguel Chimalapa Zoque
+8.3. Dependent verb constructions
+There are also dependent verb constructions in which neither V1 nor V2
+is an auxiliary. There are a few examples in which V1 has an aspectual
+meaning, as shown in examples (8.12 i) and (ii), and perhaps example (iii).
+There are also some examples in which V1 indicates direction of motion, as
+shown in (iv). In these cases, V1 functions as an auxiliary. In RRG terms, it is a
+nuclear operator modifying the aspectual or directional character of the event
+denoted by V2. The only surprising thing about these constructions is that
+there aren't more of them, since there are many examples of compounds that
+include a root with aspectual or directional meaning.
+(8.12)
+(i)
+(ii)
+(iii)
+(iv)
+'okwakkøy 'otowe
+?ok.wak-we
+?ǝy+ ?otoŋ-E
+BAJO.*vaciar-COM 3E+ hablar-dCOM
+'Acabó de hablar.'
+tukpa kaj'ukwø
+0 tuk-pa
+(?əy+) kahwe=?uk-wǝ
+3A terminarse-INC (3E+) café=tomar-dINC
+'Acaba de desayunar.'
+potztzám 'øn 'anetzidame
+poc-wǝ+?am
+yukpoypay kømangngøyyø kotzøkjo?
+yuk.poy-pa ?əy+ kə.maŋ.?ǝy-wǝ
+ARR.huirse-INC 3E+ FUERA.*pisar.SUF-dINC
+'Suben corriendo en el cerro.'
+(ZOH001R043-078)
+?ən+ ?ane=ci?-tam-E
+cansarse-COM+YA 1E+ tortilla-dar-1/2PL-dCOM
+'Ya estamos cansados de darle tortillas.'
+214
+(ZOH001R029-092)
+(ZOH001R027-035)
+kocək+ho?
+cerro+LOC2
+(ZOH001 R060-137)

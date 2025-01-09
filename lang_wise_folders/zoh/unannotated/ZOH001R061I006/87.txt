@@ -1,0 +1,63 @@
+\NOM
+\SUB 7ok.patz. '@y, patz=witu'
+\ETYM
+\ETL
+\ROOT patz
+\RTGR P, (T3)
+\DSRC HAJ94
+\CMTS
+\CMTS
+\date 03/Jan/80
+\lex pa'
+\_no 00127
+\LG MIG
+\PSH
+\UND pa7
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG colar
+ENG to sift
+\SPL pa'.7oy
+\SLGR ANTIP
+\SLGL colar // to sift
+\SPL pa'.7@m
+\SLGR PASS
+\SLGL colarse // to be sifted
+\SPL pa'.ten
+\SLGR PRSV
+\SLGL tener colado // to have something sifted
+\EXU 1 7@y+ pa'-w@ bi 7uk.i
+\XPSH 1 [7@y paw@ bi 7uki.]
+\XSP 1 Colo* el atole.
+\XEN 1 She sifted the atole.
+\EXU 2 pa'.7@m-w@ bi 7uk.i
+\XPSH 2 [Pa7@mm@ bi 7uki.]
+\XSP 2 Esta* colado el atole.
+\XEN 2 The atole is sifted.
+\SYN
+\SEMF arrange
+\ASP activity
+\ARG
+\NOM pa'.kuy7
+\SUB
+\ETYM
+\ETL
+\ROOT pa7
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\lex pekx
+\_no 00128
+\LG MIG
+ZOH001R0611006.txt
+\PSH
+\UND pekx
+\MB
+\VAR
+\GRAM vt
+\SCI
+Page 87

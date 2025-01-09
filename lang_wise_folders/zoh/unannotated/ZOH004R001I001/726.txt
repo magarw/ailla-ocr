@@ -1,0 +1,62 @@
+\SYN ni.kex
+\SEMF
+\ETYM
+\ETL
+\ROOT kex
+\RTGR 12
+\DSRC HAJ95
+\CMTS
+\date 26/Jan/96
+\lex k@.kum
+\_no 01680
+\LG MIG
+\PSH [k@kum-]
+\UND k@.kum
+\MB FUERA, enterrar
+\VAR
+\GRAM vi:med
+\SCI
+\USE
+\SPG echar tierra
+\ENG to throw dirt on something
+\SPL
+\SLGR
+\EXU k@.kum-w@ mok 7@y+ manh.kuy7
+\XPSH [K@kumm@ mok 7@y manhkuy7.]
+\XSP Le echo* tierra el pie de la milpa.
+\XEN He threw dirt on the foot of the cornfield.
+\SYN
+SEMF
+\ETYM
+\ETL
+\ROOT kum
+\RTGR T2
+\DSRC HAJ95
+\CMTS
+\date 12/Jan/96
+\lex k@kuy7
+\_no 01681
+\LG MIG
+\PSH
+\UND k@kuy7
+\MB
+\VAR
+\GRAM S
+\SCI
+\USE
+\SPG quijada
+\ENG jaw
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+ZOH004R0011001.txt
+\ROOT
+\DSRC TK94
+\CMTS
+\date 01/Oct/94
+\lex k@kuy' watzi7
+Page 726

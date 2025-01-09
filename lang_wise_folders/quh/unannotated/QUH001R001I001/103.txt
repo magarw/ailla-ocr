@@ -1,0 +1,48 @@
+103
+combinatorias. A pesar de ello, las construcciones comparten ciertos rasgos tanto en el nivel
+sintáctico como en el semántico: por un lado, ambas construcciones implican algún tipo de
+inter-ordinación entre cláusulas; por el otro, según mi hipótesis, la diversidad de formas
+documentadas pertenecen al dominio del irrealis. Desde la perspectiva funcional que adopto,
+esta constatación semántica será el punto de partida y el eje del recorrido analítico que
+presento. Su elección nos obliga, por ejemplo, a indagar qué otras construcciones ingresan en
+la expresión del irrealis además de las mencionadas.
+Para el análisis detallado de los datos, defino "irrealis" como un dominio de
+significado escalar donde, tal como lo señalan Givón (1994, 1995) y Payne (1997), se
+organizan referencias relacionadas con el "no-saber", la posibilidad, la "no existencia", las
+necesidades, los deseos y las intenciones de los interlocutores. Es decir, reúno en el dominio
+del irrealis una diversidad de contenidos a-verídicos: que no poseen valor de verdad en el
+mundo que modela el real. Considero que el concepto abarca un conjunto de rasgos
+específicos, que posee formas más o menos prototípicas, pero que no se limita a una categoría
+discreta definida a priori (sobre una marcación binaria y contrastiva) en relación con un realis
+presupuesto.
+Esta conceptualización de irrealis nos aporta un marco de referencia amplio y
+graduable que resulta operativo para nuestro recorrido ya que involucra los significados
+codificados en el subjuntivo, aunque también se extiende sobre otros territorios, como el de la
+interrogación o el de la negación, por ejemplo, que no serán analizados en particular por
+ahora.
+124
+Según los datos documentados, los significados que se introducen en el dominio del
+irrealis en el quechua boliviano pueden expresarse mediante (por lo menos) tres
+construcciones sintácticas distintas:
+1- en cláusulas simples, a través de sufijo -man:
+(8) mikhu-n-man
+comer-3S-IRR
+'habría comido
+ka-rqa
+ser-PAS
+2- mediante el sufijo -na-, en el contexto de la nominalización:
+(9) ri-na-n-ta
+muna-ni
+querer-1S
+ir-IRR-3-AC
+quiero que vaya'
+124
+El subjuntivo es el modo de la subordinación. Aparece subordinado a verbos con determinadas características
+semánticas. En muchos casos, su aparición (la del subjuntivo) podría considerarse superflua ya que cualquier
+proposición subordinada a verbos como querer, ordenar y necesitar tendrá estos valores modales/intensionales,
+los marque la lengua con subjuntivo o no. Diferente es el caso del subjuntivo de negación o interrogación, el
+llamado "subjuntivo polar", que tiene valor interpretativo. Como lo que me interesa trabajar es la expresión de la
+modalidad en oraciones principales y subordinadas, me superpongo así al terreno que es cubierto en muchas
+lenguas a través del uso de verbos modales (deber, poder, etc.), el uso de perífrasis de infinitivo (e.g., en
+castellano), además del subjuntivo. Ya que el terreno empírico no es el mismo, el rechazo de la categoría
+"subjuntivo" queda una vez más justificado, aunque más no fuera por esta simple razón.

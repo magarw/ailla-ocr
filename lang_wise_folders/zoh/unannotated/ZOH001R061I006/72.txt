@@ -1,0 +1,64 @@
+ZOH001R0611006.txt
+\SLGL tener asco // to be nauseated by something
+\SLGR NO PASS
+\EXU 1 7ok.m@@x.iin
+\XPSH 1 [7okm@xi*n.]
+\XSP 1 Da asco.
+\XEN 1 It's nauseating.
+\EXU 2 7@y+ max-wa bi p@n bi putz.i=w@j-wa+@7
+\XPSH 2 [7@y m@xx@ bi pan bi putziw@jja.]
+\XSP 2 El hombre le tuvo asco la cosa podrida.
+\XEN 2 The man was nauseated by the smelly garbage.
+\SYN
+\SEMF body
+\ASP state
+\ARG
+\NOM 7ok.m@x.kuy7
+\SUB 7ok.m@x
+\ETYM
+\ETL
+\ROOT m@x
+\RTGR T3
+\DSRC TK94
+\CMTS
+\CMTS CK-EX
+\date 03/Jan/80
+\lex naka7tz
+\_no 00106
+\LG MIG
+\PSH
+\UND naka7tz
+\MB
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG 1 planchar
+\SPG 2 machucar, como fruta
+\SPG 3 aplastar
+\ENG 1 to iron
+\ENG 2 to crush, como fruta
+\ENG 3 to flatten
+\SPL na.ka7tz.7oy
+\SLGR ANTIP
+\SLGL planchar; machucar; aplastar // to iron; to crush; to flatten
+\SPL naka7tz.7@m
+\SLGR PASS
+\SLGL machucarse // to be crushed
+\EXU 1 7@y+ naka7tz-w@ yo't.e7
+\XPSH 1 [7@y+ naka7tztz@ yote7.]
+\XSP 1 Plancho* ropa.
+\XEN 1 She ironed clothes.
+\EXU 2 naka7tz.7@m-w@ bi 7anaxa
+\XPSH 2 [Naka7tztz@mm@ bi 7anaxa.]
+\XSP 2 Esta* mayugada la naranja (machucado por cargar).
+\XEN 2 The orange was mashed (crushed while carried).
+\SYN
+\SEMF break, clean
+\ASP activity, achievement
+\ARG
+\NOM naka7tz.kuy7, naka'tz.e7
+\SUB manh-naka7tz, wax=naka7tz
+\ETYM
+\ETL
+Page 72

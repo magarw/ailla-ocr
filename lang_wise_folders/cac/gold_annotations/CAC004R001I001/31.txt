@@ -1,0 +1,23 @@
+1.
+Esta casa es grande.
+a jun pat tik niwan
+a jun pat tik niwan-ø
+top uno casa dem grande-3B
+Esta casa no es grande.
+a jun pat tik man niwanok laj
+
+a jun pat tik man niwan-ø-ok laj
+top uno casa dem neg grande-3B-IRR neg
+Esta casa es chica.
+a jun pat tik yunenhej
+a jun pat tik y-une-ø-nhej
+top uno casa dem 3A-hijo-3B-sólo
+a jun pat tik jab'tzin
+a jun pat tik jab'tzin-ø
+top uno casa dem chico-3B
+Esta casa no es chica.
+a jun pat tik man yunenhejok laj
+a jun pat tik many-une-ø-nhej-ok laj
+top uno casa dem neg 3A-hijo-3B-sólo-IRR neg
+SINTAXIS
+65

@@ -1,0 +1,60 @@
+\EX ne: nw@jja
+\XSP apesto*
+\XEN it smelled bad
+\ROOT W@j 12
+\SEMF condition, nature, percep
+\CAUS yak.w@j lo hizo a que se apestara
+\CMTS
+\lex wak
+\_no 00365
+\SPG cortar (con cuchillo)
+\ENG to cut (with a knife)
+\EX
+\XSP
+\XEN
+\ROOT w@k T3
+\SEMF cut, instr
+\PASS NONE w@k.7@m *
+\ANTI w@k.7oy
+\PRSV w@k=ten lo tiene cortado
+\CMTS
+\lex w@m
+\_no 00366
+\SPG
+\ENG
+\EX
+\XSP
+\XEN
+\ROOT w@m Tx
+\SEMF sex
+\CMTS get gloss, prob. sexual
+\lex w@nh
+\_no 00367
+\SPG sumirse en - traste de agua, ri*o; hundirse
+\ENG to be submerged in - a dish of water, the river
+\EX wanhnh@ traste d@kka n@jo7
+\XSP se sumio* los traste en el ri*o
+ZOH001R0611010.txt
+\XEN the dishes were submerged in the river
+\ROOT w@nh Ix
+\SEMF position, water
+\CAUS yak.w@nh sumir
+\CMTS
+\lex wat
+\_no 00368
+\SPG romper (tela, papel, etc.)
+\ENG to tear (cloth, paper, etc)
+\EX w@tt@mm@ toto
+\XSP se rompio* el papel
+\XEN the paper was torn
+\ROOT wat T3
+\SEMF break
+PASS w@t.7@m
+\ANTI w@t.7oy
+\CMTS
+\lex w@7t
+\_no 00369
+\SPG tumbar a*rbol; tumbar/derribar palo
+\ENG to fell a tree
+\EX kuyw@7tt@
+Page 82

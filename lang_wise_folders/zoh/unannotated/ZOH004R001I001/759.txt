@@ -1,0 +1,63 @@
+\SPG lavarse la parte done se asorno*
+\ENG to wash the chafed part between the thighs
+\EXU 7@n+ k@.tze'-pa 7@n+ win
+\XPSH [7@n k@tzepan_win.]
+\XSP Me lavo entre las piernas
+\XEN I wash myself between the thighs.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tze7
+\RTGR T3
+\DSRC TK96
+\date 25/Jun/96
+\lex k@.tz@k. '@y
+\_no 01755
+\LG MIG
+\PSH [k@tz@kk@y-]
+\UND k@.tz@k.7@y
+\MB FUERA, hacer, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG ensanchar
+\ENG to deceive one's spouse
+\EXU 7@y+ k@.tz@k. '@y-w@ 7@y+ jaya
+\XPSH [7@y k@tz@kk@yy@ 7@y jaya.1
+\XSP Ensancho* su marido.
+\XEN She deceived her husband.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@k
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 18/Jun/96
+\lex k@.tz@n. '@y
+\_no 01756
+\LG MIG
+\PSH
+\UND k@.tz@n.7@y
+\MB FUERA, sentarse, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG cazar
+\ENG to hunt
+\EXU
+\XSP
+ZOH004R0011001.txt
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tz@n
+\RTGR P, (12)
+\DSRC HAJ94
+Page 759

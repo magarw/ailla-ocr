@@ -1,0 +1,36 @@
+viii
+(lum), water (ha'), or stone (k'en), depending on their nature.
+interr n Interrogative Noun. Several nouns are so marked, including words for the
+questions "Where?," "How?," "When," etc.
+loc n
+Locative nouns form a small set of items that indicate relative locations, e.g.,
+'above', 'below'. As in other Mayan languages and Mesoamerican languages in general, some of
+these are taken from body part nomenclature, and are inflected for possession to indicate the
+reference point: yip'anh 'above (it)', kip'anh 'above us', from 'ip' 'lower abdomen' (presumably
+referring to the upper body as opposed to the legs). Others have no such origin: yalanh 'below it',
+kalanh 'below us'. Similar locational terms that require the use of t'a 'at', are not marked as loc n,
+e.g., tz'ey, next to, t'a stz'ey, next to it; t'a patik, behind (< pat, [one's] back).
+n phrase Noun phrase. Some nominal lexical items consist of more than one word, and
+these are listed as "n phrase."
+Numerals and Numericals
+num
+Numbers are technically a kind of noun (they can, for instance, be possessed to
+form ordinals), and numerical phrases are for the most part noun phrases. However, since they
+constitute a domain of special interest they receive extended treatment. In contrast to many
+modern Mayan languages, the Chuj number lexicon is still in use even for the higher numbers,
+and many derivative expressions are known. Entries for numbers include num stem, numerical
+stem, a combination of morphemes that may be further derived or inflected, and num phrase,
+numerical phrase, constructions involving more than one lexical item.
+num cl
+Numeral classifiers receive special attention. Two kinds of information are given
+when recorded. Since the numeral classifiers are generally recruited from other form classes, the
+grammatical derivation of the numeral classifier is noted. For instance, items marked (4) are
+taken from nouns, usually measures or containers. These categories also relate to whether the
+num cl derived from a verb counts actions (1) or the results of actions (2), and if a following
+noun can be given, whether this noun represents the object of the action or its instrument (a, b,
+etc.).
+The second notation indicates whether it is actions counted (A) or objects (O), and there
+follows a notation that relates to the semantics of the item. Unfortunately, while the notations
+were preserved in the slip files, the guide to the classification has been lost in the intervening half
+century. The interested reader will have to reconstruct the classes by organizing the data.
+Whatever the classes, they were established by sorting tasks with the informant, and should

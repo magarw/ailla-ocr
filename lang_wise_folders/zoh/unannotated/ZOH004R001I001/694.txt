@@ -1,0 +1,63 @@
+\CMTS
+\date 11/Nov/94
+\lex kuy wotz.e
+\_no 01601
+\LG MIG
+\PSH [kuy wotze]
+\UND kuy wotz. E
+\MB madera, aserrar, NOM7
+\VAR
+\GRAM sms
+\SCI
+\USE
+\SPG una madera asserada
+\ENG a sawed board
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wotz
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 07/Feb/96
+\lex kuy wotz. kuy7
+\_no 01602
+\LG MIG
+\PSH [kuy wotzkuy7]
+\UND kuy wotz.kuy7
+\MB madera, aserrar, INSTR1
+\VAR
+\GRAM inst1
+\SCI
+\USE
+\SPG sierra (para cortar madera)
+\ENG saw
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT wotz
+\RTGR T1
+\DSRC HAJ94
+\CMTS
+\date 12/Aug/94
+\lex kuy wox-pa+a7k p@n
+\_no 01603
+\LG MIG
+\PSH [kuy woxpa*7k p@n]
+\UND kuy wox-pa +P@7k p@n
+\MB palo, raspar, INC, REL,
+\VAR kuy=wox-pa+7pv p@n
+\GRAM agt1
+\SCI
+\USE
+ZOH004R0011001.txt
+hombre
+Page 694

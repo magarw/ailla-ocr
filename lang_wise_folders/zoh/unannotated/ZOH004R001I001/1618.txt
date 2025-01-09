@@ -1,0 +1,63 @@
+\SLGL torcerse // to be twisted
+\SPL wi7t.7oy
+\SLGR ANTIP
+\SLGL torcer (otro) // to twist (someone else)
+\SLGR NO ASSUM1
+\EXU 1 7@y+ wi7t-w@ bi laxu kuy+g@xi
+\XPSH 1 [7@y wi7tt@ bi laxu kuyg@xi.]
+\XSP 1 Enredo* el mecate sobre el palo.
+\XEN 1 He twisted the rope around the tree.
+\EXU 2_7@y+ wi7t.jay-w@ bi piyu' 7@y+_wintu7
+\XPSH 2 [7@y wi7tjayy@ bi piyuy wintu7.]
+\XSP 2 Torcio* el pescuezo de la gallina.
+\XEN 2 She wrung the chicken's neck.
+\SYN
+\SEMF arrange
+\ASP activity, achievement
+\ARG patient
+\NOM 7anh.wi7t.i, wi7t='anh.wak.'oy.kuy7, laxu=wi7t.'oy.kuy7, wi7t.naanh
+\SUB 7anh.wi7t, ni.wi7t, wi7t=7anh.wak, wi7t='anh.kam, wi7t-pak
+ETYM
+\ETL
+\ROOT wi7t
+\RTGR T2
+\DSRC HAJ94
+\CMTS
+\date 03/Jan/80
+\DATE 03/Jan/1980
+\lex wi7t.naanh
+\_no 03767
+LG MIG
+\PHO [wi7tna*nh]
+\UND wi7t.naanh
+\MB torcer, MED
+\VAR
+\GRAM meas
+\SPG una torcida
+\ENG one twist
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT wi7t
+\RTGR T2
+\DSRC HAJ95
+\CMTS
+\DATE 03/Jan/1980
+ZOH004R0011001.txt
+\lex wi7t-pak
+\_no 03768
+LG MIG
+\PSH [wi7tpak-]
+\UND wi7t-pak
+\MB torcerse, apretarse
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG apretar atornilla*ndolo
+\ENG to tighten by twisting
+\EXU
+\XSP
+\XEN
+Page 1618

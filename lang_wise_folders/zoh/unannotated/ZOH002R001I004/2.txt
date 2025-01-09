@@ -1,0 +1,97 @@
+Español
+ATRAS
+BNF
+CAUS
+CEL
+COM
+dCOM
+nCOM
+CONFAC
+DCT1
+DCT2
+DCT3
+DEF
+DEM
+DEPOS
+DIR 1
+DIR2
+DIR3
+DIR4
+DIR5
+DIR6
+DIR7
+DIS
+BAJO
+DUBIT
+EXP
+CARA
+FIRST
+HORT
+IERG
+SI
+Zoque
+həš.
++go?
+yak.
+.(pak)pə
+-wƏ
+-E
+-wƏ
+pinək
+yə
+te
+ka
+bi
+.də
+.way
++həəŋ/heeŋ/haaŋ/
+hənaŋ/
+henaŋ/hanan
++hiin
++honan
++tǝəŋ/hoon
++?aŋhə?
++7aŋhənan
++?aŋhəəŋ
+geta
+?ok.
+.bə?
+=tayu
+win.
+.co/c
+-taan
+ney
+bi?t
+xxi
+Descripción
+directional prefix: back
+benefactive
+causative
+celeritive
+completive
+dependent completive.
+negative completive
+contrafactual
+proximal deictic
+neutral deictic
+distal deictic
+definite article
+suffix that attaches to deictics
+forming a pronoun
+depositive
+directional: (out) from
+directional: over there
+directional: from
+directional: from
+directional: over to where X is
+directional: towards
+directional: towards
+disbelief
+directional prefix: down
+dubitative
+postpound: expert
+directional prefix: face
+suffix: first
+(ex)hortative
+first person inclusive ergative
+subordinator: if

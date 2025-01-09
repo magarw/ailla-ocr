@@ -1,0 +1,65 @@
+\ARG patient
+\NOM kux.naanh
+\NOM kux.kuy7 (chistoso puede ser el pie recogido)
+\RTGR P
+me doblo* mi pie
+(TX)
+\POS da kuxjayy@n manhkuy7
+\POS (like a masseuse)
+\MID
+\UNDO 7@n kuxpuw@n manhkuy7
+\CLZ
+\CMTS
+\lex k@.manh.'@y
+\_no 00136
+\SPG subir
+\ENG to go up
+\SEMF move_self
+\ASP activity
+\ARG direction
+\NOM k@.manh. '@y.A7
+\RTGR (P I1)
+\POS
+\MID NO
+\UNDO NO
+\CLZ
+\CMTS
+\lex k@nh [1]
+\_no 00137
+\SPG pintar
+\ENG to paint
+\SEMF clean
+\ASP activity
+\ARG
+\NOM win-k@w.i7
+\RTGR T3
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex k@nh [2]
+\_no 00138
+\SPG 1 cocerse
+\SPG 2 madurarse
+\SPG 3 quemarse
+\ENG 1 to get cooked
+\ENG 2 to mature or ripen
+\ENG 3 to get burned
+\SEMF cook, nature
+\ASP activity
+\ARG
+\NOM k@w.i7, k@nh.kuy7, *naanh
+\RTGR 12
+\POS N
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex k@7t
+\_no 00139
+\SPG moler
+-
+ZOH001R0611002.txt
+para tortillas
+Page 34

@@ -1,0 +1,63 @@
+\UND yak.p@7t.jay
+\MB CAUS, pasar, APPL
+\VAR
+\GRAM indir:caus1
+\SCI
+\USE
+\SPG pasarle; traducir
+\ENG to translate
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT p@7t
+\RTGR 11
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yak.ta7kx. 'oy
+\_no 04097
+\LG MIG
+\PSH [yakta7kxoy-]
+\UND yak.ta7kx. 7oy
+\MB CAUS, alumbrarse, ANTIP
+\VAR
+\GRAM antip:caus2
+\SCI
+\USE
+\SPG prender la luz; alumbrarse
+\ENG to turn on the light; for light to shine
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT ta7kx
+\RTGR 12
+\DSRC HAJ94
+\CMTS
+\date 29/Jan/96
+\lex yak. tan
+\_no 04098
+\LG MIG
+\PSH [yaktan-]
+\UND yak. tan
+\MB CAUS, completar
+\VAR
+\GRAM caus2
+\SCI
+\USE
+\SPG completar
+\ENG to finish
+\EXU 7@y+ yak. tan-w@ jemji
+\XPSH [7@y yaktann@ jemji.]
+ZOH004R0011001.txt
+\XSP Lo completo* todo.
+\XEN She finished everything.
+\SYN
+Page 1761

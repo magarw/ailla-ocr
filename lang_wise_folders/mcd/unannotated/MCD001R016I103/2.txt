@@ -1,0 +1,50 @@
+22 ari nai badia
+ari nai badi-a
+LOC ciel << se regrouper »>-ACC
+dans le ciel lointain, ils se sont rassemblés
+23 //badiamu ifofo//
+badi-a-mu ifo-fo
+« se regrouper »-ACC-EXIST1 maître-PL
+les maîtres se sont rassemblés
+24 //ua cudu daquima
+ua cudu daqui-ma-a
+1PERS.A dessin « être dessus »-CAUS-ACC
+<<
+ils m'ont couvert de dessins
+25 ua cudu daquimanaino//
+ua cudu daqui-ma-na-aino
+1PERS.A dessin « être dessus »-CAUS-REC-ACT.SIM
+ils m'ont couvert de dessins
+26 ahuun rabi shinadi
+ahuun rabi shina-di
+3POSS rabi penser-PASL
+ils pensèrent leurs chants rabi
+27
+un shinacudi
+un shina-acu-di
+1PERS.N penser-CIRC-PASL
+je pensai en tournoyant
+28 //ari mana aria//
+ari mana a-ri-a
+LOC plateau AUX.TR-ITE-ACC
+j'ai à nouveau pensé sur le lointain plateau
+29 mana ari badia
+mana ari badi-a
+plateau LOC << se regrouper »>-ACC
+ils se sont rassemblés sur le lointain plateau
+30 badiamu ifofo
+badi-a-mu ifo-fo
+<< se regrouper »-ACC-EXIST1 maître-PL
+les maîtres se sont rassemblés
+31 //cudu ifo bishtifo//
+cudu ifo bishti-fo
+dessin maître petit-PL
+les petits maîtres aux dessins
+32 //chai ohua baiti//
+chai fleur couronne
+la couronne de fleur de cactus
+33 ahuun cudu basonu
+ahuun cudu ba-so-nu
+3POSS dessin tête-LOC-ERG
+leurs dessins sur la tête
+42

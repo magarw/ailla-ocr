@@ -1,0 +1,62 @@
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex je7p
+\_no 00058
+\SPG pescar con manta
+\ENG to fish with a cloth
+\SEMF hunt
+\ASP activity
+\ARG instrument
+\NOM je7p.kuy7
+\RTGR P, (T3)
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex jetz
+\_no 00059
+\SPG rascar
+ENG to scratch
+\SEMF scrape, hand
+\ASP activity
+\ARG instrument
+\NOM * kuy7 (solamente la mano), jetz.naanh
+\RTGR T3
+\POS da jetzjayy@n kuptuku7
+\MID
+\UNDO N
+\CLZ
+\CMTS
+\lex jey [1]
+\_no 00060
+\SPG batir (masa)
+\ENG to beat (masa)
+\SEMF cook, corn
+\ASP activity
+\ARG agent, patient
+\NOM jey.kuy7
+\RTGR P, (T3)
+\POS
+\MID
+\UNDO
+\CLZ
+\CMTS
+\lex ji7i
+\_no 00061
+\SPG grun-ir perro
+\ENG for a dog to growl
+\SEMF animal, sound
+\ASP activity
+\ARG
+\NOM
+\RTGR IX
+\POS
+\MID
+ZOH001R0611002.txt
+\UNDO
+\CLZ
+me rasco* la espalda
+Page 15

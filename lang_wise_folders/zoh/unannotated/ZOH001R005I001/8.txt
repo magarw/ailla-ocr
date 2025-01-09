@@ -1,0 +1,78 @@
+\mb 7@y n@m -jay -w@ bi p@n
+\sg1 3E decir-APPL-COM DEF hombre
+\egl 3E say -APPL-COM DEF man
+\zoq
+7@y_n@mjayy@ bi p@n,
+\fts Le dijo el sen~or,
+\fte He said to the man,
+\com
+\idx
+\ref ZOH001R005 033
+\_no 00034
+\tx tey
+\mb te
+si nippa
+mas;
+-pa mas
+\sg1 DCT2-TMP si sembrar-INC mas
+\eg1 DCT2-TMP if sow
+-INC more
+-Y si nip
+\zoq "Tey si nippa mas,
+\fts "Ahora si siembra ma*s,
+\fte "Now indeed you can sow more,
+\com
+\idx
+\ref ZOH001R005 034
+\_no 00035
+\tx sim
+\mb si-7@m nip
+-t@7
+\sg1 si-2E sembrar-querer-INC
+\egl if-2E SOW
+-want -INC
+nipt@pa;
+\zoq sim nipt@pa.
+\fts si quieres sembrar.
+teji
+\fte if you want to sow.
+\com
+\idx
+\ref ZOH001R005 035
+\_no 00036
+\tx tej
+\mb
+yaja
+ya -ja7
+-j@7 n@m
+ZOH001R0051001.txt
+-ра
+n@mpa;
+\zoq Teji y@ja," nampa.
+\fts Aqui* esta*,
+dice.
+²
+\fte Here it is, he says.
+\com
+\idx
+"I
+-ра
+\sgl hay
+DCT1-LOC1 decir-INC
+\egl there is DCT1-LOC1 say -INC
+\ref ZOH001R005 036
+\_no 00037
+\tx 7@y 7ok7@7tz7@7tzw@yy@
+bi
+mok;
+\mb 7@y 7ok -7@7tz -7@7tz -w@y
+-way -wa bi mok
+\sg1 3E ABAJO-vomitar-vomitar-DEPOS-COM DEF mai*z
+\egl 3E DOWN -vomit - vomit -DEPOS-COM DEF corn
+\zoq 7@y 7ok7@7tz7@7tzw@yy@ bi mok.
+\fts Lo gomito* el maiz.
+\fte He vomited up the corn.
+\com
+\idx
+\ref ZOH001R005 037
+Page 8

@@ -1,0 +1,63 @@
+\PSH [winnakatze-]
+\UND win-naka=tze7
+\MB CARA, cuero, lavar
+\VAR winnaktze
+\GRAM vi:incorp
+\SCI
+\USE
+\SPG lavarse la cara
+\ENG to wash your face
+\EXU
+\XSP
+\XEN
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT tze7
+\RTGR T3
+\DSRC HAJ94
+\CMTS
+\date 11/Feb/96
+\lex win-nek-kep. '@y
+\_no 03713
+\LG MIG
+\PSH [winnekkepp@y-]
+\UND win=nek=kep.7@y
+\MB CARA, estivar, patear, SUF
+\VAR
+\GRAM vt
+\SCI
+\USE
+\SPG tropezar
+\ENG to stumble over
+\EXU 7@n+ win-nek-kep. '@y-w@
+\XPSH [7@n winnekkepp@yy@.]
+\XSP Lo tropece*
+\XEN I stumbled over it.
+\SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT 1 nek
+\RTGR 1 TX
+\ROOT 2 kep
+\RTGR 2 T1
+\DSRC HAJ95
+\CMTS
+\date 11/Feb/96
+ZOH004R0011001.txt
+\lex winnu7
+\_no 03714
+\LG MIG
+\PSH
+\UND winnu7
+\MB
+\VAR winnu7 t@m
+\GRAM SS
+\SCI
+\USE
+\SPG zapote negro; sapodilla; zapote mico o prieto
+\ENG a type of tree
+\EXU
+Page 1595

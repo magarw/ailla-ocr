@@ -1,0 +1,74 @@
+\zoq "Ja, 7@m tze7opa."
+\fts "si*, esta s lavando.
+\fte "Yes, you're washing."
+\com
+\idx
+\ref ZOH001R044 004
+7@y m@7
+\_no 00005
+\tx ke
+bweno d@x
+d@n tzepa
+\mb ke 7@y m@7
+bweno d@x d@n tze7 -pa
+\sg1 que 3E esposa bueno 1Prn XE lavar-INC
+\egl that 3E wife good 1Prn XE wash -INC
+\zoq Ke 7@y m@7 bweno d@x dan tzepa.
+\fts Su mujer bueno yo lo voy a lavar.
+\fte That his wife is good, Me, I'm washing.
+\com
+\idx
+\ref ZOH001R044 005
+\_no 00006
+\tx maktaxxanh mudada minn@
+\mb maktaxxanh mudada min
+\sg1 cuatro
+\eg1 four
+-wa
+modada venir-COM
+***
+\ref ZOH001R044 006
+\_no 00007
+\tx 7@n tzepa
+\mb 7@n tze7 -pa
+\sgl 1E
+lavar-INC
+\egl 1E wash -INC
+\zoq "7@n tzepa.
+\fts "voy a lavar.
+\fte "I'll wash.
+\com
+\idx
+ZOH001R0441001.txt
+n@mpa
+n@m -pa
+decir-INC
+come -COM say - INC
+\zoq "Maxtaxxanh mudada minn@," n@mpa.
+\fts "Cuatro modada vino", dice.
+\fte "Four ??? came, she says.
+\com
+\idx
+"I
+\ref ZOH001R044 008
+\_no 00009
+\tx bweno
+\mb bweno
+\sg1 bueno
+\ref ZOH001R044 007
+\_no 00008
+\tx tey
+n@mmo
+n tzew@
+\mb te -Y n@m-7oy 7@n tze7 -w@
+\sg1 DCT2-TMP DO -ANTIP 1E
+lavar-dINC DEF ropa
+\eg1 DCT2-TMP DO -ANTIP 1E wash -dINC DEF clothes
+\zoq Tey n@mmon tzew@ bi yote.
+\fts Ahora estoy lavando la ropa.
+\fte Now I'm washing the clothes.
+\com
+\idx
+bi yote
+bi yote7
+Page 2

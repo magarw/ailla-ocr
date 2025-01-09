@@ -1,0 +1,64 @@
+\LG MIG
+\PHO [yepna*nh]
+\UND yep.naanh
+\MB tener, MED
+\VAR
+\GRAM meas
+SPG una tendida
+\ENG a hanging (of clothes)
+\EX
+\XSP
+\XEN
+\SYN
+\ROOT yep
+\RTGR P (T3)
+\DSRC HAJ95
+\CMTS you hang the clothes on the line. maybe they don't dry that day,
+\CMTS so you have to take them down and put them up again the next day.
+\CMTS each of those days is one yep.naanh
+\DATE 03/Jan/80
+\lex yo' tzun.neenh
+\_no 00101
+\LG MIG
+\PSH [yow@ tzunne*nh]
+\UND yo7 tzun.neenh
+\MB caerse, gotear, MED1
+\VAR
+\GRAM vi+subj
+\SCI
+\USE
+\SPG caer una gota
+\ENG for a drop to fall
+\EXU yo'-wa tum tzun.neenh
+\XPSH [Yow@ tum tzunne*nh.]
+\XSP Cayo* una gota.
+\XEN One drop fell.
+SYN
+\SEMF
+\ETYM
+\ETL
+\ROOT YO7
+\RTGR 12
+\DSRC HAJ94
+\CMTS CK-PH
+\date 03/Jan/80
+ok/OK: TK
+\lex yuk. 7utz.i
+\_no 00102
+ZOH001R0611003.txt
+\LG MIG
+\PSH [yuk7utzi]
+\UND yuk. 7utz. E
+\MB ARR, medir, NOM7
+\VAR
+\GRAM pcp
+\SCI
+\USE
+\SPG medido; una cosa medida y levantada
+\ENG measured; a measured and put-away thing
+\EXU yuk. 'utz.i 7@y+ yuk.p@k-wa
+\XPSH [Yukkutziy yukp@kk@.]
+\XSP Medido lo levanto*.
+\XEN She put it away measured.
+\SYN
+Page 35
